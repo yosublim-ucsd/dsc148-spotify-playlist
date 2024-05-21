@@ -4,13 +4,14 @@
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-182 songs - 5 hr 31 min
+183 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [96 \(Theme\) \- From "96"](https://open.spotify.com/track/0WTNNRu2BvmMA0nqXns1M6) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [96 \(Theme\) \[From "96"\]](https://open.spotify.com/album/0CrFlRG7LkiC9mmJPwWUmL) | 1:15 | 2021-11-01 |  |
 | [Aaku Paaku](https://open.spotify.com/track/3BZjMOscQ9aGf5XoFITnSc) | [Diwacara Thiyagarajan](https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7), [Akshita Merlyn](https://open.spotify.com/artist/6rbQ2p32SsM0ThLmTJSTuO) | [Aaku Paaku \(From "Ripupbury"\)](https://open.spotify.com/album/1TBFlHfyOlpbnqpUhOav7J) | 1:58 | 2023-01-24 | 2023-01-29 |
 | [Aaku Paaku \(From "Ripupbury"\)](https://open.spotify.com/track/5FN1Vt609JJi4zEuHYSNMn) | [Akshita Merlyn](https://open.spotify.com/artist/6rbQ2p32SsM0ThLmTJSTuO), [Diwacara Thiyagarajan](https://open.spotify.com/artist/45WgNFEJv1Bt1Cr3YQPYE7), [AK](https://open.spotify.com/artist/7slw8L86hJbgkPLfY7LZhR) | [Aaku Paaku \(From "Ripupbury"\) \- Single](https://open.spotify.com/album/7GOpiSAq1nmtrmCWkseV2v) | 1:58 | 2023-01-24 | 2023-02-07 |
+| [Ace of Hearts \- From "Ace"](https://open.spotify.com/track/0DQariHK8zf2HYZ7B7h2Cx) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Ace of Hearts \(From "Ace"\)](https://open.spotify.com/album/6jJk7L2xz36cCnqG5gQQCa) | 1:09 | 2024-05-20 |  |
 | [Adhe Nilaa](https://open.spotify.com/track/267xipfa9xKYJsNB7y0RsL) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Varisu Original Sound Track](https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL) | 0:54 | 2023-08-18 | 2023-09-09 |
 | [Agent Tina \- Background Score](https://open.spotify.com/track/60c709iT1oiukRh6eR7K0K) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 0:45 | 2022-07-08 |  |
 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 | 2022-07-08 |  |
@@ -57,7 +58,7 @@
 | [Exotic Queen](https://open.spotify.com/track/4NWq7ZnKsOR2Sfv2XdSo2o) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ponniyin Selvan \- Original Score \(Part\-A\)](https://open.spotify.com/album/7y3bI6blXr4I8l4kKGcBfE) | 1:44 | 2023-08-09 | 2023-08-19 |
 | [Face Off \- Theme](https://open.spotify.com/track/1WP7XtiXrrj9mrk0s4pGxe) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l), [Maria Roe Vincent](https://open.spotify.com/artist/3KrlaLub4zgw8yNCLJq4nC) | [Iru Mugan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6uUbjHmv6CglcQkRnFyBsz) | 2:14 | 2021-11-01 |  |
 | [Fly High](https://open.spotify.com/track/4GdMlF34ijm6kv8Q3Zf6ig) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:02 | 2024-03-17 | 2024-05-16 |
-| [For My boy Ceaser](https://open.spotify.com/track/3QYuyYS1NRchBlcmSkQieH) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 3:16 | 2024-05-15 |  |
+| [For My boy Ceaser](https://open.spotify.com/track/3QYuyYS1NRchBlcmSkQieH) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jigarthanda DoubleX \(Original Score\)](https://open.spotify.com/album/5mOvkOWuNDJ4knaJFMHgRo) | 3:16 | 2024-05-15 | 2024-05-21 |
 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 | 2022-07-08 |  |
 | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/track/3yW4gZOr48Fy1DvGKDz2wj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Antony Das \(From "Leo"\)](https://open.spotify.com/album/5RfVPpQcw0qYFS6I93s9gF) | 0:40 | 2023-08-04 |  |
 | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/track/622DShHXxhC32wnAHbVpuK) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Glimpse of Harold Das \(From "Leo"\)](https://open.spotify.com/album/4XnpLZbKAaScKfvFlRouQ1) | 0:42 | 2023-08-18 |  |

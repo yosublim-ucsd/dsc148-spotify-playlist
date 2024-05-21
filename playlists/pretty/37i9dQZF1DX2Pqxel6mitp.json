@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 85875,
+  "num_followers": 85922,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Love Comin' Down",
-        "url": "https://open.spotify.com/album/0kzGduWwsaqFQ4x4hJS8iS"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 272493,
-      "name": "Two Trains",
-      "url": "https://open.spotify.com/track/1E6zG7BknaI9FQPIhb7o9r"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Heavy Load Blues",
         "url": "https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Love Comin' Down",
+        "url": "https://open.spotify.com/album/0kzGduWwsaqFQ4x4hJS8iS"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 272493,
+      "name": "Two Trains",
+      "url": "https://open.spotify.com/track/1E6zG7BknaI9FQPIhb7o9r"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Shake Sugaree",
         "url": "https://open.spotify.com/album/2d7NDeQW6OjwGtFH32cD3W"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 209400,
       "name": "Shake Sugaree",
       "url": "https://open.spotify.com/track/2oYPKt6eHzJwI9AaILvYl2"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Guitar Blues 101",
-        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy & Junior Wells",
-          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
-        }
-      ],
-      "duration_ms": 273573,
-      "name": "Rollin' and Tumblin'",
-      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Mean Ole Frisco",
         "url": "https://open.spotify.com/album/7flULFzyNizeGByE4WDgnr"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 140906,
       "name": "That's All Right (Mama)",
       "url": "https://open.spotify.com/track/2MErQaq2RPHSoxqmyzQrYR"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Guitar Blues 101",
+        "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy & Junior Wells",
+          "url": "https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t"
+        }
+      ],
+      "duration_ms": 273573,
+      "name": "Rollin' and Tumblin'",
+      "url": "https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+        "name": "Good Morning Mr. Blues",
+        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
+      "duration_ms": 205360,
+      "name": "Good Morning Mr. Blues",
+      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1571,18 +1571,34 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Good Morning Mr. Blues",
-        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Good Morning Mr. Blues",
-      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
-      },
-      "artists": [
-        {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
-        }
-      ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Got to Go Back Home",
         "url": "https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 234473,
       "name": "Got to Go Back Home",
       "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "duration_ms": 222724,
+      "name": "Smoke In Heaven",
+      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Newbury",
-        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
-      },
-      "artists": [
-        {
-          "name": "Emiliano Savini",
-          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
-        },
-        {
-          "name": "Liliana Richter",
-          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Newbury",
-      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Push The Blues Away",
         "url": "https://open.spotify.com/album/7irww8KcLSoJ3r8ZkZTtjC"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 218864,
       "name": "Low Down Dog",
       "url": "https://open.spotify.com/track/1vlQWHt9RoGXUuBqPp0drZ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Newbury",
+        "url": "https://open.spotify.com/album/3SXMSz3qll5B72jOHnQYS3"
+      },
+      "artists": [
+        {
+          "name": "Emiliano Savini",
+          "url": "https://open.spotify.com/artist/46GUtbDolQDzC9WU2gYIqv"
+        },
+        {
+          "name": "Liliana Richter",
+          "url": "https://open.spotify.com/artist/7BaNCwzekjzjD4aRrysKms"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Newbury",
+      "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Go Blues",
+        "url": "https://open.spotify.com/album/1fuJuYNFJ20UoSzh44aCpO"
+      },
+      "artists": [
+        {
+          "name": "Brownie McGhee",
+          "url": "https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC"
+        }
+      ],
+      "duration_ms": 147080,
+      "name": "Confused",
+      "url": "https://open.spotify.com/track/5NxtIDK4XcLJY63pI2S2hX"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Go Blues",
-        "url": "https://open.spotify.com/album/1fuJuYNFJ20UoSzh44aCpO"
-      },
-      "artists": [
-        {
-          "name": "Brownie McGhee",
-          "url": "https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Confused",
-      "url": "https://open.spotify.com/track/5NxtIDK4XcLJY63pI2S2hX"
     },
     {
       "added_at": "2023-11-24 19:23:20",

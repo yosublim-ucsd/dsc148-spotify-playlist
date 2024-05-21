@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Ashira Zamita
 
-218 songs - 14 hr 1 min
+219 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Mundur Perlahan](https://open.spotify.com/track/4WoxEHYd86PQQ9MvauypnV) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Mundur Perlahan](https://open.spotify.com/album/46JONawt8M57m28JCS7EtT) | 4:18 | 2024-05-10 |  |
 | [Nemu \- Live Ska Reggae](https://open.spotify.com/track/3yL8Qo6680rAmIeGmYDJsw) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Nemu \(Live Ska Reggae\)](https://open.spotify.com/album/0TxeX8ZExdhiqzcy2VGKvN) | 5:33 | 2023-08-17 | 2024-03-29 |
 | [Never Let You Go \- From "Mozachiko"](https://open.spotify.com/track/6cqAHYs7EBn7CKIRU3rSmr) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO), [Laze](https://open.spotify.com/artist/1IqTdUbQ33vM6tbV1fiWKZ) | [Never Let You Go \(From "Mozachiko"\)](https://open.spotify.com/album/0LmduZS0xgYxgYN5oCzeCD) | 3:26 | 2023-06-01 | 2024-03-29 |
+| [NGANGGUR](https://open.spotify.com/track/6rxFUsLmRp8Z3KQEfZXZQA) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [NGANGGUR](https://open.spotify.com/album/6PynUUIECeMVsQQiL5DQw5) | 4:14 | 2024-05-20 |  |
 | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/track/1tZMXvm4sgTDpG9BptQei2) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Ninggal Cerito \(Purwokerto\)](https://open.spotify.com/album/3d0aSpkoNMqbygyv6no75f) | 5:20 | 2021-11-25 | 2022-03-25 |
 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 | 2023-06-16 | 2024-03-29 |
 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 | 2023-06-22 | 2024-03-29 |

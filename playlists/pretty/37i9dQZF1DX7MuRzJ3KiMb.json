@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 90227,
+  "num_followers": 90247,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Permanente",
-        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
-      },
-      "artists": [
-        {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
-        }
-      ],
-      "duration_ms": 235044,
-      "name": "Permanente",
-      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 245062,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Permanente",
+        "url": "https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz"
+      },
+      "artists": [
+        {
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+        }
+      ],
+      "duration_ms": 235044,
+      "name": "Permanente",
+      "url": "https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Chula",
         "url": "https://open.spotify.com/album/6yjNFsPUkuj83hBcsF5IhS"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 241045,
       "name": "Chula",
       "url": "https://open.spotify.com/track/0F9QrjcyBNcw258qR1DfHK"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2024-05-16 00:12:45",

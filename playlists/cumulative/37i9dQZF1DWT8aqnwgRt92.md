@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,359 songs - 3 day 13 hr 8 min
+1,360 songs - 3 day 13 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,7 +219,7 @@
 | [Fly Away](https://open.spotify.com/track/60P9cFDj9TMUZpiUc0O1Rm) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [Fly Away](https://open.spotify.com/album/6qe4u576emFA48psNmvU4e) | 3:01 | 2023-04-01 | 2023-04-03 |
 | [Follow You!](https://open.spotify.com/track/6Vz2wRCUC46AFLKcsOctWr) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [Follow You!](https://open.spotify.com/album/6TXA4m00EeLl10QlKW0PZP) | 3:40 | 2023-05-30 | 2023-07-07 |
 | [Follow your arrows](https://open.spotify.com/track/21oF2n3RXx9pUkXC5q1VYz) | [SSGIRLS（歌：笹倉かな）](https://open.spotify.com/artist/5PdAtSCSED44ZWs9eNxUOj) | [Follow your arrows](https://open.spotify.com/album/6p1d06FpoPwDGlCfO28aT1) | 3:41 | 2024-04-16 | 2024-04-24 |
-| [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-01-23 |  |
+| [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 | 2024-01-23 | 2024-05-21 |
 | [Freestyle Lover](https://open.spotify.com/track/2QwawnZ9rdnGhXWd7jJDIx) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [DETONATOR](https://open.spotify.com/album/3Ii5xT9Sreevb2z0eun83F) | 3:44 | 2023-11-07 | 2023-11-16 |
 | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/track/0xALdPJdiAiU1JzkPDaG7L) | [Story of Love](https://open.spotify.com/artist/3LVHQwyhX567rGRU09vt6I) | [FRIENDS \(from "永久少年 Eternal Boys"\)](https://open.spotify.com/album/2rcdKb5IEzwFT0BpzzflwZ) | 3:43 | 2022-10-18 | 2022-10-28 |
 | [Friends Are For](https://open.spotify.com/track/0ZyxK0yMUKlUpBXsYg0cmi) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For](https://open.spotify.com/album/08tOtAc9Wd3ca6vYh5iPVe) | 3:23 | 2023-11-16 | 2024-01-10 |
@@ -1240,6 +1240,7 @@
 | [残機](https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [残機](https://open.spotify.com/album/3wGoYoTJhdbkvn7WZpTqz3) | 3:50 | 2022-10-18 | 2022-12-24 |
 | [気分上々↑↑](https://open.spotify.com/track/4b55RzNokHkNtw0DhmEbdv) | [Kuroneko](https://open.spotify.com/artist/6Tz3nFnN2k3qvsjgJuCO1p), [置鮎龍太郎](https://open.spotify.com/artist/0NPwoqej9GBiSlvZd89GLa) | [テレビアニメ「パリピ孔明」エンディングテーマ「気分上々↑↑」](https://open.spotify.com/album/4ZHduve9XLSCzgzuAEpo91) | 3:51 | 2022-05-28 | 2022-07-15 |
 | [水鏡の世界](https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM) | [堀内まり菜](https://open.spotify.com/artist/1vE4dMMMMjFIwC1eEMTmhP) | [水鏡の世界](https://open.spotify.com/album/0Mj7Pf1tVbtLIICJGwJQG4) | 4:35 | 2022-07-28 | 2022-09-28 |
+| [永久 \-トコシエ\-](https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN), [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [永久 \-トコシエ\-](https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a) | 4:21 | 2024-05-20 |  |
 | [流れ星へ](https://open.spotify.com/track/4H7BFIbTKW66WcCbZZU9Hd) | [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe), [スリーライツ](https://open.spotify.com/artist/6RMcwW6VGECjqfKTPTRZSn), [星野光\(CV.井上麻里奈\)](https://open.spotify.com/artist/2JQNwbQUfwlZ39EHAysZDD), [大気光\(CV.早見沙織\)](https://open.spotify.com/artist/0ceOybSIg6DzdoT4jnZ6Ml), [夜天光\(CV.佐倉綾音\)](https://open.spotify.com/artist/6sgYkuPgjdV9fTgE5kCevR) | [ムーンライト伝説/流れ星へ](https://open.spotify.com/album/5MdWVbXeu39oHNRJAiINiv) | 3:55 | 2023-06-08 | 2023-07-05 |
 | [流線形メーデー](https://open.spotify.com/track/71DWte8P535ethaQrCfX3G) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [流線形メーデー](https://open.spotify.com/album/0e9Jjx1Ah3gI5RoUPOEvmi) | 3:11 | 2022-07-12 | 2022-09-30 |
 | [浄歌](https://open.spotify.com/track/71cNVDcg9JsFCr0hLi7Pj9) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [浄歌](https://open.spotify.com/album/3hCHq9tpguiwxs3j9N373U) | 4:53 | 2022-11-24 | 2023-01-11 |

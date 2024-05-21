@@ -1,6 +1,6 @@
 {
   "description": "The ultimate chilled soundtrack to bring your day to a close.",
-  "num_followers": 375802,
+  "num_followers": 375883,
   "original_name": "Ibiza Sunset",
   "owner": {
     "name": "Spotify",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-03-27 17:38:21",
       "album": {
-        "name": "Going Home, Vol. 1",
-        "url": "https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz"
-      },
-      "artists": [
-        {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
-        }
-      ],
-      "duration_ms": 217366,
-      "name": "Comfort",
-      "url": "https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE"
-    },
-    {
-      "added_at": "2024-03-27 17:38:21",
-      "album": {
         "name": "Is It True (Four Tet Remix)",
         "url": "https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 325805,
       "name": "Is It True - Four Tet Remix",
       "url": "https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb"
+    },
+    {
+      "added_at": "2024-03-27 17:38:21",
+      "album": {
+        "name": "Going Home, Vol. 1",
+        "url": "https://open.spotify.com/album/4emb3mG0Dm5mJtnMdZm0tz"
+      },
+      "artists": [
+        {
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Comfort",
+      "url": "https://open.spotify.com/track/2BmB9dEutF0cDtI5IbT8IE"
     },
     {
       "added_at": "2024-03-27 17:38:21",

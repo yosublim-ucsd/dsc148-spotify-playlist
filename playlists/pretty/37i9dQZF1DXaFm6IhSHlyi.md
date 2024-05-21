@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,590 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,604 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,15 +123,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 113 | [It Scares Me to Death](https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Lore](https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m) | 3:32 |
 | 114 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 |
 | 115 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
-| 116 | [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 |
-| 117 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 116 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
+| 117 | [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 |
 | 118 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 |
 | 119 | [Lost Without You](https://open.spotify.com/track/3QlF2ExmrRP0RM7ffv7y0Q) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Lost Without You](https://open.spotify.com/album/0GNvEDf1HoEeYk6RBXxpn7) | 3:45 |
 | 120 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 |
 | 121 | [Media Tinta](https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t) | [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Media Tinta](https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2) | 3:54 |
-| 122 | [Malay Mo, Tayo](https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw) | 4:34 |
-| 123 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
-| 124 | [Can We Kiss Forever?](https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS) | 3:07 |
+| 122 | [Can We Kiss Forever?](https://open.spotify.com/track/1Av69kr9JitqPWo7WJLS5q) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/1B4ZnEKDAstlatD3ySlsBS) | 3:07 |
+| 123 | [Malay Mo, Tayo](https://open.spotify.com/track/0cMcFcm3YvB8o1yKkYNv0a) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Malay Mo, Tayo](https://open.spotify.com/album/401eCisGwwn6mkEi5A21Iw) | 4:34 |
+| 124 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 125 | [Салют, Вера](https://open.spotify.com/track/4Fs5Rl03jVC7bIsAmiIsys) | [Mona Songz](https://open.spotify.com/artist/4EGgyHCS7Yss2ttVKokdOl) | [Салют, Вера](https://open.spotify.com/album/3maRAd22eum9ttCp4BewNx) | 3:22 |
 | 126 | [Here I Am Again](https://open.spotify.com/track/5CDq3Ekm0E0c23S0mbEELV) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/476k6ufG2tovEGKDHolLSB) | 3:54 |
 | 127 | [Sunset](https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 |

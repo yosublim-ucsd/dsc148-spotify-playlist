@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-136 songs - 4 hr 30 min
+137 songs - 4 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Radiant Reflections](https://open.spotify.com/track/2Wre6c0CZtZi1GG0xcazvC) | [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN) | [Softly Spoken](https://open.spotify.com/album/1osp8EiJsqAv3rhXsKPnt4) | 1:40 | 2024-02-05 |  |
 | [Radiant Solitude](https://open.spotify.com/track/5WHvqd27UB0T8ir0TTe9dh) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Serenade of Stardust](https://open.spotify.com/album/4UaC5YladAxDnolCjmZVZG) | 2:07 | 2024-02-05 |  |
 | [Radiant Whispers](https://open.spotify.com/track/7x6pL1PdXfLBvdD59oVGdx) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enigmatic Stardust](https://open.spotify.com/album/4JJEFC6BdQwBmp7hnoeuQt) | 1:53 | 2024-02-05 |  |
+| [Rainforest](https://open.spotify.com/track/3pgyCl4GpzNTZkWgQxNrTa) | [darecloud](https://open.spotify.com/artist/3CEJ5kBVJx2hrk8bsEf8lp) | [Rainforest](https://open.spotify.com/album/0rU6n5dELpEP9Ahznt9IEW) | 2:00 | 2024-05-20 |  |
 | [Saxophone Silhouette](https://open.spotify.com/track/1u7h5AFUpq4OspXGkr19TO) | [Laidback Lemur](https://open.spotify.com/artist/73N0Bg1onBcJOi5f2ANH3P), [Frosty Flights](https://open.spotify.com/artist/446hvRGtk6F9y03ihPgBlw), [Artsaurus](https://open.spotify.com/artist/7guPdrzfeuTv56h7GxjZF0) | [Sultry Serenade](https://open.spotify.com/album/5jWV1iY9jlCx54ay5dPVNb) | 2:06 | 2024-02-05 |  |
 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 | 2024-02-05 |  |
 | [Serenade of Illusions](https://open.spotify.com/track/3HsJGvmgXfWKM9kxQv2C1d) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Celestial Solitude](https://open.spotify.com/album/7hrNg3GjOTpkp3xSMdhdIO) | 2:03 | 2024-02-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "try and come for her job",
-  "num_followers": 2169042,
+  "num_followers": 2169182,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbWQAAAAADiXlTuH6f76YJMul0c/5Oy",
+  "snapshot_id": "Zkt1pQAAAAB8Qav37+iN2iIUa3RrQ3k2",
   "tracks": [
     {
       "added_at": "2024-05-07 01:08:27",
@@ -89,20 +89,20 @@
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
+      "added_at": "2024-05-20 15:41:01",
       "album": {
-        "name": "ROOM UNDER THE STAIRS",
-        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+        "name": "american jesus",
+        "url": "https://open.spotify.com/album/7D970R6nLDmuw6XlpsceFW"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
         }
       ],
-      "duration_ms": 232380,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
+      "duration_ms": 168899,
+      "name": "american jesus",
+      "url": "https://open.spotify.com/track/6gnjE8oBkosBIEZroEjq4I"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -119,6 +119,22 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "ROOM UNDER THE STAIRS",
+        "url": "https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0"
+      },
+      "artists": [
+        {
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/4266h07udCdZ83jswW10IG"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -169,6 +185,22 @@
       "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
+      "added_at": "2024-05-20 15:41:01",
+      "album": {
+        "name": "PORTALS",
+        "url": "https://open.spotify.com/album/4kI7ZZF6CgDGFTjZNFwXYG"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 267441,
+      "name": "LIGHT SHOWER",
+      "url": "https://open.spotify.com/track/7LFeZYHcY5yEjsd8ExRyZf"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -180,9 +212,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 333986,
-      "name": "L\u2019AMOUR DE MA VIE",
-      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -257,22 +289,6 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 343120,
-      "name": "BLUE",
-      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
-    },
-    {
       "added_at": "2024-05-07 01:08:27",
       "album": {
         "name": "Pretty Little Devil",
@@ -287,6 +303,22 @@
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 333986,
+      "name": "L\u2019AMOUR DE MA VIE",
+      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -355,6 +387,22 @@
       "duration_ms": 181840,
       "name": "HE KNOWS (feat. Lil Nas X)",
       "url": "https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9"
+    },
+    {
+      "added_at": "2024-05-20 16:07:44",
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1367,38 +1415,6 @@
     {
       "added_at": "2024-05-07 01:08:27",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "99 boys",
-        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 146317,
-      "name": "99 boys",
-      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
         "name": "Born To Die (Bonus Track Version)",
         "url": "https://open.spotify.com/album/3TtsWmvFbChKTWIRfa85lS"
       },
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-05-07 01:08:27",
       "album": {
-        "name": "You Don\u2019t",
-        "url": "https://open.spotify.com/album/35cLRFjBHzSSAEKyacty64"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 223927,
-      "name": "You Don\u2019t",
-      "url": "https://open.spotify.com/track/4wxBy0t4F83qVAiHahe6kW"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
         "name": "Forget About Us",
         "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
       },
@@ -1507,22 +1507,6 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-05-07 01:08:27",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2024-05-07 01:08:27",

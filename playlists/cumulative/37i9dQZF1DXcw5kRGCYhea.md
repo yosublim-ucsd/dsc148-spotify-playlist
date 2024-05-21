@@ -4,13 +4,14 @@
 
 > Vibrez au rythme des hits urbains et Afro en feu 🎶
 
-69 songs - 3 hr 32 min
+70 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2024-03-26 | 2024-05-15 |
 | [4MOTION](https://open.spotify.com/track/6ieP0aiCmwen9DShYLJO5r) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [4MOTION](https://open.spotify.com/album/1S5teq1mi2YJxAH1tcB44E) | 3:19 | 2024-03-26 |  |
 | [ADIOS](https://open.spotify.com/track/79714I6JXdiD0qsTDeoNwp) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [ADIOS](https://open.spotify.com/album/4mdCltLodqqsRC9hcCTxCd) | 2:26 | 2024-03-26 |  |
+| [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/track/5jbvKJAsPdwfRocC4GD0tv) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Adrenalina \(feat\. BLANCO, Marracash\)](https://open.spotify.com/album/6aWHd2y7YNkH8GgKAZUkGC) | 2:46 | 2024-05-20 |  |
 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-05-10 |
 | [Akatsuki](https://open.spotify.com/track/3w9OyPSIXaD3kKeFhJoWaR) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Akatsuki](https://open.spotify.com/album/65EesuAKGSKS1PZfLcub5V) | 2:59 | 2024-03-26 |  |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-05-10 |  |
@@ -24,7 +25,7 @@
 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-10 |  |
 | [DAMIRI](https://open.spotify.com/track/6hHjWLmwwZhXc50vdyPGN9) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [DAMIRI](https://open.spotify.com/album/6kyrZ4AE8kkJ4wTPRWg6uA) | 3:58 | 2024-03-26 |  |
 | [Dawk Lya](https://open.spotify.com/track/4JaAz4mEXpAdO8CKjCDjVx) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/4lL3CmSYMLjPq3c2nF9sZL) | 2:28 | 2024-03-26 | 2024-04-19 |
-| [Dawk Lya](https://open.spotify.com/track/1o3HZiLGDq1pp4OXjcQTo5) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/1u0Ay7UasMffHSWkMgyxS5) | 2:28 | 2024-04-18 |  |
+| [Dawk Lya](https://open.spotify.com/track/1o3HZiLGDq1pp4OXjcQTo5) | [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Dawk Lya](https://open.spotify.com/album/1u0Ay7UasMffHSWkMgyxS5) | 2:28 | 2024-04-18 | 2024-05-21 |
 | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/track/05DrM4jF73TZFu1h7sl26w) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [DELLALI \(feat\. Hamza\)](https://open.spotify.com/album/33ibPX6kKMGWXcxNtWYlv7) | 3:02 | 2024-03-26 |  |
 | [Diali](https://open.spotify.com/track/4XO9kZEztAPhjhXMfKXJ5m) | [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [Arabesque Vol\. 3](https://open.spotify.com/album/3fedvxkm2spgp8sq4DJFFX) | 2:46 | 2024-03-26 | 2024-04-16 |
 | [DRAMA](https://open.spotify.com/track/028TQoY1jsSbLp5gUjNXph) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [DRAMA](https://open.spotify.com/album/3eqisrlNJL0vyCAezWELR3) | 3:48 | 2024-03-26 |  |

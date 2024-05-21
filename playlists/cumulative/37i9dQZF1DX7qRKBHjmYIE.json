@@ -12227,6 +12227,24 @@
     },
     {
       "album": {
+        "name": "Tambi\u00e9n de dolor se canta",
+        "url": "https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208057,
+      "name": "Tambi\u00e9n de dolor se canta",
+      "url": "https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj"
+    },
+    {
+      "album": {
         "name": "Lluvia: Rain City Vol.2",
         "url": "https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr"
       },
@@ -13256,7 +13274,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 244856,
       "name": "Una Vida",
       "url": "https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv"

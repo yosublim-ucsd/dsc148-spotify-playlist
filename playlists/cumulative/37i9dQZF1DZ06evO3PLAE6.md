@@ -4,7 +4,7 @@
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 32 min
+62 songs - 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Luka](https://open.spotify.com/track/6JlFTEQrVMz4uVDfhVk2gk) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:33 | 2023-06-17 | 2023-07-16 |
 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 | 2023-06-17 |  |
 | [Monkey On A Wire](https://open.spotify.com/track/7noOxZuNKyPn9mJCZFv3zr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:06 | 2023-06-17 |  |
-| [Not Pretty Enough](https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:19 | 2023-06-17 |  |
+| [Not Pretty Enough](https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:19 | 2023-06-17 | 2024-05-21 |
+| [Nullarbor Song](https://open.spotify.com/track/2YsYJWQmFnuHybbVsHQSs1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:27 | 2024-05-21 |  |
 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 | 2023-06-17 |  |
 | [Once In A While](https://open.spotify.com/track/1fzDuszdizZnbNYWFxoWzd) | [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:37 | 2023-06-17 |  |
 | [Pony](https://open.spotify.com/track/78xEO4qUV8ZgMA5TqYbF0L) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:42 | 2023-06-17 |  |
@@ -62,7 +63,7 @@
 | [True Colours](https://open.spotify.com/track/6aRJ3Z7TpCpj58CjOwSSh2) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [True Colours](https://open.spotify.com/album/2vlKm70T2lTLawrgDGaK7v) | 3:47 | 2023-06-17 | 2024-05-14 |
 | [Walk a Country Mile](https://open.spotify.com/track/08VoYX7KPDwl4TAj5z6aQh) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/0fP6sL5Q937oEJ5IawnlBM) | [The 25th Anniversary Album](https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy) | 3:46 | 2023-06-17 |  |
 | [Water In The Fuel](https://open.spotify.com/track/1LbTU7V7cis87D7qgyAD4u) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 4:43 | 2024-01-07 | 2024-01-09 |
-| [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 | 2023-12-22 |  |
+| [Wayward Angel](https://open.spotify.com/track/0cfzJyWKIa9bYdkeTSHaH1) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 5:00 | 2023-12-22 | 2024-05-21 |
 | [We're All Gonna Die Someday](https://open.spotify.com/track/4Yzt8bQMvDk2YfKamGLAxR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:09 | 2023-06-17 |  |
 | [When We’re Both Old & Mad](https://open.spotify.com/track/4dx684GtAUi86s1bzstO65) | [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Songs From The South: Paul Kelly's Greatest Hits 1985\-2019](https://open.spotify.com/album/3LeZDyDDPmgUZpQgIfrB1a) | 2:22 | 2023-06-17 |  |
 | [Whispering Voice](https://open.spotify.com/track/6KrH808OiGT7HiwofPkOEo) | [Ash Grunwald](https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Mojo](https://open.spotify.com/album/7yFK6PyTCAEdb0FY16TwXS) | 2:55 | 2023-06-17 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 543438,
+  "num_followers": 543504,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Psychosis",
-        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
-      },
-      "artists": [
-        {
-          "name": "Kore-G",
-          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
-        }
-      ],
-      "duration_ms": 206653,
-      "name": "Psychosis",
-      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "The Hook",
         "url": "https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 285217,
       "name": "The Hook",
       "url": "https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Psychosis",
+        "url": "https://open.spotify.com/album/7cjcBj7AU1oySLuCN4XJgH"
+      },
+      "artists": [
+        {
+          "name": "Kore-G",
+          "url": "https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Psychosis",
+      "url": "https://open.spotify.com/track/5jiqaaUn7jcCxw2jdvlFWE"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK"
-      },
-      "artists": [
-        {
-          "name": "MARKZ",
-          "url": "https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Carmen",
         "url": "https://open.spotify.com/album/3HyqFSLXxS6DDeGxYlZdEF"
       },
@@ -1435,22 +1419,18 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK"
       },
       "artists": [
         {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+          "name": "MARKZ",
+          "url": "https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB"
         }
       ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
+      "duration_ms": 172173,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1471,6 +1451,26 @@
       "duration_ms": 397241,
       "name": "Shambava - Original Mix",
       "url": "https://open.spotify.com/track/4WoJNl3FOrDq0czljYXoCG"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+        }
+      ],
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2023-11-25 18:30:00",

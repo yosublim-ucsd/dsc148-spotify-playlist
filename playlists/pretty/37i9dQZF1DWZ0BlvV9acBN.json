@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Oficina G3",
-  "num_followers": 136504,
+  "num_followers": 136540,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "1000 Graus",
         "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Castelo Forte (Ao Vivo)",
-        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
         {
-          "name": "AtituD",
-          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
         }
       ],
-      "duration_ms": 223440,
-      "name": "Castelo Forte - Ao Vivo",
-      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+        "name": "Castelo Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q"
       },
       "artists": [
         {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+          "name": "AtituD",
+          "url": "https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p"
         }
       ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+      "duration_ms": 223440,
+      "name": "Castelo Forte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
+        }
+      ],
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Dia De Milagres",
         "url": "https://open.spotify.com/album/5HAEqBs5oAlXReyhPPYYsQ"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 251707,
       "name": "O que o c\u00e9u come\u00e7a o c\u00e9u termina - Ao Vivo",
       "url": "https://open.spotify.com/track/2G8YIlCvrzyoTUxODWWWBw"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
-        }
-      ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Peregrino",
+        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
+      },
+      "artists": [
+        {
+          "name": "PG",
+          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Peregrino",
+      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Falhas (Ao Vivo)",
         "url": "https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Peregrino",
-        "url": "https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG"
-      },
-      "artists": [
-        {
-          "name": "PG",
-          "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Peregrino",
-      "url": "https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "Agora Eu Vivo Teu Amor",
-        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
-      },
-      "artists": [
-        {
-          "name": "Stone Worship",
-          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
-        }
-      ],
-      "duration_ms": 190519,
-      "name": "Agora Eu Vivo Teu Amor",
-      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Que o Cordeiro Receba (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3o5ypx5amOeFcUF7F2xsYe"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "Agora Eu Vivo Teu Amor",
+        "url": "https://open.spotify.com/album/32ZRNqlaLU1i87f73nuEvO"
+      },
+      "artists": [
+        {
+          "name": "Stone Worship",
+          "url": "https://open.spotify.com/artist/5os8iRRBrrRuvfN85jnuIf"
+        }
+      ],
+      "duration_ms": 190519,
+      "name": "Agora Eu Vivo Teu Amor",
+      "url": "https://open.spotify.com/track/7xZmvwdTsv3Yn8iCTsaVl0"
     },
     {
       "added_at": "2024-05-10 03:01:00",

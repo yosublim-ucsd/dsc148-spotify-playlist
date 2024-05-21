@@ -4,7 +4,7 @@
 
 > The soundtrack to your summer featuring the iconic City Splash 2024 line up.
 
-140 songs - 7 hr 51 min
+141 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2023-05-15 | 2024-05-04 |
 | [Dub Mind](https://open.spotify.com/track/4OAttQIaX5RYF6p2H7eFXf) | [Vibronics](https://open.spotify.com/artist/1nLw9CVpFRIjloeNQZteT3), [Improvisators Dub](https://open.spotify.com/artist/3FeLzkegaxYPuue8MPtmAN), [Iration Steppas](https://open.spotify.com/artist/0wDFiWgPfBeW7x5kVPBYTW) | [The French Connection: EP 2](https://open.spotify.com/album/6hShoKo6s19Y25mjr4AKqa) | 3:51 | 2024-05-03 |  |
 | [Dumebi](https://open.spotify.com/track/0SjQBdIddPvKSWxr8vk6QX) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rema](https://open.spotify.com/album/4l8Gg5qk0QodyJ12SNtdUf) | 2:59 | 2023-05-15 | 2024-04-03 |
+| [Earn It](https://open.spotify.com/track/3Yv38EBFAlnoacyma2VRAF) | [Mehka](https://open.spotify.com/artist/4IFIFCPegZ7Q7hPFn05ZYr) | [Earn It](https://open.spotify.com/album/6gtW3yKtSTxKAd5x0PA3St) | 2:22 | 2024-05-20 |  |
 | [Earthman Style](https://open.spotify.com/track/0OWHZQvXpLbZfHjYWNXKks) | [O.B.F](https://open.spotify.com/artist/604A4NoZD6dhL4VPfv2wB5), [Iration Steppas](https://open.spotify.com/artist/0wDFiWgPfBeW7x5kVPBYTW) | [Revelation Time](https://open.spotify.com/album/5pa3KhxCXVrPpIuQY9jKB2) | 3:38 | 2024-05-03 |  |
 | [Energy](https://open.spotify.com/track/1ubY35d8LtYvMHsgPo8pMc) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Energy](https://open.spotify.com/album/4Mp9Bl0tEW4uvhai8cMhmD) | 2:56 | 2023-05-15 | 2024-04-03 |
 | [Energy](https://open.spotify.com/track/6iH3aLFWxvjl4XfoDPfpNP) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/3ecvu0AVEQIUFEIrC2Cjgb) | 2:37 | 2024-05-03 |  |

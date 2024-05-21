@@ -2,13 +2,13 @@
 
 ### [This Is Banda Rafaga](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4s7DZn)
 
-> This Is Banda Rafaga\. Los temas esenciales, todos en una lista.
+> This is Banda Rafaga\. The essential tracks, all in one playlist.
 
 109 songs - 6 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25 Horas al Dia](https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:06 | 2022-11-20 | 2024-05-20 |
+| [25 Horas al Dia](https://open.spotify.com/track/2AiYgkx1P9mmZNvC64sfnW) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:06 | 2022-11-20 |  |
 | [Aca Entre Nos](https://open.spotify.com/track/2GTh342TXtGwUWf9PRBKXP) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 3:28 | 2023-06-05 | 2024-01-19 |
 | [Acá Entre Nos](https://open.spotify.com/track/5T16vHkpTCicWVmQTOMw4m) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Medias Negras](https://open.spotify.com/album/2H4kDjp9o09GAy3BYh61dr) | 3:31 | 2022-06-01 | 2023-05-03 |
 | [Al Ver Que Te Vas](https://open.spotify.com/track/5itRE7txzHA6KVh3YYqq7D) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [No Le Digas a Nadie](https://open.spotify.com/album/7BCtUlBeAMEfqUnQayCSSO) | 3:10 | 2022-06-01 | 2022-08-27 |
@@ -22,7 +22,7 @@
 | [Bota Y Tambora](https://open.spotify.com/track/6Xr8tCaYqmOhnbicXfZJHL) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 4:22 | 2022-06-01 |  |
 | [Brinquito](https://open.spotify.com/track/3v8nP78dVokQOUkABtUKBR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [LLegaste A Mi Vida](https://open.spotify.com/album/7i0tEg5t19kUfUI0ZB9oYb) | 3:25 | 2022-06-01 |  |
 | [Carola \(En Vivo\)](https://open.spotify.com/track/3Z5Z9x4pwlSM2OG2cccr5c) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 5:01 | 2022-06-01 | 2022-08-26 |
-| [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 | 2022-08-27 |  |
+| [Carola \- En Vivo](https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 6:54 | 2022-08-27 | 2024-05-21 |
 | [Chica Morena](https://open.spotify.com/track/0PZaUXCznCRq1efUqKXLbx) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:59 | 2022-06-01 | 2023-11-11 |
 | [Como Esos Amantes](https://open.spotify.com/track/3VuLKZImxOy2bpMaA6ECB0) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Lágrimas Del Corazón](https://open.spotify.com/album/69OJ2MI81EAxVs7alXIX82) | 3:29 | 2022-06-01 | 2023-12-14 |
 | [Como Me Dolió Tu Adiós](https://open.spotify.com/track/6ftWmU96nKeUc8yvNcCHig) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 2:54 | 2022-06-01 |  |

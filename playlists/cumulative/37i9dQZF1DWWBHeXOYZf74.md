@@ -4,7 +4,7 @@
 
 > Genre\-less\. Quality first always\. Cover: NxWorries
 
-2,518 songs - 5 day 21 hr 26 min
+2,519 songs - 5 day 21 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1939,6 +1939,7 @@
 | [Sexy 2](https://open.spotify.com/track/7bqrh2IOMOnLgRWjadYpvA) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k), [Taylor Skye](https://open.spotify.com/artist/4fsQyHWKED0KhPzgQBPWh2) | [I<3UQTINVU](https://open.spotify.com/album/6dBMy5XXlOdEvj59IJC1WH) | 3:32 | 2023-11-10 | 2024-01-20 |
 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 | 2021-09-10 | 2022-01-29 |
 | [Shame \(with Elmiene\)](https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Shame](https://open.spotify.com/album/2o4dcRZUBuseVy8omv6CaO) | 2:32 | 2023-09-29 | 2023-12-16 |
+| [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 | 2024-05-20 |  |
 | [She Feels](https://open.spotify.com/track/5krKShHoHc1bBZfZGI0hXh) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [falling or flying](https://open.spotify.com/album/3cCpJc6LhvskN7i9w3WkaA) | 3:12 | 2023-09-29 | 2024-01-13 |
 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 | 2023-07-14 | 2023-09-16 |
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-09-08 | 2024-03-23 |

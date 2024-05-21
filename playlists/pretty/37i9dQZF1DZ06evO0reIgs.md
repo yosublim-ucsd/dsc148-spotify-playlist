@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This is Cynthia Luz\. The essential tracks, all in one playlist.
+> This is Cynthia Luz\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,341 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,338 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Hey Boy](https://open.spotify.com/track/7opmuePHHDBml8hNvrza4R) | [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Do Caos ao Nirvana](https://open.spotify.com/album/6N88vAiBfbbyjNm2JRgE43) | 3:05 |
 | 50 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 
-Snapshot ID: `ZkfvgAAAAAD12/2bA+Oe7f4w+pHdZBZc`
+Snapshot ID: `ZklBAAAAAADioB1BJlKoYl5IxJWXbEyn`

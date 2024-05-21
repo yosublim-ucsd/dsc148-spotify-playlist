@@ -1,6 +1,6 @@
 {
   "description": "Leaders of the new school...Alternative R&B. Cover: Ravyn Lenae",
-  "num_followers": 1373619,
+  "num_followers": 1373576,
   "original_name": "Vanguard",
   "owner": {
     "name": "Spotify",
@@ -849,6 +849,26 @@
       "url": "https://open.spotify.com/track/2eCdZl32tNYS2rPFIwKR8R"
     },
     {
+      "added_at": "2023-12-08 06:22:08",
+      "album": {
+        "name": "I'm Sorry (ft. Lous and The Yakuza)",
+        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        },
+        {
+          "name": "Lous and The Yakuza",
+          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+        }
+      ],
+      "duration_ms": 187282,
+      "name": "I'm Sorry (ft. Lous and The Yakuza)",
+      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
       "added_at": "2024-01-12 05:52:57",
       "album": {
         "name": "NEVER AGAIN",
@@ -885,24 +905,56 @@
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
     },
     {
-      "added_at": "2023-12-08 06:22:08",
+      "added_at": "2024-05-17 06:55:24",
       "album": {
-        "name": "I'm Sorry (ft. Lous and The Yakuza)",
-        "url": "https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9"
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
       },
       "artists": [
         {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
         },
         {
-          "name": "Lous and The Yakuza",
-          "url": "https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R"
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
         }
       ],
-      "duration_ms": 187282,
-      "name": "I'm Sorry (ft. Lous and The Yakuza)",
-      "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+      "duration_ms": 145226,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
+    },
+    {
+      "added_at": "2024-05-10 06:08:33",
+      "album": {
+        "name": "Ten Fold",
+        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 139304,
+      "name": "career day",
+      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "that's how it goes",
+        "url": "https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "duration_ms": 239000,
+      "name": "that's how it goes",
+      "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -927,38 +979,6 @@
       "duration_ms": 194028,
       "name": "too fast",
       "url": "https://open.spotify.com/track/6GZ4qfWtm0xjKPw5EKSdze"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "that's how it goes",
-        "url": "https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap"
-      },
-      "artists": [
-        {
-          "name": "Asal",
-          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
-        }
-      ],
-      "duration_ms": 239000,
-      "name": "that's how it goes",
-      "url": "https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF"
-    },
-    {
-      "added_at": "2024-05-10 06:08:33",
-      "album": {
-        "name": "Ten Fold",
-        "url": "https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 139304,
-      "name": "career day",
-      "url": "https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -997,22 +1017,6 @@
       "url": "https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3"
     },
     {
-      "added_at": "2023-11-03 06:04:27",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 127280,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE"
-    },
-    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Lover\u2019s Rock",
@@ -1029,24 +1033,20 @@
       "url": "https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik"
     },
     {
-      "added_at": "2024-05-17 06:55:24",
+      "added_at": "2023-11-03 06:04:27",
       "album": {
-        "name": "Undecided",
-        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
+        "name": "alone",
+        "url": "https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660"
       },
       "artists": [
         {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        },
-        {
-          "name": "Cautious Clay",
-          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 145226,
-      "name": "Undecided",
-      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
+      "duration_ms": 127280,
+      "name": "alone",
+      "url": "https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1133,6 +1133,22 @@
       "url": "https://open.spotify.com/track/5sr3Cp0w8kIefyKKU3YnnV"
     },
     {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Slow Fade",
+        "url": "https://open.spotify.com/album/5I85tkoofOEByI8VudyLmk"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        }
+      ],
+      "duration_ms": 211102,
+      "name": "Slow Fade",
+      "url": "https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE"
+    },
+    {
       "added_at": "2024-03-29 06:32:26",
       "album": {
         "name": "Make Friends",
@@ -1165,22 +1181,6 @@
       "url": "https://open.spotify.com/track/3VKW1b4IAxKvNoTki0fLIF"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Slow Fade",
-        "url": "https://open.spotify.com/album/5I85tkoofOEByI8VudyLmk"
-      },
-      "artists": [
-        {
-          "name": "Christian Kuria",
-          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
-        }
-      ],
-      "duration_ms": 211102,
-      "name": "Slow Fade",
-      "url": "https://open.spotify.com/track/5GWEfTYjFrHctThz0sfGJE"
-    },
-    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Shame",
@@ -1201,6 +1201,22 @@
       "url": "https://open.spotify.com/track/28Ir6VUbomCsKRYXJDS8pW"
     },
     {
+      "added_at": "2024-05-10 06:08:33",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "TODAY",
@@ -1217,20 +1233,20 @@
       "url": "https://open.spotify.com/track/6osru1Fx1n50mRD8QWI9m1"
     },
     {
-      "added_at": "2024-05-10 06:08:33",
+      "added_at": "2023-12-22 06:56:54",
       "album": {
-        "name": "The Loop",
-        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+        "name": "Lover, You Should\u2019ve Come Over",
+        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
       },
       "artists": [
         {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
         }
       ],
-      "duration_ms": 337565,
-      "name": "State of Mind",
-      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+      "duration_ms": 361175,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
     },
     {
       "added_at": "2024-03-01 07:06:56",
@@ -1251,22 +1267,6 @@
       "duration_ms": 184271,
       "name": "Big Brown Eyes (feat. Orion Sun)",
       "url": "https://open.spotify.com/track/0Bo4PwDaG1wBfV4Syj14Xe"
-    },
-    {
-      "added_at": "2023-12-22 06:56:54",
-      "album": {
-        "name": "Lover, You Should\u2019ve Come Over",
-        "url": "https://open.spotify.com/album/3vOfCeKyiRZBkpoSoHmcbm"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 361175,
-      "name": "Lover, You Should\u2019ve Come Over",
-      "url": "https://open.spotify.com/track/3pmZMUdxIKSu4YBVqGlyLe"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ"
     },
     {
-      "added_at": "2023-12-22 06:56:54",
-      "album": {
-        "name": "ttuctmd",
-        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
-      },
-      "artists": [
-        {
-          "name": "SAFE",
-          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
-        }
-      ],
-      "duration_ms": 120461,
-      "name": "ttuctmd",
-      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Definition of Love",
@@ -1349,20 +1333,20 @@
       "url": "https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2023-12-22 06:56:54",
       "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
+        "name": "ttuctmd",
+        "url": "https://open.spotify.com/album/1ErqwoGil01Xr66CiUxU3u"
       },
       "artists": [
         {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+          "name": "SAFE",
+          "url": "https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz"
         }
       ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
+      "duration_ms": 120461,
+      "name": "ttuctmd",
+      "url": "https://open.spotify.com/track/7bsqStKmTP9TgMESunVxLX"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1381,20 +1365,20 @@
       "url": "https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW"
     },
     {
-      "added_at": "2023-12-01 18:33:21",
+      "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "paralyzed",
-        "url": "https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9"
+        "name": "me and all my niggas",
+        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
       },
       "artists": [
         {
-          "name": "Souly Had",
-          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
         }
       ],
-      "duration_ms": 121440,
-      "name": "paralyzed",
-      "url": "https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL"
+      "duration_ms": 114698,
+      "name": "me and all my niggas",
+      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
       "added_at": "2023-10-20 05:49:35",
@@ -1429,6 +1413,22 @@
       "url": "https://open.spotify.com/track/4nrPp7oq6Rhnbohqji1x71"
     },
     {
+      "added_at": "2023-12-01 18:33:21",
+      "album": {
+        "name": "paralyzed",
+        "url": "https://open.spotify.com/album/2pLMdZ6fSfEHkduFOLmZp9"
+      },
+      "artists": [
+        {
+          "name": "Souly Had",
+          "url": "https://open.spotify.com/artist/20WmX0l9JgOpehDOAXY6iO"
+        }
+      ],
+      "duration_ms": 121440,
+      "name": "paralyzed",
+      "url": "https://open.spotify.com/track/5mJN7OPMym5RU7iODPV7SL"
+    },
+    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Pixie Dust",
@@ -1443,22 +1443,6 @@
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Supa Anxious",
-        "url": "https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8"
-      },
-      "artists": [
-        {
-          "name": "Cruza",
-          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "Supa Anxious",
-      "url": "https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1481,6 +1465,22 @@
       "url": "https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Supa Anxious",
+        "url": "https://open.spotify.com/album/1zKd9oSyXg4tTf2VePtRV8"
+      },
+      "artists": [
+        {
+          "name": "Cruza",
+          "url": "https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "Supa Anxious",
+      "url": "https://open.spotify.com/track/3t2st5RjfWaXGD5Ko3Rc0a"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Right now!",
@@ -1495,22 +1495,6 @@
       "duration_ms": 114056,
       "name": "Right now!",
       "url": "https://open.spotify.com/track/1lZlW5sarv3iIRluQGcFYj"
-    },
-    {
-      "added_at": "2024-03-08 14:32:25",
-      "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
       "added_at": "2023-06-16 04:53:14",
@@ -1563,6 +1547,22 @@
       "duration_ms": 235630,
       "name": "Star",
       "url": "https://open.spotify.com/track/2QKzMseogTEJuEqVkESSUS"
+    },
+    {
+      "added_at": "2024-03-08 14:32:25",
+      "album": {
+        "name": "Sweet Boy Pt. 2",
+        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Sore Throat",
+      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
       "added_at": "2023-12-22 06:56:54",
@@ -1621,26 +1621,6 @@
       "url": "https://open.spotify.com/track/60yKLmHERaj5dSqHHc8HKh"
     },
     {
-      "added_at": "2024-02-16 05:21:53",
-      "album": {
-        "name": "it\u2019s not you, it\u2019s me",
-        "url": "https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA"
-      },
-      "artists": [
-        {
-          "name": "N3WYRKLA",
-          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 305006,
-      "name": "not enough (with Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX"
-    },
-    {
       "added_at": "2023-03-24 04:00:00",
       "album": {
         "name": "in visions",
@@ -1659,6 +1639,26 @@
       "duration_ms": 174769,
       "name": "Endless Sky (feat. greek)",
       "url": "https://open.spotify.com/track/1q3IPJtWFRfUNaRGEGGVQa"
+    },
+    {
+      "added_at": "2024-02-16 05:21:53",
+      "album": {
+        "name": "it\u2019s not you, it\u2019s me",
+        "url": "https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA"
+      },
+      "artists": [
+        {
+          "name": "N3WYRKLA",
+          "url": "https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 305006,
+      "name": "not enough (with Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX"
     },
     {
       "added_at": "2023-09-08 07:23:12",
@@ -1729,26 +1729,6 @@
       "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
     },
     {
-      "added_at": "2024-02-09 06:30:29",
-      "album": {
-        "name": "Carelessly Doomed (feat. Kota the Friend)",
-        "url": "https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO"
-      },
-      "artists": [
-        {
-          "name": "Chanel Loren",
-          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
-        },
-        {
-          "name": "Kota the Friend",
-          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
-        }
-      ],
-      "duration_ms": 189713,
-      "name": "Carelessly Doomed (feat. Kota the Friend)",
-      "url": "https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu"
-    },
-    {
       "added_at": "2022-10-07 04:01:00",
       "album": {
         "name": "All For You",
@@ -1787,6 +1767,26 @@
       "duration_ms": 190222,
       "name": "Believe (feat. Johan Lenox)",
       "url": "https://open.spotify.com/track/5e9ruquVWWxR0rvX3rkSxc"
+    },
+    {
+      "added_at": "2024-02-09 06:30:29",
+      "album": {
+        "name": "Carelessly Doomed (feat. Kota the Friend)",
+        "url": "https://open.spotify.com/album/1wMeUoSh49hCsM0ayZDjTO"
+      },
+      "artists": [
+        {
+          "name": "Chanel Loren",
+          "url": "https://open.spotify.com/artist/50D6HQtMzB5fH7eXFA3tJK"
+        },
+        {
+          "name": "Kota the Friend",
+          "url": "https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX"
+        }
+      ],
+      "duration_ms": 189713,
+      "name": "Carelessly Doomed (feat. Kota the Friend)",
+      "url": "https://open.spotify.com/track/6Ey8YJdrWxTFaD66Krb9Pu"
     },
     {
       "added_at": "2024-02-09 06:30:29",
@@ -2105,26 +2105,6 @@
       "url": "https://open.spotify.com/track/7z9P0n2bE8m7a4git46PHM"
     },
     {
-      "added_at": "2023-11-19 15:52:58",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
-      },
-      "artists": [
-        {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
-        },
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "Closer",
-      "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
-    },
-    {
       "added_at": "2024-05-03 04:03:47",
       "album": {
         "name": "Nothing 2 See",
@@ -2155,6 +2135,26 @@
       "duration_ms": 231533,
       "name": "STEREO DRIVER",
       "url": "https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU"
+    },
+    {
+      "added_at": "2023-11-19 15:52:58",
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6sLawiJo2c2YoL2hzBW5Vm"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        }
+      ],
+      "duration_ms": 235066,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/3ZG7FzfuejHiekD67PtGb7"
     },
     {
       "added_at": "2022-10-14 04:01:00",
@@ -2217,22 +2217,6 @@
       "url": "https://open.spotify.com/track/3S4dS34keJs4DJrvPLLoEw"
     },
     {
-      "added_at": "2023-11-19 15:52:58",
-      "album": {
-        "name": "Good People / Afterhours",
-        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
-      },
-      "artists": [
-        {
-          "name": "Majid Jordan",
-          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
-        }
-      ],
-      "duration_ms": 171858,
-      "name": "Chill Pad Deluxe",
-      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Advantage",
@@ -2247,6 +2231,22 @@
       "duration_ms": 205813,
       "name": "Advantage",
       "url": "https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0"
+    },
+    {
+      "added_at": "2023-11-19 15:52:58",
+      "album": {
+        "name": "Good People / Afterhours",
+        "url": "https://open.spotify.com/album/4uvjayEmk2gpZmel3vSCj4"
+      },
+      "artists": [
+        {
+          "name": "Majid Jordan",
+          "url": "https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk"
+        }
+      ],
+      "duration_ms": 171858,
+      "name": "Chill Pad Deluxe",
+      "url": "https://open.spotify.com/track/1ZUFxryfVf5395tqMWlyRM"
     },
     {
       "added_at": "2024-03-01 07:06:56",
@@ -2381,6 +2381,22 @@
       "url": "https://open.spotify.com/track/7y2odCmGElDDfYzB7a3RCT"
     },
     {
+      "added_at": "2024-05-17 06:55:24",
+      "album": {
+        "name": "NOSEBLEED",
+        "url": "https://open.spotify.com/album/4YkXAws1fvhF38KY386ELR"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 127526,
+      "name": "NOSEBLEED",
+      "url": "https://open.spotify.com/track/4nKQOCFrY9zJ4LRmvRFEHp"
+    },
+    {
       "added_at": "2024-03-29 06:32:26",
       "album": {
         "name": "Slide By",
@@ -2437,26 +2453,6 @@
       "url": "https://open.spotify.com/track/6ThZW4vNLnr0RxsNfNE3wa"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/6PkAatyHeh4ez3Cpkaezqg"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg"
-    },
-    {
       "added_at": "2024-01-26 05:00:00",
       "album": {
         "name": "PHONICS (feat. WESTSIDE BOOGIE & Tempest)",
@@ -2479,6 +2475,26 @@
       "duration_ms": 214200,
       "name": "PHONICS (feat. Tempest & WESTSIDE BOOGIE)",
       "url": "https://open.spotify.com/track/1xsgBPMUrBYyZPMP8RjiWC"
+    },
+    {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/6PkAatyHeh4ez3Cpkaezqg"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "UGOMDN pt. 2 (ft. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/38Y0EZIIgdvTwlgF8n0Czg"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -2517,22 +2533,6 @@
       "url": "https://open.spotify.com/track/1TMNFPRHGWzCaamL1J5geX"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "A Brief Nirvana",
-        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
-      },
-      "artists": [
-        {
-          "name": "Khamari",
-          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
-        }
-      ],
-      "duration_ms": 156573,
-      "name": "Cherry Picking",
-      "url": "https://open.spotify.com/track/4VeI6MsMozpQkLmCI87Bbf"
-    },
-    {
       "added_at": "2024-02-02 11:08:16",
       "album": {
         "name": "Everything Will Be Ok",
@@ -2549,20 +2549,20 @@
       "url": "https://open.spotify.com/track/6U3weHvqJmkdNzeOIioVAS"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2023-05-26 04:00:00",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8"
+        "name": "A Brief Nirvana",
+        "url": "https://open.spotify.com/album/01bSLjnn8QGscvuDqccWFd"
       },
       "artists": [
         {
-          "name": "Pino",
-          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+          "name": "Khamari",
+          "url": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ"
         }
       ],
-      "duration_ms": 201160,
-      "name": "Decisions",
-      "url": "https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE"
+      "duration_ms": 156573,
+      "name": "Cherry Picking",
+      "url": "https://open.spotify.com/track/4VeI6MsMozpQkLmCI87Bbf"
     },
     {
       "added_at": "2023-03-03 05:00:00",
@@ -2581,6 +2581,22 @@
       "url": "https://open.spotify.com/track/0Bh3BVPLMGyeeEKS8LW2ob"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/0ORJdgrpJczH1Etg8OhOP8"
+      },
+      "artists": [
+        {
+          "name": "Pino",
+          "url": "https://open.spotify.com/artist/58DUKFTIbamsxqTHfoofpu"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Decisions",
+      "url": "https://open.spotify.com/track/4BXSRihMONgWl0Df6fHQhE"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "nowhere, fast",
@@ -2595,22 +2611,6 @@
       "duration_ms": 201951,
       "name": "Believe It",
       "url": "https://open.spotify.com/track/34Q2IJkAq6QbRHhEeDWOrl"
-    },
-    {
-      "added_at": "2023-12-08 06:22:08",
-      "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU"
-      },
-      "artists": [
-        {
-          "name": "Troy Javelona",
-          "url": "https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho"
-        }
-      ],
-      "duration_ms": 172040,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA"
     }
   ],
   "unique_name": "Vanguard",

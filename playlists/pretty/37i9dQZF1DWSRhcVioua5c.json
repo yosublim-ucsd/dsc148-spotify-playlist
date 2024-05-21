@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 74932,
+  "num_followers": 74962,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -331,18 +331,18 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
+        "name": "Mas Alla De La Ternura",
+        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+          "name": "Los Changos",
+          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
         }
       ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
+      "duration_ms": 252813,
+      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
+      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Mas Alla De La Ternura",
-        "url": "https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
       "artists": [
         {
-          "name": "Los Changos",
-          "url": "https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         }
       ],
-      "duration_ms": 252813,
-      "name": "Anaranjado - Mas All\u00e1 De La Ternura",
-      "url": "https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk"
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "La Flor",
-        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
-      },
-      "artists": [
-        {
-          "name": "Francisco Benitez",
-          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "La Flor",
-      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "De Barrio",
         "url": "https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 212893,
       "name": "A una Rosa",
       "url": "https://open.spotify.com/track/0e1ffAArZDxgak5mEXdPzD"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "La Flor",
+        "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
+      },
+      "artists": [
+        {
+          "name": "Francisco Benitez",
+          "url": "https://open.spotify.com/artist/6egRIQTuB2wz5MbEBLfncj"
+        }
+      ],
+      "duration_ms": 190113,
+      "name": "La Flor",
+      "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
+        "name": "Quien Me Quita Lo Cantado",
+        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 201427,
+      "name": "Por las costas entrerrianas",
+      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
         "name": "Volver A Verte",
         "url": "https://open.spotify.com/album/14tkcH6vS6AKuOFbGVeyT4"
       },
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
-      },
-      "artists": [
-        {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
-        }
-      ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Tierra Mia",
         "url": "https://open.spotify.com/album/70IwXC5EAQkxGD2wvSNWIK"
       },
@@ -1131,6 +1131,22 @@
       "duration_ms": 268875,
       "name": "Flor Palida",
       "url": "https://open.spotify.com/track/0DHeBd1jgjwlNj98oY61vp"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Por Un Ratito",
-        "url": "https://open.spotify.com/album/2jJRMhgxsmAroQVaVV3QRV"
-      },
-      "artists": [
-        {
-          "name": "La Cantada",
-          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
-        }
-      ],
-      "duration_ms": 157503,
-      "name": "Por Un Ratito",
-      "url": "https://open.spotify.com/track/2DtwHJe8taNPnuWI2I4ehU"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Tonada del viejo amor",
         "url": "https://open.spotify.com/album/2fYUY5jhI1774jp8kIzgih"
       },
@@ -1203,6 +1203,22 @@
       "duration_ms": 278733,
       "name": "Tonada del viejo amor",
       "url": "https://open.spotify.com/track/65D0PzyFvb20eFe6FOzgif"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Por Un Ratito",
+        "url": "https://open.spotify.com/album/2jJRMhgxsmAroQVaVV3QRV"
+      },
+      "artists": [
+        {
+          "name": "La Cantada",
+          "url": "https://open.spotify.com/artist/43JZjapoSHGJCjXhPdKRZb"
+        }
+      ],
+      "duration_ms": 157503,
+      "name": "Por Un Ratito",
+      "url": "https://open.spotify.com/track/2DtwHJe8taNPnuWI2I4ehU"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1251,22 +1267,6 @@
       "duration_ms": 149680,
       "name": "Adi\u00f3s Amor M\u00edo",
       "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
-        "name": "Quien Me Quita Lo Cantado",
-        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 201427,
-      "name": "Por las costas entrerrianas",
-      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Que Tiene de Malo Eso",
-        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 166266,
-      "name": "Que Tiene de Malo Eso",
-      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "No Te Vayas",
         "url": "https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 263993,
       "name": "Antes De Ti",
       "url": "https://open.spotify.com/track/4lCExNr3B8tP17auPWB9Le"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "Que Tiene de Malo Eso",
+        "url": "https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 166266,
+      "name": "Que Tiene de Malo Eso",
+      "url": "https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7"
     },
     {
       "added_at": "2024-05-16 20:48:40",

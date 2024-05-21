@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,379,115 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,379,289 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 94 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 |
 | 95 | [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 |
 | 96 | [ONE OF US](https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:24 |
-| 97 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 |
-| 98 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 |
+| 97 | [Infinite](https://open.spotify.com/track/1aWpVsNjEiqpFvV3KhJiWu) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Infinite](https://open.spotify.com/album/4A0h5fDeSf8P1egJGllKz4) | 2:43 |
+| 98 | [Alone Again](https://open.spotify.com/track/3R6WrsYpIuxJw7ZGHT5w85) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Alone Again](https://open.spotify.com/album/529z8YYjj1Yrib54m9svgq) | 3:48 |
 | 99 | [Unbreakable](https://open.spotify.com/track/0UKIP5PzRX6WY0rURFxxqQ) | [Kingdom Collapse](https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4) | [Unbreakable](https://open.spotify.com/album/2S2fJjhwJknUU0GoBLMrmb) | 2:39 |
 | 100 | [Hate Me](https://open.spotify.com/track/632Xl9n1wHgMKoxD07WZHW) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:02 |
 

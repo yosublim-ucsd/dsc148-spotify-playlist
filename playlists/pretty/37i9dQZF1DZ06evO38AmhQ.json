@@ -1,12 +1,12 @@
 {
-  "description": "This is John Williamson. The essential tracks, all in one playlist.",
-  "num_followers": 20427,
+  "description": "This Is John Williamson. Los temas esenciales, todos en una lista.",
+  "num_followers": 20432,
   "original_name": "This Is John Williamson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADvTpaNF7u5ga/uYZKaYN0n",
+  "snapshot_id": "ZklBAAAAAAADsVfj7Mm6QVnM7H8Pdahh",
   "tracks": [
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J.W.'s Family Album",
-        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Goodbye Blinky Bill",
-      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warragul",
         "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 192240,
       "name": "Amazing Day",
       "url": "https://open.spotify.com/track/4WqwsO0HkaLFNb6rdWt7FR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J.W.'s Family Album",
+        "url": "https://open.spotify.com/album/2N3uKW1fQpsk7R33wHXsaC"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Goodbye Blinky Bill",
+      "url": "https://open.spotify.com/track/1ec2wAxjnu7cr5WHqPHJTD"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hillbilly Road",
-        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Cydi",
-      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Road Thru The Heart",
         "url": "https://open.spotify.com/album/51f2xjO7nDkp1jDevmXH0i"
       },
@@ -515,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hillbilly Road",
+        "url": "https://open.spotify.com/album/5aHA8o7BxsjRQFflSG8RII"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Cydi",
+      "url": "https://open.spotify.com/track/0a6fEDzinYAy6xHwYAnANl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/5aMccnKBVkDleMGLRglrGx"
       },
@@ -559,22 +559,6 @@
       "duration_ms": 158866,
       "name": "Wobbly Boot Hotel",
       "url": "https://open.spotify.com/track/3V4BAoJgTMrOP39LIXhf7Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
-      },
-      "artists": [
-        {
-          "name": "John Williamson",
-          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
-        }
-      ],
-      "duration_ms": 202560,
-      "name": "Dingo",
-      "url": "https://open.spotify.com/track/4RkZxYF4v9mQLsr0bLGGnP"
     },
     {
       "added_at": null,
@@ -695,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chandelier of Stars",
-        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
+        "name": "Warragul",
+        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Keeper of the Stones",
-      "url": "https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt"
+      "duration_ms": 272066,
+      "name": "Ancient Mountains",
+      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warragul",
-        "url": "https://open.spotify.com/album/2NCVm7h6nqijtPmxteTsrl"
+        "name": "Chandelier of Stars",
+        "url": "https://open.spotify.com/album/7vfX3S5EyXnUd5AOUeKQXi"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
         }
       ],
-      "duration_ms": 272066,
-      "name": "Ancient Mountains",
-      "url": "https://open.spotify.com/track/0WC3plwALutG6Rd5nWFNW9"
+      "duration_ms": 225360,
+      "name": "Keeper of the Stones",
+      "url": "https://open.spotify.com/track/6PYxwr2xxfwbH73yWFxfxt"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
       "duration_ms": 218400,
       "name": "Wintergreen",
       "url": "https://open.spotify.com/track/1ANTC4HX8FC1BS6Tz6c6mc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Farts in Caravan Parks",
+        "url": "https://open.spotify.com/album/2rUqoqGrm1mDXeLbSgIBTu"
+      },
+      "artists": [
+        {
+          "name": "John Williamson",
+          "url": "https://open.spotify.com/artist/5kPsbSWuadXAb2wheoVRkf"
+        }
+      ],
+      "duration_ms": 234440,
+      "name": "Old Farts in Caravan Parks",
+      "url": "https://open.spotify.com/track/6xwtfMFUuqJPsfAtWcNwP5"
     }
   ],
   "unique_name": "This Is John Williamson",

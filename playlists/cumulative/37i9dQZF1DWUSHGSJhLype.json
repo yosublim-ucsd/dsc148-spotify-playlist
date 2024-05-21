@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 341408,
       "name": "Melhor Vibe",
       "url": "https://open.spotify.com/track/5brVlCCt8gp4pP0iJOOctj"
@@ -4648,6 +4648,28 @@
       "duration_ms": 193834,
       "name": "Pode Apostar - Ao Vivo",
       "url": "https://open.spotify.com/track/0IDtnboUFETT3X81lLisTk"
+    },
+    {
+      "album": {
+        "name": "Posso Beijar Sua Boca ?",
+        "url": "https://open.spotify.com/album/4mmpyA7NacZC06umlw77zr"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Posso Beijar Sua Boca ?",
+      "url": "https://open.spotify.com/track/2hfFx87JTjkpvlxyeOScMK"
     },
     {
       "album": {

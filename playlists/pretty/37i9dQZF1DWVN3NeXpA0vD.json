@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 25866,
+  "num_followers": 25864,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Continuum",
+        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 201173,
+      "name": "Waiting On the World to Change",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Continuum",
-        "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 201173,
-      "name": "Waiting On the World to Change",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Mind The Moon",
+        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Scarlet Paintings",
+      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "All The Lies",
         "url": "https://open.spotify.com/album/4JFyas1xaX9NnAvRP9DhKF"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Mind The Moon",
-        "url": "https://open.spotify.com/album/3msNbiI057b6ypzeOTjgxJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Scarlet Paintings",
-      "url": "https://open.spotify.com/track/41UBTzyPAbtkge6aWVr7Uy"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1767,6 +1767,30 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Don't Cry For Me (with Jason Derulo)",
+        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 155769,
+      "name": "Don't Cry For Me (with Jason Derulo)",
+      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "Don't Worry Bout Me",
         "url": "https://open.spotify.com/album/45NYaXdS8H4pSXRDLnp7p5"
       },
@@ -1811,30 +1835,6 @@
       "duration_ms": 170498,
       "name": "Dance Again",
       "url": "https://open.spotify.com/track/5sK3o66yupTNIK6gWgzGjf"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Don't Cry For Me (with Jason Derulo)",
-        "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 155769,
-      "name": "Don't Cry For Me (with Jason Derulo)",
-      "url": "https://open.spotify.com/track/0FLwo3U1NrjocfK2FDisrX"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 169092,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "Just Friends",
         "url": "https://open.spotify.com/album/0J9VlRE4GIO7EDkYkIl8YL"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 168982,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/1NzRZ7AosK7ZDumMsZYofo"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0jrUPXjfWwHPD943Bwwm0o"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 169092,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3zzrKCO0OA85eemnlQnQ7c"
     },
     {
       "added_at": "2024-03-01 13:18:16",

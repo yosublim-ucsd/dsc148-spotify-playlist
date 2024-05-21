@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 
 > Even a wallflower can bloom...Listen to the music from Bridgerton, new season now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,110,646 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,754 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [abcdefu](https://open.spotify.com/track/1EWYwWJs8oa2oZnl6WUG5q) | [Vitula](https://open.spotify.com/artist/3ceAuexnCz3CpRRLqDI3jG) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:53 |
-| 2 | [Dynamite](https://open.spotify.com/track/4InMSe7k0NfeNeko4VC5Mg) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:18 |
-| 3 | [Jealous](https://open.spotify.com/track/48qSRomfnylKcw01TNhjFH) | [Shimmer](https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:33 |
-| 4 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
-| 5 | [Happier Than Ever](https://open.spotify.com/track/1L938mqLaWpMMW0rK1r9AD) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 4:45 |
-| 6 | [Snow On The Beach](https://open.spotify.com/track/2R9V7FCHYlhUiusE1lGJ08) | [Atwood Quartet](https://open.spotify.com/artist/4jdwgzrl2k8c9Fu6kIOyUx) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 4:12 |
-| 7 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
+| 1 | [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 |
+| 2 | [abcdefu](https://open.spotify.com/track/1EWYwWJs8oa2oZnl6WUG5q) | [Vitula](https://open.spotify.com/artist/3ceAuexnCz3CpRRLqDI3jG) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:53 |
+| 3 | [Cheap Thrills](https://open.spotify.com/track/5sVPpYTMUQuKL0jC4lQWWO) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:28 |
+| 4 | [Dynamite](https://open.spotify.com/track/4InMSe7k0NfeNeko4VC5Mg) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:18 |
+| 5 | [Jealous](https://open.spotify.com/track/48qSRomfnylKcw01TNhjFH) | [Shimmer](https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 3:33 |
+| 6 | [Happier Than Ever](https://open.spotify.com/track/1L938mqLaWpMMW0rK1r9AD) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 4:45 |
+| 7 | [Snow On The Beach](https://open.spotify.com/track/2R9V7FCHYlhUiusE1lGJ08) | [Atwood Quartet](https://open.spotify.com/artist/4jdwgzrl2k8c9Fu6kIOyUx) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 4:12 |
 | 8 | [Wildest Dreams](https://open.spotify.com/track/2fuiA0FQANMrcr2jXMc0nP) | [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR) | [Bridgerton \(Covers from the Netflix Original Series\)](https://open.spotify.com/album/5zdSoEL5yn9hXs7bJQdnqe) | 3:23 |
 | 9 | [Halo](https://open.spotify.com/track/74N9z23qZd1q3rViChUdB7) | [Caleb Chan](https://open.spotify.com/artist/0YjUXIuubffRMoxE6jvosS), [Brian Chan](https://open.spotify.com/artist/0CRbBSZqPI9g9oNTSYNjCO) | [Queen Charlotte: A Bridgerton Story \(Covers from the Netflix Series\)](https://open.spotify.com/album/7mNtOnVVRglXpqt7ksdjc8) | 2:53 |
 | 10 | [Dancing On My Own](https://open.spotify.com/track/5zn0ihstICpxoC6rXS2P6t) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [Bridgerton Season Two \(Covers from the Netflix Series\)](https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF) | 4:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 99 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 100 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `ZkWu8AAAAADVROBo1M4TgjCCkUUO4HS9`
+Snapshot ID: `ZkuwFQAAAADN4/BTuv6x+IyYQVg/OMrM`

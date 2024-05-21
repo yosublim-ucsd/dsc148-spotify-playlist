@@ -4,7 +4,7 @@
 
 > From the trenches\. Through the streets.<br/>Cover: Seyi Vibes and Bloody Civilian
 
-241 songs - 11 hr 5 min
+242 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Killin Dem \(feat\. Zlatan\)](https://open.spotify.com/track/3a7ziOOO3Cbuv6BMXrj0wU) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:41 | 2022-06-29 | 2023-12-15 |
 | [Koni Baje](https://open.spotify.com/track/4kOKUxm84unlT2VxwEp1pB) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stranger](https://open.spotify.com/album/5XgZB2QHhjbyFduvvHkh0A) | 2:13 | 2023-02-14 | 2023-02-17 |
 | [Kosalabaro](https://open.spotify.com/track/6M5uAfQ1rfLpgPAtl5ArCl) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ika of Africa](https://open.spotify.com/album/7a1ykEG6P58L8iJ4mnDSva) | 3:09 | 2022-11-25 | 2022-12-02 |
-| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
+| [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 | 2024-05-21 |
 | [Kpk \(Ko Por Ke\)](https://open.spotify.com/track/4v9ARraq3gGFPbgfVUyHGa) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Rexxie](https://open.spotify.com/artist/7Brq2wxtsh6RQAqqLDEQON) | [Best of Mohbad](https://open.spotify.com/album/2IIJUXmvz71nOru199lCMl) | 3:11 | 2023-10-20 | 2023-10-27 |
 | [Kpk \(Ko Por Ke\)](https://open.spotify.com/track/5Qwug8jOoTvV4vpgyft0qG) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Rexxie](https://open.spotify.com/artist/7Brq2wxtsh6RQAqqLDEQON) | [InterSpace Presents: Afrobeats October 2023](https://open.spotify.com/album/2pahIIqK0w6esams7reROy) | 3:11 | 2023-10-20 | 2023-10-21 |
 | [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 | 2024-02-09 |
@@ -233,6 +233,7 @@
 | [Turkey Nla](https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Turkey Nla](https://open.spotify.com/album/4tHC1X4o1r1IXzRFsl7dQd) | 3:00 | 2022-11-04 | 2023-04-15 |
 | [Unleash](https://open.spotify.com/track/1dHHDoPwSXpVMQfybFQvqG) | [Poco Lee](https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Unleash](https://open.spotify.com/album/76qUSyLrwAs4EOHrqypy7A) | 2:21 | 2023-09-08 |  |
 | [Van Dijk](https://open.spotify.com/track/5uMdyf3DpUoqMAmgDg291j) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Van Dijk](https://open.spotify.com/album/00w0QmFIi9JPxWqFH3d3cq) | 2:38 | 2023-12-01 | 2023-12-15 |
+| [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 | 2024-05-17 |  |
 | [Wale](https://open.spotify.com/track/0m4sDtOZ1vIIPLgSneozOo) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Wale](https://open.spotify.com/album/2vLIUTSnOYT6kj0dOv5cDK) | 3:06 | 2023-04-14 | 2023-09-29 |
 | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Wale \(Remix\) \[feat\. Simi\]](https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP) | 3:08 | 2024-01-26 |  |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 |  |

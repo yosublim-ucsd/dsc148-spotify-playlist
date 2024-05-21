@@ -2,7 +2,7 @@
 
 ### [This Is Bob Dylan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bqAta)
 
-> This is Bob Dylan\. The essential tracks, all in one playlist.
+> This is Bob Dylan\. Todos os maiores hits em uma só playlist.
 
 108 songs - 7 hr 50 min
 
@@ -20,7 +20,7 @@
 | [Boots of Spanish Leather](https://open.spotify.com/track/6QHYEZlm9wyfXfEM1vSu1P) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 4:37 | 2022-09-24 |  |
 | [Buckets of Rain](https://open.spotify.com/track/5eVjE8FDSDXQLSbTZSA5Qv) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 3:23 | 2022-09-24 |  |
 | [Changing of the Guards](https://open.spotify.com/track/2vVpjZxlSiqR5wr2YeZPB2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Street\-Legal](https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U) | 6:37 | 2022-09-24 |  |
-| [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 | 2023-03-06 |  |
+| [Corrina, Corrina](https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Freewheelin' Bob Dylan](https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek) | 2:41 | 2023-03-06 | 2024-05-21 |
 | [Country Pie](https://open.spotify.com/track/2YehU3jLpb9bM5V6k8HmyA) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 1:35 | 2022-11-21 |  |
 | [Desolation Row](https://open.spotify.com/track/4n1ZGm3TxYmoYe1YR8cMus) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 11:21 | 2022-09-24 | 2022-10-13 |
 | [Dirt Road Blues \- 2022 Remix](https://open.spotify.com/track/6QEmvsAYHNRZ5D7lyq6Nvf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17](https://open.spotify.com/album/145Jtm8B3iZcxttgY9Y5NJ) | 3:34 | 2024-02-19 | 2024-03-11 |
@@ -37,7 +37,7 @@
 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 | 2023-12-13 | 2024-01-22 |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-09-29 |  |
 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:24 | 2022-10-16 | 2024-05-05 |
-| [House of the Risin' Sun](https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 5:09 | 2024-04-27 |  |
+| [House of the Risin' Sun](https://open.spotify.com/track/647lCwgfjMjzeZVEblEq09) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Music Legends Bob Dylan : The Poet's Folk Hits](https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc) | 5:09 | 2024-04-27 | 2024-05-21 |
 | [House of the Risin' Sun](https://open.spotify.com/track/3yFRbFaSj8MeNuYaN21HIu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 5:18 | 2022-09-27 | 2022-10-03 |
 | [Hurricane](https://open.spotify.com/track/1lqMLr9Wj7SM2F9AikGcxN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 8:32 | 2022-09-24 |  |
 | [I Contain Multitudes](https://open.spotify.com/track/5AJT2Tk8mnDEnCtsikWVu2) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:36 | 2022-10-12 | 2023-01-27 |
@@ -91,7 +91,7 @@
 | [Ring Them Bells](https://open.spotify.com/track/1Y3VFY4mkLqMIkqxC51p6l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Oh Mercy](https://open.spotify.com/album/18ue4s9PsV3WBw7kkzD689) | 3:00 | 2022-11-28 | 2024-02-04 |
 | [Romance in Durango](https://open.spotify.com/track/1OT1G66Lt9EpKFWkwK8i9z) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:44 | 2022-09-24 | 2022-10-13 |
 | [Sara](https://open.spotify.com/track/4WbP5AjT2RFb3paBBD2BRM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 5:31 | 2022-09-24 | 2023-01-14 |
-| [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 | 2022-09-24 | 2024-05-20 |
+| [She Belongs to Me](https://open.spotify.com/track/2itBkHBUxGl4VfDj4HNyoD) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:46 | 2022-09-24 |  |
 | [Shelter from the Storm](https://open.spotify.com/track/3y4Uza6K58JXQ7RYya8ZI5) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:01 | 2022-09-24 |  |
 | [Simple Twist of Fate](https://open.spotify.com/track/3wAX3qn53iQUFE84hpfeen) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 4:16 | 2022-09-24 |  |
 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:40 | 2022-09-25 |  |
@@ -101,7 +101,7 @@
 | [Tangled up in Blue](https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:41 | 2022-09-24 |  |
 | [The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 3:06 | 2022-09-24 |  |
 | [The Man in Me \- Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978](https://open.spotify.com/track/04qjnSVsVckWxBCHXRRjlM) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Man in Me \(Live at Nippon Budokan Hall, Tokyo, Japan \- March 1, 1978\)](https://open.spotify.com/album/6eMXx9YBoLXZsdxddviSaz) | 3:51 | 2023-09-21 | 2023-11-11 |
-| [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 | 2022-09-24 | 2024-05-20 |
+| [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 | 2022-09-24 |  |
 | [The Wicked Messenger](https://open.spotify.com/track/3Svsq93gpeXiLrmntFOOYQ) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Shadow Kingdom](https://open.spotify.com/album/1bp23TX5hrEDSDykAaTCkE) | 2:56 | 2023-06-09 | 2023-06-19 |
 | [Things Have Changed \- Single Version](https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Side Tracks](https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY) | 5:07 | 2022-11-11 |  |
 | [To Be Alone with You](https://open.spotify.com/track/7CuCP5OoLH77hJTibZQE4r) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 2:07 | 2022-10-12 |  |

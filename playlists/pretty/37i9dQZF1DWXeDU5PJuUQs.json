@@ -1,6 +1,6 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Ke Personajes.",
-  "num_followers": 143416,
+  "num_followers": 143454,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,18 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "Tu Falta de Querer (En Vivo)",
-        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
       },
       "artists": [
         {
-          "name": "Viru Kumbieron",
-          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
-        },
-        {
-          "name": "Banda XXI",
-          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 196200,
-      "name": "Tu Falta de Querer - En Vivo",
-      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
+      "duration_ms": 75180,
+      "name": "Sabes (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -615,18 +611,22 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+        "name": "Tu Falta de Querer (En Vivo)",
+        "url": "https://open.spotify.com/album/0ORf7W65yurL3oBalZfiJF"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Viru Kumbieron",
+          "url": "https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1"
+        },
+        {
+          "name": "Banda XXI",
+          "url": "https://open.spotify.com/artist/4She1focTkX0pwpJUtS5eo"
         }
       ],
-      "duration_ms": 75180,
-      "name": "Sabes (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/7bGNfa1I1JC99U7tcMOZBk"
+      "duration_ms": 196200,
+      "name": "Tu Falta de Querer - En Vivo",
+      "url": "https://open.spotify.com/track/4ILNfW7djsop5wyLB00W4V"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -723,6 +723,54 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 281234,
+      "name": "Si No Te Hubieras Ido - En Vivo",
+      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
+    },
+    {
+      "added_at": "2024-04-24 15:25:14",
+      "album": {
+        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 131265,
+      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
+      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
+    },
+    {
+      "added_at": "2024-04-24 15:25:14",
+      "album": {
+        "name": "La Misma Cancion (En Vivo)",
+        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
+      },
+      "artists": [
+        {
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "La Misma Cancion (En Vivo)",
+      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
+    },
+    {
+      "added_at": "2024-04-24 15:25:14",
+      "album": {
         "name": "En el Gran Rex (En Vivo)",
         "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
@@ -755,54 +803,6 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "La Misma Cancion (En Vivo)",
-        "url": "https://open.spotify.com/album/0S9y39OgGlIwzrMfrtRokV"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "La Misma Cancion (En Vivo)",
-      "url": "https://open.spotify.com/track/5w8I8OOiD7J5bfPpuFjy8C"
-    },
-    {
-      "added_at": "2024-04-24 15:25:14",
-      "album": {
-        "name": "En Vivo en Joya 2019 (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 131265,
-      "name": "Jurabas Tu (En Vivo)[Remasterizado 2021]",
-      "url": "https://open.spotify.com/track/1q3vbCjsTwCSgkNSmZSEsq"
-    },
-    {
-      "added_at": "2024-04-24 15:25:14",
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 281234,
-      "name": "Si No Te Hubieras Ido - En Vivo",
-      "url": "https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB"
-    },
-    {
-      "added_at": "2024-04-24 15:25:14",
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/67Ty9iopzTNcw0EGggjan6"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
-      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
-    },
-    {
-      "added_at": "2024-04-24 15:25:14",
-      "album": {
         "name": "En Vivo...Hasta la Muerte",
         "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 496146,
       "name": "La Danza del Humo / Llegamos los Pibes Chorros / Mabel",
       "url": "https://open.spotify.com/track/7rAeisif8xqpyYZa8amZXp"
+    },
+    {
+      "added_at": "2024-04-24 15:25:14",
+      "album": {
+        "name": "En Vivo 2019",
+        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 147113,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -883,18 +883,18 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En Vivo 2019",
-        "url": "https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 147113,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ"
+      "duration_ms": 158958,
+      "name": "Te So\u00f1\u00e9 una Vez Mas - En Vivo",
+      "url": "https://open.spotify.com/track/2O0Oi7fiNNpFN44QE2Ov7o"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -931,22 +931,18 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En el Gran Rex (En Vivo)",
-        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        },
-        {
-          "name": "Cartucho",
-          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
         }
       ],
-      "duration_ms": 195973,
-      "name": "Estoy Buscando un Amor - En Vivo",
-      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
+      "duration_ms": 168253,
+      "name": "Duraznito",
+      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -967,18 +963,18 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
       },
       "artists": [
         {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 168253,
-      "name": "Duraznito",
-      "url": "https://open.spotify.com/track/13xbFcvbDsX8ataeaXtInL"
+      "duration_ms": 64017,
+      "name": "Jurabas Tu - En Vivo",
+      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL"
+        "name": "En el Gran Rex (En Vivo)",
+        "url": "https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu"
       },
       "artists": [
         {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+        },
+        {
+          "name": "Cartucho",
+          "url": "https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN"
         }
       ],
-      "duration_ms": 64017,
-      "name": "Jurabas Tu - En Vivo",
-      "url": "https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK"
+      "duration_ms": 195973,
+      "name": "Estoy Buscando un Amor - En Vivo",
+      "url": "https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -1043,6 +1043,22 @@
       "duration_ms": 128072,
       "name": "Me Olvide de Ti - En Vivo",
       "url": "https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ"
+    },
+    {
+      "added_at": "2024-04-24 15:25:14",
+      "album": {
+        "name": "En Vivo...Hasta la Muerte",
+        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 117653,
+      "name": "El Tano Pastita",
+      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
     },
     {
       "added_at": "2024-04-24 15:25:14",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "En Vivo...Hasta la Muerte",
-        "url": "https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 117653,
-      "name": "El Tano Pastita",
-      "url": "https://open.spotify.com/track/6Xk9yjvrPD4UgLqzZc3hVO"
-    },
-    {
-      "added_at": "2024-04-24 15:25:14",
-      "album": {
         "name": "Ay, Amor (En Vivo)",
         "url": "https://open.spotify.com/album/6oYbjZU53uWm8p3vcFTDQZ"
       },
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-04-24 15:25:14",
       "album": {
-        "name": "Estuve Ah\u00ed",
-        "url": "https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM"
+        "name": "Mi Vida (En Vivo)",
+        "url": "https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD"
       },
       "artists": [
         {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
         }
       ],
-      "duration_ms": 194931,
-      "name": "Estuve Ah\u00ed",
-      "url": "https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb"
+      "duration_ms": 483693,
+      "name": "La Ventanita / Beso a Beso",
+      "url": "https://open.spotify.com/track/3rs08x2D6DEQ5kgwZW82qq"
     }
   ],
   "unique_name": "Vivo de Cumbia",

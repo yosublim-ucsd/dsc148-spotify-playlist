@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 83441,
+  "num_followers": 83460,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Stand Up Eight",
-        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
-      },
-      "artists": [
-        {
-          "name": "Thunderstorm Artis",
-          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
-        }
-      ],
-      "duration_ms": 187688,
-      "name": "Stand Up Eight",
-      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "RICH",
         "url": "https://open.spotify.com/album/5P1RmCAG4yB80keglreodA"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Stand Up Eight",
+        "url": "https://open.spotify.com/album/5SagmoKh7rZMshbra8uz4N"
+      },
+      "artists": [
+        {
+          "name": "Thunderstorm Artis",
+          "url": "https://open.spotify.com/artist/46G3SVc0bvgrmNOOTM5KV5"
+        }
+      ],
+      "duration_ms": 187688,
+      "name": "Stand Up Eight",
+      "url": "https://open.spotify.com/track/0xpfVZCEELk5fD8OUmCnJ6"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "GOOD DAY",
-        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "GOOD DAY",
-      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "One Common",
         "url": "https://open.spotify.com/album/278YubPwMAWUmwQK2AIUDd"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 192190,
       "name": "Behind The Scenes",
       "url": "https://open.spotify.com/track/1p3jR91C9jx4jSRIYSrYjB"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "GOOD DAY",
+        "url": "https://open.spotify.com/album/1c3aDzCUaPNNeodENwnuzw"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "GOOD DAY",
+      "url": "https://open.spotify.com/track/4PmQAzVNQBw7n1OpmPvovb"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "Misunderstood",
+        "url": "https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB"
+      },
+      "artists": [
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 209045,
+      "name": "Misunderstood",
+      "url": "https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Captured (with Trulah)",
         "url": "https://open.spotify.com/album/4tk3i1oLFGMjC9shHslFTp"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 312307,
       "name": "Captured - with Trulah",
       "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "Misunderstood",
-        "url": "https://open.spotify.com/album/5gSJCn1pRrda6kv5EPQIyB"
-      },
-      "artists": [
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 209045,
-      "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/0Msp58EKLK7rxTbwQewtdC"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "How I Love You",
-        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
-      },
-      "artists": [
-        {
-          "name": "SHEALY",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Brandon Love",
-          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Your Arms",
         "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 190843,
       "name": "Can I Get a Witness",
       "url": "https://open.spotify.com/track/4wa9fDSypocJR9E08iMkaS"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "How I Love You",
+        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
+      },
+      "artists": [
+        {
+          "name": "SHEALY",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Brandon Love",
+          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 160444,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Ancient of Days",
         "url": "https://open.spotify.com/album/235xnTcdo2OvCNCeglCgHZ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 201666,
       "name": "Ancient of Days",
       "url": "https://open.spotify.com/track/28IzSZqQADlcw7gp10kNVu"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 160444,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/2UiixEqmRMAsyWDniRGVGG"
-      },
-      "artists": [
-        {
-          "name": "Roy Tosh",
-          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
-        },
-        {
-          "name": "Kurtis Hoppie",
-          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/7xoEEjdMrRg1qMtsS1oppK"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "if I can be honest",
         "url": "https://open.spotify.com/album/3u1zyY9ivPRbLi9Am9FkJ8"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 260553,
       "name": "the healing song",
       "url": "https://open.spotify.com/track/5MtRj4Nf4r9hApo2Way93K"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/2UiixEqmRMAsyWDniRGVGG"
+      },
+      "artists": [
+        {
+          "name": "Roy Tosh",
+          "url": "https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye"
+        },
+        {
+          "name": "Kurtis Hoppie",
+          "url": "https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/7xoEEjdMrRg1qMtsS1oppK"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "above a caf\u00e9 in brighton",
-        "url": "https://open.spotify.com/album/4YizAMl3P1FJco1A3irHFw"
-      },
-      "artists": [
-        {
-          "name": "Andrew Osenga",
-          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
-        }
-      ],
-      "duration_ms": 306925,
-      "name": "what a friend we have in jesus",
-      "url": "https://open.spotify.com/track/77TPg4X6dQ5hXCXhhFTnLa"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "You Always Find Me",
         "url": "https://open.spotify.com/album/1sItHcpNhtJnipjsAlasgN"
       },
@@ -2291,22 +2275,18 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+        "name": "above a caf\u00e9 in brighton",
+        "url": "https://open.spotify.com/album/4YizAMl3P1FJco1A3irHFw"
       },
       "artists": [
         {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Andrew Osenga",
+          "url": "https://open.spotify.com/artist/1lJC5MbTUW5ld4yXzNB0H4"
         }
       ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
+      "duration_ms": 306925,
+      "name": "what a friend we have in jesus",
+      "url": "https://open.spotify.com/track/77TPg4X6dQ5hXCXhhFTnLa"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2359,6 +2339,26 @@
       "duration_ms": 261015,
       "name": "All the Way Back",
       "url": "https://open.spotify.com/track/7IVb5aC9nepiHr4BlwLPtN"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144574,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5aQbjjlXcxmMDB4NAaQLms"
       },
@@ -2475,6 +2459,22 @@
       "duration_ms": 335250,
       "name": "My First Love",
       "url": "https://open.spotify.com/track/1Q8bkOacaiYLs4xWME4uAe"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144574,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2024-05-10 04:44:25",
@@ -2531,6 +2531,22 @@
     {
       "added_at": "2024-05-10 04:44:25",
       "album": {
+        "name": "honestly",
+        "url": "https://open.spotify.com/album/1SeuTEIP5GPOmQWHgH8vuc"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "honestly",
+      "url": "https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv"
+    },
+    {
+      "added_at": "2024-05-10 04:44:25",
+      "album": {
         "name": "Candlelight",
         "url": "https://open.spotify.com/album/5TaylRZLl8LZJ9SAccvHQe"
       },
@@ -2547,22 +2563,6 @@
       "duration_ms": 234240,
       "name": "Candlelight",
       "url": "https://open.spotify.com/track/3aIEDekEyK5BOOoLuJNo4C"
-    },
-    {
-      "added_at": "2024-05-10 04:44:25",
-      "album": {
-        "name": "honestly",
-        "url": "https://open.spotify.com/album/1SeuTEIP5GPOmQWHgH8vuc"
-      },
-      "artists": [
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "honestly",
-      "url": "https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv"
     },
     {
       "added_at": "2024-05-10 04:44:25",

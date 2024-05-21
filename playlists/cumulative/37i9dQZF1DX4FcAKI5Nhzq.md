@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: Wonstein
+> Future K\-Pop hits! Cover: NEXZ
 
-1,063 songs - 2 day 10 hr 13 min
+1,064 songs - 2 day 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -754,6 +754,7 @@
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2021-06-16 | 2021-08-25 |
 | [RIDE](https://open.spotify.com/track/6kEZ2GttdwQeAj7lz58vkh) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [RIDE](https://open.spotify.com/album/6IRkfG9VKLl8sil1EgEwvV) | 3:03 | 2021-08-25 | 2021-10-28 |
 | [RIDE](https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj) | [KNK](https://open.spotify.com/artist/5zx2slDKDXNn1e6779RzPd) | [KNK AIRLINE](https://open.spotify.com/album/67o91ctnyaMxfi8OSokpcS) | 3:33 | 2020-10-13\* | 2020-11-16 |
+| [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-20 |  |
 | [Right Now](https://open.spotify.com/track/5bsCLjbCjUN4Jr64D6axKW) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Fireworks](https://open.spotify.com/album/78Wj5wgjcagJSHoePF5Wc4) | 3:40 | 2021-11-24 | 2022-01-17 |
 | [Right Now \(Feat\. Crush\)](https://open.spotify.com/track/4IiSP6seUj7QwhgDgXdS11) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Right Now](https://open.spotify.com/album/0ZTuW8a9YPwlE8SytUyrnN) | 3:02 | 2023-09-21 | 2023-12-13 |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2021-07-06 | 2021-08-25 |

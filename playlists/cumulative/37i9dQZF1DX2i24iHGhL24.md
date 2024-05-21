@@ -4,7 +4,7 @@
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-426 songs - 1 day 0 hr 29 min
+429 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Flowers](https://open.spotify.com/track/2le3X2fuJk9J3tUav1yqT2) | [Mira Housey](https://open.spotify.com/artist/5xb6Nx1wcbMsvyQjN1jKmg) | [Flowers](https://open.spotify.com/album/1yXeX5E13KB2Z7BDRLPPiF) | 2:45 | 2023-04-14 |  |
 | [Forever Young](https://open.spotify.com/track/7IcdktV2A60dCm8nQpm6JN) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Forever Young \(From The McDonald's Christmas Advert 2020\)](https://open.spotify.com/album/1sqgouoD6Dip9KCPMECQuw) | 2:58 | 2021-12-17 |  |
 | [Girl Crush \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/4YutJsNwBBInE8vemufpQ8) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Spotify Singles](https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj) | 4:03 | 2021-12-17 |  |
+| [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-20 |  |
 | [gives you hell](https://open.spotify.com/track/6ur0EUPKCb3YcwqCo04EGF) | [Eva Snyder](https://open.spotify.com/artist/6qwzV9a2lGZLfTmXXhkP4l) | [gives you hell](https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS) | 3:28 | 2022-09-19 | 2022-12-30 |
 | [glimpse of us](https://open.spotify.com/track/2ssJdfI0u93JYpIrxDmxE6) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [glimpse of us](https://open.spotify.com/album/3O5iR8V0ZK340xpIIcUCVQ) | 3:42 | 2022-08-12 | 2023-12-23 |
 | [Go Your Own Way](https://open.spotify.com/track/0DLVUfWdF4MptlOeYQsRkk) | [Cimo Fränkel](https://open.spotify.com/artist/76ftqv1cm1EkrgWiC1pUUV) | [Go Your Own Way](https://open.spotify.com/album/23adg4MHzuH1gjIp6COp5h) | 2:21 | 2022-03-25 | 2022-04-15 |
@@ -383,6 +384,7 @@
 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 | 2021-12-17 | 2022-12-30 |
 | [Time After Time \- From The McDonald’s Christmas Advert 2021](https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Time After Time \(From The McDonald’s Christmas Advert 2021\)](https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm) | 2:43 | 2021-12-17 | 2023-10-17 |
 | [Time After Time \- Spotify Singles](https://open.spotify.com/track/6vQCNDNbA0DQoSPftbzS1W) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Time After Time \(Spotify Singles\)](https://open.spotify.com/album/5lxUTVBhoeeAeleepOsBop) | 3:39 | 2023-10-16 |  |
+| [Time to Pretend \- Spotify Singles](https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [Time to Pretend \(Spotify Singles\)](https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7) | 4:03 | 2024-05-20 |  |
 | [Titanium](https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:47 | 2022-07-08 | 2022-10-29 |
 | [Titanium](https://open.spotify.com/track/7vEX2DuGfeyH2RRV3XZdHJ) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv) | [New Acoustic Sessions, Vol\. 4](https://open.spotify.com/album/6olVyDyIS9W67adbR23ypX) | 3:47 | 2022-03-25 | 2022-07-29 |
 | [Torn](https://open.spotify.com/track/5bE0T0e4BrW8zhlwGR9vWD) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [Torn](https://open.spotify.com/album/2Q2SAVlPW1l56d2jRJsoRi) | 3:25 | 2023-12-22 |  |
@@ -400,6 +402,7 @@
 | [Wanted \(Acoustic\)](https://open.spotify.com/track/1KZaVU9QspHnzNT3NgH9Tg) | [Landon Austin](https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52), [Carmen Justice](https://open.spotify.com/artist/2JrDkW63FG9GotlYtmuwTs) | [Wanted \(Acoustic\)](https://open.spotify.com/album/48VjpRGLXZxgmmTTMTFowz) | 2:18 | 2021-12-17 | 2022-01-22 |
 | [Watermelon Sugar \(featuring Avenue Beat\)](https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y), [Avenue Beat](https://open.spotify.com/artist/1htYtUdXVMwR6HCSs821Lc) | [Spotify Singles](https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs) | 2:57 | 2021-12-17 |  |
 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 |  |
+| [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [we can't be friends \(wait for your love\) \- Spotify Singles](https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0) | 4:05 | 2024-05-20 |  |
 | [We Can't Stop](https://open.spotify.com/track/6owKuyHxUqidcAA6fPKSyy) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Sessions, Vol\. 3](https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4) | 3:42 | 2021-12-17 | 2022-10-29 |
 | [We Can't Stop \(feat\. Bea Miller\)](https://open.spotify.com/track/2PVU8zHILp6jK4Q7W6rkz8) | [Boyce Avenue](https://open.spotify.com/artist/7CQwac16i1W5ej8YpuL3dv), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Cover Collaborations, Vol\. 2](https://open.spotify.com/album/7b6ysbFfaxitbyERtugMcy) | 3:42 | 2021-12-31 | 2022-01-04 |
 | [What's Going On](https://open.spotify.com/track/2sXcrizjiV2OEodm3UmzDf) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [A Blue State](https://open.spotify.com/album/4JQiKpCWF4NXY9dVEnXvzA) | 2:49 | 2021-12-17 | 2023-10-17 |

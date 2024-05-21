@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 12629,
+  "num_followers": 12637,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/0w1j2eMIGeNkRtO4DefPud"
     },
     {
-      "added_at": "2023-05-09 02:40:07",
-      "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Sabresonic",
@@ -251,6 +235,22 @@
       "duration_ms": 256133,
       "name": "Smokebelch II - Beatless Mix",
       "url": "https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM"
+    },
+    {
+      "added_at": "2023-05-09 02:40:07",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -381,20 +381,20 @@
       "url": "https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
+      "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Theory of Colours",
-        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
+        "name": "Royal Astronomy",
+        "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
       },
       "artists": [
         {
-          "name": "Dauwd",
-          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
+          "name": "\u00b5-Ziq",
+          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
         }
       ],
-      "duration_ms": 327576,
-      "name": "Theory of Colours",
-      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
+      "duration_ms": 247373,
+      "name": "Goodbye, Goodbye",
+      "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
     },
     {
       "added_at": "2023-11-23 03:11:19",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
+      "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Royal Astronomy",
-        "url": "https://open.spotify.com/album/6wderqhoGndjyEC1rODumX"
+        "name": "Theory of Colours",
+        "url": "https://open.spotify.com/album/6oIrL0YBYT6T6tXVF3LBVY"
       },
       "artists": [
         {
-          "name": "\u00b5-Ziq",
-          "url": "https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X"
+          "name": "Dauwd",
+          "url": "https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Goodbye, Goodbye",
-      "url": "https://open.spotify.com/track/2P43WROXRRBFqSKd2aSc0o"
+      "duration_ms": 327576,
+      "name": "Theory of Colours",
+      "url": "https://open.spotify.com/track/7nT24kprAb4l7tI5FSd9zU"
     },
     {
       "added_at": "2023-12-22 15:58:35",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Magnetica",
-        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 170826,
-      "name": "Magnetica",
-      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Puzzlewood",
         "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 150289,
       "name": "Years and Elements",
       "url": "https://open.spotify.com/track/7sLQ99cOLqGQ63xKIKPhz2"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Magnetica",
+        "url": "https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 170826,
+      "name": "Magnetica",
+      "url": "https://open.spotify.com/track/2pR9lYypE2a1yEzUKx7JD5"
     },
     {
       "added_at": "2023-02-17 02:19:05",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-17 02:19:05",
       "album": {
-        "name": "Calming Signals",
-        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
-      },
-      "artists": [
-        {
-          "name": "Rich Ruth",
-          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
-        }
-      ],
-      "duration_ms": 306013,
-      "name": "Haynes Manor",
-      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
-    },
-    {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
         "name": "Sculpturegardening",
         "url": "https://open.spotify.com/album/4emr9Zigmx0ZzqXF2FGEs3"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 257862,
       "name": "From The Seams",
       "url": "https://open.spotify.com/track/1JnBldJPPq06C2OPpapjPz"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Calming Signals",
+        "url": "https://open.spotify.com/album/3N2laGpXXnE29bfqpERjsR"
+      },
+      "artists": [
+        {
+          "name": "Rich Ruth",
+          "url": "https://open.spotify.com/artist/3fzSa1ee522CjcS8Fdo7dl"
+        }
+      ],
+      "duration_ms": 306013,
+      "name": "Haynes Manor",
+      "url": "https://open.spotify.com/track/1kcv0g6lPgGBGOPUSofwxq"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1789,22 +1789,6 @@
       "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "\u307f\u305e\u3046\u3075\u304f",
-        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
-      },
-      "artists": [
-        {
-          "name": "\u4e0b\u6751\u771f\u4e00",
-          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
-        }
-      ],
-      "duration_ms": 388373,
-      "name": "Ripples",
-      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Autoditacker",
@@ -1819,6 +1803,22 @@
       "duration_ms": 312800,
       "name": "Sui Shop",
       "url": "https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "\u307f\u305e\u3046\u3075\u304f",
+        "url": "https://open.spotify.com/album/6i7TYq9zinFSMVMHWnri0y"
+      },
+      "artists": [
+        {
+          "name": "\u4e0b\u6751\u771f\u4e00",
+          "url": "https://open.spotify.com/artist/3SdUSWIfgDNcjPXuxM5a97"
+        }
+      ],
+      "duration_ms": 388373,
+      "name": "Ripples",
+      "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1903,6 +1903,38 @@
     {
       "added_at": "2023-02-17 01:53:11",
       "album": {
+        "name": "Kpm 1000 Series: Atmospheres",
+        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
+      },
+      "artists": [
+        {
+          "name": "Ron Geesin",
+          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
+        }
+      ],
+      "duration_ms": 129549,
+      "name": "Jolly Pranks",
+      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
+    },
+    {
+      "added_at": "2023-02-17 01:29:01",
+      "album": {
+        "name": "William Shatner Has Been",
+        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
+      },
+      "artists": [
+        {
+          "name": "William Shatner",
+          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
         "name": "Krautzig",
         "url": "https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0"
       },
@@ -1919,22 +1951,6 @@
       "duration_ms": 247380,
       "name": "Krautzig",
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "Kpm 1000 Series: Atmospheres",
-        "url": "https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u"
-      },
-      "artists": [
-        {
-          "name": "Ron Geesin",
-          "url": "https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa"
-        }
-      ],
-      "duration_ms": 129549,
-      "name": "Jolly Pranks",
-      "url": "https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -1969,22 +1985,6 @@
       "url": "https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ"
     },
     {
-      "added_at": "2023-02-17 01:29:01",
-      "album": {
-        "name": "William Shatner Has Been",
-        "url": "https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT"
-      },
-      "artists": [
-        {
-          "name": "William Shatner",
-          "url": "https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4"
-    },
-    {
       "added_at": "2023-03-29 03:24:26",
       "album": {
         "name": "Bubbles",
@@ -2001,22 +2001,6 @@
       "url": "https://open.spotify.com/track/7s7vBGH4EDmq2WUAQPOOM8"
     },
     {
-      "added_at": "2023-02-17 02:19:05",
-      "album": {
-        "name": "Autoditacker",
-        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 333240,
-      "name": "Tamagnocchi",
-      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
-    },
-    {
       "added_at": "2023-02-17 01:10:22",
       "album": {
         "name": "Bombaclaart",
@@ -2031,6 +2015,22 @@
       "duration_ms": 84955,
       "name": "Bombaclaart",
       "url": "https://open.spotify.com/track/77vBKTetBxPgaxG6qg6yiw"
+    },
+    {
+      "added_at": "2023-02-17 02:19:05",
+      "album": {
+        "name": "Autoditacker",
+        "url": "https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 333240,
+      "name": "Tamagnocchi",
+      "url": "https://open.spotify.com/track/01QJM4L9ysDoikSBKkDLvw"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2067,22 +2067,6 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
-      },
-      "artists": [
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
-        }
-      ],
-      "duration_ms": 304366,
-      "name": "Sister Species",
-      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
-    },
-    {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
         "name": "Dreamy Riot",
         "url": "https://open.spotify.com/album/28pUdUv0W8ChNUkh8gWtUd"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 379266,
       "name": "Nautilus",
       "url": "https://open.spotify.com/track/3LAB79eJTC9M6B39E6GjJx"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC"
+      },
+      "artists": [
+        {
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+        }
+      ],
+      "duration_ms": 304366,
+      "name": "Sister Species",
+      "url": "https://open.spotify.com/track/0xi81plszmA40tDw7cefN1"
     },
     {
       "added_at": "2023-02-17 01:10:22",
@@ -2231,8 +2231,8 @@
     {
       "added_at": "2023-02-17 01:10:22",
       "album": {
-        "name": "Hi Scores",
-        "url": "https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii"
+        "name": "Music Has The Right To Children",
+        "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
       },
       "artists": [
         {
@@ -2240,9 +2240,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 423933,
-      "name": "Everything You Do Is A Balloon",
-      "url": "https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3"
+      "duration_ms": 151520,
+      "name": "Roygbiv",
+      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2392,9 +2392,9 @@
           "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 151520,
-      "name": "Roygbiv",
-      "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
+      "duration_ms": 358080,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
     },
     {
       "added_at": "2023-02-17 01:10:22",

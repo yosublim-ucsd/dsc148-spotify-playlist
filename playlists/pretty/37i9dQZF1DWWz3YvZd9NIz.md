@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best hardstyle remixes of songs you know!
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,279 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,348 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 40 | [BELIEVE](https://open.spotify.com/track/5wbOCSgL2J390XSAv2cagW) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [BassWar & CaoX](https://open.spotify.com/artist/51tt6NkXmo371S9xG4tMHX) | [BELIEVE](https://open.spotify.com/album/4PVQayLg2VKRGKRkCGacjv) | 3:00 |
 | 41 | [Alone, Pt\. II \- Da Tweekaz Remix](https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6) | [Alone, Pt\. II \(Remixes\)](https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X) | 3:42 |
 | 42 | [I'm Good \(Blue\) \- Hardstyle Remix](https://open.spotify.com/track/5YQoeliHU9Iz2La6pgsL9X) | [Kratos](https://open.spotify.com/artist/2cLmM1zENdtfJp509rPpjs), [Hardstyle Gym Bro](https://open.spotify.com/artist/2uaMkR476GI5XRCrHEZ32G) | [I'm Good \(Blue\) \[Hardstyle Remix\]](https://open.spotify.com/album/6ve23uImjwV76ljprYJHSZ) | 2:31 |
-| 43 | [One Kiss \(Hardstyle\)](https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV) | [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [One Kiss \(Hardstyle\)](https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl) | 2:45 |
-| 44 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 43 | [Die Young](https://open.spotify.com/track/1isZhPC9z1VTquJRmm0HAP) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Die Young](https://open.spotify.com/album/5a5kgDxJd3thpkFig5xpCy) | 2:30 |
+| 44 | [One Kiss \(Hardstyle\)](https://open.spotify.com/track/2sNrZEAGLRQ7iDtXf5WsuV) | [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [One Kiss \(Hardstyle\)](https://open.spotify.com/album/1mMXaL9ODZKbtfy0T5KlHl) | 2:45 |
 | 45 | [I Won't Let You Down](https://open.spotify.com/track/6UgApPDQAu7C4DlMKegr07) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Miss Geist](https://open.spotify.com/artist/48ImEzvNyazjXPOsjaYnu2) | [I Won't Let You Down \(feat\. Miss Geist\)](https://open.spotify.com/album/0YVnmtb2Wgv8Y8Ys2tAB3M) | 2:48 |
 | 46 | [What's Up?](https://open.spotify.com/track/2Sdpn0xjNKuWdfdccdvFnl) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0) | [What's Up?](https://open.spotify.com/album/2KzqXQI4UMfDoVAoT9f26Z) | 3:12 |
 | 47 | [Vois Sur Ton Chemin \- Hardstyle](https://open.spotify.com/track/2mVgDjPX3OzJ0EP1Y5cSWa) | [Bern\-AT & WARLEX](https://open.spotify.com/artist/4fNQc6qV93iAsDV4kxeQAf), [Enmity](https://open.spotify.com/artist/0vMdRm1cBKsEK2vn1RY1Dh), [crypvolk](https://open.spotify.com/artist/2fXtzvF2KPVENaAqFgicXS) | [Vois Sur Ton Chemin \(Hardstyle\)](https://open.spotify.com/album/2ZmO15M5AqVAnO4zrVbeXR) | 3:59 |

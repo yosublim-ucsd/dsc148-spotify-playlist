@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Norah Jones & Remi Wolf",
-  "num_followers": 460762,
+  "num_followers": 460767,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Don't Worry Baby",
+        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 180468,
+      "name": "Don't Worry Baby",
+      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "The Covers",
         "url": "https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 196537,
       "name": "Love Hurts",
       "url": "https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Don't Worry Baby",
-        "url": "https://open.spotify.com/album/5I1YyRxt5Gy6hptZI4fcVw"
-      },
-      "artists": [
-        {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
-        }
-      ],
-      "duration_ms": 180468,
-      "name": "Don't Worry Baby",
-      "url": "https://open.spotify.com/track/0nR0ejXiTIg57q07kTL5ZL"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Lennon Bermuda",
         "url": "https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 143547,
       "name": "Norwegian Wood",
       "url": "https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 152885,
-      "name": "I Think We\u2019re Alone Now",
-      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Singing Other People's Love Songs",
         "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 136891,
       "name": "This Will Be Our Year",
       "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/5Uww2FfuPrPKdX7XfAyRGb"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 152885,
+      "name": "I Think We\u2019re Alone Now",
+      "url": "https://open.spotify.com/track/2NAY99q4qBsdJVDD3JDtLG"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Black Star",
+        "url": "https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z"
+      },
+      "artists": [
+        {
+          "name": "Gillian Welch",
+          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
+        }
+      ],
+      "duration_ms": 318853,
+      "name": "Black Star",
+      "url": "https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/0s6uYTYfUTkTqAamELsOiZ"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 251057,
       "name": "Muzzle of Bees (with Jeff Tweedy) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/351445Kofxc3BN2T27beOv"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Black Star",
-        "url": "https://open.spotify.com/album/7hAXiMrqFN4LbEWD3hNE3Z"
-      },
-      "artists": [
-        {
-          "name": "Gillian Welch",
-          "url": "https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz"
-        }
-      ],
-      "duration_ms": 318853,
-      "name": "Black Star",
-      "url": "https://open.spotify.com/track/2SSBZMg2XdTC7vXBi0Ewkp"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        },
+        {
+          "name": "Alynda Segarra",
+          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
+      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -1535,26 +1555,6 @@
       "duration_ms": 259077,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/0yxOcUVUgmck4FySMWbSea"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-        "url": "https://open.spotify.com/album/0dcJkKvyM4XcvbrxSGI769"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        },
-        {
-          "name": "Alynda Segarra",
-          "url": "https://open.spotify.com/artist/2Rt01SKPHcPjFVzApytiow"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Drunken Angel (with Alynda Segarra) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
-      "url": "https://open.spotify.com/track/4m9oSo6rpKVnIf0yLoSfuU"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1711,26 +1711,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Black Eyed Dog",
-        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        },
-        {
-          "name": "Rhiannon Giddens",
-          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
-        }
-      ],
-      "duration_ms": 168779,
-      "name": "Black Eyed Dog",
-      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Color of the Blues (feat. Susan Tedeschi)",
         "url": "https://open.spotify.com/album/0nlgiEuFFxXlc5vlDL3gr0"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 174626,
       "name": "Color of the Blues (feat. Susan Tedeschi)",
       "url": "https://open.spotify.com/track/3PD8oSUFfmtPTz7Xm5uTN4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Black Eyed Dog",
+        "url": "https://open.spotify.com/album/3YKqcMhqAYrG90RKveNVkj"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        },
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "duration_ms": 168779,
+      "name": "Black Eyed Dog",
+      "url": "https://open.spotify.com/track/0ZRZ1iLy8QVnRs7SiSPIJ9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Live Forever: A Tribute To Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
-        }
-      ],
-      "duration_ms": 171480,
-      "name": "You Asked Me To",
-      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "good 4 u / Dooley's Farm (Spotify Singles)",
         "url": "https://open.spotify.com/album/65mrgLaC6S4drN9PoJRxKm"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 216343,
       "name": "good 4 u - Spotify Sessions",
       "url": "https://open.spotify.com/track/3ruHm5bxqfPnAO14kYGvFx"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Live Forever: A Tribute To Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/357DuDjcyqJ0wHxX4uPPL4"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+        }
+      ],
+      "duration_ms": 171480,
+      "name": "You Asked Me To",
+      "url": "https://open.spotify.com/track/3REizsPkpELxQkvl9EZNiE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Elliot Greer Presents: Barebones I",
-        "url": "https://open.spotify.com/album/5jsVeQDD8XgW5hAEaBM9GA"
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
       },
       "artists": [
         {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 202788,
-      "name": "Vampire (Side A)",
-      "url": "https://open.spotify.com/track/2lGJtzntgzGN96xpouP9ry"
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     }
   ],
   "unique_name": "Folksy Covers",

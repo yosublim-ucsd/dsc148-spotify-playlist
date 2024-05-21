@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,259 likes - 46 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,260 likes - 46 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,19 +30,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 20 | [Prima Emosfera](https://open.spotify.com/track/6fgz4BRCyxBEnCrnOATDup) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 4:57 |
 | 21 | [Perdonare](https://open.spotify.com/track/5Mwkk3HnI4LV6NQiotFfqc) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 4:52 |
 | 22 | [BATTICUORE](https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:15 |
-| 23 | [Retaliation](https://open.spotify.com/track/5kScxhOPotAJiwbKWbM5NN) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:00 |
+| 23 | [Immediate Horizon 2](https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:07 |
 | 24 | [Sesta Emosfera](https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 7:43 |
-| 25 | [Perdere](https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 6:16 |
+| 25 | [Aspettare](https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:19 |
 | 26 | [MOMENTI](https://open.spotify.com/track/6eLxFBOAUkoru90HVkacyO) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:59 |
-| 27 | [Immediate Horizon 2](https://open.spotify.com/track/2V1cuZ6Hn8CxRWaKFOANNs) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:07 |
+| 27 | [Splinter Hell](https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 4:06 |
 | 28 | [Seconda Emosfera](https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 5:38 |
-| 29 | [Aspettare](https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:19 |
+| 29 | [Perdere](https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 6:16 |
 | 30 | [Doggie Tattoo](https://open.spotify.com/track/2SCZ9BIG8enHSTKbRsZfPG) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 5:47 |
 | 31 | [Immediate Horizon 3](https://open.spotify.com/track/6smKelrD4IAbrF2APLgoEe) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 8:47 |
 | 32 | [Terza Emosfera](https://open.spotify.com/track/45f3DBQNeenVkDNSvMfc9q) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Emosfere](https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb) | 6:54 |
 | 33 | [Vincere](https://open.spotify.com/track/2J1H4mInsooNYoukRPFj4l) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:27 |
 | 34 | [B1](https://open.spotify.com/track/0tgKuqVOLUlZtgO7RaD1yf) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 4:40 |
-| 35 | [Sun](https://open.spotify.com/track/7676v3sYbrRj3gMncWzuvg) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 5:13 |
+| 35 | [Water](https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 8:47 |
 | 36 | [Immediate Horizon 1](https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 4:59 |
 | 37 | [Nonfare](https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:38 |
 | 38 | [CORRI](https://open.spotify.com/track/5AFHQZ2mgLhyk8MzY5z4X2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:17 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 45 | [NESSUNO](https://open.spotify.com/track/31wrcWjDXqJG1ix2GgHlyu) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 8:10 |
 | 46 | [ECCO](https://open.spotify.com/track/37XnCTDFEs3K78dd0l722e) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 4:30 |
 
-Snapshot ID: `ZkfvgAAAAACVkZ+f7RhdEbm4yybX1ZeI`
+Snapshot ID: `ZklBAAAAAAA3PV+w0nFUrZgkg/aSXA4o`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 ### [This Is Quicksand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WtXCH)
 
-> This is Quicksand\. The essential tracks, all in one playlist.
+> This Is Quicksand\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 27 songs - 1 hr 18 min
 
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 26 | [Multiverse](https://open.spotify.com/track/6vizvvoC227kBMQzBqNJyz) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:26 |
 | 27 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 
-Snapshot ID: `ZkfvgAAAAABxNYdIVKm3KUBAG9aMHZtQ`
+Snapshot ID: `ZklBAAAAAADUwDFvgXlZxrZJjvlsT+SX`

@@ -1,12 +1,12 @@
 {
   "description": "This is Lakeyah. The essential tracks, all in one playlist.",
-  "num_followers": 2778,
+  "num_followers": 2783,
   "original_name": "This Is Lakeyah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAaET9llKdmX04o3s1qNr90",
+  "snapshot_id": "ZklBAAAAAACuYvun1dd2CnWqQGQ06L8o",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Pressure (Pt. 2)",
-        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Maneuver (feat. Flo Milli)",
-      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Due Time",
         "url": "https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 141512,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Pressure (Pt. 2)",
+        "url": "https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Maneuver (feat. Flo Milli)",
+      "url": "https://open.spotify.com/track/4bWGHob6LSJ6XV2NtEo5Zi"
     },
     {
       "added_at": null,
@@ -307,26 +307,6 @@
       "duration_ms": 133903,
       "name": "No Hesitation",
       "url": "https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Tee Half Beast",
-        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
-      },
-      "artists": [
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "MilTroit (feat. Lakeyah)",
-      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
     },
     {
       "added_at": null,
@@ -379,18 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "WANT EM HOOD",
-        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+        "name": "Half Tee Half Beast",
+        "url": "https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp"
       },
       "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 165517,
-      "name": "WANT EM HOOD",
-      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
+      "duration_ms": 144000,
+      "name": "MilTroit (feat. Lakeyah)",
+      "url": "https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF"
     },
     {
       "added_at": null,
@@ -407,6 +391,22 @@
       "duration_ms": 152094,
       "name": "Young and Ratchet",
       "url": "https://open.spotify.com/track/1O2vIEgUUDwzUpctAfeAlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WANT EM HOOD",
+        "url": "https://open.spotify.com/album/5RDX2YRAeBPI5ayzMqHubO"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "WANT EM HOOD",
+      "url": "https://open.spotify.com/track/36tZ01gUYSQVF29hqYx5Xa"
     },
     {
       "added_at": null,
@@ -482,15 +482,11 @@
         {
           "name": "Lakeyah",
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 154230,
-      "name": "Poppin",
-      "url": "https://open.spotify.com/track/2ALg7dHbjG6S2HrlRN8n6R"
+      "duration_ms": 145233,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
     },
     {
       "added_at": null,
@@ -552,9 +548,9 @@
           "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
         }
       ],
-      "duration_ms": 145233,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/3jGmZsKbfRVHCVa2FAnHEP"
+      "duration_ms": 87488,
+      "name": "Freestyle",
+      "url": "https://open.spotify.com/track/7BcMZ714Iv3B3jiKBLyTf5"
     },
     {
       "added_at": null,

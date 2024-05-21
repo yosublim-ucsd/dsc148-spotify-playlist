@@ -1,13 +1,29 @@
 {
   "description": "C\u00f9ng t\u00f4n vinh t\u00e0i n\u0103ng v\u00e0 \u00e2m nh\u1ea1c c\u1ee7a nh\u1eefng n\u1eef ngh\u1ec7 s\u0129 Vi\u1ec7t. \u1ea2nh b\u00eca: LUNAS",
-  "num_followers": 27706,
+  "num_followers": 27711,
   "original_name": "EQUAL Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjEjkAAAAADIW+1clXPE5949FcdiMgy0",
+  "snapshot_id": "ZkwFsgAAAACr9pEL2eV16c/PBcTNXiEI",
   "tracks": [
+    {
+      "added_at": "2024-05-20 13:27:49",
+      "album": {
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3"
+      },
+      "artists": [
+        {
+          "name": "LUNAS",
+          "url": "https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "MOONLIGHT",
+      "url": "https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM"
+    },
     {
       "added_at": "2024-04-30 17:00:00",
       "album": {
@@ -155,30 +171,6 @@
     {
       "added_at": "2024-04-30 17:00:00",
       "album": {
-        "name": "Ai Cho T\u00f4i L\u01b0\u01a1ng Thi\u1ec7n",
-        "url": "https://open.spotify.com/album/0mSqq1Px3bsylq5cPqPP0e"
-      },
-      "artists": [
-        {
-          "name": "Trang Ph\u00e1p",
-          "url": "https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6"
-        },
-        {
-          "name": "Thu Ph\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk"
-        },
-        {
-          "name": "Ninh D\u01b0\u01a1ng Lan Ng\u1ecdc",
-          "url": "https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq"
-        }
-      ],
-      "duration_ms": 219766,
-      "name": "Ai Cho T\u00f4i L\u01b0\u01a1ng Thi\u1ec7n",
-      "url": "https://open.spotify.com/track/6JsFdyK1kJKeaUpQS6ybvD"
-    },
-    {
-      "added_at": "2024-04-30 17:00:00",
-      "album": {
         "name": "Kh\u00f4ng Sao M\u00e0, Em \u0110\u00e2y R\u1ed3i",
         "url": "https://open.spotify.com/album/0PEvJe4NJCGRkOZkIPTeQX"
       },
@@ -285,6 +277,22 @@
       "url": "https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY"
     },
     {
+      "added_at": "2024-05-21 02:23:46",
+      "album": {
+        "name": "Guess I Should've Known",
+        "url": "https://open.spotify.com/album/6p4L9Cwn8ZrMJM4G2aCUNU"
+      },
+      "artists": [
+        {
+          "name": "My Anh",
+          "url": "https://open.spotify.com/artist/3C9BZr3AmjZ89zzcOdkA4i"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "B\u1ea1n Ch\u1edd",
+      "url": "https://open.spotify.com/track/32FuaOZbaeYQSSE10wdC7q"
+    },
+    {
       "added_at": "2024-04-30 17:00:00",
       "album": {
         "name": "Anh L\u00e0 Ngo\u1ea1i L\u1ec7 C\u1ee7a Em",
@@ -363,6 +371,22 @@
       "duration_ms": 190526,
       "name": "C\u00e0 Ph\u00ea",
       "url": "https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va"
+    },
+    {
+      "added_at": "2024-05-21 02:23:46",
+      "album": {
+        "name": "Y\u00eau Hay Kh\u00f4ng Y\u00eau",
+        "url": "https://open.spotify.com/album/2svlVeHHM7hcFTbGUXvhAa"
+      },
+      "artists": [
+        {
+          "name": "C\u1ea7m",
+          "url": "https://open.spotify.com/artist/56vNGG0GJtL6p8ltx7cLvj"
+        }
+      ],
+      "duration_ms": 151687,
+      "name": "Y\u00eau Hay Kh\u00f4ng Y\u00eau",
+      "url": "https://open.spotify.com/track/7L5B7R6ckM1E1iPaIxS4RR"
     },
     {
       "added_at": "2024-04-30 17:00:00",
@@ -783,22 +807,6 @@
     {
       "added_at": "2024-04-30 17:00:00",
       "album": {
-        "name": "H\u1ed3i \u1ee8c Thanh Xu\u00e2n",
-        "url": "https://open.spotify.com/album/3pLMlm8TkW4xlKSbKBd4fB"
-      },
-      "artists": [
-        {
-          "name": "Nguy\u00ean H\u00e0",
-          "url": "https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH"
-        }
-      ],
-      "duration_ms": 274695,
-      "name": "C\u00f3 1 Ng\u01b0\u1eddi S\u1ebd \u0110\u1ebfn",
-      "url": "https://open.spotify.com/track/77fNnD0fqYyCiXFhTvoPEp"
-    },
-    {
-      "added_at": "2024-04-30 17:00:00",
-      "album": {
         "name": "Ph\u1ea3i Ch\u0103ng Em \u0110\u00e3 Y\u00eau? (feat. RedT)",
         "url": "https://open.spotify.com/album/6oLvir8rZVaQRF3z2mp0rG"
       },
@@ -895,22 +903,6 @@
       "duration_ms": 222352,
       "name": "C\u1ea3m \u01a0n V\u00ec \u0110\u00e3 Kh\u00f4ng \u0110\u1ee3i Em",
       "url": "https://open.spotify.com/track/6pajI4M53hRge5BjYgjXGY"
-    },
-    {
-      "added_at": "2024-04-30 17:00:00",
-      "album": {
-        "name": "M\u00f9a Hoa N\u0103m \u1ea4y",
-        "url": "https://open.spotify.com/album/7JOQ0K06NcM5RJGlCUHK1d"
-      },
-      "artists": [
-        {
-          "name": "H\u1ed3 Qu\u1ef3nh H\u01b0\u01a1ng",
-          "url": "https://open.spotify.com/artist/3EP4RX5LSuwDVy4mDeF1rl"
-        }
-      ],
-      "duration_ms": 276000,
-      "name": "M\u00f9a Hoa N\u0103m \u1ea4y",
-      "url": "https://open.spotify.com/track/3HtfZZpvU3J0jGjf4QaDzw"
     }
   ],
   "unique_name": "EQUAL Vietnam",

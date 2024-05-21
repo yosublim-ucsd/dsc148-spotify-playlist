@@ -1,12 +1,12 @@
 {
   "description": "This is Rancid. The essential tracks, all in one playlist.",
-  "num_followers": 46055,
+  "num_followers": 46064,
   "original_name": "This Is Rancid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABhjRnypzdfCkQFRgZiIuSb",
+  "snapshot_id": "ZklBAAAAAAAkYTpbubiNt8QvwLFbFini",
   "tracks": [
     {
       "added_at": null,
@@ -255,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "B Sides and C Sides",
-        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
       },
       "artists": [
         {
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 116893,
-      "name": "Just A Feeling",
-      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
+      "duration_ms": 125693,
+      "name": "East Bay Night",
+      "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
     },
     {
       "added_at": null,
@@ -287,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let The Dominoes Fall (Expanded Version)",
-        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+        "name": "B Sides and C Sides",
+        "url": "https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks"
       },
       "artists": [
         {
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 125693,
-      "name": "East Bay Night",
-      "url": "https://open.spotify.com/track/6WVak6Y3Fyts2tYsNMujru"
+      "duration_ms": 116893,
+      "name": "Just A Feeling",
+      "url": "https://open.spotify.com/track/1T0l7luhYfoOoGRKDD4X5P"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 81741,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
+      "duration_ms": 58371,
+      "name": "Don't Make Me Do It",
+      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 58371,
-      "name": "Don't Make Me Do It",
-      "url": "https://open.spotify.com/track/3HNI0dwTStPSThqfEJW48M"
+      "duration_ms": 81741,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1nppgD5Ns9krMDqe8n0Jmj"
     },
     {
       "added_at": null,
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 144653,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie"
+      "duration_ms": 126626,
+      "name": "Dead And Gone",
+      "url": "https://open.spotify.com/track/0jW7y01GcHbkJ8Rrrl5tzP"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
         }
       ],
-      "duration_ms": 126626,
-      "name": "Dead And Gone",
-      "url": "https://open.spotify.com/track/0jW7y01GcHbkJ8Rrrl5tzP"
+      "duration_ms": 144653,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/6lreQj4PTDoDvWTREDd4ie"
     },
     {
       "added_at": null,

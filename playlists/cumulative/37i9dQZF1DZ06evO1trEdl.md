@@ -2,7 +2,7 @@
 
 ### [This Is The Three Degrees](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1trEdl)
 
-> This is The Three Degrees\. The essential tracks, all in one playlist.
+> This Is The Three Degrees\. Los temas esenciales, todos en una lista.
 
 107 songs - 6 hr 39 min
 
@@ -59,10 +59,10 @@
 | [Lonely Town](https://open.spotify.com/track/5b7OwoCMxAOXnQnz8O0zbR) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Maybe \(Expanded Edition\)](https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit) | 2:53 | 2023-12-30 | 2024-01-01 |
 | [Long Lost Lover](https://open.spotify.com/track/6NUvRBMnhKax5XvI2I4a62) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of The Three Degrees: When Will I See You Again](https://open.spotify.com/album/0GO4Ee0UN5cyB1FnWPfOzz) | 2:57 | 2022-05-25 |  |
 | [Look in My Eyes](https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Look in My Eyes](https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv) | 2:37 | 2022-05-25 |  |
-| [Looking For Love](https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:29 | 2024-03-29 | 2024-05-20 |
+| [Looking For Love](https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [New Dimensions](https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg) | 5:29 | 2024-03-29 |  |
 | [Love Is the Message \(feat\. The Three Degrees\) \- Love Groove Bonus](https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Deep Grooves](https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf) | 5:13 | 2022-05-25 |  |
 | [Love the One Your With](https://open.spotify.com/track/5NLixfIVZ5yHJNsJmzw6R7) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [Silvester 70er Hits](https://open.spotify.com/album/7pZXvsqViY6c9O6gR6fsej) | 3:50 | 2024-01-01 | 2024-01-09 |
-| [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 |  |
+| [Love Train \- Live](https://open.spotify.com/track/6c0MsQv8iqGKJQUyietUwj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa), [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE), [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy) | [The Three Degrees, Billy Paul, Harold Melvin & The Blue Notes \(Live In Concert\)](https://open.spotify.com/album/7xzGj9SVaQ3Ny80IgOE3lX) | 5:02 | 2022-11-26 | 2024-05-21 |
 | [Love Train \- Live at Bailey's, London, England \- 1975](https://open.spotify.com/track/6T19ChkTtuvJSKcg3xt0Mn) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Three Degrees Live](https://open.spotify.com/album/793TTHJPK3W7Np8E2Duufl) | 6:48 | 2022-05-30 | 2022-06-01 |
 | [Loving Cup](https://open.spotify.com/track/1nFqUkXakLMxpRZzfYIcIj) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International](https://open.spotify.com/album/1iYIS3Gf48EDrGxU7Uif3G) | 3:07 | 2024-01-21 | 2024-05-01 |
 | [Loving Cup](https://open.spotify.com/track/5hImvsNPGEM72BKhwm5Scu) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [International \(Expanded Edition\)](https://open.spotify.com/album/6tu9mnYgTCsVpyqWUd6YFG) | 3:07 | 2022-05-25 | 2024-01-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IWHdjlGV0r.md) - [plain]
 
 > Alcuni amori bruciano più di altri\. Cover: Tedua
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,074 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,116 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

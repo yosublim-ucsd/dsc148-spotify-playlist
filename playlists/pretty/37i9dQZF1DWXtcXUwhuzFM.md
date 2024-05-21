@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,426 likes - 113 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,432 likes - 113 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 74 | [Keep Us Together](https://open.spotify.com/track/7CHjvGBXjd485DACOfLa7o) | [Cimón](https://open.spotify.com/artist/2ScWWtrV7DOYYeb4vO0rG8), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Keep Us Together](https://open.spotify.com/album/400Z4hZTwg8RtwBKstBZFW) | 3:16 |
 | 75 | [Dreamgirl](https://open.spotify.com/track/2QUAjRAYFF5CtJnYinWMkX) | [Betty Bass](https://open.spotify.com/artist/0TwII45Qeh2MAqMjEIoQ8b) | [DREAMGIRL](https://open.spotify.com/album/1ZRp265l2aH8rh4kEoNWvF) | 2:21 |
 | 76 | [Fast Living, Slow Suicide \(feat\. Olli Herman\)](https://open.spotify.com/track/7pF88Cv9gtfPI1LkoF15ez) | [Euge Valovirta](https://open.spotify.com/artist/40K7TadIl5Obvm0EMbuwq0), [Olli Herman](https://open.spotify.com/artist/0mAgWpSQehdhqT6iSb8Bel) | [Fast Living, Slow Suicide \(feat\. Olli Herman\)](https://open.spotify.com/album/3hzddNMW74wc9YDAFLr1st) | 3:06 |
-| 77 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Kel](https://open.spotify.com/artist/0TLOVFA4f1et5PuPPVaGVg) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
+| 77 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
 | 78 | [Drug worth doing](https://open.spotify.com/track/09mwvppceQhNgB16PAdqrb) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Drug worth doing](https://open.spotify.com/album/4DF4BjpiSqvxN83ToSRO4p) | 2:44 |
 | 79 | [Shiny New Thing](https://open.spotify.com/track/4ymawkmuKTv26VTcyfP8eA) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [Shiny New Thing](https://open.spotify.com/album/45tUkK8nkMQ4XGRGKYppzT) | 2:38 |
 | 80 | [Songs In My Head](https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/5ZAJ8oDLqCT9cuELS11OdP) | 3:06 |

@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85535,
+  "num_followers": 85544,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -163,6 +163,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Cardellino",
+        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        }
+      ],
+      "duration_ms": 169776,
+      "name": "TOSCANA",
+      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/66TzEKIam5WkxScrvzgYBm"
       },
@@ -183,38 +199,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Hola Precioso",
-        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 206515,
-      "name": "Ir derecho",
-      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Cardellino",
-        "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        }
-      ],
-      "duration_ms": 169776,
-      "name": "TOSCANA",
-      "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Destellos",
         "url": "https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 183813,
       "name": "Nagano",
       "url": "https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Hola Precioso",
+        "url": "https://open.spotify.com/album/03oOcZPLDZdsocx9QkkNty"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 206515,
+      "name": "Ir derecho",
+      "url": "https://open.spotify.com/track/7jK1aQltgQJ32aGYj6U7lh"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tarde o Temprano",
-        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Tarde o Temprano",
-      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Nafta",
         "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 253161,
       "name": "La Carta",
       "url": "https://open.spotify.com/track/0H351Cn5b1uS4E4Cg1Jxb5"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Tarde o Temprano",
+        "url": "https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Tarde o Temprano",
+      "url": "https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "PEL\u00cdCULA",
-        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 193206,
-      "name": "PEL\u00cdCULA",
-      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Musikita del Cielo",
         "url": "https://open.spotify.com/album/29ZPGvp5WB9BGPA2jleMoz"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 180500,
       "name": "Musikita del Cielo",
       "url": "https://open.spotify.com/track/1MXRVVSP19x3zTkqmD2MzF"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "PEL\u00cdCULA",
+        "url": "https://open.spotify.com/album/0F5ZesfEwl0qPpjnaEzG1L"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 193206,
+      "name": "PEL\u00cdCULA",
+      "url": "https://open.spotify.com/track/0YkFznftrXHZnJIde7T5v2"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Feroza",
+        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 178756,
+      "name": "Susurrito",
+      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Ya Me Hiciste Mal (Remix)",
         "url": "https://open.spotify.com/album/4z11zYLcNsJZip4UeN9amB"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 199189,
       "name": "Ya Me Hiciste Mal - Remix",
       "url": "https://open.spotify.com/track/3VUOdXoxnuOPiDm80AsuZR"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Feroza",
-        "url": "https://open.spotify.com/album/3Ear2Vze1ZV4JDk4ZfWp2A"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 178756,
-      "name": "Susurrito",
-      "url": "https://open.spotify.com/track/7btTCfo8fyFOhqFXFdMi7b"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Epitafio",
+        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "duration_ms": 157120,
+      "name": "Epitafio",
+      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Lo que fuera",
         "url": "https://open.spotify.com/album/77YloBOjF7a1x3WEqsk9Ia"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/2vGH3bb9tWJjJYaBAtFnVr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Epitafio",
-        "url": "https://open.spotify.com/album/7B7Sdq7h3TwFq5TTWyy4AK"
-      },
-      "artists": [
-        {
-          "name": "Caloncho",
-          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
-        }
-      ],
-      "duration_ms": 157120,
-      "name": "Epitafio",
-      "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1075,6 +1075,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Conducci\u00f3n Temeraria",
+        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
+      },
+      "artists": [
+        {
+          "name": "Alizzz",
+          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 212044,
+      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
+      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "La Negaci\u00f3n",
         "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
@@ -1131,6 +1151,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "El Momento Perfecto",
+        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
+      },
+      "artists": [
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "duration_ms": 201661,
+      "name": "El Momento Perfecto",
+      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "A D\u00f3nde Vamos?",
         "url": "https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T"
       },
@@ -1147,22 +1183,6 @@
       "duration_ms": 202230,
       "name": "A D\u00f3nde Vamos?",
       "url": "https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "El Momento Perfecto",
-        "url": "https://open.spotify.com/album/5tHjR6ANArX00z5PzAhOvS"
-      },
-      "artists": [
-        {
-          "name": "El Zar",
-          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
-        }
-      ],
-      "duration_ms": 201661,
-      "name": "El Momento Perfecto",
-      "url": "https://open.spotify.com/track/4OGw9dLKXsntDtdG1GLORh"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1223,26 +1243,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Conducci\u00f3n Temeraria",
-        "url": "https://open.spotify.com/album/3jzSeHQDDQ8lLI59mYhVC0"
-      },
-      "artists": [
-        {
-          "name": "Alizzz",
-          "url": "https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 212044,
-      "name": "En tu casa o en la m\u00eda (feat. Conociendo Rusia)",
-      "url": "https://open.spotify.com/track/6Y6dbhxP8gesJ5oTr7lBmi"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
       },
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Todo Lamento",
-        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Todo Lamento",
-      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -1331,22 +1315,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Todo el Universo",
-        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
+        "name": "Todo Lamento",
+        "url": "https://open.spotify.com/album/4dHpeoII8QA3LaOXTYnCgm"
       },
       "artists": [
         {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        },
-        {
-          "name": "BLAIR",
-          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
         }
       ],
-      "duration_ms": 183296,
-      "name": "Todo el Universo",
-      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
+      "duration_ms": 155675,
+      "name": "Todo Lamento",
+      "url": "https://open.spotify.com/track/3e8haeh6alXHp8bwLhk4Vc"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1363,6 +1343,26 @@
       "duration_ms": 125156,
       "name": "El Mundo Siempre Estuvo Dividido en Dos",
       "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Todo el Universo",
+        "url": "https://open.spotify.com/album/2dJaJry3QESqGSZQb0GsoL"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        },
+        {
+          "name": "BLAIR",
+          "url": "https://open.spotify.com/artist/5sSn8vGaBxIKeCclAk67TJ"
+        }
+      ],
+      "duration_ms": 183296,
+      "name": "Todo el Universo",
+      "url": "https://open.spotify.com/track/7JkXZoP7sjI2RyMWKCmjjH"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Monstruos y Animales",
-        "url": "https://open.spotify.com/album/77A8qiPR3ShVSfqR1UhpY3"
-      },
-      "artists": [
-        {
-          "name": "Los Makenzy",
-          "url": "https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s"
-        }
-      ],
-      "duration_ms": 198571,
-      "name": "Retrato",
-      "url": "https://open.spotify.com/track/62zJRyfUtWI67iXWBY5e3p"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Una Caricia",
         "url": "https://open.spotify.com/album/3pLaIMdYteZIVFexcu8ViK"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 188133,
       "name": "Una Caricia",
       "url": "https://open.spotify.com/track/6CtLSYdM3TdVovUfwHtFur"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Monstruos y Animales",
+        "url": "https://open.spotify.com/album/77A8qiPR3ShVSfqR1UhpY3"
+      },
+      "artists": [
+        {
+          "name": "Los Makenzy",
+          "url": "https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s"
+        }
+      ],
+      "duration_ms": 198571,
+      "name": "Retrato",
+      "url": "https://open.spotify.com/track/62zJRyfUtWI67iXWBY5e3p"
     },
     {
       "added_at": "2024-05-17 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui.",
-  "num_followers": 477403,
+  "num_followers": 477409,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -123,18 +123,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Fr\u00e9ro Delavega",
-        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+        "name": "caravane",
+        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
       },
       "artists": [
         {
-          "name": "Fr\u00e9ro Delavega",
-          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+          "name": "Rapha\u00ebl",
+          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
         }
       ],
-      "duration_ms": 178986,
-      "name": "Le chant des sir\u00e8nes",
-      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
+      "duration_ms": 206920,
+      "name": "Caravane",
+      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "caravane",
-        "url": "https://open.spotify.com/album/5TbficEf6NnMBJP5rUwuN6"
-      },
-      "artists": [
-        {
-          "name": "Rapha\u00ebl",
-          "url": "https://open.spotify.com/artist/1NPnXlXdEfr5ZxhEDsFevM"
-        }
-      ],
-      "duration_ms": 206920,
-      "name": "Caravane",
-      "url": "https://open.spotify.com/track/2UXjdnCvgGGIXLrAwCVVQT"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Un air de rien",
         "url": "https://open.spotify.com/album/54Vo3EOEPuq4ERdzyIU4cE"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 192989,
       "name": "\u00c0 nos souvenirs",
       "url": "https://open.spotify.com/track/3LgrzjwX7RVTtAX9Ai12Qm"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Fr\u00e9ro Delavega",
+        "url": "https://open.spotify.com/album/6vRDgJ6ZlOQ8DH1Y4Olx46"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9ro Delavega",
+          "url": "https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT"
+        }
+      ],
+      "duration_ms": 178986,
+      "name": "Le chant des sir\u00e8nes",
+      "url": "https://open.spotify.com/track/0gSvEcIBXqiYqomjp6hKHj"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Debout les yeux ouverts",
-        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
-      },
-      "artists": [
-        {
-          "name": "Sins\u00e9milia",
-          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
-        }
-      ],
-      "duration_ms": 229426,
-      "name": "Tout le bonheur du monde",
-      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Sans plus attendre",
         "url": "https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 232000,
       "name": "Sensualit\u00e9",
       "url": "https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Debout les yeux ouverts",
+        "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
+      },
+      "artists": [
+        {
+          "name": "Sins\u00e9milia",
+          "url": "https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "Tout le bonheur du monde",
+      "url": "https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
+        "name": "Babacar (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
         "name": "La vraie vie (Deluxe)",
         "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
       },
@@ -463,18 +479,22 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Babacar (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/4vYag01Wn4UHjtlWbz0Nn0"
+        "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
+        "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
       },
       "artists": [
         {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        },
+        {
+          "name": "Jean-Jacques Goldman",
+          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
         }
       ],
-      "duration_ms": 291400,
-      "name": "Ella, elle l'a - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/67CfbIKKTCKFqmQLJwUftX"
+      "duration_ms": 207040,
+      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
+      "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -503,38 +523,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "D'eux - \u00c9dition 15\u00e8me Anniversaire",
-        "url": "https://open.spotify.com/album/2rK67uK3n9hJObOecEJOjk"
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
       "artists": [
         {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        },
-        {
-          "name": "Jean-Jacques Goldman",
-          "url": "https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 207040,
-      "name": "J'irai o\u00f9 tu iras (with Jean-Jacques Goldman)",
-      "url": "https://open.spotify.com/track/2dMLZBAf1mnrtviUHiwd7J"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
       },
       "artists": [
         {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
         }
       ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 207493,
-      "name": "Le Dernier Jour du Disco",
-      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
-    },
-    {
-      "added_at": "2024-03-05 21:04:31",
-      "album": {
         "name": "Pour Un Flirt - Vol.1",
         "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-03-05 21:04:31",
       "album": {
-        "name": "Mon paradis",
-        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/0Og0gwH68Uw5zgVDpC53xN"
       },
       "artists": [
         {
-          "name": "Christophe Ma\u00e9",
-          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
         }
       ],
-      "duration_ms": 191506,
-      "name": "On s'attache",
-      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
+      "duration_ms": 207493,
+      "name": "Le Dernier Jour du Disco",
+      "url": "https://open.spotify.com/track/2Yu8DEe4uc8ApN7t7q0P4s"
     },
     {
       "added_at": "2024-03-05 21:04:31",
@@ -687,6 +671,22 @@
       "duration_ms": 273626,
       "name": "Il jouait du piano debout - Remasteris\u00e9 en 2004",
       "url": "https://open.spotify.com/track/3GfUHAoOSGy3hhEaTU34WV"
+    },
+    {
+      "added_at": "2024-03-05 21:04:31",
+      "album": {
+        "name": "Mon paradis",
+        "url": "https://open.spotify.com/album/6rpAch0Mi47JkOmyie7rxK"
+      },
+      "artists": [
+        {
+          "name": "Christophe Ma\u00e9",
+          "url": "https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z"
+        }
+      ],
+      "duration_ms": 191506,
+      "name": "On s'attache",
+      "url": "https://open.spotify.com/track/4E8hgGDOwG5CpiEke6qZMT"
     },
     {
       "added_at": "2024-03-05 21:04:31",

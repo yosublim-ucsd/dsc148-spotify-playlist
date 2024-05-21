@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1bSHqE.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1bSHqE) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1bSHqE)
 
-### [This Is ブリトニー・スピアーズ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
+### [This Is Britney Spears](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE)
 
-> This is ブリトニー・スピアーズ。アーティストの代表曲をひとつのプレイリストに。
+> This is Britney Spears\. The essential tracks, all in one playlist.
 
 68 songs - 4 hr 6 min
 
@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | [\(I Got That\) Boom Boom \(feat\. Ying Yang Twins\)](https://open.spotify.com/track/5epx5YtoMbV0GrL9qx9kVY) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 4:49 | 2023-07-28 |  |
 | [\(You Drive Me\) Crazy](https://open.spotify.com/track/1DSJNBNhGZCigg9ll5VeZv) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:18 | 2023-07-28 |  |
-| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2023-07-28 |  |
+| [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2023-07-28 | 2024-05-21 |
 | [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 | 2023-07-28 |  |
 | [Anticipating](https://open.spotify.com/track/6dKYAtGciLRm8uOD1LiSVf) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney \(Digital Deluxe Version\)](https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5) | 3:16 | 2023-12-13 | 2024-02-28 |
 | [Born to Make You Happy](https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 4:03 | 2023-07-28 |  |
@@ -59,9 +59,9 @@
 | [Pretty Girls](https://open.spotify.com/track/6QicTxeiSaRkPnkGDUvYOs) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [Pretty Girls](https://open.spotify.com/album/76LmTxakuFgfAmvUvEXz5S) | 2:43 | 2023-07-28 |  |
 | [Radar](https://open.spotify.com/track/29Srmzqyig5Tg5EitFXsb8) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Blackout](https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj) | 3:49 | 2023-07-28 |  |
 | [S&M Remix](https://open.spotify.com/track/44FAj28ivN0HJ0xVYwQ9nL) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [S&M Remix](https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs) | 4:17 | 2023-07-28 |  |
-| [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2023-07-28 |  |
+| [Scream & Shout](https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [\#willpower](https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb) | 4:43 | 2023-07-28 | 2024-05-21 |
 | [Selfish](https://open.spotify.com/track/2w3PyJC61SAVM7KR6tyDwF) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Femme Fatale \(Deluxe Version\)](https://open.spotify.com/album/0oFBaXLFsUVa2gEmJf4FcJ) | 3:43 | 2024-01-27 |  |
-| [Shattered Glass](https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 2:52 | 2023-12-13 | 2024-05-19 |
+| [Shattered Glass](https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 2:52 | 2023-12-13 |  |
 | [Showdown](https://open.spotify.com/track/0NkMVd3YtZXN5hsuSZUefO) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:16 | 2023-12-13 | 2023-12-22 |
 | [Slumber Party](https://open.spotify.com/track/5xohcwt1FZVGBzdfNRMhfp) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Glory \(Deluxe\)](https://open.spotify.com/album/4Dx1H8qhJ2hFkChgfZuqQV) | 3:34 | 2023-07-28 |  |
 | [SMS \(Bangerz\) \(feat\. Britney Spears\)](https://open.spotify.com/track/0mRWl4amZn1FtRx2cE5jf3) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 2:49 | 2023-07-30 | 2023-11-11 |
@@ -75,6 +75,6 @@
 | [Unusual You](https://open.spotify.com/track/5yFDS6dDzjjmGFVaYcwPAB) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 4:21 | 2023-12-13 | 2024-04-20 |
 | [What U See \(Is What U Get\)](https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:36 | 2023-07-28 |  |
 | [Womanizer](https://open.spotify.com/track/4fixebDZAVToLbUCuEloa2) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:44 | 2023-07-28 |  |
-| [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 | 2023-07-28 | 2024-05-20 |
+| [Work Bitch](https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Britney Jean \(Deluxe Version\)](https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv) | 4:07 | 2023-07-28 |  |
 
 \*This playlist was first scraped on 2023-07-29. Prior content cannot be recovered.

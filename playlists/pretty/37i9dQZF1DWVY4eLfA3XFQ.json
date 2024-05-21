@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Martin Ikin. 50% techno, 50% house",
-  "num_followers": 621529,
+  "num_followers": 621770,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1017,26 +1017,6 @@
       "url": "https://open.spotify.com/track/6xisc7D96wTIk0SHYMjtBl"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
-    },
-    {
       "added_at": "2024-02-09 05:00:00",
       "album": {
         "name": "To The Beat",
@@ -1055,6 +1035,26 @@
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
+    },
+    {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
     },
     {
       "added_at": "2024-01-12 05:00:00",
@@ -1169,10 +1169,10 @@
       "url": "https://open.spotify.com/track/3IrAZTFMsy9ZPj5LurJ8vi"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
+        "name": "I Am The One",
+        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
       },
       "artists": [
         {
@@ -1180,13 +1180,13 @@
           "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         },
         {
-          "name": "Camden Cox",
-          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
         }
       ],
-      "duration_ms": 192755,
-      "name": "365",
-      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
+      "duration_ms": 200624,
+      "name": "I Am The One",
+      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1305,10 +1305,10 @@
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2023-10-27 04:01:00",
       "album": {
-        "name": "I Am The One",
-        "url": "https://open.spotify.com/album/6EigqdKdQ2B8bxnJrIGLN9"
+        "name": "365",
+        "url": "https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI"
       },
       "artists": [
         {
@@ -1316,13 +1316,13 @@
           "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         },
         {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 200624,
-      "name": "I Am The One",
-      "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
+      "duration_ms": 192755,
+      "name": "365",
+      "url": "https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1513,6 +1513,26 @@
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Keep It Real",
+        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        },
+        {
+          "name": "ARIA",
+          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
+        }
+      ],
+      "duration_ms": 142322,
+      "name": "Keep It Real",
+      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "Runny Nose",
@@ -1535,26 +1555,6 @@
       "duration_ms": 161221,
       "name": "Runny Nose",
       "url": "https://open.spotify.com/track/29X75JVa4OIZj5qzSgFeSc"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Keep It Real",
-        "url": "https://open.spotify.com/album/0T0Ti0o3aczJWmGY5xMh0w"
-      },
-      "artists": [
-        {
-          "name": "BYOR",
-          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
-        },
-        {
-          "name": "ARIA",
-          "url": "https://open.spotify.com/artist/5pRlKxATEYXaSwYkFbkmMm"
-        }
-      ],
-      "duration_ms": 142322,
-      "name": "Keep It Real",
-      "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1665,26 +1665,6 @@
       "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "No Big Deal",
-        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
-      },
-      "artists": [
-        {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
-        },
-        {
-          "name": "Reggie Watts",
-          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
-        }
-      ],
-      "duration_ms": 181251,
-      "name": "Motivashun",
-      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "Get Rockin'",
@@ -1703,6 +1683,26 @@
       "duration_ms": 182238,
       "name": "Get Rockin'",
       "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "No Big Deal",
+        "url": "https://open.spotify.com/album/3buVlngArH6e0boFoaH58f"
+      },
+      "artists": [
+        {
+          "name": "Walker & Royce",
+          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+        },
+        {
+          "name": "Reggie Watts",
+          "url": "https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx"
+        }
+      ],
+      "duration_ms": 181251,
+      "name": "Motivashun",
+      "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1829,20 +1829,28 @@
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
-      "added_at": "2024-01-26 05:00:00",
+      "added_at": "2024-04-26 04:01:00",
       "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
       },
       "artists": [
         {
           "name": "San Pacho",
           "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 158906,
-      "name": "No Guest List",
-      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1933,26 +1941,6 @@
       "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Toys",
-        "url": "https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        }
-      ],
-      "duration_ms": 260194,
-      "name": "Toys",
-      "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "PLAY SOME RECORDS",
@@ -1975,6 +1963,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Toys",
+        "url": "https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        }
+      ],
+      "duration_ms": 260194,
+      "name": "Toys",
+      "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Wait A Minute",
         "url": "https://open.spotify.com/album/1kLWmRHqICUJVnoGpPClkB"
       },
@@ -1989,28 +1997,20 @@
       "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
     },
     {
-      "added_at": "2024-04-26 04:01:00",
+      "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Afloja",
-        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
       },
       "artists": [
         {
           "name": "San Pacho",
           "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
         }
       ],
-      "duration_ms": 183281,
-      "name": "Afloja",
-      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+      "duration_ms": 158906,
+      "name": "No Guest List",
+      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2037,6 +2037,22 @@
       "url": "https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6"
     },
     {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
       "added_at": "2024-03-30 19:55:37",
       "album": {
         "name": "Kiki",
@@ -2053,20 +2069,20 @@
       "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
     },
     {
-      "added_at": "2023-12-01 05:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS"
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
       },
       "artists": [
         {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 197419,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2091,22 +2107,6 @@
       "duration_ms": 129373,
       "name": "Don't Waste My Time (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2145,22 +2145,6 @@
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
     },
     {
-      "added_at": "2023-11-17 05:00:00",
-      "album": {
-        "name": "Can You Feel It",
-        "url": "https://open.spotify.com/album/3rwRwTFKLg6U4vvp0ISnVD"
-      },
-      "artists": [
-        {
-          "name": "MORTEN",
-          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "Una Copa M\u00e1s",
@@ -2179,6 +2163,22 @@
       "duration_ms": 169687,
       "name": "Una Copa M\u00e1s",
       "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
+    },
+    {
+      "added_at": "2023-11-17 05:00:00",
+      "album": {
+        "name": "Can You Feel It",
+        "url": "https://open.spotify.com/album/3rwRwTFKLg6U4vvp0ISnVD"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/5CoZzDgqAZUhuIGC82Zplz"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "To L.A",
@@ -2275,6 +2259,22 @@
       "duration_ms": 105503,
       "name": "To L.A",
       "url": "https://open.spotify.com/track/3tmNdhTHWSsSPFKjsNWuvU"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2321,24 +2321,28 @@
       "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "In The Music",
-        "url": "https://open.spotify.com/album/2OW4GlXl9B0NcmCoSx8rZa"
+        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
+        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
         },
         {
-          "name": "POLOVICH",
-          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        },
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 181846,
-      "name": "In The Music",
-      "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
+      "duration_ms": 166153,
+      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
+      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2361,24 +2365,24 @@
       "url": "https://open.spotify.com/track/318Mwtl8JQAZuul9GCHJyD"
     },
     {
-      "added_at": "2024-02-23 05:00:00",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Might Just",
-        "url": "https://open.spotify.com/album/3QkQmQFGIw9p2QAO0XQVXg"
+        "name": "In The Music",
+        "url": "https://open.spotify.com/album/2OW4GlXl9B0NcmCoSx8rZa"
       },
       "artists": [
         {
-          "name": "Walker & Royce",
-          "url": "https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV"
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
         },
         {
-          "name": "James Patterson",
-          "url": "https://open.spotify.com/artist/154uf79BQbw6Q4C5dPzWdW"
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
         }
       ],
-      "duration_ms": 182535,
-      "name": "Might Just",
-      "url": "https://open.spotify.com/track/0rDs5KmugTtfchE7ho2iHH"
+      "duration_ms": 181846,
+      "name": "In The Music",
+      "url": "https://open.spotify.com/track/5Q9vMzyoWKvFPy7jFxasH0"
     }
   ],
   "unique_name": "Tech House Operator",

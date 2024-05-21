@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1279175,
+  "num_followers": 1279617,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Samurai",
+        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
+      },
+      "artists": [
+        {
+          "name": "Lupe Fiasco",
+          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
+        }
+      ],
+      "duration_ms": 194786,
+      "name": "Samurai",
+      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Spiritual State",
         "url": "https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Samurai",
-        "url": "https://open.spotify.com/album/1xG63QNNCiQvy0PERgfpaH"
-      },
-      "artists": [
-        {
-          "name": "Lupe Fiasco",
-          "url": "https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf"
-        }
-      ],
-      "duration_ms": 194786,
-      "name": "Samurai",
-      "url": "https://open.spotify.com/track/00LGJRRqN4AtSpHrvjIyiJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "LONERWRLD, vol 1",
         "url": "https://open.spotify.com/album/64dj5UzR5GQHQFy3ZjL1ah"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 130742,
       "name": "Fly god manners",
       "url": "https://open.spotify.com/track/0hLYU06I6ppGIhqiJ4uZom"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Blowout Comb",
+        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 279373,
+      "name": "Jettin'",
+      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -535,46 +551,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Blowout Comb",
-        "url": "https://open.spotify.com/album/5gvlpKnnINq8Z1YICdtiBt"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 279373,
-      "name": "Jettin'",
-      "url": "https://open.spotify.com/track/1BXastKgdI3AiFipVt69Fv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Metaphorical Music",
-        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
-      },
-      "artists": [
-        {
-          "name": "Nujabes",
-          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
-        },
-        {
-          "name": "Substantial",
-          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
-        },
-        {
-          "name": "Pase Rock",
-          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
-        }
-      ],
-      "duration_ms": 203706,
-      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
-      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "After The Storm (Pete Rock Remix)",
         "url": "https://open.spotify.com/album/6TM1R6aTR2wGMMAZpwvXje"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 225026,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix",
       "url": "https://open.spotify.com/track/1aKzgL3nsei4Idwi8H9Zts"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Metaphorical Music",
+        "url": "https://open.spotify.com/album/5FrjDW96mCYw9ECc74c637"
+      },
+      "artists": [
+        {
+          "name": "Nujabes",
+          "url": "https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ"
+        },
+        {
+          "name": "Substantial",
+          "url": "https://open.spotify.com/artist/5FmThJ74ycmeBdQnu4Cfcw"
+        },
+        {
+          "name": "Pase Rock",
+          "url": "https://open.spotify.com/artist/7DziQHfQYLS6Iv018KLOVo"
+        }
+      ],
+      "duration_ms": 203706,
+      "name": "Blessing It -remix (feat. Substantial & Pase Rock from Five Deez)",
+      "url": "https://open.spotify.com/track/4MbUcaX58NkUmKXe6FuBaV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Big Piranhas",
-        "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
-      },
-      "artists": [
-        {
-          "name": "Mike Shabb",
-          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
-        },
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 211984,
-      "name": "Big Piranhas",
-      "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 221333,
       "name": "Drive Slow",
       "url": "https://open.spotify.com/track/1is1QB3ElS0UlaEYpIHyo0"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Big Piranhas",
+        "url": "https://open.spotify.com/album/3qdO7UKSZDOdOpWDCrnSps"
+      },
+      "artists": [
+        {
+          "name": "Mike Shabb",
+          "url": "https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW"
+        },
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        }
+      ],
+      "duration_ms": 211984,
+      "name": "Big Piranhas",
+      "url": "https://open.spotify.com/track/10wwTjzJ9tv6f9aJFkcmuY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1063,30 +1063,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
-        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
-      },
-      "artists": [
-        {
-          "name": "Jay Exodus",
-          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
-        },
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Jay Worthy",
-          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
-        }
-      ],
-      "duration_ms": 253590,
-      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
-      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -1111,6 +1087,30 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+        "url": "https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4"
+      },
+      "artists": [
+        {
+          "name": "Jay Exodus",
+          "url": "https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA"
+        },
+        {
+          "name": "38 Spesh",
+          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
+        },
+        {
+          "name": "Jay Worthy",
+          "url": "https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q"
+        }
+      ],
+      "duration_ms": 253590,
+      "name": "Beautiful Life (feat. 38 Spesh & Jay Worthy)",
+      "url": "https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Articuno",
-        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
-      },
-      "artists": [
-        {
-          "name": "Ben Beal",
-          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
-        },
-        {
-          "name": "Elijah Who",
-          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
-        }
-      ],
-      "duration_ms": 116000,
-      "name": "Articuno",
-      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Head Highs",
         "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 155346,
       "name": "Head Highs",
       "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Articuno",
+        "url": "https://open.spotify.com/album/5PoZ4iwuanehqnO2BZlPKM"
+      },
+      "artists": [
+        {
+          "name": "Ben Beal",
+          "url": "https://open.spotify.com/artist/0CTpeTOAvzc1FOlPj4uYWV"
+        },
+        {
+          "name": "Elijah Who",
+          "url": "https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8"
+        }
+      ],
+      "duration_ms": 116000,
+      "name": "Articuno",
+      "url": "https://open.spotify.com/track/6FvptLjpTE8ymMN8yHhL6e"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1407,30 +1407,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Factor",
-        "url": "https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq"
-      },
-      "artists": [
-        {
-          "name": "Slum Village",
-          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
-        },
-        {
-          "name": "Elijah Fox",
-          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
-        },
-        {
-          "name": "Eric Roberson",
-          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
-        }
-      ],
-      "duration_ms": 177713,
-      "name": "Factor",
-      "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
         "url": "https://open.spotify.com/album/6OQ6gN6iPAZHNpu8Z1p1Yv"
       },
@@ -1455,6 +1431,30 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Factor",
+        "url": "https://open.spotify.com/album/05VwnXwsWgDKvhoAi62vPq"
+      },
+      "artists": [
+        {
+          "name": "Slum Village",
+          "url": "https://open.spotify.com/artist/1020a42xVklY6c56imNcaa"
+        },
+        {
+          "name": "Elijah Fox",
+          "url": "https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh"
+        },
+        {
+          "name": "Eric Roberson",
+          "url": "https://open.spotify.com/artist/2ewAU3d4El7WSIxWUJaZJn"
+        }
+      ],
+      "duration_ms": 177713,
+      "name": "Factor",
+      "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "FORKS ON THE ROAD",
-        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
-      },
-      "artists": [
-        {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        },
-        {
-          "name": "Daniel Son",
-          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
-        },
-        {
-          "name": "Faiza",
-          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
-        }
-      ],
-      "duration_ms": 183887,
-      "name": "FORKS ON THE ROAD",
-      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Connection (Remix)",
         "url": "https://open.spotify.com/album/2GrNc5KugrKao4k6JPFwfY"
       },
@@ -1879,6 +1855,30 @@
       "duration_ms": 126839,
       "name": "Low",
       "url": "https://open.spotify.com/track/7i1mHHP4XpCjBM7VHx7g7U"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "FORKS ON THE ROAD",
+        "url": "https://open.spotify.com/album/3qJgxb1JvphDW7ghbaMeVs"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        },
+        {
+          "name": "Daniel Son",
+          "url": "https://open.spotify.com/artist/6Hrq57am01Bxyp89bUWqFF"
+        },
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "duration_ms": 183887,
+      "name": "FORKS ON THE ROAD",
+      "url": "https://open.spotify.com/track/593vjuHVQRH19Mwyt1HBst"
     },
     {
       "added_at": "2024-05-17 04:00:00",

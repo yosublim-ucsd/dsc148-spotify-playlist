@@ -2,9 +2,9 @@
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This Is Kenia OS\. Los temas esenciales, todos en una lista.
+> This is Kenia OS\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 48 min
+61 songs - 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [No Me Marques Pedo](https://open.spotify.com/track/4XhxL3yq18qWSLxqaYargW) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:31 | 2023-12-18 | 2024-05-20 |
 | [Ocean](https://open.spotify.com/track/2kPjKPf34ZF0vXVBcsLimh) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Sin Sol](https://open.spotify.com/album/2CsypJgFF6iLwdWkHYanv9) | 3:24 | 2023-12-18 |  |
 | [Ojo X Ojo](https://open.spotify.com/track/0W4yC1CrhJVQCpcFrB6oGU) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Ojo X Ojo](https://open.spotify.com/album/3z2e4ob5NdNuKyyGhOgB5W) | 3:01 | 2023-12-18 | 2024-05-11 |
-| [OMG](https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:02 | 2024-05-03 |  |
+| [OMG](https://open.spotify.com/track/32Rd1yFRekKTkH21g0j1gH) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 3:02 | 2024-05-03 | 2024-05-21 |
 | [Para No Verte Más](https://open.spotify.com/track/2HH06rHCyra4vLcdZkdN4d) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Para No Verte Más](https://open.spotify.com/album/1Eb2dpFYN6id1FcmTxqJtG) | 3:17 | 2023-12-18 |  |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2023-12-18 |  |
 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 | 2023-12-18 |  |
@@ -61,7 +61,8 @@
 | [Tercera Noche](https://open.spotify.com/track/0DPpsXoijB0H7OVsxx9Vqt) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tercera Noche](https://open.spotify.com/album/4KPbW9CjDYzEYJCTJ3oCAB) | 2:55 | 2023-12-18 |  |
 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 | 2023-12-18 |  |
 | [Toketeo](https://open.spotify.com/track/0pRgURvgp75RPKjTGQodau) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG), [Malo](https://open.spotify.com/artist/3voOTPDg4JXGVLVWG6wfeb) | [Toketeo](https://open.spotify.com/album/42gM3PcVUatLaI2izJ6jmz) | 3:23 | 2023-12-18 |  |
-| [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-16 |  |
+| [Tortura](https://open.spotify.com/track/675DR08jG1zTyPjNoSUTY7) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Pink Aura](https://open.spotify.com/album/1a08d11kkHSjdTLCUnYXad) | 2:10 | 2024-05-21 |  |
+| [Tortura](https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tortura](https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg) | 2:12 | 2024-03-16 | 2024-05-21 |
 | [Tsunami](https://open.spotify.com/track/5MHd0g5gQAf79wR6uCI5YP) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:55 | 2023-12-18 | 2024-04-12 |
 | [Tu Peor Pesadilla](https://open.spotify.com/track/7MpETJHfn7B0kLiJtkSgvL) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:21 | 2023-12-18 |  |
 | [Tírame Un Hello \- Remix](https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Tírame Un Hello \(Remix\)](https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx) | 2:49 | 2023-12-18 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 11083,
+  "num_followers": 11115,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkW54AAAAADX3ye04gw/hQXlAKlbhnXj",
+  "snapshot_id": "ZksMUQAAAACSVvlQ4eqYKoUfzsdRsJzl",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -45,38 +45,6 @@
       "url": "https://open.spotify.com/track/0yfou1n7Osbq1objkFdawy"
     },
     {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Thoovum Mazhai",
-        "url": "https://open.spotify.com/album/1SOBdMjcOnXxL88XIhL3vQ"
-      },
-      "artists": [
-        {
-          "name": "Yashomati",
-          "url": "https://open.spotify.com/artist/0F9yghjGcpuaz1ugJyvcum"
-        }
-      ],
-      "duration_ms": 265151,
-      "name": "Thoovum Mazhai",
-      "url": "https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Yugam Thaandi",
-        "url": "https://open.spotify.com/album/2vwEDGIloo1geXcnCBcPbs"
-      },
-      "artists": [
-        {
-          "name": "Stefan Packianathan",
-          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
-        }
-      ],
-      "duration_ms": 242625,
-      "name": "Yugam Thaandi",
-      "url": "https://open.spotify.com/track/1vipkTlGAOLkWzPhjheXFj"
-    },
-    {
       "added_at": "2024-03-16 07:00:41",
       "album": {
         "name": "Paavai",
@@ -99,6 +67,26 @@
       "duration_ms": 215942,
       "name": "Paavai",
       "url": "https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF"
+    },
+    {
+      "added_at": "2024-05-20 08:39:45",
+      "album": {
+        "name": "Adiye",
+        "url": "https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        },
+        {
+          "name": "Krishan J",
+          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+        }
+      ],
+      "duration_ms": 213409,
+      "name": "Adiye",
+      "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
     },
     {
       "added_at": "2024-05-13 06:53:15",
@@ -805,26 +793,6 @@
       "url": "https://open.spotify.com/track/01TQhZMxTdsgDs7L76BwD5"
     },
     {
-      "added_at": "2024-02-16 09:25:19",
-      "album": {
-        "name": "SHRUNGAARAPPOOVE (ENN VAASHAL)",
-        "url": "https://open.spotify.com/album/0QepAr4SimliR2x459D4k4"
-      },
-      "artists": [
-        {
-          "name": "Nanthaa SRISKANTHARAJAH",
-          "url": "https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR"
-        },
-        {
-          "name": "Sri Jeya Ragavan",
-          "url": "https://open.spotify.com/artist/0Tkx7aPCt1tqlzzZZ2OHFW"
-        }
-      ],
-      "duration_ms": 262770,
-      "name": "SHRUNGAARAPPOOVE (ENN VAASHAL)",
-      "url": "https://open.spotify.com/track/65TpoCFjxcKOqqeG8HmzPT"
-    },
-    {
       "added_at": "2024-02-12 11:53:26",
       "album": {
         "name": "Kanmani Unnal",
@@ -881,42 +849,6 @@
       "url": "https://open.spotify.com/track/0v2L1vxSKgq2jlr6XJ7ieF"
     },
     {
-      "added_at": "2024-02-19 06:02:58",
-      "album": {
-        "name": "Samanilai Velicham - Radio Edit",
-        "url": "https://open.spotify.com/album/0n2uzjQ9d036fyBcJp81da"
-      },
-      "artists": [
-        {
-          "name": "The songs of society",
-          "url": "https://open.spotify.com/artist/1gIjLVjVt6WtdyOe93BL0U"
-        },
-        {
-          "name": "Caleb steven raj",
-          "url": "https://open.spotify.com/artist/4F13u1RHzEcTRpFlMwHhxd"
-        }
-      ],
-      "duration_ms": 270795,
-      "name": "Samanilai Velicham - Radio Edit",
-      "url": "https://open.spotify.com/track/2AWqwQGWhedo5lWP59pLcB"
-    },
-    {
-      "added_at": "2024-02-14 04:56:39",
-      "album": {
-        "name": "ATHIKAALAI MUDHAL",
-        "url": "https://open.spotify.com/album/4RZj9SVIJwOYgZjqQPcgDT"
-      },
-      "artists": [
-        {
-          "name": "KARKAY",
-          "url": "https://open.spotify.com/artist/00YboNb94lHeYpUmmslkqU"
-        }
-      ],
-      "duration_ms": 217424,
-      "name": "ATHIKAALAI MUDHAL",
-      "url": "https://open.spotify.com/track/6OwohvcuvKdUl4vihhYvQf"
-    },
-    {
       "added_at": "2024-02-12 11:47:52",
       "album": {
         "name": "Kullama",
@@ -957,66 +889,6 @@
       "url": "https://open.spotify.com/track/3AruoZeeOUr0cdtDz2pwuq"
     },
     {
-      "added_at": "2024-02-09 10:00:06",
-      "album": {
-        "name": "Un Vaarthai",
-        "url": "https://open.spotify.com/album/4biQlvQx4Fwb36eqK1Ge4F"
-      },
-      "artists": [
-        {
-          "name": "Prezanthi Shanmugavel",
-          "url": "https://open.spotify.com/artist/3g7Jy7DBhczGb5HF5M8PKY"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        }
-      ],
-      "duration_ms": 133457,
-      "name": "Un Vaarthai",
-      "url": "https://open.spotify.com/track/0kcdwX7FLkKvfASTff9fyV"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Puriya Vei (Deaffrogs Records)",
-        "url": "https://open.spotify.com/album/2uyiv7xioQOp84vEqlJNqs"
-      },
-      "artists": [
-        {
-          "name": "Killa K",
-          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
-        }
-      ],
-      "duration_ms": 126599,
-      "name": "Puriya Vei - Deaffrogs Records",
-      "url": "https://open.spotify.com/track/3FB7rvufG8aW4bDkEUMbx3"
-    },
-    {
-      "added_at": "2024-02-09 10:46:36",
-      "album": {
-        "name": "Show Time",
-        "url": "https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw"
-      },
-      "artists": [
-        {
-          "name": "Mrs Go",
-          "url": "https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT"
-        },
-        {
-          "name": "Debbie Pari",
-          "url": "https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr"
-        },
-        {
-          "name": "Kalla Sha",
-          "url": "https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd"
-        }
-      ],
-      "duration_ms": 256941,
-      "name": "Show Time",
-      "url": "https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs"
-    },
-    {
       "added_at": "2024-04-15 07:03:29",
       "album": {
         "name": "OORO",
@@ -1051,50 +923,6 @@
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i"
-      },
-      "artists": [
-        {
-          "name": "Iykki Berry",
-          "url": "https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD"
-        },
-        {
-          "name": "Dev Major",
-          "url": "https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv"
-        }
-      ],
-      "duration_ms": 206037,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Vena Thambi",
-        "url": "https://open.spotify.com/album/1wZhn9ZDOK8QYUTSRNAfeH"
-      },
-      "artists": [
-        {
-          "name": "Mc Azy",
-          "url": "https://open.spotify.com/artist/086MsrX01rXLh6SM2hPO5G"
-        },
-        {
-          "name": "Mirun Pradhap",
-          "url": "https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r"
-        },
-        {
-          "name": "Nigavithran",
-          "url": "https://open.spotify.com/artist/0X5Mf1r1cNX4UwSTf0vnSf"
-        }
-      ],
-      "duration_ms": 155675,
-      "name": "Vena Thambi",
-      "url": "https://open.spotify.com/track/7jj3ZgabLKGM0Y3WrVZ677"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
         "name": "Ranganaa",
         "url": "https://open.spotify.com/album/7Abooc4IFECT3bOeejP6eB"
       },
@@ -1115,42 +943,6 @@
       "duration_ms": 202421,
       "name": "Ranganaa",
       "url": "https://open.spotify.com/track/43IUMVJK6qYgjq5dPzUO8j"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Needhane",
-        "url": "https://open.spotify.com/album/1FjxA0FBd0aa5r2ra86QC8"
-      },
-      "artists": [
-        {
-          "name": "Mk Muziq",
-          "url": "https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M"
-        },
-        {
-          "name": "Raksha",
-          "url": "https://open.spotify.com/artist/27aTvR4Pih0yEX79D8uu1C"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Needhane",
-      "url": "https://open.spotify.com/track/3QRJbhOuqVgPNFQIUjahLl"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Nenaivugal",
-        "url": "https://open.spotify.com/album/0S3Uxiq141KlLUwHuLk35C"
-      },
-      "artists": [
-        {
-          "name": "MR. Black",
-          "url": "https://open.spotify.com/artist/082CBP6Qs4Y8UJTxGYVVhd"
-        }
-      ],
-      "duration_ms": 268799,
-      "name": "Nenaivugal",
-      "url": "https://open.spotify.com/track/7pqQF9w3PHmbm8IIITNkTR"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -1239,22 +1031,6 @@
       "duration_ms": 285501,
       "name": "Yaar Aval",
       "url": "https://open.spotify.com/track/1lRjcMkN73vOAgwaSzNKme"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Come to Me Baby",
-        "url": "https://open.spotify.com/album/6OzzGHy5JchzdMk7ocg5yf"
-      },
-      "artists": [
-        {
-          "name": "Prasad S.N",
-          "url": "https://open.spotify.com/artist/1deQgLe6eU8iiEwkRZDdc4"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Come to Me Baby",
-      "url": "https://open.spotify.com/track/0tyVTkcGqE4CP4OPNnQlwi"
     },
     {
       "added_at": "2024-02-01 05:32:00",
@@ -1371,46 +1147,6 @@
     {
       "added_at": "2024-02-01 05:32:00",
       "album": {
-        "name": "Neeye",
-        "url": "https://open.spotify.com/album/4NjMmesAM5SuvD6yskYzFu"
-      },
-      "artists": [
-        {
-          "name": "T\u00f6rk",
-          "url": "https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy"
-        },
-        {
-          "name": "AKSH",
-          "url": "https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137"
-        },
-        {
-          "name": "Kshia",
-          "url": "https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU"
-        }
-      ],
-      "duration_ms": 183270,
-      "name": "Neeye",
-      "url": "https://open.spotify.com/track/1tBi5yC0ijRkKBcXc06MD7"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "BABY",
-        "url": "https://open.spotify.com/album/7mbfRQQQOPFYdHnPdPcYNM"
-      },
-      "artists": [
-        {
-          "name": "Kishore krishnan",
-          "url": "https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj"
-        }
-      ],
-      "duration_ms": 241787,
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7L61JVdJQ5ExbmQ1WSnoPY"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
         "name": "Kobama",
         "url": "https://open.spotify.com/album/1GiaF2Fm8MI9q6H67OEJRz"
       },
@@ -1447,42 +1183,6 @@
       "duration_ms": 236054,
       "name": "Love Music",
       "url": "https://open.spotify.com/track/6eAndPkRqAOrvVd01wg9LF"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Vittu Pogathae",
-        "url": "https://open.spotify.com/album/4ySIE31IPWCDIxpDBDiEEe"
-      },
-      "artists": [
-        {
-          "name": "Ramana",
-          "url": "https://open.spotify.com/artist/1nL4VLawzrO0jA4wD6uO0K"
-        }
-      ],
-      "duration_ms": 236284,
-      "name": "Vittu Pogathae",
-      "url": "https://open.spotify.com/track/4UmTxePUQTN4SWc5zy42nT"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Love Rocket",
-        "url": "https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM"
-      },
-      "artists": [
-        {
-          "name": "Yokesh Ravilla",
-          "url": "https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR"
-        },
-        {
-          "name": "Sathish K",
-          "url": "https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC"
-        }
-      ],
-      "duration_ms": 192017,
-      "name": "Love Rocket",
-      "url": "https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA"
     }
   ],
   "unique_name": "RADAR Tamil",

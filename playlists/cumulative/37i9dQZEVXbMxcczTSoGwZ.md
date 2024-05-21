@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-2,009 songs - 4 day 11 hr 5 min
+2,010 songs - 4 day 11 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [BLONDINA](https://open.spotify.com/track/3Fq0id1BFWX3GoCeWdNh53) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [RÄPPÄRI](https://open.spotify.com/album/4VjT5dIyokFmgNIaJ4A7fq) | 3:00 | 2023-11-04 |  |
 | [BLONDINA](https://open.spotify.com/track/5V6MFVxOCtnBgw4JV4Yk59) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [BLONDINA](https://open.spotify.com/album/24IjEbb9JyuBNHDYdjJ8KM) | 3:00 | 2023-05-27 | 2023-11-05 |
 | [Bloody Mary](https://open.spotify.com/track/11BKm0j4eYoCPPpCONAVwA) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way \(Special Edition\)](https://open.spotify.com/album/5maeycU97NHBgwRr2h2A4O) | 4:04 | 2022-12-02 | 2023-02-05 |
+| [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-05-20 |  |
 | [Blue Christmas](https://open.spotify.com/track/3QiAAp20rPC3dcAtKtMaqQ) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Christmas Album](https://open.spotify.com/album/6zk4RKl6JFlgLCV4Z7DQ7N) | 2:09 | 2021-12-24 | 2023-12-27 |
 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 | 2021-05-08 | 2021-06-12 |
 | [Bon appétit](https://open.spotify.com/track/6bpzEUaVqdqfvtSe9X0V2b) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Bon appétit](https://open.spotify.com/album/2PsSlA4McStTV24CH4bFH3) | 3:10 | 2022-06-04 | 2022-06-19 |
@@ -1216,7 +1217,7 @@
 | [No en](https://open.spotify.com/track/2m14bmshUcJI4igMC5z03B) | [STIG](https://open.spotify.com/artist/6TKvvwslcx2bKwiX2aBxbd) | [No en](https://open.spotify.com/album/2GJT6QQ0FMbM01hrlhCsxS) | 2:42 | 2022-04-30 | 2022-05-02 |
 | [No Friends In The Industry](https://open.spotify.com/track/2tUL6dZf1mywCj5WvCPZw6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:24 | 2021-09-05 | 2021-09-06 |
 | [No Good 4 U](https://open.spotify.com/track/65j80EkeL7HYYOtJ4waZyT) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [No Good 4 U](https://open.spotify.com/album/4haWEqgtjW3G4DXXJBnNn4) | 2:15 | 2022-11-26 | 2022-12-03 |
-| [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-01-18 |  |
+| [No Rules!](https://open.spotify.com/track/4QWrK6lpr8rZ6sa8ymqMrq) | [Windows95Man](https://open.spotify.com/artist/4iIv1KxAdDsqfwq5XjcgQm) | [No Rules!](https://open.spotify.com/album/3hEmkfgNvZOuCNgzmpQWK6) | 2:55 | 2024-01-18 | 2024-05-21 |
 | [Nocturne](https://open.spotify.com/track/6Sn0JJ4YlPBEbxhdbdK2li) | [Vesa\-Matti Loiri](https://open.spotify.com/artist/1C3guep1CayLvcFFadeQBt) | [Eino Leino 1](https://open.spotify.com/album/3EggZx5LUbkUSulnIMLcHR) | 3:35 | 2022-08-11 | 2022-08-15 |
 | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/track/0nRssz1xxPRC6B22k5lG06) | [MD$](https://open.spotify.com/artist/0bYIAEOrNahTLQkecy5944), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq), [B.Baby](https://open.spotify.com/artist/0uuwZ3aC3dhl9e7J66Ag13) | [Nonstop \(feat\. Sexmane & B.Baby\)](https://open.spotify.com/album/1whyLxdmgza9nO22aEsW93) | 2:59 | 2022-05-21 | 2023-01-07 |
 | [Nopee hopee](https://open.spotify.com/track/4miD5oroBLYIpzJXvPgcvX) | [Vesala](https://open.spotify.com/artist/5fyBhURKALJ81CC9X4DvZP), [Kaija Koo](https://open.spotify.com/artist/60UkyJpgRSEUtcVTasRFEq) | [Nopee hopee](https://open.spotify.com/album/4ADC1fxmqRWV5YxNcjGRNl) | 2:51 | 2022-09-03 | 2022-09-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,848 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,869 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,14 +30,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 20 | [Reflections](https://open.spotify.com/track/49gFdRRGI5UMHb8j3VnD9x) | [Borrtex](https://open.spotify.com/artist/6FU6gwUc2OBtUA6TVQLo6C) | [Reflections](https://open.spotify.com/album/37rlD3dQQh7guaw5HQrjn1) | 2:17 |
 | 21 | [Two Fish and an Elephant](https://open.spotify.com/track/2kGMBOPXMtb9gxzVYdplg9) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [The Universe Smiles Upon You](https://open.spotify.com/album/2OPcQNLP8DQVumD8kBRAH3) | 3:33 |
 | 22 | [It feels like I've forgotten something](https://open.spotify.com/track/3zaFQTIBcEjLKuh2E2CX6X) | [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [It feels like I've forgotten something](https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH) | 2:12 |
-| 23 | [Feelm Intermission](https://open.spotify.com/track/4rrNbvc5idRjJc2D2sm0wl) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Bluestaeb and S\. Fidelity Present Underground Canopy](https://open.spotify.com/album/65KbJhk8V9QLLW5X6gcRSw) | 1:04 |
-| 24 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
+| 23 | [forgotten thoughts \- nightcore](https://open.spotify.com/track/3g4KjrkyzdPyKW7iMBb6Zs) | [MADEBYGODES](https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc), [Sedogy Bedam](https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt) | [forgotten thoughts](https://open.spotify.com/album/5SSlX0rvu6QrkQmjLi3nMK) | 1:17 |
+| 24 | [Feelm Intermission](https://open.spotify.com/track/4rrNbvc5idRjJc2D2sm0wl) | [Underground Canopy](https://open.spotify.com/artist/7k7AFLI13ChqpIlQGI1lJo), [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [S\. Fidelity](https://open.spotify.com/artist/3XQIlYQsopsDCYMSkf1rEW) | [Bluestaeb and S\. Fidelity Present Underground Canopy](https://open.spotify.com/album/65KbJhk8V9QLLW5X6gcRSw) | 1:04 |
 | 25 | [fairytale](https://open.spotify.com/track/0mHCR2WCxeM22a7Na8dMU6) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [leadwave](https://open.spotify.com/artist/4v6Vm2UFM3PS4iHY9TZfcb) | [fairytale](https://open.spotify.com/album/0bdTwJydCNRYCyqiqb8UUV) | 1:40 |
 | 26 | [my new love](https://open.spotify.com/track/1uPLrGFdfHtTPvqsDpdVsL) | [Elijah Who](https://open.spotify.com/artist/2b0aKuno01NxPWVCUVIEc8) | [Gentle Boy](https://open.spotify.com/album/2TbitcPeiSQAPuaYKB6Fyv) | 1:05 |
 | 27 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 28 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 |
-| 29 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
-| 30 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 29 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
+| 30 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
 | 31 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
 | 32 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 33 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |

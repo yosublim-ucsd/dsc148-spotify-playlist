@@ -3837,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162835,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
+    },
+    {
+      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/1vZ7dIXeNdHJkUhT0lVf0E"
       },
@@ -8432,7 +8450,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 195923,
       "name": "Em \u0110a Nghi",
       "url": "https://open.spotify.com/track/5apbs8mAhF7p80LNQDAbQ5"
@@ -8648,7 +8666,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 188499,
       "name": "Escapism",
       "url": "https://open.spotify.com/track/77AFJKt0T2fwS1NuTnhZmW"
@@ -12959,6 +12977,24 @@
     },
     {
       "album": {
+        "name": "I Wanna Go",
+        "url": "https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd"
+      },
+      "artists": [
+        {
+          "name": "Armi Millare",
+          "url": "https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "I Wanna Go",
+      "url": "https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ"
+    },
+    {
+      "album": {
         "name": "Love Tracks",
         "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
       },
@@ -13794,6 +13830,28 @@
       "duration_ms": 219082,
       "name": "Internet Love",
       "url": "https://open.spotify.com/track/2rGCYAabfA63PIzhQm7hVq"
+    },
+    {
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/7n5kZhxjk76GU7ssMkgjOd"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        },
+        {
+          "name": "Loren Oden",
+          "url": "https://open.spotify.com/artist/6FAJyMDeXJXCRryVAUXNkQ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236474,
+      "name": "Into My Novela",
+      "url": "https://open.spotify.com/track/3zu6VYIVqAIsSEQtG729qC"
     },
     {
       "album": {
@@ -14994,7 +15052,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 214598,
       "name": "Koyal",
       "url": "https://open.spotify.com/track/1U4GL7t6R83118Ltn6xcYJ"
@@ -15324,7 +15382,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 145865,
       "name": "La Favorita",
       "url": "https://open.spotify.com/track/1fs0B7vCAE5dlURxGjemaz"
@@ -19649,6 +19707,24 @@
     },
     {
       "album": {
+        "name": "Moushtaqa",
+        "url": "https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f"
+      },
+      "artists": [
+        {
+          "name": "Aseel Hameem",
+          "url": "https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263132,
+      "name": "Moushtaqa",
+      "url": "https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39"
+    },
+    {
+      "album": {
         "name": "Moves",
         "url": "https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh"
       },
@@ -22148,7 +22224,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 156189,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/3qgcnHL76s9cRFfxKV3wba"
@@ -23898,7 +23974,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 151136,
       "name": "Prophecy",
       "url": "https://open.spotify.com/track/1IwHDkBUnCZCJ2mjkTQBKn"
@@ -26194,6 +26270,24 @@
       "duration_ms": 203520,
       "name": "Shades Of Love (feat. The Joy)",
       "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+    },
+    {
+      "album": {
+        "name": "she's so cool",
+        "url": "https://open.spotify.com/album/6nODLxFnID6dwFspd4mpgN"
+      },
+      "artists": [
+        {
+          "name": "Esther Graf",
+          "url": "https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156044,
+      "name": "she's so cool",
+      "url": "https://open.spotify.com/track/6ZfAbCwtXiZekia2vBXb27"
     },
     {
       "album": {
@@ -31392,7 +31486,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 173973,
       "name": "wet",
       "url": "https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN"

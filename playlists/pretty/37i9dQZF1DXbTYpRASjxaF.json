@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 130175,
+  "num_followers": 130194,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Uma Parte",
-        "url": "https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Thiago Sub",
-          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Uma Parte",
-      "url": "https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Falar de Amor",
         "url": "https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 231529,
       "name": "Falar de Amor",
       "url": "https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Uma Parte",
+        "url": "https://open.spotify.com/album/1OqPYPqJRuG1V6vbWkAs2a"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Thiago Sub",
+          "url": "https://open.spotify.com/artist/6YEV0RD46iRGwcvKimSGLG"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Uma Parte",
+      "url": "https://open.spotify.com/track/4E5dWXDRbWw5HVYUTZe3XD"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -1283,30 +1283,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Mainstreet Festival Freestyle",
-        "url": "https://open.spotify.com/album/68qOGJRbEX7XzOi1Jy6PX9"
-      },
-      "artists": [
-        {
-          "name": "Oreozin",
-          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Vt no beat",
-          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Mainstreet Festival Freestyle",
-      "url": "https://open.spotify.com/track/4j90O7VWPdThq4wenSzKZv"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Malote",
         "url": "https://open.spotify.com/album/6ww8wAcDTPJ5Bal1kWRzJU"
       },
@@ -1335,6 +1311,30 @@
       "duration_ms": 300495,
       "name": "Malote",
       "url": "https://open.spotify.com/track/6hend0qyIwXCPsDzFM7Dvd"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Mainstreet Festival Freestyle",
+        "url": "https://open.spotify.com/album/68qOGJRbEX7XzOi1Jy6PX9"
+      },
+      "artists": [
+        {
+          "name": "Oreozin",
+          "url": "https://open.spotify.com/artist/6MWb3O5RfehDbCZsBfGrIG"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Vt no beat",
+          "url": "https://open.spotify.com/artist/6FruCl8GUxsP07s6LpsNKs"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Mainstreet Festival Freestyle",
+      "url": "https://open.spotify.com/track/4j90O7VWPdThq4wenSzKZv"
     },
     {
       "added_at": "2024-05-17 03:01:00",

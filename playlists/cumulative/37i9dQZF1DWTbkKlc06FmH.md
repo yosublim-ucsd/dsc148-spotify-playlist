@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-765 songs - 1 day 22 hr 0 min
+766 songs - 1 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,7 @@
 | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/track/4D6cgLFL83GNIpTQQjBzvi) | [mabanua](https://open.spotify.com/artist/1lBnm3edbDJ7KbWSHzSGQP), [Nicholas Ryan Gant](https://open.spotify.com/artist/1ddTsvSIu8zKa23MTKZNJS), [Suede Jury](https://open.spotify.com/artist/256MjcBz1G9sIN0LL932tr) | [So Real feat\. Nicholas Ryan Gant & Suede Jury](https://open.spotify.com/album/7MtotnJHqALhZyyX50egUA) | 3:08 | 2023-02-16 | 2023-09-15 |
 | [Sofa King](https://open.spotify.com/track/25HgUJf69zb3K7TJw7LGCQ) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:16 | 2023-03-30 | 2023-04-19 |
 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 | 2023-03-02 | 2023-04-03 |
-| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 |  |
+| [Softest Touch](https://open.spotify.com/track/42QLP7Z6KvkOV7vYr8RaLD) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Softest Touch](https://open.spotify.com/album/3DZd5Fvl7UuxgMT0FXwsUi) | 2:44 | 2023-03-30 | 2024-05-21 |
 | [Soul Assassin \(feat\. BSC, MUD, DIAN & DONY JOINT\)](https://open.spotify.com/track/0jhM9IFLxDWqef69Dv2zxW) | [KANDYTOWN](https://open.spotify.com/artist/5Treq1MbA8Kw8EGwJc0nzy), [BSC](https://open.spotify.com/artist/6gb39K86ctQFpICp7ps9hn), [MUD](https://open.spotify.com/artist/6MeckwC4hczGmKEunXKC1Q), [DIAN](https://open.spotify.com/artist/6vsnsFUQWlelvGpD5PTfDo), [DONY JOINT](https://open.spotify.com/artist/3zBimOdEMH8zaDJY2QkniH) | [LAST ALBUM](https://open.spotify.com/album/7v1KuejMMyXdjw1GvPsG6v) | 2:33 | 2022-11-29 | 2022-12-07 |
 | [Soulmate](https://open.spotify.com/track/5iM1lc08cKINUynvV6ZWwT) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [Soulmate](https://open.spotify.com/album/7EkMGNWlOyUPlSfDSKybRQ) | 3:11 | 2023-02-16 | 2023-02-24 |
 | [Soulmate](https://open.spotify.com/track/6g56vvpNt52RX65lcautxd) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE), [Jeremy Passion](https://open.spotify.com/artist/5Z8UTQtTYNu5o5FA66LFgv) | [The Way It Was Before](https://open.spotify.com/album/59aMQPmxNeRdtWv7Tqk5WY) | 3:11 | 2023-02-02 | 2023-03-22 |
@@ -651,6 +651,7 @@
 | [Water Carrier](https://open.spotify.com/track/4l8jSXhZ3apqimhbzhiabB) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/3sNzrdLqdVxbPmHAu9Iuav) | 4:02 | 2024-03-19 | 2024-04-03 |
 | [Water Carrier](https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Water Carrier](https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7) | 4:02 | 2024-03-19 | 2024-05-17 |
 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 | 2022-10-20 | 2024-04-19 |
+| [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 |  |
 | [Ways To Go \(feat\. Khalid\)](https://open.spotify.com/track/4NuS3N2ip2WkR74a3fr3K6) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [12 Notes](https://open.spotify.com/album/4ZavFNoQHApc5NExeJl5Xj) | 2:34 | 2024-05-14 |  |
 | [WE'LL DIE THIS WAY](https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/6V6js4VLbS2fdq9SYcarNj) | 3:06 | 2023-07-06 | 2023-07-21 |
 | [Wear Dark Blue](https://open.spotify.com/track/6YJUZolcyToJXDJ7ypwoOD) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Wear Dark Blue](https://open.spotify.com/album/6RtPIk1oeH22Q89C0Zl1Ed) | 3:45 | 2023-03-21 | 2023-04-05 |

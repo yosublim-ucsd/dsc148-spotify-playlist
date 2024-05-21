@@ -1,6 +1,6 @@
 {
   "description": "\u00a1\u00c9xitos salseros para prenderle fuego a la pista de baile!",
-  "num_followers": 362426,
+  "num_followers": 362520,
   "original_name": "Salsa de Oro",
   "owner": {
     "name": "Spotify",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Solo Salsa",
-        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 290742,
-      "name": "La Cita",
-      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "Solo Salsa",
+        "url": "https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 290742,
+      "name": "La Cita",
+      "url": "https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Sed\u00faceme",
-        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
-      },
-      "artists": [
-        {
-          "name": "Viti Ruiz",
-          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
-        }
-      ],
-      "duration_ms": 321178,
-      "name": "Caricias Prohibidas",
-      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 261333,
       "name": "Ojos Chinos",
       "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "Sed\u00faceme",
+        "url": "https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb"
+      },
+      "artists": [
+        {
+          "name": "Viti Ruiz",
+          "url": "https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT"
+        }
+      ],
+      "duration_ms": 321178,
+      "name": "Caricias Prohibidas",
+      "url": "https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "De Costa a Costa",
-        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
-      },
-      "artists": [
-        {
-          "name": "Mariano Civico",
-          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
-        }
-      ],
-      "duration_ms": 309760,
-      "name": "Te Voy a Hacer Feliz",
-      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Coleccion de Oro",
         "url": "https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 284240,
       "name": "Me Niegas Tanto Amor",
       "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "De Costa a Costa",
+        "url": "https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN"
+      },
+      "artists": [
+        {
+          "name": "Mariano Civico",
+          "url": "https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q"
+        }
+      ],
+      "duration_ms": 309760,
+      "name": "Te Voy a Hacer Feliz",
+      "url": "https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf"
     },
     {
       "added_at": "2024-04-08 22:55:02",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-04-08 22:55:02",
       "album": {
-        "name": "Septimo Sentido",
-        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Rodriguez",
-          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
-        }
-      ],
-      "duration_ms": 312006,
-      "name": "Isi",
-      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
-    },
-    {
-      "added_at": "2024-04-08 22:55:02",
-      "album": {
         "name": "Doble Energ\u00eda",
         "url": "https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 412106,
       "name": "No Me Digan Que Es Muy Tarde",
       "url": "https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI"
+    },
+    {
+      "added_at": "2024-04-08 22:55:02",
+      "album": {
+        "name": "Septimo Sentido",
+        "url": "https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Rodriguez",
+          "url": "https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2"
+        }
+      ],
+      "duration_ms": 312006,
+      "name": "Isi",
+      "url": "https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ"
     },
     {
       "added_at": "2024-04-08 22:55:02",

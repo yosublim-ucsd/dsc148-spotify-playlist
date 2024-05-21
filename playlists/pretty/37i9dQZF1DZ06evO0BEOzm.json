@@ -1,12 +1,12 @@
 {
-  "description": "This is Megan Thee Stallion. Wszystkie najwa\u017cniejsze utwory na jednej playli\u015bcie.",
-  "num_followers": 269498,
+  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "num_followers": 269626,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACX/hQ6aR2xEZGts3cfcfAV",
+  "snapshot_id": "ZklBAAAAAABaTGNfnYhQ1dKsRixR1P5U",
   "tracks": [
     {
       "added_at": null,
@@ -75,26 +75,6 @@
       "duration_ms": 154732,
       "name": "BOA",
       "url": "https://open.spotify.com/track/3tUwmCcdunuXKwHu8u2aBn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 227395,
-      "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
     },
     {
       "added_at": null,
@@ -191,6 +171,34 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+        "url": "https://open.spotify.com/album/2TGtXG18s21Q1jnY2TC39M"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 225600,
+      "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
+      "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
     },
     {
       "added_at": null,
@@ -558,15 +566,11 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 201979,
-      "name": "Budget (feat. Latto)",
-      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
+      "duration_ms": 172155,
+      "name": "Gift & A Curse",
+      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
     },
     {
       "added_at": null,
@@ -630,11 +634,15 @@
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         }
       ],
-      "duration_ms": 172155,
-      "name": "Gift & A Curse",
-      "url": "https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa"
+      "duration_ms": 201979,
+      "name": "Budget (feat. Latto)",
+      "url": "https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ"
     },
     {
       "added_at": null,
@@ -671,34 +679,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "KHALED KHALED",
-        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+        "name": "Stalli (Freestyle)",
+        "url": "https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 165366,
-      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
-      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+      "duration_ms": 116611,
+      "name": "Stalli (Freestyle)",
+      "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
     },
     {
       "added_at": null,
@@ -735,8 +727,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stalli (Freestyle)",
-        "url": "https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7"
+        "name": "KHALED KHALED",
+        "url": "https://open.spotify.com/album/5kE2OAuUYGBqqzscqgBXXf"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 165366,
+      "name": "I DID IT (feat. Post Malone, Megan Thee Stallion, Lil Baby & DaBaby)",
+      "url": "https://open.spotify.com/track/20GrahbI4AzAOWxpYfDKkf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something for Thee Hotties",
+        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
       },
       "artists": [
         {
@@ -744,9 +768,9 @@
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 116611,
-      "name": "Stalli (Freestyle)",
-      "url": "https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7"
+      "duration_ms": 169420,
+      "name": "Eat It",
+      "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
     },
     {
       "added_at": null,
@@ -767,22 +791,6 @@
       "duration_ms": 145074,
       "name": "DOLLA SIGN SLIME (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/7zQirOExB0VR8yWUOqYeio"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something for Thee Hotties",
-        "url": "https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 169420,
-      "name": "Eat It",
-      "url": "https://open.spotify.com/track/4V5Dv8IjHNTk2YJzU9vgsW"
     },
     {
       "added_at": null,
@@ -859,26 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressurelicious (feat. Future)",
-        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
-      },
-      "artists": [
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 173061,
-      "name": "Pressurelicious (feat. Future)",
-      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ride Or Die (From \"Queen & Slim: The Soundtrack\")",
         "url": "https://open.spotify.com/album/7Dfk55fGetXAV3iAYJqkrO"
       },
@@ -895,6 +883,26 @@
       "duration_ms": 123200,
       "name": "Ride Or Die - From \"Queen & Slim: The Soundtrack\"",
       "url": "https://open.spotify.com/track/6CYyxobulcKumfeV6e2I9g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pressurelicious (feat. Future)",
+        "url": "https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 173061,
+      "name": "Pressurelicious (feat. Future)",
+      "url": "https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB"
     },
     {
       "added_at": null,

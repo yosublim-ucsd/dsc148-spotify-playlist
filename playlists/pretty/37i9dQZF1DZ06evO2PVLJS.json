@@ -1,12 +1,12 @@
 {
-  "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 1001330,
+  "description": "This Is Vicente Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
+  "num_followers": 1001496,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAn52LbpAM6dtj260F2HQSs",
+  "snapshot_id": "ZklBAAAAAABq/LfAnfJUr5ojvG2L2V/u",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vicente Fern\u00e1ndez",
-        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Hermoso Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que De Raro Tiene",
         "url": "https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 202093,
       "name": "Qu\u00e9 de Raro Tiene",
       "url": "https://open.spotify.com/track/3gA2qpAbnuKLQV8Q9ZtIcf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vicente Fern\u00e1ndez",
+        "url": "https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 156866,
+      "name": "Hermoso Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Amigo El Tordillo",
-        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
+        "name": "Si No Te Quisiera",
+        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 167026,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
+      "duration_ms": 189960,
+      "name": "La Misma",
+      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Quisiera",
-        "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
+        "name": "Mi Amigo El Tordillo",
+        "url": "https://open.spotify.com/album/1SkIUJypyRV6ThRYuwAxES"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 189960,
-      "name": "La Misma",
-      "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+      "duration_ms": 167026,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6y8iJP2KfqGUNizBgAVRxG"
     },
     {
       "added_at": null,
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 186226,
-      "name": "A Pesar de Todo",
-      "url": "https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK"
+      "duration_ms": 203306,
+      "name": "Miraron Llorar a un Hombre",
+      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 203306,
-      "name": "Miraron Llorar a un Hombre",
-      "url": "https://open.spotify.com/track/2FkpqyehpuEhvkEMsOEg69"
+      "duration_ms": 186226,
+      "name": "A Pesar de Todo",
+      "url": "https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK"
     }
   ],
   "unique_name": "This Is Vicente Fern\u00e1ndez",

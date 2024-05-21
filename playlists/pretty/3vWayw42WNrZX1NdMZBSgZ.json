@@ -6,7 +6,7 @@
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARbUsnigamfi6t8y453t5SFSpgrbUL",
+  "snapshot_id": "AAARcheSqHTBd1dbhOZFYG9UfrFXE4Z4",
   "tracks": [
     {
       "added_at": "2024-05-17 04:57:00",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/2csv4XBvwNJ2o9ZVnUxXzQ"
     },
     {
+      "added_at": "2024-05-20 15:04:50",
+      "album": {
+        "name": "Peque\u00f1os Romances",
+        "url": "https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 295000,
+      "name": "Enredadera",
+      "url": "https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD"
+    },
+    {
       "added_at": "2024-05-09 00:14:25",
       "album": {
         "name": "tres",
@@ -235,6 +251,26 @@
       "duration_ms": 171506,
       "name": "Coleccionista",
       "url": "https://open.spotify.com/track/2Sl5J2Im33Tc3ByRbHjqyn"
+    },
+    {
+      "added_at": "2024-04-19 01:10:18",
+      "album": {
+        "name": "Espectacular",
+        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+      },
+      "artists": [
+        {
+          "name": "Sky Rompiendo",
+          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 185739,
+      "name": "Espectacular",
+      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
     },
     {
       "added_at": "2024-05-09 00:16:16",
@@ -313,24 +349,20 @@
       "url": "https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr"
     },
     {
-      "added_at": "2024-04-19 01:10:18",
+      "added_at": "2024-05-20 15:07:07",
       "album": {
-        "name": "Espectacular",
-        "url": "https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS"
+        "name": "Besi\u00f1os",
+        "url": "https://open.spotify.com/album/6wU7IpNLSG0406sKBKZVep"
       },
       "artists": [
         {
-          "name": "Sky Rompiendo",
-          "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "ANGEL22",
+          "url": "https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44"
         }
       ],
-      "duration_ms": 185739,
-      "name": "Espectacular",
-      "url": "https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi"
+      "duration_ms": 133893,
+      "name": "Besi\u00f1os",
+      "url": "https://open.spotify.com/track/4QXZMXEidOZSwCyMlzXPDj"
     },
     {
       "added_at": "2024-04-26 04:46:10",

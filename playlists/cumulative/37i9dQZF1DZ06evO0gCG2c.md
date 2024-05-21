@@ -2,7 +2,7 @@
 
 ### [This Is Akon](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gCG2c)
 
-> This is Akon\. The essential tracks, all in one playlist.
+> This Is Akon\. Los temas esenciales, todos en una lista.
 
 109 songs - 6 hr 45 min
 
@@ -73,7 +73,7 @@
 | [LOCKED UP PT\. 2](https://open.spotify.com/track/52EVeEEPT1H7EIEtN9lC13) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6q8AAimjVfKuv9PrI5xto9) | 3:23 | 2022-04-25 | 2023-05-02 |
 | [LOCKED UP PT\. 2](https://open.spotify.com/track/7Mu3sCvXdMSlBLrUPOhWAG) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TattleTales](https://open.spotify.com/album/6dQ5jKDz664ctPbDDSF7Ua) | 3:23 | 2021-12-28 | 2022-02-18 |
 | [Loco](https://open.spotify.com/track/1hlsiFaPUGNDXcKfTYf0Ol) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 2:37 | 2023-10-01 | 2023-11-11 |
-| [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 |  |
+| [Lonely](https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Trouble Deluxe Edition](https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF) | 3:55 | 2021-12-28 | 2024-05-21 |
 | [Moonshine](https://open.spotify.com/track/71Flk3ZlAs3lLCLbxMKpcu) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Moonshine](https://open.spotify.com/album/4RGNV1d5LVskVxfjhIapsb) | 5:03 | 2022-10-26 | 2022-11-02 |
 | [More Than That \- Afro Remix](https://open.spotify.com/track/0jkgud5L47jRzVpGljRfES) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [AMIRROR](https://open.spotify.com/artist/1A5W3vIrct237pEN1UfFqD) | [Afro Freak](https://open.spotify.com/album/0LvpoifF1Oo1WUC77xzl1B) | 3:12 | 2023-10-04 | 2023-10-11 |
 | [Nadie Como Tú](https://open.spotify.com/track/3g8QriMzqwzXjAPCuZ8LFA) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nadie Como Tú](https://open.spotify.com/album/4qSb1bGgD0IixbTo1HpquI) | 3:06 | 2022-11-09 | 2023-03-10 |
@@ -114,7 +114,7 @@
 | [The Sweet Escape \- Konvict Remix](https://open.spotify.com/track/0ymJhXkz2lOige2zbloaYv) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [The Sweet Escape \(Konvict Remix\)](https://open.spotify.com/album/1WyerplVKXPHfNxrfp6qGR) | 4:01 | 2022-03-07 | 2022-11-08 |
 | [Troublemaker](https://open.spotify.com/track/0O3vchDpKl6jbS8hvnd2fD) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/3BHAzidZ03EjVE7ncqyn0M) | 3:57 | 2021-12-28 | 2023-08-14 |
 | [Troublemaker](https://open.spotify.com/track/7FOXrArO9CU6xVZotChlD8) | [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV), [Sweet Rush](https://open.spotify.com/artist/6VWF2yvImHN0qwgLPzeJm1) | [Freedom](https://open.spotify.com/album/1Z5oeufZDMMzL8ZlWTZrQg) | 3:57 | 2023-08-14 |  |
-| [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 | 2021-12-28 | 2024-05-20 |
+| [What You Got](https://open.spotify.com/track/3MldzywZOH4Uci6bq9noyJ) | [Colby O'Donis](https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Colby O](https://open.spotify.com/album/5g8W4mhkTV4XZ4YuBmhSr3) | 4:03 | 2021-12-28 |  |
 | [What's Love \(feat\. Akon\)](https://open.spotify.com/track/4g63oKy2o7tK5tbfY0o5dW) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Intoxication](https://open.spotify.com/album/7l8mmwJiGmke1ojsDdOt4t) | 3:07 | 2023-03-20 |  |
 | [Who Dat Girl \(feat\. Akon\)](https://open.spotify.com/track/7z73ehYAn9O1XP9XlCqVtd) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:20 | 2021-12-28 |  |
 

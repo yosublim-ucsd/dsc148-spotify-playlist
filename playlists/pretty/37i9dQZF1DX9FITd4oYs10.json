@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17956,
+  "num_followers": 17952,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Slow Flow",
+        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "Rosas e Rimas",
+      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Podium",
         "url": "https://open.spotify.com/album/35tu4rgJcxboWonRqgSkk6"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 240000,
       "name": "Sorrisos (feat. Lourena)",
       "url": "https://open.spotify.com/track/4S3zWMCOGI5k61u78QTGWR"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Slow Flow",
-        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
-      },
-      "artists": [
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "Rosas e Rimas",
-      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -539,26 +539,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Nao Sei Mais",
         "url": "https://open.spotify.com/album/1aFE3mqyIfuzbPe3TFHz4l"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 145185,
       "name": "Nao Sei Mais",
       "url": "https://open.spotify.com/track/1M4q8oK4PlvHBvzgKs6e8O"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Estilo Coyote",
         "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -827,22 +827,6 @@
       "duration_ms": 272004,
       "name": "Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -923,6 +907,22 @@
       "duration_ms": 181373,
       "name": "Como Deus Quiser",
       "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2024-02-23 18:00:29",

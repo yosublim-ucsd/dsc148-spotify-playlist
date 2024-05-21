@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3035934,
+  "num_followers": 3036030,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
+        "name": "Llorar\u00e1s",
+        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
+      },
+      "artists": [
+        {
+          "name": "Los Terricolas",
+          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Llorar\u00e1s",
+      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/4dWLbIe5qAFIP3GFnbTTXL"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 269120,
       "name": "No Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
-        "name": "Llorar\u00e1s",
-        "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
-      },
-      "artists": [
-        {
-          "name": "Los Terricolas",
-          "url": "https://open.spotify.com/artist/2nrSPPSfNesng85eRV4W4m"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Llorar\u00e1s",
-      "url": "https://open.spotify.com/track/2avnbTB2bVyKI2nz553XuH"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Dos Cl\u00e1sicos",
-        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Due\u00f1o de Nada",
-      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 146400,
       "name": "Hazme una Se\u00f1al - Gimme Little Sign",
       "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
+        "name": "Dos Cl\u00e1sicos",
+        "url": "https://open.spotify.com/album/6VMoDyNQKAKPLrEnhnLKU2"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV"
+        }
+      ],
+      "duration_ms": 316840,
+      "name": "Due\u00f1o de Nada",
+      "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
         "name": "Para La Eternidad",
         "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 249120,
       "name": "Te Busco",
       "url": "https://open.spotify.com/track/5AuS5Nk1vs2vJNPlwB04F1"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
-        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
-      },
-      "artists": [
-        {
-          "name": "Manoella Torres",
-          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
-        }
-      ],
-      "duration_ms": 196200,
-      "name": "Te Voy a Ense\u00f1ar a Querer",
-      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
         "name": "My Spanish Album",
         "url": "https://open.spotify.com/album/3w9JGqLaRXdzH6QW6ETKAu"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 177800,
       "name": "Echame A Mi La Culpa",
       "url": "https://open.spotify.com/track/01LHmbTALqwnoGWT3gZPYH"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
+        "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
+        "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
+      },
+      "artists": [
+        {
+          "name": "Manoella Torres",
+          "url": "https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y"
+        }
+      ],
+      "duration_ms": 196200,
+      "name": "Te Voy a Ense\u00f1ar a Querer",
+      "url": "https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Denise De Kalafe 10 Exitos",
-        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
-      },
-      "artists": [
-        {
-          "name": "Denise De Kalafe",
-          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
-        }
-      ],
-      "duration_ms": 183213,
-      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
-      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
         "name": "15 Exitos Originales Con Rocio Jurado",
         "url": "https://open.spotify.com/album/2uQ2R6i42oi4qVF4JUxlMf"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 219933,
       "name": "Se\u00f1ora",
       "url": "https://open.spotify.com/track/6XSYNsvSOtDzmH3lFUJnQl"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
+        "name": "Denise De Kalafe 10 Exitos",
+        "url": "https://open.spotify.com/album/73YPWzhJAthVPAkj1UojYR"
+      },
+      "artists": [
+        {
+          "name": "Denise De Kalafe",
+          "url": "https://open.spotify.com/artist/6Uzmax0z90qEQiH8ryLDjr"
+        }
+      ],
+      "duration_ms": 183213,
+      "name": "Se\u00f1ora... Se\u00f1ora... Se\u00f1ora",
+      "url": "https://open.spotify.com/track/1gpnjVCS2P9BPug3FvHpgW"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Si Yo Fuera El...",
-        "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
+        "name": "Un Ramito De Violetas",
+        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
       },
       "artists": [
         {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+          "name": "Cecilia",
+          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
         }
       ],
-      "duration_ms": 226893,
-      "name": "El primer beso",
-      "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
+      "duration_ms": 252666,
+      "name": "Un Ramito de Violetas",
+      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1839,34 +1839,34 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Un Ramito De Violetas",
-        "url": "https://open.spotify.com/album/6Kp4RsT85CYZq11sqzfPAw"
+        "name": "Si Yo Fuera El...",
+        "url": "https://open.spotify.com/album/329Lx0XCFTFb57GUvRXeu7"
       },
       "artists": [
         {
-          "name": "Cecilia",
-          "url": "https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR"
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 252666,
-      "name": "Un Ramito de Violetas",
-      "url": "https://open.spotify.com/track/6bEep0TL9On222hdpcsCcH"
+      "duration_ms": 226893,
+      "name": "El primer beso",
+      "url": "https://open.spotify.com/track/017rrPyzoyI9ALuFW3Eh1t"
     },
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Heridas",
-        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
+        "name": "Mi tributo a Juan Gabriel",
+        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
       },
       "artists": [
         {
-          "name": "Dulce",
-          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
+          "name": "Lorenzo Antonio",
+          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
         }
       ],
-      "duration_ms": 213680,
-      "name": "Heridas",
-      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
+      "duration_ms": 225533,
+      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
+      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1887,18 +1887,18 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Mi tributo a Juan Gabriel",
-        "url": "https://open.spotify.com/album/4sCg0lGKCsg6qGbNm5X8q3"
+        "name": "Heridas",
+        "url": "https://open.spotify.com/album/0j3c954NNObBbkkXvxTI6l"
       },
       "artists": [
         {
-          "name": "Lorenzo Antonio",
-          "url": "https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4"
+          "name": "Dulce",
+          "url": "https://open.spotify.com/artist/6ZYIXbXuZWooEUSJlRtew2"
         }
       ],
-      "duration_ms": 225533,
-      "name": "\u00bfC\u00f3mo, cu\u00e1ndo y porqu\u00e9 - Why Do I Love You So",
-      "url": "https://open.spotify.com/track/7x9Ow1z9x7rFwnfiNsPqx5"
+      "duration_ms": 213680,
+      "name": "Heridas",
+      "url": "https://open.spotify.com/track/5KMiMU5PGgzKWPGjjoZSAI"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
-      },
-      "artists": [
-        {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
-        }
-      ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
-    },
-    {
-      "added_at": "2024-05-07 18:29:19",
-      "album": {
         "name": "Mambo No 5",
         "url": "https://open.spotify.com/album/1uTfiWvskpE7pQ7on5qnWi"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 162213,
       "name": "Mambo No 5",
       "url": "https://open.spotify.com/track/6fJnlY8rYqC37J2u2OeEMf"
+    },
+    {
+      "added_at": "2024-05-07 18:29:19",
+      "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -2367,22 +2367,18 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "20 Exitos Originales",
-        "url": "https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35"
+        "name": "Ellas Cantan Asi",
+        "url": "https://open.spotify.com/album/1BgKg20qdA7FBX958CiXSe"
       },
       "artists": [
         {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        },
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+          "name": "Angela Carrasco",
+          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
         }
       ],
-      "duration_ms": 289226,
-      "name": "Por Ese Hombre (with Dyango)",
-      "url": "https://open.spotify.com/track/7Lw1CMlaUzFICJGTwz6wvZ"
+      "duration_ms": 276533,
+      "name": "Quererte a Ti",
+      "url": "https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA"
     },
     {
       "added_at": "2024-05-07 18:29:19",
@@ -2403,18 +2399,22 @@
     {
       "added_at": "2024-05-07 18:29:19",
       "album": {
-        "name": "Ellas Cantan Asi",
-        "url": "https://open.spotify.com/album/1BgKg20qdA7FBX958CiXSe"
+        "name": "20 Exitos Originales",
+        "url": "https://open.spotify.com/album/7K29PoNitWdhxYhOTOHa35"
       },
       "artists": [
         {
-          "name": "Angela Carrasco",
-          "url": "https://open.spotify.com/artist/1MtgoOhWrRaiNm4d3y3W3W"
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        },
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
         }
       ],
-      "duration_ms": 276533,
-      "name": "Quererte a Ti",
-      "url": "https://open.spotify.com/track/5zAsPH4Ji2oNSncFGGMSQA"
+      "duration_ms": 289226,
+      "name": "Por Ese Hombre (with Dyango)",
+      "url": "https://open.spotify.com/track/7Lw1CMlaUzFICJGTwz6wvZ"
     },
     {
       "added_at": "2024-05-07 18:29:19",

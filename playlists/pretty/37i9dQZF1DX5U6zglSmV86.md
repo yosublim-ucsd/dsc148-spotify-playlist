@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra escuela es la calle\. Toser One y Dharius en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,698 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,783 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 3 | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/track/2DbV9TSdeGr5FobCFDRzvq) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano: Bzrp Music Sessions, Vol\. 59](https://open.spotify.com/album/2QIjTJqytJ9ksvoS1jpM90) | 2:35 |
 | 4 | [Si Me Prendo](https://open.spotify.com/track/7q59DAn56U48mxeZMEtsLa) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Carlos Blanco](https://open.spotify.com/artist/11diSOIRH0z3p9XZ7hZSod) | [Si Me Prendo](https://open.spotify.com/album/5MHDUqD51GHyWL09rBiQv9) | 2:42 |
 | 5 | [Farsantes](https://open.spotify.com/track/5YC0ubjqDKG7J52huxWwb7) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [Xxxtrictamente para la Calle](https://open.spotify.com/album/2ezsKDAs9nVbHAQA8Y0g9V) | 3:31 |
-| 6 | [Un Alucin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
+| 6 | [Alucin Machin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
 | 7 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |
 | 8 | [Mi Don](https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Villax](https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Robb Candela](https://open.spotify.com/artist/3oMiumrA0ZaWk8DuUneylk), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mi Don](https://open.spotify.com/album/5qSXL1ox4BU74ZAbdegRuN) | 3:31 |
 | 9 | [Silencio En El Callejon](https://open.spotify.com/track/4erYu7HwocPKfx8EqcPY9f) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Silencio En El Callejon](https://open.spotify.com/album/60HUuuZMNdeWtayq06B0NG) | 3:00 |

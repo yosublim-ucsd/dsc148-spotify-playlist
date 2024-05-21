@@ -1,6 +1,6 @@
 {
   "description": "Instant classics from over the years loaded into one sweet mix.",
-  "num_followers": 3925588,
+  "num_followers": 3925528,
   "original_name": "Acoustic Hits: Oldies but Goodies",
   "owner": {
     "name": "Spotify",
@@ -187,26 +187,18 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "FourFiveSeconds",
-        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
+        "name": "All That We Needed",
+        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
         }
       ],
-      "duration_ms": 188238,
-      "name": "FourFiveSeconds",
-      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
+      "duration_ms": 232533,
+      "name": "Hey There Delilah",
+      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -227,18 +219,26 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "All That We Needed",
-        "url": "https://open.spotify.com/album/4vUClKTFaDWnsHE8rK52GY"
+        "name": "FourFiveSeconds",
+        "url": "https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL"
       },
       "artists": [
         {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
         }
       ],
-      "duration_ms": 232533,
-      "name": "Hey There Delilah",
-      "url": "https://open.spotify.com/track/4RCWB3V8V0dignt99LZ8vH"
+      "duration_ms": 188238,
+      "name": "FourFiveSeconds",
+      "url": "https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y"
     },
     {
       "added_at": "2023-10-23 17:16:25",
@@ -811,18 +811,18 @@
     {
       "added_at": "2023-10-23 17:16:25",
       "album": {
-        "name": "All The Stars and Boulevards",
-        "url": "https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK"
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
       },
       "artists": [
         {
-          "name": "Augustana",
-          "url": "https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7"
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
         }
       ],
-      "duration_ms": 245933,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW"
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     }
   ],
   "unique_name": "Acoustic Hits: Oldies but Goodies",

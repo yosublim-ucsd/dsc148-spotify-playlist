@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 838845,
+  "num_followers": 839185,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "GigaChad Theme (Phonk House Version)",
-        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
-      },
-      "artists": [
-        {
-          "name": "g3ox_em",
-          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
-        }
-      ],
-      "duration_ms": 146274,
-      "name": "GigaChad Theme - Phonk House Version",
-      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "AUTOMOTIVO EMPURRA",
         "url": "https://open.spotify.com/album/2nwhU1YBl1CCMUQeKrh2lr"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 72014,
       "name": "AUTOMOTIVO EMPURRA",
       "url": "https://open.spotify.com/track/37IDTp3sPhcMNaYYZa7Ir6"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "GigaChad Theme (Phonk House Version)",
+        "url": "https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr"
+      },
+      "artists": [
+        {
+          "name": "g3ox_em",
+          "url": "https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs"
+        }
+      ],
+      "duration_ms": 146274,
+      "name": "GigaChad Theme - Phonk House Version",
+      "url": "https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A"
     },
     {
       "added_at": "2024-05-08 15:21:25",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-08 15:21:25",
       "album": {
-        "name": "WINTER ARC FUNK",
-        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
-      },
-      "artists": [
-        {
-          "name": "DJ FKU",
-          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
-        }
-      ],
-      "duration_ms": 91875,
-      "name": "WINTER ARC FUNK",
-      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
-    },
-    {
-      "added_at": "2024-05-08 15:21:25",
-      "album": {
         "name": "REI DO BRASIL",
         "url": "https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
+    },
+    {
+      "added_at": "2024-05-08 15:21:25",
+      "album": {
+        "name": "WINTER ARC FUNK",
+        "url": "https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT"
+      },
+      "artists": [
+        {
+          "name": "DJ FKU",
+          "url": "https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe"
+        }
+      ],
+      "duration_ms": 91875,
+      "name": "WINTER ARC FUNK",
+      "url": "https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW"
     },
     {
       "added_at": "2024-05-08 15:21:25",

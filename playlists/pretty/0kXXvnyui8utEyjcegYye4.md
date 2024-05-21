@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 
 > 
 
-[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 297 songs - 17 hr 41 min
+[briannabalen](https://open.spotify.com/user/lewcz7zj2xr0jhm7vpwcfkec6) - 0 like - 298 songs - 17 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,5 +305,6 @@ pretty - [cumulative](/playlists/cumulative/0kXXvnyui8utEyjcegYye4.md) - [plain]
 | 295 | [Take Me Home Tonight](https://open.spotify.com/track/7b4yGtR0rujvLi5EBfKKJ2) | [Eddie Money](https://open.spotify.com/artist/4Tw2N3wdvJPGEU7JqMxFfE) | [Can't Hold Back](https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7) | 3:31 |
 | 296 | [Ej, od kad sam se rodio](https://open.spotify.com/track/1mRyfUZUbIsNDEou1wfqkK) | [Sinan Sakic](https://open.spotify.com/artist/4EONnXMzBhHTIOwjlpoTGl) | [Ej od kad sam se rodio](https://open.spotify.com/album/4CfdY8BiLKxZfLZZXPsH8P) | 3:36 |
 | 297 | [Swagg Talk](https://open.spotify.com/track/78ENPjhPvvJXuuyjz4eJqT) | [D4M $loan](https://open.spotify.com/artist/2tS5WTABMMEQNtdzyoWdHG) | [I Couldn't Decide](https://open.spotify.com/album/4u6Uuddlg5CTfnopDoEUaX) | 2:58 |
+| 298 | [Solo](https://open.spotify.com/track/4lH6nENd1y81jp7Yt9lTBX) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HNDRXX](https://open.spotify.com/album/7K6OykPbezfgKgBufihn6X) | 4:25 |
 
-Snapshot ID: `AAADPAQVB9K8MCD+0Av/Fq5fguHDj9wq`
+Snapshot ID: `AAADPQ3lvaL1zfRTn06giUTmqkDkBGp3`

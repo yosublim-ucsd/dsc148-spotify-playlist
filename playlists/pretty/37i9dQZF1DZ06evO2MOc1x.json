@@ -1,12 +1,12 @@
 {
   "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 48106,
+  "num_followers": 48116,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAB3Kx2SmcDZWTzlVAI44P1o",
+  "snapshot_id": "ZklBAAAAAADYD7bkoj70qftKx83GuM3M",
   "tracks": [
     {
       "added_at": null,
@@ -107,22 +107,6 @@
       "duration_ms": 170800,
       "name": "Thank You - 2008 Remaster",
       "url": "https://open.spotify.com/track/2zLIjfjQ8kMy7WSSLmF0I2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luck Of The Draw",
-        "url": "https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Something To Talk About",
-      "url": "https://open.spotify.com/track/6Ceejf3zBXvAhIY9DbP1Pr"
     },
     {
       "added_at": null,
@@ -311,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 228640,
-      "name": "Love Has No Pride - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Call It Home, Vol. 1",
         "url": "https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0"
       },
@@ -343,6 +311,22 @@
       "duration_ms": 248080,
       "name": "Call It Home",
       "url": "https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 228640,
+      "name": "Love Has No Pride - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
     },
     {
       "added_at": null,
@@ -563,18 +547,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+        "name": "Sam's Place",
+        "url": "https://open.spotify.com/album/2r3pY9mS61KIUNszGK6BlP"
       },
       "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        },
         {
           "name": "Bonnie Raitt",
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Louise - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+      "duration_ms": 239373,
+      "name": "Long Distance Call (feat. Bonnie Raitt)",
+      "url": "https://open.spotify.com/track/1Thq8nUGqdxgIvnR0KnM0a"
     },
     {
       "added_at": null,
@@ -615,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Louise - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5hAXzCx8xvI15AcsHwEkEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonnie Raitt And Friends",
         "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
       },
@@ -635,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 178733,
-      "name": "Too Long at the Fair - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Where Have All The Flowers Gone: The Songs Of Pete Seeger",
         "url": "https://open.spotify.com/album/7A34ZUoI1EdUKSHlDY6iRF"
       },
@@ -667,6 +655,22 @@
       "duration_ms": 283160,
       "name": "Kisses Sweeter than Wine",
       "url": "https://open.spotify.com/track/03XiG8UT6iWa3kDVGHcTW4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 178733,
+      "name": "Too Long at the Fair - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1oMhFBq8JndGlXmknlkSjp"
     },
     {
       "added_at": null,
@@ -699,26 +703,6 @@
       "duration_ms": 235773,
       "name": "Runaway - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sam's Place",
-        "url": "https://open.spotify.com/album/2r3pY9mS61KIUNszGK6BlP"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        },
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 239373,
-      "name": "Long Distance Call (feat. Bonnie Raitt)",
-      "url": "https://open.spotify.com/track/1Thq8nUGqdxgIvnR0KnM0a"
     },
     {
       "added_at": null,
@@ -911,6 +895,22 @@
       "duration_ms": 309040,
       "name": "Live Wire",
       "url": "https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Streetlights",
+        "url": "https://open.spotify.com/album/3FEpG9aXxEwWfdpHeCScvO"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Rainy Day Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/6K6uLBktAdE5MSx7fBOM9k"
     }
   ],
   "unique_name": "This Is Bonnie Raitt",

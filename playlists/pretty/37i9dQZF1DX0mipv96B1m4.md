@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,140 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 12 | [Bwogana](https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5) | [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Recho Rey](https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14) | [Bwogana](https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY) | 3:01 |
 | 13 | [Emergency](https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM), [Jose Chameleone](https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz) | [Star Gal](https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ) | 3:26 |
 | 14 | [Bango](https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf) | [Rickman Manrick](https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM) | [Bango](https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR) | 3:28 |
-| 15 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
-| 16 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 |
+| 15 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 |
+| 16 | [Nkutuse](https://open.spotify.com/track/3cgLA1n8S5CySSU9gzGS5f) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [Nkutuse](https://open.spotify.com/album/2sSKNRGDtntugwtz8qLoDg) | 3:09 |
 | 17 | [Sida Mukyalo](https://open.spotify.com/track/3gbxVFELkWWoJ2995nx9Rr) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Sida Mukyalo](https://open.spotify.com/album/478kQh6TY8UPWtR0qU5GwM) | 2:40 |
 | 18 | [Know God](https://open.spotify.com/track/6yL4ywybJ7s2jy68inQNyH) | [Coopy Bly](https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y) | [Know God](https://open.spotify.com/album/14xBAnMA04zeJCI0HXo9Fg) | 3:22 |
 | 19 | [Just Bu Just](https://open.spotify.com/track/6kmWdPTcbv91cTu1mxJ4z0) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl) | [Just Bu Just](https://open.spotify.com/album/7bQUSh4b5fi4bYj3OXvZCM) | 3:00 |
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 23 | [Edoboozi Lyo](https://open.spotify.com/track/5iwXQ93LYuwEaSog5UTFiz) | [Slick Stuart](https://open.spotify.com/artist/2huLG8Fcc7TwaqwIQP2S62), [DJ Roja](https://open.spotify.com/artist/5Z0ug9xtGDNFaLr2fKo9Jh), [King Saha](https://open.spotify.com/artist/3JQTIErs7TXtmo3HIv3yJa) | [Very Wellooo](https://open.spotify.com/album/0JHpCNCubMfvVYDopKGuMN) | 3:38 |
 | 24 | [Juicy Body](https://open.spotify.com/track/7184e5XguzlsBAN5T6WDqg) | [Ziza Bafana](https://open.spotify.com/artist/0rF2MfjTZWvmRsrdsVcdF3), [Ritah Danchall](https://open.spotify.com/artist/1Kl5zXFqEYaAjxvPr0xvMl) | [JUICY BODY](https://open.spotify.com/album/1YMB6UajEhgTZgpoNJsuns) | 2:30 |
 | 25 | [Magazine](https://open.spotify.com/track/76dVr5jQGCVElKmsTLVHKq) | [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Magazine](https://open.spotify.com/album/72Ghzaks0iVwFoPloKqEB7) | 4:02 |
-| 26 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
+| 26 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
 | 27 | [Banger](https://open.spotify.com/track/6s50uTx8qzel7HwNuz0xZW) | [John Blaq](https://open.spotify.com/artist/4IbZQdYTpGIrF4EvUJcAEl), [Suspekt Leizor](https://open.spotify.com/artist/2JPOWH88plI7HcSWZugaip) | [Banger](https://open.spotify.com/album/4o2MON66Cp04sCMhbJAa7U) | 3:15 |
-| 28 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
+| 28 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
 | 29 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 30 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 31 | [LIFIST](https://open.spotify.com/track/045zyz72HMi2gx0hfPnK6m) | [Fik Fameica](https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5) | [LIFIST](https://open.spotify.com/album/7h8sc5E5STX1XovzqXzjUO) | 3:34 |

@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-128 songs - 8 hr 46 min
+129 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Cartas Marcadas](https://open.spotify.com/track/6nvjPF8kyXmMPAk1z79nVb) | [Guadalupe del Carmen](https://open.spotify.com/artist/6FlGd9IZgA2GTefQPV6SLN) | [La Gran Fonda de Chile](https://open.spotify.com/album/6N1Nl5hLzsNcV0cEtg0g6O) | 3:26 | 2023-05-29 | 2023-10-08 |
 | [Charros para Rato](https://open.spotify.com/track/2zVkQBc220Acc5Ie41uR40) | [Los Charros De Lumaco](https://open.spotify.com/artist/6diRAnbJMBmn4MXIS4IHYk) | [La Nueva Fiesta de los Charros](https://open.spotify.com/album/7KD3IwiAS6qxvq8O29PDHv) | 3:41 | 2023-03-03 |  |
 | [Chiki Chaka](https://open.spotify.com/track/1bSSnjwuxEOjHhyN0PHB6J) | [Reina Isabel](https://open.spotify.com/artist/6w67n5aSfExuuvgE4CBSru) | [A todo corazón](https://open.spotify.com/album/37YcX6NwuExiCzUfZq25gp) | 2:16 | 2023-10-05 | 2023-12-15 |
+| [Claveles de Enero](https://open.spotify.com/track/3qcEUQO11QYYaDvfNFALEq) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [Claveles de Enero](https://open.spotify.com/album/14A1gd17HW0epUcTqFu49C) | 3:32 | 2023-10-05 |  |
 | [Como Quisiera Poder](https://open.spotify.com/track/7qWb5LYBem5C41FDqql1ae) | [Los Hermanos Sandoval De Calbuco](https://open.spotify.com/artist/3pSbDa9T4z7Rz51MKXXaLm) | [Todos a la Pista](https://open.spotify.com/album/4BVbDeIBlFIHn59PGam34e) | 4:30 | 2023-03-03 | 2024-05-12 |
 | [Como Te Va Mi Amor](https://open.spotify.com/track/3wUzYtWsQCFhsMAyVFOhrY) | [Los Prisioneros del Sur](https://open.spotify.com/artist/5zKSDRkzPs96LCwHIlLaLw) | [Una Década de Éxitos](https://open.spotify.com/album/0JnWNO7tFztY1PMVHtnFZl) | 4:24 | 2023-03-03 |  |
 | [Como Tú](https://open.spotify.com/track/1TQKYm6U2FnKVCH9E6gJWu) | [Tornado Ranchero](https://open.spotify.com/artist/4FDAXy690wtsQDhh6nlZWl) | [Tornado Ranchero](https://open.spotify.com/album/4FUL8GkSqNo8dt1v9em0ON) | 4:27 | 2023-03-03 |  |
@@ -60,7 +61,7 @@
 | [Fue Dificil](https://open.spotify.com/track/6ntuD3ofO39wHlPqu27p0M) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Dificil](https://open.spotify.com/album/0yzcxrxkFt98m6kGeWSaVb) | 3:44 | 2023-03-03 | 2023-06-18 |
 | [Furia Loca \(Mujer Cósmica\)](https://open.spotify.com/track/6cg8xpwqNvh7VVPG5dyymT) | [La Gran Magia Tropical](https://open.spotify.com/artist/25n4vLuiRlvNe67pJ8WvdP) | [Furia Loca](https://open.spotify.com/album/2I5YX797d9b7DN67fWhr8S) | 3:10 | 2023-03-03 | 2024-04-19 |
 | [Fué Difícil](https://open.spotify.com/track/0gvzdBfwfcHbqAmAL1ioZy) | [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/5fFxoM29guUMA4jbiE4GHr) | 3:44 | 2023-05-29 | 2023-09-09 |
-| [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 | 2023-03-03 |  |
+| [Galantes y Caballeros](https://open.spotify.com/track/41d9HYA4qgfQ51sc5Vvyjg) | [LOS FLORES DE YUNGAY](https://open.spotify.com/artist/6HEzbcgaRaKUB5c6ztRgPD) | [Galantes y Caballeros](https://open.spotify.com/album/2Chfx3gyFuWYb7NfjM9pW2) | 2:32 | 2023-03-03 | 2024-05-21 |
 | [Golero Emparamao](https://open.spotify.com/track/6gOBJrl6mbrtr5NUFaTbYj) | [Koky y su banda tropical ranchera](https://open.spotify.com/artist/0NsSi0eIkQ5z2CDDQ9RGGf) | [Golero Emparamao](https://open.spotify.com/album/35DKFImacmTdYePcu2utI7) | 4:28 | 2023-10-05 |  |
 | [Golpes y Besos](https://open.spotify.com/track/0RnzGw4vP6XEZbEIHOPFNT) | [Los Principes del Norte](https://open.spotify.com/artist/1iob7ma3J3xLV2disvGcjG) | [Grandes Éxitos](https://open.spotify.com/album/1qE854buRuUPuvoHNkgb7I) | 3:55 | 2023-03-03 |  |
 | [Guaijirito](https://open.spotify.com/track/3BPFQHWgeb1lO0X6iAODlW) | [Los Lumaquinos Alegres](https://open.spotify.com/artist/1XfppfgRosYjV7yZfLPUH0) | [Cumbias Campesinas](https://open.spotify.com/album/7bbjI9LPbJvgXw6u3foBZt) | 3:57 | 2023-03-03 | 2023-08-30 |

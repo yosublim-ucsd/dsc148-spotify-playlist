@@ -4418,7 +4418,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 174933,
       "name": "Grown Up",
       "url": "https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL"
@@ -10240,6 +10240,24 @@
       "duration_ms": 258561,
       "name": "Show Me Where It Hurts",
       "url": "https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD"
+    },
+    {
+      "album": {
+        "name": "Simple Like 17 (Deluxe)",
+        "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198287,
+      "name": "Shut Up About It",
+      "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
     },
     {
       "album": {

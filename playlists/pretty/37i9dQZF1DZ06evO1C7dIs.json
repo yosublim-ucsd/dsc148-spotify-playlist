@@ -1,12 +1,12 @@
 {
-  "description": "This is Nightwish. The essential tracks, all in one playlist.",
-  "num_followers": 243953,
+  "description": "This Is Nightwish. Todas as faixas essenciais numa \u00fanica playlist.",
+  "num_followers": 244000,
   "original_name": "This Is Nightwish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAPSopdiEKqttGGQ1VXPGNW",
+  "snapshot_id": "ZklBAAAAAADkh3SSvv7DBns86PLOrKpD",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bye Bye Beautiful",
-        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 301853,
-      "name": "Escapist",
-      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 259120,
       "name": "Turn Loose the Mermaids",
       "url": "https://open.spotify.com/track/7D7jA8A8gFHK7SdmO3oOrM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bye Bye Beautiful",
+        "url": "https://open.spotify.com/album/4qomktB4Z9mQVPm42eEYwd"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 301853,
+      "name": "Escapist",
+      "url": "https://open.spotify.com/track/66X2i4bMFJB9zGgff9gyzq"
     },
     {
       "added_at": null,

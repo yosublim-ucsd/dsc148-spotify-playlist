@@ -2,7 +2,7 @@
 
 ### [REM sleep](https://open.spotify.com/playlist/37i9dQZF1DX3TRdW1ekdvM)
 
-> Perfect sleep riding Theta brain waves\. It's Science, it works!
+> Theta waves: Your key to perfect sleep\. Science says so\. Try it!
 
 119 songs - 7 hr 41 min
 

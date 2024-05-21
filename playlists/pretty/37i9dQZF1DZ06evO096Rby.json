@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 31398,
+  "num_followers": 31437,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABcOGkL8AGGYIrB1km1+yCu",
+  "snapshot_id": "ZklBAAAAAACRBMTO4vbXkDrMHMLtT1F1",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Quiero Perderte",
-        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 159530,
-      "name": "No Quiero Perderte",
-      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ciudad Peligrosa",
         "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
       },
@@ -227,6 +207,26 @@
       "duration_ms": 226000,
       "name": "Ciudad Peligrosa",
       "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Quiero Perderte",
+        "url": "https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        },
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 159530,
+      "name": "No Quiero Perderte",
+      "url": "https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h"
     },
     {
       "added_at": null,
@@ -423,22 +423,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 177258,
-      "name": "Demonio Dormido - En Vivo",
-      "url": "https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con Muchas Ganas (En Vivo)",
         "url": "https://open.spotify.com/album/0d68E5jkALGrFEUUL2deEX"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 271189,
       "name": "Con Muchas Ganas (En Vivo)",
       "url": "https://open.spotify.com/track/53B9dnw7V6p6ZVzvpK4BUl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 177258,
+      "name": "Demonio Dormido - En Vivo",
+      "url": "https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 126591,
       "name": "Andamos Enclicados - En Vivo",
       "url": "https://open.spotify.com/track/2W7tzc89J9aWW99jHj4UwE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
     },
     {
       "added_at": null,
@@ -827,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailemos Bebe",
-        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 293412,
-      "name": "Micaela / La Mar\u00eda",
-      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602 Vol.3 (En Vivo)",
         "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 142357,
       "name": "En Los Puritos Huesos - En Vivo",
       "url": "https://open.spotify.com/track/1d3J01sINV8BsC38QtWMjL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bailemos Bebe",
+        "url": "https://open.spotify.com/album/0syTyLMkktbjJQi6o89rWG"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 293412,
+      "name": "Micaela / La Mar\u00eda",
+      "url": "https://open.spotify.com/track/4xqxRIgA4U71scvhAyvyig"
     },
     {
       "added_at": null,

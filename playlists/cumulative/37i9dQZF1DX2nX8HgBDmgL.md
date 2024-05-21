@@ -2,9 +2,9 @@
 
 ### [Desi Pop](https://open.spotify.com/playlist/37i9dQZF1DX2nX8HgBDmgL)
 
-> Home to the Desi Pop Bops\. Cover \- Asim Azhar\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
+> Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-219 songs - 11 hr 47 min
+220 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Ik Lamha](https://open.spotify.com/track/6KtSNVgCmQEvDgIuHoXAkT) | [Azaan Sami Khan](https://open.spotify.com/artist/6v5vYOydZ5MrA2qr6e4Lkc) | [Main Tera](https://open.spotify.com/album/47nAxBUhyce2q5v8lN1H2v) | 4:18 | 2024-02-22 |  |
 | [Illuminous](https://open.spotify.com/track/099SC5HFifJ4cOr9xTCEuc) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Illuminous](https://open.spotify.com/album/5tJE3R6o5gD1w1WSvvVrXt) | 2:46 | 2022-07-18 | 2024-02-23 |
 | [Imported Asle](https://open.spotify.com/track/1bHcAZMzxTCmMSBnzBsaHt) | [BIAS](https://open.spotify.com/artist/2DnPkSVxSNs0a6CkrikNz4), [Ishant](https://open.spotify.com/artist/0eutG1GgoWQPMZFjk0j6JJ) | [Imported Asle](https://open.spotify.com/album/76iHyb2UYNr1c8StuWXoKH) | 3:51 | 2021-11-11 | 2022-07-19 |
+| [In Love](https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [JSL Singh](https://open.spotify.com/artist/1411qE3e3uMmyj0XQ2CeoA) | [In Love](https://open.spotify.com/album/0vFXFLu6H6IfNwRJXpy4wS) | 2:41 | 2024-05-20 |  |
 | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/track/6FvSS3Goz7OC8oCC2eWqe8) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Jalebi Baby \(Tesher x Jason Derulo\)](https://open.spotify.com/album/7JXaassDX0q7XtdJLepSGd) | 2:49 | 2024-02-22 |  |
 | [Jama Kar](https://open.spotify.com/track/0zyMXraAjJoqD7EWSnRqHS) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Jama Kar](https://open.spotify.com/album/63zSAE7el24bx7PvQKex5B) | 3:27 | 2022-07-18 | 2024-02-23 |
 | [Jo Tu Na Mila](https://open.spotify.com/track/6DefzsWqnwrFrmNVnJxWkS) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Jo Tu Na Mila](https://open.spotify.com/album/4KSvSqPJwTo7qMxP4XyIaH) | 3:54 | 2024-02-22 |  |

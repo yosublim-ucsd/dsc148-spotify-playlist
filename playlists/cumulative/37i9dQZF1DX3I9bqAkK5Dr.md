@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-252 songs - 15 hr 20 min
+253 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,7 +184,7 @@
 | [Panipuri Anthem](https://open.spotify.com/track/0zBSq5bRDfTCu9p8XWjBbg) | [Pranav Chaganty](https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo) | [Panipuri Anthem](https://open.spotify.com/album/1qRNd3zrxt7fyVzuxy6FwB) | 1:57 | 2023-02-11 | 2023-11-08 |
 | [Pedavi Pilichina](https://open.spotify.com/track/2zXqqPBkjIlDvPUgPqCSPN) | [Aditi Bhavaraju](https://open.spotify.com/artist/35LFDqRu6EmXgUqEWeh2j6), [Siddiq Ansari](https://open.spotify.com/artist/5P0itn2JRIjugxZgkORwmu) | [Pedavi Pilichina](https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e) | 3:49 | 2023-08-25 | 2023-09-21 |
 | [People](https://open.spotify.com/track/0iXylfvuzZEE6mT4Y56ZvP) | [TES](https://open.spotify.com/artist/45bO8rTZ9fQrxXPWBvGiwZ), [EDWRLDMUSICK](https://open.spotify.com/artist/0GvRLozNftPCJkoE2DTrF5) | [People](https://open.spotify.com/album/0wTFhT4m7lLa5ti4p26iiW) | 2:25 | 2023-03-31 | 2023-05-23 |
-| [Pilla](https://open.spotify.com/track/1kdDZJYtoHHt4kq3BDo7D1) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [P Akshaya](https://open.spotify.com/artist/4JBpL56kk5zIodOONetywo), [MC Rahul Raj](https://open.spotify.com/artist/3LbutWO2ZRAHC2W5pQ3piG) | [Pilla](https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1) | 3:45 | 2024-02-21 |  |
+| [Pilla](https://open.spotify.com/track/1kdDZJYtoHHt4kq3BDo7D1) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb), [R Kaushal](https://open.spotify.com/artist/7CpF1CcWVJHWToGCHMJpy2), [P Akshaya](https://open.spotify.com/artist/4JBpL56kk5zIodOONetywo), [MC Rahul Raj](https://open.spotify.com/artist/3LbutWO2ZRAHC2W5pQ3piG) | [Pilla](https://open.spotify.com/album/4yzhPDSzzUvrtcex919xy1) | 3:45 | 2024-02-21 | 2024-05-21 |
 | [Pilla](https://open.spotify.com/track/1gNzOEg64KHBMxU0pteGQx) | [Ram Mantha](https://open.spotify.com/artist/3UHtkMWdp48GNkMlK3XUJr) | [Pilla](https://open.spotify.com/album/59XeWn5AXlh6BRx6gGKA4q) | 3:43 | 2024-01-19 | 2024-03-06 |
 | [Pilla Nee Ventae](https://open.spotify.com/track/6KBGVi3Kt2wKmNgqHX9cI9) | [Sanjith Raman](https://open.spotify.com/artist/4oaPJiDNexvtQNj8kIXZmP), [Rafiq Ali](https://open.spotify.com/artist/2LpmKpagVqOI6jWcI2foRY) | [Pilla Nee Ventae](https://open.spotify.com/album/6WjLOiB2G5DdzqKNxSPliT) | 4:26 | 2024-02-26 |  |
 | [Po Ve Po Ve](https://open.spotify.com/track/2ULcLS1AhtAvTwSPEw2VHu) | [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Po Ve Po Ve](https://open.spotify.com/album/5Eg6NDwFXJ4NjnnWMjlorN) | 3:18 | 2023-09-20 | 2023-10-18 |
@@ -222,6 +222,7 @@
 | [Shashi](https://open.spotify.com/track/34LZWWbtsf1EeuHFFXCh4j) | [Keethan](https://open.spotify.com/artist/6pPhJfUm9223ZTDFuz3ISJ), [Jimmy Francis John](https://open.spotify.com/artist/0LQFqghLXxYbgbCfTh8y1d), [Shravan Sridhar](https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec) | [Shashi](https://open.spotify.com/album/4M7U0wd17LfToupjlmn4GZ) | 4:02 | 2022-11-25 | 2024-03-09 |
 | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/track/56ASpqiyS2jNG5B5elaPO9) | [Hanumanth Yadav](https://open.spotify.com/artist/43kJUZHwzDo9sZtO81v2zl) | [Silakole Nuvvu Raye Pilla](https://open.spotify.com/album/2SIJkXk8dUxBFP91brycuZ) | 3:27 | 2023-05-19 | 2024-02-15 |
 | [Sin Amor](https://open.spotify.com/track/0B79xEGpoO6gubw7EXdqhG) | [Palan](https://open.spotify.com/artist/3h3nSNpwp9zppXybRDEKdA) | [Sin Amor](https://open.spotify.com/album/7egkhtRNFf89hpNHU4gaRb) | 2:54 | 2023-05-31 | 2023-07-11 |
+| [Sinnadhani Soopule](https://open.spotify.com/track/2Et9hHVe8lJRrZmzIjHPGI) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [Saketh Komanduri](https://open.spotify.com/artist/3MoBedNBt9D9IRmhRJxV3L), [Dasari Meghanaa Naidu](https://open.spotify.com/artist/6nXSa59gwQArrXzEZ76jrU) | [Sinnadhani Soopule](https://open.spotify.com/album/1WSsbZdcedvuZxs8iCu4zL) | 2:42 | 2024-05-20 |  |
 | [Sitakokaciluka](https://open.spotify.com/track/0fWRLW7TcgYJ2M4vTuIzo3) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/7yuHkxh8ZUvYEnFhw2T5Pu) | 3:57 | 2023-09-11 | 2024-04-19 |
 | [Sitakokaciluka](https://open.spotify.com/track/78qGxoitQzG6JnamlP1bjN) | [Harsha Gannoji](https://open.spotify.com/artist/1218jZiNiuZTNiAnQ5c5hR) | [Sitakokaciluka](https://open.spotify.com/album/1535QxiyC32YhsagUl8Wkm) | 3:57 | 2023-09-11 |  |
 | [Star](https://open.spotify.com/track/1XVSdHxrg2AnrTLKENA9RR) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW) | [Star](https://open.spotify.com/album/3mH1z3FmGyrrpOjMKcjDJJ) | 2:38 | 2023-03-23 | 2023-05-23 |

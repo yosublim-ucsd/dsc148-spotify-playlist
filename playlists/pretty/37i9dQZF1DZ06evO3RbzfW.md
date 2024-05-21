@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 
 ### [This Is Rammstein](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RbzfW)
 
-> This is Rammstein\. The essential tracks, all in one playlist.
+> This is Rammstein\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,311,698 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,312,059 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,11 +33,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 23 | [Ohne dich](https://open.spotify.com/track/4aFC7Mes7CW5vHcb8ZApAx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:31 |
 | 24 | [Zeit](https://open.spotify.com/track/2KsHzM4L7ThhNJB6MHXkPx) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 5:21 |
 | 25 | [Waidmanns Heil](https://open.spotify.com/track/2qiNfSncVqWp4Do6D4a3Le) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:32 |
-| 26 | [Was ich liebe](https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:29 |
+| 26 | [Puppe](https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:33 |
 | 27 | [Mein Teil](https://open.spotify.com/track/39RKlCfLoqb8o2aXfpVfjW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:32 |
 | 28 | [Halleluja](https://open.spotify.com/track/5lGk2d6vYXSv5RiLMHLsCZ) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Raritäten \(1994 \- 2012\)](https://open.spotify.com/album/0o0QM3HLgDRQQslL2ott2a) | 3:44 |
 | 29 | [Haifisch](https://open.spotify.com/track/5392GpKmAP3UvIAfHC8LAW) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 3:44 |
-| 30 | [Puppe](https://open.spotify.com/track/2iFgHPoa7FNHwgLnjXzu7F) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:33 |
+| 30 | [Was ich liebe](https://open.spotify.com/track/4anzVbFPUuZTw0KQeZ0qnu) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 4:29 |
 | 31 | [Reise, Reise](https://open.spotify.com/track/6bvTzuFABmFnAAmVZ3nlMh) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Reise, Reise](https://open.spotify.com/album/74ydDCcXTco741y42ceRJ5) | 4:11 |
 | 32 | [Bück dich](https://open.spotify.com/track/3pi5DteeniOsDzonEx5qpg) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht \(Anniversary Edition \- Remastered\)](https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP) | 3:23 |
 | 33 | [Ich tu dir weh](https://open.spotify.com/track/7ritPWOWvsthxFDxOz1OjH) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Liebe ist für alle da \(Special Edition\)](https://open.spotify.com/album/29J0MchD0OWNeiMNbPDwfa) | 5:01 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RbzfW.md) - [plain]
 | 44 | [Te quiero puta!](https://open.spotify.com/track/0KwqP13BnZMIycfxnqWtK1) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rosenrot](https://open.spotify.com/album/3PrS5X3QNdDUlBIE4bz6J2) | 3:55 |
 | 45 | [Heirate mich](https://open.spotify.com/track/33LTCp3HM36k7KuB7M3IHd) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Herzeleid \(XXV Anniversary Edition – Remastered\)](https://open.spotify.com/album/6HlDm9fzYxk4vkkr3YEvSv) | 4:44 |
 
-Snapshot ID: `ZkfvgAAAAADLYcF0e5Y2aiW9RcsBVRrq`
+Snapshot ID: `ZklBAAAAAAC24rBBK9qLux/c4tI7mA7z`

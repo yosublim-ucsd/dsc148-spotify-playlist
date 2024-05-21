@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,207 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,203 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 36 | [Brrr Get$](https://open.spotify.com/track/4kiD38roQQBlqEGMyTJXXh) | [Nucksal](https://open.spotify.com/artist/6v5cGuRCZKq08nLI4WXJuB), [JOWOOCHAN](https://open.spotify.com/artist/3aJJ3PgNVHdHGZ1XPgtSEc), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [Show Me the Money 6 Episode 3](https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa) | 4:23 |
 | 37 | [Family Portrait \(Feat\. Kim Feel\)](https://open.spotify.com/track/20LM2NJWXVwCqtkVeJIb7B) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:46 |
 | 38 | [ORIGINAL \(Feat\. Sion\) \(Prod\. R.Tee\)](https://open.spotify.com/track/4mIVK08PK5UB8R196Cx64r) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:12 |
-| 39 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
-| 40 | [I said it](https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:09 |
+| 39 | [I said it](https://open.spotify.com/track/4Eix5hlLVmeti1vDCDqmIG) | [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [GENERATION](https://open.spotify.com/album/1QuuarCDtB9FLdciO1iT0b) | 3:09 |
+| 40 | [Freedom \(Feat\. DUT2\) \(Prod\. Way Ched\)](https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Freedom](https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8) | 3:59 |
 | 41 | [Star\(feat.Nell\)](https://open.spotify.com/track/6kbOu1oRTxRxRTBrGxIYzK) | [VINXEN](https://open.spotify.com/artist/4T6xiCykTP9rCNaEPU7D4q), [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Star](https://open.spotify.com/album/3zCvTkjs4RaVAV5AF4LayZ) | 4:00 |
 | 42 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 |
 | 43 | [GRAIN \(Feat\. Dynamicduo, BewhY\)](https://open.spotify.com/track/5fV59hTTF805bqlzmI3TcH) | [untell](https://open.spotify.com/artist/3A1b2Lg9tPuQyR7ab1xgp8), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [BewhY](https://open.spotify.com/artist/1wsoV3RXPkxVz3PwsNRI5K) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 4:17 |

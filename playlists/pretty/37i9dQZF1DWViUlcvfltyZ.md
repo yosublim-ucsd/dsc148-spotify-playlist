@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Brucherò nei pascoli in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 95 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,200 likes - 95 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

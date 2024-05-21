@@ -2,7 +2,7 @@
 
 ### [This Is Lenin Ramírez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1UcSd2)
 
-> This is Lenin Ramírez\. The essential tracks, all in one playlist.
+> This Is Lenin Ramírez\. Los temas esenciales, todos en una lista.
 
 98 songs - 5 hr 5 min
 
@@ -32,7 +32,7 @@
 | [El Blue](https://open.spotify.com/track/3CfSS20rhCGYdjJSbt5qCz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 3:18 | 2022-06-02 | 2022-10-13 |
 | [El Cabe \(En Vivo\)](https://open.spotify.com/track/1A6CTHoF8kNPPmT5uRZqTJ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Cabe \(En Vivo\)](https://open.spotify.com/album/7rYPaiJkjB2BHt6k9THWXD) | 2:56 | 2023-03-06 | 2023-06-17 |
 | [El Camaron](https://open.spotify.com/track/0QEu2G3MytoxkCjQgDqeth) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:37 | 2022-06-01 | 2022-10-13 |
-| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 | 2024-02-01 |
+| [El Centenario \(En Vivo\)](https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:08 | 2022-06-01 |  |
 | [El Chino](https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino](https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo) | 2:47 | 2022-06-01 |  |
 | [El Cl\-1](https://open.spotify.com/track/3YSTO30NZkuyPhQFkzAdbW) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 2:47 | 2022-06-01 | 2022-10-13 |
 | [El de la Ciudad del Sol \(En Vivo\)](https://open.spotify.com/track/1v90F4FNxt3nb3v5ahWVnU) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 2:23 | 2022-06-03 | 2022-06-14 |
@@ -78,7 +78,7 @@
 | [Las Erres Gemelas](https://open.spotify.com/track/7hwomKLANXZQDHEFzjbgq1) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Las Erres Gemelas](https://open.spotify.com/album/73q7EwOjaITTUQB7ajLmm6) | 4:35 | 2022-11-13 | 2024-01-29 |
 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 | 2023-02-09 | 2024-04-28 |
 | [Las Vueltas de la Vida](https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Las Vueltas de la Vida](https://open.spotify.com/album/3jKITc4vEht1Bk6Km1cJKW) | 4:06 | 2022-06-01 |  |
-| [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 | 2022-12-12 |  |
+| [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/track/1XRkSe7d9DGIABTi4gpna9) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Lo Paseado Quién Me Lo Quita](https://open.spotify.com/album/2pg9lePFwsEtRNTnijEI9U) | 2:55 | 2022-12-12 | 2024-05-21 |
 | [Los Panteras Del 08](https://open.spotify.com/track/1EAfSKTIVlFOLHpbXIq5pt) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:51 | 2024-02-22 | 2024-05-05 |
 | [Maestra del Engaño \- En Vivo](https://open.spotify.com/track/27BVgB1VHa9RrUhi2mGrHu) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Maestra del Engaño \(En Vivo\)](https://open.spotify.com/album/6KTq0B6tFLsoemadvjD8Ql) | 2:42 | 2022-06-01 | 2023-07-24 |
 | [Me Famoso Chino Antrax](https://open.spotify.com/track/6UsWPelSadUoBuy75fGxbi) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Album De Mi Puno Y Letra](https://open.spotify.com/album/2OXmlL4OKCcZOLddvPTxai) | 3:00 | 2022-06-01 | 2024-02-05 |

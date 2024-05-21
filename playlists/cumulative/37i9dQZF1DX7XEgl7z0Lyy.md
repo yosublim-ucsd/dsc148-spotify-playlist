@@ -4,7 +4,7 @@
 
 > music from the underworld
 
-224 songs - 7 hr 48 min
+225 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [bandz in my poccket](https://open.spotify.com/track/6D9pELc0TWsCgxVxqhpmkR) | [kaystrueno](https://open.spotify.com/artist/2PY3V8CCFzhqxUzWEcjKZ4) | [bandz in my poccket](https://open.spotify.com/album/6iu9KtHmLXOiHX0Kh2dh7t) | 1:01 | 2023-07-21 | 2023-07-28 |
 | [betterlucknexttime](https://open.spotify.com/track/0oJzcDo14Hb9JHwLuBe3bb) | [betterluckmason](https://open.spotify.com/artist/3n50HiEZZUPpdSO14AZxXz), [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [betterlucknexttime](https://open.spotify.com/album/2HXxXNDQ3HHb2D0YBr0Cq0) | 2:53 | 2023-10-20 | 2023-11-21 |
 | [BFM \(w/ Britney Manson & kets4eki\)](https://open.spotify.com/track/5ZwMjCsprna6nM8D86dv6e) | [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [BFM \(w/ Britney Manson & kets4eki\)](https://open.spotify.com/album/19iAjvRqUO9NQrsO4jVMKl) | 2:28 | 2024-04-05 |  |
-| [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 | 2023-09-08 |  |
+| [Blow Up!](https://open.spotify.com/track/2zzZeb9Ak6Dg4ApitspENL) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Blow Up!](https://open.spotify.com/album/4LLNrklrDzeZl5M9gc8kBx) | 2:30 | 2023-09-08 | 2024-05-21 |
 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 | 2023-07-21 |  |
 | [BORDERLINE PERSONALITY DISORDER \- CLUB MIX](https://open.spotify.com/track/0q9nAzxAkkW2Pt4EfG5kSt) | [ODECORE](https://open.spotify.com/artist/3GMH7ApqfVpvBM1MuToQR7), [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe), [HR](https://open.spotify.com/artist/3UrGictkKDBfGKpK2ZiWGX) | [ODECORE CLUB MIX](https://open.spotify.com/album/1GZ30wToQiw1pjUR9NibpI) | 1:29 | 2024-01-05 | 2024-02-24 |
 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 | 2024-04-19 |  |
@@ -191,6 +191,7 @@
 | [snorting up ur blood!](https://open.spotify.com/track/6q94uCmVq3S7zNucgTy875) | [kmrnxo](https://open.spotify.com/artist/74MU7adE5990G7b8NHXMM3), [elctrnc/sed:/](https://open.spotify.com/artist/2ahIyLL6nPsDEdX8RA470Z), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [snorting up ur blood!](https://open.spotify.com/album/51SSmdLlvcuLX9biV02SGx) | 2:10 | 2024-03-15 |  |
 | [So Fast](https://open.spotify.com/track/2JhhwzWuNYa8JtXduJE3Aj) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6), [Linxo](https://open.spotify.com/artist/6LYNuLh5TZQAYxuhsK8lcX) | [So Fast](https://open.spotify.com/album/5G8vICzPb4gk5KzS8N7ci4) | 1:28 | 2023-08-25 | 2023-12-16 |
 | [so nice of you](https://open.spotify.com/track/0kvJIoVCamQAYrd0CL2lyD) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [so nice of you](https://open.spotify.com/album/2NveJmvAvsRGG3WBCxjA3i) | 2:10 | 2023-12-08 | 2024-04-27 |
+| [So What If I'm A Freak](https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [So What If I'm A Freak](https://open.spotify.com/album/01Si4JV49tWw0ZI3o9L7VQ) | 2:26 | 2024-05-20 |  |
 | [SO WHY DON'T YOU GO?](https://open.spotify.com/track/7fTDFUbjVOq3Qoljln1NYj) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [SO WHY DON'T YOU GO?](https://open.spotify.com/album/6rVkMcr9TxeElU2ftov4DG) | 2:23 | 2023-08-25 |  |
 | [stay\_w\_me](https://open.spotify.com/track/6tKUMn27YjNOxxjttkI40A) | [m1v](https://open.spotify.com/artist/5pfVvTVQiPCMClDlE3bj0S) | [stay\_w\_me](https://open.spotify.com/album/6tdL42Aa8sREKhNt4t1oNS) | 2:16 | 2023-07-21 | 2023-09-02 |
 | [stick](https://open.spotify.com/track/3nvcA0Zz6WbLR3epcwfMJ5) | [icemop](https://open.spotify.com/artist/0eo1FaSaEAhrNTgCD9g6G3) | [stick](https://open.spotify.com/album/7zUnC2t8TM6zqtqlpTcEn9) | 1:02 | 2023-07-21 | 2023-07-29 |

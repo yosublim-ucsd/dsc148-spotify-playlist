@@ -2,7 +2,7 @@
 
 ### [This Is Little Jesus](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3b6YN5)
 
-> This is Little Jesus\. The essential tracks, all in one playlist.
+> This Is Little Jesus\. Los temas esenciales, todos en una lista.
 
 47 songs - 3 hr 12 min
 
@@ -32,7 +32,7 @@
 | [Los Esclavos](https://open.spotify.com/track/3rEwX4Ag28iVs3rcp5o952) | [Ramona](https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Redes Sociales](https://open.spotify.com/album/1dTlq4zPoV7Lv2Q5ZcTKNE) | 3:10 | 2023-10-10 |  |
 | [Los Ángeles, California](https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 4:45 | 2023-10-10 |  |
 | [Mal \- Bonus](https://open.spotify.com/track/42wlc3UbSdk68Ngweo5ZBX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 3:57 | 2023-10-10 |  |
-| [Mala Onda](https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:21 | 2023-10-10 |  |
+| [Mala Onda](https://open.spotify.com/track/2rYHKN73hrtu3lb1OjFzzH) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:21 | 2023-10-10 | 2024-05-21 |
 | [Maldita Distancia](https://open.spotify.com/track/4C55PjK12YhrZBt3TysuEI) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Maldita Distancia](https://open.spotify.com/album/0COlLwIKoLkM0CObynJaBj) | 2:15 | 2023-11-10 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/0xVdc0ZjwBJRP3AY4ytaBP) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 2:55 | 2023-12-13 |  |
 | [Mi Droga Favorita](https://open.spotify.com/track/5uAMj3PkbSoYhJbEfc0CSX) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Mi Droga Favorita](https://open.spotify.com/album/5gVIZXNXoXM9Z9AHDtnSqL) | 2:55 | 2023-10-10 | 2023-12-14 |
@@ -49,7 +49,7 @@
 | [Solo](https://open.spotify.com/track/6fsiu35EUhFHqKUP32ZMMf) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Solo](https://open.spotify.com/album/1Eq3jsx4ZmnlEmLCGZQJXm) | 4:48 | 2023-10-10 |  |
 | [Tiempo \- Bonus](https://open.spotify.com/track/5gJHkrpUYFrdu59P7XCv9e) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte \(Japanese Version\)](https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo) | 5:30 | 2023-10-10 |  |
 | [TQM](https://open.spotify.com/track/3ugSNE8PdPr2sfRWSNfCtX) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:19 | 2023-10-10 |  |
-| [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 | 2023-10-10 | 2024-05-20 |
+| [Trágame Tierra](https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 5:26 | 2023-10-10 |  |
 | [Un Plan Espectacular](https://open.spotify.com/track/3m604iEEnJrXDRBPXhzTL7) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Disco de Oro](https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj) | 3:25 | 2023-10-10 |  |
 | [Venomous Village \(Haiti Remix\)](https://open.spotify.com/track/0uzHIQiqV6geqopPYBbCr1) | [Bible Lil\-E\-Locced Insane](https://open.spotify.com/artist/5idCz2A5eGMrb9xmGNpOv8), [Gèp Nwa](https://open.spotify.com/artist/1eVclp6D3eBWNajdJfTHhS), [Gmind Flip](https://open.spotify.com/artist/29LfD3hbm39lP49J4KMCqV), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Mister Kriyel](https://open.spotify.com/artist/2evJIjUzTnaolqpcIP6aKv), [Trust Hallahalla Ayiyatatay](https://open.spotify.com/artist/06TJMmRHk8Kd0w4gwi7wye) | [Venomous Village \(Haiti Remix\)](https://open.spotify.com/album/0ACMM9HFnXU0FIHvJC1tq2) | 5:28 | 2023-11-10 | 2023-12-14 |
 | [Viaje Redondo](https://open.spotify.com/track/0fYZSKWg61Np03wbY4YuUW) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Buen Pez](https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV) | 3:29 | 2023-10-10 |  |

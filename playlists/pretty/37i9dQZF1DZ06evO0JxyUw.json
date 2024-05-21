@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 260848,
+  "num_followers": 260930,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACni51jtmBQHySXjM2oDYIQ",
+  "snapshot_id": "ZklBAAAAAACmBz1P8xe/ueMkpiQjCMGm",
   "tracks": [
     {
       "added_at": null,
@@ -231,30 +231,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lady Marmalade",
-        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        },
-        {
-          "name": "Lil' Kim",
-          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
-        },
-        {
-          "name": "M\u00fda",
-          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
-        },
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 267960,
-      "name": "Lady Marmalade - Single Edit",
-      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
     },
     {
       "added_at": null,
@@ -271,22 +259,6 @@
       "duration_ms": 245960,
       "name": "Fighter",
       "url": "https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
     },
     {
       "added_at": null,
@@ -323,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -339,22 +327,6 @@
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "added_at": null,
@@ -395,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -411,22 +399,6 @@
       "duration_ms": 255266,
       "name": "Can't Hold Us Down (feat. Lil' Kim)",
       "url": "https://open.spotify.com/track/0cv1Mnb47oMvjVKMc2cyZw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 215800,
-      "name": "What a Girl Wants",
-      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
     },
     {
       "added_at": null,
@@ -871,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva Duets",
-        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 122226,
-      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
-      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fall In Line (feat. Demi Lovato)",
         "url": "https://open.spotify.com/album/323CkC5IKF9IakoJFSE8Yy"
       },
@@ -907,6 +859,26 @@
       "duration_ms": 248544,
       "name": "Fall In Line (feat. Demi Lovato)",
       "url": "https://open.spotify.com/track/25qfFpoGhk9Njgu5nl36sS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva Duets",
+        "url": "https://open.spotify.com/album/4bePJNQoFZ2FhPHgBPmvbv"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "Steppin' Out with My Baby (with Christina Aguilera)",
+      "url": "https://open.spotify.com/track/04LAPXr5C6W4ufoCVxr5Bx"
     },
     {
       "added_at": null,
@@ -943,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -963,8 +951,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
-        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+        "name": "La Fuerza",
+        "url": "https://open.spotify.com/album/10g6da1CbqB78EddjRvJK5"
       },
       "artists": [
         {
@@ -972,9 +960,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 163280,
-      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
-      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
+      "duration_ms": 228635,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5hgtFPs0T9r4YQqLjmam3h"
     }
   ],
   "unique_name": "This Is Christina Aguilera",

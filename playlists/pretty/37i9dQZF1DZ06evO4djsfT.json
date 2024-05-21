@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 24238,
+  "num_followers": 24243,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAYNFjYtsAIfMHj7NWqq+HV",
+  "snapshot_id": "ZklBAAAAAAAl1V36CrQZPHX1Zk6gH701",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Chains",
-        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        }
-      ],
-      "duration_ms": 222651,
-      "name": "No Chains",
-      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Today We Rebel",
         "url": "https://open.spotify.com/album/4F78fdhOqb861NcldgbPTH"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 246545,
       "name": "Not Today Satan",
       "url": "https://open.spotify.com/track/1oKdabnq8pKhjM79yUNN93"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Chains",
+        "url": "https://open.spotify.com/album/0IyI0N52hnLYyBRoeB0EAr"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        }
+      ],
+      "duration_ms": 222651,
+      "name": "No Chains",
+      "url": "https://open.spotify.com/track/2B8OrKU8suMxTx2PcuuSIG"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomorrow We Live",
-        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
-      },
-      "artists": [
-        {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
-        },
-        {
-          "name": "Mattie of For Today",
-          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
-        }
-      ],
-      "duration_ms": 236353,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His Glory Alone II (Deluxe)",
         "url": "https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 210040,
       "name": "Friends",
       "url": "https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tomorrow We Live",
+        "url": "https://open.spotify.com/album/5ZjHNjAwBW3atSfIfkCQpR"
+      },
+      "artists": [
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Mattie of For Today",
+          "url": "https://open.spotify.com/artist/7BjHKoCoguN4piT5nr7F5z"
+        }
+      ],
+      "duration_ms": 236353,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/67Up1s05wqRlG7sy0PWMlO"
     },
     {
       "added_at": null,

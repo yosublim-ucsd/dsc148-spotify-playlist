@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-729 songs - 1 day 18 hr 1 min
+730 songs - 1 day 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Get Through](https://open.spotify.com/track/1aByvbcFFDPTCEA4mTVJhW) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Get Through](https://open.spotify.com/album/5iDeNESrto46Zim2KP4bfX) | 3:24 | 2023-01-23 | 2023-04-07 |
 | [Get To U](https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [Get To U](https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB) | 2:56 | 2022-04-14 | 2022-06-25 |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-25 | 2023-12-14 |
-| [Ghost](https://open.spotify.com/track/5aYAFbdlG9ljCTv4L1EUAX) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Ghost](https://open.spotify.com/album/0wBFjhEg6oiQ3fqc7p308r) | 3:17 | 2024-02-29 |  |
+| [Ghost](https://open.spotify.com/track/5aYAFbdlG9ljCTv4L1EUAX) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi) | [Ghost](https://open.spotify.com/album/0wBFjhEg6oiQ3fqc7p308r) | 3:17 | 2024-02-29 | 2024-05-21 |
 | [Ghost](https://open.spotify.com/track/6nRh4WwS6Xf8j87U8YFWnh) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI) | [Ghost](https://open.spotify.com/album/2AOQq9d3D4CL1rngPMYxBy) | 3:03 | 2022-10-29 | 2023-01-24 |
 | [Give It All](https://open.spotify.com/track/2z320ljvSDmS5t7jqwHoQh) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Give It All](https://open.spotify.com/album/2cZgwrm6dvq74qSQeIfqoc) | 3:42 | 2022-08-09 | 2022-10-21 |
 | [Give Me A Second](https://open.spotify.com/track/2UkcQ2khDIdFRIr9VG28l2) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Give Me A Second](https://open.spotify.com/album/075F3FRDl5aFv3PJBq8id0) | 4:22 | 2022-01-21 | 2022-03-30 |
@@ -453,7 +453,7 @@
 | [NOPE](https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u) | [Cyclops](https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN) | [NOPE](https://open.spotify.com/album/6njyxhqm4g489876fqE1lF) | 2:26 | 2024-04-15 |  |
 | [Norte](https://open.spotify.com/track/6mwupa00mKosHnA2Yadp1u) | [Etza](https://open.spotify.com/artist/5XCGOe3YCAhxsfQIUb5xGe), [Enviado Vida](https://open.spotify.com/artist/0oIm7Qj3lCZzwr1xLlRqT8) | [Norte](https://open.spotify.com/album/1GvvFHVDmXb6sVwDaJhliB) | 3:24 | 2023-07-04 | 2023-09-26 |
 | [Northern Lights](https://open.spotify.com/track/2Z7mgegx1cKi8UoMOFHEIl) | [Saxsquatch](https://open.spotify.com/artist/0rsyQklwpBiAvkeXbnFB1t) | [Northern Lights](https://open.spotify.com/album/7sVsz8n71bg6rA1uON2DzU) | 3:06 | 2022-06-21 | 2022-09-07 |
-| [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-02-28 |  |
+| [Not My Night](https://open.spotify.com/track/6EUJEfYWvjdOzxpt2BIww6) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Not My Night](https://open.spotify.com/album/2ZTlNNxszsBxCU71FCQxd7) | 3:22 | 2024-02-28 | 2024-05-21 |
 | [NOT THE ONE](https://open.spotify.com/track/1zT5ymdKPYUJBNLa85FIBN) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [Kelly Paige](https://open.spotify.com/artist/55gmpteNh4JYsHglV3aQeD) | [NOT THE ONE](https://open.spotify.com/album/6fMyp6cpXpQDq5dZ2cRBuY) | 2:27 | 2023-09-26 | 2024-01-11 |
 | [Nothin On You](https://open.spotify.com/track/1yhjOPo2WSZHL32MrTxk4B) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ), [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Nothin On You](https://open.spotify.com/album/1Nu4WHbLLaD6jbvV4G2BSs) | 3:03 | 2024-04-04 |  |
 | [Nova](https://open.spotify.com/track/60JKwJQTyaX5EcEhmfmPy3) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Livingston Crain](https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn) | [Nova](https://open.spotify.com/album/3l62LbSvXMTWUz30VYbaHr) | 3:01 | 2023-06-14 | 2023-09-26 |
@@ -727,6 +727,7 @@
 | [Won't Make A Sound](https://open.spotify.com/track/1mgsWGf69P448vP0md1Z8e) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Won't Make A Sound](https://open.spotify.com/album/30dC6io6lDi08GNNyGnudg) | 4:36 | 2022-05-17 | 2022-07-28 |
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
 | [Words Left Unsaid](https://open.spotify.com/track/56cuxHVeq2EtTpaRBZgrnX) | [Aftruu](https://open.spotify.com/artist/5j8cJ0cS4JKvSAwmX5NDcH) | [Words Left Unsaid](https://open.spotify.com/album/7nxvvQ5nrkO4aa5rlgCzyG) | 4:08 | 2022-09-07 | 2022-11-08 |
+| [Worst Night of My Life](https://open.spotify.com/track/5QP7Wvkr7TG1qxtOZ88Ri8) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc) | [Worst Night of My Life](https://open.spotify.com/album/0LV7hVjylBE8h9ZxbOXapY) | 2:55 | 2024-05-20 |  |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [Yesterday](https://open.spotify.com/track/6Wz9kNEppcp9U6jHptH6sQ) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg) | [Yesterday](https://open.spotify.com/album/0MU0ovgIP5zFj9CJLbkTaM) | 4:33 | 2022-09-02 | 2022-11-05 |
 | [Yesterday \- Voicians Remix](https://open.spotify.com/track/7Mr4FBVQtgiv92xG2S8H68) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [Voicians](https://open.spotify.com/artist/5DNApAt05XowaylsOJo1eW) | [Yesterday \(Voicians Remix\)](https://open.spotify.com/album/5sbwe27UyyTgGl77szrT86) | 3:52 | 2023-12-11 | 2024-03-23 |

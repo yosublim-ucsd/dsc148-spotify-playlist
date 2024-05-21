@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=f30pYG6KQaiHmVDQayf2lg>Victoria Orenze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,410 likes - 52 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,516 likes - 52 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

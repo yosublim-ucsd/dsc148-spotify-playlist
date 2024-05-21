@@ -471,6 +471,32 @@
     },
     {
       "album": {
+        "name": "DaaDaa",
+        "url": "https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur"
+      },
+      "artists": [
+        {
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Emmanuel Smith",
+          "url": "https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b"
+        },
+        {
+          "name": "Omari Kissi Jnr",
+          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193306,
+      "name": "DaaDaa",
+      "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
+    },
+    {
+      "album": {
         "name": "Dear God",
         "url": "https://open.spotify.com/album/4uW2MlugHUxK2JgW2tIjS6"
       },
@@ -1178,7 +1204,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 409432,
       "name": "Nkunim (The Victory Song)",
       "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"

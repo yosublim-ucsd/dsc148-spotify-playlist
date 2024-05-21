@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">billie</a> 💙 you hit us hard and soft 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,967 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,975 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 88 | [lose my cool](https://open.spotify.com/track/6LZFsqJA882z80VvdrpTVh) | [Fredrika Rei](https://open.spotify.com/artist/5N8e6CZ7XT5D6bKYFOIsD8) | [lose my cool](https://open.spotify.com/album/3dlnnhTC3bHOAoWtngCze7) | 3:12 |
 | 89 | [Seaside Lily](https://open.spotify.com/track/5wxlOPBSwRqaQjoxixd2m2) | [BayBees](https://open.spotify.com/artist/5mk4Q8y0940oq60OETUzGI) | [Seaside Lily](https://open.spotify.com/album/2tUsV03Q5v8WWjchbDzt08) | 2:56 |
 | 90 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 |
-| 91 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Kel](https://open.spotify.com/artist/0TLOVFA4f1et5PuPPVaGVg) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
+| 91 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
 | 92 | [Predator](https://open.spotify.com/track/6Cwk36wUF09SwKpFcbDmsb) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Predator](https://open.spotify.com/album/2FabmVUXXkbYsqInaVDWkg) | 3:40 |
 | 93 | [Sane](https://open.spotify.com/track/5syDXzwcdGMuKxdx3PZokJ) | [Silvera](https://open.spotify.com/artist/0uE76EfCRAHXuM0n5hesvK) | [Sane](https://open.spotify.com/album/04aWemPcwrlpwVZPOpJu59) | 3:59 |
 | 94 | [Satisfaction](https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [Satisfaction](https://open.spotify.com/album/3ocRwxucX3212g29vOg7je) | 3:33 |

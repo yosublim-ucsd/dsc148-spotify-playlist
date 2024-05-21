@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: Vlntna B
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,477 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,475 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 13 | [En Mi Bolsillo](https://open.spotify.com/track/6jDcUlw3ZpL5of5A0yc6fL) | [Martina Lluvias](https://open.spotify.com/artist/5x24CqyDaYbM6OUjxLYkUo) | [Las Canciones](https://open.spotify.com/album/57h6QaNhg051aL0RiaFKu6) | 3:02 |
 | 14 | [Fumar de día](https://open.spotify.com/track/482CWaKmMQzrYMQMEMYRtT) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Prender un Fuego](https://open.spotify.com/album/3QgG3SuMTWMIsxwzdu7vN3) | 2:58 |
 | 15 | [Huellas](https://open.spotify.com/track/1SVCCEV7QGvSKKhqRz3JHa) | [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Huellas](https://open.spotify.com/album/5dP8254p4zg1six4QP4P4z) | 3:02 |
-| 16 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |
-| 17 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 16 | [Nada Para Ti](https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nada Para Ti](https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t) | 3:56 |
+| 17 | [si vuelvo a caer](https://open.spotify.com/track/4bTFg8ecsSwHg9ndyK9rR7) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [si vuelvo a caer](https://open.spotify.com/album/08TRoa9KPyQpXu3WcA58Nv) | 2:13 |
 | 18 | [A la Primera](https://open.spotify.com/track/3MsD0RrlQb1OoPFInlQoJy) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [De Canciones Tristes y Otras Sutilezas](https://open.spotify.com/album/4pYSsYWtj0fPzTXF5tES60) | 2:41 |
 | 19 | [Ganadora](https://open.spotify.com/track/3neJo4FkVszaL4EEt18uKR) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [ANNA Vol1\. LOS AMANTES](https://open.spotify.com/album/3FBYpRzAkNEMXSqGx9N3rv) | 4:56 |
 | 20 | [Naughty Girl](https://open.spotify.com/track/2NwQbPPvOug0y3GEqDGjHD) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Supernova](https://open.spotify.com/album/4CRoaYnahZXOI7zsM14Ca1) | 2:56 |

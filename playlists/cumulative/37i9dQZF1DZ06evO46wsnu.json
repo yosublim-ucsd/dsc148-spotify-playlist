@@ -96,7 +96,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 204280,
       "name": "Endgame",
       "url": "https://open.spotify.com/track/2xbPgQOfICgLYs8P4lkEtx"
@@ -402,7 +402,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 237480,
       "name": "Help Is On The Way",
       "url": "https://open.spotify.com/track/09jPXOz0LS0kpqmkQRaFPO"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 267560,
       "name": "Last Man Standing",
       "url": "https://open.spotify.com/track/30X8uXiLDYneS0MuQY2H6n"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 242280,
       "name": "Savior",
       "url": "https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB"
@@ -1090,6 +1090,24 @@
       "duration_ms": 299946,
       "name": "The Numbers",
       "url": "https://open.spotify.com/track/2gDJhVspNZPpCEyzR9zOY0"
+    },
+    {
+      "album": {
+        "name": "Appeal To Reason",
+        "url": "https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "The Strength To Go On",
+      "url": "https://open.spotify.com/track/2gVuP7yxrIsn2s3i68eHjt"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 17590,
+  "num_followers": 18222,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
@@ -1299,50 +1299,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Love Myself (Remixes)",
-        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        },
-        {
-          "name": "Ian Spurrier",
-          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
-        }
-      ],
-      "duration_ms": 221720,
-      "name": "Love Myself - KREAM Remix",
-      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
-        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Jax Jones",
-          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-        }
-      ],
-      "duration_ms": 226266,
-      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
-      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Final Song (Diplo & Jauz Remix)",
         "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
       },
@@ -1363,6 +1319,26 @@
       "duration_ms": 190480,
       "name": "Final Song - Diplo & Jauz Remix",
       "url": "https://open.spotify.com/track/0gahmokctHhYjyR3ZUGr7L"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Love Myself (Remixes)",
+        "url": "https://open.spotify.com/album/5l8kcjMNlOAjrkit7Uuc1x"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        },
+        {
+          "name": "Ian Spurrier",
+          "url": "https://open.spotify.com/artist/7iwj95h4rLKDyJO8w1LHRM"
+        }
+      ],
+      "duration_ms": 221720,
+      "name": "Love Myself - KREAM Remix",
+      "url": "https://open.spotify.com/track/0Qydhjycb5IFm02W6zJ2Tn"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1407,6 +1383,30 @@
       "duration_ms": 286346,
       "name": "Paradise - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Prisoner (feat. Dua Lipa) [Jax Jones Remix]",
+        "url": "https://open.spotify.com/album/0HBmioJcxItnT9WIenDDdd"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        }
+      ],
+      "duration_ms": 226266,
+      "name": "Prisoner (feat. Dua Lipa) - Jax Jones Remix",
+      "url": "https://open.spotify.com/track/6B7jm2IJsh3DYXO7RgwVnx"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1871,6 +1871,34 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) [Kasum Remix]",
+        "url": "https://open.spotify.com/album/1Rpi0bWFI7RcqftCdCIqbs"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        },
+        {
+          "name": "Verdine White",
+          "url": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
+        },
+        {
+          "name": "Kasum",
+          "url": "https://open.spotify.com/artist/0lEXM2401POxisEvAthv7S"
+        }
+      ],
+      "duration_ms": 199547,
+      "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) - Kasum Remix",
+      "url": "https://open.spotify.com/track/3UA4D0hx3jJEbrtfi2ZvmD"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) [Don Diablo Remix]",
         "url": "https://open.spotify.com/album/0nk08Y8IFUXtJivHJNMJnF"
       },
@@ -1891,26 +1919,6 @@
       "duration_ms": 216774,
       "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus) - Don Diablo Remix",
       "url": "https://open.spotify.com/track/5xBafmhrJzzMsd1dxErIbJ"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Hangover (Remixes)",
-        "url": "https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa"
-      },
-      "artists": [
-        {
-          "name": "Taio Cruz",
-          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
-        },
-        {
-          "name": "Hardwell",
-          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
-        }
-      ],
-      "duration_ms": 190160,
-      "name": "Hangover - Hardwell Remix Radio Edit",
-      "url": "https://open.spotify.com/track/63fyL7QZ1vhGZzZ9G56rcp"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1939,30 +1947,22 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) [Kasum Remix]",
-        "url": "https://open.spotify.com/album/1Rpi0bWFI7RcqftCdCIqbs"
+        "name": "Hangover (Remixes)",
+        "url": "https://open.spotify.com/album/6yNFJz8Gy8E7ZR6ERc9nEa"
       },
       "artists": [
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+          "name": "Taio Cruz",
+          "url": "https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC"
         },
         {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        },
-        {
-          "name": "Verdine White",
-          "url": "https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp"
-        },
-        {
-          "name": "Kasum",
-          "url": "https://open.spotify.com/artist/0lEXM2401POxisEvAthv7S"
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
         }
       ],
-      "duration_ms": 199547,
-      "name": "I Don't Like It, I Love It (feat. Robin Thicke & Verdine White) - Kasum Remix",
-      "url": "https://open.spotify.com/track/3UA4D0hx3jJEbrtfi2ZvmD"
+      "duration_ms": 190160,
+      "name": "Hangover - Hardwell Remix Radio Edit",
+      "url": "https://open.spotify.com/track/63fyL7QZ1vhGZzZ9G56rcp"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2067,26 +2067,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Take Me Home (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/5AP7Y4s7UmBqc4E7BGLEq8"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 315470,
-      "name": "Take Me Home - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/5aO8NoVDDUOkxWtv4lS5oM"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "One of One",
         "url": "https://open.spotify.com/album/4sEEjpHQNq5BVSNRUy7aYe"
       },
@@ -2103,6 +2083,26 @@
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/7GBS3dP7vbK3jYRRr1hNBN"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Take Me Home (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/5AP7Y4s7UmBqc4E7BGLEq8"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 315470,
+      "name": "Take Me Home - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/5aO8NoVDDUOkxWtv4lS5oM"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2175,34 +2175,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Lose Control (The Remixes, Pt. 2)",
-        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
+        "name": "First Time (Remixes)",
+        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
         },
         {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        },
-        {
-          "name": "ChildsPlay",
-          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
-        },
-        {
-          "name": "Badd Dimes",
-          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
         }
       ],
-      "duration_ms": 207021,
-      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
-      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
+      "duration_ms": 173440,
+      "name": "First Time - Gryffin Remix",
+      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
     }
   ],
   "unique_name": "Remix Hits",

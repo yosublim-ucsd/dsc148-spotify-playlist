@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 
 ### [This Is La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33cf1m)
 
-> This is La Arrolladora Banda El Limón De Rene Camacho\. The essential tracks, all in one playlist.
+> This Is La Arrolladora Banda El Limón De Rene Camacho\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,446 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,694 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 | 40 | [Asi Fue](https://open.spotify.com/track/1igWS2rkcWldABqxIaUiHP) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Antes De Partir](https://open.spotify.com/album/28Kb1pmRPsiBUFKSCs1Qlq) | 5:18 |
 | 41 | [Confesión](https://open.spotify.com/track/2tth2JJ9zhSGVUj9VQGefc) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 3:41 |
 | 42 | [El Precio De Mis Errores](https://open.spotify.com/track/4fwe0tALTJGY5OGX9v9NGf) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk) | 3:47 |
-| 43 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 |
-| 44 | [Se Me Cansó el Corazón](https://open.spotify.com/track/1nx0aZDtEgF6HS7SxQkTSJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:07 |
+| 43 | [Se Me Cansó el Corazón](https://open.spotify.com/track/1nx0aZDtEgF6HS7SxQkTSJ) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Lo Esencial De La Arrolladora Banda El Limón](https://open.spotify.com/album/5unIShhqSluah2Bf29YiFs) | 3:07 |
+| 44 | [Cosas Que Nunca Te Dije](https://open.spotify.com/track/0HGXbI146t5TEeqC2KopAq) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:49 |
 | 45 | [Mis Recuerdos](https://open.spotify.com/track/5A9OyOOnDxELOaKg2KuN6X) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Es Cab ..\. El Viejo](https://open.spotify.com/album/1xYpAyCv3StPKCHOsfWFxD) | 4:39 |
 | 46 | [No Me Vengas A Decir](https://open.spotify.com/track/7mhJXOlgjDrdnyh0ZzvJdu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Irreversible..\. 2012](https://open.spotify.com/album/4j0AeP8UC2H2Qcrjck1haF) | 3:07 |
 | 47 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33cf1m.md) - [plain]
 | 49 | [¿Qué Me Vas a Dar?](https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Simplemente Arrolladora](https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv) | 3:27 |
 | 50 | [Contigo](https://open.spotify.com/track/5jQ1icvyDOmfrJzTc4hmja) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Valió La Pena Equivocarme](https://open.spotify.com/album/4t7S30Ny12DvWnGAY6JpUm) | 3:54 |
 
-Snapshot ID: `ZkfvgAAAAACzXWPhWJID6EBWGS9ZUGcp`
+Snapshot ID: `ZklBAAAAAABv15YX27kg1zrmw9nXFGzY`

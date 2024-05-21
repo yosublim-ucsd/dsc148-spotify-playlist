@@ -1,6 +1,6 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 124640,
+  "num_followers": 124686,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-04-02 01:22:16",
       "album": {
+        "name": "\u5915\u98a8\u30d6\u30ec\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL"
+      },
+      "artists": [
+        {
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "duration_ms": 336880,
+      "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
+    },
+    {
+      "added_at": "2024-04-02 01:22:16",
+      "album": {
         "name": "TODAY IS ANOTHER DAY",
         "url": "https://open.spotify.com/album/7nGUYK8tHjuKsHgq3qIDhE"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 235160,
       "name": "\u30b3\u30a4\u30ef\u30ba\u30e9\u30a4",
       "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
-    },
-    {
-      "added_at": "2024-04-02 01:22:16",
-      "album": {
-        "name": "\u5915\u98a8\u30d6\u30ec\u30f3\u30c9",
-        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL"
-      },
-      "artists": [
-        {
-          "name": "Sukima Switch",
-          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
-        }
-      ],
-      "duration_ms": 336880,
-      "name": "\u30dc\u30af\u30ce\u30fc\u30c8",
-      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
     },
     {
       "added_at": "2024-04-02 01:22:16",

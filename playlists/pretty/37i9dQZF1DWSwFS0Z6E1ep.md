@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 
 > The biggest party hits of the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,117 likes - 135 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,187 likes - 135 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 83 | [Flyin' Saucers Rock & Roll](https://open.spotify.com/track/61NxE9hAjnvplyUKdY6jKv) | [Billy Lee Riley](https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ) | [Flyin' Saucers Rock & Roll / I Want You Baby](https://open.spotify.com/album/21VQE8cleE2is06r3F6dQS) | 2:02 |
 | 84 | [Wild One](https://open.spotify.com/track/1IzdDoX6afO75QGfISsc9U) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Rockabilly Portrait](https://open.spotify.com/album/0O2LfyOYGw2sbFYt26NMse) | 1:49 |
 | 85 | [Give Me some Love \- Re\-Recorded Version](https://open.spotify.com/track/17trqhqpoIxXQc3Rkri0W7) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 2:01 |
-| 86 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
-| 87 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
+| 86 | [Rock 'n' Roll Ruby](https://open.spotify.com/track/5mDMTTHohxXChAaN7w0ROs) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [Rock 'n' Roll Ruby / I'd Rather Be Safe Than Sorry](https://open.spotify.com/album/1gpiATxAWaQu0Kdzk72Izn) | 2:50 |
+| 87 | [Ten Cats Down](https://open.spotify.com/track/1xY56tgHwm7GfiafKPzB42) | [The Miller Sisters](https://open.spotify.com/artist/5mDm0RXoaz7swHBozhOguP) | [Ten Cats Down / Finders Keepers](https://open.spotify.com/album/3DgD0YDs9h067YI7qtzHZK) | 2:17 |
 | 88 | [Everybody's Trying to Be My Baby \- Remastered 2022](https://open.spotify.com/track/32q7HHkDDaAVQDf1y0VB4p) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The King of Rockabilly \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux) | 2:12 |
 | 89 | [Good Lovin'](https://open.spotify.com/track/2vYfYvYvfxCxOoGLfs4N8d) | [Dickey Lee](https://open.spotify.com/artist/34Ym7wEA9olyXIQ5eRAZjq), [The Collegiates](https://open.spotify.com/artist/1dzodRpVST4Lz25hTJM2On) | [Memories Never Grow Old / Good Lovin'](https://open.spotify.com/album/1JfYQZ9G80fMf9DGtQqSac) | 2:52 |
 | 90 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
@@ -112,8 +112,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwFS0Z6E1ep.md) - [plain]
 | 102 | [My Bucket's Got a Hole in It](https://open.spotify.com/track/7GdXKfnRmT2EXoMAiokieN) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [My Bucket's Got a Hole in It / Sweet Misery](https://open.spotify.com/album/1rqgoIp9LPN8eZjlmu4GiS) | 2:18 |
 | 103 | [I Done Told You](https://open.spotify.com/track/5HpqVE9dPqR9D4XnCV5Wdm) | [Gene Simmons](https://open.spotify.com/artist/5hF9nqYkULfy3LZnoYaRPD) | [Sun Records Yearbook \- 1958 part 2](https://open.spotify.com/album/4o5IAd8PpTkQe825QG2Lhq) | 2:21 |
 | 104 | [Shoobie Oobie](https://open.spotify.com/track/3jImyuUHe6bm8ACMIzuUud) | [Rosco Gordon](https://open.spotify.com/artist/35SkZMI5CPiCude4FW45O9) | [Shoobie Oobie / Cheese and Crackers](https://open.spotify.com/album/2QPUN37KYyUzOUACYg4qrX) | 2:54 |
-| 105 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
-| 106 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
+| 105 | [Rockin' with My Baby](https://open.spotify.com/track/4lumcF4wzG6c81l7Uc7YWt) | [Malcolm Yelvington](https://open.spotify.com/artist/3GsQo4yOYOv50rossGAn4v) | [Rockin' with My Baby / It's Me Baby](https://open.spotify.com/album/6PiDgHd1vG7LPruPvNJVdT) | 2:20 |
+| 106 | [Rock Around The Town](https://open.spotify.com/track/7HwQfLZkIFcbqVYp41KpAh) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Sun Records \- Rockabilly Archive](https://open.spotify.com/album/11T29v7GCXUnwgRziqoNZL) | 2:19 |
 | 107 | [My Baby](https://open.spotify.com/track/0X8ggfrvgUqrzR4mnQU5YP) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:21 |
 | 108 | [Sweetie Pie](https://open.spotify.com/track/15Z8moPRfShAyP9EkrKked) | [Tommy Blake](https://open.spotify.com/artist/2x9rXRL308BFyy1Ubrk9pS) | [I Dig You Baby / Sweetie Pie](https://open.spotify.com/album/36eFyxEy9tCTvlyZ4PeIJf) | 2:04 |
 | 109 | [Baby I Don't Care](https://open.spotify.com/track/3Q04VdrTsD4hB6Uez783JO) | [Eddie Bush](https://open.spotify.com/artist/0tuRmjt5kv75nedebw4kFo) | [Rockabilly](https://open.spotify.com/album/2YRYzrMHeVRpR0KOKzDF9B) | 1:52 |

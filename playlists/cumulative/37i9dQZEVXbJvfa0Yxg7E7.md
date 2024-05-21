@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,688 songs - 3 day 16 hr 14 min
+1,689 songs - 3 day 16 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1500,6 +1500,7 @@
 | [The Christmas Song \(Merry Christmas To You\)](https://open.spotify.com/track/4PS1e8f2LvuTFgUs1Cn3ON) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Christmas Song \(Expanded Edition\)](https://open.spotify.com/album/6vBGI5522jvPi0ZZuGQNp4) | 3:12 | 2021-11-30 | 2022-12-28 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-12 |  |
 | [The Color Violet](https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Alone At Prom](https://open.spotify.com/album/5Gm2XKBgnlzd6qTi7LE1z2) | 3:46 | 2022-12-30 | 2023-02-21 |
+| [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-20 |  |
 | [The Drum](https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [The Drum](https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H) | 3:09 | 2022-04-30 | 2022-07-24 |
 | [The Feels](https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Ends & Begins](https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v) | 3:17 | 2023-04-29 | 2023-05-07 |
 | [THE GREATEST](https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:53 | 2024-05-19 |  |
@@ -1529,7 +1530,7 @@
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-07-18 | 2022-05-31 |
 | [Ti kniver i hjertet](https://open.spotify.com/track/7IdbB0rUe41sCXab98an5s) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Ti kniver i hjertet](https://open.spotify.com/album/2L21CNTLOpEDSesm32fRCh) | 2:52 | 2023-10-28 | 2023-10-30 |
 | [Til deg som alltid er overstadig berusa og aldri kommer inn på konsert \- det får'n aldri se](https://open.spotify.com/track/27oP2aiSv0U4ych4m6jIkN) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Til deg som alltid er overstadig berusa og aldri kommer inn på konsert \(det får'n aldri se\)](https://open.spotify.com/album/2FLzX94cTeOyzdWqMrYfsm) | 2:47 | 2024-03-09 | 2024-03-12 |
-| [Til Dovre Faller](https://open.spotify.com/track/3jpeo8JtADAgw5VViBifUN) | [Johanne Holmedahl](https://open.spotify.com/artist/2TubhB02PsCWrwzQQJLIbG) | [Til Dovre Faller](https://open.spotify.com/album/1bOnITzPd5ZcdxG1wcmfF9) | 3:41 | 2021-05-19 |  |
+| [Til Dovre Faller](https://open.spotify.com/track/3jpeo8JtADAgw5VViBifUN) | [Johanne Holmedahl](https://open.spotify.com/artist/2TubhB02PsCWrwzQQJLIbG) | [Til Dovre Faller](https://open.spotify.com/album/1bOnITzPd5ZcdxG1wcmfF9) | 3:41 | 2021-05-19 | 2024-05-21 |
 | [Til lillebror](https://open.spotify.com/track/2spp2skQYNYiNCak7DxOTN) | [Erika Norwich](https://open.spotify.com/artist/1FsZYh8RTfafSEVmoVxWeK) | [Til lillebror](https://open.spotify.com/album/4H0tlYhLBcVmpW82A1Nv2V) | 2:47 | 2022-09-22 | 2022-10-16 |
 | [ting som ILU](https://open.spotify.com/track/5XBabaoZyfI0jhk0M5ze6I) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [ting som ILU](https://open.spotify.com/album/2fxfTt8FWwzXaCRnXA2tav) | 2:19 | 2021-09-12 | 2021-09-15 |
 | [tinnsoldater](https://open.spotify.com/track/0A44yfrrP231Uc47GDlwvC) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [tinnsoldater](https://open.spotify.com/album/6TY9daq0sCs60R9uRbKhc5) | 2:47 | 2022-04-23 | 2022-04-25 |

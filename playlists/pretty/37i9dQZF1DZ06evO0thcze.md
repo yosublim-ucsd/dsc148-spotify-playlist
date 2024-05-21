@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This Is Neto Peña\. Los temas esenciales, todos en una lista.
+> This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,255 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,273 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 18 | [Para Que Vuelvas](https://open.spotify.com/track/2c7Ukir0D12XpgRvFmsEb6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Cora](https://open.spotify.com/album/6jfFltnTJeUFhHjOMXZdFd) | 3:17 |
 | 19 | [NO LOGRÉ CONQUISTARTE](https://open.spotify.com/track/2PAjRPUvexWW0Fy3qdIriI) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [BeatBoy](https://open.spotify.com/artist/5UBcT8h31eT62kHEsNaW3X) | [NO LOGRÉ CONQUISTARTE](https://open.spotify.com/album/3YC0oHVHqArWdKTvelM0Uq) | 3:09 |
 | 20 | [Guadalajara](https://open.spotify.com/track/3GtG0XwENlN6axQI33FjsR) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Guadalajara](https://open.spotify.com/album/2O9kxBuf2Crs2vuVTaz9Ow) | 3:49 |
-| 21 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 |
-| 22 | [No Es Que Sea Mamón](https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [No Es Que Sea Mamón](https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v) | 4:45 |
+| 21 | [No Es Que Sea Mamón](https://open.spotify.com/track/1FyzZCeAoLRqk07Dhh1zVz) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [La Bruja en el Beat](https://open.spotify.com/artist/7H7vTWNke5xZsBaVaevu34), [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1) | [No Es Que Sea Mamón](https://open.spotify.com/album/62xk03MAGxGSGK9A5iao8v) | 4:45 |
+| 22 | [Callao](https://open.spotify.com/track/5fuvCWDj2za5aKWOBLcxMN) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Callao](https://open.spotify.com/album/7kpAL8ZD2SBimDslL39b2L) | 2:58 |
 | 23 | [Por Ti Estoy Loco](https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Ti Estoy Loco](https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8) | 3:42 |
 | 24 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 |
 | 25 | [Pura Borrachera](https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Pura Borrachera](https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6) | 3:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 49 | [Gallo de Pelea](https://open.spotify.com/track/0YYeNXmLPXWkRbVCnVAgga) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Gallo de Pelea](https://open.spotify.com/album/56X9pfjeVIccEJ8SVJlGod) | 4:24 |
 | 50 | [Una Leyenda Nunca Muere](https://open.spotify.com/track/211Tp3Ah4FWYFWlGn8RRMl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Una Leyenda Nunca Muere](https://open.spotify.com/album/4x0pyBo6laY6Xcb9iP6pUg) | 2:46 |
 
-Snapshot ID: `ZkfvgAAAAADkqMIju0L2vKlhDsfXzO1+`
+Snapshot ID: `ZklBAAAAAAAnzzW/Bb+EUJGXilxpkkcI`

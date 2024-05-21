@@ -4,7 +4,7 @@
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-613 songs - 1 day 14 hr 57 min
+614 songs - 1 day 15 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [6 Chorale Preludes, BV B 50: Herzlich tut mich verlangen, Op\. 122/10](https://open.spotify.com/track/0Ck1w9drSHl9NrWV9diIXv) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Ferruccio Busoni](https://open.spotify.com/artist/7xH3VOMwOjnqGu7NERNUx1), [Igor Levit](https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL) | [Encounter](https://open.spotify.com/album/1Deu0jSVqpCLj6QtUn5f6a) | 3:01 | 2022-09-25 | 2022-11-30 |
 | [6 Impromptus, Op\. 5: Impromptu V](https://open.spotify.com/track/2kyyNhBUX8aVnKitNPLOhM) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 3:51 | 2023-01-03 | 2023-02-11 |
 | [6 Impromptus, Op\. 5: Impromptu VI](https://open.spotify.com/track/1juisCcrVdwoLbDWyVvNrX) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Leif Ove Andsnes](https://open.spotify.com/artist/7J9Fo9dMjGNYY8usNMietL) | [Sibelius](https://open.spotify.com/album/4lNwSgAyaE91u37nrQcRFe) | 6:09 | 2023-01-03 | 2023-04-22 |
+| [A Blaze of Stories](https://open.spotify.com/track/1hn4vjn9LVK4TMJD3RymSj) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [IF \(Music from the Motion Picture\)](https://open.spotify.com/album/0PhINrkY39zjrInFcBXIgp) | 3:07 | 2024-05-20 |  |
 | [A Calling](https://open.spotify.com/track/3EpRH47Zg4w2kykYVSLzd1) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [A Calling](https://open.spotify.com/album/28SEXaORVwMeYY9Q6VoexG) | 3:41 | 2024-01-16 | 2024-02-24 |
 | [A Catalogue of Afternoons](https://open.spotify.com/track/5T9fH8uqLhdY3Gxqa4LX2t) | [Pablo Sainz Villegas](https://open.spotify.com/artist/44aOote5azhMQAN5Vfwh5j) | [A Catalogue of Afternoons](https://open.spotify.com/album/1axmsA0oP4buJ7lQIqvzjX) | 1:42 | 2023-03-24 | 2023-04-22 |
 | [A Christmas Fairytale \(Solo Piano Version\)](https://open.spotify.com/track/3wR6PrZgMVXMqARQBsl5NG) | [Wide Eyed](https://open.spotify.com/artist/6MZ8FA8ZuJRh7TsksXAWQP) | [A Christmas Fairytale \(Solo Piano Version\)](https://open.spotify.com/album/7FNVmiqTAKLOyZp1NxH9km) | 3:14 | 2022-12-16 | 2023-01-04 |

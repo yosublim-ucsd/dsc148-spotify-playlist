@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Ravyn Lenae
 
-1,175 songs - 2 day 14 hr 18 min
+1,176 songs - 2 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-07-22 | 2022-12-03 |
 | [false self](https://open.spotify.com/track/067ktXQzCYLd2YD0FDw5ON) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 2:52 | 2024-05-03 |  |
 | [FAMJAM4000](https://open.spotify.com/track/6FDNS9i86Il7ZeGBf7H2Aa) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:38 | 2023-03-03 | 2023-09-23 |
-| [Fantasy](https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Fantasy](https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU) | 2:52 | 2023-12-08 |  |
+| [Fantasy](https://open.spotify.com/track/7hfl0aCqTLiOtJa3bOgTzA) | [Troy Javelona](https://open.spotify.com/artist/3fUSXkfAy8yFTCiGK3TXho) | [Fantasy](https://open.spotify.com/album/1JL7UsUUpKyOYh9Bqz2wBU) | 2:52 | 2023-12-08 | 2024-05-21 |
 | [FAR AWAY](https://open.spotify.com/track/7FWB9uLSKi8HHT8p67Fsig) | [Hush Forte](https://open.spotify.com/artist/4MbRfFtyXLbOnccfjBE69n) | [FAR AWAY](https://open.spotify.com/album/1mmqM0T7WtpJRhp9NGgb4P) | 3:11 | 2021-06-25 | 2022-01-27 |
 | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/track/0yU8ftsMI0LDMtee8TDsDR) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Feed The Fire \(feat\. Lucky Daye\)](https://open.spotify.com/album/0CttfgSuHvMSFKshmwa8vb) | 4:05 | 2021-03-19 | 2022-04-16 |
 | [Feel Good](https://open.spotify.com/track/6clYpUEhSJs0jYt7n7lIZP) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Feel Good](https://open.spotify.com/album/7fr81qCX4j03vrknwMxYvI) | 4:16 | 2022-06-10 | 2022-06-16 |
@@ -712,6 +712,7 @@
 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 | 2023-09-22 |  |
 | [Nobody But You](https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Nobody But You](https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7) | 3:33 | 2021-04-12 | 2022-07-16 |
 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 | 2021-03-19 | 2022-05-17 |
+| [NOSEBLEED](https://open.spotify.com/track/4nKQOCFrY9zJ4LRmvRFEHp) | [FRVRFRIDAY](https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW) | [NOSEBLEED](https://open.spotify.com/album/4YkXAws1fvhF38KY386ELR) | 2:07 | 2024-05-17 |  |
 | [Nostalgia](https://open.spotify.com/track/1OZuSdGm0PTSyzhupwesoJ) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Nostalgia](https://open.spotify.com/album/31z9tfRIxe7jm0EBVJ9cVZ) | 2:27 | 2021-07-09 | 2022-01-29 |
 | [NOT ALONE](https://open.spotify.com/track/42RpLZC6rKzQZyLMaJMsDJ) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [NOT ALONE](https://open.spotify.com/album/06osQucbdoBctWgXgdFblC) | 3:03 | 2023-03-31 | 2023-05-13 |
 | [not enough \(with Brent Faiyaz\)](https://open.spotify.com/track/0PW454qKfnxKnkVF5pcDLX) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [it’s not you, it’s me](https://open.spotify.com/album/0BDjNDdizBQAGbIRyBBeEA) | 5:05 | 2024-02-16 |  |

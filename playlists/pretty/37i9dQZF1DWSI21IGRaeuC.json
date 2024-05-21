@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 36127,
+  "num_followers": 36163,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Stolen Dub",
         "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -835,6 +835,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Bonito",
+        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 195365,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bonito",
-        "url": "https://open.spotify.com/album/0GRAvBOREScwdewiySp05v"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 195365,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/0HGX3Sk2Wp4ibJDyW9hvdY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1087,6 +1087,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "venus' secret",
+        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        },
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 200465,
+      "name": "venus' secret",
+      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Playing With Foc...",
-        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
-      },
-      "artists": [
-        {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
-        },
-        {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Playing With Foc...",
-      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1155,6 +1155,26 @@
       "duration_ms": 376875,
       "name": "You Can Forever Be",
       "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+      },
+      "artists": [
+        {
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+        },
+        {
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+        }
+      ],
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1207,26 +1227,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "venus' secret",
-        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
-      },
-      "artists": [
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        },
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 200465,
-      "name": "venus' secret",
-      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Dusty Showbiz",
         "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
       },
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Ready For The Blues",
+        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
+      },
+      "artists": [
+        {
+          "name": "Dennis Cruz",
+          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
+        }
+      ],
+      "duration_ms": 300041,
+      "name": "Ready For The Blues",
+      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Ready For The Blues",
-        "url": "https://open.spotify.com/album/3J284h72wbaiRytMtO0qTL"
-      },
-      "artists": [
-        {
-          "name": "Dennis Cruz",
-          "url": "https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu"
-        }
-      ],
-      "duration_ms": 300041,
-      "name": "Ready For The Blues",
-      "url": "https://open.spotify.com/track/6BTaeh7bxG1O2Jk2mQCqXJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "San te Cr\u00fcs",
-        "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
-      },
-      "artists": [
-        {
-          "name": "Spencer Brown",
-          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
-        }
-      ],
-      "duration_ms": 376498,
-      "name": "San te Cr\u00fcs",
-      "url": "https://open.spotify.com/track/4zgEYzj90KHCb6v3KuI3Dv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Teki Teki",
         "url": "https://open.spotify.com/album/6XLHIo1MKRbbeqFZeaMA8n"
       },
@@ -1499,6 +1483,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "San te Cr\u00fcs",
+        "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
+      },
+      "artists": [
+        {
+          "name": "Spencer Brown",
+          "url": "https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK"
+        }
+      ],
+      "duration_ms": 376498,
+      "name": "San te Cr\u00fcs",
+      "url": "https://open.spotify.com/track/4zgEYzj90KHCb6v3KuI3Dv"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 444444,
       "name": "What's Your Name",
       "url": "https://open.spotify.com/track/2hGFAk0wIN0HYOnKXLopC3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
-      },
-      "artists": [
-        {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
-        }
-      ],
-      "duration_ms": 224322,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Pronosticos Cachito",
+        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pronosticos Cachito",
+      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Amused EP",
         "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
       },
@@ -1803,22 +1819,6 @@
       "duration_ms": 368034,
       "name": "Okay Alright",
       "url": "https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Pronosticos Cachito",
-        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
-      },
-      "artists": [
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pronosticos Cachito",
-      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
     }
   ],
   "unique_name": "Minimal Tech",

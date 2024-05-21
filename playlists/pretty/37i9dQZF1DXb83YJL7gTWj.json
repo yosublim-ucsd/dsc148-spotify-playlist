@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Have A Little Faith In Me",
-        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 197079,
-      "name": "Have A Little Faith In Me",
-      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/0mFDIOqypzHp6Xd0el1hoT"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 176386,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/7xbXQeepclfQNqI3mLPb3c"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Have A Little Faith In Me",
+        "url": "https://open.spotify.com/album/5tUKs4B9KY6Yd5qSiyvENz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 197079,
+      "name": "Have A Little Faith In Me",
+      "url": "https://open.spotify.com/track/6CC7m07iUQA2oKr2Ky4gRl"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Freaking Out",
-        "url": "https://open.spotify.com/album/5W8V1AccTsiBMWueM4bLTl"
-      },
-      "artists": [
-        {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
-        }
-      ],
-      "duration_ms": 145420,
-      "name": "Freaking Out",
-      "url": "https://open.spotify.com/track/56ztBAdzbxjBn6CAea9wMq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "star-crossed",
         "url": "https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 184000,
       "name": "cherry blossom",
       "url": "https://open.spotify.com/track/3PT3dmokgfqJSsZxv4Njw5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Freaking Out",
+        "url": "https://open.spotify.com/album/5W8V1AccTsiBMWueM4bLTl"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        }
+      ],
+      "duration_ms": 145420,
+      "name": "Freaking Out",
+      "url": "https://open.spotify.com/track/56ztBAdzbxjBn6CAea9wMq"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "A Bit Of Soul",
+        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "One Step Ahead",
+      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "A Bit Of Soul",
-        "url": "https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "One Step Ahead",
-      "url": "https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "I Fall in Love Too Easily",
         "url": "https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 220676,
       "name": "I Fall in Love Too Easily",
       "url": "https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Expectations",
+        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 312613,
+      "name": "Out Of The Blue",
+      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Middle Name (with Mckenna Grace)",
         "url": "https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv"
       },
@@ -1639,22 +1655,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Expectations",
-        "url": "https://open.spotify.com/album/1v30ZLtb2nYIWqDto4GuIP"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 312613,
-      "name": "Out Of The Blue",
-      "url": "https://open.spotify.com/track/3aV4xJGmhJHnyRhnzx5iHE"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h"
       },
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/16hvfvUf6RJs7tlmyVzWHV"
+        "name": "Paper Airplanes",
+        "url": "https://open.spotify.com/album/6SSvoVCaTreXvwNETYXMen"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         }
       ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/2jm0UrP5A9ccJ3twMI8cVq"
+      "duration_ms": 257493,
+      "name": "Paper Airplanes",
+      "url": "https://open.spotify.com/track/7qFTlPTav0bSkuPiSff6RL"
     }
   ],
   "unique_name": "Chill Dinner",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,718 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,736 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 55 | [Out & About](https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j) | [Amplify](https://open.spotify.com/artist/64EuuwyWuF2bYlwwrLyN1n), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY) | [Out & About](https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR) | 2:33 |
 | 56 | [Nobody Likes The Records That I Play](https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Nobody Likes The Records That I Play](https://open.spotify.com/album/2DL0N74UxejnfXoxZL5FDj) | 3:13 |
 | 57 | [Pray For Me](https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Pray For Me](https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ) | 3:03 |
-| 58 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
+| 58 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
 | 59 | [Loca](https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls) | [Vibe Chemistry](https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi) | [Loca](https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8) | 2:14 |
-| 60 | [Downers \- Rework](https://open.spotify.com/track/3ZHw4fR70ep2fjqa14RcBi) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Downers \(Rework\)](https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk) | 3:01 |
+| 60 | [Release Me](https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [INDI](https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9) | [Release Me](https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb) | 3:36 |
 | 61 | [Getting Started \- Chase & Status Remix](https://open.spotify.com/track/7BBDanLPLALnu5asuk14r9) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Getting Started \(Chase & Status Remix\)](https://open.spotify.com/album/5EoFVpPoxG7JSMtd7JATZ1) | 3:10 |
 | 62 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 |
 | 63 | [Supersonic \- Basstripper Remix](https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Supersonic \(Basstripper Remix\)](https://open.spotify.com/album/2QJuzV5qlzbQtFJhRRmgNG) | 3:44 |

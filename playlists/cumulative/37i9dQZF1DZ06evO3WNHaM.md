@@ -2,7 +2,7 @@
 
 ### [This Is Deftones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WNHaM)
 
-> This Is Deftones\. Los temas esenciales, todos en una lista.
+> This is Deftones\. The essential tracks, all in one playlist.
 
 57 songs - 4 hr 1 min
 
@@ -18,7 +18,7 @@
 | [Beware](https://open.spotify.com/track/2ASygm7048ssav4ekbehPS) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 6:00 | 2022-05-30 |  |
 | [Bloody Cape](https://open.spotify.com/track/66ace8nbTVjgHTed107cDn) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 3:35 | 2022-05-30 |  |
 | [Bored](https://open.spotify.com/track/0PicuPCfXDJyyRtOR1ukGW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:05 | 2022-05-30 |  |
-| [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2022-05-30 | 2024-05-20 |
+| [Ceremony](https://open.spotify.com/track/2X5SHv5ubRTNIgMxxCPYdo) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:27 | 2022-05-30 |  |
 | [Change \(In the House of Flies\)](https://open.spotify.com/track/51c94ac31swyDQj9B3Lzs3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [White Pony](https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC) | 4:59 | 2022-05-30 |  |
 | [Cherry Waves](https://open.spotify.com/track/70L6nHORQsblY813yNqUR3) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Saturday Night Wrist](https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ) | 5:17 | 2022-05-30 |  |
 | [Dai the Flu](https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 4:36 | 2022-05-30 |  |

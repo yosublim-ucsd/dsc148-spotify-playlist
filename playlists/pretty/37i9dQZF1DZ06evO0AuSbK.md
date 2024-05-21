@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 
-> This Is Limp Bizkit\. Los temas esenciales, todos en una lista.
+> This is Limp Bizkit\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,488 likes - 42 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,591 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 41 | [Creamer \(Radio Is Dead\)](https://open.spotify.com/track/7lOXNXztcb8CQ8UoroiNxW) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:30 |
 | 42 | [The Propaganda](https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:16 |
 
-Snapshot ID: `ZkfvgAAAAAD455HX124n8sgVf+f3+iJv`
+Snapshot ID: `ZklBAAAAAADW+QxDxJ/2j/eDdFMcRG+J`

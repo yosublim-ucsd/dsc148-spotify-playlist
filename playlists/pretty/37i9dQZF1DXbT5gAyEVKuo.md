@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,232 likes - 49 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,274 likes - 49 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 22 | [Why We Sing \- Live](https://open.spotify.com/track/39VW15LU20Vp4E38oMTqIp) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 5:47 |
 | 23 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/00x6jSUknGq0bvvsF5Dz3w) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Setlist: The Very Best Of Kirk Franklin Live](https://open.spotify.com/album/3pxNJpoQFVi4CBxEQdxTTU) | 6:52 |
 | 24 | [Nothing / Something \- Live](https://open.spotify.com/track/6OFKf4inSSdrMuggQsx6Zb) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Nothing/Something \(Live\)](https://open.spotify.com/album/6cODaaXVo21jcn2HMEL6yl) | 5:21 |
-| 25 | [The Battle Is the Lord's](https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Live In Washington](https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk) | 6:28 |
-| 26 | [I Won't Let Go \- Live](https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:52 |
+| 25 | [I Won't Let Go \- Live](https://open.spotify.com/track/0PAidbgBw2xovbTTrSXfy2) | [John P\. Kee & The New Life Community Choir](https://open.spotify.com/artist/04LhvDkXmA8kPyJED34IEM) | [Blessed By Association](https://open.spotify.com/album/7Mlu5erqJLuAR4zWPIEIDx) | 4:52 |
+| 26 | [The Battle Is the Lord's](https://open.spotify.com/track/1QN1TuZOtJssiRYkYbYO9S) | [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Live In Washington](https://open.spotify.com/album/6Ig7DpVL0oQhlX8Di6TbUk) | 6:28 |
 | 27 | [I Don't Wanna Leave \- Live From Chattanooga, TN](https://open.spotify.com/track/66aefvqRy1HqtzxKXMFGtC) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN) | [Nothing Like Your Presence](https://open.spotify.com/album/7rAZtjifsgEThw7tX7R14b) | 4:06 |
 | 28 | [This Is A Move \- Live](https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [This Is A Move \(Live\)](https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF) | 7:25 |
 | 29 | [You Waited \(Live\)](https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Setlist Vol\. 1 \(Live\)](https://open.spotify.com/album/0fRY9s3aFVDG3n9g4atgII) | 5:07 |

@@ -1,12 +1,12 @@
 {
   "description": "This Is Alan Walker. Los temas esenciales, todos en una lista.",
-  "num_followers": 1629948,
+  "num_followers": 1629994,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACnpTTe6m7szEwoS7pDLAvC",
+  "snapshot_id": "ZklBAAAAAADLeuCgswNQ1uqm1Kn/to1+",
   "tracks": [
     {
       "added_at": null,
@@ -239,26 +239,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Headlights (feat. KIDDO)",
-        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
+        "name": "On My Way",
+        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
       },
       "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Headlights (feat. KIDDO)",
-      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+      "duration_ms": 193797,
+      "name": "On My Way",
+      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
     },
     {
       "added_at": null,
@@ -311,30 +311,6 @@
       "duration_ms": 211680,
       "name": "Darkside",
       "url": "https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On My Way",
-        "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 193797,
-      "name": "On My Way",
-      "url": "https://open.spotify.com/track/4n7jnSxVLd8QioibtTDBDq"
     },
     {
       "added_at": null,
@@ -451,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "End of Time",
         "url": "https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl"
       },
@@ -471,22 +463,6 @@
       "duration_ms": 187560,
       "name": "End of Time",
       "url": "https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": null,
@@ -567,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endless Summer",
-        "url": "https://open.spotify.com/album/6heWsbxEvCnXbHcw4xlKmE"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Endless Summer",
-      "url": "https://open.spotify.com/track/2DVvsgWrZ4rUjupdRGYEXK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Walkerworld",
         "url": "https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0"
       },
@@ -603,26 +559,6 @@
       "duration_ms": 189391,
       "name": "Heart over Mind",
       "url": "https://open.spotify.com/track/5jiDsY3XhlJ7TsByrQ4npm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
-        }
-      ],
-      "duration_ms": 222320,
-      "name": "Lost Control",
-      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -651,6 +587,26 @@
       "duration_ms": 105664,
       "name": "Fire! - Tribbs Remix",
       "url": "https://open.spotify.com/track/3eCnYztoiJj5XC8A7SAXLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "duration_ms": 222320,
+      "name": "Lost Control",
+      "url": "https://open.spotify.com/track/0lG6QM1jjbbX5UUn3DPmrZ"
     },
     {
       "added_at": null,
@@ -975,26 +931,6 @@
       "duration_ms": 129024,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's What I Like (Alan Walker Remix)",
-        "url": "https://open.spotify.com/album/6LD3J50OxLEQbAB8ahoj1S"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 195888,
-      "name": "That's What I Like - Alan Walker Remix",
-      "url": "https://open.spotify.com/track/1KtU0WCq472KzqCXgMOxkS"
     },
     {
       "added_at": null,

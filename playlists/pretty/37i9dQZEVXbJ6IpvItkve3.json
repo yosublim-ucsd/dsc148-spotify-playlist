@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Israel.",
-  "num_followers": 62213,
+  "num_followers": 62249,
   "original_name": "Top 50 - Israel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ld1hwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Ld6zQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
         "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05e6\u05de\u05d5\u05d3 \u05e6\u05de\u05d5\u05d3",
         "url": "https://open.spotify.com/album/6HScIxtqplEa92gqOUiVsh"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/1Jx6aZyJR985kw8CWUZ15O"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "THE LAST EPISODE",
         "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/2yPnlfwQ1AmhHauqQWDlWZ"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
@@ -113,7 +113,23 @@
       "url": "https://open.spotify.com/track/4dELL8S6XVMibwBkjJACF1"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05e6\u05d5\u05d7\u05e7\u05ea \u05d5\u05d1\u05d5\u05db\u05d4",
+        "url": "https://open.spotify.com/album/7qXbCrX1yBx5FvlchNFCGx"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 236190,
+      "name": "\u05e6\u05d5\u05d7\u05e7\u05ea \u05d5\u05d1\u05d5\u05db\u05d4",
+      "url": "https://open.spotify.com/track/2fewVF6oOGKux69rHGbPMq"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d4\u05d9\u05d9, \u05d6\u05d4 \u05e9\u05d7\u05e8",
         "url": "https://open.spotify.com/album/4xeRYn42ehcaZPtnYEyQEi"
@@ -133,23 +149,7 @@
       "url": "https://open.spotify.com/track/5lNB8HWmxpICQXi5Pgatz1"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05e6\u05d5\u05d7\u05e7\u05ea \u05d5\u05d1\u05d5\u05db\u05d4",
-        "url": "https://open.spotify.com/album/7qXbCrX1yBx5FvlchNFCGx"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 236190,
-      "name": "\u05e6\u05d5\u05d7\u05e7\u05ea \u05d5\u05d1\u05d5\u05db\u05d4",
-      "url": "https://open.spotify.com/track/2fewVF6oOGKux69rHGbPMq"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -181,7 +181,7 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
@@ -197,39 +197,7 @@
       "url": "https://open.spotify.com/track/7fcFn0EdQleBdarD7yLp95"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d5\u05d0\u05d9\u05da \u05e9\u05dc\u05d0",
-        "url": "https://open.spotify.com/album/77Th0DmusP9RkETEPjFBRx"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 204075,
-      "name": "\u05d5\u05d0\u05d9\u05da \u05e9\u05dc\u05d0",
-      "url": "https://open.spotify.com/track/0SMDtYt5HghaTMFc61nCnP"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d0\u05dd \u05d0\u05ea\u05d4 \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/5iT3CN3wnrjdDLNuTkxKj8"
@@ -245,39 +213,7 @@
       "url": "https://open.spotify.com/track/2foTZaysNY65xcTXlQKxg4"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
-      },
-      "artists": [
-        {
-          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
-          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
-        }
-      ],
-      "duration_ms": 228320,
-      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
-      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "Part II",
-        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 205205,
-      "name": "\u05d0\u05d4\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -293,7 +229,7 @@
       "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -309,55 +245,55 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
+        "name": "\u05d5\u05d0\u05d9\u05da \u05e9\u05dc\u05d0",
+        "url": "https://open.spotify.com/album/77Th0DmusP9RkETEPjFBRx"
       },
       "artists": [
         {
-          "name": "Kfir Tsafrir",
-          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
         }
       ],
-      "duration_ms": 169000,
-      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
+      "duration_ms": 204075,
+      "name": "\u05d5\u05d0\u05d9\u05da \u05e9\u05dc\u05d0",
+      "url": "https://open.spotify.com/track/0SMDtYt5HghaTMFc61nCnP"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 205205,
+      "name": "\u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/34aKXUhVdHGTzWOt85RjGq"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+        "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+        "url": "https://open.spotify.com/album/2KUsvoR9OHjERkN6trUc0l"
       },
       "artists": [
         {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
         }
       ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 228320,
+      "name": "\u05e9\u05d9\u05e8 \u05dc\u05e0\u05d8\u05e2",
+      "url": "https://open.spotify.com/track/6OfuBrC66OMwMJSyTQDVkw"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -373,7 +309,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d0\u05d9\u05df \u05dc\u05d9 \u05de\u05e7\u05d5\u05dd \u05d0\u05d7\u05e8",
         "url": "https://open.spotify.com/album/1NAbjzBbqQuhYY9tmxblt1"
@@ -389,39 +325,39 @@
       "url": "https://open.spotify.com/track/2CUwpTA4gOSouCTyRN1vnE"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d1\u05d5\u05d0\u05d9 \u05e0\u05d3\u05d1\u05e8",
         "url": "https://open.spotify.com/album/75MDW0r1GEJ8G5WNgldzoo"
@@ -437,55 +373,23 @@
       "url": "https://open.spotify.com/track/3IiaTxdKgDe9NvmosLM8bM"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
       "artists": [
         {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 134996,
-      "name": "\u05db\u05e1\u05e3 \u05d0\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/2M8hzSzwsIlsCTAhuAQGSf"
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
-        "url": "https://open.spotify.com/album/51I9fo6Ywk6O8vMnq4Oige"
-      },
-      "artists": [
-        {
-          "name": "Hatikva 6",
-          "url": "https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc"
-        }
-      ],
-      "duration_ms": 187179,
-      "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
-      "url": "https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05de\u05d9\u05ea\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/6QPX656Si3DHxKEgDXoi9G"
-      },
-      "artists": [
-        {
-          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
-          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05de\u05d9\u05ea\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/74kYHwU43s49Y5AukKArWQ"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
         "url": "https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi"
@@ -501,7 +405,103 @@
       "url": "https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4v1hZbW6AmjiTcYuRbXfmB"
+      },
+      "artists": [
+        {
+          "name": "Kfir Tsafrir",
+          "url": "https://open.spotify.com/artist/7MKSeamhiRpa0xiS4FHGSC"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "\u05e4\u05d7\u05d3 \u05d0\u05dc\u05d5\u05d4\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/1jCAwxwhHIrtWzGeF6WfJ7"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05de\u05d9\u05ea\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/6QPX656Si3DHxKEgDXoi9G"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
+          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "\u05de\u05e9\u05d4\u05d5 \u05d0\u05de\u05d9\u05ea\u05d9 \u05d1\u05e2\u05d9\u05e0\u05d9\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/74kYHwU43s49Y5AukKArWQ"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
+        "url": "https://open.spotify.com/album/51I9fo6Ywk6O8vMnq4Oige"
+      },
+      "artists": [
+        {
+          "name": "Hatikva 6",
+          "url": "https://open.spotify.com/artist/3umXlcgiDTcCRkvPVobeJc"
+        }
+      ],
+      "duration_ms": 187179,
+      "name": "\u05d2\u05d9\u05d1\u05d5\u05e8\u05d9 \u05e2\u05dc",
+      "url": "https://open.spotify.com/track/6Xg2Ir8Go9giAzRxW4Jaze"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 134996,
+      "name": "\u05db\u05e1\u05e3 \u05d0\u05d5 \u05d3\u05de\u05e2\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/2M8hzSzwsIlsCTAhuAQGSf"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d7\u05de\u05d9\u05e9\u05d4 \u05dc\u05d9\u05dc\u05d5\u05ea",
         "url": "https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs"
@@ -517,39 +517,7 @@
       "url": "https://open.spotify.com/track/1O0VUtEP7oVZKAXOMl0QLY"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn"
-      },
-      "artists": [
-        {
-          "name": "Omer Adam",
-          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
-        }
-      ],
-      "duration_ms": 237967,
-      "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "\u05d3\u05dd \u05e9\u05dc\u05d9",
         "url": "https://open.spotify.com/album/2AupKgY0rxBU9UsJuAlilU"
@@ -565,23 +533,39 @@
       "url": "https://open.spotify.com/track/6YQpTZk61Ku0hyutsVLpPe"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "\u05d0\u05d9\u05da \u05d4\u05d0\u05d4\u05d1\u05d4 \u05d4\u05d6\u05d0\u05ea \u05d7\u05d5\u05de\u05e7\u05ea \u05d1\u05d9\u05df \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP"
+        "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/2FHZElS1XugIYG10xE80aR"
       },
       "artists": [
         {
-          "name": "Alma Gov",
-          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
         }
       ],
-      "duration_ms": 169962,
-      "name": "\u05de\u05d4 \u05dc\u05e2\u05e9\u05d5\u05ea \u05e2\u05dd \u05d4\u05d6\u05d0\u05d1",
-      "url": "https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk"
+      "duration_ms": 158000,
+      "name": "\u05e2\u05d5\u05e9\u05d4 \u05dc\u05d9 \u05e6\u05e8\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/4I9NVCnjIRVriXfNE7VhE0"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/3zSwmJLTtkEFvtbQP9zeCn"
+      },
+      "artists": [
+        {
+          "name": "Omer Adam",
+          "url": "https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL"
+        }
+      ],
+      "duration_ms": 237967,
+      "name": "\u05e1\u05d8\u05dc\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/2KBtuxA73fMKyj37wr1XKM"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Essentiels",
         "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
@@ -597,7 +581,87 @@
       "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "THE LAST EPISODE",
+        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 218177,
+      "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4",
+      "url": "https://open.spotify.com/track/1dkljZlzg37FoGtUJ1EsxQ"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d6\u05d4",
+        "url": "https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d6\u05d4",
+      "url": "https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d0\u05d9\u05da \u05d4\u05d0\u05d4\u05d1\u05d4 \u05d4\u05d6\u05d0\u05ea \u05d7\u05d5\u05de\u05e7\u05ea \u05d1\u05d9\u05df \u05d4\u05d0\u05e6\u05d1\u05e2\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        }
+      ],
+      "duration_ms": 169962,
+      "name": "\u05de\u05d4 \u05dc\u05e2\u05e9\u05d5\u05ea \u05e2\u05dd \u05d4\u05d6\u05d0\u05d1",
+      "url": "https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
+        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+      },
+      "artists": [
+        {
+          "name": "Eden Hason",
+          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+        }
+      ],
+      "duration_ms": 212963,
+      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "TATE WE MADE IT",
         "url": "https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn"
@@ -617,23 +681,103 @@
       "url": "https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
       "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+        "name": "\u05db\u05e9\u05d9\u05d2\u05de\u05e8 \u05dc\u05db\u05dd \u05d4\u05e7\u05d9\u05e5",
+        "url": "https://open.spotify.com/album/5ffae8gMxaLwO0uWij6pUT"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
+          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
         }
       ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+      "duration_ms": 183204,
+      "name": "\u05db\u05e9\u05d9\u05d2\u05de\u05e8 \u05dc\u05db\u05dd \u05d4\u05e7\u05d9\u05e5",
+      "url": "https://open.spotify.com/track/3cXhJh34pRLkZegiL5cfy9"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
+        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
+      },
+      "artists": [
+        {
+          "name": "Tuna",
+          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
+        }
+      ],
+      "duration_ms": 187901,
+      "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
+      "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d5\u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05d7\u05dc\u05e7 \u05d4\u05d0\u05d5\u05de\u05e0\u05d5\u05ea\u05d9",
+        "url": "https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V"
+      },
+      "artists": [
+        {
+          "name": "Ravid Plotnik",
+          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
+      "url": "https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "Part II",
+        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "duration_ms": 219047,
+      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
+      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
+        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
+      },
+      "artists": [
+        {
+          "name": "Jasmin Moallem",
+          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
+        }
+      ],
+      "duration_ms": 196548,
+      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+        "url": "https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk"
+      },
+      "artists": [
+        {
+          "name": "\u05d9\u05dc\u05d3",
+          "url": "https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "\u05dc\u05de\u05d4 \u05d0\u05ea?",
+      "url": "https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -653,7 +797,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-19 09:22:28",
+      "added_at": "2024-05-20 09:25:49",
+      "album": {
+        "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
+        "url": "https://open.spotify.com/album/0hZIVNnIHVGlopnS8xCla9"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05e9\u05d5\u05df \u05d0\u05d9\u05e4\u05e8\u05dd \u05e9\u05d0\u05d5\u05dc\u05d5\u05d1",
+          "url": "https://open.spotify.com/artist/1Wq2STGiL7ZaIHAm5jMakc"
+        }
+      ],
+      "duration_ms": 165750,
+      "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
+      "url": "https://open.spotify.com/track/5zdau2dtmOUHF3CJ3odKfb"
+    },
+    {
+      "added_at": "2024-05-20 09:25:49",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -667,166 +827,6 @@
       "duration_ms": 219733,
       "name": "SKINNY",
       "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "Rim Tim Tagi Dim",
-        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
-      },
-      "artists": [
-        {
-          "name": "Baby Lasagna",
-          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
-        }
-      ],
-      "duration_ms": 179062,
-      "name": "Rim Tim Tagi Dim",
-      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05de\u05d6\u05e8\u05d7 \u05e4\u05e8\u05d5\u05e2",
-        "url": "https://open.spotify.com/album/5VBiqJQPgR2j6ZpiAzwI4y"
-      },
-      "artists": [
-        {
-          "name": "Tuna",
-          "url": "https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL"
-        }
-      ],
-      "duration_ms": 187901,
-      "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
-      "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d0\u05dc\u05d1\u05d5\u05dd 2",
-        "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
-      },
-      "artists": [
-        {
-          "name": "Eden Hason",
-          "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-        }
-      ],
-      "duration_ms": 212963,
-      "name": "\u05e9\u05e7\u05d9\u05e2\u05d5\u05ea \u05d0\u05d3\u05d5\u05de\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/68kVzJf0STAv91tuLutuDr"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d0\u05d9\u05df \u05e2\u05d5\u05dc\u05dd",
-        "url": "https://open.spotify.com/album/1k5xdoDTIaEFqo79mvTDFc"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 196548,
-      "name": "\u05d9\u05d4\u05d9\u05d4 \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/6nSQvSGrFykSmDIOetK94r"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "Part II",
-        "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 219047,
-      "name": "\u05db\u05db\u05d4 \u05d5\u05db\u05db\u05d4",
-      "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "THE LAST EPISODE",
-        "url": "https://open.spotify.com/album/2IzZ7kCHqTyRuCo5jWGvxY"
-      },
-      "artists": [
-        {
-          "name": "Osher Cohen",
-          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
-        }
-      ],
-      "duration_ms": 218177,
-      "name": "\u05d0\u05d9\u05e4\u05d4 \u05d0\u05ea\u05d4",
-      "url": "https://open.spotify.com/track/1dkljZlzg37FoGtUJ1EsxQ"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d5\u05e2\u05db\u05e9\u05d9\u05d5 \u05dc\u05d7\u05dc\u05e7 \u05d4\u05d0\u05d5\u05de\u05e0\u05d5\u05ea\u05d9",
-        "url": "https://open.spotify.com/album/5q1U43bIDM8jf3yV328e5V"
-      },
-      "artists": [
-        {
-          "name": "Ravid Plotnik",
-          "url": "https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "\u05e0\u05ea\u05e8\u05d0\u05d4 \u05d1\u05d2\u05dc\u05d2\u05d5\u05dc \u05d4\u05d1\u05d0",
-      "url": "https://open.spotify.com/track/1saT4tObMScARIwT4wTv0W"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 293840,
-      "name": "THE GREATEST",
-      "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
-    },
-    {
-      "added_at": "2024-05-19 09:22:28",
-      "album": {
-        "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d6\u05d4",
-        "url": "https://open.spotify.com/album/1eme39BjyJg1EemvTA66sG"
-      },
-      "artists": [
-        {
-          "name": "Jasmin Moallem",
-          "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "\u05d9\u05d5\u05e6\u05d0\u05ea \u05de\u05d6\u05d4",
-      "url": "https://open.spotify.com/track/4xNo1LgWSCyjgK4OsUnLWg"
     }
   ],
   "unique_name": "Top 50 - Israel",

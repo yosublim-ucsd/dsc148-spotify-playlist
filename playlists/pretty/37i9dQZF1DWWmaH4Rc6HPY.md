@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Y regresaron las guitarras! José Madero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,424 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,451 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,18 +49,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 39 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 40 | [ECLIPSE](https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [ECLIPSE](https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu) | 2:33 |
 | 41 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |
-| 42 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
-| 43 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
+| 42 | [Perder](https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Perder](https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8) | 3:39 |
+| 43 | [Mañana](https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Mañana](https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm) | 3:19 |
 | 44 | [Atardeció sin vos](https://open.spotify.com/track/1S588EBvuLIOFffQSar9uF) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [¿Cómo decir adiós?](https://open.spotify.com/album/4moI6Cg4KkngLNaPJNQv0T) | 2:36 |
 | 45 | [Ojalá](https://open.spotify.com/track/1GOCK6Pr1oXFQUpqNVSTZ9) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Ojalá](https://open.spotify.com/album/6WNr4SBLBhTqGWI17liKAb) | 3:13 |
 | 46 | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/track/6aDqixiGaqoxD4XibLphOQ) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL), [Lng Sht](https://open.spotify.com/artist/2q9p1IXueDbcN4de5C9fI2) | [Si Quieres Honestidad \(Ni En Visto Me Dejaste...\)](https://open.spotify.com/album/3NTWEeCqT99b9vsHsKPj5f) | 3:20 |
 | 47 | [Érase Una Vez \(Pero Ya No\)](https://open.spotify.com/track/2CLcqg6PEB76Qkxh6R4MSC) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Érase Una Vez \(Pero Ya No\) \[De "EQSB" Soundtrack\]](https://open.spotify.com/album/6yrAgrYatN30AWcHIsWNOM) | 3:09 |
 | 48 | [Cerca De Ti](https://open.spotify.com/track/3zktDhtJF3WgLApEOnKVLt) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/4IPxHmIjRJnsTkDsxMCFkS) | 3:06 |
 | 49 | [Nueva Inglaterra](https://open.spotify.com/track/0bej3tCSLcs4CQXPKuJwG8) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Aurora](https://open.spotify.com/album/1OjVXhmpVqU9331Lqmq3of) | 3:21 |
-| 50 | [Cuando No Quedan Ganas](https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Cuando No Quedan Ganas](https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1) | 3:24 |
+| 50 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 |
 | 51 | [Naufragar](https://open.spotify.com/track/405Z4PIE6QNiiRkC3eyBBD) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [Naufragar](https://open.spotify.com/album/2B7X0lyAvSI8j5oZIOmMbc) | 4:03 |
 | 52 | [Recuerdos Que Torturan](https://open.spotify.com/track/6cZXekrGcyPkuTAUiyKzIW) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Recuerdos Que Torturan](https://open.spotify.com/album/7K5xL0QYU1brmPwpWSYA2L) | 3:30 |
-| 53 | [No Te Bastó, Mi Corazón](https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg) | [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [No Te Bastó, Mi Corazón](https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54) | 3:04 |
+| 53 | [Cuando No Quedan Ganas](https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL) | [David Otero](https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h) | [Cuando No Quedan Ganas](https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1) | 3:24 |
 | 54 | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu) | [SERBIA](https://open.spotify.com/artist/3ygIl3frs6gQCo1f0AGnRj), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Noches Largas \(feat\. Bruses\)](https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo) | 4:53 |
 | 55 | [Canciones Tristes](https://open.spotify.com/track/5QNvwRbmGwmOU09DWSfCiA) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Canciones Tristes](https://open.spotify.com/album/2wKs3Fz684CerCyUOhJOxP) | 3:06 |
 | 56 | [Llórale a tu madre](https://open.spotify.com/track/2EEu4bViqpDJnd161fKA5t) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Llórale a tu madre](https://open.spotify.com/album/3npXfJD4U0DnOWADS9l11f) | 3:27 |

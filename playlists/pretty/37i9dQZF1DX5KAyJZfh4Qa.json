@@ -1,12 +1,12 @@
 {
   "description": "it's just one of those days w/ Microwave",
-  "num_followers": 48124,
+  "num_followers": 48218,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkLdKgAAAAAyu0udtmiLW4x1L/8WKImq",
+  "snapshot_id": "Zkt03gAAAAC1QKcTeEEh1HYRhuFyKGSV",
   "tracks": [
     {
       "added_at": "2024-05-14 03:40:26",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-05-14 03:40:26",
       "album": {
+        "name": "Giant's Despair",
+        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
+      },
+      "artists": [
+        {
+          "name": "One Step Closer",
+          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Giant's Despair",
+      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
         "name": "Starchild",
         "url": "https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY"
       },
@@ -39,6 +55,78 @@
       "duration_ms": 229555,
       "name": "Starchild",
       "url": "https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "all of my love",
+        "url": "https://open.spotify.com/album/4vy9lp76YbFu7djIlG2orO"
+      },
+      "artists": [
+        {
+          "name": "Oso Oso",
+          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "all of my love",
+      "url": "https://open.spotify.com/track/25uqtNMzQigSCpNUvQma9E"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Fruit Wine",
+        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
+      },
+      "artists": [
+        {
+          "name": "Origami Angel",
+          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
+        }
+      ],
+      "duration_ms": 171854,
+      "name": "Fruit Wine",
+      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Grendel",
+        "url": "https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Real Estate",
+          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
+        }
+      ],
+      "duration_ms": 304337,
+      "name": "Grendel",
+      "url": "https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Lessons That We Swear to Keep",
+        "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "A Part Is Better Than Zero",
+      "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
     },
     {
       "added_at": "2024-05-14 03:40:26",
@@ -91,254 +179,6 @@
     {
       "added_at": "2024-05-14 03:40:26",
       "album": {
-        "name": "Lessons That We Swear to Keep",
-        "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
-      },
-      "artists": [
-        {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Tades Sanville",
-          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "A Part Is Better Than Zero",
-      "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "The Fool",
-        "url": "https://open.spotify.com/album/3Wqo8U4XZhVXERrNgRezPa"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 262049,
-      "name": "The Fool",
-      "url": "https://open.spotify.com/track/4051HoyvOb55X0jRKA8yPr"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "All This Time",
-        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 168903,
-      "name": "All This Time",
-      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Grendel",
-        "url": "https://open.spotify.com/album/1FA9WX9DwRwR7Mdam8Ef82"
-      },
-      "artists": [
-        {
-          "name": "Sunny Day Real Estate",
-          "url": "https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or"
-        }
-      ],
-      "duration_ms": 304337,
-      "name": "Grendel",
-      "url": "https://open.spotify.com/track/3Pad3Y43Rlk4nSWi0etGNY"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "No Backbone",
-        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 137076,
-      "name": "No Backbone",
-      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Giant's Despair",
-        "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
-      },
-      "artists": [
-        {
-          "name": "One Step Closer",
-          "url": "https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Giant's Despair",
-      "url": "https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "all of my love",
-        "url": "https://open.spotify.com/album/4vy9lp76YbFu7djIlG2orO"
-      },
-      "artists": [
-        {
-          "name": "Oso Oso",
-          "url": "https://open.spotify.com/artist/63GTn25wbdRNX3ijCHvYxD"
-        }
-      ],
-      "duration_ms": 137400,
-      "name": "all of my love",
-      "url": "https://open.spotify.com/track/25uqtNMzQigSCpNUvQma9E"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Fruit Wine",
-        "url": "https://open.spotify.com/album/4mtAM1eBl3NtU8heHBbDEF"
-      },
-      "artists": [
-        {
-          "name": "Origami Angel",
-          "url": "https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY"
-        }
-      ],
-      "duration_ms": 171854,
-      "name": "Fruit Wine",
-      "url": "https://open.spotify.com/track/6L9Tqzg22pocScyeXI6FTh"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Interesting Decisions: Into It. Over It. Songs (2020 - 2023)",
-        "url": "https://open.spotify.com/album/2WAMsMe58zkznTDFYl0fKD"
-      },
-      "artists": [
-        {
-          "name": "Into It. Over It.",
-          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
-        }
-      ],
-      "duration_ms": 271824,
-      "name": "The Car\u2019s Still Running Out Front",
-      "url": "https://open.spotify.com/track/2RgGODc1m1wYHaMc91Iny6"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "the CIA",
-        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
-      },
-      "artists": [
-        {
-          "name": "glass beach",
-          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
-        }
-      ],
-      "duration_ms": 282203,
-      "name": "the CIA",
-      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Absolute Bloom",
-        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
-      },
-      "artists": [
-        {
-          "name": "Higher Power",
-          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
-        }
-      ],
-      "duration_ms": 205628,
-      "name": "Absolute Bloom",
-      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Respite For A Tragic Tale / Silhouettes in Motion",
-        "url": "https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa"
-      },
-      "artists": [
-        {
-          "name": "SeeYouSpaceCowboy...",
-          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "Silhouettes In Motion",
-      "url": "https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Down, Down",
-        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
-      },
-      "artists": [
-        {
-          "name": "Anxious",
-          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Down, Down",
-      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "No Joy",
-        "url": "https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP"
-      },
-      "artists": [
-        {
-          "name": "Spanish Love Songs",
-          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
-        }
-      ],
-      "duration_ms": 214869,
-      "name": "Lifers",
-      "url": "https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Anthem",
-        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
-      },
-      "artists": [
-        {
-          "name": "Koyo",
-          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
-        }
-      ],
-      "duration_ms": 102258,
-      "name": "Anthem",
-      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
         "name": "Too Quick to Forgive",
         "url": "https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY"
       },
@@ -387,6 +227,22 @@
     {
       "added_at": "2024-05-14 03:40:26",
       "album": {
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/3Wqo8U4XZhVXERrNgRezPa"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 262049,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/4051HoyvOb55X0jRKA8yPr"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
         "name": "Keepsakes & Reminders (Deluxe)",
         "url": "https://open.spotify.com/album/56EAwWQtYqwtVfHznqfdvj"
       },
@@ -403,6 +259,70 @@
     {
       "added_at": "2024-05-14 03:40:26",
       "album": {
+        "name": "All This Time",
+        "url": "https://open.spotify.com/album/5OPXL5SBb2I59vfWNzNQ30"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 168903,
+      "name": "All This Time",
+      "url": "https://open.spotify.com/track/4VeSg59VpH2nVTAh98jRWn"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "No Backbone",
+        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
+      },
+      "artists": [
+        {
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
+        }
+      ],
+      "duration_ms": 137076,
+      "name": "No Backbone",
+      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Interesting Decisions: Into It. Over It. Songs (2020 - 2023)",
+        "url": "https://open.spotify.com/album/2WAMsMe58zkznTDFYl0fKD"
+      },
+      "artists": [
+        {
+          "name": "Into It. Over It.",
+          "url": "https://open.spotify.com/artist/1ecdmsD235x2zHCKfdL3cF"
+        }
+      ],
+      "duration_ms": 271824,
+      "name": "The Car\u2019s Still Running Out Front",
+      "url": "https://open.spotify.com/track/2RgGODc1m1wYHaMc91Iny6"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "the CIA",
+        "url": "https://open.spotify.com/album/1zGMd5eXQY9rPrXL0tVeEe"
+      },
+      "artists": [
+        {
+          "name": "glass beach",
+          "url": "https://open.spotify.com/artist/4gHs8pWsgZpndQZKs6QVRH"
+        }
+      ],
+      "duration_ms": 282203,
+      "name": "the CIA",
+      "url": "https://open.spotify.com/track/71VFHN459tdGGWOLpMdYMi"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
         "name": "Joan of Hill",
         "url": "https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr"
       },
@@ -415,6 +335,102 @@
       "duration_ms": 253200,
       "name": "Joan of Hill",
       "url": "https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Absolute Bloom",
+        "url": "https://open.spotify.com/album/5b6msyAHAio8tzWXOaYQsW"
+      },
+      "artists": [
+        {
+          "name": "Higher Power",
+          "url": "https://open.spotify.com/artist/6yv0Vd63iiAaW4665Cs9vT"
+        }
+      ],
+      "duration_ms": 205628,
+      "name": "Absolute Bloom",
+      "url": "https://open.spotify.com/track/2J2NIgMvtnIStg1ZfCiEjm"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Down, Down",
+        "url": "https://open.spotify.com/album/370vppY6IUYVcPirKxqVEe"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Down, Down",
+      "url": "https://open.spotify.com/track/0miXex5MBdN0ddRL79GX4I"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM"
+      },
+      "artists": [
+        {
+          "name": "Shoreline",
+          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
+        }
+      ],
+      "duration_ms": 197453,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/242MWOVEHopesZNGpUXih2"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "No Joy",
+        "url": "https://open.spotify.com/album/5bmC9YAnux6z8pkahL9SmP"
+      },
+      "artists": [
+        {
+          "name": "Spanish Love Songs",
+          "url": "https://open.spotify.com/artist/5DaZV3qmFT3aS57df8KPkV"
+        }
+      ],
+      "duration_ms": 214869,
+      "name": "Lifers",
+      "url": "https://open.spotify.com/track/3Ooa1FETAj6ShTc2bHXd1M"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Anthem",
+        "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
+      },
+      "artists": [
+        {
+          "name": "Koyo",
+          "url": "https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9"
+        }
+      ],
+      "duration_ms": 102258,
+      "name": "Anthem",
+      "url": "https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI"
+    },
+    {
+      "added_at": "2024-05-14 03:40:26",
+      "album": {
+        "name": "Respite For A Tragic Tale / Silhouettes in Motion",
+        "url": "https://open.spotify.com/album/7EJ2kr6NZ1kJsAPj0lkQWa"
+      },
+      "artists": [
+        {
+          "name": "SeeYouSpaceCowboy...",
+          "url": "https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "Silhouettes In Motion",
+      "url": "https://open.spotify.com/track/4ygG0M1l8RY9PLOnzbnZzE"
     },
     {
       "added_at": "2024-05-14 03:40:26",
@@ -495,22 +511,6 @@
       "duration_ms": 240953,
       "name": "Numb",
       "url": "https://open.spotify.com/track/4OxACWNlVfc3KxcCaLy9mf"
-    },
-    {
-      "added_at": "2024-05-14 03:40:26",
-      "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/6In2brueDbHP59jDfPjmJM"
-      },
-      "artists": [
-        {
-          "name": "Shoreline",
-          "url": "https://open.spotify.com/artist/7xEYYE03vzoSMyC2AVRnD0"
-        }
-      ],
-      "duration_ms": 197453,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/242MWOVEHopesZNGpUXih2"
     },
     {
       "added_at": "2024-05-14 03:40:26",

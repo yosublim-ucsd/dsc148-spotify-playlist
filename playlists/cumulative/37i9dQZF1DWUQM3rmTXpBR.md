@@ -4,7 +4,7 @@
 
 > Alternative Arabic songs\. Cover: Bigsam
 
-196 songs - 11 hr 59 min
+197 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [استوى](https://open.spotify.com/track/7KXUvqS31iZQFOb21h5ewW) | [Ghaliaa](https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8) | [استوى](https://open.spotify.com/album/4Cpd0aeZO26OpXOsyXS76n) | 2:59 | 2023-05-02 | 2023-06-08 |
 | [انقذيني مني](https://open.spotify.com/track/1zAuToKatU8CEw01ZCcjQ5) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [انقذيني مني](https://open.spotify.com/album/2OfTZgFt2qN1Rlf52Ec45s) | 3:01 | 2022-12-17 | 2023-04-01 |
 | [بشتقلك](https://open.spotify.com/track/0P57Kf5Je5ybQZmfmpkUSC) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بشتقلك](https://open.spotify.com/album/6Za6yUuQL2iyxYcbkF5svE) | 3:14 | 2022-07-23 | 2023-04-24 |
+| [حتكبر وحتنسى](https://open.spotify.com/track/1VUtcw0aGzPDPiqyGPW2cE) | [Alaa Wardi](https://open.spotify.com/artist/3tTXwO40pkZrwNLMC2rfGL) | [الموسيقى التصويرية لفيلم شمس المعارف](https://open.spotify.com/album/3l1GqEML0nPDAuVB4cSnEP) | 3:34 | 2024-05-20 |  |
 | [خاطي](https://open.spotify.com/track/6yEHeItedqVCm48d9yturc) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5KkRsB4FGEuV82TSWWfIen) | 4:20 | 2023-06-23 |  |
 | [خاطي](https://open.spotify.com/track/4uHMUW4pvuHKDxxFBnBg4b) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 4:20 | 2023-12-28 | 2024-04-19 |
 | [ديسمبر](https://open.spotify.com/track/62BM77P1tFlUbnsoSxtj0q) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [ديسمبر](https://open.spotify.com/album/1hfTMMRF4DP51YYJWt6x4l) | 3:57 | 2024-05-10 |  |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAg14hOn0TIEdQqsqP5kM7w",
+  "snapshot_id": "ZklBAAAAAABsHEz9s3rejBphIBVSR+Pl",
   "tracks": [
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
-        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 165773,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH"
+      "duration_ms": 210720,
+      "name": "Love to Hate Me",
+      "url": "https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
+        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
+        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Love to Hate Me",
-      "url": "https://open.spotify.com/track/0glicUGi6G8zIJxXQ0sLFJ"
+      "duration_ms": 165773,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH"
     },
     {
       "added_at": null,

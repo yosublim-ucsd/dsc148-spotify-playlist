@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 
 > Soothing ASMR whispers to help you drift off to sleep\. Slow, soft and calming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,247 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,269 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbZmKskFbVct.md) - [plain]
 | 15 | [Anticipatory Ear to Ear Whispers Pt.1](https://open.spotify.com/track/1WKMPkedR3z44hL8QifjOT) | [Slight Sounds ASMR](https://open.spotify.com/artist/3T3Ygd1CAqQdgzphPcs6ts) | [Anticipatory Ear to Ear Whisepers](https://open.spotify.com/album/5lqSEu356oV96g0VZXYFTL) | 5:22 |
 | 16 | [Reassuring Whispers 2 Asmr](https://open.spotify.com/track/3Cid1Ne9qWeFJiU2Z6bhIx) | [DianaDewAsmr](https://open.spotify.com/artist/0pukN4AZfFrKqNDWwJ3oNu) | [July Tingly Studio Sounds Special](https://open.spotify.com/album/3jgCOz5dDHSVBCHRwwqizz) | 5:07 |
 | 17 | [Close Ear to Ear Whispered Countdown to Sleep Pt.4](https://open.spotify.com/track/4SizL2yMtF5wkXMuYh1edR) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Close Ear to Ear Whispered Countdown to Sleep](https://open.spotify.com/album/4PsZcKftdyDZcTGFhU9OLk) | 4:39 |
-| 18 | [Sending Tingle Sleep Vibes Pt.1](https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Sending Tingle Sleep Vibes](https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw) | 6:03 |
+| 18 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
 | 19 | [Unintelligble Sleep Whisper Dee Kaa](https://open.spotify.com/track/7rAyhoQ18VOFt9DLgzM0n2) | [Mr\. Jones ASMR](https://open.spotify.com/artist/6SZTvX4HLAuDywehkdtmrb) | [ASMR Whispers \(Binaural\)](https://open.spotify.com/album/7CG9mOaqHldDcfdZak3Od6) | 3:02 |
-| 20 | [Into Dreams](https://open.spotify.com/track/5x4vUEtSMG1DT6QEMT1ZQn) | [Summer ASMR](https://open.spotify.com/artist/7nx34jOyWK0LZcfCetEeG6) | [Santorini Sunbath ASMR](https://open.spotify.com/album/6Gso3Ic4TjOzdeQwjNrAMt) | 5:04 |
+| 20 | [Sending Tingle Sleep Vibes Pt.1](https://open.spotify.com/track/4gnmeGl4hzsjsMulvZto9O) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Sending Tingle Sleep Vibes](https://open.spotify.com/album/0hpRT3bt8D7RYRY3MUrBsw) | 6:03 |
 | 21 | [Intense Relaxation Pt.2](https://open.spotify.com/track/68NEZB7mPPWZtNhXoGtZ40) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [Intense Relaxation](https://open.spotify.com/album/5d4TEWC6eJagsEFcOxLaa8) | 7:27 |
 | 22 | [Sleep\-Inducing Haircut Pt.3](https://open.spotify.com/track/3QcQqTLBYUp0ZjZatm3FUk) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Sleep\-Inducing Haircut](https://open.spotify.com/album/1kM0ELi6Vgv4OiXAtnRIXO) | 4:13 |
 | 23 | [Violet is BACK to help you fall sleep Pt.1](https://open.spotify.com/track/55jujsnFOGPWk80wicrHsg) | [RoseASMR](https://open.spotify.com/artist/3CAEqHMxqfTLF9azWWYzmS) | [Violet is BACK to help you fall sleep](https://open.spotify.com/album/4mR9iLu5mhOjz7o5diTXEw) | 4:37 |

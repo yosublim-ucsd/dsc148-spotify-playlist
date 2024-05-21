@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Lemuell
 
-1,118 songs - 2 day 11 hr 42 min
+1,119 songs - 2 day 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -952,6 +952,7 @@
 | [Sport+](https://open.spotify.com/track/3lDudOXkxqByT6RrZG5eKl) | [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Sport+](https://open.spotify.com/album/71gG3D59KZOdUfRzta8h0L) | 2:12 | 2024-05-10 |  |
 | [Stripper](https://open.spotify.com/track/0cRfaNSIZBp6tLwZy4g5R3) | [DJ Blass](https://open.spotify.com/artist/1ZijgA5CMnToosMd24krUH), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Mista Greenzz](https://open.spotify.com/artist/3ez0IrscepIifqnM1VuwqQ), [JS Beatz](https://open.spotify.com/artist/2n448HRkEYTXxlqFlW24G5) | [Stripper](https://open.spotify.com/album/1Ip8ywDTWKAZudr0yw6En9) | 2:54 | 2024-04-05 | 2024-05-18 |
 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 | 2023-04-09 | 2023-07-22 |
+| [Suano](https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Suano](https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh) | 2:17 | 2024-05-20 |  |
 | [SUBIMO AL CIELO](https://open.spotify.com/track/6KnzNs4enuKrVYZnukrGRE) | [ADAN](https://open.spotify.com/artist/1w8UqsR3DG3us9VBFc93ul), [Rhyno OTT](https://open.spotify.com/artist/1fK8RLuqnCqdlbXuk4J7ga) | [SUBIMO AL CIELO](https://open.spotify.com/album/7o5aiF4fYFCTtmwvC3rx4X) | 2:17 | 2024-05-03 |  |
 | [Suburban](https://open.spotify.com/track/5N2lj5JJwYP5ggwYcESoHp) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [Suburban](https://open.spotify.com/album/3IoGxeq3iYqDQzRsFtSG66) | 3:17 | 2022-09-23 | 2022-12-10 |
 | [SUCIO](https://open.spotify.com/track/5BPZWT8tc9KTIbyPF4CJ98) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [SUCIO](https://open.spotify.com/album/79koG2MiYXk3fsceB8Oh0W) | 4:21 | 2023-10-20 | 2023-11-11 |

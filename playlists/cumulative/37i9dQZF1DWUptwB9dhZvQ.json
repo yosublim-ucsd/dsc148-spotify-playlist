@@ -75,6 +75,24 @@
     },
     {
       "album": {
+        "name": "Ace of Hearts (From \"Ace\")",
+        "url": "https://open.spotify.com/album/6jJk7L2xz36cCnqG5gQQCa"
+      },
+      "artists": [
+        {
+          "name": "Justin Prabhakaran",
+          "url": "https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69375,
+      "name": "Ace of Hearts - From \"Ace\"",
+      "url": "https://open.spotify.com/track/0DQariHK8zf2HYZ7B7h2Cx"
+    },
+    {
+      "album": {
         "name": "Varisu Original Sound Track",
         "url": "https://open.spotify.com/album/1BQenhYzXw2QwFgva3d8RL"
       },
@@ -966,7 +984,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 196000,
       "name": "For My boy Ceaser",
       "url": "https://open.spotify.com/track/3QYuyYS1NRchBlcmSkQieH"

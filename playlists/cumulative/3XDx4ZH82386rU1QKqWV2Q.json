@@ -9061,6 +9061,24 @@
     },
     {
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/1VSsN9rUWvTNxocgg79Ofv"
+      },
+      "artists": [
+        {
+          "name": "SPYRAL",
+          "url": "https://open.spotify.com/artist/4XNwb6ukiDzAyHxQqHR0E1"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147543,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/3Ru6pnv0mzAdSsjxKIMp4w"
+    },
+    {
+      "album": {
         "name": "SINISTER",
         "url": "https://open.spotify.com/album/4rtRxBQYYkeRV6s05OB4q3"
       },

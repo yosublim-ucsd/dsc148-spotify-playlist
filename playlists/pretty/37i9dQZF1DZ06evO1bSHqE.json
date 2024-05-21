@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30d6\u30ea\u30c8\u30cb\u30fc\u30fb\u30b9\u30d4\u30a2\u30fc\u30ba\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 862771,
-  "original_name": "This Is \u30d6\u30ea\u30c8\u30cb\u30fc\u30fb\u30b9\u30d4\u30a2\u30fc\u30ba",
+  "description": "This is Britney Spears. The essential tracks, all in one playlist.",
+  "num_followers": 862841,
+  "original_name": "This Is Britney Spears",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACJ3bKOsU39OnNA3jS//9lx",
+  "snapshot_id": "ZklBAAAAAAAmajRJgX2UJk5SaKeaEYDn",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 198800,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "...Baby One More Time",
-      "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
     },
     {
       "added_at": null,
@@ -111,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#willpower",
-        "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 283400,
-      "name": "Scream & Shout",
-      "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...Baby One More Time (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
@@ -163,22 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 192360,
-      "name": "Circus",
-      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oops!... I Did It Again",
         "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
       },
@@ -191,6 +139,22 @@
       "duration_ms": 206226,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/2TTYIwTM2iLC1YOyHuhRMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 192360,
+      "name": "Circus",
+      "url": "https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW"
     },
     {
       "added_at": null,
@@ -227,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Circus (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216520,
-      "name": "If U Seek Amy",
-      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Britney (Digital Deluxe Version)",
         "url": "https://open.spotify.com/album/5ax3GTsfX5uCUaNgnJsSG5"
       },
@@ -255,6 +203,22 @@
       "duration_ms": 203600,
       "name": "I'm a Slave 4 U",
       "url": "https://open.spotify.com/track/6ldwfK0yWgTAlmIfuQkTYN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216520,
+      "name": "If U Seek Amy",
+      "url": "https://open.spotify.com/track/2hdy9Wt9qp7M7d0U3ossu2"
     },
     {
       "added_at": null,
@@ -291,8 +255,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "Britney Jean (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5rlB2HPoNHg2m1wmmh0TRv"
       },
       "artists": [
         {
@@ -300,9 +264,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 229093,
-      "name": "Get Back",
-      "url": "https://open.spotify.com/track/59Xb5YkZ1AFrMD19T6cKr8"
+      "duration_ms": 247960,
+      "name": "Work Bitch",
+      "url": "https://open.spotify.com/track/3KliPMvk1EvFZu9cvkj8p1"
     },
     {
       "added_at": null,
@@ -323,8 +287,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "...Baby One More Time (Digital Deluxe Version)",
-        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
       },
       "artists": [
         {
@@ -332,9 +296,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 243533,
-      "name": "Born to Make You Happy",
-      "url": "https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd"
+      "duration_ms": 229093,
+      "name": "Get Back",
+      "url": "https://open.spotify.com/track/59Xb5YkZ1AFrMD19T6cKr8"
     },
     {
       "added_at": null,
@@ -355,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+        "name": "...Baby One More Time (Digital Deluxe Version)",
+        "url": "https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx"
       },
       "artists": [
         {
@@ -364,9 +328,9 @@
           "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
         }
       ],
-      "duration_ms": 212106,
-      "name": "Piece of Me",
-      "url": "https://open.spotify.com/track/2EvwLVrnYbCZEG6Kx5DCRy"
+      "duration_ms": 243533,
+      "name": "Born to Make You Happy",
+      "url": "https://open.spotify.com/track/4l1MNtoCiTxBwf6yxD7kFd"
     },
     {
       "added_at": null,
@@ -383,6 +347,22 @@
       "duration_ms": 231066,
       "name": "I'm Not a Girl, Not Yet a Woman",
       "url": "https://open.spotify.com/track/1xg1yGPy1Y3YUf44s6TB1o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Piece of Me",
+      "url": "https://open.spotify.com/track/2EvwLVrnYbCZEG6Kx5DCRy"
     },
     {
       "added_at": null,
@@ -427,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 196053,
-      "name": "Break the Ice",
-      "url": "https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn"
       },
@@ -455,6 +419,22 @@
       "duration_ms": 213173,
       "name": "3",
       "url": "https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 196053,
+      "name": "Break the Ice",
+      "url": "https://open.spotify.com/track/52K4Nl7eVNqUpUeJeWJlwT"
     },
     {
       "added_at": null,
@@ -491,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 229213,
-      "name": "Radar",
-      "url": "https://open.spotify.com/track/29Srmzqyig5Tg5EitFXsb8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits: My Prerogative",
         "url": "https://open.spotify.com/album/3caKTh2tJMowPiMz0cguLI"
       },
@@ -519,6 +483,22 @@
       "duration_ms": 213893,
       "name": "My Prerogative",
       "url": "https://open.spotify.com/track/2JxftzENN2rhpXxnOmtQBR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/1ePkYcH5ZQCb1b4tQeiEDj"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 229213,
+      "name": "Radar",
+      "url": "https://open.spotify.com/track/29Srmzqyig5Tg5EitFXsb8"
     },
     {
       "added_at": null,
@@ -763,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "What U See (Is What U Get)",
-      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ooh La La (from \"The Smurfs 2\")",
         "url": "https://open.spotify.com/album/7qMTrZjF1sh0rujrgczf8P"
       },
@@ -791,6 +755,22 @@
       "duration_ms": 257493,
       "name": "Ooh La La (from \"The Smurfs 2\")",
       "url": "https://open.spotify.com/track/7bpvfjoneSQvW0tbtVm1Jk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 216706,
+      "name": "What U See (Is What U Get)",
+      "url": "https://open.spotify.com/track/41cQPDvsP9vBCigVqQjnqg"
     },
     {
       "added_at": null,
@@ -843,8 +823,24 @@
       "duration_ms": 180040,
       "name": "Change Your Mind (No Seas Cortes)",
       "url": "https://open.spotify.com/track/1rNQgve0esNYM0nOc12xoU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Circus (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 172400,
+      "name": "Shattered Glass",
+      "url": "https://open.spotify.com/track/3sJx8qerYrs92oqVAa9S0Z"
     }
   ],
-  "unique_name": "This Is \u30d6\u30ea\u30c8\u30cb\u30fc\u30fb\u30b9\u30d4\u30a2\u30fc\u30ba",
+  "unique_name": "This Is Britney Spears",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bSHqE"
 }

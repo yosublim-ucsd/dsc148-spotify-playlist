@@ -2,7 +2,7 @@
 
 ### [scorned](https://open.spotify.com/playlist/37i9dQZF1DX02pE0Dxwufo)
 
-> jolene better watch her back
+> take a louisville slugger to both headlights
 
 62 songs - 3 hr 27 min
 

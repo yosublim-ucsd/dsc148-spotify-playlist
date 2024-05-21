@@ -1,12 +1,12 @@
 {
   "description": "This is Lana Del Rey. The essential tracks, all in one playlist.",
-  "num_followers": 2330503,
+  "num_followers": 2331669,
   "original_name": "This Is Lana Del Rey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABlcHaIfRp/oxonxg0Id5F3",
+  "snapshot_id": "ZklBAAAAAAAYE1B6YRBxBejaqZRcpMzt",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young And Beautiful",
         "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
       },
@@ -59,54 +39,6 @@
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 265427,
-      "name": "Summertime Sadness",
-      "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "West Coast",
-      "url": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 300683,
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e"
     },
     {
       "added_at": null,
@@ -163,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 202192,
-      "name": "Doin' Time",
-      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ultraviolence (Deluxe)",
         "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
@@ -215,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Art Deco",
-      "url": "https://open.spotify.com/track/5jqNQZBwbZWQXPWfo0ygZF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -243,6 +143,22 @@
       "duration_ms": 281960,
       "name": "Video Games",
       "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 180902,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
     },
     {
       "added_at": null,
@@ -283,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 180902,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/1Ym6aMuT5bliaZMC67AmPp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -308,25 +208,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 222920,
-      "name": "Diet Mountain Dew",
-      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 251480,
-      "name": "Ultraviolence",
-      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+      "duration_ms": 285400,
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl"
     },
     {
       "added_at": null,
@@ -351,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 251480,
+      "name": "Ultraviolence",
+      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -367,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
@@ -376,9 +276,29 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 285400,
-      "name": "Born To Die",
-      "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl"
+      "duration_ms": 248934,
+      "name": "Norman fucking Rockwell",
+      "url": "https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix)",
+        "url": "https://open.spotify.com/album/1fXwOvaqIdkhp5F3fiFbCv"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 214912,
+      "name": "Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix",
+      "url": "https://open.spotify.com/track/6PUIzlqotEmPuBfjbwYWOB"
     },
     {
       "added_at": null,
@@ -399,38 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 228071,
-      "name": "How to disappear",
-      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blue Banisters",
-        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 274293,
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born To Die - The Paradise Edition",
         "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
       },
@@ -447,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
@@ -456,9 +344,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 181960,
-      "name": "The Other Woman",
-      "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
+      "duration_ms": 228071,
+      "name": "How to disappear",
+      "url": "https://open.spotify.com/track/4qUtC2BwFC154Ha8YQRrkk"
     },
     {
       "added_at": null,
@@ -483,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 181960,
+      "name": "The Other Woman",
+      "url": "https://open.spotify.com/track/1KuVEZR4xuQVNr1KkanAV4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Take Me Home, Country Roads",
         "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
       },
@@ -495,6 +399,38 @@
       "duration_ms": 166676,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 230520,
+      "name": "National Anthem",
+      "url": "https://open.spotify.com/track/7cNz65PfCatRXoX7QtqM2A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 164710,
+      "name": "White Mustang",
+      "url": "https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9"
     },
     {
       "added_at": null,
@@ -535,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+        "name": "Ultraviolence (Deluxe)",
+        "url": "https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F"
       },
       "artists": [
         {
@@ -544,9 +480,9 @@
           "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 164710,
-      "name": "White Mustang",
-      "url": "https://open.spotify.com/track/6eygbzyL6hY8jFQTARDuo9"
+      "duration_ms": 314533,
+      "name": "Black Beauty",
+      "url": "https://open.spotify.com/track/63hHlajVLQnlFMAqSyePxO"
     },
     {
       "added_at": null,
@@ -583,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 285050,
-      "name": "Did you know that there's a tunnel under Ocean Blvd",
-      "url": "https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blue Banisters",
         "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
       },
@@ -611,6 +531,38 @@
       "duration_ms": 259466,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/4y9vLiQ9mQb6XNEtc4K6ou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 433916,
+      "name": "A&W",
+      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 209440,
+      "name": "Blue Jeans",
+      "url": "https://open.spotify.com/track/4RyK6N4IQ85xxLgguQAFH5"
     },
     {
       "added_at": null,
@@ -647,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 433916,
-      "name": "A&W",
-      "url": "https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Die Hoffnung klaut mir Niemand",
         "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
       },
@@ -679,38 +615,6 @@
       "duration_ms": 195600,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/6vJMq94wRS6oqKV2jggzMc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 229325,
-      "name": "Love song",
-      "url": "https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 238718,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
     },
     {
       "added_at": null,
@@ -755,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 238718,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/269xqcgGTN9PlivhUkOLhX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chemtrails Over The Country Club",
         "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
       },
@@ -767,22 +687,6 @@
       "duration_ms": 215673,
       "name": "Tulsa Jesus Freak",
       "url": "https://open.spotify.com/track/0hyImI8JaWONOrzKH7kJsC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lust For Life",
-        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 334294,
-      "name": "Get Free",
-      "url": "https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q"
     },
     {
       "added_at": null,
@@ -803,6 +707,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 305899,
+      "name": "California",
+      "url": "https://open.spotify.com/track/7oTE1KmtU2ml9zBhv9Reao"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lust For Life",
+        "url": "https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 334294,
+      "name": "Get Free",
+      "url": "https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Did you know that there's a tunnel under Ocean Blvd",
+        "url": "https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/6x8g6DxglrzCSwKhv2Q1ee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Honeymoon",
         "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
       },
@@ -815,6 +767,86 @@
       "duration_ms": 290625,
       "name": "Music To Watch Boys To",
       "url": "https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 300360,
+      "name": "The greatest",
+      "url": "https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 241426,
+      "name": "Living Legend",
+      "url": "https://open.spotify.com/track/6pZ9Nj3vzj1RW4ZkR9GcQ9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chemtrails Over The Country Club",
+        "url": "https://open.spotify.com/album/6QeosPQpJckkW0Obir5RT8"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 200661,
+      "name": "Let Me Love You Like A Woman",
+      "url": "https://open.spotify.com/track/1gxdWpeOUBpvB908fiZs4D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 323280,
+      "name": "Religion",
+      "url": "https://open.spotify.com/track/1Yh4lOCbcskjSfYPDnn7EW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Banisters",
+        "url": "https://open.spotify.com/album/2wwCc6fcyhp1tfY3J6Javr"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 265186,
+      "name": "If You Lie Down With Me",
+      "url": "https://open.spotify.com/track/1RPsOAaHaRu8JlVdeaciuL"
     }
   ],
   "unique_name": "This Is Lana Del Rey",

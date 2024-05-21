@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,916 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,942 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 25 | [Com Jesus](https://open.spotify.com/track/1teeml3NtPVTvfdrPiuxID) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2) | [Com Jesus](https://open.spotify.com/album/0GPGJJUSk7pCTOrMkKgy60) | 2:58 |
 | 26 | [Cristo Fez os Peixes](https://open.spotify.com/track/447JeTRzLtyTxjo4eJT9CA) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Cristo Fez os Peixes](https://open.spotify.com/album/0X87Se7GHxCvdXsYP3anvv) | 1:52 |
 | 27 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
-| 28 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
-| 29 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
+| 28 | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/track/3QeEhShhm4xarUOUmHS4tn) | [Yasmin Verissimo](https://open.spotify.com/artist/1O6na9PsfEQLFmZHg8MEyE) | [Quem Ama os Animais: Yasminzinha](https://open.spotify.com/album/7zDczluqFBHATzo2eXUWZC) | 2:18 |
+| 29 | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/track/1QZvzIat3ivKf9hDE5R2uk) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Smilingüido](https://open.spotify.com/artist/3gXyPd0CCJNIlkRptryM5U) | [Alegria do Senhor \(feat\. Smilingüido\)](https://open.spotify.com/album/2DvpowMnSsDrZYdBaNivPI) | 2:51 |
 | 30 | [O Sabão \- Deluxe](https://open.spotify.com/track/31NTFyLNBjUFmIv5wUVg4L) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [O Sabão \(Deluxe\)](https://open.spotify.com/album/3wissWXrndk2jkBWB8NmNG) | 2:22 |
 | 31 | [Família Perfeita](https://open.spotify.com/track/25UWTOQyH5eOcvMyWb0VKR) | [Áquila](https://open.spotify.com/artist/4z6EQDJNZwMQ6uHmjL87nQ) | [Família Perfeita](https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V) | 3:16 |
 | 32 | [Medley das Crianças](https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl), [Galo Jacó](https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L) | [Medley das Crianças](https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH) | 4:12 |

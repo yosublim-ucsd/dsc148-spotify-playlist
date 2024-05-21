@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 
 > The most iconic piano style in Blues; all the greatest Boogie\-woogie pianists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,741 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,780 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 33 | [Let Me Go Home Whiskey](https://open.spotify.com/track/33343QHpDEcf022acPZMw8) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Let's Have A Party! \(The Aladdin Recordings\)](https://open.spotify.com/album/7iDour2LtChLy6IyUYD6JF) | 2:47 |
 | 34 | [Junco Partner \#2](https://open.spotify.com/track/5Afi3CGcMNcgA3kkRc5i9c) | [James Booker](https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF) | [The Lost Paramount Tapes](https://open.spotify.com/album/5JNGtZxQbdW4CXc66oOXQr) | 3:55 |
 | 35 | [501 Boogie](https://open.spotify.com/track/5Jwqv8raO45Q52RLGu3YJA) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [Rum and Coke](https://open.spotify.com/album/4LaS8y7kiokSnkfj5PqnOm) | 3:28 |
-| 36 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
-| 37 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
+| 36 | [Killer Miller](https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD) | [Battin' The Boogie](https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6) | 2:21 |
+| 37 | [Five Stacked High](https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv) | [Boogie Woogie Kid](https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq) | [Boogie Woogie Kid](https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D) | 3:14 |
 | 38 | [Caroline's Boogie](https://open.spotify.com/track/1uAc2LHf9dhj1kyGC8UfkP) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:21 |
 | 39 | [The House of Blue Lights](https://open.spotify.com/track/1ZMoEiIgMdAm8Hj6aS8SyA) | [Ella Mae Morse](https://open.spotify.com/artist/0qGFARKf4pfodYjZbj5N4v), [Freddie Slack And His Orchestra](https://open.spotify.com/artist/4sDUl3F44oqvU3YQm8HmBw), [Don Raye](https://open.spotify.com/artist/5UpwoPrXTj5b0kLlg8Sn5X) | [Capitol Collectors Series](https://open.spotify.com/album/3DQtOkvFUpgfHJLYJJe19V) | 2:53 |
 | 40 | [Rocket Boogie "88" \(Pt\. 1\)](https://open.spotify.com/track/4DqcPcRslEWvO54HsqK5W2) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7), [Pete Johnson](https://open.spotify.com/artist/7l71rXhsmDwoDgbyXDadtZ) | [Tell Me Pretty Baby](https://open.spotify.com/album/3BNod5fhVw3KJhcOYLwtOk) | 2:50 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULaRXVqGMUt.md) - [plain]
 | 46 | [Boogie Woogie \- Mono](https://open.spotify.com/track/61FvO9xI8yQpQ2ygNA4qof) | [Professor Longhair](https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD) | [New Orleans Piano \(Mono\)](https://open.spotify.com/album/4vQc378UGRZAaJemArhMpv) | 2:40 |
 | 47 | [Blueberry Hill](https://open.spotify.com/track/2yvKn73WluTXfEtH1OO05z) | [Esben Just](https://open.spotify.com/artist/7C0r1C3ZyzEfD4XgF2T5mZ) | [Keep It Coming](https://open.spotify.com/album/169PS1pKQBPMCszDnERktt) | 2:26 |
 | 48 | [Yancey Stomp](https://open.spotify.com/track/4I32Hx29orle6qZ6UI0fTf) | [Jimmy Yancey](https://open.spotify.com/artist/5Htb3OCSbYrsNjXgFP1LqD) | [Yancey Special](https://open.spotify.com/album/67Bhk0YSsNBNkDgiVFAObX) | 2:52 |
-| 49 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
+| 49 | [Quarter Bass Boogie](https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet) | [Rob Rio](https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K) | [Omniboogie 2012](https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9) | 1:55 |
 | 50 | [Boogie Woogie Country Girl](https://open.spotify.com/track/5544O9CAWnZXcMx4BzbiuM) | [Big Joe Turner](https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7) | [Flip, Flop And Fly 1951\-1955](https://open.spotify.com/album/1szAsaCnC4nemlMWdRoZm0) | 2:39 |
-| 51 | [Quarter Bass Boogie](https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet) | [Rob Rio](https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K) | [Omniboogie 2012](https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9) | 1:55 |
+| 51 | [Boogie Woogie Prayer](https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu) | [Meade "Lux" Lewis](https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0), [Albert Ammons](https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN) | [The Boogie Woogie Trio vol\. 1](https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8) | 2:05 |
 | 52 | [Barrelhouse Boogie](https://open.spotify.com/track/5z6IgQsUbdf0yUZpnm6ATo) | [Albert Ammons & Pete Johnson](https://open.spotify.com/artist/4EfVjbQT4TAFOJuLpMQCUW) | [The Very Best Of Boogie Woogie](https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2) | 3:03 |
 | 53 | [Shake Baby Shake](https://open.spotify.com/track/5w9J0h84wCz8NiAW8N3f3m) | [Champion Jack Dupree](https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7) | [The Bobby Robinson Story Volume One](https://open.spotify.com/album/4kgxuWQNR9pRnFd5uQuwEG) | 2:25 |
 | 54 | [Bluegrass Boogie Woogie](https://open.spotify.com/track/3o7R9pNV0Tr8jw2I7pzlZ6) | [Caroline Dahl](https://open.spotify.com/artist/4FGlCQYhmkiTq2vJojjJtg) | [No Hats](https://open.spotify.com/album/0jMfZ3ldm3fD23M5hP765I) | 3:20 |

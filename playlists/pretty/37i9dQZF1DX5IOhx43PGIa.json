@@ -1,6 +1,6 @@
 {
   "description": "Happy Asian Pacific Islander Heritage Month!! Celebrate with us and check out our stories \u2b05\ufe0f\u2b06\ufe0f Cover: Luna Li.",
-  "num_followers": 286868,
+  "num_followers": 286869,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "NEW DANCE",
+        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "NEW DANCE",
+      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "TAKA",
         "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "NEW DANCE",
-        "url": "https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK"
-      },
-      "artists": [
-        {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "NEW DANCE",
-      "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "B.I.L.L.S.",
-        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 134920,
-      "name": "B.I.L.L.S.",
-      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "boys beware",
         "url": "https://open.spotify.com/album/6MFaXFiSwULcA42Zv7FMuW"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 133887,
       "name": "boys beware",
       "url": "https://open.spotify.com/track/799zCg04fIPgcbmplT3ecQ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "B.I.L.L.S.",
+        "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 134920,
+      "name": "B.I.L.L.S.",
+      "url": "https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Right About Love",
-        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Chung",
-          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
-        }
-      ],
-      "duration_ms": 122448,
-      "name": "Right About Love",
-      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Pluto",
         "url": "https://open.spotify.com/album/2mwjp35FHpj726XhNWOOen"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 213360,
       "name": "Pluto",
       "url": "https://open.spotify.com/track/0GdWI9k2h0PzW6x2kAhXeI"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Right About Love",
+        "url": "https://open.spotify.com/album/7KrtzyHudvDuQVKwqQDeIk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Chung",
+          "url": "https://open.spotify.com/artist/1VecMtyjxg6MDDJGVJnMJ2"
+        }
+      ],
+      "duration_ms": 122448,
+      "name": "Right About Love",
+      "url": "https://open.spotify.com/track/3bQ7nKbcQeq6r3baY1vLNB"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1315,6 +1315,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Sunny When I'm With You",
+        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
+      },
+      "artists": [
+        {
+          "name": "Ysanygo",
+          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
+        },
+        {
+          "name": "Purplecat",
+          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Sunny When I'm With You",
+      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
       },
@@ -1363,26 +1383,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Sunny When I'm With You",
-        "url": "https://open.spotify.com/album/5wlnSQbgrirIifiisWn94E"
-      },
-      "artists": [
-        {
-          "name": "Ysanygo",
-          "url": "https://open.spotify.com/artist/6fc4La0O0xzu4tZIE0tSsQ"
-        },
-        {
-          "name": "Purplecat",
-          "url": "https://open.spotify.com/artist/2oxXzHzL7FaXIE29VwWPvN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Sunny When I'm With You",
-      "url": "https://open.spotify.com/track/28ZIuMr3gGVhdZO12SvAvB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "to love in the 21st century: the epilogue",
         "url": "https://open.spotify.com/album/5gJGE4rjt0FgauKwsrak11"
       },
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Love Like That (feat. Ali Sethi)",
         "url": "https://open.spotify.com/album/370o1v7cPpNPuFnOGEgVCN"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "So I Danced",
-        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
       },
       "artists": [
         {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 173293,
-      "name": "So I Danced",
-      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "So I Danced",
+        "url": "https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 173293,
+      "name": "So I Danced",
+      "url": "https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Burn",
         "url": "https://open.spotify.com/album/2lHJ0k2PbqwVJXy6dRyakY"
       },
@@ -1499,38 +1499,6 @@
       "duration_ms": 201480,
       "name": "Burn",
       "url": "https://open.spotify.com/track/3RnSyeEzR2AU7ZQN2poS6Z"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "3 new words",
-        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
-      },
-      "artists": [
-        {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
-        }
-      ],
-      "duration_ms": 174293,
-      "name": "3 new words",
-      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Jokes On Me",
-        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Jokes On Me",
-      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1555,6 +1523,38 @@
       "duration_ms": 221241,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/2DBQ8aFDngZ68WCa7by4WG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "3 new words",
+        "url": "https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm"
+      },
+      "artists": [
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "3 new words",
+      "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1763,22 +1763,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "New Beginnings",
-        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
-      },
-      "artists": [
-        {
-          "name": "HILLARI",
-          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
-        }
-      ],
-      "duration_ms": 184148,
-      "name": "New Beginnings",
-      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "New Beginnings",
+        "url": "https://open.spotify.com/album/0dOkdpavoIyGjpcihlQfQL"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "duration_ms": 184148,
+      "name": "New Beginnings",
+      "url": "https://open.spotify.com/track/2p63i5ntlS4BvoL0ijU9bG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
       },
@@ -1811,6 +1811,22 @@
       "duration_ms": 190624,
       "name": "Hopelessly Devoted To You - Spotify Single",
       "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "is it my face?",
+        "url": "https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN"
+      },
+      "artists": [
+        {
+          "name": "Juliet Ivy",
+          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
+        }
+      ],
+      "duration_ms": 144216,
+      "name": "is it my face?",
+      "url": "https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1855,6 +1871,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "WhAT yoU WaNT",
         "url": "https://open.spotify.com/album/1aUgJLZeMDUzjyfwTDwJaw"
       },
@@ -1871,22 +1903,6 @@
       "duration_ms": 164477,
       "name": "WhAT yoU WaNT",
       "url": "https://open.spotify.com/track/4CvT7E4y1NqrQls9tEmYLn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "So Familiar",
-        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 238055,
-      "name": "So Familiar",
-      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1927,22 +1943,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "is it my face?",
-        "url": "https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN"
-      },
-      "artists": [
-        {
-          "name": "Juliet Ivy",
-          "url": "https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3"
-        }
-      ],
-      "duration_ms": 144216,
-      "name": "is it my face?",
-      "url": "https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "EAT / DIRT",
         "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
       },
@@ -1955,22 +1955,6 @@
       "duration_ms": 137500,
       "name": "EAT",
       "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Giggles",
-        "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
-      },
-      "artists": [
-        {
-          "name": "Dabin",
-          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
-        }
-      ],
-      "duration_ms": 199136,
-      "name": "Shower Song",
-      "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1991,6 +1975,22 @@
       "duration_ms": 178346,
       "name": "All Over Again",
       "url": "https://open.spotify.com/track/3m0gY7t5mC3ipTmMlvt8wM"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Giggles",
+        "url": "https://open.spotify.com/album/38nM2l54T2K0sr7OJAoffP"
+      },
+      "artists": [
+        {
+          "name": "Dabin",
+          "url": "https://open.spotify.com/artist/5xyPRB5a4OkeJrj4vLXKvi"
+        }
+      ],
+      "duration_ms": 199136,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/345fxKqJCqWeQk5kuc7eKs"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "What (I Wish) He Said",
-        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "What (I Wish) He Said",
-      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "can't get over it",
         "url": "https://open.spotify.com/album/6xLPohqLN8vpblQedDyEi5"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 132902,
       "name": "can't get over it",
       "url": "https://open.spotify.com/track/3Y8fpZ2FAU2ghW3YXUxYd3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2499,22 +2499,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "we'll be okay (EP)",
-        "url": "https://open.spotify.com/album/224m1yyY93SJrzv3833ZFz"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 110222,
-      "name": "i hate ur guts",
-      "url": "https://open.spotify.com/track/5XcMd26mYBriMHDXYB5Qwm"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "SHYPOP",
         "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
       },
@@ -2531,6 +2515,22 @@
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "we'll be okay (EP)",
+        "url": "https://open.spotify.com/album/224m1yyY93SJrzv3833ZFz"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "duration_ms": 110222,
+      "name": "i hate ur guts",
+      "url": "https://open.spotify.com/track/5XcMd26mYBriMHDXYB5Qwm"
     },
     {
       "added_at": "2024-05-17 04:00:00",

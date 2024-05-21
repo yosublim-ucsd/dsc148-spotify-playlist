@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 114293,
+  "num_followers": 114295,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACXWZgLjjbtBbepLztV5D4N",
+  "snapshot_id": "ZklBAAAAAAB7vi/X2d47lmkxk4b0Fi+q",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 188333,
-      "name": "WORTH IT (feat. Don Toliver)",
-      "url": "https://open.spotify.com/track/7kp6XhIxrvNb8BgTwLjaEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -295,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 168426,
+      "name": "BROAD DAY (feat. Future)",
+      "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -315,26 +315,6 @@
       "duration_ms": 265480,
       "name": "No Complaints (feat. Offset & Drake) (Bonus)",
       "url": "https://open.spotify.com/track/156LzfvMNKuXuiot4uzhGD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "BROAD DAY (feat. Future)",
-      "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
       "added_at": null,
@@ -387,6 +367,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 191466,
+      "name": "DON'T YOU LIE",
+      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EXIT 9 (with Blxst and Offset)",
         "url": "https://open.spotify.com/album/3DAkWjDTQOieiModXxLIUl"
       },
@@ -407,22 +403,6 @@
       "duration_ms": 210229,
       "name": "EXIT 9 - with Blxst and Offset",
       "url": "https://open.spotify.com/track/542Yp18797lywr3zZTG2sC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 191466,
-      "name": "DON'T YOU LIE",
-      "url": "https://open.spotify.com/track/0MSTxF501TyzjuRTHZz46g"
     },
     {
       "added_at": null,
@@ -467,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -487,22 +483,6 @@
       "duration_ms": 157645,
       "name": "100 Racks (Offset feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/4T2dHb8XBYHlVj7Dyo1cW9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
     },
     {
       "added_at": null,
@@ -555,6 +535,26 @@
       "duration_ms": 145188,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Grim Reaper: The Return",
+        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 202783,
+      "name": "Fantasy (feat. Offset)",
+      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": null,
@@ -683,30 +683,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huncho Jack, Jack Huncho",
-        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+        "name": "Hurts Like Hell (feat. Offset)",
+        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
       },
       "artists": [
         {
-          "name": "Huncho Jack",
-          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Dubai Shit",
-      "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+      "duration_ms": 207108,
+      "name": "Hurts Like Hell (feat. Offset)",
+      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
     },
     {
       "added_at": null,
@@ -735,42 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurts Like Hell (feat. Offset)",
-        "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 207108,
-      "name": "Hurts Like Hell (feat. Offset)",
-      "url": "https://open.spotify.com/track/1thsMfc9Z8zztIx7Le3JQM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Red Room",
-      "url": "https://open.spotify.com/track/4TWflhgevIGo448fWc6mQq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Baby On Baby",
         "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
       },
@@ -787,26 +743,6 @@
       "duration_ms": 157693,
       "name": "Baby Sitter (feat. Offset)",
       "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Without Warning",
-        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Nightmare",
-      "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
     },
     {
       "added_at": null,
@@ -863,6 +799,26 @@
       "duration_ms": 302613,
       "name": "New To You (with Normani, Tinashe & Offset)",
       "url": "https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Without Warning",
+        "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Nightmare",
+      "url": "https://open.spotify.com/track/7LAhKXDNWwq3CmnFP3UIOP"
     },
     {
       "added_at": null,
@@ -951,26 +907,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alive (with Offset & 2 Chainz)",
-        "url": "https://open.spotify.com/album/3ZwmW6RFyLF2dey4U87js2"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
         }
       ],
-      "duration_ms": 235897,
-      "name": "Alive (with Offset & 2 Chainz)",
-      "url": "https://open.spotify.com/track/7w8SYlPLA9bqj7vRHvYNDz"
+      "duration_ms": 105066,
+      "name": "BIG DAWG",
+      "url": "https://open.spotify.com/track/28wtiGfwWVdxbZDW52S3kz"
     },
     {
       "added_at": null,
@@ -999,22 +947,6 @@
       "duration_ms": 315973,
       "name": "Guwop (feat. Quavo, Offset and Young Scooter)",
       "url": "https://open.spotify.com/track/1BSA5I386L2IAmFQURYjIz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 204515,
-      "name": "Lick",
-      "url": "https://open.spotify.com/track/4W9XGjEUVG9junR70FOLii"
     },
     {
       "added_at": null,
@@ -1091,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FATHER OF 4",
-        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 200485,
-      "name": "Don't Lose Me",
-      "url": "https://open.spotify.com/track/71Hr2rAhEI92BSpFYbzNN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Perfect LUV Tape",
         "url": "https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67"
       },
@@ -1127,6 +1043,106 @@
       "duration_ms": 261982,
       "name": "Of Course We Ghetto Flowers (feat. Playboi Carti & Offset)",
       "url": "https://open.spotify.com/track/0gqfvyewE2Sh8TwKBFajCF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157557,
+      "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
+      "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FATHER OF 4",
+        "url": "https://open.spotify.com/album/6bPpXqJRpjwy0hLyUGtzYc"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 276794,
+      "name": "How Did I Get Here (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/32iPykTXUNZ9oGyACGUybq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big 14 (feat. Moneybagg Yo)",
+        "url": "https://open.spotify.com/album/5AeDRSzdydA0gfyrgL4mTA"
+      },
+      "artists": [
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+        }
+      ],
+      "duration_ms": 247458,
+      "name": "Big 14 (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/6QwxfYarykL4lGiNLixdHd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
+        "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 218626,
+      "name": "Only You (feat. WizKid, Offset & J Balvin)",
+      "url": "https://open.spotify.com/track/3XFwOQU8wxXWl8Rxj3lrOi"
     }
   ],
   "unique_name": "This Is Offset",

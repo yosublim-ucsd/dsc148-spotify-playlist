@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
-  "num_followers": 24847,
+  "num_followers": 24863,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "STARDUST",
-        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
-      },
-      "artists": [
-        {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
-        },
-        {
-          "name": "XIAOJUN",
-          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "STARDUST",
-      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "iScreaM Vol. 28: Get A Guitar Remixes",
         "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 167576,
       "name": "Get A Guitar - Chromeo Remix",
       "url": "https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "STARDUST",
+        "url": "https://open.spotify.com/album/58IMKl6lvTfzTLoy6sOjJL"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "XIAOJUN",
+          "url": "https://open.spotify.com/artist/51kPKCSzbLwEQFFwhfS4R7"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "STARDUST",
+      "url": "https://open.spotify.com/track/3BtCVejiOinwiGzPIbmsrA"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -435,6 +435,26 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3"
+      },
+      "artists": [
+        {
+          "name": "IMLAY",
+          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+        },
+        {
+          "name": "CHENLE",
+          "url": "https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz"
+        }
+      ],
+      "duration_ms": 221106,
+      "name": "Too Good",
+      "url": "https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
         "name": "Hold You",
         "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
       },
@@ -475,26 +495,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "iScreaM Vol. 28: Get A Guitar Remixes",
-        "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
-      },
-      "artists": [
-        {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
-        }
-      ],
-      "duration_ms": 167576,
-      "name": "Get A Guitar (English Version) - Chromeo Remix",
-      "url": "https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "iScreaM Vol.10 : Next Level Remixes",
         "url": "https://open.spotify.com/album/36cJnr7GCuGbuw0YQpjmTY"
       },
@@ -515,38 +515,22 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/0kNMPuueq2wfvDk6dN0EA3"
+        "name": "iScreaM Vol. 28: Get A Guitar Remixes",
+        "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
       "artists": [
         {
-          "name": "IMLAY",
-          "url": "https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         },
         {
-          "name": "CHENLE",
-          "url": "https://open.spotify.com/artist/6mt12wGFaBAJPjK076GOJz"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 221106,
-      "name": "Too Good",
-      "url": "https://open.spotify.com/track/37S1i9Qcv42l4CU7vf7zfl"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
-        "name": "Always with You",
-        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
-      },
-      "artists": [
-        {
-          "name": "Aseul",
-          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
-        }
-      ],
-      "duration_ms": 239931,
-      "name": "Always with You",
-      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
+      "duration_ms": 167576,
+      "name": "Get A Guitar (English Version) - Chromeo Remix",
+      "url": "https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -567,6 +551,22 @@
       "duration_ms": 214400,
       "name": "Bad Boy - Slom Remix",
       "url": "https://open.spotify.com/track/2MgGwRwnTJnQ8qEljY1T0D"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "Always with You",
+        "url": "https://open.spotify.com/album/5s0qYDgx6lXJnuqOkvtC6Q"
+      },
+      "artists": [
+        {
+          "name": "Aseul",
+          "url": "https://open.spotify.com/artist/7K1yj70w0ldP7bMDqiiHMo"
+        }
+      ],
+      "duration_ms": 239931,
+      "name": "Always with You",
+      "url": "https://open.spotify.com/track/5pQPHQFBjp9hyNK0srbLLP"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "Somehow",
-        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Pure 100%",
-          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Somehow",
-      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "iScreaM Vol.29 : Fact Check Remixes",
         "url": "https://open.spotify.com/album/4RyzS0bkoVoL6KZHlLpfyx"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 225230,
       "name": "Fact Check - 2Spade Remix",
       "url": "https://open.spotify.com/track/3UACQUaXxMROJMW6o0563J"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "iScreaM Vol.11 : Queendom Remix",
+        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Demicat",
+          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
+        }
+      ],
+      "duration_ms": 194754,
+      "name": "Queendom - Demicat Remix",
+      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Pure 100%",
+          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
         "name": "Sarah",
         "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 468000,
       "name": "Worries",
       "url": "https://open.spotify.com/track/2r8ZUEFWiviLOOBYIxzWt6"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
-        "name": "iScreaM Vol.11 : Queendom Remix",
-        "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Demicat",
-          "url": "https://open.spotify.com/artist/3Geym1qRlviofLxjf1L0BK"
-        }
-      ],
-      "duration_ms": 194754,
-      "name": "Queendom - Demicat Remix",
-      "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -807,6 +807,26 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
+        }
+      ],
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
         "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
         "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
       },
@@ -847,26 +867,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
-        }
-      ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "iScreaM Vol.9 : Hot Sauce Remixes",
         "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
       },
@@ -903,6 +903,26 @@
       "duration_ms": 194146,
       "name": "Make A Wish (Birthday Song) - Wuki Remix",
       "url": "https://open.spotify.com/track/1Dou4w33Ne9kkjBvk0CbLW"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "iScreaM Vol.25 : Red Flavor Remix",
+        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
+      },
+      "artists": [
+        {
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+        },
+        {
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 216386,
+      "name": "Red Flavor - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -951,6 +971,26 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Will Not Fear",
+          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Ridin' - Will Not Fear Remix",
+      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
         "name": "Until I Saw You",
         "url": "https://open.spotify.com/album/3iMnAm08qg5PdOnM80YNfd"
       },
@@ -975,26 +1015,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Will Not Fear",
-          "url": "https://open.spotify.com/artist/3zQf6Ogadb67LzdBTHaZ0N"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Ridin' - Will Not Fear Remix",
-      "url": "https://open.spotify.com/track/4SzTxy50i4bNdqT8FFYWBp"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1007,26 +1027,6 @@
       "duration_ms": 201931,
       "name": "Power - R3HAB Remix",
       "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
-        "name": "iScreaM Vol.25 : Red Flavor Remix",
-        "url": "https://open.spotify.com/album/10M8ccltzArj4gzfYQu9hn"
-      },
-      "artists": [
-        {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 216386,
-      "name": "Red Flavor - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/5yQEgFSwf12O3n5flJjcgX"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "It Couldn\u2019t Be Better",
-        "url": "https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2"
-      },
-      "artists": [
-        {
-          "name": "SakaZan",
-          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
-        }
-      ],
-      "duration_ms": 194186,
-      "name": "It Couldn\u2019t Be Better",
-      "url": "https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
         "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 234026,
       "name": "28 Reasons - CIFIKA Remix",
       "url": "https://open.spotify.com/track/6SyuUFYpTJmUqKoJBz5rEF"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "It Couldn\u2019t Be Better",
+        "url": "https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2"
+      },
+      "artists": [
+        {
+          "name": "SakaZan",
+          "url": "https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM"
+        }
+      ],
+      "duration_ms": 194186,
+      "name": "It Couldn\u2019t Be Better",
+      "url": "https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -1559,18 +1559,22 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+        "name": "Monika",
+        "url": "https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "\uc774\uc218\ud638",
+          "url": "https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP"
+        },
+        {
+          "name": "So!YoON!",
+          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Power - SHAUN Remix",
-      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+      "duration_ms": 182267,
+      "name": "MOM (feat. So!YoON!)",
+      "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -1595,22 +1599,18 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "Monika",
-        "url": "https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA"
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
       "artists": [
         {
-          "name": "\uc774\uc218\ud638",
-          "url": "https://open.spotify.com/artist/7lBTPuykSETKIYL6JYjSHP"
-        },
-        {
-          "name": "So!YoON!",
-          "url": "https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 182267,
-      "name": "MOM (feat. So!YoON!)",
-      "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
+      "duration_ms": 256959,
+      "name": "Power - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
     },
     {
       "added_at": "2024-05-09 15:39:31",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2024-05-09 15:39:31",
       "album": {
-        "name": "Before the Dawn",
-        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
-      },
-      "artists": [
-        {
-          "name": "GLORY",
-          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
-        }
-      ],
-      "duration_ms": 176250,
-      "name": "Before the Dawn",
-      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
-    },
-    {
-      "added_at": "2024-05-09 15:39:31",
-      "album": {
         "name": "Sail the Seven Seas",
         "url": "https://open.spotify.com/album/0LlllZbWCmGaxUBDiRHhUQ"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 162426,
       "name": "Amazing",
       "url": "https://open.spotify.com/track/1F99L1XwdwI3pHUaiVrqbO"
+    },
+    {
+      "added_at": "2024-05-09 15:39:31",
+      "album": {
+        "name": "Before the Dawn",
+        "url": "https://open.spotify.com/album/0yFqUsqveM9BlSSdqI2zWk"
+      },
+      "artists": [
+        {
+          "name": "GLORY",
+          "url": "https://open.spotify.com/artist/0WAdBPEn1hg0ZnHen70tEr"
+        }
+      ],
+      "duration_ms": 176250,
+      "name": "Before the Dawn",
+      "url": "https://open.spotify.com/track/1XxO5dOZ5R3y4q7belU1gx"
     },
     {
       "added_at": "2024-05-09 15:39:31",

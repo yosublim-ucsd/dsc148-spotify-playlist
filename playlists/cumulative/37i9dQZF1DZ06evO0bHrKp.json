@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-17",
-  "description": "This is Sum 41. The essential tracks, all in one playlist.",
+  "description": "This Is Sum 41. Los temas esenciales, todos en una lista.",
   "name": "This Is Sum 41",
   "tracks": [
     {
@@ -466,7 +466,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 178826,
       "name": "Rhythms",
       "url": "https://open.spotify.com/track/6t8phlQc47YhAF38sucBRw"

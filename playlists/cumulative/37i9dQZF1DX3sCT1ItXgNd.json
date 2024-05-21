@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Marta Santos",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 172095,
       "name": "ASI ES LA VIDA",
       "url": "https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn"
@@ -886,6 +886,28 @@
       "duration_ms": 156586,
       "name": "BLACK OPIUM",
       "url": "https://open.spotify.com/track/09778gErBvUNDu4hCBiwPX"
+    },
+    {
+      "album": {
+        "name": "BODAS DE PLATA",
+        "url": "https://open.spotify.com/album/3uWYbLdNYlteS7pXnd6iSZ"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        },
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182352,
+      "name": "BODAS DE PLATA",
+      "url": "https://open.spotify.com/track/79nM91nrBh9u316xNWnhw8"
     },
     {
       "album": {
@@ -3555,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "album": {
         "name": "Los Cobardes Viven Siempre",
         "url": "https://open.spotify.com/album/3XlG8WaWzdjhDXuaRmOlaC"
       },
@@ -5193,6 +5233,24 @@
     },
     {
       "album": {
+        "name": "mi momento",
+        "url": "https://open.spotify.com/album/35AJvGtijtlB8DlJSeipjo"
+      },
+      "artists": [
+        {
+          "name": "c\u00e9ro",
+          "url": "https://open.spotify.com/artist/5AiFFE0KopBkOzEZeDbSaH"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130212,
+      "name": "mi momento",
+      "url": "https://open.spotify.com/track/5P9a5jGMKjVU2rixgF5C3o"
+    },
+    {
+      "album": {
         "name": "Miami Beach",
         "url": "https://open.spotify.com/album/3eMcXYzlOOtbazCsrZE7b9"
       },
@@ -5298,7 +5356,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 154794,
       "name": "Misi\u00f3n Imposible",
       "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
@@ -7145,6 +7203,28 @@
     },
     {
       "album": {
+        "name": "El Viaje",
+        "url": "https://open.spotify.com/album/4iQQnrUj7fhHgw2iOGTvpU"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200520,
+      "name": "Santa Marta",
+      "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
+    },
+    {
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -8102,7 +8182,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 185958,
       "name": "tequiero",
       "url": "https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK"
@@ -8626,7 +8706,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 157846,
       "name": "UNA BACHATA",
       "url": "https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w"

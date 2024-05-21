@@ -1,6 +1,6 @@
 {
   "description": "New and approved indie pop. Cover: ROLE MODEL",
-  "num_followers": 1679317,
+  "num_followers": 1679320,
   "original_name": "Indie Pop",
   "owner": {
     "name": "Spotify",
@@ -345,22 +345,6 @@
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
-    },
-    {
       "added_at": "2024-05-17 04:01:10",
       "album": {
         "name": "HIT ME HARD AND SOFT",
@@ -375,6 +359,22 @@
       "duration_ms": 303440,
       "name": "CHIHIRO",
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 221709,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -817,22 +817,6 @@
       "url": "https://open.spotify.com/track/5vmYMS6FR2b7J57OG0Cscl"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Mexico",
@@ -851,6 +835,22 @@
       "duration_ms": 176632,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -901,6 +901,22 @@
       "url": "https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8"
     },
     {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Love Hate Music Box",
+        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+      },
+      "artists": [
+        {
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+        }
+      ],
+      "duration_ms": 181390,
+      "name": "Meticulous",
+      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+    },
+    {
       "added_at": "2024-05-17 04:01:10",
       "album": {
         "name": "Bleachers",
@@ -933,20 +949,20 @@
       "url": "https://open.spotify.com/track/6BrfgV35h3NfTtIdMqhmFQ"
     },
     {
-      "added_at": "2024-05-10 04:00:00",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Love Hate Music Box",
-        "url": "https://open.spotify.com/album/2bOwdC37gg057sITTY8Ovj"
+        "name": "Oh, Gemini",
+        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
         }
       ],
-      "duration_ms": 181390,
-      "name": "Meticulous",
-      "url": "https://open.spotify.com/track/2WvsvWRHvcX3bZPiJwTwpy"
+      "duration_ms": 164971,
+      "name": "Oh, Gemini",
+      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -963,22 +979,6 @@
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Oh, Gemini",
-        "url": "https://open.spotify.com/album/1REr4nKLgAAe1GoKIDG2c9"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "Oh, Gemini",
-      "url": "https://open.spotify.com/track/3SYNTZgVt7Wht3jRf0ElGh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-05-17 04:01:10",
       "album": {
-        "name": "work in progress",
-        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
       },
       "artists": [
         {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 176805,
-      "name": "Down Swinging",
-      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
+      "duration_ms": 196516,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1061,20 +1061,20 @@
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+        "name": "work in progress",
+        "url": "https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
         }
       ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
+      "duration_ms": 176805,
+      "name": "Down Swinging",
+      "url": "https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1091,6 +1091,22 @@
       "duration_ms": 161034,
       "name": "React",
       "url": "https://open.spotify.com/track/3ok8eAQioOTORzkuJ8pHZk"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "Some Type Of Skin",
-        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
-      },
-      "artists": [
-        {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "duration_ms": 192573,
-      "name": "Some Type Of Skin",
-      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "It\u2019s Never Fair, Always True",
@@ -1159,6 +1159,22 @@
       "duration_ms": 155997,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/4lAasiKJZR4CkDygazvpvB"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Some Type Of Skin",
+        "url": "https://open.spotify.com/album/6t82nookih9vwtIrZsGQu5"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 192573,
+      "name": "Some Type Of Skin",
+      "url": "https://open.spotify.com/track/1OkgpvA7lh3Id5yLkIQo4K"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1211,18 +1227,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+        "name": "Rumors",
+        "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Ross Lynch",
+          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
+        },
+        {
+          "name": "THE DRIVER ERA",
+          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
         }
       ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
+      "duration_ms": 202736,
+      "name": "Rumors",
+      "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1243,22 +1263,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Rumors",
-        "url": "https://open.spotify.com/album/26yD8kIW4XF5jppiVIOcbt"
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
       },
       "artists": [
         {
-          "name": "Ross Lynch",
-          "url": "https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH"
-        },
-        {
-          "name": "THE DRIVER ERA",
-          "url": "https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ"
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
         }
       ],
-      "duration_ms": 202736,
-      "name": "Rumors",
-      "url": "https://open.spotify.com/track/7vUNVm5CpZLHDlkRiOJJc5"
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": "2024-05-10 16:58:05",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/4bp2wYweUPvsBrQfntdYcr"
     },
     {
-      "added_at": "2024-05-17 04:01:10",
-      "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 196516,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
-    },
-    {
       "added_at": "2024-03-08 05:00:00",
       "album": {
         "name": "a girl like me",
@@ -1339,38 +1339,6 @@
       "duration_ms": 162628,
       "name": "a girl like me",
       "url": "https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd"
-    },
-    {
-      "added_at": "2024-05-10 21:51:12",
-      "album": {
-        "name": "Everything At Once",
-        "url": "https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX"
-      },
-      "artists": [
-        {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
-        }
-      ],
-      "duration_ms": 229026,
-      "name": "Everything At Once",
-      "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
-    },
-    {
-      "added_at": "2024-04-05 15:15:26",
-      "album": {
-        "name": "Milk Town / Mr. Carter",
-        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
-      },
-      "artists": [
-        {
-          "name": "Nep",
-          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
-        }
-      ],
-      "duration_ms": 77032,
-      "name": "Milk Town / Mr. Carter",
-      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1389,6 +1357,22 @@
       "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
     },
     {
+      "added_at": "2024-05-10 21:51:12",
+      "album": {
+        "name": "Everything At Once",
+        "url": "https://open.spotify.com/album/1yvvWZTMtXLD3gupUcZ5SX"
+      },
+      "artists": [
+        {
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+        }
+      ],
+      "duration_ms": 229026,
+      "name": "Everything At Once",
+      "url": "https://open.spotify.com/track/21gA87I4UP9oGRcwJg0ZWT"
+    },
+    {
       "added_at": "2024-04-26 04:34:58",
       "album": {
         "name": "I wish for the rain",
@@ -1403,6 +1387,22 @@
       "duration_ms": 151999,
       "name": "I wish for the rain",
       "url": "https://open.spotify.com/track/5SbkJitufb38BnGDsUjdqN"
+    },
+    {
+      "added_at": "2024-04-05 15:15:26",
+      "album": {
+        "name": "Milk Town / Mr. Carter",
+        "url": "https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D"
+      },
+      "artists": [
+        {
+          "name": "Nep",
+          "url": "https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5"
+        }
+      ],
+      "duration_ms": 77032,
+      "name": "Milk Town / Mr. Carter",
+      "url": "https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",

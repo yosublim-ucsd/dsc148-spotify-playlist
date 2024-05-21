@@ -1,12 +1,12 @@
 {
-  "description": "This Is Dharius. Los temas esenciales, todos en una lista.",
-  "num_followers": 104789,
+  "description": "This is Dharius. The essential tracks, all in one playlist.",
+  "num_followers": 104832,
   "original_name": "This Is Dharius",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABJMSnKNwHuojyIlP+7kQdW",
+  "snapshot_id": "ZklBAAAAAACw/E8hMveoRThRC64wEGw/",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,34 @@
       "duration_ms": 221541,
       "name": "Qui\u00faboles Que",
       "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) [Remix]",
+        "url": "https://open.spotify.com/album/0G5o0F4IWxTgJbuKRoKvo0"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pr\u00e9ndete Un Blunt (feat. Zimple) - Remix",
+      "url": "https://open.spotify.com/track/1Fjuba2hK1V3IRFHAqFyX6"
     },
     {
       "added_at": null,
@@ -915,6 +943,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 223626,
+      "name": "El After Porky",
+      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
         "url": "https://open.spotify.com/album/315fLlUbg2VsiiJjhfsNfH"
       },
@@ -947,22 +991,6 @@
       "duration_ms": 503613,
       "name": "Poco a Poco (feat. Lunatic, Z-Xperimento & Beliko)",
       "url": "https://open.spotify.com/track/4fuAlhVNKYCxDnU0MzXoFD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 223626,
-      "name": "El After Porky",
-      "url": "https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu"
     },
     {
       "added_at": null,
@@ -1003,6 +1031,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Directo Hasta Arriba",
+        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Qu\u00e9 Buen Fiest\u00f3n",
+      "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WARZONE FREESTYLE",
         "url": "https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P"
       },
@@ -1019,22 +1063,6 @@
       "duration_ms": 196235,
       "name": "WARZONE FREESTYLE",
       "url": "https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Directo Hasta Arriba",
-        "url": "https://open.spotify.com/album/15StyDArmT6s2A3zaiI552"
-      },
-      "artists": [
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Qu\u00e9 Buen Fiest\u00f3n",
-      "url": "https://open.spotify.com/track/4wunXNPvuNXmqY6NzT1CIC"
     }
   ],
   "unique_name": "This Is Dharius",

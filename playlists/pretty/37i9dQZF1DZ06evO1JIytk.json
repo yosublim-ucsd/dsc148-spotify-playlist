@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 15942,
+  "num_followers": 15944,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACTwAIYStUOBloLy4HqNdty",
+  "snapshot_id": "ZklBAAAAAACowM5QfEEj4Sk8W27/8aTe",
   "tracks": [
     {
       "added_at": null,
@@ -123,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 166893,
+      "name": "Hate Conquers All",
+      "url": "https://open.spotify.com/track/4FvkeESnHKUsqYHSzUF9Mv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The General Strike",
         "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 165767,
       "name": "This Is the New Sound",
       "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Complete Control Sessions",
-        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 137440,
-      "name": "Turncoat",
-      "url": "https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Complete Control Sessions",
+        "url": "https://open.spotify.com/album/7sKPLjegUKYQewu3ytf0Si"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 137440,
+      "name": "Turncoat",
+      "url": "https://open.spotify.com/track/2NhWy78EzqDTNbWCe8R5Us"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A New Kind of Army",
         "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
       },
@@ -203,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 164333,
-      "name": "Christian Nationalist",
-      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Blood And Empire",
         "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
@@ -231,6 +231,22 @@
       "duration_ms": 150666,
       "name": "1 Trillion Dollar$ - Dirty Version",
       "url": "https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 164333,
+      "name": "Christian Nationalist",
+      "url": "https://open.spotify.com/track/0yrCblXgIHbyMGySvvMuwV"
     },
     {
       "added_at": null,
@@ -379,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+        "name": "The People Or the Gun",
+        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
       },
       "artists": [
         {
@@ -388,9 +404,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 148514,
-      "name": "The Ranks of the Masses Rising",
-      "url": "https://open.spotify.com/track/12wXddtGA99uF2pF70znch"
+      "duration_ms": 216093,
+      "name": "The Economy is Suffering...Let It Die",
+      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
     },
     {
       "added_at": null,
@@ -431,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The People Or the Gun",
-        "url": "https://open.spotify.com/album/5PAiVz2v0z9FqOI7e9Ebvn"
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
       "artists": [
         {
@@ -440,9 +456,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 216093,
-      "name": "The Economy is Suffering...Let It Die",
-      "url": "https://open.spotify.com/track/4H7jb8U0LxNrwCgAEsJJfr"
+      "duration_ms": 148514,
+      "name": "The Ranks of the Masses Rising",
+      "url": "https://open.spotify.com/track/12wXddtGA99uF2pF70znch"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "It Went Off Like A Bomb",
-      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
@@ -607,6 +607,22 @@
       "duration_ms": 196306,
       "name": "Fabled World",
       "url": "https://open.spotify.com/track/3HNYcvcsw78tNXJtc4YbES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "It Went Off Like A Bomb",
+      "url": "https://open.spotify.com/track/5NbgvgPZNVcUr6Epp7VkQE"
     },
     {
       "added_at": null,
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+        "name": "Hooligans United a Tribute to Rancid",
+        "url": "https://open.spotify.com/album/3fNR9RPA8gWdl8DHyEylPv"
       },
       "artists": [
         {
@@ -828,25 +844,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 169480,
-      "name": "Don't Let The Bastards Get You Down",
-      "url": "https://open.spotify.com/track/4jS72gRZGa6YocQBPQRuwQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Fall",
-        "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 169426,
-      "name": "Finish What We Started",
-      "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+      "duration_ms": 77992,
+      "name": "Maxwell Murder",
+      "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
     }
   ],
   "unique_name": "This Is Anti-Flag",

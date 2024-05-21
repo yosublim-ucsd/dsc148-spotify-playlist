@@ -1,12 +1,12 @@
 {
   "description": "Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon. Follow now!",
-  "num_followers": 228134,
+  "num_followers": 228122,
   "original_name": "Bollywood Top 50",
   "owner": {
     "name": "Filtr India",
     "url": "https://open.spotify.com/user/filtrindia"
   },
-  "snapshot_id": "AAAUvtRx1V0tvDvoQfWj7uZ2cMDlTPup",
+  "snapshot_id": "AAAUw2tumAjP9Evc5lh/LKLuz9xP1i+c",
   "tracks": [
     {
       "added_at": "2022-07-18 10:03:31",
@@ -51,6 +51,54 @@
       "duration_ms": 281511,
       "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
       "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "added_at": "2024-05-20 07:47:07",
+      "album": {
+        "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        },
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        }
+      ],
+      "duration_ms": 253223,
+      "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y"
+    },
+    {
+      "added_at": "2024-05-20 07:46:49",
+      "album": {
+        "name": "Asoka (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2TTDo2dFKRUioHCPcfPpfz"
+      },
+      "artists": [
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Alka Yagnik",
+          "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "name": "Hema Sardesai",
+          "url": "https://open.spotify.com/artist/7J1dPh3Yjs0aIhQHbBfNQP"
+        }
+      ],
+      "duration_ms": 355960,
+      "name": "San Sanana",
+      "url": "https://open.spotify.com/track/1gZWlVCnwSq9y91hIvkUiB"
     },
     {
       "added_at": "2024-02-23 07:27:58",

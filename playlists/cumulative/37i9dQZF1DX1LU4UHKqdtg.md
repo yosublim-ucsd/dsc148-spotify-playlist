@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
 
-1,037 songs - 2 day 8 hr 10 min
+1,039 songs - 2 day 8 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Fly! Birdy Friends \- Korean Version](https://open.spotify.com/track/5NAza02m7G3hPAaz3EWry8) | [THE 8](https://open.spotify.com/artist/4DqFd6XE3dX4LWXHJVVpLk) | [Fly! Birdy Friends \(Original Soundtrack\)](https://open.spotify.com/album/2AMKqZp1lRFdxLXLjtn2DF) | 2:01 | 2024-01-19 | 2024-01-26 |
 | [FOCUS](https://open.spotify.com/track/7nj5G4aPUJD0TnNF6SqcrX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Strange World](https://open.spotify.com/album/2eE6EDzzdWYQH6TfwGjz87) | 3:03 | 2022-08-23 | 2022-08-26 |
 | [For a While](https://open.spotify.com/track/6kEYqiCUmAb8dqkmb19PYo) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [For a While](https://open.spotify.com/album/3DoZU4wNNjPX4ORwmUoPjk) | 3:34 | 2024-04-26 | 2024-05-11 |
+| [for me \(feat\. MRCH\)](https://open.spotify.com/track/0rU7zlpx5qOcu1yHDFJaUK) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA), [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [JIN LAB Project 2\. \[for me \(feat\. MRCH\)\]](https://open.spotify.com/album/04DSdCJellaaGcmn4u6AzN) | 3:43 | 2024-05-20 |  |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-05 | 2022-11-16 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-22 | 2023-01-30 |
 | [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-26 |  |
@@ -699,6 +700,7 @@
 | [RICA RICA](https://open.spotify.com/track/4bZTk4AT2azHqOzGoK5lNg) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [NATURE Special Album RICA RICA](https://open.spotify.com/album/7LzUdQlqeFLiw1QnxvK2wW) | 3:26 | 2022-11-02 | 2023-01-18 |
 | [RIDE](https://open.spotify.com/track/1pzYdhRwUEr8QdQkIjqjuc) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [RIDE](https://open.spotify.com/album/2ra6N1nUydQ9MtpuQwTZLa) | 3:47 | 2022-11-02 | 2022-11-16 |
 | [Ride or Die](https://open.spotify.com/track/2RwslZwBLIBEPYjAI6SCBq) | [GYU HYUK](https://open.spotify.com/artist/4CR6l2Eylrakt5FBP6I7hr) | [Ride or Die](https://open.spotify.com/album/4kT8yc13rLN4MKbPCbCQHW) | 3:12 | 2022-03-03 | 2022-04-13 |
+| [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 | 2024-05-20 |  |
 | [RIDING \(feat\. 박현진\)](https://open.spotify.com/track/3gXYeDKkxDJYXviGNBMzLy) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Park Hyeon Jin](https://open.spotify.com/artist/4l7oDG5masdHj8IfySlVMK) | [Citymare, Cityzone](https://open.spotify.com/album/5VR3J5G2pBj1JziXjAW7zJ) | 3:10 | 2022-02-24 | 2022-03-23 |
 | [RINGO](https://open.spotify.com/track/2qWIeuIxVJglnWWsDpyhfU) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [RINGO](https://open.spotify.com/album/3aT91hpILeuYJe37TnaGxz) | 3:29 | 2023-09-26 |  |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-23 | 2022-01-04 |

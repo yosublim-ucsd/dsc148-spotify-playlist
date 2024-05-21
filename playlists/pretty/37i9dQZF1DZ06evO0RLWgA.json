@@ -1,29 +1,13 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 46570,
+  "num_followers": 46587,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACZ82AB8Wt9Kw2WIvkHNJnK",
+  "snapshot_id": "ZklBAAAAAAC6bvQfnfED2R7u0oQG4o3+",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 152350,
-      "name": "Boom Boom",
-      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
-    },
     {
       "added_at": null,
       "album": {
@@ -63,22 +47,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Legendary Modern Recordings",
-        "url": "https://open.spotify.com/album/67llnTO6Ghb25v89UHQLlB"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 190920,
-      "name": "Boogie Chillen'",
-      "url": "https://open.spotify.com/track/4Ra0IrmzAPudI6QMvNF8cg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
@@ -99,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 167360,
-      "name": "I'm In The Mood",
-      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Urban Blues (Expanded Edition)",
         "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
@@ -127,6 +79,22 @@
       "duration_ms": 123800,
       "name": "Think Twice Before You Go",
       "url": "https://open.spotify.com/track/2IV2NdDBpCUhKmmIT841Po"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 167360,
+      "name": "I'm In The Mood",
+      "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
     },
     {
       "added_at": null,
@@ -211,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remastered from the Archives",
-        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -220,9 +188,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 145204,
-      "name": "This is Hip - Remastered",
-      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -247,8 +215,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
+        "name": "Remastered from the Archives",
+        "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
       "artists": [
         {
@@ -256,9 +224,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
+      "duration_ms": 145204,
+      "name": "This is Hip - Remastered",
+      "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
     },
     {
       "added_at": null,
@@ -275,6 +243,22 @@
       "duration_ms": 145760,
       "name": "Bottle Up & Go",
       "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145026,
+      "name": "I Need Some Money",
+      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
     },
     {
       "added_at": null,
@@ -435,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "No More Doggin'",
-      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Person",
         "url": "https://open.spotify.com/album/6u1wI0W4YkfqmBE61nSeKz"
       },
@@ -463,6 +431,22 @@
       "duration_ms": 212120,
       "name": "It Serves Me Right",
       "url": "https://open.spotify.com/track/4a0RlE6Mde0N59OLuBQn42"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Wednesday Evenin' Blues",
+      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": null,
@@ -487,38 +471,6 @@
       "duration_ms": 341600,
       "name": "The Blues Medley",
       "url": "https://open.spotify.com/track/4iX3VpT5WSW39gRmbaOqvt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Serves You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 143693,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Wednesday Evenin' Blues",
-      "url": "https://open.spotify.com/track/3tXhd4rrp98AeFXsChONXB"
     },
     {
       "added_at": null,
@@ -591,38 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Cafe Au-Go-Go",
-        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 200266,
-      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
-      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184506,
-      "name": "Stella Mae",
-      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chill Out",
         "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
       },
@@ -635,6 +555,22 @@
       "duration_ms": 191266,
       "name": "Kiddio (2007 - Remaster)",
       "url": "https://open.spotify.com/track/1zkvDMv2c4fcCRCTKC634t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Cafe Au-Go-Go",
+        "url": "https://open.spotify.com/album/2GMgGU9seSh5gmYH6atrBd"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 200266,
+      "name": "She's Long, She's Tall (She Weeps Like A Willow Tree) - Live At Cafe Au-Go-Go/1966",
+      "url": "https://open.spotify.com/track/1MiygdyK10qC8yNFnc9ayu"
     },
     {
       "added_at": null,
@@ -655,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184506,
+      "name": "Stella Mae",
+      "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -671,22 +623,6 @@
       "duration_ms": 225906,
       "name": "Baby Lee (feat. Robert Cray)",
       "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
     },
     {
       "added_at": null,
@@ -731,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Healer",
         "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
       },
@@ -751,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
       },
       "artists": [
         {
@@ -760,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 150269,
-      "name": "A New Leaf",
-      "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
+      "duration_ms": 145551,
+      "name": "No Shoes",
+      "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
     },
     {
       "added_at": null,
@@ -787,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 150269,
+      "name": "A New Leaf",
+      "url": "https://open.spotify.com/track/6EdBagK4kqITdw34mBzTof"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On The Waterfront",
         "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
       },
@@ -799,26 +767,6 @@
       "duration_ms": 144733,
       "name": "Don\u2019t Want Nobody Else",
       "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "George Thorogood",
-          "url": "https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60"
-        }
-      ],
-      "duration_ms": 198773,
-      "name": "Sally Mae (feat. George Thorogood)",
-      "url": "https://open.spotify.com/track/1tJHt3iQlYpRJLq9oTqJSs"
     },
     {
       "added_at": null,
@@ -859,6 +807,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "George Thorogood",
+          "url": "https://open.spotify.com/artist/1avbhJvMxjF2VhG7BXXn60"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Sally Mae (feat. George Thorogood)",
+      "url": "https://open.spotify.com/track/1tJHt3iQlYpRJLq9oTqJSs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/6X76YOntJCyiiFvaIZgRdA"
       },
@@ -875,6 +843,22 @@
       "duration_ms": 296986,
       "name": "I Lay Down",
       "url": "https://open.spotify.com/track/1ZNcJrNdX4HbO6NGj8tlaL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Travelin'",
+        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 134173,
+      "name": "I Wanna Walk",
+      "url": "https://open.spotify.com/track/2OigRCY3ff6sAmQRrJwMGC"
     },
     {
       "added_at": null,
@@ -919,6 +903,26 @@
       "duration_ms": 3250760,
       "name": "The Wanderings of The Avener - Continuous Mix",
       "url": "https://open.spotify.com/track/5FH2dK89RFAs293DDuV31z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Healer",
+        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 264026,
+      "name": "That's Alright (feat. Charlie Musselwhite)",
+      "url": "https://open.spotify.com/track/2COsS6PVvMjYwqGXYc4mrE"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

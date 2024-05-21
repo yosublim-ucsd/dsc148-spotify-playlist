@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,066 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,079 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,12 +18,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHgXkgBOlTI.md) - [plain]
 | 8 | [al dente](https://open.spotify.com/track/5ViMtPbUCKBmLo84OeVYI1) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [al dente](https://open.spotify.com/album/0wx01Tl9zG9tp9ezSXuEWx) | 5:01 |
 | 9 | [Moment of Clarity](https://open.spotify.com/track/3DC2AEoH1yjL60FRRaEIRZ) | [colspan](https://open.spotify.com/artist/0vjyVjLLoaqpkOUQWpOtOi) | [Moment of Clarity](https://open.spotify.com/album/3DfsBjwKqAYJCC24LsQfbL) | 4:44 |
 | 10 | [Pulse](https://open.spotify.com/track/7L3UIvtatUeSRI3Ith7VFF) | [Ryo Miyachi](https://open.spotify.com/artist/4cMPr1gwTGk0gAkfZlvE13) | [now it is](https://open.spotify.com/album/0ZDZra3lI2YVVg3Pgnp49z) | 4:36 |
-| 11 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
+| 11 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
 | 12 | [Metamorphosis](https://open.spotify.com/track/4zlvcUDuabGMdvzElQjRWO) | [Still Caravan](https://open.spotify.com/artist/4oRIYEDeg0IEgU8I8FwMXJ) | [Metamorphosis](https://open.spotify.com/album/4QdhwNxSlMYIqp74Y27pLO) | 4:06 |
 | 13 | [Shadow Striker](https://open.spotify.com/track/7kKglAZzb2RdSyOAlQzqhN) | [河野啓三](https://open.spotify.com/artist/274QW59zwGhhYeXZmN0dij) | [Shadow Striker](https://open.spotify.com/album/5i5rg3GM9FLDvavDQSOBmP) | 5:28 |
 | 14 | [華火夜景](https://open.spotify.com/track/1RO9fAT9UQWSB8mVaxcvOI) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [華火夜景](https://open.spotify.com/album/57hUpIDR3di336V6dO6U8v) | 4:35 |
 | 15 | [Bright Life](https://open.spotify.com/track/3tFdPeGlTKhsNr5B0U22sg) | [かつしかトリオ](https://open.spotify.com/artist/03YKWuEqoYW6MGljsluOxm) | [Bright Life](https://open.spotify.com/album/6JCA7ZjG2Xj4YEaumqFN86) | 4:15 |
-| 16 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 |
+| 16 | [Blackbird](https://open.spotify.com/track/1NpTkYFGPrYb9FRNGjLVyJ) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc) | [Spectrum](https://open.spotify.com/album/6nWNBeeFpGrFEu9CDeZJbH) | 5:21 |
 | 17 | [The Phantom](https://open.spotify.com/track/0Z0RilPDrVIAa9SwDWAQNK) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [The Phantom](https://open.spotify.com/album/2nnPtT6aqhtDWN9ha0QNI5) | 4:00 |
 | 18 | [Moonlight Syndrome](https://open.spotify.com/track/7EkfLobuyqgITbfn3BFmXh) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [トワイライトシンドローム](https://open.spotify.com/album/4b3k9LC24PNvgX9ExlAS8K) | 4:07 |
 | 19 | [手紙が届けてくれたもの](https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l) | [Schroeder\-Headz](https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo) | [HALSHURA（ハルシュラ）](https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm) | 3:15 |

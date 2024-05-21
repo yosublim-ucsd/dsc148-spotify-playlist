@@ -4,7 +4,7 @@
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Bomba Estéreo en portada.
 
-323 songs - 19 hr 31 min
+324 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Daiquiri](https://open.spotify.com/track/3zAATyIcE5Mwvi3FuXarcE) | [Jarina De Marco](https://open.spotify.com/artist/2Ju0kEPJxYUo0XM2PNUGeL) | [Caribbean All\-Inclusive Luxury](https://open.spotify.com/album/2cUD4r5oFALdiZcf0uxCLl) | 1:03 | 2023-10-16 | 2024-03-29 |
 | [De los Límites](https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf) | [Mariel Mariel](https://open.spotify.com/artist/5MbC0GPijb60evRCEQLJAz), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [De los Límites](https://open.spotify.com/album/6BUxm0c0dlEDnY6yQ5uW3W) | 4:13 | 2022-02-18 | 2022-10-01 |
 | [Declare Independence \- Spotify Singles](https://open.spotify.com/track/6KkwQNxduqthj40TlNVD1j) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Spotify Singles](https://open.spotify.com/album/4hU6Mq43jOSEIy6EwLYIR8) | 3:48 | 2021-10-05 | 2023-04-01 |
-| [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 | 2023-12-07 |  |
+| [Desastre Comunal](https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Miss Universos](https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl) | 3:05 | 2023-12-07 | 2024-05-21 |
 | [Desconocidos](https://open.spotify.com/track/3ta4JlvWcD4hL86TXu8YWa) | [Diego Raposo](https://open.spotify.com/artist/1rGSYidxwKVwew2k0cuUFi), [Mula](https://open.spotify.com/artist/7wGtDLvDRGllVRX01cj9Ml) | [Caribe Express](https://open.spotify.com/album/4ab1kveCYeqKhuhYwX17P8) | 3:01 | 2023-12-07 | 2024-01-20 |
 | [Desde el Cielo](https://open.spotify.com/track/55lgPC7V1970pcw1yhRCIU) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Ve Desde Aquí](https://open.spotify.com/album/3rILkSjs53hks3tsSYn3lN) | 6:48 | 2022-10-27 | 2023-03-25 |
 | [Deseándote](https://open.spotify.com/track/0x3QAwL1fJFlB7qY65bSv1) | [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Deseándote](https://open.spotify.com/album/6Oh76OL4xlX3YdARyWNqMD) | 3:30 | 2023-02-28 | 2023-05-06 |
@@ -326,6 +326,7 @@
 | [Y tu te vas](https://open.spotify.com/track/5BkbrF1KA0Y6Y0B5M1N57v) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Y tu te vas](https://open.spotify.com/album/7omUCnWLUozEhrsODlxM0b) | 3:14 | 2022-09-30 | 2022-11-18 |
 | [Ya no estoy aquí](https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Ya no estoy aquí](https://open.spotify.com/album/2L2rLbtvGZDkJdSHCAOdh6) | 3:22 | 2022-04-22 | 2022-08-20 |
 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 | 2022-09-07 | 2023-03-18 |
+| [Z.E.R](https://open.spotify.com/track/1DONgPg5AVcK2i8kCqyyDM) | [Zona en Reclamación](https://open.spotify.com/artist/1OKL6QdyQ89LaC3bgsfsNA) | [Z.E.R/El Sol](https://open.spotify.com/album/7IleOipg0ZxyGwDRp1sOBA) | 2:42 | 2024-05-20 |  |
 | [¡Oh, Algoritmo! \(feat\. Noga Erez\)](https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt), [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Tinta y Tiempo](https://open.spotify.com/album/7drLytofGXezhYswIuCGHu) | 3:04 | 2022-04-22 |  |
 | [¿Por Qué Te Vas?](https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [¿Por Qué Te Vas?](https://open.spotify.com/album/0vpvPRS3niS5bS0vd8IJnZ) | 3:24 | 2022-03-30 | 2023-03-01 |
 | [Ébano](https://open.spotify.com/track/2mLjF46Pkt5V0oxVc5WKUE) | [Bleepolar](https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Ébano](https://open.spotify.com/album/71NpUB9I8dXtyxfH7AKhnT) | 5:42 | 2023-04-05 | 2023-05-09 |

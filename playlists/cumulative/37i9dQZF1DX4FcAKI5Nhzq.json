@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: Wonstein",
+  "description": "Future K-Pop hits! Cover: NEXZ",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -14078,6 +14078,24 @@
       "duration_ms": 213533,
       "name": "RIDE",
       "url": "https://open.spotify.com/track/4bWza2UuXLn2d21YFi1XXj"
+    },
+    {
+      "album": {
+        "name": "Ride the Vibe",
+        "url": "https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Ride the Vibe",
+      "url": "https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg"
     },
     {
       "album": {

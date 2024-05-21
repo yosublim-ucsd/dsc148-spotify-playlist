@@ -4,7 +4,7 @@
 
 > 
 
-1,899 songs - 4 day 6 hr 27 min
+1,900 songs - 4 day 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -648,6 +648,7 @@
 | [Get Got](https://open.spotify.com/track/781V2Y5LPtcpgONEOadadE) | [Death Grips](https://open.spotify.com/artist/5RADpgYLOuS2ZxDq7ggYYH) | [The Money Store](https://open.spotify.com/album/1PQDjdBpHPikAodJqjzm6a) | 2:51 | 2021-11-14 |  |
 | [Get Lucky \(feat\. Pharrell Williams and Nile Rodgers\)](https://open.spotify.com/track/69kOkLUCkxIZYexIgSG8rq) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 6:09 | 2021-08-05 |  |
 | [Get Shot](https://open.spotify.com/track/6h5icPXopgR3lU5MjC5LIN) | [GRLwood](https://open.spotify.com/artist/0yrzVTuk6PgF51NYgfgKXe) | [I Sold My Soul to the Devil When I Was 12](https://open.spotify.com/album/6NfgEKljnYh1RidJR0LMNc) | 2:20 | 2022-04-26 |  |
+| [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 | 2024-05-20 |  |
 | [GHOST](https://open.spotify.com/track/61WYXytNLanWi1IM3VO8Oo) | [DAIHATSU](https://open.spotify.com/artist/2hUo3MjLFilka6VRTC7K0c) | [GHOST](https://open.spotify.com/album/7mgf3A7JNUdgLZDKMIbtei) | 2:00 | 2021-08-05 |  |
 | [Ghost](https://open.spotify.com/track/6EmGcKra63FXiRA6XsfAas) | [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb) | [Ghost / Getting Better](https://open.spotify.com/album/5ujSQMdVhpWf0yvMW9LCw5) | 2:37 | 2023-01-07 |  |
 | [ghost](https://open.spotify.com/track/3bHNLvNojpl06v7yQhPxxu) | [Zaphyre](https://open.spotify.com/artist/1Cqnru4BRLrT2H6v7nZaRs) | [ghost](https://open.spotify.com/album/4YCnZgIeVYeM2vD3I6SDXk) | 3:09 | 2023-02-20 |  |

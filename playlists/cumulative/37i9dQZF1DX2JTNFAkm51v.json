@@ -6179,6 +6179,48 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5e78\u4e2d\u306e\u5e78\u3044",
+        "url": "https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "U-LEE",
+          "url": "https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256012,
+      "name": "\u4e0d\u5e78\u4e2d\u306e\u5e78\u3044",
+      "url": "https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S"
+    },
+    {
+      "album": {
         "name": "Jesus Loves You",
         "url": "https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3"
       },

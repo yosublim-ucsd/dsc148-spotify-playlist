@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAHFFuA1zso934p9GWMp4zz",
+  "snapshot_id": "ZklBAAAAAACzCsXsckMgfBrY+gJ2bBLl",
   "tracks": [
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Studio 4 Acoustic Session",
-        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 252856,
-      "name": "Safe In Your Skin / Where Am I?",
-      "url": "https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 175293,
       "name": "Nervous Kids",
       "url": "https://open.spotify.com/track/2lVXTGaCiCi4N6POZGrcyh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Studio 4 Acoustic Session",
+        "url": "https://open.spotify.com/album/0cdy4JkbzSZDGka7bTf4IK"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 252856,
+      "name": "Safe In Your Skin / Where Am I?",
+      "url": "https://open.spotify.com/track/25tGBkXBIE93mrkRLD5gml"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Clothes",
-        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 191890,
-      "name": "Old Clothes",
-      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Charmer",
         "url": "https://open.spotify.com/album/07Sik9LtBbnTI7J3S3WRhI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 195320,
       "name": "Slow Come On",
       "url": "https://open.spotify.com/track/7dnlCMw9Nzgc5OW0WabYv2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Clothes",
+        "url": "https://open.spotify.com/album/26qFcFUAotjg3XBh41QI9I"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 191890,
+      "name": "Old Clothes",
+      "url": "https://open.spotify.com/track/3F1SQU5ktUEFIqRyy9f9PR"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eyes Shut",
-        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
-      },
-      "artists": [
-        {
-          "name": "Tigers Jaw",
-          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Eyes Shut",
-      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Balance and Composure & Tigers Jaw Split",
         "url": "https://open.spotify.com/album/5KEwi4kimjyx2CoijJiet3"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 180253,
       "name": "Lodging",
       "url": "https://open.spotify.com/track/2VhuYwx3NFIljVMQAxbcIp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eyes Shut",
+        "url": "https://open.spotify.com/album/0gFa8rxnAO3XOBTjX0ETfR"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Eyes Shut",
+      "url": "https://open.spotify.com/track/6JzgPzivpGAf1Nu5nKHahR"
     },
     {
       "added_at": null,

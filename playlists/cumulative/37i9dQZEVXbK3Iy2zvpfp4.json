@@ -4486,7 +4486,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 115278,
       "name": "bitchis",
       "url": "https://open.spotify.com/track/6eXUIkZtFZcdR8hCPwsnXd"
@@ -5350,7 +5350,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 102461,
       "name": "Bread",
       "url": "https://open.spotify.com/track/4Qq66rN8HWHk7NGPYfNvun"
@@ -10208,7 +10208,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 425133,
       "name": "Equinoxe, Pt. 4",
       "url": "https://open.spotify.com/track/7b8Oh5XiT72EWTIdyjjPX6"
@@ -12922,6 +12922,24 @@
       "duration_ms": 196162,
       "name": "Gin",
       "url": "https://open.spotify.com/track/2sDjhPlr7bLi7teo8o9CaP"
+    },
+    {
+      "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
     },
     {
       "album": {
@@ -16187,6 +16205,24 @@
     },
     {
       "album": {
+        "name": "I Was Made For Lovin' You (from The Fall Guy)",
+        "url": "https://open.spotify.com/album/1d3yldnlofPfWQHVAybQrZ"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261519,
+      "name": "I Was Made For Lovin\u2019 You - from The Fall Guy",
+      "url": "https://open.spotify.com/track/55ikcenXPbQdzCnO1sOuYg"
+    },
+    {
+      "album": {
         "name": "i was only temporary",
         "url": "https://open.spotify.com/album/24tfAQTRqLfKw5bFjMhc4m"
       },
@@ -17286,7 +17322,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -24456,7 +24492,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 173348,
       "name": "Naroden\u00fd v\u00ed\u0165azi\u0165",
       "url": "https://open.spotify.com/track/3nrqRlAKBxvcS3XRRpaMcm"
@@ -26766,7 +26802,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 466000,
       "name": "Oxyg\u00e8ne, Pt. 2",
       "url": "https://open.spotify.com/track/7vLKG4ww0P8seUUsbgpcz3"
@@ -29018,7 +29054,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
@@ -39602,7 +39638,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 185066,
       "name": "We Will Rave",
       "url": "https://open.spotify.com/track/1QpWQMKfQ44QUN1dEg65T8"

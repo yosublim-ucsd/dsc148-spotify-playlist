@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,996 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,005 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 44 | [Come As You Are](https://open.spotify.com/track/4HYoMVI4mBbMsfXStbTPYX) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Smells Like Cumbia](https://open.spotify.com/album/1AqakrqNVRPbuBN7A4ggm9) | 2:57 |
 | 45 | [Te Robare](https://open.spotify.com/track/36vJyCuqse0zidFibh1ybx) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ), [Mozthaza](https://open.spotify.com/artist/1IF5pf9iB2D66RVVbuFSGP), [Megablock](https://open.spotify.com/artist/6Ppb2INRLdfhQFab7XNANw) | [Te Robaré](https://open.spotify.com/album/4art0k5sZUSkdS1aKaKJ5C) | 3:30 |
 | 46 | [Jurabas Tu](https://open.spotify.com/track/7avxvCxt3xnxmksUckksIr) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Jurabas Tu](https://open.spotify.com/album/6dhWNg8zugr2KLiqwcMwn1) | 3:11 |
-| 47 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
-| 48 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
+| 47 | [Luces](https://open.spotify.com/track/2A7ZbcDSmZEP7pzomG43Sv) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Valzzi](https://open.spotify.com/artist/0IbphE6Bv2bv5nuFHY6bfD) | [Luces](https://open.spotify.com/album/1nyyJVjVHzC8TdX7IoVU0o) | 3:02 |
+| 48 | [Dulce \(A La La La La Long\)](https://open.spotify.com/track/6wUz0vZ4F3ceJVN6XoTtbT) | [Los Fumancheros](https://open.spotify.com/artist/1ddoQssa4i9K8i5NXDknd7) | [Dulce \(A La La La La Long\)](https://open.spotify.com/album/1CKYVWjxAdkdNbd6RPaCN0) | 3:32 |
 | 49 | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/track/7lgCrSPDqMKehCUyAkyHuy) | [Version Cumbia La Plata](https://open.spotify.com/artist/1JGvWuYKac6s8oWmfj3LIv) | [Corazon, Perro Fiel, Echame La Culpa,](https://open.spotify.com/album/4bYen2zBxOJ3T9HGjSufl9) | 3:13 |
 | 50 | [Como Yo Nadie Te a Amado / MI Historia Entre Tus Dedos](https://open.spotify.com/track/5A9eRb37HxwUTHn8WHTQ8J) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Como Yo Nadie Te Ha Amado / Mi Historia Entre Tus Dedos](https://open.spotify.com/album/4HCrPU5PaQr2QXtYghu5uM) | 5:53 |
 | 51 | [La Mejor Version de Mi](https://open.spotify.com/track/6yBbgqbWxMVLqnzGwiiB8r) | [Las Culisueltas](https://open.spotify.com/artist/6GfDEGpIgzDdxCBpNCF4Np), [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Tropitango](https://open.spotify.com/album/4dOlABdZn7dUJwrzJCX4pb) | 1:52 |

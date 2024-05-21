@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 237958,
+  "num_followers": 237972,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -552,8 +552,8 @@
           "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
         },
         {
-          "name": "Baffa-Berlingieri y su Orquesta T\u00edpica",
-          "url": "https://open.spotify.com/artist/66hLRrlcZqU3Im4q5rUh86"
+          "name": "Baffa-Berlingieri",
+          "url": "https://open.spotify.com/artist/51le4Io2pkDGk37ef4Itwd"
         }
       ],
       "duration_ms": 176880,
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
+        "name": "Todo Piazzolla",
+        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
+      },
+      "artists": [
+        {
+          "name": "Leopoldo Federico y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "Tango Del Angel",
+      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 163333,
       "name": "Tangos (Arr. Vidal): Decar\u00edssimo",
       "url": "https://open.spotify.com/track/05YK08skpEuov8RyVmMMPM"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
-        "name": "Todo Piazzolla",
-        "url": "https://open.spotify.com/album/6FQQl99gDEofN8eAJ5FGmO"
-      },
-      "artists": [
-        {
-          "name": "Leopoldo Federico y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/0ILH1dJHi09i2y3kfnj81w"
-        }
-      ],
-      "duration_ms": 196773,
-      "name": "Tango Del Angel",
-      "url": "https://open.spotify.com/track/4PXNxMds2Be3uDjiinkIog"
     },
     {
       "added_at": "2024-04-25 17:55:19",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-04-25 17:55:19",
       "album": {
+        "name": "En El Underground",
+        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
+      },
+      "artists": [
+        {
+          "name": "Susana Rinaldi",
+          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
+        }
+      ],
+      "duration_ms": 242826,
+      "name": "En Ese Ayer/Ventarr\u00f3n",
+      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
+    },
+    {
+      "added_at": "2024-04-25 17:55:19",
+      "album": {
         "name": "Detr\u00e1s de los Cerros",
         "url": "https://open.spotify.com/album/2d3TaKGXNdYPsRRtxRCId9"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 291586,
       "name": "Oto\u00f1o porte\u00f1o",
       "url": "https://open.spotify.com/track/2pqBec6TekUJhK4bdkiPBM"
-    },
-    {
-      "added_at": "2024-04-25 17:55:19",
-      "album": {
-        "name": "En El Underground",
-        "url": "https://open.spotify.com/album/6I123wp2nUkU8hiY0vzu7o"
-      },
-      "artists": [
-        {
-          "name": "Susana Rinaldi",
-          "url": "https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE"
-        }
-      ],
-      "duration_ms": 242826,
-      "name": "En Ese Ayer/Ventarr\u00f3n",
-      "url": "https://open.spotify.com/track/6yzikW529P1w3mwxAoMC3H"
     },
     {
       "added_at": "2024-04-25 17:55:19",

@@ -1,6 +1,6 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Joe Mettle",
-  "num_followers": 10332,
+  "num_followers": 10350,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Amen (Live)",
+        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
+      },
+      "artists": [
+        {
+          "name": "FRA!",
+          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
+        }
+      ],
+      "duration_ms": 200161,
+      "name": "Amen - Live",
+      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Ote Me Mu",
         "url": "https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 288990,
       "name": "Turning Around(Live)",
       "url": "https://open.spotify.com/track/6qrj9hYFtEEPJTHRv2tew0"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Amen (Live)",
-        "url": "https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA"
-      },
-      "artists": [
-        {
-          "name": "FRA!",
-          "url": "https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN"
-        }
-      ],
-      "duration_ms": 200161,
-      "name": "Amen - Live",
-      "url": "https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -863,18 +863,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Nkunim (The Victory Song)",
-        "url": "https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB"
+        "name": "DaaDaa",
+        "url": "https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur"
       },
       "artists": [
         {
-          "name": "Carl Clottey",
-          "url": "https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R"
+          "name": "richieo",
+          "url": "https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0"
+        },
+        {
+          "name": "Emmanuel Smith",
+          "url": "https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b"
+        },
+        {
+          "name": "Omari Kissi Jnr",
+          "url": "https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd"
         }
       ],
-      "duration_ms": 409432,
-      "name": "Nkunim (The Victory Song)",
-      "url": "https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8"
+      "duration_ms": 193306,
+      "name": "DaaDaa",
+      "url": "https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb"
     }
   ],
   "unique_name": "Aseda",

@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: ZAYN
 
-1,751 songs - 3 day 22 hr 12 min
+1,752 songs - 3 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,12 +554,13 @@
 | [girl in new york](https://open.spotify.com/track/3eGIiMTMZduPDb4MN0NTqD) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [girl in new york](https://open.spotify.com/album/3nIb1RiW1bVXHPE1XthHcC) | 2:57 | 2023-12-08 | 2024-04-27 |
 | [Girl In The Mirror](https://open.spotify.com/track/0EUG6aR5MMgsw5tJ89gson) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Girl In The Mirror](https://open.spotify.com/album/7MohXA18YgyFLQThDzZa7Z) | 3:48 | 2024-01-12 | 2024-01-27 |
 | [girls girls girls](https://open.spotify.com/track/6eutgX6jfXAsjTXgQtCtYV) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [girls girls girls](https://open.spotify.com/album/17K0z0mxfAuYNNrV8Jx8v1) | 2:41 | 2021-10-09 | 2022-01-22 |
+| [Girls Just Wanna Have Some](https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB) | 3:43 | 2024-05-20 |  |
 | [Give It To You \(from Songland\)](https://open.spotify.com/track/0U2HEoCazR0hZlNavNeWov) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Give It To You \(from Songland\)](https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0) | 2:15 | 2020-05-16 | 2020-08-14 |
 | [Give Me A Reason](https://open.spotify.com/track/1qWV2QMhVwWRDAbirrkkf1) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Give Me A Reason](https://open.spotify.com/album/4wzCTK1KvDdp2eLmT4EIXg) | 2:15 | 2021-07-04 | 2021-08-21 |
 | [Give You Love](https://open.spotify.com/track/6yfa7stvsbbuDzFsHKG8ez) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Give You Love](https://open.spotify.com/album/3qOjPBjcMHh2kmizz7qkOG) | 3:03 | 2023-08-02 | 2023-11-11 |
 | [Glad You Did](https://open.spotify.com/track/1DKLLuYIHZsI2uqrT1WjRZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Glad You Did](https://open.spotify.com/album/7q9stc9skBvyNLron7OBLR) | 3:11 | 2024-04-05 | 2024-05-11 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-02-06 | 2021-06-05 |
-| [glimpse of me](https://open.spotify.com/track/1p85ZOMTF7IA6wq1NqtVX7) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [glimpse of me](https://open.spotify.com/album/4rR64C0xYv0cTNiGulkQvx) | 2:57 | 2024-05-10 |  |
+| [glimpse of me](https://open.spotify.com/track/1p85ZOMTF7IA6wq1NqtVX7) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [glimpse of me](https://open.spotify.com/album/4rR64C0xYv0cTNiGulkQvx) | 2:57 | 2024-05-10 | 2024-05-21 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-10 | 2023-04-29 |
 | [Glitter](https://open.spotify.com/track/7qHUTc6sORfhSK2lgSEVTH) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [Glitter](https://open.spotify.com/album/7ztq8vEeluHADGSofQAI05) | 2:57 | 2023-06-30 | 2023-07-22 |
 | [Glitter](https://open.spotify.com/track/2B3kOESoYsMNFr8LxijuIc) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Glitter](https://open.spotify.com/album/2UiuSG55ISRYOPJEqeSQLn) | 3:35 | 2020-08-14 | 2021-01-15 |

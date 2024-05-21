@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,660 likes - 75 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,663 likes - 75 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 26 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 |
 | 27 | [Virgo \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 |
 | 28 | [Strange Meadow Lark](https://open.spotify.com/track/0ivpUENLpheuPoa6VuY1ax) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Time Out](https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y) | 7:22 |
-| 29 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
-| 30 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
+| 29 | [In Your Own Sweet Way](https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP) | 4:52 |
+| 30 | [I Hear A Rhapsody](https://open.spotify.com/track/2oEvw0AfrT2fPNpEnBwVml) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF), [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Undercurrent](https://open.spotify.com/album/3b2s2A8DPISbaQNxhrEsGQ) | 4:40 |
 | 31 | [Does The Sun Really Shine On The Moon](https://open.spotify.com/track/43FAhG8BEm5L5Fa8fnC2u5) | [Marcus Bartelt](https://open.spotify.com/artist/0kqhTGbh9RtpgbiUeCHngy), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT), [Martin Gjakonovski](https://open.spotify.com/artist/5v054lI3qAL9w60moMfo61), [Joost Van Schaik](https://open.spotify.com/artist/4MyNpJkDFnYbEJ21DlSuAZ) | [At Ease](https://open.spotify.com/album/49NbMNxUrcqwxpqh2V7kQm) | 7:31 |
 | 32 | [Doubts 2](https://open.spotify.com/track/1ohoaGnztWcfczuRDceRdn) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 4:54 |
 | 33 | [Sous Le Ciel De Paris](https://open.spotify.com/track/7JMkZWB40pcmq8G7kTsbcB) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr) | [Smile](https://open.spotify.com/album/6BF5MVQpYKaT2VL8SZayRh) | 4:04 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTlKxC5XMcbx.md) - [plain]
 | 64 | [Surprises](https://open.spotify.com/track/6dlrKYdYDu3UTm3cSo6rFb) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [Wind](https://open.spotify.com/album/1zRFuPnqjBckEoOFliJyaI) | 6:27 |
 | 65 | [Stardust](https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Plays Ballads](https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et) | 6:25 |
 | 66 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 |
-| 67 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 |
+| 67 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
 | 68 | [Before It's Time to Say Goodbye](https://open.spotify.com/track/4lj4cW45UP5tQ8AhRxnQi9) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Songbook](https://open.spotify.com/album/1iygnpMlnC5R3HtPJ6dIF3) | 5:17 |
-| 69 | [Maybe September](https://open.spotify.com/track/7wGqWPW8haFrmvikCyS5Qc) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr) | [Scott Hamilton Plays Ballads](https://open.spotify.com/album/0bw16TpTm9imdckwKYYoKm) | 3:40 |
+| 69 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 |
 | 70 | [I Have Dreamed](https://open.spotify.com/track/4bBIADw4urJPkcx0YOfEIo) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:27 |
 | 71 | [My Funny Valentine](https://open.spotify.com/track/3AeIbfjydFf46N27feEFri) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 4:06 |
-| 72 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 |
-| 73 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
+| 72 | [Self\-Portrait in Three Colors](https://open.spotify.com/track/38C8v33eis3fa4hLf0dl8Z) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 3:07 |
+| 73 | [Speak Low](https://open.spotify.com/track/2iJCVsNZAHFVaJhlLeXW00) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 5:16 |
 | 74 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 |
 | 75 | [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 |
 
-Snapshot ID: `ZjhGFQAAAAD02sjM/1eD0aA6/3OLDh1q`
+Snapshot ID: `ZkqyUwAAAAAJNVf/PJ6PsW/5BW0g0e9j`

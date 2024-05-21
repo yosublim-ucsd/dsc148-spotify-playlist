@@ -2,7 +2,7 @@
 
 ### [EDMéxico](https://open.spotify.com/playlist/37i9dQZF1DX11Ia2xt6mrG)
 
-> Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
+> Descubre lo más fresco de la electrónica mexicana\. Jayrick en portada.
 
 289 songs - 16 hr 11 min
 

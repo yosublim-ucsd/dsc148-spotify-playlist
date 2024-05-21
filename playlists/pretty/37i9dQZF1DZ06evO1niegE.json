@@ -1,12 +1,12 @@
 {
-  "description": "This Is RENEE. Los temas esenciales, todos en una lista.",
-  "num_followers": 7269,
+  "description": "This is RENEE. The essential tracks, all in one playlist.",
+  "num_followers": 7275,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAOLLHtW1JGROLkl/wyveaf",
+  "snapshot_id": "ZklBAAAAAAAR3s+y2DNRtxCW6xzCU3GZ",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "2D",
+      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amor Particular",
         "url": "https://open.spotify.com/album/2b8kBGbX7j1q5hOSrjDy0S"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 183066,
       "name": "Amor Particular",
       "url": "https://open.spotify.com/track/41x3Zgm2LornuG311321J6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "2D",
-      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
     },
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 208755,
       "name": "Me Desenamor\u00e9",
       "url": "https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "D\u00eda De Abril",
+      "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "fior",
         "url": "https://open.spotify.com/album/6zbSHO2tNXiuCTOIjhgZnD"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 311675,
       "name": "fior",
       "url": "https://open.spotify.com/track/6GtWgDj1nK1TBahvOwYLvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "D\u00eda De Abril",
-      "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
     }
   ],
   "unique_name": "This Is RENEE",

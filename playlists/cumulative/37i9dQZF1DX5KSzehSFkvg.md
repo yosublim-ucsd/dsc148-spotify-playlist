@@ -4,7 +4,7 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
 
-119 songs - 6 hr 28 min
+120 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 | 2023-07-07 | 2023-12-01 |
 | [Chkoun Kan Ygoul](https://open.spotify.com/track/5AM9SDedaVbz0hbA4IDNTt) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Chkoun Kan Ygoul](https://open.spotify.com/album/4cQRws3OdhjIszeoHmDNXN) | 3:27 | 2024-03-09 |  |
 | [Cinema](https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Cinema](https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94) | 2:39 | 2023-08-02 | 2023-11-21 |
+| [Dehka Sefra](https://open.spotify.com/track/7oE850hviq7oJIPoZRBtyi) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dehka Sefra](https://open.spotify.com/album/4ZVGTHPMMIc4zakPmIugvS) | 2:56 | 2024-05-20 |  |
 | [Denia Ya Denia](https://open.spotify.com/track/1p7rp2JnBbcR4YdbH6WRzC) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Denia Ya Denia](https://open.spotify.com/album/1AKmKRx3R2O2hVPGKeuuFk) | 3:05 | 2023-07-07 | 2024-02-06 |
 | [Dima Mechi](https://open.spotify.com/track/4FqzaLISWmn42eDkTenweI) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Dima Mechi \(ديما ماشي\)](https://open.spotify.com/album/7dcTaS0a7Sp7XafbHbLYf5) | 4:45 | 2023-07-07 |  |
 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 | 2023-07-07 | 2024-01-04 |
@@ -119,7 +120,7 @@
 | [Ya Ghayeb](https://open.spotify.com/track/5RYSSnBAmeYKCCb8bEOG6u) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Ya Ghayeb](https://open.spotify.com/album/2f3kngWBR5wP05M5hdUZXH) | 2:09 | 2024-01-03 | 2024-01-16 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2023-07-07 | 2023-10-04 |
 | [Ya Lil](https://open.spotify.com/track/3hvJHXAuKeSRSShUEl9v0c) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Ya Lil](https://open.spotify.com/album/4jcoGlVZZi1hu3PhxxIeqB) | 2:46 | 2023-07-07 |  |
-| [Ya Sidi Ya Baba](https://open.spotify.com/track/3IbpyNdKawcQKmEpwQO1Ea) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Ya Sidi Ya Baba](https://open.spotify.com/album/08J5WsddktM6tZvFUKx8Uj) | 2:34 | 2023-07-07 |  |
+| [Ya Sidi Ya Baba](https://open.spotify.com/track/3IbpyNdKawcQKmEpwQO1Ea) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Ya Sidi Ya Baba](https://open.spotify.com/album/08J5WsddktM6tZvFUKx8Uj) | 2:34 | 2023-07-07 | 2024-05-21 |
 | [Youm Machi Aadi](https://open.spotify.com/track/4PNqyp3pp5c3A8jM8YgsSN) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [Youm Machi Aadi](https://open.spotify.com/album/0ezJFnN5nAIrVpz9oyBkqP) | 2:58 | 2023-08-22 | 2023-08-25 |
 | [Zidini](https://open.spotify.com/track/1b7xtXSt71WhXrL9khIlCK) | [Dunia Batma](https://open.spotify.com/artist/3GCRdccrBJ7DKUQvNMHQmU) | [Zidini](https://open.spotify.com/album/6ezbHGVbpC41VtjbLJn4Vs) | 3:20 | 2023-07-07 |  |
 | [الحب صعيب](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [الحب صعيب](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 | 2023-07-13 |  |

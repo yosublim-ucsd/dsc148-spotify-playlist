@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Marion Jola
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,462 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,473 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

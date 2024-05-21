@@ -1,6 +1,6 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Missy Raines",
-  "num_followers": 132914,
+  "num_followers": 132924,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The Whole of the Moon",
+        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 282794,
+      "name": "The Whole of the Moon",
+      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Rosa Lee McFall (Live)",
         "url": "https://open.spotify.com/album/1v4qPxoqDppewSx1hzEVgk"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Whole of the Moon",
-        "url": "https://open.spotify.com/album/6q6ny6rMWxwRnPWI3AScqC"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 282794,
-      "name": "The Whole of the Moon",
-      "url": "https://open.spotify.com/track/4TGWzN6QyzwIPAPCzgjjfs"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/1CqWxtmT4q6Cn6cJNYQwxk"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/7vp3GZh0b4cgqKZcuVEpbD"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Fall In Tennessee",
-        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        },
-        {
-          "name": "Jerry Douglas",
-          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
-        }
-      ],
-      "duration_ms": 231120,
-      "name": "Fall In Tennessee (feat. Jerry Douglas)",
-      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -947,6 +927,26 @@
       "duration_ms": 188666,
       "name": "Blue Railroad Train",
       "url": "https://open.spotify.com/track/5xQF2S5p9hckklJLsTbNzq"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Fall In Tennessee",
+        "url": "https://open.spotify.com/album/1QtwwF0WtSMo35OFQoyCQU"
+      },
+      "artists": [
+        {
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
+        },
+        {
+          "name": "Jerry Douglas",
+          "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
+        }
+      ],
+      "duration_ms": 231120,
+      "name": "Fall In Tennessee (feat. Jerry Douglas)",
+      "url": "https://open.spotify.com/track/57bKuzcq04EQaYuGhl9k8J"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1051,38 +1051,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Happy Valley",
-        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+        "name": "Deep End",
+        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
       },
       "artists": [
         {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Marty Stuart",
-          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+          "name": "Steep Canyon Rangers",
+          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
         }
       ],
-      "duration_ms": 230032,
-      "name": "Blue Smoke",
-      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Authentic Unlimited",
-        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
-      },
-      "artists": [
-        {
-          "name": "Authentic Unlimited",
-          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+      "duration_ms": 177909,
+      "name": "Deep End",
+      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1103,18 +1083,38 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Deep End",
-        "url": "https://open.spotify.com/album/3feW7kGBFTj5Yz4hd8pJ9o"
+        "name": "Authentic Unlimited",
+        "url": "https://open.spotify.com/album/4jAGbUaqVKU00V2JpV2Izn"
       },
       "artists": [
         {
-          "name": "Steep Canyon Rangers",
-          "url": "https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O"
+          "name": "Authentic Unlimited",
+          "url": "https://open.spotify.com/artist/5jZqMnM9mgPBcqLPx1tXqO"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Deep End",
-      "url": "https://open.spotify.com/track/5UAOBkqsoyC3FFiM6L8hiy"
+      "duration_ms": 180480,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/2Qgq33OeGVBY3FjZI3LxWc"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Happy Valley",
+        "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Marty Stuart",
+          "url": "https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO"
+        }
+      ],
+      "duration_ms": 230032,
+      "name": "Blue Smoke",
+      "url": "https://open.spotify.com/track/3cyj7zwt8H1S6cFiPgHjda"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Getaway",
+        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
+      },
+      "artists": [
+        {
+          "name": "Katelyn Ingardia",
+          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
+        }
+      ],
+      "duration_ms": 216950,
+      "name": "Getaway",
+      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Kentucky Highway",
         "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
       },
@@ -1247,6 +1263,22 @@
       "duration_ms": 219493,
       "name": "Kentucky Highway",
       "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Blues of the Night",
+        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Blues of the Night",
+      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1267,38 +1299,6 @@
       "duration_ms": 172440,
       "name": "A Man Like Me",
       "url": "https://open.spotify.com/track/0k6ieXUPtOUcqwjqPBLRmU"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Getaway",
-        "url": "https://open.spotify.com/album/2yFilubICYA8kRmuw73wBG"
-      },
-      "artists": [
-        {
-          "name": "Katelyn Ingardia",
-          "url": "https://open.spotify.com/artist/19CskXZBIWKdJtmNxrYVRI"
-        }
-      ],
-      "duration_ms": 216950,
-      "name": "Getaway",
-      "url": "https://open.spotify.com/track/2BwYaALYTGboYsK7wfb1I6"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Blues of the Night",
-        "url": "https://open.spotify.com/album/7xZO2VJHf9KJkB5OkbP8qf"
-      },
-      "artists": [
-        {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Blues of the Night",
-      "url": "https://open.spotify.com/track/6kIPJSV6Z6Pixo7RQRjwYP"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1371,38 +1371,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The North Side",
-        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
-      },
-      "artists": [
-        {
-          "name": "Blue Highway",
-          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
-        }
-      ],
-      "duration_ms": 194481,
-      "name": "The North Side",
-      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Maria with a \"J\"",
-        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
-      },
-      "artists": [
-        {
-          "name": "Marija Droze",
-          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
-        }
-      ],
-      "duration_ms": 239601,
-      "name": "Broken Glass",
-      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "No Matter Where It Goes from Here",
         "url": "https://open.spotify.com/album/6ufi2rWxnAnHf103FKlZl5"
       },
@@ -1415,6 +1383,22 @@
       "duration_ms": 236666,
       "name": "My Hometown",
       "url": "https://open.spotify.com/track/4VHUkYbYdbmqNEK3REHZeN"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Mayhayley's House",
+        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "duration_ms": 217222,
+      "name": "Diggin'",
+      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1459,6 +1443,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The North Side",
+        "url": "https://open.spotify.com/album/0O8huJY762BUgfv7VbtnSE"
+      },
+      "artists": [
+        {
+          "name": "Blue Highway",
+          "url": "https://open.spotify.com/artist/4nnZcSw4lGTxiq3AvYt8Dd"
+        }
+      ],
+      "duration_ms": 194481,
+      "name": "The North Side",
+      "url": "https://open.spotify.com/track/3PaupMyPQ6dKZqED5Ic2ss"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "I'd Rather Be Alone",
         "url": "https://open.spotify.com/album/2n8n1ij2BvFF9QZXUpm8ge"
       },
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Mayhayley's House",
-        "url": "https://open.spotify.com/album/552ZVlloL4z7bNoE727oso"
+        "name": "Maria with a \"J\"",
+        "url": "https://open.spotify.com/album/0Ly2w49tSOoIUOtdAzGsFk"
       },
       "artists": [
         {
-          "name": "Lonesome River Band",
-          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+          "name": "Marija Droze",
+          "url": "https://open.spotify.com/artist/0BbnQu7WSJhCsdvBxMq0um"
         }
       ],
-      "duration_ms": 217222,
-      "name": "Diggin'",
-      "url": "https://open.spotify.com/track/7IRU3DyQ3ROnuMgMWjeM0h"
+      "duration_ms": 239601,
+      "name": "Broken Glass",
+      "url": "https://open.spotify.com/track/6imryh6uZsIVmYb2EfZ8Ym"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Gavel",
-        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
-      },
-      "artists": [
-        {
-          "name": "Wilson Banjo Co.",
-          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
-        }
-      ],
-      "duration_ms": 193933,
-      "name": "The Gavel",
-      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Something You Didn't Count On",
         "url": "https://open.spotify.com/album/5hzGAHLOIWKud7WIHsQZtd"
       },
@@ -1535,26 +1519,6 @@
       "duration_ms": 173183,
       "name": "Something You Didn\u2019t Count On",
       "url": "https://open.spotify.com/track/3GUsYC9eWCn2s0j6B3fcC4"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Mr. Charlie",
-        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        },
-        {
-          "name": "Josh Shilling",
-          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
-        }
-      ],
-      "duration_ms": 273627,
-      "name": "Mr. Charlie",
-      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1583,18 +1547,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Finnland",
-        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+        "name": "Mr. Charlie",
+        "url": "https://open.spotify.com/album/30k7AdsINOYTkqa4RvPkuz"
       },
       "artists": [
         {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        },
+        {
+          "name": "Josh Shilling",
+          "url": "https://open.spotify.com/artist/2aaOHInTP3KKRiOdfl0TiE"
         }
       ],
-      "duration_ms": 165853,
-      "name": "Finnland",
-      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+      "duration_ms": 273627,
+      "name": "Mr. Charlie",
+      "url": "https://open.spotify.com/track/0N20rPepMY3PnRNt3wsN3l"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1615,6 +1583,38 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "The Gavel",
+        "url": "https://open.spotify.com/album/6lvllLOpu8VWHpPoQ5nD7B"
+      },
+      "artists": [
+        {
+          "name": "Wilson Banjo Co.",
+          "url": "https://open.spotify.com/artist/7oEjk4jYgih2ppmrlGPbMo"
+        }
+      ],
+      "duration_ms": 193933,
+      "name": "The Gavel",
+      "url": "https://open.spotify.com/track/7mgfZYZCKrjpJuWTkxX2aF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Saltbush Express",
         "url": "https://open.spotify.com/album/3B5GKENfkULk2sCtCEitvQ"
       },
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "All the Mornings Have an Echo",
-        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 175128,
-      "name": "All the Mornings Have an Echo",
-      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Highs and Lows",
         "url": "https://open.spotify.com/album/6gsuZrOn3AeGlxaREdp5HZ"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 256997,
       "name": "Highs and Lows",
       "url": "https://open.spotify.com/track/1GMidgnsaRuVFbm3T3DLEm"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "All the Mornings Have an Echo",
+        "url": "https://open.spotify.com/album/73nSTfoKQxbtDU9wzPcBRG"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 175128,
+      "name": "All the Mornings Have an Echo",
+      "url": "https://open.spotify.com/track/7GCsXa5WtdVl7it5R6hZSN"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Behind the 8 Ball",
-        "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
-      },
-      "artists": [
-        {
-          "name": "Andy Leftwich",
-          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Behind the 8 Ball",
-      "url": "https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Kinetic Tone",
         "url": "https://open.spotify.com/album/0rzsm2eUbu7i7gR2rFiCKX"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 292000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/5Pa5e2bklYYT44kgVwoHCF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Behind the 8 Ball",
+        "url": "https://open.spotify.com/album/2kOm9yf2fKb589wXfucWP7"
+      },
+      "artists": [
+        {
+          "name": "Andy Leftwich",
+          "url": "https://open.spotify.com/artist/2fcTqa79dTOAF6kJrDltQa"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Behind the 8 Ball",
+      "url": "https://open.spotify.com/track/3BJk0Sy4QFFbzlRAyblOjv"
     },
     {
       "added_at": "2024-05-10 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "Late night chilled vibes, for those intimate moments.",
-  "num_followers": 364479,
+  "num_followers": 364534,
   "original_name": "Spotify & Chill",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,26 @@
     {
       "added_at": "2024-02-28 01:52:06",
       "album": {
+        "name": "Gemini Rights",
+        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Sunshine (feat. Foushe\u00e9)",
+      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
+    },
+    {
+      "added_at": "2024-02-28 01:52:06",
+      "album": {
         "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
         "url": "https://open.spotify.com/album/1Zo8V5bfUxTiLPQRO99FK5"
       },
@@ -711,26 +731,6 @@
       "duration_ms": 352106,
       "name": "Bridge Over Troubled Water (feat. John Legend & Tori Kelly)",
       "url": "https://open.spotify.com/track/4FG5dNlurEtZ84kCTg5YLA"
-    },
-    {
-      "added_at": "2024-02-28 01:52:06",
-      "album": {
-        "name": "Gemini Rights",
-        "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        },
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Sunshine (feat. Foushe\u00e9)",
-      "url": "https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv"
     },
     {
       "added_at": "2024-02-28 01:52:06",

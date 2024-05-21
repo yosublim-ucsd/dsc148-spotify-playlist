@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 240136,
+  "num_followers": 240173,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAII3ZetZreSWMswPTmjoqA",
+  "snapshot_id": "ZklBAAAAAABcnGfwnIeXBAHhkJ5JwBdM",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 258026,
+      "name": "Sharp Dressed Man (2008 Remaster)",
+      "url": "https://open.spotify.com/track/0bRNszTbTFLNlunAeh7eom"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -39,22 +55,6 @@
       "duration_ms": 133973,
       "name": "Tush (2006 Remaster)",
       "url": "https://open.spotify.com/track/55WrYzR1SHfXeeU6DJbk3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 241080,
-      "name": "Gimme All Your Lovin'",
-      "url": "https://open.spotify.com/track/29uKzagduhFDTWPCjqaGOg"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 241080,
+      "name": "Gimme All Your Lovin'",
+      "url": "https://open.spotify.com/track/29uKzagduhFDTWPCjqaGOg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fandango! (Expanded 2006 Remaster)",
         "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 279840,
       "name": "Blue Jean Blues (2005 Remaster)",
       "url": "https://open.spotify.com/track/2wXy7MhpWa1t4n86QzaCVL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 273906,
-      "name": "Legs (2008 Remaster)",
-      "url": "https://open.spotify.com/track/11oBg7EA3BgPLWrIx4Rv7D"
     },
     {
       "added_at": null,
@@ -155,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 273906,
+      "name": "Legs (2008 Remaster)",
+      "url": "https://open.spotify.com/track/11oBg7EA3BgPLWrIx4Rv7D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Recycler",
         "url": "https://open.spotify.com/album/4ItwdwD5kWC4Wa9tIl0eEq"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 261026,
       "name": "My Head's in Mississippi",
       "url": "https://open.spotify.com/track/6LPQVBRDTZK539mKAbyMHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 243066,
-      "name": "Got Me Under Pressure (2008 Remaster)",
-      "url": "https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 243066,
+      "name": "Got Me Under Pressure (2008 Remaster)",
+      "url": "https://open.spotify.com/track/7lz578ML4nWrDL3uOLyQoR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 183800,
       "name": "Tube Snake Boogie",
       "url": "https://open.spotify.com/track/5SgSMB8pz1lolVOTtFCtIX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 174240,
-      "name": "I Got the Six (2008 Remaster)",
-      "url": "https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs"
     },
     {
       "added_at": null,
@@ -283,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "I Got the Six (2008 Remaster)",
+      "url": "https://open.spotify.com/track/3yYe6csPthNTUCcg6PVGjs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deguello",
         "url": "https://open.spotify.com/album/7DH3wAtFuyKpfho3tcvLrQ"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 288400,
       "name": "Cheap Sunglasses",
       "url": "https://open.spotify.com/track/2te8SC3btY8aSBtOLTQFie"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 378626,
-      "name": "I Need You Tonight (2008 Remaster)",
-      "url": "https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
       "duration_ms": 242333,
       "name": "Sleeping Bag",
       "url": "https://open.spotify.com/track/2i14DjGjf1UQ9VwvB2vRZP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eliminator",
+        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 378626,
+      "name": "I Need You Tonight (2008 Remaster)",
+      "url": "https://open.spotify.com/track/52Iro1e1FR4w59jyOLawDh"
     },
     {
       "added_at": null,
@@ -475,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eliminator",
-        "url": "https://open.spotify.com/album/4KW6YVbF8E3kexYcl0k4IK"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 230573,
-      "name": "TV Dinners (2008 Remaster)",
-      "url": "https://open.spotify.com/track/7e0vyYARDEuguPhjdX63wJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Loco",
         "url": "https://open.spotify.com/album/4iQeNxZ5xlP9TirtiSfisY"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Afterburner",
-        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 242866,
-      "name": "Planet of Women",
-      "url": "https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 155133,
       "name": "(Somebody Else Been) Shaking Your Tree",
       "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterburner",
+        "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 242866,
+      "name": "Planet of Women",
+      "url": "https://open.spotify.com/track/7y2Vvk7wXRQg9fq9PXUVHG"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fandango! (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 156733,
-      "name": "Balinese (2005 Remaster)",
-      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 250120,
       "name": "Just Got Back from Baby's",
       "url": "https://open.spotify.com/track/2L72UXO13cFevWxF3Q1xFx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fandango! (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/6zxF1jfgFOkYvDywpC5BAV"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 156733,
+      "name": "Balinese (2005 Remaster)",
+      "url": "https://open.spotify.com/track/2SCXpY6ArQFpllTov1z1Lr"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ZZ Top's First Album",
         "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 168653,
       "name": "Squank",
       "url": "https://open.spotify.com/track/2lyncEvIY8JHCZBN5PxEfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,

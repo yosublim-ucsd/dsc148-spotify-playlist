@@ -1,6 +1,6 @@
 {
   "description": "Modernas, rebeldes y divertidas, \u00a1As\u00ed son ellas!",
-  "num_followers": 15987,
+  "num_followers": 15996,
   "original_name": "\u00a1Chicas Ye-y\u00e9!",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-01-18 18:58:11",
       "album": {
-        "name": "Bailando el chic (Remasterizado 2015)",
-        "url": "https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T"
-      },
-      "artists": [
-        {
-          "name": "Las Chic",
-          "url": "https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj"
-        }
-      ],
-      "duration_ms": 150026,
-      "name": "Cerca de ti - 2015 Remastered Version",
-      "url": "https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19"
-    },
-    {
-      "added_at": "2021-01-18 18:58:11",
-      "album": {
         "name": "Cuando Espa\u00f1a Bailaba el Twist",
         "url": "https://open.spotify.com/album/1S1vdRlUTJVDMMNCEol9zU"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 152746,
       "name": "Muy Cerca de T\u00ed",
       "url": "https://open.spotify.com/track/5f80txb4SYgEJtO6QTKS9l"
+    },
+    {
+      "added_at": "2021-01-18 18:58:11",
+      "album": {
+        "name": "Bailando el chic (Remasterizado 2015)",
+        "url": "https://open.spotify.com/album/3PoBHm7Eh5S0MAY42odJ3T"
+      },
+      "artists": [
+        {
+          "name": "Las Chic",
+          "url": "https://open.spotify.com/artist/17V3HR9eBXClxwY2oS0Foj"
+        }
+      ],
+      "duration_ms": 150026,
+      "name": "Cerca de ti - 2015 Remastered Version",
+      "url": "https://open.spotify.com/track/3E03E8hqTwUBmkNcWqnC19"
     },
     {
       "added_at": "2021-01-18 18:58:11",

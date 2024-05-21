@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay",
-  "num_followers": 45593,
+  "num_followers": 45611,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Solteiros",
         "url": "https://open.spotify.com/album/1oh19k6mxh4bSGkEKE91md"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 179023,
       "name": "Solteiros",
       "url": "https://open.spotify.com/track/2e3OSiCXg1AcLFQ3HuiW42"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Chama",
+        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        }
+      ],
+      "duration_ms": 153029,
+      "name": "Chama",
+      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Brutos Diamantes",
         "url": "https://open.spotify.com/album/0bAS2LP1ELHvX2BWJHDqan"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 176320,
       "name": "Brutos Diamantes",
       "url": "https://open.spotify.com/track/2Dn1EJ0AQAWSgl3cyeJK3V"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Chama",
-        "url": "https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        }
-      ],
-      "duration_ms": 153029,
-      "name": "Chama",
-      "url": "https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
-      },
-      "artists": [
-        {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "longe.com",
         "url": "https://open.spotify.com/album/6egKDfB8eutMUNy9pyxbbA"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 197511,
       "name": "longe.com",
       "url": "https://open.spotify.com/track/5tuN13MrEiNOGFW9cvhhzv"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2024-05-16 23:00:00",

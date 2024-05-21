@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-654 songs - 1 day 12 hr 47 min
+656 songs - 1 day 12 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Her](https://open.spotify.com/track/3j245wuX7uV02CXCRgQeXK) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Her](https://open.spotify.com/album/7vzvWvt0C3fuf4XS5AS78E) | 3:39 | 2022-08-19 | 2022-11-19 |
 | [here lies what could've been](https://open.spotify.com/track/1PI3oda9wcNZOEYokQxhds) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [here lies what could've been](https://open.spotify.com/album/3zVrlJirpuPmf41auiBCpt) | 3:41 | 2024-01-26 |  |
 | [Hero](https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero](https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt) | 2:55 | 2023-05-05 |  |
+| [HERO](https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5) | [Kaeto](https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK) | [HERO](https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL) | 3:58 | 2024-05-20 |  |
 | [Hesitate](https://open.spotify.com/track/6PmsHVre2N9yOjDge00r9c) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Emerson Leif](https://open.spotify.com/artist/1isPOa73berLiXSErHiWt0) | [Hesitate](https://open.spotify.com/album/0NJRlSmi5q6ekPkm77OCgj) | 4:11 | 2020-11-18 | 2021-06-26 |
 | [High and Dry](https://open.spotify.com/track/5znRHTk8ihBQLkzq47hXM3) | [TRACES](https://open.spotify.com/artist/74qSjJarNp1Ilz2kp7IMdL) | [High and Dry](https://open.spotify.com/album/4903dr7fEcftLA7W2Z74L7) | 3:10 | 2020-10-13\* | 2021-02-19 |
 | [High School](https://open.spotify.com/track/0xdYu0o6OjgMPPOoLptru1) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [High School](https://open.spotify.com/album/353XEqU2rwbH11JjyFHp5v) | 3:08 | 2020-10-13\* | 2021-02-19 |
@@ -608,6 +609,7 @@
 | [Twennies](https://open.spotify.com/track/28LNs1oQ8met8Ul8p8RHbe) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [Twennies](https://open.spotify.com/album/5rdmUTXVk9cVxOMknuSzUx) | 2:51 | 2022-09-09 | 2022-09-17 |
 | [Twennies \- The Knocks Remix](https://open.spotify.com/track/2udzkXs8wSPiRNDmzomieS) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Twennies \(The Knocks Remix\)](https://open.spotify.com/album/7kspnaid8DF0EbhsIVyv86) | 4:08 | 2022-11-11 | 2023-01-28 |
 | [Twenty Something](https://open.spotify.com/track/6tn96Btxy5ysJADC6cXGz8) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [Twenty Something](https://open.spotify.com/album/51WevfxIZpP81UzN8t3h72) | 4:36 | 2020-10-13\* | 2021-11-20 |
+| [Twisted](https://open.spotify.com/track/6DQpObWUkXqPF1HpzaD750) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Twisted](https://open.spotify.com/album/5mDgmqn3lIxFvdsa9aJVVm) | 5:31 | 2024-05-20 |  |
 | [Twisted Mind](https://open.spotify.com/track/3Ofr27P70Y5D1dG9iwqFPD) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Exotica \(Deluxe\)](https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv) | 5:20 | 2022-03-11 | 2022-04-21 |
 | [Una Noche Sin Pensar](https://open.spotify.com/track/2oW52tBeJNSv93Ct5AJb8q) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Una Noche Sin Pensar](https://open.spotify.com/album/72RohnwnQyT7YbrIzDNROD) | 2:41 | 2023-02-19 | 2023-04-09 |
 | [Universe](https://open.spotify.com/track/6g4tLLDSCsZiuPQCYggQ0X) | [BUZZ](https://open.spotify.com/artist/4YXzweXdgnq4xSOpo1ZWxR) | [Universe](https://open.spotify.com/album/6NHTTGRUitvFNPC55j97jj) | 3:48 | 2023-03-10 | 2023-03-18 |

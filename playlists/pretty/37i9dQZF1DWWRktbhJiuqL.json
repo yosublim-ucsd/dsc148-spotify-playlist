@@ -1,6 +1,6 @@
 {
   "description": "Various sounds, various decades, but with one thing in common.",
-  "num_followers": 1996956,
+  "num_followers": 1996985,
   "original_name": "Pure Rock & Roll",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 276880,
-      "name": "Tom Sawyer",
-      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "War (Remastered)",
         "url": "https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 279440,
       "name": "Sunday Bloody Sunday - Remastered 2008",
       "url": "https://open.spotify.com/track/6C4LXC9UFH1IKiHYOp0BiJ"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 276880,
+      "name": "Tom Sawyer",
+      "url": "https://open.spotify.com/track/3QZ7uX97s82HFYSmQUAN1D"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Songs For The Deaf",
-        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
+        "name": "Lunatic",
+        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
       },
       "artists": [
         {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+          "name": "KONGOS",
+          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
         }
       ],
-      "duration_ms": 278706,
-      "name": "No One Knows",
-      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
+      "duration_ms": 211960,
+      "name": "Come with Me Now",
+      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Lunatic",
-        "url": "https://open.spotify.com/album/71C65HI7THrlkpHHa24YJX"
+        "name": "Songs For The Deaf",
+        "url": "https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk"
       },
       "artists": [
         {
-          "name": "KONGOS",
-          "url": "https://open.spotify.com/artist/58R5LHkK3vkmEyGUPOR5kS"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 211960,
-      "name": "Come with Me Now",
-      "url": "https://open.spotify.com/track/2kWowW0k4oFymhkr7LmvzO"
+      "duration_ms": 278706,
+      "name": "No One Knows",
+      "url": "https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Perhaps",
-        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 228406,
-      "name": "Perhaps",
-      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "The Essential Billy Joel",
         "url": "https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 177266,
       "name": "It's Still Rock and Roll to Me",
       "url": "https://open.spotify.com/track/7LbOQt7isddrw3Bs3Czl7E"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Perhaps",
+        "url": "https://open.spotify.com/album/2CoWZzMwNzNI49Ip5IvSbb"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 228406,
+      "name": "Perhaps",
+      "url": "https://open.spotify.com/track/1xl3tncP1hSU9EPkIY535i"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Gifts From The Holy Ghost",
-        "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
-      },
-      "artists": [
-        {
-          "name": "Dorothy",
-          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
-        }
-      ],
-      "duration_ms": 217327,
-      "name": "Rest In Peace",
-      "url": "https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "See Where The Night Goes",
         "url": "https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 247895,
       "name": "Step Aside",
       "url": "https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Gifts From The Holy Ghost",
+        "url": "https://open.spotify.com/album/258YZ2TUzI1SJBU626eYFc"
+      },
+      "artists": [
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "duration_ms": 217327,
+      "name": "Rest In Peace",
+      "url": "https://open.spotify.com/track/2PZ5teF9vepeL2Qq7dkd59"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Living In A Ghost Town",
         "url": "https://open.spotify.com/album/78s6su3Cox4tVqNi6uTuCR"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 247010,
       "name": "Living In A Ghost Town",
       "url": "https://open.spotify.com/track/5RrrQhJKKKMJt3wB5n2N3t"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "The Essential Journey",
+        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 325906,
+      "name": "Separate Ways (Worlds Apart)",
+      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "Run On",
         "url": "https://open.spotify.com/album/3QVFpfKAIEYE0GfSiUqQfk"
       },
@@ -2043,38 +2059,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "The Essential Journey",
-        "url": "https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 325906,
-      "name": "Separate Ways (Worlds Apart)",
-      "url": "https://open.spotify.com/track/2ORySgkn0CbUMFbEoP1wwE"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Honeybrains",
-        "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 186847,
-      "name": "Honeybrains",
-      "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Mars To Liverpool",
         "url": "https://open.spotify.com/album/7piCqHwCBo70ZiYf603fCi"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 220940,
       "name": "Mars To Liverpool",
       "url": "https://open.spotify.com/track/3Lz1zknpdBiYQ4oQANf3g0"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Honeybrains",
+        "url": "https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 186847,
+      "name": "Honeybrains",
+      "url": "https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Mammoth II",
-        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
-      },
-      "artists": [
-        {
-          "name": "Mammoth WVH",
-          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
-        }
-      ],
-      "duration_ms": 275739,
-      "name": "I\u2019m Alright",
-      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Skinny",
         "url": "https://open.spotify.com/album/4B4UxXtd4JaYNtaAN6ZNEQ"
       },
@@ -2195,18 +2179,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Tanx (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
+        "name": "Mammoth II",
+        "url": "https://open.spotify.com/album/4IBqnUmKDyB8WUv1q8ElSi"
       },
       "artists": [
         {
-          "name": "T. Rex",
-          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+          "name": "Mammoth WVH",
+          "url": "https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO"
         }
       ],
-      "duration_ms": 221240,
-      "name": "20th Century Boy",
-      "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
+      "duration_ms": 275739,
+      "name": "I\u2019m Alright",
+      "url": "https://open.spotify.com/track/1bjN2FLqJO3cU9efOFcRpS"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -2223,6 +2207,22 @@
       "duration_ms": 187853,
       "name": "Ten Tonne Skeleton",
       "url": "https://open.spotify.com/track/78ZTkIlW7NLXRCCPecwUyd"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Tanx (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7sIEt8O8vQcOvran3M2I6J"
+      },
+      "artists": [
+        {
+          "name": "T. Rex",
+          "url": "https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "20th Century Boy",
+      "url": "https://open.spotify.com/track/6Soku1wiB6mfcQp2s2W6a6"
     },
     {
       "added_at": "2024-05-17 04:01:00",

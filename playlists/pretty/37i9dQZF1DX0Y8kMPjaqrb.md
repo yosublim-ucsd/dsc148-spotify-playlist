@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain]
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,087 likes - 71 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,103 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain]
 | 6 | [Whispers](https://open.spotify.com/track/3pjkBCnvD1hOWssKewHSTj) | [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 0:30 |
 | 7 | [Slingshot](https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:56 |
 | 8 | [Memories of a Sound](https://open.spotify.com/track/0SKbFGqrj94vUXmolJHpHT) | [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:29 |
-| 9 | [Blunt Words](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
+| 9 | [Blunt Words](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [Peggie Sue](https://open.spotify.com/artist/2xhFPhaXuy6VvEPnbYhxOY) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
 | 10 | [Fleeting Days](https://open.spotify.com/track/1PacBC4qD00c5Y8HgDaTvE) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 0:40 |
 | 11 | [Alle Psallite Cum Luya](https://open.spotify.com/track/3SqxuWVy5cB2yrf9pdl0OJ) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP), [中尾幸世](https://open.spotify.com/artist/6qShyvVl9m8X1Chqh7rzYB), [Fuyumi Sakamoto](https://open.spotify.com/artist/55j8oSKnH8ni3P2FaNUwjP), [Yoshimi Iwasaki](https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV), [Michiko Shimizu](https://open.spotify.com/artist/1Ketn2ddWfazX95is2S8H2), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 0:38 |
 | 12 | [Fama Destinata](https://open.spotify.com/track/0MlBRfVomH2yNYzeYVXWJY) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:18 |

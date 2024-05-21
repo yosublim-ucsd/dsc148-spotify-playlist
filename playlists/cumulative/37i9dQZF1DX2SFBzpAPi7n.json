@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/18Q5fVkHDMen1T72mHDEn4"
       },
@@ -3624,7 +3646,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 237533,
       "name": "Good enough",
       "url": "https://open.spotify.com/track/3tXTu7hcpy4clOR2VBVNUk"

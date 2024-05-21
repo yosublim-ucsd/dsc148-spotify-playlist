@@ -4742,7 +4742,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -5742,6 +5742,24 @@
       "duration_ms": 165918,
       "name": "QUE ME FALTE TODO",
       "url": "https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ"
+    },
+    {
+      "album": {
+        "name": "Que Se Pegue",
+        "url": "https://open.spotify.com/album/0hzUC0srK0ejnY6CFwkcOy"
+      },
+      "artists": [
+        {
+          "name": "Matt Sebastian",
+          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103753,
+      "name": "Que Se Pegue",
+      "url": "https://open.spotify.com/track/0VUbyFNvWYh4HC0wxeVAtE"
     },
     {
       "album": {
@@ -6876,7 +6894,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 181237,
       "name": "Tu gata pide cast1go",
       "url": "https://open.spotify.com/track/6fBJ4CA0qs2S0lSAqqjDMk"
@@ -7716,6 +7734,36 @@
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"
+    },
+    {
+      "album": {
+        "name": "Zodiaco",
+        "url": "https://open.spotify.com/album/7pbWV4PAw7qNMCLrJBnqb9"
+      },
+      "artists": [
+        {
+          "name": "Custom",
+          "url": "https://open.spotify.com/artist/0cZRCTXUF6Bn7r7LTl6f7x"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "La Exce",
+          "url": "https://open.spotify.com/artist/2RON3ZWvFVAHpiJA74KNHj"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240043,
+      "name": "Zodiaco",
+      "url": "https://open.spotify.com/track/3NrAgRyxGJ4wD4lIxspNjq"
     },
     {
       "album": {

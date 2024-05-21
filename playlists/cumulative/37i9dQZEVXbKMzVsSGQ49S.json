@@ -2608,7 +2608,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 78158,
       "name": "Badem Badem",
       "url": "https://open.spotify.com/track/1g2dzHp3GFy6ifkcyIrn95"
@@ -3428,7 +3428,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 298440,
       "name": "BITTERSUITE",
       "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
@@ -3904,7 +3904,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 141850,
       "name": "Booty (feat. Birnir)",
       "url": "https://open.spotify.com/track/5UGacH4Pevx2z4jmMrsmKA"
@@ -3944,7 +3944,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 103860,
       "name": "BOSSED UP",
       "url": "https://open.spotify.com/track/2phujKdfkzsl9mpT1iGuB0"
@@ -4556,7 +4556,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 123576,
       "name": "B\u00ed b\u00ed og blaka",
       "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
@@ -11154,7 +11154,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 125852,
       "name": "Frost er \u00fati fuglinn minn",
       "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
@@ -13554,7 +13554,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 131017,
       "name": "Hef Veri\u00f0 Verri",
       "url": "https://open.spotify.com/track/17ebLDWPOsruloZYxgEqm4"
@@ -17336,7 +17336,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 135533,
       "name": "Kenndu M\u00e9r A\u00f0 Elska",
       "url": "https://open.spotify.com/track/70xxfVebRuX3g6mvn7WeJ5"
@@ -21162,7 +21162,7 @@
       ],
       "date_added": "2024-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 181920,
       "name": "Mon amour",
       "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
@@ -21704,6 +21704,24 @@
       "duration_ms": 210841,
       "name": "Mr. Morale",
       "url": "https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5"
+    },
+    {
+      "album": {
+        "name": "Party Phonk",
+        "url": "https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 72646,
+      "name": "Murder in My Mind",
+      "url": "https://open.spotify.com/track/5DocsWsxIiw0BRR31xm43K"
     },
     {
       "album": {
@@ -23687,6 +23705,28 @@
     },
     {
       "album": {
+        "name": "Onde Que Tem uma Dessa?",
+        "url": "https://open.spotify.com/album/65p5gM7ZTOCZL41ktpd6A5"
+      },
+      "artists": [
+        {
+          "name": "Fabiano Henrique",
+          "url": "https://open.spotify.com/artist/6HVdQVEWZVpMNIp48n6A0r"
+        },
+        {
+          "name": "Luiz Henrique e Leo",
+          "url": "https://open.spotify.com/artist/33B3KPKVeM767cWl2qSatO"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156154,
+      "name": "Onde Que Tem uma Dessa?",
+      "url": "https://open.spotify.com/track/4MN8YrnIBT7WSdIIDF03cg"
+    },
+    {
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/2QK8nPSMDqX4GR9fbYhqpy"
       },
@@ -23946,6 +23986,24 @@
       "duration_ms": 95783,
       "name": "One Time",
       "url": "https://open.spotify.com/track/17MhO4CkAL6qWy6jxO9B6a"
+    },
+    {
+      "album": {
+        "name": "Party Phonk",
+        "url": "https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102191,
+      "name": "One Two or Three",
+      "url": "https://open.spotify.com/track/63FftzJqeSIMKSFDdKmuoZ"
     },
     {
       "album": {
@@ -24876,7 +24934,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -26809,6 +26867,24 @@
     },
     {
       "album": {
+        "name": "Rodovias Nacionais",
+        "url": "https://open.spotify.com/album/4T0gIqxjP0Q6R5vRKf2wbV"
+      },
+      "artists": [
+        {
+          "name": "Coleto e Gabriel",
+          "url": "https://open.spotify.com/artist/1aWUYbEUagrvYwbStbB2fx"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186218,
+      "name": "Rodovias Nacionais",
+      "url": "https://open.spotify.com/track/5AfzImVUeQ3AP6Qpqit7cl"
+    },
+    {
+      "album": {
         "name": "Rokkstjarna",
         "url": "https://open.spotify.com/album/1BbLt046FzFSiy5MyOD63K"
       },
@@ -26842,6 +26918,24 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/6IAZHEBUIGJ6NJKxxOBIEr"
+    },
+    {
+      "album": {
+        "name": "Party Phonk",
+        "url": "https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 83043,
+      "name": "Rolls or Doesn't Roll",
+      "url": "https://open.spotify.com/track/4rRHzQThzKXDVeu8r5nNO1"
     },
     {
       "album": {
@@ -32216,7 +32310,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 186346,
       "name": "THE DINER",
       "url": "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF"
@@ -33550,7 +33644,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 124285,
       "name": "T\u00fdpa",
       "url": "https://open.spotify.com/track/3Cs1ioqiCTBY3EyZfnrDrG"
@@ -35928,6 +36022,24 @@
       "duration_ms": 226413,
       "name": "Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",
       "url": "https://open.spotify.com/track/0r75DNlHu4recmKUdZeMfG"
+    },
+    {
+      "album": {
+        "name": "Party Phonk",
+        "url": "https://open.spotify.com/album/4tpFTM7Ywm5r77kxszPWck"
+      },
+      "artists": [
+        {
+          "name": "Rubby",
+          "url": "https://open.spotify.com/artist/58CkoIvSDda2jNRipPe4oT"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110262,
+      "name": "Witchcraft",
+      "url": "https://open.spotify.com/track/1veWLQ4qxNZ1I1tAsDkTn1"
     },
     {
       "album": {

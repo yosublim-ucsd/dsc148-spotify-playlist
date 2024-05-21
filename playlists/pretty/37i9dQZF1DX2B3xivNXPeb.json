@@ -1,6 +1,6 @@
 {
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
-  "num_followers": 42284,
+  "num_followers": 42287,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Miss Me Too",
-        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182064,
-      "name": "Miss Me Too",
-      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
+        "name": "Miss Me Too",
+        "url": "https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182064,
+      "name": "Miss Me Too",
+      "url": "https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Walk Like This",
-        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
-      },
-      "artists": [
-        {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "Walk Like This",
-      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
         "name": "Toro / Alone in Miami",
         "url": "https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 175666,
       "name": "Toro",
       "url": "https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
+        "name": "Walk Like This",
+        "url": "https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "Walk Like This",
+      "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "Dispose of Me",
+        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Dispose of Me",
+      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
       },
@@ -523,18 +539,18 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Dispose of Me",
-        "url": "https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX"
+        "name": "Keeping Me Under",
+        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Two Another",
+          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Dispose of Me",
-      "url": "https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS"
+      "duration_ms": 218926,
+      "name": "Keeping Me Under",
+      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -551,22 +567,6 @@
       "duration_ms": 152290,
       "name": "Vitamins",
       "url": "https://open.spotify.com/track/2fLDKaSvow0ciPW60ibLil"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
-        "name": "Keeping Me Under",
-        "url": "https://open.spotify.com/album/0pim63nTKBI42Cm7FVeCMu"
-      },
-      "artists": [
-        {
-          "name": "Two Another",
-          "url": "https://open.spotify.com/artist/35RvGPQ1OxbEZknWyiaAcs"
-        }
-      ],
-      "duration_ms": 218926,
-      "name": "Keeping Me Under",
-      "url": "https://open.spotify.com/track/79ZQoLroAAQYHM9sJ1kbGh"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "The Golden Years",
+        "url": "https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf"
+      },
+      "artists": [
+        {
+          "name": "Joshua Bassett",
+          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "The Golden Years",
+      "url": "https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "alone",
         "url": "https://open.spotify.com/album/29sXbgWHLAjGcshP5zHCpW"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 195862,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/6yp2xpP4aqgTpxzHdVid1M"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
-        "name": "The Golden Years",
-        "url": "https://open.spotify.com/album/2AkKL6l3tq1xzJxRLLJaHf"
-      },
-      "artists": [
-        {
-          "name": "Joshua Bassett",
-          "url": "https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "The Golden Years",
-      "url": "https://open.spotify.com/track/0WcVzqLvBKVOZ35ChOkwtT"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -731,6 +731,22 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "Kind Of Man",
+        "url": "https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        }
+      ],
+      "duration_ms": 255296,
+      "name": "Kind Of Man",
+      "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -779,6 +795,22 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "Aw, Shoot!",
+        "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 208439,
+      "name": "Aw, Shoot!",
+      "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "let go of me slowly",
         "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
       },
@@ -795,22 +827,6 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Kind Of Man",
-        "url": "https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 255296,
-      "name": "Kind Of Man",
-      "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 179666,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
-        "name": "Aw, Shoot!",
-        "url": "https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 208439,
-      "name": "Aw, Shoot!",
-      "url": "https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1023,6 +1023,26 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "Falling Into Place (ft. Debbie)",
+        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
+      },
+      "artists": [
+        {
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+        },
+        {
+          "name": "Debbie",
+          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Falling Into Place (ft. Debbie)",
+      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "Heavy Heavy",
         "url": "https://open.spotify.com/album/6CmlLROLOUJZnZ8QeCCpqD"
       },
@@ -1087,22 +1107,6 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "selfcare",
-        "url": "https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b"
-      },
-      "artists": [
-        {
-          "name": "Moncrieff",
-          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
-        }
-      ],
-      "duration_ms": 217200,
-      "name": "the sun is shining somewhere",
-      "url": "https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
         "name": "Giving It In",
         "url": "https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1"
       },
@@ -1115,6 +1119,22 @@
       "duration_ms": 200347,
       "name": "Giving It In",
       "url": "https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
+        "name": "selfcare",
+        "url": "https://open.spotify.com/album/2NXmQJoHa21xDPxtbrdu5b"
+      },
+      "artists": [
+        {
+          "name": "Moncrieff",
+          "url": "https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC"
+        }
+      ],
+      "duration_ms": 217200,
+      "name": "the sun is shining somewhere",
+      "url": "https://open.spotify.com/track/0MIO8GZ6qHBWqzIWVXp7RN"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1135,22 +1155,18 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Falling Into Place (ft. Debbie)",
-        "url": "https://open.spotify.com/album/6sENhdUvrgQR2wX3YTA5Ed"
+        "name": "BOYS",
+        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
       },
       "artists": [
         {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        },
-        {
-          "name": "Debbie",
-          "url": "https://open.spotify.com/artist/36qFUmqGdV8FYYhXIDhc17"
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Falling Into Place (ft. Debbie)",
-      "url": "https://open.spotify.com/track/6Q5Tzu7kSzLjVHVAWwnT0N"
+      "duration_ms": 145742,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1215,22 +1231,6 @@
       "duration_ms": 200680,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/0CxVnKu6PG6tYTGVtSD8UU"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
-        "name": "BOYS",
-        "url": "https://open.spotify.com/album/3ar9EPv1ddMgvDnOCONH15"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 145742,
-      "name": "BOYS",
-      "url": "https://open.spotify.com/track/1U0UUDLyBN8ENq3gjNJq6S"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "Gonna Be Okay",
-        "url": "https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66"
+        "name": "HERO",
+        "url": "https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL"
       },
       "artists": [
         {
-          "name": "JERUB",
-          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
         }
       ],
-      "duration_ms": 202170,
-      "name": "Gonna Be Okay",
-      "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
+      "duration_ms": 238614,
+      "name": "HERO",
+      "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
+        "name": "Gonna Be Okay",
+        "url": "https://open.spotify.com/album/6GC3ZIeCB96n7UCRoaqK66"
+      },
+      "artists": [
+        {
+          "name": "JERUB",
+          "url": "https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd"
+        }
+      ],
+      "duration_ms": 202170,
+      "name": "Gonna Be Okay",
+      "url": "https://open.spotify.com/track/3fxawBiMArwkgB7pljKAw4"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
         "name": "Sitting Pretty EP",
         "url": "https://open.spotify.com/album/6KttlTVbiEPCOdUIEznLq5"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 205172,
       "name": "The Shade",
       "url": "https://open.spotify.com/track/56k85b4i4XlccTAndrvE72"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
-        "name": "HERO",
-        "url": "https://open.spotify.com/album/3VqYEAjG9bMRh0WT6Yc4hL"
-      },
-      "artists": [
-        {
-          "name": "Kaeto",
-          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
-        }
-      ],
-      "duration_ms": 238614,
-      "name": "HERO",
-      "url": "https://open.spotify.com/track/2gjEdzgJMgVaZBdRuIRVW5"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1495,6 +1495,22 @@
       "duration_ms": 216150,
       "name": "Katata",
       "url": "https://open.spotify.com/track/38e0QxmoRqsBQr6Y4TwMHp"
+    },
+    {
+      "added_at": "2024-05-17 11:44:37",
+      "album": {
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/3Lj7kvwaqdVKIKQMAOW5NX"
+      },
+      "artists": [
+        {
+          "name": "Arthur Hill",
+          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
+        }
+      ],
+      "duration_ms": 160536,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/4kXCN5ZhRSPTm1DZOhfZyf"
     },
     {
       "added_at": "2024-05-17 11:44:37",
@@ -1563,22 +1579,6 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/3Lj7kvwaqdVKIKQMAOW5NX"
-      },
-      "artists": [
-        {
-          "name": "Arthur Hill",
-          "url": "https://open.spotify.com/artist/6Fe2C2iHDbs3yoKRvtVtdg"
-        }
-      ],
-      "duration_ms": 160536,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/4kXCN5ZhRSPTm1DZOhfZyf"
-    },
-    {
-      "added_at": "2024-05-17 11:44:37",
-      "album": {
         "name": "Burning Up",
         "url": "https://open.spotify.com/album/2O7lCJJPHzaX5yUh9ccOvx"
       },
@@ -1627,22 +1627,18 @@
     {
       "added_at": "2024-05-17 11:44:37",
       "album": {
-        "name": "The Hardest Part",
-        "url": "https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI"
+        "name": "downtime",
+        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
       },
       "artists": [
         {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+          "name": "TYLER LEWIS",
+          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
         }
       ],
-      "duration_ms": 176048,
-      "name": "The Hardest Part (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/5Me4zF8CC68wmkZyI5rFDR"
+      "duration_ms": 192336,
+      "name": "downtime",
+      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
     }
   ],
   "unique_name": "Your Kitchen Stereo",

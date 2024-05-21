@@ -1,32 +1,108 @@
 {
   "description": "Nh\u01b0 thanh long trong m\u00ec t\u00f4m, \u0111\u00e2y l\u00e0 nh\u1eefng \ud83c\udfb6 c\u00f3 th\u1ec3 l\u1ea7n \u0111\u1ea7u nghe \u0111\u1ebfn. \u1ea2nh b\u00eca: Em Ellata ",
-  "num_followers": 22766,
+  "num_followers": 22773,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zkf8jAAAAABZS2gKNjgGLnrVLlAFeuVS",
+  "snapshot_id": "Zkq/lQAAAAC7zYUr7XagZShaMRyYbPQH",
   "tracks": [
     {
       "added_at": "2024-05-18 00:55:39",
       "album": {
-        "name": "tr\u00f2 ch\u01a1i \u0111\u00e0o v\u00e0ng",
-        "url": "https://open.spotify.com/album/5vlSqeoiwTESY5APNaUoy8"
+        "name": "Rainy Day",
+        "url": "https://open.spotify.com/album/1jV8m82t4ybR5jHyjHys7C"
       },
       "artists": [
         {
-          "name": "iMAZE",
-          "url": "https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU"
+          "name": "QUYNH",
+          "url": "https://open.spotify.com/artist/5HVhynFWNGRxwdMYWUggrf"
         },
         {
-          "name": "DK",
-          "url": "https://open.spotify.com/artist/5LJcS446vkuxxJHzKTxbWP"
+          "name": "Fous",
+          "url": "https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH"
         }
       ],
-      "duration_ms": 189493,
-      "name": "tr\u00f2 ch\u01a1i \u0111\u00e0o v\u00e0ng",
-      "url": "https://open.spotify.com/track/3p5ViAMTT4JH4CAvkgbCbG"
+      "duration_ms": 186666,
+      "name": "Rainy Day",
+      "url": "https://open.spotify.com/track/0byB89KKO0W9FNX0AHynon"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
+        "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
+        "url": "https://open.spotify.com/album/0d5d4qUuA0Glw25a65V9jj"
+      },
+      "artists": [
+        {
+          "name": "NIT",
+          "url": "https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7"
+        },
+        {
+          "name": "Sing",
+          "url": "https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29"
+        }
+      ],
+      "duration_ms": 243692,
+      "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
+      "url": "https://open.spotify.com/track/0PcydKNpMjC1Yygy6CdQhr"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
+        "name": "Forget Me Now",
+        "url": "https://open.spotify.com/album/4v4Gusg7qH9mjehEXjbdlk"
+      },
+      "artists": [
+        {
+          "name": "Fishy",
+          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
+        },
+        {
+          "name": "Tr\u00ed D\u0169ng",
+          "url": "https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "Forget Me Now",
+      "url": "https://open.spotify.com/track/12DNdwLD9oZOPADqM10oyE"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
+        "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+        "url": "https://open.spotify.com/album/7wOolBP1mfgb26u9YqC5Y9"
+      },
+      "artists": [
+        {
+          "name": "Em Ellata",
+          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Ng\u00e0y \u1ea5y (Yesterday)",
+      "url": "https://open.spotify.com/track/1vshOAKaZpnnrJF9QvcKd1"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
+        "name": "Khi N\u00e0o Em C\u00f3 Th\u1ec3",
+        "url": "https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH"
+      },
+      "artists": [
+        {
+          "name": "Thi\u00ean Thanh Azura",
+          "url": "https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT"
+        },
+        {
+          "name": "Czee",
+          "url": "https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd"
+        }
+      ],
+      "duration_ms": 226363,
+      "name": "Khi N\u00e0o Em C\u00f3 Th\u1ec3",
+      "url": "https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG"
     },
     {
       "added_at": "2024-05-18 00:55:39",
@@ -71,6 +147,26 @@
     {
       "added_at": "2024-05-18 00:55:39",
       "album": {
+        "name": "tr\u00f2 ch\u01a1i \u0111\u00e0o v\u00e0ng",
+        "url": "https://open.spotify.com/album/5vlSqeoiwTESY5APNaUoy8"
+      },
+      "artists": [
+        {
+          "name": "iMAZE",
+          "url": "https://open.spotify.com/artist/17QbIxGorCQnxk26pvqESU"
+        },
+        {
+          "name": "DK",
+          "url": "https://open.spotify.com/artist/5LJcS446vkuxxJHzKTxbWP"
+        }
+      ],
+      "duration_ms": 189493,
+      "name": "tr\u00f2 ch\u01a1i \u0111\u00e0o v\u00e0ng",
+      "url": "https://open.spotify.com/track/3p5ViAMTT4JH4CAvkgbCbG"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
         "name": "be happy",
         "url": "https://open.spotify.com/album/1TeSuR9jFf1f4IqGP2al7l"
       },
@@ -83,42 +179,6 @@
       "duration_ms": 255371,
       "name": "C\u00f3 kh\u00f3c c\u0169ng th\u1ebf th\u00f4i",
       "url": "https://open.spotify.com/track/0n26s8WYudluDmczIfSg7O"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
-        "name": "Ng\u00e0y \u1ea5y (Yesterday)",
-        "url": "https://open.spotify.com/album/7wOolBP1mfgb26u9YqC5Y9"
-      },
-      "artists": [
-        {
-          "name": "Em Ellata",
-          "url": "https://open.spotify.com/artist/2gHZhGddcfiD6ASs7pK1iD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Ng\u00e0y \u1ea5y (Yesterday)",
-      "url": "https://open.spotify.com/track/1vshOAKaZpnnrJF9QvcKd1"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
-        "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
-        "url": "https://open.spotify.com/album/0d5d4qUuA0Glw25a65V9jj"
-      },
-      "artists": [
-        {
-          "name": "NIT",
-          "url": "https://open.spotify.com/artist/1MTANbmLhUqJXlLuqADGE7"
-        },
-        {
-          "name": "Sing",
-          "url": "https://open.spotify.com/artist/79RTt4imwk0NaxS5lCnm29"
-        }
-      ],
-      "duration_ms": 243692,
-      "name": "\u00d4m em l\u1ea7n cu\u1ed1i",
-      "url": "https://open.spotify.com/track/0PcydKNpMjC1Yygy6CdQhr"
     },
     {
       "added_at": "2024-05-18 00:55:39",
@@ -139,6 +199,22 @@
       "duration_ms": 108235,
       "name": "t\u00e2m",
       "url": "https://open.spotify.com/track/2YkWEClnZUYazZxq6GQ8OT"
+    },
+    {
+      "added_at": "2024-05-18 00:55:39",
+      "album": {
+        "name": "v\u1ebft th\u01b0\u01a1ng",
+        "url": "https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF"
+      },
+      "artists": [
+        {
+          "name": "Fishy",
+          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
+        }
+      ],
+      "duration_ms": 261694,
+      "name": "v\u1ebft th\u01b0\u01a1ng",
+      "url": "https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh"
     },
     {
       "added_at": "2024-05-18 00:55:39",
@@ -323,26 +399,6 @@
     {
       "added_at": "2024-05-18 00:55:39",
       "album": {
-        "name": "Forget Me Now",
-        "url": "https://open.spotify.com/album/4v4Gusg7qH9mjehEXjbdlk"
-      },
-      "artists": [
-        {
-          "name": "Fishy",
-          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
-        },
-        {
-          "name": "Tr\u00ed D\u0169ng",
-          "url": "https://open.spotify.com/artist/3vrLtReLclPLq5VvCAxCik"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "Forget Me Now",
-      "url": "https://open.spotify.com/track/12DNdwLD9oZOPADqM10oyE"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
         "name": "T\u1eeb V\u1ef1c Th\u1eb3m \u0110\u1ebfn R\u00eca \u00c1nh S\u00e1ng",
         "url": "https://open.spotify.com/album/3Q4TNeqYmFXNPItKvzYi8Z"
       },
@@ -395,22 +451,6 @@
       "duration_ms": 224117,
       "name": "Y\u00eau Em 2 Ng\u00e0y",
       "url": "https://open.spotify.com/track/23ep27rDA9gklIzuJ6qzRD"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
-        "name": "v\u1ebft th\u01b0\u01a1ng",
-        "url": "https://open.spotify.com/album/3bsr3IV4aD34ADHC1qSrEF"
-      },
-      "artists": [
-        {
-          "name": "Fishy",
-          "url": "https://open.spotify.com/artist/7kSmS2G15QIw8rllwGex9r"
-        }
-      ],
-      "duration_ms": 261694,
-      "name": "v\u1ebft th\u01b0\u01a1ng",
-      "url": "https://open.spotify.com/track/4lVSQKOrx0KLeKJEPCKkJh"
     },
     {
       "added_at": "2024-05-18 00:55:39",
@@ -715,26 +755,6 @@
       "duration_ms": 251058,
       "name": "\u0110i\u1ec3m Giao Cu\u1ed1i",
       "url": "https://open.spotify.com/track/7jps4UzACj1VAySbMacgxG"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/1jV8m82t4ybR5jHyjHys7C"
-      },
-      "artists": [
-        {
-          "name": "QUYNH",
-          "url": "https://open.spotify.com/artist/5HVhynFWNGRxwdMYWUggrf"
-        },
-        {
-          "name": "Fous",
-          "url": "https://open.spotify.com/artist/2l6JnuA4jf2M5OTxmrEdAH"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/0byB89KKO0W9FNX0AHynon"
     },
     {
       "added_at": "2024-05-18 00:55:39",
@@ -1547,26 +1567,6 @@
       "duration_ms": 227722,
       "name": "H\u00f4n Anh M\u1ed7i L\u00fac \u0110\u00f4i M\u00ecnh G\u1eb7p",
       "url": "https://open.spotify.com/track/2PxG0Q5ANvpc87tp34TdP7"
-    },
-    {
-      "added_at": "2024-05-18 00:55:39",
-      "album": {
-        "name": "Khi N\u00e0o Em C\u00f3 Th\u1ec3",
-        "url": "https://open.spotify.com/album/0fOxEtZ1TJvZIC2bf6aXdH"
-      },
-      "artists": [
-        {
-          "name": "Thi\u00ean Thanh Azura",
-          "url": "https://open.spotify.com/artist/5JdusihgVMCGKFSzNMMgvT"
-        },
-        {
-          "name": "Czee",
-          "url": "https://open.spotify.com/artist/66sk3xFjXQ2dTL9fl2npjd"
-        }
-      ],
-      "duration_ms": 226363,
-      "name": "Khi N\u00e0o Em C\u00f3 Th\u1ec3",
-      "url": "https://open.spotify.com/track/0DsQGKfc4neTG60Ssz2zYG"
     },
     {
       "added_at": "2024-05-18 00:55:39",

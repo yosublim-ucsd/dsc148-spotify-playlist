@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Jay Bahd and Sarkodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,198 likes - 85 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,226 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

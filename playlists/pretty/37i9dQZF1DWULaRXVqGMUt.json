@@ -1,6 +1,6 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 49741,
+  "num_followers": 49780,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Boogie Woogie Kid",
-        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
-      },
-      "artists": [
-        {
-          "name": "Boogie Woogie Kid",
-          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
-        }
-      ],
-      "duration_ms": 194240,
-      "name": "Five Stacked High",
-      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Boogie Woogie Kid",
+        "url": "https://open.spotify.com/album/75eBMldAcmKfU9eG1xGt3D"
+      },
+      "artists": [
+        {
+          "name": "Boogie Woogie Kid",
+          "url": "https://open.spotify.com/artist/16nuTsEMbWC2k0n9NqScVq"
+        }
+      ],
+      "duration_ms": 194240,
+      "name": "Five Stacked High",
+      "url": "https://open.spotify.com/track/5twww42JxZBcLVGl4hEqrv"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -831,22 +831,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Boogie Woogie Trio vol. 1",
-        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
+        "name": "Omniboogie 2012",
+        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
       },
       "artists": [
         {
-          "name": "Meade \"Lux\" Lewis",
-          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
-        },
-        {
-          "name": "Albert Ammons",
-          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
+          "name": "Rob Rio",
+          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
         }
       ],
-      "duration_ms": 125320,
-      "name": "Boogie Woogie Prayer",
-      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
+      "duration_ms": 115582,
+      "name": "Quarter Bass Boogie",
+      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -867,18 +863,22 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Omniboogie 2012",
-        "url": "https://open.spotify.com/album/1bBRpZe4PqttwkbF5SiOF9"
+        "name": "The Boogie Woogie Trio vol. 1",
+        "url": "https://open.spotify.com/album/29wh8IMllHXTzAodyFTwh8"
       },
       "artists": [
         {
-          "name": "Rob Rio",
-          "url": "https://open.spotify.com/artist/5M5IKdQXLYVpdYnJ2Mi54K"
+          "name": "Meade \"Lux\" Lewis",
+          "url": "https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0"
+        },
+        {
+          "name": "Albert Ammons",
+          "url": "https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN"
         }
       ],
-      "duration_ms": 115582,
-      "name": "Quarter Bass Boogie",
-      "url": "https://open.spotify.com/track/6mXPBUCMi7iN58y31PUMet"
+      "duration_ms": 125320,
+      "name": "Boogie Woogie Prayer",
+      "url": "https://open.spotify.com/track/32NH2MiFSmk6DXnvUTk1nu"
     },
     {
       "added_at": "2023-09-15 11:42:58",

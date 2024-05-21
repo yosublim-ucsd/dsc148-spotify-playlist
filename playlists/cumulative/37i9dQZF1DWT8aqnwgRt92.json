@@ -3946,7 +3946,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 318320,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
@@ -23114,6 +23114,28 @@
       "duration_ms": 275680,
       "name": "\u6c34\u93e1\u306e\u4e16\u754c",
       "url": "https://open.spotify.com/track/7LWbBngfReWleCxhqFUjsM"
+    },
+    {
+      "album": {
+        "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+        "url": "https://open.spotify.com/album/0iavoiplUxtsNRRcSoDJ5a"
+      },
+      "artists": [
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        },
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261497,
+      "name": "\u6c38\u4e45 -\u30c8\u30b3\u30b7\u30a8-",
+      "url": "https://open.spotify.com/track/4sWlVvuOg0lzDkC56lWrbg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,582,997 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,583,062 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 | 30 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 |
 | 31 | [Mercy](https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8) | [Jauz](https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Mercy](https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e) | 3:10 |
 | 32 | [Blue Mile](https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0) | [Of The Trees](https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR), [Strategy](https://open.spotify.com/artist/0lFrpd2SX8SmwUr07I4GE3) | [Blue Mile](https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9) | 3:32 |
-| 33 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 |
-| 34 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 33 | [Ground Shake](https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [Ground Shake](https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud) | 3:05 |
+| 34 | [ACID](https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2) | [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa) | [ACID](https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9) | 2:58 |
 | 35 | [Mind Pluck](https://open.spotify.com/track/3W9xukFv9kGLkLbEe2YITe) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [Mind Pluck](https://open.spotify.com/album/2aS0GPy3F7noLvi1kgWEMz) | 4:30 |
 | 36 | [Gassed Up](https://open.spotify.com/track/6uwjDA0Qi6hk8C6lPJIMc9) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Gassed Up](https://open.spotify.com/album/4YOvPn7L8K4jgklVsA697b) | 3:58 |
 | 37 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 |

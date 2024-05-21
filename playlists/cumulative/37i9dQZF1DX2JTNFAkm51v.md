@@ -4,7 +4,7 @@
 
 > 5/25・26に開催「<a href="https://kobe\-mellow\-cruise.com/">KOBE MELLOW CRUISE</a>」出演アーティストを特集！音楽とカルチャーを極上の空間を堪能できる音楽フェス。
 
-299 songs - 16 hr 56 min
+300 songs - 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,6 +291,7 @@
 | [バグり feat\. MonyHorse](https://open.spotify.com/track/2JA1cAHINDqnwZKJb4GYwR) | [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [DISTORTION](https://open.spotify.com/album/2nKHK0XJNGksRIFK4xnaBI) | 1:46 | 2023-05-25 | 2024-04-09 |
 | [ホンキ!](https://open.spotify.com/track/6V92HGLH5tzpaHlNk4KKBZ) | [Young Coco](https://open.spotify.com/artist/69392PoCHBv32GuUOrurm6) | [NOT REGULAR \(Deluxe\)](https://open.spotify.com/album/7ksBjZZVaxgrvTzUhFdacV) | 2:46 | 2024-04-08 |  |
 | [マジックアワー](https://open.spotify.com/track/5faiz7Vs6OVJOGaHizHd63) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [RYO\-Z](https://open.spotify.com/artist/4sAapCy25wlBnkilgKmtgK) | [マジックアワー](https://open.spotify.com/album/4R7Zi3lZPQxyLTIrmdysS3) | 3:39 | 2023-05-25 | 2024-04-09 |
+| [不幸中の幸い](https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S) | [YENTOWN](https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe), [kZm](https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4), [PETZ](https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT), [JNKMN](https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD), [U\-LEE](https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf) | [不幸中の幸い](https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076) | 4:16 | 2024-05-20 |  |
 | [二つ目の家族](https://open.spotify.com/track/2CC3bCR509Y59FQLoOkwDf) | [Kvi Baba](https://open.spotify.com/artist/5VxQzcVrakID2E4UxaDPNs) | [Jesus Loves You](https://open.spotify.com/album/0MmKSrbOnVxqUga9R0MAH3) | 3:30 | 2023-05-25 | 2024-04-09 |
 | [共に行こう \- CDS Version Pure 2021](https://open.spotify.com/track/19hAU9PA2Z82NHLvhobN2q) | [Shakkazombie](https://open.spotify.com/artist/4k8EGKTPWLYgwsLiEDi9kI), [VaVa](https://open.spotify.com/artist/5JlRv2tBZk1f4c7UULHkUY), [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG), [in\-d](https://open.spotify.com/artist/53Mz6ePoXI88zSbdiRavSo) | [BIG\-O DA ULTIMATE](https://open.spotify.com/album/2McitEPPQZyc8JDjA48xts) | 4:31 | 2023-05-25 | 2024-04-09 |
 | [口に出して](https://open.spotify.com/track/1UdjE9FFFxkG6yTczLzdVA) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [Queendom](https://open.spotify.com/album/4jj5K8UuV6fBOHj4nOCOON) | 2:25 | 2023-05-25 | 2024-04-09 |

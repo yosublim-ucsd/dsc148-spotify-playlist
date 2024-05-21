@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60901,
+  "num_followers": 60920,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Clearly",
-        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
-      },
-      "artists": [
-        {
-          "name": "Hillside Recording",
-          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
-        }
-      ],
-      "duration_ms": 223486,
-      "name": "Clearly",
-      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Perfect Peace",
         "url": "https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 260799,
       "name": "Perfect Peace",
       "url": "https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Clearly",
+        "url": "https://open.spotify.com/album/4Q95eBuOjZfZWUXzurYl8u"
+      },
+      "artists": [
+        {
+          "name": "Hillside Recording",
+          "url": "https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN"
+        }
+      ],
+      "duration_ms": 223486,
+      "name": "Clearly",
+      "url": "https://open.spotify.com/track/4hjtTg7x0FqTXGnSCZn4wo"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
-      },
-      "artists": [
-        {
-          "name": "NONAH",
-          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Holy, Holy, Holy",
         "url": "https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 146400,
       "name": "Holy, Holy, Holy",
       "url": "https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/21kxczu3QQWSkJ8imKBHcH"
+      },
+      "artists": [
+        {
+          "name": "NONAH",
+          "url": "https://open.spotify.com/artist/76SJxLztAMHPMieGTNZPeI"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/69HLrdOQMAseHsTTmklKob"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "All the Bright Lights",
-        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
-      },
-      "artists": [
-        {
-          "name": "All The Bright Lights",
-          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Wilora Lake",
-      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 224173,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "All the Bright Lights",
+        "url": "https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7"
+      },
+      "artists": [
+        {
+          "name": "All The Bright Lights",
+          "url": "https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Wilora Lake",
+      "url": "https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "The Grunewald Church Session",
-        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Selke",
-          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
-        },
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 418995,
-      "name": "Without Shelter",
-      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "The Worship Initiative, Vol. 28 (Live)",
         "url": "https://open.spotify.com/album/0ZZmifZBvaePH3OVWJlnI0"
       },
@@ -931,22 +911,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "What You Paid For",
-        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
+        "name": "The Grunewald Church Session",
+        "url": "https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY"
       },
       "artists": [
         {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+          "name": "Sebastian Selke",
+          "url": "https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui"
         },
         {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
         }
       ],
-      "duration_ms": 249608,
-      "name": "What You Paid For",
-      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
+      "duration_ms": 418995,
+      "name": "Without Shelter",
+      "url": "https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -991,6 +971,26 @@
       "duration_ms": 338504,
       "name": "Peace",
       "url": "https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "What You Paid For",
+        "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
+      },
+      "artists": [
+        {
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
+        }
+      ],
+      "duration_ms": 249608,
+      "name": "What You Paid For",
+      "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
     },
     {
       "added_at": "2023-07-28 04:02:00",

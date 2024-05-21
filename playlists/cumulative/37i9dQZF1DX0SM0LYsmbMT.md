@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,127 songs - 6 day 13 hr 38 min
+4,128 songs - 6 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2431,6 +2431,7 @@
 | [Night and Day](https://open.spotify.com/track/5N1oNPYPdXSzKZjpJo6p1e) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Night and Day](https://open.spotify.com/album/18m0PS1nmLfqp35jyacnoU) | 2:21 | 2021-07-31 | 2021-08-27 |
 | [Night Breeze](https://open.spotify.com/track/5f4HYZ84PQSY8dR3gXZBa8) | [Mix.audio](https://open.spotify.com/artist/10As1xjKvuuVfVOaqrMLxx), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL) | [Night Breeze](https://open.spotify.com/album/1aHBrix9Dtl1hf64LA1QKK) | 2:07 | 2024-05-16 |  |
 | [Night Café](https://open.spotify.com/track/5zzWvp5bQjPfbaPV2azsvO) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Night Café](https://open.spotify.com/album/02hUz7CPTT9IaYMeOUh15k) | 2:46 | 2021-11-12 | 2022-10-22 |
+| [Night Call](https://open.spotify.com/track/72J5zGOpsoCmnRmUw7Gi8D) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Gabiga](https://open.spotify.com/artist/7KmiBNHemPsEwpLvRXHvQg) | [Night Call](https://open.spotify.com/album/7lu7rvDp9axj7MI0g83NRm) | 2:22 | 2024-05-16 |  |
 | [Night City](https://open.spotify.com/track/3iZUscoD5yv68jsAzwmski) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Night City](https://open.spotify.com/album/7v8JoqCobvD439LjOpEzpG) | 2:50 | 2021-11-12 | 2021-12-17 |
 | [Night Clbs](https://open.spotify.com/track/7w1SKq3NgYyw9wE8l7E2cJ) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su) | [Night Clbs / Sleep Till Noon](https://open.spotify.com/album/3VPTtPfVHhJwBzY1J1QuP2) | 2:27 | 2022-06-30 | 2022-11-20 |
 | [Night Clbs](https://open.spotify.com/track/2Y0ULwGcRks4FGYWChlOmi) | [Twit One](https://open.spotify.com/artist/38OPqGlHHCPAsL87VM10Su), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [In A Dream There Is No Frame](https://open.spotify.com/album/4ofQYajuoLEt09baUzU7t0) | 2:27 | 2022-11-17 | 2023-02-24 |
@@ -3851,7 +3852,7 @@
 | [Vibe Tribe](https://open.spotify.com/track/13ub3uDcsh7mqolvP2cTSc) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Vibe Central](https://open.spotify.com/album/2kUiNABc0dXtIuuf9kDQnA) | 4:29 | 2019-06-29 | 2019-10-25 |
 | [vibe with me](https://open.spotify.com/track/6iJaqvWa15ID6jihfVmcBs) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [vibe with me \- EP](https://open.spotify.com/album/7xSoFqE9fPKAyGBoUnPsAE) | 1:22 | 2019-07-30 | 2020-01-17 |
 | [Viberian Waves \- Pt\. 1](https://open.spotify.com/track/01b4RZH3mxKwJvIRIkpEMN) | [Jneiro Jarel](https://open.spotify.com/artist/2EDnVAZ8Ha0eOeMtMinniB), [Capitol Peoples](https://open.spotify.com/artist/07cUcW2lEvBZSFE7wmVgaQ) | [Viberian Waves \(Pt\. 1 & 2\)](https://open.spotify.com/album/45cKJbgPSFx7AZupJkT6ni) | 3:20 | 2020-09-11 | 2020-11-07 |
-| [Vibert \- instrumental](https://open.spotify.com/track/0YS1jdj5CkwqynNU0SOdnd) | [GERDA](https://open.spotify.com/artist/2R8vGXr6HRz8x5Mi7VaEuB) | [Believe in Gerda \(Instrumentals\) \[instrumental\]](https://open.spotify.com/album/1UHFY9olzmbQUPRCPWmsvN) | 2:12 | 2024-05-16 |  |
+| [Vibert \- instrumental](https://open.spotify.com/track/0YS1jdj5CkwqynNU0SOdnd) | [GERDA](https://open.spotify.com/artist/2R8vGXr6HRz8x5Mi7VaEuB) | [Believe in Gerda \(Instrumentals\) \[instrumental\]](https://open.spotify.com/album/1UHFY9olzmbQUPRCPWmsvN) | 2:12 | 2024-05-16 | 2024-05-21 |
 | [Vibez Only](https://open.spotify.com/track/7KTWswOLuRYpLnskL4ZcDo) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Vibez Only](https://open.spotify.com/album/2tKxvCqHRXo1AhbRMv3yz3) | 1:33 | 2023-02-09 | 2023-04-07 |
 | [Vibin in Сafé](https://open.spotify.com/track/5l9ZOrthFs1MMp0ofZH4bt) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Inownlove](https://open.spotify.com/artist/7FTUo9SJBOrIWJaRLwEL8p), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Vibin in Сafé](https://open.spotify.com/album/0pJVPtKmF9UOSaUETmgsnH) | 2:41 | 2021-04-02 | 2021-05-28 |
 | [Vibin' Out](https://open.spotify.com/track/6xZWNYuoNPDOJnH8ez4Ydc) | [Ruck P](https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn) | [Vibin' Out](https://open.spotify.com/album/06bL2kFakeshz1Kii4lDl4) | 3:47 | 2019-05-26\* | 2020-02-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 14062,
+  "num_followers": 14066,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADT3bWZiTkRKgg4ZeKlJa20",
+  "snapshot_id": "ZklBAAAAAAANuv8oY9i5xHEDF43tPsvv",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 231920,
-      "name": "Ganja Farmer",
-      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
+      "duration_ms": 230086,
+      "name": "Lifetime Lover",
+      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
     },
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 230086,
-      "name": "Lifetime Lover",
-      "url": "https://open.spotify.com/track/3mm6WxGLfv4RfnTgTP0mYI"
+      "duration_ms": 231920,
+      "name": "Ganja Farmer",
+      "url": "https://open.spotify.com/track/1VPnps7LuU2ryN2fQrmsfA"
     },
     {
       "added_at": null,
@@ -714,11 +714,15 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -732,9 +736,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 192740,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S"
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
     },
     {
       "added_at": null,
@@ -782,15 +786,11 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
+      "duration_ms": 192740,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S"
     },
     {
       "added_at": null,
@@ -855,22 +855,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just You & Me",
-        "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
+        "name": "We Remember Gregory Isaacs",
+        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
       },
       "artists": [
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
-        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 205254,
-      "name": "Just You & Me (with J Boog)",
-      "url": "https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q"
+      "duration_ms": 251693,
+      "name": "Cool Down The Pace",
+      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
     },
     {
       "added_at": null,
@@ -891,18 +887,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Remember Gregory Isaacs",
-        "url": "https://open.spotify.com/album/5qx0HddioFaXTSTykAG6nu"
+        "name": "Just You & Me",
+        "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
       },
       "artists": [
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        },
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 251693,
-      "name": "Cool Down The Pace",
-      "url": "https://open.spotify.com/track/48vVcRVvJxD5zB0ODldx2C"
+      "duration_ms": 205254,
+      "name": "Just You & Me (with J Boog)",
+      "url": "https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q"
     },
     {
       "added_at": null,

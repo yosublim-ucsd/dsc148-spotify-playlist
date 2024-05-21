@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: imase \*👉 <a href="https://spice.eplus.jp/articles/328748?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,508 likes - 87 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,537 likes - 87 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 42 | [Forgive me not](https://open.spotify.com/track/4Jd2fg1Ie08f5YJXHfatba) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [Forgive me not](https://open.spotify.com/album/7uH4Egzy7FHDR6lGHV6NRH) | 2:58 |
 | 43 | [少年ジャンボリー](https://open.spotify.com/track/6OpiiJnYXs5Sva4l4Nesrx) | [岡村和義](https://open.spotify.com/artist/3oT5qA1VxfGwrTWpFnI9kC), [Yasuyuki Okamura](https://open.spotify.com/artist/6ZaIdsp9xfWC1QJlxR1TBL), [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [少年ジャンボリー](https://open.spotify.com/album/066yhFAK3U4gbrmy1ZrQUZ) | 4:18 |
 | 44 | [安物](https://open.spotify.com/track/0tW5BkdjYAKR3OkutDdznU) | [YUJI NAKADA](https://open.spotify.com/artist/7Kbz6xbASLAYT072Z3ZRCS) | [ARCHAIC SMILE](https://open.spotify.com/album/2HODEfMi0jvveAY8nCoRfQ) | 3:50 |
-| 45 | [はだかのピエロ](https://open.spotify.com/track/5n8B6kkQiQxA4mZAtZ2wXm) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [『まなざし』 ～羊毛とおはなトリビュート～](https://open.spotify.com/album/3ulQkh3QCuLs4lNbPuwYHq) | 5:42 |
+| 45 | [はだかのピエロ](https://open.spotify.com/track/5n8B6kkQiQxA4mZAtZ2wXm) | [YUI](https://open.spotify.com/artist/3YOQiVsuddjx1oXVLmFPR5) | [『まなざし』 ～羊毛とおはなトリビュート～](https://open.spotify.com/album/3ulQkh3QCuLs4lNbPuwYHq) | 5:42 |
 | 46 | [火をつけろ](https://open.spotify.com/track/4HkYOprD8jhVK12Mp1CYyH) | [NakamuraEmi](https://open.spotify.com/artist/7eX8mTJPAukkgwgRvwrgFC) | [火をつけろ / 晴るく / 白昼夢 / 一目惚れ / 究極の休日](https://open.spotify.com/album/2S95X7XlFMWYBeZ2sVpiTF) | 4:05 |
 | 47 | [Lust](https://open.spotify.com/track/30UgE65HXStQABj9jeegiI) | [RiE MORRiS](https://open.spotify.com/artist/6MjrwCzODvPrFK6grutJB0) | [Lust](https://open.spotify.com/album/7ldvNTckcica1abzKdx0ed) | 2:37 |
 | 48 | [GET THE GLORY](https://open.spotify.com/track/1FBNvjCrZsNqeCVxse8X4a) | [オレンジスパイニクラブ](https://open.spotify.com/artist/1wJL6nbdvPwqPYuoqiw5aN) | [GET THE GLORY](https://open.spotify.com/album/0pC8JTW7sqnxYYm7rWHnNL) | 2:59 |

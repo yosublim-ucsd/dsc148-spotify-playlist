@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 487232,
+  "num_followers": 487396,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-05-10 15:25:47",
       "album": {
-        "name": "Diana (You Don't Even Know)",
-        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 204878,
-      "name": "Diana (You Don't Even Know)",
-      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
-    },
-    {
-      "added_at": "2024-05-10 15:25:47",
-      "album": {
         "name": "Dusk",
         "url": "https://open.spotify.com/album/2gwNU1WsZEOcCSyKHsXKs5"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 229743,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4qEEERg5kM60N2vcna11oq"
+    },
+    {
+      "added_at": "2024-05-10 15:25:47",
+      "album": {
+        "name": "Diana (You Don't Even Know)",
+        "url": "https://open.spotify.com/album/2FR8tMHuRmAqxrZChfSyZI"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 204878,
+      "name": "Diana (You Don't Even Know)",
+      "url": "https://open.spotify.com/track/2j8aMIzFC5QhzyMOx7Sbj6"
     }
   ],
   "unique_name": "Serotonin",

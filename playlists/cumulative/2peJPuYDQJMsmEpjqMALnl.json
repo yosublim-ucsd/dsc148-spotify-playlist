@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go-Go's and many many more!",
-  "name": "80s Classic Hits",
+  "description": "A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go-Go's and many many more! ",
+  "name": "80s Classic Hits | Top 100 Hits",
   "tracks": [
     {
       "album": {
@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/73bPiJRwVPkE8dpyCikfFd"
+      },
+      "artists": [
+        {
+          "name": "Robert Palmer",
+          "url": "https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu"
+        },
+        {
+          "name": "Eric 'ET' Thorngren",
+          "url": "https://open.spotify.com/artist/0tO3KaRy0ZACd8XJYT3IX2"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363640,
+      "name": "Addicted To Love",
+      "url": "https://open.spotify.com/track/5izGeTxueiFX1UPFGohY9w"
+    },
+    {
+      "album": {
         "name": "Against The Wind",
         "url": "https://open.spotify.com/album/2Go2GZ8qMznHdAoLO1cG4W"
       },
@@ -38,6 +60,24 @@
       "duration_ms": 333720,
       "name": "Against The Wind",
       "url": "https://open.spotify.com/track/1SWmFiFSIBoDbQJjNKC7SR"
+    },
+    {
+      "album": {
+        "name": "Can't Slow Down (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383440,
+      "name": "All Night Long (All Night)",
+      "url": "https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk"
     },
     {
       "album": {
@@ -185,6 +225,24 @@
     },
     {
       "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "Crazy Crazy Nights",
+      "url": "https://open.spotify.com/track/3YSfGJNDtF8KrHlwCAaVns"
+    },
+    {
+      "album": {
         "name": "Points On The Curve",
         "url": "https://open.spotify.com/album/6wQeGifpm00UoeHmI8uSB1"
       },
@@ -218,6 +276,42 @@
       "duration_ms": 241306,
       "name": "Dancing In the Dark",
       "url": "https://open.spotify.com/track/7FwBtcecmlpc1sLySPXeGE"
+    },
+    {
+      "album": {
+        "name": "Dancing On The Ceiling (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5IvqScO5vIXQ2zrxtpCVHf"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270720,
+      "name": "Dancing On The Ceiling",
+      "url": "https://open.spotify.com/track/0snPJPxkk0MbTc0xeUvAPt"
+    },
+    {
+      "album": {
+        "name": "To The Power Of Three",
+        "url": "https://open.spotify.com/album/2LEJ4JpSDbMK3M9RNGEYCC"
+      },
+      "artists": [
+        {
+          "name": "3",
+          "url": "https://open.spotify.com/artist/6AaT03Q89aG4jGpn2mjodE"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427990,
+      "name": "Desde La Vida",
+      "url": "https://open.spotify.com/track/6pzi9HSHoUSiw1ldvi7CUY"
     },
     {
       "album": {
@@ -293,6 +387,60 @@
     },
     {
       "album": {
+        "name": "Permanent Vacation",
+        "url": "https://open.spotify.com/album/3XYqOJI1YlX40kJTdzFEzp"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265773,
+      "name": "Dude (Looks Like A Lady)",
+      "url": "https://open.spotify.com/track/6gQUbFwwdYXlKdmqRoWKJe"
+    },
+    {
+      "album": {
+        "name": "Goo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Qsx0sOd9rcIeTuI1j419U"
+      },
+      "artists": [
+        {
+          "name": "Sonic Youth",
+          "url": "https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257773,
+      "name": "DV2 (Kool Thing) - 8 Track Demo",
+      "url": "https://open.spotify.com/track/0YqVGMsrMYDnXxqCLKP2z3"
+    },
+    {
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "album": {
         "name": "Every Breath You Take The Classics",
         "url": "https://open.spotify.com/album/3s9o7LSofJfIZafUgkDe9O"
       },
@@ -340,10 +488,46 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 250533,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/7HNPhibn8yKB79sGa05EKr"
+    },
+    {
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "album": {
+        "name": "Hold Your Fire",
+        "url": "https://open.spotify.com/album/3OSQvwW2BElGZfjhsHJEru"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271400,
+      "name": "Force Ten",
+      "url": "https://open.spotify.com/track/2B36scXmm2xG35ILOJMmxf"
     },
     {
       "album": {
@@ -365,6 +549,24 @@
     },
     {
       "album": {
+        "name": "Breakin' (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/26t5mXFJxvVphBv2iRZwcX"
+      },
+      "artists": [
+        {
+          "name": "3V",
+          "url": "https://open.spotify.com/artist/7MBzT0R93M8QQOH9nJyBsZ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261306,
+      "name": "Heart Of The Beat",
+      "url": "https://open.spotify.com/track/24q6KWMvlD2DrG9gI5Sv3w"
+    },
+    {
+      "album": {
         "name": "Asia",
         "url": "https://open.spotify.com/album/7D0XjViIK0Z16HCxbRDrnm"
       },
@@ -380,6 +582,60 @@
       "duration_ms": 227626,
       "name": "Heat Of The Moment",
       "url": "https://open.spotify.com/track/2ZBalNGwjqdKJd29O76wBV"
+    },
+    {
+      "album": {
+        "name": "The Very Best of Belinda Carlisle",
+        "url": "https://open.spotify.com/album/0TOrENcbWLIpqQDcANhP4W"
+      },
+      "artists": [
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "Heaven Is A Place On Earth (Promo 7\" Edit)",
+      "url": "https://open.spotify.com/track/19b18giHVlePnldG5DdxI6"
+    },
+    {
+      "album": {
+        "name": "No Rest for the Wicked",
+        "url": "https://open.spotify.com/album/6inGsj5Y4cLfUHDhqnWzI7"
+      },
+      "artists": [
+        {
+          "name": "Helix",
+          "url": "https://open.spotify.com/artist/7JF6mRd5N8LzsKugg4rcSG"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183333,
+      "name": "Heavy Metal Love",
+      "url": "https://open.spotify.com/track/1YEMHIIUFK1XzaTkGuaCQ5"
+    },
+    {
+      "album": {
+        "name": "Crimes Of Passion",
+        "url": "https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ"
+      },
+      "artists": [
+        {
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171266,
+      "name": "Hit Me With Your Best Shot",
+      "url": "https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE"
     },
     {
       "album": {
@@ -581,6 +837,24 @@
     },
     {
       "album": {
+        "name": "Colour By Numbers (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/51NPMfa9QfxsYtqzcB2VfY"
+      },
+      "artists": [
+        {
+          "name": "Culture Club",
+          "url": "https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252773,
+      "name": "Karma Chameleon - Remastered 2002",
+      "url": "https://open.spotify.com/track/2wSAWEYUHkt92X4SBAPqZE"
+    },
+    {
+      "album": {
         "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
         "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
@@ -617,6 +891,60 @@
     },
     {
       "album": {
+        "name": "The Seer",
+        "url": "https://open.spotify.com/album/7vmla9CpDW2UndZQsnuetB"
+      },
+      "artists": [
+        {
+          "name": "Big Country",
+          "url": "https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264600,
+      "name": "Look Away",
+      "url": "https://open.spotify.com/track/4WYBE94dRKhhXLsOeVSNH8"
+    },
+    {
+      "album": {
+        "name": "Johnny Diesel And The Injectors",
+        "url": "https://open.spotify.com/album/5dIHfc6O2EPWxdevZi6DkZ"
+      },
+      "artists": [
+        {
+          "name": "Johnny Diesel & The Injectors",
+          "url": "https://open.spotify.com/artist/0Nlg1HCtb8dpeVpxQojDiq"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209160,
+      "name": "Lookin' For Love",
+      "url": "https://open.spotify.com/track/4g8afrN7ofLSB3Y9Kols1u"
+    },
+    {
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247600,
+      "name": "Love Is A Long Road",
+      "url": "https://open.spotify.com/track/4PJEK76V3A1S0XzZJuTWh7"
+    },
+    {
+      "album": {
         "name": "Solitude Standing",
         "url": "https://open.spotify.com/album/5w4IN5bPXAQD5iAVPNqvMg"
       },
@@ -632,6 +960,42 @@
       "duration_ms": 231933,
       "name": "Luka",
       "url": "https://open.spotify.com/track/5yMXAaSvxo12QkYU75Ixv0"
+    },
+    {
+      "album": {
+        "name": "The House Of Blue Light",
+        "url": "https://open.spotify.com/album/3jb80uITBoKioTLmu8cqaC"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274360,
+      "name": "Mad Dog",
+      "url": "https://open.spotify.com/track/0RYM0CGK6JgwZHXgB98Ggp"
+    },
+    {
+      "album": {
+        "name": "Flashdance (Original Soundtrack From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
+      },
+      "artists": [
+        {
+          "name": "Michael Sembello",
+          "url": "https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244706,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe"
     },
     {
       "album": {
@@ -686,6 +1050,42 @@
       "duration_ms": 270573,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/2Hw5F4S5TFmrpBoWXc2Awx"
+    },
+    {
+      "album": {
+        "name": "Dream Evil (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5AbihvcJdOm8OvDeoVow5M"
+      },
+      "artists": [
+        {
+          "name": "Dio",
+          "url": "https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246880,
+      "name": "Night People",
+      "url": "https://open.spotify.com/track/39N93iQYBxXjb2rkD5gS3Q"
+    },
+    {
+      "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/4tgiJxO6vfa3pF46IO9w2n"
+      },
+      "artists": [
+        {
+          "name": "Kingdom Come",
+          "url": "https://open.spotify.com/artist/2YFKPea38AMhGqGSqkFF1Q"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335493,
+      "name": "Now Forever After",
+      "url": "https://open.spotify.com/track/1AE79kI2MxmTP8kx4iiMtI"
     },
     {
       "album": {
@@ -761,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Boi-Ngo",
+        "url": "https://open.spotify.com/album/7KJ7HZsG9Fe04lIzRxSSTZ"
+      },
+      "artists": [
+        {
+          "name": "Oingo Boingo",
+          "url": "https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226600,
+      "name": "Outrageous",
+      "url": "https://open.spotify.com/track/73MO0XtI39eIVabV4zlhXV"
+    },
+    {
+      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje"
       },
@@ -797,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Rebel Yell",
+        "url": "https://open.spotify.com/album/2FZNWUmgRoP8uJZBaHJdfj"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288533,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc"
+    },
+    {
+      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/05owfigVGpgPe7RKJG1hum"
       },
@@ -812,6 +1248,42 @@
       "duration_ms": 183733,
       "name": "Red Red Wine",
       "url": "https://open.spotify.com/track/4uOKFydzAejjSFqYbv1XPt"
+    },
+    {
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/2kL6rv8QQH2cJNbvUl9dD4"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "Rehumanize Yourself",
+      "url": "https://open.spotify.com/track/38bxlYG9KmrfscpUdkS9rS"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "album": {
@@ -848,6 +1320,60 @@
       "duration_ms": 337333,
       "name": "Rio - 2009 Remaster",
       "url": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+    },
+    {
+      "album": {
+        "name": "Love At First Sting",
+        "url": "https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C"
+      },
+      "artists": [
+        {
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252493,
+      "name": "Rock You Like A Hurricane",
+      "url": "https://open.spotify.com/track/58XWGx7KNNkKneHdprcprX"
+    },
+    {
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "album": {
+        "name": "Built For Speed",
+        "url": "https://open.spotify.com/album/65PptxxbOFNvpAK9oBeVV1"
+      },
+      "artists": [
+        {
+          "name": "Stray Cats",
+          "url": "https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "Runaway Boys",
+      "url": "https://open.spotify.com/track/1G9CoqXAYqagyOaNlIK4s1"
     },
     {
       "album": {
@@ -909,6 +1435,60 @@
     },
     {
       "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393666,
+      "name": "Shout",
+      "url": "https://open.spotify.com/track/2gQaQUhDCNGfBVXTvxAmXQ"
+    },
+    {
+      "album": {
+        "name": "Dawn Patrol",
+        "url": "https://open.spotify.com/album/7JY3cUwV1QB3yf5q4eizYV"
+      },
+      "artists": [
+        {
+          "name": "Night Ranger",
+          "url": "https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250800,
+      "name": "Sing Me Away",
+      "url": "https://open.spotify.com/track/6Aav1GMR2dbFU7nIRrnwQa"
+    },
+    {
+      "album": {
+        "name": "You Can't Do That On Stage Anymore, Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/2Ekqr3FJo41daBiMY3VkaS"
+      },
+      "artists": [
+        {
+          "name": "Frank Zappa",
+          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182533,
+      "name": "Sofa #2 - Live",
+      "url": "https://open.spotify.com/track/5T2alV23Cti08eTqK5Y42Q"
+    },
+    {
+      "album": {
         "name": "Level Best",
         "url": "https://open.spotify.com/album/43lw3eUmzsmn3YSxUiMY9x"
       },
@@ -960,6 +1540,42 @@
       "duration_ms": 195133,
       "name": "Stuck On You",
       "url": "https://open.spotify.com/track/0ROwoz82DIW4tOzkxYnSjf"
+    },
+    {
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
+    },
+    {
+      "album": {
+        "name": "First Offense",
+        "url": "https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5"
+      },
+      "artists": [
+        {
+          "name": "Corey Hart",
+          "url": "https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Sunglasses At Night",
+      "url": "https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC"
     },
     {
       "album": {
@@ -1017,6 +1633,42 @@
     },
     {
       "album": {
+        "name": "The Very Best Of The A&M Years (1977-1988)",
+        "url": "https://open.spotify.com/album/70LmUc4bIUyDhvrx2hfJJA"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192640,
+      "name": "Teacher, Teacher",
+      "url": "https://open.spotify.com/track/1XKKKkkzeLkhPK7P5WDKmp"
+    },
+    {
+      "album": {
+        "name": "Building The Perfect Beast",
+        "url": "https://open.spotify.com/album/2x1s5aVQ01ylPs5nUdeA2i"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288733,
+      "name": "The Boys Of Summer",
+      "url": "https://open.spotify.com/track/4gvea7UlDkAvsJBPZAd4oB"
+    },
+    {
+      "album": {
         "name": "Solo Collection",
         "url": "https://open.spotify.com/album/1YHw7JrXxh3pt6NBVEOuof"
       },
@@ -1053,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
+      },
+      "artists": [
+        {
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230066,
+      "name": "The Last Mile",
+      "url": "https://open.spotify.com/track/4wKTPZe1AgKNPObJ357dZK"
+    },
+    {
+      "album": {
         "name": "The Lexicon Of Love",
         "url": "https://open.spotify.com/album/1vkql5n4Vb9j5XG3yxOU66"
       },
@@ -1068,6 +1738,24 @@
       "duration_ms": 209160,
       "name": "The Look Of Love, Pt.1",
       "url": "https://open.spotify.com/track/6HvUtPLqkP0t6zd6YNdWby"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits: Huey Lewis And The News",
+        "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
+      },
+      "artists": [
+        {
+          "name": "Huey Lewis & The News",
+          "url": "https://open.spotify.com/artist/7A9yZMTrFZcgEWAX2kBfK6"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234333,
+      "name": "The Power Of Love",
+      "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
     },
     {
       "album": {
@@ -1107,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Daddy's Highway",
+        "url": "https://open.spotify.com/album/1QZrOR2mF5ziCH2huc9uSl"
+      },
+      "artists": [
+        {
+          "name": "The Bats",
+          "url": "https://open.spotify.com/artist/2YvNi4oPdBgD45gc1UycxW"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Trouble In This Town",
+      "url": "https://open.spotify.com/track/1YW1XYNrtrFWOeY0SMgTxO"
+    },
+    {
+      "album": {
         "name": "Hot Space (Deluxe Remastered Version)",
         "url": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf"
       },
@@ -1129,6 +1835,24 @@
     },
     {
       "album": {
+        "name": "Talking Back To The Night",
+        "url": "https://open.spotify.com/album/6zpu2C7qPjXrhv5cyuLNZn"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246666,
+      "name": "Valerie",
+      "url": "https://open.spotify.com/track/3aAuIvgJGdp4wWd60riWfB"
+    },
+    {
+      "album": {
         "name": "The Age Of Plastic",
         "url": "https://open.spotify.com/album/5KKpKvLOS4tCV7cSOwIOWF"
       },
@@ -1144,6 +1868,24 @@
       "duration_ms": 253800,
       "name": "Video Killed The Radio Star",
       "url": "https://open.spotify.com/track/6t1FIJlZWTQfIZhsGjaulM"
+    },
+    {
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "album": {
@@ -1237,6 +1979,42 @@
     },
     {
       "album": {
+        "name": "Brigade",
+        "url": "https://open.spotify.com/album/5CuSWXFhWielWXrXK8Sd8m"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270133,
+      "name": "Wild Child",
+      "url": "https://open.spotify.com/track/08mwhIt0RXw3QnyyjIktAd"
+    },
+    {
+      "album": {
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl"
+      },
+      "artists": [
+        {
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249400,
+      "name": "Willie And The Hand Jive",
+      "url": "https://open.spotify.com/track/0f0FXdyHWAx3q7XyU9oLMI"
+    },
+    {
+      "album": {
         "name": "The Joshua Tree",
         "url": "https://open.spotify.com/album/4mULDK6YXrFXTfSwvwm4M3"
       },
@@ -1248,7 +2026,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 295520,
       "name": "With Or Without You - Remastered 2007",
       "url": "https://open.spotify.com/track/5JGEAz15LkPoOtFHttDtVs"
@@ -1266,7 +2044,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 222706,
       "name": "You Give Love A Bad Name",
       "url": "https://open.spotify.com/track/3KYiA4vq6RPO1dE2XROXd8"

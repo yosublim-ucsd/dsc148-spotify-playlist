@@ -1,6 +1,6 @@
 {
   "description": "Al cien en la mamalona!  ",
-  "num_followers": 369685,
+  "num_followers": 369800,
   "original_name": "La Mamalona",
   "owner": {
     "name": "Spotify",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
+        "name": "Amiri",
+        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 211904,
+      "name": "Amiri",
+      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
+    },
+    {
+      "added_at": "2024-05-17 05:30:15",
+      "album": {
         "name": "Anda Bien el Nene",
         "url": "https://open.spotify.com/album/5i7XYxpwdpDMmmrR07H7PU"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 177023,
       "name": "Anda Bien el Nene",
       "url": "https://open.spotify.com/track/5rAnfPGKZGyRBzI5kcAaqB"
-    },
-    {
-      "added_at": "2024-05-17 05:30:15",
-      "album": {
-        "name": "Amiri",
-        "url": "https://open.spotify.com/album/4GCIJszRzffxDM8frcJzrI"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 211904,
-      "name": "Amiri",
-      "url": "https://open.spotify.com/track/3Ih990MdWvxRHhdOBZd4gK"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "LA CUMBIA DEL CASTOR",
-        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
-      },
-      "artists": [
-        {
-          "name": "Yahir Saldivar",
-          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
-        }
-      ],
-      "duration_ms": 250900,
-      "name": "LA CUMBIA DEL CASTOR",
-      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
-    },
-    {
-      "added_at": "2024-05-17 05:30:15",
-      "album": {
         "name": "Malas Rachas",
         "url": "https://open.spotify.com/album/0hOoMpG9nfKnFDYjyWadLG"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 260285,
       "name": "Malas Rachas - En Vivo",
       "url": "https://open.spotify.com/track/3CRbCuucscl5CNGhvU5090"
+    },
+    {
+      "added_at": "2024-05-17 05:30:15",
+      "album": {
+        "name": "LA CUMBIA DEL CASTOR",
+        "url": "https://open.spotify.com/album/3Fy9gqW5EkzKam7mINGrIy"
+      },
+      "artists": [
+        {
+          "name": "Yahir Saldivar",
+          "url": "https://open.spotify.com/artist/19NGyg3ucHFhAP3mwPsggJ"
+        }
+      ],
+      "duration_ms": 250900,
+      "name": "LA CUMBIA DEL CASTOR",
+      "url": "https://open.spotify.com/track/6vFDrAOD5Hck0EtaSBpH4L"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1387,26 +1387,18 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "Como Esta Carnal",
-        "url": "https://open.spotify.com/album/3jPvYnxQhTg658G7r634Km"
+        "name": "Punto y Aparte",
+        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
       },
       "artists": [
         {
-          "name": "Ismael CM",
-          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
-        },
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        },
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 205853,
-      "name": "Como Esta Carnal",
-      "url": "https://open.spotify.com/track/2TbRrrT3NFqrQohxZcKg7h"
+      "duration_ms": 158918,
+      "name": "Punto y Aparte",
+      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1431,18 +1423,26 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "Punto y Aparte",
-        "url": "https://open.spotify.com/album/7Gz10vsu3ws0QRJpAHpuL0"
+        "name": "Como Esta Carnal",
+        "url": "https://open.spotify.com/album/3jPvYnxQhTg658G7r634Km"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Ismael CM",
+          "url": "https://open.spotify.com/artist/3HU9m7qsanEKWC9kwxWsRR"
+        },
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        },
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 158918,
-      "name": "Punto y Aparte",
-      "url": "https://open.spotify.com/track/7z2Z8mwfsoMnNArKB946gU"
+      "duration_ms": 205853,
+      "name": "Como Esta Carnal",
+      "url": "https://open.spotify.com/track/2TbRrrT3NFqrQohxZcKg7h"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "Comandante 09",
-        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 236342,
-      "name": "Comandante 09",
-      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
-    },
-    {
-      "added_at": "2024-05-17 05:30:15",
-      "album": {
         "name": "Contrato A La Vida",
         "url": "https://open.spotify.com/album/0mUwAhUW45BYtG3apeePZD"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 163359,
       "name": "Fuga Del Jefe",
       "url": "https://open.spotify.com/track/3V6lLVVvLJKMqtGRsuSX6l"
+    },
+    {
+      "added_at": "2024-05-17 05:30:15",
+      "album": {
+        "name": "Comandante 09",
+        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 236342,
+      "name": "Comandante 09",
+      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
-    },
-    {
-      "added_at": "2024-05-17 05:30:15",
-      "album": {
         "name": "Desde Topo Hasta La Sierra",
         "url": "https://open.spotify.com/album/25w2zwI5cE8ZcTOE5XMj2F"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 218534,
       "name": "Desde Topo Hasta La Sierra",
       "url": "https://open.spotify.com/track/3S9PY0y2pMioMEIMnmO6dj"
+    },
+    {
+      "added_at": "2024-05-17 05:30:15",
+      "album": {
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
     },
     {
       "added_at": "2024-05-17 05:30:15",
@@ -1655,26 +1655,6 @@
     {
       "added_at": "2024-05-17 05:30:15",
       "album": {
-        "name": "El r\u00e1pido y la muerte",
-        "url": "https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb"
-      },
-      "artists": [
-        {
-          "name": "R\u00e9gulo Caro",
-          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
-        },
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        }
-      ],
-      "duration_ms": 140063,
-      "name": "El r\u00e1pido y la muerte",
-      "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
-    },
-    {
-      "added_at": "2024-05-17 05:30:15",
-      "album": {
         "name": "VETERANOS DE GUERRA (En vivo)",
         "url": "https://open.spotify.com/album/5hxtunkNAttTEZtXHbja9H"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 190122,
       "name": "El Motor (En Vivo)",
       "url": "https://open.spotify.com/track/2qtvTiP5aVa9NK3FVIPiEm"
+    },
+    {
+      "added_at": "2024-05-17 05:30:15",
+      "album": {
+        "name": "El r\u00e1pido y la muerte",
+        "url": "https://open.spotify.com/album/4KEAWW8uiHym3lJLk35aKb"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9gulo Caro",
+          "url": "https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W"
+        },
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        }
+      ],
+      "duration_ms": 140063,
+      "name": "El r\u00e1pido y la muerte",
+      "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
     },
     {
       "added_at": "2024-05-17 05:30:15",

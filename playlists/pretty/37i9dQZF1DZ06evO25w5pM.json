@@ -1,12 +1,12 @@
 {
   "description": "This is Deuter. The essential tracks, all in one playlist.",
-  "num_followers": 17720,
+  "num_followers": 17724,
   "original_name": "This Is Deuter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAD6rr7+q0E9D0FWBJz5pFNu",
+  "snapshot_id": "ZklBAAAAAAD5WHMpfBfYEiyCzbo9J1Rq",
   "tracks": [
     {
       "added_at": null,
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 572853,
-      "name": "Sound of Invisible Waters",
-      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
+      "duration_ms": 478520,
+      "name": "Lovesong from the Mountains",
+      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
     },
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 499266,
-      "name": "Kindred Spirit",
-      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
+      "duration_ms": 572853,
+      "name": "Sound of Invisible Waters",
+      "url": "https://open.spotify.com/track/2SIgGbcduNKHTFEFcvmUaS"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB"
         }
       ],
-      "duration_ms": 478520,
-      "name": "Lovesong from the Mountains",
-      "url": "https://open.spotify.com/track/3MJd5S8ZIUp19dVvKxgNoe"
+      "duration_ms": 499266,
+      "name": "Kindred Spirit",
+      "url": "https://open.spotify.com/track/3DnYVJJH3H6P7Svy4x2DYT"
     },
     {
       "added_at": null,

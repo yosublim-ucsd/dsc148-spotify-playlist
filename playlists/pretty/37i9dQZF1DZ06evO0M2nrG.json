@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 65623,
+  "num_followers": 65625,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADHlMu3U1b1Nr/JmRshEDcq",
+  "snapshot_id": "ZklBAAAAAABe5E3el97ezXmY4lDy0QwH",
   "tracks": [
     {
       "added_at": null,
@@ -39,26 +39,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 168520,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/4vhkI8x68EaGQR3Kn7Pwhc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amantes",
         "url": "https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi"
       },
@@ -79,6 +59,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 193125,
+      "name": "De Qu\u00e9 Manera",
+      "url": "https://open.spotify.com/track/503M75Hh6JciFgZ4xi8XTw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 206967,
+      "name": "Serenata",
+      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Carta",
         "url": "https://open.spotify.com/album/1RWGsSW1RxScfvYp5ZR3Jl"
       },
@@ -95,42 +107,6 @@
       "duration_ms": 133000,
       "name": "Att: Amor",
       "url": "https://open.spotify.com/track/1TpCPPgqc6FOVzLZefm6e3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contento",
-        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 70992,
-      "name": "La Vida",
-      "url": "https://open.spotify.com/track/3Prf5JAbQgvxHclJaluYbv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": null,
@@ -195,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 206967,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/11ufNpNUBDwTGlU8sdWZaP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busc\u00e1ndote",
         "url": "https://open.spotify.com/album/054j0gRWCjdL4Oj85NjEIz"
       },
@@ -223,42 +183,6 @@
       "duration_ms": 241684,
       "name": "Busc\u00e1ndote",
       "url": "https://open.spotify.com/track/7kBpyZF5JCO66IfLzdAQ2F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Si Tu Amor No Vuelve",
-        "url": "https://open.spotify.com/album/4yPrBID40hUMocphha5lr7"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 201040,
-      "name": "Si Tu Amor No Vuelve",
-      "url": "https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 148723,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
     },
     {
       "added_at": null,
@@ -283,6 +207,22 @@
       "duration_ms": 181866,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/0129zNnaJ2w1eXqKxjMRI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 148723,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/53ZLUs4cvMmPvodm3mVTPi"
     },
     {
       "added_at": null,
@@ -327,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 169207,
-      "name": "El Que Ama Sufre",
-      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -359,6 +283,30 @@
       "duration_ms": 197879,
       "name": "La L\u00e1",
       "url": "https://open.spotify.com/track/1MYMEtHi6fmmGiDFLrBiY3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        },
+        {
+          "name": "Keityn",
+          "url": "https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu"
+        }
+      ],
+      "duration_ms": 170471,
+      "name": "El Ego\u00edsmo",
+      "url": "https://open.spotify.com/track/5vAfbp5YrAkpi6X8jNZ7YY"
     },
     {
       "added_at": null,
@@ -399,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 214080,
-      "name": "Amor Sincero",
-      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -427,6 +359,22 @@
       "duration_ms": 183092,
       "name": "Qu\u00e9date Aqu\u00ed",
       "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 169207,
+      "name": "El Que Ama Sufre",
+      "url": "https://open.spotify.com/track/0FLKPJQtOzb0Xw1qKWXuzm"
     },
     {
       "added_at": null,
@@ -467,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "\u00bfQu\u00e9 Ser\u00e1?",
-      "url": "https://open.spotify.com/track/0tzJyFk0VuB3MNW4CinfJW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Navegando",
         "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
       },
@@ -495,6 +427,22 @@
       "duration_ms": 161860,
       "name": "Sufrimos De Lo Mismo",
       "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 214080,
+      "name": "Amor Sincero",
+      "url": "https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y"
     },
     {
       "added_at": null,
@@ -591,22 +539,6 @@
       "duration_ms": 206237,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Enfocado",
-      "url": "https://open.spotify.com/track/0FvENwVY1jcqwyVjM367Mo"
     },
     {
       "added_at": null,
@@ -787,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 203165,
+      "name": "Apareciste",
+      "url": "https://open.spotify.com/track/0HR8yOBRUAJCwy0RiooIYg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Mu\u00f1eca",
         "url": "https://open.spotify.com/album/5lVyjeKAjzxkyFx8qzXvlJ"
       },
@@ -799,26 +747,6 @@
       "duration_ms": 198750,
       "name": "La Mu\u00f1eca",
       "url": "https://open.spotify.com/track/0MVTiHaxhTTbGriRX148BR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Moly",
-          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 191395,
-      "name": "Vine a Buscarte",
-      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
     },
     {
       "added_at": null,
@@ -847,6 +775,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Noche en Hawaii",
+        "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
+      },
+      "artists": [
+        {
+          "name": "Bonny Lovy",
+          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 177156,
+      "name": "Noche en Hawaii",
+      "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 202899,
+      "name": "Canciones Con Mentiras",
+      "url": "https://open.spotify.com/track/4Ve232oV2qClUrgGE89Ahu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Te Quiero M\u00e1s (feat. Mike Bah\u00eda) [Remix]",
         "url": "https://open.spotify.com/album/2qQGxdycZ6zAmOuRniRo7A"
       },
@@ -867,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noche en Hawaii",
-        "url": "https://open.spotify.com/album/4tv9iIalEyMy3AMZ1ybFrM"
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6ddv3GdJS72fE56p3Y2IL6"
       },
       "artists": [
         {
-          "name": "Bonny Lovy",
-          "url": "https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1"
+          "name": "Jonathan Moly",
+          "url": "https://open.spotify.com/artist/0fAxJ75WJT3STJb3xWtpbc"
         },
         {
           "name": "Mike Bah\u00eda",
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 177156,
-      "name": "Noche en Hawaii",
-      "url": "https://open.spotify.com/track/2nnsC44cFHGgIXvKLadXUK"
+      "duration_ms": 191395,
+      "name": "Vine a Buscarte",
+      "url": "https://open.spotify.com/track/4HAIB8XmjGCdjsj3d8gLcs"
     },
     {
       "added_at": null,
@@ -907,6 +871,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Colorao",
+        "url": "https://open.spotify.com/album/6e6Hm48gs1vaQvsKPH9PTZ"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Colorao",
+      "url": "https://open.spotify.com/track/6Jufm9ebf323m7IqC32UEN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Vos",
         "url": "https://open.spotify.com/album/1iggmUN30hhkmwqyWw7rmP"
       },
@@ -923,6 +907,26 @@
       "duration_ms": 165276,
       "name": "Por Vos",
       "url": "https://open.spotify.com/track/5RPl7zAToaiW6s9JjMlG6W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contento",
+        "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Stanley Jackson",
+          "url": "https://open.spotify.com/artist/3uoKSVmuDDItBqC4OceRgJ"
+        }
+      ],
+      "duration_ms": 170838,
+      "name": "Sola (feat. Stanley Jackson)",
+      "url": "https://open.spotify.com/track/2fFEvoOii2fviIeAbfBj4t"
     },
     {
       "added_at": null,

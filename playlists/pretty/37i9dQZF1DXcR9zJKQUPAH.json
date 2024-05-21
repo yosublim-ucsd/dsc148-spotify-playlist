@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 149620,
+  "num_followers": 149625,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Foreign Hands (George's Version)",
-        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
-      },
-      "artists": [
-        {
-          "name": "George Ogilvie",
-          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
-        }
-      ],
-      "duration_ms": 258530,
-      "name": "Foreign Hands (George's Version)",
-      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Hot Thoughts",
         "url": "https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 228653,
       "name": "Hot Thoughts",
       "url": "https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Foreign Hands (George's Version)",
+        "url": "https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs"
+      },
+      "artists": [
+        {
+          "name": "George Ogilvie",
+          "url": "https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI"
+        }
+      ],
+      "duration_ms": 258530,
+      "name": "Foreign Hands (George's Version)",
+      "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1543,6 +1543,38 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Process",
+        "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
+      },
+      "artists": [
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 316187,
+      "name": "Plastic 100\u00b0C",
+      "url": "https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Sleep Well Beast",
         "url": "https://open.spotify.com/album/6zG9PHw8dlMLIyRE9TEGGk"
       },
@@ -1575,38 +1607,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 188385,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Loving Is Easy (feat. Benny Sings)",
         "url": "https://open.spotify.com/album/4D6BtgzCwuJx9omikqA8Rg"
       },
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Process",
-        "url": "https://open.spotify.com/album/2gUSWVHCOerKhJHZRwhVtN"
+        "name": "Drunk",
+        "url": "https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue"
       },
       "artists": [
         {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 316187,
-      "name": "Plastic 100\u00b0C",
-      "url": "https://open.spotify.com/track/0P5bg4JX1fUplClPC0nkUS"
+      "duration_ms": 188385,
+      "name": "Them Changes",
+      "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
     }
   ],
   "unique_name": "Best of Indie 2017",

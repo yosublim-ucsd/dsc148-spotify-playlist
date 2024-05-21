@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 167125,
       "name": "(nendest) narkootikumidest ei tea me (k\u00fcll) midagi",
       "url": "https://open.spotify.com/track/43IB8nJZTAmlJi9eBAmTrJ"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 120000,
       "name": "BUNKER/PREROLL",
       "url": "https://open.spotify.com/track/4nPeNi0XkuoYcuIshqcYVn"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -2492,7 +2492,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 187711,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
@@ -3069,6 +3069,24 @@
     },
     {
       "album": {
+        "name": "Love Me JeJe",
+        "url": "https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178041,
+      "name": "Love Me JeJe",
+      "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
+    },
+    {
+      "album": {
         "name": "Lovely Words",
         "url": "https://open.spotify.com/album/0Qyjm4qKfSh7HiUebdPDqN"
       },
@@ -3500,6 +3518,24 @@
       "duration_ms": 117603,
       "name": "MOVE YO BODY (sped up)",
       "url": "https://open.spotify.com/track/062UdtCYGxKMR2ihegtZUU"
+    },
+    {
+      "album": {
+        "name": "Tedi Aleksandrova 2014",
+        "url": "https://open.spotify.com/album/64D42iNVlHiOjJUJWj2cbA"
+      },
+      "artists": [
+        {
+          "name": "Tedi Aleksandrova",
+          "url": "https://open.spotify.com/artist/3CcA9m1Ivpp5XmLt8SxUpn"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Moy dokray",
+      "url": "https://open.spotify.com/track/4rcUMf0fWzGc26oJctepZa"
     },
     {
       "album": {
@@ -4247,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "City Of Doves",
+        "url": "https://open.spotify.com/album/0Xm2sldIIZvDvcAOsgtIXo"
+      },
+      "artists": [
+        {
+          "name": "Sickboyrari",
+          "url": "https://open.spotify.com/artist/395BAMokcNaqWcCl8uU1ky"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193000,
+      "name": "Princess Cuts My Wrist",
+      "url": "https://open.spotify.com/track/3bdlwCZm9O5LP33Smf3i5b"
+    },
+    {
+      "album": {
         "name": "DO NOT DISTURB",
         "url": "https://open.spotify.com/album/45wG3jFqzHeQIX8QsXJO5e"
       },
@@ -4512,7 +4566,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
@@ -4936,7 +4990,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 173617,
       "name": "Sipvay",
       "url": "https://open.spotify.com/track/0nSy8npnDsXI4zt5qnFhck"
@@ -7398,7 +7452,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 175483,
       "name": "\u041e\u0442\u043a\u0430\u0447\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/32pFur6ytKmk43I5gtX7W4"

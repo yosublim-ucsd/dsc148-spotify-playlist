@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-[Spotify](https://open.spotify.com/user/spotify) - 515,591 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 515,775 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 38 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 |
 | 39 | [Pump Up The Jam](https://open.spotify.com/track/2bazIDcL2XOCZE5rh58R7r) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [Pump Up The Jam](https://open.spotify.com/album/5VehHhrEHz67LAT5hLFq8x) | 2:36 |
 | 40 | [Spiritum](https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Spiritum](https://open.spotify.com/album/3DLisv8F3tPRnqRgAwPmxn) | 3:13 |
-| 41 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
-| 42 | [Front To Back](https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Front To Back](https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8) | 2:27 |
+| 41 | [Front To Back](https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Polar Bears](https://open.spotify.com/artist/0Ec3BmyWtzjCid5QjMGmRI) | [Front To Back](https://open.spotify.com/album/2pCuVHIlb6NnyC9PrXt9z8) | 2:27 |
+| 42 | [Shockwave \(with Afrojack\)](https://open.spotify.com/track/4bOVDHj19JdKriaDQu41wD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Shockwave \(with Afrojack\)](https://open.spotify.com/album/7opy4llJFLXtwbqcPfpDZZ) | 2:02 |
 | 43 | [Energy](https://open.spotify.com/track/6CebMvPnu1c7CPCAaSXFuY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Energy](https://open.spotify.com/album/59T65v0ZNe7z8dDd5kR2Kq) | 2:52 |
 | 44 | [RIDE OR DIE](https://open.spotify.com/track/29uCsFSUSVktiMUZdzqpiD) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [RIDE OR DIE](https://open.spotify.com/album/2Lw8eq5CC6jraNYDoFjKSj) | 3:09 |
 | 45 | [He's A Pirate](https://open.spotify.com/track/45kPbDRRY5kWe8p6OO2YvM) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [He's A Pirate](https://open.spotify.com/album/7wWM2IHx54paNs60XQe1zo) | 3:03 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 77 | [Atmosphere](https://open.spotify.com/track/4f36yOtuLrOVxfWopiDjiw) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Atmosphere](https://open.spotify.com/album/5Z34tqOAHVByFmFK6hyhyg) | 2:44 |
 | 78 | [Lost In The Music](https://open.spotify.com/track/7oZOV66eOcLjv7a9YEt5NW) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Lost In The Music](https://open.spotify.com/album/4302kKfB2VwUA3mUA84mUr) | 2:59 |
 | 79 | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 |
-| 80 | [Lift Me Up](https://open.spotify.com/track/4w9CVTUWqTA3HwMzQJ1iml) | [Charles B](https://open.spotify.com/artist/1r2acF91AoYoHYrQYY9wCO), [Lucas Butler](https://open.spotify.com/artist/50rD5iXXJY35zmuYs2POjk) | [Lift Me Up](https://open.spotify.com/album/4E7YewjPXUzbSpcBNCTj4k) | 2:47 |
+| 80 | [Let Me Be Your Fantasy](https://open.spotify.com/track/4fGOsBz3c3d3CXAmc1kLob) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Let Me Be Your Fantasy](https://open.spotify.com/album/7xgkEBwCZmK4dOkh2648dV) | 2:56 |
 
 Snapshot ID: `Zkci4gAAAABksI92ceJ77D3yC2j5yYzo`

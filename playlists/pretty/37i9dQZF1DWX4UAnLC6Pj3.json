@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Gerardo Coronel en portada.",
-  "num_followers": 1214965,
+  "num_followers": 1215061,
   "original_name": "Banda 2024",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "24 Kilates de Corridos",
         "url": "https://open.spotify.com/album/7JIqZjAaoIeHWmnbzurcFs"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 190413,
       "name": "Juan Martha",
       "url": "https://open.spotify.com/track/0FG2BidxWdYecUegaWAnST"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "A Trav\u00e9s Del Vaso",
-        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 180120,
-      "name": "A Trav\u00e9s Del Vaso",
-      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "\u00bfQu\u00e9 Se Siente?",
         "url": "https://open.spotify.com/album/3x4NKPyTMpjYDZqHAJEuY9"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 176306,
       "name": "\u00bfQu\u00e9 Se Siente?",
       "url": "https://open.spotify.com/track/4160uHuO33PVowET0ZZfON"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "A Trav\u00e9s Del Vaso",
+        "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 180120,
+      "name": "A Trav\u00e9s Del Vaso",
+      "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Puras Pa' Pistear (En Vivo)",
         "url": "https://open.spotify.com/album/4h7bSgipyXsQLnNgrSyR6N"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 229333,
       "name": "Aqu\u00ed No Es (En Vivo)",
       "url": "https://open.spotify.com/track/0gZfDl5FgtHVhwDSjhJxB5"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1207,6 +1207,26 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Entre Botellas",
+        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Pipe Bueno",
+          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Entre Botellas",
+      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "La Propina",
         "url": "https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL"
       },
@@ -1247,42 +1267,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Sabor a Michelada",
-        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 132253,
-      "name": "Sabor a Michelada",
-      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Entre Botellas",
-        "url": "https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Pipe Bueno",
-          "url": "https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Entre Botellas",
-      "url": "https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Aqui Ando En El Caloron (En Vivo)",
         "url": "https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn"
       },
@@ -1303,6 +1287,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "El Precio De La Soledad",
+        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 166143,
+      "name": "El Precio De La Soledad",
+      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Que Te Trague La Tierra",
         "url": "https://open.spotify.com/album/0K58rVn5sbwOxIvEBECmIv"
       },
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "El Precio De La Soledad",
-        "url": "https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I"
+        "name": "Sabor a Michelada",
+        "url": "https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 166143,
-      "name": "El Precio De La Soledad",
-      "url": "https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK"
+      "duration_ms": 132253,
+      "name": "Sabor a Michelada",
+      "url": "https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
-      },
-      "artists": [
-        {
-          "name": "Hermanos Vega Jr.",
-          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
-        }
-      ],
-      "duration_ms": 148212,
-      "name": "Aqui",
-      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Las Preferidas, Vol. 5 (En vivo)",
         "url": "https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 245183,
       "name": "Due\u00f1o De Ti - En vivo",
       "url": "https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/6acAPwFF5O4Ia6H67Qz5lm"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Vega Jr.",
+          "url": "https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm"
+        }
+      ],
+      "duration_ms": 148212,
+      "name": "Aqui",
+      "url": "https://open.spotify.com/track/6KujS6JWvxGDmG4tGIoxCB"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Si Esta Botella Hablara",
         "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "La Ley De La Vida",
-        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "La Ley De La Vida",
-      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "La Ley De La Vida",
+        "url": "https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "La Ley De La Vida",
+      "url": "https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1639,22 +1639,6 @@
       "duration_ms": 277627,
       "name": "A Medio Vivir",
       "url": "https://open.spotify.com/track/5KCuksnFnLKcfSSa0ZAnAG"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Por Si Me Les Adelanto",
-        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 157561,
-      "name": "Por Si Me Les Adelanto",
-      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1731,6 +1715,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Por Si Me Les Adelanto",
+        "url": "https://open.spotify.com/album/2vR7nRKZYUuNks9KdDXT5p"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 157561,
+      "name": "Por Si Me Les Adelanto",
+      "url": "https://open.spotify.com/track/0r0mgYZTRNfTntGYnaLwOL"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Sigan Hablando",
         "url": "https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK"
       },
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "La Humilde Opinion",
+        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
+      },
+      "artists": [
+        {
+          "name": "Tony Montoya",
+          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
+        },
+        {
+          "name": "Banda Renovacion",
+          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
+        }
+      ],
+      "duration_ms": 163016,
+      "name": "La Humilde Opinion",
+      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Salud Por Eso",
         "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 179760,
       "name": "Salud Por Eso",
       "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "La Humilde Opinion",
-        "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
-      },
-      "artists": [
-        {
-          "name": "Tony Montoya",
-          "url": "https://open.spotify.com/artist/3odecFgtCNACfFLUlRR8QB"
-        },
-        {
-          "name": "Banda Renovacion",
-          "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
-        }
-      ],
-      "duration_ms": 163016,
-      "name": "La Humilde Opinion",
-      "url": "https://open.spotify.com/track/6dMgfy2TWgjlt7hoCCrbo1"
     },
     {
       "added_at": "2024-05-17 06:00:00",

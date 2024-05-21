@@ -1,6 +1,6 @@
 {
   "description": "Future & melodic bass. Cover: Wavedash",
-  "num_followers": 476608,
+  "num_followers": 476569,
   "original_name": "Bass Lounge",
   "owner": {
     "name": "Spotify",
@@ -1571,30 +1571,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Say It Like You Mean It (feat. Olivia Ray)",
-        "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
-      },
-      "artists": [
-        {
-          "name": "Elephante",
-          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
-        },
-        {
-          "name": "SABAI",
-          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
-        },
-        {
-          "name": "Olivia Ray",
-          "url": "https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Say It Like You Mean It (feat. Olivia Ray)",
-      "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8"
       },
@@ -1615,42 +1591,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+        "name": "Say It Like You Mean It (feat. Olivia Ray)",
+        "url": "https://open.spotify.com/album/1h1dauZNyr2eMj0nvr08Qk"
       },
       "artists": [
         {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+          "name": "Elephante",
+          "url": "https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G"
         },
-        {
-          "name": "Amidy",
-          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
-        }
-      ],
-      "duration_ms": 196233,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
-      },
-      "artists": [
         {
           "name": "SABAI",
           "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
         },
         {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+          "name": "Olivia Ray",
+          "url": "https://open.spotify.com/artist/5So3yhsr5VClNUYO604Sle"
         }
       ],
-      "duration_ms": 249532,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
+      "duration_ms": 222400,
+      "name": "Say It Like You Mean It (feat. Olivia Ray)",
+      "url": "https://open.spotify.com/track/23IQCi0cYPApCxGN66VufO"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1679,6 +1639,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ"
+      },
+      "artists": [
+        {
+          "name": "SABAI",
+          "url": "https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "duration_ms": 249532,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Eternity (feat. Dayce Williams)",
         "url": "https://open.spotify.com/album/5X0bqp1XBaGVPQ4DWGaADN"
       },
@@ -1695,6 +1675,26 @@
       "duration_ms": 229694,
       "name": "Eternity (feat. Dayce Williams)",
       "url": "https://open.spotify.com/track/2OYgoG7jqfMXsUaQfgROtw"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/4wKwxTukbhwMmG9dZpEpLX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Amidy",
+          "url": "https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV"
+        }
+      ],
+      "duration_ms": 196233,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/3yH2YuRNJcXfwjgd7nFIMX"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1763,6 +1763,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
+      },
+      "artists": [
+        {
+          "name": "MVSE",
+          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 185600,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Glass House",
         "url": "https://open.spotify.com/album/0wJXk6rpJXYEyVVRP6vsZw"
       },
@@ -1783,26 +1803,6 @@
       "duration_ms": 197122,
       "name": "Glass House",
       "url": "https://open.spotify.com/track/7ohh779FFPKSuPgSYvIPn8"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/758dRwMuCONb5iIYRyqxfu"
-      },
-      "artists": [
-        {
-          "name": "MVSE",
-          "url": "https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 185600,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/3cvDUJKnGT9N43dwJB3EcC"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lost (Meant To Be)",
-        "url": "https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Casey Cook",
-          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
-        }
-      ],
-      "duration_ms": 209600,
-      "name": "Lost (Meant To Be)",
-      "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Beyond The Veil (Deluxe)",
         "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
       },
@@ -2055,6 +2035,26 @@
       "duration_ms": 238566,
       "name": "Brightest Light (feat. Dotter)",
       "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lost (Meant To Be)",
+        "url": "https://open.spotify.com/album/0EEt1MWkPYfNOzKrAtRivg"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Casey Cook",
+          "url": "https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl"
+        }
+      ],
+      "duration_ms": 209600,
+      "name": "Lost (Meant To Be)",
+      "url": "https://open.spotify.com/track/7HPMTFu90wrp31dNAQ7EgF"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/4EBBQs8jtQeYjPx5WC5pZU"
-      },
-      "artists": [
-        {
-          "name": "Kaivon",
-          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/0ZjFvlOaEVnD2eBj3ognHw"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Good in Goodbye",
         "url": "https://open.spotify.com/album/1UlMDQn059Zho0E2dZXlyH"
       },
@@ -2207,6 +2191,22 @@
       "duration_ms": 180000,
       "name": "Good in Goodbye",
       "url": "https://open.spotify.com/track/3MaPMbwBZSyBQOob8QFnRV"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/4EBBQs8jtQeYjPx5WC5pZU"
+      },
+      "artists": [
+        {
+          "name": "Kaivon",
+          "url": "https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/0ZjFvlOaEVnD2eBj3ognHw"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "When I'm Gone",
-        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
-      },
-      "artists": [
-        {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Micah Martin",
-          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "NO PLACE IS TOO FAR (feat. Whethan & Selah Sol)",
         "url": "https://open.spotify.com/album/4clcPcjqdPIPJjYghDiEZf"
       },
@@ -2347,6 +2327,26 @@
       "duration_ms": 201931,
       "name": "Bullet",
       "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "When I'm Gone",
+        "url": "https://open.spotify.com/album/7f7POLfXpKJQpWGDky8q5b"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3SbJi93qnSYhOluqRudg7x"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2471,22 +2471,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "One Time",
-        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "One Time",
-      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Heaven Again",
         "url": "https://open.spotify.com/album/7oP8wBi22HDnIVxEjrHmeC"
       },
@@ -2507,6 +2491,22 @@
       "duration_ms": 232000,
       "name": "Heaven Again",
       "url": "https://open.spotify.com/track/03MzMaGtcNGKBkgQqJ1oUF"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "One Time",
+        "url": "https://open.spotify.com/album/2m0tPdS8lzYnZulyV0DoXB"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        }
+      ],
+      "duration_ms": 178666,
+      "name": "One Time",
+      "url": "https://open.spotify.com/track/4OqJ2AncNhhIyI3oCBYktq"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2595,30 +2595,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Melting (feat. EASAE)",
-        "url": "https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5"
-      },
-      "artists": [
-        {
-          "name": "Danny Olson",
-          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
-        },
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Easae",
-          "url": "https://open.spotify.com/artist/70eIEfuhPsdn3ggtBz3Adc"
-        }
-      ],
-      "duration_ms": 270800,
-      "name": "Melting (feat. EASAE)",
-      "url": "https://open.spotify.com/track/0gsPInjPU6qsGGdLnpgTHD"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/3ZFzU8m52LCtZXnfKLvpao"
       },
@@ -2639,6 +2615,30 @@
       "duration_ms": 184258,
       "name": "High",
       "url": "https://open.spotify.com/track/0apCPw4wHWMtW3DPR6Aou7"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Melting (feat. EASAE)",
+        "url": "https://open.spotify.com/album/2E5tSqBeQnfrMGS4UsFZx5"
+      },
+      "artists": [
+        {
+          "name": "Danny Olson",
+          "url": "https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s"
+        },
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Easae",
+          "url": "https://open.spotify.com/artist/70eIEfuhPsdn3ggtBz3Adc"
+        }
+      ],
+      "duration_ms": 270800,
+      "name": "Melting (feat. EASAE)",
+      "url": "https://open.spotify.com/track/0gsPInjPU6qsGGdLnpgTHD"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2831,26 +2831,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Sail Away (feat. Jay Mason)",
-        "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
-      },
-      "artists": [
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Jay Mason",
-          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
-        }
-      ],
-      "duration_ms": 252200,
-      "name": "Sail Away (feat. Jay Mason)",
-      "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Violet Sky (feat. Sarah de Warren)",
         "url": "https://open.spotify.com/album/67y37MnCWsZJssnbekw3lf"
       },
@@ -2867,6 +2847,26 @@
       "duration_ms": 228333,
       "name": "Violet Sky (feat. Sarah de Warren)",
       "url": "https://open.spotify.com/track/4n5IFVKYfrdxOIgWgP4unG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Sail Away (feat. Jay Mason)",
+        "url": "https://open.spotify.com/album/6UEOL9j71DS5c7yvHV5xUW"
+      },
+      "artists": [
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Jay Mason",
+          "url": "https://open.spotify.com/artist/0dS5IlInNc5Qq0wIrFTKob"
+        }
+      ],
+      "duration_ms": 252200,
+      "name": "Sail Away (feat. Jay Mason)",
+      "url": "https://open.spotify.com/track/4r9qyANhnnv7q2ENG2ggre"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2931,6 +2931,30 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy"
+      },
+      "artists": [
+        {
+          "name": "Nikademis",
+          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
+        },
+        {
+          "name": "LEUTHERO",
+          "url": "https://open.spotify.com/artist/3lzcu6JBa7phqYHz8xjZp5"
+        },
+        {
+          "name": "skye silansky",
+          "url": "https://open.spotify.com/artist/0S3LxjopMZF875k3QbpzFt"
+        }
+      ],
+      "duration_ms": 192391,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Future Unfold",
         "url": "https://open.spotify.com/album/52WRIedOWI8utWphQXhrRa"
       },
@@ -2959,30 +2983,6 @@
       "duration_ms": 217403,
       "name": "Way For Us",
       "url": "https://open.spotify.com/track/0LBAGVmyif3KHjy2RZJ7By"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/0Pjb8nZBlx7muWOH2VZJoy"
-      },
-      "artists": [
-        {
-          "name": "Nikademis",
-          "url": "https://open.spotify.com/artist/1mbM2HRSAFPgomMnUSNSvP"
-        },
-        {
-          "name": "LEUTHERO",
-          "url": "https://open.spotify.com/artist/3lzcu6JBa7phqYHz8xjZp5"
-        },
-        {
-          "name": "skye silansky",
-          "url": "https://open.spotify.com/artist/0S3LxjopMZF875k3QbpzFt"
-        }
-      ],
-      "duration_ms": 192391,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/0kMWWZzHQwB5HaIkWhObP5"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -3051,22 +3051,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        }
-      ],
-      "duration_ms": 230800,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Stardust (with HALIENE)",
         "url": "https://open.spotify.com/album/3JVQVwr2MXoy9v0M6L2hMM"
       },
@@ -3083,6 +3067,22 @@
       "duration_ms": 289687,
       "name": "Stardust (with HALIENE)",
       "url": "https://open.spotify.com/track/7eqqoIuT0InfDi1yzUhm6f"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/4kl1z0x4B1d83FaTA8L3Bc"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        }
+      ],
+      "duration_ms": 230800,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/0Rpd7XAebkkRwPk7USlpuI"
     },
     {
       "added_at": "2024-05-17 04:00:00",

@@ -2,7 +2,7 @@
 
 ### [This Is Taio Cruz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40DPwJ)
 
-> This is Taio Cruz\. The essential tracks, all in one playlist.
+> This Is Taio Cruz\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 32 min
 
@@ -60,13 +60,13 @@
 | [Take Me Back](https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:34 | 2021-12-28 |  |
 | [Take Me Back \- 2010 Remix](https://open.spotify.com/track/0ZnimFEb14Ciz5dvQJAQ3k) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:26 | 2021-12-28 |  |
 | [Take Me Back Remix \- feat\. Sway & Chipmunk](https://open.spotify.com/track/4MqsdeW1195zZVaMDSWbvj) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Take Me Back](https://open.spotify.com/album/0AGt9wI36usQYCNSTd0aQK) | 4:17 | 2021-12-28 |  |
-| [Tattoo](https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:12 | 2021-12-28 |  |
+| [Tattoo](https://open.spotify.com/track/6n1kUdwc699rJD3A7sBKqb) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:12 | 2021-12-28 | 2024-05-21 |
 | [Telling The World](https://open.spotify.com/track/42AcnfPuSV3i6iWA0OfwTw) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Rokstarr \(Special Edition\)](https://open.spotify.com/album/7CCqoU4oEIV3bSLm75IL5n) | 3:32 | 2021-12-28 |  |
 | [There She Goes](https://open.spotify.com/track/5tmuKTnfayZkjDlukTz3vT) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [There She Goes](https://open.spotify.com/album/6lIsiWfNLzYcGQE6FmwJwt) | 3:28 | 2021-12-28 |  |
 | [Time For You](https://open.spotify.com/track/5INdME9pj1dzHgHaQDIuwY) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [Time For You](https://open.spotify.com/album/72J1dmhoEB2IFkRLMP5ZAR) | 3:19 | 2021-12-28 | 2022-11-24 |
 | [Time For You](https://open.spotify.com/track/7L7rl2MmkCU5I7XrTB48pB) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Wonder Stereo](https://open.spotify.com/artist/4P2qfdEHx0ObXclFvHh1fn) | [Time For You](https://open.spotify.com/album/2qSrzMIwPfV7SvbajqhGV8) | 3:19 | 2022-11-23 |  |
 | [Troublemaker](https://open.spotify.com/track/60Qa4MfNC1dgVfuDF6rgMS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:40 | 2021-12-28 |  |
-| [World In Our Hands](https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 | 2021-12-28 | 2024-05-20 |
+| [World In Our Hands](https://open.spotify.com/track/79xJXZeudmfMq4ay9yCFGd) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 | 2021-12-28 |  |
 | [You're Beautiful](https://open.spotify.com/track/4E8dV8dmrt8bz6sTV6tKF6) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:19 | 2021-12-28 |  |
 
 \*This playlist was first scraped on 2021-12-29. Prior content cannot be recovered.

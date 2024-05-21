@@ -4,7 +4,7 @@
 
 > 
 
-783 songs - 1 day 16 hr 4 min
+784 songs - 1 day 16 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Daylight](https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:44 | 2023-10-06 |  |
 | [deads](https://open.spotify.com/track/5K5htxLPB8ade25lAtz4da) | [landon\_fr\_tho](https://open.spotify.com/artist/4PCryXFB3crhcB81zQMaJf) | [deads](https://open.spotify.com/album/29PYIRiQWbb4iiaRLEt43y) | 3:29 | 2023-08-30 |  |
 | [Dealership \(feat\. Dougie B & TG Crippy\)](https://open.spotify.com/track/5l2d3o5lS5MXnWD9o85FUD) | [Kay Flock](https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu), [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj), [TG Crippy](https://open.spotify.com/artist/2imWKJY5TRQoXxDmKsIHps) | [The D.O.A\. Tape \(Care Package\)](https://open.spotify.com/album/6fKx0UeCduyu1piUvBZJqg) | 3:00 | 2022-12-09 |  |
+| [Deep End](https://open.spotify.com/track/1yZpdHZpwnnT7Evpo7W2ZX) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Deep End](https://open.spotify.com/album/6YMwAuclDCYoo0D0fpwFyC) | 2:26 | 2024-05-20 |  |
 | [Deep End Freestyle](https://open.spotify.com/track/2AlYncTpVHKwHb55F9lF6O) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 1:55 | 2022-06-22 |  |
 | [Deep End Freestyle](https://open.spotify.com/track/4zTPYAf5scZdp0LnwPPeWK) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Deep End Freestyle](https://open.spotify.com/album/39sypxAyq6TZFqz8CMK3tJ) | 1:55 | 2022-05-25 |  |
 | [Demon Mode](https://open.spotify.com/track/6UV4EJ3NcUcqZ3Dksrbn5A) | [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Who is Nardo Wick?? \(Deluxe\)](https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi) | 2:58 | 2022-10-21 |  |

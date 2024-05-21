@@ -1,6 +1,6 @@
 {
   "description": "New indie driving the current. Cover: Jelani Aryeh",
-  "num_followers": 45027,
+  "num_followers": 45037,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "A Little Love",
         "url": "https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 201893,
       "name": "A Little Love",
       "url": "https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -837,6 +837,26 @@
       "url": "https://open.spotify.com/track/7dkPG811ZnHikb319Jzskd"
     },
     {
+      "added_at": "2024-05-18 00:20:00",
+      "album": {
+        "name": "Undecided",
+        "url": "https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG"
+      },
+      "artists": [
+        {
+          "name": "Christian Kuria",
+          "url": "https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG"
+        },
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "duration_ms": 145226,
+      "name": "Undecided",
+      "url": "https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d"
+    },
+    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "What Box?",
@@ -851,22 +871,6 @@
       "duration_ms": 184826,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "alone",
-        "url": "https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 127280,
-      "name": "alone",
-      "url": "https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE"
     }
   ],
   "unique_name": "Indie Frequency",

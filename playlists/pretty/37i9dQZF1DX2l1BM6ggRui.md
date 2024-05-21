@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,496 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,494 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 38 | [Take it To the Grave](https://open.spotify.com/track/3xq5Xe4iYlYypb2YUUTJwx) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Take it To the Grave](https://open.spotify.com/album/0AQw1etI1NpTj2kSCbEY8A) | 3:26 |
 | 39 | [WE NEED LOVE](https://open.spotify.com/track/1WJtCrPY9tA5QSbBqwBmUU) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:15 |
 | 40 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 |
-| 41 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
-| 42 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
-| 43 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 |
-| 44 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 |
+| 41 | [Once In a Summer \(feat\. Ashley Alisha & Kelsey Kuan\)](https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [Once In a Summer](https://open.spotify.com/album/7mieRQVDslmslEystozZ0t) | 3:20 |
+| 42 | [FREE SMILE](https://open.spotify.com/track/1TEv7OolmCRlF8TuZiNczt) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [Seoul Check\-in OST Part 10](https://open.spotify.com/album/7oCrCB3pOE6zMjHLqnr1r9) | 3:21 |
+| 43 | [Dreaming](https://open.spotify.com/track/6krdrtQ0fDRwQ2AGNfcoxl) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:05 |
+| 44 | [Sing\-a\-song](https://open.spotify.com/track/3kUa4w9ydwOReSjFAi7c8y) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [LOVE or TAKE](https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV) | 2:50 |
 | 45 | [Be with me](https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 4:37 |
 | 46 | [SKIP \(Feat\. Wonstein\)](https://open.spotify.com/track/1RMu8HCu8CgsKxweS14mdK) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 2:51 |
 | 47 | [Strawberry Smoothie](https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [Farmers \(Original Soundtrack\)](https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j) | 2:37 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 49 | [Tutorial](https://open.spotify.com/track/4hYcI5bg1lu4LwjRKJlS9V) | [Fishingirls](https://open.spotify.com/artist/3sEqL7PBWr9jrCxB1tV6DI) | [Visible World](https://open.spotify.com/album/41raa6r0NfpRzanU92NkKX) | 3:12 |
 | 50 | [You and I in this hard day](https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Rewind](https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ) | 3:34 |
 | 51 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
-| 52 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 |
-| 53 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
+| 52 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
+| 53 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
 | 54 | [CAPTAIN](https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:02 |
-| 55 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
+| 55 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 |
 | 56 | [\#Self\_Trip](https://open.spotify.com/track/2I0uCY7VX3XkMx9s6gMM4K) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [mOS 2.74](https://open.spotify.com/album/4vDtSmZdZmkmoqNdh9Lpcv) | 3:01 |
 | 57 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 |
 | 58 | [Please Know my feeling](https://open.spotify.com/track/7ETo54VuGQl4Zts6oEpnBH) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [Jinxed at First \(Original Television Soundtrack\), Pt.3](https://open.spotify.com/album/1gk8ByHN06v21oDuVTnhUa) | 3:34 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,591 likes - 65 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,651 likes - 65 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 45 | [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 |
 | 46 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
 | 47 | [Jo Ann](https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys) | [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Them](https://open.spotify.com/album/5woWYPtFL1yreRRqKEGUyQ) | 2:55 |
-| 48 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
-| 49 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
+| 48 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
+| 49 | [Back Street Crawler \(Don't Need You No More\) \- Single Guitar Track Number 14](https://open.spotify.com/track/5n8EWlQ0z0yQ2ZSpy38dXe) | [Paul Kossoff](https://open.spotify.com/artist/3RWZcKPLfAHGMwQ6prAnXP) | [Back Street Crawler](https://open.spotify.com/album/3pkH2bhYueXjSIp61EXo4J) | 4:31 |
 | 50 | [Looking for Somebody](https://open.spotify.com/track/0tQtiW3o7aeWeHquYdxEZf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:51 |
 | 51 | [Married Woman](https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Married Woman](https://open.spotify.com/album/7tU7AphXFviq23ayMy9aSd) | 3:55 |
 | 52 | [Blues Deluxe](https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 7:30 |

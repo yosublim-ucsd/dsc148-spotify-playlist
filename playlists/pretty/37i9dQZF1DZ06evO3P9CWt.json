@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 275628,
+  "num_followers": 275642,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAsOulSDFANVaCfn24hLF1I",
+  "snapshot_id": "ZklBAAAAAAA2328osT6f3PPzNGXZTmgT",
   "tracks": [
     {
       "added_at": null,
@@ -223,22 +223,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SAL",
-        "url": "https://open.spotify.com/album/2QhW0MWqMoUENkeL2CFSXE"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 120000,
-      "name": "SAL",
-      "url": "https://open.spotify.com/track/4b5rbmik2mSrGo8IvjDUUp"
+      "duration_ms": 128067,
+      "name": "Garupa",
+      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,
@@ -263,42 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
-      },
-      "artists": [
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 128067,
-      "name": "Garupa",
-      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 155597,
-      "name": "A Lua",
-      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -319,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical Vol. 2",
-        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
       "artists": [
         {
@@ -328,9 +292,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Me Usa",
-      "url": "https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH"
+      "duration_ms": 155597,
+      "name": "A Lua",
+      "url": "https://open.spotify.com/track/5yKXn2WXISKovZSzczhBI9"
     },
     {
       "added_at": null,
@@ -363,6 +327,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical Vol. 2",
+        "url": "https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 168266,
+      "name": "Cadeado",
+      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AFTER",
         "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
@@ -387,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
       },
       "artists": [
         {
@@ -396,9 +392,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 168266,
-      "name": "Cadeado",
-      "url": "https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ"
+      "duration_ms": 147289,
+      "name": "Apaixonada",
+      "url": "https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa"
     },
     {
       "added_at": null,
@@ -412,25 +408,9 @@
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/0vPKkAQAh4L7wpNmAemr5E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 147289,
-      "name": "Apaixonada",
-      "url": "https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa"
+      "duration_ms": 240400,
+      "name": "Me Usa",
+      "url": "https://open.spotify.com/track/6MOYPvxZK3vkwZDLUcAunH"
     },
     {
       "added_at": null,
@@ -467,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 179489,
+      "name": "\u00c2nsia",
+      "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dawn Of Chromatica",
         "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
@@ -483,22 +479,6 @@
       "duration_ms": 140968,
       "name": "Fun Tonight - Pabllo Vittar Remix",
       "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 179489,
-      "name": "\u00c2nsia",
-      "url": "https://open.spotify.com/track/3KgZPCgxOKqOeR5VEZXK43"
     },
     {
       "added_at": null,
@@ -543,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 114951,
+      "name": "Ultra Som",
+      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
@@ -559,22 +555,6 @@
       "duration_ms": 170649,
       "name": "Corpo Sensual (feat. Mateus Carrilho)",
       "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 114951,
-      "name": "Ultra Som",
-      "url": "https://open.spotify.com/track/22xeSdbkS1rjlw0J7alewY"
     },
     {
       "added_at": null,
@@ -851,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 166108,
+      "name": "No Hablo Espa\u00f1ol",
+      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cavalgada",
         "url": "https://open.spotify.com/album/044NoY1Exsn2gjc7N9yNmZ"
       },
@@ -867,26 +863,6 @@
       "duration_ms": 121638,
       "name": "Cavalgada",
       "url": "https://open.spotify.com/track/299c1FN7oTHwldS1risWZ8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 158544,
-      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
-      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
     },
     {
       "added_at": null,
@@ -927,6 +903,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 158544,
+      "name": "Trago seu Amor de Volta (feat. Dilsinho)",
+      "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pop 2",
         "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
@@ -955,22 +951,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Para N\u00e3o",
-        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 166108,
-      "name": "No Hablo Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/5HRzqOUfdVsHxDEBQImCT3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -983,6 +963,22 @@
       "duration_ms": 39106,
       "name": "Noitada INTRO",
       "url": "https://open.spotify.com/track/2hXH0lq9mfxS8EVFsWOwmW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "N\u00e3o Para N\u00e3o",
+        "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 137422,
+      "name": "Buzina",
+      "url": "https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

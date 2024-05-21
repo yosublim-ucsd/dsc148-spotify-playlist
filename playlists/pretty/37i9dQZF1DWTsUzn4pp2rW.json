@@ -1,6 +1,6 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 153175,
+  "num_followers": 153218,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-04-09 17:20:20",
       "album": {
-        "name": "Listen To The Sky",
-        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
-      },
-      "artists": [
-        {
-          "name": "Laura Misch",
-          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
-        }
-      ],
-      "duration_ms": 172042,
-      "name": "Listen To The Sky",
-      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
-    },
-    {
-      "added_at": "2024-04-09 17:20:20",
-      "album": {
         "name": "H I M",
         "url": "https://open.spotify.com/album/0LUSruguMIMs9obYyOIEyi"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 220728,
       "name": "H I M",
       "url": "https://open.spotify.com/track/3OGNJCG3qpQmPbHTfkFWLf"
+    },
+    {
+      "added_at": "2024-04-09 17:20:20",
+      "album": {
+        "name": "Listen To The Sky",
+        "url": "https://open.spotify.com/album/00bIOJIJU7WyTxdPIaglZl"
+      },
+      "artists": [
+        {
+          "name": "Laura Misch",
+          "url": "https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe"
+        }
+      ],
+      "duration_ms": 172042,
+      "name": "Listen To The Sky",
+      "url": "https://open.spotify.com/track/19OYmVAI2mdkbAj1dW0DYd"
     },
     {
       "added_at": "2024-04-09 17:20:20",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-04-09 17:20:20",
       "album": {
+        "name": "No Meanness",
+        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
+      },
+      "artists": [
+        {
+          "name": "Madeleine Peyroux",
+          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
+        }
+      ],
+      "duration_ms": 238524,
+      "name": "No Meanness",
+      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
+    },
+    {
+      "added_at": "2024-04-09 17:20:20",
+      "album": {
         "name": "Song Like Ours",
         "url": "https://open.spotify.com/album/7AKjEmKNF4wC8DEvwdE74Q"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 298549,
       "name": "Song Like Ours",
       "url": "https://open.spotify.com/track/1t046djogoVhEYfCWRxxNU"
-    },
-    {
-      "added_at": "2024-04-09 17:20:20",
-      "album": {
-        "name": "No Meanness",
-        "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
-      },
-      "artists": [
-        {
-          "name": "Madeleine Peyroux",
-          "url": "https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef"
-        }
-      ],
-      "duration_ms": 238524,
-      "name": "No Meanness",
-      "url": "https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO"
     },
     {
       "added_at": "2024-04-09 17:20:20",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2024-04-09 17:20:20",
       "album": {
-        "name": "Baby, It's Cold Outside",
-        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
-      },
-      "artists": [
-        {
-          "name": "JP Maurice",
-          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
-        },
-        {
-          "name": "Pyper Geddes",
-          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
-        }
-      ],
-      "duration_ms": 188273,
-      "name": "Baby, It's Cold Outside",
-      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
-    },
-    {
-      "added_at": "2024-04-09 17:20:20",
-      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD"
       },
@@ -1343,6 +1323,26 @@
       "duration_ms": 267302,
       "name": "Let's Go to Bed",
       "url": "https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN"
+    },
+    {
+      "added_at": "2024-04-09 17:20:20",
+      "album": {
+        "name": "Baby, It's Cold Outside",
+        "url": "https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg"
+      },
+      "artists": [
+        {
+          "name": "JP Maurice",
+          "url": "https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt"
+        },
+        {
+          "name": "Pyper Geddes",
+          "url": "https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ"
+        }
+      ],
+      "duration_ms": 188273,
+      "name": "Baby, It's Cold Outside",
+      "url": "https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe"
     },
     {
       "added_at": "2024-04-09 17:20:20",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-04-09 17:20:20",
       "album": {
-        "name": "Sleepy Time",
-        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
-      },
-      "artists": [
-        {
-          "name": "Imajjine",
-          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
-        }
-      ],
-      "duration_ms": 158641,
-      "name": "Sleepy Time",
-      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2024-04-09 17:20:20",
-      "album": {
         "name": "Chamomile Tea",
         "url": "https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 252261,
       "name": "Chamomile Tea",
       "url": "https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME"
+    },
+    {
+      "added_at": "2024-04-09 17:20:20",
+      "album": {
+        "name": "Sleepy Time",
+        "url": "https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV"
+      },
+      "artists": [
+        {
+          "name": "Imajjine",
+          "url": "https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL"
+        }
+      ],
+      "duration_ms": 158641,
+      "name": "Sleepy Time",
+      "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
     },
     {
       "added_at": "2024-04-09 17:20:20",

@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "AUTOMOTIVO PA PA PAPAI",
+        "url": "https://open.spotify.com/album/6jQlknQwPszOU2pYBkNmO5"
+      },
+      "artists": [
+        {
+          "name": "DJ RIO",
+          "url": "https://open.spotify.com/artist/0ayuHZiwRQ5jXBaGGSEjBv"
+        },
+        {
+          "name": "0to8",
+          "url": "https://open.spotify.com/artist/5MQG067ASfGn0Cf1nE0S8g"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70704,
+      "name": "AUTOMOTIVO PA PA PAPAI - Slowed",
+      "url": "https://open.spotify.com/track/1I7Pdx7hEYo3E30efYHO6x"
+    },
+    {
+      "album": {
         "name": "Automotivo XM, Taka Taka Taka T\u00e1",
         "url": "https://open.spotify.com/album/12djCPA2ISdr1H8jbU9lIY"
       },
@@ -504,7 +526,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 285176,
       "name": "Buurman Uit Berlijn",
       "url": "https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6"
@@ -5068,7 +5090,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 183577,
       "name": "ZORRA",
       "url": "https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z"
@@ -5214,7 +5236,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 225095,
       "name": "\u0411\u043b\u044f\u0434\u0441\u043a\u0430\u044f \u043d\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/0dp4EOJL4KtiHKgSTVoQZ6"
@@ -5268,7 +5290,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 225163,
       "name": "\u0411\u043b\u044f\u0434\u0441\u043a\u0430\u044f \u043d\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/7ekNp0qJbdkkcKvxICLsSF"
@@ -5388,7 +5410,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 190213,
       "name": "\u0412 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0440\u0430\u0437",
       "url": "https://open.spotify.com/track/3AQaEqdtm7DVQlBZBw6ZQh"

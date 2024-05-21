@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,366 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,391 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 91 | [Dormir No He Podido](https://open.spotify.com/track/5sRv4AqGhldtlXHmCmM57h) | [Sucesión M](https://open.spotify.com/artist/2Cxqiw8iTT18OMjlq033V6), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Dormir No He Podido](https://open.spotify.com/album/6pLIBusy2DZAWfm9c77F0M) | 2:57 |
 | 92 | [Nuestras Vidas](https://open.spotify.com/track/2Hi7EbQELE4aJHLbP05v1P) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5), [Omar Rodriguez](https://open.spotify.com/artist/49rfzquok2HChfbpCvvHKD) | [Nuestras Vidas](https://open.spotify.com/album/50sHLZrA8kqPy9Xw5bbj8C) | 3:03 |
 | 93 | [Tú Te Mereces](https://open.spotify.com/track/0jSCU4pckTESxGEzNu2Zz0) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [Cápsulas](https://open.spotify.com/album/4rM66c2S8Z3pOTlmme6qKg) | 3:10 |
-| 94 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 |
-| 95 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
+| 94 | [Muy Tarde](https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H) | [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Casa Lumbre](https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR) | 3:09 |
+| 95 | [No Hay Nadie Mas](https://open.spotify.com/track/5trbQ35GE77zBtGZbwGeCp) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE), [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [No Hay Nadie Mas](https://open.spotify.com/album/68stO76KyOkmVTvhYjwDHu) | 3:43 |
 | 96 | [Ella](https://open.spotify.com/track/0tKl8ZVM6xJkhznvJAS3Nq) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 4:19 |
 | 97 | [LOKERON X AMOR](https://open.spotify.com/track/0OG0qjJ9gN85kWZtIzW5uS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [$AD BOYZ 4 LIFE II](https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG) | 3:11 |
 | 98 | [Loco Enamorado](https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Loco Enamorado](https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N) | 3:46 |

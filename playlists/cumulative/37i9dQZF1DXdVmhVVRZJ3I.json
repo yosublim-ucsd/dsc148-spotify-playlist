@@ -910,7 +910,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 152238,
       "name": "Mr. Navigator",
       "url": "https://open.spotify.com/track/6MUZSRiBO5mpq5qQkFgAgz"
@@ -1750,6 +1750,28 @@
       "duration_ms": 147540,
       "name": "What's Up",
       "url": "https://open.spotify.com/track/12yj178KaJo8PrddT0StaL"
+    },
+    {
+      "album": {
+        "name": "where is your pride?",
+        "url": "https://open.spotify.com/album/2gC9Z5MHfmUkW2e3uHw56f"
+      },
+      "artists": [
+        {
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
+        },
+        {
+          "name": "Benjamin Zephaniah",
+          "url": "https://open.spotify.com/artist/43Y2qDsaehzl7U9s2RtFX6"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "where is your pride?",
+      "url": "https://open.spotify.com/track/5H8f92czIxzvXko1n7toHZ"
     },
     {
       "album": {

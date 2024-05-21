@@ -1,6 +1,6 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 69680,
+  "num_followers": 69685,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Colmillo De Leche",
-        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
         "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 279213,
       "name": "Lo Que Construimos",
       "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Colmillo De Leche",
+        "url": "https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/25OeKzcqakFPaJlXHPE5lm"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Calle Sin Salida",
-        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 170240,
-      "name": "Calle Sin Salida",
-      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Latin & Love Studies",
         "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 212949,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/7idoiWKligF3jmM8FMf6c6"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Calle Sin Salida",
+        "url": "https://open.spotify.com/album/1Ke6IPJ6jyHU7iSB8zfoJL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 170240,
+      "name": "Calle Sin Salida",
+      "url": "https://open.spotify.com/track/7u64Ni9wtAz1D5LOOth2TH"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Tu Amor No Vale un Bolero",
-        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
-      },
-      "artists": [
-        {
-          "name": "Pilar Cabrera",
-          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
-        },
-        {
-          "name": "Lorena Jimenez",
-          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
-        }
-      ],
-      "duration_ms": 206710,
-      "name": "Tu Amor No Vale un Bolero",
-      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Ciudadana del Mundo Volumen 1",
         "url": "https://open.spotify.com/album/2vhg2TUJPxODrZhLwtp8bR"
       },
@@ -1135,6 +1115,26 @@
       "duration_ms": 202773,
       "name": "La Flor De La Canela",
       "url": "https://open.spotify.com/track/1uNBXMLgAC1mx1KH7reIG5"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Tu Amor No Vale un Bolero",
+        "url": "https://open.spotify.com/album/66x0bo3TSXpCZLKMF4NjzQ"
+      },
+      "artists": [
+        {
+          "name": "Pilar Cabrera",
+          "url": "https://open.spotify.com/artist/5gutZJ2QQFov3bjvQftsva"
+        },
+        {
+          "name": "Lorena Jimenez",
+          "url": "https://open.spotify.com/artist/4DdnLfUESB3baPYYdT0sNu"
+        }
+      ],
+      "duration_ms": 206710,
+      "name": "Tu Amor No Vale un Bolero",
+      "url": "https://open.spotify.com/track/0hKJCsS3XUVEECfslnauKv"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Hace Tiempo",
-        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 252413,
-      "name": "Hace Tiempo",
-      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Chavela Vargas",
         "url": "https://open.spotify.com/album/2Z3BXtXY75OOYcJljBozCb"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 147666,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/0aYUIQyAR6P7R4FtEEG9Ik"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Hace Tiempo",
+        "url": "https://open.spotify.com/album/0MxQ1anNCPBb8nd8rQhe2J"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 252413,
+      "name": "Hace Tiempo",
+      "url": "https://open.spotify.com/track/6ogB0aCCl5XVujpCruVvrm"
     },
     {
       "added_at": "2023-06-15 16:40:57",

@@ -1,6 +1,6 @@
 {
   "description": "The best alternative songs of the decade. Cover: Glass Animals",
-  "num_followers": 905125,
+  "num_followers": 905078,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Pure Heroine",
-        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 193058,
-      "name": "Team",
-      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "All My Demons Greeting Me As A Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 248826,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Pure Heroine",
+        "url": "https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 193058,
+      "name": "Team",
+      "url": "https://open.spotify.com/track/3G6hD9B2ZHOsgf4WfNu7X1"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -527,6 +527,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
         "name": "Mura Masa",
         "url": "https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -627,18 +627,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Passive Me, Aggressive You",
-        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
         }
       ],
-      "duration_ms": 246600,
-      "name": "Young Blood",
-      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+      "duration_ms": 218754,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "As the World Caves In",
-        "url": "https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0"
+        "name": "Passive Me, Aggressive You",
+        "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
       "artists": [
         {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 218754,
-      "name": "As the World Caves In",
-      "url": "https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD"
+      "duration_ms": 246600,
+      "name": "Young Blood",
+      "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Wild World",
-        "url": "https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Staying at Tamara's",
         "url": "https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 222044,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "Wild World",
+        "url": "https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Good Grief",
+      "url": "https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "My Love Is Cool",
-        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
-      },
-      "artists": [
-        {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
-        }
-      ],
-      "duration_ms": 224720,
-      "name": "Bros",
-      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
-    },
-    {
-      "added_at": "2022-09-29 15:30:40",
-      "album": {
         "name": "Chaleur Humaine",
         "url": "https://open.spotify.com/album/0xWXamgZr4z2zSYrvcoOar"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 233247,
       "name": "Tilted",
       "url": "https://open.spotify.com/track/2ILilOGEh31uHITYFazrLM"
+    },
+    {
+      "added_at": "2022-09-29 15:30:40",
+      "album": {
+        "name": "My Love Is Cool",
+        "url": "https://open.spotify.com/album/2L82g2rqAlNBcADFzayJBU"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 224720,
+      "name": "Bros",
+      "url": "https://open.spotify.com/track/2PIcAQiSOayFwJrfWc72Qc"
     },
     {
       "added_at": "2022-09-29 15:30:40",

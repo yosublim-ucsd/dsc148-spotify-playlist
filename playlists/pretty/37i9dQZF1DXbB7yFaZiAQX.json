@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1036512,
+  "num_followers": 1036651,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Fine Young Cannibals",
+        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 215733,
+      "name": "Johnny Come Home",
+      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Lion and the Cobra",
         "url": "https://open.spotify.com/album/5dVe3a5ld9uJC4VlpAXoJ6"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 323133,
       "name": "Drink Before the War",
       "url": "https://open.spotify.com/track/5Bmc87iF3wRWGyDbzcMrG3"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "Off The Bone",
-        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
-      },
-      "artists": [
-        {
-          "name": "The Cramps",
-          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
-        }
-      ],
-      "duration_ms": 136426,
-      "name": "Human Fly",
-      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -667,18 +667,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Fine Young Cannibals",
-        "url": "https://open.spotify.com/album/7KQgihtbLnpyr3KVk9OqYB"
+        "name": "Off The Bone",
+        "url": "https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi"
       },
       "artists": [
         {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
         }
       ],
-      "duration_ms": 215733,
-      "name": "Johnny Come Home",
-      "url": "https://open.spotify.com/track/4fFxkU9C7prSviiYtvlV8V"
+      "duration_ms": 136426,
+      "name": "Human Fly",
+      "url": "https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "English Settlement",
+        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 290667,
+      "name": "Senses Working Overtime - Remastered 2001",
+      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Colour of Spring",
         "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "English Settlement",
-        "url": "https://open.spotify.com/album/2fDm6GpssR8S6uQnDE4MKM"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 290667,
-      "name": "Senses Working Overtime - Remastered 2001",
-      "url": "https://open.spotify.com/track/0XDv7SLyMkGcAnb12fMHa1"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
-      },
-      "artists": [
-        {
-          "name": "Elvis Costello",
-          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Veronica",
-      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Robbie Robertson",
         "url": "https://open.spotify.com/album/7uQeo4W4xhKTUtN8Tmo31J"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 295373,
       "name": "Somewhere Down The Crazy River",
       "url": "https://open.spotify.com/track/4RiC0i1VIybdCtTIVhqVVH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Spike",
+        "url": "https://open.spotify.com/album/6WCPlKBxKr7yV26WA4GuSr"
+      },
+      "artists": [
+        {
+          "name": "Elvis Costello",
+          "url": "https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Veronica",
+      "url": "https://open.spotify.com/track/5zHgT1ibsBrSOEnQwZapto"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 338808,
+      "name": "New Gold Dream (81/82/83/84)",
+      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Best of Depeche Mode, Vol. 1 (Deluxe)",
         "url": "https://open.spotify.com/album/0h1RmJe86n74nWpNWWb2dj"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 391426,
       "name": "Rapture - Remastered 2001",
       "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 338808,
-      "name": "New Gold Dream (81/82/83/84)",
-      "url": "https://open.spotify.com/track/7MhDU9xSWM1LPQGPFkAEJC"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Sons And Fascination/Sister Feelings Call",
+        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 351866,
+      "name": "Theme For Great Cities",
+      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "Album (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/2MUwvNwZBBCUTqB1p4QTLN"
       },
@@ -1747,22 +1763,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Sons And Fascination/Sister Feelings Call",
-        "url": "https://open.spotify.com/album/03EYECAWPAsVJmv5rfT4Dq"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 351866,
-      "name": "Theme For Great Cities",
-      "url": "https://open.spotify.com/track/5HbCsT9WyEhnhw75QUr1A5"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t"
       },
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "From The Lion's Mouth",
-        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
-      },
-      "artists": [
-        {
-          "name": "The Sound",
-          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
-        }
-      ],
-      "duration_ms": 258079,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Good Vibes - The Very Best of Laid Back",
         "url": "https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 237320,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/3FeQweSLSbVkLcPDZuTiGX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "From The Lion's Mouth",
+        "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
+      },
+      "artists": [
+        {
+          "name": "The Sound",
+          "url": "https://open.spotify.com/artist/4hzCcF4Leos2sKnz79nwhz"
+        }
+      ],
+      "duration_ms": 258079,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Cosmic Thing",
-        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
-      },
-      "artists": [
-        {
-          "name": "The B-52's",
-          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
-        }
-      ],
-      "duration_ms": 290066,
-      "name": "Channel Z",
-      "url": "https://open.spotify.com/track/2W5MOhFWk9rPsMHQMqfTdj"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Tc Matic",
         "url": "https://open.spotify.com/album/0vbUh7tsxHV4AlpKVrxIm0"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 197373,
       "name": "O La La La",
       "url": "https://open.spotify.com/track/09uuSsYh4Gti5Ek6kUh17G"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Cosmic Thing",
+        "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
+      },
+      "artists": [
+        {
+          "name": "The B-52's",
+          "url": "https://open.spotify.com/artist/3gdbcIdNypBsYNu3iiCjtN"
+        }
+      ],
+      "duration_ms": 290066,
+      "name": "Channel Z",
+      "url": "https://open.spotify.com/track/2W5MOhFWk9rPsMHQMqfTdj"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Assemblage",
-        "url": "https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 211600,
-      "name": "Life in Tokyo",
-      "url": "https://open.spotify.com/track/7mJl9BQhvdao4M8s5houTL"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Cupid & Psyche 85",
         "url": "https://open.spotify.com/album/0nBH3ITWaQDYT2wAWRdg3K"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 288080,
       "name": "Wood Beez",
       "url": "https://open.spotify.com/track/5uhxoEaWGasTiGwLV6azhH"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Assemblage",
+        "url": "https://open.spotify.com/album/0dAsUU19ezkLw7ZUMgdfc3"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 211600,
+      "name": "Life in Tokyo",
+      "url": "https://open.spotify.com/track/7mJl9BQhvdao4M8s5houTL"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "A Brief History Of The 20th Century",
-        "url": "https://open.spotify.com/album/50FXBXMSnzly1s5uIlNW7x"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 299600,
-      "name": "To Hell With Poverty",
-      "url": "https://open.spotify.com/track/5meAeH2xj8CkB5ZUahQJQ6"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Tin Drum",
         "url": "https://open.spotify.com/album/71R4tl3qYgZVvdlwE7Fxs6"
       },
@@ -2351,6 +2335,22 @@
       "duration_ms": 219240,
       "name": "Visions Of China - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/4GSXKqgFojRdeTxBZql858"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "A Brief History Of The 20th Century",
+        "url": "https://open.spotify.com/album/50FXBXMSnzly1s5uIlNW7x"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 299600,
+      "name": "To Hell With Poverty",
+      "url": "https://open.spotify.com/track/5meAeH2xj8CkB5ZUahQJQ6"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Correct Use Of Soap",
-        "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
-      },
-      "artists": [
-        {
-          "name": "Magazine",
-          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
-        }
-      ],
-      "duration_ms": 237653,
-      "name": "Because You're Frightened - Remastered 2007",
-      "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Aural Sculpture",
         "url": "https://open.spotify.com/album/1MruYes9jkQuAoX4NezhUt"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 218040,
       "name": "No Mercy",
       "url": "https://open.spotify.com/track/7BWKaQMPcRvpcEqSgTgnoL"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Correct Use Of Soap",
+        "url": "https://open.spotify.com/album/0CADblPa3Ui6lnv4251m08"
+      },
+      "artists": [
+        {
+          "name": "Magazine",
+          "url": "https://open.spotify.com/artist/4VuMnSnoTGrma3a79UhfMs"
+        }
+      ],
+      "duration_ms": 237653,
+      "name": "Because You're Frightened - Remastered 2007",
+      "url": "https://open.spotify.com/track/7I2F04fUq0DAetR5BMcQYc"
     }
   ],
   "unique_name": "'80s All Lined Up",

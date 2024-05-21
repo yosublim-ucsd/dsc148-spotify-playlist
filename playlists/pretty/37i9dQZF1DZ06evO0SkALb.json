@@ -1,12 +1,12 @@
 {
-  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 11372,
+  "description": "This Is Lou Rawls. Los temas esenciales, todos en una lista.",
+  "num_followers": 11374,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABJeVXo13yk23qrPwJaJquG",
+  "snapshot_id": "ZklBAAAAAAC+RDDWJ0XTq7VBsxVtQU4G",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary Lou Rawls",
-        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 134426,
-      "name": "Love Is A Hurtin' Thing",
-      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural Man / Classic Lou",
         "url": "https://open.spotify.com/album/2AuskfemNIIJnipCT670GV"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 221960,
       "name": "A Natural Man",
       "url": "https://open.spotify.com/track/1UhY3dJlChFoC9dOkD4ZzO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary Lou Rawls",
+        "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 134426,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/6vR08FrdLqK0hiC2Y75s4O"
     },
     {
       "added_at": null,
@@ -352,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 231653,
-      "name": "Not the Staying Kind",
-      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
     },
     {
       "added_at": null,
@@ -416,9 +416,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sit Down and Talk to Me",
-        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+        "name": "Rhymes and Reasons",
+        "url": "https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I"
       },
       "artists": [
         {
@@ -544,25 +544,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 278946,
-      "name": "Ain't That Loving You (For More Reasons Than One)",
-      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 176466,
-      "name": "For What It's Worth",
-      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+      "duration_ms": 200400,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
     },
     {
       "added_at": null,
@@ -583,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rhymes and Reasons",
-        "url": "https://open.spotify.com/album/6Jj2Qzi6a9x8FPWNe10x8I"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -592,9 +576,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/0mUqSrAlGBQ1zHEwAjCZmz"
+      "duration_ms": 176466,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sit Down and Talk to Me",
+        "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 278946,
+      "name": "Ain't That Loving You (For More Reasons Than One)",
+      "url": "https://open.spotify.com/track/0ezc7VHZO0SIicdSFHcfmf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 294720,
       "name": "From Now On",
       "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anthology-Lou Rawls",
-        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 267333,
-      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
-      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
       "duration_ms": 163813,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/6GK5AN2ezW2QVVSDUhS9g0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anthology-Lou Rawls",
+        "url": "https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 267333,
+      "name": "You've Made Me So Very Happy - 2000 Digital Remaster",
+      "url": "https://open.spotify.com/track/4q7sSG5Ki7S9DqrjPztywV"
     },
     {
       "added_at": null,
@@ -727,6 +727,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stormy Monday",
+        "url": "https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        },
+        {
+          "name": "Les McCann",
+          "url": "https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI"
+        }
+      ],
+      "duration_ms": 357040,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/2hS8iHYwvSCJCimtWJbjun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When You Hear Lou, You've Heard It All",
         "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
       },
@@ -755,6 +775,22 @@
       "duration_ms": 232826,
       "name": "Wind Beneath My Wings - Single Version",
       "url": "https://open.spotify.com/track/3U5Lm60H6RteX9C0dpi7QT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black And Blue",
+        "url": "https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
     },
     {
       "added_at": null,
@@ -795,38 +831,6 @@
       "duration_ms": 222960,
       "name": "Save the Bones for Henry Jones",
       "url": "https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Edge: David Axelrod At Capitol Records 1966-1970",
-        "url": "https://open.spotify.com/album/5wK9u9A4mDMLy8oaZOTI9K"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 111586,
-      "name": "Lifetime Monologue - Remastered",
-      "url": "https://open.spotify.com/track/2k16FSV6JCJ1fCCOc0W1UP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     }
   ],
   "unique_name": "This Is Lou Rawls",

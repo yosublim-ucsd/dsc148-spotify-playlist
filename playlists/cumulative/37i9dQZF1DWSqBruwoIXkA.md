@@ -4,7 +4,7 @@
 
 > heartbreak feels good in a place like this\. Cover: Omar Apollo
 
-731 songs - 1 day 16 hr 18 min
+732 songs - 1 day 16 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Great Gatsby](https://open.spotify.com/track/4M68xjcc42oxyphhzpOWXS) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:26 | 2023-11-20 |  |
 | [Grew Apart](https://open.spotify.com/track/73aofsDvxQznhWLfgQ5gBz) | [Logan Mize](https://open.spotify.com/artist/7tje8UB3cuR1ZfeJx2U38T), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Still That Kid](https://open.spotify.com/album/6f2fSCVZvFScRgppc1MTVv) | 2:49 | 2021-12-17 | 2022-10-15 |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2021-12-17 | 2022-10-22 |
-| [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-10 |  |
+| [Grown Up](https://open.spotify.com/track/0cQmfcB9mcWOWXRbSRcCAL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Grown Up](https://open.spotify.com/album/0rfORRsWSwtcIPPSnkI7fE) | 2:54 | 2024-05-10 | 2024-05-21 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-07-14 | 2023-10-14 |
 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 | 2022-02-04 | 2022-03-15 |
 | [Half\-Life](https://open.spotify.com/track/12dHBnSG3YxP98AgsatZNr) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Half\-Life](https://open.spotify.com/album/0ppTCxRyTv1BtqsRyQDs0s) | 3:50 | 2023-11-17 | 2023-11-21 |
@@ -569,6 +569,7 @@
 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 | 2022-05-06 | 2022-12-25 |
 | [Set Me Free](https://open.spotify.com/track/3AMQKTsIR0ukMOXvPkwaKz) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Crisis / Secret / Set Me Free](https://open.spotify.com/album/62JmTTk0wLV4Y5XB5yFIt0) | 4:02 | 2021-12-17 | 2022-10-22 |
 | [Show Me Where It Hurts](https://open.spotify.com/track/4fTSQy33a3ydqjMutlytzD) | [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [Show Me Where It Hurts](https://open.spotify.com/album/6wjXojSaOcJ4PNyxCbRNmr) | 4:18 | 2022-04-08 | 2022-04-21 |
+| [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 | 2024-05-17 |  |
 | [Silver Springs \- Live at Warner Brothers Studios in Burbank, CA 5/23/97](https://open.spotify.com/track/1QEzs30PUAJJPbHL1e4NYH) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Dance](https://open.spotify.com/album/70MrKoi2AdCFBxKqeXDPHZ) | 5:41 | 2023-03-10 | 2023-05-27 |
 | [Single in September \- Acoustic](https://open.spotify.com/track/4Q0HFo67Jq6ySobJooMpOJ) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single in September \(Acoustic\)](https://open.spotify.com/album/1n450BAtvB1tYqdBo5wnWj) | 3:20 | 2022-03-25 | 2022-04-21 |
 | [Skeleton Key](https://open.spotify.com/track/3cUcHmvK9cYmOzJsa6BjXu) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Skeleton Key](https://open.spotify.com/album/2M6ggaZ4w9Qnuu7VW5rF3q) | 2:59 | 2022-12-02 | 2023-01-06 |

@@ -1387,6 +1387,28 @@
     },
     {
       "album": {
+        "name": "100 A\u00f1os de Vallenato (Vol. 2)",
+        "url": "https://open.spotify.com/album/3BmZGoE03b6LRqMRRWVy24"
+      },
+      "artists": [
+        {
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+        },
+        {
+          "name": "Ivo D\u00edaz",
+          "url": "https://open.spotify.com/artist/7lmDSLh8c0YzQZTL2OWqH5"
+        }
+      ],
+      "date_added": "2023-12-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332786,
+      "name": "La Casa en el Aire",
+      "url": "https://open.spotify.com/track/1nduLuAnEB9kWHUgH1sSL5"
+    },
+    {
+      "album": {
         "name": "100 A\u00f1os de Vallenato (Vol.2)",
         "url": "https://open.spotify.com/album/1IwtGEx8assNKobIXEK44m"
       },
@@ -2030,7 +2052,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 286640,
       "name": "Mi Diosa Humana",
       "url": "https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy"

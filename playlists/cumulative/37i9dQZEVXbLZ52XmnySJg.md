@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- India.
 
-909 songs - 2 day 6 hr 38 min
+910 songs - 2 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [80 Degrees](https://open.spotify.com/track/44Js4AnciUnHdDyBXC7sNw) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Bacthafu\*up](https://open.spotify.com/album/5EuL5Jp1caNNj9m8bQ1V6u) | 4:05 | 2021-09-17 | 2021-09-19 |
 | [9:45](https://open.spotify.com/track/6c4Po8zyQjB4cR5XgLhcGb) | [Prabh Singh](https://open.spotify.com/artist/0VAIiNSKG4DWkSaIy5qWz1), [Jay Trak](https://open.spotify.com/artist/47SaOSOqcrxSJNZUuqpLuu), [Rooh Sandhu](https://open.spotify.com/artist/54E3dYx7RpaGZaDVXJTWjr) | [9:45](https://open.spotify.com/album/5ITQeRYoVu4qRdo9TUTuuR) | 1:57 | 2023-07-17 |  |
 | [Aabaad Barbaad](https://open.spotify.com/track/3jxNbVmugKWFFc3YAVl0sD) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ludo](https://open.spotify.com/album/6FoLUhYlbncGfVYckWTqLv) | 5:09 | 2021-03-27\* | 2021-05-23 |
-| [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 | 2023-08-18 |  |
+| [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 | 2023-08-18 | 2024-05-21 |
 | [Aankhon Mein Teri](https://open.spotify.com/track/4q7IHxJrYFuo499bNJpZ2D) | [Vincent Boral](https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH) | [Aankhon Mein Teri](https://open.spotify.com/album/1n7PjfzT12WccczvTCcgfz) | 1:00 | 2023-06-13 | 2023-06-15 |
 | [Aankhon Se Batana](https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Aankhon Se Batana](https://open.spotify.com/album/57FSK7an8LmvStMZviJ8Ws) | 3:41 | 2022-05-10 | 2022-09-25 |
 | [Aashiqui Aa Gayi\(From "Radhe Shyam"\)](https://open.spotify.com/track/7I6mwEFQwpTu5ciVZWFpd4) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Aashiqui Aa Gayi \(From "Radhe Shyam"\)](https://open.spotify.com/album/4c5CZEoxiWQs8KugdzpvJd) | 4:20 | 2021-12-05 | 2022-01-19 |
@@ -567,6 +567,7 @@
 | [Mourya Re](https://open.spotify.com/track/5IvXCYI3LU2BvWtb7KqDrf) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Don](https://open.spotify.com/album/6TeyEvfuNNKYhRZpJt9BZm) | 5:50 | 2023-09-20 | 2023-09-22 |
 | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/track/1AzNN19lPYC68iacrbWL8X) | [Darbuka Siva](https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9), [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Mudhal Nee Mudivum Nee Title Track \(From "Mudhal Nee Mudivum Nee"\)](https://open.spotify.com/album/3hDQpJsEBtu5cIXUtC8ykc) | 5:32 | 2022-01-29 | 2022-04-05 |
 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 | 2024-03-02 | 2024-04-03 |
+| [MVP](https://open.spotify.com/track/5BQePe9rcCJozHK3oPayYk) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [MVP](https://open.spotify.com/album/5oCCfkVCpkSUhBUXe0pyJF) | 3:16 | 2024-05-20 |  |
 | [My Queen](https://open.spotify.com/track/13rpNJeBF33EgVtQDoItKk) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0), [Swara](https://open.spotify.com/artist/0GUPMORsfn5FMphCJyl4eF) | [My Queen](https://open.spotify.com/album/2ypH9IgalwuZJQLHX2L9oM) | 3:03 | 2024-04-07 | 2024-04-17 |
 | [My Universe](https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:46 | 2021-10-17 | 2021-11-28 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |

@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 456255,
+  "num_followers": 456390,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -713,6 +713,22 @@
       "url": "https://open.spotify.com/track/39WOd2Pd0gaffvs6q347Xy"
     },
     {
+      "added_at": "2022-09-29 00:10:44",
+      "album": {
+        "name": "Mercurial World (Deluxe)",
+        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 189004,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
+    },
+    {
       "added_at": "2023-01-04 01:09:50",
       "album": {
         "name": "20 Years Dope Noir - Oranje Album",
@@ -735,22 +751,6 @@
       "duration_ms": 185250,
       "name": "The Moon Above",
       "url": "https://open.spotify.com/track/0LSWKdrsuw8V2IQ3MsoOrF"
-    },
-    {
-      "added_at": "2022-09-29 00:10:44",
-      "album": {
-        "name": "Mercurial World (Deluxe)",
-        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -939,22 +939,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Apollonia",
-        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
-      },
-      "artists": [
-        {
-          "name": "Garden City Movement",
-          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
-        }
-      ],
-      "duration_ms": 158314,
-      "name": "Foreign Affair",
-      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/4Quvgrx92Y7qwsnLj2ht7l"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 281730,
       "name": "Love Hope Change",
       "url": "https://open.spotify.com/track/4xHul0lZ8qC7nNDgBjsJSM"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Apollonia",
+        "url": "https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu"
+      },
+      "artists": [
+        {
+          "name": "Garden City Movement",
+          "url": "https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa"
+        }
+      ],
+      "duration_ms": 158314,
+      "name": "Foreign Affair",
+      "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
     },
     {
       "added_at": "2023-03-22 17:53:19",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Virtual U",
-        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+        "name": "Mia Gargaret",
+        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
       },
       "artists": [
         {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
         }
       ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+      "duration_ms": 97643,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
+      },
+      "artists": [
+        {
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
+        }
+      ],
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
         "name": "Japan",
         "url": "https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 198842,
       "name": "Japan",
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Mia Gargaret",
-        "url": "https://open.spotify.com/album/0NZqwH80237QvwcJDlOia7"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 97643,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/3AoBaqVjy2TuyEasY6Uzta"
     },
     {
       "added_at": "2022-08-13 01:09:13",
@@ -1429,22 +1429,6 @@
       "url": "https://open.spotify.com/track/6mQHbBihOBli62026NJXje"
     },
     {
-      "added_at": "2024-01-11 02:15:10",
-      "album": {
-        "name": "SCARY WORLD",
-        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
-      },
-      "artists": [
-        {
-          "name": "Could Ever",
-          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
-        }
-      ],
-      "duration_ms": 104072,
-      "name": "NOBODY WANTS TO BE MY FRIEND",
-      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
-    },
-    {
       "added_at": "2022-09-15 12:32:00",
       "album": {
         "name": "caso de estudio",
@@ -1475,6 +1459,22 @@
       "duration_ms": 232224,
       "name": "Isle of Taste",
       "url": "https://open.spotify.com/track/5t4m1D3vZd8pBLnVAkXVJV"
+    },
+    {
+      "added_at": "2024-01-11 02:15:10",
+      "album": {
+        "name": "SCARY WORLD",
+        "url": "https://open.spotify.com/album/1Mb4Aw36sc4h1TanDJ1Eek"
+      },
+      "artists": [
+        {
+          "name": "Could Ever",
+          "url": "https://open.spotify.com/artist/7GhVDVH1jcgi1M7U0kwOck"
+        }
+      ],
+      "duration_ms": 104072,
+      "name": "NOBODY WANTS TO BE MY FRIEND",
+      "url": "https://open.spotify.com/track/6zLMERxKUjIwQcQwt0bACM"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Last Year Was Weird, Vol. 3",
-        "url": "https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "Cashmere",
-      "url": "https://open.spotify.com/track/5rvQNMTYBMarC8ed6KUPvg"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "The Universe Is Always Right",
         "url": "https://open.spotify.com/album/4rBLc32F42YkJevRUImfqJ"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 244390,
       "name": "The Universe Is Always Right",
       "url": "https://open.spotify.com/track/01XeqVgaNzcGKxJ7aNmmSo"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Last Year Was Weird, Vol. 3",
+        "url": "https://open.spotify.com/album/5dtpyo5nsi19czgSeL9MHH"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "Cashmere",
+      "url": "https://open.spotify.com/track/5rvQNMTYBMarC8ed6KUPvg"
     },
     {
       "added_at": "2022-01-14 00:57:55",

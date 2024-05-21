@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers, new and recent favorites. Cover: Serj Tankian",
-  "num_followers": 359355,
+  "num_followers": 359449,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Papercuts",
-        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 201341,
-      "name": "QWERTY",
-      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "TRUE POWER",
         "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 234945,
       "name": "There\u2019s Fear In Letting Go",
       "url": "https://open.spotify.com/track/2OYtcqflvzQwh3cMPmTHs4"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 211720,
+      "name": "Dark Matter",
+      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -275,22 +275,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Dark Matter",
-        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 211720,
-      "name": "Dark Matter",
-      "url": "https://open.spotify.com/track/0S4VR8n0KBkE6DxrjArswJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Bleeders",
         "url": "https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 274320,
       "name": "Bleeders",
       "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Papercuts",
+        "url": "https://open.spotify.com/album/1xyqxAgu1JMOQe9AdRTNSl"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 201341,
+      "name": "QWERTY",
+      "url": "https://open.spotify.com/track/4XyH7K2OWCkpABzPU18B2B"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Fake Ass Friends",
         "url": "https://open.spotify.com/album/7H7jMWjWlDy75T59WbWYsv"
       },
@@ -435,22 +451,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Chaotic",
-        "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
-      },
-      "artists": [
-        {
-          "name": "Memphis May Fire",
-          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
-        }
-      ],
-      "duration_ms": 171794,
-      "name": "Chaotic",
-      "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Songs From Savage",
         "url": "https://open.spotify.com/album/2bsVPrz9kvvjtKsD0FRahJ"
       },
@@ -463,6 +463,22 @@
       "duration_ms": 195856,
       "name": "Savage",
       "url": "https://open.spotify.com/track/0PJEfnCE6I9iGOA6A9TucF"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Chaotic",
+        "url": "https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj"
+      },
+      "artists": [
+        {
+          "name": "Memphis May Fire",
+          "url": "https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf"
+        }
+      ],
+      "duration_ms": 171794,
+      "name": "Chaotic",
+      "url": "https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -507,22 +523,6 @@
       "duration_ms": 271515,
       "name": "Don't Tell Me (feat. Ann Wilson)",
       "url": "https://open.spotify.com/track/54gHtLZx6LzToQBuHmIQHc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Everything You Wanted",
-        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
-      },
-      "artists": [
-        {
-          "name": "If Not For Me",
-          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
-        }
-      ],
-      "duration_ms": 230909,
-      "name": "Feel Me Now",
-      "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Vol. 2",
         "url": "https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 198037,
       "name": "All That I Can Give",
       "url": "https://open.spotify.com/track/2BvCKRAs9xnDzm8CFo0hi9"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Everything You Wanted",
+        "url": "https://open.spotify.com/album/7DEuDoDGatpED4PItRAXD8"
+      },
+      "artists": [
+        {
+          "name": "If Not For Me",
+          "url": "https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd"
+        }
+      ],
+      "duration_ms": 230909,
+      "name": "Feel Me Now",
+      "url": "https://open.spotify.com/track/0Qc7UYagLJkUM8xZ3b7gKJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Nightmare (The Devil)",
-        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
       },
       "artists": [
         {
-          "name": "Fame on Fire",
-          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 201110,
-      "name": "Nightmare (The Devil)",
-      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Nightmare (The Devil)",
+        "url": "https://open.spotify.com/album/0hMtI2waRMun1xrQhhdsOA"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        }
+      ],
+      "duration_ms": 201110,
+      "name": "Nightmare (The Devil)",
+      "url": "https://open.spotify.com/track/0hCNHNnXTpUXsTpi7C8RsC"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Ghost Code",
         "url": "https://open.spotify.com/album/1hgZ1sL86pnlCmAdyNSdvT"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 218600,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0WDlEgbYPtcxUn4CKoI0uU"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Living Proof",
-        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 219346,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Invincible Shield (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8"
       },
@@ -815,6 +831,22 @@
       "duration_ms": 381067,
       "name": "Invincible Shield",
       "url": "https://open.spotify.com/track/6KxSEVnd0SYtk2QiOAnMIp"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bring Me Down",
+        "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
+      },
+      "artists": [
+        {
+          "name": "Point North",
+          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
+        }
+      ],
+      "duration_ms": 233397,
+      "name": "Bring Me Down",
+      "url": "https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -871,22 +903,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Bring Me Down",
-        "url": "https://open.spotify.com/album/1vaCbsZwYga27cx2tAkvXv"
-      },
-      "artists": [
-        {
-          "name": "Point North",
-          "url": "https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r"
-        }
-      ],
-      "duration_ms": 233397,
-      "name": "Bring Me Down",
-      "url": "https://open.spotify.com/track/5lJJvdhus9lSuIro4tlOOp"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "DOOMED",
         "url": "https://open.spotify.com/album/0z0zNHnNjKVYGv3exjiCjp"
       },
@@ -907,6 +923,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "ANGEL SONG (feat. David Draiman)",
+        "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        },
+        {
+          "name": "David Draiman",
+          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
+        }
+      ],
+      "duration_ms": 186905,
+      "name": "ANGEL SONG (feat. David Draiman)",
+      "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Better Days (feat. Dorothy)",
         "url": "https://open.spotify.com/album/5kg2p6l4S8ggKJFzioquG6"
       },
@@ -923,22 +959,6 @@
       "duration_ms": 225881,
       "name": "Better Days (feat. Dorothy)",
       "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "TOMBSTONE",
-        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
-      },
-      "artists": [
-        {
-          "name": "Wage War",
-          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
-        }
-      ],
-      "duration_ms": 178400,
-      "name": "TOMBSTONE",
-      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1043,22 +1063,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "ANGEL SONG (feat. David Draiman)",
-        "url": "https://open.spotify.com/album/3xG14XU3wjw2wYCwDPvx11"
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
       },
       "artists": [
         {
-          "name": "NOTHING MORE",
-          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
-        },
-        {
-          "name": "David Draiman",
-          "url": "https://open.spotify.com/artist/74uyCKYpif9tOA7iWvXlj1"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 186905,
-      "name": "ANGEL SONG (feat. David Draiman)",
-      "url": "https://open.spotify.com/track/2P8gpYwOOL37vKoDqCFXS9"
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1095,70 +1111,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK"
+        "name": "Summertime Voodoo",
+        "url": "https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P"
       },
       "artists": [
         {
-          "name": "Self Deception",
-          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
+          "name": "Highly Suspect",
+          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
         }
       ],
-      "duration_ms": 189600,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "XOXO (feat. From Ashes to New)",
-        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        },
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 173180,
-      "name": "XOXO (feat. From Ashes to New)",
-      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 223866,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Hellstar",
-        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
-      },
-      "artists": [
-        {
-          "name": "Magnolia Park",
-          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
-        }
-      ],
-      "duration_ms": 192748,
-      "name": "Hellstar",
-      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+      "duration_ms": 221638,
+      "name": "Summertime Voodoo - Edit",
+      "url": "https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1183,18 +1147,86 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Mirror's Edge",
-        "url": "https://open.spotify.com/album/6WvjCUGtv2HTtBRfVqVEyq"
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/2muwVl04SwQCplJuV9KeLK"
       },
       "artists": [
         {
-          "name": "Northlane",
-          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
+          "name": "Self Deception",
+          "url": "https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0"
         }
       ],
-      "duration_ms": 220280,
-      "name": "Let Me Disappear",
-      "url": "https://open.spotify.com/track/73Lomnc1LsYSkjRBuk0jQd"
+      "duration_ms": 189600,
+      "name": "Hysteria",
+      "url": "https://open.spotify.com/track/4AbOnVhLJh4eR4xp1cLxCQ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/2N5wjyb8XCGAIRlwqAg98S"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 223866,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/63dgFqper9Sv4cnWXouzHf"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "XOXO (feat. From Ashes to New)",
+        "url": "https://open.spotify.com/album/3nkUcDi5y1Dtoyv61BSvZ3"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 173180,
+      "name": "XOXO (feat. From Ashes to New)",
+      "url": "https://open.spotify.com/track/0DOb9eUpN4IdOavA586ABB"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Hellstar",
+        "url": "https://open.spotify.com/album/1Wf7jVZ6EzQnLTfAfjmhuv"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        }
+      ],
+      "duration_ms": 192748,
+      "name": "Hellstar",
+      "url": "https://open.spotify.com/track/2zIh2Co85pom5yJ51yvMbO"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "So Numb",
+        "url": "https://open.spotify.com/album/4EcWhmTWDmRsPHerYWcBao"
+      },
+      "artists": [
+        {
+          "name": "TX2",
+          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+        }
+      ],
+      "duration_ms": 209506,
+      "name": "So Numb",
+      "url": "https://open.spotify.com/track/5cBNCR4qXiNLCOHTFdU809"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1219,18 +1251,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "So Numb",
-        "url": "https://open.spotify.com/album/4EcWhmTWDmRsPHerYWcBao"
+        "name": "Mirror's Edge",
+        "url": "https://open.spotify.com/album/6WvjCUGtv2HTtBRfVqVEyq"
       },
       "artists": [
         {
-          "name": "TX2",
-          "url": "https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H"
+          "name": "Northlane",
+          "url": "https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9"
         }
       ],
-      "duration_ms": 209506,
-      "name": "So Numb",
-      "url": "https://open.spotify.com/track/5cBNCR4qXiNLCOHTFdU809"
+      "duration_ms": 220280,
+      "name": "Let Me Disappear",
+      "url": "https://open.spotify.com/track/73Lomnc1LsYSkjRBuk0jQd"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1339,38 +1371,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "MEDZ",
-        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 165868,
-      "name": "MEDZ",
-      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Summertime Voodoo",
-        "url": "https://open.spotify.com/album/0ZnQYSd99bPzYRMCKd3B6P"
-      },
-      "artists": [
-        {
-          "name": "Highly Suspect",
-          "url": "https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg"
-        }
-      ],
-      "duration_ms": 221638,
-      "name": "Summertime Voodoo - Edit",
-      "url": "https://open.spotify.com/track/3BMeKUAZ7K6arC5X77fB2a"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "NOTHING TO SOME [Feat. Corey Taylor]",
         "url": "https://open.spotify.com/album/6ApUUibTW1Vwd3FMmsisWI"
       },
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "If The Sky Came Down",
+        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
+      },
+      "artists": [
+        {
+          "name": "Lost Society",
+          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
+        }
+      ],
+      "duration_ms": 312406,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Fight For The Right",
         "url": "https://open.spotify.com/album/7zAXZA0sjU0ldpgnl3Wlt0"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 179146,
       "name": "Everything We Lost In The Fire",
       "url": "https://open.spotify.com/track/32NLJBaveYOK3fO3oTr9vF"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "If The Sky Came Down",
-        "url": "https://open.spotify.com/album/0Af2e0rKhhsyAz83qsZzIF"
-      },
-      "artists": [
-        {
-          "name": "Lost Society",
-          "url": "https://open.spotify.com/artist/5Vy1NbrZXTMTAGFa4Im6hN"
-        }
-      ],
-      "duration_ms": 312406,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6EZK2Ir2ottEL0eMiXO47f"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Application For Release From The Dream",
-        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
-      },
-      "artists": [
-        {
-          "name": "Thursday",
-          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
-        }
-      ],
-      "duration_ms": 269721,
-      "name": "Application For Release From The Dream",
-      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Portable Door",
         "url": "https://open.spotify.com/album/5j6Kqb1gQUag2eIYbk9yIc"
       },
@@ -1571,6 +1555,38 @@
       "duration_ms": 228040,
       "name": "Portable Door",
       "url": "https://open.spotify.com/track/5yXGke5zIdiRd7J36un4bh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Application For Release From The Dream",
+        "url": "https://open.spotify.com/album/3PZAIjJNFvJzAWt48z8wUw"
+      },
+      "artists": [
+        {
+          "name": "Thursday",
+          "url": "https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5"
+        }
+      ],
+      "duration_ms": 269721,
+      "name": "Application For Release From The Dream",
+      "url": "https://open.spotify.com/track/7CFz9bEaKdZ7cQ63duKUXC"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 215796,
       "name": "LEAVE ME ALONE",
       "url": "https://open.spotify.com/track/6rpP8yjaUFXW85basqmW3s"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "crying",
-        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 187234,
-      "name": "crying",
-      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Money Where Your Mouth Is",
+        "url": "https://open.spotify.com/album/1H5jSOI62EUBuqKNaj1cgW"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        },
+        {
+          "name": "Gideon",
+          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+        }
+      ],
+      "duration_ms": 167384,
+      "name": "Money Where Your Mouth Is",
+      "url": "https://open.spotify.com/track/4mA76iBPg2Y80nB0N8nkjt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Liminal",
         "url": "https://open.spotify.com/album/0WrtmOTnb3dLugmxuXWIrk"
       },
@@ -1879,38 +1899,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Money Where Your Mouth Is",
-        "url": "https://open.spotify.com/album/1H5jSOI62EUBuqKNaj1cgW"
+        "name": "The Welcome Party",
+        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        },
-        {
-          "name": "Gideon",
-          "url": "https://open.spotify.com/artist/3Zj2B8yAi8gHoR8vpsPatZ"
+          "name": "Greyhaven",
+          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
         }
       ],
-      "duration_ms": 167384,
-      "name": "Money Where Your Mouth Is",
-      "url": "https://open.spotify.com/track/4mA76iBPg2Y80nB0N8nkjt"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Frankenstein",
-        "url": "https://open.spotify.com/album/7EZhg2zWZkIQa0hDYnj868"
-      },
-      "artists": [
-        {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
-        }
-      ],
-      "duration_ms": 254906,
-      "name": "Frankenstein",
-      "url": "https://open.spotify.com/track/1Z1HcQkT4nwp5A5FVircal"
+      "duration_ms": 210880,
+      "name": "The Welcome Party",
+      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1931,6 +1931,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Frankenstein",
+        "url": "https://open.spotify.com/album/7EZhg2zWZkIQa0hDYnj868"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 254906,
+      "name": "Frankenstein",
+      "url": "https://open.spotify.com/track/1Z1HcQkT4nwp5A5FVircal"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Castaway",
         "url": "https://open.spotify.com/album/7ocVnSLHPixmSoQyVqRby2"
       },
@@ -1943,22 +1959,6 @@
       "duration_ms": 211000,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/5M6DHWW8omQHWg7Oyx0HAB"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Welcome Party",
-        "url": "https://open.spotify.com/album/0TFqOFS9sPHJqmL5cSTQ1X"
-      },
-      "artists": [
-        {
-          "name": "Greyhaven",
-          "url": "https://open.spotify.com/artist/1zmx3NwOp6vR4qEjmhSiLL"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "The Welcome Party",
-      "url": "https://open.spotify.com/track/0SlmKiPJ4GpSPq6rnMLBSq"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Aztec Death Whistle",
-        "url": "https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg"
-      },
-      "artists": [
-        {
-          "name": "MISSIO",
-          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
-        }
-      ],
-      "duration_ms": 199507,
-      "name": "Aztec Death Whistle",
-      "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Riding Through",
         "url": "https://open.spotify.com/album/0gPlNR6BCrDjyLYvQnSTYm"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 158997,
       "name": "Riding Through",
       "url": "https://open.spotify.com/track/55G6Uvo6zO7n7TUXXrT1Ty"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "All That I Have Left",
+        "url": "https://open.spotify.com/album/4Zed5oZJYdGYUixZCKuWc6"
+      },
+      "artists": [
+        {
+          "name": "Archers",
+          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "Before You Go",
+      "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2083,18 +2083,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "All That I Have Left",
-        "url": "https://open.spotify.com/album/4Zed5oZJYdGYUixZCKuWc6"
+        "name": "Aztec Death Whistle",
+        "url": "https://open.spotify.com/album/1Zin3zqwp0N8wKOE3ZXlZg"
       },
       "artists": [
         {
-          "name": "Archers",
-          "url": "https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire"
+          "name": "MISSIO",
+          "url": "https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS"
         }
       ],
-      "duration_ms": 212173,
-      "name": "Before You Go",
-      "url": "https://open.spotify.com/track/7xaiwsZI7GTsMr4I9K5tCj"
+      "duration_ms": 199507,
+      "name": "Aztec Death Whistle",
+      "url": "https://open.spotify.com/track/3cXkBtO5htBKiM05H0PQ7F"
     },
     {
       "added_at": "2024-05-17 04:00:00",

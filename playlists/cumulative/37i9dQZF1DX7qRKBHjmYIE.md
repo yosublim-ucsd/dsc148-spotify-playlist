@@ -4,7 +4,7 @@
 
 > De aquí y de allá \~ un poquito de todo ✨ en un vibe con Pink Pablo.
 
-731 songs - 1 day 15 hr 33 min
+732 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -633,6 +633,7 @@
 | [Sí o No?](https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Sí o No?](https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf) | 3:01 | 2023-07-07 | 2023-07-22 |
 | [Tal Vez](https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:23 | 2022-01-24 | 2022-04-20 |
 | [Tamagotchi](https://open.spotify.com/track/2avRIlZPDXdDOdPIgCcKq3) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Tamagotchi](https://open.spotify.com/album/0MM5hDVs7QreQVGTi1hkJd) | 2:48 | 2022-03-31 | 2022-04-20 |
+| [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 | 2024-05-17 |  |
 | [Tarde](https://open.spotify.com/track/1RexoAXAuSgstu2LRsLuh8) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/1d3pKhYKoQ2d32Exs3wTyr) | 3:25 | 2023-12-08 | 2024-03-07 |
 | [Tarde](https://open.spotify.com/track/61TAAQ3ozHYlH0wmiKeZZb) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D), [Babi](https://open.spotify.com/artist/5nP79s99csrvcOiXTGjVfg) | [Lluvia: Rain City Vol.2](https://open.spotify.com/album/02uvn1R7qDVWSrQheR6qZ4) | 3:25 | 2024-03-01 | 2024-04-13 |
 | [Tarde](https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo) | [Sofish](https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO) | [Tarde](https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM) | 2:49 | 2023-06-02 | 2023-08-05 |
@@ -684,7 +685,7 @@
 | [Un Día](https://open.spotify.com/track/2g2VPxPZTKVr7Vzbi9KSF9) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Un Día](https://open.spotify.com/album/0PW9vbpQvymPkiXvz8RycK) | 2:44 | 2023-03-08 | 2023-05-13 |
 | [Un Llavero](https://open.spotify.com/track/3DrXPknIBDtEdPchAuRYD5) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [Un Llavero](https://open.spotify.com/album/3ZrNXXbBefilXHWqhlO0I0) | 3:10 | 2024-03-01 |  |
 | [Un Momento](https://open.spotify.com/track/5xtBpogt0Id3kcnj7fP1nK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:09 | 2022-10-24 | 2023-02-17 |
-| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 |  |
+| [Una Vida](https://open.spotify.com/track/1Q4kVMA8OnbVVuq0kQMYRv) | [Club del Río](https://open.spotify.com/artist/31EwjdXVakSHf2RiDPGGVD) | [Una Vida](https://open.spotify.com/album/3adxFEMsq25Adf8bHWX4rL) | 4:04 | 2024-01-05 | 2024-05-21 |
 | [Unbothered](https://open.spotify.com/track/3pBG8fHFEUp3edhWfkIoCW) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/2KV3y0IfAswzlbd2iJIgwU) | 2:04 | 2023-02-17 | 2023-03-09 |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-02-09 | 2023-02-17 |
 | [Unos y Ceros](https://open.spotify.com/track/6ASEjs65L4QRh1OP2GZlev) | [Agustina Giovio](https://open.spotify.com/artist/3XUujv3Mitm8jEejafVR1O), [Jaz](https://open.spotify.com/artist/1rGCJdI1tiJS0RRo5OToeM) | [Unos y Ceros](https://open.spotify.com/album/2h4LCRSNJZDsVdNddTQk0Z) | 2:36 | 2024-04-26 | 2024-05-19 |

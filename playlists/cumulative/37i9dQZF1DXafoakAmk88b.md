@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Jelani Aryeh
 
-423 songs - 22 hr 14 min
+424 songs - 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Airforce blue](https://open.spotify.com/track/32wMbC70TXnOKBNaH7ogIC) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:48 | 2023-06-16 | 2023-06-26 |
 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 | 2023-08-09 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-06-17 | 2022-11-12 |
-| [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-12-08 |  |
+| [alone](https://open.spotify.com/track/2PStUfFvW2nFnPj658cDWE) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [alone](https://open.spotify.com/album/3vrTKTPeoHKgzuBRGXB660) | 2:07 | 2023-12-08 | 2024-05-21 |
 | [Already](https://open.spotify.com/track/0Bef4OMTKyY908qrX0O0cs) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Play With The Changes](https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v) | 3:57 | 2022-02-18 | 2022-02-26 |
 | [Already free](https://open.spotify.com/track/45nFXvQK9RIi8zMip6ogzh) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 2:18 | 2022-02-18 | 2023-06-17 |
 | [amnesia111](https://open.spotify.com/track/4cc73WNl3KdrJNgWk0eySz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [homeless n\*gga pop music](https://open.spotify.com/album/5j9zothL0paSMkfcdjCdHA) | 2:35 | 2023-06-07 | 2023-08-22 |
@@ -399,6 +399,7 @@
 | [Too Hot](https://open.spotify.com/track/1XkVvLrmSfJFjWwFFlkzaM) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN), [!llmind](https://open.spotify.com/artist/0bw7sLDsNQTScMpmsNFukJ) | [Shall I Continue?](https://open.spotify.com/album/6gDab4r7qX3FeJAofIsTe9) | 1:48 | 2022-02-18 | 2022-03-12 |
 | [Touch Me](https://open.spotify.com/track/4uIVFtMN3AlkLfGYGV7TPM) | [DivineDevine](https://open.spotify.com/artist/2FmbdQRR6CJb0ZY5LW8bKJ), [Shai Nowell](https://open.spotify.com/artist/6uClb6xksR6JJJPRvAvES5), [2oo7](https://open.spotify.com/artist/13R1iYcEssmzmqLw7EcWFu) | [Riot Of The Kelly Green Love](https://open.spotify.com/album/0EogU0lIOTI9cWwdtxVuKr) | 2:40 | 2023-03-22 | 2023-12-05 |
 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 | 2024-02-10 | 2024-03-13 |
+| [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 | 2024-05-18 |  |
 | [UnderWater](https://open.spotify.com/track/12KqWaml7aLBQipmX5mSK0) | [nyan](https://open.spotify.com/artist/7G7jG8dvAGtnvRlLNvssfr) | [UnderWater](https://open.spotify.com/album/4aXSv8hM9UUxmlXCuvomon) | 3:50 | 2022-02-18 | 2022-10-04 |
 | [Unstoppable](https://open.spotify.com/track/57OHEGx7h74VFZw1jx37cg) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Unstoppable](https://open.spotify.com/album/52zyV45viU6MxjRZe3Xr1T) | 4:07 | 2023-06-07 | 2023-08-22 |
 | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/track/2UhF4UzGzUeVEvyd8Hq7in) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [UR SO FULL OF IT \(ILY NYC\) \- Spotify Singles](https://open.spotify.com/album/5lxHNkhOXyJ2mHnGxsbzeu) | 2:18 | 2022-06-17 | 2022-10-04 |

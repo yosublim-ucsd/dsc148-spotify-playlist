@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Il meglio della musica indipendente italiana, aggiornata il terzo mercoledì di ogni mese\. Cover: <a href="spotify:artist:338OK54trmorxC1704hKpD">Anna and Vulkan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,392 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,395 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

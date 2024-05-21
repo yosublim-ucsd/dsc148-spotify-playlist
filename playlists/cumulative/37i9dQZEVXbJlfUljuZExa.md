@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-968 songs - 2 day 7 hr 59 min
+969 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Bila Takbir Bergema](https://open.spotify.com/track/2jIdcT0HmgwUV2nJk5qzfL) | [Rafeah Buang](https://open.spotify.com/artist/4NnBbi48c3iFGh39L4jELO) | [Lagu Dan Perasaan](https://open.spotify.com/album/5kErKuJBeHDuMwtpq47wDA) | 2:39 | 2022-04-29 | 2024-04-13 |
 | [Bila Takbir Bergema](https://open.spotify.com/track/3iZxKJN2AYtCsEYCaUa86w) | [Rafeah Buang](https://open.spotify.com/artist/4NnBbi48c3iFGh39L4jELO) | [Siri Bintang Pujaan](https://open.spotify.com/album/3694nUIibTy2Yay9BuZ3Ne) | 2:41 | 2021-05-13 | 2021-05-16 |
 | [Bintang di Surga](https://open.spotify.com/track/26wRwKHHcYQXxF1KMWaYeC) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Bintang di Surga](https://open.spotify.com/album/5K6G6PthNOaUsFR0XXyTAz) | 5:01 | 2022-11-15 | 2022-11-17 |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-20 |  |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-07-22 |
 | [Black Swan](https://open.spotify.com/track/4TaJlCXAkv1WKYODXmq75b) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/6yUxkZHB0tE1pNDXKoqiV2) | 3:18 | 2021-12-14 | 2021-12-15 |
 | [Blank Space](https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:51 | 2023-06-22 | 2023-12-05 |
@@ -362,7 +363,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-05-31 | 2024-04-19 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-16 | 2023-06-01 |
 | [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-06-10 | 2022-10-17 |
-| [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-05-01 |  |
+| [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-05-01 | 2024-05-21 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-09 | 2022-08-14 |
 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 | 2022-08-13 | 2022-12-21 |
 | [Higher Power](https://open.spotify.com/track/65OR4ywy8Cgs3FDHK82Idl) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 3:26 | 2023-11-23 | 2023-11-26 |

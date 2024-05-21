@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 49627,
+  "num_followers": 49652,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Guitar And Banjo Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 144373,
-      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
-      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Sunfall",
         "url": "https://open.spotify.com/album/31IQCVhObypc1oxn2Zw4e5"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 240259,
       "name": "Sunfall Blues",
       "url": "https://open.spotify.com/track/6QxcurDWPr29J2c26aF70s"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "The Guitar And Banjo Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 144373,
+      "name": "Slow Drag (Cincinnati Flow Rag) - Instrumental",
+      "url": "https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Chicago/The Blues/Today!",
-        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
-      },
-      "artists": [
-        {
-          "name": "Otis Spann's South Side Piano",
-          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
-        }
-      ],
-      "duration_ms": 141560,
-      "name": "Spann's Stomp",
-      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Io",
         "url": "https://open.spotify.com/album/5ughw0JaRjOMakLyA0kw20"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 284000,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/3SjpJJDdlE4HDbKzPzJXQw"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "Chicago/The Blues/Today!",
+        "url": "https://open.spotify.com/album/7mBBWwpCTFnrVDci6WYU9T"
+      },
+      "artists": [
+        {
+          "name": "Otis Spann's South Side Piano",
+          "url": "https://open.spotify.com/artist/7nnBKgaKnLsnxwIljUhwa2"
+        }
+      ],
+      "duration_ms": 141560,
+      "name": "Spann's Stomp",
+      "url": "https://open.spotify.com/track/1gWCbuU98lwewH3n7xt6rT"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "What's The Word?",
-        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 158493,
-      "name": "Extra Jimmies",
-      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "The Peacock Recordings: 1949-1959",
         "url": "https://open.spotify.com/album/5WxxDTODQb1ppu9nCdEvsV"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 154506,
       "name": "Okie Dokie Stomp",
       "url": "https://open.spotify.com/track/0lKllvUnZSEhUZJscwF0X6"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "What's The Word?",
+        "url": "https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 158493,
+      "name": "Extra Jimmies",
+      "url": "https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "All Kinds Of Blues",
-        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
-      },
-      "artists": [
-        {
-          "name": "Memphis Slim",
-          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
-        }
-      ],
-      "duration_ms": 246333,
-      "name": "Frankie And Johnny Boogie",
-      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
         "name": "Mercy Me",
         "url": "https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 463400,
       "name": "Blues For Duke Robillard",
       "url": "https://open.spotify.com/track/1PZHYEA9oq4VCmXnSjanLk"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
+        "name": "All Kinds Of Blues",
+        "url": "https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW"
+      },
+      "artists": [
+        {
+          "name": "Memphis Slim",
+          "url": "https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ"
+        }
+      ],
+      "duration_ms": 246333,
+      "name": "Frankie And Johnny Boogie",
+      "url": "https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -943,22 +943,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "The Spiekeroog Sessions",
-        "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
+        "name": "Super Session (with Al Kooper & Stephen Stills)",
+        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
       },
       "artists": [
         {
-          "name": "Frank Muschalle",
-          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
+          "name": "Mike Bloomfield",
+          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
         },
         {
-          "name": "Stephan Holstein",
-          "url": "https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA"
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
         }
       ],
-      "duration_ms": 263276,
-      "name": "If You're Not Mine",
-      "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
+      "duration_ms": 418493,
+      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
+      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -979,22 +979,22 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
-        "name": "Super Session (with Al Kooper & Stephen Stills)",
-        "url": "https://open.spotify.com/album/6bdy2PnssuzDkldvAOjVmj"
+        "name": "The Spiekeroog Sessions",
+        "url": "https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ"
       },
       "artists": [
         {
-          "name": "Mike Bloomfield",
-          "url": "https://open.spotify.com/artist/0yT9vbP1EOnCpl2McnF9nH"
+          "name": "Frank Muschalle",
+          "url": "https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD"
         },
         {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+          "name": "Stephan Holstein",
+          "url": "https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA"
         }
       ],
-      "duration_ms": 418493,
-      "name": "Albert's Shuffle - 2002 Remix w/o Horns",
-      "url": "https://open.spotify.com/track/7AaUATKp29w0x3C8RAv3lK"
+      "duration_ms": 263276,
+      "name": "If You're Not Mine",
+      "url": "https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS"
     },
     {
       "added_at": "2023-08-23 10:31:46",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-08-23 10:31:46",
       "album": {
+        "name": "Spread The Love",
+        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
+      },
+      "artists": [
+        {
+          "name": "Ronnie Earl",
+          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
+        },
+        {
+          "name": "The Broadcasters",
+          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
+        }
+      ],
+      "duration_ms": 191520,
+      "name": "Blues For Bill",
+      "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
+    },
+    {
+      "added_at": "2023-08-23 10:31:46",
+      "album": {
         "name": "Stay High [Feat. Cory Henry]",
         "url": "https://open.spotify.com/album/7aMGZAVmMcsvrEq49ZFY5X"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 193551,
       "name": "Stay High [Feat. Cory Henry]",
       "url": "https://open.spotify.com/track/7jS37XIfOmMQQ5DU6hQwIS"
-    },
-    {
-      "added_at": "2023-08-23 10:31:46",
-      "album": {
-        "name": "Spread The Love",
-        "url": "https://open.spotify.com/album/5tV9K29GLvCGljAybCSVht"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Earl",
-          "url": "https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU"
-        },
-        {
-          "name": "The Broadcasters",
-          "url": "https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH"
-        }
-      ],
-      "duration_ms": 191520,
-      "name": "Blues For Bill",
-      "url": "https://open.spotify.com/track/4QeECZukfz0Kt3RJDBSkLk"
     },
     {
       "added_at": "2023-08-23 10:31:46",

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 32875,
+  "num_followers": 32883,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABwJYUH9Nz9ku61I9UmCNc9",
+  "snapshot_id": "ZklBAAAAAAAUtEVLmVvUWsiQioE8fjR/",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 317786,
-      "name": "Pregon Para Iluminarse",
-      "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 295626,
       "name": "Todos Juntos (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/1xUWqYaqqGLXFBMMbQ4ZMI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 317786,
+      "name": "Pregon Para Iluminarse",
+      "url": "https://open.spotify.com/track/3AMth1gnz9PbQnEfUVZbp2"
     },
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 433386,
-      "name": "La Conquistada",
-      "url": "https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 240560,
       "name": "Valpara\u00edso (Versi\u00f3n 1996)",
       "url": "https://open.spotify.com/track/5N9GrZ4WSw5sueo0kQBlYv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 433386,
+      "name": "La Conquistada",
+      "url": "https://open.spotify.com/track/1iCVobzc6lYXEdvTN0bloD"
     },
     {
       "added_at": null,
@@ -223,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Palomita Blanca",
-        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 166240,
-      "name": "Donde Estabas T\u00fa",
-      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trilog\u00eda el Rencuentro",
         "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 215600,
       "name": "Los Momentos (Versi\u00f3n 1997)",
       "url": "https://open.spotify.com/track/2ywsanmt12Ivz8jI111ItL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Palomita Blanca",
+        "url": "https://open.spotify.com/album/2Dzm27Kjmz0LbYI2TYd3Yp"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 166240,
+      "name": "Donde Estabas T\u00fa",
+      "url": "https://open.spotify.com/track/6dpxalwDpPjTlQY2CF9PVB"
     },
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 322413,
-      "name": "\u00c1guila Sideral",
-      "url": "https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc"
+      "duration_ms": 136560,
+      "name": "Del Aire al Aire",
+      "url": "https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 136560,
-      "name": "Del Aire al Aire",
-      "url": "https://open.spotify.com/track/7r9AY06MM9VFmqrnIpzWse"
+      "duration_ms": 322413,
+      "name": "\u00c1guila Sideral",
+      "url": "https://open.spotify.com/track/3TsdkwdKHxMLK047EXtOlc"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 314000,
-      "name": "Run Run Se Fue Pa'l Norte",
-      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 479186,
       "name": "Guajira Cosmica",
       "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 314000,
+      "name": "Run Run Se Fue Pa'l Norte",
+      "url": "https://open.spotify.com/track/17yoYupwk2LMmYy62NAsk9"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Ventana (Remasterizado 2020)",
-        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 283189,
-      "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
-      "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Volant\u00edn",
         "url": "https://open.spotify.com/album/4XKY7trbYYQIDJPzTngfuz"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 394573,
       "name": "Foto de Primera Comuni\u00f3n",
       "url": "https://open.spotify.com/track/6QFtJ2309fzZS0ioRwzQYG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Ventana (Remasterizado 2020)",
+        "url": "https://open.spotify.com/album/2UA6E9ixt1ukbgsiAB6Xs4"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 283189,
+      "name": "La Quebr\u00e1 del Aj\u00ed (Remasterizado 2020)",
+      "url": "https://open.spotify.com/track/4kF8dikOtIXirzaj0RFAH8"
     },
     {
       "added_at": null,

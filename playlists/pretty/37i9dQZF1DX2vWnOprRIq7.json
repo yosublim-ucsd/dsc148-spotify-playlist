@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Peces Raros.",
-  "num_followers": 18199,
+  "num_followers": 18213,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "CONSTITUCI\u00d3N",
-        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
-      },
-      "artists": [
-        {
-          "name": "Isla Mujeres",
-          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
-        }
-      ],
-      "duration_ms": 161977,
-      "name": "CONSTITUCI\u00d3N",
-      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "333",
         "url": "https://open.spotify.com/album/7wepZzZxhVV8M5eM9u8StC"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 192389,
       "name": "CABEZAS DEL TIEMPO",
       "url": "https://open.spotify.com/track/4FjmttGB9sxrxY3UY0gDG9"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "CONSTITUCI\u00d3N",
+        "url": "https://open.spotify.com/album/0tUcd7rih15vA60HYbZ9LJ"
+      },
+      "artists": [
+        {
+          "name": "Isla Mujeres",
+          "url": "https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS"
+        }
+      ],
+      "duration_ms": 161977,
+      "name": "CONSTITUCI\u00d3N",
+      "url": "https://open.spotify.com/track/18835Ty8i86m9U7ki4Azoi"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Provoqu\u00e9",
+        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
+      },
+      "artists": [
+        {
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+        },
+        {
+          "name": "FEMI",
+          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "Provoqu\u00e9",
+      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Butoh iA",
         "url": "https://open.spotify.com/album/2iirGJgI6LPselOdsVtSTv"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 225000,
       "name": "AMANECER (Remix)",
       "url": "https://open.spotify.com/track/6DLGzwHsqxC341n63unuRy"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Provoqu\u00e9",
-        "url": "https://open.spotify.com/album/7koNsR3jjgbbVhFVEj8AaE"
-      },
-      "artists": [
-        {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
-        },
-        {
-          "name": "FEMI",
-          "url": "https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "Provoqu\u00e9",
-      "url": "https://open.spotify.com/track/6EPG6MmVGZvV36sUaPN4u9"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1211,6 +1211,26 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "Caracoles (Remix)",
+        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
+      },
+      "artists": [
+        {
+          "name": "Mati y Adri",
+          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
+        },
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+        }
+      ],
+      "duration_ms": 197810,
+      "name": "Caracoles - Remix",
+      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Remaches (DJ TOI Remix)",
         "url": "https://open.spotify.com/album/40sYFAMLosFPZpKVNA7IdK"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 225640,
       "name": "Remaches - DJ TOI Remix",
       "url": "https://open.spotify.com/track/5Hq67AkX4vi16riQhN2kgX"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "Caracoles (Remix)",
-        "url": "https://open.spotify.com/album/0AldwRiyQ2Ui16BgplO8vM"
-      },
-      "artists": [
-        {
-          "name": "Mati y Adri",
-          "url": "https://open.spotify.com/artist/5NHx8y3GfAe3Xaxt6mxU1s"
-        },
-        {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
-        }
-      ],
-      "duration_ms": 197810,
-      "name": "Caracoles - Remix",
-      "url": "https://open.spotify.com/track/2sWGZbEYl4zlqKcqxrhcUH"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "coraz\u00f3n dinamita",
-        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
-      },
-      "artists": [
-        {
-          "name": "wiranda johansen",
-          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
-        }
-      ],
-      "duration_ms": 181532,
-      "name": "coraz\u00f3n dinamita",
-      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Encandilante divino",
         "url": "https://open.spotify.com/album/1pAW7DAbgkwnMwNAXjbrPH"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 163676,
       "name": "Azar",
       "url": "https://open.spotify.com/track/5fCPshFzp2QsWDbdXjo42v"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "coraz\u00f3n dinamita",
+        "url": "https://open.spotify.com/album/3Ud6DxbZ5a0vXaMyOTdMjf"
+      },
+      "artists": [
+        {
+          "name": "wiranda johansen",
+          "url": "https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX"
+        }
+      ],
+      "duration_ms": 181532,
+      "name": "coraz\u00f3n dinamita",
+      "url": "https://open.spotify.com/track/4vqiuKUsAPkO0DzDrrIdzP"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "D\u00eda de Noche (B-Sides & Remixes)",
-        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
-      },
-      "artists": [
-        {
-          "name": "Juan Baro",
-          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
-        }
-      ],
-      "duration_ms": 307000,
-      "name": "Zorzal",
-      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Vitamina",
         "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 249000,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "D\u00eda de Noche (B-Sides & Remixes)",
+        "url": "https://open.spotify.com/album/6tFUBLjxQqJR3fGu37slBK"
+      },
+      "artists": [
+        {
+          "name": "Juan Baro",
+          "url": "https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI"
+        }
+      ],
+      "duration_ms": 307000,
+      "name": "Zorzal",
+      "url": "https://open.spotify.com/track/0RAOM6kK0uMBQn6NFlx1qQ"
     },
     {
       "added_at": "2024-04-26 03:00:00",

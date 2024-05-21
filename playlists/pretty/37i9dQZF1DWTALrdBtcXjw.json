@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 415977,
+  "num_followers": 415987,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "June in January",
-        "url": "https://open.spotify.com/album/0FCEbjfR4gIC3DTfFGFbxR"
-      },
-      "artists": [
-        {
-          "name": "Flatland Park",
-          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
-        }
-      ],
-      "duration_ms": 229063,
-      "name": "June in January",
-      "url": "https://open.spotify.com/track/1JZCH5xEj7DwhLpQIj1ZtX"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Gone With The Wind",
         "url": "https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 221893,
       "name": "Gone With The Wind",
       "url": "https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "June in January",
+        "url": "https://open.spotify.com/album/0FCEbjfR4gIC3DTfFGFbxR"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "duration_ms": 229063,
+      "name": "June in January",
+      "url": "https://open.spotify.com/track/1JZCH5xEj7DwhLpQIj1ZtX"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Mack the Knife",
-        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
-      },
-      "artists": [
-        {
-          "name": "Chad Lefkowitz-Brown",
-          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
-        }
-      ],
-      "duration_ms": 331461,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Where We Belong",
         "url": "https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 371773,
       "name": "Where We Belong",
       "url": "https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Mack the Knife",
+        "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
+      },
+      "artists": [
+        {
+          "name": "Chad Lefkowitz-Brown",
+          "url": "https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe"
+        }
+      ],
+      "duration_ms": 331461,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Oh, What a Beautiful Mornin'",
-        "url": "https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx"
-      },
-      "artists": [
-        {
-          "name": "Rachel Silver",
-          "url": "https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a"
-        }
-      ],
-      "duration_ms": 257309,
-      "name": "Shiny Stockings",
-      "url": "https://open.spotify.com/track/069buST4Z84x0O5TOtW48H"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Changes over Time",
         "url": "https://open.spotify.com/album/6eMW0RnkkZMD7cBIznCP6i"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 245698,
       "name": "My Cherie Amour",
       "url": "https://open.spotify.com/track/7DHFPzbBjip4vhw5DM9AFR"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Oh, What a Beautiful Mornin'",
+        "url": "https://open.spotify.com/album/02VmGGZVwEVQIv1gUJsYZx"
+      },
+      "artists": [
+        {
+          "name": "Rachel Silver",
+          "url": "https://open.spotify.com/artist/6IwOxOuT7cPH3iF4jfjf2a"
+        }
+      ],
+      "duration_ms": 257309,
+      "name": "Shiny Stockings",
+      "url": "https://open.spotify.com/track/069buST4Z84x0O5TOtW48H"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 652440,
       "name": "All Things Considered",
       "url": "https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Arthur Go",
-      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/4t6mWcSyJBwJw17VkCrFb1"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 250309,
       "name": "I Should Care",
       "url": "https://open.spotify.com/track/7gRa0lT64mARp2ccsk3tNN"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Arthur Go",
+      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Girlfriend with Magical Ears (Two Moons Analog Session)",
-        "url": "https://open.spotify.com/album/6wpyFcHcUCLtQDaKPo4rAd"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Gahler",
-          "url": "https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W"
-        },
-        {
-          "name": "Denis G\u00e4bel",
-          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
-        }
-      ],
-      "duration_ms": 239164,
-      "name": "Girlfriend with Magical Ears - Two Moons Analog Session",
-      "url": "https://open.spotify.com/track/2i1VVdIDUsewiSu4kupiQp"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Out Here",
         "url": "https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 277306,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Girlfriend with Magical Ears (Two Moons Analog Session)",
+        "url": "https://open.spotify.com/album/6wpyFcHcUCLtQDaKPo4rAd"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Gahler",
+          "url": "https://open.spotify.com/artist/3CfwkW9rDM1yyEuPRRBG5W"
+        },
+        {
+          "name": "Denis G\u00e4bel",
+          "url": "https://open.spotify.com/artist/1D6hUykxz5eOqzOmk1rtn0"
+        }
+      ],
+      "duration_ms": 239164,
+      "name": "Girlfriend with Magical Ears - Two Moons Analog Session",
+      "url": "https://open.spotify.com/track/2i1VVdIDUsewiSu4kupiQp"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
         }
       ],
-      "duration_ms": 340173,
-      "name": "You've Come Home",
-      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
+      "duration_ms": 294000,
+      "name": "Dolphin Dance",
+      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
       "artists": [
         {
-          "name": "Gene Hart Trio",
-          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
         }
       ],
-      "duration_ms": 294000,
-      "name": "Dolphin Dance",
-      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
+      "duration_ms": 340173,
+      "name": "You've Come Home",
+      "url": "https://open.spotify.com/track/7p5a0VKbIcsN3UtSodIZzx"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1787,38 +1787,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
-      },
-      "artists": [
-        {
-          "name": "Dena DeRose",
-          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
-        }
-      ],
-      "duration_ms": 288832,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg"
       },
@@ -1847,6 +1815,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "The Feeling of Jazz",
         "url": "https://open.spotify.com/album/3B8VwWDAs0YoJrDxIXXsA1"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 292521,
       "name": "The Feeling of Jazz",
       "url": "https://open.spotify.com/track/2Zkvc2hQqBuNauHGj3uXWl"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
+      },
+      "artists": [
+        {
+          "name": "Dena DeRose",
+          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
+        }
+      ],
+      "duration_ms": 288832,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Koreni",
-        "url": "https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B"
-      },
-      "artists": [
-        {
-          "name": "Bojan Zulfikarpa\u0161i\u0107",
-          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
-        }
-      ],
-      "duration_ms": 344466,
-      "name": "Radio bo",
-      "url": "https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/6QFy0zMnOL1Y5oacJYP2RE"
       },
@@ -1999,6 +1983,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Koreni",
+        "url": "https://open.spotify.com/album/49D48Ki31VdmpjPEN3Qn3B"
+      },
+      "artists": [
+        {
+          "name": "Bojan Zulfikarpa\u0161i\u0107",
+          "url": "https://open.spotify.com/artist/1fF3p6zYr16lrzmkUGQUpD"
+        }
+      ],
+      "duration_ms": 344466,
+      "name": "Radio bo",
+      "url": "https://open.spotify.com/track/29z5CZ4isVNvPLL5OaXBKJ"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Like in Love",
         "url": "https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp"
       },
@@ -2011,6 +2011,38 @@
       "duration_ms": 366797,
       "name": "Like in Love",
       "url": "https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Remembering",
+        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
+      },
+      "artists": [
+        {
+          "name": "Hyuntae Kim",
+          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
+        }
+      ],
+      "duration_ms": 360986,
+      "name": "Count On Me",
+      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Lover Man",
+        "url": "https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk"
+      },
+      "artists": [
+        {
+          "name": "Saginaw Society",
+          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
+        }
+      ],
+      "duration_ms": 256252,
+      "name": "Lover Man",
+      "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2039,38 +2071,6 @@
       "duration_ms": 226396,
       "name": "Monkish",
       "url": "https://open.spotify.com/track/3Paicyrpt1V4SXa7hDWIzY"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Lover Man",
-        "url": "https://open.spotify.com/album/66rWCna2T5ZxRGiFkEYWpk"
-      },
-      "artists": [
-        {
-          "name": "Saginaw Society",
-          "url": "https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY"
-        }
-      ],
-      "duration_ms": 256252,
-      "name": "Lover Man",
-      "url": "https://open.spotify.com/track/4bbRXKb4z1S9GOD2ePqDbo"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Remembering",
-        "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
-      },
-      "artists": [
-        {
-          "name": "Hyuntae Kim",
-          "url": "https://open.spotify.com/artist/2vLAFtpsgJCb9MDtmDvCwS"
-        }
-      ],
-      "duration_ms": 360986,
-      "name": "Count On Me",
-      "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2215,6 +2215,30 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Doxy",
+        "url": "https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        },
+        {
+          "name": "Ed Czach",
+          "url": "https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9"
+        },
+        {
+          "name": "Aaron Kimmel",
+          "url": "https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ"
+        }
+      ],
+      "duration_ms": 191835,
+      "name": "Doxy",
+      "url": "https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ"
       },
@@ -2247,30 +2271,6 @@
       "duration_ms": 457686,
       "name": "Skylla",
       "url": "https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Doxy",
-        "url": "https://open.spotify.com/album/35ojbhp0w19sGLHuUV7uAU"
-      },
-      "artists": [
-        {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
-        },
-        {
-          "name": "Ed Czach",
-          "url": "https://open.spotify.com/artist/4f8lXgdyM6frbmDlADjgp9"
-        },
-        {
-          "name": "Aaron Kimmel",
-          "url": "https://open.spotify.com/artist/6mKwJdaEvDUSLousOlnhAZ"
-        }
-      ],
-      "duration_ms": 191835,
-      "name": "Doxy",
-      "url": "https://open.spotify.com/track/1RkqoAf31HsCMaTNzTzcG6"
     },
     {
       "added_at": "2024-03-22 00:01:00",

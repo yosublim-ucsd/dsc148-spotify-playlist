@@ -1,6 +1,6 @@
 {
   "description": "Hot noise for those summer days. ",
-  "num_followers": 32031,
+  "num_followers": 32036,
   "original_name": "Summer Rock ",
   "owner": {
     "name": "Spotify",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
     },
     {
-      "added_at": "2023-07-28 14:13:22",
-      "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
       "added_at": "2023-05-25 20:52:42",
       "album": {
         "name": "the record",
@@ -211,6 +195,22 @@
       "duration_ms": 133351,
       "name": "I Miss Having Sex But At Least I Don't Wanna Die Anymore",
       "url": "https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D"
+    },
+    {
+      "added_at": "2023-07-28 14:13:22",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Welcome to the DCC",
-        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 198798,
-      "name": "Welcome to the DCC",
-      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Battle Born",
         "url": "https://open.spotify.com/album/3bvS3DlTwV35j2qwFhDvxx"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 243786,
       "name": "Runaways",
       "url": "https://open.spotify.com/track/62BxlOvQCjLNQA5ARA4Dug"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Welcome to the DCC",
+        "url": "https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 198798,
+      "name": "Welcome to the DCC",
+      "url": "https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Supernatural",
-        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
-      },
-      "artists": [
-        {
-          "name": "Barns Courtney",
-          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
-        }
-      ],
-      "duration_ms": 167287,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Talk",
         "url": "https://open.spotify.com/album/2UqdKTiPEdLx7IqEeZ7CWV"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Supernatural",
+        "url": "https://open.spotify.com/album/5T0qNPygFFXWjhnzSzlTWD"
+      },
+      "artists": [
+        {
+          "name": "Barns Courtney",
+          "url": "https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9"
+        }
+      ],
+      "duration_ms": 167287,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/3HFvMIvCBNGkypFCQUHjyV"
     },
     {
       "added_at": "2023-05-25 20:52:42",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "Fake It Flowers",
-        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 194994,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 216218,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "Fake It Flowers",
+        "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 194994,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF"
     },
     {
       "added_at": "2023-06-02 11:00:50",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-05-25 20:52:42",
       "album": {
-        "name": "BLOOD AND SUGAR",
-        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
-      },
-      "artists": [
-        {
-          "name": "BOYS LIKE GIRLS",
-          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
-        }
-      ],
-      "duration_ms": 186026,
-      "name": "BLOOD AND SUGAR",
-      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
-    },
-    {
-      "added_at": "2023-05-25 20:52:42",
-      "album": {
         "name": "Love Sux",
         "url": "https://open.spotify.com/album/5yLayeW2yw7QpH06QVIpiv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/3jEqgCYhahj6Ab5o80uhnO"
+    },
+    {
+      "added_at": "2023-05-25 20:52:42",
+      "album": {
+        "name": "BLOOD AND SUGAR",
+        "url": "https://open.spotify.com/album/030TjWifiM82d85tllj2QY"
+      },
+      "artists": [
+        {
+          "name": "BOYS LIKE GIRLS",
+          "url": "https://open.spotify.com/artist/0vWCyXMrrvMlCcepuOJaGI"
+        }
+      ],
+      "duration_ms": 186026,
+      "name": "BLOOD AND SUGAR",
+      "url": "https://open.spotify.com/track/7slQaLDyL3WnMUffGwrnYi"
     },
     {
       "added_at": "2023-05-25 20:52:42",

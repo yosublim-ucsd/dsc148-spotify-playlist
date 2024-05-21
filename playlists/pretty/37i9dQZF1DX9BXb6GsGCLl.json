@@ -1,6 +1,6 @@
 {
   "description": "Fuel your powerwalk with these upbeat and uplifting tracks.",
-  "num_followers": 551991,
+  "num_followers": 552072,
   "original_name": "Powerwalk!",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 177152,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Don't Say Goodbye (feat. Tove Lo)",
         "url": "https://open.spotify.com/album/6UVhujgLKhIKtLv7gI0AHX"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 186700,
       "name": "Don't Say Goodbye (feat. Tove Lo)",
       "url": "https://open.spotify.com/track/0GTPmh5G40joBg93vcSQNq"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 177152,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -459,6 +459,26 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Happy Now",
+        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Sandro Cavazza",
+          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
+        }
+      ],
+      "duration_ms": 211362,
+      "name": "Happy Now",
+      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii"
       },
@@ -479,26 +499,6 @@
       "duration_ms": 219933,
       "name": "Forever (feat. Post Malone & Clever)",
       "url": "https://open.spotify.com/track/2ZlCGeK30BLRNSPC832pNZ"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Happy Now",
-        "url": "https://open.spotify.com/album/6nAjd2MlBY1f1mNu6BsWLO"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Sandro Cavazza",
-          "url": "https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy"
-        }
-      ],
-      "duration_ms": 211362,
-      "name": "Happy Now",
-      "url": "https://open.spotify.com/track/14sOS5L36385FJ3OL8hew4"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -975,30 +975,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Close To Me (feat. Swae Lee)",
-        "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
-      },
-      "artists": [
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 182623,
-      "name": "Close To Me (with Diplo) (feat. Swae Lee)",
-      "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
@@ -1019,6 +995,30 @@
       "duration_ms": 211452,
       "name": "Looking for Me",
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Close To Me (feat. Swae Lee)",
+        "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
+      },
+      "artists": [
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 182623,
+      "name": "Close To Me (with Diplo) (feat. Swae Lee)",
+      "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1163,30 +1163,6 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
-        "name": "Close Your Eyes",
-        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Miss Li",
-          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
-        }
-      ],
-      "duration_ms": 160794,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
         "name": "Back & Forth",
         "url": "https://open.spotify.com/album/2WqGsuxmIREkcArxbp5IK0"
       },
@@ -1207,6 +1183,30 @@
       "duration_ms": 196214,
       "name": "Back & Forth",
       "url": "https://open.spotify.com/track/4M8x1TR36VMQMFMbGCdoyA"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
+        "name": "Close Your Eyes",
+        "url": "https://open.spotify.com/album/0PhTTyRWpJVlg4F5RC0xmE"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Miss Li",
+          "url": "https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7"
+        }
+      ],
+      "duration_ms": 160794,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/7N06jo3EnV792VFaG8vuW6"
     },
     {
       "added_at": "2024-02-01 12:54:41",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-02-01 12:54:41",
       "album": {
+        "name": "Once Upon a Mind",
+        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
+      },
+      "artists": [
+        {
+          "name": "James Blunt",
+          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
+        }
+      ],
+      "duration_ms": 222075,
+      "name": "The Truth",
+      "url": "https://open.spotify.com/track/43aNLlvCErobCJHCBOz7c1"
+    },
+    {
+      "added_at": "2024-02-01 12:54:41",
+      "album": {
         "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
         "url": "https://open.spotify.com/album/0lLMXLNob73BkFMeNxDxuZ"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 156960,
       "name": "ily (i love you baby) (Topic Remix) [feat. Emilee]",
       "url": "https://open.spotify.com/track/4TpXLhpLYQPMHM1A8W9J84"
-    },
-    {
-      "added_at": "2024-02-01 12:54:41",
-      "album": {
-        "name": "Once Upon a Mind",
-        "url": "https://open.spotify.com/album/4gkWfdUgz4jWrGx4sKQpb4"
-      },
-      "artists": [
-        {
-          "name": "James Blunt",
-          "url": "https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux"
-        }
-      ],
-      "duration_ms": 222075,
-      "name": "The Truth",
-      "url": "https://open.spotify.com/track/43aNLlvCErobCJHCBOz7c1"
     },
     {
       "added_at": "2024-02-01 12:54:41",

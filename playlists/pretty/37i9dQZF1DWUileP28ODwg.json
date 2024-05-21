@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:5d1JhBfyb58upMXCZOdbQu\">Phil Wickham</a>",
-  "num_followers": 351133,
+  "num_followers": 351271,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
-      },
-      "artists": [
-        {
-          "name": "Ben Fuller",
-          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
-        }
-      ],
-      "duration_ms": 208680,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Don't Stop Praying",
         "url": "https://open.spotify.com/album/1nV08vXokWpBYEkd1Mjdmz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 233586,
       "name": "Don't Stop Praying",
       "url": "https://open.spotify.com/track/0TH9LO1qmuXMtMYHZhT5gP"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
+      },
+      "artists": [
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "duration_ms": 208680,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/0N9C6owb2juxsvAFESepTe"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -503,6 +503,26 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Love Me Like I Am (with Jordin Sparks)",
+        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
+      },
+      "artists": [
+        {
+          "name": "for KING & COUNTRY",
+          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Love Me Like I Am (with Jordin Sparks)",
+      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Always Only Jesus",
         "url": "https://open.spotify.com/album/1nBIuyrdndXAXnbldziVyD"
       },
@@ -531,26 +551,6 @@
       "duration_ms": 233301,
       "name": "I Speak Jesus",
       "url": "https://open.spotify.com/track/4eniDccFw5yQ1eckEM32Ex"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Love Me Like I Am (with Jordin Sparks)",
-        "url": "https://open.spotify.com/album/7DK45xEeVMI7ul8rnNDddF"
-      },
-      "artists": [
-        {
-          "name": "for KING & COUNTRY",
-          "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
-        },
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 187306,
-      "name": "Love Me Like I Am (with Jordin Sparks)",
-      "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 199236,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 231320,
       "name": "If I Got Jesus",
       "url": "https://open.spotify.com/track/3WmxRZz8xq4jNJW2kVusQc"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 199236,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -775,42 +775,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Sound Mind (Studio Version)",
-        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
-      },
-      "artists": [
-        {
-          "name": "Bryan & Katie Torwalt",
-          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
-        }
-      ],
-      "duration_ms": 222655,
-      "name": "Sound Mind - Studio Version",
-      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "Good Morning Mercy",
-        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
-      },
-      "artists": [
-        {
-          "name": "Jason Crabb",
-          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
-        },
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Good Morning Mercy",
-      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "I'm So Blessed (Aaron Cole Mix)",
         "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
       },
@@ -831,6 +795,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Sound Mind (Studio Version)",
+        "url": "https://open.spotify.com/album/4RwDacWJD03qZP7q8glBGD"
+      },
+      "artists": [
+        {
+          "name": "Bryan & Katie Torwalt",
+          "url": "https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC"
+        }
+      ],
+      "duration_ms": 222655,
+      "name": "Sound Mind - Studio Version",
+      "url": "https://open.spotify.com/track/06Bje3wAdtpotcf2JtYPET"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "No One Loves Me Like You Do (Radio Mix)",
         "url": "https://open.spotify.com/album/4XYQrxh7QL6NsZxctVnJDK"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 167207,
       "name": "No One Loves Me Like You Do - Radio Mix",
       "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Good Morning Mercy",
+        "url": "https://open.spotify.com/album/7nTRcESGrQ8Qvq9tj6apGc"
+      },
+      "artists": [
+        {
+          "name": "Jason Crabb",
+          "url": "https://open.spotify.com/artist/61SFRZAmfyJhcffwR2Ijuq"
+        },
+        {
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Good Morning Mercy",
+      "url": "https://open.spotify.com/track/0nujijkZ0Msf6eJo1sZ0Mu"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "The Stonebrook Project",
-        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 206560,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "The Commission (Go Tell The World)",
         "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 245475,
       "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
       "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "The Stonebrook Project",
+        "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 206560,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Where You Are",
         "url": "https://open.spotify.com/album/3aOI1EJVtokwfq2tob9xkQ"
       },
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Jesus Music",
-        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Jesus Music",
-      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O"
       },
@@ -1243,6 +1227,22 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
+        "name": "Jesus Music",
+        "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "Jesus Music",
+      "url": "https://open.spotify.com/track/2XaoDKLrO6WjtsAImXM6dz"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
         "name": "Eden (Isn't It Just Like You?)",
         "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
       },
@@ -1255,6 +1255,22 @@
       "duration_ms": 275466,
       "name": "Eden (Isn't It Just Like You?)",
       "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "While I Can",
+        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        }
+      ],
+      "duration_ms": 186029,
+      "name": "While I Can",
+      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1287,22 +1303,6 @@
       "duration_ms": 203832,
       "name": "I LOVE YOU TO DEATH",
       "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
-        "name": "While I Can",
-        "url": "https://open.spotify.com/album/6CA3wQ1FPOU52vhvWYgJGV"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        }
-      ],
-      "duration_ms": 186029,
-      "name": "While I Can",
-      "url": "https://open.spotify.com/track/6o3KtG52dLuCm6MYPqVU1C"
     },
     {
       "added_at": "2024-05-10 04:44:05",
@@ -1643,26 +1643,6 @@
     {
       "added_at": "2024-05-10 04:44:05",
       "album": {
-        "name": "Worthy One",
-        "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
-      },
-      "artists": [
-        {
-          "name": "CLINE",
-          "url": "https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj"
-        },
-        {
-          "name": "Mo Pitney",
-          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
-        }
-      ],
-      "duration_ms": 236806,
-      "name": "Worthy One",
-      "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
-    },
-    {
-      "added_at": "2024-05-10 04:44:05",
-      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 222115,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL"
+    },
+    {
+      "added_at": "2024-05-10 04:44:05",
+      "album": {
+        "name": "Worthy One",
+        "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
+      },
+      "artists": [
+        {
+          "name": "CLINE",
+          "url": "https://open.spotify.com/artist/1r5nbIz4NV4qjHiHA16FZj"
+        },
+        {
+          "name": "Mo Pitney",
+          "url": "https://open.spotify.com/artist/7r9M6ptJz7XnQp2RVFArb4"
+        }
+      ],
+      "duration_ms": 236806,
+      "name": "Worthy One",
+      "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
     },
     {
       "added_at": "2024-05-10 04:44:05",

@@ -1,6 +1,6 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 164221,
+  "num_followers": 164403,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -283,18 +283,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "The Story's Not Over",
-        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
       },
       "artists": [
         {
-          "name": "Jeremy Camp",
-          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
         }
       ],
-      "duration_ms": 187266,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
+      "duration_ms": 249242,
+      "name": "Hills and Valleys (The Valleys Version)",
+      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -319,18 +319,18 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+        "name": "The Story's Not Over",
+        "url": "https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Jeremy Camp",
+          "url": "https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk"
         }
       ],
-      "duration_ms": 249242,
-      "name": "Hills and Valleys (The Valleys Version)",
-      "url": "https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI"
+      "duration_ms": 187266,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5"
     },
     {
       "added_at": "2023-02-07 17:43:16",
@@ -915,26 +915,6 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
-        "name": "REBELS",
-        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Michael Ketterer",
-          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Rebels",
-      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 219013,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
+        "name": "REBELS",
+        "url": "https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Michael Ketterer",
+          "url": "https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo"
+        }
+      ],
+      "duration_ms": 226933,
+      "name": "Rebels",
+      "url": "https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga"
     },
     {
       "added_at": "2023-02-07 17:43:16",

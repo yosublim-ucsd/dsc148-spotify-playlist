@@ -1,6 +1,6 @@
 {
   "description": "Top country hits you know and love! Cover: Brian Kelley",
-  "num_followers": 546410,
+  "num_followers": 546585,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Ain't Doin' Jack",
-        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
-      },
-      "artists": [
-        {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
-        }
-      ],
-      "duration_ms": 160680,
-      "name": "Ain't Doin' Jack",
-      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "White Horse",
         "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 267893,
       "name": "White Horse",
       "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Ain't Doin' Jack",
+        "url": "https://open.spotify.com/album/1URccwrkhVDXNb8uowWWhk"
+      },
+      "artists": [
+        {
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+        }
+      ],
+      "duration_ms": 160680,
+      "name": "Ain't Doin' Jack",
+      "url": "https://open.spotify.com/track/1cF5gDFBHOprIKwzFORNjH"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -855,22 +855,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Different Man",
-        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
+        "name": "Tyler Hubbard",
+        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
       },
       "artists": [
         {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        },
-        {
-          "name": "Katelyn Brown",
-          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 174560,
-      "name": "Thank God",
-      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
+      "duration_ms": 179640,
+      "name": "Dancin\u2019 In The Country",
+      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -891,18 +887,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Tyler Hubbard",
-        "url": "https://open.spotify.com/album/2S3Q7phoa4bZEijkTRYaLu"
+        "name": "Different Man",
+        "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
       "artists": [
         {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Katelyn Brown",
+          "url": "https://open.spotify.com/artist/2GB8NPGTvSHk3KwmxtVvaB"
         }
       ],
-      "duration_ms": 179640,
-      "name": "Dancin\u2019 In The Country",
-      "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
+      "duration_ms": 174560,
+      "name": "Thank God",
+      "url": "https://open.spotify.com/track/1brnLTvarI9D1hLP6z2Ar8"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
       "artists": [
         {
-          "name": "Josh Ross",
-          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 214798,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/3svJ9Mv1JKL7R4CBZLtCfp"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Josh Ross",
+          "url": "https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+      "duration_ms": 214798,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/7cRggVoZ18mmvIN2EcSQ3J"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Tennessee Don't Mind",
-        "url": "https://open.spotify.com/album/3YQyzsRPVsbGGFig4lvcpz"
+        "name": "Young Love & Saturday Nights",
+        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
       },
       "artists": [
         {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
         }
       ],
-      "duration_ms": 242596,
-      "name": "Tennessee Don't Mind",
-      "url": "https://open.spotify.com/track/6LaW2p9BxzbSGefvoW8Y4T"
+      "duration_ms": 195357,
+      "name": "Young Love & Saturday Nights",
+      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Young Love & Saturday Nights",
-        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
+        "name": "P.S.",
+        "url": "https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i"
       },
       "artists": [
         {
-          "name": "Chris Young",
-          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+          "name": "Kylie Morgan",
+          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
         }
       ],
-      "duration_ms": 195357,
-      "name": "Young Love & Saturday Nights",
-      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
+      "duration_ms": 174173,
+      "name": "If He Wanted To He Would",
+      "url": "https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "P.S.",
-        "url": "https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i"
+        "name": "Tennessee Don't Mind",
+        "url": "https://open.spotify.com/album/3YQyzsRPVsbGGFig4lvcpz"
       },
       "artists": [
         {
-          "name": "Kylie Morgan",
-          "url": "https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV"
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
         }
       ],
-      "duration_ms": 174173,
-      "name": "If He Wanted To He Would",
-      "url": "https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI"
+      "duration_ms": 242596,
+      "name": "Tennessee Don't Mind",
+      "url": "https://open.spotify.com/track/6LaW2p9BxzbSGefvoW8Y4T"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1391,22 +1391,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Where We Started",
-        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
       },
       "artists": [
         {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        },
-        {
-          "name": "Riley Green",
-          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 183026,
-      "name": "Half Of Me",
-      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1427,22 +1423,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Human The Double Album",
         "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
       },
@@ -1455,6 +1435,26 @@
       "duration_ms": 221520,
       "name": "Human",
       "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Where We Started",
+        "url": "https://open.spotify.com/album/794M3R461sLnY042CsB3xW"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "duration_ms": 183026,
+      "name": "Half Of Me",
+      "url": "https://open.spotify.com/track/11kskoMyNDumaR30CI6rRv"
     },
     {
       "added_at": "2024-05-17 04:01:00",

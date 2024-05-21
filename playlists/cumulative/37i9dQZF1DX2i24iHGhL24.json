@@ -2851,6 +2851,24 @@
     },
     {
       "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "album": {
         "name": "gives you hell",
         "url": "https://open.spotify.com/album/3vcwsAuQDHilvVdPS8HRwS"
       },
@@ -7019,6 +7037,24 @@
     },
     {
       "album": {
+        "name": "Time to Pretend (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1WNVeIIhcUl4dU2TerEdz7"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243035,
+      "name": "Time to Pretend - Spotify Singles",
+      "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
+    },
+    {
+      "album": {
         "name": "Cover Sessions, Vol. 3",
         "url": "https://open.spotify.com/album/1DpZ3jGqyRCTQ8Eoas1MP4"
       },
@@ -7330,6 +7366,24 @@
       "duration_ms": 129656,
       "name": "Watermelon Sugar - Spotify Singles",
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"
+    },
+    {
+      "album": {
+        "name": "we can't be friends (wait for your love) - Spotify Singles",
+        "url": "https://open.spotify.com/album/7hMUB0og6WfdFk0C1Z2td0"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245233,
+      "name": "we can't be friends (wait for your love) - Spotify Singles",
+      "url": "https://open.spotify.com/track/0eMGIcWRTh8mYD9DNPjdo3"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. El Pinche Mara y Gera MX en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,842 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,870 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Un Alucin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
+| 1 | [Alucin Machin](https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Bajo Penumbra](https://open.spotify.com/album/7ilmJebvGeONTImSes5gu7) | 4:26 |
 | 2 | [Sin Escapatoria](https://open.spotify.com/track/6cemBZSbpNTZVHIcYoPhEL) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Sin Escapatoria](https://open.spotify.com/album/0CykID0bWBhpZHVjqUlx4B) | 3:25 |
 | 3 | [Mi Don](https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Villax](https://open.spotify.com/artist/4HkxgUTD15NUWSqxA2VfhN), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2), [Robb Candela](https://open.spotify.com/artist/3oMiumrA0ZaWk8DuUneylk), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN) | [Mi Don](https://open.spotify.com/album/5qSXL1ox4BU74ZAbdegRuN) | 3:31 |
 | 4 | [NO SON KLLE](https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [NO SON KLLE](https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y) | 3:43 |

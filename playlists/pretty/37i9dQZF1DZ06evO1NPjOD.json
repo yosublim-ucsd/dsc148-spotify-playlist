@@ -1,69 +1,13 @@
 {
-  "description": "This is City Girls. Wszystkie najwa\u017cniejsze utwory na jednej playli\u015bcie.",
-  "num_followers": 37441,
+  "description": "This is City Girls. The essential tracks, all in one playlist.",
+  "num_followers": 37450,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADUg7omwkgpgCIIRViq7Qek",
+  "snapshot_id": "ZklBAAAAAABFXA7luDB+RN+wQ+RSVhxR",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Still Over It",
-        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-      },
-      "artists": [
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 225502,
-      "name": "Ex For A Reason (with JT from City Girls)",
-      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quality Control: Control The Streets Volume 2",
-        "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
-      },
-      "artists": [
-        {
-          "name": "Quality Control",
-          "url": "https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S"
-        },
-        {
-          "name": "Layton Greene",
-          "url": "https://open.spotify.com/artist/02ZtVIjKL1PYLlMmP1sz0h"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 171646,
-      "name": "Leave Em Alone (Layton Greene, Lil Baby feat. City Girls, PnB Rock)",
-      "url": "https://open.spotify.com/track/6Vdyu21iT8qScU1haSjWUU"
-    },
     {
       "added_at": null,
       "album": {
@@ -74,15 +18,11 @@
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 166476,
-      "name": "Twerk (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+      "duration_ms": 158332,
+      "name": "Act Up",
+      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
     },
     {
       "added_at": null,
@@ -143,6 +83,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Girl Code",
+        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Code Red",
         "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
@@ -163,22 +139,6 @@
       "duration_ms": 177704,
       "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
       "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 106153,
-      "name": "Work For It",
-      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
     },
     {
       "added_at": null,
@@ -263,26 +223,6 @@
       "duration_ms": 214468,
       "name": "Gorgeous Remix (feat. City Girls)",
       "url": "https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Good Love (feat. Usher)",
-        "url": "https://open.spotify.com/album/0OhW9KGuhEaWt5kt9s5qKf"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-        }
-      ],
-      "duration_ms": 232787,
-      "name": "Good Love (feat. Usher)",
-      "url": "https://open.spotify.com/track/52JFc40b28XJDROR3c4uAr"
     },
     {
       "added_at": null,
@@ -603,26 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 198762,
-      "name": "Emotions (feat. Muni Long)",
-      "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pi\u00f1ata",
         "url": "https://open.spotify.com/album/12zhNm6ybv6ouz6J8b9qWu"
       },
@@ -655,6 +575,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 198762,
+      "name": "Emotions (feat. Muni Long)",
+      "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caramel (feat. City Girls)",
+        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Caramel (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Throw Fits (feat. City Girls & Juvenile)",
         "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
       },
@@ -683,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramel (feat. City Girls)",
-        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
+        "name": "Queen of Da Souf",
+        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
       },
       "artists": [
         {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
         }
       ],
-      "duration_ms": 232941,
-      "name": "Caramel (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
+      "duration_ms": 194526,
+      "name": "In n Out (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
     },
     {
       "added_at": null,
@@ -719,26 +679,6 @@
       "duration_ms": 167441,
       "name": "Static (feat. Lil Durk)",
       "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen of Da Souf",
-        "url": "https://open.spotify.com/album/1HOYLdaWocKi1YGveli9kF"
-      },
-      "artists": [
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 194526,
-      "name": "In n Out (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0OHjjudOY8MZ5AxfrzYJMH"
     },
     {
       "added_at": null,
@@ -1011,6 +951,38 @@
       "duration_ms": 182813,
       "name": "She A Winner",
       "url": "https://open.spotify.com/track/11eC6flJ9bu9paEa88ti62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Tried It",
+        "url": "https://open.spotify.com/album/5whQ0P8HBzpQHmvKioxbkz"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 126870,
+      "name": "You Tried It",
+      "url": "https://open.spotify.com/track/7q8BhxU2ZpUlXqmEy6nKFb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Boys For Life Soundtrack",
+        "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 158777,
+      "name": "Money Fight",
+      "url": "https://open.spotify.com/track/0eEEM1NNccG8BJpCC80Mlu"
     }
   ],
   "unique_name": "This Is City Girls",

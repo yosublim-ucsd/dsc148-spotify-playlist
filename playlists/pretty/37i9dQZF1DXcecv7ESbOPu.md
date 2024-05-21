@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,028 likes - 128 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,038 likes - 128 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 18 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 |
 | 19 | [I’m In Trouble](https://open.spotify.com/track/52X1cIBlLJVDH88gP7ipnQ) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq), [ViVii](https://open.spotify.com/artist/21m5PZPUgSF0k76W1MMCAa) | [I’m In Trouble](https://open.spotify.com/album/0rXnYHHbN5WHypCKPC9Yk6) | 3:27 |
 | 20 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 |
-| 21 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Kel](https://open.spotify.com/artist/0TLOVFA4f1et5PuPPVaGVg) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
+| 21 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
 | 22 | [Diamant](https://open.spotify.com/track/1aRp6QzY4fmXRvXGlSmJ2Z) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF), [Xpensive](https://open.spotify.com/artist/2mKw2kl0Hhw8caVt0msuwe) | [Diamant](https://open.spotify.com/album/1hkA8VIKu4w46JSUJasFyt) | 2:15 |
 | 23 | [Baby Blue Bathing Suit](https://open.spotify.com/track/44g9B391W79R6B0AFXhRyd) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Baby Blue Bathing Suit](https://open.spotify.com/album/0utcSpsj5S64rk7Ob05iYv) | 3:15 |
 | 24 | [My City](https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Prophecy](https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv) | [My City](https://open.spotify.com/album/0qmEnrR9K8ho8OrxvS6rKe) | 2:31 |

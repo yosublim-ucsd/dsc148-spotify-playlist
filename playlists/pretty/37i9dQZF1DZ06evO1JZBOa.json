@@ -1,12 +1,12 @@
 {
   "description": "This is Manu Dibango. The essential tracks, all in one playlist.",
-  "num_followers": 9044,
+  "num_followers": 9047,
   "original_name": "This Is Manu Dibango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAD9av63dVwd8YJXcchw45yw",
+  "snapshot_id": "ZklBAAAAAAAusTRB2PDvTycEMQ/M80Qo",
   "tracks": [
     {
       "added_at": null,
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 153097,
-      "name": "Groovy Flute",
-      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
+      "duration_ms": 131045,
+      "name": "Coconut",
+      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
     },
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 131045,
-      "name": "Coconut",
-      "url": "https://open.spotify.com/track/5rJSFuBV3QBGTrywHJt5sA"
+      "duration_ms": 153097,
+      "name": "Groovy Flute",
+      "url": "https://open.spotify.com/track/672sXt55h2Ol2MTcbKR5Sw"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gone Clear (The Complete Kingston Sessions)",
+        "url": "https://open.spotify.com/album/2DTqR31j9GAyHoWK2smUAt"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 396466,
+      "name": "Reggae Makossa",
+      "url": "https://open.spotify.com/track/7yVaY0KgC79HynS5qJPJ72"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wakafrika",
         "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
       },
@@ -568,21 +584,21 @@
       "added_at": null,
       "album": {
         "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
+        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
       },
       "artists": [
         {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
           "name": "Cuarteto Patria",
           "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
+        },
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
         }
       ],
-      "duration_ms": 259160,
-      "name": "Son de la Loma",
-      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
+      "duration_ms": 214440,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/6eoMTluhS1EClGg3fK5PKS"
     },
     {
       "added_at": null,
@@ -628,21 +644,21 @@
       "added_at": null,
       "album": {
         "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/2LKgfPJtRIuHTh5wgi7N8Q"
+        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
       "artists": [
         {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        },
-        {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         }
       ],
-      "duration_ms": 214440,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/6eoMTluhS1EClGg3fK5PKS"
+      "duration_ms": 259160,
+      "name": "Son de la Loma",
+      "url": "https://open.spotify.com/track/6tLJ6F2PNFmQfZlaJQqblS"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wakafrika",
-        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        }
-      ],
-      "duration_ms": 287000,
-      "name": "Wakafrika",
-      "url": "https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Anbessa",
         "url": "https://open.spotify.com/album/5ff8xqsSumGyofa9LEY8r4"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 252447,
       "name": "African Pop Session",
       "url": "https://open.spotify.com/track/3vgr28nj9y5KgpDoscc9eD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wakafrika",
+        "url": "https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC"
+      },
+      "artists": [
+        {
+          "name": "Manu Dibango",
+          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        }
+      ],
+      "duration_ms": 287000,
+      "name": "Wakafrika",
+      "url": "https://open.spotify.com/track/6Dr4Tat4uPaYBRIJ71WgQe"
     },
     {
       "added_at": null,
@@ -847,18 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballad Emotion",
-        "url": "https://open.spotify.com/album/5skkHyAMGBCKyfwZGcSVRX"
+        "name": "Cubafrica",
+        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
       },
       "artists": [
         {
           "name": "Manu Dibango",
           "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
+        },
+        {
+          "name": "Cuarteto Patria",
+          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
         }
       ],
-      "duration_ms": 164640,
-      "name": "What a wonderful world",
-      "url": "https://open.spotify.com/track/26sSX8lDuic48lLOpu0g49"
+      "duration_ms": 344760,
+      "name": "El Manicero",
+      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
       "added_at": null,
@@ -887,26 +907,6 @@
       "duration_ms": 188202,
       "name": "Simm' Tutt'Uno",
       "url": "https://open.spotify.com/track/57fT5UTogxchiaQvjubZnh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cubafrica",
-        "url": "https://open.spotify.com/album/1a5ZTTfoUkHhIpnaegSI6z"
-      },
-      "artists": [
-        {
-          "name": "Manu Dibango",
-          "url": "https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW"
-        },
-        {
-          "name": "Cuarteto Patria",
-          "url": "https://open.spotify.com/artist/4Ui5j0V10gw9x6KF7yiGSG"
-        }
-      ],
-      "duration_ms": 344760,
-      "name": "El Manicero",
-      "url": "https://open.spotify.com/track/6vG5U3Oi7RBLTD7sUf6olT"
     },
     {
       "added_at": null,

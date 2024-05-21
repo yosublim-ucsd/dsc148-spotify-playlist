@@ -335,22 +335,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Daydreams",
-        "url": "https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb"
-      },
-      "artists": [
-        {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
-        }
-      ],
-      "duration_ms": 136771,
-      "name": "Daydreams",
-      "url": "https://open.spotify.com/track/0i175zzCfpfTWA40Y3uqjs"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/1mJMKjZhjvbqj1vsLq5OHT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 181600,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/1UKn8bOlQO1gakfDhyu1FN"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Daydreams",
+        "url": "https://open.spotify.com/album/4EG75OgsOjd6ukj9IzpsFb"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 136771,
+      "name": "Daydreams",
+      "url": "https://open.spotify.com/track/0i175zzCfpfTWA40Y3uqjs"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "SGJAZZ, Vol. 2",
-        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
-      },
-      "artists": [
-        {
-          "name": "SGJAZZ",
-          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
-        },
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 321546,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Dew Point",
         "url": "https://open.spotify.com/album/4paxIGuHZFBrESPdMnx6uX"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 134690,
       "name": "Dew Point",
       "url": "https://open.spotify.com/track/1h6pKwYlbxjV2rouBmol9T"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "SGJAZZ, Vol. 2",
+        "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
+      },
+      "artists": [
+        {
+          "name": "SGJAZZ",
+          "url": "https://open.spotify.com/artist/4u8H7IRVIRQTRH5JrAmK2G"
+        },
+        {
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
+        }
+      ],
+      "duration_ms": 321546,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/41Iyj7VLspMaPVQP47toOK"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "high downforce",
-        "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
-      },
-      "artists": [
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
-        }
-      ],
-      "duration_ms": 140750,
-      "name": "high downforce",
-      "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Smooth Sunday Barbeque",
         "url": "https://open.spotify.com/album/3248TWghWQaI4iwhukipLS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 197124,
       "name": "Smooth Sunday Barbeque",
       "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "high downforce",
+        "url": "https://open.spotify.com/album/2wVHvyrMgTFW0OazHPe7Zq"
+      },
+      "artists": [
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+        }
+      ],
+      "duration_ms": 140750,
+      "name": "high downforce",
+      "url": "https://open.spotify.com/track/6Ybsa98LVmJAr15DwXSbzl"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Dive In!",
-        "url": "https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5"
-      },
-      "artists": [
-        {
-          "name": "Lavender Box",
-          "url": "https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9"
-        }
-      ],
-      "duration_ms": 178750,
-      "name": "Dive In!",
-      "url": "https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP"
       },
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "Dive In!",
+        "url": "https://open.spotify.com/album/5ZnX85acDURGkTmsOKTUq5"
+      },
+      "artists": [
+        {
+          "name": "Lavender Box",
+          "url": "https://open.spotify.com/artist/4qQYvOHb8QQ0E3mwOTPQk9"
+        }
+      ],
+      "duration_ms": 178750,
+      "name": "Dive In!",
+      "url": "https://open.spotify.com/track/6Y5w1dN90F0jreQGos2ypf"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Central Park",
         "url": "https://open.spotify.com/album/13CM5Q8EOtVdfmFtlkgtI5"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 163500,
       "name": "Central Park",
       "url": "https://open.spotify.com/track/3ohDGLqiQv6TOdR3N7xmCf"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "The Puzzle",
-        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
-      },
-      "artists": [
-        {
-          "name": "Dr. Dundiff",
-          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
-        }
-      ],
-      "duration_ms": 153533,
-      "name": "The Puzzle",
-      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1347,22 +1331,18 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "get up and go",
-        "url": "https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM"
+        "name": "The Puzzle",
+        "url": "https://open.spotify.com/album/7wygbtOZfSiYQiGmWWHL7R"
       },
       "artists": [
         {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Mathien",
-          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+          "name": "Dr. Dundiff",
+          "url": "https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN"
         }
       ],
-      "duration_ms": 147141,
-      "name": "get up and go",
-      "url": "https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU"
+      "duration_ms": 153533,
+      "name": "The Puzzle",
+      "url": "https://open.spotify.com/track/64tfJLNhrWpUtTvEeFqqQq"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1379,6 +1359,26 @@
       "duration_ms": 192289,
       "name": "smooveoperator",
       "url": "https://open.spotify.com/track/02uMZoFw264keGVYbNzOMa"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "get up and go",
+        "url": "https://open.spotify.com/album/2x09XHdln0ntQcYKxb4KNM"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Mathien",
+          "url": "https://open.spotify.com/artist/0vXy3lcUbZxuQtOaIEww4D"
+        }
+      ],
+      "duration_ms": 147141,
+      "name": "get up and go",
+      "url": "https://open.spotify.com/track/0AmxMNsfzteEOvlMx3r5JU"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Moons of Jupiter",
-        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
-      },
-      "artists": [
-        {
-          "name": "Daylight Robbery!",
-          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
-        },
-        {
-          "name": "Benjamin Furman",
-          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
-        }
-      ],
-      "duration_ms": 242506,
-      "name": "Galilean Moons",
-      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Blessings",
         "url": "https://open.spotify.com/album/7rFErmxiSojz9alXdzTdIB"
       },
@@ -1443,18 +1423,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Hidden Paradise",
-        "url": "https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt"
+        "name": "Moons of Jupiter",
+        "url": "https://open.spotify.com/album/1AcUrdOB61lJmyGvUqwugr"
       },
       "artists": [
         {
-          "name": "Rudy Raw",
-          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
+          "name": "Daylight Robbery!",
+          "url": "https://open.spotify.com/artist/4iSyPXTjEjLTgM08lsnC0O"
+        },
+        {
+          "name": "Benjamin Furman",
+          "url": "https://open.spotify.com/artist/1Iqi4vGZ1YDxUn9oAqqxXH"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Hidden Paradise",
-      "url": "https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp"
+      "duration_ms": 242506,
+      "name": "Galilean Moons",
+      "url": "https://open.spotify.com/track/2VLwrtdD36caMB8NLcte9v"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1479,30 +1463,34 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Brooklyn Brownstone",
-        "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
+        "name": "Hidden Paradise",
+        "url": "https://open.spotify.com/album/0GZnU5oouUt1kK02dzWrwt"
       },
       "artists": [
         {
-          "name": "faff",
-          "url": "https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF"
-        },
-        {
-          "name": "lightheart",
-          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
-        },
-        {
-          "name": "delaney.",
-          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
-        },
-        {
-          "name": "Anton",
-          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
+          "name": "Rudy Raw",
+          "url": "https://open.spotify.com/artist/4ZITuhWAaVoUTge2JwIton"
         }
       ],
-      "duration_ms": 136000,
-      "name": "Brooklyn Brownstone",
-      "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
+      "duration_ms": 147000,
+      "name": "Hidden Paradise",
+      "url": "https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Moonwalker",
+        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
+      },
+      "artists": [
+        {
+          "name": "Peter Olyni Jr.",
+          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+        }
+      ],
+      "duration_ms": 162978,
+      "name": "Moonwalker",
+      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1531,18 +1519,30 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Moonwalker",
-        "url": "https://open.spotify.com/album/65NN6OIdeRV286VSOSgrgS"
+        "name": "Brooklyn Brownstone",
+        "url": "https://open.spotify.com/album/14cxmAu3gvzR5oNrJcN3R3"
       },
       "artists": [
         {
-          "name": "Peter Olyni Jr.",
-          "url": "https://open.spotify.com/artist/5HI6ncFklodHRqtdX7EFgO"
+          "name": "faff",
+          "url": "https://open.spotify.com/artist/3dKNvDOPWpPth4n4gg8osF"
+        },
+        {
+          "name": "lightheart",
+          "url": "https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR"
+        },
+        {
+          "name": "delaney.",
+          "url": "https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h"
+        },
+        {
+          "name": "Anton",
+          "url": "https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA"
         }
       ],
-      "duration_ms": 162978,
-      "name": "Moonwalker",
-      "url": "https://open.spotify.com/track/4YdD9UItuRNEXII4n7kNQB"
+      "duration_ms": 136000,
+      "name": "Brooklyn Brownstone",
+      "url": "https://open.spotify.com/track/1qqwr9QESlVKf4mQ071m92"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "The Jazz Art Of Relax",
+        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
+      },
+      "artists": [
+        {
+          "name": "Soulstance",
+          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
+        }
+      ],
+      "duration_ms": 320388,
+      "name": "As We Are",
+      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Thank You for Waiting",
         "url": "https://open.spotify.com/album/73j9ThF4ukgyeFQq4IGsCe"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 123789,
       "name": "For the Homies",
       "url": "https://open.spotify.com/track/5uSJS1Oy5XSAAX7kP3LH3s"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "The Jazz Art Of Relax",
-        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
-      },
-      "artists": [
-        {
-          "name": "Soulstance",
-          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
-        }
-      ],
-      "duration_ms": 320388,
-      "name": "As We Are",
-      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Billow",
-        "url": "https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog"
-      },
-      "artists": [
-        {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
-        }
-      ],
-      "duration_ms": 151127,
-      "name": "Billow",
-      "url": "https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "When Every Leaf Is A Flower",
         "url": "https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 123636,
       "name": "Lavanta",
       "url": "https://open.spotify.com/track/7izOc7Oi4jU4VqLmDMqARt"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Billow",
+        "url": "https://open.spotify.com/album/2QJi553WjqaZVMKdGD9pog"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "duration_ms": 151127,
+      "name": "Billow",
+      "url": "https://open.spotify.com/track/6hd9qmlnzXQrRpZR6IWsxq"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1955,22 +1955,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Lost Travelers",
         "url": "https://open.spotify.com/album/6SdTEzCdDtiWCSSnwzE2jb"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 156800,
       "name": "Warm Light",
       "url": "https://open.spotify.com/track/4t983wHwJcdqPGjCq6SA3V"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Luminism",
-        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
-      },
-      "artists": [
-        {
-          "name": "Blossum",
-          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
-        },
-        {
-          "name": "iamalex",
-          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Luminism",
-      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo"
       },
@@ -2071,6 +2051,26 @@
       "duration_ms": 173682,
       "name": "Class",
       "url": "https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Luminism",
+        "url": "https://open.spotify.com/album/1verBqXRd5mPWIdcKnz6Vy"
+      },
+      "artists": [
+        {
+          "name": "Blossum",
+          "url": "https://open.spotify.com/artist/5n57oRR8VeYTcFnpz6svA4"
+        },
+        {
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Luminism",
+      "url": "https://open.spotify.com/track/6WtvZcBhLlI1pTWkAmyHDk"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2147,6 +2147,30 @@
       "duration_ms": 167999,
       "name": "Mad Summer",
       "url": "https://open.spotify.com/track/74NXZxHh9WGjDTWtkVkAzi"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Jonde",
+        "url": "https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 167608,
+      "name": "Jonde",
+      "url": "https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2231,46 +2255,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Morning Waffles",
-        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
-      },
-      "artists": [
-        {
-          "name": "Twiggy Fiz",
-          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Morning Waffles",
-      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Jonde",
-        "url": "https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k"
-      },
-      "artists": [
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
-        }
-      ],
-      "duration_ms": 167608,
-      "name": "Jonde",
-      "url": "https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Monte Adentro",
         "url": "https://open.spotify.com/album/0Rsap5JXIEDLxkhTVNT3Kr"
       },
@@ -2291,6 +2275,22 @@
       "duration_ms": 143437,
       "name": "El Platanal",
       "url": "https://open.spotify.com/track/5euxtzHFyA4WAbbERfT0eg"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Morning Waffles",
+        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Morning Waffles",
+      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
     },
     {
       "added_at": "2024-03-25 08:59:57",

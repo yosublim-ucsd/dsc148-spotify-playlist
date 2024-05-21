@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACOZuO0J9967TgDW9giOUkS",
+  "snapshot_id": "ZklBAAAAAAAdscnxNRYMXyYKb0ZAVlIy",
   "tracks": [
     {
       "added_at": null,
@@ -63,18 +63,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
+        "name": "The Little Mermaid Live!",
+        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
       },
       "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 50646,
-      "name": "Someone Gets Hurt - Reprise",
-      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
+      "duration_ms": 181089,
+      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
+      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Little Mermaid Live!",
-        "url": "https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc"
+        "name": "Mean Girls (Music From The Motion Picture \u2013 Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2VqGOWnMT8pJsYkRuEkqb7"
       },
       "artists": [
-        {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         }
       ],
-      "duration_ms": 181089,
-      "name": "Under the Sea - From \"The Little Mermaid Live!\"",
-      "url": "https://open.spotify.com/track/0W3JkGTUP2XFCNCIeKDEOX"
+      "duration_ms": 50646,
+      "name": "Someone Gets Hurt - Reprise",
+      "url": "https://open.spotify.com/track/1uElzTQ3ZDKimyoTeShKAv"
     },
     {
       "added_at": null,
@@ -427,34 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise Season 1: The Album (Music from the TV Series)",
-        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
-      },
-      "artists": [
-        {
-          "name": "Rise Cast",
-          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
-        },
-        {
-          "name": "Auli'i Cravalho",
-          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
-        },
-        {
-          "name": "Ellie Desautels",
-          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
-        }
-      ],
-      "duration_ms": 111160,
-      "name": "Those You've Known - Rise Cast Version",
-      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Whispering (Rise Cast Version)",
         "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
       },
@@ -495,6 +467,34 @@
       "duration_ms": 174226,
       "name": "The Word Of Your Body - Rise Cast Version",
       "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rise Season 1: The Album (Music from the TV Series)",
+        "url": "https://open.spotify.com/album/3NWC9vku8Robbe7tyVWJi1"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        },
+        {
+          "name": "Auli'i Cravalho",
+          "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
+        },
+        {
+          "name": "Ellie Desautels",
+          "url": "https://open.spotify.com/artist/71Vw9QsO329HcPRMksPlDe"
+        }
+      ],
+      "duration_ms": 111160,
+      "name": "Those You've Known - Rise Cast Version",
+      "url": "https://open.spotify.com/track/3XSIH7n9qyqY7PS3HzDYNx"
     },
     {
       "added_at": null,

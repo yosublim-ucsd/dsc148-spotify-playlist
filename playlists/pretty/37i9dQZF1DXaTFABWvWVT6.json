@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 70210,
+  "num_followers": 70227,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,18 @@
     {
       "added_at": "2024-05-10 14:56:02",
       "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+        "name": "Dog Days",
+        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
       },
       "artists": [
         {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
         }
       ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+      "duration_ms": 223631,
+      "name": "Dog Days",
+      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
     },
     {
       "added_at": "2024-05-10 14:56:02",
@@ -551,18 +551,18 @@
     {
       "added_at": "2024-05-10 14:56:02",
       "album": {
-        "name": "Dog Days",
-        "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
       },
       "artists": [
         {
-          "name": "PAWSA",
-          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
         }
       ],
-      "duration_ms": 223631,
-      "name": "Dog Days",
-      "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
       "added_at": "2024-05-10 14:56:02",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-05-10 14:56:02",
       "album": {
+        "name": "Midtown Playground",
+        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 222475,
+      "name": "Midtown Playground",
+      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "added_at": "2024-05-10 14:56:02",
+      "album": {
         "name": "Whole Lotta Drugs / Over The Edge",
         "url": "https://open.spotify.com/album/3Nh0Bjk3BCKi9YIjwbPAkn"
       },
@@ -783,38 +799,22 @@
     {
       "added_at": "2024-05-10 14:56:02",
       "album": {
-        "name": "Midtown Playground",
-        "url": "https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 222475,
-      "name": "Midtown Playground",
-      "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
-    },
-    {
-      "added_at": "2024-05-10 14:56:02",
-      "album": {
-        "name": "Costa",
-        "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
         },
         {
-          "name": "Chlo\u00e9 Caillet",
-          "url": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         }
       ],
-      "duration_ms": 216400,
-      "name": "Costa",
-      "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
+      "duration_ms": 233170,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w"
     }
   ],
   "unique_name": "The Dance Tent",

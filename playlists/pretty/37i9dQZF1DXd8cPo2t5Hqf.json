@@ -1,6 +1,6 @@
 {
   "description": "Enjoy 10 years of music from HATSUNE MIKU \"Project DIVA\" series/ \u521d\u97f3\u30df\u30af\"Project DIVA\"\u30b7\u30ea\u30fc\u30ba\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002 \u00a9 SEGA / \u00a9 Crypton Future Media, INC. <a href=\"https://piapro.net/\">www.piapro.net</a>",
-  "num_followers": 354834,
+  "num_followers": 354941,
   "original_name": "HATSUNE MIKU/ \u521d\u97f3\u30df\u30af Project DIVA series",
   "owner": {
     "name": "Spotify",
@@ -659,18 +659,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "SIGNALOID BOX",
-        "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
+        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
+        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
       },
       "artists": [
         {
-          "name": "Dios/signalP",
-          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
+          "name": "Maretu",
+          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
         }
       ],
-      "duration_ms": 277013,
-      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
-      "url": "https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0"
+      "duration_ms": 220108,
+      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
+      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -691,18 +691,18 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30b3\u30a4\u30f3\u30ed\u30c3\u30ab\u30fc\u30d9\u30a4\u30d3\u30fc",
-        "url": "https://open.spotify.com/album/44hHqfDPRrgjzDgPom68Nq"
+        "name": "SIGNALOID BOX",
+        "url": "https://open.spotify.com/album/0IBUFc6zEx7Hl8UkoDofX2"
       },
       "artists": [
         {
-          "name": "Maretu",
-          "url": "https://open.spotify.com/artist/7p1fL0cAuCPDMG6oBswFhM"
+          "name": "Dios/signalP",
+          "url": "https://open.spotify.com/artist/7Jo4alROJu9Smj8IZahiP1"
         }
       ],
-      "duration_ms": 220108,
-      "name": "\u8133\u5185\u9769\u547d\u30ac\u30fc\u30eb2016 ver.",
-      "url": "https://open.spotify.com/track/2h9KISwTGTFe299tDsZUWr"
+      "duration_ms": 277013,
+      "name": "\u30b5\u30f3\u30c9\u30ea\u30e8\u30f3",
+      "url": "https://open.spotify.com/track/3nmWtDD1yyHR4EEBUSmUK0"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -827,22 +827,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "Trump",
-        "url": "https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ"
-      },
-      "artists": [
-        {
-          "name": "yuchaP",
-          "url": "https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT"
-        }
-      ],
-      "duration_ms": 158926,
-      "name": "Blackjack",
-      "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
         "url": "https://open.spotify.com/album/68VL4A6GTN7ZaYsLhalxCW"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 210000,
       "name": "\u30b8\u30bf\u30fc\u30d0\u30b0",
       "url": "https://open.spotify.com/track/0Gc8R0bC03tMW1RO5d0X7u"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "Trump",
+        "url": "https://open.spotify.com/album/7hvwgnHlcyUa13qL3wipTJ"
+      },
+      "artists": [
+        {
+          "name": "yuchaP",
+          "url": "https://open.spotify.com/artist/1qAJAdT5gGxHdBQDcD13qT"
+        }
+      ],
+      "duration_ms": 158926,
+      "name": "Blackjack",
+      "url": "https://open.spotify.com/track/7HIy8ajP3ldKI9txACAzzy"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -955,6 +955,22 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
+        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
+        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
+      },
+      "artists": [
+        {
+          "name": "LamazeP",
+          "url": "https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e"
+        }
+      ],
+      "duration_ms": 111233,
+      "name": "\u307d\u3063\u3074\u3063\u307d\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
+      "url": "https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
         "name": "\u4e8c\u6b21\u5143\u30c9\u30ea\u30fc\u30e0\u30d5\u30a3\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/7kztgsxFnrkj0HnkV17Mea"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 234637,
       "name": "Sweet Devil - Eight Mix",
       "url": "https://open.spotify.com/track/4hNgNHEQGzCxA9ky1oxCEv"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
-        "name": "HATSUNE MIKU EXPO 2014 IN INDONESIA [Live]",
-        "url": "https://open.spotify.com/album/7sHpw2f73tYVfWcYaaLjE4"
-      },
-      "artists": [
-        {
-          "name": "LamazeP",
-          "url": "https://open.spotify.com/artist/4CyuPxiRtDlXZka0cyON4e"
-        }
-      ],
-      "duration_ms": 111233,
-      "name": "\u307d\u3063\u3074\u3063\u307d\u30fc -MIKU EXPO 2014 in INDONESIA Live-",
-      "url": "https://open.spotify.com/track/5ghOdH6CnAEfu8LaJriOwd"
     },
     {
       "added_at": "2021-05-26 02:37:36",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-05-26 02:37:36",
       "album": {
-        "name": "\u30e1\u30c6\u30aa",
-        "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
-      },
-      "artists": [
-        {
-          "name": "John Zeroness",
-          "url": "https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg"
-        }
-      ],
-      "duration_ms": 516642,
-      "name": "\u30e1\u30c6\u30aa",
-      "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
-    },
-    {
-      "added_at": "2021-05-26 02:37:36",
-      "album": {
         "name": "Kagaminext feat. \u93e1\u97f3\u30ea\u30f3\u3001\u93e1\u97f3\u30ec\u30f3 \u201510th ANNIVERSARY BEST\u2015",
         "url": "https://open.spotify.com/album/2HbzIEq99Mqb0VgGN1g3if"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 285813,
       "name": "\u30b9\u30ad\u30ad\u30e9\u30a4",
       "url": "https://open.spotify.com/track/43571bfzMoPeXhUCVWayue"
+    },
+    {
+      "added_at": "2021-05-26 02:37:36",
+      "album": {
+        "name": "\u30e1\u30c6\u30aa",
+        "url": "https://open.spotify.com/album/14CNuo5mSe1uMav9NMVzmr"
+      },
+      "artists": [
+        {
+          "name": "John Zeroness",
+          "url": "https://open.spotify.com/artist/1mDPqAhutuBAYXTlH0hEMg"
+        }
+      ],
+      "duration_ms": 516642,
+      "name": "\u30e1\u30c6\u30aa",
+      "url": "https://open.spotify.com/track/0kvl0X7t4s9bh4U1Cczx5s"
     },
     {
       "added_at": "2021-05-26 02:37:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,896 songs - 4 day 6 hr 16 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,897 songs - 4 day 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1904,5 +1904,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1894 | [Fire Alarm \(feat\. Snow Strippers\)](https://open.spotify.com/track/02Mqx9HzVRyfdCUpPNR6N3) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 3:05 |
 | 1895 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 |
 | 1896 | [O'lord! I Have My Doubts](https://open.spotify.com/track/5hWa8yLWGRjkBQDekWVElJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
+| 1897 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 |
 
-Snapshot ID: `AAAC+oZ1yQMvqZ6kKPYMfMsigBsCHA9w`
+Snapshot ID: `AAAC+91hNXZUxDy/G7F26I8EtcC4Kwg3`

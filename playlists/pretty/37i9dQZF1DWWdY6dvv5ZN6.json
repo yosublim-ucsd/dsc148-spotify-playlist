@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 2095,
+  "num_followers": 2108,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "The Neighborhood",
-        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 193654,
-      "name": "The Neighborhood",
-      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "In The Blossom of Their Shade",
         "url": "https://open.spotify.com/album/27mKBSWmqRmmssaZtZ7ihm"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 319880,
       "name": "How Can I Ease the Pain",
       "url": "https://open.spotify.com/track/24LlWhWXorT9R81J2vaA9H"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "The Neighborhood",
+        "url": "https://open.spotify.com/album/5p1furq3olcZbnXe51liZh"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 193654,
+      "name": "The Neighborhood",
+      "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Speak To Me",
-        "url": "https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 206800,
-      "name": "Omission",
-      "url": "https://open.spotify.com/track/4BNDJ8JLYVc5nkoaIeogna"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Stop This World",
         "url": "https://open.spotify.com/album/7ivGaE6c8QlNVFYmnS0qSf"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 229133,
       "name": "Stop This World",
       "url": "https://open.spotify.com/track/4yvljqDSkPWgUuxw9gm4pH"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Speak To Me",
+        "url": "https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "Omission",
+      "url": "https://open.spotify.com/track/4BNDJ8JLYVc5nkoaIeogna"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "FINER THINGS IN LIFE",
-        "url": "https://open.spotify.com/album/63m3qoFNagZfcBDlNN8etP"
-      },
-      "artists": [
-        {
-          "name": "Yellow Days",
-          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
-        }
-      ],
-      "duration_ms": 232116,
-      "name": "FINER THINGS IN LIFE",
-      "url": "https://open.spotify.com/track/0Sje6j7SqwGrZsX4oOSEgG"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Sounds from the Ancestors",
         "url": "https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 313720,
       "name": "Hargrove",
       "url": "https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "FINER THINGS IN LIFE",
+        "url": "https://open.spotify.com/album/63m3qoFNagZfcBDlNN8etP"
+      },
+      "artists": [
+        {
+          "name": "Yellow Days",
+          "url": "https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY"
+        }
+      ],
+      "duration_ms": 232116,
+      "name": "FINER THINGS IN LIFE",
+      "url": "https://open.spotify.com/track/0Sje6j7SqwGrZsX4oOSEgG"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "The Magic of Now",
+        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "duration_ms": 354106,
+      "name": "Libra",
+      "url": "https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Church",
         "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 244216,
       "name": "Burdens Down",
       "url": "https://open.spotify.com/track/0vEnFmphA8EoNwZDKlog5T"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "The Magic of Now",
-        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        }
-      ],
-      "duration_ms": 354106,
-      "name": "Libra",
-      "url": "https://open.spotify.com/track/1ntx4SY3tRDuEzid4sRFjA"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "The Fatalist",
-        "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 152586,
-      "name": "The Fatalist Blues",
-      "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "More Better",
         "url": "https://open.spotify.com/album/2umzUVhmjlQSt2aydhVofA"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 208500,
       "name": "All The Same",
       "url": "https://open.spotify.com/track/0JYFPzLH2RaghCVOFfnJsF"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "The Fatalist",
+        "url": "https://open.spotify.com/album/33ihKi0yijzptTHMNHXTNB"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "duration_ms": 152586,
+      "name": "The Fatalist Blues",
+      "url": "https://open.spotify.com/track/37kYCbuyOEbLMOIs59FWfe"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "The Solitary Seeker",
-        "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
-      },
-      "artists": [
-        {
-          "name": "Melissa Aldana",
-          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
-        }
-      ],
-      "duration_ms": 368402,
-      "name": "The Solitary Seeker",
-      "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Sunday In The Park",
         "url": "https://open.spotify.com/album/1w1S6RX4jzdXED0fTIgoWL"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 265239,
       "name": "Sunday In The Park",
       "url": "https://open.spotify.com/track/2lQ0Slml8MWZyTsWlKK2rh"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "The Solitary Seeker",
+        "url": "https://open.spotify.com/album/1cCmnTlv1Nj9ENL0i5mwUN"
+      },
+      "artists": [
+        {
+          "name": "Melissa Aldana",
+          "url": "https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz"
+        }
+      ],
+      "duration_ms": 368402,
+      "name": "The Solitary Seeker",
+      "url": "https://open.spotify.com/track/5D80smFJsFlbCSpJr60sad"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Activate",
-        "url": "https://open.spotify.com/album/7yKyv622MMKCYo9YJZSK8R"
-      },
-      "artists": [
-        {
-          "name": "Lowdown Brass Band",
-          "url": "https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u"
-        }
-      ],
-      "duration_ms": 216072,
-      "name": "Activate",
-      "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Portraits",
         "url": "https://open.spotify.com/album/0hni0RDIuYK1vFjqVcKtGo"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 233447,
       "name": "100 Fuites",
       "url": "https://open.spotify.com/track/5DzBExM1VuFDPpPWTI0dWd"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Activate",
+        "url": "https://open.spotify.com/album/7yKyv622MMKCYo9YJZSK8R"
+      },
+      "artists": [
+        {
+          "name": "Lowdown Brass Band",
+          "url": "https://open.spotify.com/artist/0DccOPSJ5LcC4HDiDZl17u"
+        }
+      ],
+      "duration_ms": 216072,
+      "name": "Activate",
+      "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2179,18 +2179,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "VWETO III",
-        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
+        "name": "The Essential Stanley Clarke",
+        "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
       },
       "artists": [
         {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
+          "name": "Stanley Clarke",
+          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
         }
       ],
-      "duration_ms": 275160,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
+      "duration_ms": 468906,
+      "name": "School Days",
+      "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2211,18 +2211,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "The Essential Stanley Clarke",
-        "url": "https://open.spotify.com/album/4658fdGxRPiSvcWb464SyS"
+        "name": "VWETO III",
+        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
       },
       "artists": [
         {
-          "name": "Stanley Clarke",
-          "url": "https://open.spotify.com/artist/1lGt9WgdYGpMnmwGkcCm05"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 468906,
-      "name": "School Days",
-      "url": "https://open.spotify.com/track/3bD0v2Jhj7pyXTiOqrJZ4c"
+      "duration_ms": 275160,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Kindred",
-        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
-      },
-      "artists": [
-        {
-          "name": "Doxas Brothers",
-          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
-        }
-      ],
-      "duration_ms": 353002,
-      "name": "Two's a Crowd",
-      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Qui qu'en grogne (G\u00e9n\u00e9ration quartet)",
         "url": "https://open.spotify.com/album/2IN0OyikeZIMZun32ZO3pk"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 365640,
       "name": "Time Is, Life Was",
       "url": "https://open.spotify.com/track/6Uwk4Z13nYVkSaci4Nn9xA"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Kindred",
+        "url": "https://open.spotify.com/album/5iYjnlKbCGefrh8rQbqXTx"
+      },
+      "artists": [
+        {
+          "name": "Doxas Brothers",
+          "url": "https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5"
+        }
+      ],
+      "duration_ms": 353002,
+      "name": "Two's a Crowd",
+      "url": "https://open.spotify.com/track/0hCKmGQWdYhGSumibIuusV"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2479,22 +2479,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Parfum no.1",
-        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
-      },
-      "artists": [
-        {
-          "name": "Jacques Kuba Seguin",
-          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
-        }
-      ],
-      "duration_ms": 444706,
-      "name": "Promesse de souvenirs",
-      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
@@ -2519,6 +2503,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Parfum no.1",
+        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Kuba Seguin",
+          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+        }
+      ],
+      "duration_ms": 444706,
+      "name": "Promesse de souvenirs",
+      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Sunset",
         "url": "https://open.spotify.com/album/126VBRneAtKHVcgZCEPPvx"
       },
@@ -2535,22 +2535,6 @@
       "duration_ms": 378348,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/6HuYUdj1H7tKm9l1xQClmR"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Walking Man",
-        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
-      },
-      "artists": [
-        {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "Walking Man",
-      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2599,6 +2583,22 @@
       "duration_ms": 395200,
       "name": "Humor de la seconda noche",
       "url": "https://open.spotify.com/track/0jEoLk2PT5awfo8nfBVPbQ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+      },
+      "artists": [
+        {
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
+        }
+      ],
+      "duration_ms": 184620,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
-        {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
-        }
-      ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Prevent the Future",
         "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
       },
@@ -2687,6 +2671,22 @@
       "duration_ms": 266900,
       "name": "Austerity",
       "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
+      },
+      "artists": [
+        {
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+        }
+      ],
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-04-24 15:03:49",

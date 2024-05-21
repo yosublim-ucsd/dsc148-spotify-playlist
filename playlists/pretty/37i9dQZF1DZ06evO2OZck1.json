@@ -1,12 +1,12 @@
 {
-  "description": "This is ATARASHII GAKKO!. The essential tracks, all in one playlist.",
-  "num_followers": 47320,
+  "description": "This Is ATARASHII GAKKO!. Los temas esenciales, todos en una lista.",
+  "num_followers": 47369,
   "original_name": "This Is ATARASHII GAKKO!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAewmthNhPOM7f3byVOG+a6",
+  "snapshot_id": "ZklBAAAAAAAaWZPm+052fMFUSppedDfk",
   "tracks": [
     {
       "added_at": null,
@@ -447,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLO (from The Tiger's Apprentice)",
-        "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
+        "name": "SNACKTIME",
+        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
       },
       "artists": [
         {
@@ -456,9 +456,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 153065,
-      "name": "HELLO (from The Tiger's Apprentice)",
-      "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+      "duration_ms": 206890,
+      "name": "Happy Hormones",
+      "url": "https://open.spotify.com/track/4N2HW56HHZiR3IixnEvt9T"
     },
     {
       "added_at": null,
@@ -495,8 +495,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SNACKTIME",
-        "url": "https://open.spotify.com/album/6Vci9acXtnQmjXi2miyovb"
+        "name": "HELLO (from The Tiger's Apprentice)",
+        "url": "https://open.spotify.com/album/4eCOedqcXqpKnu3wsRRVdf"
       },
       "artists": [
         {
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ"
         }
       ],
-      "duration_ms": 206890,
-      "name": "Happy Hormones",
-      "url": "https://open.spotify.com/track/4N2HW56HHZiR3IixnEvt9T"
+      "duration_ms": 153065,
+      "name": "HELLO (from The Tiger's Apprentice)",
+      "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
     },
     {
       "added_at": null,

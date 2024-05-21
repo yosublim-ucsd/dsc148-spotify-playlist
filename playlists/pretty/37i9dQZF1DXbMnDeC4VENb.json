@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 171893,
+  "num_followers": 171930,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -1639,6 +1639,26 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 230769,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Tu sabes",
         "url": "https://open.spotify.com/album/6ARBcLSiUyawYpLI3AV4f6"
       },
@@ -1659,26 +1679,6 @@
       "duration_ms": 134898,
       "name": "Tu sabes",
       "url": "https://open.spotify.com/track/2nz446sg4Q5BX1elUtprbH"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Quieres",
-        "url": "https://open.spotify.com/album/3u4CFQKwkrcGCCM1VCmXsw"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 230769,
-      "name": "Quieres",
-      "url": "https://open.spotify.com/track/5o6YxpVNGZ0lF0RyFksspd"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Sonr\u00edes Como Nadie",
+        "url": "https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 196057,
+      "name": "Sonr\u00edes Como Nadie",
+      "url": "https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Te Vas",
         "url": "https://open.spotify.com/album/21PsMvRRbvWaDDPCYLv8IJ"
       },
@@ -1847,22 +1863,6 @@
       "duration_ms": 287922,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/7HhpjBV6uW97Ai5P6hwnwF"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Sonr\u00edes Como Nadie",
-        "url": "https://open.spotify.com/album/3HPEQMPNdF7YdcdxECYBPy"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 196057,
-      "name": "Sonr\u00edes Como Nadie",
-      "url": "https://open.spotify.com/track/35upFzxLHai3PhYbZlF90f"
     },
     {
       "added_at": "2024-05-10 06:00:00",

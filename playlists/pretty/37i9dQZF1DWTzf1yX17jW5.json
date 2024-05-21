@@ -1,6 +1,6 @@
 {
   "description": "Our editor\u2019s picks for best Jersey Club songs of the year. Cover: kanii",
-  "num_followers": 8905,
+  "num_followers": 8914,
   "original_name": "Jersey Club Heat Presents Best Songs of 2023",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "CTRL",
+        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 139017,
+      "name": "CTRL",
+      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "XV",
         "url": "https://open.spotify.com/album/39eNnt0fhAmQUyC3m3IATi"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 186399,
       "name": "Cagoule",
       "url": "https://open.spotify.com/track/6CTdoQ646rvcW5Jvs1PLPc"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "CTRL",
-        "url": "https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7"
-      },
-      "artists": [
-        {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
-        }
-      ],
-      "duration_ms": 139017,
-      "name": "CTRL",
-      "url": "https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm"
     },
     {
       "added_at": "2023-12-01 14:44:59",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-12-01 14:44:59",
       "album": {
+        "name": "Love You",
+        "url": "https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn"
+      },
+      "artists": [
+        {
+          "name": "Curly J",
+          "url": "https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl"
+        }
+      ],
+      "duration_ms": 146834,
+      "name": "Love You",
+      "url": "https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv"
+    },
+    {
+      "added_at": "2023-12-01 14:44:59",
+      "album": {
         "name": "Ride",
         "url": "https://open.spotify.com/album/7ndcDivVteSQArE1XORpuv"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 159262,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7kMUUqZq6kYVeL2MwRZJTy"
-    },
-    {
-      "added_at": "2023-12-01 14:44:59",
-      "album": {
-        "name": "Love You",
-        "url": "https://open.spotify.com/album/15cUx5hOUnqyubf9Z9QiPn"
-      },
-      "artists": [
-        {
-          "name": "Curly J",
-          "url": "https://open.spotify.com/artist/5n9R7fAIjAkYV6BTXixtVl"
-        }
-      ],
-      "duration_ms": 146834,
-      "name": "Love You",
-      "url": "https://open.spotify.com/track/0SxskGC5lanJHfNMSbDVpv"
     },
     {
       "added_at": "2023-12-01 14:44:59",

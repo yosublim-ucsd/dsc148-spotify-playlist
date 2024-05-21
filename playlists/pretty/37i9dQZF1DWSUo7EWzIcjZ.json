@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 389023,
+  "num_followers": 389019,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
-        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
+        "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
+        "url": "https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso"
       },
       "artists": [
         {
-          "name": "Confusion",
-          "url": "https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE"
+          "name": "La Gran Manzana",
+          "url": "https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF"
         }
       ],
-      "duration_ms": 316302,
-      "name": "Caminando por la Vida",
-      "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
+      "duration_ms": 252734,
+      "name": "Cuando Llegara",
+      "url": "https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
-        "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
-        "url": "https://open.spotify.com/album/6a2IqhC6p4EExbsoMrYpso"
+        "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
+        "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
       },
       "artists": [
         {
-          "name": "La Gran Manzana",
-          "url": "https://open.spotify.com/artist/7fFNqvCPf1xyrqvkFnImMF"
+          "name": "Confusion",
+          "url": "https://open.spotify.com/artist/6AcXxqmUIDCs3VRkWWRcgE"
         }
       ],
-      "duration_ms": 252734,
-      "name": "Cuando Llegara",
-      "url": "https://open.spotify.com/track/17PhuPpYpMv2Jnb6HOHdYb"
+      "duration_ms": 316302,
+      "name": "Caminando por la Vida",
+      "url": "https://open.spotify.com/track/44XXBf7NYly5Xsiuo7n6tu"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Merengues Clasicos Vol 2",
+        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
+      },
+      "artists": [
+        {
+          "name": "La Patrulla 15",
+          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
+        }
+      ],
+      "duration_ms": 375320,
+      "name": "Yo me siento enamorao",
+      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80's, Vol. 1",
         "url": "https://open.spotify.com/album/5SRHSfSyLm4FakDOHeneYI"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 219871,
       "name": "Tu Belleza",
       "url": "https://open.spotify.com/track/0Et633xHaxneTVD3O5WYlH"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya"
-      },
-      "artists": [
-        {
-          "name": "Jerry Legrand",
-          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
-        }
-      ],
-      "duration_ms": 268104,
-      "name": "Todo Me Gusta de Ti",
-      "url": "https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/22Vw3nBWbkB7i45HAbsvya"
+      },
+      "artists": [
+        {
+          "name": "Jerry Legrand",
+          "url": "https://open.spotify.com/artist/1vyqQqgMTDy9MNbtcMToQe"
+        }
+      ],
+      "duration_ms": 268104,
+      "name": "Todo Me Gusta de Ti",
+      "url": "https://open.spotify.com/track/09Wgcneih4GUzxHaiHVDm6"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Con Mucho Swing",
         "url": "https://open.spotify.com/album/2ZvJyNrDflkpMlo02c4wSV"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 265532,
       "name": "Oye Abre Tus Ojos",
       "url": "https://open.spotify.com/track/1B8MHKKYkqrnmv8QDMat4Z"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Merengues Clasicos Vol 2",
-        "url": "https://open.spotify.com/album/44foj0bwD1wWLHgg9wBvAh"
-      },
-      "artists": [
-        {
-          "name": "La Patrulla 15",
-          "url": "https://open.spotify.com/artist/1oUHedCQed7UGcmwWyCv3O"
-        }
-      ],
-      "duration_ms": 375320,
-      "name": "Yo me siento enamorao",
-      "url": "https://open.spotify.com/track/1xRwSSLRWQkxsWMlAVzZtY"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-03-28 01:35:59",
       "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
+    },
+    {
+      "added_at": "2024-03-28 01:35:59",
+      "album": {
         "name": "Caricias",
         "url": "https://open.spotify.com/album/6G8kLQ5q6j19Ix24xkR8ig"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 214254,
       "name": "Un Sobrinito de Champagne",
       "url": "https://open.spotify.com/track/7GsUS2pESTQSdyPhWLBwdN"
-    },
-    {
-      "added_at": "2024-03-28 01:35:59",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-03-28 01:35:59",
@@ -1648,9 +1648,9 @@
           "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-03-28 01:35:59",

@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-174 songs - 8 hr 33 min
+175 songs - 8 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Lichen Pillow \- Spa](https://open.spotify.com/track/2nX7khSpIWDFaYoLpPZvDA) | [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Lichen Pillow](https://open.spotify.com/album/14I1aDJmh1wHCjrUzgA631) | 3:28 | 2023-04-28 |  |
 | [Like Water](https://open.spotify.com/track/5cbaZZoB2iYsP7FQHmKRzq) | [Forest Gold](https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU) | [Golden Light](https://open.spotify.com/album/1q0IUbhxzScGGUO5iwC7mi) | 3:26 | 2023-04-28 | 2023-07-14 |
 | [Little Creek](https://open.spotify.com/track/243ZkbrvYLMB7i1ni3sxlo) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Little Creek](https://open.spotify.com/album/2JrZeRYzlInaQwWbbkU3ZB) | 2:49 | 2023-10-06 |  |
+| [Lost The Gold](https://open.spotify.com/track/3qy47p0s3klKhxJ6rbsBJH) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Lost The Gold](https://open.spotify.com/album/5u9YptlLPTlCdq3uwfWtip) | 3:05 | 2024-05-01 |  |
 | [Meadow’s Fountain](https://open.spotify.com/track/4MqoLh3a6mT77Qea8mj0bW) | [Uffe Jörgensen](https://open.spotify.com/artist/56b0WToubUkYRbbBq6ZV9G) | [OHM](https://open.spotify.com/album/0CJf54j8fZnvDTYyDuhveb) | 3:00 | 2023-04-28 |  |
 | [Meas](https://open.spotify.com/track/6KoQyTkDaxANLiB1K7a8Jw) | [Nolene Britton](https://open.spotify.com/artist/4Ii7tJkcwod6FcfQKbelmT) | [Meas](https://open.spotify.com/album/7F5cog28FZOo0gz0fIuNhz) | 3:24 | 2023-04-28 |  |
 | [Meditation birds](https://open.spotify.com/track/3JceqUgXQPaX6RYakFUy4X) | [Tom Vode](https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw) | [Meditation birds](https://open.spotify.com/album/3xTpSrfiyRnMBVjQZ7EvtU) | 2:33 | 2023-09-22 |  |
@@ -144,7 +145,7 @@
 | [Solemn Echo](https://open.spotify.com/track/5NtSWnA98CIXpE6HloLurX) | [Stormfields](https://open.spotify.com/artist/1PlgaV9zKrbKabenfaMf0C) | [Solemn Echo](https://open.spotify.com/album/4b8EHzObZBqI6KXyU3DE2g) | 2:12 | 2023-04-28 |  |
 | [Somos Tierra](https://open.spotify.com/track/7AVLKd5agjTZWrfjxBTMHX) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Somos Tierra](https://open.spotify.com/album/6xGYEZBKtcLC7KIKJOrXSM) | 2:54 | 2023-04-28 | 2023-05-27 |
 | [Song Of Nature](https://open.spotify.com/track/4LvTLzxeWPn6XUpCmE93iH) | [Ziwambe](https://open.spotify.com/artist/4C4pHnRWJY0ROkqEynVy7z) | [Song Of Nature](https://open.spotify.com/album/0nMiF2yBds8CV1LqnTHMsV) | 2:26 | 2023-09-22 |  |
-| [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 |  |
+| [Soothing Ripples](https://open.spotify.com/track/7GBZtRWRBnA0zhnuNrvoct) | [Applied Rest](https://open.spotify.com/artist/2riZE0wAuN7vPwKnEo8eGX) | [Soothing Ripples](https://open.spotify.com/album/4c2ImLyXKB23EToI6NP8UE) | 2:49 | 2023-04-28 | 2024-05-21 |
 | [Soothing River Currents](https://open.spotify.com/track/5wadEWywibUs6MUP61h8kE) | [Binaural Healing Frequencies](https://open.spotify.com/artist/0O3hasNaQ353zIkDpwn4Ul) | [Soothing River Currents](https://open.spotify.com/album/74sFp2e1f4L9PKjonje0J5) | 2:50 | 2023-12-01 |  |
 | [Spa Rituals](https://open.spotify.com/track/1t2XiLdfC6zk4cRV2WNxvP) | [Ayivah](https://open.spotify.com/artist/4MFiKatqBIbFbdEZscWA8o) | [Spa Rituals](https://open.spotify.com/album/1HgapXIzrXEU18Wgw5Jhyb) | 2:31 | 2024-02-15 | 2024-04-02 |
 | [Stream of Harmony](https://open.spotify.com/track/2vsrtWukHPNJq6T0rt38rk) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Stream of Harmony](https://open.spotify.com/album/76eHssQQ8jisSTZwuiqC0R) | 2:57 | 2024-04-01 |  |

@@ -1,6 +1,6 @@
 {
   "description": "The greatest Alternative Rock songs through the decades. Cover: Weezer",
-  "num_followers": 731059,
+  "num_followers": 731176,
   "original_name": "Essential Alternative",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "American Beauty/American Psycho",
-        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Centuries",
-      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "Never Trust a Happy Song",
         "url": "https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 218013,
       "name": "Tongue Tied",
       "url": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "American Beauty/American Psycho",
+        "url": "https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Centuries",
+      "url": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
+      },
+      "artists": [
+        {
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
         "name": "Urban Hymns (Remastered 2016)",
         "url": "https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 212439,
       "name": "Supermassive Black Hole",
       "url": "https://open.spotify.com/track/3lPr8ghNDBLc2uZovNyLs9"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Superunknown (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
-      },
-      "artists": [
-        {
-          "name": "Soundgarden",
-          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
-        }
-      ],
-      "duration_ms": 318586,
-      "name": "Black Hole Sun",
-      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "Room On Fire",
         "url": "https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Oracular Spectacular",
-        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+        "name": "Superunknown (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
       "artists": [
         {
-          "name": "MGMT",
-          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+          "name": "Soundgarden",
+          "url": "https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK"
         }
       ],
-      "duration_ms": 302840,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+      "duration_ms": 318586,
+      "name": "Black Hole Sun",
+      "url": "https://open.spotify.com/track/2EoOZnxNgtmZaD8uUmz2nD"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -695,6 +679,22 @@
       "duration_ms": 293960,
       "name": "Like a Stone",
       "url": "https://open.spotify.com/track/3YuaBvuZqcwN3CEAyyoaei"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "Oracular Spectacular",
+        "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
+      },
+      "artists": [
+        {
+          "name": "MGMT",
+          "url": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        }
+      ],
+      "duration_ms": 302840,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 268360,
       "name": "Semi-Charmed Life",
       "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Young The Giant (Special Edition)",
-        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
-      },
-      "artists": [
-        {
-          "name": "Young the Giant",
-          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
-        }
-      ],
-      "duration_ms": 249520,
-      "name": "Cough Syrup",
-      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 183440,
       "name": "Someday",
       "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "Young The Giant (Special Edition)",
+        "url": "https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse"
+      },
+      "artists": [
+        {
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "duration_ms": 249520,
+      "name": "Cough Syrup",
+      "url": "https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+        "name": "Move Along",
+        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
       },
       "artists": [
         {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+          "name": "The All-American Rejects",
+          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Last Nite",
-      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
+      "duration_ms": 238880,
+      "name": "Move Along",
+      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -1515,22 +1515,6 @@
       "duration_ms": 173630,
       "name": "Left Hand Free",
       "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
-        "name": "Move Along",
-        "url": "https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe"
-      },
-      "artists": [
-        {
-          "name": "The All-American Rejects",
-          "url": "https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT"
-        }
-      ],
-      "duration_ms": 238880,
-      "name": "Move Along",
-      "url": "https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -1563,6 +1547,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 193373,
+      "name": "Last Nite",
+      "url": "https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -2623,6 +2623,22 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
+        "name": "Tell All Your Friends (Re-Issue)",
+        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 211546,
+      "name": "Cute Without the \"E\" (Cut From the Team)",
+      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
         "name": "Absolution",
         "url": "https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl"
       },
@@ -2651,22 +2667,6 @@
       "duration_ms": 264066,
       "name": "Karma Police",
       "url": "https://open.spotify.com/track/3SVAN3BRByDmHOhKyIDxfC"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
-        "name": "Tell All Your Friends (Re-Issue)",
-        "url": "https://open.spotify.com/album/6OWxP59cOtitg0ALmbms8e"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 211546,
-      "name": "Cute Without the \"E\" (Cut From the Team)",
-      "url": "https://open.spotify.com/track/1aYWQrIT8XPdtV4hhUjczN"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -2799,22 +2799,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Veckatimest",
-        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 243160,
-      "name": "Two Weeks",
-      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT"
       },
@@ -2827,6 +2811,22 @@
       "duration_ms": 194520,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/57ZXcBtCZXSg9TVV5xRdnR"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "Veckatimest",
+        "url": "https://open.spotify.com/album/6FIFqclBriPCb0SjWDaHIk"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 243160,
+      "name": "Two Weeks",
+      "url": "https://open.spotify.com/track/0iTpQYzJnYgh7kIxyq8A2O"
     },
     {
       "added_at": "2024-05-10 02:27:52",
@@ -2895,22 +2895,6 @@
     {
       "added_at": "2024-05-10 02:27:52",
       "album": {
-        "name": "Writer's Block",
-        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
-      },
-      "artists": [
-        {
-          "name": "Peter Bjorn and John",
-          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
-        }
-      ],
-      "duration_ms": 279026,
-      "name": "Young Folks",
-      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
-    },
-    {
-      "added_at": "2024-05-10 02:27:52",
-      "album": {
         "name": "Deep Cuts",
         "url": "https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ"
       },
@@ -2923,6 +2907,22 @@
       "duration_ms": 231853,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4"
+    },
+    {
+      "added_at": "2024-05-10 02:27:52",
+      "album": {
+        "name": "Writer's Block",
+        "url": "https://open.spotify.com/album/3FDYmCinR2Mx94ukKJKDew"
+      },
+      "artists": [
+        {
+          "name": "Peter Bjorn and John",
+          "url": "https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86"
+        }
+      ],
+      "duration_ms": 279026,
+      "name": "Young Folks",
+      "url": "https://open.spotify.com/track/6M6UoxIPn4NOWW0x7JPRfv"
     },
     {
       "added_at": "2024-05-10 02:27:52",

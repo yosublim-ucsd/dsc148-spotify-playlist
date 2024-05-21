@@ -5768,7 +5768,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 108073,
       "name": "Endless Trial",
       "url": "https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc"
@@ -10408,7 +10408,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 135468,
       "name": "Leon",
       "url": "https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN"
@@ -12694,7 +12694,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 194572,
       "name": "morning snowfall",
       "url": "https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ"
@@ -18364,6 +18364,24 @@
       "duration_ms": 108979,
       "name": "Sunday Mood",
       "url": "https://open.spotify.com/track/4qRYHMB8EWsrekRnRokg8J"
+    },
+    {
+      "album": {
+        "name": "Sunday Mood",
+        "url": "https://open.spotify.com/album/13RtQFl4U2ydQq029emsCe"
+      },
+      "artists": [
+        {
+          "name": "Uneven Cream",
+          "url": "https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf"
+        }
+      ],
+      "date_added": "2024-05-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Sunday Mood",
+      "url": "https://open.spotify.com/track/7BkPUaGIWkLuNvsN83xiAp"
     },
     {
       "album": {

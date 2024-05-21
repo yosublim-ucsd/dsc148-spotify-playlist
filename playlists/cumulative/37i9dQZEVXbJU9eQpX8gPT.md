@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-1,407 songs - 3 day 5 hr 30 min
+1,408 songs - 3 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Etherlude](https://open.spotify.com/track/2b4g0auOwCI95Wp5fe6OHl) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 2:44 | 2021-03-29 | 2021-03-31 |
 | [Etranger \(feat\. Damso\)](https://open.spotify.com/track/78UMhbpEdGKXSc9nk25ow0) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Caméléon](https://open.spotify.com/album/1E2FLbD0dchh1eVfO3MKC6) | 3:28 | 2021-03-27\* | 2021-07-16 |
 | [Euphoria](https://open.spotify.com/track/5YMXGBD6vcYP7IolemyLtK) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:48 | 2022-03-22 | 2022-03-24 |
-| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 |  |
+| [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 | 2024-05-02 | 2024-05-21 |
 | [Eurostar \(feat\. Central Cee\)](https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:07 | 2023-07-01 | 2023-07-03 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-10 |
 | [Exil](https://open.spotify.com/track/3D1pcN65xwxOA5hL8xfCzE) | [Raid](https://open.spotify.com/artist/4BuamTRrqjMmqrCnJ2pUQg), [De.Ville](https://open.spotify.com/artist/4R5VNdvB9gnzrDmoyTsjgr) | [Ether](https://open.spotify.com/album/0CXnqKIYcABtBBortguwXI) | 3:26 | 2021-03-29 | 2021-03-30 |
@@ -772,6 +772,7 @@
 | [Macron](https://open.spotify.com/track/5NUIgRfevkEksRntRDczTc) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [ISSAM](https://open.spotify.com/artist/37lslcg6zP6eAQAONiYvWN) | [Weld Fatima II](https://open.spotify.com/album/6La450FX0EOdrjQzlWuNrF) | 3:40 | 2021-06-23 | 2021-07-09 |
 | [Madmax](https://open.spotify.com/track/644YQtcDLQxeMPOzX5Hjyw) | [Moro](https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW), [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3) | [MAVERICK](https://open.spotify.com/album/3JhS1oQJZYMhNRvyzotCZ3) | 3:04 | 2021-09-22 | 2021-09-25 |
 | [MAFIA](https://open.spotify.com/track/08F16baYbciTva9P4BvpiI) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 4:00 | 2021-11-07 | 2021-11-12 |
+| [Magdar](https://open.spotify.com/track/4vT286Zu3aHYW96N76joB7) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Magdar](https://open.spotify.com/album/2BgCJlo2EDx4w5uxTP3hJC) | 3:12 | 2024-05-20 |  |
 | [Maghrebins](https://open.spotify.com/track/4U5h7GaXXXNOLpuo5vr3dU) | [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Hasta la muerte](https://open.spotify.com/album/72MdvUI4rPAcOTW0ty9zuw) | 3:23 | 2022-12-24 | 2023-01-07 |
 | [MAGHRIBI](https://open.spotify.com/track/01GVrWU4CZgZyHFMShuQb1) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [27](https://open.spotify.com/album/5e3bPy9xbaSULrXRVG8fp8) | 4:14 | 2023-11-24 |  |
 | [Magic](https://open.spotify.com/track/1BPkouQsD4GyYIQc0pJ76I) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Magic](https://open.spotify.com/album/0T6B119moSdRIZ2641ukTV) | 3:04 | 2022-03-22 | 2022-05-04 |

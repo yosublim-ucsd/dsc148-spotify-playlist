@@ -1,6 +1,6 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 3465,
+  "num_followers": 3590,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Charley Pride's 10th Album",
+        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
+      },
+      "artists": [
+        {
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+        }
+      ],
+      "duration_ms": 133880,
+      "name": "Is Anybody Goin' to San Antone",
+      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Ultimate Clint Black",
         "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 190800,
       "name": "Country Club",
       "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Charley Pride's 10th Album",
-        "url": "https://open.spotify.com/album/6H1BgFwZCf70Aft8uirQMl"
-      },
-      "artists": [
-        {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
-        }
-      ],
-      "duration_ms": 133880,
-      "name": "Is Anybody Goin' to San Antone",
-      "url": "https://open.spotify.com/track/4YoKrIafwopFW5OfjaRwty"
     },
     {
       "added_at": "2023-08-21 00:02:44",

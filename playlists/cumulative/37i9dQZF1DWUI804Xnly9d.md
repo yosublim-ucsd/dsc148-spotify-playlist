@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-331 songs - 18 hr 49 min
+332 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bitata Pal](https://open.spotify.com/track/5p2MaDktvl7GmLfAQqdP0B) | [Neyhal](https://open.spotify.com/artist/58nYUsnl5ST7wD1VY49b31), [Ramil Ganjoo](https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg) | [Bitata Pal](https://open.spotify.com/album/6CroN34V63lcQsAYjxUCl3) | 3:43 | 2023-11-24 | 2024-03-06 |
 | [Bitter Betrayals \(From "T\-Series Solos"\)](https://open.spotify.com/track/2qqFgR22eDiTcCTQUaSshU) | [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Nikhil Vinay](https://open.spotify.com/artist/0HsUQSehtJfQENJxgxQwg5), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Achha Sila Diya](https://open.spotify.com/album/2uodXwPtgPs131krAW6QIV) | 4:19 | 2023-09-29 | 2023-11-06 |
 | [Bolo Na](https://open.spotify.com/track/3lX88j758RWOL5B7uAM3tR) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G), [Avinash Chouhan](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Bolo Na](https://open.spotify.com/album/58XBnOka4Z1C8NEyvbAd38) | 3:10 | 2023-06-05 | 2023-07-01 |
+| [Brightside](https://open.spotify.com/track/0cVe7QJ01fQkzRbd920EFk) | [Neeraj Mehra](https://open.spotify.com/artist/5A0ZkUDY2DItbabJz7sqMI) | [Brightside](https://open.spotify.com/album/7BGuTPQAwbuFjdNVwpv1UA) | 4:05 | 2024-05-20 |  |
 | [Calmoshiya](https://open.spotify.com/track/0k68HmAy5WgSZBcI7NW7cU) | [TED](https://open.spotify.com/artist/3vYuRADChTXexcQyHbIS0T), [Yohanan](https://open.spotify.com/artist/1ibksd4lv48ZNCu0tw2DMB) | [Calmoshiya](https://open.spotify.com/album/1xrLuscNmcMYH4xs0UHCCs) | 2:37 | 2023-08-03 | 2023-09-28 |
 | [Chal Bhool Ja](https://open.spotify.com/track/48tLTRTLXGx9nj9RHgal6S) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Chal Bhool Ja](https://open.spotify.com/album/2JOUKg6FMICnKDlQS5D6pg) | 2:28 | 2023-06-16 | 2023-06-21 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-27 | 2023-12-12 |
@@ -116,7 +117,7 @@
 | [Ik Tarfa](https://open.spotify.com/track/5kAo09yI0O1o2qU9nLzoeQ) | [Mohit Aanand](https://open.spotify.com/artist/34RdxcV748gvPZDZ7U3GXy), [LTG](https://open.spotify.com/artist/7hdF2YLHKChiztK3Ui0bBp) | [Ik Tarfa](https://open.spotify.com/album/4ZGELdtNOQhqA1YUAAqRDR) | 4:19 | 2024-02-21 |  |
 | [ilhaam](https://open.spotify.com/track/1OZB6eUNMHMKEej1cdcVhZ) | [SUKOON](https://open.spotify.com/artist/2B8v7LECTltbjyzug5xYOe), [Rishabh Raghuvanshi](https://open.spotify.com/artist/6kiIpLgnbr3H9PCF4Rld8i) | [ilhaam](https://open.spotify.com/album/1uJxwiRhcsb96SPV5U03IH) | 4:40 | 2023-05-17 | 2023-06-27 |
 | [Intezaar Tha \- Reprise](https://open.spotify.com/track/4u4n04LrxLlT4pVpqGlqKX) | [Sai Kabir](https://open.spotify.com/artist/34fyQ7CTbQjqp1y5EjQKKg), [Gaurav Chatterji](https://open.spotify.com/artist/2yC22iFmcNBOfauIctRvPT) | [Tiku Weds Sheru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MH8afxzGgsHThYybVnWaZ) | 1:18 | 2023-06-23 | 2023-07-25 |
-| [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 |  |
+| [Ishq Ibaadat \- Unplugged](https://open.spotify.com/track/2Wtc2cgnyX65GMvueKZhqh) | [Prakriti Giri](https://open.spotify.com/artist/0dzcXimfMVH1JQawG72WJJ) | [Ishq Ibaadat \(Unplugged\)](https://open.spotify.com/album/4BmVJFcq3Grop5OKD9JE04) | 2:34 | 2024-02-20 | 2024-05-21 |
 | [Ishq Ki Baat](https://open.spotify.com/track/2ckptbX68hmRuRAXDmBK2y) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/1mST5bUGOaBHO8r1CQoWm0) | 1:31 | 2024-02-19 | 2024-02-27 |
 | [Ishq Ki Baat](https://open.spotify.com/track/40rKj95kijRhQThm1RHo0f) | [Milan](https://open.spotify.com/artist/4ZKKwaNWnjFlrpnBbs0899) | [Ishq Ki Baat](https://open.spotify.com/album/0tnHMFYxC1zZrdtvo2DqXH) | 1:31 | 2023-07-14 | 2024-02-20 |
 | [Izhaar](https://open.spotify.com/track/4XNsMOPYSEknPsiEzPkZzT) | [Tanmaya Bhatnagar](https://open.spotify.com/artist/1kzKlwoZunQPBWRLCZ7ZvS) | [Izhaar](https://open.spotify.com/album/2OoFPcpsGZCz8e8EHpZZsJ) | 3:52 | 2023-06-30 | 2023-09-29 |

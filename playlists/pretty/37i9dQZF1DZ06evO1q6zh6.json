@@ -1,12 +1,12 @@
 {
-  "description": "This is Judas Priest. The essential tracks, all in one playlist.",
-  "num_followers": 164768,
+  "description": "This is Judas Priest. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 164804,
   "original_name": "This Is Judas Priest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADUqO5Z4atNAEQnxd6qqUWs",
+  "snapshot_id": "ZklBAAAAAABL8BGqybB0adPg4iA6sz/M",
   "tracks": [
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ram It Down",
-        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Johnny B. Goode",
-      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Screaming For Vengeance (Expanded Edition)",
         "url": "https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 283120,
       "name": "Screaming for Vengeance",
       "url": "https://open.spotify.com/track/5xmmAlr7JqT53WqacPRhLA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ram It Down",
+        "url": "https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Johnny B. Goode",
+      "url": "https://open.spotify.com/track/307B0j257d72HTyAiohF8N"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is Fuerza Regida. The essential tracks, all in one playlist.",
-  "num_followers": 452788,
+  "description": "This Is Fuerza Regida. Los temas esenciales, todos en una lista.",
+  "num_followers": 453332,
   "original_name": "This Is Fuerza Regida",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAHHezgpwzOmlEJkv/caVGN",
+  "snapshot_id": "ZklBAAAAAABuZI0EE0GenYGuhGAd3grz",
   "tracks": [
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOSTALGIA",
-        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 205692,
-      "name": "LA PERRIE",
-      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mentira No Es",
         "url": "https://open.spotify.com/album/6Eb0XXaJ6oEVPclUXz1kz9"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 200000,
       "name": "Mentira No Es",
       "url": "https://open.spotify.com/track/6cmZSeILXKvgFRpUcDGQHZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOSTALGIA",
+        "url": "https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 205692,
+      "name": "LA PERRIE",
+      "url": "https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desvelado",
-        "url": "https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 210947,
-      "name": "Desvelado",
-      "url": "https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Lunes A Viernes",
         "url": "https://open.spotify.com/album/6UATeZf50WEtzrp4ZMFCoc"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 153443,
       "name": "De Lunes A Viernes",
       "url": "https://open.spotify.com/track/4ZLdYf8PwRSnsBeLESPio9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desvelado",
+        "url": "https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 210947,
+      "name": "Desvelado",
+      "url": "https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34"
     },
     {
       "added_at": null,
@@ -931,6 +931,26 @@
       "duration_ms": 193220,
       "name": "Ant\u00eddoto",
       "url": "https://open.spotify.com/track/6cxQ0CafJh50tbiRtr6qou"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Deportivo",
+        "url": "https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "El Deportivo",
+      "url": "https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6"
     },
     {
       "added_at": null,

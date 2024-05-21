@@ -1,6 +1,6 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 181450,
+  "num_followers": 181506,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
@@ -787,26 +787,6 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
-      },
-      "artists": [
-        {
-          "name": "Booka Shade",
-          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
-        },
-        {
-          "name": "Gab Rhome",
-          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
-        }
-      ],
-      "duration_ms": 216500,
-      "name": "The Sun",
-      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
-    },
-    {
-      "added_at": "2024-05-10 14:41:32",
-      "album": {
         "name": "Aquatic",
         "url": "https://open.spotify.com/album/1sXUPeXG3bo3norKvF2nJx"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 398969,
       "name": "No Time - R\u00dcF\u00dcS DU SOL Remix",
       "url": "https://open.spotify.com/track/7qRqmkHtKgk9B8FTGp9YjL"
+    },
+    {
+      "added_at": "2024-05-10 14:41:32",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/5r6iKwNhaF0AlqX8YKMpk7"
+      },
+      "artists": [
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "Gab Rhome",
+          "url": "https://open.spotify.com/artist/3VXMcHmS4xk3cacv4oXWKI"
+        }
+      ],
+      "duration_ms": 216500,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3JxvXfdWhKOzM2VGy1Gt1z"
     },
     {
       "added_at": "2024-05-10 14:41:32",
@@ -1203,18 +1203,22 @@
     {
       "added_at": "2024-05-10 14:41:32",
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1ZU8ySmsetup6DAWpGdOQ8"
+        "name": "Feel It Still",
+        "url": "https://open.spotify.com/album/2mw8ukho8umDiLim1lKQ0E"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "LuvLess",
+          "url": "https://open.spotify.com/artist/3nlrFqpQAci9Bx0O5VZ5Hr"
+        },
+        {
+          "name": "Warren",
+          "url": "https://open.spotify.com/artist/3hsPrgSO08dwXVkDzFbfSY"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/0QEt8M7MzkUDdBWIML1cqE"
+      "duration_ms": 183030,
+      "name": "Feel It Still",
+      "url": "https://open.spotify.com/track/7MKVZqTTMCwuJevnFX8rtu"
     }
   ],
   "unique_name": "Melodic & Euphoric",

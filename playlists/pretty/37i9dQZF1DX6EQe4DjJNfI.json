@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Beb\u00e9",
-  "num_followers": 167707,
+  "num_followers": 167752,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Por Isso Me Liga",
+        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
+      },
+      "artists": [
+        {
+          "name": "Ol\u00edvia",
+          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
+        },
+        {
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "duration_ms": 219168,
+      "name": "Por Isso Me Liga",
+      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 180705,
       "name": "Tira minha paz",
       "url": "https://open.spotify.com/track/5EOydzBnaxzhzj7iHqiRUo"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Por Isso Me Liga",
-        "url": "https://open.spotify.com/album/7E8sreIOIJeKUHj72Qmmsh"
-      },
-      "artists": [
-        {
-          "name": "Ol\u00edvia",
-          "url": "https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ"
-        },
-        {
-          "name": "Go Dassisti",
-          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
-        }
-      ],
-      "duration_ms": 219168,
-      "name": "Por Isso Me Liga",
-      "url": "https://open.spotify.com/track/3uzwO1NH7TP6ftntaRGTYO"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -723,46 +723,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Rec\u00edproco",
-        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
-      },
-      "artists": [
-        {
-          "name": "Victor JR",
-          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
-        },
-        {
-          "name": "Ingrid Milanez",
-          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
-        },
-        {
-          "name": "DJ Alle Mark",
-          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Rec\u00edproco",
-      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Tempo pra Perder",
-        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
-      },
-      "artists": [
-        {
-          "name": "Ana Olic",
-          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
-        }
-      ],
-      "duration_ms": 194974,
-      "name": "Tempo pra Perder",
-      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -787,6 +747,46 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Tempo pra Perder",
+        "url": "https://open.spotify.com/album/6qePnDPq4XJnpJxaGf5lxF"
+      },
+      "artists": [
+        {
+          "name": "Ana Olic",
+          "url": "https://open.spotify.com/artist/1gJq1KdpkUUygT6tgrnkiY"
+        }
+      ],
+      "duration_ms": 194974,
+      "name": "Tempo pra Perder",
+      "url": "https://open.spotify.com/track/2vS4o51fwVyYrDF54w5O0R"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Rec\u00edproco",
+        "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
+      },
+      "artists": [
+        {
+          "name": "Victor JR",
+          "url": "https://open.spotify.com/artist/3p0GexHIGvyoEQUpb2Nnlo"
+        },
+        {
+          "name": "Ingrid Milanez",
+          "url": "https://open.spotify.com/artist/3ucZWCjRRupT8LDfqaoRZJ"
+        },
+        {
+          "name": "DJ Alle Mark",
+          "url": "https://open.spotify.com/artist/7wik2rNV6wtZP98hHaspHQ"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Rec\u00edproco",
+      "url": "https://open.spotify.com/track/2Na1FNsaKX5WmLjEVVPVNt"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Respostas",
+        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
+      },
+      "artists": [
+        {
+          "name": "Rudney Martins",
+          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Respostas",
+      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -1119,46 +1135,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Respostas",
-        "url": "https://open.spotify.com/album/6U5Td6JlzcbbVWBwuzrQN5"
-      },
-      "artists": [
-        {
-          "name": "Rudney Martins",
-          "url": "https://open.spotify.com/artist/7sWAMRfTAlB6HXHnWCfpIL"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Respostas",
-      "url": "https://open.spotify.com/track/0BBMLP4VTmfarmL2QjCazW"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Abstin\u00eancia",
-        "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
-      },
-      "artists": [
-        {
-          "name": "Lav\u00ed",
-          "url": "https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC"
-        },
-        {
-          "name": "Ceejay",
-          "url": "https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG"
-        },
-        {
-          "name": "Khris",
-          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
-        }
-      ],
-      "duration_ms": 168247,
-      "name": "Abstin\u00eancia",
-      "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Uma Chance Pra Ficar Tudo bem",
         "url": "https://open.spotify.com/album/3E7fL2Muf5c8OvC8A54Mp3"
       },
@@ -1171,6 +1147,22 @@
       "duration_ms": 154290,
       "name": "Uma Chance",
       "url": "https://open.spotify.com/track/2QPZQP2MDGC5ePtfSI9ihO"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
+      },
+      "artists": [
+        {
+          "name": "Fabriccio",
+          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
+        }
+      ],
+      "duration_ms": 144578,
+      "name": "Novela",
+      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -1199,6 +1191,30 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Abstin\u00eancia",
+        "url": "https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO"
+      },
+      "artists": [
+        {
+          "name": "Lav\u00ed",
+          "url": "https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC"
+        },
+        {
+          "name": "Ceejay",
+          "url": "https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG"
+        },
+        {
+          "name": "Khris",
+          "url": "https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624"
+        }
+      ],
+      "duration_ms": 168247,
+      "name": "Abstin\u00eancia",
+      "url": "https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 219487,
       "name": "A MEIA NOITE",
       "url": "https://open.spotify.com/track/0zohxkEGHHOEZSJddLIGjL"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/1ZobC6NB96Vcx6Bif4fPWh"
-      },
-      "artists": [
-        {
-          "name": "Fabriccio",
-          "url": "https://open.spotify.com/artist/7HZsRuW2Cxoyrfk6CNiGih"
-        }
-      ],
-      "duration_ms": 144578,
-      "name": "Novela",
-      "url": "https://open.spotify.com/track/0Q9TO4RB80B2H0NdysDmkD"
     },
     {
       "added_at": "2024-05-17 03:01:00",

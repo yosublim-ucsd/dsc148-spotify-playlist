@@ -4,7 +4,7 @@
 
 > Para cantar y recordar\. Conmemorando la vida de Diomedes Díaz este 22 de Diciembre.
 
-163 songs - 12 hr 21 min
+164 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [La Caja Negra](https://open.spotify.com/track/6ayeTFT30KobwnRB1Iw2zd) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Rafael Valencia](https://open.spotify.com/artist/03P1SmMWXLRz4ezprAzZfJ) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 3:24 | 2022-01-24 | 2023-02-14 |
 | [La Casa](https://open.spotify.com/track/6CqQJT0M4aA5EJSC0mY1zN) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Julio Rojas](https://open.spotify.com/artist/4ggsID5la9TdapHKim9wSc), [Javier Vega](https://open.spotify.com/artist/2vOmk7qYwuHUpQwW6AmHKV) | [100 Años de Vallenato \(Vol.4\)](https://open.spotify.com/album/28Bo7pUHtIW1qGk7se8aBQ) | 3:59 | 2022-01-24 | 2023-02-14 |
 | [La Casa en el Aire](https://open.spotify.com/track/0INNn8BIIJ6cIV7nTXlo4P) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 5:31 | 2022-01-24 | 2023-02-14 |
+| [La Casa en el Aire](https://open.spotify.com/track/1nduLuAnEB9kWHUgH1sSL5) | [Colacho Mendoza](https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj), [Ivo Díaz](https://open.spotify.com/artist/7lmDSLh8c0YzQZTL2OWqH5) | [100 Años de Vallenato \(Vol\. 2\)](https://open.spotify.com/album/3BmZGoE03b6LRqMRRWVy24) | 5:32 | 2023-12-21 |  |
 | [La Ceiba de Villanueva](https://open.spotify.com/track/3X8UWloKpJaLOnyo1vIK8d) | [100 Años de Vallenato](https://open.spotify.com/artist/5yY5ocGq1YAS3yjoXrRk6p), [Miguel Lopez](https://open.spotify.com/artist/2VftvhcToui6V1ltwZg6Cg), [Armando Mendoza](https://open.spotify.com/artist/1ES4KDTcf1rrjLzT2xpKV3) | [100 Años de Vallenato \(Vol.2\)](https://open.spotify.com/album/1IwtGEx8assNKobIXEK44m) | 4:37 | 2022-01-24 | 2023-02-14 |
 | [La Celosa](https://open.spotify.com/track/2mX8tas4kfZBs2pO1cE9T1) | [Canta Los Exitos](https://open.spotify.com/artist/7dZlXoQy5OQpEG4rwguuOp), [Sergio Moya Molina](https://open.spotify.com/artist/54C68mvAKh9AMwGxXbE0F0) | [Vallenatos](https://open.spotify.com/album/0JWPaGWXspUdDkVMXAbboF) | 4:37 | 2022-01-24 | 2023-02-14 |
 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 | 2022-01-24 | 2024-04-19 |
@@ -105,7 +106,7 @@
 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 | 2023-12-21 |  |
 | [Me Vieron Llorando](https://open.spotify.com/track/0EEbXgKRl7EjT5p11fayuF) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Me Vieron Llorar](https://open.spotify.com/album/1vcMQzBol5pxceiAlbDDwD) | 4:34 | 2022-01-24 | 2023-02-14 |
 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 | 2023-02-13 |  |
-| [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 | 2023-12-21 |  |
+| [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 | 2023-12-21 | 2024-05-21 |
 | [Mi Diosa Humana](https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:46 | 2022-01-24 | 2024-04-19 |
 | [Mi Gran Amigo \- Remastered](https://open.spotify.com/track/0hFlzhfsQzdvdzosxYTdL6) | [Beto Rada](https://open.spotify.com/artist/5urvrwvm3mQzKGUwQUAoTl), [Cheche Rada](https://open.spotify.com/artist/7lCB4GprtgzXhkfpWY5deb) | [100 Años de Vallenato \(Selección de Temas del Libro de Pilar Tafur y Daniel Samper Pizano\) \[Remastered\]](https://open.spotify.com/album/2x0Micea493w7j6gzeqhIc) | 3:38 | 2022-01-24 | 2023-02-14 |
 | [Mi Hermano Y Yo](https://open.spotify.com/track/5ZakTBFmptmNMOw5gYsiAo) | [Los Hermanos Zuleta](https://open.spotify.com/artist/3vjtBZfcllf1dc7lfyKKME) | [30 Grandes Exitos](https://open.spotify.com/album/17ieceXEhEKVIIb7BOMhmf) | 4:58 | 2023-12-21 |  |

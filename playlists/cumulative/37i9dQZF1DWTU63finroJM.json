@@ -369,6 +369,24 @@
     },
     {
       "album": {
+        "name": "5pm",
+        "url": "https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W"
+      },
+      "artists": [
+        {
+          "name": "Goochan",
+          "url": "https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224262,
+      "name": "5pm",
+      "url": "https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf"
+    },
+    {
+      "album": {
         "name": "77",
         "url": "https://open.spotify.com/album/7zRM9Szm1EgOBzKWXRnIZU"
       },
@@ -13296,7 +13314,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 163986,
       "name": "Mama Aren't You Angry",
       "url": "https://open.spotify.com/track/3W6MVfrJbgHzRC1VrzMSSl"
@@ -15640,6 +15658,24 @@
       "duration_ms": 183013,
       "name": "NOT ALONE",
       "url": "https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd"
+    },
+    {
+      "album": {
+        "name": "NOT ALRIGHT",
+        "url": "https://open.spotify.com/album/6kY9wH57QbOAwhxyubRQyu"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "NOT ALRIGHT",
+      "url": "https://open.spotify.com/track/0m7w5JwGZDOvLio6be3GLi"
     },
     {
       "album": {
@@ -19498,7 +19534,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 157200,
       "name": "Si Supiera",
       "url": "https://open.spotify.com/track/3IAfihV1p0Q1WfErciii2t"
@@ -20606,7 +20642,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 254253,
       "name": "Tak Cukup Baik",
       "url": "https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n"
@@ -21686,6 +21722,24 @@
       "duration_ms": 164571,
       "name": "Ton\u0119",
       "url": "https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G"
+    },
+    {
+      "album": {
+        "name": "Too Much Time",
+        "url": "https://open.spotify.com/album/7qosDtVE1hK4dZyjJDHOjx"
+      },
+      "artists": [
+        {
+          "name": "Eli Wilson",
+          "url": "https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Too Much Time",
+      "url": "https://open.spotify.com/track/52Cb0LJqGkhTf1FdZKUXRk"
     },
     {
       "album": {

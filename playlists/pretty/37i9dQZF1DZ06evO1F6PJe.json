@@ -1,12 +1,12 @@
 {
   "description": "This is Joe Bonamassa. The essential tracks, all in one playlist.",
-  "num_followers": 99958,
+  "num_followers": 99983,
   "original_name": "This Is Joe Bonamassa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADF0gMF73lUPYaQMQIV5Dor",
+  "snapshot_id": "ZklBAAAAAAAk0rh0M1uGlL/SvfnrbwkQ",
   "tracks": [
     {
       "added_at": null,
@@ -259,22 +259,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S.O.S. 4: Blues For Your Soul",
         "url": "https://open.spotify.com/album/4ZxNQpjVCOcFbi0stPCHo5"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 246306,
       "name": "When Will I Let Her Go",
       "url": "https://open.spotify.com/track/0V9bhCXPYvI1UYZqBuEtoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/0FAqA6YKkJmz3y1rLhYnM4"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Ball Peen Hammer (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/3U9bFP9W41u4Bjxx3A0Nad"
     },
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blues Deluxe",
+        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 232933,
+      "name": "Long Distance Blues",
+      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dear Mr. Fantasy",
         "url": "https://open.spotify.com/album/1LgM96v1LWKd8585co5Hai"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 274081,
       "name": "Dear Mr. Fantasy",
       "url": "https://open.spotify.com/track/6pC50pZwVynieHSurJjSQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blues Deluxe",
-        "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 232933,
-      "name": "Long Distance Blues",
-      "url": "https://open.spotify.com/track/1GUmP2TjLWuXoegwnrPYsg"
     },
     {
       "added_at": null,
@@ -579,22 +579,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-        "url": "https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 492400,
-      "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
-      "url": "https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blues Deluxe",
         "url": "https://open.spotify.com/album/63T19joqs65Ep3LcE74SY6"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 270253,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/4NOfeN9b6hDAG3voJlw3bg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
+        "url": "https://open.spotify.com/album/6GMLIFdBnSEUiVzhg1F0Ju"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 492400,
+      "name": "The Last Matador Of Bayonne (Live At The Hollywood Bowl With Orchestra)",
+      "url": "https://open.spotify.com/track/4rgnW50oylv9VMDb1GKJcU"
     },
     {
       "added_at": null,

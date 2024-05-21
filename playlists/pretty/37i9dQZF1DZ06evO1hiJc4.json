@@ -1,12 +1,12 @@
 {
-  "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 143120,
+  "description": "This Is Labrinth. Los temas esenciales, todos en una lista.",
+  "num_followers": 143149,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACBXhdlDqSlOHZMseaXSWmy",
+  "snapshot_id": "ZklBAAAAAAB0npaQbFLT+j1PVQxToTKa",
   "tracks": [
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jealous - EP",
+        "url": "https://open.spotify.com/album/6bsCl6iS6dvC4xaiBlecPv"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 287693,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/4G92yYrUs0cvY7G41YRI0z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 213632,
       "name": "Incredible (feat. Labrinth)",
       "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
     },
     {
       "added_at": null,
@@ -163,6 +163,42 @@
       "duration_ms": 187026,
       "name": "Thunderclouds (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4lJNen4SMTIJMahALc3DcB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/3l3iCfpZsxbxWJhYoiQNkD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imagination & the Misfit Kid",
+        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        }
+      ],
+      "duration_ms": 191710,
+      "name": "All For Us",
+      "url": "https://open.spotify.com/track/76YSWx6L6FNsuaP6GWBb8P"
     },
     {
       "added_at": null,
@@ -203,26 +239,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 230961,
-      "name": "Fragile",
-      "url": "https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -247,6 +263,26 @@
       "duration_ms": 204093,
       "name": "Audio (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/100eDEmpWV5YGVCqHI0leU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 230961,
+      "name": "Fragile",
+      "url": "https://open.spotify.com/track/6PyxrogMU9imKqVtKx6840"
     },
     {
       "added_at": null,
@@ -499,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ends & Begins",
-        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 150222,
-      "name": "Power Couple",
-      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Goes",
         "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
       },
@@ -531,6 +551,22 @@
       "duration_ms": 284271,
       "name": "Love Goes (feat. Labrinth)",
       "url": "https://open.spotify.com/track/5aRlRDvXRuP81qEzKTXQvM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ends & Begins",
+        "url": "https://open.spotify.com/album/5kGUy2eONqGocT26fvKo9v"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        }
+      ],
+      "duration_ms": 150222,
+      "name": "Power Couple",
+      "url": "https://open.spotify.com/track/2RpcvZ3VEGaXXufRTYe8TQ"
     },
     {
       "added_at": null,
@@ -664,13 +700,21 @@
       },
       "artists": [
         {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Zendaya",
+          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
+        },
+        {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 142848,
-      "name": "Skeletons (Lexi Needed a Break)",
-      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
+      "duration_ms": 150320,
+      "name": "Elliot's Song (with Dominic Fike, Zendaya & Labrinth)",
+      "url": "https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG"
     },
     {
       "added_at": null,
@@ -748,21 +792,13 @@
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Zendaya",
-          "url": "https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs"
-        },
-        {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
         }
       ],
-      "duration_ms": 150320,
-      "name": "Elliot's Song (with Dominic Fike, Zendaya & Labrinth)",
-      "url": "https://open.spotify.com/track/5BjcI61j62j5lDmJowxcRG"
+      "duration_ms": 142848,
+      "name": "Skeletons (Lexi Needed a Break)",
+      "url": "https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR"
     },
     {
       "added_at": null,
@@ -919,42 +955,6 @@
       "duration_ms": 272789,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0CZTaVSntZY58fdKS52WAb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Same Team (feat. Stefflon Don)",
-        "url": "https://open.spotify.com/album/5bK3Xn3qq3qvqVRLbQiAY9"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        },
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Same Team (feat. Stefflon Don)",
-      "url": "https://open.spotify.com/track/7Db4ViXHhXYznDDRdfX2VB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Imagination & the Misfit Kid",
-        "url": "https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8"
-      },
-      "artists": [
-        {
-          "name": "Labrinth",
-          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Something's Got To Give",
-      "url": "https://open.spotify.com/track/2cY1XfMsEkNemJ8ECmn0Cs"
     }
   ],
   "unique_name": "This Is Labrinth",

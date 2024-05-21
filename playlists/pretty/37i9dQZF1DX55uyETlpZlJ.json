@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkNengAAAAD76TT9ceblnPPDQGkXoKlr",
+  "snapshot_id": "ZksdEwAAAACoivMqTCVXLukPVlLvVpE8",
   "tracks": [
     {
       "added_at": "2024-04-26 12:05:14",
@@ -59,6 +59,22 @@
       "duration_ms": 175500,
       "name": "En Anthira",
       "url": "https://open.spotify.com/track/4ri4RGGpeNd7ZlbPVHEtX8"
+    },
+    {
+      "added_at": "2024-05-20 09:51:15",
+      "album": {
+        "name": "Shambo Shiva Shankara",
+        "url": "https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Shambo Shiva Shankara",
+      "url": "https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp"
     },
     {
       "added_at": "2024-05-13 06:23:59",
@@ -1407,42 +1423,6 @@
       "duration_ms": 354860,
       "name": "Enagide Nanna Hrudaya",
       "url": "https://open.spotify.com/track/4KEF69Otx6MOJOy6QYKQDz"
-    },
-    {
-      "added_at": "2023-12-07 05:37:00",
-      "album": {
-        "name": "Baby I Love You",
-        "url": "https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc"
-      },
-      "artists": [
-        {
-          "name": "Kishan D'Souza",
-          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
-        },
-        {
-          "name": "Bats Creations",
-          "url": "https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp"
-        }
-      ],
-      "duration_ms": 272869,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9"
-    },
-    {
-      "added_at": "2023-12-08 09:13:29",
-      "album": {
-        "name": "TREND",
-        "url": "https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k"
-      },
-      "artists": [
-        {
-          "name": "MC Thrift",
-          "url": "https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC"
-        }
-      ],
-      "duration_ms": 191786,
-      "name": "TREND",
-      "url": "https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C"
     },
     {
       "added_at": "2023-12-13 13:02:40",

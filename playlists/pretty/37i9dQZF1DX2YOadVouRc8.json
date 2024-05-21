@@ -1,6 +1,6 @@
 {
   "description": "afrobeats: best served chill",
-  "num_followers": 24396,
+  "num_followers": 24422,
   "original_name": "Afro Chill",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Element",
-        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Soundz",
+          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
         },
         {
-          "name": "Lekaa Beats",
-          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 147857,
-      "name": "Element",
-      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
+      "duration_ms": 186382,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -627,22 +627,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/1YDZJz0EVdKuusZojxdTPL"
+        "name": "Element",
+        "url": "https://open.spotify.com/album/6dqt5Ig79hptlp4yPQAv9M"
       },
       "artists": [
         {
-          "name": "Soundz",
-          "url": "https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0"
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
         },
         {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
         }
       ],
-      "duration_ms": 186382,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3GAu2fSg9deV207noxMKl0"
+      "duration_ms": 147857,
+      "name": "Element",
+      "url": "https://open.spotify.com/track/4XZt2aMuJo5lpJ0gEzruNL"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1319,26 +1319,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "You Trap Me",
-        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
-      },
-      "artists": [
-        {
-          "name": "General Soundbwoy",
-          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
-        },
-        {
-          "name": "Nikko Mad",
-          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
-        }
-      ],
-      "duration_ms": 102863,
-      "name": "You Trap Me",
-      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1359,6 +1339,26 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "You Trap Me",
+        "url": "https://open.spotify.com/album/6Zwzz2W8ViQ89NXz0IW52M"
+      },
+      "artists": [
+        {
+          "name": "General Soundbwoy",
+          "url": "https://open.spotify.com/artist/6gctG6ZKtB0kbGolqccLSS"
+        },
+        {
+          "name": "Nikko Mad",
+          "url": "https://open.spotify.com/artist/29c8c8UVfvvDTkco0Ndw4y"
+        }
+      ],
+      "duration_ms": 102863,
+      "name": "You Trap Me",
+      "url": "https://open.spotify.com/track/2AYjnv47XVccCzv2ehzFNb"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Magixx",
+        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
+      },
+      "artists": [
+        {
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Love Don't Cost A Dime",
+      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "YUSFUL MUSIC (RELOADED)",
         "url": "https://open.spotify.com/album/1zT2lqBx5HcemL9x2M2uwJ"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Magixx",
-        "url": "https://open.spotify.com/album/4FZn99wJYWhH3sczHcDJDD"
-      },
-      "artists": [
-        {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Love Don't Cost A Dime",
-      "url": "https://open.spotify.com/track/7cSKmgZrlNbSkw4y7sQEa7"
     },
     {
       "added_at": "2024-05-17 00:01:00",

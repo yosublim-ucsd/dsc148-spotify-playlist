@@ -4,7 +4,7 @@
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-164 songs - 10 hr 12 min
+165 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [ทะเลสีดำ](https://open.spotify.com/track/3JZQmfiIzj1G8jLi6GnL2Y) | [Lula](https://open.spotify.com/artist/6Gymwy9eHYItH2v7MYPRjB), [Tar Paradox](https://open.spotify.com/artist/2f5oej9D24zxBJ0cyDSNgJ) | [Urban Lullaby](https://open.spotify.com/album/5DerPlnethQIosWrjBRR6p) | 3:47 | 2023-02-21 |  |
 | [ทำไมต้องคนนี้?](https://open.spotify.com/track/3R82wt4JmRcgjP4qUlHFOn) | [MEAN Band](https://open.spotify.com/artist/5fYMwzhko3iLCsqNhy07NG) | [ทำไมต้องคนนี้?](https://open.spotify.com/album/2E0mvHoOhKLRcewQLgd9ee) | 2:50 | 2023-02-10 | 2024-04-19 |
 | [ที่รักที่รัก \- Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series](https://open.spotify.com/track/4TGH3Lwelh2K2pzrESLSFj) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [ZEE PRUK](https://open.spotify.com/artist/1NEvvo7hmaunNnGMny2Myg) | [ที่รักที่รัก \(Original soundtrack from "นิ่งเฮียก็หาว่าซื่อ" cutie pie series\)](https://open.spotify.com/album/3jtC1t9oitElqgXhqdaKo9) | 3:19 | 2023-02-10 | 2023-06-10 |
-| [นะครับ \(ได้ไหม\) \- Acoustic Version](https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp) | [spsalola](https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG) | [นะครับ \(ได้ไหม\) \[Acoustic Version\]](https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM) | 4:09 | 2023-02-10 |  |
+| [นะครับ \(ได้ไหม\) \- Acoustic Version](https://open.spotify.com/track/51GuxG7BsdZ0MRR3CgbhFp) | [spsalola](https://open.spotify.com/artist/0KLp5ppsZerGbWrWnO7lXG) | [นะครับ \(ได้ไหม\) \[Acoustic Version\]](https://open.spotify.com/album/1i0J3VWxDAqpCaZcf5PJoM) | 4:09 | 2023-02-10 | 2024-05-21 |
 | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/track/4mQKlp0OQDS6SlcBro4iKx) | [BENT](https://open.spotify.com/artist/6RrR7MGPFBSx59TPwAOGki) | [นานเท่าไหร่ก็จะรัก](https://open.spotify.com/album/27RPkxN1HHONUp5tuQP7PL) | 3:43 | 2024-03-16 |  |
 | [นิโคติน](https://open.spotify.com/track/6R9YzJHkfYoN6PianPhTdB) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7) | [นิโคติน \- Single](https://open.spotify.com/album/5e0anFANpCnBAv5pEAVc34) | 3:36 | 2023-02-10 |  |
 | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/track/6bm7Zdq8xy3LGBNua0jqjL) | [wish.](https://open.spotify.com/artist/6GZyaaDSiWwDYjBySZh3rR) | [บังเอิญเจอแต่ตั้งใจรัก](https://open.spotify.com/album/49Qf1EQQSsZ0QqDQCji7on) | 2:58 | 2023-02-10 | 2024-03-17 |
@@ -121,6 +121,7 @@
 | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/track/08OtCoRVu0sHp8dmCddtvg) | [Waii](https://open.spotify.com/artist/2RMcYn32IFfN1FQdpUArrC), [Koen](https://open.spotify.com/artist/0Uz2jjlCiSOpsxSD7qOEB0) | [หากเธอเคยรักใคร \(IF YOU LOVE\)](https://open.spotify.com/album/49h8RHuCZSrOZKqsE9q8JM) | 3:35 | 2023-02-10 |  |
 | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/track/4rDCI4NQEBQrfTFN5epRYU) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [อาหมวยหาย \(阿妹走 / Chinese Girl\)](https://open.spotify.com/album/5HoeLBMTFqR6M7IJgCfvnC) | 2:58 | 2023-02-10 |  |
 | [เกินต้าน \- Too Cute](https://open.spotify.com/track/7J2Kyx0vT5ss4AqMWR1q3c) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [เกินต้าน \(Too Cute\)](https://open.spotify.com/album/41DGIzxgLakiFk7HKDfE5o) | 3:06 | 2023-02-10 |  |
+| [เคียงกัน](https://open.spotify.com/track/2zq7H7SWQC9ldZy1f7e8kC) | [Gun Napat](https://open.spotify.com/artist/051lp6s3ON69PxioINt2xE), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [เคียงกัน \- Single](https://open.spotify.com/album/06lJwr75SxBCdJkS9VAR3V) | 4:52 | 2024-03-16 |  |
 | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/track/6WssVwDznRk2o5Qvg4JfaN) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [เค้ารักเธอที่สุด \(ily\)](https://open.spotify.com/album/2zzPZglny0oSYZzi7PzCDG) | 2:56 | 2023-06-09 |  |
 | [เทพสร้าง](https://open.spotify.com/track/7E53M1dqmYivfFhXknFEmz) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เทพสร้าง](https://open.spotify.com/album/0F9GysAHBax9YYHPn6VV6N) | 3:05 | 2024-01-16 | 2024-01-24 |
 | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/track/7C4tRbJ0J24NaftPTMU1Fd) | [No One Else](https://open.spotify.com/artist/0UAiHanBWs5vRM1tSPf2RJ) | [เธอคือกาแฟในตอนเช้า](https://open.spotify.com/album/2s1HioFvteCgNIQIQrf2hV) | 4:13 | 2023-10-06 |  |

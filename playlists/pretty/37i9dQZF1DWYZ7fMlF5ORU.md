@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,577 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,628 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 7 | [Não Pare de Crer](https://open.spotify.com/track/5c9H63Ch7zPugB36knsHmc) | [Juninho Black](https://open.spotify.com/artist/7490EMVm6pJKGgsrOL3chR) | [Sonhos de Deus](https://open.spotify.com/album/0ue7Y6gqpqKB2rZ1mYWMpf) | 2:46 |
 | 8 | [provérbios 16](https://open.spotify.com/track/4Te7CWux7EKyXmhBUZbpCU) | [Purples](https://open.spotify.com/artist/3G4ZvKqnYaB76ZeANjvn6B) | [o Dono do tempo](https://open.spotify.com/album/0d9lKsIyRHmeOhYisKGUGu) | 4:07 |
 | 9 | [Graça](https://open.spotify.com/track/5jyS18VeWeqtF7glIT7RTy) | [Sarah Oliveira](https://open.spotify.com/artist/41y67kzuqyOCphn9Aj5Teq) | [Sarah](https://open.spotify.com/album/7naeYAVDhV6m9H9Xbqnz1H) | 5:33 |
-| 10 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
+| 10 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |
 | 11 | [Um Pouco do Que Deus Fez](https://open.spotify.com/track/1F2NsHxUk1qDckkHfPtEzp) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Essência](https://open.spotify.com/album/6gh1cKg6cQvjSSmJMKVPhm) | 3:22 |
-| 12 | [Jeova é o Teu Cavaleiro](https://open.spotify.com/track/5VttU3A8K4TUjuyIBWUaqu) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N) | [Deus Cuida de Mim](https://open.spotify.com/album/3CQ1J18GWLNpaEV1ssleae) | 3:23 |
+| 12 | [Avante](https://open.spotify.com/track/3z9SRMvGQ0mr25ocM2LovO) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Avante](https://open.spotify.com/album/6UKKAW3dSSxUiegAUfRLqG) | 3:23 |
 | 13 | [O Amor de Deus](https://open.spotify.com/track/5J8MT6suqzNoHktOWIor4A) | [Julio Cesar](https://open.spotify.com/artist/30KgyZbMwuRzznOnbkb8sr) | [Cuida de Mim](https://open.spotify.com/album/4HoqgnIu2CtdA9BaRLyIyY) | 5:01 |
 | 14 | [Dele, Com Ele \- Ao Vivo](https://open.spotify.com/track/7CRUMlW5jTgcyQHTVMISED) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/2B3LKH2c59NTNXvEXA1cKW) | 4:18 |
 | 15 | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/track/3GlzRz4Qwsv1Yyi5gK9wJu) | [Sync 3](https://open.spotify.com/artist/6eLyI9Oody0ryRmcaeiROJ), [Ericka Nascimento](https://open.spotify.com/artist/3T7jWouy5g5iXOJH7uI0ia) | [Pelejar por Jesus / Em Nome de Jesus: Live At Dissenso Studio](https://open.spotify.com/album/34uPojzD7hB4Gq9wr0FRUP) | 4:03 |

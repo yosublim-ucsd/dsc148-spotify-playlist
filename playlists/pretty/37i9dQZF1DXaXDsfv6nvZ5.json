@@ -1,6 +1,6 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 759296,
+  "num_followers": 759434,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
@@ -697,22 +697,6 @@
       "url": "https://open.spotify.com/track/5fnOfJ4Gm43UQzYpfZuAaZ"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "HEAVY",
-        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
-      },
-      "artists": [
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        }
-      ],
-      "duration_ms": 225829,
-      "name": "HEAVY",
-      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
-    },
-    {
       "added_at": "2023-02-10 05:00:00",
       "album": {
         "name": "Good Morning (feat. Susan Carol)",
@@ -733,20 +717,20 @@
       "url": "https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi"
     },
     {
-      "added_at": "2024-02-09 18:22:45",
+      "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "I Forgot To Be Your Lover",
-        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+        "name": "HEAVY",
+        "url": "https://open.spotify.com/album/26678sDHO3Xg8g6q3Fo1WX"
       },
       "artists": [
         {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
         }
       ],
-      "duration_ms": 147985,
-      "name": "I Forgot To Be Your Lover",
-      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
+      "duration_ms": 225829,
+      "name": "HEAVY",
+      "url": "https://open.spotify.com/track/5H5jTG6mK1Jd0mL6vLP1SU"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -763,6 +747,22 @@
       "duration_ms": 202139,
       "name": "Here To Stay",
       "url": "https://open.spotify.com/track/16sNdTQnKj1FI0H53LQTYc"
+    },
+    {
+      "added_at": "2024-02-09 18:22:45",
+      "album": {
+        "name": "I Forgot To Be Your Lover",
+        "url": "https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 147985,
+      "name": "I Forgot To Be Your Lover",
+      "url": "https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY"
     },
     {
       "added_at": "2023-09-16 14:17:34",
@@ -937,22 +937,6 @@
       "url": "https://open.spotify.com/track/2TeLNVFuTEgy1BuIH7wuOS"
     },
     {
-      "added_at": "2024-03-01 06:13:32",
-      "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 283133,
-      "name": "Learning",
-      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "Waterfall (I Adore You)",
@@ -967,6 +951,22 @@
       "duration_ms": 292940,
       "name": "Waterfall (I Adore You)",
       "url": "https://open.spotify.com/track/2xDglkKUh1x6SDHtlv8H8J"
+    },
+    {
+      "added_at": "2024-03-01 06:13:32",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/2w11Pxtx3QBbVRPKstvPFL"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 283133,
+      "name": "Learning",
+      "url": "https://open.spotify.com/track/6UtXR2Odm1Uang1ZI9vFfc"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -1021,6 +1021,42 @@
       "url": "https://open.spotify.com/track/5AeOFOHwU2EMu9iCubF5H0"
     },
     {
+      "added_at": "2022-03-11 05:00:00",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-10-21 04:00:00",
+      "album": {
+        "name": "PATTERNS",
+        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
+      },
+      "artists": [
+        {
+          "name": "Chelan",
+          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
+        },
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        }
+      ],
+      "duration_ms": 224050,
+      "name": "PATTERNS",
+      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "JAGUAR II",
@@ -1043,26 +1079,6 @@
       "duration_ms": 217632,
       "name": "Hollywood (feat. Earth, Wind & Fire + Hazel Mon\u00e9t)",
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
-    },
-    {
-      "added_at": "2022-10-21 04:00:00",
-      "album": {
-        "name": "PATTERNS",
-        "url": "https://open.spotify.com/album/0ajIIb5zoGQxKE9Vceq2X4"
-      },
-      "artists": [
-        {
-          "name": "Chelan",
-          "url": "https://open.spotify.com/artist/1YStA4FlOw971K0uC8nRnH"
-        },
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        }
-      ],
-      "duration_ms": 224050,
-      "name": "PATTERNS",
-      "url": "https://open.spotify.com/track/6CMYCujHKYkgEqjTSOzYTa"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1101,22 +1117,6 @@
       "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
     },
     {
-      "added_at": "2024-01-19 06:57:11",
-      "album": {
-        "name": "F*ck My Life Up Again",
-        "url": "https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 258626,
-      "name": "F*ck My Life Up Again",
-      "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Let's Stay Together",
@@ -1133,20 +1133,20 @@
       "url": "https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n"
     },
     {
-      "added_at": "2022-03-11 05:00:00",
+      "added_at": "2024-01-19 06:57:11",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "F*ck My Life Up Again",
+        "url": "https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "duration_ms": 258626,
+      "name": "F*ck My Life Up Again",
+      "url": "https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/2WSRSvjNO8wLxvFWQkeUhS"
     },
     {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Chasing",
-        "url": "https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 149941,
-      "name": "Chasing",
-      "url": "https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2"
-    },
-    {
       "added_at": "2023-07-14 16:58:51",
       "album": {
         "name": "Back To Love [Feat. SiR & Alex Isley]",
@@ -1607,6 +1591,22 @@
       "duration_ms": 233056,
       "name": "Look At Me",
       "url": "https://open.spotify.com/track/3MmyrLEMNBwGicrY8x7jTs"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Chasing",
+        "url": "https://open.spotify.com/album/5dHZziyKMWUmdFRLfYvU07"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 149941,
+      "name": "Chasing",
+      "url": "https://open.spotify.com/track/0orFtPnEGDbq0Pzksa64V2"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1709,6 +1709,22 @@
       "url": "https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc"
     },
     {
+      "added_at": "2024-01-19 06:57:11",
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 299510,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
+    },
+    {
       "added_at": "2024-04-05 04:00:00",
       "album": {
         "name": "1978",
@@ -1725,20 +1741,20 @@
       "url": "https://open.spotify.com/track/7fVt2s9EQVuqxTaB4UscpI"
     },
     {
-      "added_at": "2024-01-19 06:57:11",
+      "added_at": "2024-03-08 14:46:00",
       "album": {
-        "name": "Where Do We Go",
-        "url": "https://open.spotify.com/album/3hitxecfhBZ4UFBgDdRCLi"
+        "name": "614",
+        "url": "https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ"
       },
       "artists": [
         {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 299510,
-      "name": "Where Do We Go",
-      "url": "https://open.spotify.com/track/6fEPi1QSs4y0AXc2NqxsK5"
+      "duration_ms": 199993,
+      "name": "614",
+      "url": "https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1759,22 +1775,6 @@
       "duration_ms": 159933,
       "name": "Got To Be Good",
       "url": "https://open.spotify.com/track/6yE6Pgow6jdsChOOAdKwaV"
-    },
-    {
-      "added_at": "2024-03-08 14:46:00",
-      "album": {
-        "name": "614",
-        "url": "https://open.spotify.com/album/2uf8Of0BwZtWUA9GMAjszQ"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 199993,
-      "name": "614",
-      "url": "https://open.spotify.com/track/0rvSQxrzazqTD4zyiiuCXp"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
     },
     {
-      "added_at": "2023-06-16 06:17:29",
-      "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh"
-      },
-      "artists": [
-        {
-          "name": "Dre Scot",
-          "url": "https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1"
-        }
-      ],
-      "duration_ms": 202597,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua"
-    },
-    {
       "added_at": "2024-05-03 04:39:47",
       "album": {
         "name": "So In Love",
@@ -1859,6 +1843,22 @@
       "duration_ms": 246582,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/3rGJn2JwFW26XDfE4Ww1MF"
+    },
+    {
+      "added_at": "2023-06-16 06:17:29",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/2cMhlYR6U9pHXCAoXsF8uh"
+      },
+      "artists": [
+        {
+          "name": "Dre Scot",
+          "url": "https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1"
+        }
+      ],
+      "duration_ms": 202597,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/2gFQRVxsRB99l3zz7Bd8Ua"
     },
     {
       "added_at": "2024-03-01 06:13:32",
@@ -1877,22 +1877,6 @@
       "url": "https://open.spotify.com/track/0jZb3hm5NSnwHaLjiwZoV0"
     },
     {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "VELVET SOUL: SIDE A",
-        "url": "https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 190623,
-      "name": "JAI'S SONG (FALLING)",
-      "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
-    },
-    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "More Than a Love Song",
@@ -1907,6 +1891,22 @@
       "duration_ms": 287000,
       "name": "More Than a Love Song",
       "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "VELVET SOUL: SIDE A",
+        "url": "https://open.spotify.com/album/7lDhFYEScJqHq9UUEoxoct"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 190623,
+      "name": "JAI'S SONG (FALLING)",
+      "url": "https://open.spotify.com/track/1iHTOugH78NYT5RUNGG0wn"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1989,22 +1989,6 @@
       "url": "https://open.spotify.com/track/0cGzG9CFE3l6HygfUzr6Uo"
     },
     {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "That's All I Wanted From You",
-        "url": "https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U"
-      },
-      "artists": [
-        {
-          "name": "Jalen Ngonda",
-          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
-        }
-      ],
-      "duration_ms": 156440,
-      "name": "That's All I Wanted From You",
-      "url": "https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o"
-    },
-    {
       "added_at": "2023-05-12 05:07:36",
       "album": {
         "name": "Outlines",
@@ -2023,6 +2007,22 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "That's All I Wanted From You",
+        "url": "https://open.spotify.com/album/5YMTxJYMulSFqd6kHpn14U"
+      },
+      "artists": [
+        {
+          "name": "Jalen Ngonda",
+          "url": "https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ"
+        }
+      ],
+      "duration_ms": 156440,
+      "name": "That's All I Wanted From You",
+      "url": "https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2173,6 +2173,22 @@
       "url": "https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Damn",
+        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
+      },
+      "artists": [
+        {
+          "name": "Jerome Thomas",
+          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
+        }
+      ],
+      "duration_ms": 196792,
+      "name": "Damn",
+      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
+    },
+    {
       "added_at": "2024-01-19 06:57:11",
       "album": {
         "name": "Beautiful Day",
@@ -2191,22 +2207,6 @@
       "duration_ms": 207386,
       "name": "Beautiful Day [Feat. PJ Morton]",
       "url": "https://open.spotify.com/track/5sv0wMXmcp4SuXvm6ghkHm"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Damn",
-        "url": "https://open.spotify.com/album/5xM06Tdm3WUkdtFqBeN4Mb"
-      },
-      "artists": [
-        {
-          "name": "Jerome Thomas",
-          "url": "https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp"
-        }
-      ],
-      "duration_ms": 196792,
-      "name": "Damn",
-      "url": "https://open.spotify.com/track/4DV342x7moUswqcVzD8ekZ"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2609,26 +2609,6 @@
       "url": "https://open.spotify.com/track/3DU1AMXRg8IkrvAMg6odMt"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Pick Me Up",
-        "url": "https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4"
-      },
-      "artists": [
-        {
-          "name": "The Amours",
-          "url": "https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE"
-        },
-        {
-          "name": "TA Thomas",
-          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Pick Me Up",
-      "url": "https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg"
-    },
-    {
       "added_at": "2023-05-26 13:00:09",
       "album": {
         "name": "Private Party (feat. Siaira Shawn)",
@@ -2647,6 +2627,26 @@
       "duration_ms": 213697,
       "name": "Private Party (feat. Siaira Shawn)",
       "url": "https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Pick Me Up",
+        "url": "https://open.spotify.com/album/2khaN3vR0pSYpusPLjDGh4"
+      },
+      "artists": [
+        {
+          "name": "The Amours",
+          "url": "https://open.spotify.com/artist/6UAXW2y6wQUxDGNFJuA5cE"
+        },
+        {
+          "name": "TA Thomas",
+          "url": "https://open.spotify.com/artist/04EdUc6wcBIZXMc9dtC1Ul"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "Pick Me Up",
+      "url": "https://open.spotify.com/track/3nZ59MwXaecUYaGNG4WJQg"
     },
     {
       "added_at": "2023-03-10 05:00:00",

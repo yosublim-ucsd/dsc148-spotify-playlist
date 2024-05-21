@@ -4,7 +4,7 @@
 
 > The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misión Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: DARUMAS
 
-766 songs - 1 day 16 hr 59 min
+768 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [BEBÉ](https://open.spotify.com/track/7D7EH7MGyNHWSkqrszerI1) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [BEBÉ](https://open.spotify.com/album/0krfGu8Xf8xZGOeEcQUjai) | 3:18 | 2022-02-02 | 2023-05-26 |
 | [Bendecido](https://open.spotify.com/track/6E0o4xawY6Cw3by3BARuBw) | [Dylan](https://open.spotify.com/artist/6MNDsKmYfRubMvFbKaIZiL), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Bendecido](https://open.spotify.com/album/3cJyUYkMNEEpgpNR4Y3bBR) | 2:44 | 2023-11-20 |  |
 | [Besarte Así](https://open.spotify.com/track/4xTWpD61M50UT4ocYdhUwQ) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Besarte Así](https://open.spotify.com/album/6CDWPWI412WyN0vgZFtgPw) | 3:54 | 2023-03-17 | 2023-06-01 |
+| [Besiños](https://open.spotify.com/track/4QXZMXEidOZSwCyMlzXPDj) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [Besiños](https://open.spotify.com/album/6wU7IpNLSG0406sKBKZVep) | 2:13 | 2024-05-20 |  |
 | [BESO](https://open.spotify.com/track/609E1JCInJncactoMmkDon) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:14 | 2023-03-24 |  |
 | [BeSos aL vIEnTo :\(](https://open.spotify.com/track/1L43z9QK8qctlgBJbXa3W3) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP) | [BeSos aL vIEnTo :\(](https://open.spotify.com/album/7Erp3yZ5zPgZh5Mf4ydZF8) | 3:04 | 2022-09-23 | 2023-05-26 |
 | [Besos desechables](https://open.spotify.com/track/0wLEiXJdatPOGgmpICmcoO) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Besos desechables](https://open.spotify.com/album/42RVc9Djv1cZHeQfqG4vUP) | 2:16 | 2024-02-23 |  |
@@ -248,6 +249,7 @@
 | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/track/7w7BrPbOjF5OxChs2dxFve) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [En La Intimidad \| CROSSOVER \#1](https://open.spotify.com/album/5OT9JgUd8WVWBJgYog7a82) | 2:45 | 2023-03-01 | 2023-06-01 |
 | [En Vivo y En Directo](https://open.spotify.com/track/7mmAvWsc27c3TMKh22cZgh) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [VIAJANTE](https://open.spotify.com/album/0gzWP8t8G8V09DBDzrDL8h) | 3:18 | 2023-02-08 | 2023-06-02 |
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-02-04 | 2023-05-26 |
+| [Enredadera](https://open.spotify.com/track/2VcrkGRHNbftgUZpqChlCD) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Pequeños Romances](https://open.spotify.com/album/02YYFa5lfqrTzRXUQQaQZo) | 4:55 | 2024-05-20 |  |
 | [Eres](https://open.spotify.com/track/5LOQ20KYRzR10z9TLmtIe5) | [Draco Rosa](https://open.spotify.com/artist/4Vo7jk7sjpIFMk14dedex5) | [Eres](https://open.spotify.com/album/2LaaA8ZLvRJ9JUWNaZetNP) | 4:31 | 2024-04-30 |  |
 | [Eres Tú \- Mamá](https://open.spotify.com/track/3Paluopb7bgoB5gHj4Z1k7) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Eres Tú \(Mamá\)](https://open.spotify.com/album/1eH1Mj3U77XVcDnFtvqS3B) | 3:15 | 2022-04-29 | 2023-05-26 |
 | [eScoRpiÓn :\)](https://open.spotify.com/track/3IWV5aOW7cnfuYIZLucSan) | [Ramon Vega](https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [eScoRpiÓn :\)](https://open.spotify.com/album/6R7O6y1D6wSQ0JV40XRFyj) | 2:59 | 2022-06-17 | 2023-05-26 |

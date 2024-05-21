@@ -1,6 +1,6 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 65362,
+  "num_followers": 65409,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
-        "name": "Hold My Home",
-        "url": "https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1"
-      },
-      "artists": [
-        {
-          "name": "Cold War Kids",
-          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
-        }
-      ],
-      "duration_ms": 200946,
-      "name": "First",
-      "url": "https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 203653,
       "name": "Spirits",
       "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
+        "name": "Hold My Home",
+        "url": "https://open.spotify.com/album/3HkVMTl5OJ9lTN3bDSqeI1"
+      },
+      "artists": [
+        {
+          "name": "Cold War Kids",
+          "url": "https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC"
+        }
+      ],
+      "duration_ms": 200946,
+      "name": "First",
+      "url": "https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY"
     },
     {
       "added_at": "2024-03-18 13:24:52",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2024-03-18 13:24:52",
       "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "duration_ms": 264523,
+      "name": "Flesh without Blood",
+      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
+    },
+    {
+      "added_at": "2024-03-18 13:24:52",
+      "album": {
         "name": "Carrie & Lowell",
         "url": "https://open.spotify.com/album/0U8DeqqKDgIhIiWOdqiQXE"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 307697,
       "name": "Should Have Known Better",
       "url": "https://open.spotify.com/track/5I6y1KWmUoV5YCaIEcs1qs"
-    },
-    {
-      "added_at": "2024-03-18 13:24:52",
-      "album": {
-        "name": "I Love You, Honeybear",
-        "url": "https://open.spotify.com/album/2A8IKX257C4hJaYUHMhLP7"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 278773,
-      "name": "I Love You, Honeybear",
-      "url": "https://open.spotify.com/track/4l86U8arITFVBfDvYn82v7"
     }
   ],
   "unique_name": "Best of Indie 2015",

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-332 songs - 17 hr 59 min
+333 songs - 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 | 2024-02-01 |
 | [Baby 500](https://open.spotify.com/track/0J6TGK3rC6VXRBefGo6OuD) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Baby 500](https://open.spotify.com/album/1eDjrpKdv75XHcLGG7zqwx) | 1:03 | 2024-04-01 |  |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
-| [Baby I Love You](https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Baby I Love You](https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc) | 4:32 | 2023-12-07 |  |
+| [Baby I Love You](https://open.spotify.com/track/0HD2WGprYrNVKsbfN4Uba9) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Baby I Love You](https://open.spotify.com/album/0EYeMwaKPXJKYpQ9Pnf0uc) | 4:32 | 2023-12-07 | 2024-05-21 |
 | [Bad](https://open.spotify.com/track/2eQtJWV3pQac41v6L6PQo2) | [J.O.High](https://open.spotify.com/artist/5ToO1JaAY7BEqnoetruHBr) | [Bad](https://open.spotify.com/album/2x1naxHI21CUc4UhacSO88) | 2:51 | 2023-11-28 | 2024-04-30 |
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 | 2023-09-21 |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
@@ -303,6 +303,7 @@
 | [Sangaathiye](https://open.spotify.com/track/5iwlfP4A73IdPrkiia6lFk) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR) | [Sangaathiye](https://open.spotify.com/album/2Tb1uLand5DvEzkj5PUpdM) | 3:37 | 2023-07-17 | 2023-07-29 |
 | [Sarisamave](https://open.spotify.com/track/49zSovraEfdXNeY7AWyHyG) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Sarisamave](https://open.spotify.com/album/5bbU4EFigN1TubbcPy2OOA) | 2:54 | 2024-02-27 |  |
 | [Saviyada](https://open.spotify.com/track/7H8zRoRXxz0syKMxrLTLl7) | [Surabhi Bharadwaj](https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr), [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Kishore Vishwakarma](https://open.spotify.com/artist/4GwpJltWdpVEP4v7oeY8HZ) | [Saviyada](https://open.spotify.com/album/64pKI9E3rbwBsdeVIZ4NCr) | 2:32 | 2023-10-04 | 2024-05-14 |
+| [Shambo Shiva Shankara](https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04) | [Shambo Shiva Shankara](https://open.spotify.com/album/75rglwOtnPh1RwGEcTqaQD) | 2:22 | 2024-05-20 |  |
 | [She is my X](https://open.spotify.com/track/6hp2rHqAVujBCKmd2ndC0X) | [Pride](https://open.spotify.com/artist/4VCIEoaKtp7pdKHW6PWvaf) | [She is my X](https://open.spotify.com/album/3vIgGybLPdGqbwsJu2bOcX) | 2:51 | 2023-07-08 | 2023-07-18 |
 | [Sheke](https://open.spotify.com/track/0rFCtxohZ41B6dK9pijQ7A) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [Sheke](https://open.spotify.com/album/5UAJjhg0pbvLkUT8VKlzta) | 2:08 | 2024-04-16 |  |
 | [SKY](https://open.spotify.com/track/3cnbXyiWN1YY80kIi6o3HR) | [Darshan Kumar](https://open.spotify.com/artist/7ivnUAjEiLvEjqUZppEpLb) | [SKY](https://open.spotify.com/album/3oca2qXY6YgVmtsxEfp0Ae) | 3:11 | 2023-11-14 | 2024-02-17 |
@@ -324,7 +325,7 @@
 | [Thukaali](https://open.spotify.com/track/3fibRdjawJagXWApjATWdg) | [Shiv Prasad](https://open.spotify.com/artist/6Hxm7zNBGOmCFJFFUS0OWO), [Arfaz Ullal](https://open.spotify.com/artist/6jm35qfaNmKTW3kVgdZ5lq), [Mahadeva Swamy](https://open.spotify.com/artist/6AaB3Ib8emAWvrJADBOn4l) | [Thukaali](https://open.spotify.com/album/3eE3i02aV4DlfJFXzrY96k) | 3:57 | 2023-08-30 | 2023-09-21 |
 | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/track/1h1yNag53gicTawGrxDa1v) | [Rahul Dit\-O](https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Top Dawg \(Red Bull 64 Bars\)](https://open.spotify.com/album/7Gk6KYpt7X296a85MtW7if) | 3:01 | 2023-03-28 | 2023-09-01 |
 | [TREND](https://open.spotify.com/track/5ut34Yyos8zwVq6W3zawBH) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/2UVXFI5A5bByktScsx0sTR) | 3:11 | 2023-12-08 | 2024-04-19 |
-| [TREND](https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k) | 3:11 | 2023-12-08 |  |
+| [TREND](https://open.spotify.com/track/7g60e8xOB8DKFoLf9HIi4C) | [MC Thrift](https://open.spotify.com/artist/5ua4gtIQ9jMQCMfEjnW4bC) | [TREND](https://open.spotify.com/album/7bhoaQXLpTvu5sagNExL1k) | 3:11 | 2023-12-08 | 2024-05-21 |
 | [Udupi Anthem](https://open.spotify.com/track/7faGHJ7itPYUuDA0YCxK7K) | [Keerthan Holla](https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re) | [Udupi Anthem](https://open.spotify.com/album/4eqOEB6xL6Tds5obPP4YRA) | 3:48 | 2024-05-13 | 2024-05-15 |
 | [Usira Olage](https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3) | [Usira Olage](https://open.spotify.com/album/2XOVDh8ZulNCfm0WgAyD0K) | 1:27 | 2023-09-16 | 2024-01-07 |
 | [Usira Olage](https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl) | [Usira Olage](https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N) | 1:27 | 2023-09-16 | 2024-04-02 |

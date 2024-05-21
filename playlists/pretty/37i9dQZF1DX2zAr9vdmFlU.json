@@ -1,6 +1,6 @@
 {
   "description": "You bring the ingredients, we bring the flavor. Enjoy la cena...",
-  "num_followers": 429623,
+  "num_followers": 429681,
   "original_name": "Latin Dinner",
   "owner": {
     "name": "Spotify",
@@ -295,26 +295,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Curita",
-        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
-      },
-      "artists": [
-        {
-          "name": "Okills",
-          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
-        },
-        {
-          "name": "Anakena",
-          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
-        }
-      ],
-      "duration_ms": 206065,
-      "name": "Curita",
-      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Todos Tenemos un Amor",
         "url": "https://open.spotify.com/album/6loQxERAji3GRFOfcM0Lt0"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 224317,
       "name": "Todos Tenemos un Amor",
       "url": "https://open.spotify.com/track/6vH11o55aRZCZqvF7SycPq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Curita",
+        "url": "https://open.spotify.com/album/1JgFkTn2qpYY8bPIduQMmF"
+      },
+      "artists": [
+        {
+          "name": "Okills",
+          "url": "https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA"
+        },
+        {
+          "name": "Anakena",
+          "url": "https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo"
+        }
+      ],
+      "duration_ms": 206065,
+      "name": "Curita",
+      "url": "https://open.spotify.com/track/0Ryshb3D6BVfHvfqcRnGVa"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -391,26 +391,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "El Barrio",
-        "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
-      },
-      "artists": [
-        {
-          "name": "Leoni Torres",
-          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
-        },
-        {
-          "name": "BITA",
-          "url": "https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki"
-        }
-      ],
-      "duration_ms": 180648,
-      "name": "El Barrio",
-      "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Me Llaman Nella",
         "url": "https://open.spotify.com/album/2NHcyi3RMzCCWHZBArCzNb"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 198298,
       "name": "Me Llaman Nella",
       "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "El Barrio",
+        "url": "https://open.spotify.com/album/2O4CUtzU5HwDfLhtwyHfv5"
+      },
+      "artists": [
+        {
+          "name": "Leoni Torres",
+          "url": "https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS"
+        },
+        {
+          "name": "BITA",
+          "url": "https://open.spotify.com/artist/0eVKCSDfAQbvznCYHmqjki"
+        }
+      ],
+      "duration_ms": 180648,
+      "name": "El Barrio",
+      "url": "https://open.spotify.com/track/77UYRQsKWcspsz2pnh47kD"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Game On",
+        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 301925,
+      "name": "Game On",
+      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Danz\u00f3n Para La Espera",
         "url": "https://open.spotify.com/album/5NlwLkuzq9WBQa54Rytnxv"
       },
@@ -511,38 +527,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Game On",
-        "url": "https://open.spotify.com/album/1wy96LLU4IDVi8axtkZsVG"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 301925,
-      "name": "Game On",
-      "url": "https://open.spotify.com/track/5Sbjx80XMMbhjH22iGUbAK"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Casa en el \u00e1rbol",
-        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
-      },
-      "artists": [
-        {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
-        }
-      ],
-      "duration_ms": 219807,
-      "name": "Casa en el \u00e1rbol",
-      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Morena m\u00eda",
         "url": "https://open.spotify.com/album/0ErqfJ1kVZagcPNa7pf7fK"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 188543,
       "name": "Morena m\u00eda",
       "url": "https://open.spotify.com/track/2gCE7OHYYb0pZlp8nlRmXc"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Casa en el \u00e1rbol",
+        "url": "https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR"
+      },
+      "artists": [
+        {
+          "name": "Salom\u00f3n Beda",
+          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+        }
+      ],
+      "duration_ms": 219807,
+      "name": "Casa en el \u00e1rbol",
+      "url": "https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Atacama!",
-        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
-      },
-      "artists": [
-        {
-          "name": "Alessio Arena",
-          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
-        }
-      ],
-      "duration_ms": 251830,
-      "name": "El hombre que quiso ser canci\u00f3n",
-      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "The Very Best Of Dave Pike (The Latin Jazz Legend)",
         "url": "https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 289306,
       "name": "Catin Latin",
       "url": "https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Atacama!",
+        "url": "https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf"
+      },
+      "artists": [
+        {
+          "name": "Alessio Arena",
+          "url": "https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc"
+        }
+      ],
+      "duration_ms": 251830,
+      "name": "El hombre que quiso ser canci\u00f3n",
+      "url": "https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1395,22 +1395,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Tregua",
-        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+        "name": "Si estuvieras aqu\u00ed",
+        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
       },
       "artists": [
         {
-          "name": "Mar\u00e9h",
-          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
-        },
-        {
-          "name": "Laura P\u00e9rez",
-          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 183066,
-      "name": "Tregua",
-      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
+      "duration_ms": 302962,
+      "name": "Si estuvieras aqu\u00ed",
+      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1427,6 +1423,26 @@
       "duration_ms": 276093,
       "name": "Naranjo En Flor",
       "url": "https://open.spotify.com/track/7ouBEajSKGc6NQPe9fpB8i"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Tregua",
+        "url": "https://open.spotify.com/album/0Z3WM0LZkRWEnrcJx8shtG"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9h",
+          "url": "https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4"
+        },
+        {
+          "name": "Laura P\u00e9rez",
+          "url": "https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Tregua",
+      "url": "https://open.spotify.com/track/3fjniKdHqy0VMgOphFTPNn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "M\u00fasica para verse bien",
-        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 249170,
-      "name": "Dancin' Days",
-      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "30 Horas",
         "url": "https://open.spotify.com/album/1cuAp4nFmm9IHlcFtLHyw8"
       },
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Estrella Matutina",
-        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
-      },
-      "artists": [
-        {
-          "name": "Marina Tuset",
-          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
-        }
-      ],
-      "duration_ms": 200184,
-      "name": "Estrella Matutina",
-      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Viajera",
         "url": "https://open.spotify.com/album/5lEDYL0eACVAYrdRwrLgSt"
       },
@@ -1579,6 +1563,38 @@
       "duration_ms": 225875,
       "name": "Se\u00f1al de Fuego",
       "url": "https://open.spotify.com/track/3qaRqBGvHTnJWU08VFKoVq"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "M\u00fasica para verse bien",
+        "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
+      },
+      "artists": [
+        {
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+        }
+      ],
+      "duration_ms": 249170,
+      "name": "Dancin' Days",
+      "url": "https://open.spotify.com/track/1Nni53RQ8FI8yBYEuZ3jLR"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Estrella Matutina",
+        "url": "https://open.spotify.com/album/7inj0XsCPS3tH9sxf8oRNt"
+      },
+      "artists": [
+        {
+          "name": "Marina Tuset",
+          "url": "https://open.spotify.com/artist/7wtyZ2WgTY9leTsIPH0VLc"
+        }
+      ],
+      "duration_ms": 200184,
+      "name": "Estrella Matutina",
+      "url": "https://open.spotify.com/track/7M9GHPT1iP0Wxc1et2rNf1"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1671,18 +1687,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Si estuvieras aqu\u00ed",
-        "url": "https://open.spotify.com/album/3rUFmrQOullkx18XKni9O1"
+        "name": "Delicate & Jumpy",
+        "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Fania All Stars",
+          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
         }
       ],
-      "duration_ms": 302962,
-      "name": "Si estuvieras aqu\u00ed",
-      "url": "https://open.spotify.com/track/1IivIUAoeg6IobElqVjRMY"
+      "duration_ms": 334875,
+      "name": "Picadillo",
+      "url": "https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1703,18 +1719,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Delicate & Jumpy",
-        "url": "https://open.spotify.com/album/6Us6eV06MKN8d41bMz040J"
+        "name": "Guapachosa",
+        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
       },
       "artists": [
         {
-          "name": "Fania All Stars",
-          "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
         }
       ],
-      "duration_ms": 334875,
-      "name": "Picadillo",
-      "url": "https://open.spotify.com/track/3F69z89dC8NVDaWzcMwzAE"
+      "duration_ms": 186000,
+      "name": "Guapachosa",
+      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1759,26 +1779,6 @@
       "duration_ms": 248008,
       "name": "Yo La Vi",
       "url": "https://open.spotify.com/track/3Gc1LdChaPOVxFbGUuW8sq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Guapachosa",
-        "url": "https://open.spotify.com/album/4TptYiiaaLLx5ywoAnGrMj"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Guapachosa",
-      "url": "https://open.spotify.com/track/3lk6w0aleZYJfJ0zHpBUto"
     },
     {
       "added_at": "2024-05-17 04:00:00",

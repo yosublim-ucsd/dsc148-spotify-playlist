@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 12296,
+  "num_followers": 12324,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Canci\u00f3n 2",
+        "url": "https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 148767,
+      "name": "Canci\u00f3n 2",
+      "url": "https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Te Lo Voy a Decir",
-        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 246613,
-      "name": "Te Lo Voy a Decir",
-      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "escrita",
         "url": "https://open.spotify.com/album/41DOXn1SuBBmm57gPTyb5E"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Canci\u00f3n 2",
-        "url": "https://open.spotify.com/album/1hXSMNto2tKY8WtJ13BwjW"
+        "name": "Te Lo Voy a Decir",
+        "url": "https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF"
       },
       "artists": [
         {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
         }
       ],
-      "duration_ms": 148767,
-      "name": "Canci\u00f3n 2",
-      "url": "https://open.spotify.com/track/77a5i89RIF8B3lhRIxY4YB"
+      "duration_ms": 246613,
+      "name": "Te Lo Voy a Decir",
+      "url": "https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Todo Regresa",
-        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 184453,
-      "name": "Todo Regresa",
-      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "ALGO ESPECIAL",
         "url": "https://open.spotify.com/album/5BsLcTXZI2Ag1mbl7m2WH5"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 205067,
       "name": "ALGO ESPECIAL",
       "url": "https://open.spotify.com/track/3mXE8cYr7fvWOe1JCJz2yh"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Todo Regresa",
+        "url": "https://open.spotify.com/album/0KpuUua2SlRhsQkgI0QOQi"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 184453,
+      "name": "Todo Regresa",
+      "url": "https://open.spotify.com/track/1jT9pbKiwKC2kEBtpSQ9Hf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lo Que Llevo Dentro",
-        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Cort\u00e9s",
-          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
-        }
-      ],
-      "duration_ms": 267198,
-      "name": "Lo Que Llevo Dentro",
-      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Flores Robadas",
         "url": "https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 201920,
       "name": "Si T\u00fa No Vuelves",
       "url": "https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "HORSES IN HEAVEN",
+        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
+      },
+      "artists": [
+        {
+          "name": "Pink Pablo",
+          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
+        }
+      ],
+      "duration_ms": 177610,
+      "name": "HORSES IN HEAVEN",
+      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Lo Que Llevo Dentro",
+        "url": "https://open.spotify.com/album/3K7wtLyCYZ65eGkZpfKZal"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "duration_ms": 267198,
+      "name": "Lo Que Llevo Dentro",
+      "url": "https://open.spotify.com/track/33k1gWL9jqQVDhjd515rhM"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
         "url": "https://open.spotify.com/album/79JsLKk3Yqf3FxwM801LTz"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 210960,
       "name": "Algo Bueno Ten\u00eda Que Tener (Bogot\u00e1)",
       "url": "https://open.spotify.com/track/7DJ2ooJelCCfs6UIbONOjr"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "HORSES IN HEAVEN",
-        "url": "https://open.spotify.com/album/1OI436AjryW8xiHr2AdVfy"
-      },
-      "artists": [
-        {
-          "name": "Pink Pablo",
-          "url": "https://open.spotify.com/artist/6grKEGFYz5bqq0IQraQhsQ"
-        }
-      ],
-      "duration_ms": 177610,
-      "name": "HORSES IN HEAVEN",
-      "url": "https://open.spotify.com/track/3PuaCJ1I8iZaYpDh68fEKn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "no quiero olvidarte",
-        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
-      },
-      "artists": [
-        {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        }
-      ],
-      "duration_ms": 230049,
-      "name": "no quiero olvidarte",
-      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
       },
@@ -999,18 +983,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "no quiero olvidarte",
+        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         }
       ],
-      "duration_ms": 182782,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
+      "duration_ms": 230049,
+      "name": "no quiero olvidarte",
+      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1031,6 +1015,22 @@
       "duration_ms": 162711,
       "name": "No Te Conoce (idk you)",
       "url": "https://open.spotify.com/track/0buMcsK5nrMqBE8f2ZzFjZ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 182782,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/1LcmVpTjXy7fy34m0Jyayq"
     },
     {
       "added_at": "2024-05-17 04:00:00",

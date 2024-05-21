@@ -1,6 +1,6 @@
 {
   "description": "House music lives here. United under one roof, featuring BLOND:ISH",
-  "num_followers": 1926929,
+  "num_followers": 1927030,
   "original_name": "Housewerk",
   "owner": {
     "name": "Spotify",
@@ -851,26 +851,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Don't You Cry",
-        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
-      },
-      "artists": [
-        {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
-        },
-        {
-          "name": "Discrete",
-          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
-        }
-      ],
-      "duration_ms": 246758,
-      "name": "Don't You Cry",
-      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Jamming (FISHER Rework)",
         "url": "https://open.spotify.com/album/7JIcY8DOxlyJKAW3Dl3sWk"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 201928,
       "name": "Jamming - FISHER Rework",
       "url": "https://open.spotify.com/track/2gKewcQZEV1fqoWH81RUDk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Don't You Cry",
+        "url": "https://open.spotify.com/album/4XLsipcekzeOaHuMZyuBRg"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "Discrete",
+          "url": "https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov"
+        }
+      ],
+      "duration_ms": 246758,
+      "name": "Don't You Cry",
+      "url": "https://open.spotify.com/track/0sEkSDwCxjik95zgWLuzd5"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "1+1=11",
-        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 190644,
-      "name": "1+1=11 - Edit",
-      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Make Me (Franky Rizardo Remix)",
         "url": "https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 195692,
       "name": "Make Me - Franky Rizardo Remix",
       "url": "https://open.spotify.com/track/57508shL0obX0KUOUL8CJk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "1+1=11",
+        "url": "https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 190644,
+      "name": "1+1=11 - Edit",
+      "url": "https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1839,26 +1839,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Jiggy Woogie",
-        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
       },
       "artists": [
         {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
         },
         {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Baby Lawd",
-          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
         }
       ],
-      "duration_ms": 140495,
-      "name": "Jiggy Woogie",
-      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1887,22 +1883,46 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+        "name": "Jiggy Woogie",
+        "url": "https://open.spotify.com/album/1POseoKNTFrdId8Tvt5N2G"
       },
       "artists": [
         {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
         },
         {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Baby Lawd",
+          "url": "https://open.spotify.com/artist/3yIk29nEyIjpijSSOX1EII"
         }
       ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
+      "duration_ms": 140495,
+      "name": "Jiggy Woogie",
+      "url": "https://open.spotify.com/track/3yGpcjSuAiNofSrnsgzNRk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lo Que Soy",
+        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
+      },
+      "artists": [
+        {
+          "name": "Wax Motif",
+          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
+        },
+        {
+          "name": "Kura",
+          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
+        }
+      ],
+      "duration_ms": 170953,
+      "name": "Lo Que Soy",
+      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1931,42 +1951,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lo Que Soy",
-        "url": "https://open.spotify.com/album/2L6QpGW5Wz3ohn7sxUMbqu"
-      },
-      "artists": [
-        {
-          "name": "Wax Motif",
-          "url": "https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R"
-        },
-        {
-          "name": "Kura",
-          "url": "https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T"
-        }
-      ],
-      "duration_ms": 170953,
-      "name": "Lo Que Soy",
-      "url": "https://open.spotify.com/track/3d4lGcDN1FISRTBeBeGRoJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 171953,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "All We Need (Deep Inside)",
         "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
       },
@@ -1983,22 +1967,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Don't Abuse It",
-        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/5eiUxoKxhfepSSdvIZjm70"
       },
       "artists": [
         {
-          "name": "Mark Knight",
-          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+          "name": "it's murph",
+          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
         },
         {
-          "name": "Armand Van Helden",
-          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Don't Abuse It",
-      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
+      "duration_ms": 213603,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2023,22 +2007,38 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/5eiUxoKxhfepSSdvIZjm70"
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/0pCLaw5HAkjxcxq4ebcdrY"
       },
       "artists": [
         {
-          "name": "it's murph",
-          "url": "https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC"
-        },
-        {
-          "name": "Sorana",
-          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
         }
       ],
-      "duration_ms": 213603,
-      "name": "Down Low",
-      "url": "https://open.spotify.com/track/7uRMCCWFz9ytLAq2c0dQBz"
+      "duration_ms": 171953,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/4CkvJVwIkrV19o6O55p8Ku"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Don't Abuse It",
+        "url": "https://open.spotify.com/album/3z8N7BrygP8gQIrirqvE6v"
+      },
+      "artists": [
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Don't Abuse It",
+      "url": "https://open.spotify.com/track/5E9ulwLRaDx2tO9liULCuE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2151,6 +2151,42 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "FUKINASTY / Look, Alright",
+        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
+      },
+      "artists": [
+        {
+          "name": "Amine Edge & DANCE",
+          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
+        },
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 177923,
+      "name": "FUKINASTY",
+      "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "ME",
+        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
+      },
+      "artists": [
+        {
+          "name": "Steve Angello",
+          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
+        }
+      ],
+      "duration_ms": 214174,
+      "name": "ME",
+      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Cutting Loose",
         "url": "https://open.spotify.com/album/1MQoCqxbLS7kf9xWUTxuRF"
       },
@@ -2191,42 +2227,6 @@
       "duration_ms": 257419,
       "name": "No Reason - Chris Lake Remix",
       "url": "https://open.spotify.com/track/2SUKj6aVC879FqCSfVoQPR"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "ME",
-        "url": "https://open.spotify.com/album/2ABIweWTmeRmUBc73DNiqq"
-      },
-      "artists": [
-        {
-          "name": "Steve Angello",
-          "url": "https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s"
-        }
-      ],
-      "duration_ms": 214174,
-      "name": "ME",
-      "url": "https://open.spotify.com/track/7dyJugljupi044oQfkrzlc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "FUKINASTY / Look, Alright",
-        "url": "https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla"
-      },
-      "artists": [
-        {
-          "name": "Amine Edge & DANCE",
-          "url": "https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm"
-        },
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 177923,
-      "name": "FUKINASTY",
-      "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Take My Chance",
-        "url": "https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0"
-      },
-      "artists": [
-        {
-          "name": "MK",
-          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
-        }
-      ],
-      "duration_ms": 198603,
-      "name": "Take My Chance",
-      "url": "https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Sweet Devotion",
         "url": "https://open.spotify.com/album/2XklQanfpAEHwnSM6pk8vT"
       },
@@ -2403,6 +2387,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Take My Chance",
+        "url": "https://open.spotify.com/album/4r0902mKJfgNkLjKBmRWn0"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        }
+      ],
+      "duration_ms": 198603,
+      "name": "Take My Chance",
+      "url": "https://open.spotify.com/track/2tsi5AlhJ166vmYdj741jX"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Costa",
         "url": "https://open.spotify.com/album/4UcJqhrm2kvj0dWn8yr5B7"
       },
@@ -2419,6 +2419,22 @@
       "duration_ms": 216400,
       "name": "Costa",
       "url": "https://open.spotify.com/track/05GvOQ80VlYgXHuxw6fUN0"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Monaco EP",
+        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "duration_ms": 200307,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2463,22 +2479,6 @@
       "duration_ms": 211875,
       "name": "Nineteen 84",
       "url": "https://open.spotify.com/track/2AJ8OYa9kLdieL7oOZCy4b"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Monaco EP",
-        "url": "https://open.spotify.com/album/2wbmVZYKzdRMHoC5isFHug"
-      },
-      "artists": [
-        {
-          "name": "Blank Sense",
-          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
-        }
-      ],
-      "duration_ms": 200307,
-      "name": "Monaco",
-      "url": "https://open.spotify.com/track/3jWk66DLMnlEiNRlmVH0Di"
     }
   ],
   "unique_name": "Housewerk",

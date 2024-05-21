@@ -1,12 +1,12 @@
 {
-  "description": "This is Lila Downs. The essential tracks, all in one playlist.",
-  "num_followers": 68947,
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
+  "num_followers": 68958,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAONTQDHs4RsRPJYQ7dAuhq",
+  "snapshot_id": "ZklBAAAAAAC3jmkigKWl5hLM9/MXtHhU",
   "tracks": [
     {
       "added_at": null,
@@ -659,26 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
-        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "La Barca (with Lila Downs)",
-      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mundo Nuevo",
         "url": "https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG"
       },
@@ -695,6 +675,26 @@
       "duration_ms": 201346,
       "name": "Mundo Nuevo",
       "url": "https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 2",
+        "url": "https://open.spotify.com/album/226ubQdY0eN9zVVDvlFj0D"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "La Barca (with Lila Downs)",
+      "url": "https://open.spotify.com/track/4OFCPtgZ2ousHVuGMEzwrK"
     },
     {
       "added_at": null,
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00fascate Un Hombre Que Te Quiera",
-        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
-      },
-      "artists": [
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        },
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 181542,
-      "name": "B\u00fascate Un Hombre Que Te Quiera",
-      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Border",
         "url": "https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 285466,
       "name": "Perhaps, Perhaps, Perhaps",
       "url": "https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En El \u00daltimo Trago",
+        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "En el \u00faltimo trago",
+      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
     },
     {
       "added_at": null,
@@ -959,22 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El \u00daltimo Trago",
-        "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
+        "name": "B\u00fascate Un Hombre Que Te Quiera",
+        "url": "https://open.spotify.com/album/2vTqXeZ4dNboPFqcc9StmO"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         },
         {
           "name": "Lila Downs",
           "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 207200,
-      "name": "En el \u00faltimo trago",
-      "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+      "duration_ms": 181542,
+      "name": "B\u00fascate Un Hombre Que Te Quiera",
+      "url": "https://open.spotify.com/track/6LEg2KW6MfHZ4cFvPqaxnZ"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Noventa, Vk Mac
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,076 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,132 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 36 | [Controle](https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Controle](https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI) | 3:04 |
 | 37 | [Bom Samaritano](https://open.spotify.com/track/2ppf3yjN6Z46uHoPXNIOpL) | [Nesk Only](https://open.spotify.com/artist/4cR4F4mNehTHO2ut89kN00) | [Bom Samaritano](https://open.spotify.com/album/5hNmqwyPIczz0fcNQa0zpn) | 2:13 |
 | 38 | [Vivão](https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei) | [Silas Magalhães](https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5) | [Predestinado](https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2) | 2:42 |
-| 39 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
-| 40 | [Nemo](https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [Nemo](https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i) | 1:55 |
+| 39 | [Nemo](https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [Novidade Urbana](https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy) | [Nemo](https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i) | 1:55 |
+| 40 | [Deixa Ele Entrar](https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Deixa Ele Entrar](https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T) | 2:56 |
 | 41 | [Boaz e Rute](https://open.spotify.com/track/2VW0QXMRuK4gLnJw94gt00) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p), [RAMON EL BRABO](https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI) | [Boaz e Rute](https://open.spotify.com/album/6P5wzuo9oWlAl6QWswi157) | 3:31 |
 | 42 | [Redenção](https://open.spotify.com/track/32SFzowjPunI2TsSdeBddD) | [LEVII MC](https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Redenção](https://open.spotify.com/album/2Wi4tFWKLfpLYbjs2d7BsO) | 2:17 |
 | 43 | [Sonhei um Dia](https://open.spotify.com/track/0wNVe3LOwU2yrFOQleHQAf) | [Israel Rapper](https://open.spotify.com/artist/7xk2gw7Xbo4GRywCx1hflX) | [Sonhei um Dia](https://open.spotify.com/album/7J9uOnQv6HNAbDd3P5mkYv) | 3:01 |

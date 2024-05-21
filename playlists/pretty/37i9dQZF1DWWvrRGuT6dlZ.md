@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: ALICIA DC\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,454 likes - 91 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,456 likes - 91 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 300585,
+  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
+  "num_followers": 300645,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAB+779UdoF6ULPQt/82jS+k",
+  "snapshot_id": "ZklBAAAAAADMtXj8Qgdag3bmh92dqEYa",
   "tracks": [
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Felones - Serie 35",
-        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 158848,
-      "name": "La Profecia",
-      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+        "name": "Corridos Felones - Serie 35",
+        "url": "https://open.spotify.com/album/5BM8L7XrRzfXg4MtUWbmr5"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
+      "duration_ms": 158848,
+      "name": "La Profecia",
+      "url": "https://open.spotify.com/track/0hH5Eo74vpejE5B3JnRSye"
     },
     {
       "added_at": null,

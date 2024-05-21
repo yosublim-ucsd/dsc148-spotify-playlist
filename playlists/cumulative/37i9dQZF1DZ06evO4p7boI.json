@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-14",
-  "description": "This is NAV. The essential tracks, all in one playlist.",
+  "description": "This Is NAV. \u0412\u0441\u0435 \u043b\u0443\u0447\u0448\u0438\u0435 \u0442\u0440\u0435\u043a\u0438 \u0432 \u043e\u0434\u043d\u043e\u043c \u043f\u043b\u0435\u0439\u043b\u0438\u0441\u0442\u0435.",
   "name": "This Is NAV",
   "tracks": [
     {
@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 219816,
       "name": "Car Sick (feat. NAV & Metro Boomin)",
       "url": "https://open.spotify.com/track/4xisLMFhYADhKnkOCCV4Am"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 194843,
       "name": "Leaders (feat. NAV)",
       "url": "https://open.spotify.com/track/4D7NrSeqkTarBrJ80b2sBc"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 156518,
       "name": "Make It Right Back",
       "url": "https://open.spotify.com/track/6AyXdUH0gnVrJFQb7L7rkI"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 170536,
       "name": "Saint Laurenttt",
       "url": "https://open.spotify.com/track/2oPQVgCTYqA4FBknwAroWf"

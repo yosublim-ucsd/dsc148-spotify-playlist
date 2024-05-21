@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-244 songs - 13 hr 51 min
+245 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Meant To Be](https://open.spotify.com/track/136J2Jkg8sG7P5wilO9P1R) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x), [Charlie Oriain](https://open.spotify.com/artist/0rNWn0b2f8PiL8VAdDR152) | [Meant To Be](https://open.spotify.com/album/2Ii84ROOIm5Hf5ZtbiG3P9) | 2:43 | 2022-05-30 | 2022-10-13 |
 | [Moments](https://open.spotify.com/track/1uBFnk2iTrgjnEejK9PKq7) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Moments](https://open.spotify.com/album/6hD43PfSqqcHqP68NlBJcp) | 2:42 | 2023-04-10 |  |
 | [Money, Love & Death](https://open.spotify.com/track/6SNbZkTjHMCLninZRWTjbJ) | [Garrett Nash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Money, Love & Death](https://open.spotify.com/album/7oWB6Lfleo2iNyMXtYjBut) | 2:44 | 2022-07-11 | 2022-07-26 |
-| [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-07-17 |  |
+| [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-07-17 | 2024-05-21 |
 | [Morning Coffee](https://open.spotify.com/track/6zvtPVptAvY6wRbkPGLKff) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc), [Nalba](https://open.spotify.com/artist/7Dzf4xL1daaeiFXaz4SWXp) | [Morning Coffee](https://open.spotify.com/album/0Lhj5XHmeZTOXmrXDeXpEF) | 2:22 | 2022-05-30 |  |
 | [Mostly](https://open.spotify.com/track/2yWhQ9D4tbjpEcpJZCGkC4) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [Juniper Vale](https://open.spotify.com/artist/5ektKXWvSR9FjUExrpg1xK) | [Northern Anthems](https://open.spotify.com/album/4rCcHDbNIPKBkYi1rdgPYr) | 1:42 | 2022-10-31 | 2024-04-19 |
 | [mountain](https://open.spotify.com/track/7ymXZxnw48FcoGm27NhMlu) | [kiyu](https://open.spotify.com/artist/2QliS3HKbo1IrXUmC9hg5C) | [mountain](https://open.spotify.com/album/2PHjceB7h7ABJ4dWkkUkHS) | 1:42 | 2023-05-29 | 2023-06-06 |
@@ -228,6 +228,7 @@
 | [Use Somebody \- Acoustic Version](https://open.spotify.com/track/55KKAV2VnlggBrVS0J666s) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [Use Somebody \(Acoustic Version\)](https://open.spotify.com/album/29IqFm10gYl1ml1Occt8m5) | 3:06 | 2022-08-08 |  |
 | [vacation](https://open.spotify.com/track/3czFLae2AYohB3q3edHKMr) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [vacation](https://open.spotify.com/album/1gUdka9FYmArCb6w1YLrBV) | 3:35 | 2022-06-13 | 2022-06-23 |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-08-08 | 2024-04-19 |
+| [Violin](https://open.spotify.com/track/7eRDTkDUO5UVWgla9Max4h) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Mission Bell](https://open.spotify.com/album/07HizW0Hwz3rDY9aDtoLXS) | 5:18 | 2024-05-20 |  |
 | [Wasted](https://open.spotify.com/track/0OhpCv3zEWYQzB00TdXEjz) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [Wasted](https://open.spotify.com/album/7yVlG0NJ0BStMiM8W9BIYp) | 2:48 | 2022-10-10 | 2022-10-18 |
 | [We All Fall Down](https://open.spotify.com/track/3HP1umFHOSLGbia2YQWUhy) | [Jun Kung](https://open.spotify.com/artist/639mapjt3km7OblpMSFRnq) | [We All Fall Down](https://open.spotify.com/album/2HnTd15dx4oLiBVuN7H9V9) | 3:34 | 2022-05-30 | 2022-07-29 |
 | [We Don’t Talk Enough \(with Alexander 23\)](https://open.spotify.com/track/4IaizE26moyyMYn70TeFiX) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd), [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:28 | 2023-05-01 |  |

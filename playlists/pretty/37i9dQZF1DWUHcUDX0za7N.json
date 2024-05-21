@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Ice Prince",
-  "num_followers": 48815,
+  "num_followers": 48893,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Tequila Ever After",
-        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw"
+        },
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
         }
       ],
-      "duration_ms": 163685,
-      "name": "Wrong Person (with ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
+      "duration_ms": 184941,
+      "name": "Oghene",
+      "url": "https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -547,26 +551,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+        "name": "Tequila Ever After",
+        "url": "https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4Su2KjN1mxdB5JpT5aAtQw"
-        },
-        {
-          "name": "Jeriq",
-          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 184941,
-      "name": "Oghene",
-      "url": "https://open.spotify.com/track/1TGNfm1HCICFHIKM1DMmuL"
+      "duration_ms": 163685,
+      "name": "Wrong Person (with ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/0upnuatnbGnFV7HJgCm9Xj"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "R2 Sept 12",
+        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 162336,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Jangrova (feat. Tribal Mark)",
         "url": "https://open.spotify.com/album/6eLBhDWVnZZPvtPW1S9Irp"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 155044,
       "name": "Do I",
       "url": "https://open.spotify.com/track/3sKWRWuDKm0NODw7kB8xUD"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "R2 Sept 12",
-        "url": "https://open.spotify.com/album/7pXz5d7pMiaG0Uj2AYLDpB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 162336,
-      "name": "1999",
-      "url": "https://open.spotify.com/track/6rebyxkCsKvngGShPbGKG8"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -788,13 +788,13 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "ROAD RUNNERS (feat. Black Sherif)",
-      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
+      "duration_ms": 174038,
+      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
+      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -831,6 +831,26 @@
       "duration_ms": 126213,
       "name": "Naija Funk",
       "url": "https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "NSV",
+        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
+      },
+      "artists": [
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 188372,
+      "name": "NSV",
+      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -875,26 +895,6 @@
       "duration_ms": 147192,
       "name": "Mamba (With Bella Shmurda & Seyi Vibez)",
       "url": "https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "NSV",
-        "url": "https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB"
-      },
-      "artists": [
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 188372,
-      "name": "NSV",
-      "url": "https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -976,13 +976,13 @@
           "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         }
       ],
-      "duration_ms": 174038,
-      "name": "DOLLERZ (feat. ODUMODUBLVCK)",
-      "url": "https://open.spotify.com/track/1X9zmng42hJSwZ3gz8Q9v7"
+      "duration_ms": 146000,
+      "name": "ROAD RUNNERS (feat. Black Sherif)",
+      "url": "https://open.spotify.com/track/1YQAHol95T2hkZISywS0VO"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Left Right",
-        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
-      },
-      "artists": [
-        {
-          "name": "Keys the Prince",
-          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
-        }
-      ],
-      "duration_ms": 160169,
-      "name": "Left Right",
-      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "My Brother",
         "url": "https://open.spotify.com/album/3ZUE1QT6ttwoD5zomMykF6"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 158520,
       "name": "My Brother",
       "url": "https://open.spotify.com/track/2bKcKMDU9JHtLJ8xeHR46X"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Left Right",
+        "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
+      },
+      "artists": [
+        {
+          "name": "Keys the Prince",
+          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
+        }
+      ],
+      "duration_ms": 160169,
+      "name": "Left Right",
+      "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Egberi",
+        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Egberi",
+      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Breakfast in Lagos",
         "url": "https://open.spotify.com/album/2DW4TpRD2uABgICIMdiB5u"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Egberi",
-        "url": "https://open.spotify.com/album/3sL4tYNg9xEmoL5uX5M1RP"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Egberi",
-      "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
     },
     {
       "added_at": "2024-05-17 00:01:00",

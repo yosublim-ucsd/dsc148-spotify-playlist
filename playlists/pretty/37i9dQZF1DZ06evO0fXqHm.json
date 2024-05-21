@@ -1,12 +1,12 @@
 {
-  "description": "This is Mac J\u00falia. The essential tracks, all in one playlist.",
-  "num_followers": 1332,
+  "description": "This is Mac J\u00falia. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1334,
   "original_name": "This Is Mac J\u00falia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAACHiXM9qodHOtnq1SrdG6dn",
+  "snapshot_id": "ZklBAAAAAAA0VbsiOzSIrCkN/iF2ceUr",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sextape: Love Me Two Times",
+        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rua do Ouro",
         "url": "https://open.spotify.com/album/7gM14u4cfMbL25IQTNPmPZ"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 151384,
       "name": "Rua do Ouro",
       "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sextape: Love Me Two Times",
-        "url": "https://open.spotify.com/album/5c5AgbTyHaO6bdb5hI1oUR"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7LJZi73gsM2R4buKf8cOs9"
     },
     {
       "added_at": null,
@@ -543,6 +543,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Garoto",
+          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
+        },
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        }
+      ],
+      "duration_ms": 108000,
+      "name": "Eu Vou Te Levar pro C\u00e9u",
+      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Papo 10",
         "url": "https://open.spotify.com/album/0QaSKRQmdSlq97XMBzvbUs"
       },
@@ -599,6 +623,34 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baile da Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Papo de Arrependida",
+      "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
     },
     {
       "added_at": null,
@@ -688,17 +740,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC Garoto",
-          "url": "https://open.spotify.com/artist/69k2SvCVULrUSPe3ULz3hr"
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
         },
         {
-          "name": "GORD\u00c3O DO PC",
-          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+          "name": "Dj Mack",
+          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
         }
       ],
-      "duration_ms": 108000,
-      "name": "Eu Vou Te Levar pro C\u00e9u",
-      "url": "https://open.spotify.com/track/7DS4Wlph55hKpYKHK5FDb1"
+      "duration_ms": 132923,
+      "name": "Fiel \u00e0 Cachorrada",
+      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
     },
     {
       "added_at": null,
@@ -772,21 +824,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+          "name": "MC Luan da BS",
+          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
         },
         {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+          "name": "DJ BK",
+          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Papo de Arrependida",
-      "url": "https://open.spotify.com/track/64fwPCIeXuhNvVSAvI3CIH"
+      "duration_ms": 135692,
+      "name": "No Baile do Serr\u00e3o",
+      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     },
     {
       "added_at": null,
@@ -860,17 +908,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
         },
         {
-          "name": "Dj Mack",
-          "url": "https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7"
+          "name": "Mc GB",
+          "url": "https://open.spotify.com/artist/1LB6NfQphSfaow9GEyapFy"
         }
       ],
-      "duration_ms": 132923,
-      "name": "Fiel \u00e0 Cachorrada",
-      "url": "https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d"
+      "duration_ms": 114461,
+      "name": "Nananinan\u00e3o",
+      "url": "https://open.spotify.com/track/6aBoX8GhE1rkYzKeDq4u6c"
     },
     {
       "added_at": null,
@@ -944,17 +992,17 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Dj Dudu Coupper",
-          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
         },
         {
-          "name": "Mc GB",
-          "url": "https://open.spotify.com/artist/1LB6NfQphSfaow9GEyapFy"
+          "name": "Milbeats",
+          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
         }
       ],
-      "duration_ms": 114461,
-      "name": "Nananinan\u00e3o",
-      "url": "https://open.spotify.com/track/6aBoX8GhE1rkYzKeDq4u6c"
+      "duration_ms": 152000,
+      "name": "Sentadinha Matinal",
+      "url": "https://open.spotify.com/track/53JbVO3ABYd4s8Fm65H68n"
     },
     {
       "added_at": null,
@@ -975,34 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo Acontece L\u00e1 na Favela",
-        "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
-      },
-      "artists": [
-        {
-          "name": "DJ IGOR SANCHEZ",
-          "url": "https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO"
-        },
-        {
-          "name": "Daan Mc",
-          "url": "https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Vitin LC",
-          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
-        }
-      ],
-      "duration_ms": 123664,
-      "name": "Tudo Acontece L\u00e1 na Favela",
-      "url": "https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "$IMBIO$E",
         "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
@@ -1019,30 +1039,6 @@
       "duration_ms": 157000,
       "name": "Salto Alto",
       "url": "https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "MC Luan da BS",
-          "url": "https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3"
-        },
-        {
-          "name": "DJ BK",
-          "url": "https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "No Baile do Serr\u00e3o",
-      "url": "https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678"
     },
     {
       "added_at": null,
@@ -1083,6 +1079,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo Acontece L\u00e1 na Favela",
+        "url": "https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh"
+      },
+      "artists": [
+        {
+          "name": "DJ IGOR SANCHEZ",
+          "url": "https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO"
+        },
+        {
+          "name": "Daan Mc",
+          "url": "https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC Vitin LC",
+          "url": "https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR"
+        }
+      ],
+      "duration_ms": 123664,
+      "name": "Tudo Acontece L\u00e1 na Favela",
+      "url": "https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eu & Elas",
         "url": "https://open.spotify.com/album/4FZ4coUA02edFdEP8qUFE6"
       },
@@ -1107,30 +1131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baile da Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Mc Pretchako",
-          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
-        },
-        {
-          "name": "Milbeats",
-          "url": "https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Sentadinha Matinal",
-      "url": "https://open.spotify.com/track/53JbVO3ABYd4s8Fm65H68n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mete Mac Vol 1",
         "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
@@ -1147,30 +1147,6 @@
       "duration_ms": 137000,
       "name": "Bitch",
       "url": "https://open.spotify.com/track/4SaKtdmM5FihfO4LInrsXy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Clap Clap",
-        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
-      },
-      "artists": [
-        {
-          "name": "Dj Hugo CS",
-          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "DAL\u00c3MA",
-          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
-        }
-      ],
-      "duration_ms": 122307,
-      "name": "Clap Clap",
-      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
     },
     {
       "added_at": null,
@@ -1195,6 +1171,30 @@
       "duration_ms": 153004,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/5ay5pvM8CuZTsbrr0wfxRH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Clap Clap",
+        "url": "https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D"
+      },
+      "artists": [
+        {
+          "name": "Dj Hugo CS",
+          "url": "https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "DAL\u00c3MA",
+          "url": "https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Clap Clap",
+      "url": "https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66"
     },
     {
       "added_at": null,

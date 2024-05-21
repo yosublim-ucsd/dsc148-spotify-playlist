@@ -4,7 +4,7 @@
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-275 songs - 18 hr 10 min
+276 songs - 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Bird](https://open.spotify.com/track/2SPPW7Ra8VLOnzQHXfRIOu) | [Bedouine](https://open.spotify.com/artist/6IiZemRMna678qNhiRkYI5) | [Bird](https://open.spotify.com/album/6gdMuuforEhKQ3UEf5cb82) | 5:17 | 2019-11-08 | 2022-07-29 |
 | [Bird](https://open.spotify.com/track/14nWsmzymZ6MV9TDhaH2SV) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Bird](https://open.spotify.com/album/63XRrL5aFeflpDkzeYF5dD) | 3:39 | 2018-11-26 |  |
 | [Bird](https://open.spotify.com/track/6V18xIigW3Om7UyzyRUQEr) | [INDIANS](https://open.spotify.com/artist/5HCCzOAOBjMwHDqHI58VbF) | [Somewhere Else](https://open.spotify.com/album/4pm0EiWck546y46ogvZzyI) | 5:01 | 2018-11-26 | 2022-07-27 |
-| [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 | 2023-06-27 |  |
+| [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 | 2023-06-27 | 2024-05-21 |
 | [Bones](https://open.spotify.com/track/0C9X3O7dYZ36kTtyF4RDQi) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófríõur Ákadóttir](https://open.spotify.com/artist/2gNKNQJFNtwUAi7IH4HA2V) | [Bones](https://open.spotify.com/album/76PbBNOBUO3BcyTx3ltuUR) | 2:49 | 2018-11-26 | 2022-09-03 |
 | [Bones](https://open.spotify.com/track/6lt8Z886tMHpNqzOFWX8Yn) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófríõur Ákadóttir](https://open.spotify.com/artist/3LSqAcESIkzE2HxeBRsgVy) | [Once in a Long, Long While...](https://open.spotify.com/album/5dhet1luldVxu21FUspJXV) | 2:49 | 2018-11-26 | 2023-06-14 |
 | [Bones \(feat\. Jófriður\)](https://open.spotify.com/track/16hWU8zGX7EOJJA4xV3hHw) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE), [Jófriður](https://open.spotify.com/artist/4DRyAvgLUeJzNhUrDMJ2va) | [Death Stranding \(Songs from the Video Game\)](https://open.spotify.com/album/1H5k5QgsFjnMPzlXfWq8QH) | 2:50 | 2018-11-26 | 2022-11-13 |
@@ -174,6 +174,7 @@
 | [Obrecht](https://open.spotify.com/track/2fgEVpafPGM0IDRRf3Q32K) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/7aahYegJjCZ1QLnIBxsTwb) | 3:36 | 2018-11-26 | 2023-03-01 |
 | [Obrecht](https://open.spotify.com/track/3PwmnXo3vQi326NDlf0iQj) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves](https://open.spotify.com/album/0n636PGAlBwMN0dn03ZmC3) | 3:36 | 2018-11-26 | 2022-07-29 |
 | [Obrecht](https://open.spotify.com/track/4J7vzAszpwf1jWNiUhzv4S) | [Analogue Dear](https://open.spotify.com/artist/0BXba0ldes9O3QN8JPi1sX) | [Stories We Tell Ourselves EP](https://open.spotify.com/album/19TcHZVTXfny21vIBmAx5w) | 3:36 | 2022-12-14 | 2024-04-17 |
+| [one day](https://open.spotify.com/track/7DwwTngKPIZgxsok72Z9YL) | [Arca](https://open.spotify.com/artist/6N6Y3dXzfGFvUdqETrTGeT), [LUCA](https://open.spotify.com/artist/5JZSSs2KEn3LIPiPkqGjMj), [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [世界](https://open.spotify.com/album/69Kc5dicZRbAiDPlYgp39p) | 3:48 | 2023-09-29 |  |
 | [One Half](https://open.spotify.com/track/08x8v6ae79NWlwZ6canmWD) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/2CXMjx34NYlVRCFH1MsOku) | 3:41 | 2018-11-26 | 2023-06-14 |
 | [One Half](https://open.spotify.com/track/4gDTwTId75QePmzeZ2woCQ) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Nepenthe](https://open.spotify.com/album/7wVXPA9EfAh7VA5dfaIiP3) | 3:41 | 2018-11-26 | 2022-07-28 |
 | [Only a Moment](https://open.spotify.com/track/0YsdzdSjK6kEwtEeL4bfa6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 1:25 | 2023-09-29 |  |

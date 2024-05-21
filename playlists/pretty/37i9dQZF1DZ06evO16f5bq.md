@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
+> This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,931 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,984 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 44 | [Até o céu](https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Até o céu](https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4) | 2:46 |
 | 45 | [OUTRA DIMENSÃO](https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE HAIR](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:31 |
 | 46 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
-| 47 | [Dia de Operação](https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Palma](https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [Dia de Operação](https://open.spotify.com/album/2of77xllwOV4R21J3v4t20) | 3:52 |
+| 47 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
 | 48 | [Fe Blindada](https://open.spotify.com/track/0qqvEDm3PXlgOa9okZSARf) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Gênio](https://open.spotify.com/album/32l0hsTM6EprmOp8lEVRGe) | 2:58 |
-| 49 | [TE ENCONTREI](https://open.spotify.com/track/5H3m39zgDfXU2bFVA3e2YQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 2:24 |
+| 49 | [Dia de Operação](https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Palma](https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [Dia de Operação](https://open.spotify.com/album/2of77xllwOV4R21J3v4t20) | 3:52 |
 | 50 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 
-Snapshot ID: `ZkfvgAAAAABS77i1Jfac4kguwUWDhtUF`
+Snapshot ID: `ZklBAAAAAAByydjV2YBZrAm2abO08Kn6`

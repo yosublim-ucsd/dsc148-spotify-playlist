@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,659 likes - 17 songs - 53 min 8 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,658 likes - 17 songs - 53 min 8 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,6 +24,6 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 14 | [Unwind](https://open.spotify.com/track/2nuDAyuVQOyQ3PBp4r1SO9) | [Tolou](https://open.spotify.com/artist/6aJLBAuRRedmYQfUxXUByH) | [Unwind](https://open.spotify.com/album/11tbIyhBWtfHn60JGKfEMb) | 2:18 |
 | 15 | [Shut Up And Dance](https://open.spotify.com/track/1cZ3mzkuWrAP1uXSWekuLD) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF) | [Shut Up And Dance](https://open.spotify.com/album/2hF853Cnu1FKZ2D9oiwu8G) | 2:57 |
 | 16 | [Shakshuka](https://open.spotify.com/track/3B8fqS9wLime6fJmd55OLB) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Shakshuka](https://open.spotify.com/album/5sQT3PGjAVivx5lF0Mc5TQ) | 2:53 |
-| 17 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Kel](https://open.spotify.com/artist/0TLOVFA4f1et5PuPPVaGVg) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
+| 17 | [FLAAKLYPA](https://open.spotify.com/track/32cm8JnD2Eysv3o77BKpWR) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [KEL](https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05) | [FLAAKLYPA](https://open.spotify.com/album/0jyzkdPjsoEP7n4zOJjHI4) | 3:07 |
 
 Snapshot ID: `AAAKnoRQzcrAezUUOpWyJKFi9THQDJS8`

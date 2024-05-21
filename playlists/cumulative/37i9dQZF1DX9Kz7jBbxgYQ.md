@@ -2,9 +2,9 @@
 
 ### [Desi Indie](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: KhoslaRaghu
+> Home to the best of South Asian Indie scene\. Cover: Kaavish, Abdul Hannan
 
-298 songs - 16 hr 55 min
+299 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2024-04-16 |  |
 | [Bawariya](https://open.spotify.com/track/5V4skDQqJVmt6gIgYpYEFB) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk) | [Bawariya](https://open.spotify.com/album/1bIZt0uCgtKJOvlqvBSs4C) | 2:59 | 2024-01-05 | 2024-04-09 |
 | [Bekhabar](https://open.spotify.com/track/20H7gJ6egUmfOzQ00t5DEH) | [Deepanshi Nagar](https://open.spotify.com/artist/3rRSuKh0igtO8J7uHz2AgQ), [Arjit Shrivastava](https://open.spotify.com/artist/7EBfv067H7dViRbeOVQqFv), [Aviral Kumar](https://open.spotify.com/artist/4VWA00yIUYAA3b0jsjdx1z) | [Bekhabar](https://open.spotify.com/album/1NvOkJwsKFEzthlxDr9UnV) | 2:50 | 2022-09-01 | 2023-01-21 |
+| [Beqaabu](https://open.spotify.com/track/4bRyiA3wRWx3rnbCxNDete) | [boys from marsss](https://open.spotify.com/artist/5UaZTW4g6ypNCmyXpFiYbU) | [Beqaabu](https://open.spotify.com/album/6GGK1MQ9Pj5dlTYjngHQqg) | 2:14 | 2024-05-20 |  |
 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 | 2023-03-22 |  |
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-20 | 2023-02-11 |
 | [Bhaagoon](https://open.spotify.com/track/0XZNiP6VU0e9Orm1Lzc7cr) | [Natasha Baig](https://open.spotify.com/artist/2R8t8JuhekewFBqE8OhBq8), [Bilal Ali](https://open.spotify.com/artist/1qJck1RgMGzqJyzvIJuOuX), [Sinnan Fazwani](https://open.spotify.com/artist/3gAgVxm4l9CwpWtTI0NF52) | [Bhaagoon](https://open.spotify.com/album/3vPIQjEt5lDTSgS6vRTFuV) | 3:06 | 2024-01-12 |  |

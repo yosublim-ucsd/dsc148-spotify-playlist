@@ -5803,6 +5803,28 @@
     },
     {
       "album": {
+        "name": "Hot Shot",
+        "url": "https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Rik Rok",
+          "url": "https://open.spotify.com/artist/67wCYxOq4A1ohAs7jWYaOJ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227600,
+      "name": "It Wasn't Me",
+      "url": "https://open.spotify.com/track/3WkibOpDF7cQ5xntM1epyf"
+    },
+    {
+      "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
       },

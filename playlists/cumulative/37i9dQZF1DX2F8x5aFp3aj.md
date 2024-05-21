@@ -4,7 +4,7 @@
 
 > Revive aquellos tiempos de new wave, post\-punk y sentimientos decadentes\. The Cure en portada.
 
-222 songs - 16 hr 39 min
+223 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Indigo Eyes](https://open.spotify.com/track/5GALSojbb6yxDKCGVa2HVS) | [Peter Murphy](https://open.spotify.com/artist/7zeHJIIfNStVfxlbT72UwY) | [Love Hysteria](https://open.spotify.com/album/2sgTn4jGWj7BzQYMqkSCRe) | 5:54 | 2021-09-28 | 2022-07-29 |
 | [Invisible Touch \- 2007 Remaster](https://open.spotify.com/track/0xpBr84T3FTm9j4D1MdPtk) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch \(2007 Remaster\)](https://open.spotify.com/album/632b0oXuFpstA4DO2cUKdG) | 3:28 | 2021-09-28 | 2024-04-19 |
 | [Invisible Touch \- Remastered 2007](https://open.spotify.com/track/480dDrqG7LO6qDaphHeXlM) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Invisible Touch](https://open.spotify.com/album/5BDGtXKMQ6k267KX4PoGhP) | 3:30 | 2021-09-28 | 2024-04-29 |
-| [It's a Mistake](https://open.spotify.com/track/5xNmWMhsZncmM9zziHww42) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 4:31 | 2021-09-28 |  |
+| [It's a Mistake](https://open.spotify.com/track/5xNmWMhsZncmM9zziHww42) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work: Contraband](https://open.spotify.com/album/6GYIy1SuhPDrugCZ5yNeQy) | 4:31 | 2021-09-28 | 2024-05-21 |
 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 | 2021-09-28 |  |
 | [Jack & Diane](https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [American Fool](https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0) | 4:14 | 2021-09-28 | 2024-04-19 |
 | [Just Around the Corner](https://open.spotify.com/track/0WujVnyLeCEOoPpdV2wOj6) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [After Here Through Midland \(Expanded Edition\)](https://open.spotify.com/album/5pXGk4hepNTME887MLGXmG) | 4:16 | 2021-09-28 | 2023-10-04 |
@@ -221,6 +221,7 @@
 | [Walking Away](https://open.spotify.com/track/6NHgiZFCnfDzDhOD02GcnR) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 5:04 | 2021-09-28 | 2022-07-14 |
 | [Walking On The Moon](https://open.spotify.com/track/62uLNJgVZaFiEiKV4LpoYJ) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc \(Remastered 2003\)](https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6) | 5:00 | 2021-09-28 | 2024-04-19 |
 | [Walking On The Moon](https://open.spotify.com/track/7pjxc1vwQqo3N1k9hEAD3T) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Reggatta De Blanc](https://open.spotify.com/album/3YJ1lm8mhdxnjFhFFewz0R) | 5:05 | 2021-09-28 | 2022-07-29 |
+| [Wax And Wane](https://open.spotify.com/track/1pCaxskZpChEzo3ZTeUFwH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Garlands](https://open.spotify.com/album/3yT1f4nGSy3BBw4ghtRF29) | 4:04 | 2024-04-16 |  |
 | [What's on Your Mind \(Pure Energy\)](https://open.spotify.com/track/2GBWPAsIXtC7NwULhUoHRf) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society](https://open.spotify.com/album/1pQhBQI8Oxo4p2wh61rGfg) | 4:35 | 2021-09-28 | 2024-04-19 |
 | [What's On Your Mind \- Pure Energy](https://open.spotify.com/track/1k82KNC5Ds6HRUXbf6EaHE) | [Information Society](https://open.spotify.com/artist/6bJUzb3mLEYCkTAp7eNJgO) | [Information Society \(CD+G\)](https://open.spotify.com/album/1DkvggCdd36Kr3ZtXqLk8l) | 4:35 | 2021-09-28 | 2022-06-04 |
 | [When Your Heart Is Weak](https://open.spotify.com/track/3OiMyoS1QCu8ozdDEj1WWD) | [Cock Robin](https://open.spotify.com/artist/1MOoTIFOvJ60ATvyRXPPXg) | [Open Book \- The Best Of...](https://open.spotify.com/album/1A95sUd7nLfGX5tI1RuwRN) | 4:37 | 2021-09-28 | 2022-07-15 |

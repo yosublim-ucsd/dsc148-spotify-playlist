@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1723651,
+  "num_followers": 1723963,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
+        "name": "The Soul Album",
+        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 240800,
+      "name": "Cigarettes and Coffee",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 544640,
       "name": "People Get Up And Drive Your Funky Soul - Remix",
       "url": "https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
-        "name": "The Soul Album",
-        "url": "https://open.spotify.com/album/3YKQkIPHtWGuvkBeVNIMhg"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "Cigarettes and Coffee",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
+        "name": "The First Edition",
+        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+      },
+      "artists": [
+        {
+          "name": "The First Edition",
+          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+        }
+      ],
+      "duration_ms": 201213,
+      "name": "Just Dropped In (To See What Condition My Condition Was In)",
+      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
-        "name": "The First Edition",
-        "url": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
-      },
-      "artists": [
-        {
-          "name": "The First Edition",
-          "url": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
-        }
-      ],
-      "duration_ms": 201213,
-      "name": "Just Dropped In (To See What Condition My Condition Was In)",
-      "url": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
+        "name": "Back To Front",
+        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
+      },
+      "artists": [
+        {
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+        }
+      ],
+      "duration_ms": 288440,
+      "name": "My Destiny",
+      "url": "https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
         "name": "The Best of George Benson",
         "url": "https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 334386,
       "name": "That Lady, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/46pW0poQYEb2bVaqozGO59"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
-        "name": "Back To Front",
-        "url": "https://open.spotify.com/album/1ET5QG3pd6NGqEFuZh0Qiz"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 288440,
-      "name": "My Destiny",
-      "url": "https://open.spotify.com/track/2rdX2dS4KfkpR31qrQanE2"
     },
     {
       "added_at": "2024-04-02 11:11:15",

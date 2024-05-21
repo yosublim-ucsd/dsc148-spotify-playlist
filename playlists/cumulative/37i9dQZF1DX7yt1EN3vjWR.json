@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/4atx65eawftO33EBEZJRJf"
+      },
+      "artists": [
+        {
+          "name": "DAB",
+          "url": "https://open.spotify.com/artist/3yYumedujiQlRToKP478wS"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170588,
+      "name": "2000",
+      "url": "https://open.spotify.com/track/65lD7kSyIK7WakLglh7IlD"
+    },
+    {
+      "album": {
         "name": "20023",
         "url": "https://open.spotify.com/album/4ji4Rj3OBrf7Y9piQQ5baE"
       },
@@ -526,7 +544,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 101934,
       "name": "777",
       "url": "https://open.spotify.com/track/7rc4LM94BAPwdMK2GHjmWb"
@@ -997,6 +1015,24 @@
     },
     {
       "album": {
+        "name": "YOMI",
+        "url": "https://open.spotify.com/album/5CRo7AEAfmXB25Ld2nxIjE"
+      },
+      "artists": [
+        {
+          "name": "Red Eye",
+          "url": "https://open.spotify.com/artist/4yu1crXDHBTb27yiM5otx5"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204190,
+      "name": "ASIAN CINEMA",
+      "url": "https://open.spotify.com/track/2AKTS2Q1hKSLb8oyGxzi09"
+    },
+    {
+      "album": {
         "name": "ASIAN CINEMA",
         "url": "https://open.spotify.com/album/5rf9gJJs0nyrIAxoTv4Jft"
       },
@@ -1034,7 +1070,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 190985,
       "name": "ASIAN CINEMA - Remix",
       "url": "https://open.spotify.com/track/7tgmx1zMwF6vbP6j1ApfdD"
@@ -1156,7 +1192,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 179838,
       "name": "ATHENS",
       "url": "https://open.spotify.com/track/74rj8EZehnt5MCBBwbCIoy"
@@ -2639,6 +2675,28 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/58VzDG67CnxkYmEY7yrtpW"
+      },
+      "artists": [
+        {
+          "name": "DADA",
+          "url": "https://open.spotify.com/artist/4pniMGXJAyqoOt8TFrkMfN"
+        },
+        {
+          "name": "AZU",
+          "url": "https://open.spotify.com/artist/1hWfPkBroOMDyXvyEoXoML"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171834,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/7qTaUbJawvCWs0MHzkqqTE"
+    },
+    {
+      "album": {
         "name": "BAD HOP (Deluxe Edition)",
         "url": "https://open.spotify.com/album/79JJkBZaJpiN8d1ELd7Q1r"
       },
@@ -2778,6 +2836,28 @@
       "duration_ms": 205237,
       "name": "Do Well",
       "url": "https://open.spotify.com/track/1j1BVseFGBHHKWyGtmdnhm"
+    },
+    {
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW"
+      },
+      "artists": [
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278400,
+      "name": "Doors",
+      "url": "https://open.spotify.com/track/0Mto7aKiY231f9Vc7NgpNf"
     },
     {
       "album": {
@@ -3066,7 +3146,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 215040,
       "name": "Erika",
       "url": "https://open.spotify.com/track/47AFXtZnq9FwZffiIMKX1O"
@@ -5014,6 +5094,24 @@
       "duration_ms": 160734,
       "name": "HOUSE PARTY",
       "url": "https://open.spotify.com/track/1J994y1srEqIJm6JXUAaD5"
+    },
+    {
+      "album": {
+        "name": "HOUSE PARTY",
+        "url": "https://open.spotify.com/album/2vTkeMXSUVWqTfRsvQVh6I"
+      },
+      "artists": [
+        {
+          "name": "eyden",
+          "url": "https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160734,
+      "name": "HOUSE PARTY",
+      "url": "https://open.spotify.com/track/4MquJ1PdhuibOLODelb3xN"
     },
     {
       "album": {
@@ -7136,6 +7234,36 @@
       "duration_ms": 136740,
       "name": "Naiya",
       "url": "https://open.spotify.com/track/2u5333Tv5pnMkpHdBkDNLy"
+    },
+    {
+      "album": {
+        "name": "Nakamura (Remix)",
+        "url": "https://open.spotify.com/album/0q02sNvD1CxfzKw0iOvn4x"
+      },
+      "artists": [
+        {
+          "name": "SEEDA",
+          "url": "https://open.spotify.com/artist/3L1EmlKEdboomQtlRj4XtY"
+        },
+        {
+          "name": "ghostpops",
+          "url": "https://open.spotify.com/artist/6zFpstOqy3dPfdqsOmaZcI"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        },
+        {
+          "name": "Kraftykid",
+          "url": "https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207785,
+      "name": "Nakamura - Remix",
+      "url": "https://open.spotify.com/track/1PXu3UPVmgob5jVF1iHR7a"
     },
     {
       "album": {
@@ -11045,6 +11173,28 @@
     },
     {
       "album": {
+        "name": "Rockdown",
+        "url": "https://open.spotify.com/album/6HOKssxsvisKWmkxE8eoX6"
+      },
+      "artists": [
+        {
+          "name": "Candee",
+          "url": "https://open.spotify.com/artist/1L9s7TypQNTxmJ12OuG2yR"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168518,
+      "name": "Unlucky",
+      "url": "https://open.spotify.com/track/6Eyu0AzsBNIwPbDy6WWjUW"
+    },
+    {
+      "album": {
         "name": "nobori - \u4e0a\u308a",
         "url": "https://open.spotify.com/album/1o9zSOMYbKWv48zUb50MfY"
       },
@@ -11396,7 +11546,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 193714,
       "name": "Welcome to Nokey",
       "url": "https://open.spotify.com/track/7aTxPhDvUZtUWJiXleCGsM"
@@ -12218,6 +12368,28 @@
       "duration_ms": 228160,
       "name": "\u30a2\u30de\u30bf\u30ce\u30aa\u30ed\u30c1",
       "url": "https://open.spotify.com/track/7olk9G2IBcWJf3vKaGCScd"
+    },
+    {
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/6ZUiLTzqxwCfw01NA86SlW"
+      },
+      "artists": [
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
+        },
+        {
+          "name": "JJJ",
+          "url": "https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196880,
+      "name": "\u30ac\u30e9\u30b9\u306e\u4eac\u90fd",
+      "url": "https://open.spotify.com/track/6Yz4hCcDgeCjcLxhWLZ1kz"
     },
     {
       "album": {
@@ -13162,6 +13334,28 @@
       "duration_ms": 210733,
       "name": "\u9759\u304b\u306b\u53eb\u3073",
       "url": "https://open.spotify.com/track/0h4N3uozhctE7S6nyi55GL"
+    },
+    {
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/0olQG0GzI6blLvXYDLX8iz"
+      },
+      "artists": [
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "ZOT on the WAVE",
+          "url": "https://open.spotify.com/artist/0qMwn0A1NkYRIo8jyOMygH"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140177,
+      "name": "\u975e\u884c\u5c11\u5973",
+      "url": "https://open.spotify.com/track/6r5STekruwGHTZgGXeGWIx"
     },
     {
       "album": {

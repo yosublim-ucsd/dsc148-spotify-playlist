@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 
 > Classic anthems from a classic era\. Cover: Wookie
 
-[Spotify](https://open.spotify.com/user/spotify) - 547,212 likes - 75 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 547,484 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RJRF55W5lt.md) - [plain]
 | 72 | [Joy](https://open.spotify.com/track/36xCum3i0EQyr2mw02X3U0) | [Janet Rushmore](https://open.spotify.com/artist/18teEg25jbPOp9juFgIZtU) | [Smack Da House Vol.2](https://open.spotify.com/album/0UTxSDZxgcVhltuXOUT0uT) | 5:29 |
 | 73 | [Cheque One\-Two](https://open.spotify.com/track/2P3UUkbX6dR9DFNLFnuP8a) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:03 |
 | 74 | [Club Lonely](https://open.spotify.com/track/4TSKJlNqqGbyHB9mSmRpUt) | [Club Asylum](https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH) | [Club Asylum Sampler, Vol\. 1](https://open.spotify.com/album/6fonnepHRdzo5l0fminGAq) | 5:14 |
-| 75 | [The Chant W.E.R](https://open.spotify.com/track/3U3hN333aFVLwFlLvIIMx3) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [4X4, Vol\. 1](https://open.spotify.com/album/4HZ7uAsCJu2KwI0AfSOGXk) | 6:10 |
+| 75 | [Happy to Be Deep](https://open.spotify.com/track/4lj7TqR5hgkvJosxlHSAvi) | [R.I.P Productions](https://open.spotify.com/artist/6UOfJPaEk7LS2lWCMI47VB) | [Flava On Wax EP](https://open.spotify.com/album/0QLbaiCdqJI4OwZoVqEu3S) | 7:17 |
 
 Snapshot ID: `ZkTmKQAAAADGT7nTio7z1CPwSWuIThY1`

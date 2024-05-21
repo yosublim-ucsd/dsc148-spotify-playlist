@@ -1,6 +1,6 @@
 {
   "description": "time-stretching granular synthesis. ",
-  "num_followers": 224616,
+  "num_followers": 224670,
   "original_name": "bleeps ^ glitches",
   "owner": {
     "name": "Spotify",
@@ -733,22 +733,6 @@
       "url": "https://open.spotify.com/track/3ZNoKpRGsNc2xK7yPbg5aI"
     },
     {
-      "added_at": "2024-02-08 23:12:47",
-      "album": {
-        "name": "onomatopoeia",
-        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
-      },
-      "artists": [
-        {
-          "name": "J. Albert",
-          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
-        }
-      ],
-      "duration_ms": 269812,
-      "name": "tdU_du_tdu_tdu",
-      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Hodes",
@@ -763,6 +747,22 @@
       "duration_ms": 194000,
       "name": "The Pier",
       "url": "https://open.spotify.com/track/7FkL1m76B5qexhP7np6kRK"
+    },
+    {
+      "added_at": "2024-02-08 23:12:47",
+      "album": {
+        "name": "onomatopoeia",
+        "url": "https://open.spotify.com/album/0lQlAKOAhIy3F5DXIbilmq"
+      },
+      "artists": [
+        {
+          "name": "J. Albert",
+          "url": "https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK"
+        }
+      ],
+      "duration_ms": 269812,
+      "name": "tdU_du_tdu_tdu",
+      "url": "https://open.spotify.com/track/5CUYz3REql8VAN2FkrXq0t"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "that day, on the beach",
         "url": "https://open.spotify.com/album/5cL9c4WEeS33FzfbwYb4Ha"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 151302,
       "name": "memorial park",
       "url": "https://open.spotify.com/track/4OoGwa6kp9TmsjXopMP5Yo"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+      },
+      "artists": [
+        {
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+        }
+      ],
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1201,22 +1201,6 @@
       "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "L'\u00e9treinte Imaginaire",
-        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
-      },
-      "artists": [
-        {
-          "name": "Auscultation",
-          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
-        }
-      ],
-      "duration_ms": 533106,
-      "name": "Lost You in the Fog",
-      "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
-    },
-    {
       "added_at": "2023-03-31 19:28:25",
       "album": {
         "name": "Verve EP",
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blush",
-        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
+        "name": "L'\u00e9treinte Imaginaire",
+        "url": "https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn"
       },
       "artists": [
         {
-          "name": "Facta",
-          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+          "name": "Auscultation",
+          "url": "https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ"
         }
       ],
-      "duration_ms": 237750,
-      "name": "Blush",
-      "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
+      "duration_ms": 533106,
+      "name": "Lost You in the Fog",
+      "url": "https://open.spotify.com/track/40nn7NYGNb5KfLe6Qsok72"
     },
     {
       "added_at": "2023-05-24 01:46:16",
@@ -1271,6 +1255,22 @@
       "duration_ms": 248000,
       "name": "Uncanny Otion",
       "url": "https://open.spotify.com/track/1J7R9RD1DdEbDGYhuukEFc"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Blush",
+        "url": "https://open.spotify.com/album/1yGxezsFucvvSt7prKCQje"
+      },
+      "artists": [
+        {
+          "name": "Facta",
+          "url": "https://open.spotify.com/artist/5qdAJ2QyXRasXUmyesONEn"
+        }
+      ],
+      "duration_ms": 237750,
+      "name": "Blush",
+      "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
     },
     {
       "added_at": "2023-03-22 17:48:40",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/77Ym3LUFp9h8IEfNgsikM5"
     },
     {
-      "added_at": "2023-08-17 17:21:25",
-      "album": {
-        "name": "Circuit Current",
-        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
-      },
-      "artists": [
-        {
-          "name": "1tbsp",
-          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
-        }
-      ],
-      "duration_ms": 247558,
-      "name": "Circuit Current",
-      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Brainwave Technology",
@@ -1335,6 +1319,22 @@
       "duration_ms": 407991,
       "name": "Brainwave Technology",
       "url": "https://open.spotify.com/track/0x1eIudX2mUXc28RujjNl5"
+    },
+    {
+      "added_at": "2023-08-17 17:21:25",
+      "album": {
+        "name": "Circuit Current",
+        "url": "https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK"
+      },
+      "artists": [
+        {
+          "name": "1tbsp",
+          "url": "https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4"
+        }
+      ],
+      "duration_ms": 247558,
+      "name": "Circuit Current",
+      "url": "https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1405,22 +1405,6 @@
       "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ardour (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
-      },
-      "artists": [
-        {
-          "name": "Teebs",
-          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
-        }
-      ],
-      "duration_ms": 131944,
-      "name": "Double Fifths",
-      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
-    },
-    {
       "added_at": "2022-08-24 01:27:39",
       "album": {
         "name": "Eve",
@@ -1435,6 +1419,22 @@
       "duration_ms": 180000,
       "name": "Eve",
       "url": "https://open.spotify.com/track/0nFJMIWFrQQkJ8AOcAfvPf"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Ardour (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4BRfqRgxilQLOJWVPyPMLp"
+      },
+      "artists": [
+        {
+          "name": "Teebs",
+          "url": "https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ"
+        }
+      ],
+      "duration_ms": 131944,
+      "name": "Double Fifths",
+      "url": "https://open.spotify.com/track/4cOrbFr0M4PDjmeKxpZHTe"
     },
     {
       "added_at": "2023-02-16 00:21:45",
@@ -1553,6 +1553,22 @@
       "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
     },
     {
+      "added_at": "2023-03-03 04:07:38",
+      "album": {
+        "name": "Was Du Suchst",
+        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
+      },
+      "artists": [
+        {
+          "name": "Tiefe Wasser Berlin",
+          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+        }
+      ],
+      "duration_ms": 450120,
+      "name": "Was Du Suchst",
+      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "On danse comme des fous",
@@ -1573,20 +1589,20 @@
       "url": "https://open.spotify.com/track/198Fm6IlIjBl0bnJRaXQ8B"
     },
     {
-      "added_at": "2023-03-03 04:07:38",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Was Du Suchst",
-        "url": "https://open.spotify.com/album/7f3jRpt9Ps1nG9VG4AlOLc"
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
       },
       "artists": [
         {
-          "name": "Tiefe Wasser Berlin",
-          "url": "https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3"
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
         }
       ],
-      "duration_ms": 450120,
-      "name": "Was Du Suchst",
-      "url": "https://open.spotify.com/track/5XcMS5s2ryoGrC3EBWlN3G"
+      "duration_ms": 301153,
+      "name": "Rotating In Unison",
+      "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6d1CSnZChE0mkkVvRFlKVH"
+        "name": "Obit For Sunshade",
+        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
       },
       "artists": [
         {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+          "name": "Hotspring",
+          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
         }
       ],
-      "duration_ms": 301153,
-      "name": "Rotating In Unison",
-      "url": "https://open.spotify.com/track/38x5k5FN5X7rtrN3WyxcA1"
+      "duration_ms": 171020,
+      "name": "Resounding",
+      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
     },
     {
       "added_at": "2022-01-12 02:35:30",
@@ -1639,22 +1655,6 @@
       "duration_ms": 199666,
       "name": "Slice of Life",
       "url": "https://open.spotify.com/track/1Ef4AmovzJ5RhoUOqj1iZn"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Obit For Sunshade",
-        "url": "https://open.spotify.com/album/7dclubLbsPj645Q0kHWuK2"
-      },
-      "artists": [
-        {
-          "name": "Hotspring",
-          "url": "https://open.spotify.com/artist/3QSOFV5VWDB1pbmlpUof4G"
-        }
-      ],
-      "duration_ms": 171020,
-      "name": "Resounding",
-      "url": "https://open.spotify.com/track/4tWEcrIZeSAwFUr06k8gWs"
     },
     {
       "added_at": "2021-10-06 04:42:05",

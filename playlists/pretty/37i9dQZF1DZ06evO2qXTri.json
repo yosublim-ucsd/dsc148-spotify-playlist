@@ -1,12 +1,12 @@
 {
   "description": "This is Kirk Franklin. The essential tracks, all in one playlist.",
-  "num_followers": 28196,
+  "num_followers": 28215,
   "original_name": "This Is Kirk Franklin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABnV7AW6CBouHD5FNkFCSZI",
+  "snapshot_id": "ZklBAAAAAABDZSPHXzJL0VYy0c5/vY3q",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,30 @@
       "duration_ms": 307973,
       "name": "I Smile",
       "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of The Dark",
+        "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Bleed The Same",
+      "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
     },
     {
       "added_at": null,
@@ -271,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things",
-        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "All Things",
-      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SORRY, I CHANGED",
         "url": "https://open.spotify.com/album/2Sc59LMto9B7P3gGRzqTkv"
       },
@@ -303,6 +311,22 @@
       "duration_ms": 194304,
       "name": "SBTN (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/5MsaHCrNAwmD0tmkMukqJk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
       "added_at": null,
@@ -447,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Essential Kirk Franklin",
+        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 305666,
+      "name": "Stomp (Remix)",
+      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Portable Sounds (With Bonus Remixes)",
         "url": "https://open.spotify.com/album/2MZDLzslNM6iXbzcUS13zl"
       },
@@ -467,22 +507,6 @@
       "duration_ms": 375973,
       "name": "Lose My Soul - Afterparty Interlude",
       "url": "https://open.spotify.com/track/2DNJ7NAr5IN9BPrKyKx7Gb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Kirk Franklin",
-        "url": "https://open.spotify.com/album/2g85kD3g7lt1EGtcJxs7gt"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 305666,
-      "name": "Stomp (Remix)",
-      "url": "https://open.spotify.com/track/5JggmPy0YhCLaA6Vt4cmMo"
     },
     {
       "added_at": null,
@@ -527,22 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 378200,
-      "name": "A God Like You",
-      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hero",
         "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
       },
@@ -563,6 +571,22 @@
       "duration_ms": 407266,
       "name": "Could've Been (with J Moss & Tye Tribbett)",
       "url": "https://open.spotify.com/track/4YSzPF7PIahHWHQpyVJPMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 378200,
+      "name": "A God Like You",
+      "url": "https://open.spotify.com/track/5Gfp6euoNJPw5AvSpGZSRZ"
     },
     {
       "added_at": null,
@@ -1007,26 +1031,6 @@
       "duration_ms": 368560,
       "name": "Don't Cry - Live at Lakewood Church, Houston, TX - June 16, 2000",
       "url": "https://open.spotify.com/track/7H9ye7JTsRRlOFeOOlb1v6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "We Win (Space Jam: A New Legacy)",
-        "url": "https://open.spotify.com/album/5w1tIaJtvgPEn2mHxiJoVo"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 194999,
-      "name": "We Win (Space Jam: A New Legacy) (and Kirk Franklin)",
-      "url": "https://open.spotify.com/track/4Y9BJZccHjVdHUkee0pBRa"
     }
   ],
   "unique_name": "This Is Kirk Franklin",

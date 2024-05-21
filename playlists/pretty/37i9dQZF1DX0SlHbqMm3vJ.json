@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Tomi Owo",
-  "num_followers": 228479,
+  "num_followers": 228546,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -295,22 +295,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Romeo Must Die (RMD)",
-        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+        "name": "Holy Ghost",
+        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Romeo Must Die (RMD)",
-      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
+      "duration_ms": 186153,
+      "name": "Holy Ghost",
+      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -375,22 +371,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Holy Ghost",
-        "url": "https://open.spotify.com/album/2mjQFCTzCQ3Up4RWHHpKMm"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 186153,
-      "name": "Holy Ghost",
-      "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -427,22 +407,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Sad Romance",
-        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164121,
-      "name": "by now",
-      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Hold You Down",
         "url": "https://open.spotify.com/album/2GYVBRo8ElxaGoBtKbNVG0"
       },
@@ -459,6 +423,42 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Sad Romance",
+        "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164121,
+      "name": "by now",
+      "url": "https://open.spotify.com/track/3rRKu7N2zRgb0pF9DLrrBI"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Romeo Must Die (RMD)",
+        "url": "https://open.spotify.com/album/4Q2RjSDGbmXumbrTQTEYd3"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Romeo Must Die (RMD)",
+      "url": "https://open.spotify.com/track/10TygH7MoyZQFRMPDE2N6Z"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1003,6 +1003,30 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Reset (feat. Crayon & Bella Shmurda)",
+        "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
+      },
+      "artists": [
+        {
+          "name": "JayO",
+          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163271,
+      "name": "Reset (feat. Crayon & Bella Shmurda)",
+      "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Ma Cherie",
         "url": "https://open.spotify.com/album/3ByyPk478xVoajmKEHUFcr"
       },
@@ -1031,30 +1055,6 @@
       "duration_ms": 182307,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Reset (feat. Crayon & Bella Shmurda)",
-        "url": "https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA"
-      },
-      "artists": [
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163271,
-      "name": "Reset (feat. Crayon & Bella Shmurda)",
-      "url": "https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1421,6 +1421,22 @@
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
     },
     {
+      "added_at": "2024-05-17 10:49:28",
+      "album": {
+        "name": "Palava",
+        "url": "https://open.spotify.com/album/3we5MjWRa9RX9IrYS6kDqW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "Palava",
+      "url": "https://open.spotify.com/track/5JJCbMb6uI7vbifC6skGf3"
+    },
+    {
       "added_at": "2024-05-17 00:01:00",
       "album": {
         "name": "Old",
@@ -1435,22 +1451,6 @@
       "duration_ms": 251254,
       "name": "Old",
       "url": "https://open.spotify.com/track/5NqUNHSCMW7ikeHXGFVIbN"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 160611,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160611,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -1491,30 +1507,6 @@
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
     }
   ],
   "unique_name": "Ginger Me",

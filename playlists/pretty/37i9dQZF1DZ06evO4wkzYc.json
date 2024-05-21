@@ -1,12 +1,12 @@
 {
-  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
-  "num_followers": 117172,
+  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
+  "num_followers": 117267,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAvVxJqr8nV7M4DXHNTmxlQ",
+  "snapshot_id": "ZklBAAAAAAAbiYv3/W/ygq81dajg6AJV",
   "tracks": [
     {
       "added_at": null,
@@ -771,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/0Jzq42fDyl8JrXRlhSfPIj"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 265899,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa Que Amarre (En Vivo)",
         "url": "https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 256519,
       "name": "Seraf\u00edn - En Vivo",
       "url": "https://open.spotify.com/track/6aFS8Lvqlbtgt0EchjOsd2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/0Jzq42fDyl8JrXRlhSfPIj"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 265899,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/3Zpx6R4PODhw1XNQCA5ik4"
     },
     {
       "added_at": null,

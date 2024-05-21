@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 459146,
+  "num_followers": 459202,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Salon Victoria",
+        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
+      },
+      "artists": [
+        {
+          "name": "Salon Victoria",
+          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "Maldita Soledad",
+      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Rompecabezas (feat. NATURE)",
         "url": "https://open.spotify.com/album/1NArE1RQb0IoIYGnhw5Ixu"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 276932,
       "name": "Rompecabezas (feat. NATURE)",
       "url": "https://open.spotify.com/track/5jE7DHWEY9A51mloK9rMhj"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Salon Victoria",
-        "url": "https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o"
-      },
-      "artists": [
-        {
-          "name": "Salon Victoria",
-          "url": "https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "Maldita Soledad",
-      "url": "https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 240072,
-      "name": "Ojos Caf\u00e9s",
-      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Devuelve El Tiempo?",
         "url": "https://open.spotify.com/album/2AQPM37cUxM9NK8v8pCZer"
       },
@@ -931,22 +915,6 @@
       "duration_ms": 210164,
       "name": "Qui\u00e9n devuelve el tiempo?",
       "url": "https://open.spotify.com/track/2NjO7h3J6rimKuRuzEMtzZ"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Flores para los Muertos",
-        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
-      },
-      "artists": [
-        {
-          "name": "Nana Pancha",
-          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
-        }
-      ],
-      "duration_ms": 217133,
-      "name": "Nada Que Perder",
-      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -971,18 +939,50 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Jaula De Grillos",
-        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
       "artists": [
         {
-          "name": "The Locos",
-          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
         }
       ],
-      "duration_ms": 257959,
-      "name": "Resistir\u00e9",
-      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
+      "duration_ms": 240072,
+      "name": "Ojos Caf\u00e9s",
+      "url": "https://open.spotify.com/track/7CfOeohPQbV2tLBafGGnnv"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Flores para los Muertos",
+        "url": "https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV"
+      },
+      "artists": [
+        {
+          "name": "Nana Pancha",
+          "url": "https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Nada Que Perder",
+      "url": "https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+        "name": "Jaula De Grillos",
+        "url": "https://open.spotify.com/album/7BJg6HHSFKhRDadPGoRz82"
       },
       "artists": [
         {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+          "name": "The Locos",
+          "url": "https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx"
         }
       ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
+      "duration_ms": 257959,
+      "name": "Resistir\u00e9",
+      "url": "https://open.spotify.com/track/2yV2H6tLETd64BapUezE95"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Siempre Fingiste Amarme",
+        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 237527,
+      "name": "Siempre Fingiste Amarme",
+      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "El \u00c1tico",
         "url": "https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm"
       },
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Siempre Fingiste Amarme",
-        "url": "https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 237527,
-      "name": "Siempre Fingiste Amarme",
-      "url": "https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Frecuencia Extrema",
         "url": "https://open.spotify.com/album/4JrqAwLYv9qODsJ8QogUbA"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El Enemigo",
-        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
-      },
-      "artists": [
-        {
-          "name": "Sat\u00e9lite Kingston",
-          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "La \u00daltimo Carta",
-      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Flamingo",
         "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 162930,
       "name": "Ska en la Playa",
       "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "El Enemigo",
+        "url": "https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy"
+      },
+      "artists": [
+        {
+          "name": "Sat\u00e9lite Kingston",
+          "url": "https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "La \u00daltimo Carta",
+      "url": "https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Paz y Baile",
-        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
-      },
-      "artists": [
-        {
-          "name": "Roco Pachukote",
-          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
-        },
-        {
-          "name": "Flavio Cianciarulo",
-          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Paz y Baile",
-      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "5 A\u00f1os Con Sabor a 20",
         "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 151500,
       "name": "Que Se Joda el Amor",
       "url": "https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Paz y Baile",
+        "url": "https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr"
+      },
+      "artists": [
+        {
+          "name": "Roco Pachukote",
+          "url": "https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA"
+        },
+        {
+          "name": "Flavio Cianciarulo",
+          "url": "https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Paz y Baile",
+      "url": "https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Antih\u00e9roes",
-        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
-      },
-      "artists": [
-        {
-          "name": "Los Intocables",
-          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
-        }
-      ],
-      "duration_ms": 199106,
-      "name": "Criminales Sudamericanos",
-      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Este Ritmo",
         "url": "https://open.spotify.com/album/4e1fIYgX0uRHAoq7Fl0kQp"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 167128,
       "name": "Este Ritmo",
       "url": "https://open.spotify.com/track/4xVhnIGR1UUjnTIBDs5EOX"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Antih\u00e9roes",
+        "url": "https://open.spotify.com/album/6VLbykpS9CuA5RE03ab8yd"
+      },
+      "artists": [
+        {
+          "name": "Los Intocables",
+          "url": "https://open.spotify.com/artist/1DVzzjpINLQBDKIF4FRPrD"
+        }
+      ],
+      "duration_ms": 199106,
+      "name": "Criminales Sudamericanos",
+      "url": "https://open.spotify.com/track/1DzEPtqVgNL85O0mwtOAk4"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "El Tren",
+        "url": "https://open.spotify.com/album/4giecHJ5HxJ4mucYR3UByK"
+      },
+      "artists": [
+        {
+          "name": "Los Inconformes",
+          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
+        }
+      ],
+      "duration_ms": 196845,
+      "name": "El Tren",
+      "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Historias de amor y otras mierdas",
         "url": "https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 190147,
       "name": "Somos amigos",
       "url": "https://open.spotify.com/track/6V3zMRLRCSOQtAJG8wVybk"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "El Tren",
-        "url": "https://open.spotify.com/album/4giecHJ5HxJ4mucYR3UByK"
-      },
-      "artists": [
-        {
-          "name": "Los Inconformes",
-          "url": "https://open.spotify.com/artist/2GsBHM8eT99Z1g0cqBSeYy"
-        }
-      ],
-      "duration_ms": 196845,
-      "name": "El Tren",
-      "url": "https://open.spotify.com/track/5mIJFCipaJ8IqFe5bNH56S"
     },
     {
       "added_at": "2024-05-03 06:00:00",

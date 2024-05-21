@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,537 likes - 17 songs - 43 min 31 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 19,541 likes - 21 songs - 55 min 7 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,9 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [The Duke Of Burgundy](https://open.spotify.com/track/5FCJpFKaJrPrXy8YyK9vBG) | [Cat's Eyes](https://open.spotify.com/artist/6DdzNsmghFtH7toJKhQfF6) | [The Duke Of Burgundy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L2QXOFpMeZaU2xxJXZPur) | 2:18 |
 | 16 | [Sunny](https://open.spotify.com/track/7LQDZxNGroDz0eg0Vyb2av) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 1:46 |
 | 17 | [I'm Sorry I Left Him To Bleed](https://open.spotify.com/track/7AwMd4z4jV8p5A791fxD7A) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [So Medieval](https://open.spotify.com/album/5gpglBxq454hY07XTJpJ5C) | 2:47 |
+| 18 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 |
+| 19 | [Bird Sanctuary](https://open.spotify.com/track/1Ymtftt6QMLElD15yVmTQO) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Bird Sanctuary](https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN) | 2:12 |
+| 20 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 |
+| 21 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 |
 
-Snapshot ID: `AAAKZR3ZaMISGHtrArAA5rsDpr5R3Bgx`
+Snapshot ID: `AAAKaKc/XdQEsex8a5pYdZ/TcELFMj+8`

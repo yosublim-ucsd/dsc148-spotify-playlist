@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: The Story So Far
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,398 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,437 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 17 | [Big Blind](https://open.spotify.com/track/5IiyHmNFsTx6PLI2diNH98) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [Big Blind](https://open.spotify.com/album/1XMyj6Y85Sp1J4y4FHcELm) | 2:24 |
 | 18 | [EDGING](https://open.spotify.com/track/2wVWGFVkL5I3JGsoWBx2AZ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [EDGING](https://open.spotify.com/album/0EspGdWdoWAxa5mBdQ5z55) | 2:31 |
 | 19 | [GODDAMNITALL](https://open.spotify.com/track/1zXT1kn3JooDmW88EpqVVr) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [GODDAMNITALL](https://open.spotify.com/album/70YBG1iQdOixvsqS2UVRPP) | 3:16 |
-| 20 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
-| 21 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
+| 20 | [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \[vol\. 5\]](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 |
+| 21 | ["good guy"](https://open.spotify.com/track/3bfElZNhtvtGvWMVgCBgZK) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | ["good guy"](https://open.spotify.com/album/6bj1lsHiVqvJyqjv7qtrV4) | 3:28 |
 | 22 | [KILL\[H\]ER](https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [KILL\[H\]ER](https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL) | 2:25 |
 | 23 | [A Part Is Better Than Zero](https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc), [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI), [Tades Sanville](https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0) | [Lessons That We Swear to Keep](https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt) | 2:51 |
 | 24 | [MARRY KILL F\*CK//](https://open.spotify.com/track/71MVjTIeOQzPkEmfgL3uNc) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [BLINK AND YOU'LL MISS IT//](https://open.spotify.com/album/2Vs2Tn2p7N3KZGEnUmXFdp) | 2:48 |
-| 25 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
-| 26 | [Sour](https://open.spotify.com/track/1eEq2illl2lZlqawke83S8) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Sour](https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ) | 2:45 |
+| 25 | [Sour](https://open.spotify.com/track/1eEq2illl2lZlqawke83S8) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [Sour](https://open.spotify.com/album/5M1Sl7MWUVktekMDVKZweJ) | 2:45 |
+| 26 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
 | 27 | [Fuck You](https://open.spotify.com/track/7fGGZSUU5Uja2A8dvmS9l9) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Fuck You](https://open.spotify.com/album/2Sdh5caZ8hEFIbQGXY4p6e) | 2:57 |
 | 28 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
 | 29 | [Everything Sucks](https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Certified Depressant](https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH) | 3:20 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 64 | [Six Feet](https://open.spotify.com/track/2aU60JTvtQOPQ7CPkpJrnz) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Six Feet](https://open.spotify.com/album/1xFWyudHW6mEh3WYHPRRSI) | 3:01 |
 | 65 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 |
 | 66 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
-| 67 | [Joan of Hill](https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Joan of Hill](https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr) | 4:13 |
-| 68 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
-| 69 | [must be nice \(metaphorically speaking\)](https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV) | 2:57 |
+| 67 | [must be nice \(metaphorically speaking\)](https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV) | 2:57 |
+| 68 | [Joan of Hill](https://open.spotify.com/track/0SgfCKFbTlNj1bjQglw00K) | [Carly Cosgrove](https://open.spotify.com/artist/4h3DxZa1JxZhSB1a64ziKx) | [Joan of Hill](https://open.spotify.com/album/4KAgUeKNIsSzOsh0ZOf7Lr) | 4:13 |
+| 69 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
 | 70 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 71 | [Who You Used to Be](https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Space to Heal](https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y) | 3:17 |
 | 72 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 |

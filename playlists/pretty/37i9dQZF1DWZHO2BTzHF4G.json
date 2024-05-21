@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34952,
+  "num_followers": 34955,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 303920,
-      "name": "Blurry",
-      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "The Madding Crowd",
         "url": "https://open.spotify.com/album/4BcmNEt6VK0KBVsVY8yClD"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 189333,
       "name": "Absolutely (Story of a Girl) - Radio Mix",
       "url": "https://open.spotify.com/track/3mNecsYFb6LQg7822DPXCP"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 303920,
+      "name": "Blurry",
+      "url": "https://open.spotify.com/track/0FLBNqc5oAiTt4J2e3fe3y"
     },
     {
       "added_at": "2021-04-09 06:36:41",

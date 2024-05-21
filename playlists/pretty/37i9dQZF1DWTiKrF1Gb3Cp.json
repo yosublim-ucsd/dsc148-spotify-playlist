@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 202939,
+  "num_followers": 202986,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -231,26 +231,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Bling Bling",
-        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        }
-      ],
-      "duration_ms": 162649,
-      "name": "Bling Bling",
-      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 235061,
       "name": "Pixelados",
       "url": "https://open.spotify.com/track/77phWAt2l34OadUUUqi5ai"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Bling Bling",
+        "url": "https://open.spotify.com/album/4LxiVBlQPYvmhx6UR4CIWy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        }
+      ],
+      "duration_ms": 162649,
+      "name": "Bling Bling",
+      "url": "https://open.spotify.com/track/5B8FWDSKUT5Ui1CsCfopWh"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -375,22 +375,38 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Mafiosa",
-        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 170237,
-      "name": "Mafiosa",
-      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
+      "duration_ms": 183797,
+      "name": "El Menos Visto",
+      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -415,38 +431,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+        "name": "Mafiosa",
+        "url": "https://open.spotify.com/album/6qazRFZrvM3k9n8pzF1ob5"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 183797,
-      "name": "El Menos Visto",
-      "url": "https://open.spotify.com/track/6iC4fHzpEwug1iNFnNfhOy"
+      "duration_ms": 170237,
+      "name": "Mafiosa",
+      "url": "https://open.spotify.com/track/5LXnSZVJ3kvi0MpA4ryjIb"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -539,6 +539,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Mexicano",
+      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "SI SABE",
         "url": "https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF"
       },
@@ -575,22 +595,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Mal Ejemplo, Vol. 3",
-        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        }
-      ],
-      "duration_ms": 302576,
-      "name": "Mal Ejemplo",
-      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Aleman: Bzrp Music Sessions, Vol. 15",
         "url": "https://open.spotify.com/album/3clF95vv6O71LUshRmF2q8"
       },
@@ -611,22 +615,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/4n56qxAOz6RDbCR4BE73rt"
+        "name": "Mal Ejemplo, Vol. 3",
+        "url": "https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow"
       },
       "artists": [
         {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Mexicano",
-      "url": "https://open.spotify.com/track/3Jm4jlq8Tl9ejmyVBwmSQ2"
+      "duration_ms": 302576,
+      "name": "Mal Ejemplo",
+      "url": "https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -703,18 +703,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Clasificacion C Vol.1",
-        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
+        "name": "Qui\u00faboles Que!",
+        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
       },
       "artists": [
         {
           "name": "C-Kan",
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 228092,
-      "name": "Un Par De Balas",
-      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
+      "duration_ms": 221541,
+      "name": "Qui\u00faboles Que",
+      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -835,22 +839,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Qui\u00faboles Que!",
-        "url": "https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK"
+        "name": "Clasificacion C Vol.1",
+        "url": "https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ"
       },
       "artists": [
         {
           "name": "C-Kan",
           "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "Dharius",
-          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
         }
       ],
-      "duration_ms": 221541,
-      "name": "Qui\u00faboles Que",
-      "url": "https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj"
+      "duration_ms": 228092,
+      "name": "Un Par De Balas",
+      "url": "https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "El de Villa Union",
-        "url": "https://open.spotify.com/album/59SneEeDWmX2aIhjgzTHvf"
+        "name": "Categor\u00eda 5 / Hurac\u00e1n",
+        "url": "https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP"
       },
       "artists": [
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
-      "duration_ms": 159338,
-      "name": "El de Villa Union",
-      "url": "https://open.spotify.com/track/79vGxsaA35ZVEZmO9vYfCn"
+      "duration_ms": 165714,
+      "name": "Categor\u00eda 5 / Hurac\u00e1n",
+      "url": "https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1503,18 +1503,34 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Categor\u00eda 5 / Hurac\u00e1n",
-        "url": "https://open.spotify.com/album/3ev9hisOVt2otphJBHiJGP"
+        "name": "El de Villa Union",
+        "url": "https://open.spotify.com/album/59SneEeDWmX2aIhjgzTHvf"
       },
       "artists": [
         {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 165714,
-      "name": "Categor\u00eda 5 / Hurac\u00e1n",
-      "url": "https://open.spotify.com/track/1WvJiky1CYAy6ZhhBVrckj"
+      "duration_ms": 159338,
+      "name": "El de Villa Union",
+      "url": "https://open.spotify.com/track/79vGxsaA35ZVEZmO9vYfCn"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1535,22 +1551,6 @@
       "duration_ms": 140063,
       "name": "El r\u00e1pido y la muerte",
       "url": "https://open.spotify.com/track/1IsSTMD9AL0wokF1pfxiyd"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1611,6 +1611,38 @@
       "duration_ms": 150517,
       "name": "Toretto",
       "url": "https://open.spotify.com/track/2LhnVbBHUWyrDQ4m1LCPvo"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Humo en la Trampa 2",
+        "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Dee",
+          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "Yoga Fire",
+          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
+        },
+        {
+          "name": "Muelas De Gallo",
+          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
+        }
+      ],
+      "duration_ms": 250052,
+      "name": "Humo en la Trampa 2",
+      "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1707,38 +1739,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Humo en la Trampa 2",
-        "url": "https://open.spotify.com/album/48081X2ns6kHKFS84IowXl"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Dee",
-          "url": "https://open.spotify.com/artist/1jVhcHIGJuk16eqY1Mdtuk"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        },
-        {
-          "name": "Yoga Fire",
-          "url": "https://open.spotify.com/artist/3AgxRYe2kXEfsZyB07hqJF"
-        },
-        {
-          "name": "Muelas De Gallo",
-          "url": "https://open.spotify.com/artist/5ET6v0l25osw5BzztPsMvD"
-        }
-      ],
-      "duration_ms": 250052,
-      "name": "Humo en la Trampa 2",
-      "url": "https://open.spotify.com/track/065JTu6FDKNlE9g5sUt1sh"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Sabadrugs",
         "url": "https://open.spotify.com/album/4DjsNnuINp4iwMarVMSvJC"
       },
@@ -1779,22 +1779,6 @@
       "duration_ms": 157090,
       "name": "El Corrido Del MC",
       "url": "https://open.spotify.com/track/4yV80LJGxo6LxrTRglFyLJ"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Fe",
-        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
-      },
-      "artists": [
-        {
-          "name": "Lefty Sm",
-          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Fe",
-      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1867,6 +1851,22 @@
       "duration_ms": 169805,
       "name": "Malo Es No Hacer Billete",
       "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Fe",
+        "url": "https://open.spotify.com/album/0Roxdafecg5p3VQXUBfNkP"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Fe",
+      "url": "https://open.spotify.com/track/5E3DUwke6Or4h5rosrn5Z1"
     },
     {
       "added_at": "2024-05-03 06:00:00",

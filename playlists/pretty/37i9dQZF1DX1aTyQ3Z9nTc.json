@@ -1,6 +1,6 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 134536,
+  "num_followers": 134540,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 157722,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
         "name": "Grudges",
         "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 213987,
       "name": "Gone (with Bryson Tiller)",
       "url": "https://open.spotify.com/track/3sQWzLuYeu8dOVTrYwkFlf"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Someone",
-        "url": "https://open.spotify.com/album/7z8nmUqOyoQSdUgnB0TPZN"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 157722,
-      "name": "Someone",
-      "url": "https://open.spotify.com/track/7mJuTUAyp8EWh15UEoP8a8"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Can't Fake What You Feel",
-        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
+        "name": "EL SUR",
+        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
       },
       "artists": [
         {
-          "name": "Jordan Hawkins",
-          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
         }
       ],
-      "duration_ms": 171052,
-      "name": "Can't Fake What You Feel",
-      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
+      "duration_ms": 186299,
+      "name": "BOMBAY",
+      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1095,18 +1091,22 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "EL SUR",
-        "url": "https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz"
+        "name": "Can't Fake What You Feel",
+        "url": "https://open.spotify.com/album/0xHIoMRaY6G1O4HRRNbQMG"
       },
       "artists": [
         {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+          "name": "Jordan Hawkins",
+          "url": "https://open.spotify.com/artist/70XiOMiwBAHHspwHrkxlJY"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 186299,
-      "name": "BOMBAY",
-      "url": "https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11"
+      "duration_ms": 171052,
+      "name": "Can't Fake What You Feel",
+      "url": "https://open.spotify.com/track/2LPOh5ANJBPtPpixYxG4qq"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
-        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 157213,
-      "name": "WOW!",
-      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "PHASE",
         "url": "https://open.spotify.com/album/5f7lK2rnGTaYR9glkOfauH"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 193000,
       "name": "2MANYTHINGS",
       "url": "https://open.spotify.com/track/2UJmIGvY7F7COPBtiwL4K9"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Am\u00e9n (The Nomad\u2019s Dream)",
+        "url": "https://open.spotify.com/album/0BBWvsze1fTh8HS6kKQjiD"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 157213,
+      "name": "WOW!",
+      "url": "https://open.spotify.com/track/0F95C4z2gQJ8NigLuO4z4u"
     },
     {
       "added_at": "2023-12-08 05:00:00",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2023-12-08 05:00:00",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
-      },
-      "artists": [
-        {
-          "name": "Godblesscomputers",
-          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
-        }
-      ],
-      "duration_ms": 225937,
-      "name": "Mirrors",
-      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
-    },
-    {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
         "name": "Cruisin'",
         "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 207194,
       "name": "Cruisin'",
       "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/2UkMebjhDLVDDFGZg2kEPY"
+      },
+      "artists": [
+        {
+          "name": "Godblesscomputers",
+          "url": "https://open.spotify.com/artist/3RReFwkOnOSrIkk826uxJT"
+        }
+      ],
+      "duration_ms": 225937,
+      "name": "Mirrors",
+      "url": "https://open.spotify.com/track/5Fn84Bv2RuSP8J0cQfS0zK"
     },
     {
       "added_at": "2023-12-08 05:00:00",

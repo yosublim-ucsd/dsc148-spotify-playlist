@@ -4,7 +4,7 @@
 
 > wo hen lei \(i'm very tired\)
 
-374 songs - 20 hr 22 min
+375 songs - 20 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Fast Slow](https://open.spotify.com/track/0qy89dr3XdSj7vWAFZfb3u) | [Narysal](https://open.spotify.com/artist/26iQVSr3VdWWAzy7fiN908) | [Fast Slow](https://open.spotify.com/album/4I63w2m2k9qIFMDV3MyeeF) | 3:14 | 2022-05-27 | 2022-06-04 |
 | [Favourite Things](https://open.spotify.com/track/3yLvho9l5OtwBoYcOAiYkm) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Favourite Things](https://open.spotify.com/album/694HK0mKW6MaQaEaGiQjon) | 2:53 | 2022-05-27 | 2022-07-29 |
 | [Favourite Things](https://open.spotify.com/track/5qDfGiZz9Soxb9Xn2jQ8hk) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [Favourite Things](https://open.spotify.com/album/2ZYa2kgcZsK7fiNPXurRyg) | 2:53 | 2022-07-10 | 2024-04-19 |
-| [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-04-12 |  |
+| [Feel The Same](https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB), [ANNÉ](https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf) | [Feel The Same](https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV) | 2:52 | 2024-04-12 | 2024-05-21 |
 | [Find Me](https://open.spotify.com/track/1jj10r2Ra8SkfLjcfqZpw7) | [Benjamin Kheng](https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO) | [A Sea That Never Stops](https://open.spotify.com/album/0HzLcxaTQkEdWSEraRAvKZ) | 3:19 | 2022-05-27 | 2022-07-28 |
 | [Fix \(Acoustic\)](https://open.spotify.com/track/0Pcw5iOYMB6vVjobuCNnsR) | [DEON](https://open.spotify.com/artist/2m3AQebiU86qWsrwG9Y6gN), [Shohey Uemura](https://open.spotify.com/artist/0I3pApw5jL765ZjkdcLDjL) | [Fix \(Acoustic\)](https://open.spotify.com/album/6R0PNQ6oOK05MtWciMIC73) | 3:31 | 2022-05-27 | 2022-07-27 |
 | [Fly Me To The Sun](https://open.spotify.com/track/6UsNGfDVuoMhbgkmdWRvnz) | [Romantic Echoes](https://open.spotify.com/artist/3VDwfryUiGGszWpyzpwDGJ) | [Fly Me To The Sun](https://open.spotify.com/album/3rA2enTCB87keTrwFKcncI) | 4:34 | 2022-06-25 | 2022-09-10 |
@@ -175,6 +175,7 @@
 | [janji kita bertemu lagi](https://open.spotify.com/track/5JO9dDda0tqXhPOhA6y4VL) | [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [janji kita bertemu lagi](https://open.spotify.com/album/24GLmkNtjkUQaEUFQsjoDB) | 4:18 | 2023-02-21 | 2023-04-11 |
 | [juice](https://open.spotify.com/track/0W1jDXkALMfPqheeSEEk5x) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [juice](https://open.spotify.com/album/6DY3UVNU1qvSjY4HIiLkP2) | 3:15 | 2022-07-10 | 2024-04-27 |
 | [Kaleidoscope](https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [Kaleidoscope](https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj) | 3:27 | 2023-10-16 |  |
+| [Kantoi](https://open.spotify.com/track/4lWTmfcJM1Y9qbq3jdC5WN) | [Zee Avi](https://open.spotify.com/artist/6zGcYBjlNOMSVVrl7ZoGsH) | [Zee Avi](https://open.spotify.com/album/3ZMkXIsa2NtN3ToY4xQp4X) | 1:44 | 2024-04-12 |  |
 | [Killer](https://open.spotify.com/track/0skOmSnfoOEOjCvkkvymhz) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Killer](https://open.spotify.com/album/1PAYLLRK9lMJQVZlWpPkjr) | 3:18 | 2022-05-27 |  |
 | [Kotak Hati](https://open.spotify.com/track/0hS54SC4TZFc3N7cSuTz48) | [Hujan](https://open.spotify.com/artist/7FxVB5xQi2szfC6Us1ag9A) | [Lonely Soldier Boy](https://open.spotify.com/album/0iSpXXAw1Sm4RCvjNOKdUL) | 4:52 | 2022-07-10 |  |
 | [La Di Da](https://open.spotify.com/track/2LW6Tgz0V7wkgu2MyYQ0gT) | [Dru Chen](https://open.spotify.com/artist/0n1n8JVg3vec8svJHivjnf), [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [Slow Life](https://open.spotify.com/album/0EFFIox3JkWPvueHyF2mII) | 2:37 | 2022-06-03 | 2022-06-06 |

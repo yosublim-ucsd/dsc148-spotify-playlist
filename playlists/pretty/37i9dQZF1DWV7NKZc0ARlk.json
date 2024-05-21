@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos del pop suenan mejor en vivo. Foto: Thalia ",
-  "num_followers": 180246,
+  "num_followers": 180527,
   "original_name": "Vivo de Pop",
   "owner": {
     "name": "Spotify",
@@ -326,11 +326,15 @@
         {
           "name": "Thalia",
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 244440,
-      "name": "Equivocada - Live Version",
-      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
+      "duration_ms": 277946,
+      "name": "Estoy Enamorado (with Pedro Cap\u00f3) - Live Version",
+      "url": "https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ"
     },
     {
       "added_at": "2024-03-12 17:53:16",
@@ -474,15 +478,11 @@
         {
           "name": "Thalia",
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 277946,
-      "name": "Estoy Enamorado (with Pedro Cap\u00f3) - Live Version",
-      "url": "https://open.spotify.com/track/4N9gzwamSUhe9oRuWgnmfJ"
+      "duration_ms": 244440,
+      "name": "Equivocada - Live Version",
+      "url": "https://open.spotify.com/track/4ToSegPTNl2894LRte8ice"
     },
     {
       "added_at": "2024-03-12 17:53:16",

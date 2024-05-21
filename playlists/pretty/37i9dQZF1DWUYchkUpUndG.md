@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=OjrIFgLtRMm0JUQc8leOKQ>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,238 likes - 101 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,326 likes - 101 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

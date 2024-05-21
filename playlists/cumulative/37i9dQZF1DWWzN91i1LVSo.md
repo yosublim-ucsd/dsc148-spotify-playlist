@@ -4,12 +4,13 @@
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-162 songs - 9 hr 27 min
+163 songs - 9 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16](https://open.spotify.com/track/2luW7izSskdyIvkYpLvOm7) | [Eliza McLamb](https://open.spotify.com/artist/5jy9tglmQRLmTmcqz2qyUa) | [16](https://open.spotify.com/album/5f32MCcDKLC66Nj2KZovo8) | 3:24 | 2023-12-08 | 2024-02-24 |
 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 | 2023-12-08 |  |
+| [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2024-05-10 |  |
 | [Acoustic](https://open.spotify.com/track/1kJygfS4eoVziBBI93MSYp) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 2:52 | 2023-12-08 | 2024-04-19 |
 | [After Rain](https://open.spotify.com/track/5fQa04cwDF11Giq5N2tGdU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [After Rain](https://open.spotify.com/album/7bz0csv8S71eFRnWuopQsA) | 4:54 | 2023-12-08 | 2024-02-28 |
 | [After Rain](https://open.spotify.com/track/7kWHR2y33EYRT9Z4SVGWvx) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Dermot Kennedy](https://open.spotify.com/album/0JF97yTibdYQh25AaFuioF) | 4:54 | 2024-02-23 | 2024-04-19 |
@@ -38,7 +39,7 @@
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2023-12-08 | 2024-04-19 |
 | [Colors](https://open.spotify.com/track/4Zarrcq9Ir58UaMp9n3mbC) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/3y1HiZb2e8rIP4nWMKJRFi) | 3:11 | 2023-12-08 | 2024-03-19 |
 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 | 2024-02-23 |  |
-| [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-12-08 |  |
+| [Cool Girl](https://open.spotify.com/track/2tUNei764lfvJFW7zFxrOC) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [One Sided](https://open.spotify.com/album/4UCViwHbqPqRIIgYpCj4sy) | 3:00 | 2023-12-08 | 2024-05-21 |
 | [Count On Me](https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [The Hating Game \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5) | 3:16 | 2024-02-23 | 2024-05-13 |
 | [crutches](https://open.spotify.com/track/2uYrwng9hHkJzUSfA2DyEq) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [last one standing](https://open.spotify.com/album/6Z9jGoHDJ1Uaw5PXK35AoV) | 2:30 | 2023-12-08 |  |
 | [Dear August](https://open.spotify.com/track/6IOxwhhSrFl9tHPjbRvpG0) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:20 | 2024-02-23 |  |

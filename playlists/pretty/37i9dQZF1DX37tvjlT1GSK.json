@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Octavio Cuadras en portada. ",
-  "num_followers": 799433,
+  "num_followers": 799447,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "No Le Aflojo",
-        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
+        "name": "Andamos Mejor",
+        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 202875,
-      "name": "No Le Aflojo",
-      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+      "duration_ms": 137183,
+      "name": "Andamos Mejor",
+      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -879,6 +875,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -899,24 +911,8 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Andamos Mejor",
-        "url": "https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf"
+        "name": "Si Me Ven",
+        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
       },
       "artists": [
         {
@@ -924,9 +920,9 @@
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
         }
       ],
-      "duration_ms": 137183,
-      "name": "Andamos Mejor",
-      "url": "https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD"
+      "duration_ms": 174432,
+      "name": "Si Me Ven",
+      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1067,18 +1063,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Si Me Ven",
-        "url": "https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r"
+        "name": "No Le Aflojo",
+        "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
       "artists": [
         {
           "name": "Los Gemelos De Sinaloa",
           "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 174432,
-      "name": "Si Me Ven",
-      "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
+      "duration_ms": 202875,
+      "name": "No Le Aflojo",
+      "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Dijeron Que No La Iba Lograr",
-        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
-      },
-      "artists": [
-        {
-          "name": "Chino Pacas",
-          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 113019,
-      "name": "Dijeron Que No La Iba Lograr",
-      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Dijeron Que No La Iba Lograr",
+        "url": "https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g"
+      },
+      "artists": [
+        {
+          "name": "Chino Pacas",
+          "url": "https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 113019,
+      "name": "Dijeron Que No La Iba Lograr",
+      "url": "https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Bulgari",
-        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 164115,
-      "name": "Bulgari",
-      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Sanar\u00e9",
         "url": "https://open.spotify.com/album/4oFd2PuZH8JemEU6PkVHri"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 141310,
       "name": "Sanar\u00e9",
       "url": "https://open.spotify.com/track/2PsTpCnM7WaPLLqV8kNdVf"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Bulgari",
+        "url": "https://open.spotify.com/album/45ZlbCSRXgnaXXFtuyPK0L"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 164115,
+      "name": "Bulgari",
+      "url": "https://open.spotify.com/track/3oyAdshJjWTHd15A0fduYj"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 126160,
+      "name": "VIDA DE FAMOSO",
+      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Hasta el D\u00eda de Hoy (En Vivo)",
         "url": "https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5"
       },
@@ -1783,34 +1799,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+        "name": "Morro Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt"
       },
       "artists": [
         {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 126160,
-      "name": "VIDA DE FAMOSO",
-      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Modo Cherry",
-        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
-      },
-      "artists": [
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
         {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+          "name": "HERNAN TREJO",
+          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
         }
       ],
-      "duration_ms": 171328,
-      "name": "Modo Cherry",
-      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
+      "duration_ms": 145000,
+      "name": "Morro Cabr\u00f3n",
+      "url": "https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1859,22 +1863,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Morro Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/2q25A7GOB0fuv9e9ZPDlEt"
+        "name": "Modo Cherry",
+        "url": "https://open.spotify.com/album/1HtYRBV05f66fx89bQbSaO"
       },
       "artists": [
         {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "HERNAN TREJO",
-          "url": "https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD"
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Morro Cabr\u00f3n",
-      "url": "https://open.spotify.com/track/2iLtkxW5ewRhBStbEGM1nB"
+      "duration_ms": 171328,
+      "name": "Modo Cherry",
+      "url": "https://open.spotify.com/track/2NFeRpqiuM24sqMCSCvbDK"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1975,26 +1975,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Saludones a Mi Ap\u00e1",
-        "url": "https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o"
-      },
-      "artists": [
-        {
-          "name": "miguel cornejo",
-          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
-        },
-        {
-          "name": "Tony Aguirre",
-          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
-        }
-      ],
-      "duration_ms": 152875,
-      "name": "Saludones a Mi Ap\u00e1",
-      "url": "https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "No Est\u00e1 Funcionando",
         "url": "https://open.spotify.com/album/1K6oFJMQ8v17VVGWA8AALU"
       },
@@ -2015,6 +1995,26 @@
       "duration_ms": 161332,
       "name": "No Est\u00e1 Funcionando",
       "url": "https://open.spotify.com/track/3fh2N8IxMdIBCX1rN7XrZG"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Saludones a Mi Ap\u00e1",
+        "url": "https://open.spotify.com/album/0RgOoUb2PLAmL2cnJhDR7o"
+      },
+      "artists": [
+        {
+          "name": "miguel cornejo",
+          "url": "https://open.spotify.com/artist/67s0oOKE73W45e5UawllhS"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "duration_ms": 152875,
+      "name": "Saludones a Mi Ap\u00e1",
+      "url": "https://open.spotify.com/track/6XLZ0Z3FpfDgJQpiscs6Au"
     },
     {
       "added_at": "2024-05-03 06:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,167 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,166 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 54 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
 | 55 | [Ugly Orange](https://open.spotify.com/track/4O2JBu39WoNet8tz3xOS2P) | [yes/and](https://open.spotify.com/artist/7IxiRbidPWbGcs1K14lf98) | [Ugly Orange](https://open.spotify.com/album/5nRm1J2j9EqyHZrYVFCnho) | 4:19 |
 | 56 | [In a Cistern](https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [In a Cistern b/w Into Clouds](https://open.spotify.com/album/6xlCxwfhcHoAB9QFPltjU3) | 4:20 |
-| 57 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
-| 58 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
-| 59 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
+| 57 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
+| 58 | [Dreams](https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Dreams](https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT) | 5:16 |
+| 59 | [Spiral Era](https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [Pyramid](https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B) | 8:08 |
 | 60 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 |
-| 61 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 |
-| 62 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
+| 61 | [Jinja Encounters](https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J) | [KMRU](https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a) | [Logue](https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik) | 3:54 |
+| 62 | [Mira](https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS) | [Eternell](https://open.spotify.com/artist/291RkboHEBrMp5hAsqCnT9) | [Mira](https://open.spotify.com/album/3c89p68JzC9KpphEV6mPCC) | 18:08 |
 | 63 | [Bucolic Architecture \- Flug 8 Remix](https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi) | [Yoann Pisterman](https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A), [Flug 8](https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I) | [Bucolic Architecture \(Flug 8 Remix\)](https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW) | 6:26 |
 | 64 | [THE PERFUMED GARDEN](https://open.spotify.com/track/4gCkomA8CVHrVzSXqDjDfI) | [Celestial](https://open.spotify.com/artist/3SFCZy20vLywkF2KDiwqCk) | [I Had Too Much to Dream Last Night](https://open.spotify.com/album/1MmJmjY9LKhylRSgydvGwJ) | 7:36 |
 | 65 | [Beside April](https://open.spotify.com/track/0ILCCPZp5fXzakTTPsIdR8) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Karriem Riggins](https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Beside April](https://open.spotify.com/album/3jGdsI7EtNflxCUUre7QXP) | 5:13 |

@@ -4,7 +4,7 @@
 
 > Bright, sunny, catchy tunes put a smile on your face\. Cover \- Baar Baar Dekho
 
-216 songs - 13 hr 2 min
+217 songs - 13 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Aashiqana](https://open.spotify.com/track/3fRsS9bXoq2do1sZsHdVmj) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Aashiqana](https://open.spotify.com/album/0hFKoM7m5htBvhbn0zALwW) | 2:33 | 2024-05-13 |  |
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2022-03-09 | 2023-02-02 |
 | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/track/35FFqjqaPv1Fr9B1GtJdZO) | [Harshavardhan Rameshwar](https://open.spotify.com/artist/5CTu6FKerxlvZrsLb6BYaU), [Choir](https://open.spotify.com/artist/1EQLSftgrQ3WMEofBfhlIZ) | [Abrar’s Entry \| Jamal Kudu \(From "ANIMAL"\)](https://open.spotify.com/album/0n0KkxmGPAKTV8udObls8m) | 2:14 | 2023-12-06 | 2024-02-03 |
-| [Achha Lag Raha Hai](https://open.spotify.com/track/4plvShsskQ7Gu8EIxfxHNB) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:02 | 2024-04-26 |  |
+| [Achha Lag Raha Hai](https://open.spotify.com/track/4plvShsskQ7Gu8EIxfxHNB) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Achha Lag Raha Hai](https://open.spotify.com/album/5rSSwWHFO7BDclf2ktbsML) | 3:02 | 2024-04-26 | 2024-05-21 |
+| [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Kausar Munir](https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA), [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa) | [Agar Ho Tum \(From "Mr\. And Mrs\. Mahi"\)](https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2) | 4:13 | 2024-05-20 |  |
 | [Akhiyaan Gulaab](https://open.spotify.com/track/0qPoQiQIhgyMaP7X78hxri) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Teri Baaton Mein Aisa Uljha Jiya](https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz) | 2:51 | 2024-04-09 |  |
 | [Apna Bana Le](https://open.spotify.com/track/5bQ6oDLqvw8tywmnSmwEyL) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Bhediya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/12sC6UjMWz6EaxnzyfCNMe) | 4:21 | 2023-10-25 |  |
 | [Baazi](https://open.spotify.com/track/1vDK1yoxF0mOkckgDfPDj2) | [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU) | [Baazi](https://open.spotify.com/album/2jAqinyiQvDkTg8zFynNEs) | 3:28 | 2022-05-13 | 2023-02-11 |

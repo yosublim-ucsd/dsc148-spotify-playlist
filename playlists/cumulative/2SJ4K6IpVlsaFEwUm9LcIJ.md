@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-156 songs - 7 hr 59 min
+160 songs - 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,10 @@
 | [Bad Energy](https://open.spotify.com/track/4Yey0xw2PmrLzize5wvU1T) | [Little Kid](https://open.spotify.com/artist/3GLx1rqsRp2jtViyRo3Qvz) | [A Million Easy Payments](https://open.spotify.com/album/7lC9Sa2mC5mM3VXhWgf2J5) | 7:29 | 2024-03-12 | 2024-05-16 |
 | [Beginning](https://open.spotify.com/track/3ySR4omemna2bEDRSen2nr) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 1:39 | 2024-05-16 |  |
 | [Bell Buoy](https://open.spotify.com/track/06Ff1LSvn5WUw2EHPMSzcg) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Songbook](https://open.spotify.com/album/54LKAKGckAwMNo64tN5LO7) | 4:16 | 2024-03-09 | 2024-05-16 |
+| [Bird Sanctuary](https://open.spotify.com/track/1Ymtftt6QMLElD15yVmTQO) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Bird Sanctuary](https://open.spotify.com/album/0eFo49QMBP8QcNuLv1XwPN) | 2:12 | 2024-05-20 |  |
 | [black wings](https://open.spotify.com/track/2VVIzZiJg5Rhnf4wd657lZ) | [Inc.](https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w) | [no world](https://open.spotify.com/album/3L9G1Kr79hownXU72x18xr) | 4:05 | 2024-04-13 | 2024-05-16 |
 | [Blank Time](https://open.spotify.com/track/1aXDrYTE5igJKUygBgrPWN) | [Wishy](https://open.spotify.com/artist/1TkiNxDsrc0PgIWBrATCbe) | [Paradise](https://open.spotify.com/album/1EBcd6IpMnfXVOpTOG4fO2) | 3:57 | 2024-03-22 | 2024-05-16 |
+| [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 | 2024-05-20 |  |
 | [burnt out star](https://open.spotify.com/track/0FyUHfRwEPegqwLpiTcjUd) | [Immortal Wound](https://open.spotify.com/artist/48f43rxWbm2XTh3wwn7bag) | [burnt out star](https://open.spotify.com/album/71ithxlGE6Sup2JT3AMOhD) | 2:37 | 2024-03-20 | 2024-05-16 |
 | [By the Mark](https://open.spotify.com/track/7vZ499OwlWTpddvdXXb0VF) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/2rQnb3cAjCW49K3sA7xaep) | 3:40 | 2024-04-13 | 2024-05-16 |
 | [Can You Feel the Beat Tonight?](https://open.spotify.com/track/5xbpkr8kuz9Djodai18VIA) | [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [Cooper B Handy's Album, Vol\. 3](https://open.spotify.com/album/0uRS4EwISSvwcBbfaxdfJi) | 1:57 | 2024-03-18 | 2024-05-16 |
@@ -41,6 +43,7 @@
 | [Convenient Parking](https://open.spotify.com/track/7ow8R2QCGeAr3JiRbSDzWs) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 4:08 | 2024-01-05 | 2024-03-10 |
 | [Corrections](https://open.spotify.com/track/6FWAfVMxU51ftt8lmtm2Ej) | [Kaikobad](https://open.spotify.com/artist/5lnQetmw5xW1Y1FVKA07Az) | [Corrections](https://open.spotify.com/album/4tc0n2pKK44heQTOzXIfvZ) | 3:39 | 2024-01-05 | 2024-03-10 |
 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 | 2024-03-20 | 2024-05-16 |
+| [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 |  |
 | [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-05-16 |  |
 | [De Novo](https://open.spotify.com/track/0DmLfTFkLqIqiRqEMyxMXU) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Tech Duinn](https://open.spotify.com/album/71Y6SuqeTUnuDa3V0v25cv) | 2:50 | 2024-03-27 | 2024-05-16 |
 | [Deep Water](https://open.spotify.com/track/4HbMU0noKfNinw6ePEKXmQ) | [Ed Askew](https://open.spotify.com/artist/6dkNBFTQ8DdQpfYxmi3kIB) | [Imperfiction](https://open.spotify.com/album/0jduFLrhdG0KDrsHuzBirs) | 2:26 | 2024-05-16 |  |
@@ -92,6 +95,7 @@
 | [Jamie](https://open.spotify.com/track/1rp9edo80ULMdwXkZt0TX5) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Ethiopian Knights](https://open.spotify.com/album/5LwAQWAsoxwekrpdEgfzPq) | 3:38 | 2024-02-27 | 2024-03-10 |
 | [Just My Love And I](https://open.spotify.com/track/0idB3v41MLVIC7oDPV7cJh) | [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [When It Was Done](https://open.spotify.com/album/53R4fFqWs9yIxMOnoMzmYF) | 2:18 | 2024-03-11 | 2024-05-16 |
 | [Know by Heart](https://open.spotify.com/track/5ju3Mgd15jLIAmZLwLPlwY) | [The American Analog Set](https://open.spotify.com/artist/376EkILFaF7BFBHr9Rzn7A) | [Know By Heart](https://open.spotify.com/album/1l1uLro07bvHaIFYs4uibG) | 2:53 | 2024-04-12 | 2024-05-16 |
+| [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 | 2024-05-20 |  |
 | [Le Rêve De CJ](https://open.spotify.com/track/3zZTkc18kbBW8hthawXrl5) | [Absent Music](https://open.spotify.com/artist/5g4vYpxRlQ0PAglBI3XW12) | [Lost And Latest](https://open.spotify.com/album/1YTMrikZDprUv2cjFlIoOh) | 2:31 | 2024-04-01 | 2024-05-16 |
 | [Like Fire Like Ice](https://open.spotify.com/track/2J2Xzrf5nUnX3YZE6lPa8n) | [Born At Midnite](https://open.spotify.com/artist/3ejfr3ZL4rEFokdVb33dPa) | [Alternity](https://open.spotify.com/album/7zS98tpOYwsJje1Qs9KhOx) | 1:58 | 2024-03-26 | 2024-05-16 |
 | [Low](https://open.spotify.com/track/762nQHxV3RCum4UBgARjaW) | [villagerrr](https://open.spotify.com/artist/1vQ5CUq3dcQkRRCGd94UD5) | [Tear Your Heart Out](https://open.spotify.com/album/66aBhNtqG6pZvyiaqECBZi) | 4:19 | 2024-03-29 | 2024-05-16 |

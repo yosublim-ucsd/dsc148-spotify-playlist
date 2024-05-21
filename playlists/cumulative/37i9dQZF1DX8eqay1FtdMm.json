@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Parc Jae Jung(\ubc15\uc7ac\uc815)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the best Korean vocalists who will melt your eardrums! (Cover: Kim Kyung Ho(\uae40\uacbd\ud638)) (\uc5ec\ub7ec\ubd84\uc758 \uace0\ub9c9\uc744 \ub179\uc5ec\uc904 \ud55c\uad6d \ucd5c\uace0\uc758 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2381,6 +2381,24 @@
     },
     {
       "album": {
+        "name": "THE ROCKER",
+        "url": "https://open.spotify.com/album/20uf9mAvEP0kkL054opDqf"
+      },
+      "artists": [
+        {
+          "name": "Kim Kyung Ho",
+          "url": "https://open.spotify.com/artist/15Tra1ytu0naoNByIhZArl"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257750,
+      "name": "Fly Again",
+      "url": "https://open.spotify.com/track/6gSQJHJl4vGncVvEvdBGf5"
+    },
+    {
+      "album": {
         "name": "Footsteps",
         "url": "https://open.spotify.com/album/4lkCObIzVTJ0xKsc7AoRqb"
       },
@@ -3260,6 +3278,24 @@
       "duration_ms": 217000,
       "name": "How Much I Love You",
       "url": "https://open.spotify.com/track/55tsR9WU9Rtl8eLKTz242N"
+    },
+    {
+      "album": {
+        "name": "Hug Me",
+        "url": "https://open.spotify.com/album/4l2KIzsKsMlYzn9TNS458F"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166935,
+      "name": "Hug Me",
+      "url": "https://open.spotify.com/track/29iBmddkKfwYrUbfJmjj6K"
     },
     {
       "album": {
@@ -4494,7 +4530,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 241640,
       "name": "Looking For Love (Man Ver.)",
       "url": "https://open.spotify.com/track/0sN3z4fwRL8HmO96rCOm3A"
@@ -6934,7 +6970,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 226480,
       "name": "Stay",
       "url": "https://open.spotify.com/track/2IslXjQwGJNORQmMy3DeE4"
@@ -7024,7 +7060,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 240773,
       "name": "Still Yours",
       "url": "https://open.spotify.com/track/6pRvEUhwOX3s6jcJeGumML"
@@ -9266,6 +9302,24 @@
       "duration_ms": 212164,
       "name": "\ube4c\ub824\uc904\uac8c",
       "url": "https://open.spotify.com/track/0uAW2Jb7ZjI5xUzaC0fhqT"
+    },
+    {
+      "album": {
+        "name": "\uc0ac\ub791\uacfc \uc6b0\uc815\uc0ac\uc774",
+        "url": "https://open.spotify.com/album/19ZHgSzdZ0G3rZDFUprfBq"
+      },
+      "artists": [
+        {
+          "name": "MeloMance",
+          "url": "https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257799,
+      "name": "\uc0ac\ub791\uacfc \uc6b0\uc815\uc0ac\uc774",
+      "url": "https://open.spotify.com/track/5srgr7ASTh6teJWhmsPZx3"
     },
     {
       "album": {

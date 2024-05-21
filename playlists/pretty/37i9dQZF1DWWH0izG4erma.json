@@ -1,6 +1,6 @@
 {
   "description": "Country Music that rocks. Cover: Avery Anna",
-  "num_followers": 595565,
+  "num_followers": 595717,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
+        "name": "Hit Different",
+        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "Hit Different",
+      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
         "name": "Wrecking Ball",
         "url": "https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 235053,
       "name": "Wrecking Ball",
       "url": "https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "Hit Different",
-        "url": "https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "Hit Different",
-      "url": "https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "If I Know You",
-        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
+        "name": "I Should Have Known It",
+        "url": "https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO"
       },
       "artists": [
         {
-          "name": "Aaron McBee",
-          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 163637,
-      "name": "Midnight Dancer",
-      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
+      "duration_ms": 236381,
+      "name": "I Should Have Known It",
+      "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1527,18 +1527,18 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "I Should Have Known It",
-        "url": "https://open.spotify.com/album/4SrJW0Gn1JJ6lH5J7fj5kO"
+        "name": "If I Know You",
+        "url": "https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Aaron McBee",
+          "url": "https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA"
         }
       ],
-      "duration_ms": 236381,
-      "name": "I Should Have Known It",
-      "url": "https://open.spotify.com/track/7goONmj0ATR8usS7dWB41U"
+      "duration_ms": 163637,
+      "name": "Midnight Dancer",
+      "url": "https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf"
     },
     {
       "added_at": "2024-05-17 04:01:00",
@@ -1607,38 +1607,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "See Me in a Suit",
-        "url": "https://open.spotify.com/album/2JamMbPcyPx2RkwTRRIM43"
-      },
-      "artists": [
-        {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
-        }
-      ],
-      "duration_ms": 181312,
-      "name": "See Me in a Suit",
-      "url": "https://open.spotify.com/track/4KlJvbtCMGApjOIEoujmOu"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
-        "name": "She's No Good for Me",
-        "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 205651,
-      "name": "She's No Good for Me",
-      "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Dragging Me Down",
         "url": "https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr"
       },
@@ -1659,6 +1627,38 @@
       "duration_ms": 198591,
       "name": "Dragging Me Down",
       "url": "https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "She's No Good for Me",
+        "url": "https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 205651,
+      "name": "She's No Good for Me",
+      "url": "https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "See Me in a Suit",
+        "url": "https://open.spotify.com/album/2JamMbPcyPx2RkwTRRIM43"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 181312,
+      "name": "See Me in a Suit",
+      "url": "https://open.spotify.com/track/4KlJvbtCMGApjOIEoujmOu"
     },
     {
       "added_at": "2024-05-17 04:01:00",

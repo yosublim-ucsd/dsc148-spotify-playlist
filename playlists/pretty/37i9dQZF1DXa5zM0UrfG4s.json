@@ -1,6 +1,6 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 109315,
+  "num_followers": 109330,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "Hardanger",
+        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
+      },
+      "artists": [
+        {
+          "name": "Gunslingers",
+          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
+        }
+      ],
+      "duration_ms": 236387,
+      "name": "Hardanger",
+      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "\u00d8l i kantina",
         "url": "https://open.spotify.com/album/3Ba89F7pVLtwkcxEqt5gMj"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 141044,
       "name": "\u00d8l i kantina",
       "url": "https://open.spotify.com/track/2pV3iEhPidxQrX9zmRY3W8"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Hardanger",
-        "url": "https://open.spotify.com/album/02ryizgagnxpEPbjcRuplt"
-      },
-      "artists": [
-        {
-          "name": "Gunslingers",
-          "url": "https://open.spotify.com/artist/22qynacaVX8ZxSwS2uTJkX"
-        }
-      ],
-      "duration_ms": 236387,
-      "name": "Hardanger",
-      "url": "https://open.spotify.com/track/40ZhguqieJZ0AJTHKQY6Q4"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+      "duration_ms": 186453,
+      "name": "K\u00e6m Tok Ho Me S\u00e6",
+      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -815,18 +815,42 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 186453,
-      "name": "K\u00e6m Tok Ho Me S\u00e6",
-      "url": "https://open.spotify.com/track/6h5hwJ9ZfFZ81JqBjhgLwe"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Den fineste Tesla\u00b4n",
+        "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
+      },
+      "artists": [
+        {
+          "name": "Jon Niklas R\u00f8nning",
+          "url": "https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw"
+        },
+        {
+          "name": "Pernille \u00d8iestad",
+          "url": "https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ"
+        },
+        {
+          "name": "Ole M. Aagen\u00e6s",
+          "url": "https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P"
+        }
+      ],
+      "duration_ms": 184377,
+      "name": "Den fineste Tesla\u00b4n",
+      "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -855,26 +879,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Den fineste Tesla\u00b4n",
-        "url": "https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th"
+        "name": "B\u00e6st I Test",
+        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
       },
       "artists": [
         {
-          "name": "Jon Niklas R\u00f8nning",
-          "url": "https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw"
-        },
-        {
-          "name": "Pernille \u00d8iestad",
-          "url": "https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ"
-        },
-        {
-          "name": "Ole M. Aagen\u00e6s",
-          "url": "https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P"
+          "name": "Too Far Gone",
+          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
         }
       ],
-      "duration_ms": 184377,
-      "name": "Den fineste Tesla\u00b4n",
-      "url": "https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq"
+      "duration_ms": 172613,
+      "name": "Kainn \u00c6 F\u00e5 Lov",
+      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -931,18 +947,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "29 tonn",
-        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
+        "name": "Alt du vil ha",
+        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 198268,
-      "name": "29 tonn",
-      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
+      "duration_ms": 180826,
+      "name": "Alt du vil ha",
+      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -967,22 +983,6 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "B\u00e6st I Test",
-        "url": "https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk"
-      },
-      "artists": [
-        {
-          "name": "Too Far Gone",
-          "url": "https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP"
-        }
-      ],
-      "duration_ms": 172613,
-      "name": "Kainn \u00c6 F\u00e5 Lov",
-      "url": "https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
         "name": "Kompis",
         "url": "https://open.spotify.com/album/1VzzEbtAMX3anDMFlIWWeE"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Alt du vil ha",
-        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
+        "name": "29 tonn",
+        "url": "https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv"
       },
       "artists": [
         {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Alt du vil ha",
-      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+      "duration_ms": 198268,
+      "name": "29 tonn",
+      "url": "https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+      },
+      "artists": [
+        {
+          "name": "Sie Gubba",
+          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+        }
+      ],
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
         "name": "Rull\u00e6r",
         "url": "https://open.spotify.com/album/54JEprViU1skzpmEgO32A1"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 221833,
       "name": "Bygdas Rebell",
       "url": "https://open.spotify.com/track/5xyYHVflU5uGbxrTTurSkR"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Ja vi elsker (Typisk Norsk 2019)",
-        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
-      },
-      "artists": [
-        {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
-        }
-      ],
-      "duration_ms": 164905,
-      "name": "Ja vi elsker (Typisk Norsk 2019)",
-      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+        "name": "Ja vi elsker (Typisk Norsk 2019)",
+        "url": "https://open.spotify.com/album/51IOa1Q0fzTyqCebspEkxV"
       },
       "artists": [
         {
-          "name": "Sie Gubba",
-          "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
+          "name": "Plumbo",
+          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
         }
       ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+      "duration_ms": 164905,
+      "name": "Ja vi elsker (Typisk Norsk 2019)",
+      "url": "https://open.spotify.com/track/57kBFnmwCPxjkaIWPnhhkl"
     },
     {
       "added_at": "2024-05-09 22:00:00",
@@ -1243,18 +1243,22 @@
     {
       "added_at": "2024-05-09 22:00:00",
       "album": {
-        "name": "Flammer og Bensin",
-        "url": "https://open.spotify.com/album/4gv90AccBv0Awh2ARD1WpK"
+        "name": "Jeg fortjener en \u00f8l",
+        "url": "https://open.spotify.com/album/45biKF9vMhEpCJxrBROwjG"
       },
       "artists": [
         {
-          "name": "Plumbo",
-          "url": "https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9"
+          "name": "Erik Og Kriss",
+          "url": "https://open.spotify.com/artist/2rCu8D8ST7i3lUILyB3yQR"
+        },
+        {
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Flammer og Bensin",
-      "url": "https://open.spotify.com/track/6OxAgEwnw2mWW2e3HS7Mkz"
+      "duration_ms": 152822,
+      "name": "Jeg fortjener en \u00f8l",
+      "url": "https://open.spotify.com/track/12MOqhpW8IsWO5xiCqjJdU"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

@@ -1175,6 +1175,28 @@
     },
     {
       "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170866,
+      "name": "Made Up My Mind",
+      "url": "https://open.spotify.com/track/68nhmpf5omnTYfSRCZ77L1"
+    },
+    {
+      "album": {
         "name": "Make You Mine This Season (Happiest Season)",
         "url": "https://open.spotify.com/album/0Fmher2zeorUpVgSCzg6gc"
       },

@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 49400,
+  "num_followers": 49432,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Shadowgrass",
-        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
-      },
-      "artists": [
-        {
-          "name": "Shadowgrass",
-          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
-        }
-      ],
-      "duration_ms": 287934,
-      "name": "Carl\u2019s Breakdown",
-      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "The Good, the Bad and the Ugly",
         "url": "https://open.spotify.com/album/3cM9AtEeQ8US0XqaCFGiNo"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 351091,
       "name": "The Good, the Bad and the Ugly",
       "url": "https://open.spotify.com/track/2FxI0pkOFZPmgv69vYlsSg"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Shadowgrass",
+        "url": "https://open.spotify.com/album/0JqSs11UVGIqPsoGWpLFz1"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "duration_ms": 287934,
+      "name": "Carl\u2019s Breakdown",
+      "url": "https://open.spotify.com/track/1WSgLVVvvhF0UvJdpaErCj"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Tombstone Junction",
-        "url": "https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV"
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
       },
       "artists": [
         {
-          "name": "Michael Prewitt",
-          "url": "https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE"
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
         }
       ],
-      "duration_ms": 308026,
-      "name": "Tombstone Junction",
-      "url": "https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN"
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
       },
       "artists": [
         {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
         }
       ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Celebrants",
         "url": "https://open.spotify.com/album/2ruZGj3O7oL91f9re3BXLq"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 184493,
       "name": "Going Out\u2026",
       "url": "https://open.spotify.com/track/0Ak9D9HV7XLSrljdrOPtUj"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Tombstone Junction",
+        "url": "https://open.spotify.com/album/6NUtE5zHsAqYpTcvtOd5YV"
+      },
+      "artists": [
+        {
+          "name": "Michael Prewitt",
+          "url": "https://open.spotify.com/artist/4s2da3g2gHWyQ4Ybz5hRBE"
+        }
+      ],
+      "duration_ms": 308026,
+      "name": "Tombstone Junction",
+      "url": "https://open.spotify.com/track/1j9lPZgn3NoXELxBVB0uaN"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Crossing the Junction / Deer River",
         "url": "https://open.spotify.com/album/3hXfFkVDc1E8b8pM4mdAoj"
       },
@@ -1411,34 +1395,18 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
       },
       "artists": [
         {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
         }
       ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1459,18 +1427,34 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
       },
       "artists": [
         {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
         }
       ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1487,6 +1471,22 @@
       "duration_ms": 213666,
       "name": "Black's Fork",
       "url": "https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+      },
+      "artists": [
+        {
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
+      },
+      "artists": [
+        {
+          "name": "The Grascals",
+          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "It's A String Thing",
+      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1551,38 +1567,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/1MKqppAnggvYNrKE2HGILZ"
-      },
-      "artists": [
-        {
-          "name": "The Grascals",
-          "url": "https://open.spotify.com/artist/7si9bAnJcqPoR30spNu9tm"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "It's A String Thing",
-      "url": "https://open.spotify.com/track/4c26BHbxtSuWTYdiRvyQ15"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Doc & Merle Watson's Guitar Album",
         "url": "https://open.spotify.com/album/5cJh03Sy8v8o3i2zQhusLq"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 159600,
       "name": "Black Mountain Rag",
       "url": "https://open.spotify.com/track/6q3WwghJk9Ht7Mhoj90wIk"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
-        "name": "Finnland",
-        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Grindstaff",
-          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Finnland",
-      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
         "name": "Wood Box Heroes",
         "url": "https://open.spotify.com/album/0KMYFch1J5SGDL6Zz4if9f"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 187266,
       "name": "No. 444",
       "url": "https://open.spotify.com/track/72Xjcfh50FRUeMaomktamF"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
+        "name": "Finnland",
+        "url": "https://open.spotify.com/album/7jDOLHnqIVhW2rvEO9tLB8"
+      },
+      "artists": [
+        {
+          "name": "Daniel Grindstaff",
+          "url": "https://open.spotify.com/artist/7vaq3DIBu61yGPpwHbl5Ln"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Finnland",
+      "url": "https://open.spotify.com/track/7kHx77L2UCm27Q25nSzPxH"
     },
     {
       "added_at": "2024-05-10 04:01:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-05-10 04:01:00",
       "album": {
+        "name": "My Place in the Sun",
+        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Whiskerhead Goes to Leningrad",
+      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
+    },
+    {
+      "added_at": "2024-05-10 04:01:00",
+      "album": {
         "name": "Grassy Cove",
         "url": "https://open.spotify.com/album/3khOrVafwHcB0uH03Dx8C5"
       },
@@ -1779,22 +1795,6 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/72n4HTYiKIvYKKDh9MgRIh"
-    },
-    {
-      "added_at": "2024-05-10 04:01:00",
-      "album": {
-        "name": "My Place in the Sun",
-        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Whiskerhead Goes to Leningrad",
-      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
     },
     {
       "added_at": "2024-05-10 04:01:00",

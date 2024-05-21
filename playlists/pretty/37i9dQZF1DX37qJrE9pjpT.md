@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Fredrick Mulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,764 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

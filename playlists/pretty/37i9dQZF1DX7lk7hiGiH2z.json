@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling mit allen Songs f\u00fcr l\u00e4ngere Tage!",
-  "num_followers": 40116,
+  "num_followers": 40143,
   "original_name": "Familienzeit: Fr\u00fchling",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
+        "name": "Rolfs Vogelhochzeit (Das Original in der Urfassung)",
+        "url": "https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl"
+      },
+      "artists": [
+        {
+          "name": "Rolf Zuckowski",
+          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
+        }
+      ],
+      "duration_ms": 107266,
+      "name": "Ein Vogel wollte Hochzeit machen - 1",
+      "url": "https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
         "name": "Die 30 besten Oster- und Fr\u00fchlingslieder",
         "url": "https://open.spotify.com/album/2TXXHQA4FgXkfQ1JjGOpDi"
       },
@@ -159,22 +175,6 @@
       "duration_ms": 117213,
       "name": "Ich lieb den Fr\u00fchling",
       "url": "https://open.spotify.com/track/3UvFfxNQFGEa1jIOVWuyrf"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Rolfs Vogelhochzeit (Das Original in der Urfassung)",
-        "url": "https://open.spotify.com/album/01JrN7TzqiE7Vs1JNJ3Mkl"
-      },
-      "artists": [
-        {
-          "name": "Rolf Zuckowski",
-          "url": "https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB"
-        }
-      ],
-      "duration_ms": 107266,
-      "name": "Ein Vogel wollte Hochzeit machen - 1",
-      "url": "https://open.spotify.com/track/2d65dwrlD1s9dP7BZ1CkLR"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -543,6 +543,30 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
+        "name": "Freunde finden / Devenir Amis",
+        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
+      },
+      "artists": [
+        {
+          "name": "Team Karacho",
+          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
+        },
+        {
+          "name": "Honigkuchenpferde",
+          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
+        },
+        {
+          "name": "Zo\u00eb M\u00eb",
+          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
+        }
+      ],
+      "duration_ms": 170413,
+      "name": "Freunde finden / Devenir Amis",
+      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
         "name": "Kinderlieder - umgedacht & neu gemacht",
         "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
       },
@@ -571,30 +595,6 @@
       "duration_ms": 186000,
       "name": "Das Farbenlied",
       "url": "https://open.spotify.com/track/3nI8GaZzs3qI28j5tMGqst"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Freunde finden / Devenir Amis",
-        "url": "https://open.spotify.com/album/6rPCfVQWC1DpMlI3xOQP0z"
-      },
-      "artists": [
-        {
-          "name": "Team Karacho",
-          "url": "https://open.spotify.com/artist/3zpraed9irHtJGfIgOC4KR"
-        },
-        {
-          "name": "Honigkuchenpferde",
-          "url": "https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH"
-        },
-        {
-          "name": "Zo\u00eb M\u00eb",
-          "url": "https://open.spotify.com/artist/1ceXjlrYcTS2i4ShwhjjcN"
-        }
-      ],
-      "duration_ms": 170413,
-      "name": "Freunde finden / Devenir Amis",
-      "url": "https://open.spotify.com/track/2dJp0mQxfRsZcVMJM6w40j"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-05-10 09:29:00",
       "album": {
-        "name": "Kinderlieder - umgedacht & neu gemacht",
-        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
-      },
-      "artists": [
-        {
-          "name": "herrH",
-          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
-        }
-      ],
-      "duration_ms": 140186,
-      "name": "Auf einem Baum ein Kuckuck sa\u00df",
-      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
         "name": "H\u00e4schenparty",
         "url": "https://open.spotify.com/album/4nH4j7jpnzsSUtRweSse1Q"
       },
@@ -703,6 +687,38 @@
       "duration_ms": 168200,
       "name": "H\u00e4schenparty",
       "url": "https://open.spotify.com/track/1nKFydN5UZzLxnHVZrw7MQ"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
+        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
+      },
+      "artists": [
+        {
+          "name": "KIDDINX Music",
+          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
+        }
+      ],
+      "duration_ms": 95173,
+      "name": "Bl\u00fcht ein Bl\u00fcmlein",
+      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
+    },
+    {
+      "added_at": "2024-05-10 09:29:00",
+      "album": {
+        "name": "Kinderlieder - umgedacht & neu gemacht",
+        "url": "https://open.spotify.com/album/5LxOg4MpWy6twmQeBZ7kT8"
+      },
+      "artists": [
+        {
+          "name": "herrH",
+          "url": "https://open.spotify.com/artist/2weS8n5DrZpok2Wcf9TRsQ"
+        }
+      ],
+      "duration_ms": 140186,
+      "name": "Auf einem Baum ein Kuckuck sa\u00df",
+      "url": "https://open.spotify.com/track/3oaIwfVQsGt51yZo8Q7xTQ"
     },
     {
       "added_at": "2024-05-10 09:29:00",
@@ -723,22 +739,6 @@
       "duration_ms": 149360,
       "name": "Rumspringen",
       "url": "https://open.spotify.com/track/6vMv8uw1u2T0OvlZsvX8bZ"
-    },
-    {
-      "added_at": "2024-05-10 09:29:00",
-      "album": {
-        "name": "Fr\u00fchlingslieder (Omas sch\u00f6nste)",
-        "url": "https://open.spotify.com/album/3jGID7paFetUeX5I47sNpz"
-      },
-      "artists": [
-        {
-          "name": "KIDDINX Music",
-          "url": "https://open.spotify.com/artist/6aX0QJPsfFMXZqCATPIiV8"
-        }
-      ],
-      "duration_ms": 95173,
-      "name": "Bl\u00fcht ein Bl\u00fcmlein",
-      "url": "https://open.spotify.com/track/317zFUecVbUcEmca5IK4UW"
     },
     {
       "added_at": "2024-05-10 09:29:00",

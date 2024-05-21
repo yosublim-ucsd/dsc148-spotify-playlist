@@ -1,6 +1,6 @@
 {
   "description": "Dance and Electronic tracks for the season <3",
-  "num_followers": 64592,
+  "num_followers": 64584,
   "original_name": "Electronic Christmas",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,26 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        },
+        {
+          "name": "Late Night Alumni",
+          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
+        }
+      ],
+      "duration_ms": 167373,
+      "name": "Christmas is Here (feat. Late Night Alumni)",
+      "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
         "name": "Christmas With You",
         "url": "https://open.spotify.com/album/35w6FkcyNuQ3wtMG1sJhNX"
       },
@@ -735,26 +755,6 @@
       "duration_ms": 147096,
       "name": "Christmas With You",
       "url": "https://open.spotify.com/track/6CYRNlf9WHdKeuOFNZWTzO"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        }
-      ],
-      "duration_ms": 167373,
-      "name": "Christmas is Here (feat. Late Night Alumni)",
-      "url": "https://open.spotify.com/track/4voEvBr3uYSMRtKlJKP1UX"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Jingle Bass (VIP)",
-        "url": "https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2"
-      },
-      "artists": [
-        {
-          "name": "ARIUS",
-          "url": "https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE"
-        },
-        {
-          "name": "Born I",
-          "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Jingle Bass - VIP",
-      "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Kaskade Christmas Volume 2",
         "url": "https://open.spotify.com/album/1ad4N7iaoiJtwXZDEX085v"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 191478,
       "name": "Angels we have Heard",
       "url": "https://open.spotify.com/track/36kN6zMizaH3nfp5dzQYZZ"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Jingle Bass (VIP)",
+        "url": "https://open.spotify.com/album/47UeINij7KuhaUlqRLRaD2"
+      },
+      "artists": [
+        {
+          "name": "ARIUS",
+          "url": "https://open.spotify.com/artist/7wgs0d144iA6OnyYE629qE"
+        },
+        {
+          "name": "Born I",
+          "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Jingle Bass - VIP",
+      "url": "https://open.spotify.com/track/0oQXua6hlHBvVSfVspeYoQ"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Kaskade Christmas",
-        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Winter Wonderland",
-      "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Christmas Days",
         "url": "https://open.spotify.com/album/03IuOYxa1LmABJKBIhgKLo"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 144440,
       "name": "Have Yourself A Merry Little Christmas",
       "url": "https://open.spotify.com/track/5L8OxPOln5z2D1rfutPZy4"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "Kaskade Christmas",
+        "url": "https://open.spotify.com/album/3gTy7Qdza0pvQTwWTC0CxY"
+      },
+      "artists": [
+        {
+          "name": "Kaskade",
+          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Winter Wonderland",
+      "url": "https://open.spotify.com/track/1yypsnzEnQZTniPoVFzGb9"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2023-12-22 05:00:00",
       "album": {
-        "name": "Caroling Caroling",
-        "url": "https://open.spotify.com/album/7zZ5oQWZWn0hZQUCihlGBc"
-      },
-      "artists": [
-        {
-          "name": "Kaskade",
-          "url": "https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1"
-        },
-        {
-          "name": "Late Night Alumni",
-          "url": "https://open.spotify.com/artist/6JtFllJR7nhh8fa6oGefSj"
-        }
-      ],
-      "duration_ms": 206125,
-      "name": "Caroling Caroling",
-      "url": "https://open.spotify.com/track/6bHwkInIrzlxdtpLSaRcU6"
-    },
-    {
-      "added_at": "2023-12-22 05:00:00",
-      "album": {
         "name": "Wonderful Time",
         "url": "https://open.spotify.com/album/0i2aSmDz2rDQi4sZh4pKxL"
       },
@@ -1179,6 +1159,26 @@
       "duration_ms": 163312,
       "name": "It's Christmas Time",
       "url": "https://open.spotify.com/track/6pFXCkYAwiSHTP2Z9E4U74"
+    },
+    {
+      "added_at": "2023-12-22 05:00:00",
+      "album": {
+        "name": "A Very Decent Christmas 5",
+        "url": "https://open.spotify.com/album/69Sc4UHlIvUwXORZ01gEaz"
+      },
+      "artists": [
+        {
+          "name": "LIZ",
+          "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
+        },
+        {
+          "name": "Hoodboi",
+          "url": "https://open.spotify.com/artist/1521R3ksLyQyFeqdtaSZUZ"
+        }
+      ],
+      "duration_ms": 241875,
+      "name": "Tropical Holiday",
+      "url": "https://open.spotify.com/track/7lRGYkzXuyIX0rM4ADWcSu"
     }
   ],
   "unique_name": "Electronic Christmas",

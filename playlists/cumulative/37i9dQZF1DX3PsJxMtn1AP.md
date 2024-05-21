@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-318 songs - 20 hr 27 min
+319 songs - 20 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [CooCool](https://open.spotify.com/track/6NRNXenSNtuo5vVkuAq7EN) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [The Universe](https://open.spotify.com/album/2JKrj31ZTIjy8voQ7azDzC) | 4:31 | 2023-06-02 | 2023-08-25 |
 | [Crash](https://open.spotify.com/track/2k1fCkx6hJ0o0yuXyyKeY8) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Push](https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc) | 4:43 | 2023-12-20 | 2024-02-03 |
 | [Crushing](https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0) | [Powders](https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U) | 4:31 | 2023-11-10 | 2024-04-23 |
+| [Crushxd](https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:06 | 2024-05-20 |  |
 | [Cumbia Espectro](https://open.spotify.com/track/6ekY2SsOYzo0TwlTvm6ulV) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Cumbia Espectro](https://open.spotify.com/album/7LeyN0a8dAmdWedch0MYVv) | 3:36 | 2023-02-14 | 2023-04-09 |
 | [Dawn blessings](https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/7BbJbTCSb20LE3uSXSA2Y0) | 4:50 | 2023-10-27 | 2024-01-04 |
 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 | 2024-04-15 |  |
@@ -190,7 +191,7 @@
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-03-29 | 2023-09-26 |
 | [Mousetrap](https://open.spotify.com/track/2YHUd3ru7TjevD6BNRu2mD) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [Mousetrap](https://open.spotify.com/album/6rmfh4B7AAhwK3X076zPex) | 4:03 | 2023-02-17 | 2023-04-09 |
 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 | 2023-08-04 | 2023-08-19 |
-| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-26 |  |
+| [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 | 2024-02-26 | 2024-05-21 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-15 |  |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-09-25 | 2023-12-21 |
 | [Mystery](https://open.spotify.com/track/0IZonFIeRHblWsP0pFieyS) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 2:21 | 2023-08-11 | 2024-02-03 |

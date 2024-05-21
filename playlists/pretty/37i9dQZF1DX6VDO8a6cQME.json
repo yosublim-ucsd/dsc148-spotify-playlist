@@ -1,6 +1,6 @@
 {
   "description": "The most essential R&B songs from the '90s. Cover: TLC",
-  "num_followers": 3568128,
+  "num_followers": 3568666,
   "original_name": "I Love My '90s R&B",
   "owner": {
     "name": "Spotify",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/2zbjlcLi1VQWqDNYdhyx1l"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "Keith Sweat",
-        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
-      },
-      "artists": [
-        {
-          "name": "Keith Sweat",
-          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Twisted",
-      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
-    },
-    {
       "added_at": "2021-08-20 04:02:00",
       "album": {
         "name": "My Love Is Your Love",
@@ -519,6 +503,22 @@
       "duration_ms": 261573,
       "name": "My Love Is Your Love",
       "url": "https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Keith Sweat",
+        "url": "https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV"
+      },
+      "artists": [
+        {
+          "name": "Keith Sweat",
+          "url": "https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m"
+        }
+      ],
+      "duration_ms": 260666,
+      "name": "Twisted",
+      "url": "https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -627,6 +627,22 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
+        "name": "My Love Is Your Love",
+        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 292400,
+      "name": "It's Not Right But It's Okay",
+      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
         "name": "Pronounced Jah-Nay",
         "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 330945,
       "name": "Knockin' da Boots",
       "url": "https://open.spotify.com/track/6x53SJOV1PAZ8ZUwH4NFXQ"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "My Love Is Your Love",
-        "url": "https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 292400,
-      "name": "It's Not Right But It's Okay",
-      "url": "https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW"
     },
     {
       "added_at": "2021-08-20 04:02:00",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/3kVIFDE3G89I2RPVkiRaRj"
     },
     {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
-        "name": "EV3",
-        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 291880,
-      "name": "Don't Let Go (Love)",
-      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
-    },
-    {
       "added_at": "2023-08-25 07:08:29",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
@@ -855,6 +839,22 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "EV3",
+        "url": "https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 291880,
+      "name": "Don't Let Go (Love)",
+      "url": "https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf"
     },
     {
       "added_at": "2022-09-16 08:12:46",
@@ -937,6 +937,22 @@
       "url": "https://open.spotify.com/track/6a5jHgwqYMk9wlYJYfs3c9"
     },
     {
+      "added_at": "2023-06-09 16:00:00",
+      "album": {
+        "name": "Never Say Never",
+        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
+      },
+      "artists": [
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "duration_ms": 273440,
+      "name": "Have You Ever",
+      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
+    },
+    {
       "added_at": "2023-08-25 07:08:29",
       "album": {
         "name": "The Miseducation of Lauryn Hill",
@@ -955,22 +971,6 @@
       "duration_ms": 369293,
       "name": "To Zion (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/7x6hO9VMAee9x1iWaeNkL6"
-    },
-    {
-      "added_at": "2023-06-09 16:00:00",
-      "album": {
-        "name": "Never Say Never",
-        "url": "https://open.spotify.com/album/1Co6e9ag1gRKcWdG7xKcCi"
-      },
-      "artists": [
-        {
-          "name": "Brandy",
-          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
-        }
-      ],
-      "duration_ms": 273440,
-      "name": "Have You Ever",
-      "url": "https://open.spotify.com/track/6tBD4yjOf9P8rWwUlXdJFm"
     },
     {
       "added_at": "2022-10-27 04:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-09-16 08:12:46",
       "album": {
-        "name": "Secrets",
-        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
-      },
-      "artists": [
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
-        }
-      ],
-      "duration_ms": 267440,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
-    },
-    {
-      "added_at": "2022-09-16 08:12:46",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 324280,
       "name": "Soon as I Get Home",
       "url": "https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R"
+    },
+    {
+      "added_at": "2022-09-16 08:12:46",
+      "album": {
+        "name": "Secrets",
+        "url": "https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o"
+      },
+      "artists": [
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
+        }
+      ],
+      "duration_ms": 267440,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5bJ796cOnGBzSN5bm4mwMj"
     },
     {
       "added_at": "2021-08-20 04:02:00",

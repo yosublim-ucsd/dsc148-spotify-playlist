@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-401 songs - 1 day 4 hr 38 min
+402 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Crash](https://open.spotify.com/track/2k1fCkx6hJ0o0yuXyyKeY8) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Izzy Glaudini](https://open.spotify.com/artist/1VqGiwhaU2Djzx8UYFKr2x) | [Push](https://open.spotify.com/album/094LVoZpuHpU0QwZQNmqAc) | 4:43 | 2023-12-20 | 2024-01-31 |
 | [Crime Seed](https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb) | [Meditations on Crime](https://open.spotify.com/artist/6ggsYambXUenZL9Y8HeWXB), [Gang Gang Dance](https://open.spotify.com/artist/6UU6YXQaFGQToWN6U28Dcb), [Harper Simon](https://open.spotify.com/artist/4fFL1ARvUJCoaZ3HK4SxdE) | [Meditations on Crime](https://open.spotify.com/album/2AUXeLSBLzeoFjN1eLFi5p) | 3:33 | 2022-09-29 |  |
 | [Crosswalk](https://open.spotify.com/track/6H6NwvDmPVk0VvHRfA6cYs) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go](https://open.spotify.com/album/2aApNIlo8yWlCk6x899rhY) | 4:26 | 2022-09-12 | 2023-11-24 |
+| [Crushxd](https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:06 | 2024-05-20 |  |
 | [Daffodils](https://open.spotify.com/track/2rlBLY6Iy6dRy3X0Epkt3W) | [Dummy](https://open.spotify.com/artist/51ymXnZGhf6Z4OcNXPviZC) | [Mandatory Enjoyment](https://open.spotify.com/album/29qUZKyYST9LzfffZ9aUqc) | 2:48 | 2022-03-04 | 2022-09-29 |
 | [Dawn blessings](https://open.spotify.com/track/0Qxgm4flEqA09NPyvMaM12) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/7BbJbTCSb20LE3uSXSA2Y0) | 4:50 | 2023-10-27 | 2024-04-19 |
 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2023-10-27 |  |
@@ -232,7 +233,7 @@
 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 | 2022-09-09 | 2023-03-25 |
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-10-28 | 2024-03-06 |
 | [No tiempo](https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [¡Ay!](https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh) | 3:35 | 2022-08-02 | 2024-04-19 |
-| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 |  |
+| [No tiempo](https://open.spotify.com/track/3x5CHbBZhKJuT0N3LlmOE4) | [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Atemporal](https://open.spotify.com/album/063ZbT2nAWdHQY1vlu6VFd) | 3:35 | 2022-08-02 | 2024-05-21 |
 | [Nodos](https://open.spotify.com/track/5NxaaeCOluia2b0t6Kmkwf) | [Radiotrónica](https://open.spotify.com/artist/0BBRvMCMiGIJBI3dn5vySN) | [Nodos](https://open.spotify.com/album/6Ja5JJOhoIkI7hf0r5pNlf) | 3:40 | 2023-12-22 |  |
 | [NOISE OF YOU](https://open.spotify.com/track/1LYjD6mxYddoAymI2Qq2YY) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NOISE OF YOU](https://open.spotify.com/album/20pMri0ddvWd39kpDSSjgl) | 5:15 | 2023-01-20 | 2023-04-14 |
 | [Noon](https://open.spotify.com/track/3PtwtRamdsxLxa4tSqtsAq) | [Nothing for Breakfast](https://open.spotify.com/artist/03RS6371Byq0m2stNKNIEl) | [Noon](https://open.spotify.com/album/4rxbvCSYsEafa2JXSZzTKi) | 2:48 | 2022-09-03 | 2023-06-28 |

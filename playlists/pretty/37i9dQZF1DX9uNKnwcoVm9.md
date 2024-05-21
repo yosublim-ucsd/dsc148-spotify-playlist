@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 
 > Un playlist que te llena de esperanza\.  ¡Con fe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,934 likes - 100 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,009 likes - 100 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 61 | [Creo En Ti](https://open.spotify.com/track/0vaqXI37M1v9RfiP1BI0t7) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Creo en Ti](https://open.spotify.com/album/0TrCmb35euEi2wkZvBgjWy) | 7:03 |
 | 62 | [El Señor es mi pastor](https://open.spotify.com/track/6dzzAzS051TUrSE0iSKO2C) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/5ttRWWt0SfHgNaOX1q4aHn) | 4:18 |
 | 63 | [Al Final](https://open.spotify.com/track/0ReYpAHy0po3ZBzo4dIkgx) | [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Yo Sin Ti](https://open.spotify.com/album/09bmbHv2pYw2pd4OFKzjCT) | 4:02 |
-| 64 | [Roca eterna](https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 4:55 |
-| 65 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
+| 64 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
+| 65 | [Sumérgeme](https://open.spotify.com/track/6Z31l856yEwyJqSBe3qLZ4) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo) | 5:27 |
 | 66 | [Hay Una Fuente En Mí \- Live](https://open.spotify.com/track/5tTLHg3Q35lzFLQ9KmtD6G) | [Palabra en Acción](https://open.spotify.com/artist/4umfGspINdkBEwCjc1f5Xw) | [Santo Es El Señor](https://open.spotify.com/album/0e7NveKGulQA4fkVBOoDeq) | 4:33 |
 | 67 | [Cree Solamente](https://open.spotify.com/track/4G33FeKB2sM4W9bC4bSii4) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Cree Solamente](https://open.spotify.com/album/3vHjJkngHJKd3bZjjIn6IZ) | 4:38 |
 | 68 | [Yo Quiero Mas de Cristo](https://open.spotify.com/track/0H79dPuHeHPkfR51XfwBUD) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 5:56 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uNKnwcoVm9.md) - [plain]
 | 71 | [Lo Unico Que Quiero](https://open.spotify.com/track/1HCKcrifeQmtEXwEqfXcjD) | [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ), [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Amanece \(Deluxe Edition\)](https://open.spotify.com/album/6Cc1JTOGWY55Fz5EVuadDy) | 7:27 |
 | 72 | [Eres Fiel](https://open.spotify.com/track/6vTBRcJDcPEqwmtpi3qoI6) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Cosas Poderosas](https://open.spotify.com/album/3KoD8Uxnyl7yU5kwix9Hk5) | 5:05 |
 | 73 | [He Visto Su Gloria](https://open.spotify.com/track/6mBTNoOs9cqcuqEmZZopVz) | [Tony Pérez](https://open.spotify.com/artist/1guiKPfkZCVKA8GoFQS4oJ) | [He Visto Su Gloria](https://open.spotify.com/album/2KNED3ap9Rs4ytPjEdusv6) | 6:41 |
-| 74 | [Precioso Jesús](https://open.spotify.com/track/3YVVAZB6NvCzzrjDandHkm) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 6:20 |
-| 75 | [Sumérgeme](https://open.spotify.com/track/6Z31l856yEwyJqSBe3qLZ4) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Colección Adoración](https://open.spotify.com/album/2kAZv7zHLq2y0YyCylgnoo) | 5:27 |
+| 74 | [Roca eterna](https://open.spotify.com/track/09YG9ee8meFr9ba4pxynbi) | [Esperanza de Vida](https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1) | [Me Has Hecho Libre](https://open.spotify.com/album/1flyahsdmJyAmkKr6q45ZI) | 4:55 |
+| 75 | [Ayer Te Vi..\. Fue Mas Claro Que La Luna](https://open.spotify.com/track/57ifvUopbuDoMNpgSD6PzV) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Ayer Te Vi...Fue Más Claro Que La Luna](https://open.spotify.com/album/2byRtlvsOEAYvl22FaUR0m) | 3:52 |
 | 76 | [¿A Quien Iré?](https://open.spotify.com/track/4KbeBXWEqSH6QmoUHbf1as) | [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2), [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Vuelve](https://open.spotify.com/album/7fONBkySYSZAp5U6Et7len) | 6:25 |
 | 77 | [Jehová Es Mi Guerrero/Le Llaman \(Reprise\)](https://open.spotify.com/track/38rRpy2CTsHScLk9IRo0PC) | [Juan Carlos Alvarado](https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U) | [Fuego](https://open.spotify.com/album/3Aejvhfr04XlnrEAoHDytu) | 2:16 |
 | 78 | [Por el poder de tu amor \(The power of your Love\)](https://open.spotify.com/track/0AQPDMIJmAEiXe182jLAIp) | [Ruth Mixter](https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA) | [Inquebrantable](https://open.spotify.com/album/5gdyDRdeJCzV6gozjFMwq1) | 5:29 |

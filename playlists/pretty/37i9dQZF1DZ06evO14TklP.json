@@ -1,12 +1,12 @@
 {
-  "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 7086,
+  "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 7095,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAADqtCNz2m5JGhMENfh3F7Ef",
+  "snapshot_id": "ZklBAAAAAAAq3/llgWqFKEK6PyWmPoMh",
   "tracks": [
     {
       "added_at": null,
@@ -640,17 +640,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,
@@ -732,17 +732,65 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shoota (feat. Lourena & Ebony)",
+        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
+      },
+      "artists": [
+        {
+          "name": "Bianca Costa",
+          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 212580,
+      "name": "Shoota (feat. Lourena & Ebony)",
+      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vis\u00e3o Perif\u00e9rica",
+        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
+      },
+      "artists": [
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "BENO",
+          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 188581,
+      "name": "Caneta",
+      "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
     },
     {
       "added_at": null,
@@ -783,54 +831,6 @@
       "duration_ms": 353907,
       "name": "Que Dia \u00c9 Hoje",
       "url": "https://open.spotify.com/track/02byVHeKRX0Vj5Vl4rbeu0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vis\u00e3o Perif\u00e9rica",
-        "url": "https://open.spotify.com/album/5eNapidkVarWi1MlD8fMjx"
-      },
-      "artists": [
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "BENO",
-          "url": "https://open.spotify.com/artist/6SZeSPUyGxCMBcaysxnYny"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 188581,
-      "name": "Caneta",
-      "url": "https://open.spotify.com/track/6pivmOyA8mAoCkhSE4H5rL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shoota (feat. Lourena & Ebony)",
-        "url": "https://open.spotify.com/album/57xOlXhPYfW4Vyjf6IasoE"
-      },
-      "artists": [
-        {
-          "name": "Bianca Costa",
-          "url": "https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        }
-      ],
-      "duration_ms": 212580,
-      "name": "Shoota (feat. Lourena & Ebony)",
-      "url": "https://open.spotify.com/track/2Rm9BPm41nqS7e5Ahr66nh"
     },
     {
       "added_at": null,

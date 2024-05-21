@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,468 likes - 304 songs - 16 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,467 likes - 304 songs - 16 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 72 | [You Love Who You Love](https://open.spotify.com/track/5Uom0F46SsPyBQSWdZUCRB) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [VENUS](https://open.spotify.com/album/6KkK5K7fLrkZ8VWeZo2pY4) | 3:05 |
 | 73 | [Here For You](https://open.spotify.com/track/1zvLMu2LaeAX1OUgJlfXFc) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Laura Welsh](https://open.spotify.com/artist/2QGdI8fUEuoVPJ4xuC5NDe) | [Sirens \(Deluxe\)](https://open.spotify.com/album/3u3wA2mFU0UgAtyMJW3xa5) | 3:53 |
 | 74 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/4DiixEtYrBxxj6SSWcUvGZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:15 |
-| 75 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 |
-| 76 | [I’ll See You There Tomorrow](https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 3:16 |
+| 75 | [I’ll See You There Tomorrow](https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 3:16 |
+| 76 | [The Rhythm](https://open.spotify.com/track/4laPvATil8SrIAlysZazYN) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Small Talk \- EP](https://open.spotify.com/album/6adnqzJgMLO8oJmzP0Kp28) | 4:06 |
 | 77 | [Don’t You Feel It](https://open.spotify.com/track/1kW0EhrR7VdrXRexVIDIiB) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Don't You Feel It](https://open.spotify.com/album/0RkIZtap4bsBP2rEb3tJUQ) | 3:27 |
 | 78 | [GIRLS LIKE US](https://open.spotify.com/track/4M0eE7cZ9lx4ygXSSbfAtp) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [FANCY YOU](https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve) | 2:38 |
 | 79 | [DNA](https://open.spotify.com/track/41za80kTVaQpZwtPfPtPYB) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [22 \(Deluxe\)](https://open.spotify.com/album/4VUkXDCZR2aBe28zoIHHnJ) | 2:57 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 156 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
 | 157 | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/track/7o5i46NjAqBbfgXCJtvHeb) | [Frost](https://open.spotify.com/artist/4cr1vZsdjcY434Aqc3fDBt), [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [On My Mind \(feat\. Leo Kalyan\)](https://open.spotify.com/album/61qGaLD8KuczuHqEszC12M) | 5:50 |
 | 158 | [Monster](https://open.spotify.com/track/0HibscTifrgtT2zgqdKjC2) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Infinite Things](https://open.spotify.com/album/4ynl3QNO1lnfJWqWDJmb1A) | 3:11 |
-| 159 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
-| 160 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
+| 159 | [Feel It Deep Inside](https://open.spotify.com/track/1YLMg5pq8Je82sJeTKABM9) | [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [Feel It Deep Inside](https://open.spotify.com/album/1i42rsf8yCTWXen3qADibG) | 2:33 |
+| 160 | [Unpredictable](https://open.spotify.com/track/0Hz3UFZz5QFnxl2UsEhiHB) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Unpredictable](https://open.spotify.com/album/5Yc2TXEU0CpftnNuKR2A9R) | 3:49 |
 | 161 | [Outside](https://open.spotify.com/track/7cjg32GaSbJHsN4Wc26PU0) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Outside](https://open.spotify.com/album/5SCK5p3Rqgg0FwTmAurrcp) | 3:38 |
 | 162 | [Rude Love](https://open.spotify.com/track/4p2x6JTf4Zxg4VTjOmI07r) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Rude Love](https://open.spotify.com/album/0okWcXKuFdofPUPHRipBfd) | 3:11 |
 | 163 | [Sing That Song \(feat\. Celeste\) \- Radio Edit](https://open.spotify.com/track/3q5AATAYobIW7Nz24EDk1T) | [TIEKS](https://open.spotify.com/artist/5ubTLvtpORseymsgTVxk45), [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Sing That Song \(feat\. Celeste\)](https://open.spotify.com/album/55C5efBYETSqazd7tJPLv3) | 2:59 |
@@ -313,4 +313,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 303 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 304 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbRx4gAAAABoKeoHD49FFvlgXSkhF778`
+Snapshot ID: `AbR3vgAAAAAnffpCQ+qrYHkHxGJDiA/k`

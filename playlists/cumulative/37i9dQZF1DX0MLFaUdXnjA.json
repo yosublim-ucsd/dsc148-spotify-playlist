@@ -10233,6 +10233,24 @@
     },
     {
       "album": {
+        "name": "Girls Just Wanna Have Fun",
+        "url": "https://open.spotify.com/album/1CrqNiR92thxJ3JL3e4jWB"
+      },
+      "artists": [
+        {
+          "name": "Chromatics",
+          "url": "https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223236,
+      "name": "Girls Just Wanna Have Some",
+      "url": "https://open.spotify.com/track/1WM80A5a4xDtlndjqjZQIv"
+    },
+    {
+      "album": {
         "name": "Give It To You (from Songland)",
         "url": "https://open.spotify.com/album/6cEaN8pCbLYUGTqop8L7e0"
       },
@@ -10334,7 +10352,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 177074,
       "name": "glimpse of me",
       "url": "https://open.spotify.com/track/1p85ZOMTF7IA6wq1NqtVX7"

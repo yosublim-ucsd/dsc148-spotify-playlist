@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-24",
-  "description": "Beautifully chilled vocals from around the world. Cover: Coco Jones",
+  "description": "The best voices in R&B. Cover: Bellah",
   "name": "Riffs & Runs",
   "tracks": [
     {
@@ -300,6 +300,24 @@
       "duration_ms": 416321,
       "name": "Abalele",
       "url": "https://open.spotify.com/track/2qxgejJTaZIHNSHDD22Uhl"
+    },
+    {
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
     },
     {
       "album": {
@@ -1893,6 +1911,28 @@
     },
     {
       "album": {
+        "name": "He Loves Us Both (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/0x1tZBPycC2BPbosebRSr5"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221700,
+      "name": "He Loves Us Both (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/5SvKcEK87sdbOyrthx9ZAU"
+    },
+    {
+      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco"
       },
@@ -2028,6 +2068,24 @@
       "duration_ms": 158069,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/1UAv2FU9jslNl8AHsoUBjY"
+    },
+    {
+      "album": {
+        "name": "The Art of Conversation",
+        "url": "https://open.spotify.com/album/1lYjBKBgG55DCxcqUSVr4J"
+      },
+      "artists": [
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/4Ebpa8CRiGYyMtqTciqJEi"
     },
     {
       "album": {
@@ -2402,6 +2460,24 @@
       "duration_ms": 142041,
       "name": "Is It A Crime?",
       "url": "https://open.spotify.com/track/2Cg9T9AvAQH25jGgydexrk"
+    },
+    {
+      "album": {
+        "name": "No Guidnce - Unplugged",
+        "url": "https://open.spotify.com/album/2GpbE6KxDwyCZgWnX2q7ue"
+      },
+      "artists": [
+        {
+          "name": "No Guidnce",
+          "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182906,
+      "name": "Is It A Crime? - Unplugged",
+      "url": "https://open.spotify.com/track/3DIJ3pP9lUSsYvZTGcdKK0"
     },
     {
       "album": {
@@ -3174,6 +3250,28 @@
       "duration_ms": 195000,
       "name": "Moment Of Your Life",
       "url": "https://open.spotify.com/track/6ffrYPrHM70FScnrtHIcPh"
+    },
+    {
+      "album": {
+        "name": "Motion Sickness",
+        "url": "https://open.spotify.com/album/7kWSwxp6LBxZESeiOBVuqn"
+      },
+      "artists": [
+        {
+          "name": "Sons of Sonix",
+          "url": "https://open.spotify.com/artist/24ml2a3Gc8V9UX6DfAhdqZ"
+        },
+        {
+          "name": "Bellah",
+          "url": "https://open.spotify.com/artist/6UZk0TOb0uZ1JWa3BW81FQ"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181598,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6efGBx7ImAe7IabZmALSOG"
     },
     {
       "album": {
@@ -4450,7 +4548,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 231109,
       "name": "Sensational (feat. Davido & Lojay)",
       "url": "https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh"

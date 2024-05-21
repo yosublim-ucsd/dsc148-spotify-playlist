@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 719907,
+  "num_followers": 719853,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Com ou Sem Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
-        }
-      ],
-      "duration_ms": 201856,
-      "name": "Com ou Sem Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Errejota (ao Vivo)",
         "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 231680,
       "name": "Algo Mais (Amante) - Ao Vivo",
       "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Com ou Sem Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        }
+      ],
+      "duration_ms": 201856,
+      "name": "Com ou Sem Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
     },
     {
       "added_at": "2023-11-17 03:01:00",

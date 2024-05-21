@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,984 likes - 82 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 802,080 likes - 82 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

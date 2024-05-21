@@ -2,7 +2,7 @@
 
 ### [This Is UVERworld](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1)
 
-> This is UVERworld。アーティストの代表曲をひとつのプレイリストに。
+> This is UVERworld\. Todos os maiores hits em uma só playlist.
 
 104 songs - 7 hr 21 min
 

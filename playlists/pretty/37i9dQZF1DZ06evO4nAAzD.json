@@ -1,12 +1,12 @@
 {
-  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3585,
+  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 3588,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAffLkY+wJhVyG9BaL2xkQG",
+  "snapshot_id": "ZklBAAAAAAAT87CE3yxM2e8UzjhShXYn",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baby o Que C\u00ea Quer de Mim?",
-        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
-      },
-      "artists": [
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 233142,
-      "name": "Baby o Que C\u00ea Quer de Mim?",
-      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reca\u00edda",
         "url": "https://open.spotify.com/album/02AaiB6d2Io8EgmfnEY5vx"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 188976,
       "name": "Reca\u00edda",
       "url": "https://open.spotify.com/track/55vzhkPkwksWHU83hhDMX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baby o Que C\u00ea Quer de Mim?",
+        "url": "https://open.spotify.com/album/7oUAZc143JfrGcrR9GNA4f"
+      },
+      "artists": [
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 233142,
+      "name": "Baby o Que C\u00ea Quer de Mim?",
+      "url": "https://open.spotify.com/track/0cCm55RwSqypxDVy8xpC3e"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "2003",
+        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
+      },
+      "artists": [
+        {
+          "name": "T\u00edlia",
+          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "TO PRONTA!",
+      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bailean",
         "url": "https://open.spotify.com/album/6ZnZ9rmxOVPXHmdvMs5gyS"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 218181,
       "name": "Bailean",
       "url": "https://open.spotify.com/track/217FtqeGHQOp6ki2qyNmmR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2003",
-        "url": "https://open.spotify.com/album/6u9FLfTTmw4Nm63JS2v6xw"
-      },
-      "artists": [
-        {
-          "name": "T\u00edlia",
-          "url": "https://open.spotify.com/artist/0YaewQrKXrfODqVgpZDloo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "TO PRONTA!",
-      "url": "https://open.spotify.com/track/25BCBAxBSpJ8evRp7pI3QA"
     },
     {
       "added_at": null,
@@ -1347,54 +1347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET DJ BR DA TIJUCA 5",
-        "url": "https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ"
-      },
-      "artists": [
-        {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
-        },
-        {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Gabzin",
-          "url": "https://open.spotify.com/artist/7ELdt6pzP4LFi4cnVTXqsF"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
-        }
-      ],
-      "duration_ms": 354545,
-      "name": "SET DJ BR DA TIJUCA 5",
-      "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Dj Br da Tijuca 3",
         "url": "https://open.spotify.com/album/01aO02GNBxfZPcYu7C48pc"
       },
@@ -1459,6 +1411,54 @@
       "duration_ms": 399252,
       "name": "Set Dj Br da Tijuca 3",
       "url": "https://open.spotify.com/track/1xQABs4bfvIunZOZ4Ov0im"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SET DJ BR DA TIJUCA 5",
+        "url": "https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ"
+      },
+      "artists": [
+        {
+          "name": "BR DA TIJUCA",
+          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+        },
+        {
+          "name": "JP Diazz",
+          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Gabzin",
+          "url": "https://open.spotify.com/artist/7ELdt6pzP4LFi4cnVTXqsF"
+        },
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        },
+        {
+          "name": "Leo da Zona Sul",
+          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
+        },
+        {
+          "name": "Lipinho Oficial",
+          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
+        }
+      ],
+      "duration_ms": 354545,
+      "name": "SET DJ BR DA TIJUCA 5",
+      "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
     }
   ],
   "unique_name": "This Is Hyperanhas",

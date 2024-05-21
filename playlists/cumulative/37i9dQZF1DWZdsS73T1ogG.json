@@ -20941,6 +20941,28 @@
     },
     {
       "album": {
+        "name": "Suano",
+        "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137264,
+      "name": "Suano",
+      "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
+    },
+    {
+      "album": {
         "name": "SUBIMO AL CIELO",
         "url": "https://open.spotify.com/album/7o5aiF4fYFCTtmwvC3rx4X"
       },

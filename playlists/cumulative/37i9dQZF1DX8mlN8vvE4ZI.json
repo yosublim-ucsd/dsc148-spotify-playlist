@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 540160,
       "name": "Raga Hansadhwani (Dancing Spring)",
       "url": "https://open.spotify.com/track/2lalSgHoXxZWSHTT9PNV2t"
@@ -900,7 +900,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 341120,
       "name": "Sitar Theme",
       "url": "https://open.spotify.com/track/3d97zTIcKA0mDhx53c1uix"
@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Text me when you reach",
+        "url": "https://open.spotify.com/album/4gJ2rVT40KEpJQb6yMJv2o"
+      },
+      "artists": [
+        {
+          "name": "Rishab Rikhiram Sharma",
+          "url": "https://open.spotify.com/artist/1tXDFZbje7UGfRIQ2C7xXu"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91325,
+      "name": "Text me when you reach",
+      "url": "https://open.spotify.com/track/4vAlFacTwAaeBJhij4jOZR"
+    },
+    {
+      "album": {
         "name": "Morning Sitar Peace",
         "url": "https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr"
       },
@@ -1108,7 +1126,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 132048,
       "name": "Tilak Kamod",
       "url": "https://open.spotify.com/track/33NcS1EqUH6dS3UPKRz9qX"

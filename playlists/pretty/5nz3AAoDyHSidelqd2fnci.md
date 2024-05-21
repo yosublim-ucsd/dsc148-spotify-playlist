@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 47 min 36 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 34 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 |
-| 2 | [Ocean Beat](https://open.spotify.com/track/4QY0yRUFZH6esmilQ2B3xI) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 4:32 |
-| 3 | [Planets](https://open.spotify.com/track/4BqYQ1WQ0GFE1xmIaduKLi) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 5:56 |
-| 4 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
-| 5 | [One Wish Away](https://open.spotify.com/track/26xSUP0HljUIRW2UIRR7yz) | [Katra](https://open.spotify.com/artist/6cOUrOgpVQFlmvVJ4wVb1v) | [Out of Ashes](https://open.spotify.com/album/3YEYucSn7AEwWx6N1v4ayW) | 4:09 |
-| 6 | [Marihuana](https://open.spotify.com/track/3Yg1b0yhGhzlY5m0mw4FB6) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ) | [La 2da del Boxeador](https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X) | 2:14 |
-| 7 | [The New Awakening](https://open.spotify.com/track/75ekIYzgzJNza1BX2xDUGI) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:30 |
-| 8 | [Man with Two Hearts](https://open.spotify.com/track/1nAHeNRcYlFqVicmrsfBlN) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Best Of Men At Work](https://open.spotify.com/album/6rp1J7P9VhTZWb1CXfSucI) | 3:54 |
-| 9 | [Warriors of the World United](https://open.spotify.com/track/02zclmxRto3GAUBdtV7D8i) | [Manowar](https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ) | [Warriors of the World](https://open.spotify.com/album/4ncHBqf9da4Y3qosIxnrnJ) | 5:51 |
-| 10 | [2009](https://open.spotify.com/track/3JF1hPwyCSwqWs7xJNCy2H) | [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [2009](https://open.spotify.com/album/0PL1V8KaNzAMtjKtDEFYPk) | 2:22 |
-| 11 | [Is This Love](https://open.spotify.com/track/2sevvnMrqH607r5lwk3kFT) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Legend \- The Best Of Bob Marley And The Wailers](https://open.spotify.com/album/4jKeipwuUTjlx9USNYdhZn) | 3:50 |
-| 12 | [crush](https://open.spotify.com/track/7oUMu1A4dgci1erq7TfeBi) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [crush](https://open.spotify.com/album/5ARqIQFQKhOkOtELUq2ACK) | 2:26 |
+| 1 | [Better Days](https://open.spotify.com/track/6xmMBY754l7guTzNokbzos) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp) | 3:31 |
+| 2 | [With Love](https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [With Love,](https://open.spotify.com/album/3fqm4PDI57qVWEJBOGxyrN) | 3:21 |
+| 3 | [Don't Stop Believin'](https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 4:08 |
+| 4 | [That's All \- Remastered 2007](https://open.spotify.com/track/2gUjs3Y8RoPpwozKyQDCUa) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Genesis](https://open.spotify.com/album/2u0T1xzCoI7ANxWDEj9yl6) | 4:26 |
+| 5 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
+| 6 | [Dios se manifiesta](https://open.spotify.com/track/4fpubEHX4lU798JidwjSpv) | [Emmanuel Music](https://open.spotify.com/artist/4khkeTO8Uk7Zp870J76uDH) | [Alegría \(WYD 2011 International album\)](https://open.spotify.com/album/6P9MvLq59gPNZXA6aJLTyx) | 4:36 |
+| 7 | [Secrets in a Box](https://open.spotify.com/track/0p8UUl28sWjj4O9eTOHz2o) | [Cruskin](https://open.spotify.com/artist/0HhKAWSf0VFCkW9zoZodE9) | [Secrets in a Box](https://open.spotify.com/album/7eQ5R30YMqoyIQXW1B1f2E) | 2:59 |
+| 8 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 |
+| 9 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 |
+| 10 | [I'll Be There For You](https://open.spotify.com/track/2SfXwLVq1w4WPP2SsPMynv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/5QBlkA2zcJ18lINbj2i8RD) | 5:46 |
+| 11 | [Tears of the Dragon](https://open.spotify.com/track/0wIBOrGO6PUkhsrbhJdlcJ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso](https://open.spotify.com/album/34ov9vJcIYcfQmFLxaagoc) | 6:24 |
+| 12 | [1230](https://open.spotify.com/track/44tWGaJ7ZRIeJFt6QITHo3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [We Came As Romans](https://open.spotify.com/album/2bb60qwBSPJRVW5w7hgSIX) | 3:52 |
 
-Snapshot ID: `AAAAeDH5r9eXS7TgXkrwbV5tB5Ougbm7`
+Snapshot ID: `AAAAeR72crn1pWx05nBytoBdJhN221RD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,622 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,645 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1294422,
+  "num_followers": 1294577,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -611,6 +611,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Trip to Valhalla",
+        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
+      },
+      "artists": [
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 232950,
+      "name": "Trip to Valhalla",
+      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "I Like To Party",
         "url": "https://open.spotify.com/album/5sXLI9fWW2vmRUzIjNaGHQ"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 159483,
       "name": "I Like To Party",
       "url": "https://open.spotify.com/track/7piw0SrFyHjJwOivGxdrnb"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Trip to Valhalla",
-        "url": "https://open.spotify.com/album/3cLqmhEhqb3sz5U6ocs6ll"
-      },
-      "artists": [
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 232950,
-      "name": "Trip to Valhalla",
-      "url": "https://open.spotify.com/track/2D9WT9MeG07a26kKU9IGEb"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Epic Sax Song",
+        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
+      },
+      "artists": [
+        {
+          "name": "Adrenalize",
+          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
+        }
+      ],
+      "duration_ms": 176212,
+      "name": "Epic Sax Song",
+      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "How Far Can You Go",
         "url": "https://open.spotify.com/album/6QQ9fTIQWHmnwqER7TeWWA"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 210577,
       "name": "How Far Can You Go",
       "url": "https://open.spotify.com/track/4tlvXAbJi9rEZfbtjevLn5"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Epic Sax Song",
-        "url": "https://open.spotify.com/album/6NaT8AHDRPSuHT3IZKJjL4"
-      },
-      "artists": [
-        {
-          "name": "Adrenalize",
-          "url": "https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c"
-        }
-      ],
-      "duration_ms": 176212,
-      "name": "Epic Sax Song",
-      "url": "https://open.spotify.com/track/1MBCOLWlw0wXeSlCgLQCK9"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2003,8 +2003,8 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "The Flame Inside",
-        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
       },
       "artists": [
         {
@@ -2012,9 +2012,9 @@
           "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 256258,
-      "name": "The Flame Inside",
-      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
+      "duration_ms": 234165,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2111,8 +2111,8 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MzEIsQjND2tLFpckD4k4i"
+        "name": "The Flame Inside",
+        "url": "https://open.spotify.com/album/3UJaCyCiERfPBcfIJbPzqr"
       },
       "artists": [
         {
@@ -2120,9 +2120,9 @@
           "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
         }
       ],
-      "duration_ms": 234165,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0zolxiS5uiL5towOJrsJi4"
+      "duration_ms": 256258,
+      "name": "The Flame Inside",
+      "url": "https://open.spotify.com/track/0bwI14sF0aR97qxjp4AAqV"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2743,26 +2743,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Somebody to Love",
-        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
-      },
-      "artists": [
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        },
-        {
-          "name": "Maxtreme",
-          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
-        }
-      ],
-      "duration_ms": 188076,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Rave Now",
         "url": "https://open.spotify.com/album/3N0G0lU2lO3t4cX5oekKNA"
       },
@@ -2779,6 +2759,26 @@
       "duration_ms": 194002,
       "name": "Rave Now",
       "url": "https://open.spotify.com/track/2sVrVKIkrKZ8Vn9k0k3IfR"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Somebody to Love",
+        "url": "https://open.spotify.com/album/66EPs3ZWUIRSNxer3yqIyS"
+      },
+      "artists": [
+        {
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
+        },
+        {
+          "name": "Maxtreme",
+          "url": "https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j"
+        }
+      ],
+      "duration_ms": 188076,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/14oLZpSIlMYf62kUthUTLL"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2983,26 +2983,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Techno Syndrome (Mortal Kombat)",
-        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
-      },
-      "artists": [
-        {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
-        },
-        {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Techno Syndrome (Mortal Kombat)",
-      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "In Hardstyle We Trust (Melody Mix)",
         "url": "https://open.spotify.com/album/0cUZwW0wPp3HDebw6fZosP"
       },
@@ -3019,6 +2999,26 @@
       "duration_ms": 235009,
       "name": "In Hardstyle We Trust - Melody Mix",
       "url": "https://open.spotify.com/track/694DLdlWtk26a6pyaf1vMi"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+        },
+        {
+          "name": "Dimatik",
+          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Techno Syndrome (Mortal Kombat)",
+      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
     }
   ],
   "unique_name": "Hardstyle Bangers",

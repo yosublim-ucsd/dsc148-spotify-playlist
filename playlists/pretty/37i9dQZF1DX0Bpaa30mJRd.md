@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 一夜限りのスペシャルアレンジでお届けした<a href="https://www.sonymusic.co.jp/artist/SoundTrackInt/info/552938">「スタジオ地図シネマティックオーケストラ2022」</a>をライブ収録したアルバムが発売！スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,643 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,662 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,7 +101,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 91 | [Scorching the Facade](https://open.spotify.com/track/0R0KLFlxNI9WDM2RiSvg8U) | [Yuta Bandoh](https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:44 |
 | 92 | [Skies of Song](https://open.spotify.com/track/5RzYntKRo9olye5xWvR25H) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc), [中村佳穂](https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:02 |
 | 93 | [Slingshot](https://open.spotify.com/track/1VHURQwLNzdX6caacu1UDq) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV), [Taisei Iwasaki](https://open.spotify.com/artist/2eutad3VCXdembmIgWdwjH) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 2:56 |
-| 94 | [Blunt Words](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
+| 94 | [Blunt Words](https://open.spotify.com/track/6j9UulEn4mYCu5Q34nNu0i) | [Peggie Sue](https://open.spotify.com/artist/2xhFPhaXuy6VvEPnbYhxOY) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 1:18 |
 | 95 | [夏空\~エンディング・テーマ\~](https://open.spotify.com/track/50kc2WQjhsItSRs822Hrds) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:37 |
 | 96 | [Daylife](https://open.spotify.com/track/1vbPuYhJnTrajuLJcU4HoC) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 2:09 |
 | 97 | [未来の記憶](https://open.spotify.com/track/4GWlN27AbE541dfQjw8PPP) | [Kiyoshi Yoshida](https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL) | [劇場版アニメーション「時をかける少女」オリジナル・サウンドトラック](https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg) | 1:51 |

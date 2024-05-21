@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-1,936 songs - 4 day 8 hr 21 min
+1,937 songs - 4 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1072,7 +1072,7 @@
 | [Mil Febreros](https://open.spotify.com/track/0JVLbLjkbbuaUV5j9Q1vAr) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [Mil Febreros](https://open.spotify.com/album/2RGPpzKamm4Yzra3HRDI99) | 3:40 | 2022-10-16 | 2022-11-14 |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2023-03-13 | 2023-03-19 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 |  |
-| [MILLION DOLLAR BABY \(VHS\)](https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-16 |  |
+| [MILLION DOLLAR BABY \(VHS\)](https://open.spotify.com/track/3Sz8P5ZFLARe2oJeb0qsyb) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-16 | 2024-05-21 |
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-09 | 2024-04-24 |
 | [Mini Mini](https://open.spotify.com/track/3KI4rfS7kRC58Dd4ToY7P3) | [Punto40](https://open.spotify.com/artist/2C1Pj5TMq8QjqbwQ4tmDtO), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Mini Mini](https://open.spotify.com/album/4zeYzXnl5RwCm4riSOuvOE) | 3:17 | 2022-11-02 | 2022-12-21 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-13 | 2022-12-21 |
@@ -1321,6 +1321,7 @@
 | [Please Don't Go](https://open.spotify.com/track/4zoZQvmST8gliv9S9L8lUw) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [Do You Wanna Go Party](https://open.spotify.com/album/3veSKEBvveTdMZk35f6QBs) | 3:50 | 2022-10-11 | 2022-10-22 |
 | [PLEBADA](https://open.spotify.com/track/1foNLbvX6yP0tMs3eAXspd) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 3:41 | 2023-07-04 | 2023-07-12 |
 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 | 2024-02-27 | 2024-03-01 |
+| [PLN](https://open.spotify.com/track/3T3kxmb4QWwrnzoa3eOakp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 2:45 | 2024-05-20 |  |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-08-16 | 2022-08-21 |
 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-10-10 | 2023-11-16 |
 | [Poison \- Hazbin Hotel Original Soundtrack](https://open.spotify.com/track/6ZXL1A1BVshe1JZ1IY734k) | [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay) | [Poison \(Hazbin Hotel Original Soundtrack\)](https://open.spotify.com/album/6dB85sDBpcpU4s5kwU7etB) | 2:07 | 2024-02-02 | 2024-03-23 |

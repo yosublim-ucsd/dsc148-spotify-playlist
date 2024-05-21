@@ -1209,6 +1209,24 @@
     },
     {
       "album": {
+        "name": "Ladaniva",
+        "url": "https://open.spotify.com/album/1XtgrVhoVHWCqrUhx2ITDk"
+      },
+      "artists": [
+        {
+          "name": "Ladaniva",
+          "url": "https://open.spotify.com/artist/6nt7tWnBx4NqnXKO6vEByU"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145432,
+      "name": "Jako",
+      "url": "https://open.spotify.com/track/2MiEtw8UquKvxOwu47oTMu"
+    },
+    {
+      "album": {
         "name": "Cera Perdida",
         "url": "https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh"
       },
@@ -2342,7 +2360,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-21",
       "duration_ms": 230998,
       "name": "Remotely Close: Silkyway",
       "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"

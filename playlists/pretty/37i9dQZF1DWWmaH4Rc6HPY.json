@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Y regresaron las guitarras! Jos\u00e9 Madero en portada.",
-  "num_followers": 29424,
+  "num_followers": 29451,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-05-17 06:17:33",
       "album": {
+        "name": "Perder",
+        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
+      },
+      "artists": [
+        {
+          "name": "Camilo S\u00e9ptimo",
+          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
+        }
+      ],
+      "duration_ms": 219272,
+      "name": "Perder",
+      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
+    },
+    {
+      "added_at": "2024-05-17 06:17:33",
+      "album": {
         "name": "Ma\u00f1ana",
         "url": "https://open.spotify.com/album/7nK63wcJerItmaCuQjcVNm"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 199747,
       "name": "Ma\u00f1ana",
       "url": "https://open.spotify.com/track/0WiTdooUusNY56jyeToaVA"
-    },
-    {
-      "added_at": "2024-05-17 06:17:33",
-      "album": {
-        "name": "Perder",
-        "url": "https://open.spotify.com/album/4kugrRF2bFcwtLJcUp1tT8"
-      },
-      "artists": [
-        {
-          "name": "Camilo S\u00e9ptimo",
-          "url": "https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB"
-        }
-      ],
-      "duration_ms": 219272,
-      "name": "Perder",
-      "url": "https://open.spotify.com/track/64P2xSklZne3dsvcAHpdRg"
     },
     {
       "added_at": "2024-05-17 06:17:33",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-05-17 06:17:33",
       "album": {
-        "name": "Cuando No Quedan Ganas",
-        "url": "https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1"
+        "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
       },
       "artists": [
         {
-          "name": "David Otero",
-          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 204510,
-      "name": "Cuando No Quedan Ganas",
-      "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
+      "duration_ms": 184838,
+      "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
     },
     {
       "added_at": "2024-05-17 06:17:33",
@@ -927,18 +927,18 @@
     {
       "added_at": "2024-05-17 06:17:33",
       "album": {
-        "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3dMJjp5yY3yqbPFWs5Yu54"
+        "name": "Cuando No Quedan Ganas",
+        "url": "https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
         }
       ],
-      "duration_ms": 184838,
-      "name": "No Te Bast\u00f3, Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6m3r7BP5JPOKSvxFxRpHvg"
+      "duration_ms": 204510,
+      "name": "Cuando No Quedan Ganas",
+      "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
     },
     {
       "added_at": "2024-05-17 06:17:33",

@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Indien.
 
-1,427 songs - 3 day 6 hr 33 min
+1,430 songs - 3 day 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [247](https://open.spotify.com/track/7AQFhodzN09DtXGiIDtFrd) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [247](https://open.spotify.com/album/0Y9jkFL7qITGFYxPIzzqi4) | 3:18 | 2022-02-03 | 2022-12-15 |
 | [35.mm](https://open.spotify.com/track/1JjEdM4PzGEUXxttBXsOW1) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:24 | 2023-05-30 | 2024-03-09 |
 | [3:01am](https://open.spotify.com/track/0Ou5YCTpsk5rZoe3d8ihrO) | [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [3:01am](https://open.spotify.com/album/1xoWprZRhecJvQk5xssnkk) | 4:10 | 2022-03-24 | 2022-04-19 |
+| [5pm](https://open.spotify.com/track/0wDSJ6wGMl8SdDoWHt4uTf) | [Goochan](https://open.spotify.com/artist/1zn9DyqLyJO3M25GcVqnTn) | [5pm](https://open.spotify.com/album/3qcaV9TKqscYkc6Wgjcu1W) | 3:44 | 2024-05-17 |  |
 | [77](https://open.spotify.com/track/1rildoiQBPBeoAHuP84tYb) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [77](https://open.spotify.com/album/7zRM9Szm1EgOBzKWXRnIZU) | 0:44 | 2022-03-24 | 2022-08-02 |
 | [8h sonne](https://open.spotify.com/track/49kWhmgy3QXiUK9d6UHmEF) | [ANAÏS MVA](https://open.spotify.com/artist/2MBvn4Y3ugNmUlWp1W65QL) | [8h sonne](https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU) | 3:08 | 2023-10-27 | 2024-05-04 |
 | [99](https://open.spotify.com/track/7L1nVvtFdiW4FlEK9tmJ6x) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/6bkEpHoEIvTulTI8tMg7q7) | 3:03 | 2024-05-03 |  |
@@ -708,7 +709,7 @@
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-07-13 | 2023-09-16 |
 | [Malayo](https://open.spotify.com/track/55XlSI5d8hMVoNjVkpQpT7) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Malayo](https://open.spotify.com/album/5eeDd6LGXrzELl6YR6UvYb) | 4:36 | 2022-02-03 | 2022-03-17 |
 | [Maligayang Pagkunwari](https://open.spotify.com/track/11s7b3qNczlmVO0LT3PPte) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Maligayang Pagkunwari](https://open.spotify.com/album/0NqV5yJbP7ngiQPY91J9dj) | 4:34 | 2022-03-31 | 2023-04-18 |
-| [Mama Aren't You Angry](https://open.spotify.com/track/3W6MVfrJbgHzRC1VrzMSSl) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Mama Aren't You Angry](https://open.spotify.com/album/7FOnySoIGCkJ5WZPhCWqNH) | 2:43 | 2024-05-03 |  |
+| [Mama Aren't You Angry](https://open.spotify.com/track/3W6MVfrJbgHzRC1VrzMSSl) | [DANA](https://open.spotify.com/artist/3rQLVRDmnGhPhFBp4Q35Rr) | [Mama Aren't You Angry](https://open.spotify.com/album/7FOnySoIGCkJ5WZPhCWqNH) | 2:43 | 2024-05-03 | 2024-05-21 |
 | [Mamas Car](https://open.spotify.com/track/51JtGJtPkfPz4qLHFIwC4j) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Mamas Car](https://open.spotify.com/album/5jSswkACL8ldBkgeuWKG4o) | 2:16 | 2023-12-07 | 2024-03-16 |
 | [MAPA](https://open.spotify.com/track/6Fz2TpxUD0YvAPsuG8nDMJ) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [MAPA](https://open.spotify.com/album/4Qhx57hNp0CUmUbO2igtAq) | 4:35 | 2022-02-03 | 2022-03-18 |
 | [Maria, Maria](https://open.spotify.com/track/34OmSPO09C9BiDXBv1xGzL) | [Dziwna Wiosna](https://open.spotify.com/artist/2tAn2eNFnu7gP3mTdQE3ML) | [Dziwna Wiosna](https://open.spotify.com/album/0DOWUOYuRU1EsakUy3eLMG) | 3:02 | 2022-03-24 | 2022-04-19 |
@@ -829,6 +830,7 @@
 | [Normalde](https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Normalde](https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs) | 2:21 | 2024-02-02 | 2024-05-04 |
 | [Nosebleeds](https://open.spotify.com/track/0inudhDQkXZ6DjJ2X0lbcy) | [Korby](https://open.spotify.com/artist/7bOKq0vFB4YI8MP9yqvwnH) | [Nosebleeds](https://open.spotify.com/album/7Lt1XU0k4PqrRWQmEKB1v9) | 2:47 | 2024-02-09 | 2024-04-06 |
 | [NOT ALONE](https://open.spotify.com/track/4GYmqDC7trdgCL6It6oWDd) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [Soul,PRESENT](https://open.spotify.com/album/2s8DZtGWeWaLFLvBI38MM6) | 3:03 | 2023-06-09 | 2024-03-09 |
+| [NOT ALRIGHT](https://open.spotify.com/track/0m7w5JwGZDOvLio6be3GLi) | [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [NOT ALRIGHT](https://open.spotify.com/album/6kY9wH57QbOAwhxyubRQyu) | 2:57 | 2024-05-17 |  |
 | [Nothing Gold Can Stay](https://open.spotify.com/track/3uvvpRZsgVAHJjKMYMJ72w) | [Edison Song](https://open.spotify.com/artist/0oZJQjSMqH0BRibttDsySO) | [Nothing Gold Can Stay](https://open.spotify.com/album/7IoUs1g1jLzpVzhffjREki) | 3:30 | 2022-02-03 | 2022-12-15 |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-04-19 |  |
 | [Nouveau départ](https://open.spotify.com/track/0z2patdc6alfUwUi5dko35) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:36 | 2023-04-17 | 2023-10-28 |
@@ -1031,7 +1033,7 @@
 | [show](https://open.spotify.com/track/5G1JizLB3z1hHZ4rbJQHJ5) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [show](https://open.spotify.com/album/10n3HLhK3UHwFcGhqk0Fzc) | 3:23 | 2022-02-10 | 2022-03-03 |
 | [SHOWER MUSIC](https://open.spotify.com/track/5Chs3vlCnKO8fJjhSak1q7) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:12 | 2023-08-18 | 2024-03-09 |
 | [Si Quieren Frontear](https://open.spotify.com/track/3UT2CkCgSWjK6h5v5Ye4GH) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Temporada de Reggaetón 2](https://open.spotify.com/album/4Sel1lEtGGuCznbBbUg4FA) | 3:20 | 2022-06-27 | 2022-08-02 |
-| [Si Supiera](https://open.spotify.com/track/3IAfihV1p0Q1WfErciii2t) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Si Supieras](https://open.spotify.com/album/6EQ3jk3c10hFe7jTIvUHXN) | 2:37 | 2024-04-05 |  |
+| [Si Supiera](https://open.spotify.com/track/3IAfihV1p0Q1WfErciii2t) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Si Supieras](https://open.spotify.com/album/6EQ3jk3c10hFe7jTIvUHXN) | 2:37 | 2024-04-05 | 2024-05-21 |
 | [Si Tu Vuelas \- Hadal Ahbek \[Alok Remix\]](https://open.spotify.com/track/5UzmjsUHQDr6hYuZbXfXoT) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [BAREE?](https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X) | 3:17 | 2022-03-24 | 2022-12-15 |
 | [sierpień](https://open.spotify.com/track/6ufHwZE7JDBOzxEjIb6UWa) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [sierpień](https://open.spotify.com/album/53dL8KTiNeHNpTAy0yVhnz) | 2:46 | 2022-03-24 | 2022-08-02 |
 | [Single focus](https://open.spotify.com/track/6gXHe5OFhQtRYbqR0QRNEQ) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Single focus](https://open.spotify.com/album/6orsNgms9Um4gYMzguSsD0) | 3:01 | 2022-02-10 | 2023-01-28 |
@@ -1085,7 +1087,7 @@
 | [Tahanan](https://open.spotify.com/track/0R14hunYxRvkNZue5WL4Oc) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/7Jgei0LHq4rhql16x8lsuH) | 4:53 | 2022-03-21 | 2022-07-29 |
 | [Tahanan](https://open.spotify.com/track/5CUQnKjA6nlteCnxMKsjIu) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Tahanan](https://open.spotify.com/album/77pn87cuqQjBr9mb5H3mPE) | 4:53 | 2022-06-29 | 2022-09-16 |
 | [Tak Bisa Bilang](https://open.spotify.com/track/2rNMr1l3vFvJcIJh59QVLg) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Tak Bisa Bilang](https://open.spotify.com/album/6PWcf1Zb6nOjN5XJFIs1gH) | 4:09 | 2023-11-23 | 2024-03-09 |
-| [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 | 2024-04-19 |  |
+| [Tak Cukup Baik](https://open.spotify.com/track/06EYeJkCXMKd1i0BqN032n) | [Putu Maydea](https://open.spotify.com/artist/6Nhn9pZFDzY4jaw4F7Pj3b) | [Tak Cukup Baik](https://open.spotify.com/album/16s0a2G7O9g31uNLUwjRMe) | 4:14 | 2024-04-19 | 2024-05-21 |
 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 | 2023-05-30 | 2024-01-20 |
 | [Take It Further](https://open.spotify.com/track/0rbT2Eihb1kA0XUOnYHnyS) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Take It Further](https://open.spotify.com/album/1W0l2EpYKLQkD0MhVPwIHE) | 3:21 | 2022-05-19 | 2022-08-02 |
 | [Take Me](https://open.spotify.com/track/7Ix7tEAw8le0lP3YSJFPp3) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Take Me](https://open.spotify.com/album/31yx6tPI7RvMRN0yvDqf4r) | 3:38 | 2024-04-19 |  |
@@ -1144,6 +1146,7 @@
 | [tonight](https://open.spotify.com/track/56N95Y06bapESD01RBPQTf) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [tonight \(acoustic version\)](https://open.spotify.com/album/5ryNZHfaCaC1PAuyWD1CIm) | 4:43 | 2023-01-11 | 2023-02-04 |
 | [Tonight](https://open.spotify.com/track/3n1CZHXSmwEvrC3n8trfLp) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Tonight](https://open.spotify.com/album/2rZkJYYmCodKXWFYhTM2Ms) | 3:57 | 2022-03-24 | 2022-08-02 |
 | [Tonę](https://open.spotify.com/track/10W1VlePfIyjrUCTZ15Q1G) | [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Tonę](https://open.spotify.com/album/4xEZCZwXOlhAfgEYkZSU82) | 2:44 | 2022-09-08 | 2022-11-19 |
+| [Too Much Time](https://open.spotify.com/track/52Cb0LJqGkhTf1FdZKUXRk) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Too Much Time](https://open.spotify.com/album/7qosDtVE1hK4dZyjJDHOjx) | 3:01 | 2024-05-17 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2023-08-18 | 2023-11-18 |
 | [TOSCANA](https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:49 | 2022-03-24 | 2022-08-20 |
 | [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-07 | 2024-03-09 |

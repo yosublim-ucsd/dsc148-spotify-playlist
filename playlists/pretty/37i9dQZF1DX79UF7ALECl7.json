@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121545,
+  "num_followers": 121553,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Killer Machine",
+        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+      },
+      "artists": [
+        {
+          "name": "Adani & Wolf",
+          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+        }
+      ],
+      "duration_ms": 233316,
+      "name": "Killer Machine",
+      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "<3DAYSOFLOVE",
         "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
       },
@@ -923,26 +939,6 @@
       "duration_ms": 305370,
       "name": "<3DAYSOFLOVE",
       "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
-      },
-      "artists": [
-        {
-          "name": "Anna Simonetta",
-          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
-        },
-        {
-          "name": "Jeremy Lim",
-          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
-        }
-      ],
-      "duration_ms": 194421,
-      "name": "Golven",
-      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -971,18 +967,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Killer Machine",
-        "url": "https://open.spotify.com/album/0pNdH7TyR32VxC5Pk1v2lX"
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
       "artists": [
         {
-          "name": "Adani & Wolf",
-          "url": "https://open.spotify.com/artist/3p6Xv63IFoCXDFNt1u3fCh"
+          "name": "Anna Simonetta",
+          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
+        },
+        {
+          "name": "Jeremy Lim",
+          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
         }
       ],
-      "duration_ms": 233316,
-      "name": "Killer Machine",
-      "url": "https://open.spotify.com/track/2cCfDNAd7lYPSe3euIwt2w"
+      "duration_ms": 194421,
+      "name": "Golven",
+      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Deneb Cygni",
-        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
-      },
-      "artists": [
-        {
-          "name": "Takuya Yamashita",
-          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
-        }
-      ],
-      "duration_ms": 453559,
-      "name": "Deneb Cygni - Original Mix",
-      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Mr. Magic",
         "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 345534,
       "name": "Mr. Magic",
       "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Deneb Cygni",
+        "url": "https://open.spotify.com/album/4E8xASCYvVo4vBkuESnpOP"
+      },
+      "artists": [
+        {
+          "name": "Takuya Yamashita",
+          "url": "https://open.spotify.com/artist/4zpl6dfVHVNbqAIk6huc2v"
+        }
+      ],
+      "duration_ms": 453559,
+      "name": "Deneb Cygni - Original Mix",
+      "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Do This",
-        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
       },
       "artists": [
         {
-          "name": "Keljet",
-          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
-        },
-        {
-          "name": "Hyara",
-          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
         }
       ],
-      "duration_ms": 231593,
-      "name": "Do This",
-      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+        "name": "Do This",
+        "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
       },
       "artists": [
         {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+          "name": "Keljet",
+          "url": "https://open.spotify.com/artist/0aF0pIALJDBCfFgqiTaK2g"
+        },
+        {
+          "name": "Hyara",
+          "url": "https://open.spotify.com/artist/1Q0xi0vgcIdvtRdx2qtfi0"
         }
       ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+      "duration_ms": 231593,
+      "name": "Do This",
+      "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1771,26 +1771,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Youth (Satin Jackets Remix)",
-        "url": "https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx"
-      },
-      "artists": [
-        {
-          "name": "Menke",
-          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
-        },
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        }
-      ],
-      "duration_ms": 298440,
-      "name": "Youth (Satin Jackets Remix)",
-      "url": "https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/1rySIEg7XfrICPpbFTMLRg"
       },
@@ -1807,6 +1787,26 @@
       "duration_ms": 191005,
       "name": "Always",
       "url": "https://open.spotify.com/track/7xOuEBWsubmh7Soj9rnJ0d"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Youth (Satin Jackets Remix)",
+        "url": "https://open.spotify.com/album/6rYxyGa0eFIons7g5W39sx"
+      },
+      "artists": [
+        {
+          "name": "Menke",
+          "url": "https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ"
+        },
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        }
+      ],
+      "duration_ms": 298440,
+      "name": "Youth (Satin Jackets Remix)",
+      "url": "https://open.spotify.com/track/2q7kCP2kudXJJOXZiYdq2p"
     }
   ],
   "unique_name": "Coffee Club",

@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena",
-  "num_followers": 371432,
+  "num_followers": 371418,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Monstr\u00e3o",
-        "url": "https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS"
-      },
-      "artists": [
-        {
-          "name": "DENNIS",
-          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 127992,
-      "name": "Monstr\u00e3o",
-      "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 202955,
       "name": "NOSSA M\u00daSICA",
       "url": "https://open.spotify.com/track/1Q1d5yjdXpcedKFJR3p7Ir"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Monstr\u00e3o",
+        "url": "https://open.spotify.com/album/0i0UyaiLEhUGQQT65177hS"
+      },
+      "artists": [
+        {
+          "name": "DENNIS",
+          "url": "https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 127992,
+      "name": "Monstr\u00e3o",
+      "url": "https://open.spotify.com/track/2LZjtOXWZMSpRbQyd89HyQ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+        "name": "V\u00edcio Inerente",
+        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
       },
       "artists": [
         {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
         }
       ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
+      "duration_ms": 205111,
+      "name": "Dano Sarrada",
+      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "V\u00edcio Inerente",
-        "url": "https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr"
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
       },
       "artists": [
         {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 205111,
-      "name": "Dano Sarrada",
-      "url": "https://open.spotify.com/track/1vtXEy3Ii46hL6wML8H5He"
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1051,6 +1051,34 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
+        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+        }
+      ],
+      "duration_ms": 215660,
+      "name": "absurdo",
+      "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "$UGAR DADDY",
         "url": "https://open.spotify.com/album/7t4Ycuj9AMqcIQszDoUqDo"
       },
@@ -1095,34 +1123,6 @@
       "duration_ms": 175800,
       "name": "Doce Desejo",
       "url": "https://open.spotify.com/track/3CcP7KUiVSnuI3MEtRarkS"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "OS GAROTIN DE S\u00c3O GON\u00c7ALO",
-        "url": "https://open.spotify.com/album/07C0GZEXLAELHVNkBNeVXZ"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
-        }
-      ],
-      "duration_ms": 215660,
-      "name": "absurdo",
-      "url": "https://open.spotify.com/track/5bGS3CPNkYbYqEsOcGwwck"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Segredos da Vida",
-        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 142136,
-      "name": "Segredos da Vida",
-      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 257216,
       "name": "Brigas Demais - Live",
       "url": "https://open.spotify.com/track/0jezAU4LosmnZAYzw0z0hc"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Segredos da Vida",
+        "url": "https://open.spotify.com/album/4pProUWceVTYKHJEfvKs8u"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 142136,
+      "name": "Segredos da Vida",
+      "url": "https://open.spotify.com/track/3Z3H3L0BMPjnq8Ktsws8tm"
     },
     {
       "added_at": "2024-05-10 03:00:00",

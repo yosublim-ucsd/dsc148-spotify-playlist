@@ -1,12 +1,12 @@
 {
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
-  "num_followers": 182416,
+  "num_followers": 182446,
   "original_name": "This Is Jack Harlow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABbREF4XaYYbPVjfPoYFfSW",
+  "snapshot_id": "ZklBAAAAAADofat8WPiqCcnFbZzR7IJa",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/6xGr4tVzpTX99p9Cf0hRRL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 173947,
-      "name": "First Class",
-      "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
       "added_at": null,
@@ -147,22 +131,6 @@
       "duration_ms": 128409,
       "name": "THRU THE NIGHT (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 135053,
-      "name": "Dua Lipa",
-      "url": "https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4"
     },
     {
       "added_at": null,
@@ -327,18 +295,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nail Tech",
-        "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
       "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 206385,
-      "name": "Nail Tech",
-      "url": "https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz"
+      "duration_ms": 220760,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
     },
     {
       "added_at": null,
@@ -379,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 138781,
-      "name": "I Got A Shot",
-      "url": "https://open.spotify.com/track/5hNsSrWcClSp0tg4Jdd4UY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
       },
@@ -407,6 +363,26 @@
       "duration_ms": 125217,
       "name": "SUNDOWN",
       "url": "https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moana",
+        "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 178216,
+      "name": "Moana",
+      "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
     },
     {
       "added_at": null,
@@ -451,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moana",
-        "url": "https://open.spotify.com/album/62WikgopS3tO34QbVKtVP0"
-      },
-      "artists": [
-        {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 178216,
-      "name": "Moana",
-      "url": "https://open.spotify.com/track/1Tfxi7N3DW4zvAuVjt9g8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Mind",
         "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
       },
@@ -487,6 +443,22 @@
       "duration_ms": 226115,
       "name": "Yungen (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 193765,
+      "name": "I'd Do Anything To Make You Smile",
+      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
     },
     {
       "added_at": null,
@@ -527,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Home The Kids Miss You",
-        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 193765,
-      "name": "I'd Do Anything To Make You Smile",
-      "url": "https://open.spotify.com/track/7Bot6AB2dsvZEyqzUL8AUH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confetti",
         "url": "https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG"
       },
@@ -559,22 +515,6 @@
       "duration_ms": 187266,
       "name": "WARSAW (feat. 2forwOyNE)",
       "url": "https://open.spotify.com/track/2ihL1KGMA0geIqGT5pkZzo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jackman.",
-        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 99960,
-      "name": "No Enhancers",
-      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
     },
     {
       "added_at": null,
@@ -599,6 +539,22 @@
       "duration_ms": 175639,
       "name": "I Won",
       "url": "https://open.spotify.com/track/3cyiLfw6V0Vz5WxUOMEex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jackman.",
+        "url": "https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 99960,
+      "name": "No Enhancers",
+      "url": "https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK"
     },
     {
       "added_at": null,
@@ -671,30 +627,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 253568,
-      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
+      "duration_ms": 194526,
+      "name": "State Fair",
+      "url": "https://open.spotify.com/track/0PyJRNmJvJJ5OmffwQf5we"
     },
     {
       "added_at": null,
@@ -735,42 +679,46 @@
     {
       "added_at": null,
       "album": {
-        "name": "Honest Living",
-        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
+        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
       },
       "artists": [
         {
-          "name": "The Homies",
-          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 151213,
-      "name": "White Lies",
-      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
+      "duration_ms": 253568,
+      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
+      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Florida Jit",
-        "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 144874,
-      "name": "Tide Pen (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX"
+      "duration_ms": 224841,
+      "name": "Young Harleezy",
+      "url": "https://open.spotify.com/track/4CuZSJLlmUrEfcXUm6pQk9"
     },
     {
       "added_at": null,
@@ -807,24 +755,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gazebo",
-        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+        "name": "Honest Living",
+        "url": "https://open.spotify.com/album/1gNtAquFhKwk3qlsYLPpDT"
       },
       "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
         {
           "name": "Jack Harlow",
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 135746,
-      "name": "Dark Knight",
-      "url": "https://open.spotify.com/track/2cz09aOkKUMx0cBAeIs4cw"
+      "duration_ms": 151213,
+      "name": "White Lies",
+      "url": "https://open.spotify.com/track/608NQtdZfObC1BGy067JG7"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Loose",
-        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+        "name": "Come Home The Kids Miss You",
+        "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
       "artists": [
         {
@@ -832,9 +784,9 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 152380,
-      "name": "CODY BANKS",
-      "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
+      "duration_ms": 129565,
+      "name": "Lil Secret",
+      "url": "https://open.spotify.com/track/29SR6SFfjQJoddfmimHbQh"
     },
     {
       "added_at": null,
@@ -871,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Florida Jit",
+        "url": "https://open.spotify.com/album/5z3ZfPgoJDN2y1QXbYg4zY"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 144874,
+      "name": "Tide Pen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/4Wh3znTCMTIKAZ2stlikRX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gazebo",
         "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
       },
@@ -880,9 +852,25 @@
           "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 186840,
-      "name": "Eastern Parkway",
-      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
+      "duration_ms": 135746,
+      "name": "Dark Knight",
+      "url": "https://open.spotify.com/track/2cz09aOkKUMx0cBAeIs4cw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Loose",
+        "url": "https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "CODY BANKS",
+      "url": "https://open.spotify.com/track/0XcmRDeHawnaIYRIKW1vMo"
     },
     {
       "added_at": null,
@@ -923,6 +911,22 @@
       "duration_ms": 152533,
       "name": "Comic Sans (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/2dQn5I17lUiQ8ZpjqMh3TU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gazebo",
+        "url": "https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 186840,
+      "name": "Eastern Parkway",
+      "url": "https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc"
     }
   ],
   "unique_name": "This Is Jack Harlow",

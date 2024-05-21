@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Camilo & Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 687,215 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 687,200 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 46 | [Ale Ale](https://open.spotify.com/track/2cSqX6LYlP2hqVxr6fhC0j) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Ale Ale](https://open.spotify.com/album/533koxEqsjn5Pve9OgE5JB) | 3:49 |
 | 47 | [No Te Contaron Mal](https://open.spotify.com/track/0jLNtXSoXNQ09T3zyhBPDl) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [No Te Contaron Mal](https://open.spotify.com/album/6aELgtAHSfkmKVNKqDxE86) | 4:36 |
 | 48 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
-| 49 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
-| 50 | [La Noviecita](https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:41 |
+| 49 | [La Noviecita](https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:41 |
+| 50 | [La Puerta](https://open.spotify.com/track/34bjkVVJ0bPS1NbeseqpVj) | [Sergio George](https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [La Puerta](https://open.spotify.com/album/3B48WTakHmgv5x8ADMirMj) | 3:22 |
 | 51 | [Te Quiero](https://open.spotify.com/track/71WrR2qgwisH0tJZnI5xiQ) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:49 |
 | 52 | [Dios Asi Lo Quiso](https://open.spotify.com/track/48WszbQrrjEnouJmKzNDba) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Fe](https://open.spotify.com/album/3nv7KZA7usN15q1m5Xbjzw) | 3:33 |
 | 53 | [Si Tu Te Atreves](https://open.spotify.com/track/5RL1L8aKizWilny9oVXSGh) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m), [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Si Tu Te Atreves](https://open.spotify.com/album/19IQ2sU56lX0LyMitN18lG) | 3:46 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 97 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 |
 | 98 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tú No Bailas Mas Que Yo](https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q) | 3:03 |
 | 99 | [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 |
-| 100 | [Vuela Muy Alto](https://open.spotify.com/track/6r6jKUKCzpjzJXPCVkz7yT) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Vuela Muy Alto](https://open.spotify.com/album/1QMyJGvHH24EU9gaMmJhWT) | 3:25 |
+| 100 | [No Me Canso](https://open.spotify.com/track/3tbKkKbrG64V5aSEPHgG36) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [No Me Canso](https://open.spotify.com/album/0EbxeksRLXDTEIKw9VXvOw) | 4:40 |
 
 Snapshot ID: `ZkJnMwAAAAB71MNEiV/bepqe3PrrGVPf`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,970 likes - 55 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,974 likes - 55 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 18 | [Haedo Sur](https://open.spotify.com/track/0ZUeTlKIQG0hiTSuaVtRCu) | [Natalia Bazán](https://open.spotify.com/artist/2Wp5c6RzMcfX1LAzu8c1Y6), [Alejandro Aguilar](https://open.spotify.com/artist/4rpWarcBvKroTbc81jgY7n) | [De Barro y Cielo](https://open.spotify.com/album/5NXv9a0Y3eRkFbpiyPTQrQ) | 2:50 |
 | 19 | [Parece mentira](https://open.spotify.com/track/7MteYKBjWmnGAGuWlSsZ8i) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:37 |
 | 20 | [Se Dice De Mi](https://open.spotify.com/track/2GHD5K08DUu3xwereVQFHk) | [Carolina Minella](https://open.spotify.com/artist/3wolSCsYEX81LmPrZvOVbp) | [Minella](https://open.spotify.com/album/0tIbCXDeIBoSdxXvLrpsR9) | 3:16 |
-| 21 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
-| 22 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
+| 21 | [Villa Crespo](https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:03 |
+| 22 | [La canción de Buenos Aires](https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey) | [Azucena Maizani](https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n), [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f), [Orestes Cufaro](https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm) | [Vintage Argentine Tangos \(1928 \- 1954\), Vol\. 2](https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz) | 2:45 |
 | 23 | [Pipistrela](https://open.spotify.com/track/6MZlsIdezdAiBwrZrxweNd) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP), [Francisco Canaro Y Su Orquesta Tipica](https://open.spotify.com/artist/66vYcFTYX0PoYsOOURFaGf) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 1:53 |
 | 24 | [Malevaje](https://open.spotify.com/track/4LVQ2CuYGgKgQA3vsI0NyG) | [Susana Rinaldi](https://open.spotify.com/artist/44gwyR0NL3dALyIGaL9NFE) | [La Tana Con Todo](https://open.spotify.com/album/3oGlLY8Hy4jFS8jAzos8X1) | 3:57 |
 | 25 | [La Canción y el Poema \(Morir de Amor\)](https://open.spotify.com/track/5FF4C9ZJQdK8vRDiPAy3Nc) | [Soledad Villamil](https://open.spotify.com/artist/5rSSgiiHz9IhOi6T63EBKD) | [Morir de Amor](https://open.spotify.com/album/3J0s3KKczh3ZJxyXrn04wo) | 3:17 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSDaI0ox0Nq.md) - [plain]
 | 51 | [Marioneta](https://open.spotify.com/track/2aT4StMRbiUHCA1Y41cNuT) | [Noelia Moncada](https://open.spotify.com/artist/3HkXD1NjyvV3kBrrREjGrC), [Marco Antonio Fernández](https://open.spotify.com/artist/5u1fHe9hHyWlPW1opzsEaC), [Sebastián Prusak](https://open.spotify.com/artist/7e57Ep94Hv8hpZA6Ko54CH), [Daniel Falasca](https://open.spotify.com/artist/32OdpAWXjVkU1U8uTDhTha), [Octavio Brunetti](https://open.spotify.com/artist/3VbMJnIiSV32nwXOsd003P) | [Marioneta](https://open.spotify.com/album/1PLdRsYPzD1sttkZmst1Dz) | 3:56 |
 | 52 | [Malena](https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw) | [Liliana Dominguez](https://open.spotify.com/artist/4EnoBd9xImGMu78bSO2OSo) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:13 |
 | 53 | [Iluminame, por Favor](https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn) | [Chifladas Tango](https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB), [Suarez&Torres](https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti) | [Iluminame, por Favor](https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs) | 3:41 |
-| 54 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
-| 55 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
+| 54 | [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 |
+| 55 | [Quejas de Bandoneón](https://open.spotify.com/track/2kCx1Q1N6Xj7yqA2P1GvaQ) | [Las Del Abasto](https://open.spotify.com/artist/2f7l4mZd4Fnc1yW6OHsEQE) | [Mujeres del Tango](https://open.spotify.com/album/0piBCUMD8KTGPzDZJKi8ut) | 2:51 |
 
 Snapshot ID: `ZkdnUQAAAACdrd1qkEKmSiYgOPZVR6zB`

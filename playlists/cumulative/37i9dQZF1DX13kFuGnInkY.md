@@ -2,7 +2,7 @@
 
 ### [ACM Awards 2024](https://open.spotify.com/playlist/37i9dQZF1DX13kFuGnInkY)
 
-> Congratulations to all of the ACM Awards winners and nominees! Cover: Luke Combs
+> Congratulations to all of the ACM Awards winners and nominees! Cover: Reba
 
 296 songs - 16 hr 38 min
 

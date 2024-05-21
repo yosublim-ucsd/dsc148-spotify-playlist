@@ -1,18 +1,18 @@
 {
   "description": "This is Elliott Smith. The essential tracks, all in one playlist.",
-  "num_followers": 74928,
+  "num_followers": 74943,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAABF4v9jQ/sm9zK8kAqMocOc",
+  "snapshot_id": "ZklBAAAAAAB3/GzY3TwkyRneLk5UJtzK",
   "tracks": [
     {
       "added_at": null,
       "album": {
         "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 141280,
-      "name": "Between The Bars",
-      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE"
+      "duration_ms": 139000,
+      "name": "Say Yes",
+      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
     },
     {
       "added_at": null,
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Say Yes",
-      "url": "https://open.spotify.com/track/4IKMZtDIqyQDA6a4YvsgpK"
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": null,
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "Son Of Sam",
-      "url": "https://open.spotify.com/track/6tPiCU4LFsXUQPRIykOAnl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -135,38 +119,6 @@
       "duration_ms": 202533,
       "name": "Pitseleh",
       "url": "https://open.spotify.com/track/1Q0sk7b7PAGjgC3R5zyuWt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 176826,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Elliott Smith",
-        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 259893,
-      "name": "Needle In The Hay",
-      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
     },
     {
       "added_at": null,
@@ -187,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 157360,
-      "name": "Angel In The Snow",
-      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Either/Or",
         "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
       },
@@ -219,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "XO",
-        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+        "name": "Elliott Smith",
+        "url": "https://open.spotify.com/album/1nGWgkinMkmX7BlAuC4umM"
       },
       "artists": [
         {
@@ -228,9 +164,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 184906,
-      "name": "Independence Day",
-      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+      "duration_ms": 259893,
+      "name": "Needle In The Hay",
+      "url": "https://open.spotify.com/track/7I7O0huqjKrXHX0aaLuO5B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 157360,
+      "name": "Angel In The Snow",
+      "url": "https://open.spotify.com/track/7Cy8GDa9fgMatoRGFIKjg9"
     },
     {
       "added_at": null,
@@ -247,22 +199,6 @@
       "duration_ms": 194066,
       "name": "L.A.",
       "url": "https://open.spotify.com/track/7xMklu8GE39dYZBWJMxrBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Moon",
-        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 137800,
-      "name": "Whatever (Folk Song In C)",
-      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -292,9 +228,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 137533,
-      "name": "I Didn't Understand",
-      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
+      "duration_ms": 184906,
+      "name": "Independence Day",
+      "url": "https://open.spotify.com/track/3pM7gfel0ho7yVJw4KK5Eq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Moon",
+        "url": "https://open.spotify.com/album/1BbuJWxtdCS2r6wBt1JsSN"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 137800,
+      "name": "Whatever (Folk Song In C)",
+      "url": "https://open.spotify.com/track/5CrMp9BViHrB30hM6gbmIx"
     },
     {
       "added_at": null,
@@ -311,22 +263,6 @@
       "duration_ms": 142893,
       "name": "Everything Means Nothing To Me",
       "url": "https://open.spotify.com/track/6YNfrgCOy1dCXZKKRUuZVq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 193240,
-      "name": "No Name #3",
-      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
     },
     {
       "added_at": null,
@@ -356,9 +292,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 193760,
-      "name": "Baby Britain",
-      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
+      "duration_ms": 137533,
+      "name": "I Didn't Understand",
+      "url": "https://open.spotify.com/track/3IQApXKUun0iHHtpsvI7xL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 193240,
+      "name": "No Name #3",
+      "url": "https://open.spotify.com/track/1UwBdRQA4dMkNnixlApY7Z"
     },
     {
       "added_at": null,
@@ -375,6 +327,38 @@
       "duration_ms": 113240,
       "name": "Bye",
       "url": "https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 145706,
+      "name": "Punch And Judy",
+      "url": "https://open.spotify.com/track/7rQJa4XaTfHuA4TVwU8m3Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XO",
+        "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 193760,
+      "name": "Baby Britain",
+      "url": "https://open.spotify.com/track/3pwj90XGAD6I0jO3q6fkCx"
     },
     {
       "added_at": null,
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Roman Candle",
+      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/1zOxlHQGGV6EH7n4OIFTyh"
       },
@@ -427,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts"
       },
       "artists": [
         {
@@ -436,9 +436,25 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 216960,
-      "name": "Roman Candle",
-      "url": "https://open.spotify.com/track/3zUkBorysSm42GV4akxnoB"
+      "duration_ms": 229706,
+      "name": "Junk Bond Trader",
+      "url": "https://open.spotify.com/track/5I82Gy3FcoPGP4rzYbXADt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 238013,
+      "name": "A Fond Farewell",
+      "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
     },
     {
       "added_at": null,
@@ -459,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -468,9 +484,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 238013,
-      "name": "A Fond Farewell",
-      "url": "https://open.spotify.com/track/60763oPe4Ngyu1Q3jFZWHi"
+      "duration_ms": 183053,
+      "name": "No Name #1",
+      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
     },
     {
       "added_at": null,
@@ -495,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 183053,
-      "name": "No Name #1",
-      "url": "https://open.spotify.com/track/5fKfzL3IVXqilKqFu1E8is"
+      "duration_ms": 147240,
+      "name": "Let's Get Lost",
+      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
     },
     {
       "added_at": null,
@@ -527,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/4YRoxHoDrGw0LI5rxDH9Dl"
+        "name": "Roman Candle",
+        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
       },
       "artists": [
         {
@@ -536,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 147240,
-      "name": "Let's Get Lost",
-      "url": "https://open.spotify.com/track/7CV3sIPtEwUhdZ5E3Qgykq"
+      "duration_ms": 214853,
+      "name": "Condor Ave",
+      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
     },
     {
       "added_at": null,
@@ -559,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roman Candle",
-        "url": "https://open.spotify.com/album/6zbWzjBUvXvF16tg98OYck"
+        "name": "From A Basement On The Hill",
+        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
       },
       "artists": [
         {
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 214853,
-      "name": "Condor Ave",
-      "url": "https://open.spotify.com/track/2lUejG76ZEmgY7PvzwxxTj"
+      "duration_ms": 33800,
+      "name": "Ostrich And Chirping",
+      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,
@@ -587,22 +603,6 @@
       "duration_ms": 145786,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/3CIVlmcrOjfEE9RmTUnzx2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From A Basement On The Hill",
-        "url": "https://open.spotify.com/album/66UbcdMK6oC2XFPLeESamq"
-      },
-      "artists": [
-        {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
-        }
-      ],
-      "duration_ms": 33800,
-      "name": "Ostrich And Chirping",
-      "url": "https://open.spotify.com/track/25OfkVstO0W60e8OHCggox"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37306,
+  "num_followers": 37307,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAB2PVvx5e/z/uPdIB9nO9HW",
+  "snapshot_id": "ZklBAAAAAADdkt+me3pvsxlRFkjZ2+f/",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "By Design [Evel Knievel]",
-      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 197701,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/1CZbcH7PL9aa5x6FCAtUKT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "By Design [Evel Knievel]",
+      "url": "https://open.spotify.com/track/3AW8GEO8kc0X4zVGJFGkh2"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 202133,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Me",
         "url": "https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Won't Turn Back",
-      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lundi M\u00e9chant",
         "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 231213,
       "name": "Only Way Is Up",
       "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Won't Turn Back",
+      "url": "https://open.spotify.com/track/5phS4HjdpyS4MErXYGuy59"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 191613,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Monologue",
         "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 294227,
       "name": "Dear Simone",
       "url": "https://open.spotify.com/track/1SaHqUS2eNW507xDzTooPq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 191613,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/1zDC7bs9jmXzBReD5JvpHn"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Monologue",
+        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 208172,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies About The War",
         "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 202213,
       "name": "Bang",
       "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Monologue",
-        "url": "https://open.spotify.com/album/2LQsKFrA1SRC81XjbYB8Kj"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 208172,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/3NAgVeM0Lr6GPh8tsQUhiK"
     },
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Owe You Nothing / Remember",
-        "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 252393,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Other People\u2019s Heartache (Pt. 4)",
         "url": "https://open.spotify.com/album/3cGGFGQJ027VtMknlIHNNi"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 342012,
       "name": "The Descent",
       "url": "https://open.spotify.com/track/54bqtn4yFAPD9OoIecweDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Owe You Nothing / Remember",
+        "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 252393,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/3GMy4AOJogX3mMsoom1s0Z"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p"
-      },
-      "artists": [
-        {
-          "name": "Laleh",
-          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 142546,
-      "name": "Coffee (feat. Jacob Banks)",
-      "url": "https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Chandeliers",
         "url": "https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 203500,
       "name": "Broken Chandeliers",
       "url": "https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/5YYcCrRlLW0eyUJIghzV8p"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 142546,
+      "name": "Coffee (feat. Jacob Banks)",
+      "url": "https://open.spotify.com/track/0sgWmb5j8NoyTFv97Wo3IW"
     }
   ],
   "unique_name": "This Is Jacob Banks",

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. The essential tracks, all in one playlist.
+> This is Eyshila\. Todos os maiores hits em uma só playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 66,792 likes - 50 songs - 4 hr 29 min
 
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 32 | [Eu Quero Ser Santo](https://open.spotify.com/track/5sLmKSlC5aDWhTomfobhqK) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:20 |
 | 33 | [Medley A Doçura do Teu Falar \- Ao Vivo](https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Memórias do Coração \- Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS) | 8:02 |
 | 34 | [Pastor](https://open.spotify.com/track/6U0GQYI8fxh5T6dgKnx5hv) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Thyago Fersil](https://open.spotify.com/artist/1NUvYKjjgjF7W8yMvu9Wta), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4), [Marcus Salles](https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Marquinhos Menezes](https://open.spotify.com/artist/346ncC0fvMSVV75BR8LFf2), [Lilian Azevedo](https://open.spotify.com/artist/7g0oBs0qkjsNWaUNbYHk5N), [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Emerson Pinheiro](https://open.spotify.com/artist/3OEGZWy4uk8PmTVG9WpNxw), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 6:16 |
-| 35 | [Sonhos Não Tem Fim](https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 6:42 |
-| 36 | [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 |
+| 35 | [Na Casa de Deus](https://open.spotify.com/track/1TIbjRcaiVbpvriftlC8V4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Na Casa de Deus](https://open.spotify.com/album/0Weu4gJUCFkhxcOATfbkrX) | 4:14 |
+| 36 | [Sonhos Não Tem Fim](https://open.spotify.com/track/2eNcB9K068sJio6Udpix6T) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 6:42 |
 | 37 | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/track/6Aj8jLNU5ZY699OxF21e6S) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Tu És Bom \(Em Todo o Tempo\)](https://open.spotify.com/album/4hzusKWfCutuWPYLS118Lt) | 5:52 |
 | 38 | [Simplesmente Te Adorar](https://open.spotify.com/track/6DxvKijLDKzGzp9JuOhQ7H) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 6:23 |
 | 39 | [Deus se Lembra](https://open.spotify.com/track/7qZKCnKz71JiDf51s4McIz) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 49 | [Pelo Fogo](https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 6:13 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZkfvgAAAAADO8EneYM7mAyunsY849Jp6`
+Snapshot ID: `ZklBAAAAAABI1dfMuTH1WYGh2VuPgLIA`

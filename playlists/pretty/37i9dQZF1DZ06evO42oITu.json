@@ -1,12 +1,12 @@
 {
   "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
-  "num_followers": 348373,
+  "num_followers": 348424,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkfvgAAAAAAFHDTDYev+3AGah2IH7vf9",
+  "snapshot_id": "ZklBAAAAAACfiQVGY7xGgM/uA+Uo8VIR",
   "tracks": [
     {
       "added_at": null,
@@ -419,18 +419,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "For Your Love (2015 Remaster)",
+        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
       },
       "artists": [
+        {
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+        },
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 150626,
+      "name": "For Your Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
     },
     {
       "added_at": null,
@@ -451,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
       },
       "artists": [
         {
@@ -460,9 +464,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
     },
     {
       "added_at": null,
@@ -487,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
       "artists": [
         {
@@ -496,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
     },
     {
       "added_at": null,
@@ -523,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Behind the Sun",
-        "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
       "artists": [
         {
@@ -532,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Forever Man - 1999 Remaster",
-      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -575,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Behind the Sun",
+        "url": "https://open.spotify.com/album/5WX2WQT74bVZl9UqqY6LZT"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Forever Man - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eric Clapton",
         "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
@@ -611,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 239053,
+      "name": "Before You Accuse Me - Acoustic Live",
+      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -627,22 +663,6 @@
       "duration_ms": 332773,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 239053,
-      "name": "Before You Accuse Me - Acoustic Live",
-      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
       "added_at": null,
@@ -707,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -723,22 +759,6 @@
       "duration_ms": 249440,
       "name": "Heads in Georgia",
       "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic Live",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
       "added_at": null,
@@ -783,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic Live",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -799,22 +835,6 @@
       "duration_ms": 256866,
       "name": "It's Easy",
       "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic Live",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
       "added_at": null,
@@ -855,6 +875,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "461 Ocean Blvd. (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Please Be With Me",
+      "url": "https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patient Number 9",
         "url": "https://open.spotify.com/album/4u1LXToDGOdhDDf4c9zeqb"
       },
@@ -871,22 +907,6 @@
       "duration_ms": 280206,
       "name": "One of Those Days (feat. Eric Clapton)",
       "url": "https://open.spotify.com/track/2lcfGO79t1PqcXc2Mbxyd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "461 Ocean Blvd. (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Please Be With Me",
-      "url": "https://open.spotify.com/track/2ZqxxxpB7gIhlq1vxJ87Dd"
     },
     {
       "added_at": null,
@@ -927,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Save A Child: An Intimate Live Concert",
-        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Voice of a Child - Live",
-      "url": "https://open.spotify.com/track/546iq6e6MomcUa3MUgljZq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "461 Ocean Blvd. (Deluxe Edition)",
         "url": "https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB"
       },
@@ -959,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Road to Escondido",
-        "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
+        "name": "To Save A Child: An Intimate Live Concert",
+        "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
         }
       ],
-      "duration_ms": 275520,
-      "name": "Ride the River",
-      "url": "https://open.spotify.com/track/3sDSFcI1b35KqEEd0bDzBu"
+      "duration_ms": 211000,
+      "name": "Voice of a Child - Live",
+      "url": "https://open.spotify.com/track/546iq6e6MomcUa3MUgljZq"
     }
   ],
   "unique_name": "This Is Eric Clapton",

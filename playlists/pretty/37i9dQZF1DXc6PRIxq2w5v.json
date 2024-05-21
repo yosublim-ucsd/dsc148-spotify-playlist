@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Noventa, Vk Mac",
-  "num_followers": 168076,
+  "num_followers": 168132,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -771,6 +771,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Nemo",
+        "url": "https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i"
+      },
+      "artists": [
+        {
+          "name": "Lookas",
+          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
+        },
+        {
+          "name": "Novidade Urbana",
+          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
+        }
+      ],
+      "duration_ms": 115140,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Deixa Ele Entrar",
         "url": "https://open.spotify.com/album/6wpKGkXjyxjMNUNTU0gF9T"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 176060,
       "name": "Deixa Ele Entrar",
       "url": "https://open.spotify.com/track/4vy5XZ4lu2pmysT0tVDSBx"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Nemo",
-        "url": "https://open.spotify.com/album/4l3o6tjbPzEeOpxmBDs55i"
-      },
-      "artists": [
-        {
-          "name": "Lookas",
-          "url": "https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF"
-        },
-        {
-          "name": "Novidade Urbana",
-          "url": "https://open.spotify.com/artist/3DgCbsyCW1JOgEJEe8WrVy"
-        }
-      ],
-      "duration_ms": 115140,
-      "name": "Nemo",
-      "url": "https://open.spotify.com/track/4jfDVP8MynmWbMkzFAyKRc"
     },
     {
       "added_at": "2024-05-17 03:01:00",

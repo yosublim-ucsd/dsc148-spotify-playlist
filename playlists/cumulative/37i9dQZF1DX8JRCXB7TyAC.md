@@ -2,7 +2,7 @@
 
 ### [Haryanvi Workout](https://open.spotify.com/playlist/37i9dQZF1DX8JRCXB7TyAC)
 
-> Workout with Haryanvi Songs\. Cover: Ankit Baiyanpuria
+> Workout with Haryanvi Songs.
 
 113 songs - 5 hr 38 min
 

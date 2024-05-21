@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14287,
+  "num_followers": 14288,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Bandana",
         "url": "https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke"
       },
@@ -471,22 +491,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Puul",
-        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 172486,
-      "name": "Puul",
-      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -503,6 +507,22 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Puul",
+        "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 172486,
+      "name": "Puul",
+      "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -547,26 +567,6 @@
       "duration_ms": 178775,
       "name": "Dalilah II",
       "url": "https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Atele",
-        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
-      },
-      "artists": [
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 166885,
-      "name": "Atele",
-      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Believe Me",
         "url": "https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 155999,
+      "name": "December",
+      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "5 Star",
         "url": "https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 177067,
       "name": "10 Toes (feat. Omah Lay)",
       "url": "https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Atele",
+        "url": "https://open.spotify.com/album/5RZ1JeQvf9rTr772dR2Xa1"
+      },
+      "artists": [
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 166885,
+      "name": "Atele",
+      "url": "https://open.spotify.com/track/0ODCrGAuV8iSgnI8aJLznB"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Otan",
-        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 196951,
-      "name": "Otan",
-      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Otan",
+        "url": "https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 196951,
+      "name": "Otan",
+      "url": "https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Aseda",
         "url": "https://open.spotify.com/album/5uw6BvKCIK8nlIlQFOP5v9"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 180486,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/1baB17D3B2m7PkOB4MXfaX"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 155999,
-      "name": "December",
-      "url": "https://open.spotify.com/track/3kkuduvNylAGQklZkrqZJT"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp"
+      },
+      "artists": [
+        {
+          "name": "BHADMAYORS",
+          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
+        },
+        {
+          "name": "AlorG",
+          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
+        }
+      ],
+      "duration_ms": 160036,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 184385,
       "name": "Jah Guide",
       "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/341Uld1xLyYN8AXlI0qWtp"
-      },
-      "artists": [
-        {
-          "name": "BHADMAYORS",
-          "url": "https://open.spotify.com/artist/5hq1ZnGH5765wElD2lvjkT"
-        },
-        {
-          "name": "AlorG",
-          "url": "https://open.spotify.com/artist/3XVsxJ7cSnDnHtssbKiIPb"
-        }
-      ],
-      "duration_ms": 160036,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/7a3qrGeR5aJZuZFb7fRQ9H"
     },
     {
       "added_at": "2024-05-17 00:01:00",

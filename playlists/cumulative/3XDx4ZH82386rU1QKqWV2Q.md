@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-570 songs - 23 hr 57 min
+571 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,6 +456,7 @@
 | [SHORT CIRCUIT](https://open.spotify.com/track/2uG7QUtz7owCcQr84JD7fG) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12) | [SHORT CIRCUIT](https://open.spotify.com/album/4q6mDmOB3YhI6xrNMQKFW8) | 1:56 | 2023-08-03 | 2023-09-26 |
 | [Show Me](https://open.spotify.com/track/558O5tR6wMeXOyf3qPRa9O) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Show Me](https://open.spotify.com/album/1wIZvaBKOVyPLaPcigi28n) | 2:23 | 2023-08-26 | 2023-12-14 |
 | [Shrapnel](https://open.spotify.com/track/4GtRQmv1VgyCKG8NTMSxEn) | [Rok Ali and the Addiction](https://open.spotify.com/artist/2LIBmNEFBvgXxkqVw91tAg) | [Rok Ali and the Addiction](https://open.spotify.com/album/5pVPuas0oCL1piHutkLTST) | 4:16 | 2023-06-12 | 2023-07-04 |
+| [Silent](https://open.spotify.com/track/3Ru6pnv0mzAdSsjxKIMp4w) | [SPYRAL](https://open.spotify.com/artist/4XNwb6ukiDzAyHxQqHR0E1) | [Silent](https://open.spotify.com/album/1VSsN9rUWvTNxocgg79Ofv) | 2:27 | 2024-05-20 |  |
 | [SINISTER](https://open.spotify.com/track/6dbKJd0VW2PKdiayMDKx4h) | [Kllsignl](https://open.spotify.com/artist/1ZqhTja2DcYnQMLDywiFXb) | [SINISTER](https://open.spotify.com/album/4rtRxBQYYkeRV6s05OB4q3) | 2:57 | 2024-04-23 |  |
 | [sink into you](https://open.spotify.com/track/0yx6myRdp0otpA2mL4C0EB) | [Salem LaVey](https://open.spotify.com/artist/4WDfbxP0YEM93gubw4SvRL) | [Blackbride](https://open.spotify.com/album/7rixMwAwuxSRCGxNqS2SXL) | 4:20 | 2024-02-05 | 2024-03-26 |
 | [sins](https://open.spotify.com/track/5QCFXhgAwZBzX2szVZ3Xmt) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [sins](https://open.spotify.com/album/5rsH2fYloVrPHJOXv2aDQL) | 1:55 | 2024-03-17 |  |

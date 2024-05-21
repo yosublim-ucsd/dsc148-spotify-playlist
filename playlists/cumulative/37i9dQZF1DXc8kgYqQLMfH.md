@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,153 songs - 1 day 19 hr 47 min
+1,154 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,7 +310,7 @@
 | [endearing](https://open.spotify.com/track/2fTN3Osj9COyyoFyGKnppX) | [eevee](https://open.spotify.com/artist/4pwqNyMSvuv7VOhQBdjB6Q) | [endearing](https://open.spotify.com/album/2rzKJC0vgRiXhkZLO4htwB) | 2:00 | 2022-07-29 | 2022-10-29 |
 | [Ender](https://open.spotify.com/track/0mE3vnX3Jl8lPrw616n3qY) | [1ga](https://open.spotify.com/artist/34NTA1C1HZCG5v0szAB5Fu) | [Goblin](https://open.spotify.com/album/5HuYg16CS7wK0qDa6Y1K7V) | 2:44 | 2021-11-10 | 2022-10-15 |
 | [Endless](https://open.spotify.com/track/6CkDqbpSaKHUh7lvXxpioS) | [Goudo J](https://open.spotify.com/artist/59xol4VJ5T58RiIgiMFKR8) | [Endless](https://open.spotify.com/album/3VAXigb1EDQeHoH5GBV09g) | 2:05 | 2021-11-10 | 2022-05-20 |
-| [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 |  |
+| [Endless Trial](https://open.spotify.com/track/6khoEFdFHEJvKpEqjscyXc) | [pipetiger](https://open.spotify.com/artist/12HMurN87aQV1xBcqfcjnL) | [Endless Trial](https://open.spotify.com/album/2X5s9BJcQ3kWg3eMr9sIiI) | 1:48 | 2022-08-12 | 2024-05-21 |
 | [Enjoy](https://open.spotify.com/track/7feSrht6OcaDya6Un742qQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Enjoy](https://open.spotify.com/album/7BdAV4twF950bjoesRSrta) | 1:50 | 2022-05-20 |  |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-11-10 | 2022-07-22 |
 | [Essence](https://open.spotify.com/track/6TsfMWf0hyOq0ReOC1tPo2) | [Wishard](https://open.spotify.com/artist/6yHjaHwGhawtwP93NcKs81) | [Essence](https://open.spotify.com/album/0ufT8iY30Fvqvr5DAU8LOw) | 2:36 | 2021-11-10 | 2023-04-12 |
@@ -554,7 +554,7 @@
 | [left staring](https://open.spotify.com/track/1aKmyCgZQbhVeN9aH6co0I) | [bugdawn](https://open.spotify.com/artist/3iB5oTLzBMSaNQ2CajhcGz) | [left staring](https://open.spotify.com/album/0qRiHtoEzskxs1lcKzLIml) | 2:12 | 2021-11-10 | 2022-06-03 |
 | [Lego](https://open.spotify.com/track/6qdYRJZesimF7fPkTaGSFL) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Lego](https://open.spotify.com/album/6D4m3UGV2LVloI7Vmh3fQv) | 2:04 | 2021-11-10 | 2023-03-02 |
 | [Lemon Market](https://open.spotify.com/track/2CFwwaPy6N1VHxEY48ADfc) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Lemon Market](https://open.spotify.com/album/0P5mOLIUgPkOoD2TClx4vW) | 2:42 | 2023-04-11 |  |
-| [Leon](https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN) | [Veiva](https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k) | [Leon](https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s) | 2:15 | 2023-10-20 | 2024-05-14 |
+| [Leon](https://open.spotify.com/track/4XlPSTOOCYHEgxdzPdlaMN) | [Veiva](https://open.spotify.com/artist/1p7qeEg0md2NDp79AQTx1k) | [Leon](https://open.spotify.com/album/6wTN0qhaCAFQdd3UMnvj5s) | 2:15 | 2023-10-20 |  |
 | [Let Your Feet Dangle](https://open.spotify.com/track/4RaXy0LmaGyiqMrKQsU3k7) | [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr), [Beyond Moments](https://open.spotify.com/artist/2Kdx7FakZqck2kep2MyTW4), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6) | [Let Your Feet Dangle](https://open.spotify.com/album/4d3ncw3CrRX2JD5nxdyAp3) | 2:22 | 2023-01-06 |  |
 | [Let's stay here forever](https://open.spotify.com/track/5M4NSsW6J63KGMHc1y0c6c) | [softclouds](https://open.spotify.com/artist/4rjXInANFMCQfAzadFAi4d) | [Let's stay here forever](https://open.spotify.com/album/7f6G4nEcP8zfHdFE61MABP) | 2:29 | 2024-02-09 |  |
 | [leyawiin](https://open.spotify.com/track/6VqChVa40ZOFZyve05Zq0m) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [leyawiin](https://open.spotify.com/album/24u2vd97YmlbRVHeLbxLte) | 1:28 | 2021-11-10 | 2022-07-29 |
@@ -673,7 +673,7 @@
 | [Morning Mist](https://open.spotify.com/track/2sBez5HNklqVvAHXr4Rdy2) | [rezov](https://open.spotify.com/artist/6qkecg8KZjkwnYkLGP4H3H) | [Morning Mist](https://open.spotify.com/album/4ly78EoL5J9WXcHaKYmSaJ) | 2:33 | 2022-11-25 | 2023-05-20 |
 | [Morning Nature](https://open.spotify.com/track/7mTekQjP822DSXDNsjUM7b) | [Terrence Woods](https://open.spotify.com/artist/68OTfPEEVauMj9rWCFSz1k) | [Morning Nature](https://open.spotify.com/album/0QDzmNXuK79T55gf5UYDAJ) | 2:20 | 2022-09-02 |  |
 | [Morning Routine](https://open.spotify.com/track/5xkFx1r5s899TF4eDlzIq4) | [MZERA](https://open.spotify.com/artist/7xJs9lbHChKSJ9cHvW95tK), [DAISI](https://open.spotify.com/artist/6puAtSfW1mN8JoGYgG1x2i) | [Morning Routine](https://open.spotify.com/album/7h1b8l17OW0aKsk4MAKalt) | 1:59 | 2023-04-20 |  |
-| [morning snowfall](https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [morning snowfall](https://open.spotify.com/album/5rPiiqeRJTAuQbEj9O3c36) | 3:14 | 2024-03-22 |  |
+| [morning snowfall](https://open.spotify.com/track/0OWOH3peRNugmlPPzBGqpQ) | [sozin](https://open.spotify.com/artist/0XO6mvpyaIdmGMmpsTtyIj) | [morning snowfall](https://open.spotify.com/album/5rPiiqeRJTAuQbEj9O3c36) | 3:14 | 2024-03-22 | 2024-05-21 |
 | [Morning Sunrise](https://open.spotify.com/track/0wzWrIYYmziBwVPPGvnIHq) | [Cammie](https://open.spotify.com/artist/44r79Vc1hTjMlaDFfWE5aO), [Chkody](https://open.spotify.com/artist/0lpmaOMQwbE7m9MOQjBQuU) | [Morning Sunrise](https://open.spotify.com/album/24hioIL1cpUNoGRDOwBoWx) | 2:20 | 2022-10-01 |  |
 | [morrowind](https://open.spotify.com/track/2KEKQ6UuaqnuvYHLbh6rn8) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/3iZaHCWiNFfzuQqGTQoDsL) | 1:37 | 2021-11-10 | 2022-09-20 |
 | [morrowind](https://open.spotify.com/track/2VzFtP6YxLfDk0U7aMD4H2) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [morrowind](https://open.spotify.com/album/2w1B689gsXzaKg85JxAvy3) | 1:37 | 2022-09-16 | 2022-10-15 |
@@ -971,6 +971,7 @@
 | [Summerheat](https://open.spotify.com/track/5u6VZLh8SRuyuCRm6QAaDE) | [LelleXCX](https://open.spotify.com/artist/0fjlNlZw225NEmBfLcYg6t) | [Youth](https://open.spotify.com/album/6EsM3MnrEP0kcCf73zoHlF) | 2:03 | 2021-11-10 | 2023-05-20 |
 | [Summertime Blues](https://open.spotify.com/track/3XmOuqXQtu7SCb82KktsnO) | [Loodwig](https://open.spotify.com/artist/7zLCueWV49iUQ2MwVOx12y) | [Summertime Blues](https://open.spotify.com/album/41kBGuEtmvYtB9EnbaxEfr) | 1:27 | 2022-07-08 | 2023-09-22 |
 | [Sunday Mood](https://open.spotify.com/track/4qRYHMB8EWsrekRnRokg8J) | [Almo X](https://open.spotify.com/artist/77LNTMtPR18hlGEqqXMOgh) | [Moments](https://open.spotify.com/album/0qcoRrRIUz1YUSWgx0coO2) | 1:48 | 2021-11-10 | 2022-09-03 |
+| [Sunday Mood](https://open.spotify.com/track/7BkPUaGIWkLuNvsN83xiAp) | [Uneven Cream](https://open.spotify.com/artist/3q4YekQy6KxztUAacnsqLf) | [Sunday Mood](https://open.spotify.com/album/13RtQFl4U2ydQq029emsCe) | 2:24 | 2024-05-13 |  |
 | [Sundets](https://open.spotify.com/track/1s8KFO2b6qhK94kzCc375G) | [Kanbina Mind](https://open.spotify.com/artist/6sPgHyYKS3VMneq1yoflgm) | [Kanbina](https://open.spotify.com/album/6HZiWLomAqbJbt56oOiK34) | 2:02 | 2022-02-18 | 2023-03-02 |
 | [Sunflower](https://open.spotify.com/track/3HcIqhV8hT1NTlQW8D4QSJ) | [Bipeula](https://open.spotify.com/artist/5Kcv07Jj6RthywQndqvfh2) | [Sunflower](https://open.spotify.com/album/6DZisckW1UkOLEAN0KhkYQ) | 2:24 | 2023-04-11 |  |
 | [Sunny Day](https://open.spotify.com/track/00d0LL4djhlYxtx1GzwpRz) | [B\. Still](https://open.spotify.com/artist/6Imdb7v3PJd9zZ5FYTF3Qn) | [A Day For Yourself](https://open.spotify.com/album/1Stm3EmA3uuuuxABPciwnt) | 2:03 | 2022-01-27 |  |

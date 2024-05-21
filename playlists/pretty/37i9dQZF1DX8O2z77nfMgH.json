@@ -6,8 +6,28 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklLFgAAAAA3Q48NjsqM+9bcSvfaE50a",
+  "snapshot_id": "ZkunkwAAAACEZavunUH39YGYikphspQ+",
   "tracks": [
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+    },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
@@ -43,26 +63,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "GATITAS SANDUNGUERAS VOL.1",
-      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "APAGA EL CEL",
         "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
       },
@@ -79,46 +79,6 @@
       "duration_ms": 184806,
       "name": "APAGA EL CEL",
       "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Bellakita",
-        "url": "https://open.spotify.com/album/001Nuj6059F5eukzPiJYLa"
-      },
-      "artists": [
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 254625,
-      "name": "Bellakita",
-      "url": "https://open.spotify.com/track/7nQtDn5fzxYY1GU0kg4zbW"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "MIONCA",
-        "url": "https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        }
-      ],
-      "duration_ms": 186277,
-      "name": "MIONCA",
-      "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -171,6 +131,46 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Bellakita",
+        "url": "https://open.spotify.com/album/001Nuj6059F5eukzPiJYLa"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 254625,
+      "name": "Bellakita",
+      "url": "https://open.spotify.com/track/7nQtDn5fzxYY1GU0kg4zbW"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "MIONCA",
+        "url": "https://open.spotify.com/album/3jjWzpGtGBUoMEDduwVvrB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        }
+      ],
+      "duration_ms": 186277,
+      "name": "MIONCA",
+      "url": "https://open.spotify.com/track/3UxRvZWhEfSJmNDsbEjKOY"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "BlessDeluxury",
         "url": "https://open.spotify.com/album/0MkMu019XCFwwuL1ftHKmQ"
       },
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Piel Canela",
+        "url": "https://open.spotify.com/album/4m9I8JngMrUe0HAHtY0OJM"
+      },
+      "artists": [
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 117528,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5xX3z9NR81t0fHAALjohNk"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "IMAN (Two Of Us)",
         "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 200520,
       "name": "Santa Marta",
       "url": "https://open.spotify.com/track/4XIpKXTvQ3Wa94C2zsYfV1"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Piel Canela",
-        "url": "https://open.spotify.com/album/4m9I8JngMrUe0HAHtY0OJM"
-      },
-      "artists": [
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 117528,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5xX3z9NR81t0fHAALjohNk"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -347,18 +347,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "El Voldemor",
-        "url": "https://open.spotify.com/album/5hAgPOazMiYtb86O8LVwV8"
+        "name": "Intacto",
+        "url": "https://open.spotify.com/album/5oH65p7h1WZWVgJoprsGG2"
       },
       "artists": [
         {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
         }
       ],
-      "duration_ms": 167066,
-      "name": "El Voldemor",
-      "url": "https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F"
+      "duration_ms": 160055,
+      "name": "Intacto",
+      "url": "https://open.spotify.com/track/16h3RLI5IrQkimFyJ02gYe"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -383,22 +387,34 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Intacto",
-        "url": "https://open.spotify.com/album/5oH65p7h1WZWVgJoprsGG2"
+        "name": "El Voldemor",
+        "url": "https://open.spotify.com/album/5hAgPOazMiYtb86O8LVwV8"
       },
       "artists": [
         {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
         }
       ],
-      "duration_ms": 160055,
-      "name": "Intacto",
-      "url": "https://open.spotify.com/track/16h3RLI5IrQkimFyJ02gYe"
+      "duration_ms": 167066,
+      "name": "El Voldemor",
+      "url": "https://open.spotify.com/track/68eRrgeRSCw571y4E2cr0F"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -419,22 +435,6 @@
       "duration_ms": 209335,
       "name": "LA CRUSH",
       "url": "https://open.spotify.com/track/0r0uZzz9nsnEKOeQbYteHn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/3chlK1TsdvDxw0NB7o5W8S"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/58G2ukj1pUgsZZo5MHX9U3"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -535,6 +535,46 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Los Sentimientos De un Robot",
+        "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "duration_ms": 232840,
+      "name": "2000's",
+      "url": "https://open.spotify.com/track/21YrUZi23eK0jx7wPU5oh0"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
+      },
+      "artists": [
+        {
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
+        }
+      ],
+      "duration_ms": 152243,
+      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
+      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Los Dolidos",
         "url": "https://open.spotify.com/album/3nR6qDz5ks2cAayhHfyhSH"
       },
@@ -571,22 +611,6 @@
       "duration_ms": 145586,
       "name": "ZAZA",
       "url": "https://open.spotify.com/track/10IIKFsrHb01uXM3gpcsxa"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "On The Road",
-        "url": "https://open.spotify.com/album/7eKycNamZrXXB4DGBPQ8sZ"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        }
-      ],
-      "duration_ms": 152243,
-      "name": "\u00bfQu\u00e9 Ser\u00e1 De Mi Ex?",
-      "url": "https://open.spotify.com/track/0gCfxoxgd6RhJdbHV48ft4"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -667,30 +691,6 @@
       "duration_ms": 146441,
       "name": "La Mini",
       "url": "https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Los Sentimientos De un Robot",
-        "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        },
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Ovyze",
-          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
-        }
-      ],
-      "duration_ms": 232840,
-      "name": "2000's",
-      "url": "https://open.spotify.com/track/21YrUZi23eK0jx7wPU5oh0"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -965,7 +965,7 @@
         }
       ],
       "duration_ms": 266880,
-      "name": "Un Alucin",
+      "name": "Alucin Machin",
       "url": "https://open.spotify.com/track/5AibZkdAmpg1cw9qP9KnsH"
     },
     {
