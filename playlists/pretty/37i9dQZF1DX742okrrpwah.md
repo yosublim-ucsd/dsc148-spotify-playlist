@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > BILLIE EILISH au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,881 likes - 89 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 347,916 likes - 89 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 52 | [KO](https://open.spotify.com/track/0cYoJ9zNeo2Fok8AH79UxE) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Bric à brac](https://open.spotify.com/album/44y6W3acbblRmnbvHgYBCX) | 3:13 |
 | 53 | [Drogba](https://open.spotify.com/track/1eBBDrTE4NA35gOo8J2aRA) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Drogba](https://open.spotify.com/album/1P5bBLmv2a3ngGGs21EoeT) | 2:34 |
 | 54 | [wap](https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [wap](https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A) | 2:48 |
-| 55 | [Serment \- Radiot edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 |
+| 55 | [Serment \- Radio edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 |
 | 56 | [Le goût des choses](https://open.spotify.com/track/3T1PwgzMpInMf8fR9AivZm) | [Anne Sila](https://open.spotify.com/artist/0GejADUuCXsh3pOsfTqHv5) | [Le goût des choses](https://open.spotify.com/album/69StEYXe5ZG59fdse5uXgo) | 3:37 |
 | 57 | [The Backwards Heart](https://open.spotify.com/track/3yXpfmDmEluup8pOyi0g25) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers \(Deluxe\)](https://open.spotify.com/album/6HdWNexk92vAHRQimnh4fF) | 4:06 |
 | 58 | [MORE](https://open.spotify.com/track/15ppK3GWBNfun3hkViRr6M) | [Liily](https://open.spotify.com/artist/2asx6eXv9qzj5rA0ESrdO3) | [MORE](https://open.spotify.com/album/7ci2YpLQNXtOJTWhqMIhH9) | 3:43 |

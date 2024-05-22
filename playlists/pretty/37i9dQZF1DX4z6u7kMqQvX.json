@@ -1,6 +1,6 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 106171,
+  "num_followers": 106173,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Por qu\u00e9 te quiero tanto?",
+        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
+      },
+      "artists": [
+        {
+          "name": "Paz Carrara",
+          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
+        }
+      ],
+      "duration_ms": 230495,
+      "name": "Por qu\u00e9 te quiero tanto?",
+      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Por qu\u00e9 te quiero tanto?",
-        "url": "https://open.spotify.com/album/2zzOpbnXDcj9myQf76Fcih"
-      },
-      "artists": [
-        {
-          "name": "Paz Carrara",
-          "url": "https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg"
-        }
-      ],
-      "duration_ms": 230495,
-      "name": "Por qu\u00e9 te quiero tanto?",
-      "url": "https://open.spotify.com/track/5gTFFnnIds7moFhePvYToE"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "sin dormir",
+        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Donati",
+          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
+        }
+      ],
+      "duration_ms": 180750,
+      "name": "sin dormir",
+      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Brujita de la suerte",
         "url": "https://open.spotify.com/album/3A8SVmBESS98syeGo9GazY"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 183828,
       "name": "Brujita de la suerte",
       "url": "https://open.spotify.com/track/15B8rvJwUcBvcANhWzS7ye"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "sin dormir",
-        "url": "https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Donati",
-          "url": "https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT"
-        }
-      ],
-      "duration_ms": 180750,
-      "name": "sin dormir",
-      "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Canci\u00f3n de Amor",
-        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
+        "name": "MIXTO",
+        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
       },
       "artists": [
         {
-          "name": "Pato Lange",
-          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
+          "name": "Hipnotica",
+          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
         }
       ],
-      "duration_ms": 199047,
-      "name": "Canci\u00f3n de Amor",
-      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
+      "duration_ms": 243538,
+      "name": "Domingo",
+      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1335,34 +1335,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "MIXTO",
-        "url": "https://open.spotify.com/album/4dwMdD8JAw7Oni79f4jjLR"
+        "name": "Canci\u00f3n de Amor",
+        "url": "https://open.spotify.com/album/1hKLIs7yGEP0cQxbjr9Be4"
       },
       "artists": [
         {
-          "name": "Hipnotica",
-          "url": "https://open.spotify.com/artist/71nVj55bVBwK31aOfVjvLY"
+          "name": "Pato Lange",
+          "url": "https://open.spotify.com/artist/7jAfHesb2NWA6wfJGDCdSx"
         }
       ],
-      "duration_ms": 243538,
-      "name": "Domingo",
-      "url": "https://open.spotify.com/track/4W9o6WwYPoSeL4AU5QuJ4d"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "OSAD\u00cdA",
-        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
-      },
-      "artists": [
-        {
-          "name": "Eve Calletti",
-          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
-        }
-      ],
-      "duration_ms": 146379,
-      "name": "Luna en piscis",
-      "url": "https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn"
+      "duration_ms": 199047,
+      "name": "Canci\u00f3n de Amor",
+      "url": "https://open.spotify.com/track/33xnoWnmKafzvUEi8Tjzay"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1383,6 +1367,22 @@
       "duration_ms": 215000,
       "name": "El Chiste",
       "url": "https://open.spotify.com/track/0wCsEY6G4GxHQgETJg8Ys0"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "OSAD\u00cdA",
+        "url": "https://open.spotify.com/album/3Csz304u6zteMaJcQv3lFa"
+      },
+      "artists": [
+        {
+          "name": "Eve Calletti",
+          "url": "https://open.spotify.com/artist/55eyl0WBtTXDb9jpXVS9AP"
+        }
+      ],
+      "duration_ms": 146379,
+      "name": "Luna en piscis",
+      "url": "https://open.spotify.com/track/3P8D05qoxBptnhxx1TG2kn"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 170866,
       "name": "Solo",
       "url": "https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1527,22 +1527,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Por los Dos",
-        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
+        "name": "Nosotros Dos",
+        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
       },
       "artists": [
         {
-          "name": "Panda Elliot",
-          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
+          "name": "C\u00edtrico",
+          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
         },
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Goyo Degano",
+          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
         }
       ],
-      "duration_ms": 181622,
-      "name": "Por los Dos",
-      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
+      "duration_ms": 246133,
+      "name": "Nosotros Dos",
+      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1567,22 +1567,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Nosotros Dos",
-        "url": "https://open.spotify.com/album/2u8lXaejQL4N9yhOeLdspj"
+        "name": "Por los Dos",
+        "url": "https://open.spotify.com/album/6DYzz9LO7qVPxJ27cf2pns"
       },
       "artists": [
         {
-          "name": "C\u00edtrico",
-          "url": "https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9"
+          "name": "Panda Elliot",
+          "url": "https://open.spotify.com/artist/1NVbhUr3rgDRVbjAsbJIve"
         },
         {
-          "name": "Goyo Degano",
-          "url": "https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 246133,
-      "name": "Nosotros Dos",
-      "url": "https://open.spotify.com/track/2dX6OVcDAYCjopRIoQalKQ"
+      "duration_ms": 181622,
+      "name": "Por los Dos",
+      "url": "https://open.spotify.com/track/3H924Gfnwr6Lks83wpRVFe"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tu Recuerdo",
-        "url": "https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6"
-      },
-      "artists": [
-        {
-          "name": "Rocco Posca",
-          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
-        }
-      ],
-      "duration_ms": 233507,
-      "name": "Tu Recuerdo",
-      "url": "https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/4f6goszG3AzoyI4BGY1vdV"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 202655,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/0ZyWR4rAJSZdNn1UDcm6RP"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Tu Recuerdo",
+        "url": "https://open.spotify.com/album/5GSapy0EWZEqsLI2bfGpy6"
+      },
+      "artists": [
+        {
+          "name": "Rocco Posca",
+          "url": "https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd"
+        }
+      ],
+      "duration_ms": 233507,
+      "name": "Tu Recuerdo",
+      "url": "https://open.spotify.com/track/6an8J9ZBlxriGwTMBp1Ly5"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1687,6 +1687,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "t\u00e1ctica",
+        "url": "https://open.spotify.com/album/0GRGlZrUxwjBlu9lMqOtKR"
+      },
+      "artists": [
+        {
+          "name": "Josearmen",
+          "url": "https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf"
+        }
+      ],
+      "duration_ms": 143557,
+      "name": "t\u00e1ctica",
+      "url": "https://open.spotify.com/track/4ZI0Q8RaXwSYK6T3CBkMGm"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Domingo Escarlata",
         "url": "https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 221250,
       "name": "Tuna",
       "url": "https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Las Heridas",
-        "url": "https://open.spotify.com/album/1YbjaWrc4nPrynTDCvOIwd"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 205522,
-      "name": "Las Heridas",
-      "url": "https://open.spotify.com/track/5tSRZ0kysfMalFuqqNT8XE"
     },
     {
       "added_at": "2024-05-17 03:00:00",

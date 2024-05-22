@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,314 likes - 85 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,319 likes - 85 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 26 | [Floating](https://open.spotify.com/track/0pqnNiTcSnMh09MD7nFt76) | [Tay Oskee](https://open.spotify.com/artist/6oqDqZlET7T3JO9YWD2pVW) | [Caught Up In The Wire, No More](https://open.spotify.com/album/1sRRuViPoHHsjjKLq9yWwC) | 3:15 |
 | 27 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
 | 28 | [We're Going Home](https://open.spotify.com/track/4odVs48WBfjEDrc1D7t5B9) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR) | 3:27 |
-| 29 | [Miracle Love](https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW) | 4:22 |
+| 29 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
 | 30 | [Better Than](https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [Grand National](https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw) | 3:29 |
-| 31 | [Believe \(triple j Like A Version\) \- Cover Version](https://open.spotify.com/track/6akrLfeUZ4WZoQ7SSnOONX) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Believe \(triple j Like A Version\) \[Cover Version\]](https://open.spotify.com/album/2Bkvrso3DXJIehFYYYQnki) | 3:17 |
+| 31 | [Miracle Love](https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Rainbow Valley](https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW) | 4:22 |
 | 32 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
 | 33 | [Messages](https://open.spotify.com/track/2hXgZdNNnIOOfXmWDzF05n) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Food In The Belly](https://open.spotify.com/album/0Pp0Rf05GuUQfeksQnVV0G) | 4:02 |
 | 34 | [True Lovers](https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [Paint](https://open.spotify.com/album/6J8EzIkd1LeP07kIF77RNz) | 4:19 |

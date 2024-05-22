@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 158757,
+  "num_followers": 158775,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "at least i look cool",
-        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
-      },
-      "artists": [
-        {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
-        }
-      ],
-      "duration_ms": 171695,
-      "name": "at least i look cool",
-      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Secrets",
         "url": "https://open.spotify.com/album/059780GUzrYPDmQF1tlsek"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 196989,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/4tn5zAuILpz5GjsdoosU3G"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "at least i look cool",
+        "url": "https://open.spotify.com/album/3DrwGrEPG3Rq9mIsZVuklB"
+      },
+      "artists": [
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+        }
+      ],
+      "duration_ms": 171695,
+      "name": "at least i look cool",
+      "url": "https://open.spotify.com/track/2eLDUK7EkpENZkDL9O5yhz"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -895,26 +895,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "IT'S YOU (feat. keshi)",
-        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
-      },
-      "artists": [
-        {
-          "name": "MAX",
-          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
-        },
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 173426,
-      "name": "IT'S YOU (feat. keshi)",
-      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "I Used To Know Her",
         "url": "https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 213535,
       "name": "Something to Feel",
       "url": "https://open.spotify.com/track/1IRELSd0k5ycjtvPUlUEXI"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "IT'S YOU (feat. keshi)",
+        "url": "https://open.spotify.com/album/1LtaBRxkVaAnoTSQQsWjJF"
+      },
+      "artists": [
+        {
+          "name": "MAX",
+          "url": "https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8"
+        },
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 173426,
+      "name": "IT'S YOU (feat. keshi)",
+      "url": "https://open.spotify.com/track/5SMCxRA6hB2jEhroaYfw6N"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
+        "name": "Spirit",
+        "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
+      },
+      "artists": [
+        {
+          "name": "Rhye",
+          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
+        }
+      ],
+      "duration_ms": 271506,
+      "name": "Wicked Dreams",
+      "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
         "name": "Light (with BENEE)",
         "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 164000,
       "name": "Light (with BENEE)",
       "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
-        "name": "Spirit",
-        "url": "https://open.spotify.com/album/4emDc6rcjqJGqCj8NqEIzG"
-      },
-      "artists": [
-        {
-          "name": "Rhye",
-          "url": "https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN"
-        }
-      ],
-      "duration_ms": 271506,
-      "name": "Wicked Dreams",
-      "url": "https://open.spotify.com/track/6dvHjr6kOqEnKeQyd3Tozs"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "My Dream",
-        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
-      },
-      "artists": [
-        {
-          "name": "hongjoin",
-          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
-        }
-      ],
-      "duration_ms": 199200,
-      "name": "My Dream",
-      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 218266,
       "name": "Our Time",
       "url": "https://open.spotify.com/track/4ZcnCqkX0wn3uDY0sGUteG"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "My Dream",
+        "url": "https://open.spotify.com/album/2kPTfyJIe5EVluRWipHW1K"
+      },
+      "artists": [
+        {
+          "name": "hongjoin",
+          "url": "https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "My Dream",
+      "url": "https://open.spotify.com/track/0n6hyfHWcUktnmmIOJFp2D"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
+        "name": "Hello, I said",
+        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+      },
+      "artists": [
+        {
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+        }
+      ],
+      "duration_ms": 156729,
+      "name": "Hello, I said",
+      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
         "name": "Virtual Lover",
         "url": "https://open.spotify.com/album/5XkoI4taQeg4Rc6rJxrjMr"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 174907,
       "name": "Virtual Lover",
       "url": "https://open.spotify.com/track/4QqDr1Kt69ewXBRvQ7V9Rr"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
-        "name": "Hello, I said",
-        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
-      },
-      "artists": [
-        {
-          "name": "Diana Wang",
-          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
-        }
-      ],
-      "duration_ms": 156729,
-      "name": "Hello, I said",
-      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "leave before u do",
-        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
-      },
-      "artists": [
-        {
-          "name": "\u7fc1\u9756\u582fyao",
-          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
-        }
-      ],
-      "duration_ms": 182115,
-      "name": "leave before u do",
-      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
-    },
-    {
-      "added_at": "2024-05-20 02:04:22",
-      "album": {
         "name": "Drive",
         "url": "https://open.spotify.com/album/4s341L6xFYG4imA1aoCh19"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 190642,
       "name": "Drive",
       "url": "https://open.spotify.com/track/1r5JnD5hiJrViG0DUG02Jv"
+    },
+    {
+      "added_at": "2024-05-20 02:04:22",
+      "album": {
+        "name": "leave before u do",
+        "url": "https://open.spotify.com/album/4uA3nI3mp0ofapmuDqfPSh"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "duration_ms": 182115,
+      "name": "leave before u do",
+      "url": "https://open.spotify.com/track/7N0GPgqYKeHZAHF9xdUEOJ"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1635,18 +1635,18 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "body",
-        "url": "https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN"
+        "name": "God Must Be Doing Cocaine",
+        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
       },
       "artists": [
         {
-          "name": "Dom Guyot",
-          "url": "https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0"
+          "name": "Charlotte Lawrence",
+          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
         }
       ],
-      "duration_ms": 197648,
-      "name": "body",
-      "url": "https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb"
+      "duration_ms": 194755,
+      "name": "God Must Be Doing Cocaine",
+      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
     },
     {
       "added_at": "2024-05-20 02:04:22",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-05-20 02:04:22",
       "album": {
-        "name": "God Must Be Doing Cocaine",
-        "url": "https://open.spotify.com/album/0zwnrv2ORP7m2TScw0Yyq7"
+        "name": "body",
+        "url": "https://open.spotify.com/album/2duD8w8XxzQ2NKmeIDe5QN"
       },
       "artists": [
         {
-          "name": "Charlotte Lawrence",
-          "url": "https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb"
+          "name": "Dom Guyot",
+          "url": "https://open.spotify.com/artist/5ygKtDod9YYPAe0574Cwk0"
         }
       ],
-      "duration_ms": 194755,
-      "name": "God Must Be Doing Cocaine",
-      "url": "https://open.spotify.com/track/4pBsg7FS4R99zk55McLRIy"
+      "duration_ms": 197648,
+      "name": "body",
+      "url": "https://open.spotify.com/track/6EFlWDyNzOQZjoo8dIuYGb"
     },
     {
       "added_at": "2024-05-20 02:04:22",

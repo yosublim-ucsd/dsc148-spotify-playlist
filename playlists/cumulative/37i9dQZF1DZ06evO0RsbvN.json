@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This is Ma Rainey. The essential tracks, all in one playlist.",
+  "description": "This Is Ma Rainey. Los temas esenciales, todos en una lista.",
   "name": "This Is Ma Rainey",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 187478,
       "name": "Bad Luck Blues",
       "url": "https://open.spotify.com/track/6sNz9fiaadP8nSIRdSDg3a"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 191608,
       "name": "Booze And Blues",
       "url": "https://open.spotify.com/track/1SF9hCpHJ6gZ6FVz1heNA1"
@@ -690,7 +690,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 184800,
       "name": "Chain Gang Blues",
       "url": "https://open.spotify.com/track/14SjdOx2HaetXQbkzevjgm"
@@ -906,7 +906,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 173140,
       "name": "Don't Fish In My Sea",
       "url": "https://open.spotify.com/track/2hyu2pSSqC2AxKPc1k92pR"
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 157760,
       "name": "Down By The Riverside",
       "url": "https://open.spotify.com/track/4g1FheFJBJykPx8ufKpGfv"
@@ -978,7 +978,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 165720,
       "name": "Dream Blues",
       "url": "https://open.spotify.com/track/3E5UIXFsJUO8M73il3du5S"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 187133,
       "name": "Hellish Rag",
       "url": "https://open.spotify.com/track/1NoD4phovkjjjY8SZ9XzZb"
@@ -1608,7 +1608,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 178426,
       "name": "Last Minute Blues",
       "url": "https://open.spotify.com/track/62g0YxDu47NwTjxLo9JUrC"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 189080,
       "name": "Leaving This Morning",
       "url": "https://open.spotify.com/track/6R73IyuMx4cbGXRkEXgHQZ"
@@ -1860,7 +1860,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 180610,
       "name": "Louisiana Hoo Doo Blues",
       "url": "https://open.spotify.com/track/2bc3uRL4ssJhw2QR3C8WWk"
@@ -1914,7 +1914,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 186333,
       "name": "Ma and Pa Poorhouse Blues",
       "url": "https://open.spotify.com/track/23lxqaTbyIEfm8kbi6nCw0"
@@ -2148,7 +2148,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 157733,
       "name": "Mountain Jack Blues",
       "url": "https://open.spotify.com/track/2TczffyjhN9ZKy1nZMvO6t"
@@ -2202,7 +2202,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 178337,
       "name": "Night Time Blues",
       "url": "https://open.spotify.com/track/7Huu1EorMt0gO3cjiYqNab"
@@ -2310,7 +2310,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 200546,
       "name": "No Easy Rider Blues",
       "url": "https://open.spotify.com/track/6KWm6sGq9Fn8e4RyW9s8Hg"
@@ -2670,7 +2670,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 157906,
       "name": "Slave To The Blues",
       "url": "https://open.spotify.com/track/0tGs8feVlnuw2HiEITqVZI"
@@ -2814,7 +2814,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 193440,
       "name": "South Bound Blues",
       "url": "https://open.spotify.com/track/2tQE6qOe4g80GxmlD6J4Vj"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 177400,
       "name": "Stack O' Lee Blues",
       "url": "https://open.spotify.com/track/0BjMBdn02dt8BysajdzhJ9"
@@ -2922,7 +2922,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 163944,
       "name": "Stormy Sea Blues",
       "url": "https://open.spotify.com/track/3ZV3VNFFPkrOhVTaQ2laML"
@@ -2940,7 +2940,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 185733,
       "name": "Sweet Rough Man",
       "url": "https://open.spotify.com/track/62EoPZVylvGUYIAIlJj94i"
@@ -3408,7 +3408,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 182465,
       "name": "Yonder Come The Blues",
       "url": "https://open.spotify.com/track/3yh8U9XVznJKRVGqqabHEf"

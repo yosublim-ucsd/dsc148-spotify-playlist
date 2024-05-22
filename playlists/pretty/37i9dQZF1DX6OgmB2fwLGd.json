@@ -1,13 +1,29 @@
 {
   "description": "Shotgun Willy, born and raised on the internet.",
-  "num_followers": 1396543,
+  "num_followers": 1396518,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkI3jQAAAAClbfUyxXOqrk2SVWX016tn",
+  "snapshot_id": "Zky9ZgAAAAC8FcyKkZtPVFTDrcz8eVn1",
   "tracks": [
+    {
+      "added_at": "2024-05-21 15:21:20",
+      "album": {
+        "name": "Valedictorian",
+        "url": "https://open.spotify.com/album/0HTo6u0rhojf1LLVLd9r5x"
+      },
+      "artists": [
+        {
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
+        }
+      ],
+      "duration_ms": 127872,
+      "name": "Never Stop",
+      "url": "https://open.spotify.com/track/74mCnk2QnSTiirhkxxpRNP"
+    },
     {
       "added_at": "2024-05-13 15:53:49",
       "album": {
@@ -25,20 +41,56 @@
       "url": "https://open.spotify.com/track/76kZFNZDL3Ppxhj49OU8sw"
     },
     {
-      "added_at": "2024-05-05 21:02:19",
+      "added_at": "2024-04-30 19:22:59",
       "album": {
-        "name": "King tonka",
-        "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
+        "name": "nothing like uuu",
+        "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Nettspend",
+          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
         }
       ],
-      "duration_ms": 125544,
-      "name": "King tonka",
-      "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
+      "duration_ms": 112243,
+      "name": "nothing like uuu",
+      "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
+    },
+    {
+      "added_at": "2024-05-21 15:27:34",
+      "album": {
+        "name": "triple deuce",
+        "url": "https://open.spotify.com/album/68VU8hmxa0maNgz6EuAgoo"
+      },
+      "artists": [
+        {
+          "name": "Swapa",
+          "url": "https://open.spotify.com/artist/37v7VwiEJ4ImKCmCrA2Z6a"
+        }
+      ],
+      "duration_ms": 133381,
+      "name": "triple deuce",
+      "url": "https://open.spotify.com/track/2SdwzpKWAg02LZ6LSsFBDP"
+    },
+    {
+      "added_at": "2024-05-21 15:27:34",
+      "album": {
+        "name": "P.S. Fuck You",
+        "url": "https://open.spotify.com/album/2OvsRpOLneN4yWwXnMxyxx"
+      },
+      "artists": [
+        {
+          "name": "Yhapojj",
+          "url": "https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X"
+        },
+        {
+          "name": "Lil Tony Official",
+          "url": "https://open.spotify.com/artist/4ix2z6eBWQ6MeihaX04mB6"
+        }
+      ],
+      "duration_ms": 97461,
+      "name": "SSwerve Geeked (with Lil Tony Official)",
+      "url": "https://open.spotify.com/track/5IKmShFKQJCmd5KHMapim6"
     },
     {
       "added_at": "2024-04-19 05:00:00",
@@ -91,64 +143,8 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "NO IDEA #jerseyclub (Ziahfyah & Indo2x Remix)",
-        "url": "https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF"
-      },
-      "artists": [
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        },
-        {
-          "name": "Indo2x",
-          "url": "https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE"
-        },
-        {
-          "name": "Ziahfyah",
-          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
-        }
-      ],
-      "duration_ms": 156943,
-      "name": "NO IDEA #jerseyclub - Ziahfyah & Indo2x Remix",
-      "url": "https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz"
-    },
-    {
-      "added_at": "2024-04-30 19:22:59",
-      "album": {
-        "name": "nothing like uuu",
-        "url": "https://open.spotify.com/album/128pEVu7AFfVkyiIw9lN33"
-      },
-      "artists": [
-        {
-          "name": "Nettspend",
-          "url": "https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA"
-        }
-      ],
-      "duration_ms": 112243,
-      "name": "nothing like uuu",
-      "url": "https://open.spotify.com/track/7tHXd3CsT7VGZAJ5Jkqt61"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "MOVE YO BODY (sped up)",
-        "url": "https://open.spotify.com/album/0HLkU4vM6OC799fhrQaf3P"
-      },
-      "artists": [
-        {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
-        }
-      ],
-      "duration_ms": 117603,
-      "name": "MOVE YO BODY - sped up",
-      "url": "https://open.spotify.com/track/1Z3egeO5qIoHXN5BkZgIlu"
-    },
-    {
-      "added_at": "2024-05-03 05:00:00",
-      "album": {
-        "name": "ENGINE (feat. YoungBoy Never Broke Again)",
-        "url": "https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb"
+        "name": "BIG DOG SH*T",
+        "url": "https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES"
       },
       "artists": [
         {
@@ -156,13 +152,13 @@
           "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
         },
         {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+          "name": "Lil RT",
+          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
         }
       ],
-      "duration_ms": 184929,
-      "name": "ENGINE (feat. YoungBoy Never Broke Again)",
-      "url": "https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI"
+      "duration_ms": 152467,
+      "name": "BIG DOG SH*T (feat. Lil RT)",
+      "url": "https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -183,22 +179,6 @@
       "duration_ms": 122012,
       "name": "#CERTIFIED (feat. DJ Ess) - DJ Ess Mix",
       "url": "https://open.spotify.com/track/2QxYsn2ygOrfJ70JItrlCO"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Bombs Away",
-        "url": "https://open.spotify.com/album/33VNlbyJDsvlYwglDsldXo"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "One Eyed Willy",
-      "url": "https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -225,24 +205,36 @@
       "url": "https://open.spotify.com/track/7qAyWILStEa7VkjF00kXas"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
+      "added_at": "2024-05-05 21:02:19",
       "album": {
-        "name": "BIG DOG SH*T",
-        "url": "https://open.spotify.com/album/2VnEwCFWbSj7irTuUye8ES"
+        "name": "King tonka",
+        "url": "https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L"
       },
       "artists": [
         {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        },
-        {
-          "name": "Lil RT",
-          "url": "https://open.spotify.com/artist/1Go9MuDulQ4qHPE4H4rU3H"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 152467,
-      "name": "BIG DOG SH*T (feat. Lil RT)",
-      "url": "https://open.spotify.com/track/3wOgRFB76sCuD29N6Jz4mI"
+      "duration_ms": 125544,
+      "name": "King tonka",
+      "url": "https://open.spotify.com/track/1Anuaxs4UTPM1tufZJbqZz"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Bombs Away",
+        "url": "https://open.spotify.com/album/33VNlbyJDsvlYwglDsldXo"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "One Eyed Willy",
+      "url": "https://open.spotify.com/track/35yzokuxsPdHaDKd5h9kgQ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -289,40 +281,44 @@
       "url": "https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7"
     },
     {
-      "added_at": "2024-04-30 19:22:59",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "a gentle gigg...",
-        "url": "https://open.spotify.com/album/2dKS8Oj7T9u7U3UzAtVbJk"
+        "name": "Figure It Out",
+        "url": "https://open.spotify.com/album/09heES0I3XMjwyxm1stQig"
       },
       "artists": [
         {
-          "name": "seiji oda",
-          "url": "https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp"
-        },
-        {
-          "name": "Jake Chapman",
-          "url": "https://open.spotify.com/artist/61vqterkbDdQxQ1IO0Oybx"
+          "name": "ian",
+          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
         }
       ],
-      "duration_ms": 114436,
-      "name": "a gentle gigg...",
-      "url": "https://open.spotify.com/track/1goQhPlu2xq4GT8ZM2eiu7"
+      "duration_ms": 94666,
+      "name": "Figure It Out",
+      "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Mr Beat The Road",
-        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+        "name": "NO IDEA #jerseyclub (Ziahfyah & Indo2x Remix)",
+        "url": "https://open.spotify.com/album/5mO75nU1r7JvkCO8oOmHhF"
       },
       "artists": [
         {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Indo2x",
+          "url": "https://open.spotify.com/artist/3WQnwswrc0FaQ6AqenFuFE"
+        },
+        {
+          "name": "Ziahfyah",
+          "url": "https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl"
         }
       ],
-      "duration_ms": 104470,
-      "name": "Talk My Shit",
-      "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
+      "duration_ms": 156943,
+      "name": "NO IDEA #jerseyclub - Ziahfyah & Indo2x Remix",
+      "url": "https://open.spotify.com/track/7gNXY29SaVv9rN4z2oQhvz"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -345,20 +341,56 @@
       "url": "https://open.spotify.com/track/0djEmaFqvfSdtpNMZYTSdz"
     },
     {
-      "added_at": "2024-04-26 04:00:00",
+      "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "PRINCESS POP THAT",
-        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+        "name": "douji feva",
+        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
       },
       "artists": [
         {
-          "name": "Anycia",
-          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+          "name": "Barretta",
+          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
         }
       ],
-      "duration_ms": 110440,
-      "name": "TYPE BEAT",
-      "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"
+      "duration_ms": 105229,
+      "name": "douji feva",
+      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Mr Beat The Road",
+        "url": "https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb"
+      },
+      "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        }
+      ],
+      "duration_ms": 104470,
+      "name": "Talk My Shit",
+      "url": "https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40"
+    },
+    {
+      "added_at": "2024-05-03 05:00:00",
+      "album": {
+        "name": "ENGINE (feat. YoungBoy Never Broke Again)",
+        "url": "https://open.spotify.com/album/0ggXsbZ9JbA2h5YeHJ64lb"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        }
+      ],
+      "duration_ms": 184929,
+      "name": "ENGINE (feat. YoungBoy Never Broke Again)",
+      "url": "https://open.spotify.com/track/1jwntX0A35HgJlmjY1rsfI"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -379,6 +411,46 @@
       "duration_ms": 231338,
       "name": "act ii: date @ 8 (feat. Drake) - remix",
       "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ukraine (Let Me Talk Afro Drill Mix)",
+        "url": "https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII"
+      },
+      "artists": [
+        {
+          "name": "Jay Hound",
+          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
+        },
+        {
+          "name": "Slimenese",
+          "url": "https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze"
+        },
+        {
+          "name": "Jay5ive",
+          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
+        }
+      ],
+      "duration_ms": 115208,
+      "name": "Ukraine - Let Me Talk Afro Drill Mix",
+      "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "PRINCESS POP THAT",
+        "url": "https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "duration_ms": 110440,
+      "name": "TYPE BEAT",
+      "url": "https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -419,6 +491,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "cake / don't be dishonest",
+        "url": "https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ"
+      },
+      "artists": [
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "duration_ms": 177084,
+      "name": "cake",
+      "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -435,22 +523,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "douji feva",
-        "url": "https://open.spotify.com/album/2Vozz0Pth98uZVHoiFfLm5"
-      },
-      "artists": [
-        {
-          "name": "Barretta",
-          "url": "https://open.spotify.com/artist/1KVpqmrI8SIVWjipMC1FZl"
-        }
-      ],
-      "duration_ms": 105229,
-      "name": "douji feva",
-      "url": "https://open.spotify.com/track/4H4x6mlA3Mk8zUqmLrirGI"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Skidoo",
         "url": "https://open.spotify.com/album/2TFJlX6hLheRvmO1u4LW7R"
       },
@@ -463,30 +535,6 @@
       "duration_ms": 189740,
       "name": "Skidoo",
       "url": "https://open.spotify.com/track/5AZMFwVqoTIcx1mMSUZLXl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Ukraine (Let Me Talk Afro Drill Mix)",
-        "url": "https://open.spotify.com/album/0W5rqpGSQzFT0mkfvuoKII"
-      },
-      "artists": [
-        {
-          "name": "Jay Hound",
-          "url": "https://open.spotify.com/artist/57BGWi9z8Ay8NCKNSwUfF8"
-        },
-        {
-          "name": "Slimenese",
-          "url": "https://open.spotify.com/artist/0Jau0uelDnejFUq6zK88Ze"
-        },
-        {
-          "name": "Jay5ive",
-          "url": "https://open.spotify.com/artist/18s69FZXxRIRCpr6Of5mRB"
-        }
-      ],
-      "duration_ms": 115208,
-      "name": "Ukraine - Let Me Talk Afro Drill Mix",
-      "url": "https://open.spotify.com/track/1EHkclXJgi9XKP9xbp51hk"
     },
     {
       "added_at": "2024-04-24 18:33:43",
@@ -521,22 +569,6 @@
       "url": "https://open.spotify.com/track/7MURXO8ygXnNxg1PMMlX3o"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Figure It Out",
-        "url": "https://open.spotify.com/album/09heES0I3XMjwyxm1stQig"
-      },
-      "artists": [
-        {
-          "name": "ian",
-          "url": "https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef"
-        }
-      ],
-      "duration_ms": 94666,
-      "name": "Figure It Out",
-      "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
-    },
-    {
       "added_at": "2024-04-19 05:00:00",
       "album": {
         "name": "SEXX NOTE",
@@ -551,22 +583,6 @@
       "duration_ms": 95674,
       "name": "SEXX NOTE",
       "url": "https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "cake / don't be dishonest",
-        "url": "https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ"
-      },
-      "artists": [
-        {
-          "name": "wolfacejoeyy",
-          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
-        }
-      ],
-      "duration_ms": 177084,
-      "name": "cake",
-      "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -599,6 +615,26 @@
       "duration_ms": 155471,
       "name": "Cha Cha",
       "url": "https://open.spotify.com/track/6d6wAt8R2IiVNSxpi4lerS"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Fisherrr",
+        "url": "https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        {
+          "name": "Bay Swag",
+          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
+        }
+      ],
+      "duration_ms": 236004,
+      "name": "Fisherrr",
+      "url": "https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -703,26 +739,6 @@
       "duration_ms": 125386,
       "name": "FLOWIN",
       "url": "https://open.spotify.com/track/0dOxlxZIOkXb9Ni0DsiU1V"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Fisherrr",
-        "url": "https://open.spotify.com/album/4stkWK5jMzF3Xhc2nWWeiI"
-      },
-      "artists": [
-        {
-          "name": "Cash Cobain",
-          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
-        },
-        {
-          "name": "Bay Swag",
-          "url": "https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap"
-        }
-      ],
-      "duration_ms": 236004,
-      "name": "Fisherrr",
-      "url": "https://open.spotify.com/track/6ZRQuk5CXdHlLHAnE28GKD"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Just Tired 2",
-        "url": "https://open.spotify.com/album/3jiS4FdWQFwnitsYQ5Gwwb"
-      },
-      "artists": [
-        {
-          "name": "Joeyy",
-          "url": "https://open.spotify.com/artist/7hkaLWxN3ZmMVTn1qEpPdM"
-        }
-      ],
-      "duration_ms": 144412,
-      "name": "They Know",
-      "url": "https://open.spotify.com/track/3CTNbg25Mg58J1jJbuWILY"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "all the time",
         "url": "https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ"
       },
@@ -1815,22 +1815,6 @@
       "duration_ms": 170732,
       "name": "Mozzarella",
       "url": "https://open.spotify.com/track/6LSyrl1b9cS5Mj4Eh7dRnX"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Ozone",
-        "url": "https://open.spotify.com/album/2Z69mCE7augMMEWRCckD9K"
-      },
-      "artists": [
-        {
-          "name": "Kid Trunks",
-          "url": "https://open.spotify.com/artist/57SA5Qv24Vydwd6bJnV8fI"
-        }
-      ],
-      "duration_ms": 234837,
-      "name": "Ozone",
-      "url": "https://open.spotify.com/track/6ZC74JZp5NDi6Q1ZCra1NC"
     }
   ],
   "unique_name": "Internet People",

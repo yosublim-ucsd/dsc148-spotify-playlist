@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,570 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,555 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 13 | [Awesome City](https://open.spotify.com/track/2RZbhMjj6piJ6W4M7Nsl7o) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Awesome City](https://open.spotify.com/album/05PDJXae0t0adaepucRPVP) | 2:40 |
 | 14 | [Notes](https://open.spotify.com/track/6vUGOgzxH4Pi54xXvXslNV) | [Hazy Year](https://open.spotify.com/artist/1FtS4zSQaKNwJDXcXWX9CD) | [Beats On Boat: Hazy Year](https://open.spotify.com/album/4VjNePQ8xCBre4qFegkm7U) | 2:47 |
 | 15 | [3:30pm \- Jam'addict Remix](https://open.spotify.com/track/2BrW5gipvs2hSQsQowp8Gy) | [rocomoco](https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu), [The Hidden](https://open.spotify.com/artist/04tAx7RyH6wL9gCnT9TuXH), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [3:30pm \(Jam'addict Remix\)](https://open.spotify.com/album/6bLaLpg4P6Ambn5GnIzGJE) | 2:26 |
-| 16 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
+| 16 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
 | 17 | [Arigato Mama](https://open.spotify.com/track/7nBMCCdlQsYbvBySMdi5hC) | [Dj Yutaka](https://open.spotify.com/artist/6PjCaQSdfVd1YIdO3vnsAn) | [Arigato Mama](https://open.spotify.com/album/0PeUdqdSCY3dMBWMmO93ZS) | 3:09 |
-| 18 | [Paddling pool](https://open.spotify.com/track/5Dj4tUDgACFSEkDzlYlHZ4) | [S I M](https://open.spotify.com/artist/6IUKOT5oMnQ8ZUyJlZFxO2) | [Paddling pool](https://open.spotify.com/album/2NeRkEMmaVKmFDFRRmjIoQ) | 2:47 |
+| 18 | [Mental Acupuncture](https://open.spotify.com/track/34KMYyUvfpXboR9wLwrocX) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Mental Acupuncture](https://open.spotify.com/album/2dtSQyB2dVecMmnDlU9qYn) | 2:32 |
 | 19 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 |
 | 20 | [Paris Nights](https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [Paris Nights](https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ) | 4:04 |
 | 21 | [UH OH](https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC) | [twuan](https://open.spotify.com/artist/5T0wPeBVC0F7uEbIr8JKE5) | [UH OH](https://open.spotify.com/album/2DbeT39Hbj8CLOssoeQBZB) | 1:50 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 44 | [Sometimes \- Remix Instrumental](https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Jay Deelicious 95\-98 \- The Delicious Vinyl Years \(Originals, Remixes & Rarities\)](https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc) | 4:03 |
 | 45 | [Busy Bird](https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8) | [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV), [Mirror Box](https://open.spotify.com/artist/3fnr9GH6HvWlBMLAhevl0F) | [Busy Bird](https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN) | 2:10 |
 | 46 | [Raincoat](https://open.spotify.com/track/2RfOBk0HoyAKNQMX6gWbDW) | [Shingo Sekiguchi](https://open.spotify.com/artist/1ZU8a8LHba4g0YFAL1PbO9) | [Raincoat](https://open.spotify.com/album/7iLneP4wYzv8Eb1PBavn9o) | 3:24 |
-| 47 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 |
-| 48 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
+| 47 | [Mixed Emotions](https://open.spotify.com/track/0igMjYaQwW5mUt7RIwXojC) | [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [The Valley](https://open.spotify.com/album/4JSDmWMyOKEf6Wfzp1WKwS) | 2:46 |
+| 48 | [Camberwell](https://open.spotify.com/track/0rhsSLzNfB91innrvTBdx3) | [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Camberwell](https://open.spotify.com/album/7ALBhgIL3vvB2c5PVUSJ4Y) | 2:13 |
 | 49 | [busking](https://open.spotify.com/track/6hBofveV7cUFOSuUB9RQjk) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [busking](https://open.spotify.com/album/5n3Tv4OXiCOqMA9Tcazwhq) | 2:20 |
 | 50 | [BIG BLUE](https://open.spotify.com/track/5EWpiLgQ6WYrvp7DbYhj70) | [Yakkle](https://open.spotify.com/artist/3mjx8PSsyldIILTLtw2Nap) | [BIG BLUE](https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl) | 2:46 |
 | 51 | [Tangerine Hues](https://open.spotify.com/track/4fImJZBA2TopABdxAEg1in) | [Ameba](https://open.spotify.com/artist/0YYVUJe2T4XdBza6Y0RA8P), [Flavors](https://open.spotify.com/artist/6Amqc7UjJa19q4jrfAHA77) | [Tangerine Hues](https://open.spotify.com/album/78zuWk8ZgaMMLlTMtIMsT5) | 3:04 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 73 | [Crushing](https://open.spotify.com/track/3tYmkRTiIWqJxz9XqSAQCS) | [helistofax](https://open.spotify.com/artist/1OFeufWeaCNizpr4djN3qW) | [Crushing](https://open.spotify.com/album/0cAXEMWNAvsGfc6t2AIutV) | 2:11 |
 | 74 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 |
 | 75 | [Algebreak](https://open.spotify.com/track/24zpLtGPVHOFQ6xyvi95hj) | [Allmos](https://open.spotify.com/artist/4caJwBnZ75geSKhAhqFXDE) | [Mostly Instrumentals LP](https://open.spotify.com/album/5IofXcZhek4Whxlo4r7wuk) | 2:05 |
-| 76 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
-| 77 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
+| 76 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
+| 77 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
 | 78 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 |
-| 79 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 |
-| 80 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 |
+| 79 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 |
+| 80 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 |
 
 Snapshot ID: `ZkavHwAAAADkc/36+6ePDAeoxrx0hfPw`

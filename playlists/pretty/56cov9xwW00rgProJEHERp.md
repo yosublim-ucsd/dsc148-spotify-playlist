@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 
 > Tunes from your favourite coffee shop.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,638 likes - 60 songs - 3 hr 28 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 10,638 likes - 61 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 58 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 |
 | 59 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 60 | [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 |
+| 61 | [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 |
 
-Snapshot ID: `AAAT5cde0JLxTPmx1JEKv3/9asKvCI49`
+Snapshot ID: `AAAT5k+O+4NJ+eC6hv0OJxKGaicP7AoJ`

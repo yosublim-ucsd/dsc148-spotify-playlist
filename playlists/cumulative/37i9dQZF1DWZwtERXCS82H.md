@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-748 songs - 1 day 8 hr 26 min
+750 songs - 1 day 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-15 | 2024-02-14 |
 | [Belle Chose](https://open.spotify.com/track/1xvQ1dL7KqGKWxqR0dkSeY) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Belle Chose](https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX) | 2:40 | 2022-04-15 | 2022-05-14 |
 | [Berceuse](https://open.spotify.com/track/6tw5ZIanXzO4ufu4abt7Vn) | [Sounds from a Box](https://open.spotify.com/artist/7C3BYNKkXzEBEZNMBem36s) | [Berceuse](https://open.spotify.com/album/0l8ppwTZQGMJtZEfJKEBBg) | 2:31 | 2022-12-22 | 2024-03-19 |
+| [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 | 2024-05-21 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-15 | 2023-07-25 |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2022-04-15 | 2023-04-13 |
 | [Blessed with a fire](https://open.spotify.com/track/1CjqK7of4R5W0lrUjjfRdx) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Blessed with a fire](https://open.spotify.com/album/4OkclVD647nRAOSsgOzxKr) | 2:06 | 2023-07-10 |  |
@@ -436,6 +437,7 @@
 | [Once Before](https://open.spotify.com/track/4bGa4NtNALvGtaGqumTjM7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [For Mom](https://open.spotify.com/album/6zeB2J9fBAIwzJrFrShiwb) | 3:17 | 2022-04-15 | 2024-04-04 |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2022-04-15 | 2024-04-04 |
 | [Onironautas](https://open.spotify.com/track/6s76KH2PyYupeKvcz6hRgV) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Onironautas](https://open.spotify.com/album/51UJxYKsEZqK7qtTHj2NBy) | 3:10 | 2022-04-15 | 2022-05-27 |
+| [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 | 2024-05-21 |  |
 | [Open Mind Open Heart](https://open.spotify.com/track/3vqx2A8XnA6aHZ8THpNUfA) | [Franz Becker](https://open.spotify.com/artist/4QepILDr1gW2tDbFhWCl3t) | [Open Mind Open Heart](https://open.spotify.com/album/31VjY7OLmvvYe6JrEc5LSf) | 3:06 | 2022-04-15 | 2022-04-23 |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-04-15 | 2022-09-21 |
 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 | 2022-04-15 | 2024-04-10 |

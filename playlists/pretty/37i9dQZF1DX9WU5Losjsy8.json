@@ -1,6 +1,6 @@
 {
   "description": "ist nur einmal im Jahr!",
-  "num_followers": 408749,
+  "num_followers": 408838,
   "original_name": "Malle Party 2024",
   "owner": {
     "name": "Spotify",
@@ -99,26 +99,6 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
         "name": "Handwerker",
         "url": "https://open.spotify.com/album/0U3o0HbLVlMGrmRM5w3yO4"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 205842,
       "name": "Handwerker",
       "url": "https://open.spotify.com/track/3ut6td3I2l0z63rSt1HOwz"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
+        "name": "VAMOS",
+        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 149773,
+      "name": "VAMOS",
+      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -267,26 +267,26 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Mein kleines Herz (Bam Bam)",
-        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
+        "name": "Fliesentisch Romantik 2",
+        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
       },
       "artists": [
         {
-          "name": "Darius & Finlay",
-          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
         },
         {
-          "name": "MartinBepunkt",
-          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         },
         {
-          "name": "Shaun Baker",
-          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
         }
       ],
-      "duration_ms": 150090,
-      "name": "Mein kleines Herz (Bam Bam)",
-      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
+      "duration_ms": 150413,
+      "name": "Easy Peasy",
+      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -315,26 +315,26 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Fliesentisch Romantik 2",
-        "url": "https://open.spotify.com/album/4I26OoVzDFKeNX0zO2IcDM"
+        "name": "Mein kleines Herz (Bam Bam)",
+        "url": "https://open.spotify.com/album/25GJAMuQqJ6n0OrRAZrcY7"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
         },
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
         },
         {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Shaun Baker",
+          "url": "https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj"
         }
       ],
-      "duration_ms": 150413,
-      "name": "Easy Peasy",
-      "url": "https://open.spotify.com/track/6bW4olKzz8M2BRYNU1ASUi"
+      "duration_ms": 150090,
+      "name": "Mein kleines Herz (Bam Bam)",
+      "url": "https://open.spotify.com/track/77LA2Zd0H9c1C0NutqumLH"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
+        "name": "MDMA",
+        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
+      },
+      "artists": [
+        {
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        }
+      ],
+      "duration_ms": 128713,
+      "name": "MDMA",
+      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
         "name": "BIER",
         "url": "https://open.spotify.com/album/2SDMGLfkqgDiysROV2CfhC"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
-        "name": "MDMA",
-        "url": "https://open.spotify.com/album/283DpmSSsjHAafXO5zfd4G"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 128713,
-      "name": "MDMA",
-      "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Bring mich nach Hause",
-        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
-      },
-      "artists": [
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Bring mich nach Hause",
-      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
         "name": "Mozart (Ciao Niveau)",
         "url": "https://open.spotify.com/album/7jODSZ4ensMN1GqU19pifB"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 172637,
       "name": "Mozart (Ciao Niveau)",
       "url": "https://open.spotify.com/track/2izhQz92OLdlp2KxNwwu4O"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
+        "name": "Bring mich nach Hause",
+        "url": "https://open.spotify.com/album/4QtCdbQkB2un0KIJEeQkO4"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Bring mich nach Hause",
+      "url": "https://open.spotify.com/track/3qt2UEvdeQusoqNKhgYSAx"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Mallemoment",
-        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
-      },
-      "artists": [
-        {
-          "name": "Stefan St\u00fcrmer",
-          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
-        }
-      ],
-      "duration_ms": 169238,
-      "name": "Mallemoment",
-      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
         "name": "Ich liebe das Leben (Stereoact #Remix)",
         "url": "https://open.spotify.com/album/3OQ1X9mkQHBmcWr6zNNtH4"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203900,
       "name": "Ich liebe das Leben - Stereoact #Remix",
       "url": "https://open.spotify.com/track/6JVxY1CIPVlFyKkCIRwS2L"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
+        "name": "Mallemoment",
+        "url": "https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW"
+      },
+      "artists": [
+        {
+          "name": "Stefan St\u00fcrmer",
+          "url": "https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q"
+        }
+      ],
+      "duration_ms": 169238,
+      "name": "Mallemoment",
+      "url": "https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
+        "name": "Von Herzen",
+        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
+      },
+      "artists": [
+        {
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "A Mann f\u00fcr Amore - Single Mix",
+      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
         "name": "Scheiss auf Schickimicki (Video Edit)",
         "url": "https://open.spotify.com/album/28NwJjbkVrQ1J7NfS8ed5I"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 198750,
       "name": "Scheiss auf Schickimicki - Video Edit",
       "url": "https://open.spotify.com/track/2Vz4iMRlwS95zChQbZo4HL"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
-        "name": "Von Herzen",
-        "url": "https://open.spotify.com/album/6uSbJQBdGJrN4hhup5kdeC"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "A Mann f\u00fcr Amore - Single Mix",
-      "url": "https://open.spotify.com/track/0m89E9zmNzOGuuZWEvZZGm"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Sweet Caroline (Party Remix)",
-        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
-      },
-      "artists": [
-        {
-          "name": "DJ \u00d6tzi",
-          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
-        }
-      ],
-      "duration_ms": 206613,
-      "name": "Sweet Caroline - Party Remix",
-      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
         "name": "Ciao 3 Tage Blau",
         "url": "https://open.spotify.com/album/0UspjAHvU9oPeNgoyGK5gw"
       },
@@ -1323,6 +1307,26 @@
       "duration_ms": 188000,
       "name": "Ciao 3 Tage Blau",
       "url": "https://open.spotify.com/track/3AZ24YPWIpb82PaduK1FZS"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
+        "name": "Nachbarn",
+        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Nachbarn",
+      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -1351,22 +1355,18 @@
     {
       "added_at": "2024-05-10 07:05:49",
       "album": {
-        "name": "Nachbarn",
-        "url": "https://open.spotify.com/album/30AvhaHvCvYYwj0o8YlQea"
+        "name": "Sweet Caroline (Party Remix)",
+        "url": "https://open.spotify.com/album/78jbUvstAhkEUAwzuiKr93"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "DJ \u00d6tzi",
+          "url": "https://open.spotify.com/artist/0DR4z5jMA1eqx0CmHBUpkr"
         }
       ],
-      "duration_ms": 181553,
-      "name": "Nachbarn",
-      "url": "https://open.spotify.com/track/1aBi2cwSWOaYz0kC0P27ok"
+      "duration_ms": 206613,
+      "name": "Sweet Caroline - Party Remix",
+      "url": "https://open.spotify.com/track/3HTgmcqR7nYtD7EmJ4hOLi"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -1423,6 +1423,26 @@
       "duration_ms": 280852,
       "name": "Abenteuerland",
       "url": "https://open.spotify.com/track/748pbjnFM9TVwQhDT3LC4N"
+    },
+    {
+      "added_at": "2024-05-10 07:05:49",
+      "album": {
+        "name": "Freitag, Samstag",
+        "url": "https://open.spotify.com/album/2vdeMLYYKkx1kp0J9ggsBL"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        }
+      ],
+      "duration_ms": 156356,
+      "name": "Freitag, Samstag",
+      "url": "https://open.spotify.com/track/35WEFAhw47XLju1gu40cjT"
     },
     {
       "added_at": "2024-05-10 07:05:49",
@@ -1487,26 +1507,6 @@
       "duration_ms": 205217,
       "name": "Arielle",
       "url": "https://open.spotify.com/track/0fy3cqUm8msuhJg7k43yh2"
-    },
-    {
-      "added_at": "2024-05-10 07:05:49",
-      "album": {
-        "name": "Holterdiepolter",
-        "url": "https://open.spotify.com/album/3LIRqulsOhSVKoOVUMMj4J"
-      },
-      "artists": [
-        {
-          "name": "Anstandslos & Durchgeknallt",
-          "url": "https://open.spotify.com/artist/5R8zS6ofKclznKk3ffudoO"
-        },
-        {
-          "name": "Georg Stengel",
-          "url": "https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU"
-        }
-      ],
-      "duration_ms": 192600,
-      "name": "Holterdiepolter",
-      "url": "https://open.spotify.com/track/1JLkfGbg0vw9VBTZeuPPNZ"
     }
   ],
   "unique_name": "Malle Party 2024",

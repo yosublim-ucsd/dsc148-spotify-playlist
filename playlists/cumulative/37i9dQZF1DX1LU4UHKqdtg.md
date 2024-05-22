@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ITZY
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: NEXZ
 
-1,039 songs - 2 day 8 hr 16 min
+1,041 songs - 2 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BAD HOBBY](https://open.spotify.com/track/4XGOlD2OFGPHXLA0DBPr5M) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 2:11 | 2023-06-29 | 2023-08-11 |
 | [Bad News](https://open.spotify.com/track/7AGq5qaaF9awHDaKuCvVjj) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Born to be XX](https://open.spotify.com/album/6yDtQxvq1XRC7Y5qtS03Xx) | 2:40 | 2023-11-07 |  |
 | [Bad News](https://open.spotify.com/track/0sa8KndeZfGWmcGEpVfMwh) | [TEMPEST](https://open.spotify.com/artist/1iyFL3CRuKW7PXgPH4VxSP) | [It’s ME, It's WE](https://open.spotify.com/album/3k1HMJ3Jc610ZFujWowCfB) | 3:32 | 2022-03-03 | 2022-05-18 |
+| [Bad Time \(feat\. NOA\)](https://open.spotify.com/track/6FdfJYF7VY2BWe7NnRUKB2) | [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [NOA](https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck) | [Bad Time \(feat\. NOA\)](https://open.spotify.com/album/0HLaSJyrIVa0jXO3z0atmw) | 2:42 | 2024-05-21 |  |
 | [Baddie](https://open.spotify.com/track/7uyeEbG6hyApgXuEypGcsZ) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I'VE MINE](https://open.spotify.com/album/5J7VAdKdGZGme6wymgopbp) | 2:34 | 2023-10-12 | 2023-11-29 |
 | [Baggy Jeans](https://open.spotify.com/track/0Tp6ugHFtCiZZWSRJx9Koq) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [iScreaM Vol.27 : Baggy Jeans Remixes](https://open.spotify.com/album/1WiGUxmUf3kqrl144mxTpq) | 3:31 | 2023-12-01 | 2024-04-19 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-08-28 | 2023-12-05 |
@@ -991,6 +992,7 @@
 | [Without U](https://open.spotify.com/track/4I8UOVsfrrR1rwD5NSRLlD) | [SEOLA](https://open.spotify.com/artist/0AnZEpTs62mik6O41O3SKf) | [INSIDE OUT](https://open.spotify.com/album/791UCNthor64Y8rgUk8UaL) | 3:12 | 2024-01-25 | 2024-02-14 |
 | [Wonderful Day](https://open.spotify.com/track/75wtNse2szKx7YT2WKhiTL) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/1eIMbbLLxejimwwLW4Rdl8) | 3:31 | 2021-12-23 | 2022-03-02 |
 | [Wondering](https://open.spotify.com/track/3QsWvo8g0fx8ap9gkP39Kh) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [Wondering](https://open.spotify.com/album/6vDL2lO3D29KvIuTSMZGlt) | 3:30 | 2022-03-22 | 2022-05-11 |
+| [X10](https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ) | [MCND](https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK) | [X10](https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4) | 2:56 | 2024-05-21 |  |
 | [XOXO](https://open.spotify.com/track/2ZMkjvuOQOD9HLplTDjbTA) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/1aFBAMZbMPfzXYGjANINvw) | 3:27 | 2021-12-23 | 2022-01-19 |
 | [Yellow Gang](https://open.spotify.com/track/5QBrOei7ufS1YKeDCj1z2g) | [Ash\-B](https://open.spotify.com/artist/78l5b6jXVHHTrRCzSx1ku4), [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Yellow Gang](https://open.spotify.com/album/5GbM16ZUU3LKQrJpwXnAPH) | 2:27 | 2022-04-05 | 2022-06-29 |
 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 | 2023-02-14 | 2023-07-19 |

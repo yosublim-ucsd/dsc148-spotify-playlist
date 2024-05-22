@@ -1,6 +1,6 @@
 {
   "description": "Canciones de ayer y de hoy grabadas a fuego en el coraz\u00f3n.",
-  "num_followers": 74962,
+  "num_followers": 74978,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
-      },
-      "artists": [
-        {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
-        }
-      ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
         "name": "Renacer",
         "url": "https://open.spotify.com/album/5buWZNy12nG4fqpakqf5gR"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 229642,
       "name": "Canci\u00f3n de Lejos",
       "url": "https://open.spotify.com/track/5VUDieOMNVcoHOecs4Nvpn"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
+        "name": "Quien Me Quita Lo Cantado",
+        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
+      },
+      "artists": [
+        {
+          "name": "Chaque\u00f1o Palavecino",
+          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
+        }
+      ],
+      "duration_ms": 201427,
+      "name": "Por las costas entrerrianas",
+      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
+    },
+    {
+      "added_at": "2024-05-16 20:48:40",
+      "album": {
         "name": "Cerca del Sol",
         "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
-    },
-    {
-      "added_at": "2024-05-16 20:48:40",
-      "album": {
-        "name": "Quien Me Quita Lo Cantado",
-        "url": "https://open.spotify.com/album/74SPPqaCtI8Ny6PQiUBMdf"
-      },
-      "artists": [
-        {
-          "name": "Chaque\u00f1o Palavecino",
-          "url": "https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3"
-        }
-      ],
-      "duration_ms": 201427,
-      "name": "Por las costas entrerrianas",
-      "url": "https://open.spotify.com/track/159w8FAaY0OVg8H0rXX26C"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1151,8 +1151,8 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
       },
       "artists": [
         {
@@ -1160,9 +1160,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2024-05-16 20:48:40",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2024-05-16 20:48:40",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
         }
       ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2024-05-16 20:48:40",

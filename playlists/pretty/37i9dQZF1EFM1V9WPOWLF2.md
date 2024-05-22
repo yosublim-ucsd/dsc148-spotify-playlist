@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 67 | [Ni De Aquí, Ni De Allá](https://open.spotify.com/track/0ER7nWOV88M9EiNhItsvVA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:46 |
 | 68 | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/track/1D0Uz2anDZW9s5Y0eiKC2H) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:30 |
 | 69 | [VIP](https://open.spotify.com/track/5oDwlD8r5zNlVOE6i34tjH) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 1:46 |
-| 70 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
-| 71 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
+| 70 | [2Y34AM](https://open.spotify.com/track/472YGLU2zeUeqHPnU0GD74) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [2Y34AM](https://open.spotify.com/album/1cfycK1ItL1e6chEZ7SEmi) | 2:57 |
+| 71 | [Química](https://open.spotify.com/track/5gQbxzw0vAWI1F3RLXWsna) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [OTRA CANCIÓN DE AMOR](https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy) | 1:21 |
 | 72 | [Siempre Tú](https://open.spotify.com/track/16PAMEB904tgVrbSMqbnSp) | [Mosmo](https://open.spotify.com/artist/72VOLmKfTw3AbBg4Nc7Inr) | [RITMO GLOBAL](https://open.spotify.com/album/5cICfk2kY1AgGe7zRKFMzO) | 1:56 |
 | 73 | [¿CUANDO VIENES?](https://open.spotify.com/track/4Qbv62N6cq5pGuOVP8GvaF) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [LA ÚLTIMA VEZ QUE ME VISTE](https://open.spotify.com/album/5w0wqH7ocv2hNZfvO06R2J) | 2:32 |
 | 74 | [Inevitable](https://open.spotify.com/track/76cbzftq8VJ9zyXAoKWXcr) | [Stefano Toller](https://open.spotify.com/artist/3Wkk3DpqX2kSYjVay6Fjqn) | [LA BÚSQUEDA](https://open.spotify.com/album/1hX9GX9ot3bkOFXsvpQdAP) | 1:44 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 78 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 79 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `AbR3uwAAAACHBirwRqGCsC5bxezckZEW`
+Snapshot ID: `AbR9GAAAAACiQe5mNYcJfHFvlT3ouP9E`

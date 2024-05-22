@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,825 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,869 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [A New Reality](https://open.spotify.com/track/56OAeNhUbalMx7CWNcB4CV) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [A New Reality](https://open.spotify.com/album/2HsqdyByDAbrehl2SAqWKx) | 3:38 |
 | 2 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/5doYljP28aXEnQryAPrcka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Sure Been Good](https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9) | 7:32 |
-| 3 | [Rest On Us \(Spirit Come Move Over Us\) \[feat\. Sam Rivera\]](https://open.spotify.com/track/4OXwsfRuR2LiO8fiDMc4gj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:30 |
+| 3 | [Rest On Us \(Spirit Come Move Over Us\) \(feat\. Sam Rivera\)](https://open.spotify.com/track/4OXwsfRuR2LiO8fiDMc4gj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:30 |
 | 4 | [LION](https://open.spotify.com/track/0bvIItgMfpZ5kR3Bb9ye6h) | [Anthem Worship](https://open.spotify.com/artist/71LGmy4toAaXKJP7IK8xvG), [Eleni Baker](https://open.spotify.com/artist/3T9neL3g52le9PKELcMHP3), [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [LION](https://open.spotify.com/album/7LS7a1fDDFoDIVa4aXbKXu) | 2:26 |
 | 5 | [What A Friend](https://open.spotify.com/track/0w6iogAZgWyfVcC4MpG4zs) | [Benjamin William Hastings](https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [What A Friend](https://open.spotify.com/album/4fORMR5R4m2ZMNUf4KTb6G) | 4:11 |
 | 6 | [Angel Band](https://open.spotify.com/track/0GP3mMr408i4ikhr5liFMr) | [The Desert Willows](https://open.spotify.com/artist/11kqrpD777gwAzqoqbGk11), [Julia DiGrazia](https://open.spotify.com/artist/3bz9DtEGIYBic48d2q5m4R), [Shane Travis](https://open.spotify.com/artist/0Rpj6yLa15br1rTsEz4ZAv) | [Angel Band](https://open.spotify.com/album/3nkMlkqvpXc9rWdxBPSNnR) | 2:16 |

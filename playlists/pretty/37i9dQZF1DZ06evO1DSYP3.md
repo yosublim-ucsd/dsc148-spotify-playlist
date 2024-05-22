@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 
 ### [This Is P\-Lo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1DSYP3)
 
-> This Is P\-Lo\. Los temas esenciales, todos en una lista.
+> This is P\-Lo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,326 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,327 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 27 | [Locked In \(feat\. Slimmy B\)](https://open.spotify.com/track/18V7rtYluQCHuic8PiImpJ) | [Locksmith](https://open.spotify.com/artist/0OGWDaYrjhn6v1Lq1rqrWa), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0), [Slimmy B](https://open.spotify.com/artist/0BfxMYdkqRuwPXsSwEf5RE) | [Locked In \(feat\. Slimmy B\)](https://open.spotify.com/album/0Sc9tnZo7jPHqBgZ0tHKSv) | 2:27 |
 | 28 | [Make a Move](https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx) | [Jeff Bernat](https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Make a Move](https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX) | 2:24 |
 | 29 | [Talkin Bout](https://open.spotify.com/track/15u0ZhVWMUTEaStEDPXgTO) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Talkin Bout](https://open.spotify.com/album/6L5CxmKI39lczQsNncVrhx) | 1:57 |
-| 30 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
-| 31 | [Boy \(feat\. P\-Lo\)](https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/2BThd0FFROidBahO46lH1y) | 3:41 |
+| 30 | [Boy \(feat\. P\-Lo\)](https://open.spotify.com/track/2YjFfpWIEWu4F7BFxevDqv) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [B\-Legit](https://open.spotify.com/artist/6nltEpEZtqZD1v4YJLlaZI), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Connected And Respected](https://open.spotify.com/album/2BThd0FFROidBahO46lH1y) | 3:41 |
+| 31 | [Walked In](https://open.spotify.com/track/6zZVR5JwKn5gGeWzrUUPyA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Walked In](https://open.spotify.com/album/6q6attrQmOFSm2GBCrqPWq) | 2:20 |
 | 32 | [Going To Work](https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Going To Work \- Single](https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd) | 3:17 |
 | 33 | [Mad](https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2) | [Kool John](https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Moovie!](https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN) | 3:38 |
 | 34 | [What's That?](https://open.spotify.com/track/4tYg2Yu3cmuJHDclO5vrnx) | [Will Hill ](https://open.spotify.com/artist/1VHBVh64cAfUWRpWT3pVJh), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [What's That?](https://open.spotify.com/album/3dJlSNBvBzbBlVVJrK99qz) | 2:20 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DSYP3.md) - [plain]
 | 40 | [House](https://open.spotify.com/track/5nRBPZM5rclpEnvkvwetVx) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Mike Sherm](https://open.spotify.com/artist/3tqosLbNFNekyZyO2KJ6qd) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:24 |
 | 41 | [Bounce](https://open.spotify.com/track/6fzADIXo9q8wnHoIMWKqUl) | [Rob $tone](https://open.spotify.com/artist/2hWs22BmQkK4czFtDLnar2), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [BONA FIDE](https://open.spotify.com/album/1wHjsPMfZOAPdIVejEjmxF) | 3:19 |
 | 42 | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/track/5dx8Qd8i1zCNHGh8O7QTkD) | [Darrell Medellin](https://open.spotify.com/artist/1AaJ2wvoRTdxYhmGa4Akwl), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [LEMONADE FREESTYLE REMIX](https://open.spotify.com/album/2mo4R7bNtsrvgpEgIj4BC4) | 2:22 |
-| 43 | [Too Different](https://open.spotify.com/track/17Ndqn6KNo8CgtHhxn5kAB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA \(Deluxe\)](https://open.spotify.com/album/0l7PE85JIGm7g3OSjR2TNO) | 1:41 |
+| 43 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
 | 44 | [Type Beat](https://open.spotify.com/track/4oKB9qJo3HC2AqeOgu4AbR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 2:19 |
-| 45 | [Lightswitch](https://open.spotify.com/track/5PrCTQ0qYN9UJWVuAfTuMR) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:38 |
+| 45 | [Too Different](https://open.spotify.com/track/17Ndqn6KNo8CgtHhxn5kAB) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [STUNNA \(Deluxe\)](https://open.spotify.com/album/0l7PE85JIGm7g3OSjR2TNO) | 1:41 |
 | 46 | [Ask 'Em \(feat\. P\-Lo & Jessi\)](https://open.spotify.com/track/06cgIaSS8aWWEh7Culie0U) | [$tupid Young](https://open.spotify.com/artist/0h0C8mMT21p0Ixq6qO1UMH), [B.A.R.S](https://open.spotify.com/artist/1ahnpDxkjOKgm9VydpzCKr), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.R.S \(Vol\. 1\)](https://open.spotify.com/album/1JwwVlMQ5mZUquPb3SE8h2) | 2:39 |
 | 47 | [SILK](https://open.spotify.com/track/649JkfJv5FNUMTbIarTDty) | [Ymtk](https://open.spotify.com/artist/1qGA73vOmiGDs08cvGo6rV), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SILK](https://open.spotify.com/album/5aMNCaPqaJDh9BDjrYFdOR) | 3:21 |
 | 48 | [Shine](https://open.spotify.com/track/7reqdhRTImOChEgyZlrqJJ) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [SHINE](https://open.spotify.com/album/5LECWxPVK3XQs2YssYLeJW) | 1:58 |
-| 49 | [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 |
-| 50 | [My Bitch \(feat\. Kamaiyah\)](https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:28 |
+| 49 | [My Bitch \(feat\. Kamaiyah\)](https://open.spotify.com/track/0xzqdnZ6rHbPnzjpGwVwRf) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [STUNNA](https://open.spotify.com/album/6GsGCToyCrO0PokU9RQSjM) | 2:28 |
+| 50 | [In That](https://open.spotify.com/track/0qDh2aqqeI5PQtKTPPXbXA) | [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [Before Anything \- EP](https://open.spotify.com/album/1xc5xfZONgiVkT9INiMc18) | 3:21 |
 
-Snapshot ID: `ZklBAAAAAAB7QQuCIyvjvTW185WFGRbE`
+Snapshot ID: `ZkqSgAAAAABbO7bY5QnEwkq0oSTJOvf5`

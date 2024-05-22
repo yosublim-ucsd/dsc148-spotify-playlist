@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: Aleksiah\nArtwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. \nCover: DIVEBAR YOUTH Artwork: Isu Kim",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 201000,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/7JQ7Mik3DXoi6P5Oov4jSd"
@@ -7819,6 +7819,28 @@
     },
     {
       "album": {
+        "name": "Buon Giorno",
+        "url": "https://open.spotify.com/album/1D1Eh96eBxj6ZpwviHdiAn"
+      },
+      "artists": [
+        {
+          "name": "Kayps",
+          "url": "https://open.spotify.com/artist/6czXlsM2lLm8kD76STPQnx"
+        },
+        {
+          "name": "Calvin Bennett",
+          "url": "https://open.spotify.com/artist/0lseLLxf3jeiML3aTpqo9R"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132024,
+      "name": "Buon Giorno",
+      "url": "https://open.spotify.com/track/7MR69VEiaimYkAIq9A94QQ"
+    },
+    {
+      "album": {
         "name": "Buoyancy",
         "url": "https://open.spotify.com/album/7pAnOaw2zL4jBBADGe5eWK"
       },
@@ -8770,6 +8792,24 @@
       "duration_ms": 207781,
       "name": "Can't Be Stopped",
       "url": "https://open.spotify.com/track/1z7RJrdeNk3do0znCWNiBT"
+    },
+    {
+      "album": {
+        "name": "Can't Be U",
+        "url": "https://open.spotify.com/album/1s85gTSokL8dHa3B8opvhj"
+      },
+      "artists": [
+        {
+          "name": "A.GIRL",
+          "url": "https://open.spotify.com/artist/3oy9LLKC0pjYsIVAi7GHVW"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173536,
+      "name": "Can't Be U",
+      "url": "https://open.spotify.com/track/6LNr3mKcFsxfJoRWCyPQ86"
     },
     {
       "album": {
@@ -13848,7 +13888,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 151686,
       "name": "disco",
       "url": "https://open.spotify.com/track/4sZbngt2m2rWC9W5dMEiwC"
@@ -16142,7 +16182,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 168479,
       "name": "Ego Ride",
       "url": "https://open.spotify.com/track/2zZ8YzZrzjlMl47XaiRfXd"
@@ -16803,6 +16843,28 @@
     },
     {
       "album": {
+        "name": "Every Time I See You",
+        "url": "https://open.spotify.com/album/6xFM6dsPICucwjNe0vxzIr"
+      },
+      "artists": [
+        {
+          "name": "Fractures",
+          "url": "https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70"
+        },
+        {
+          "name": "Dejector",
+          "url": "https://open.spotify.com/artist/0WwAYiS9iUf3VNUqRniJsi"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221248,
+      "name": "Every Time I See You",
+      "url": "https://open.spotify.com/track/5AKeAQM90qWqZ3Nd2ravjC"
+    },
+    {
+      "album": {
         "name": "Every Time I Think I'm Happy",
         "url": "https://open.spotify.com/album/3VBGJNajYbgj3q9vrI7Tp5"
       },
@@ -16924,6 +16986,24 @@
       "duration_ms": 152074,
       "name": "Everyday Struggle",
       "url": "https://open.spotify.com/track/1L5eVkQE10XK5jCwmxhIVg"
+    },
+    {
+      "album": {
+        "name": "Everyone",
+        "url": "https://open.spotify.com/album/4BEgR4YMXD5qZCUTHKDv8o"
+      },
+      "artists": [
+        {
+          "name": "Voom",
+          "url": "https://open.spotify.com/artist/7sOkM3Mc3xPGcM7kGCjDtS"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157105,
+      "name": "Everyone",
+      "url": "https://open.spotify.com/track/6VSTXvovE1EejMEahljTKv"
     },
     {
       "album": {
@@ -17212,7 +17292,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 205240,
       "name": "Excalibur",
       "url": "https://open.spotify.com/track/2Y2nA9IKV1wFPNdzQe116n"
@@ -17494,7 +17574,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 261250,
       "name": "Eyes On The Prize",
       "url": "https://open.spotify.com/track/78D3QPpu7bKbprZuifnf23"
@@ -19972,6 +20052,24 @@
       "duration_ms": 181224,
       "name": "FRENEMIES",
       "url": "https://open.spotify.com/track/2hwAugT0B9Xu7VGZnPh3Ur"
+    },
+    {
+      "album": {
+        "name": "fresh figure",
+        "url": "https://open.spotify.com/album/1OAJBuKzbZ45dyoHAYIejU"
+      },
+      "artists": [
+        {
+          "name": "ixaras",
+          "url": "https://open.spotify.com/artist/7pEbXPH6n4tq1E5uMon4PJ"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155816,
+      "name": "fresh figure",
+      "url": "https://open.spotify.com/track/4M7eIalDccTknOndeDRfOq"
     },
     {
       "album": {
@@ -22993,6 +23091,24 @@
     },
     {
       "album": {
+        "name": "Hanging Out The Window",
+        "url": "https://open.spotify.com/album/0aVvnATDq4RJAXofpwxuGJ"
+      },
+      "artists": [
+        {
+          "name": "Platonic Sex",
+          "url": "https://open.spotify.com/artist/61hTjDPDLNpg6CPMtmLqHX"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281496,
+      "name": "Hanging Out The Window",
+      "url": "https://open.spotify.com/track/3Q4x6AF5XFeBzzsiDRr2o2"
+    },
+    {
+      "album": {
         "name": "Happens All The Time",
         "url": "https://open.spotify.com/album/4I5XTcRXTDNmE6NT0oMn2X"
       },
@@ -24470,7 +24586,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 204073,
       "name": "Holding Me Back",
       "url": "https://open.spotify.com/track/5SLtZC1ezSwMDqQYAQaIan"
@@ -24737,6 +24853,24 @@
     },
     {
       "album": {
+        "name": "Homeland",
+        "url": "https://open.spotify.com/album/3TEP5wIvOc4pZKWYA27Csy"
+      },
+      "artists": [
+        {
+          "name": "Tjaka",
+          "url": "https://open.spotify.com/artist/53NDit056RZxZwczUlg4TO"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249691,
+      "name": "Homeland",
+      "url": "https://open.spotify.com/track/6CqY5hQYAFhnSjZh2RkNG7"
+    },
+    {
+      "album": {
         "name": "Hometown",
         "url": "https://open.spotify.com/album/6cTRL5RnQJrpFaN4ue0xXp"
       },
@@ -24868,6 +25002,24 @@
       "duration_ms": 203333,
       "name": "Honeybee",
       "url": "https://open.spotify.com/track/39J2rMWsNaAtWH8Ep7w1O1"
+    },
+    {
+      "album": {
+        "name": "HONEYCOMB",
+        "url": "https://open.spotify.com/album/4xRMFYThPRTap7pFQZnWL8"
+      },
+      "artists": [
+        {
+          "name": "B Wise",
+          "url": "https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180776,
+      "name": "HONEYCOMB",
+      "url": "https://open.spotify.com/track/61JuHiWVzceBAkziPAhPGa"
     },
     {
       "album": {
@@ -27081,6 +27233,24 @@
     },
     {
       "album": {
+        "name": "Idioms",
+        "url": "https://open.spotify.com/album/6zS46oXYtRbxYXYOvSWbp3"
+      },
+      "artists": [
+        {
+          "name": "DIVEBAR YOUTH",
+          "url": "https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148314,
+      "name": "Idioms",
+      "url": "https://open.spotify.com/track/0Dv9Lv9e1afH0EwWomh9bW"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/7uWOvSJmV62K9VZkHXWyaE"
       },
@@ -27288,7 +27458,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 203986,
       "name": "If Only",
       "url": "https://open.spotify.com/track/1gVxcBMmlJOZ1NoOyDShfx"
@@ -31774,7 +31944,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 137388,
       "name": "Lilac",
       "url": "https://open.spotify.com/track/0zcvhKEtmG9ZUogb6SeEno"
@@ -31886,7 +32056,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 220266,
       "name": "Little Sadness",
       "url": "https://open.spotify.com/track/2XbvBSOmMyCwOcVcJK7UcL"
@@ -33772,6 +33942,24 @@
       "duration_ms": 153846,
       "name": "MARBELLA",
       "url": "https://open.spotify.com/track/1ACviOEA8zl7XroQSGFCbW"
+    },
+    {
+      "album": {
+        "name": "Marlborough's Gold",
+        "url": "https://open.spotify.com/album/0v31kn9oQZ0ptSmom9jLkR"
+      },
+      "artists": [
+        {
+          "name": "Blonded",
+          "url": "https://open.spotify.com/artist/2E5LHnySArxs2lCP59s40J"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161854,
+      "name": "Marlborough's Gold",
+      "url": "https://open.spotify.com/track/6ce2CI55jsFuw0NJW0mJTJ"
     },
     {
       "album": {
@@ -39977,6 +40165,24 @@
     },
     {
       "album": {
+        "name": "Orange October",
+        "url": "https://open.spotify.com/album/7jQXCvXBlqDk1MXjgVfn5x"
+      },
+      "artists": [
+        {
+          "name": "Joe Ghatt",
+          "url": "https://open.spotify.com/artist/2YiwZQDl2NHiYXTggmtDZ3"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347381,
+      "name": "Orange October",
+      "url": "https://open.spotify.com/track/359T7LalUvt176hnURJm8p"
+    },
+    {
+      "album": {
         "name": "Orange Roller Coaster",
         "url": "https://open.spotify.com/album/4TdaWJZjLYOMXY335meGru"
       },
@@ -40648,7 +40854,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 220504,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/6tmd1QWPZyXS6eoByKXi3Y"
@@ -40876,7 +41082,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 227493,
       "name": "Party Boy",
       "url": "https://open.spotify.com/track/51miOuPRpcixpAMvEPfqHe"
@@ -42636,6 +42842,24 @@
       "duration_ms": 110526,
       "name": "PRICE UP!",
       "url": "https://open.spotify.com/track/6TTdVaLa2ey2uacdhjCT75"
+    },
+    {
+      "album": {
+        "name": "PRIDE (EPISODE 2)",
+        "url": "https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu"
+      },
+      "artists": [
+        {
+          "name": "OD",
+          "url": "https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135461,
+      "name": "PRIDE - EPISODE 2",
+      "url": "https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr"
     },
     {
       "album": {
@@ -44898,7 +45122,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 150036,
       "name": "Rockabye",
       "url": "https://open.spotify.com/track/1yMzSOuuTWGG4HEGNJYqWE"
@@ -51822,7 +52046,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 177709,
       "name": "Sweet Release",
       "url": "https://open.spotify.com/track/6h7dXGBDgUCmzBcV624wNu"
@@ -53120,7 +53344,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 288881,
       "name": "The Burnout",
       "url": "https://open.spotify.com/track/7oS9cc0RQxVHz50ogDtAMr"
@@ -53164,6 +53388,24 @@
       "duration_ms": 249334,
       "name": "The Charm",
       "url": "https://open.spotify.com/track/1Zrxs8fMyCs0rNVFU2WaJA"
+    },
+    {
+      "album": {
+        "name": "The City",
+        "url": "https://open.spotify.com/album/0cHCnOrM7CHplz9BlUXUrS"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212254,
+      "name": "The City",
+      "url": "https://open.spotify.com/track/5Fp2SCjCRKDuL308IcKi8J"
     },
     {
       "album": {
@@ -53886,7 +54128,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 130759,
       "name": "The Song of You",
       "url": "https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1"
@@ -56668,6 +56910,24 @@
       "duration_ms": 216590,
       "name": "Ultra Feeling - Vocal Mix",
       "url": "https://open.spotify.com/track/7Hs7FX7vlqaM6hZVwDp72C"
+    },
+    {
+      "album": {
+        "name": "Umva",
+        "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203611,
+      "name": "Umva",
+      "url": "https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN"
     },
     {
       "album": {
@@ -60636,6 +60896,24 @@
       "duration_ms": 309063,
       "name": "Without You",
       "url": "https://open.spotify.com/track/6PAWQmM01Nkqaef7A8dIic"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5PX1oCxzYPxx1aNQBdWiAE"
+      },
+      "artists": [
+        {
+          "name": "Pink Matter",
+          "url": "https://open.spotify.com/artist/3akS61Yn88YZAfQyD0Z7x8"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1tkZUE7wM3zR8jXkbq3d5m"
     },
     {
       "album": {

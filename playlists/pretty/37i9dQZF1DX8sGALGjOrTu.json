@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 475740,
+  "num_followers": 475857,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Artist In The Ambulance",
-        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 203240,
-      "name": "Stare At The Sun",
-      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "The Used",
         "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 176373,
       "name": "A Box Full of Sharp Objects",
       "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "The Sufferer & The Witness",
-        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
-      },
-      "artists": [
-        {
-          "name": "Rise Against",
-          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Ready To Fall",
-      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "30 Seconds To Mars",
         "url": "https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 233000,
       "name": "Capricorn (A Brand New Name)",
       "url": "https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "The Sufferer & The Witness",
+        "url": "https://open.spotify.com/album/1Vr598HQXjJCwxHale9yQP"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 227706,
+      "name": "Ready To Fall",
+      "url": "https://open.spotify.com/track/3tbZL9VsjRlDekb1Wt7m2Q"
     },
     {
       "added_at": "2023-03-28 16:00:32",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-03-28 16:00:32",
       "album": {
-        "name": "Vheissu",
-        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
-      },
-      "artists": [
-        {
-          "name": "Thrice",
-          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
-        }
-      ],
-      "duration_ms": 254853,
-      "name": "Image Of The Invisible",
-      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
-    },
-    {
-      "added_at": "2023-03-28 16:00:32",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2023-03-28 16:00:32",
+      "album": {
+        "name": "Vheissu",
+        "url": "https://open.spotify.com/album/4pwaQ1jEWLrcCvYFDJVWbl"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "duration_ms": 254853,
+      "name": "Image Of The Invisible",
+      "url": "https://open.spotify.com/track/19XQb9uJRmHwxb0EOVXkvn"
     },
     {
       "added_at": "2023-03-28 16:00:32",

@@ -4,7 +4,7 @@
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-137 songs - 4 hr 32 min
+138 songs - 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Serene Dreams](https://open.spotify.com/track/3KrfJIrkd7a43d6gRKJcPg) | [Moon Neux](https://open.spotify.com/artist/42DQbGLMNeNbupqDMIe2J9), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV) | [Floating on Air](https://open.spotify.com/album/4vGUX1nQpp99O1kMMwJXlE) | 1:36 | 2024-02-05 |  |
 | [Serenity in Motion](https://open.spotify.com/track/0wqWTSKsYgG9zrb6CMpTlQ) | [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN), [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG) | [In the Stillness](https://open.spotify.com/album/0RKqBzih1tgkqTInODST75) | 1:55 | 2024-02-05 |  |
 | [Shimmering Dreams](https://open.spotify.com/track/1D7Ur175tdxnPiDdkja4eS) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Enchanted Lullabies](https://open.spotify.com/album/2QAtObUYP4c1nTTl7ZiI0z) | 2:17 | 2024-02-05 |  |
+| [Sleep in Your Dream](https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL) | [aswellas](https://open.spotify.com/artist/6CuHbpF36W0v7cEsrzqCkn) | [Sleep in Your Dream](https://open.spotify.com/album/39iWkaM314iuC5KfxK3xfy) | 2:28 | 2024-05-21 |  |
 | [Softly Spoken](https://open.spotify.com/track/2Og4uw9x5LH3ZFeEMuufw0) | [Spherity](https://open.spotify.com/artist/0DovSSyc9QQDunduaGcWPG), [Tokyo Pows](https://open.spotify.com/artist/01GBhCwlhOaAhgc9sgiihV), [Whiskerrain](https://open.spotify.com/artist/1gnfu5vXc1OQe1bJhsGnxN) | [Softly Spoken](https://open.spotify.com/album/1osp8EiJsqAv3rhXsKPnt4) | 1:48 | 2024-02-05 |  |
 | [solar lullaby](https://open.spotify.com/track/4ctkp47D4UHjeQbJUPfHeX) | [assol](https://open.spotify.com/artist/4veIsGS7BjgJT5b1AWfSpH) | [solar lullaby](https://open.spotify.com/album/5QKEkToSNlr9r4JsvwUmUk) | 2:16 | 2024-05-07 | 2024-05-09 |
 | [Solitary Reflections](https://open.spotify.com/track/7bqhc6oDlabCwdsMvU1EkB) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Echoes of Stardust](https://open.spotify.com/album/4xFwIg2DthGNA0bSRhgmsY) | 2:12 | 2024-02-05 |  |

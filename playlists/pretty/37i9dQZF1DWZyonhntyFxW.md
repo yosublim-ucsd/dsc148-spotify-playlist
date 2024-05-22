@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > زميلي بيسأل عن المبدأ وقت المادة بيروح فين؟.غلاف:مروان بابلو
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,940 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,086 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 2 | [عالعموم](https://open.spotify.com/track/3tfiVsnpCzewE8rPpsRIL6) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [عالعموم](https://open.spotify.com/album/1LLcr3oTtKHlbbYzxmGwkH) | 2:44 |
 | 3 | [PARIS](https://open.spotify.com/track/535QXmpOSHUMTw46lNJkj5) | [TURK](https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL), [ZIAD ZAZA](https://open.spotify.com/artist/03V846UE00DEjP9OaGvjKM), [Dabl De](https://open.spotify.com/artist/5aCqsScJyvSLpNLCl9ZikA) | [2000GEN](https://open.spotify.com/album/7LJMEIJvoJMwq2dXQDEAwk) | 2:50 |
 | 4 | [3ereft Eimtek](https://open.spotify.com/track/6dXIXxMazGdBaCEFcvgCA1) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa) | [3ereft Eimtek](https://open.spotify.com/album/6JT4VHNlL5aZQgOvRcePif) | 2:15 |
-| 5 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Mahmoud Abdelaziz](https://open.spotify.com/artist/7lD8cwRw79KdmKw2beJqIA) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 |
+| 5 | [El Waat El Daye3](https://open.spotify.com/track/0KlV4dMk7ciYT4GfMMQhJv) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [El Waat El Daye3](https://open.spotify.com/album/79aadAOfRpMoyehE1qFrLh) | 2:54 |
 | 6 | [Sorry](https://open.spotify.com/track/6PUgP7EVd2kuemrvGiJT8n) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Sorry](https://open.spotify.com/album/5PerU9NkGwnrhzvyZkswGp) | 1:42 |
 | 7 | [Lojy](https://open.spotify.com/track/3dAhErSXqu7WxM5wJp48By) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [OK.](https://open.spotify.com/album/5MGO9Vex1LqakMmpJoANzZ) | 2:30 |
 | 8 | [Lang](https://open.spotify.com/track/5Yz0L0ZpJ2pcqYn6bzo3nF) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Lang](https://open.spotify.com/album/4pN9RFdnu3Ia45AkMolCTm) | 2:26 |

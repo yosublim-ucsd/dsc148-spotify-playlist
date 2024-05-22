@@ -1,12 +1,12 @@
 {
   "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 117124,
+  "num_followers": 117147,
   "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABbqsejQSWHe1xK+s+MdXOr",
+  "snapshot_id": "ZkqSgAAAAAC4lTnXlTNTyvFGlyQdms3M",
   "tracks": [
     {
       "added_at": null,
@@ -23,38 +23,6 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 164546,
-      "name": "Everybody Loves Somebody",
-      "url": "https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": null,
@@ -91,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "I've Grown Accustomed To Her Face - Remastered/1998",
-      "url": "https://open.spotify.com/track/0BFCbH1cxzeUSJBVwJGRLg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -123,6 +75,22 @@
       "duration_ms": 130333,
       "name": "My Rifle, My Pony And Me - Remastered",
       "url": "https://open.spotify.com/track/73VWTEHnoZyULD840kEX49"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "Just In Time - Remastered 1998",
+      "url": "https://open.spotify.com/track/5MHAl3WVEOYgEmA7RXIrSv"
     },
     {
       "added_at": null,
@@ -167,8 +135,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 7 (1956-1957)",
+        "url": "https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz"
       },
       "artists": [
         {
@@ -176,9 +144,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 130253,
-      "name": "Mean To Me - Remastered/1998",
-      "url": "https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry"
+      "duration_ms": 140333,
+      "name": "It Looks Like Love",
+      "url": "https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg"
     },
     {
       "added_at": null,
@@ -295,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
       },
       "artists": [
         {
@@ -304,9 +272,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Cha Cha Cha D'Amour (Melodie D'Amour)",
-      "url": "https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk"
+      "duration_ms": 144800,
+      "name": "Return To Me (Ritorna-Me) - 1997 Remaster",
+      "url": "https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo"
     },
     {
       "added_at": null,
@@ -327,8 +295,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 9 (1958-1959)",
+        "url": "https://open.spotify.com/album/1Ce4OatecR4WzcuOLIObKo"
       },
       "artists": [
         {
@@ -336,9 +304,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 145346,
-      "name": "I Can't Believe That You're In Love With Me - Remastered/1998",
-      "url": "https://open.spotify.com/track/6mcDe5GXUZn6eF7mC5l3Hg"
+      "duration_ms": 168466,
+      "name": "My Rifle, My Pony And Me",
+      "url": "https://open.spotify.com/track/4c0rDKMex24OXtjREhW7qd"
     },
     {
       "added_at": null,
@@ -355,6 +323,70 @@
       "duration_ms": 139386,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961)",
+        "url": "https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "All In A Night's Work",
+      "url": "https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somewhere There's a Someone",
+        "url": "https://open.spotify.com/album/4xl7kIvmXiZCZ9UYQoluaH"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 134253,
+      "name": "Somewhere There's a Someone",
+      "url": "https://open.spotify.com/track/6o6SjSnjl1uFjvAMDhmZ3H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Italian Love Songs",
+        "url": "https://open.spotify.com/album/5IRbN6WBo1ZMpOkbQdTF10"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Arrivederci Roma - Remastered 1998",
+      "url": "https://open.spotify.com/track/6PHtklwObDCFCY7FDm10Wj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(Remember Me) I'm the One That Loves You",
+        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "Red Roses for a Blue Lady",
+      "url": "https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W"
     },
     {
       "added_at": null,
@@ -415,38 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "(Remember Me) I'm the One That Loves You",
-        "url": "https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "Red Roses for a Blue Lady",
-      "url": "https://open.spotify.com/track/3dP26yhAx1murb5j0Y833W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 157706,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/3Dxuooqtp5zcpIEdJCDJBN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin Hits Again",
         "url": "https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5"
       },
@@ -459,22 +459,6 @@
       "duration_ms": 120360,
       "name": "You'll Always Be the One I Love",
       "url": "https://open.spotify.com/track/42lA9iaBSjXJ0vlDyHfjs1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 168613,
-      "name": "Senza fine",
-      "url": "https://open.spotify.com/track/2BBH59nyfRuXTC8rpYEPT0"
     },
     {
       "added_at": null,
@@ -495,6 +479,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "French Style",
+        "url": "https://open.spotify.com/album/64Hm00agTC7eMQZuFQNnLm"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "C'est si bon",
+      "url": "https://open.spotify.com/track/0ksZYoJXNN1QmgUQdvbK0z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 168613,
+      "name": "Senza fine",
+      "url": "https://open.spotify.com/track/2BBH59nyfRuXTC8rpYEPT0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Dean Martin TV Show",
         "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
       },
@@ -507,6 +523,22 @@
       "duration_ms": 148746,
       "name": "S'posin'",
       "url": "https://open.spotify.com/track/5zfRiEJa09MdiPeMHx07gi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Welcome to My World",
+        "url": "https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "The Green, Green Grass of Home",
+      "url": "https://open.spotify.com/track/4ajZSQCn0cjUvUNCqKGTeD"
     },
     {
       "added_at": null,
@@ -543,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Welcome to My World",
-        "url": "https://open.spotify.com/album/3MrG9jbcRu5CnJyqFRxwna"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "The Green, Green Grass of Home",
-      "url": "https://open.spotify.com/track/4ajZSQCn0cjUvUNCqKGTeD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dean Martin Hits Again",
         "url": "https://open.spotify.com/album/1vOdQThTsIh1sGRGcODki5"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 152346,
       "name": "In the Chapel in the Moonlight",
       "url": "https://open.spotify.com/track/2Oabv85FCY9lUmyPPmcggX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're the Best Thing That Ever Happened to Me",
-        "url": "https://open.spotify.com/album/50Ht1XmmPq4BbEGCwxzF5K"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 164760,
-      "name": "Tie a Yellow Ribbon Round the Old Oak Tree",
-      "url": "https://open.spotify.com/track/0TWZDPovaXPMkZNFmGKbdH"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're the Best Thing That Ever Happened to Me",
+        "url": "https://open.spotify.com/album/50Ht1XmmPq4BbEGCwxzF5K"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 164760,
+      "name": "Tie a Yellow Ribbon Round the Old Oak Tree",
+      "url": "https://open.spotify.com/track/0TWZDPovaXPMkZNFmGKbdH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Dean Martin",
         "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
       },
@@ -616,9 +632,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 163053,
-      "name": "In the Misty Moonlight",
-      "url": "https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu"
+      "duration_ms": 141906,
+      "name": "I Will",
+      "url": "https://open.spotify.com/track/0wX6mflFA4a72SOcAkDYsY"
     },
     {
       "added_at": null,
@@ -648,9 +664,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
-      "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
+      "duration_ms": 146360,
+      "name": "Vieni Su (Say You Love Me, Too) - Remastered 1998",
+      "url": "https://open.spotify.com/track/0jH9nmgFuW8Ga7ewfYQgwX"
     },
     {
       "added_at": null,
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 141840,
-      "name": "Tik-A-Tee, Tik-A-Tay",
-      "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
+      "duration_ms": 163053,
+      "name": "In the Misty Moonlight",
+      "url": "https://open.spotify.com/track/1RdFoJL4vjNXinXA2iSgGu"
     },
     {
       "added_at": null,
@@ -712,9 +728,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 158813,
-      "name": "My Heart Reminds Me - Remastered 1998",
-      "url": "https://open.spotify.com/track/7ttWSKqh526y2NImkQvuW3"
+      "duration_ms": 185773,
+      "name": "Non Dimenticar - Remastered 1998",
+      "url": "https://open.spotify.com/track/0M7yY7udI6Cj2RzIXUVNg7"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everybody Loves Somebody",
-        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
+        "name": "The Essential Dean Martin",
+        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 187986,
-      "name": "My Heart Cries for You",
-      "url": "https://open.spotify.com/track/6KSQAmuboVQfo6hOTYDzyk"
+      "duration_ms": 141840,
+      "name": "Tik-A-Tee, Tik-A-Tay",
+      "url": "https://open.spotify.com/track/1d7nWD7CdtUGuYKHXCIZ4j"
     },
     {
       "added_at": null,
@@ -776,35 +792,15 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 166680,
-      "name": "Just Say I Love Her (Dicitencello Vuie) - Remastered 1998",
-      "url": "https://open.spotify.com/track/4ntnTJJg7ZmlB2lAFvWkDR"
+      "duration_ms": 159360,
+      "name": "Take Me In Your Arms (Torna A Surriento) - Remastered 1998",
+      "url": "https://open.spotify.com/track/2hwkWcWEY664YUk6EEFccq"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Reprise Rarities (Vol. 5)",
-        "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 169405,
-      "name": "Guys And Dolls",
-      "url": "https://open.spotify.com/track/2LYubpBnsnWwbscmQC0JuV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Dean Martin",
-        "url": "https://open.spotify.com/album/3bCD76GPTntFdGOT6KXgO3"
+        "name": "Everybody Loves Somebody",
+        "url": "https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q"
       },
       "artists": [
         {
@@ -812,15 +808,15 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 161066,
-      "name": "Houston",
-      "url": "https://open.spotify.com/track/4CKqqKUKsjNTTNF3veSiWi"
+      "duration_ms": 187986,
+      "name": "My Heart Cries for You",
+      "url": "https://open.spotify.com/track/6KSQAmuboVQfo6hOTYDzyk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Masterpieces: Timeless Songs, Vol. I",
-        "url": "https://open.spotify.com/album/53SlDo23ac8NzxV1RZHWbU"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
       },
       "artists": [
         {
@@ -828,15 +824,15 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 158981,
-      "name": "Walkin' After Midnight",
-      "url": "https://open.spotify.com/track/7JO9xzT0jFR7rvDRvw5jMb"
+      "duration_ms": 186466,
+      "name": "You Belong To Me",
+      "url": "https://open.spotify.com/track/0VrTy4ScuMoVxp26rLgHpd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 9 (1958-1959)",
-        "url": "https://open.spotify.com/album/1Ce4OatecR4WzcuOLIObKo"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
       },
       "artists": [
         {
@@ -844,9 +840,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 145800,
-      "name": "How Sweet It Is",
-      "url": "https://open.spotify.com/track/301RiGPJ5JNg6dEVNP2Stz"
+      "duration_ms": 145266,
+      "name": "Let Me Love You Tonight",
+      "url": "https://open.spotify.com/track/08MGDBwkSopRdXxr5BjeiO"
     }
   ],
   "unique_name": "This Is Dean Martin",

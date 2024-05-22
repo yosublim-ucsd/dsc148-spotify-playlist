@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 22701,
+  "num_followers": 22710,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABRZ81Cuz9FlleoxOfP7iqd",
+  "snapshot_id": "ZkqSgAAAAAAAh8ReH6qW2cuGPDUDtr34",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'll Take Mine Country Style",
-        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 131093,
-      "name": "Cunnamulla Feller - Remaster 1995",
-      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ringer From The Top End",
         "url": "https://open.spotify.com/album/6Y8gUOGxki5VZFSb2hbanX"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 186533,
       "name": "Charleville",
       "url": "https://open.spotify.com/track/610yqiTu1JHursSimKCMyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Take Mine Country Style",
+        "url": "https://open.spotify.com/album/1j3QzDW5zZo6o44C6whI59"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 131093,
+      "name": "Cunnamulla Feller - Remaster 1995",
+      "url": "https://open.spotify.com/track/1HMf9KUJDJvphsme4RiG6B"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Looking Forward Looking Back",
-        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 180666,
-      "name": "The Bloke Who Serves The Beer",
-      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Trucks On The Track",
         "url": "https://open.spotify.com/album/2R1izUaVNUSMbNYS2S2vit"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 203666,
       "name": "Dieseline Dreams",
       "url": "https://open.spotify.com/track/1a7fWD6ICc5Dbr5d22UyRV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Looking Forward Looking Back",
+        "url": "https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 180666,
+      "name": "The Bloke Who Serves The Beer",
+      "url": "https://open.spotify.com/track/6S88P3r3HlpyrAEn8yBjOP"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of Slim Dusty (Remastered)",
-        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Where Country Is - 1998 Remaster",
-      "url": "https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Slim Dusty Heritage Album",
         "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 463800,
       "name": "The Man From Snowy River",
       "url": "https://open.spotify.com/track/2xv0IvUYv7vkhKstp46RXg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of Slim Dusty (Remastered)",
+        "url": "https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Where Country Is - 1998 Remaster",
+      "url": "https://open.spotify.com/track/2U8tYaXPEqwWp7c4bGidaB"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+        "name": "Natural High",
+        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 249266,
-      "name": "The Man From Iron Bark",
-      "url": "https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y"
+      "duration_ms": 178066,
+      "name": "Some Things Never Change Out Here",
+      "url": "https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h"
     },
     {
       "added_at": null,
@@ -708,15 +708,15 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Gotta Keep Moving",
-      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
+      "duration_ms": 240413,
+      "name": "Something In The Pilliga",
+      "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Natural High",
-        "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Some Things Never Change Out Here",
-      "url": "https://open.spotify.com/track/3HTcXIE7RmBzYP5DrqfZ9h"
+      "duration_ms": 249266,
+      "name": "The Man From Iron Bark",
+      "url": "https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
         }
       ],
-      "duration_ms": 240413,
-      "name": "Something In The Pilliga",
-      "url": "https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u"
+      "duration_ms": 191693,
+      "name": "Gotta Keep Moving",
+      "url": "https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i"
     },
     {
       "added_at": null,

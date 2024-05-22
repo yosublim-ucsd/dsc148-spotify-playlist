@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,723 likes - 57 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,844 likes - 58 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,13 +57,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 | 47 | [Rio Grande](https://open.spotify.com/track/2mqYYL6mGOyvmyhfwk9zmi) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z) | [Rio Grande](https://open.spotify.com/album/1KQNMs6pSnaIuyBVi3r0Gh) | 2:58 |
 | 48 | [Addicted](https://open.spotify.com/track/2lmwEI8z0g3dMM7ELu99Gt) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Addicted](https://open.spotify.com/album/4iPjoJHlqlAEEMwKPEjDT1) | 3:26 |
 | 49 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 |
-| 50 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
-| 51 | [Scorpios kiss](https://open.spotify.com/track/1Yv9mPmTMyqAWnuV4SGPGm) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Scorpios kiss](https://open.spotify.com/album/3NBhNOVCWapilng8yLsJ7r) | 2:16 |
-| 52 | [The Curb](https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [The Curb](https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV) | 3:32 |
-| 53 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
-| 54 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 |
-| 55 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
-| 56 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 |
-| 57 | [Koko Krazy](https://open.spotify.com/track/4R3B9DLaisZbDJgPSaBc0p) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Koko Krazy](https://open.spotify.com/album/2cfo6qB9xYVv8j9QyZrwMN) | 2:40 |
+| 50 | [Life of the Party](https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [Life of the Party](https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR) | 3:12 |
+| 51 | [If We Being Rëal](https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 2:52 |
+| 52 | [Scorpios kiss](https://open.spotify.com/track/1Yv9mPmTMyqAWnuV4SGPGm) | [tendai](https://open.spotify.com/artist/6yOCvxzh2MCMZKVZHDdLL7) | [Scorpios kiss](https://open.spotify.com/album/3NBhNOVCWapilng8yLsJ7r) | 2:16 |
+| 53 | [The Curb](https://open.spotify.com/track/2agGvnAhdnszerZzi9AXbj) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [The Curb](https://open.spotify.com/album/40w80xZ6Qg785sg4XRrHmV) | 3:32 |
+| 54 | [euphoria](https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [euphoria](https://open.spotify.com/album/32bR4LcEc1PvJEhaKoo4ZN) | 6:23 |
+| 55 | [Famous Girl](https://open.spotify.com/track/62KYfsqveMHjmwZbU69OH7) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Famous Girl](https://open.spotify.com/album/45wtTSPu9kEpYp0CQjYtWF) | 2:56 |
+| 56 | [Get It Sexyy](https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Get It Sexyy](https://open.spotify.com/album/3ahxhuhmGJiN0CWLOff9Sw) | 2:28 |
+| 57 | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/track/44GVJ3qYXpV3fbl1jhEIUs) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Reset \(feat\. Crayon & Bella Shmurda\)](https://open.spotify.com/album/3itD5YIFHhsxo3ICHes9lA) | 2:43 |
+| 58 | [Koko Krazy](https://open.spotify.com/track/4R3B9DLaisZbDJgPSaBc0p) | [Rushy](https://open.spotify.com/artist/0Mf9AMLaP102sdJQ3Xqm6J) | [Koko Krazy](https://open.spotify.com/album/2cfo6qB9xYVv8j9QyZrwMN) | 2:40 |
 
-Snapshot ID: `Zka/EwAAAAD0VPdSKEeBp+fD3qR6z0B7`
+Snapshot ID: `ZkzE2AAAAAAQvbh2GSBOMPn8vIYwHSzU`

@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 386946,
+  "num_followers": 386949,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "\u6708\u3078\u884c\u3053\u3046",
-        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
-      },
-      "artists": [
-        {
-          "name": "Macaroni Empitsu",
-          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
-        }
-      ],
-      "duration_ms": 198370,
-      "name": "\u6708\u3078\u884c\u3053\u3046",
-      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "TURN IT UP (feat. Candee & ZOT on the WAVE)",
         "url": "https://open.spotify.com/album/5gTvyYgUsKQ6UwUdavwn5z"
       },
@@ -759,18 +743,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+        "name": "\u6708\u3078\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/4WDo7ma5e2z6bqjcbQkz2w"
       },
       "artists": [
         {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+          "name": "Macaroni Empitsu",
+          "url": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ"
         }
       ],
-      "duration_ms": 243177,
-      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
+      "duration_ms": 198370,
+      "name": "\u6708\u3078\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/21JQaUURrZvW2SutiOtX1Y"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 143240,
       "name": "FORGIVE ME",
       "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 243177,
+      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
+        "name": "Cult.",
+        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "natori",
+          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
         }
       ],
-      "duration_ms": 248901,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
+      "duration_ms": 268203,
+      "name": "Cult.",
+      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1207,18 +1207,34 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Cult.",
-        "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV"
       },
       "artists": [
         {
-          "name": "natori",
-          "url": "https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 268203,
-      "name": "Cult.",
-      "url": "https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M"
+      "duration_ms": 248901,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "STARS",
+        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
+      },
+      "artists": [
+        {
+          "name": "w.o.d.",
+          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "STARS",
+      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 152066,
       "name": "fake face dance music - night drive remix",
       "url": "https://open.spotify.com/track/4PZoa61PqX7neqlNnc4lf1"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "STARS",
-        "url": "https://open.spotify.com/album/758HaOSUUneTb9qVyurf3x"
-      },
-      "artists": [
-        {
-          "name": "w.o.d.",
-          "url": "https://open.spotify.com/artist/06sqnZl2EzpyIamhM1u3eO"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "STARS",
-      "url": "https://open.spotify.com/track/0mMikRupn84z6woeMHccz1"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "OKACHIMACHI FRIDAY NIGHT",
+        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 198088,
+      "name": "OKACHIMACHI FRIDAY NIGHT",
+      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "COMBO",
         "url": "https://open.spotify.com/album/2bhJ2iTDEnNwMpb2vwcY6P"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 154786,
       "name": "Drink (feat.JJJ)",
       "url": "https://open.spotify.com/track/69T7tPlyIhqAD7k0BWWnsg"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "OKACHIMACHI FRIDAY NIGHT",
-        "url": "https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 198088,
-      "name": "OKACHIMACHI FRIDAY NIGHT",
-      "url": "https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
+        "name": "Think About It",
+        "url": "https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB"
+      },
+      "artists": [
+        {
+          "name": "guca owl",
+          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+        }
+      ],
+      "duration_ms": 241992,
+      "name": "Think About It",
+      "url": "https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
         "name": "Kids Return",
         "url": "https://open.spotify.com/album/3sG9iKn22dJKaTX2ZohHmf"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "Think About It",
-        "url": "https://open.spotify.com/album/2WB7SY5SxIskb9Ju9uekRB"
+        "name": "Welcome to My Castle",
+        "url": "https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l"
       },
       "artists": [
         {
-          "name": "guca owl",
-          "url": "https://open.spotify.com/artist/4itoeqQ3NcIgbtec5B4GGf"
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
         }
       ],
-      "duration_ms": 241992,
-      "name": "Think About It",
-      "url": "https://open.spotify.com/track/1OkWbRGkwVpAYgX4UFYMZc"
+      "duration_ms": 197384,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1603,22 +1619,6 @@
       "duration_ms": 125887,
       "name": "!",
       "url": "https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
-        "name": "Welcome to My Castle",
-        "url": "https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l"
-      },
-      "artists": [
-        {
-          "name": "Chilli Beans.",
-          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
-        }
-      ],
-      "duration_ms": 197384,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/2eret7tEFawBg7ivErrSdx"
     },
     {
       "added_at": "2024-05-14 15:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-05-14 15:00:00",
       "album": {
-        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
-      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
-    },
-    {
-      "added_at": "2024-05-14 15:00:00",
-      "album": {
         "name": "WORLD DANCE",
         "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 221666,
       "name": "WORLD DANCE",
       "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
+    },
+    {
+      "added_at": "2024-05-14 15:00:00",
+      "album": {
+        "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+        "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
+      "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
     }
   ],
   "unique_name": "Tokyo Rising",

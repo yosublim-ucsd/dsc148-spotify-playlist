@@ -1,6 +1,6 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"spotify:artist:7z7byOJ4AJnMY2NHE66ZpW\">DOE</a>",
-  "num_followers": 239965,
+  "num_followers": 240037,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Abba",
-        "url": "https://open.spotify.com/album/1LxBxImqbqxU1XL5vVyngK"
+        "name": "Celebrate",
+        "url": "https://open.spotify.com/album/41bEnEoEp9UDZmBVdULSZE"
       },
       "artists": [
         {
           "name": "Ryan Ofei",
           "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
-        },
-        {
-          "name": "Ahjah",
-          "url": "https://open.spotify.com/artist/0xJrfsF6PijLyi2HaSl8hX"
         }
       ],
-      "duration_ms": 133500,
-      "name": "Abba",
-      "url": "https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC"
+      "duration_ms": 175443,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -403,18 +399,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Celebrate",
-        "url": "https://open.spotify.com/album/41bEnEoEp9UDZmBVdULSZE"
+        "name": "Abba",
+        "url": "https://open.spotify.com/album/1LxBxImqbqxU1XL5vVyngK"
       },
       "artists": [
         {
           "name": "Ryan Ofei",
           "url": "https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd"
+        },
+        {
+          "name": "Ahjah",
+          "url": "https://open.spotify.com/artist/0xJrfsF6PijLyi2HaSl8hX"
         }
       ],
-      "duration_ms": 175443,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/3MRPHk7P4vaj6N67sv3bWX"
+      "duration_ms": 133500,
+      "name": "Abba",
+      "url": "https://open.spotify.com/track/66TFMpPLlYScG4RLUu6QzC"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1011,34 +1011,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "HOMIE",
-        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
-      },
-      "artists": [
-        {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "SAO!",
-          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Alfa Tavares",
-          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
-        }
-      ],
-      "duration_ms": 153083,
-      "name": "HOMIE",
-      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Breathe Again",
         "url": "https://open.spotify.com/album/2WafA0UdtpMFMbZvBUrSww"
       },
@@ -1067,6 +1039,34 @@
       "duration_ms": 224606,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/6CinFilifLHPP711UIiMfH"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "HOMIE",
+        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
+      },
+      "artists": [
+        {
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "SAO!",
+          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Alfa Tavares",
+          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
+        }
+      ],
+      "duration_ms": 153083,
+      "name": "HOMIE",
+      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "True Love",
-        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
-      },
-      "artists": [
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 222918,
-      "name": "True Love",
-      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Thousands of Years",
         "url": "https://open.spotify.com/album/1Hcnr14wcAvI1QN1hFyWvS"
       },
@@ -1263,18 +1247,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Surrender The Will",
-        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+        "name": "True Love",
+        "url": "https://open.spotify.com/album/7nzPtsAF728Ku6zUeWrzpf"
       },
       "artists": [
         {
-          "name": "Stevie Rizo",
-          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 168834,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
+      "duration_ms": 222918,
+      "name": "True Love",
+      "url": "https://open.spotify.com/track/1d243Cx7wTKXSixtGsDINB"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1291,6 +1275,22 @@
       "duration_ms": 233086,
       "name": "Be My Everything - Reimagined",
       "url": "https://open.spotify.com/track/2gOdvR5niu4OsTOd12coeQ"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Surrender The Will",
+        "url": "https://open.spotify.com/album/1uOucKRNyuXWk7ywMF1JqJ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "duration_ms": 168834,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/5mkosFaeklJwnN7NNjxzI3"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "Sun Son",
-        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
-      },
-      "artists": [
-        {
-          "name": "Adia",
-          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
-        }
-      ],
-      "duration_ms": 252800,
-      "name": "Sun Son",
-      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Like Yours",
         "url": "https://open.spotify.com/album/5azmENYG8KnyBBhX2zGADH"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 207529,
       "name": "Like Yours",
       "url": "https://open.spotify.com/track/2GxOocpI0dqAdjbqQUkb4l"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "Sun Son",
+        "url": "https://open.spotify.com/album/0ftye6YVCqWInEykok7IJt"
+      },
+      "artists": [
+        {
+          "name": "Adia",
+          "url": "https://open.spotify.com/artist/1FzKCmWxE6QIfp23ikbuIt"
+        }
+      ],
+      "duration_ms": 252800,
+      "name": "Sun Son",
+      "url": "https://open.spotify.com/track/57Rq8hVJ3rZIS4LoHE2kBb"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "More In Seconds",
-        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
-      },
-      "artists": [
-        {
-          "name": "Darla Baltazar",
-          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
-        }
-      ],
-      "duration_ms": 244493,
-      "name": "More In Seconds",
-      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
         "name": "Your Arms",
         "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
       },
@@ -1475,38 +1459,18 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
-        "name": "How I Love You",
-        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
+        "name": "More In Seconds",
+        "url": "https://open.spotify.com/album/6D8jfseyzo6aID0WbA5pgj"
       },
       "artists": [
         {
-          "name": "SHEALY",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Brandon Love",
-          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
+          "name": "Darla Baltazar",
+          "url": "https://open.spotify.com/artist/3W0Poyb7XtusSN8aBcZxS1"
         }
       ],
-      "duration_ms": 261000,
-      "name": "How I Love You",
-      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
-    },
-    {
-      "added_at": "2024-01-12 07:49:20",
-      "album": {
-        "name": "LESS OF ME",
-        "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
-      },
-      "artists": [
-        {
-          "name": "MARV",
-          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
-        }
-      ],
-      "duration_ms": 238545,
-      "name": "LESS OF ME",
-      "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
+      "duration_ms": 244493,
+      "name": "More In Seconds",
+      "url": "https://open.spotify.com/track/6Jiyh1uhwo7q2I8Yx9vgsT"
     },
     {
       "added_at": "2024-01-12 07:49:20",
@@ -1527,6 +1491,22 @@
     {
       "added_at": "2024-01-12 07:49:20",
       "album": {
+        "name": "LESS OF ME",
+        "url": "https://open.spotify.com/album/0U34KFIWHZpyHAGOgULglF"
+      },
+      "artists": [
+        {
+          "name": "MARV",
+          "url": "https://open.spotify.com/artist/4jBiLv1a8QGElMKTozxv35"
+        }
+      ],
+      "duration_ms": 238545,
+      "name": "LESS OF ME",
+      "url": "https://open.spotify.com/track/7hTsieYGUm5VxZJlfLvVe1"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
         "name": "True (Live)",
         "url": "https://open.spotify.com/album/0p2NpAQkfSq3o1aZWx883k"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 164000,
       "name": "True - Live",
       "url": "https://open.spotify.com/track/7tSniv4SRfzRS8BNP1IBjs"
+    },
+    {
+      "added_at": "2024-01-12 07:49:20",
+      "album": {
+        "name": "How I Love You",
+        "url": "https://open.spotify.com/album/5LMUx4AD74PyBX0lpwpHrY"
+      },
+      "artists": [
+        {
+          "name": "SHEALY",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Brandon Love",
+          "url": "https://open.spotify.com/artist/4DA4b7VHa3E5WzrIogv3zF"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "How I Love You",
+      "url": "https://open.spotify.com/track/4JnUrkXkP5rZFtS54tSHgf"
     },
     {
       "added_at": "2024-01-12 07:49:20",

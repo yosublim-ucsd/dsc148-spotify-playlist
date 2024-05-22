@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,204 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,208 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 47 | [Salimmik](https://open.spotify.com/track/0XjLYmJCLA1kLMLaNQpRX7) | [Maha AJ](https://open.spotify.com/artist/2b2pd5yYGRTqvCRzgg1xsz), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX), [Nijeery](https://open.spotify.com/artist/481yBm7CxhRBaMPeQLq7KC) | [Salimmik](https://open.spotify.com/album/6EJM5YoCfhGRbNgRBGkB7d) | 3:22 |
 | 48 | [Ahel Allel](https://open.spotify.com/track/7km3RkjOhMJFs0N5kMuFot) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [View From Somewhere](https://open.spotify.com/album/3Kv4BSX3GJrngRKK61JKR8) | 5:08 |
 | 49 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
-| 50 | [Gana El Baby](https://open.spotify.com/track/1skMZgzGSwvim3fqlL2bAW) | [Kamal Tarbas](https://open.spotify.com/artist/7k2jLu8f7ZTFNFfSikL3hK) | [Gana El Baby](https://open.spotify.com/album/2Q8ccrpPej3euPH2DAcKTc) | 7:10 |
+| 50 | [Hatred](https://open.spotify.com/track/3YqraMIdzw8WLE8Ipy5Ekq) | [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Hatred](https://open.spotify.com/album/0x8GN6HjP2qfgjrYS6uxfG) | 1:52 |
 
 Snapshot ID: `Za51xgAAAAD90Upc9BcB9LV39/fRsG71`

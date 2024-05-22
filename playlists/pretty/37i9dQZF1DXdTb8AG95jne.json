@@ -1,6 +1,6 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: SURL) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 465944,
+  "num_followers": 465957,
   "original_name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
+        "name": "HOWEVER",
+        "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
+      },
+      "artists": [
+        {
+          "name": "LEEHEESANG",
+          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
+        }
+      ],
+      "duration_ms": 332000,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI"
+    },
+    {
+      "added_at": "2024-05-16 10:06:57",
+      "album": {
         "name": "5.2 (Feat. LEE SUHYUN)",
         "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 257453,
       "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
       "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
-    },
-    {
-      "added_at": "2024-05-16 10:06:57",
-      "album": {
-        "name": "HOWEVER",
-        "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
-      },
-      "artists": [
-        {
-          "name": "LEEHEESANG",
-          "url": "https://open.spotify.com/artist/6zJiJ82GmaUZF8TwTPktsz"
-        }
-      ],
-      "duration_ms": 332000,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/1ueWBHHclILiJ2loAoqDxI"
     },
     {
       "added_at": "2024-05-16 10:06:57",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
+        "name": "Animal",
+        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
+      },
+      "artists": [
+        {
+          "name": "THORNAPPLE",
+          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Extinction",
+      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+    },
+    {
+      "added_at": "2024-05-16 10:06:57",
+      "album": {
         "name": "Forest",
         "url": "https://open.spotify.com/album/6aYtKWZDqzAQsNFq2cPeRe"
       },
@@ -575,34 +591,18 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
-        "name": "Animal",
-        "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "THORNAPPLE",
-          "url": "https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 284000,
-      "name": "Extinction",
-      "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
-    },
-    {
-      "added_at": "2024-05-16 10:06:57",
-      "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2024-05-16 10:06:57",
@@ -623,34 +623,34 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
       },
       "artists": [
         {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
-        "name": "Underwater",
-        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
       },
       "artists": [
         {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 243321,
-      "name": "Underwater",
-      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+      "duration_ms": 248981,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
     },
     {
       "added_at": "2024-05-16 10:06:57",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
+        "name": "Underwater",
+        "url": "https://open.spotify.com/album/2vyicJhKdhKtCBj1UdQJy7"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 243321,
+      "name": "Underwater",
+      "url": "https://open.spotify.com/track/6ZSuR67JyS5TfIJB7w4mzJ"
+    },
+    {
+      "added_at": "2024-05-16 10:06:57",
+      "album": {
         "name": "Again, Spring Days",
         "url": "https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 226559,
       "name": "Let's Meet In Spring",
       "url": "https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs"
-    },
-    {
-      "added_at": "2024-05-16 10:06:57",
-      "album": {
-        "name": "Begins youth (Original Xclusive Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/4nK3NKTn5dDmuRMKW33QFL"
-      },
-      "artists": [
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
-        }
-      ],
-      "duration_ms": 248981,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/0KaN3qT6D58wAezCAEyIU2"
     },
     {
       "added_at": "2024-05-16 10:06:57",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-05-16 10:06:57",
       "album": {
-        "name": "Chum",
-        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
-      },
-      "artists": [
-        {
-          "name": "dosii",
-          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Chum",
-      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
-    },
-    {
-      "added_at": "2024-05-16 10:06:57",
-      "album": {
         "name": "BAPPI",
         "url": "https://open.spotify.com/album/2wpbc5EulkN3tyeBLhYAIG"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 229210,
       "name": "Despite it all",
       "url": "https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP"
+    },
+    {
+      "added_at": "2024-05-16 10:06:57",
+      "album": {
+        "name": "Chum",
+        "url": "https://open.spotify.com/album/6m36ppwpEQmoLRmvdgBBDh"
+      },
+      "artists": [
+        {
+          "name": "dosii",
+          "url": "https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Chum",
+      "url": "https://open.spotify.com/track/1hJ2GU2nVI8Rwl5ID2HkST"
     },
     {
       "added_at": "2024-05-16 10:06:57",

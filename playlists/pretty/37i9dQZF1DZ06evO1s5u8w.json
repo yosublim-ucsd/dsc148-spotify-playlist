@@ -1,12 +1,12 @@
 {
-  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
-  "num_followers": 180109,
+  "description": "This is Talking Heads \u0e41\u0e17\u0e23\u0e47\u0e01\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e1e\u0e25\u0e32\u0e14 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e14\u0e35\u0e22\u0e27",
+  "num_followers": 180180,
   "original_name": "This Is Talking Heads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADk8BU5/EdGQSgy0n5kPFl0",
+  "snapshot_id": "ZkqSgAAAAAAhdB/sQu7sPg2dV5mpXtja",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,22 @@
       "duration_ms": 261413,
       "name": "Psycho Killer - 2005 Remaster",
       "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remain in Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 259906,
+      "name": "Once in a Lifetime - 2005 Remaster",
+      "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
     },
     {
       "added_at": null,
@@ -107,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
@@ -116,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 343426,
-      "name": "Girlfriend Is Better - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
+      "duration_ms": 240960,
+      "name": "Slippery People - Live",
+      "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"
     },
     {
       "added_at": null,
@@ -135,6 +151,22 @@
       "duration_ms": 260213,
       "name": "Road to Nowhere - 2005 Remaster",
       "url": "https://open.spotify.com/track/2co8fDyaVmxv8xruQWORnC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 343426,
+      "name": "Girlfriend Is Better - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6VyR9z26oKw6BvlwSjqvoY"
     },
     {
       "added_at": null,
@@ -171,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 241773,
-      "name": "Burning Down the House - 2005 Remaster",
-      "url": "https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/7qCDoQjDZhqA51wzOKmEZO"
       },
@@ -199,6 +215,22 @@
       "duration_ms": 219826,
       "name": "Wild Wild Life",
       "url": "https://open.spotify.com/track/5VGl1VsTtPO2gbhHrhB5Lx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 241773,
+      "name": "Burning Down the House - 2005 Remaster",
+      "url": "https://open.spotify.com/track/3yO1OjqT59JyjHaQZcCYDX"
     },
     {
       "added_at": null,
@@ -251,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
       },
       "artists": [
         {
@@ -260,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Heaven - Live",
-      "url": "https://open.spotify.com/track/0Q2b6AxWV5tD117XktdQxl"
+      "duration_ms": 332093,
+      "name": "(Nothing But) Flowers - 2005 Remaster",
+      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
     },
     {
       "added_at": null,
@@ -299,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/4fR8vS8yMLungmCG0Igw6m"
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
       },
       "artists": [
         {
@@ -308,9 +340,9 @@
           "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
         }
       ],
-      "duration_ms": 332093,
-      "name": "(Nothing But) Flowers - 2005 Remaster",
-      "url": "https://open.spotify.com/track/4oEKgLZ8uTSioNKuO8Kydu"
+      "duration_ms": 221000,
+      "name": "Heaven - Live",
+      "url": "https://open.spotify.com/track/0Q2b6AxWV5tD117XktdQxl"
     },
     {
       "added_at": null,
@@ -347,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stop Making Sense (Live)",
-        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Found a Job - Live",
-      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "More Songs About Buildings and Food (Deluxe Version)",
         "url": "https://open.spotify.com/album/01RJdKvXyz515O37itqMIJ"
       },
@@ -375,6 +391,22 @@
       "duration_ms": 131560,
       "name": "Thank You for Sending Me an Angel - 2005 Remaster",
       "url": "https://open.spotify.com/track/6aotqfVLywWWF4ZqdmLmig"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stop Making Sense (Live)",
+        "url": "https://open.spotify.com/album/4FR8Z6TvIsC56NLyNomNRE"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Found a Job - Live",
+      "url": "https://open.spotify.com/track/7rWq4710VbhYigwobjNwni"
     },
     {
       "added_at": null,
@@ -671,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remain in Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 204520,
-      "name": "Seen and Not Seen - 2005 Remaster",
-      "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fear of Music (Deluxe Version)",
         "url": "https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 309306,
       "name": "City of Dreams - 2005 Remaster",
       "url": "https://open.spotify.com/track/1oQagJhSI9Gz6W7zDpf8xm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fear of Music",
-        "url": "https://open.spotify.com/album/4OLsnJQPTX0S6lODXw1MqC"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "Paper",
-      "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
     }
   ],
   "unique_name": "This Is Talking Heads",

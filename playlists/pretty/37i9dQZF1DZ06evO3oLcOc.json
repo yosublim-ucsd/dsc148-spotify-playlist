@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 221305,
+  "num_followers": 221320,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAACUmgLDlGGO+yyNUowZ10/",
+  "snapshot_id": "ZkqSgAAAAAClp6eF5WOugMhaNM6gUjbR",
   "tracks": [
     {
       "added_at": null,
@@ -31,6 +31,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dark Side",
+        "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
+      },
+      "artists": [
+        {
+          "name": "Justine Skye",
+          "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 260169,
+      "name": "Collide (feat. Tyga)",
+      "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "X (Expanded Edition)",
         "url": "https://open.spotify.com/album/3LByoNjO4gbuX5D0u26LDY"
       },
@@ -51,30 +71,6 @@
       "duration_ms": 264946,
       "name": "Loyal (feat. Lil Wayne & Tyga)",
       "url": "https://open.spotify.com/track/5BrTUo0xP1wKXLJWUaGFtk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 185194,
-      "name": "Loco Contigo (feat. J. Balvin & Tyga)",
-      "url": "https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx"
     },
     {
       "added_at": null,
@@ -119,6 +115,26 @@
       "duration_ms": 161684,
       "name": "Chosen (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
       "added_at": null,
@@ -239,22 +255,6 @@
       "duration_ms": 168224,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/7bH9S0IHoM5kznWf1432zZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ayy Macarena",
-        "url": "https://open.spotify.com/album/3Cse4lihKX7ww99QnZGQAh"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 131606,
-      "name": "Ayy Macarena",
-      "url": "https://open.spotify.com/track/6LcauUZjF1eXQrgqMUecHX"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensei",
-        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 118973,
-      "name": "Sensei",
-      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweet & Sour (feat. Lauv & Tyga)",
         "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 163228,
       "name": "Sweet & Sour (feat. Lauv & Tyga)",
       "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sensei",
+        "url": "https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 118973,
+      "name": "Sensei",
+      "url": "https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi"
     },
     {
       "added_at": null,
@@ -615,26 +615,6 @@
       "duration_ms": 194935,
       "name": "SWISH",
       "url": "https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,
@@ -747,30 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 160876,
-      "name": "Haute (feat. J Balvin & Chris Brown)",
-      "url": "https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -791,6 +747,30 @@
       "duration_ms": 254693,
       "name": "Bitches N Marijuana (feat. ScHoolboy Q)",
       "url": "https://open.spotify.com/track/3PiLfzEXHrvT1oJKR8PAJt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 160876,
+      "name": "Haute (feat. J Balvin & Chris Brown)",
+      "url": "https://open.spotify.com/track/1jlnBQGP2DtSEhMgQaz7a7"
     },
     {
       "added_at": null,
@@ -887,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 152532,
+      "name": "Legendary (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4yn0ftNHQSwsWE81h33y4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Main One (feat. Tyga)",
         "url": "https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF"
       },
@@ -907,26 +907,6 @@
       "duration_ms": 199440,
       "name": "Main One (feat. Tyga)",
       "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 152532,
-      "name": "Legendary (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4yn0ftNHQSwsWE81h33y4K"
     },
     {
       "added_at": null,
@@ -1075,6 +1055,26 @@
       "duration_ms": 163800,
       "name": "Skechers (feat. Tyga) - Remix",
       "url": "https://open.spotify.com/track/4KppkflX7I3vJQk7urOJaS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wait For A Minute",
+        "url": "https://open.spotify.com/album/5V5T5fcIXdGH01QNFWEX69"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Wait For A Minute",
+      "url": "https://open.spotify.com/track/1AcJJerSHcXCnevx9oSoWe"
     }
   ],
   "unique_name": "This Is Tyga",

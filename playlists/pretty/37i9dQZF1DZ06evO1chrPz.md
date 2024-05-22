@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. The essential tracks, all in one playlist.
+> This is Bethel Music แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,182 likes - 50 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,194 likes - 50 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 42 | [This Is Amazing Grace](https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [For the Sake of the World](https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86) | 7:32 |
 | 43 | [We Dance \- Live](https://open.spotify.com/track/32DCSsnAxX8jpmu9w6C8DW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [You Make Me Brave \(Live\)](https://open.spotify.com/album/0u5bqt44z6UQEcHV7MVFvM) | 4:41 |
 | 44 | [Forever YHWH/Worthy Of It All \(Spontaneous\) \[Live\]](https://open.spotify.com/track/4xm3qwFnmrAasxzmFVBOUY) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 12:39 |
-| 45 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
+| 45 | [Son Of Suffering \- Live](https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:59 |
 | 46 | [God I Look to You](https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC) | 7:32 |
-| 47 | [Son Of Suffering \- Live](https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc), [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Homecoming \(Live\)](https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL) | 7:59 |
+| 47 | [Isabelline \(Interlude\)](https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 1:19 |
 | 48 | [Show Me Your Face \(Spontaneous\) \[Live\]](https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [John Wilds](https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg) | [Moments: Wait \(Live\)](https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL) | 7:31 |
 | 49 | [Graves into Gardens](https://open.spotify.com/track/2s4fnSh4FZjj0oZxruiqtc) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Peace, Vol\. II](https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p) | 7:33 |
 | 50 | [Gravity \- Instrumental](https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years \(Instrumental\)](https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk) | 5:14 |
 
-Snapshot ID: `ZklBAAAAAADBw/09wqpkT2MiLeCUJQHu`
+Snapshot ID: `ZkqSgAAAAACn+ZbpkqT4+5QNssiKC6nG`

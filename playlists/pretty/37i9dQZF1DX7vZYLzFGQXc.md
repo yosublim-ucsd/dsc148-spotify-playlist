@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: PARKJIWOO\(박지우\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,353 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,370 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 61 | [No Regret \(feat.ilipp&JINA\)](https://open.spotify.com/track/5O3595bWbkFLbmWvDujPS2) | [Cauli Flower](https://open.spotify.com/artist/4voLiLn1NMfmRW6nsCknvP), [ilipp](https://open.spotify.com/artist/4HTEynyeQ87mdnbBqOiYNA), [JINA](https://open.spotify.com/artist/67Lpb2sKUJmRfIep7vZ9k6) | [No Regret](https://open.spotify.com/album/21Jvkkkv08jADXq5nebxN2) | 2:46 |
 | 62 | [throw stones](https://open.spotify.com/track/1S2sUuKKWSjjxXeXn081eN) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [throw stones](https://open.spotify.com/album/4dsxfb1jkCRsmQiy8ExDXA) | 3:46 |
 | 63 | [escape!](https://open.spotify.com/track/4ix5jmVDu4kpiNgtNs2Ker) | [bobae](https://open.spotify.com/artist/6wncPbRHG5flV6j8oVz8mL) | [escape!](https://open.spotify.com/album/0Y0Y6c1vKM0rO2PpUGJPV1) | 3:29 |
-| 64 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [Yeyoung Kang](https://open.spotify.com/artist/6xtXjfsGpDliughhzrv7OA) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 |
+| 64 | [Ribbon Love ∞](https://open.spotify.com/track/7o8BCyeBH2fZLut4gW2IAd) | [강예영](https://open.spotify.com/artist/0Rwpm36PpiOlYZiY3mZByf) | [Ribbon Love ∞](https://open.spotify.com/album/7LlhQhqEwDajm63r6wmEbc) | 3:03 |
 | 65 | [STAY BY MY SIDE](https://open.spotify.com/track/6CZ7OF3UeUCHWEjihi8QjY) | [veanii](https://open.spotify.com/artist/5ZdRpsx2LkNxgbbJIBVR21) | [STAY BY MY SIDE](https://open.spotify.com/album/2QX7Wf1NePYOeGVmRv5COZ) | 2:25 |
 | 66 | [A good break\-up is \(Prod\. PATEKO\)](https://open.spotify.com/track/5nBY5YCd5vTM6uM7zVSI1V) | [Taeb2](https://open.spotify.com/artist/2PWVaWdOdocqnJhIdaGMRT) | [A good break\-up is \(Prod\. PATEKO\)](https://open.spotify.com/album/5OSN7PiMAzevCoCsw96IbX) | 4:11 |
 | 67 | [Our little island](https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Our little island](https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT) | 3:42 |

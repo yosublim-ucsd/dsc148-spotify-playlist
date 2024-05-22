@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 699412,
+  "num_followers": 699429,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -1671,26 +1671,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Triple F",
-        "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "Fuck The Pain Away",
-      "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Million Dollar Bill",
         "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
       },
@@ -1711,6 +1691,26 @@
       "duration_ms": 128024,
       "name": "Million Dollar Bill",
       "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Triple F",
+        "url": "https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Fuck The Pain Away",
+      "url": "https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1991,22 +1991,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Don't Stop The Party",
-        "url": "https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO"
+        "name": "I See Colors",
+        "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
       },
       "artists": [
         {
-          "name": "Marlon Hoffstadt",
-          "url": "https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         },
         {
-          "name": "DJ Daddy Trance",
-          "url": "https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         }
       ],
-      "duration_ms": 185498,
-      "name": "Don't Stop The Party",
-      "url": "https://open.spotify.com/track/3yU05u9gw48xEmBbjXij53"
+      "duration_ms": 192428,
+      "name": "I See Colors",
+      "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
     }
   ],
   "unique_name": "PARTY MODE",

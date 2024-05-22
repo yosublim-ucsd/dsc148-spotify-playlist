@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 56932,
+  "num_followers": 56977,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
+      },
+      "artists": [
+        {
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
+        }
+      ],
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "Dava Praia",
         "url": "https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 163240,
       "name": "Dava Praia",
       "url": "https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-05-10 03:01:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
-        "name": "L0V3 Tvp3",
-        "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
-      },
-      "artists": [
-        {
-          "name": "Eddu Chaves",
-          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
-        },
-        {
-          "name": "Hanifah",
-          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
-        }
-      ],
-      "duration_ms": 129729,
-      "name": "Ultimo Fim (Short)",
-      "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
         "name": "Rosas & Violetas fa\u00e7o um buqu\u00ea. Eu quero queimar um ******* com voc\u00ea.",
         "url": "https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
+        "name": "L0V3 Tvp3",
+        "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
+      },
+      "artists": [
+        {
+          "name": "Eddu Chaves",
+          "url": "https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa"
+        },
+        {
+          "name": "Hanifah",
+          "url": "https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr"
+        }
+      ],
+      "duration_ms": 129729,
+      "name": "Ultimo Fim (Short)",
+      "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
     },
     {
       "added_at": "2024-05-10 03:01:00",

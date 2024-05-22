@@ -4,7 +4,7 @@
 
 > 
 
-1,394 songs - 3 day 4 hr 29 min
+1,396 songs - 3 day 4 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -577,6 +577,7 @@
 | [HORZ \- EQUAL2 Remix](https://open.spotify.com/track/6XxzAr41jdGNGSM6u0Gqj7) | [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41), [EQUAL2](https://open.spotify.com/artist/3gghhafHb61InwF1vnntja) | [HORZ \(EQUAL2 Remix\)](https://open.spotify.com/album/0DMUP1OFg4y5Znu36rp307) | 3:07 | 2023-08-14 |  |
 | [Hotstepper](https://open.spotify.com/track/6viod75wQ0vHMs27F1jkhJ) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE), [MBK](https://open.spotify.com/artist/1dFaJcw4dpsIW3rSoX9rJd), [Darkside Unleashed](https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl) | [Fire](https://open.spotify.com/album/74dOGOFKu7sptwTqe7xJQy) | 2:24 | 2022-12-21 |  |
 | [House Music](https://open.spotify.com/track/4xTDVBCAmyGaZ30FnrRjjv) | [The Wither](https://open.spotify.com/artist/1asmhMpAyPyIZRmRuuOujU), [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [House Music](https://open.spotify.com/album/7zmFt18QWcNaHohIO7PTco) | 3:47 | 2023-06-30 |  |
+| [Houseparty](https://open.spotify.com/track/02ScUhpBxHx0I3HFQI5FPC) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3), [Tomsku](https://open.spotify.com/artist/4gN2g4l2TwblFjd3o3FDuF) | [Houseparty](https://open.spotify.com/album/2vCJCf7TCDnrP1xMWEZShO) | 1:59 | 2024-05-21 |  |
 | [How Far We Can Go](https://open.spotify.com/track/2PTEaaosTjDu3xFU6BV3Ju) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY) | [Thunderdome 2021](https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5) | 3:11 | 2022-09-06 |  |
 | [How It's Done](https://open.spotify.com/track/6TTCMrnlGZ8ZNln6pX45KI) | [The Straikerz](https://open.spotify.com/artist/23YqfnxHhNcTMAkU4hxl1l) | [Do You TikTok?](https://open.spotify.com/album/0Jv919EYjWSLDsLH7kwqFm) | 1:38 | 2023-11-01 |  |
 | [How Will I Know](https://open.spotify.com/track/3a5InXx2srt7vA3guR8JYt) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [How Will I Know](https://open.spotify.com/album/58qXeJd3gAe8Jls0BRAmg8) | 2:51 | 2023-02-24 |  |
@@ -921,6 +922,7 @@
 | [PARTY ALL NIGHT](https://open.spotify.com/track/34LRbTOjB98lj1kkMuO6NA) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [PARTY ALL NIGHT](https://open.spotify.com/album/2zjZ61FivOsHVRTxWMYtMg) | 3:04 | 2024-04-13 |  |
 | [Party At My Place](https://open.spotify.com/track/4DFwNdlCLvtfpys2sbIMGS) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Alee](https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9) | [On Your Mark](https://open.spotify.com/album/2enbFwcY1qfMoyKL5o1Wpf) | 3:39 | 2022-04-28 |  |
 | [Party Everyday](https://open.spotify.com/track/1zD1QdKGD0Tj8AmUwbrlIf) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF), [Darkside Retox](https://open.spotify.com/artist/05Z1ooTZW9u6ezHPHeAqhp) | [Party Everyday](https://open.spotify.com/album/1bHGrD2Zegm6QgHaqFbh7y) | 3:19 | 2023-10-03 |  |
+| [Party Harder](https://open.spotify.com/track/42I9F8IxUZlgdFuBBEzJby) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq) | [Party Harder](https://open.spotify.com/album/0NCkBciWvimwtJR9G619Jp) | 4:24 | 2024-05-21 |  |
 | [Party Life](https://open.spotify.com/track/0KylVO5ihpzf5kOGDzfg25) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc), [MC Livid](https://open.spotify.com/artist/3GvnEADrxf9LST8avbLuMe) | [Party Life](https://open.spotify.com/album/2nIRv0HtWwwvRMPGCRJISG) | 3:28 | 2023-05-20 |  |
 | [PartyRockerz](https://open.spotify.com/track/2iRiV6IPA015xIEGfiwXKX) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Elite Enemy](https://open.spotify.com/artist/0RRQCcx8rN61uQ7iM2TETB) | [PartyRockerz](https://open.spotify.com/album/51mWPGTNUyjPtbkYyh6cYI) | 2:55 | 2022-09-27 |  |
 | [Path of Solitude](https://open.spotify.com/track/3lMYz9ZK9jgirqvfTWAe6q) | [Karun](https://open.spotify.com/artist/7xJwFmwgqp0VKlLXt1cXjT) | [Path of Solitude](https://open.spotify.com/album/1Qaf04IcI3ZYGsfvT9eShi) | 3:03 | 2023-03-21 |  |

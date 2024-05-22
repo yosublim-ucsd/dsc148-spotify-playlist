@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 153736,
+  "num_followers": 153770,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -523,26 +523,6 @@
     {
       "added_at": "2024-05-03 11:28:02",
       "album": {
-        "name": "Out Of Nowhere",
-        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
-      },
-      "artists": [
-        {
-          "name": "Bugzy Malone",
-          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
-        },
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
-    },
-    {
-      "added_at": "2024-05-03 11:28:02",
-      "album": {
         "name": "Stars On The Roof (feat. MOMO)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 242769,
       "name": "Stars On The Roof (feat. MOMO)",
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "added_at": "2024-05-03 11:28:02",
+      "album": {
+        "name": "Out Of Nowhere",
+        "url": "https://open.spotify.com/album/0SyfGDD3DX6iiGXPOkH8z9"
+      },
+      "artists": [
+        {
+          "name": "Bugzy Malone",
+          "url": "https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL"
+        },
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/220n79cLlh2NwvlIEEKpKt"
     },
     {
       "added_at": "2024-05-03 11:28:02",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-03 11:28:02",
       "album": {
-        "name": "Pray For Me",
-        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
-      },
-      "artists": [
-        {
-          "name": "SOTA",
-          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "Pray For Me",
-      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
-    },
-    {
-      "added_at": "2024-05-03 11:28:02",
-      "album": {
         "name": "Downers (Rework)",
         "url": "https://open.spotify.com/album/6wLqsCijGoDRJ1RZYSPqCk"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2024-05-03 11:28:02",
       "album": {
-        "name": "Loca",
-        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
-      },
-      "artists": [
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 134305,
-      "name": "Loca",
-      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
-    },
-    {
-      "added_at": "2024-05-03 11:28:02",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
       },
@@ -1279,6 +1247,38 @@
       "duration_ms": 216551,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
+    },
+    {
+      "added_at": "2024-05-03 11:28:02",
+      "album": {
+        "name": "Loca",
+        "url": "https://open.spotify.com/album/0WVC6CKv5i5Hh3OWqXlat8"
+      },
+      "artists": [
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 134305,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/04ttAGx5UtdhWyhkiOa5Ls"
+    },
+    {
+      "added_at": "2024-05-03 11:28:02",
+      "album": {
+        "name": "Pray For Me",
+        "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
+      },
+      "artists": [
+        {
+          "name": "SOTA",
+          "url": "https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "Pray For Me",
+      "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
       "added_at": "2024-05-03 11:28:02",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 ### [This Is Black Coffee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3R5f8c)
 
-> This Is Black Coffee\. Los temas esenciales, todos en una lista.
+> This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,361 likes - 49 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,442 likes - 49 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 24 | [Mama](https://open.spotify.com/track/5WRoeCefMDsxn9zrsqUqhK) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:16 |
 | 25 | [You Turn Me On](https://open.spotify.com/track/1aqL3jlruipLsSZV9OvgTv) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:13 |
 | 26 | [Ready For The World \- Original Mix](https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Ready For The World](https://open.spotify.com/album/02PUNZUgLIbRwg2QVKEfAN) | 7:53 |
-| 27 | [Ode to Ancestors](https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Rebel Moon: Songs of the Rebellion \(Inspired by the Netflix Films\)](https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3) | 5:53 |
+| 27 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
 | 28 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
 | 29 | [100 Zulu Warriors](https://open.spotify.com/track/5xYU4QIQqxhGaWgpwKLkri) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Have Another One](https://open.spotify.com/album/5sMK7vkPd3CZF0fTny80gj) | 6:44 |
-| 30 | [Rock My World \- Rancido Remix](https://open.spotify.com/track/1ucTDyNsXRPjjYGMMahN9w) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Soulstar](https://open.spotify.com/artist/5PekFhkqiljmAn0XKX5HFs) | [Rock My World](https://open.spotify.com/album/0ze5I4ST6pYask4NBTKSg9) | 7:11 |
+| 30 | [Ode to Ancestors](https://open.spotify.com/track/0YCtLA3mpuU4Oqcl9Duqho) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Djimon Hounsou](https://open.spotify.com/artist/6hoEOl9IznIMCpG5fyUS09) | [Rebel Moon: Songs of the Rebellion \(Inspired by the Netflix Films\)](https://open.spotify.com/album/4oVBVsC9zkTHzeCRSmrAE3) | 5:53 |
 | 31 | [Love On Fire \(feat\. Lungi Naidoo & Ribatone\)](https://open.spotify.com/track/2Yy3BzdOdn9uqMpeVePtL1) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Lungi Naidoo](https://open.spotify.com/artist/66qfrvIX87ukAaAgxE5inz), [Ribatone](https://open.spotify.com/artist/2DmNrE4gjmMEzL2jIvswrR) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 8:10 |
 | 32 | [Someday](https://open.spotify.com/track/7chKchP8IVPi34sqbss0AH) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zano](https://open.spotify.com/artist/44wIq4IVr26PvWKBWJ42vq) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:42 |
 | 33 | [Crazy \- Quentin Harris Remix](https://open.spotify.com/track/3Rfki9RUi1LpONeXvH1o5v) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Thiwe](https://open.spotify.com/artist/0iUfURNTBS7ScaEajv9Uve) | [Crazy](https://open.spotify.com/album/08sFjhTbcwCDDCiU9KdnKH) | 7:46 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 48 | [Angelina \(feat\. NaakMusiQ & Mondli Ngcobo\)](https://open.spotify.com/track/0E22prrkBRLjXHHonYrWbS) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Mondli Ngcobo](https://open.spotify.com/artist/1aT2hj2h4MAk2O0fPCFLr2) | [Pieces Of Me](https://open.spotify.com/album/6Ss90Zy6lfk5VHeX1JjasR) | 8:06 |
 | 49 | [Buya](https://open.spotify.com/track/7qP4NNGSSJEDL0rXplo2vZ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Toshi](https://open.spotify.com/artist/6G621T2CmHyx5LCvd8QE63) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:25 |
 
-Snapshot ID: `ZklBAAAAAAA5FKYox4zQbEmpMH03mPLi`
+Snapshot ID: `ZkqSgAAAAAAS+3xkblsBT+C/ha9LobaX`

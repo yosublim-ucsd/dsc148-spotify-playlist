@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,279 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,334 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Paraíso Particular \(Ao Vivo\)](https://open.spotify.com/album/2LweFzHQTdOl0LSqwOS5uM) | 2:04 |
 | 50 | [MINHA EX](https://open.spotify.com/track/6Szybvvxu3Hd0PfTR1EzwS) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [MINHA EX](https://open.spotify.com/album/1cKi0Jz4VBjuHLUdEyKbI4) | 2:14 |
 
-Snapshot ID: `Ld6zQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LeAEwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

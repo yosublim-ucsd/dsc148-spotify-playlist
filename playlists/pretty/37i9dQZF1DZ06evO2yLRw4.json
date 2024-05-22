@@ -1,12 +1,12 @@
 {
   "description": "This is AWOLNATION. The essential tracks, all in one playlist.",
-  "num_followers": 35553,
+  "num_followers": 35552,
   "original_name": "This Is AWOLNATION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAD4QNJMgf+4bjrTLXo/wxY6",
+  "snapshot_id": "ZkqSgAAAAAC+w15YPFSwq6fyrCUOv57A",
   "tracks": [
     {
       "added_at": null,
@@ -596,13 +596,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Jewel",
-          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
         }
       ],
-      "duration_ms": 241499,
-      "name": "Take A Chance On Me (feat. Jewel)",
-      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
+      "duration_ms": 211445,
+      "name": "Alone Again (Naturally)[feat. Midland]",
+      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
     },
     {
       "added_at": null,
@@ -664,13 +664,13 @@
           "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         },
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "Jewel",
+          "url": "https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP"
         }
       ],
-      "duration_ms": 211445,
-      "name": "Alone Again (Naturally)[feat. Midland]",
-      "url": "https://open.spotify.com/track/6HUr7QGTosidqNFHTsASCC"
+      "duration_ms": 241499,
+      "name": "Take A Chance On Me (feat. Jewel)",
+      "url": "https://open.spotify.com/track/2QZpV3KZnDfqrvOfJNcvCY"
     },
     {
       "added_at": null,

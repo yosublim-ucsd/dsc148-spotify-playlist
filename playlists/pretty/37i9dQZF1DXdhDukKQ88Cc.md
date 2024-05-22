@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > hit rap og andet i den vibe 🚨 Merro8 har forsiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,413 likes - 47 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,426 likes - 47 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

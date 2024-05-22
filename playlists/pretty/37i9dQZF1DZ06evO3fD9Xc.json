@@ -1,12 +1,12 @@
 {
-  "description": "This is Carolina Ross. The essential tracks, all in one playlist.",
+  "description": "This Is Carolina Ross. Los temas esenciales, todos en una lista.",
   "num_followers": 102974,
   "original_name": "This Is Carolina Ross",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADZdjaPhTw2DlKJ9sHmMeSt",
+  "snapshot_id": "ZkqSgAAAAABZOgv4ePIOtTiNPjjlvlod",
   "tracks": [
     {
       "added_at": null,
@@ -111,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Menos Mal Que Me Quer\u00edas",
-        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 157638,
-      "name": "Menos Mal Que Me Quer\u00edas",
-      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 191863,
       "name": "Apur\u00e9 Mi Caf\u00e9",
       "url": "https://open.spotify.com/track/3lXFDK6qTIaP8cHKvDHd7O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Menos Mal Que Me Quer\u00edas",
+        "url": "https://open.spotify.com/album/3YCAsPCW0YoyeXIghCfqVW"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 157638,
+      "name": "Menos Mal Que Me Quer\u00edas",
+      "url": "https://open.spotify.com/track/0Y6mbQ5tc2w0wLVDwPH0t4"
     },
     {
       "added_at": null,
@@ -327,6 +327,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Covers, Vol. 5",
+        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 186073,
+      "name": "Me Hubieras Dicho",
+      "url": "https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Netflix",
         "url": "https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML"
       },
@@ -347,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers, Vol. 5",
-        "url": "https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
@@ -356,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 186073,
-      "name": "Me Hubieras Dicho",
-      "url": "https://open.spotify.com/track/2QWxAkrTH97GmRhnaFJ6Vi"
+      "duration_ms": 220213,
+      "name": "Mi Raz\u00f3n de Ser",
+      "url": "https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI"
     },
     {
       "added_at": null,
@@ -375,22 +391,6 @@
       "duration_ms": 153994,
       "name": "No Le Hago Falta",
       "url": "https://open.spotify.com/track/61F4sjhQSAw2veDWVRjEQi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Mi Raz\u00f3n de Ser",
-      "url": "https://open.spotify.com/track/4yiLCbreyJh6tt8O6VLCkI"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si Quieres (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/3C836EDbA7xMYdCKS42MLc"
       },
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Covers",
-        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 226708,
-      "name": "Siempre Te Voy a Querer",
-      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
       "duration_ms": 231910,
       "name": "Despacito",
       "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Covers",
+        "url": "https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226708,
+      "name": "Siempre Te Voy a Querer",
+      "url": "https://open.spotify.com/track/2bNYigumZc9MMdc621Hn7N"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuando Caiga la Noche",
-        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Cuando Caiga la Noche",
-      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Covers, Vol. 4",
         "url": "https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 240593,
       "name": "Si Me Ten\u00edas",
       "url": "https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Caiga la Noche",
+        "url": "https://open.spotify.com/album/366Q6rUOSrYDXjrDiuL1lU"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 201802,
+      "name": "Cuando Caiga la Noche",
+      "url": "https://open.spotify.com/track/15mqnAeCOQXcMB3u48RIin"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
       "duration_ms": 172813,
       "name": "Vivir Sin Ti ( Version Acustica )",
       "url": "https://open.spotify.com/track/36UpMEqlXV5KuCxS4dZMEf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 233879,
-      "name": "Uno Y Uno",
-      "url": "https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj"
     }
   ],
   "unique_name": "This Is Carolina Ross",

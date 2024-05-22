@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: DNGDNGDNG",
-  "num_followers": 351751,
+  "num_followers": 351775,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-03-22 07:04:46",
       "album": {
+        "name": "Conciencia",
+        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
+      },
+      "artists": [
+        {
+          "name": "La Payara",
+          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
+        }
+      ],
+      "duration_ms": 210731,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
+    },
+    {
+      "added_at": "2024-03-22 07:04:46",
+      "album": {
         "name": "Cari\u00f1ito",
         "url": "https://open.spotify.com/album/3EhNobcvRpbFTQO8aZFfDJ"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 221133,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/1vWoodfwshprECuRoWnBjB"
-    },
-    {
-      "added_at": "2024-03-22 07:04:46",
-      "album": {
-        "name": "Conciencia",
-        "url": "https://open.spotify.com/album/3kEZQaZLXKbs0nljnRMRnc"
-      },
-      "artists": [
-        {
-          "name": "La Payara",
-          "url": "https://open.spotify.com/artist/4AIoRABXF7oeowVHCspvo8"
-        }
-      ],
-      "duration_ms": 210731,
-      "name": "Bogot\u00e1",
-      "url": "https://open.spotify.com/track/0OUM4ALGSMsPcQB56RFpd9"
     },
     {
       "added_at": "2024-03-22 07:04:46",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-05",
-  "description": "This Is Def Leppard. Los temas esenciales, todos en una lista.",
+  "description": "This is Def Leppard. The essential tracks, all in one playlist.",
   "name": "This Is Def Leppard",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 320164,
       "name": "All I Want Is Everything",
       "url": "https://open.spotify.com/track/4AxFwURtLHp0P65wO8glIV"
@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 213848,
       "name": "Heaven Is",
       "url": "https://open.spotify.com/track/7d3boHf9Ko0tqqMBRHvIrJ"
@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 153506,
       "name": "It Could Be You",
       "url": "https://open.spotify.com/track/0AMMTP6BXOv8xadqqR3GSC"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 240920,
       "name": "Now",
       "url": "https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY"
@@ -870,7 +870,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 327250,
       "name": "Paper Sun",
       "url": "https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc"
@@ -1488,7 +1488,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 225226,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/4JrvsfwMdWJyEbV0DDZTtd"

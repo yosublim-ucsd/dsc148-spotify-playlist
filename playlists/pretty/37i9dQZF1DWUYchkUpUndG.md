@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo?si=OjrIFgLtRMm0JUQc8leOKQ>Gaise Baba</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,326 likes - 101 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,346 likes - 101 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 100 | [El Roi](https://open.spotify.com/track/3RdKxgOgfAgxie976HrBPy) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [El Roi](https://open.spotify.com/album/2kdI0MtVhnJ8QKDTLdtMTG) | 2:48 |
 | 101 | [DaaDaa](https://open.spotify.com/track/1jiwwDBOufD9TgWimVJOXb) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Emmanuel Smith](https://open.spotify.com/artist/4IS9eOKlUy42cLkSMDXl8b), [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [DaaDaa](https://open.spotify.com/album/5aqjEIvIk8S3bsX2cIUeur) | 3:13 |
 
-Snapshot ID: `ZkcmeQAAAACSzo85+I5aeX9t+oSCr075`
+Snapshot ID: `Zk01vAAAAAC+vyAd14xNe896sPuEI03X`

@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 53743,
+  "num_followers": 53760,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABR74IDiofi/djRFDK7YsYN",
+  "snapshot_id": "ZkqSgAAAAAA1LH9LvK6awGznIvxxt0Bs",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ASCEND",
-        "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+        "name": "ORION",
+        "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
       "artists": [
-        {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
         {
           "name": "X Ambassadors",
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 220730,
-      "name": "In Your Arms (with X Ambassadors)",
-      "url": "https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY"
+      "duration_ms": 164586,
+      "name": "BOOM",
+      "url": "https://open.spotify.com/track/3V9cM3nCH2G66afoDi0snu"
     },
     {
       "added_at": null,
@@ -435,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Town",
-        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 306613,
-      "name": "Your Town",
-      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This is Acoustic (Live Session / Acoustic Version)",
         "url": "https://open.spotify.com/album/7Go0PMnUuQcoodm4GQQP84"
       },
@@ -463,6 +443,22 @@
       "duration_ms": 181986,
       "name": "Renegades - Live Session / Acoustic Version",
       "url": "https://open.spotify.com/track/1G3aUus1vknwZhl3CrsbUp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Town",
+        "url": "https://open.spotify.com/album/0V9MqMG3NmBdgsu6LHuSWb"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 306613,
+      "name": "Your Town",
+      "url": "https://open.spotify.com/track/5tnGGUknyB7ynd3PvFkOLu"
     },
     {
       "added_at": null,
@@ -751,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "leave flowers",
+      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belong EP",
         "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
       },
@@ -779,42 +795,6 @@
       "duration_ms": 219560,
       "name": "Love Songs Drug Songs",
       "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "why does everything make me cry?",
-        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
-      },
-      "artists": [
-        {
-          "name": "Sam Nelson",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "leave flowers",
-      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
-        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 186620,
-      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
-      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,
@@ -971,6 +951,26 @@
       "duration_ms": 188686,
       "name": "You'll Get Yours (feat. X Ambassadors)",
       "url": "https://open.spotify.com/track/1Cik5e1sK0Dd6szE4Utd6Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 161586,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/2uns3Zgiz6Bt4e6Me77wKb"
     }
   ],
   "unique_name": "This Is X Ambassadors",

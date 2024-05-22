@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-1,360 songs - 3 day 13 hr 13 min
+1,361 songs - 3 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,7 +884,7 @@
 | [アロー](https://open.spotify.com/track/2kuwYIGLE1e7H1d3KTJn5s) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [アロー](https://open.spotify.com/album/43TR4LMoQ7FkxMMgixF1sY) | 3:18 | 2023-08-22 | 2023-08-24 |
 | [アロー](https://open.spotify.com/track/0OdoZOlFD1PPPJ7Pifh6Gl) | [Awkmiu](https://open.spotify.com/artist/26mj2zXHj76K9paE9J197C) | [アロー EP](https://open.spotify.com/album/08OQIz1YQegXGFg7Xw53hg) | 3:20 | 2023-08-22 | 2023-09-27 |
 | [アンスロポス](https://open.spotify.com/track/3OI8qthSLdZ10qrxpZ8E7k) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ) | [アンスロポス](https://open.spotify.com/album/4DAxioujt5e1vw4nuPcZ5d) | 3:39 | 2024-01-23 | 2024-03-20 |
-| [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-02 |  |
+| [アンダンテ](https://open.spotify.com/track/2XyWnA5OFJvlwaR4DuIR0P) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [アンダンテ](https://open.spotify.com/album/54Vev99HeDdE8Yaw33Ov0p) | 3:36 | 2024-04-02 | 2024-05-22 |
 | [アンチノミー](https://open.spotify.com/track/4q9x6Ze2ifhBElxbSDtx1D) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [アンチノミー](https://open.spotify.com/album/0KlgjlEvjQJIxsAu7EDEE1) | 5:03 | 2023-01-17 | 2023-04-12 |
 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 | 2024-01-22 | 2024-05-01 |
 | [イビツナコトバ](https://open.spotify.com/track/1ru7EpUF1bidYVq1n6VWUz) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [イビツナコトバ](https://open.spotify.com/album/2Q7Vw6B0q0ZSLdFhBx94o8) | 3:31 | 2023-01-12 | 2023-04-09 |
@@ -922,6 +922,7 @@
 | [グッドラック](https://open.spotify.com/track/5BiQrlfZvPFvulmepPa9Z8) | [畠中 祐](https://open.spotify.com/artist/0TaoRyKuOZG8BUcWKfcPIp) | [グッドラック](https://open.spotify.com/album/0EAEDD03aWTf4TqQ0cRMQP) | 3:44 | 2023-11-28 | 2023-12-27 |
 | [グッドラック](https://open.spotify.com/track/5vQTBsKNSmhWx4uMCOubaj) | [畠中 祐](https://open.spotify.com/artist/0TaoRyKuOZG8BUcWKfcPIp) | [グッドラック](https://open.spotify.com/album/5wRDA6czlaHl7lvBEPq4cC) | 3:44 | 2023-10-10 | 2023-11-30 |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-04-16 | 2023-07-14 |
+| [コイセカイ](https://open.spotify.com/track/3OR2CPua0cNMJMrenVwhQ1) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [コイセカイ](https://open.spotify.com/album/1ltLeck3h6VmSpk8k7plNl) | 4:45 | 2024-05-21 |  |
 | [ココロノナカ](https://open.spotify.com/track/1xwWE4zRoftoPUTJixYkGM) | [AliA](https://open.spotify.com/artist/4Lmo7h2Ik12QI3Ik0BvGbB) | [ココロノナカ](https://open.spotify.com/album/6HgE9a7sSWE9Iag3JGrrCZ) | 4:02 | 2024-01-06 | 2024-01-08 |
 | [コト・モノ・トキ](https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [笑っていて…](https://open.spotify.com/album/3jaaO4xOwXZUbCIHn5NPbE) | 5:08 | 2023-07-18 | 2023-08-02 |
 | [ゴールデンレイ](https://open.spotify.com/track/2FyEQ8GVybmQQUvNuY1BZj) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [ゴールデンレイ](https://open.spotify.com/album/5wlli6KCnWqdMNLAsIaNDY) | 3:17 | 2023-07-04 | 2023-08-23 |

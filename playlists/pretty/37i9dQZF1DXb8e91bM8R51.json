@@ -1,6 +1,6 @@
 {
   "description": "Hip Hop pra fazer os corres da vida.",
-  "num_followers": 50955,
+  "num_followers": 50962,
   "original_name": "No corre",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Tyler Herro",
-        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 156497,
-      "name": "Tyler Herro",
-      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "The Love Movement",
         "url": "https://open.spotify.com/album/0FH3WsTCWaDmfpEojJ4sN2"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 203066,
       "name": "Find a Way",
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Tyler Herro",
+        "url": "https://open.spotify.com/album/4Vd7lpztpJdmMt9hrLfXWe"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 156497,
+      "name": "Tyler Herro",
+      "url": "https://open.spotify.com/track/4DuUwzP4ALMqpquHU0ltAB"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -635,6 +635,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Tommy Lee (feat. Post Malone)",
+        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
+      },
+      "artists": [
+        {
+          "name": "Tyla Yaweh",
+          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 224638,
+      "name": "Tommy Lee (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 174682,
       "name": "late at night",
       "url": "https://open.spotify.com/track/1fxYz1s15pyZLsJT0Hdh1m"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Tommy Lee (feat. Post Malone)",
-        "url": "https://open.spotify.com/album/2PFiZ23ZyPTcgwmXk4X6o0"
-      },
-      "artists": [
-        {
-          "name": "Tyla Yaweh",
-          "url": "https://open.spotify.com/artist/1MXZ0hsGic96dWRDKwAwdr"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 224638,
-      "name": "Tommy Lee (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/5QZKcQDp0tCcvMdyqEciBV"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "FAN",
-        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 156306,
-      "name": "FAN",
-      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "I GUESS IT'S LOVE?",
         "url": "https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 137725,
       "name": "I GUESS IT'S LOVE?",
       "url": "https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "FAN",
+        "url": "https://open.spotify.com/album/7w3qFaLU3R17ujmMHFo5IK"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 156306,
+      "name": "FAN",
+      "url": "https://open.spotify.com/track/166lmjn9xjWj1AEdGX8PYh"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -999,26 +999,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "GO (feat. Juice WRLD)",
-        "url": "https://open.spotify.com/album/40wtKuLVVlde1T88LqtZwa"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 183947,
-      "name": "GO (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2t7D3y0jvYjR8IP9Bosyew"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Good Job",
         "url": "https://open.spotify.com/album/45AcY6DFGCp9wYlAIu2Itu"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 199111,
       "name": "Nothing Changed",
       "url": "https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "GO (feat. Juice WRLD)",
+        "url": "https://open.spotify.com/album/40wtKuLVVlde1T88LqtZwa"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 183947,
+      "name": "GO (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2t7D3y0jvYjR8IP9Bosyew"
     },
     {
       "added_at": "2024-05-17 03:01:00",

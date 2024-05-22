@@ -1,12 +1,12 @@
 {
-  "description": "Classic and new soul music for the perfect dinner vibe.",
-  "num_followers": 140622,
-  "original_name": "Soul Dinner",
+  "description": "Perfect music for perfect food.",
+  "num_followers": 140631,
+  "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZiGe6wAAAAAY/xpxZ7T5bU3HGS4O24NE",
+  "snapshot_id": "ZkyZEwAAAADfK+LJyR62uCKDWQC7dq+H",
   "tracks": [
     {
       "added_at": "2024-04-16 09:12:16",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "Capitol Gold: The Best Of Minnie Riperton",
+        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
+      },
+      "artists": [
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Inside My Love - Remastered 1993",
+      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Black Radio",
         "url": "https://open.spotify.com/album/1yqUCdbw73DpnHBVDwNa3X"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 307626,
       "name": "Afro Blue",
       "url": "https://open.spotify.com/track/7e0j6jReCfN5KJkDNLHyHQ"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "Capitol Gold: The Best Of Minnie Riperton",
-        "url": "https://open.spotify.com/album/1Zc6fY5TjkirFsQIeX7KFL"
-      },
-      "artists": [
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Inside My Love - Remastered 1993",
-      "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Home Again (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 249745,
-      "name": "Tell Me A Tale",
-      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 185893,
       "name": "Bet Ain't Worth the Hand",
       "url": "https://open.spotify.com/track/0VBBWt0uJxXNVb624WtOnC"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Home Again (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 249745,
+      "name": "Tell Me A Tale",
+      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 179973,
-      "name": "Down in the Valley - Mono; 2018 Remaster",
-      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Fancy",
         "url": "https://open.spotify.com/album/10HnbWEJzWwVI7dhgnT6F6"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 258912,
       "name": "Fancy",
       "url": "https://open.spotify.com/track/6aarvZBVzYo3sp4NYOBqCp"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 179973,
+      "name": "Down in the Valley - Mono; 2018 Remaster",
+      "url": "https://open.spotify.com/track/5DaqgXFk5SxNCiMOpuPJS2"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "The Complete Calla, Port and Roulette Recordings",
-        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
-      },
-      "artists": [
-        {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
-        }
-      ],
-      "duration_ms": 167413,
-      "name": "Let Me Down Easy",
-      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 300120,
       "name": "Love, Need And Want You",
       "url": "https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "The Complete Calla, Port and Roulette Recordings",
+        "url": "https://open.spotify.com/album/38XFsqM4vRvxuqyPijvuny"
+      },
+      "artists": [
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 167413,
+      "name": "Let Me Down Easy",
+      "url": "https://open.spotify.com/track/0MvsfFXD0XkeOcPUOO5XaH"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Lay It On Me: The Columbia Years",
-        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
-      },
-      "artists": [
-        {
-          "name": "Gwen McCrae",
-          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
-        }
-      ],
-      "duration_ms": 132013,
-      "name": "Lead Me On",
-      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Beach Diggin', Vol. 3",
         "url": "https://open.spotify.com/album/7mHNiS5p3EwV4iOzcLj9PU"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 186617,
       "name": "I Want to Make It with You",
       "url": "https://open.spotify.com/track/7egAxxDZTzwWUbLeTOY50e"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Lay It On Me: The Columbia Years",
+        "url": "https://open.spotify.com/album/2QXDHYR0zmMUWQp7RfA6pV"
+      },
+      "artists": [
+        {
+          "name": "Gwen McCrae",
+          "url": "https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU"
+        }
+      ],
+      "duration_ms": 132013,
+      "name": "Lead Me On",
+      "url": "https://open.spotify.com/track/3oVXnhQusiMpvngzok4UjJ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2051,22 +2051,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "The Best Of Michael Franks: A Backward Glance",
-        "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
-      },
-      "artists": [
-        {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
-        }
-      ],
-      "duration_ms": 275400,
-      "name": "Popsicle Toes",
-      "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Another Side",
         "url": "https://open.spotify.com/album/1eSgEDszxXr6haafSVkK7u"
       },
@@ -2079,6 +2063,22 @@
       "duration_ms": 214506,
       "name": "You've Become a Habit",
       "url": "https://open.spotify.com/track/373YZS4hMUPxFTHMG4TAFh"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "The Best Of Michael Franks: A Backward Glance",
+        "url": "https://open.spotify.com/album/04w13A7Vugwj2etsvWQJIg"
+      },
+      "artists": [
+        {
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+        }
+      ],
+      "duration_ms": 275400,
+      "name": "Popsicle Toes",
+      "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2171,6 +2171,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Better Be Home Soon",
         "url": "https://open.spotify.com/album/2QPGw53TKSAFkCRjFG7CnJ"
       },
@@ -2187,22 +2203,6 @@
       "duration_ms": 180750,
       "name": "Better Be Home Soon",
       "url": "https://open.spotify.com/track/3b68h9ti9sdMo4rTrEvijZ"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2303,6 +2303,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "No Beginning No End",
+        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 James",
+          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+        }
+      ],
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "The Best Of Gwen McCrae",
         "url": "https://open.spotify.com/album/5lQbk0FmNLk0JpP8JPz0Hq"
       },
@@ -2351,22 +2367,6 @@
       "duration_ms": 159040,
       "name": "Your Love Lifted Me",
       "url": "https://open.spotify.com/track/15F4bGHoQrlwmbBGTAfcu3"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "No Beginning No End",
-        "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
-        }
-      ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2695,6 +2695,42 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "Bet Ain't Worth the Hand / Bad Bad News",
+        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Best Of Rotary Connection",
+        "url": "https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK"
+      },
+      "artists": [
+        {
+          "name": "Rotary Connection",
+          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
+        },
+        {
+          "name": "Minnie Riperton",
+          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
+        }
+      ],
+      "duration_ms": 349426,
+      "name": "I Am The Black Gold Of The Sun",
+      "url": "https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "Songs In A Minor (Expanded Edition)",
         "url": "https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu"
       },
@@ -2707,6 +2743,38 @@
       "duration_ms": 237626,
       "name": "How Come You Don't Call Me",
       "url": "https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Satellite Love",
+        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
+      },
+      "artists": [
+        {
+          "name": "Giovanca",
+          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Forgive My Soul",
+      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "19",
+        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 197346,
+      "name": "Right As Rain",
+      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2743,38 +2811,6 @@
       "duration_ms": 242720,
       "name": "Little Bit of Feel Good",
       "url": "https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "Satellite Love",
-        "url": "https://open.spotify.com/album/3r1Iys136c5qNKJ8dbEDe1"
-      },
-      "artists": [
-        {
-          "name": "Giovanca",
-          "url": "https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Forgive My Soul",
-      "url": "https://open.spotify.com/track/0JY8yEPCX2Ehs5BWIb6Z6K"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "Bet Ain't Worth the Hand / Bad Bad News",
-        "url": "https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2875,26 +2911,6 @@
       "duration_ms": 256560,
       "name": "Side By Side",
       "url": "https://open.spotify.com/track/3l2yWyV8OOTlhScxYsuIts"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
-        "name": "Best Of Rotary Connection",
-        "url": "https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK"
-      },
-      "artists": [
-        {
-          "name": "Rotary Connection",
-          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
-        },
-        {
-          "name": "Minnie Riperton",
-          "url": "https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj"
-        }
-      ],
-      "duration_ms": 349426,
-      "name": "I Am The Black Gold Of The Sun",
-      "url": "https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -3127,22 +3143,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "19",
-        "url": "https://open.spotify.com/album/2YO1F9DHVEzXPriA1JHoOQ"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 197346,
-      "name": "Right As Rain",
-      "url": "https://open.spotify.com/track/1ARkKt39O6WQqE0QEpZntu"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Who Is Jill Scott? (Words And Sounds Vol. 1)",
         "url": "https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B"
       },
@@ -3321,6 +3321,6 @@
       "url": "https://open.spotify.com/track/203q2nkc0gQtcljXy6krbA"
     }
   ],
-  "unique_name": "Soul Dinner",
+  "unique_name": "Soul Cuisine",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj"
 }

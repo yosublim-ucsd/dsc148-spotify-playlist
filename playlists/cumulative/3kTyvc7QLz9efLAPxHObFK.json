@@ -11807,6 +11807,28 @@
     },
     {
       "album": {
+        "name": "Houseparty",
+        "url": "https://open.spotify.com/album/2vCJCf7TCDnrP1xMWEZShO"
+      },
+      "artists": [
+        {
+          "name": "Noiseflow",
+          "url": "https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3"
+        },
+        {
+          "name": "Tomsku",
+          "url": "https://open.spotify.com/artist/4gN2g4l2TwblFjd3o3FDuF"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119956,
+      "name": "Houseparty",
+      "url": "https://open.spotify.com/track/02ScUhpBxHx0I3HFQI5FPC"
+    },
+    {
+      "album": {
         "name": "Thunderdome 2021",
         "url": "https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5"
       },
@@ -18928,6 +18950,28 @@
       "duration_ms": 199503,
       "name": "Party Everyday",
       "url": "https://open.spotify.com/track/1zD1QdKGD0Tj8AmUwbrlIf"
+    },
+    {
+      "album": {
+        "name": "Party Harder",
+        "url": "https://open.spotify.com/album/0NCkBciWvimwtJR9G619Jp"
+      },
+      "artists": [
+        {
+          "name": "JKLL",
+          "url": "https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7"
+        },
+        {
+          "name": "Flawx",
+          "url": "https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264750,
+      "name": "Party Harder",
+      "url": "https://open.spotify.com/track/42I9F8IxUZlgdFuBBEzJby"
     },
     {
       "album": {

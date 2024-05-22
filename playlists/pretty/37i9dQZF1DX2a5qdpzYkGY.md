@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,166 likes - 75 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,169 likes - 75 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 25 | [Glass Museum](https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0) | [Tortoise](https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ) | [Millions Now Living Will Never Die](https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh) | 5:27 |
 | 26 | [Maximum Black](https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Black Earth](https://open.spotify.com/album/2xDo02ZrqGjkkOcsm35E5L) | 7:38 |
 | 27 | [Highway Brain Planet \(Credits\)](https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR) | [Peter Zummo](https://open.spotify.com/artist/0ewl0qCpOyHsNk9Uw6VdAe) | [Second Spring OST](https://open.spotify.com/album/77dFo60ehucRXt2yDLazmI) | 2:31 |
-| 28 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
-| 29 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 28 | [An Avalanche](https://open.spotify.com/track/0ZJCGdZQbnMabeAh7sR9Sl) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Antidotes 2](https://open.spotify.com/album/64N8Ot3a2tr44vUlDvdeyR) | 3:20 |
+| 29 | [Who Is Still Dreaming?](https://open.spotify.com/track/5HZOBZ7ugfGLcUMmoI9n1Z) | [June11](https://open.spotify.com/artist/615aT4UKAuj5e7tcsGuPg4) | [11000 Dreams](https://open.spotify.com/album/187zWJ91K3S3MHWQuKQ0L8) | 3:32 |
 | 30 | [The Pillow Sisters](https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb) | [Singleton](https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8) | [The Pillow Sisters](https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM) | 2:39 |
-| 31 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 |
-| 32 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
+| 31 | [Genesis](https://open.spotify.com/track/2OTbuLFZeCcRkUSF0UVA93) | [slowave](https://open.spotify.com/artist/4qLBeNbe5Sep5YVjZi7P65) | [Genesis](https://open.spotify.com/album/056i3eIfQ7XIdcTGF7KLh3) | 3:19 |
+| 32 | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/track/3vATOCr2BhLfHN6yn5Y6OP) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Night Bunny \(feat\. Suzanne Ciani\)](https://open.spotify.com/album/3hdtWC6PVnbWBBDhEWHlrR) | 6:53 |
 | 33 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
 | 34 | [Theme from 'Behind the Curtain'](https://open.spotify.com/track/2VeYKsOmvGnN9Wd0RTDPuC) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Skalpel](https://open.spotify.com/album/6fEN3yig9kpmZ0oiJbFRuE) | 4:11 |
 | 35 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 |

@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Sick Ride",
+        "url": "https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97906,
+      "name": "Sick Ride",
+      "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
+    },
+    {
+      "album": {
         "name": "For Those Who Have Heart (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq"
       },

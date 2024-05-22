@@ -1,6 +1,6 @@
 {
   "description": "Siento que arranco la carretera...",
-  "num_followers": 210487,
+  "num_followers": 210555,
   "original_name": "Viaje en Carretera: Arremangado",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Siempre Imitado, Jamas Igualado",
-        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
-      },
-      "artists": [
-        {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
-        }
-      ],
-      "duration_ms": 165733,
-      "name": "Voy A Llorar Por Ti",
-      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Para Vivir Contigo",
         "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 155144,
       "name": "En La Barra",
       "url": "https://open.spotify.com/track/1SHmwHA6wc5IBECjCoFn8C"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Siempre Imitado, Jamas Igualado",
+        "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
+      },
+      "artists": [
+        {
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Voy A Llorar Por Ti",
+      "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -403,22 +403,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "El Indio Enamorado",
-        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 188128,
-      "name": "El Indio Enamorado",
-      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "El Indio Enamorado",
+        "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 188128,
+      "name": "El Indio Enamorado",
+      "url": "https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Corridos Perrones 1",
-        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
-      },
-      "artists": [
-        {
-          "name": "Grupo Exterminador",
-          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
-        }
-      ],
-      "duration_ms": 272466,
-      "name": "Las Monjitas",
-      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "H\u00edbrido",
         "url": "https://open.spotify.com/album/165Qn8sAYgcxfNvDKFD9kv"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174293,
       "name": "H\u00edbrido",
       "url": "https://open.spotify.com/track/5iBBLeUl4UfynWgcJWVGsU"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Corridos Perrones 1",
+        "url": "https://open.spotify.com/album/00B6TWk6ykE81Itf5InD4I"
+      },
+      "artists": [
+        {
+          "name": "Grupo Exterminador",
+          "url": "https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn"
+        }
+      ],
+      "duration_ms": 272466,
+      "name": "Las Monjitas",
+      "url": "https://open.spotify.com/track/2KJkMXZKvvV4jDdu8UM44e"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 198814,
-      "name": "El Nano - Versi\u00f3n Estudio",
-      "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "El Tequilero",
         "url": "https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 190506,
       "name": "La Troca Del Mo\u00f1o Negro",
       "url": "https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 198814,
+      "name": "El Nano - Versi\u00f3n Estudio",
+      "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Misa De Cuerpo Presente",
-        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
-      },
-      "artists": [
-        {
-          "name": "Banda Movil",
-          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
-        }
-      ],
-      "duration_ms": 168360,
-      "name": "Misa De Cuerpo Presente",
-      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Al Frente y de Frente",
         "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 150880,
       "name": "El Comando del Diablo",
       "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Misa De Cuerpo Presente",
+        "url": "https://open.spotify.com/album/2WR7Uv5bWy96xBlAfXNoFU"
+      },
+      "artists": [
+        {
+          "name": "Banda Movil",
+          "url": "https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK"
+        }
+      ],
+      "duration_ms": 168360,
+      "name": "Misa De Cuerpo Presente",
+      "url": "https://open.spotify.com/track/72gWYoN7Wta4spLHOCI6Sd"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Y Si Se Quiere Ir",
-        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Y Si Se Quiere Ir",
-      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "La Historia De Los Exitos (Mexico)",
         "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 163813,
       "name": "La Raza Michoacana",
       "url": "https://open.spotify.com/track/4zrfDtVonK8tesOsYIhMAp"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Y Si Se Quiere Ir",
+        "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Y Si Se Quiere Ir",
+      "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "La Historia De Los Exitos (Mexico)",
-        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
+        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
+        "url": "https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs"
       },
       "artists": [
         {
-          "name": "Los Originales De San Juan",
-          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
+          "name": "Los Rieleros Del Norte",
+          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
         }
       ],
-      "duration_ms": 188013,
-      "name": "El Jardinero",
-      "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
+      "duration_ms": 204906,
+      "name": "Te Quiero Mucho",
+      "url": "https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "La M\u00e1s Completa Colecci\u00f3n (Disc 1 - Mexico)",
-        "url": "https://open.spotify.com/album/1O7FgObNhY9QVdLxO636Xs"
+        "name": "La Historia De Los Exitos (Mexico)",
+        "url": "https://open.spotify.com/album/7JX622ZcA5o6dRm0ebXN91"
       },
       "artists": [
         {
-          "name": "Los Rieleros Del Norte",
-          "url": "https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv"
+          "name": "Los Originales De San Juan",
+          "url": "https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Te Quiero Mucho",
-      "url": "https://open.spotify.com/track/6l6gnB0E9BxlryxdfLm1ZX"
+      "duration_ms": 188013,
+      "name": "El Jardinero",
+      "url": "https://open.spotify.com/track/4krFbcx6JaiVgE09o9Vo1B"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
+        "name": "El Fugitivo",
+        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "El Fugitivo - En vivo",
+      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1sV7gFFQ6YbfMHrM4uOztN"
       },
@@ -1895,22 +1911,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "Cuervo Sierra",
-        "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
-      },
-      "artists": [
-        {
-          "name": "Los Austeros De Durango",
-          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
-        }
-      ],
-      "duration_ms": 175674,
-      "name": "Cuervo Sierra",
-      "url": "https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -1923,6 +1923,22 @@
       "duration_ms": 175511,
       "name": "El H",
       "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "Cuervo Sierra",
+        "url": "https://open.spotify.com/album/0h5bcde94ola2aVwjW1BaX"
+      },
+      "artists": [
+        {
+          "name": "Los Austeros De Durango",
+          "url": "https://open.spotify.com/artist/3R6Kbe18UcjsGkBGWElC51"
+        }
+      ],
+      "duration_ms": 175674,
+      "name": "Cuervo Sierra",
+      "url": "https://open.spotify.com/track/0Ac0WSY3CUEfKFxU4Hdn8j"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -1943,22 +1959,6 @@
       "duration_ms": 178960,
       "name": "Los Dos Amigos",
       "url": "https://open.spotify.com/track/6V6lgegjsKlcbBcJWmIz2S"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
-        "name": "El Fugitivo",
-        "url": "https://open.spotify.com/album/3HLVW0L1kXKOWSsXQx0y8i"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "El Fugitivo - En vivo",
-      "url": "https://open.spotify.com/track/0y9HZZkKo85aWYGkvjeWFA"
     },
     {
       "added_at": "2024-01-15 19:02:59",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-01-15 19:02:59",
       "album": {
-        "name": "15 Exitos Originales",
-        "url": "https://open.spotify.com/album/4Z45H8FuupXcq2xi2FAH41"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "El Palomito",
-      "url": "https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT"
-    },
-    {
-      "added_at": "2024-01-15 19:02:59",
-      "album": {
         "name": "La Gritera",
         "url": "https://open.spotify.com/album/0EU8ELKaNL7p6JWG5uLcIC"
       },
@@ -2071,6 +2055,22 @@
       "duration_ms": 146466,
       "name": "Mi Amigo el de Arriba",
       "url": "https://open.spotify.com/track/7kKwLwJJaxQXo2quoupbDh"
+    },
+    {
+      "added_at": "2024-01-15 19:02:59",
+      "album": {
+        "name": "15 Exitos Originales",
+        "url": "https://open.spotify.com/album/4Z45H8FuupXcq2xi2FAH41"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "El Palomito",
+      "url": "https://open.spotify.com/track/776iIxEhuk4pjMl33PVQhT"
     },
     {
       "added_at": "2024-01-15 19:02:59",

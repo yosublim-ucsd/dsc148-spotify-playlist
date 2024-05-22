@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:5wpEBloInversG3zp3CVAk">Jeremy Camp</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,662 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,734 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 3 | [Sure Been Good \(feat\. Tiffany Hudson\)](https://open.spotify.com/track/5doYljP28aXEnQryAPrcka) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Sure Been Good](https://open.spotify.com/album/1ivo46wANZtVJodxaqT4f9) | 7:32 |
 | 4 | [People Like Us](https://open.spotify.com/track/7dkmk3INVCCKoyBV7RvGZy) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi), [Emerson Day](https://open.spotify.com/artist/2rGlpKlL9sbKTES9sPsLuJ) | [People Like Us](https://open.spotify.com/album/7ydRM2m9Vv6pfAL9MPNdN9) | 3:46 |
 | 5 | [Gonna Be Good](https://open.spotify.com/track/67TXuANxWhN3i3bUVXxD9U) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Gonna Be Good](https://open.spotify.com/album/6Y60vIyAVwhGLmC9CcAu1g) | 3:03 |
-| 6 | [Rest On Us \(Spirit Come Move Over Us\) \[feat\. Sam Rivera\]](https://open.spotify.com/track/4OXwsfRuR2LiO8fiDMc4gj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:30 |
+| 6 | [Rest On Us \(Spirit Come Move Over Us\) \(feat\. Sam Rivera\)](https://open.spotify.com/track/4OXwsfRuR2LiO8fiDMc4gj) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [The Maverick Way Reimagined](https://open.spotify.com/album/3Y96T1nmhgU2e4SfkL1el0) | 3:30 |
 | 7 | [Because Of Christ](https://open.spotify.com/track/0Ml9ylGvOxwu9e0Yiu1AaD) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [TEN](https://open.spotify.com/album/2mgX9f5BmWx0hw0gzl5qvU) | 5:10 |
 | 8 | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C) | [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [In The Name of Jesus \(feat\. Chandler Moore\)](https://open.spotify.com/album/489O9Hpa91OGXlYOoodr8o) | 4:58 |
 | 9 | [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 |

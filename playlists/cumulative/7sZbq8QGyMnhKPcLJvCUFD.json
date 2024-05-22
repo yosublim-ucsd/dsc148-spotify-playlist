@@ -9277,6 +9277,24 @@
     },
     {
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3"
+      },
+      "artists": [
+        {
+          "name": "Ripple",
+          "url": "https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251379,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV"
+    },
+    {
+      "album": {
         "name": "SUN",
         "url": "https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga"
       },

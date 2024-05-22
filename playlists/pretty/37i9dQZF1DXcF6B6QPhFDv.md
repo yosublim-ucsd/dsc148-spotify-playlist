@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > feel it in your bones\. 📸: Cage The Elephant
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,579,707 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,579,621 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 74 | [Turnout](https://open.spotify.com/track/4B2KI6R4Bcfh6Fis0QUEv7) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/3puZVzk32SvGkXZd7P4FXI) | 2:33 |
 | 75 | [NVR RLLY](https://open.spotify.com/track/4rKY7tnvkK72142WJkVL0b) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [shed](https://open.spotify.com/album/3FUzGhGjR8rcmJIWmc67AQ) | 3:09 |
 
-Snapshot ID: `ZkeTBAAAAAARl/m/cCz5KkzGSEOW77lF`
+Snapshot ID: `ZkznVAAAAACi5KWjw9BgZci6HjcVtOaK`

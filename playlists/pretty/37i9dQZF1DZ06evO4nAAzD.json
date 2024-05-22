@@ -1,12 +1,12 @@
 {
-  "description": "This is Hyperanhas. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 3588,
+  "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
+  "num_followers": 3590,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAT87CE3yxM2e8UzjhShXYn",
+  "snapshot_id": "ZkqSgAAAAADCFVnGmDuPn1q0oSIb4s2H",
   "tracks": [
     {
       "added_at": null,
@@ -1199,6 +1199,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Levo Daqui",
+        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+      },
+      "artists": [
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Hyperanhas",
+          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Lu\u00e1 Kali",
+          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+        }
+      ],
+      "duration_ms": 244965,
+      "name": "Te Levo Daqui",
+      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa na Piscina",
         "url": "https://open.spotify.com/album/00FA6DwM0uincXdQJ8wltO"
       },
@@ -1227,26 +1251,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Levo Daqui",
-        "url": "https://open.spotify.com/album/2XGlPXWAPLAEaYILeJKbzL"
+        "name": "Quer Ibope",
+        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
       },
       "artists": [
         {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+          "name": "MARIAH",
+          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
         },
         {
-          "name": "Lu\u00e1 Kali",
-          "url": "https://open.spotify.com/artist/7erv73antdGnjobwarhKOv"
+          "name": "AMUSIK",
+          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
         }
       ],
-      "duration_ms": 244965,
-      "name": "Te Levo Daqui",
-      "url": "https://open.spotify.com/track/38HVqbPGqGTabHTem5MEwl"
+      "duration_ms": 223218,
+      "name": "Quer Ibope",
+      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
     },
     {
       "added_at": null,
@@ -1279,30 +1303,6 @@
       "duration_ms": 497624,
       "name": "Luazul #2: Deixa a Vida Levar (feat. MC Vinny e DaPaz) - Ac\u00fastico",
       "url": "https://open.spotify.com/track/4d9lsFObB7OJ0sAgvuIrmF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quer Ibope",
-        "url": "https://open.spotify.com/album/3d3XuKBeJDcqXJlwzxBr9x"
-      },
-      "artists": [
-        {
-          "name": "MARIAH",
-          "url": "https://open.spotify.com/artist/30Fmcbg4I8jHYVbPyXdhRo"
-        },
-        {
-          "name": "Hyperanhas",
-          "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "AMUSIK",
-          "url": "https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl"
-        }
-      ],
-      "duration_ms": 223218,
-      "name": "Quer Ibope",
-      "url": "https://open.spotify.com/track/24vi6EYIoHqAlAQmPdmfdU"
     },
     {
       "added_at": null,
@@ -1415,50 +1415,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "SET DJ BR DA TIJUCA 5",
-        "url": "https://open.spotify.com/album/7HCfAEM56k6BWMvKTOIIlZ"
+        "name": "Time dos Sonhos",
+        "url": "https://open.spotify.com/album/6nzRGaBnhvL6hqJ0X0o9S5"
       },
       "artists": [
         {
-          "name": "BR DA TIJUCA",
-          "url": "https://open.spotify.com/artist/7KEk6kxe9YqyuVg9QeMVNQ"
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
         },
         {
-          "name": "JP Diazz",
-          "url": "https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd"
+          "name": "MC Charada",
+          "url": "https://open.spotify.com/artist/3dbwE7BndV7CQ3m7XkphXv"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/3aSsTuHETvBRL9yRzNsbH4"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "Fe Ribeiro",
+          "url": "https://open.spotify.com/artist/58tgIussK95AuRsnDpXnJX"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
-        },
-        {
-          "name": "Gabzin",
-          "url": "https://open.spotify.com/artist/7ELdt6pzP4LFi4cnVTXqsF"
-        },
-        {
-          "name": "DJ Biel do Furduncinho",
-          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
-        },
-        {
-          "name": "Mc KF",
-          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
-        },
-        {
-          "name": "Leo da Zona Sul",
-          "url": "https://open.spotify.com/artist/7ylv7b3bmpR5NC2OilrZmo"
-        },
-        {
-          "name": "Lipinho Oficial",
-          "url": "https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q"
         }
       ],
-      "duration_ms": 354545,
-      "name": "SET DJ BR DA TIJUCA 5",
-      "url": "https://open.spotify.com/track/4bwlglmM45i6wO0hWKQ9N4"
+      "duration_ms": 411428,
+      "name": "Time dos Sonhos",
+      "url": "https://open.spotify.com/track/1Ab3rxk7i8yZ4jbs3AzGrC"
     }
   ],
   "unique_name": "This Is Hyperanhas",

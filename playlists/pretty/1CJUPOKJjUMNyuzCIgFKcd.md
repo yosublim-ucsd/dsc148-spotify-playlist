@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 
 > The freshest Hip Hop and R&amp;B.
 
-[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,888 likes - 70 songs - 3 hr 7 min
+[EMPIRE](https://open.spotify.com/user/empiredistribution) - 23,889 likes - 70 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/1CJUPOKJjUMNyuzCIgFKcd.md) - [plain]
 | 6 | [TWO HI \(WAVES\) \(feat\. Channel Tres, Free Nationals & George Clinton\)](https://open.spotify.com/track/5uHMT76tdLP79z1yziVRjo) | [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [TWO HI \(WAVES\) \[feat\. Channel Tres, Free Nationals & George Clinton\]](https://open.spotify.com/album/6TPZCjtRmp7GsF6XuproDU) | 3:51 |
 | 7 | [Hurts Me To Know](https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:29 |
 | 8 | [swag it! \- Remix](https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [swag it! \(Remix\)](https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB) | 3:11 |
-| 9 | [Daboi Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboi Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
-| 10 | [RELAY \(feat\. Robb Bank$\)](https://open.spotify.com/track/52epQeSwa8WinnpImQ7RgT) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [RELAY \(feat\. Robb Bank$\)](https://open.spotify.com/album/2oUSleElyeWwg8XgsXf5V1) | 2:59 |
+| 9 | [Daboii Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboii Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
+| 10 | [RELAY](https://open.spotify.com/track/52epQeSwa8WinnpImQ7RgT) | [South Strip](https://open.spotify.com/artist/13ut2kfXGzhHlghB66wAZ8), [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [RELAY](https://open.spotify.com/album/2oUSleElyeWwg8XgsXf5V1) | 2:59 |
 | 11 | [Aye Citch](https://open.spotify.com/track/6zyJ3S9wKZ2WQHl8Yz7k10) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Aye Citch](https://open.spotify.com/album/2V0HcbojfIQuAhtYOq3lfS) | 2:17 |
 | 12 | [Real Money](https://open.spotify.com/track/4N8kUago1jHFZIriU56SoN) | [ShooterGang Kony](https://open.spotify.com/artist/0dT2U2jUx6OmKlyeQOH8AK) | [OPPS CAN'T HAVE FUN](https://open.spotify.com/album/5FIBI3YfeM958yx77yQ8Tl) | 2:22 |
 | 13 | [Different](https://open.spotify.com/track/55lXPhDmmXp0GwhzJL32VS) | [BERNA](https://open.spotify.com/artist/4r533q4JGGMJ5ufDV6iOed), [Glizz](https://open.spotify.com/artist/1hQAnMntviLfzIHV2hCfML) | [Different](https://open.spotify.com/album/596jKXysp9NH8BNS30Lnw1) | 3:15 |

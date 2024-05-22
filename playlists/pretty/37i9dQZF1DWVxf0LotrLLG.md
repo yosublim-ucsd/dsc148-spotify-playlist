@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: LAGOS
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,973 likes - 344 songs - 18 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,980 likes - 344 songs - 18 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

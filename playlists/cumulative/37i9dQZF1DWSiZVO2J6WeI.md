@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-364 songs - 18 hr 44 min
+365 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,7 +138,7 @@
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 |  |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
 | [Eyes Closed](https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Eyes Closed](https://open.spotify.com/album/5ThyCkeaaYKTizePiQsoNs) | 2:28 | 2024-05-20 |  |
-| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 |  |
+| [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2024-05-22 |
 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 | 2024-02-27 |  |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |
 | [Faust](https://open.spotify.com/track/6hGXKSiC1vB11654kyEI5Z) | [Smith/Hill](https://open.spotify.com/artist/7HBGJDqgtjAhCnoFpZzFDS) | [Faust](https://open.spotify.com/album/4oxmPdY5YNv6BBIlsYZ4vo) | 2:18 | 2022-04-13 | 2023-07-13 |
@@ -294,6 +294,7 @@
 | [Sensory Bypass](https://open.spotify.com/track/6d9PX0f4YezrwhMtH5BKiU) | [unvrsl frqncy](https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm) | [Sensory Bypass](https://open.spotify.com/album/2jxMcJP34nxtV2I9OHXe3s) | 2:31 | 2023-04-14 |  |
 | [Serene Clarity](https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5) | [Lulu Ray](https://open.spotify.com/artist/31JkhPiJvenq0fyg2UzdWJ) | [Serene Clarity](https://open.spotify.com/album/4mWj1SQTEpfWSPK93thFE8) | 2:19 | 2023-01-20 |  |
 | [Serene Horizon](https://open.spotify.com/track/4zblnLoTc8pq79vhj0UTly) | [Deep Focus Orchestra](https://open.spotify.com/artist/3fSGnkoBcTdS5F9eEsCHMr) | [Serene Horizon](https://open.spotify.com/album/0LraBzVCkKJsFi4l7xi1yh) | 3:13 | 2024-01-17 |  |
+| [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 | 2024-05-20 |  |
 | [Serenitivity](https://open.spotify.com/track/41hD0lo1wIP9GX25JE4Kfu) | [Adumbration](https://open.spotify.com/artist/5VWWftIdcTzXDWTicX5l0c) | [Serenitivity](https://open.spotify.com/album/6Vz2CBGS1UcQ1GDTopeXbF) | 3:33 | 2022-02-01 | 2022-04-20 |
 | [Serenity](https://open.spotify.com/track/6UGDOLRjEkgUrS3Y8aLLK8) | [Priy](https://open.spotify.com/artist/0EXInuJq3g2Gz8pvxZCxer) | [Serenity](https://open.spotify.com/album/6aP3k8Oo4BWQo4BsZTdCS8) | 3:05 | 2024-01-17 |  |
 | [Serenity](https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Serenity](https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro) | 2:33 | 2023-03-15 |  |

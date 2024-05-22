@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 90144,
+  "num_followers": 90200,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 209053,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
         "name": "Kessel Plays Standards",
         "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 188333,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/4HpPxBDSrsPQfcM69FME8z"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 209053,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/0gqWIxTMmUQPucykcPb6IH"
     },
     {
       "added_at": "2024-03-20 13:47:42",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
-        "name": "Imaginary Day",
-        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
-        }
-      ],
-      "duration_ms": 584760,
-      "name": "The Heat of the Day",
-      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
         "name": "The Next Step",
         "url": "https://open.spotify.com/album/3drOgtndHJN96npMdxHvQb"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 354293,
       "name": "Minor Blues",
       "url": "https://open.spotify.com/track/7btfNlGGzQYLE13vUUChUt"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
+        "name": "Imaginary Day",
+        "url": "https://open.spotify.com/album/0h3GpqEpPx8d0kd0ZfRRCf"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "duration_ms": 584760,
+      "name": "The Heat of the Day",
+      "url": "https://open.spotify.com/track/67L1qmOw0n2Bz84BJTpzrQ"
     },
     {
       "added_at": "2024-03-20 13:47:42",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-03-20 13:47:42",
       "album": {
+        "name": "The Artistry Of Tal Farlow",
+        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
+      },
+      "artists": [
+        {
+          "name": "Tal Farlow",
+          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
+        }
+      ],
+      "duration_ms": 296613,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
+    },
+    {
+      "added_at": "2024-03-20 13:47:42",
+      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 385973,
       "name": "Nimbus",
       "url": "https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY"
-    },
-    {
-      "added_at": "2024-03-20 13:47:42",
-      "album": {
-        "name": "The Artistry Of Tal Farlow",
-        "url": "https://open.spotify.com/album/3DhbpcnuskeHWkCzWAM9cO"
-      },
-      "artists": [
-        {
-          "name": "Tal Farlow",
-          "url": "https://open.spotify.com/artist/0dIXV3ffgWlMcnywNIy0Wf"
-        }
-      ],
-      "duration_ms": 296613,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/10iq9kylUDnPeLJikEdCvl"
     },
     {
       "added_at": "2024-03-20 13:47:42",

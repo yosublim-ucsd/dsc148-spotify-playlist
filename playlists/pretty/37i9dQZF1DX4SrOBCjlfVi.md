@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, Childish Gambino, Saweetie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,365 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,480 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 26 | [Lets Go Crazy](https://open.spotify.com/track/2obmNTgEVv9V26rz3yu9ia) | [Bryansanon](https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s) | [Lets Go Crazy](https://open.spotify.com/album/1b6Rmgv2JpHTNAwFudVtWB) | 1:43 |
 | 27 | [Be Mine](https://open.spotify.com/track/4pOjseBCEPjRUt9UGF0MMr) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO) | [Figuring Out My Emotions](https://open.spotify.com/album/5twFC7fTYy978vfFyE3iP0) | 2:23 |
 | 28 | [Mosh Pit](https://open.spotify.com/track/76cSUBeuio2uFLPFheh1QM) | [LaRussell](https://open.spotify.com/artist/5PRPy7MZZhkM5CIVJvTAKM), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp), [Mike G Beatz](https://open.spotify.com/artist/6RiMJXZlXLl3DRdwXSF1eb) | [Sessions At The Grill \(Episode: 001\)](https://open.spotify.com/album/2nMWvOmprploVFQ4qI7uQo) | 2:02 |
-| 29 | [Daboi Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboi Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
+| 29 | [Daboii Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboii Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
 | 30 | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt) | [Diany Dior](https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Favorite Lady \(with NAV & Cash Cobain\)](https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7) | 3:24 |
 | 31 | [Julie](https://open.spotify.com/track/6So6e4dD5bMm9beIswtUtx) | [Mike Shabb](https://open.spotify.com/artist/6neEhK0FxJha78nD9giAjW) | [Sewaside III](https://open.spotify.com/album/7cSs7eUdygnNWTOu8OW0cS) | 2:30 |
 | 32 | [Vartry Road](https://open.spotify.com/track/6fCB3MxVEWjaQwASpBliNb) | [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Chapter 16](https://open.spotify.com/album/5RGiv2z7Xw3BFZNUBVEc5T) | 3:16 |

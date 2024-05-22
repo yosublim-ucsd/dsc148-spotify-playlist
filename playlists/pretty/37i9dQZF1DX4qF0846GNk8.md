@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=wH1M\-7yZQCGXxYg6WLgI\-w"> عصام صاصا </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,414 likes - 46 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,966 likes - 46 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 7 | [انا الاسد سايق عريني](https://open.spotify.com/track/3cEPZWcFZiF6kkktcfBoH8) | [Hamada El Asmar](https://open.spotify.com/artist/0i0usxTXU7Aa98oSg4Dzlr) | [انا الاسد سايق عريني](https://open.spotify.com/album/1tg8bS34z7BXKAlKEPyCQY) | 4:16 |
 | 8 | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/track/05HQf3gXwmAb8WScNvlhEt) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI) | [عم جيلو \( طب خد ولا انت مبتعرفش تصد \)](https://open.spotify.com/album/1HiStqQC5wtvSrdyt7nc1o) | 2:38 |
 | 9 | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [من فضل الاخصام خفو التخطير \( انا مش ع الدواق \)](https://open.spotify.com/album/1vwPrjUDOb4GAZl7CJn73e) | 2:59 |
-| 10 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [مسلم](https://open.spotify.com/artist/3T3MXGyT0JUhh8QiW7X2Ha) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 |
+| 10 | [غيرك حاول](https://open.spotify.com/track/5R5ijj7vBugTf5Lnp0qbWk) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [غيرك حاول](https://open.spotify.com/album/4OTUDz9Mm3VtTbNHg8eoss) | 3:15 |
 | 11 | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/track/7GdTv7oq8wMIEHm6ZO3C5w) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [قراميط قراميط و الهلافيت عاملين مظابيط \(صحبي اللي اداك يدينا \)](https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV) | 3:51 |
 | 12 | [مهرجان يازميكس البت بتاعتك دي الاكس](https://open.spotify.com/track/7sxPHO8bRHKJYiomXQb9Ne) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh), [Omar Id](https://open.spotify.com/artist/5T46R2Hxs4CNSnZiYAkneg) | [مهرجان يازميكس البت بتاعتك دي الاكس](https://open.spotify.com/album/65k9Omt0JOPURvHffhSMjR) | 5:11 |
 | 13 | [طب هأ دي حبيبتك مش بتقول لا \- مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات](https://open.spotify.com/track/44KVuj4G37j4HULHHrteQu) | [ميسو ميسره](https://open.spotify.com/artist/0QpJBmVA3GcAX8NgPlrrMW), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [طب هأ دي حبيبتك مش بتقول لا \(مهرجان \- طب هأ دي حبيبتك مش بتقول لا \- اسلام كابونجا \-ميسو ميسره \-توزيع فيجو الدخلاوي مهرجانات\)](https://open.spotify.com/album/2TTvzhsqIDnxS6rBPgw2Tu) | 4:51 |

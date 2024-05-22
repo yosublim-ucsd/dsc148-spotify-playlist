@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 30088,
+  "num_followers": 30095,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "En el Tianguis Lo-Fi",
+        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+      },
+      "artists": [
+        {
+          "name": "Bandido Beat",
+          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+        }
+      ],
+      "duration_ms": 319062,
+      "name": "En el Tianguis Lo-Fi",
+      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Mi Pueblo",
         "url": "https://open.spotify.com/album/02WfhEBpCed81725wg1lsx"
       },
@@ -243,18 +259,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "En el Tianguis Lo-Fi",
-        "url": "https://open.spotify.com/album/6uf6pQtXpXFos4m5SIWDuF"
+        "name": "Parque de Bugambilias",
+        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
       "artists": [
         {
-          "name": "Bandido Beat",
-          "url": "https://open.spotify.com/artist/55DbcJhGcCqYhWlzAdSpvL"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 319062,
-      "name": "En el Tianguis Lo-Fi",
-      "url": "https://open.spotify.com/track/4yPhUf2mE2BacW6uckwfvw"
+      "duration_ms": 153857,
+      "name": "Parque de Bugambilias",
+      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -275,26 +295,6 @@
       "duration_ms": 136521,
       "name": "Limitless",
       "url": "https://open.spotify.com/track/2BuPvep8erFNZC1V8IwKcp"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Parque de Bugambilias",
-        "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "Dengue Dengue Dengue",
-          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
-        }
-      ],
-      "duration_ms": 153857,
-      "name": "Parque de Bugambilias",
-      "url": "https://open.spotify.com/track/2AySbhync5bZgZ11BHXgJt"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -407,22 +407,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Ocaso Sin Fin",
-        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 113333,
-      "name": "Vibrando Alto En Tulum",
-      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
+      "duration_ms": 197588,
+      "name": "G\u00e9minis",
+      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -459,18 +455,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
+        "name": "Ocaso Sin Fin",
+        "url": "https://open.spotify.com/album/3lZRj273QqSBGw7hq2ctIz"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 197588,
-      "name": "G\u00e9minis",
-      "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+      "duration_ms": 113333,
+      "name": "Vibrando Alto En Tulum",
+      "url": "https://open.spotify.com/track/4hlkd0ei6iefgdkQP37Fsa"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "La Villa",
-        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 144363,
-      "name": "La Villa",
-      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -579,22 +563,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Saguaro",
-        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
-      },
-      "artists": [
-        {
-          "name": "Flora Vida",
-          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
-        }
-      ],
-      "duration_ms": 132631,
-      "name": "Saguaro",
-      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Nos Usamos",
         "url": "https://open.spotify.com/album/1OGJNAFeUgRSliMjeKMkND"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/1is3m5JZequlsvuWF11f7s"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "La Villa",
+        "url": "https://open.spotify.com/album/6AtYm2ZJT3pyYdtflcpTMu"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 144363,
+      "name": "La Villa",
+      "url": "https://open.spotify.com/track/08gnYxncHjBlXHAyXaCwiG"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Saguaro",
+        "url": "https://open.spotify.com/album/0Q9gN3lrZJuqeaf9fqVfkb"
+      },
+      "artists": [
+        {
+          "name": "Flora Vida",
+          "url": "https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8"
+        }
+      ],
+      "duration_ms": 132631,
+      "name": "Saguaro",
+      "url": "https://open.spotify.com/track/3FU5mFV1Kk63mtMv2xEru0"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -647,42 +647,38 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "bumpz",
-        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+        "name": "van life",
+        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
       },
       "artists": [
         {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+          "name": "Jose Bautista",
+          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
         },
         {
           "name": "Acrylic Sleep",
           "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
         }
       ],
-      "duration_ms": 121734,
-      "name": "bumpz",
-      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
+      "duration_ms": 135714,
+      "name": "van life",
+      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
     },
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
       },
       "artists": [
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
         }
       ],
-      "duration_ms": 89044,
-      "name": "Lofi Recuerdame",
-      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
+      "duration_ms": 141742,
+      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -723,38 +719,42 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "van life",
-        "url": "https://open.spotify.com/album/0av05fGMfHMS5X62fW4Nzt"
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
       "artists": [
         {
-          "name": "Jose Bautista",
-          "url": "https://open.spotify.com/artist/6fzN4HcSe04gUIKj6qFlKB"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 89044,
+      "name": "Lofi Recuerdame",
+      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "bumpz",
+        "url": "https://open.spotify.com/album/4rCj9MLHudbpP3EB1e4Y5t"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
         },
         {
           "name": "Acrylic Sleep",
           "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
         }
       ],
-      "duration_ms": 135714,
-      "name": "van life",
-      "url": "https://open.spotify.com/track/4FZJDWZTLQkHzoWHKT5bRY"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 141742,
-      "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-      "url": "https://open.spotify.com/track/7GJ7ZLLSHmEiveKIGKc5BQ"
+      "duration_ms": 121734,
+      "name": "bumpz",
+      "url": "https://open.spotify.com/track/70Dxon2U2zVYBXO12zR6M4"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -799,42 +799,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "loops",
-        "url": "https://open.spotify.com/album/2Uvp5ZnXyGccIYToYWZFw9"
-      },
-      "artists": [
-        {
-          "name": "Dpsht",
-          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
-        },
-        {
-          "name": "Acrylic Sleep",
-          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
-        }
-      ],
-      "duration_ms": 109723,
-      "name": "loops",
-      "url": "https://open.spotify.com/track/5sGeSqPsAZrvYepdIv0myf"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Callej\u00f3n de las Catrinas",
-        "url": "https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 75333,
-      "name": "Callej\u00f3n de las Catrinas",
-      "url": "https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Lost Memories",
         "url": "https://open.spotify.com/album/4mq1McASoEBuDUfWh9iNdR"
       },
@@ -851,22 +815,6 @@
       "duration_ms": 146845,
       "name": "Lost Memories",
       "url": "https://open.spotify.com/track/4C6LHfiS7pnYDW0PR0Tkap"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "como los ni\u00f1os",
-        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 150956,
-      "name": "como los ni\u00f1os",
-      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -891,6 +839,58 @@
       "duration_ms": 123582,
       "name": "Childhood Memories",
       "url": "https://open.spotify.com/track/4njcxrlpOJPF22YZawLuFC"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Callej\u00f3n de las Catrinas",
+        "url": "https://open.spotify.com/album/5Up7bwvarctNUb6TE70fDT"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 75333,
+      "name": "Callej\u00f3n de las Catrinas",
+      "url": "https://open.spotify.com/track/1YFdN7uDnEGZWj1aRoOiLr"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "como los ni\u00f1os",
+        "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 150956,
+      "name": "como los ni\u00f1os",
+      "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "loops",
+        "url": "https://open.spotify.com/album/2Uvp5ZnXyGccIYToYWZFw9"
+      },
+      "artists": [
+        {
+          "name": "Dpsht",
+          "url": "https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3"
+        },
+        {
+          "name": "Acrylic Sleep",
+          "url": "https://open.spotify.com/artist/25BNiVgyKY2f4KCidLT6ny"
+        }
+      ],
+      "duration_ms": 109723,
+      "name": "loops",
+      "url": "https://open.spotify.com/track/5sGeSqPsAZrvYepdIv0myf"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Shiny",
         "url": "https://open.spotify.com/album/0c2yx03r9wtlW0JKwOffHi"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 129975,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Just A Cool Day",
+        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Just A Cool Day",
+      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "A Safe Place",
         "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 179000,
       "name": "22 Hrs.",
       "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Just A Cool Day",
-        "url": "https://open.spotify.com/album/7uVDTHpM1Zv4MN36UzltFI"
-      },
-      "artists": [
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Just A Cool Day",
-      "url": "https://open.spotify.com/track/2wuFnJ9VEau5KNm6LJn5xc"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Chiflele",
-        "url": "https://open.spotify.com/album/2VVj8GhWnsfQ5p9ZLzjj7R"
-      },
-      "artists": [
-        {
-          "name": "ELEWAKA",
-          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
-        }
-      ],
-      "duration_ms": 147666,
-      "name": "Chiflele",
-      "url": "https://open.spotify.com/track/0CBDHQKcFrBfAkRzw3fbp5"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1311,6 +1295,46 @@
       "duration_ms": 144000,
       "name": "Viscaria Corto",
       "url": "https://open.spotify.com/track/3PvE0frfXEPQj8gE0zu0DJ"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Chiflele",
+        "url": "https://open.spotify.com/album/2VVj8GhWnsfQ5p9ZLzjj7R"
+      },
+      "artists": [
+        {
+          "name": "ELEWAKA",
+          "url": "https://open.spotify.com/artist/3bT6shoIAYz5Flwmni0gnq"
+        }
+      ],
+      "duration_ms": 147666,
+      "name": "Chiflele",
+      "url": "https://open.spotify.com/track/0CBDHQKcFrBfAkRzw3fbp5"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Lluvia de Oro",
+        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        },
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Yunani HU",
+          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
+        }
+      ],
+      "duration_ms": 140400,
+      "name": "Lluvia de Oro",
+      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1351,30 +1375,6 @@
       "duration_ms": 159500,
       "name": "making out",
       "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Lluvia de Oro",
-        "url": "https://open.spotify.com/album/0RKJSxCx19WhHJgIhqYEgg"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        },
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Yunani HU",
-          "url": "https://open.spotify.com/artist/7GPDzYt6bNbg4b0X6YsgsB"
-        }
-      ],
-      "duration_ms": 140400,
-      "name": "Lluvia de Oro",
-      "url": "https://open.spotify.com/track/6HGMkhxtqUwihX2ayzFxW2"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Not Fun",
-        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
-      },
-      "artists": [
-        {
-          "name": "Chili Dog",
-          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
-        }
-      ],
-      "duration_ms": 146406,
-      "name": "Not Fun",
-      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/3RbrgYXo7GUFlswEjTIE0k"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 129729,
       "name": "Playa",
       "url": "https://open.spotify.com/track/714r0v2GgUxReN9FI6vK1l"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Not Fun",
+        "url": "https://open.spotify.com/album/2cZcbkeegNG4Jc0RdXEpdh"
+      },
+      "artists": [
+        {
+          "name": "Chili Dog",
+          "url": "https://open.spotify.com/artist/514loz93308G5SYu5YPG6a"
+        }
+      ],
+      "duration_ms": 146406,
+      "name": "Not Fun",
+      "url": "https://open.spotify.com/track/37bHCkrekBrZIXbqtRoGwD"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Viernes Azul",
-        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Viernes Azul",
-      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "un lugar tranquilo",
         "url": "https://open.spotify.com/album/1UhnAhjNCNlqNg7964Er1a"
       },
@@ -1599,34 +1583,18 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "somewhere, nowhere.",
-        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
+        "name": "Viernes Azul",
+        "url": "https://open.spotify.com/album/3nsTP9n9ikz64G5fpDZvnz"
       },
       "artists": [
         {
-          "name": "AGM",
-          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 112663,
-      "name": "i shouldn't have done that...",
-      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Waves",
-        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
-      },
-      "artists": [
-        {
-          "name": "Outdream",
-          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
-        }
-      ],
-      "duration_ms": 144283,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+      "duration_ms": 214000,
+      "name": "Viernes Azul",
+      "url": "https://open.spotify.com/track/15jXUrt4BqPPqsp2Z7QO1M"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1647,18 +1615,34 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "iced coffee",
-        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
+        "name": "Waves",
+        "url": "https://open.spotify.com/album/43bXdzpch1I5OaPOJ5Nnf4"
       },
       "artists": [
         {
-          "name": "Grethel Ross",
-          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+          "name": "Outdream",
+          "url": "https://open.spotify.com/artist/6L8yEVFZqTkzA7ccfu2i1I"
         }
       ],
-      "duration_ms": 116824,
-      "name": "iced coffee",
-      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
+      "duration_ms": 144283,
+      "name": "Waves",
+      "url": "https://open.spotify.com/track/5TcPlr0F7tbLxIEAKyAgdP"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "somewhere, nowhere.",
+        "url": "https://open.spotify.com/album/4raL3WCI3x7NqCh8dqcZKC"
+      },
+      "artists": [
+        {
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
+        }
+      ],
+      "duration_ms": 112663,
+      "name": "i shouldn't have done that...",
+      "url": "https://open.spotify.com/track/4Fl52C3mzmr66yD022Sj4r"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1679,6 +1663,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "iced coffee",
+        "url": "https://open.spotify.com/album/396IeTCeQsM2BcxX3C804T"
+      },
+      "artists": [
+        {
+          "name": "Grethel Ross",
+          "url": "https://open.spotify.com/artist/3IWq2rVkwWTMEWbGe6ZQRg"
+        }
+      ],
+      "duration_ms": 116824,
+      "name": "iced coffee",
+      "url": "https://open.spotify.com/track/7odYz6Lh6zJAoBNs7vRxf7"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Opinable",
         "url": "https://open.spotify.com/album/5f7XpTfXYCt8GWvk9sqEjT"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
-      },
-      "artists": [
-        {
-          "name": "Adbeel",
-          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Summer Purr",
         "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 156000,
       "name": "Summer Purr",
       "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf"
+      },
+      "artists": [
+        {
+          "name": "Adbeel",
+          "url": "https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a"
     },
     {
       "added_at": "2024-05-03 06:00:00",

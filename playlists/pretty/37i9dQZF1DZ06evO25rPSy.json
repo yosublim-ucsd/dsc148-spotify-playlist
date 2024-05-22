@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 23503,
+  "description": "This is Pedro Su\u00e1rez-V\u00e9rtiz. The essential tracks, all in one playlist.",
+  "num_followers": 23514,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADpuuglH0aDpQS2sytO3H27",
+  "snapshot_id": "ZkqSgAAAAAD8XyXMuXMQbIJ7D37dR/OC",
   "tracks": [
     {
       "added_at": null,
@@ -579,22 +579,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rarezas",
-        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
+        "name": "Amazonas (Uncut)",
+        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
       },
       "artists": [
-        {
-          "name": "Libido",
-          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
-        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 260760,
-      "name": "Sed",
-      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
+      "duration_ms": 256413,
+      "name": "Tu\u0301nel del Tiempo",
+      "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
     },
     {
       "added_at": null,
@@ -631,18 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amazonas (Uncut)",
-        "url": "https://open.spotify.com/album/7BjsgXmi5ZPl2rT30HLFs8"
+        "name": "Rarezas",
+        "url": "https://open.spotify.com/album/1OUIaXZm6xIincR77xH6dz"
       },
       "artists": [
+        {
+          "name": "Libido",
+          "url": "https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno"
+        },
         {
           "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
           "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
         }
       ],
-      "duration_ms": 256413,
-      "name": "Tu\u0301nel del Tiempo",
-      "url": "https://open.spotify.com/track/0qbOkESKkUf6w62kvkAqnV"
+      "duration_ms": 260760,
+      "name": "Sed",
+      "url": "https://open.spotify.com/track/6x7vNg7TggZP1UxZhi9SVL"
     },
     {
       "added_at": null,

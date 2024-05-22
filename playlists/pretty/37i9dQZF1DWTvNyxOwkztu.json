@@ -1,6 +1,6 @@
 {
   "description": "Just lean back and enjoy relaxed beats.",
-  "num_followers": 1920197,
+  "num_followers": 1920568,
   "original_name": "Chillout Lounge",
   "owner": {
     "name": "Spotify",
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
+      },
+      "artists": [
+        {
+          "name": "Harry Cho",
+          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+        }
+      ],
+      "duration_ms": 166200,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Hangin Up",
         "url": "https://open.spotify.com/album/65oZ8vGX6TliO9kVtCRnIy"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 184296,
       "name": "Hangin Up",
       "url": "https://open.spotify.com/track/4vC2iSW6pMcDvAb98Tc8ma"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/7ABM5ukoc9HtRaDCHGTiwk"
-      },
-      "artists": [
-        {
-          "name": "Harry Cho",
-          "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
-        }
-      ],
-      "duration_ms": 166200,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/6xtd91nRRlk0Qim5GjoaLF"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh"
+      },
+      "artists": [
+        {
+          "name": "Nora Van Elken",
+          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
+        }
+      ],
+      "duration_ms": 184269,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Don't Worry",
         "url": "https://open.spotify.com/album/1JY1js3AQi74qUZhqG6xrL"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 195160,
       "name": "Don't Worry",
       "url": "https://open.spotify.com/track/1nOwt0eXrd8z2i2Q7Hqjdc"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/6AFwibLKtWYJVKdY9ChZGh"
-      },
-      "artists": [
-        {
-          "name": "Nora Van Elken",
-          "url": "https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM"
-        }
-      ],
-      "duration_ms": 184269,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7FoyKoMhQyDCSomTBYKVP1"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "Time to Chill",
+        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
+      },
+      "artists": [
+        {
+          "name": "Sound Nomaden",
+          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+        }
+      ],
+      "duration_ms": 312272,
+      "name": "Time to Chill",
+      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "IOU",
         "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Heat Waves",
-        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
-      },
-      "artists": [
-        {
-          "name": "Together Alone",
-          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
-        }
-      ],
-      "duration_ms": 157992,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/2PWvvyNT4VeJZBf9OvlIXP"
       },
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Time to Chill",
-        "url": "https://open.spotify.com/album/0B7IFFbfS2Psj2qq8LX1Ko"
+        "name": "Heat Waves",
+        "url": "https://open.spotify.com/album/02lNMqgTeGkhWkad7NK8Yd"
       },
       "artists": [
         {
-          "name": "Sound Nomaden",
-          "url": "https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0"
+          "name": "Together Alone",
+          "url": "https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY"
         }
       ],
-      "duration_ms": 312272,
-      "name": "Time to Chill",
-      "url": "https://open.spotify.com/track/15n4cMOP0wAHejEWqrszad"
+      "duration_ms": 157992,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/2bloJtfWRNnHjylvX8AWOt"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
-      },
-      "artists": [
-        {
-          "name": "Chico Rocket",
-          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
-        }
-      ],
-      "duration_ms": 151632,
-      "name": "Discovery",
-      "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Sun Road",
         "url": "https://open.spotify.com/album/4zt4I3llbETJPs7EOoJAJa"
       },
@@ -1283,34 +1267,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Alike / Surface",
-        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/0T75iZGdnWmBK32aQA0i4f"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "Chico Rocket",
+          "url": "https://open.spotify.com/artist/7IQwKCAaA9LPTctkNr3QmQ"
         }
       ],
-      "duration_ms": 195147,
-      "name": "Alike",
-      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "You and You",
-        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
-      },
-      "artists": [
-        {
-          "name": "Mute Surrender",
-          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "You and You",
-      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+      "duration_ms": 151632,
+      "name": "Discovery",
+      "url": "https://open.spotify.com/track/4agnjzu5UKVuxPAiq6gre8"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1331,6 +1299,38 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "You and You",
+        "url": "https://open.spotify.com/album/5AuiaAR7MlufyZJEbEv3Gp"
+      },
+      "artists": [
+        {
+          "name": "Mute Surrender",
+          "url": "https://open.spotify.com/artist/5bZqhvuRGrTo7qW6GABHbE"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "You and You",
+      "url": "https://open.spotify.com/track/5ti1L2WzlD71tWo8V9ZJjf"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Alike / Surface",
+        "url": "https://open.spotify.com/album/7bW443i5eXrdKMV2bXtOLk"
+      },
+      "artists": [
+        {
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Alike",
+      "url": "https://open.spotify.com/track/7eH248LazDFbqSZVWSUufn"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Hands Together",
         "url": "https://open.spotify.com/album/5HYOtc2HyXAgComHOL981p"
       },
@@ -1343,6 +1343,22 @@
       "duration_ms": 189289,
       "name": "Hands Together",
       "url": "https://open.spotify.com/track/0iF45VLtixkCC2X2EcJSwn"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Gardient heaven",
+        "url": "https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8"
+      },
+      "artists": [
+        {
+          "name": "YAN KAL",
+          "url": "https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG"
+        }
+      ],
+      "duration_ms": 152396,
+      "name": "Gardient heaven",
+      "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1379,38 +1395,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Gardient heaven",
-        "url": "https://open.spotify.com/album/1WVwh0s7pzG0PXzvtRVVJ8"
-      },
-      "artists": [
-        {
-          "name": "YAN KAL",
-          "url": "https://open.spotify.com/artist/04735OZRCyYdkA5Cay4qkG"
-        }
-      ],
-      "duration_ms": 152396,
-      "name": "Gardient heaven",
-      "url": "https://open.spotify.com/track/4O1CGcCUjJXow4oBHxMxTK"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "flux de vibrations",
-        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
-      },
-      "artists": [
-        {
-          "name": "Paon Bleu",
-          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
-        }
-      ],
-      "duration_ms": 176052,
-      "name": "flux de vibrations",
-      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Balearic Dream",
         "url": "https://open.spotify.com/album/3aOciSEOGtMXtMoLD6SL84"
       },
@@ -1443,6 +1427,22 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
+        "name": "flux de vibrations",
+        "url": "https://open.spotify.com/album/5alTmX5H7d7W8JTWQwxYM9"
+      },
+      "artists": [
+        {
+          "name": "Paon Bleu",
+          "url": "https://open.spotify.com/artist/4WYWCaNbo0tE3g7D3CEjzZ"
+        }
+      ],
+      "duration_ms": 176052,
+      "name": "flux de vibrations",
+      "url": "https://open.spotify.com/track/44pzUk3UueCxKWuj8rbfvu"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
         "name": "Sunset Serene",
         "url": "https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG"
       },
@@ -1455,22 +1455,6 @@
       "duration_ms": 126005,
       "name": "Sunset Serene",
       "url": "https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
-        "name": "Unhappy Alien",
-        "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
-      },
-      "artists": [
-        {
-          "name": "Not Tudor",
-          "url": "https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Unhappy Alien",
-      "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Informalit\u00e9",
-        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+        "name": "Unhappy Alien",
+        "url": "https://open.spotify.com/album/4JpLIm5YrcMfhbNmrvVdjx"
       },
       "artists": [
         {
-          "name": "Nyhuis",
-          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+          "name": "Not Tudor",
+          "url": "https://open.spotify.com/artist/3dOxIuKHSabrAVdJosO7gJ"
         }
       ],
-      "duration_ms": 171704,
-      "name": "Informalit\u00e9",
-      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
+      "duration_ms": 198260,
+      "name": "Unhappy Alien",
+      "url": "https://open.spotify.com/track/3O6FAjNGBUVPa5ahfMhucZ"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1519,6 +1503,22 @@
       "duration_ms": 198314,
       "name": "A Glitch",
       "url": "https://open.spotify.com/track/2aIkJY5Fqg5F5r09nk47GG"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Informalit\u00e9",
+        "url": "https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ"
+      },
+      "artists": [
+        {
+          "name": "Nyhuis",
+          "url": "https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d"
+        }
+      ],
+      "duration_ms": 171704,
+      "name": "Informalit\u00e9",
+      "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
     },
     {
       "added_at": "2023-11-27 18:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-11-27 18:00:00",
       "album": {
-        "name": "Glassy Haze",
-        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
-      },
-      "artists": [
-        {
-          "name": "Kubicova",
-          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
-        }
-      ],
-      "duration_ms": 153652,
-      "name": "Glassy Haze",
-      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
-    },
-    {
-      "added_at": "2023-11-27 18:00:00",
-      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/6mgZeATUdVHaEOobbSR6Dv"
       },
@@ -1647,6 +1631,22 @@
       "duration_ms": 195157,
       "name": "Vacation",
       "url": "https://open.spotify.com/track/3EvZtIXtY5pRyboLxVc93n"
+    },
+    {
+      "added_at": "2023-11-27 18:00:00",
+      "album": {
+        "name": "Glassy Haze",
+        "url": "https://open.spotify.com/album/0lUWXiHBeZ9aW7TjY81pWf"
+      },
+      "artists": [
+        {
+          "name": "Kubicova",
+          "url": "https://open.spotify.com/artist/4ml57BmL2HqNklJZjCbqYr"
+        }
+      ],
+      "duration_ms": 153652,
+      "name": "Glassy Haze",
+      "url": "https://open.spotify.com/track/4FILjWLfV7XwMXzIoJ5XH6"
     },
     {
       "added_at": "2023-11-27 18:00:00",

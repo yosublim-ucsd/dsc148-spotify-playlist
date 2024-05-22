@@ -1,12 +1,12 @@
 {
   "description": "This is Evaluna Montaner. The essential tracks, all in one playlist.",
-  "num_followers": 14906,
+  "num_followers": 14905,
   "original_name": "This Is Evaluna Montaner",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABmOQfxIbBClzwy5HCLqvy4",
+  "snapshot_id": "ZkqSgAAAAACIzsGmZpKKjAe0+xNpOxbM",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wings",
+        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 254306,
+      "name": "Wings",
+      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luna Para Ti (feat. Riccardo Frascari)",
+        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        },
+        {
+          "name": "Riccardo Frascari",
+          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
+        }
+      ],
+      "duration_ms": 212362,
+      "name": "Luna Para Ti (feat. Riccardo Frascari)",
+      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vuelvo a Enamorarme (feat. Sebasti\u00e1n Silva, Riccardo Frascari, Gabo L\u00f3pez & Andr\u00e9s Mercado)",
         "url": "https://open.spotify.com/album/2blqwWdVjecjHqQ8OQsLQd"
       },
@@ -703,66 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Para Ti (feat. Riccardo Frascari)",
-        "url": "https://open.spotify.com/album/5PwTYoP0LgXel5HctvYlsm"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        },
-        {
-          "name": "Riccardo Frascari",
-          "url": "https://open.spotify.com/artist/0Bn3IBeAqidIrY3pURxJ76"
-        }
-      ],
-      "duration_ms": 212362,
-      "name": "Luna Para Ti (feat. Riccardo Frascari)",
-      "url": "https://open.spotify.com/track/4zpwnpqgv58YIE3mGqxHBU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/17MekhFSuXoftJ7aCXVZxQ"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        }
-      ],
-      "duration_ms": 254306,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/7syytOgiI58LYp9wMB1Bw4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muchacha Solitaria",
-        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
-      },
-      "artists": [
-        {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
-        },
-        {
-          "name": "Club 57 Cast",
-          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
-        }
-      ],
-      "duration_ms": 221423,
-      "name": "Muchacha Solitaria",
-      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eva (feat. Riccardo Frascari)",
         "url": "https://open.spotify.com/album/5etNIcaFHbH0LbcTFoeCMB"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 154120,
       "name": "Eva (feat. Riccardo Frascari)",
       "url": "https://open.spotify.com/track/2z2Zwa8JCOi4CLbJlI9DTf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Muchacha Solitaria",
+        "url": "https://open.spotify.com/album/4EevwBc81RN2RYqEKW4lpe"
+      },
+      "artists": [
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        },
+        {
+          "name": "Club 57 Cast",
+          "url": "https://open.spotify.com/artist/3AIpmOank8hTcYB0ZJQvAr"
+        }
+      ],
+      "duration_ms": 221423,
+      "name": "Muchacha Solitaria",
+      "url": "https://open.spotify.com/track/6fzLYr1KgfXsPOEjSaEHj0"
     },
     {
       "added_at": null,

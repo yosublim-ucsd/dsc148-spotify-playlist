@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 ### [This Is Cassiane](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40KrGE)
 
-> This is Cassiane\. Todos os maiores hits em uma só playlist.
+> This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,699 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,703 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Medley Ouve, Senhor \- Ao Vivo](https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Memórias do Coração \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw) | 8:35 |
 | 50 | [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 |
 
-Snapshot ID: `ZklBAAAAAAAEBSluaC8ttWutlTCHnJKh`
+Snapshot ID: `ZkqSgAAAAADbYecF17mt4frxhKWp0u+Q`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 
 > The hottest music from the hottest desert\. Cover: Tinariwen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,961 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,059 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Azawad](https://open.spotify.com/track/5qXNi29uI1RWLhMx2DHiHk) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [Azawad](https://open.spotify.com/album/2iekjB8IlqYlwXs8now72Y) | 4:12 |
-| 2 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
+| 2 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
 | 3 | [Diarabi](https://open.spotify.com/track/36huM0UOR9A17TYAape2Xg) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:01 |
-| 4 | [Mama](https://open.spotify.com/track/795HmjjJWGQUMfL3foScIr) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E) | [Akö](https://open.spotify.com/album/3u7FAwHspJFXJMgAfrFsmx) | 2:04 |
+| 4 | [Kulu](https://open.spotify.com/track/4Z1SwrQ2E9mOrXDTuP1bTD) | [N'Gou Bagayoko](https://open.spotify.com/artist/0U14GimEuoGTXPNaoNAlmg) | [Kulu](https://open.spotify.com/album/1vGI90FqQestc7Zw6SCVg1) | 3:45 |
 | 5 | [Manitoumani](https://open.spotify.com/track/40sgwuGnpN1XQ3AbE9exPD) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6), [Toumani Diabaté](https://open.spotify.com/artist/2nCACYdIndYchzX4bxLcTW), [Sidiki Diabaté](https://open.spotify.com/artist/0ShXtJGjzmboEPVOvIdbQA), [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC) | [Lamomali](https://open.spotify.com/album/3jY3nT2vkn0Fk7w7rtXVR4) | 3:28 |
 | 6 | [Amoudou](https://open.spotify.com/track/1QnWVnnt2AOT7psq22mO5I) | [Sarah & Ismael](https://open.spotify.com/artist/54iTijiayB88SSI44m1Slt) | [Amoudou](https://open.spotify.com/album/12OPu793Jldrmt0fMkXpby) | 4:47 |
 | 7 | [Djôn'Maya](https://open.spotify.com/track/2JlQOgJZdvQ5YJrVxY13wQ) | [Victor Démé](https://open.spotify.com/artist/1FCJ4zmRfkGUOtY65Jettg) | [Victor Démé](https://open.spotify.com/album/4psXSB62XvHZ0c3fg2udob) | 4:09 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuJFsTMqHYX.md) - [plain]
 | 18 | [Taxi Brousse](https://open.spotify.com/track/67MvBcAEhyKnyNdT1A54wi) | [Rajery](https://open.spotify.com/artist/3PxqYlOoVs3HftCle5jaNB), [Ballaké Sissoko](https://open.spotify.com/artist/0OQeMFqoRD5clB0cPYVbxY), [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [3 MA \(Madagascar, Mali, Maroc\)](https://open.spotify.com/album/3AP6ehGlQxMOrMsqOly0c2) | 1:28 |
 | 19 | [How Dare You](https://open.spotify.com/track/4W3W4cbErPT3JCW60IxKKj) | [St Germain](https://open.spotify.com/artist/484sZUYmnRXN84zmk3GY1n) | [St Germain](https://open.spotify.com/album/5ckt4gstaOg1VlCqyLtrLT) | 6:43 |
 | 20 | [A Lamèn](https://open.spotify.com/track/4bT1rl9bnULJw7ivrXozfQ) | [Lobi Traoré](https://open.spotify.com/artist/5uycig9ettxM7vWsZt4Rzp) | [Rainy Season Blues](https://open.spotify.com/album/01PrHxFNvBdEZr99c03s3M) | 2:21 |
-| 21 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
-| 22 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
+| 21 | [Akaline](https://open.spotify.com/track/0V9DjtOmk3yxz8HeEyxYsY) | [Kel Assouf](https://open.spotify.com/artist/5mu6VL20oyfrkqOW61w7p9) | [Tin Hinane](https://open.spotify.com/album/58tahxJBcMrtsbp0s3amh2) | 5:04 |
+| 22 | [Tahra a Issasnane](https://open.spotify.com/track/51y5kEOYPs4JHFgbPTvuKe) | [Terakaft](https://open.spotify.com/artist/0UtqyB9qf6oA6B7SeTjLue) | [Akh Issudar](https://open.spotify.com/album/0grlHQW8BkVTcEaW0QqTPx) | 3:21 |
 | 23 | [Mawarniha Tartit](https://open.spotify.com/track/6KnZ9iov6qX5ZZBLS0pUPF) | [Tamikrest](https://open.spotify.com/artist/6nZ1wn9URV4oWk4UKuG872) | [Kidal](https://open.spotify.com/album/5OomumBipFPjdcXld2zJQc) | 3:38 |
 | 24 | [Hizab](https://open.spotify.com/track/4z3AALK0yW5jQy6UHHPOyl) | [Sona Jobarteh](https://open.spotify.com/artist/7JksKqLDuYE8QYj2WjiNQr) | [Motherland \- The Score](https://open.spotify.com/album/7eioDyvozdq2H9B3WncHmC) | 4:43 |
 | 25 | [Assossamagh \- ReqTeq Re\-edit](https://open.spotify.com/track/2yd16TyZddVEZFs2X3AWas) | [ReqTeq](https://open.spotify.com/artist/0F0tiuO58aU8k6KORsYrnv), [Imarhan](https://open.spotify.com/artist/1KQ1687z0hWSabx0YswG54) | [Assossamagh \(ReqTeq Re\-edit\)](https://open.spotify.com/album/3Uiu3RLO1p6EqPMyFxgZ3x) | 3:18 |

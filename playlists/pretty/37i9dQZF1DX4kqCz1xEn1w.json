@@ -1,6 +1,6 @@
 {
   "description": "Victory over death has been won today, forever!",
-  "num_followers": 73511,
+  "num_followers": 73507,
   "original_name": "Easter Worship",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Passion Collection",
-        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
-      },
-      "artists": [
-        {
-          "name": "Passion",
-          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
-        },
-        {
-          "name": "Kristian Stanfill",
-          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
-        }
-      ],
-      "duration_ms": 239628,
-      "name": "One Thing Remains - Radio Version",
-      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "Come Alive",
         "url": "https://open.spotify.com/album/2gMrHKIYTOToJEKDzDTg5t"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 570629,
       "name": "Yahweh (feat. Matthew Stevenson & Chandler Moore)",
       "url": "https://open.spotify.com/track/5iz2oJe4z1MMv7tbx5cBhF"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Passion Collection",
+        "url": "https://open.spotify.com/album/5qCQNNTRCwSFxE95O7dCOn"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Kristian Stanfill",
+          "url": "https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx"
+        }
+      ],
+      "duration_ms": 239628,
+      "name": "One Thing Remains - Radio Version",
+      "url": "https://open.spotify.com/track/6YyizHBnH22hpC4R3CwJK5"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
+        "name": "The Darker The Night / The Brighter The Morning",
+        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 254840,
+      "name": "The Cross Has The Final Word",
+      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
         "name": "SPACE",
         "url": "https://open.spotify.com/album/7KVDtC0WmoOSK97hXOlJaw"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 298640,
       "name": "Bless The One - Live",
       "url": "https://open.spotify.com/track/2sFtpqvyCp68S3pSTfogkK"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
-        "name": "The Darker The Night / The Brighter The Morning",
-        "url": "https://open.spotify.com/album/5UjzIvJl8qRO65dQTMXrho"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 254840,
-      "name": "The Cross Has The Final Word",
-      "url": "https://open.spotify.com/track/6i4s9bd1Z9Hj3mTr6sK9Wq"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Just One Drop (Live From New Orleans)",
-        "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
-      },
-      "artists": [
-        {
-          "name": "Bethany Music",
-          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
-        },
-        {
-          "name": "BJ Putnam",
-          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
-        }
-      ],
-      "duration_ms": 384293,
-      "name": "Just One Drop - Live From New Orleans",
-      "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
-    },
-    {
-      "added_at": "2024-03-20 11:39:23",
-      "album": {
         "name": "All For Love (Gethsemane) [Live]",
         "url": "https://open.spotify.com/album/64tv60oZXF3ldHggaW48vn"
       },
@@ -1679,6 +1659,26 @@
       "duration_ms": 314517,
       "name": "All For Love (Gethsemane) - Live",
       "url": "https://open.spotify.com/track/1d0xX8GVn0oDPgHJXeIhi1"
+    },
+    {
+      "added_at": "2024-03-20 11:39:23",
+      "album": {
+        "name": "Just One Drop (Live From New Orleans)",
+        "url": "https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD"
+      },
+      "artists": [
+        {
+          "name": "Bethany Music",
+          "url": "https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP"
+        },
+        {
+          "name": "BJ Putnam",
+          "url": "https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500"
+        }
+      ],
+      "duration_ms": 384293,
+      "name": "Just One Drop - Live From New Orleans",
+      "url": "https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1795,18 +1795,22 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Hope Is Awake",
-        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
       "artists": [
         {
-          "name": "Austin Stone Worship",
-          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 318473,
-      "name": "Hope Is Awake",
-      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2024-03-20 11:39:23",
@@ -1827,22 +1831,18 @@
     {
       "added_at": "2024-03-20 11:39:23",
       "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
+        "name": "Hope Is Awake",
+        "url": "https://open.spotify.com/album/6kDurAk311v6PUb4CJhLUP"
       },
       "artists": [
         {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+          "name": "Austin Stone Worship",
+          "url": "https://open.spotify.com/artist/5B0gcQCmHJR2VznrIGKh4x"
         }
       ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
+      "duration_ms": 318473,
+      "name": "Hope Is Awake",
+      "url": "https://open.spotify.com/track/0SIHqv2u7geYpqROKeAqJb"
     }
   ],
   "unique_name": "Easter Worship",

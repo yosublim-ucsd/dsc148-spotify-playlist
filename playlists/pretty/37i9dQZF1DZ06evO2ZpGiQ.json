@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Wayne. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 422721,
+  "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
+  "num_followers": 422809,
   "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAVv2+lkb/Z5bU6aY/KZ9kg",
+  "snapshot_id": "ZkqSgAAAAACnoUu7M9wBrfo0i6q6IjUz",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "We The Best Forever",
+        "url": "https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg"
+      },
+      "artists": [
+        {
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "I'm On One",
+      "url": "https://open.spotify.com/track/608a1wIsSd5KzMEqm1O7w3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Here I Stand",
         "url": "https://open.spotify.com/album/2peB0xKYHSlIWc5boFA6PW"
       },
@@ -1091,26 +1119,6 @@
       "duration_ms": 304606,
       "name": "No Problem (feat. Lil Wayne & 2 Chainz)",
       "url": "https://open.spotify.com/track/0v9Wz8o0BT8DU38R4ddjeH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday: Roman Reloaded The Re-Up (Explicit Version)",
-        "url": "https://open.spotify.com/album/22F5ZYY1sxoJjk6HzZfmC1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "High School",
-      "url": "https://open.spotify.com/track/3UrNOHCzVxX2KZbNcKQAyu"
     }
   ],
   "unique_name": "This Is Lil Wayne",

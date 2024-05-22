@@ -4,7 +4,7 @@
 
 > Its pop punk, its the best
 
-248 songs - 13 hr 36 min
+249 songs - 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [She Looks So Perfect](https://open.spotify.com/track/1gugDOSMREb34Xo0c1PlxM) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5 Seconds Of Summer](https://open.spotify.com/album/2LkWHNNHgD6BRNeZI2SL1L) | 3:22 | 2023-10-17 | 2023-12-02 |
 | [She's A Lady](https://open.spotify.com/track/7rXOUa2yrj80b49sYqV6Qy) | [Forever The Sickest Kids](https://open.spotify.com/artist/4frytKnOBrer4QVPWynGtX) | [Underdog Alma Mater](https://open.spotify.com/album/1DXQ0idwKePZH7T1yU57gS) | 4:00 | 2024-01-09 |  |
 | [Shoulder to the Wheel](https://open.spotify.com/track/4dKu1HkVL1xh96F1JfDTrn) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Through Being Cool](https://open.spotify.com/album/3yRpyOundyELlkOO6O4YSo) | 3:19 | 2023-10-17 | 2023-12-02 |
+| [Sick Ride](https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ) | 1:37 | 2024-05-21 |  |
 | [Since U Been Gone](https://open.spotify.com/track/45oBSaWml0fU1S6qcHcpxF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [For Those Who Have Heart \(Deluxe Edition\)](https://open.spotify.com/album/4HEUcIsYZNkvMWQkIIEJYq) | 3:18 | 2024-01-09 |  |
 | [Sleep In The Snow](https://open.spotify.com/track/7J10tcevpAIx05rzvCYbaj) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Southern Air](https://open.spotify.com/album/1URxt8zdzFsihGRAv01cb0) | 4:02 | 2023-12-01 | 2024-01-10 |
 | [Sleigh Ride](https://open.spotify.com/track/7G89dEgWAsFw4rODlvygqB) | [This Wild Life](https://open.spotify.com/artist/3eoazmwspxeKFenMP1PQva) | [Punk Goes Christmas \(Deluxe\)](https://open.spotify.com/album/6pj3sxkEUpAOlix05HpxmF) | 2:55 | 2023-12-01 | 2024-01-10 |

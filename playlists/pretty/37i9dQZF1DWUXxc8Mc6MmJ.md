@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 817,260 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 817,693 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 69 | [Superstar](https://open.spotify.com/track/20BE9EAAuma1el03cT4bH6) | [Mido and Falasol](https://open.spotify.com/artist/3lBxyv4EPpiE80Ji1Eyfiq) | [HOSPITAL PLAYLIST Season2, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpmFMRuxjqfwNqzsG7UTi) | 3:36 |
 | 70 | [When I Saw You](https://open.spotify.com/track/1K3egcETTo3nLQkxmsoRUM) | [BUMKEY](https://open.spotify.com/artist/3vhZuZdMksbnJwoE3AwpXq) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/25Hiqyo9VBhheykjheHPbI) | 2:56 |
 | 71 | [Don't worry](https://open.spotify.com/track/0P3w8D7NAJb5xYvSQBpHq9) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/1xfxTZoewn33lWaXFOJky2) | 3:51 |
-| 72 | [Best Luck](https://open.spotify.com/track/0FxShF2ad0XegLlZ4UPImP) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:45 |
-| 73 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
+| 72 | [Ring My Bell](https://open.spotify.com/track/3MdJSXjBarAYuuJ7rjJLDk) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Uncontrollably Fond OST Part.1](https://open.spotify.com/album/6n9ISr3T3HIRLCp97PFY8c) | 3:25 |
+| 73 | [Best Luck](https://open.spotify.com/track/0FxShF2ad0XegLlZ4UPImP) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 3:45 |
 | 74 | [For You](https://open.spotify.com/track/0tejqLrXfsXT5SEDld8fKk) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Cinderella & Four Knights, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/3heg9wwUtmvksQ1s68OZBT) | 4:19 |
 | 75 | [Say Goodbye](https://open.spotify.com/track/4PVlgqnAacGP0ppxbgkvzZ) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Uncontrollably Fond OST Part.3](https://open.spotify.com/album/38OAXj0vgluZuiHo4o6Ml6) | 4:09 |
 | 76 | [From now on](https://open.spotify.com/track/6vic1TI7BdzAc9HM0LnAF0) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Weightlifting Fairy Kim Bok Joo \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/1T8J131uP2pI7VuxSF2zp3) | 3:10 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 81 | [Eternal Love](https://open.spotify.com/track/0HIr8uSRGF14DHO1sckYx0) | [Michael Learns To Rock](https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe) | [Healer \(Original Television Soundtrack\)](https://open.spotify.com/album/0EQJ8RXISHsoZafV3PgUFv) | 4:16 |
 | 82 | [By My Side](https://open.spotify.com/track/7jj5H4bCLfA60DRe3oj23M) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [Descendants Of The Sun Pt.8 \(Original Television Soundtrack\)](https://open.spotify.com/album/5j0E7LsU7fWPc2UAfG7pdl) | 3:46 |
 | 83 | [Beautiful Moment](https://open.spotify.com/track/3SXg7A9M3pY2aWYdzQ0BMW) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [The Beauty Inside Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BhoxE4nRkVv4GjS8draWN) | 3:58 |
-| 84 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
-| 85 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
+| 84 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
+| 85 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
 | 86 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
 | 87 | [Home](https://open.spotify.com/track/5c26OuSMT9s3zuNxA8GvHu) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/22vwnmmlPoPk04mJfvwTBo) | 3:51 |
 | 88 | [No Problem](https://open.spotify.com/track/6cxe7wIuwH7ul9XI7D853w) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [The Uncanny Counter \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2knMaAPOJG94PH3blGVLkr) | 3:31 |

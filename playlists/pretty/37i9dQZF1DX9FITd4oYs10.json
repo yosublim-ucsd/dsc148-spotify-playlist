@@ -319,6 +319,22 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Slow Flow",
+        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
+      },
+      "artists": [
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        }
+      ],
+      "duration_ms": 159730,
+      "name": "Rosas e Rimas",
+      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 194194,
       "name": "Hoje Cedo",
       "url": "https://open.spotify.com/track/2C9LPYpH9YUgROQDHfRXrU"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Slow Flow",
-        "url": "https://open.spotify.com/album/1LpPSpMDdzx3WCNs8EUui3"
-      },
-      "artists": [
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        }
-      ],
-      "duration_ms": 159730,
-      "name": "Rosas e Rimas",
-      "url": "https://open.spotify.com/track/1lg7G5zyf8apcquXJ7iPYR"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Funkero",
-          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
-        }
-      ],
-      "duration_ms": 250775,
-      "name": "Libert\u00e1rios N\u00e3o Morrem",
-      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Poetas no Topo 2",
         "url": "https://open.spotify.com/album/4Qnc9kgBCgCD4BAOlf8GHb"
       },
@@ -627,6 +607,26 @@
       "duration_ms": 523467,
       "name": "Poetas no Topo 2",
       "url": "https://open.spotify.com/track/5ePNo6uzHyOiZ5lq1L5WVs"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Funkero",
+          "url": "https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt"
+        }
+      ],
+      "duration_ms": 250775,
+      "name": "Libert\u00e1rios N\u00e3o Morrem",
+      "url": "https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -703,6 +703,26 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Neur\u00f3tico de Guerra",
+      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
         "name": "Estilo Coyote",
         "url": "https://open.spotify.com/album/7HAdkfzrgibPksLJFAZMtq"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 193799,
       "name": "N\u00f3s",
       "url": "https://open.spotify.com/track/1yHEBmkI2j3lhlVLU8yuTl"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Neur\u00f3tico de Guerra",
-      "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -827,6 +827,22 @@
       "duration_ms": 272004,
       "name": "Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Re\u00fas",
+      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -907,22 +923,6 @@
       "duration_ms": 181373,
       "name": "Como Deus Quiser",
       "url": "https://open.spotify.com/track/72ZGT5dwrp7lZ40ums6dHi"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Re\u00fas",
-      "url": "https://open.spotify.com/track/43OF1WiPTx2KfQypd7nMr3"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Flora Matos Vs. Stereodubs",
-        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        },
-        {
-          "name": "Stereodubs",
-          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Esperar o Sol",
-      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/2ejKEkRgh3uruTbgFEUbOG"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/0oHUP66PMEiy7itEGM0EpY"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Flora Matos Vs. Stereodubs",
+        "url": "https://open.spotify.com/album/6HNoNczfw0EsT7W5UgRzZ7"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        },
+        {
+          "name": "Stereodubs",
+          "url": "https://open.spotify.com/artist/2vJjpaSuL4ilaptalg3KqO"
+        }
+      ],
+      "duration_ms": 201226,
+      "name": "Esperar o Sol",
+      "url": "https://open.spotify.com/track/7sJ0VFD8RTibWzn8oBUhzW"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1155,42 +1155,6 @@
     {
       "added_at": "2024-02-23 18:00:29",
       "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 224272,
-      "name": "Bora Dan\u00e7ar",
-      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
-        "name": "Kyoto",
-        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Alaska",
-          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
-        }
-      ],
-      "duration_ms": 186709,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
-    },
-    {
-      "added_at": "2024-02-23 18:00:29",
-      "album": {
         "name": "Malvad\u00e3o",
         "url": "https://open.spotify.com/album/2bRHA2sbwWGnRXuSEYc6Zq"
       },
@@ -1211,6 +1175,26 @@
       "duration_ms": 149956,
       "name": "Malvad\u00e3o",
       "url": "https://open.spotify.com/track/6U3PUhdhUHMM8lBqmIg2Ro"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Kyoto",
+        "url": "https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Alaska",
+          "url": "https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7"
+        }
+      ],
+      "duration_ms": 186709,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn"
     },
     {
       "added_at": "2024-02-23 18:00:29",
@@ -1283,6 +1267,22 @@
       "duration_ms": 184697,
       "name": "Rela\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0LkUf43tCGdwUVBuAssdVD"
+    },
+    {
+      "added_at": "2024-02-23 18:00:29",
+      "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 224272,
+      "name": "Bora Dan\u00e7ar",
+      "url": "https://open.spotify.com/track/00XfUDUYQJ2hgG0vKpdwa6"
     },
     {
       "added_at": "2024-02-23 18:00:29",

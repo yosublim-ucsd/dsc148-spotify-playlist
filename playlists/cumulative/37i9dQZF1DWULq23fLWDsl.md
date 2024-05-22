@@ -4,7 +4,7 @@
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-185 songs - 12 hr 43 min
+186 songs - 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Something Good Can Work](https://open.spotify.com/track/5yDX0yhtLyf0zEXEqXqyAa) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH) | 2:44 | 2021-10-05 | 2022-11-02 |
 | [Something Good Can Work](https://open.spotify.com/track/2Sk6M1FAJq0ftXRnNJxAXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Kitsuné Maison Compilation 7](https://open.spotify.com/album/0IoQT8SLSAIYS3kBPF4rBg) | 2:45 | 2021-10-05 | 2022-11-13 |
 | [Sorrow](https://open.spotify.com/track/30YMGz5pjtRaIjtQcpjn01) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 3:25 | 2021-10-05 | 2024-04-19 |
+| [Sorrow](https://open.spotify.com/track/7cHcIOBRdq5M2ZYqpupOV0) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 3:25 | 2024-03-18 |  |
 | [Spanish Sahara](https://open.spotify.com/track/3SJWVMRwk5z4Uaff7kGs0d) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Total Life Forever](https://open.spotify.com/album/670h50t8E3LwP2bGqxGi6E) | 6:49 | 2021-10-05 |  |
 | [Sprawl II \(Mountains Beyond Mountains\)](https://open.spotify.com/track/0U0p8weaMIbIFMJ0CPlvHV) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:25 | 2021-10-05 |  |
 | [Stay](https://open.spotify.com/track/2WmDlNSXpyYgMK0ws7ZWDa) | [Hurts](https://open.spotify.com/artist/3w4VAlllkAWI6m0AV0Gn6a) | [Happiness \- Deluxe Edition](https://open.spotify.com/album/5cZgn1Bqk3msMykasZtZod) | 3:55 | 2021-10-05 | 2024-03-19 |
@@ -163,7 +164,7 @@
 | [Sweetest Kill](https://open.spotify.com/track/488u1IbVEsaC7fxjABWjHx) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Forgiveness Rock Record](https://open.spotify.com/album/5hzEg6FhiOIXHufj0EithW) | 5:09 | 2021-10-05 | 2024-04-19 |
 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 | 2021-10-05 | 2024-04-19 |
 | [Take Care](https://open.spotify.com/track/2aydv0bsXbIZg3Sk2S6u86) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/7ejB3MHdDNcY3GzRsQRAHs) | 5:48 | 2024-03-18 |  |
-| [Terrible Love](https://open.spotify.com/track/1bAuiVz7j2Qa78fssoVjKq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:39 | 2024-03-18 |  |
+| [Terrible Love](https://open.spotify.com/track/1bAuiVz7j2Qa78fssoVjKq) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/59gXPxZ8CwFaeknPxtxXHZ) | 4:39 | 2024-03-18 | 2024-05-22 |
 | [Terrible Love](https://open.spotify.com/track/6gIgCC8fMTYW7D3cdrMlIs) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet \(Expanded Edition\)](https://open.spotify.com/album/0ZHwBlV4OAweXWwbUemkmT) | 4:39 | 2021-10-05 | 2022-11-13 |
 | [Terrible Love](https://open.spotify.com/track/6pUAg3OgdO2kQ4lub9Tb5m) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [High Violet](https://open.spotify.com/album/3mX8oKajxXEBNNATCKLLPd) | 4:39 | 2021-10-05 | 2024-03-26 |
 | [The Dreamer](https://open.spotify.com/track/5FcLey1TteEHktzvMcTk7S) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Sometimes The Blues Is Just A Passing Bird](https://open.spotify.com/album/5lCQtNmeRx4cI4UDwdv6Rn) | 4:05 | 2021-10-05 | 2024-04-19 |

@@ -1,12 +1,12 @@
 {
   "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
-  "num_followers": 34278,
+  "num_followers": 34380,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADbmO5qM1UpeQZWWVR57bKf",
+  "snapshot_id": "ZkqSgAAAAADsPHu6inrjcMumvYENWSK1",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 300733,
-      "name": "Mercy Said No",
-      "url": "https://open.spotify.com/track/3wOHgqLMIqHierF0D8VoMl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awaken: The Surrounded Experience",
         "url": "https://open.spotify.com/album/7ABTyGBo7jkcRjLwA03Kqa"
       },
@@ -147,22 +131,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "Never Lost",
-      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gaither Homecoming Classics Vol.1",
         "url": "https://open.spotify.com/album/3xjEEUAUUrcGADtLnfrQwT"
       },
@@ -175,6 +143,22 @@
       "duration_ms": 118533,
       "name": "The Blood Will Never Lose Its Power - Live",
       "url": "https://open.spotify.com/track/698O3Z86WEausqCHlq5rMA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 250733,
+      "name": "Never Lost",
+      "url": "https://open.spotify.com/track/31I8gxix4Go4Mui0WsWuku"
     },
     {
       "added_at": null,
@@ -279,6 +263,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 329573,
+      "name": "I Surrender All",
+      "url": "https://open.spotify.com/track/61PM6e4ZKNyk0cliMB2oNv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -291,6 +291,58 @@
       "duration_ms": 282426,
       "name": "Comforter",
       "url": "https://open.spotify.com/track/53hUq7zmNbLvodvkRnnnaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Throne Room (Gold Edition)",
+        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 300973,
+      "name": "Thirst For You",
+      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 79812,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/4rBFZdjLJvBzGawP7XH52S"
     },
     {
       "added_at": null,
@@ -320,25 +372,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 300973,
-      "name": "Thirst For You",
-      "url": "https://open.spotify.com/track/616Gk8gc7edgxJOLRUZaSg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 83561,
-      "name": "Oh The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+      "duration_ms": 69200,
+      "name": "Hallelujah To The King - Intro",
+      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
     },
     {
       "added_at": null,
@@ -359,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 83561,
+      "name": "Oh The Blood Of Jesus",
+      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alabaster Box",
         "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
@@ -375,38 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Throne Room (Gold Edition)",
-        "url": "https://open.spotify.com/album/5ErmGtv1jPppmj2GoESfVz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 69200,
-      "name": "Hallelujah To The King - Intro",
-      "url": "https://open.spotify.com/track/76NJYRHzTRjBqkS87nBCQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 79812,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/4rBFZdjLJvBzGawP7XH52S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
       },
@@ -419,22 +439,6 @@
       "duration_ms": 212053,
       "name": "Just To Be Close To You - Live",
       "url": "https://open.spotify.com/track/19n835mWp3BVGtHWBjhY4B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -471,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waiting To Exhale",
-        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
       "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 266786,
-      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
-      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -507,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+        "name": "Waiting To Exhale",
+        "url": "https://open.spotify.com/album/2EHFZkzTbRFDt1tomCBToM"
       },
       "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
         {
           "name": "CeCe Winans",
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 264893,
-      "name": "King Of Kings (He's A Wonder)",
-      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
+      "duration_ms": 266786,
+      "name": "Count On Me - from \"Waiting to Exhale\" - Original Soundtrack",
+      "url": "https://open.spotify.com/track/7mVV7fepIMUAE4FDyihupV"
     },
     {
       "added_at": null,
@@ -543,8 +547,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
       },
       "artists": [
         {
@@ -552,9 +556,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 327215,
-      "name": "How Great Is Our God/How Great Thou Art - Medley",
-      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+      "duration_ms": 264893,
+      "name": "King Of Kings (He's A Wonder)",
+      "url": "https://open.spotify.com/track/6xyx0WMEvDrSbpH5i3Oil6"
     },
     {
       "added_at": null,
@@ -583,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 327215,
+      "name": "How Great Is Our God/How Great Thou Art - Medley",
+      "url": "https://open.spotify.com/track/4giHNYioIQoM2zGvDaAZ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe For It",
         "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
       },
@@ -595,22 +615,6 @@
       "duration_ms": 378173,
       "name": "Shepherd - Live",
       "url": "https://open.spotify.com/track/6rhMaJOXHqmVZn1gsQ0dNA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 260200,
-      "name": "No One",
-      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
     },
     {
       "added_at": null,
@@ -631,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CeCe Winans",
+        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 260200,
+      "name": "No One",
+      "url": "https://open.spotify.com/track/2bpk4L2kxnIJRY8dPfkpZ3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
       },
@@ -643,22 +663,6 @@
       "duration_ms": 321176,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2MnmmBeU0o1Xq56x4SuCJc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs Of Emotional Healing",
-        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "He's Concerned",
-      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
     },
     {
       "added_at": null,
@@ -679,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CeCe Winans Presents Pure Worship",
-        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
       },
       "artists": [
         {
@@ -688,9 +692,9 @@
           "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
         }
       ],
-      "duration_ms": 111920,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp"
+      "duration_ms": 206213,
+      "name": "He's Concerned",
+      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
     },
     {
       "added_at": null,
@@ -707,6 +711,22 @@
       "duration_ms": 271453,
       "name": "Bless His Holy Name",
       "url": "https://open.spotify.com/track/4DVfAjlA3pAHPjv0DLVk2J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CeCe Winans Presents Pure Worship",
+        "url": "https://open.spotify.com/album/30KEIO6pQIvgHF3bpvhj6f"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 111920,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/1IISFIfZSTgB9bz5OQedyp"
     },
     {
       "added_at": null,
@@ -831,22 +851,6 @@
       "duration_ms": 196038,
       "name": "What Are We Waiting For?",
       "url": "https://open.spotify.com/track/0Yf8qEi74w9JnGGSrPRXEX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CeCe Winans",
-        "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "More Than What I Wanted",
-      "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
     }
   ],
   "unique_name": "This Is CeCe Winans",

@@ -4,7 +4,7 @@
 
 > a fresh & mellow mix from some of today's best singer\-songwriters\. Cover: Bre Kennedy
 
-163 songs - 9 hr 31 min
+164 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2024-02-23 |  |
 | [Funeral \(feat\. James Bay\)](https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Funeral \(feat\. James Bay\)](https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr) | 2:34 | 2024-02-23 |  |
 | [getting older](https://open.spotify.com/track/3e9Z0TBZPg21jOHnufb2jL) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [getting older](https://open.spotify.com/album/0c6wCWOriEOPRWKQQkjI01) | 2:46 | 2024-02-23 |  |
-| [Gold](https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Gold](https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd) | 3:31 | 2024-05-10 |  |
+| [Gold](https://open.spotify.com/track/71u5Z6SNQR4d5SEm1gr9Md) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Gold](https://open.spotify.com/album/7fxmI2X1OBF3v3rBbrcbyd) | 3:31 | 2024-05-10 | 2024-05-22 |
 | [Guiding Light](https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Joy of Nothing](https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq) | 5:52 | 2023-12-08 | 2024-02-15 |
 | [Guitar](https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Guitar](https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc) | 3:02 | 2023-12-08 |  |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2024-02-23 |  |
@@ -161,6 +161,7 @@
 | [Top to Toe](https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:36 | 2023-12-08 | 2024-04-19 |
 | [Until I Found You \- Piano Version](https://open.spotify.com/track/06vNG6CiV4k8oNA0wUUAO7) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You \(Piano Version\)](https://open.spotify.com/album/6126tYz1txFtCrM0pDbEhc) | 3:04 | 2023-12-08 |  |
 | [Waiting for this Love to Die](https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [The Things We Talk About](https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb) | 3:37 | 2024-02-23 | 2024-05-04 |
+| [What We Were](https://open.spotify.com/track/4EFZbEMTPAWwVciTXbdebT) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Gray Area](https://open.spotify.com/album/0yUU4B4liDHy0leF4GKgiw) | 2:23 | 2024-05-10 |  |
 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 | 2023-12-08 |  |
 | [Wienerschnitzel](https://open.spotify.com/track/6lVrA85eMUpoQfPp9indBC) | [slimdan](https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu) | [Wienerschnitzel](https://open.spotify.com/album/7FZN0h766incX3y7P8T8qi) | 2:56 | 2024-04-26 |  |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2023-12-08 |  |

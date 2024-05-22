@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,528 likes - 259 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 273,963 likes - 259 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 19 | [If U Like Me \- Edit](https://open.spotify.com/track/0XGSeTAcfOJa3WfVPAzX8H) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [If U Like Me](https://open.spotify.com/album/11Y3XFv7iAvRHTzOfQodBm) | 2:32 |
 | 20 | [OFF THE HOOK \- NYC EDIT](https://open.spotify.com/track/5YB1bwuhCoQMURJ6lZgtQy) | [GOLFOS](https://open.spotify.com/artist/5MfCvmoakBhPyPpI7vPqwW) | [OFF THE HOOK](https://open.spotify.com/album/5KMBXKUBg77WZiAfoMP2cX) | 3:33 |
 | 21 | [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 |
-| 22 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
+| 22 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
 | 23 | [Stick\-Up](https://open.spotify.com/track/6AdjsFu053x5Lk8pvzltnm) | [Pimp Chic!](https://open.spotify.com/artist/3ov6ffsnAW2Q2bIo2FAOD1) | [Stick\-Up](https://open.spotify.com/album/4C7uof0bATNXGZKBmHuQnW) | 3:11 |
 | 24 | [Baddy On The Floor](https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS) | [Baddy On The Floor](https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4) | 3:42 |
 | 25 | [havet](https://open.spotify.com/track/5wJf2MmIa9zSK5VrztQA9B) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [havet](https://open.spotify.com/album/6fQ0pD1xd66tZki5Znw37L) | 3:19 |

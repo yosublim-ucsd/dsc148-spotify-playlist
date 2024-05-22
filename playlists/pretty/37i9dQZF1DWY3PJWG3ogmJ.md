@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 
 > Powerful and rhythmic  metal for maximum power during your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 652,103 likes - 120 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 652,249 likes - 120 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 18 | [To the Threshold](https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Supremacy](https://open.spotify.com/album/3EYFN0Qx0TMeJwSVgWO1ky) | 2:49 |
 | 19 | [Black Hoodie](https://open.spotify.com/track/3W6ZJSPIe43qkbLibP0ub2) | [Body Count](https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i) | [Bloodlust](https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m) | 3:29 |
 | 20 | [Here Comes The Boom](https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [Here Comes The Boom](https://open.spotify.com/album/1pIuEG8M02eyQkR6HVdd83) | 4:11 |
-| 21 | [Lhhc](https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast](https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd) | 3:09 |
-| 22 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
+| 21 | [Human Carrying Capacity](https://open.spotify.com/track/63C2F8dGaKxdhUW1oVWPlW) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:17 |
+| 22 | [Lhhc](https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC) | [Lionheart](https://open.spotify.com/artist/6dOCTX1ATvti0d4uaxwlO3) | [Welcome to the West Coast](https://open.spotify.com/album/15IZ0SjrSoX6dP9OOBu8gd) | 3:09 |
 | 23 | [Childchewer](https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [The Battle of Yaldabaoth](https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob) | 2:46 |
 | 24 | [Akudama](https://open.spotify.com/track/6WJHdM16lYFUz4mUnrULi9) | [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [Akudama](https://open.spotify.com/album/2FbtFDP3evBSzytt0VFJxS) | 2:37 |
 | 25 | [Divine Apprehension](https://open.spotify.com/track/430VZGvjBfWzjVf0vZkbb8) | [Power Trip](https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT) | [Opening Fire: 2008\-2014](https://open.spotify.com/album/0rZIGEccKBNGf2oqFKzoD5) | 4:17 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 67 | [From Silence I Rise](https://open.spotify.com/track/4WDfePGxQBEiJ3pn1BWHQo) | [Alea Jacta Est](https://open.spotify.com/artist/69vv19AEt8RvpFvXZJD4W3) | [Vae Victis](https://open.spotify.com/album/0eFmpRNEXop4AgjbHhhfgm) | 2:21 |
 | 68 | [Mayday](https://open.spotify.com/track/01yF8zxWrRNwIKbboQWXUc) | [Abbie Falls](https://open.spotify.com/artist/5nSlRGZqJVAORU3SsSD0YU) | [Mayday](https://open.spotify.com/album/1AuUskhq0HRAC61tKF8uAi) | 3:18 |
 | 69 | [Verminous](https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW) | [The Black Dahlia Murder](https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS) | [Verminous](https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd) | 3:49 |
-| 70 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
-| 71 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 70 | [Fortune Teller](https://open.spotify.com/track/5L4sQHhVxy8uMbSqVNw6qi) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm) | [Fortune Teller](https://open.spotify.com/album/1SwjeOYjBY9wbccQIMe0Cp) | 2:42 |
+| 71 | [Poverty of Self](https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Poverty of Self](https://open.spotify.com/album/27OlYLB9j1vi52lxp6nyUU) | 3:25 |
 | 72 | [One Day Closer to the End of the World](https://open.spotify.com/track/5Db1yq0HRGZFOARJVgLvlP) | [Cattle Decapitation](https://open.spotify.com/artist/67ZMMtA88DDO0gTuRrzGjn) | [One Day Closer to the End of the World](https://open.spotify.com/album/5OnPLCsMC3lTchISlmzbZm) | 3:47 |
 | 73 | [Exit Signs](https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo) | [Angelmaker](https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG) | [Eclipse](https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7) | 3:32 |
 | 74 | [Title Fight](https://open.spotify.com/track/5ElkyDeYRYEfTIXYW8DMUA) | [We Are The Flesh](https://open.spotify.com/artist/0YWWiLQWC5XGx7JMhD1P5q) | [Title Fight](https://open.spotify.com/album/5CwESEfRDJ2i8J9qOEKKEg) | 3:56 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 82 | [Firefight](https://open.spotify.com/track/1dYkWaH2SMZ3ZX0wOkVCBN) | [Full Blown Chaos](https://open.spotify.com/artist/1zABhVAXI7p40y57hnfDlV) | [Heavy Lies The Crown](https://open.spotify.com/album/4nb8gewxZnfoOmqQEwZ3qa) | 5:39 |
 | 83 | [Kickback](https://open.spotify.com/track/4i4qBfTNCD5ybes1NauU2g) | [Stray From The Path](https://open.spotify.com/artist/5tGG1slV9pkcydU5eQSIvm), [Brendan Murphy](https://open.spotify.com/artist/3ZDxRYdEJr2KgS9uyIcYym) | [Kickback](https://open.spotify.com/album/5ANP0y2xAOvpAfMkfkjOTv) | 3:27 |
 | 84 | [The Antagonist](https://open.spotify.com/track/0izw0lhKFF7KDpf1laaSrA) | [Ten Years Too Late](https://open.spotify.com/artist/4dOaYFrjF5kAX6MIGfjS7x) | [The Antagonist](https://open.spotify.com/album/7kEbXWhJSvRriW2VuhZjtk) | 3:48 |
-| 85 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
-| 86 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
+| 85 | [The Outlaw](https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6) | [Wake up Frankie](https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv), [Antti Wirman](https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA) | [The Outlaw](https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ) | 3:46 |
+| 86 | [All Hail the Void](https://open.spotify.com/track/6acVfTT8t66r4mXUzgOr4A) | [Enabler](https://open.spotify.com/artist/1WJ9VGSqU8kh2mVEe422hI) | [All Hail The Void](https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM) | 3:36 |
 | 87 | [No Brother, No Friend](https://open.spotify.com/track/3yAu8VEqJmr4LqZwDr29cV) | [Justice For The Damned](https://open.spotify.com/artist/0lXAdLcUREgif33yNEmyf8) | [No Brother, No Friend](https://open.spotify.com/album/52vFHJ4qdgSLiIZvPiMuRI) | 3:31 |
 | 88 | [New Salem](https://open.spotify.com/track/3hH0jHNUxzfPhYimw0OmF6) | [Misery Index](https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA) | [New Salem](https://open.spotify.com/album/6IjPbGlExfQKH1FYnsWCLh) | 3:23 |
 | 89 | [Rot](https://open.spotify.com/track/7osC19M6Eeo3Z9F2iQeRhi) | [Violent Life Violent Death](https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ) | [Come, Heavy Breath](https://open.spotify.com/album/1HrLzhNTNkDNzzDlo3trDi) | 2:50 |
@@ -115,8 +115,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3PJWG3ogmJ.md) - [plain]
 | 105 | [Desperate Pleasures](https://open.spotify.com/track/56qkrMwEzu4cR4UrG6GHiL) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [A Colossal Wreck // Desperate Pleasures](https://open.spotify.com/album/6TliRbh2qzFFExsCtKCVTh) | 3:11 |
 | 106 | [Hostage to the Empire](https://open.spotify.com/track/0rGYbGA2AdnCbHhB50eShj) | [Walking Dead On Broadway](https://open.spotify.com/artist/3kpSjBJ7SSuQ4rzdieCWSb) | [Hostage to the Empire](https://open.spotify.com/album/1KwrFz2iGDGIeXJN0FkWKt) | 4:16 |
 | 107 | [Death from Above](https://open.spotify.com/track/5JThFNIo27sIaFDp3iw3OV) | [Nothing Left](https://open.spotify.com/artist/0g64mavk16xqgYfQrO1YUn) | [Disconnected](https://open.spotify.com/album/5svjN8DhfvgK6O8pmIYrT1) | 3:06 |
-| 108 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 |
-| 109 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |
+| 108 | [Cosmic Maelstrom](https://open.spotify.com/track/0qUi4EcvYS5FBJXv1AGGJn) | [Cult of Lilith](https://open.spotify.com/artist/4PFwvUhk0VluHpOCa4OKHk) | [Cosmic Maelstrom](https://open.spotify.com/album/4XuK6MYuIAbKcFDs5Tuoqa) | 5:28 |
+| 109 | [Moaner](https://open.spotify.com/track/4zobz1X0Sv4NVgsbZy6jpu) | [TRC](https://open.spotify.com/artist/56FWp4djoIWzcpgm4AQ5G6) | [Lifestyle](https://open.spotify.com/album/1cEZPFrC3JHjXNOSp2BFKG) | 3:09 |
 | 110 | [Brutus](https://open.spotify.com/track/7I8vqZE2Vm4EqYIwCPhb0u) | [Benighted](https://open.spotify.com/artist/0dUwIwaPc6UukkCZTaaf7J) | [Brutus](https://open.spotify.com/album/2YSiuiH3hSM6bae2tMWREk) | 2:48 |
 | 111 | [Three Bastards](https://open.spotify.com/track/1jX4MOsnVz3lnPt5PJXWfN) | [Infant Annihilator](https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR) | [Three Bastards](https://open.spotify.com/album/4omNTdi2r9MIciuJVMSJoB) | 4:17 |
 | 112 | [Frequency](https://open.spotify.com/track/5qWgw0V8qLbpwC6f9RvLn5) | [Downswing](https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo) | [Frequency](https://open.spotify.com/album/5iLEIidKMkTwbDxcb85B1i) | 3:08 |

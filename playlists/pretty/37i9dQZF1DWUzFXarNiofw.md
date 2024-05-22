@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: NxWorries
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,035,888 likes - 175 songs - 8 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,036,002 likes - 175 songs - 8 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

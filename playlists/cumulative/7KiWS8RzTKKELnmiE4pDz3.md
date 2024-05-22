@@ -4,7 +4,7 @@
 
 > 
 
-695 songs - 1 day 9 hr 9 min
+696 songs - 1 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -543,6 +543,7 @@
 | [Serious Shit](https://open.spotify.com/track/521qLebnOvsIOtJKhQvGmi) | [Lil Ugly Mane](https://open.spotify.com/artist/2gPLG9mGaU67woC5L0luYA) | [Mista Thug Isolation](https://open.spotify.com/album/6VNXIYzXocTyZMNDLG88Gb) | 3:36 | 2024-04-23 |  |
 | [Sexual Healing](https://open.spotify.com/track/4PxqfF3aezYRkheYir1T5g) | [Grailed](https://open.spotify.com/artist/5wgXWK6qGrFD6uAFENCLXo) | [Sexual Healing](https://open.spotify.com/album/1Uo1cBKWEQdHUXoe7WYW82) | 2:33 | 2022-12-15 |  |
 | [Shade](https://open.spotify.com/track/3vpocwyn0RvKzeXo1tzSrW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2093](https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L) | 4:02 | 2024-02-21 | 2024-04-24 |
+| [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 | 2024-05-21 |  |
 | [Shane Battier](https://open.spotify.com/track/1tYFlf79p1H0eUBE3u300T) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Shane Battier](https://open.spotify.com/album/2hnS7N1TdftRB55sFR4mSz) | 1:11 | 2022-12-31 | 2023-05-09 |
 | [She’s The One](https://open.spotify.com/track/6bfJggd4HFdzHzvZLQ5EDX) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 3:08 | 2022-08-23 | 2023-12-14 |
 | [Shiest Talk \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/6FyYMbtmEgQDCgy9mYrOX8) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:03 | 2022-10-15 | 2023-12-14 |

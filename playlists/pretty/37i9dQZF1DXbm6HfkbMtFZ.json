@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 718217,
+  "num_followers": 718291,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
         "name": "Up and Away",
         "url": "https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Wildflower",
-        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
-      },
-      "artists": [
-        {
-          "name": "Octave Lissner",
-          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
-        }
-      ],
-      "duration_ms": 219967,
-      "name": "Corners",
-      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -759,6 +743,22 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
+        "name": "Wildflower",
+        "url": "https://open.spotify.com/album/6NA59O0ZbOMyiEW3wOADa0"
+      },
+      "artists": [
+        {
+          "name": "Octave Lissner",
+          "url": "https://open.spotify.com/artist/0EzrGrgoaRfFelIQgRBIt7"
+        }
+      ],
+      "duration_ms": 219967,
+      "name": "Corners",
+      "url": "https://open.spotify.com/track/7BnyaLmnTe24kFOL78nMAk"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
         "name": "Water Your Garden",
         "url": "https://open.spotify.com/album/0r0l3PRmsPwylAZQM16e7a"
       },
@@ -779,38 +779,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Pronounced McGee",
-        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
-      },
-      "artists": [
-        {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
-        }
-      ],
-      "duration_ms": 310597,
-      "name": "You",
-      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
-        "name": "Take What's Given",
-        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Take What's Given",
-      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "You're so Fine",
         "url": "https://open.spotify.com/album/22kWUpDiarfEBR01M9Oei5"
       },
@@ -823,6 +791,22 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Pronounced McGee",
+        "url": "https://open.spotify.com/album/25mNgv9kcDpET9UWcCxu16"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 310597,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -843,6 +827,22 @@
       "duration_ms": 181212,
       "name": "Dark Days [Feat. Sylvan Esso]",
       "url": "https://open.spotify.com/track/6ZMYbLF33jIECoG2MClauD"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Talk About It (B-Side)",
-        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
-      },
-      "artists": [
-        {
-          "name": "Kate Bollinger",
-          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Talk About It",
-      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 227293,
       "name": "Soulless Friends",
       "url": "https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Talk About It (B-Side)",
+        "url": "https://open.spotify.com/album/2aO9qd1SvonSVLLvT3zGUr"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Talk About It",
+      "url": "https://open.spotify.com/track/5CH0x6oAAVDV1agN0Wdfhw"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "The Emitt Rhodes Recordings (1969-1973)",
-        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
-      },
-      "artists": [
-        {
-          "name": "Emitt Rhodes",
-          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
-        }
-      ],
-      "duration_ms": 146680,
-      "name": "Somebody Made For Me",
-      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Try and Love",
         "url": "https://open.spotify.com/album/27xu9zZKCUm7mCoZlMkQpC"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 263338,
       "name": "It's Not Easy",
       "url": "https://open.spotify.com/track/1AJpZtYHY7MD21Tkcg9wlE"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "The Emitt Rhodes Recordings (1969-1973)",
+        "url": "https://open.spotify.com/album/6r4mUQIagaCmJjrOBW3SIB"
+      },
+      "artists": [
+        {
+          "name": "Emitt Rhodes",
+          "url": "https://open.spotify.com/artist/1yap1SgRPMxgyfrrDlQ95y"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "Somebody Made For Me",
+      "url": "https://open.spotify.com/track/2hq50hCUUknhUXZ9uL3wgq"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "honey thighs",
-        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
+        "name": "Telling The Truth",
+        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
       },
       "artists": [
         {
-          "name": "strongboi",
-          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
+          "name": "Willie Wright",
+          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
         }
       ],
-      "duration_ms": 284441,
-      "name": "honey thighs",
-      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
+      "duration_ms": 222213,
+      "name": "Nantucket Island",
+      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Telling The Truth",
-        "url": "https://open.spotify.com/album/7JAl7nvl1tO0xrIZxX8q0w"
+        "name": "honey thighs",
+        "url": "https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC"
       },
       "artists": [
         {
-          "name": "Willie Wright",
-          "url": "https://open.spotify.com/artist/3dH7ZRgXMUUsJrhHeDPftx"
+          "name": "strongboi",
+          "url": "https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i"
         }
       ],
-      "duration_ms": 222213,
-      "name": "Nantucket Island",
-      "url": "https://open.spotify.com/track/5Cl0T1nwxwxyMnrAXz9uQB"
+      "duration_ms": 284441,
+      "name": "honey thighs",
+      "url": "https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1403,6 +1403,22 @@
       "duration_ms": 326613,
       "name": "Lazy Nina",
       "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "added_at": "2024-05-20 19:12:41",
+      "album": {
+        "name": "People Never Change",
+        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
+      },
+      "artists": [
+        {
+          "name": "Peter Cat Recording Co.",
+          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "People Never Change - Radio Edit",
+      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1423,22 +1439,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 216106,
-      "name": "Malibu Man",
-      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Rock Your Baby",
         "url": "https://open.spotify.com/album/6wE37m8authSsjmKMB8jvM"
       },
@@ -1451,6 +1451,22 @@
       "duration_ms": 174000,
       "name": "You Can Have It All",
       "url": "https://open.spotify.com/track/1umKrwGtLeRLd9InuebzP0"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 216106,
+      "name": "Malibu Man",
+      "url": "https://open.spotify.com/track/5fp7TUlIjOMdhNMkJJIvgx"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1501,22 +1517,6 @@
       "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
     },
     {
-      "added_at": "2024-05-20 19:12:41",
-      "album": {
-        "name": "People Never Change",
-        "url": "https://open.spotify.com/album/44fRKtfgTRHDYyUnC0N4LR"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat Recording Co.",
-          "url": "https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "People Never Change - Radio Edit",
-      "url": "https://open.spotify.com/track/0BEU8reIpQUKYtFg6O7fU9"
-    },
-    {
       "added_at": "2024-05-20 19:09:38",
       "album": {
         "name": "Sun & Moon",
@@ -1531,6 +1531,22 @@
       "duration_ms": 165712,
       "name": "Sun & Moon",
       "url": "https://open.spotify.com/track/1SPvWrXkkhtpgVhIztyYZA"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "I Want To See The Bright Lights Tonight",
+        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
+      },
+      "artists": [
+        {
+          "name": "Richard & Linda Thompson",
+          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
+        }
+      ],
+      "duration_ms": 189586,
+      "name": "I Want To See The Bright Lights Tonight",
+      "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1563,22 +1579,6 @@
       "duration_ms": 209280,
       "name": "Dos Uvas",
       "url": "https://open.spotify.com/track/5ZVhOPIz5xEb52pRnZBitG"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
-        "name": "I Want To See The Bright Lights Tonight",
-        "url": "https://open.spotify.com/album/1K1Qdd60pW48wEgWGQLeRt"
-      },
-      "artists": [
-        {
-          "name": "Richard & Linda Thompson",
-          "url": "https://open.spotify.com/artist/4hw4TPMyAzHqNBcWtoDrK5"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "I Want To See The Bright Lights Tonight",
-      "url": "https://open.spotify.com/track/3jd3nPQtwKS3HY6A8XpXx5"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Wake Up",
-        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
-      },
-      "artists": [
-        {
-          "name": "Kowloon",
-          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
-        }
-      ],
-      "duration_ms": 239311,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7iRIgmwpX7Qv1QUiCQj7pV"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 191039,
       "name": "I Just Want To Talk To You",
       "url": "https://open.spotify.com/track/0amEuqSuEc6YSUSQjhs5Wr"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Wake Up",
+        "url": "https://open.spotify.com/album/6HpB2a7hn3T1gKcxIVWN8L"
+      },
+      "artists": [
+        {
+          "name": "Kowloon",
+          "url": "https://open.spotify.com/artist/4VQqGf7U3RUspgTsprypWE"
+        }
+      ],
+      "duration_ms": 239311,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/3FKJaFrmNNDuYeUSY8HhmF"
     },
     {
       "added_at": "2024-05-20 19:09:38",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2024-05-20 19:09:38",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        },
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 188367,
-      "name": "All The Time (feat. Muroki)",
-      "url": "https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x"
-    },
-    {
-      "added_at": "2024-05-20 19:09:38",
-      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
+    },
+    {
+      "added_at": "2024-05-20 19:09:38",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 188367,
+      "name": "All The Time (feat. Muroki)",
+      "url": "https://open.spotify.com/track/3ssQwT97KP7BTUtWoQTm4x"
     },
     {
       "added_at": "2024-05-20 19:09:38",

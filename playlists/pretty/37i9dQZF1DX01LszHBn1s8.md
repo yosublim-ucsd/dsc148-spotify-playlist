@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > europapa 🇪🇺
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,230 likes - 942 songs - 2 day 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,210 likes - 942 songs - 2 day 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

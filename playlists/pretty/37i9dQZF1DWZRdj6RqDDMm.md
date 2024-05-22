@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta?si=3x3BAh3kQXyTOSk5xEU93A>Noël Mio</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,729 likes - 113 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,775 likes - 113 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 112 | [Sanity](https://open.spotify.com/track/1hRxHkgUvC9ir8gMlob3u5) | [Lilmizzy](https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy), [Gospel hints](https://open.spotify.com/artist/2MrSx4lzfedSt9CycfCvvc) | [Sanity](https://open.spotify.com/album/5kM7OkUeReOpkKMxhDKbYv) | 2:09 |
 | 113 | [Love](https://open.spotify.com/track/53YsxPfny6Z3fiTBqvzlxQ) | [Giliane](https://open.spotify.com/artist/0AIbV1McNkyTqs0Zt0QI7t), [Naem](https://open.spotify.com/artist/2OCzKgKZzN30diUNr3IvWO), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be) | [Love](https://open.spotify.com/album/1ymA7wzWukJVMFC0sUnX5f) | 2:16 |
 
-Snapshot ID: `ZkaePAAAAAB5Ws8UkMxU7hIcBeAnv8wJ`
+Snapshot ID: `Zk01vAAAAADay+krhtD+MR/YbMAGkGXH`

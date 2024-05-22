@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,932 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,977 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,14 +42,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 32 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
 | 33 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 |
 | 34 | [Renascer](https://open.spotify.com/track/0Yv9Ae9BYG8L6Ghniot1xm) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Renascer](https://open.spotify.com/album/11z5mItIsIAJNC7LnCMk45) | 4:54 |
-| 35 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
-| 36 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 35 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 36 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 37 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
 | 38 | [Noite Sem Fim](https://open.spotify.com/track/6hiFqmAtkWXIDuqDUfm8yI) | [Mixdgroove](https://open.spotify.com/artist/7C9uzbHPDku3N6vZUokNNL) | [Noite Sem Fim](https://open.spotify.com/album/3xOBahgMHPmoopICoD5mzr) | 3:51 |
 | 39 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
-| 40 | [Ultimo Fim \(Short\)](https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [L0V3 Tvp3](https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN) | 2:09 |
-| 41 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 |
-| 42 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
+| 40 | [Tempo Pra Pensar](https://open.spotify.com/track/0KfUCubX9qFf58eHJOy5o7) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Rosas & Violetas faço um buquê\. Eu quero queimar um \*\*\*\*\*\*\* com você.](https://open.spotify.com/album/0k2BGd2ImMmPcGFLIa5bOg) | 3:00 |
+| 41 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
+| 42 | [Ultimo Fim \(Short\)](https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [L0V3 Tvp3](https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN) | 2:09 |
 | 43 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
 | 44 | [Vapor](https://open.spotify.com/track/3KIOpE72nztAKIeIMgpccc) | [Will Bone](https://open.spotify.com/artist/1JWOHNiAEKiQrqNBqCdmga), [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Vapor](https://open.spotify.com/album/5T3eWmdly9rieFxAy2ngho) | 3:50 |
 | 45 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 |

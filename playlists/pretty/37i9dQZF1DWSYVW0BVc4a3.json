@@ -1,6 +1,6 @@
 {
   "description": "that's how we do it",
-  "num_followers": 137150,
+  "num_followers": 137237,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
@@ -254,6 +254,10 @@
         {
           "name": "Sosa UK",
           "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "DJ Rush",
+          "url": "https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5"
         }
       ],
       "duration_ms": 180000,

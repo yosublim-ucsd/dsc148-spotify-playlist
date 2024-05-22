@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Billie Eilish.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,432 likes - 113 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,441 likes - 113 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

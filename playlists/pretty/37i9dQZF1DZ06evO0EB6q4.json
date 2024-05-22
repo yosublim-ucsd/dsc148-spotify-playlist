@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 212940,
+  "num_followers": 213066,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAC/H/31hmTgIs6prr3Dluu0",
+  "snapshot_id": "ZkqSgAAAAADRiPzDW49QhOmQ1cN1/1r9",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Para los Dolidos",
+        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 156403,
+      "name": "Para los Dolidos",
+      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LQRA Session #7",
         "url": "https://open.spotify.com/album/17vGxG6mILdNoMLOpiIJCW"
       },
@@ -599,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para los Dolidos",
-        "url": "https://open.spotify.com/album/5shMbjREiwRHZSHSCHkIKm"
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
       },
       "artists": [
         {
@@ -608,13 +628,13 @@
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         },
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
         }
       ],
-      "duration_ms": 156403,
-      "name": "Para los Dolidos",
-      "url": "https://open.spotify.com/track/560WpN34irYyIL5jtfQpCY"
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": null,
@@ -639,26 +659,6 @@
       "duration_ms": 219200,
       "name": "Desde el Fondo",
       "url": "https://open.spotify.com/track/6EmMnV672C5ZCgi39Otuhm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/3x7JpBJgdqWUEDM0M3Tuv5"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/4ejRdkyeBOCiiBwXRZPywX"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00e1s que reales",
-        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
-      },
-      "artists": [
-        {
-          "name": "Kei Linch",
-          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 204146,
-      "name": "M\u00e1s que reales",
-      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Bolero",
         "url": "https://open.spotify.com/album/2yEGgrU4SbngjLlJFhF3CB"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 279014,
       "name": "Hace Tanto Tiempo",
       "url": "https://open.spotify.com/track/4gOkQHYJ1ImPzNQJORg1nD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00e1s que reales",
+        "url": "https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ"
+      },
+      "artists": [
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 204146,
+      "name": "M\u00e1s que reales",
+      "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
     },
     {
       "added_at": null,

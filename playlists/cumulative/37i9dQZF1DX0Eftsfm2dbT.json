@@ -303,6 +303,36 @@
     },
     {
       "album": {
+        "name": "New Vintage",
+        "url": "https://open.spotify.com/album/4c59zUaORT4VV062BXPT8o"
+      },
+      "artists": [
+        {
+          "name": "TOFU",
+          "url": "https://open.spotify.com/artist/2eCKRzPa2s6XLmdGZhBlnZ"
+        },
+        {
+          "name": "MIKADO",
+          "url": "https://open.spotify.com/artist/2snBLq7pgphB4ObS2otWiM"
+        },
+        {
+          "name": "7",
+          "url": "https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "22",
+      "url": "https://open.spotify.com/track/7JP6VzbPQnaRdqtWD4Hsjk"
+    },
+    {
+      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/5jb4TUEPKohbSuP8mgopYy"
       },
@@ -1264,7 +1294,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 145846,
       "name": "aye aye aye",
       "url": "https://open.spotify.com/track/2RzPZJ71gGaEAn7SZIym1x"
@@ -1364,7 +1394,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 175846,
       "name": "Back In The Dayz",
       "url": "https://open.spotify.com/track/6d05CSLpxIHyknwNheIjdc"
@@ -1748,7 +1778,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 148282,
       "name": "BEEF",
       "url": "https://open.spotify.com/track/1PeEjROgoRyU9r5NWgiDk3"
@@ -3762,7 +3792,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 250980,
       "name": "Don\u2019t Look Down",
       "url": "https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN"
@@ -6492,7 +6522,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 200200,
       "name": "I Don\u2019t Know Yet - SBFP ver. - Mixed",
       "url": "https://open.spotify.com/track/4uwiTJFWyu7dKTpThidRuZ"
@@ -6510,7 +6540,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 166309,
       "name": "I'ma beliver",
       "url": "https://open.spotify.com/track/5EykQQCDxQMsAkvZRYgmue"
@@ -6672,7 +6702,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 84400,
       "name": "IMOTO AYAKO",
       "url": "https://open.spotify.com/track/5Y2ku4mwqkyaqMjRS50z8l"
@@ -8367,6 +8397,32 @@
     },
     {
       "album": {
+        "name": "Masta Key",
+        "url": "https://open.spotify.com/album/2iYdpH1Nua1Ovj72Wj6lbK"
+      },
+      "artists": [
+        {
+          "name": "ISSUGI",
+          "url": "https://open.spotify.com/artist/37hLlbtNh8yXKbVHK13gsp"
+        },
+        {
+          "name": "16FLIP",
+          "url": "https://open.spotify.com/artist/5FDuoCFktB6LXQ73XCPFvT"
+        },
+        {
+          "name": "DJ GQ",
+          "url": "https://open.spotify.com/artist/5rlW5h3q9dTaNgRAk64RgZ"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92000,
+      "name": "Masta Key",
+      "url": "https://open.spotify.com/track/3skwBpkvnf2WxeLxEffK7e"
+    },
+    {
+      "album": {
         "name": "Master Piece",
         "url": "https://open.spotify.com/album/4AJJcvPWdfEfHtUxGCTVva"
       },
@@ -8496,7 +8552,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 107916,
       "name": "Mercedes",
       "url": "https://open.spotify.com/track/6QbkxleLB8BunQkNDdMi5w"
@@ -12593,6 +12649,28 @@
     },
     {
       "album": {
+        "name": "Capture Land",
+        "url": "https://open.spotify.com/album/04FGsURTFus22yMBTk8TRa"
+      },
+      "artists": [
+        {
+          "name": "Hiyadam",
+          "url": "https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e"
+        },
+        {
+          "name": "Elle Teresa",
+          "url": "https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "Small World",
+      "url": "https://open.spotify.com/track/65SnZLzFEzP0wUsdaJnHlj"
+    },
+    {
+      "album": {
         "name": "SMASH HIT",
         "url": "https://open.spotify.com/album/0xZrGQ0EV9kK8s2e9Rurmw"
       },
@@ -13642,7 +13720,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 325877,
       "name": "tongue",
       "url": "https://open.spotify.com/track/49oJ4kxZLNPOFn34N8pmUb"
@@ -13812,6 +13890,28 @@
       "duration_ms": 247472,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/78i2d6aQU7ybQb09keIB88"
+    },
+    {
+      "album": {
+        "name": "Debugging",
+        "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171346,
+      "name": "Track Suit (Feat. Tade Dust)",
+      "url": "https://open.spotify.com/track/4xKgqKp5f2MPk8zmUQkrex"
     },
     {
       "album": {
@@ -15198,7 +15298,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 202886,
       "name": "Yoi yoi",
       "url": "https://open.spotify.com/track/2EmvnrbpmIsHXfF0z190WG"
@@ -16030,7 +16130,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 230820,
       "name": "\u4e88\u611f",
       "url": "https://open.spotify.com/track/1fcmYhYNuXaTmeWCNkjqsX"
@@ -16457,6 +16557,64 @@
     },
     {
       "album": {
+        "name": "\u71c8",
+        "url": "https://open.spotify.com/album/77N2zOO5vdtHDlMgF0lfFW"
+      },
+      "artists": [
+        {
+          "name": "9tree",
+          "url": "https://open.spotify.com/artist/6holnCsisEBQdAF8QKDS2D"
+        },
+        {
+          "name": "ZIW",
+          "url": "https://open.spotify.com/artist/7ijz6PFdK9juJmaKs75KHa"
+        },
+        {
+          "name": "KIKUMARU",
+          "url": "https://open.spotify.com/artist/76iBBRevLm9bGNAo9bBnIK"
+        },
+        {
+          "name": "Calli Stephus",
+          "url": "https://open.spotify.com/artist/0wd74OAjVp5E6r5Cr2p54y"
+        },
+        {
+          "name": "K'z Tyler",
+          "url": "https://open.spotify.com/artist/5aeBM6vmY0ogcLsSUfEjlB"
+        },
+        {
+          "name": "11",
+          "url": "https://open.spotify.com/artist/0atZo9MNJVoddGwG9u0KNr"
+        },
+        {
+          "name": "bill marcos",
+          "url": "https://open.spotify.com/artist/0UIlpSik6OdXwAIfKuyr4f"
+        },
+        {
+          "name": "NAGAN SERVER",
+          "url": "https://open.spotify.com/artist/0pY8tTGXwN1CvSlIcmNHKx"
+        },
+        {
+          "name": "Vue du monde",
+          "url": "https://open.spotify.com/artist/5kh6tkQ9S7NYBYmpeVhKBV"
+        },
+        {
+          "name": "DAI",
+          "url": "https://open.spotify.com/artist/5wOXiOq2BTVTZypg7kr5fP"
+        },
+        {
+          "name": "Kethug",
+          "url": "https://open.spotify.com/artist/68cAP4Go5kmvViP9SHhlaJ"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303529,
+      "name": "\u71c8",
+      "url": "https://open.spotify.com/track/7k0dtmXXLblLAzuWX19dUT"
+    },
+    {
+      "album": {
         "name": "\u7206\u8a95",
         "url": "https://open.spotify.com/album/2bzpchkHk5Zc3IWeKie11t"
       },
@@ -16702,7 +16860,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 195375,
       "name": "\u8ab0\u306eVenus??",
       "url": "https://open.spotify.com/track/6Mf5PHOLZdRxWYcrMf7UFv"

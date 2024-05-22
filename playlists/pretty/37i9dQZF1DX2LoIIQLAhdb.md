@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Leila AD
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,958 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,983 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 15 | [LUVA](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 |
 | 16 | [Bottega](https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Bottega](https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv) | 2:58 |
 | 17 | [Comme avant](https://open.spotify.com/track/47nJBT9KJwJjBbFR7un0e1) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 2:42 |
-| 18 | [Lollipop](https://open.spotify.com/track/2fH3bgJzaHjbqlEFCC5ti4) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Miroir, pt\. I](https://open.spotify.com/album/1tHeVzmHtMVovtLrWmpUIn) | 2:10 |
+| 18 | [Lollipop](https://open.spotify.com/track/2fH3bgJzaHjbqlEFCC5ti4) | [Curtis Kane](https://open.spotify.com/artist/7LGeqJcTk3qJ23m7ROwIw6), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Miroir, part\. I](https://open.spotify.com/album/1tHeVzmHtMVovtLrWmpUIn) | 2:10 |
 | 19 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
 | 20 | [Pardonne\-moi](https://open.spotify.com/track/4JOdBq2YxMlPhUdlVOzzd7) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:06 |
 | 21 | [Yoga](https://open.spotify.com/track/0Aq0eNmYx73fNgD9QIVzGJ) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Yoga](https://open.spotify.com/album/6omQIxCXmNM3GCq6ZWUu5B) | 3:01 |

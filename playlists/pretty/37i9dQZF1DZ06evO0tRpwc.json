@@ -1,12 +1,12 @@
 {
   "description": "This is Daniela Ara\u00fajo. The essential tracks, all in one playlist.",
-  "num_followers": 37979,
+  "num_followers": 37982,
   "original_name": "This Is Daniela Ara\u00fajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAD0yCFZeLJRTG5ym9vmWacz",
+  "snapshot_id": "ZkqSgAAAAABxinuw0NA/uBmF36QR9W5m",
   "tracks": [
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado A",
-        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 280521,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/4qqAlVI0hP6ChNG47MTzpl"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 216533,
       "name": "Assim Eu Sou (feat. Daniela Ara\u00fajo)",
       "url": "https://open.spotify.com/track/05mwu7pLihvrLbqnJ7UkHf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catarse: Lado A",
+        "url": "https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 280521,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica Favorita (\u00c1gua)",
-        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
+        "name": "Catarse: Lado B",
+        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
       },
       "artists": [
         {
@@ -726,15 +726,11 @@
         {
           "name": "Andr\u00e9 Nine",
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        },
-        {
-          "name": "Jorginho Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 253636,
-      "name": "M\u00fasica Favorita \u267e",
-      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+      "duration_ms": 202875,
+      "name": "Sintonia",
+      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
     },
     {
       "added_at": null,
@@ -764,15 +760,15 @@
           "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         }
       ],
-      "duration_ms": 235733,
-      "name": "Verdade",
-      "url": "https://open.spotify.com/track/52gwchgkLip9BrstkfDOGE"
+      "duration_ms": 226293,
+      "name": "Jesus",
+      "url": "https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Catarse: Lado B",
-        "url": "https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt"
+        "name": "M\u00fasica Favorita (\u00c1gua)",
+        "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
       "artists": [
         {
@@ -782,11 +778,15 @@
         {
           "name": "Andr\u00e9 Nine",
           "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        },
+        {
+          "name": "Jorginho Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs"
         }
       ],
-      "duration_ms": 202875,
-      "name": "Sintonia",
-      "url": "https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu"
+      "duration_ms": 253636,
+      "name": "M\u00fasica Favorita \u267e",
+      "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
     },
     {
       "added_at": null,
@@ -843,26 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 209546,
-      "name": "Seja o Centro",
-      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 180188,
       "name": "Lento",
       "url": "https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 209546,
+      "name": "Seja o Centro",
+      "url": "https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Doze",
-        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        }
-      ],
-      "duration_ms": 242683,
-      "name": "Junho",
-      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Daniela Ara\u00fajo: Sessions",
         "url": "https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 318002,
       "name": "Sala",
       "url": "https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb"
+      },
+      "artists": [
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
+        }
+      ],
+      "duration_ms": 242683,
+      "name": "Junho",
+      "url": "https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A"
     },
     {
       "added_at": null,

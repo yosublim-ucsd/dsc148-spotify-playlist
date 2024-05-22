@@ -1,12 +1,12 @@
 {
-  "description": "This is Neto Pe\u00f1a. The essential tracks, all in one playlist.",
-  "num_followers": 49273,
+  "description": "This Is Neto Pe\u00f1a. Los temas esenciales, todos en una lista.",
+  "num_followers": 49294,
   "original_name": "This Is Neto Pe\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAnzzW/Bb+EUJGXilxpkkcI",
+  "snapshot_id": "ZkqSgAAAAAAcui0BHVLEpf7SFYLajwnJ",
   "tracks": [
     {
       "added_at": null,
@@ -587,22 +587,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Ti Estoy Loco",
-        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
+        "name": "Pura Borrachera",
+        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
       },
       "artists": [
         {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        },
-        {
           "name": "Neto Pe\u00f1a",
           "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         }
       ],
-      "duration_ms": 222843,
-      "name": "Por Ti Estoy Loco",
-      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
+      "duration_ms": 204000,
+      "name": "Pura Borrachera",
+      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
     },
     {
       "added_at": null,
@@ -643,22 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pura Borrachera",
-        "url": "https://open.spotify.com/album/2iZVXuF5HQwXFPNktQi3n6"
+        "name": "Por Ti Estoy Loco",
+        "url": "https://open.spotify.com/album/75Mx4x35IQXPFkq8Z9jxK8"
       },
       "artists": [
         {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         },
         {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Pura Borrachera",
-      "url": "https://open.spotify.com/track/5vUS4CKCdpX0Sn9eTEEXN6"
+      "duration_ms": 222843,
+      "name": "Por Ti Estoy Loco",
+      "url": "https://open.spotify.com/track/1j8DGkY3x2sAJoUKW0zAE5"
     },
     {
       "added_at": null,
@@ -795,6 +795,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rosas y Serpientes",
+        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 270769,
+      "name": "Rosas y Serpientes",
+      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Familia",
         "url": "https://open.spotify.com/album/46C0qc9owHB6PDLYQDtpgp"
       },
@@ -887,30 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rosas y Serpientes",
-        "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
-      },
-      "artists": [
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 270769,
-      "name": "Rosas y Serpientes",
-      "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvada",
         "url": "https://open.spotify.com/album/6FUY0mliGmcUTZDyDgah6I"
       },
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toques de Queda",
-        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Ultimadamente",
-      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Por Tu Piel",
         "url": "https://open.spotify.com/album/4ALasG3sQBw3IZDZUbHiuz"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 221413,
       "name": "Por Tu Piel",
       "url": "https://open.spotify.com/track/0ryHBlMBdjJksukX0xdQh9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toques de Queda",
+        "url": "https://open.spotify.com/album/6ctiaGPxGEGW8yrYmzDOvQ"
+      },
+      "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Ultimadamente",
+      "url": "https://open.spotify.com/track/3IfUGWgiKfBJMt7eCdkZqn"
     },
     {
       "added_at": null,

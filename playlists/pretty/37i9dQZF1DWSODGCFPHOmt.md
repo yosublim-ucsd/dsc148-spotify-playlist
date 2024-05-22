@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 
 > Música navideña para las fiestas decembrinas\. Cover: Panter Belico
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,857 likes - 80 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,856 likes - 80 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSODGCFPHOmt.md) - [plain]
 | 74 | [Santa Claus Llegó A La Ciudad](https://open.spotify.com/track/5kEHTKyHAq67kLHA7K8Ueh) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G), [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Navidad Fiesta Universal](https://open.spotify.com/album/5lqwgchnH79RupSj0uRznb) | 3:14 |
 | 75 | [Santa Claus Llegó a la Ciudad](https://open.spotify.com/track/0do4Mg3bOyd1SV17C37vBT) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Sonidos de la Navidad](https://open.spotify.com/album/3v2pmfoTM6qZSmMYTBZdps) | 2:15 |
 | 76 | [Alma Navideña](https://open.spotify.com/track/1s4c3Tun9Tlnuu2YqaEKfy) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Alma Navideña](https://open.spotify.com/album/1hXx44Rb1NKuqwZKSVHZvV) | 4:03 |
-| 77 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
-| 78 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
+| 77 | [Los Peces En El Río](https://open.spotify.com/track/1fg5yTwVBmUFWIVRTvZDT5) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Eterna Navidad Celebremos](https://open.spotify.com/album/0PrHTHfv6K96nQaB5gQntu) | 2:46 |
+| 78 | [Mi Burrito Sabanero](https://open.spotify.com/track/6I5I4L2kRifxJ2RyAAaeca) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Mi Burrito Sabanero](https://open.spotify.com/album/69Ez1GJ0OaOsMlNwj0nbPp) | 3:10 |
 | 79 | [Navidad, Navidad](https://open.spotify.com/track/3Pe6VYWJNGGsyRCNqoTjCb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2), [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [Conjunto Arroyero](https://open.spotify.com/artist/3t57wx00MMpK19IW7R3TUU), [Los Cazadores Del Cerro](https://open.spotify.com/artist/49hvO5gCq6aWo8a4x147iQ) | [Navidad, Navidad](https://open.spotify.com/album/6tx4tFu6cQDIk5pZVwLLxI) | 2:13 |
-| 80 | [Una Noche Especial](https://open.spotify.com/track/7q8GUMNiVTC7UnoZSrJPyg) | [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2) | [Una Noche Especial](https://open.spotify.com/album/5ECYaKAjfXnztQ5wGe3IUc) | 2:49 |
+| 80 | [Navidad Sin tí](https://open.spotify.com/track/1UHmIm6jj1EncEXcNfPSv1) | [Claudio Alcaraz](https://open.spotify.com/artist/0lf6aJ031s7V2V7eKB1mhz) | [Navidad Sin tí](https://open.spotify.com/album/445k2DkZWd5Fv24xPPMjq0) | 3:23 |
 
 Snapshot ID: `ZWjw5wAAAAB7pppJS2VflqD+VSIlOEeY`

@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-276 songs - 16 hr 17 min
+277 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Aberdeen](https://open.spotify.com/track/2Wy7h9LuSEmhapUh3RWrC2) | [Bridge Dwellers](https://open.spotify.com/artist/2R7EEwkeG8KGbXRqQwC2EB) | [Aberdeen](https://open.spotify.com/album/3CLyLs90ir4VUkYlyFDg6B) | 3:16 | 2021-04-15 | 2021-05-27 |
 | [Above The Satellites](https://open.spotify.com/track/5lr8xODLjAI0K00QLhFR4b) | [Astro.Not](https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS) | [Above The Satellites](https://open.spotify.com/album/6PUWrGctjUcZj8kBr34jka) | 3:38 | 2021-10-21 | 2023-11-26 |
 | [After 4AM](https://open.spotify.com/track/7JfqZOTWsA8pNtGrsaPHhU) | [Long Arm](https://open.spotify.com/artist/0bUWa3lF2u3S1j1JOVZsdA) | [The Branches](https://open.spotify.com/album/0uxx3Q7y6wLjUnvzamYOCR) | 6:42 | 2020-12-08\* | 2021-03-06 |
-| [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 |  |
+| [Albatross](https://open.spotify.com/track/4QdpiEwT4Sv6tfXNqhpGgc) | [Andrew Smithson](https://open.spotify.com/artist/4kggOuRjP15k8ivONO4B2L) | [Zenith](https://open.spotify.com/album/5dLy8zTm6myjl5ZorBXw5D) | 2:26 | 2021-07-24 | 2024-05-22 |
 | [All in Here](https://open.spotify.com/track/7I8OdKB4wCiUVXaLuHuyHv) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/3ZEtGYcGgMyW9pUKlhkbsh) | 5:20 | 2020-12-08\* | 2022-05-20 |
 | [Ancestral Twilight](https://open.spotify.com/track/6jNXaXr3gZejkWlsjVBERQ) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Thai Sunrise](https://open.spotify.com/album/24Wo6aRCb7BSdNQ2cZfB12) | 3:16 | 2021-10-28 | 2023-12-23 |
 | [Ancient Lake](https://open.spotify.com/track/6S4qh9AoXkRMHI9pdi4nXO) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Relic](https://open.spotify.com/album/5vjyNIDjEBv4QQGCzySxnf) | 2:58 | 2023-12-01 | 2024-05-09 |
@@ -269,6 +269,7 @@
 | [Umbrian Affair](https://open.spotify.com/track/3uS7zZlLcY1PiJ4KmFmPXG) | [Lena Bickeby](https://open.spotify.com/artist/0lb8V1RudMLNNsRF7mENZW) | [Umbrian Affair](https://open.spotify.com/album/1VrzjRpK2EWydopDXjvcUW) | 2:45 | 2020-12-08\* |  |
 | [Unkai](https://open.spotify.com/track/6KE0Eh4abncCTsZXodGGaQ) | [Kazunobu Nishiyama](https://open.spotify.com/artist/5PalD0e4tBG8xaSgTMuv6X) | [Unkai](https://open.spotify.com/album/4cqBqwZgOlzFfsimwp00kt) | 3:36 | 2022-06-16 |  |
 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 | 2023-07-28 |  |
+| [unwinding mind](https://open.spotify.com/track/3cKtbvlmZLIGQlvlXVGWcO) | [vindi meta](https://open.spotify.com/artist/1KpJe8aYmtCJpH7LP8mX9s) | [unwinding mind](https://open.spotify.com/album/5mYhxCiyQnJY8oBdgL6i1M) | 3:00 | 2024-05-10 |  |
 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 | 2022-10-21 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-12-08\* | 2021-02-20 |
 | [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 | 2024-04-04 |  |

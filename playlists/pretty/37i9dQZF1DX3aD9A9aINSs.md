@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3aD9A9aINSs.md) - [plain]
 
 > Türkiye'nin birbirinden güçlü kadın sesleri bir arada\.  <a href="spotify:artist:3iVIrcJmrV7GawrxVWsBUF">Nilüfer</a> ile birlikte hazırlandı.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,935 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,926 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Mida
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,982 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,053 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 29 | [Sentimento](https://open.spotify.com/track/1kbUzNEAHMVWQK72yIfc2L) | [Ludwig](https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71) | [Sentimento](https://open.spotify.com/album/1P8HvVas5w5Df8pjYLVEq7) | 2:24 |
 | 30 | [Dal Tuo Lato](https://open.spotify.com/track/5HyMqF3V8XFLermeTRFITZ) | [AIZA](https://open.spotify.com/artist/55gLQek3jQJDfijp4Qi2m7) | [Dal Tuo Lato](https://open.spotify.com/album/60IB9XxjNUtiC1BmUp5c9c) | 2:37 |
 | 31 | [Rosso Lampone](https://open.spotify.com/track/4h51AEffPE9igl8J52OoTd) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Rosso Lampone](https://open.spotify.com/album/7pp6PeV2wB12Xi0tgGB5uf) | 2:48 |
-| 32 | [ALL’OLD \(feat\. I Desideri\)](https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [AMORI \(mag ‘23 \- giu ‘24\)](https://open.spotify.com/album/65Nd2MOzCg5iHIkfPMzUhs) | 2:31 |
+| 32 | [ALL’OLD \(feat\. I Desideri\)](https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [AMORI \(giu ‘23 \- mag ‘24\)](https://open.spotify.com/album/65Nd2MOzCg5iHIkfPMzUhs) | 2:31 |
 | 33 | [Vent'anni](https://open.spotify.com/track/3b9qwv1l4WW2Yipz8aLWgR) | [Angie](https://open.spotify.com/artist/7vFaBCvPdgAsrWJiv5NI3Z) | [Vent'anni](https://open.spotify.com/album/3EYZS9x81k6jtpAWhHmnm0) | 2:33 |
 | 34 | [ODISSEA](https://open.spotify.com/track/3Qqya54XiHvfRFcOz2LXVc) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [ODISSEA](https://open.spotify.com/album/1uqFZjEIJ0EJHZpENyAQgG) | 2:57 |
 | 35 | [il mio miglior nemico](https://open.spotify.com/track/65oHYt1kcURRA9sSGwB5mt) | [Cicco Sanchez](https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel), [Loomy](https://open.spotify.com/artist/45RGCn3VfDcq6tYwOEObYG) | [il mio miglior nemico](https://open.spotify.com/album/6NdAEcBSIq2p6QMGisSCCZ) | 2:28 |

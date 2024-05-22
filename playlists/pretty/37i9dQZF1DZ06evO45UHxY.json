@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
+  "description": "This is Banda Zeta. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
   "num_followers": 2233,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADTlu9SXsAfLF/1wRuWRZjZ",
+  "snapshot_id": "ZkqSgAAAAAAg37JpJy3CLiWZDd/VQjo4",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
         {
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 168124,
-      "name": "Hoy es Viernes y el Cuerpo lo Sabe",
-      "url": "https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU"
+      "duration_ms": 191226,
+      "name": "La buenotota",
+      "url": "https://open.spotify.com/track/6u93FoQMwa24Y0at0W72GX"
     },
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revoluci\u00f3n Tecno 2021",
+        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168124,
+      "name": "Hoy es Viernes y el Cuerpo lo Sabe",
+      "url": "https://open.spotify.com/track/2EEkUBOe9TkdxaWVYiBfWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Mas Caliente... La Ni\u00f1a Fresa",
         "url": "https://open.spotify.com/album/16UZsarVMKLb5zvLd17S5a"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presumidas, S.a.",
-        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 156275,
-      "name": "Caderas Lait",
-      "url": "https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jacarandosa",
         "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
       },
@@ -279,6 +279,22 @@
       "duration_ms": 151458,
       "name": "El Gato Del Vecindario",
       "url": "https://open.spotify.com/track/2jo1sQtqrlESeZw95MOrlF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 156275,
+      "name": "Caderas Lait",
+      "url": "https://open.spotify.com/track/01OXvmhM7T5D1nayJ3YEko"
     },
     {
       "added_at": null,
@@ -315,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presumidas, S.a.",
-        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 172310,
-      "name": "No Dejes De Preocuparte",
-      "url": "https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jacarandosa",
         "url": "https://open.spotify.com/album/3QXuIFZnAGmlahOic59KsT"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 190522,
       "name": "Jacarandosa",
       "url": "https://open.spotify.com/track/2PJi77YuMKNlcKtRLFAbIi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 172310,
+      "name": "No Dejes De Preocuparte",
+      "url": "https://open.spotify.com/track/1HEhI6s64QNHcT1fWQK2Of"
     },
     {
       "added_at": null,
@@ -443,8 +459,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presumidas, S.a.",
-        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -452,9 +468,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 138749,
-      "name": "Echando Los Perros",
-      "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
+      "duration_ms": 182320,
+      "name": "Como un Tatuaje",
+      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
     },
     {
       "added_at": null,
@@ -475,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "La Chispa",
+        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
       "artists": [
         {
@@ -484,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+      "duration_ms": 179826,
+      "name": "Clases de baile",
+      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
     },
     {
       "added_at": null,
@@ -507,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Chispa",
-        "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
+        "name": "Presumidas, S.a.",
+        "url": "https://open.spotify.com/album/5bwpMmuEmFlWNMFH8RFLVD"
       },
       "artists": [
         {
@@ -516,9 +532,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 179826,
-      "name": "Clases de baile",
-      "url": "https://open.spotify.com/track/5DjtOCqp7tDqT7Qv56Favq"
+      "duration_ms": 138749,
+      "name": "Echando Los Perros",
+      "url": "https://open.spotify.com/track/4xd0redqKCAtHlwZbozZTc"
     },
     {
       "added_at": null,
@@ -587,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
+        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "El se\u00f1or de las canas",
+      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorprendente",
         "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
@@ -599,22 +631,6 @@
       "duration_ms": 169377,
       "name": "Cena de Plomo",
       "url": "https://open.spotify.com/track/7oMDzR2APsPC2HfTxW78Sh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 174013,
-      "name": "La Morena",
-      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 de Septiembre: Gruperas (USA) [Vol. 2]",
-        "url": "https://open.spotify.com/album/63mvOAHFDhD2QZLVfNAMcn"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "El se\u00f1or de las canas",
-      "url": "https://open.spotify.com/track/2N0gHRZb3TgOqssub2q8wm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 166320,
-      "name": "En Que Fall\u00e9",
-      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
+      "duration_ms": 174013,
+      "name": "La Morena",
+      "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
     },
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 179374,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Chispa",
         "url": "https://open.spotify.com/album/1lLbUAZDU4fR3W8ZXw0B8v"
       },
@@ -715,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -724,9 +740,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 179374,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
+      "duration_ms": 166320,
+      "name": "En Que Fall\u00e9",
+      "url": "https://open.spotify.com/track/3b4mdAyMoU7rTqZhFKfukc"
     },
     {
       "added_at": null,
@@ -751,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cumbia Explosi\u00f3n",
-        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 38666,
-      "name": "Ya parar\u00e1",
-      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -787,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cumbia Explosi\u00f3n",
+        "url": "https://open.spotify.com/album/5t5TDzXe1xvnMXQNoxjgoa"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 38666,
+      "name": "Ya parar\u00e1",
+      "url": "https://open.spotify.com/track/76H4nNPPwhFu9l4IqR0Vgc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
         "url": "https://open.spotify.com/album/6sMCzG3HQn7AT6VBPLXAzq"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 188923,
       "name": "\u00bfDe Qu\u00e9 Color Es Tu Brassiere?",
       "url": "https://open.spotify.com/track/62UMoTz03A2dHcJY0NISd7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revoluci\u00f3n Tecno 2021",
-        "url": "https://open.spotify.com/album/4Dd1a7UHz0O5BTVjAeZn8p"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 165214,
-      "name": "El Taladro",
-      "url": "https://open.spotify.com/track/5m69NmFGChAVKttLI0ImEL"
     }
   ],
   "unique_name": "This Is Banda Zeta",

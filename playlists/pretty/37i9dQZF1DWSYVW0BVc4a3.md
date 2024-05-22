@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > that's how we do it
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,150 likes - 215 songs - 14 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,237 likes - 215 songs - 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 10 | [Toys](https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S), [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6) | [Toys](https://open.spotify.com/album/1fbMRUAFSSUb3my9yo78cN) | 4:20 |
 | 11 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 |
 | 12 | [Fake Friends](https://open.spotify.com/track/4ARgEF9WuWcIMPhyBHeXwk) | [Trace](https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX) | [Fake Friends](https://open.spotify.com/album/3rKJhEQZJMybpLGan5X77r) | 3:23 |
-| 13 | [FUKINASTY \- Sosa UK Remix](https://open.spotify.com/track/7om9wYulxLAvrjnW7UebBl) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 3:00 |
+| 13 | [FUKINASTY \- Sosa UK Remix](https://open.spotify.com/track/7om9wYulxLAvrjnW7UebBl) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 3:00 |
 | 14 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 |
 | 15 | [Simple Times](https://open.spotify.com/track/29ePEJHqeyGamy2UqDIHtY) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q) | [Simple Times](https://open.spotify.com/album/5keWYf9jGTOgS4AjKYgq13) | 4:14 |
 | 16 | [Heartbeat](https://open.spotify.com/track/6autWijbEdpktfTNI5fkx5) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Heartbeat](https://open.spotify.com/album/0mZhESlUF6AQ9aUAer6LI1) | 3:01 |

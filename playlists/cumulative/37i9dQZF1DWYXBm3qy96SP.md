@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: Bon Jovi
 
-1,264 songs - 3 day 0 hr 46 min
+1,265 songs - 3 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [BOOM](https://open.spotify.com/track/2SKZ6fQDaSKo3IDYwRJxJI) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [BOOM](https://open.spotify.com/album/7FpdNGjJrRNSUx011p4Tp7) | 2:22 | 2023-03-16 | 2023-04-14 |
 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 | 2024-02-22 | 2024-03-01 |
 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 | 2023-09-15 | 2023-09-22 |
+| [Both Ways](https://open.spotify.com/track/1iZhzsEoPfULMJFSOJcxYK) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [Both Ways](https://open.spotify.com/album/3eh5lPgtVovNYkSdGlRi5I) | 3:06 | 2024-05-16 |  |
 | [Bounce](https://open.spotify.com/track/6bcjN31l2M7nddJMKBJbDN) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Bounce](https://open.spotify.com/album/07LPwkanZ1mDeR6QZZ1ixo) | 2:46 | 2023-06-22 | 2023-08-11 |
 | [Box Of Stars Pt\. 1](https://open.spotify.com/track/1bx9RTgRRTYN32ximVsKhI) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/1GuGsOmED8MDNw3D1SISgU) | 5:16 | 2024-02-29 | 2024-05-03 |
 | [Box Of Stars Pt\. 1 \(feat\. Kirk Franklin, CHIKA, D Smoke, Sho Madjozi, Yelle & Kanyi Mavi\)](https://open.spotify.com/track/57yvq1ThmT4PYWa8iaK4GJ) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo), [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo), [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd), [Kanyi Mavi](https://open.spotify.com/artist/71lZJZW9HMo98xlTKfcS25), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Djesse Vol\. 4](https://open.spotify.com/album/13r6eqjYlKELFQlNvVCBz1) | 5:16 | 2024-03-03 | 2024-04-19 |
@@ -920,7 +921,7 @@
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-02 |  |
 | [Runaway](https://open.spotify.com/track/0OZ3yFzBy6ULPZh58pwgX2) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Runaway](https://open.spotify.com/album/58t2YKGd5II2bwvxp6LYfl) | 4:55 | 2023-06-22 | 2023-06-30 |
 | [Running](https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Running](https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL) | 5:17 | 2024-04-25 |  |
-| [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-03-21 |  |
+| [Running](https://open.spotify.com/track/2LeoKjw81T6GWO18MxvGl1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Running](https://open.spotify.com/album/1xindSZEBeMzNOJwxCfrBS) | 2:19 | 2024-03-21 | 2024-05-22 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-03-16 | 2024-03-02 |
 | [Running Through The Campus](https://open.spotify.com/track/422l4EwnKnhoNDWtB1eeSD) | [Cloud Nothings](https://open.spotify.com/artist/6rnbB5fuUuCSsspvFsxIpT) | [Running Through The Campus](https://open.spotify.com/album/5CM0ezcLZzjZeQxwVlAeW1) | 2:48 | 2024-02-29 | 2024-04-12 |
 | [Sabotage](https://open.spotify.com/track/5gxU3v7mbgjV8TIZOSXMqm) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [bub](https://open.spotify.com/album/0hy7HjLEpI3x68n5Oz7Lj8) | 3:06 | 2023-03-16 | 2023-03-25 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Ghost. Tutti i brani in un'unica playlist.",
-  "num_followers": 402497,
+  "description": "This is Ghost. The essential tracks, all in one playlist.",
+  "num_followers": 402639,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAACEnTyuuyfIcdCeuCAUwWyH",
+  "snapshot_id": "ZkqSgAAAAAChvQXrNVbzi/HGhxnB5kgG",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meliora (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2uaQ1K2eSqaWeVQRXeuGdN"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 239293,
-      "name": "Square Hammer",
-      "url": "https://open.spotify.com/track/5TNhjanmvwvmjCz2WYwSAv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 219720,
       "name": "Dance Macabre",
       "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus He Knows Me",
+        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 245240,
+      "name": "Jesus He Knows Me",
+      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus He Knows Me",
-        "url": "https://open.spotify.com/album/5ATKAJjDVbFIoQVuaHrLNK"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 245240,
-      "name": "Jesus He Knows Me",
-      "url": "https://open.spotify.com/track/1zd8h6ho3mlbhkZnADHVzP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prequelle",
         "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 207120,
       "name": "Life Eternal",
       "url": "https://open.spotify.com/track/5fXQmRFO1CDN04HtUVNCUh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 362093,
+      "name": "Cirice",
+      "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prequelle",
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 261573,
+      "name": "Rats",
+      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stay [Feat. Patrick Wilson]",
         "url": "https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 234220,
       "name": "Stay [Feat. Patrick Wilson]",
       "url": "https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prequelle",
-        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 261573,
-      "name": "Rats",
-      "url": "https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0"
     },
     {
       "added_at": null,

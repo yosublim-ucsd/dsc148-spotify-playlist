@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 17355,
+  "num_followers": 17382,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Ok Cool",
-        "url": "https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom"
+        "name": "On Me (Remix) (with Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
       },
       "artists": [
         {
-          "name": "CEO Trayle",
-          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 177648,
-      "name": "Ok Cool",
-      "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
+      "duration_ms": 135444,
+      "name": "On Me (Remix) (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -223,22 +227,18 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "On Me (Remix) (with Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta"
+        "name": "Ok Cool",
+        "url": "https://open.spotify.com/album/3zifa4JgjBDFXzhq2e7Gom"
       },
       "artists": [
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "CEO Trayle",
+          "url": "https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS"
         }
       ],
-      "duration_ms": 135444,
-      "name": "On Me (Remix) (with Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF"
+      "duration_ms": 177648,
+      "name": "Ok Cool",
+      "url": "https://open.spotify.com/track/7kOU7qeq1PV6R2ZJcKUyIQ"
     },
     {
       "added_at": "2022-10-01 20:31:11",

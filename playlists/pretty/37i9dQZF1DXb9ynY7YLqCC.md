@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,902 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,921 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,10 +70,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 60 | [Silencio \- En Vivo](https://open.spotify.com/track/3QFehvGrS4MmrAWW5Hqw3f) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt) | [Tipitorex](https://open.spotify.com/album/64A2yWDQnsti67uCO44olg) | 5:02 |
 | 61 | [Lobo](https://open.spotify.com/track/6ZV5I5GntRTLOSNvSHQ1ia) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Pánico](https://open.spotify.com/album/1T53gREvUUPSwN2dP1SZRy) | 2:42 |
 | 62 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
-| 63 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 |
-| 64 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
+| 63 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
+| 64 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
 | 65 | [El Favor](https://open.spotify.com/track/1gjX021CdXDhpKCkGM53H4) | [Las Pastillas del Abuelo](https://open.spotify.com/artist/0D5U7oXEE4dut2DPyUDLca) | [El Favor](https://open.spotify.com/album/62csdLXrMnYxVSrnJaQmzg) | 4:05 |
-| 66 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
+| 66 | [Lo Que Nunca Te Dije](https://open.spotify.com/track/5gkNiqB4WzDX9pCHuCLgSa) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Como Evitar Que Sangremos](https://open.spotify.com/album/6Fj8T0XaCuwMkz0hUqX2Vd) | 5:13 |
 | 67 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
 | 68 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
 | 69 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 |
@@ -81,15 +81,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 71 | [Cuando Me Muera](https://open.spotify.com/track/3gvaShbCuEoL51efZWtpIs) | [Jóvenes Pordioseros](https://open.spotify.com/artist/6UYYp6Xo2NHP7AxNnR0rn4) | [Probame \(Demo\)](https://open.spotify.com/album/2fs5He9XpcqbqLud8QSRyv) | 2:06 |
 | 72 | [Una Piba Con la Remera de Greenpeace](https://open.spotify.com/track/1kpfJ0SL830ZfK0IXaAnwd) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Momo Sampler](https://open.spotify.com/album/4Evme9w1iDX33jAxbhPg48) | 3:40 |
 | 73 | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/track/3fA6H7qXllsOiSi7n445Dk) | [Terapia](https://open.spotify.com/artist/5sIea266s3izLKCqmH1SRk) | [ROCK BARRIAL TIPO COUNTRY](https://open.spotify.com/album/336pbkOxV2KKUif8DKWF2o) | 2:49 |
-| 74 | [Amor de Contramano](https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy) | 5:57 |
-| 75 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
+| 74 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |
+| 75 | [Amor de Contramano](https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ) | [Los Gardelitos](https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV) | [Gardeliando](https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy) | 5:57 |
 | 76 | [Me Gusta](https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:49 |
 | 77 | [Vine Hasta Aquí](https://open.spotify.com/track/2HPh92X44B9hHR0n9FZZoM) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:38 |
 | 78 | [Andrajoso](https://open.spotify.com/track/33qOYWWQEaniTOMtjo4KoE) | [La 25](https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc) | [Andrajoso](https://open.spotify.com/album/1wO85yv14Xqjg9FdkThxtL) | 4:06 |
 | 79 | [Volver a Nacer](https://open.spotify.com/track/2ABSAMW7VzfI0yVrkdxTJG) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z) | [A Mil](https://open.spotify.com/album/0ZK9RbojlRNq7N0Iaoj9Gd) | 3:34 |
-| 80 | [Misterios](https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 2:41 |
-| 81 | [Ojos Ventanal](https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/72H4uVRBBxPGpRUSIZua7U) | 3:44 |
-| 82 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
+| 80 | [No Me Dejes Caer](https://open.spotify.com/track/7wCalELbatgVcdYWHB6ybd) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [No Me Dejes Caer](https://open.spotify.com/album/1JiB6fCMmdvt0qyHWK04fR) | 4:18 |
+| 81 | [Misterios](https://open.spotify.com/track/5wWlvo0ECncL2lfhBzrmqi) | [Don Osvaldo](https://open.spotify.com/artist/09dpFW4ZcLR3GjeG7GOJR8) | [Casi Justicia Social](https://open.spotify.com/album/3ltIM1RxMeZYena45OURMS) | 2:41 |
+| 82 | [Ojos Ventanal](https://open.spotify.com/track/1wsKixePlchQnf1EZTaAjX) | [Sueño de Pescado](https://open.spotify.com/artist/45Mh2xppphSbyZluabCCJ1) | [Sangre en Tus Luces](https://open.spotify.com/album/72H4uVRBBxPGpRUSIZua7U) | 3:44 |
 | 83 | [Unos Versos](https://open.spotify.com/track/0IHC4QGz0I4EdOGpGMRICA) | [Salta La Banca](https://open.spotify.com/artist/4JathQD0aoyE5WwaIB2JxC) | [¡Eureka!](https://open.spotify.com/album/0zzEHJQZfwklS0RPPhrNem) | 6:22 |
 | 84 | [Magdalena](https://open.spotify.com/track/3FgrJJyC7s6bjH6sUsRC3p) | [Los Perez García](https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3) | [Asuntos de Familia](https://open.spotify.com/album/7hOtFZWs2fzBeowpBzNvEn) | 4:15 |
 | 85 | [El Farolito](https://open.spotify.com/track/7ip2lBrKUjkb69I8isyqPm) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [3er Arco](https://open.spotify.com/album/1ZUWRmH8qVKhcps3MjlLo5) | 4:13 |

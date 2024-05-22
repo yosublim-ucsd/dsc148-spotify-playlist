@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-333 songs - 18 hr 1 min
+334 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 | 2023-09-21 |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |
 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 | 2022-10-12 | 2023-08-10 |
-| [Bayaside Ninna](https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Bayaside Ninna](https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j) | 2:02 | 2024-01-08 |  |
+| [Bayaside Ninna](https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Bayaside Ninna](https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j) | 2:02 | 2024-01-08 | 2024-05-22 |
 | [Beesuva Gaali \- SKODA Deccan Beats](https://open.spotify.com/track/231S8vl1A717qGgydnSiWR) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Madhura Balaji](https://open.spotify.com/artist/5pDwaaFFLmBgmoz9kSZCWk) | [Beesuva Gaali \(SKODA Deccan Beats\)](https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf) | 2:28 | 2022-10-14 | 2023-06-21 |
 | [Bengaluru Kambala Theme Song](https://open.spotify.com/track/4d6yVH3lLLABq5evQ3P2LJ) | [Guru Kiran](https://open.spotify.com/artist/3xSxDireyobIryR5nIaHa0), [V\. Manohar](https://open.spotify.com/artist/2J5reHSIjjv6mtrbD9q1xN) | [Bengaluru Kambala Theme Song](https://open.spotify.com/album/1ScN9PVrjBoNYikbwRrSYc) | 2:25 | 2023-11-20 | 2023-12-14 |
 | [Bere Tara](https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1) | 4:50 | 2023-11-20 | 2024-04-19 |
@@ -271,6 +271,7 @@
 | [Omme Nee Nanage](https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf) | [Swaroop Ramesh](https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y), [Bats Creations](https://open.spotify.com/artist/2kRPjoyqvRX2t4J3WvDwHp) | [Omme Nee Nanage](https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp) | 5:17 | 2023-07-24 | 2024-02-01 |
 | [Ondu Sundara Sanje](https://open.spotify.com/track/41Ibz02C8EK5qodYWFY74u) | [Imtiyaz Sultan](https://open.spotify.com/artist/6ISQTadJEND9AY1C2GBsvi), [Roopa Kotwal](https://open.spotify.com/artist/0zxUB0UxO3fGuXxsDyx3Il) | [Ondu Sundara Sanje](https://open.spotify.com/album/1xhYJaU6t8ke6MkVENpyT6) | 4:14 | 2024-02-21 |  |
 | [ONTI NANU](https://open.spotify.com/track/72UHsh4I0azUmgg6UQE2M7) | [Vishwas Javali](https://open.spotify.com/artist/7GvOdsn4GlpJVT993RveVN) | [ONTI NANU](https://open.spotify.com/album/2iHf6Om8Dd3tBr0u9McvYf) | 4:30 | 2024-02-08 | 2024-02-20 |
+| [Oo Jeevave](https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q) | [Girish Prabhu](https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN) | [Oo Jeevave](https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA) | 3:06 | 2024-05-21 |  |
 | [Pade Pade](https://open.spotify.com/track/63eNczU8Mm6NXK6qb2GhJr) | [Akshay Pattanshetti](https://open.spotify.com/artist/4aDW9nSPFchayJfx8qrur8), [Riyaz MN](https://open.spotify.com/artist/26XD6i7V9Zq6OoTABiVjjw) | [Pade Pade](https://open.spotify.com/album/6iCiUYkdLka3GrO8cpuTuf) | 3:04 | 2024-04-01 |  |
 | [Pakshi](https://open.spotify.com/track/0fszASeFYOvRttPCKxTaYm) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/6jvpwdvIC7KR6MbD5vEFHl) | 2:57 | 2023-07-14 | 2024-02-15 |
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 | 2024-01-05 |

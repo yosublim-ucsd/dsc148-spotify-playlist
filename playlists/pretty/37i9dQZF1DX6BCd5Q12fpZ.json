@@ -1,6 +1,6 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 66269,
+  "num_followers": 66270,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Sound of Silence",
+        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+      },
+      "artists": [
+        {
+          "name": "Dami Im",
+          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+        }
+      ],
+      "duration_ms": 195479,
+      "name": "Sound of Silence",
+      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Bucks Fizz",
         "url": "https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb"
       },
@@ -315,18 +331,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Sound of Silence",
-        "url": "https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj"
+        "name": "Always",
+        "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
       "artists": [
         {
-          "name": "Dami Im",
-          "url": "https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY"
+          "name": "Aysel",
+          "url": "https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
         }
       ],
-      "duration_ms": 195479,
-      "name": "Sound of Silence",
-      "url": "https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3"
+      "duration_ms": 174626,
+      "name": "Always - Single Version",
+      "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -367,26 +387,6 @@
       "duration_ms": 180030,
       "name": "Trenule\u021bul (cu Fra\u021bii Advahov)",
       "url": "https://open.spotify.com/track/63idiVcxkGB3hgH6n3qKqM"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
-      },
-      "artists": [
-        {
-          "name": "Aysel",
-          "url": "https://open.spotify.com/artist/0p8VQ0bbarbct1dXDthN5N"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        }
-      ],
-      "duration_ms": 174626,
-      "name": "Always - Single Version",
-      "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
-        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
-      },
-      "artists": [
-        {
-          "name": "Sandra Kim",
-          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
-        }
-      ],
-      "duration_ms": 184157,
-      "name": "J'aime la vie - Eurovision 1986",
-      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Young Love",
         "url": "https://open.spotify.com/album/25yASEbY2Pz60pCnx7l3kx"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 183093,
       "name": "Waterline",
       "url": "https://open.spotify.com/track/0xCMGAf80y3dUevG2qXpvS"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Au top des ann\u00e9es 80, vol. 1 (30 titres + 5 maxis)",
+        "url": "https://open.spotify.com/album/76YvIXe5aWujtislm12yVk"
+      },
+      "artists": [
+        {
+          "name": "Sandra Kim",
+          "url": "https://open.spotify.com/artist/4dhrlsu6mKvOwJWOrwnkuV"
+        }
+      ],
+      "duration_ms": 184157,
+      "name": "J'aime la vie - Eurovision 1986",
+      "url": "https://open.spotify.com/track/6UKeMVzQeeOsjITXfX1cm4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Charmed",
-        "url": "https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D"
-      },
-      "artists": [
-        {
-          "name": "Charmed",
-          "url": "https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8"
-        }
-      ],
-      "duration_ms": 183280,
-      "name": "My Heart Goes Boom",
-      "url": "https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Verona",
         "url": "https://open.spotify.com/album/4ctbznUsA8d2ZEqXzuy7iY"
       },
@@ -1071,6 +1055,22 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
+        "name": "Charmed",
+        "url": "https://open.spotify.com/album/1dl3hAtvGLmsuDJVzJcY9D"
+      },
+      "artists": [
+        {
+          "name": "Charmed",
+          "url": "https://open.spotify.com/artist/438uz6Ss2rTiWYPw0dDwF8"
+        }
+      ],
+      "duration_ms": 183280,
+      "name": "My Heart Goes Boom",
+      "url": "https://open.spotify.com/track/6GViWczPtH2ky3RBYycDhI"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
         "name": "Is It True?",
         "url": "https://open.spotify.com/album/04BCoECaXxVHpWxJRb3qqt"
       },
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "It's Been a While",
-        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
-      },
-      "artists": [
-        {
-          "name": "Anna Sahlene",
-          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
-        }
-      ],
-      "duration_ms": 172666,
-      "name": "Runaway - Bonus Track",
-      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "What About My Dreams?",
         "url": "https://open.spotify.com/album/70sLEEOucejT9jhRDmPNAW"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 249893,
       "name": "What about my dreams? - Main",
       "url": "https://open.spotify.com/track/4coje85K8iSAup8z4G9y64"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "It's Been a While",
+        "url": "https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71"
+      },
+      "artists": [
+        {
+          "name": "Anna Sahlene",
+          "url": "https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW"
+        }
+      ],
+      "duration_ms": 172666,
+      "name": "Runaway - Bonus Track",
+      "url": "https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "\u0421\u043e\u043b\u043d\u0446\u0435",
-        "url": "https://open.spotify.com/album/0vNpW5mnoZwxtWFOkCCavU"
+        "name": "You are the only one",
+        "url": "https://open.spotify.com/album/5QN3qCVLPiedrjb6EOO9LO"
       },
       "artists": [
         {
-          "name": "Ani Lorak",
-          "url": "https://open.spotify.com/artist/1J9vlx72A2T3kbRckBu04o"
+          "name": "Sergey Lazarev",
+          "url": "https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK"
         }
       ],
-      "duration_ms": 178880,
-      "name": "Shady Lady",
-      "url": "https://open.spotify.com/track/5devjcsxeVnwYQbaYJ2Ewx"
+      "duration_ms": 186891,
+      "name": "You are the only one",
+      "url": "https://open.spotify.com/track/7cVXtwDpck4Kne4Ce8Ge6q"
     }
   ],
   "unique_name": "Eurovision Party",

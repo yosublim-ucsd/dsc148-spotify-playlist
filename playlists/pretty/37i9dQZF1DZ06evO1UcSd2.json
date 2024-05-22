@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenin Ram\u00edrez. Los temas esenciales, todos en una lista.",
-  "num_followers": 70730,
+  "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
+  "num_followers": 70743,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAD0YE6wSipVcKoeJjieWc98",
+  "snapshot_id": "ZkqSgAAAAAB0HBv98UHNiasEPd2f3gwo",
   "tracks": [
     {
       "added_at": null,
@@ -223,26 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Chino",
-        "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 167439,
-      "name": "El Chino",
-      "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 129921,
       "name": "La Belikiza",
       "url": "https://open.spotify.com/track/76WcyhTktK0eLW8m1wehRc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Chino",
+        "url": "https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 167439,
+      "name": "El Chino",
+      "url": "https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7"
     },
     {
       "added_at": null,
@@ -323,22 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' Olvidarme de tus Besos",
-        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
       },
       "artists": [
         {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
         },
         {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 187448,
-      "name": "Pa' Olvidarme de tus Besos",
-      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
     },
     {
       "added_at": null,
@@ -359,22 +359,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+        "name": "Pa' Olvidarme de tus Besos",
+        "url": "https://open.spotify.com/album/4TNb9dsc51JOXLRXj9D0Uy"
       },
       "artists": [
         {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+      "duration_ms": 187448,
+      "name": "Pa' Olvidarme de tus Besos",
+      "url": "https://open.spotify.com/track/2y0WCy503qjDcbpG1cYRMN"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Con Los Pies en La Tierra",
+        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "El Gordo",
+      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuanto hay que invertir",
         "url": "https://open.spotify.com/album/3nq2H7EWjryQyB8MOTKZZo"
       },
@@ -471,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Con Los Pies en La Tierra",
-        "url": "https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r"
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
       "artists": [
         {
@@ -480,13 +500,13 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 166613,
-      "name": "El Gordo",
-      "url": "https://open.spotify.com/track/7DeYqkxdQsxQQdJpXzgDLO"
+      "duration_ms": 198582,
+      "name": "C\u00f3mo Los Vaqueros",
+      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
       "added_at": null,
@@ -511,26 +531,6 @@
       "duration_ms": 193561,
       "name": "Hierba de Receta",
       "url": "https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bendec\u00eddo",
-        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "C\u00f3mo Los Vaqueros",
-      "url": "https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Seguimos Adelante",
-        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 155730,
-      "name": "Estas Ganas de Tomar",
-      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Our Wave Nuestra Ola",
         "url": "https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 179905,
       "name": "The King of Ice",
       "url": "https://open.spotify.com/track/34kuOHSIqvyahIjR3ts6yE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Seguimos Adelante",
+        "url": "https://open.spotify.com/album/0AkCrr3xyED7XE5kt5P8Qt"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 155730,
+      "name": "Estas Ganas de Tomar",
+      "url": "https://open.spotify.com/track/6fua8dVpIgNQbStBmGxEtA"
     },
     {
       "added_at": null,

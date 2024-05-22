@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 489330,
+  "num_followers": 489514,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
+        "name": "Crooked Rain, Crooked Rain",
+        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
+      },
+      "artists": [
+        {
+          "name": "Pavement",
+          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Silence Kid",
+      "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
         "name": "Pretty",
         "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
-        "name": "Crooked Rain, Crooked Rain",
-        "url": "https://open.spotify.com/album/1XFNz6KIvLyIsLFOiLRKqP"
-      },
-      "artists": [
-        {
-          "name": "Pavement",
-          "url": "https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Silence Kid",
-      "url": "https://open.spotify.com/track/1CwQqhPYxz73UYKD7ybYGd"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Reality",
-        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
+        "name": "Runner",
+        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
       },
       "artists": [
         {
-          "name": "Em Glasser",
-          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
-        },
-        {
-          "name": "Maatz",
-          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
+          "name": "Mind Shrine",
+          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
         }
       ],
-      "duration_ms": 219205,
-      "name": "Reality",
-      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
+      "duration_ms": 162099,
+      "name": "Runner",
+      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Runner",
-        "url": "https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V"
+        "name": "Reality",
+        "url": "https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO"
       },
       "artists": [
         {
-          "name": "Mind Shrine",
-          "url": "https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM"
+          "name": "Em Glasser",
+          "url": "https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5"
+        },
+        {
+          "name": "Maatz",
+          "url": "https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr"
         }
       ],
-      "duration_ms": 162099,
-      "name": "Runner",
-      "url": "https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM"
+      "duration_ms": 219205,
+      "name": "Reality",
+      "url": "https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v"
     },
     {
       "added_at": "2023-12-02 02:07:22",

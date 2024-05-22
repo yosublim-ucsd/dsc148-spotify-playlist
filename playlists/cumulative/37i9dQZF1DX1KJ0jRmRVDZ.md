@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-1,140 songs - 2 day 17 hr 1 min
+1,141 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -454,6 +454,7 @@
 | [しゅげーハイ!!!](https://open.spotify.com/track/1qhqqpxSL5IEuacRKRwnkm) | [花譜](https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4), [Hidefumi Kenmochi](https://open.spotify.com/artist/7v28R5tD4j8lvl6ok2N8Qg) | [しゅげーハイ!!!](https://open.spotify.com/album/4gasPa1Qj70n2i8TLUSSZ5) | 3:24 | 2023-07-04 | 2023-07-12 |
 | [しよっか。\(feat.meiyo\)](https://open.spotify.com/track/207l3jD5YPS0ndm3UZDakF) | [R+...](https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32), [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [しよっか。\(feat.meiyo\)](https://open.spotify.com/album/3lvj2EyFe7SZJi0dbraD12) | 3:00 | 2022-06-09 | 2022-07-11 |
 | [じたばた](https://open.spotify.com/track/1PCGdXWzNbBuhJh7J2DRul) | [終電間際≦オンライン。](https://open.spotify.com/artist/0n0p5irFicl5mYADoRl6Ps) | [じたばた](https://open.spotify.com/album/6Gef0JK3uGwLIlfzurV2py) | 2:37 | 2023-09-26 | 2023-10-13 |
+| [ずうっといっしょ！](https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ずうっといっしょ！](https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4) | 3:04 | 2024-05-14 |  |
 | [そぐわな](https://open.spotify.com/track/2ftcqHzXbUP4P6nROsanV8) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [そぐわな](https://open.spotify.com/album/2W0hOxFTRTYkrRPiOs1292) | 3:42 | 2022-06-14 | 2022-07-06 |
 | [そばにいる](https://open.spotify.com/track/0bbZ7UdUW3xUB6lmfWpE3o) | [堂村璃羽](https://open.spotify.com/artist/6s5z8omxqZ2k0gdGUSB0hp) | [そばにいる](https://open.spotify.com/album/22x7R8Ag79osdhxNCSXH3e) | 3:16 | 2022-11-17 | 2022-11-23 |
 | [それでも僕は](https://open.spotify.com/track/31QKpSuAzhMCnoJZYgAG4h) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Versus the night](https://open.spotify.com/album/4R8cMdxOUDbHaHvwjEluEq) | 5:14 | 2022-08-30 | 2022-09-28 |
@@ -512,7 +513,7 @@
 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 | 2023-04-11 |  |
 | [アイムユアヒーロー](https://open.spotify.com/track/3qLF8tsuoFkpVVqBQyTgM8) | [After the Rain](https://open.spotify.com/artist/2v7nGZtRBqPyfcwcEYjDfX) | [アイムユアヒーロー](https://open.spotify.com/album/59DatHJiCB1PXiHhHq1Fsu) | 4:19 | 2023-10-17 | 2023-10-19 |
 | [アイロニー](https://open.spotify.com/track/1JoQ0Iyq02AT0H6QuOZL1j) | [SHIROIRO](https://open.spotify.com/artist/0m4yOZKtpZQZqJLeUunwW8) | [アイロニー](https://open.spotify.com/album/41PIdEyCaAZCIWn6nwUScI) | 2:53 | 2023-03-09 | 2023-03-25 |
-| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 |  |
+| [アイワナムチュー](https://open.spotify.com/track/21zl36W7QoaVy5MMxAvfcv) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [アイワナムチュー](https://open.spotify.com/album/1JNzKXrtkaXgn5y96johqC) | 3:25 | 2023-01-05 | 2024-05-22 |
 | [アイ独リ論 \-self cover\-](https://open.spotify.com/track/72SQo5lOWxjx0QmVR45kwv) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj) | [アイ独リ論 \-self cover\-](https://open.spotify.com/album/5fApnTEkwBPHQZKToboLqw) | 2:56 | 2022-06-28 | 2022-06-30 |
 | [アオイナツ](https://open.spotify.com/track/4zUesyooUI2QpxAetqDWgT) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [アオイナツ](https://open.spotify.com/album/4AAnOSns0SjRqE7BB6WmB9) | 4:03 | 2022-07-21 | 2022-07-23 |
 | [アオイハル](https://open.spotify.com/track/5SAM5ms9HkCUcOFE7Cfib5) | [ミセカイ](https://open.spotify.com/artist/0CPZbUqRC7ZymVB0SKsMIi) | [アオイハル](https://open.spotify.com/album/6pJUfEsJ7a3ExT5modeFbM) | 2:58 | 2022-09-20 | 2022-09-22 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Korn. The essential tracks, all in one playlist.",
-  "num_followers": 477327,
+  "num_followers": 477458,
   "original_name": "This Is Korn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAVBKVBEkU1IAiKbNjGdSoU",
+  "snapshot_id": "ZkqSgAAAAABGc9e9aGmtXAxjbvsOFVkv",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Path of Totality (Special Edition)",
-        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+        "name": "The Serenity of Suffering",
+        "url": "https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh"
       },
       "artists": [
         {
           "name": "Korn",
           "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        },
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         }
       ],
-      "duration_ms": 222640,
-      "name": "Get Up! (feat. Skrillex)",
-      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+      "duration_ms": 213000,
+      "name": "Rotting In Vain",
+      "url": "https://open.spotify.com/track/5PCKCffFrcyUvnhxJoPlK2"
     },
     {
       "added_at": null,
@@ -495,6 +491,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Path of Totality (Special Edition)",
+        "url": "https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "duration_ms": 222640,
+      "name": "Get Up! (feat. Skrillex)",
+      "url": "https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Nothing",
         "url": "https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1"
       },
@@ -527,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradigm Shift (World Tour Edition)",
-        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 233389,
-      "name": "Hater",
-      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -555,6 +555,22 @@
       "duration_ms": 349506,
       "name": "Faget",
       "url": "https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradigm Shift (World Tour Edition)",
+        "url": "https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 233389,
+      "name": "Hater",
+      "url": "https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp"
     },
     {
       "added_at": null,
@@ -591,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Korn",
+        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Ball Tongue",
+      "url": "https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Follow The Leader",
         "url": "https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4"
       },
@@ -607,22 +639,6 @@
       "duration_ms": 232600,
       "name": "Children of the Korn (feat. Ice Cube)",
       "url": "https://open.spotify.com/track/72ZarLfZuVXLa2VN1jzAWk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Korn",
-        "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Ball Tongue",
-      "url": "https://open.spotify.com/track/5pbfZdAP7xUu354ZQBhTS2"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Issues",
-        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 221240,
-      "name": "Let's Get This Party Started",
-      "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Korn",
         "url": "https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z"
       },
@@ -691,6 +691,22 @@
       "duration_ms": 170373,
       "name": "Divine",
       "url": "https://open.spotify.com/track/6Ot1jvIoVPAuGRKY8Qxue8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Issues",
+        "url": "https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh"
+      },
+      "artists": [
+        {
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+        }
+      ],
+      "duration_ms": 221240,
+      "name": "Let's Get This Party Started",
+      "url": "https://open.spotify.com/track/4X1XkTFjhpsWOC94lMNNEc"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 427986,
       "name": "Another Brick in the Wall, Pt. 1, 2, 3 - Pink Floyd Cover",
       "url": "https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Paradigm Shift (Deluxe)",
-        "url": "https://open.spotify.com/album/6TA5d51wosfWuZXyOKWzpG"
-      },
-      "artists": [
-        {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
-        }
-      ],
-      "duration_ms": 221001,
-      "name": "Never Never",
-      "url": "https://open.spotify.com/track/2vMZ3HdWC8vYVwngFfvIi7"
     }
   ],
   "unique_name": "This Is Korn",

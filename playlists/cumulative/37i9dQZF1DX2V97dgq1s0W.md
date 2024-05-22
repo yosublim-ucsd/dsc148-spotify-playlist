@@ -2,7 +2,7 @@
 
 ### [Riffs & Runs](https://open.spotify.com/playlist/37i9dQZF1DX2V97dgq1s0W)
 
-> The best voices in R&B\. Cover: Bellah
+> The best voices in R&B\. Watch on mobile\. Cover: Bellah
 
 298 songs - 15 hr 38 min
 

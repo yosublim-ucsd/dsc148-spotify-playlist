@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,973 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,984 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,11 +55,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [Syndicate Of Noise \- Official SYNDICATE 2023 Anthem](https://open.spotify.com/track/2QXxOoPaqduErHktm3wmRu) | [Angerfist](https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Syndicate Of Noise \(Official SYNDICATE 2023 Anthem\)](https://open.spotify.com/album/6qPEbdsMpIYye8KPfQ9NsQ) | 4:33 |
 | 46 | [The Rusty Trombone](https://open.spotify.com/track/2BjnNxArj2lvXD7sqwQ0PL) | [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73), [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Principle](https://open.spotify.com/artist/3IfmtKe5jXM7GXvtHavhTG), [Rob The Rocket](https://open.spotify.com/artist/6EONY1bI70bNeyNF2lP5je) | [The Rusty Trombone](https://open.spotify.com/album/4Hu3riTVGkKf74N3qAwykS) | 2:53 |
 | 47 | [Dynamite](https://open.spotify.com/track/7ecePzsLSoELyuQ3ZyKqMU) | [Major Conspiracy](https://open.spotify.com/artist/0WjzjRwo3dcv6HCPs70Rnc) | [Dynamite](https://open.spotify.com/album/5F7aiiYykkbEHH4RvKBfp2) | 3:22 |
-| 48 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 |
-| 49 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
-| 50 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 |
-| 51 | [Go Insane](https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Go Insane](https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG) | 3:15 |
-| 52 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 |
+| 48 | [Back 2 The Rave](https://open.spotify.com/track/0FASAn7UH8MTSFd1TfJ41q) | [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Back 2 The Rave](https://open.spotify.com/album/5K3tYCDfi6KH4T4VOuYiJ8) | 2:44 |
+| 49 | [Ignition](https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P) | [Spitnoise](https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl), [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Ignition](https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U) | 3:57 |
+| 50 | [Adrenaline Kicks](https://open.spotify.com/track/5pgQRiuJ0dKnimS6wkpNfA) | [Jur Terreur](https://open.spotify.com/artist/1NNaj24msWMhbVRbLxga0u) | [Adrenaline Kicks](https://open.spotify.com/album/0CydGc9RB0mcPrEYEVOhoN) | 2:40 |
+| 51 | [Take Me High](https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp) | [Take Me High](https://open.spotify.com/album/6JlrucS3EDrrdxJCI9fv1V) | 2:51 |
+| 52 | [Go Insane](https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE) | [Go Insane](https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG) | 3:15 |
 | 53 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
 | 54 | [Bass Face](https://open.spotify.com/track/4AuEotNw42YumygG85tYyV) | [D\-Frek](https://open.spotify.com/artist/72qaltoVzJ2iwZThuIxACd), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Bass Face](https://open.spotify.com/album/4LdrJQvh1iRoPY3pgVePE2) | 3:07 |
 | 55 | [Furious Anger](https://open.spotify.com/track/0BPSWhSC2puc2FdabboU6z) | [Broken Minds](https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE), [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Furious Anger](https://open.spotify.com/album/7J9ZqsUWwH6sxRqAUeeEvR) | 3:25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,163 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,198 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 57 | [U Won't See Me](https://open.spotify.com/track/1WqCf2NfriI4Fff84grSbY) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf), [Mystic Bill](https://open.spotify.com/artist/1qBYNcfpwmb1ensiLvWxEV) | [U Won't See Me](https://open.spotify.com/album/3ifZTF4IJFhIM1znvi6GG7) | 3:06 |
 | 58 | [Dynasty](https://open.spotify.com/track/21ybzGn5sHmDl72e5nTmgF) | [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Dynasty](https://open.spotify.com/album/2SWeo6mxvuaZ1AYMxXkapY) | 6:36 |
 | 59 | [Nobody Else](https://open.spotify.com/track/6pe6oe5SPqbROOTKBcHazL) | [Jack Orley](https://open.spotify.com/artist/0pT6RTEfYjBYhx3poFov1j) | [Nobody Else](https://open.spotify.com/album/2dAboPtSUPEeEiKqHmRdIm) | 3:06 |
-| 60 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
-| 61 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
+| 60 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
+| 61 | [venus' secret](https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB), [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [venus' secret](https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl) | 3:20 |
 | 62 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 |
 | 63 | [Playing With Foc...](https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB) | [Paco Osuna](https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3), [Iglesias](https://open.spotify.com/artist/3urGFEv1zqwK24gupip690) | [Playing With Foc...](https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7) | 6:30 |
 | 64 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 96 | [Fuego](https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb), [Moonage](https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX) | [Fuego](https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym) | 2:18 |
 | 97 | [Hand In Hand \- Jonathan Kaspar Remix](https://open.spotify.com/track/2X3iHKbejETh1uW08Y1qti) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Jonathan Kaspar](https://open.spotify.com/artist/0R3hsihsVWcPQq5H898UP0) | [Hand In Hand \(Jonathan Kaspar Remix\)](https://open.spotify.com/album/45kxDHNQkSL6mVlac1OAd6) | 7:16 |
 | 98 | [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 |
-| 99 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 |
-| 100 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 |
+| 99 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 |
+| 100 | [Amused](https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Amused EP](https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js) | 3:15 |
 
 Snapshot ID: `ZkbWQAAAAABpjR588n1HqphM0ksM7lkD`

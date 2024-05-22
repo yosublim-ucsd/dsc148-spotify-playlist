@@ -4,7 +4,7 @@
 
 > 
 
-210 songs - 13 hr 39 min
+213 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Afrikaa](https://open.spotify.com/track/2NTrfGXcS2zhrAXsm0gDGz) | [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Afrikaa](https://open.spotify.com/album/57n7DbBFBEbqcXQ22xBfrK) | 3:04 | 2022-10-24 |  |
 | [Ain't No Party](https://open.spotify.com/track/7m8H5YUbVlRZ61Juc4ofIX) | [Scott Shima](https://open.spotify.com/artist/2hHxTBGkP3ZtqGilz3kgmf) | [Ain't No Party](https://open.spotify.com/album/6FjVgPNGGm7Wq16vSJ2e2S) | 5:12 | 2023-09-22 |  |
 | [All Night With U \- Qubiko Remix](https://open.spotify.com/track/1xTJH5ZNlX9bID9J8Ny25R) | [Ivan Pica](https://open.spotify.com/artist/7CIJe8ijDiHuCx2Fw3MOj9), [Peter Brown](https://open.spotify.com/artist/6FgtU463qtDrvUsL5b3Ael), [Qubiko](https://open.spotify.com/artist/7GklfVLAXAgRjh6Y0yOgMq) | [All Night With U \(Qubiko Remix\)](https://open.spotify.com/album/1b39HG2fmpTWy0F9Khqsc1) | 3:23 | 2022-12-12 |  |
+| [And 1](https://open.spotify.com/track/3jY03u0KugM4iPu0nKbJnn) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [And 1](https://open.spotify.com/album/5qO7TlsQmMhQ5LomtBrKlT) | 3:31 | 2024-05-21 |  |
 | [Annihilator](https://open.spotify.com/track/58kLQbV9LjVBrvRRB0n2cI) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Annihilator](https://open.spotify.com/album/0kYOVcPoZ8Zk5JnVOOarDg) | 2:34 | 2023-04-29 |  |
 | [Asi](https://open.spotify.com/track/6gvss2BhzkoeQpCu2Pfc27) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Asi](https://open.spotify.com/album/0yJ4UqNO4ipDkAV69q4wKo) | 2:57 | 2022-11-20 |  |
 | [Assim](https://open.spotify.com/track/6lsjRcH4aTU4otvziy3hJX) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Assim](https://open.spotify.com/album/7tMmHHhxEQ2XUhftmWyj71) | 2:49 | 2023-01-28 |  |
@@ -78,7 +79,7 @@
 | [Get After It](https://open.spotify.com/track/0a089la64vLzIReKpnjrfZ) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Get After It](https://open.spotify.com/album/1FTU08UNsEwjvtvsFhC4vI) | 2:58 | 2022-08-20 | 2024-01-21 |
 | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/track/0eL7XibRJtKYfWH5H0Fnk5) | [Us Two](https://open.spotify.com/artist/4zTMBc60g05ykRN18LqIlN), [MariaDennis](https://open.spotify.com/artist/3YU24EoiqfIRzZ2RR1xsL1) | [Get Bossy \(feat\. MariaDennis\)](https://open.spotify.com/album/4leFDUKpsKCCwiBEpzDHIs) | 2:49 | 2024-02-14 |  |
 | [Get On The Floor](https://open.spotify.com/track/4pLcVoeZbGRnid7stPrsWy) | [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Get On The Floor](https://open.spotify.com/album/7ypxsAkBOezGD31T616zv4) | 2:22 | 2023-07-20 |  |
-| [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 |  |
+| [Giving Me Life](https://open.spotify.com/track/2Je7t8J1MrumV3ClyIRm9N) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Kaleena Zanders](https://open.spotify.com/artist/0Sz2jslaxjcw2VM5zYh2jK) | [Giving Me Life](https://open.spotify.com/album/4kdnp2y5xRXsv3jZXPMCnq) | 3:15 | 2024-03-08 | 2024-05-22 |
 | [Gonna Make You Sweat \(Everybody Dance Now\) \- Edit Mix](https://open.spotify.com/track/2j3kCSx9ljhPkk2tYuNVZH) | [Moreno Pezzolato](https://open.spotify.com/artist/4T7wlRMvx47eHo5z78A5tQ) | [Gonna Make You Sweat \(Everybody Dance Now\) \(Edit\)](https://open.spotify.com/album/2pslnaxRj3AB3O7Tzv2wGg) | 2:38 | 2023-07-28 |  |
 | [GOOD FOR YOU](https://open.spotify.com/track/3EhUlT5FGsG9SNaKagJlEh) | [MEKKAWY](https://open.spotify.com/artist/0Ir4hjJIxt7uIhWZDUWY6x) | [THE CHOICE EP](https://open.spotify.com/album/1CJs0dhZNoBNNhdL9Jlsxo) | 2:44 | 2022-10-21 |  |
 | [Gospel](https://open.spotify.com/track/0Eqpd2ecXGxoLWBVFBBf1z) | [Brad King](https://open.spotify.com/artist/2q7LrIFZP6UIs73GFrkHPm) | [F That EP](https://open.spotify.com/album/5ZmskTPNKJpAbZQGRShiYP) | 3:30 | 2023-02-05 |  |
@@ -157,6 +158,7 @@
 | [Pegao](https://open.spotify.com/track/3ofd1gmyPfysQWrgSDP7BW) | [Andre Salmon](https://open.spotify.com/artist/0rbp6yLBKp9HFyF3TRy157), [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31), [Jorge Andrade](https://open.spotify.com/artist/1Z9mrmdgnKrSxsXipVIRnl) | [Pegao EP](https://open.spotify.com/album/57vgNE0zN8oGPJXVjMAGRp) | 6:00 | 2022-12-12 |  |
 | [Perfect \- Edit](https://open.spotify.com/track/6Q27pKlVnjU19BAwa3WChc) | [TOBEHONEST](https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo) | [Perfect](https://open.spotify.com/album/0WkxGMhPKn85CnnFQpm0QI) | 2:45 | 2023-11-08 |  |
 | [Phoenix](https://open.spotify.com/track/2nsuUT8ey4AhPkkyM74shh) | [Kasablanca](https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI) | [Immunity EP](https://open.spotify.com/album/1XrBkrwPVsP8DmPfEtyjt3) | 4:21 | 2022-07-06 |  |
+| [Play The Music](https://open.spotify.com/track/56cQnHXl41WmUcJ8NJRSt2) | [Latmun](https://open.spotify.com/artist/2z9DWWfNONyl2nyy1GNSi0) | [Play The Music](https://open.spotify.com/album/0yxplzAy4QkUQcz43MrWx4) | 6:21 | 2024-05-21 |  |
 | [Players](https://open.spotify.com/track/4Saj7Jw9bFW5MSDAYmZc43) | [Igor2k](https://open.spotify.com/artist/005MVNrRylfmjhtMkQoONR) | [Players](https://open.spotify.com/album/5HvlZJMPubHxz5psaY7KpJ) | 4:08 | 2023-05-05 |  |
 | [Putaria](https://open.spotify.com/track/5VDX0PYPSaNJn0z6pW11jB) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [Lodgerz](https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE), [Illegal Music](https://open.spotify.com/artist/1GtUSudmcirmaUqcgBzu3u) | [Putaria](https://open.spotify.com/album/7GqQTyGs2Jk6MSQtGFxW6F) | 2:40 | 2023-06-16 |  |
 | [Raw Wave in My House \- Fun Mix](https://open.spotify.com/track/4JxEv3XQCUCqwgVx9eC3vh) | [Mr\. Cookie](https://open.spotify.com/artist/2hu3E0yzrDIbf0i4l4NIvn) | [Raw In](https://open.spotify.com/album/5nogzArwmDwiUTFu0V6LWN) | 2:58 | 2022-10-21 | 2024-01-21 |
@@ -168,6 +170,7 @@
 | [Running Blind \(feat\. Tchami & Kareen Lomax\)](https://open.spotify.com/track/2vwtYhceXaLV9chdb5FAAn) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [MYCELiUM](https://open.spotify.com/album/1hE6zEkDTJywi3mAR5hLa5) | 4:39 | 2023-07-14 |  |
 | [Satin](https://open.spotify.com/track/2wAcwH40g95l5oNrQNyjjw) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Without U](https://open.spotify.com/album/4XGZu2GMoCpvUPUyXUodAq) | 3:14 | 2023-07-28 |  |
 | [Satisfy The Need](https://open.spotify.com/track/60cBXLpZx0MnmljXl6tWEs) | [Saison](https://open.spotify.com/artist/6AST5BAhARWnhaXlMnXGp7) | [Satisfy The Need](https://open.spotify.com/album/4UCqfQHqj6gj2lfUK6uWw0) | 3:04 | 2023-07-01 |  |
+| [Say Yeah](https://open.spotify.com/track/4b4ZjULhiyx7xmMlNhmRld) | [CASSIMM](https://open.spotify.com/artist/1dA7pt23MNLlDsLpABATtG), [Mahalia Fontaine](https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il) | [Say Yeah](https://open.spotify.com/album/59BzHU0mtma193dlbdgdVF) | 3:09 | 2024-05-21 |  |
 | [Shook Pt\. 3 \- Radio Edit](https://open.spotify.com/track/2VcQUEGgTGfJLLjAM8iqLj) | [Nick Morgan](https://open.spotify.com/artist/29P8YF3232VxBXaU3vE4W8) | [Nothing But..\. House Party, Vol\. 09](https://open.spotify.com/album/66VRBA6YI1SpnQ9ixYfSs8) | 4:41 | 2024-03-24 |  |
 | [Sippin' Yak](https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Sippin' Yak](https://open.spotify.com/album/4BUST0vfVrEIgGszjVd9JD) | 2:26 | 2024-04-05 |  |
 | [Smoke](https://open.spotify.com/track/5oAdBATu5QbXvBrtpCe0Mk) | [Mikey Barreneche](https://open.spotify.com/artist/7qGy8DUTeuBqoyN6gUf3gd) | [Smoke](https://open.spotify.com/album/52Bf1M1i2VhaV7izP9piKg) | 2:57 | 2023-04-01 |  |

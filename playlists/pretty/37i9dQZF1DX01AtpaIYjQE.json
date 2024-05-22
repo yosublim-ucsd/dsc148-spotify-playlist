@@ -1,31 +1,15 @@
 {
   "description": "The essential tracks from LiSA. \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u304b\u3089\u4e16\u754c\u3078\u3068\u7fbd\u3070\u305f\u304f\u6b4c\u59eb\u3001LiSA\u306e\u30aa\u30fc\u30eb\u30bf\u30a4\u30e0\u30fb\u30d9\u30b9\u30c8!",
-  "num_followers": 252238,
+  "num_followers": 252246,
   "original_name": "This Is LiSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZifM8AAAAADYMzw9RDohr+mAn2u8k+27",
+  "snapshot_id": "Zky6fgAAAABEalROwUWQf+mPMH+wr66T",
   "tracks": [
     {
-      "added_at": "2024-04-23 15:00:00",
-      "album": {
-        "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
-        "url": "https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n"
-      },
-      "artists": [
-        {
-          "name": "LiSA",
-          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
-        }
-      ],
-      "duration_ms": 271045,
-      "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
-      "url": "https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC"
-    },
-    {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Shouted Serenade",
         "url": "https://open.spotify.com/album/1fd624gxyPygHMcmwhvAdB"
@@ -41,7 +25,39 @@
       "url": "https://open.spotify.com/track/4AmsxBuvjbrjytfHMcEoov"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
+      "album": {
+        "name": "\u30cf\u30eb\u30b7\u30cd\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 205680,
+      "name": "\u30cf\u30eb\u30b7\u30cd\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA"
+    },
+    {
+      "added_at": "2024-05-21 15:15:10",
+      "album": {
+        "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+        "url": "https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "duration_ms": 271045,
+      "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+      "url": "https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC"
+    },
+    {
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "HELLO WORLD",
         "url": "https://open.spotify.com/album/710djdFa2qcgDZvp8UzqLB"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/4Fc2uEp6DsKCxWB7day331"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "REALiZE",
         "url": "https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG"
@@ -73,7 +89,7 @@
       "url": "https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Social Path",
         "url": "https://open.spotify.com/album/69mwX2uyO8FKCc8KkRMHw7"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/0fkL0fOhEzRK8WFe2ixt2d"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "unlasting",
         "url": "https://open.spotify.com/album/6KX3psH1IKf8fNaz65uqRP"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/4sy8klhEbwqHc2od9K3p1h"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
@@ -125,7 +141,7 @@
       "url": "https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDSPACE",
         "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
@@ -141,7 +157,7 @@
       "url": "https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u518d\u4f1a (produced by Ayase)",
         "url": "https://open.spotify.com/album/5E725MGo2fLSl5Q6CYKevf"
@@ -161,7 +177,7 @@
       "url": "https://open.spotify.com/track/52IsIvHidofM9JMjw78Jyz"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u708e",
         "url": "https://open.spotify.com/album/1KmL1EZ0Pg9Vj3rPYMDqHY"
@@ -177,7 +193,7 @@
       "url": "https://open.spotify.com/track/0cSkn2l67csUljEy0EEBPn"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u8d64\u3044\u7f60(who loves it?) / ADAMAS",
         "url": "https://open.spotify.com/album/0FzOLNWpmK69dCGZ5AVjKo"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/6RpBs7BsS9oiHKtzJXsMOS"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LiTTLE DEViL PARADE",
         "url": "https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/6vRkYTrWDzzVrZTqBJFR0u"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u660e\u3051\u661f",
         "url": "https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LOVER\"S\"MiLE",
         "url": "https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG"
@@ -241,7 +257,7 @@
       "url": "https://open.spotify.com/track/4WRoLfCYJ4sLMhXgQJnI2N"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u5f80\u3051",
         "url": "https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx"
@@ -257,7 +273,7 @@
       "url": "https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Launcher",
         "url": "https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs"
@@ -273,7 +289,7 @@
       "url": "https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "PARADE",
         "url": "https://open.spotify.com/album/3Eyw8aU1Fn25ctcjd3GnMq"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/7LNsUhex5MXY66jiYGCxFT"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u3060\u3063\u3066\u30a2\u30bf\u30b7\u306e\u30d2\u30fc\u30ed\u30fc\u3002",
         "url": "https://open.spotify.com/album/6RIrlLnU6kxuBnYXQVg25m"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/45UI1yzA7vjkWHoAUZ8nGp"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/1rZxzheHxWqFG7f58kXZrm"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Launcher",
         "url": "https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs"
@@ -341,7 +357,7 @@
       "url": "https://open.spotify.com/track/6shqTPLADEpK31Qgi8LC7k"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "\u767d\u9280",
         "url": "https://open.spotify.com/album/3Y8xaDUTu15VRCE9TblUOy"
@@ -357,7 +373,7 @@
       "url": "https://open.spotify.com/track/0f5hcKLCRgpdVV424X4XDQ"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "from the edge -TV ver.-",
         "url": "https://open.spotify.com/album/6CqWiC7Nb2RiML0hXk9rsj"
@@ -377,7 +393,7 @@
       "url": "https://open.spotify.com/track/25hbD2ZhTlBv0MQAAAI6DY"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "R\u2203/MEMBER",
         "url": "https://open.spotify.com/album/34UE0ATLRzLTX2hytQnzu0"
@@ -397,7 +413,7 @@
       "url": "https://open.spotify.com/track/1v4W1B2Qq29MTVXZA26Jhj"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "ASH",
         "url": "https://open.spotify.com/album/0TAZXk1bXxW0Da0mukfzE3"
@@ -413,7 +429,7 @@
       "url": "https://open.spotify.com/track/6zxywTNOcgQ4jRWe1qDtSC"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "HADASHi NO STEP",
         "url": "https://open.spotify.com/album/6zPKHFU11OqxAGDvN0atmV"
@@ -429,7 +445,7 @@
       "url": "https://open.spotify.com/track/2chbq2OYbQeg5uDmr0bNhj"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LiSA BEST -Way-",
         "url": "https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls"
@@ -445,7 +461,7 @@
       "url": "https://open.spotify.com/track/5gf9xFlRXntw7hl3BBAeNp"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "ASH",
         "url": "https://open.spotify.com/album/0pSP1RWLlGZPFEeU6an064"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/6sX28h4bshzPlm6TBBAJT2"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LOVER\"S\"MiLE",
         "url": "https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG"
@@ -477,7 +493,7 @@
       "url": "https://open.spotify.com/track/3pvwavXxyhx7lIBdYY5Mjq"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LiTTLE DEViL PARADE",
         "url": "https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P"
@@ -493,7 +509,7 @@
       "url": "https://open.spotify.com/track/2kuitZwspuGShsNYXx5Zvp"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "THIS ILLUSION",
         "url": "https://open.spotify.com/album/4qeTC56RAFoYqlyLy5zSER"
@@ -509,7 +525,7 @@
       "url": "https://open.spotify.com/track/1OrzZdwIwqM7KSoks6Fqjp"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Launcher",
         "url": "https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/3w87wrXLQsUSEaqVpp7aLQ"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Mekakucity M's 1 ~Mekakucity Actors Vocal & Sound Collection~",
         "url": "https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm"
@@ -545,7 +561,7 @@
       "url": "https://open.spotify.com/track/56VTCRO6gYrpICBibMKr7R"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDSPACE",
         "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
@@ -561,7 +577,7 @@
       "url": "https://open.spotify.com/track/24GwFhh1ByRhPuCBrTQhlW"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LiTTLE DEViL PARADE",
         "url": "https://open.spotify.com/album/4HWWaor0tTxicWj06jDh0P"
@@ -577,7 +593,7 @@
       "url": "https://open.spotify.com/track/42R9a3jhROy4sgZdKkc7WT"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -593,7 +609,7 @@
       "url": "https://open.spotify.com/track/0dFOw1Zip1KGCAC70MNtLC"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/5rV3ABHl2JMQeR1U1fiXRh"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/1IRwNWiB2aDEoSdUgjJmay"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Brave Freak Out(Special Edition)",
         "url": "https://open.spotify.com/album/5T4l0yWA4cEuKq7I4Pkm3Q"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/7DVD1MBmD4JKAUOqu2aDsK"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/0h0VPPZ99UwmOy3gylbrAk"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDSPACE",
         "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
@@ -673,7 +689,7 @@
       "url": "https://open.spotify.com/track/3VCNGorhyDctdlJ6QLYGtI"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LADYBUG",
         "url": "https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB"
@@ -689,7 +705,7 @@
       "url": "https://open.spotify.com/track/6ehNNmlPGa1MlG1RyhT0I8"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Mekakucity M's 2 ~Mekakucity Actors Vocal & Sound Collection~",
         "url": "https://open.spotify.com/album/3SSYinciPEWb4y9V6HOS6m"
@@ -713,7 +729,7 @@
       "url": "https://open.spotify.com/track/0mkNGxmIlBCtkNeWr0PY0n"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -729,7 +745,7 @@
       "url": "https://open.spotify.com/track/1wDxr0NwlusJFkwu6ci8WO"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LOVER\"S\"MiLE",
         "url": "https://open.spotify.com/album/7hUK1JeViZx1M2lkgS3vPG"
@@ -745,7 +761,7 @@
       "url": "https://open.spotify.com/track/7qhndu9caI7FUlfmKORIOD"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDSPACE",
         "url": "https://open.spotify.com/album/5HFUxDJPT23Q2VN32WPi3c"
@@ -761,7 +777,7 @@
       "url": "https://open.spotify.com/track/5UXfC09ZN5Vj1Rm1wckSHh"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -777,7 +793,7 @@
       "url": "https://open.spotify.com/track/57zh02Y7xMlLY6FEdOquFu"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/0Mu4Yoh1DxMdn24tovjU76"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "Mekakucity M's 1 ~Mekakucity Actors Vocal & Sound Collection~",
         "url": "https://open.spotify.com/album/3h997MmMOM3Sdtb9MzEKVm"
@@ -813,7 +829,7 @@
       "url": "https://open.spotify.com/track/23fiEpw0tVpRdu7z5zyvoc"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -829,7 +845,7 @@
       "url": "https://open.spotify.com/track/2IqjLpWrs5gI2xG2OEFxvx"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LEO-NiNE",
         "url": "https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO"
@@ -849,7 +865,7 @@
       "url": "https://open.spotify.com/track/4M9x9R9Ar89CFatJwMbkrf"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -865,7 +881,7 @@
       "url": "https://open.spotify.com/track/4la4G9g7JzxRIDXH6HIJvd"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -881,7 +897,7 @@
       "url": "https://open.spotify.com/track/6s1WMXoUhEpgWcBYCRJq2n"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
@@ -897,7 +913,7 @@
       "url": "https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A"
     },
     {
-      "added_at": "2024-04-23 15:00:00",
+      "added_at": "2024-05-21 15:15:10",
       "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Leo
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,338 likes - 85 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,349 likes - 85 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 30 | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/track/4lCJO8QeKIkU2um1z5NBb9) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl) | [Bloody Sweet \(From "Leo"\)](https://open.spotify.com/album/7mKc9SHsbYiAoDODfFqqZo) | 2:48 |
 | 31 | [The Fall of Pandya](https://open.spotify.com/track/1VtExYv1dUAAZM2uIX1IYE) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Ilango Krishnan](https://open.spotify.com/artist/58SpQmXPEzBZ5edRGCj8xo) | [Ponniyin Selvan \(Original Score\)](https://open.spotify.com/album/23HAmfHXpbuaGW2PRgHUu1) | 1:51 |
 | 32 | [Rage for Vengeance](https://open.spotify.com/track/5nczEGOXX9j0BIkAaYxrTm) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr) | [Chithha \(Original Background Score\)](https://open.spotify.com/album/5i30TbSl1ruTJxLDeHKDts) | 1:13 |
-| 33 | [Ace of Hearts \- From "Ace"](https://open.spotify.com/track/0DQariHK8zf2HYZ7B7h2Cx) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Ace of Hearts \(From "Ace"\)](https://open.spotify.com/album/6jJk7L2xz36cCnqG5gQQCa) | 1:09 |
+| 33 | [Ace of Hearts \- From "Ace"](https://open.spotify.com/track/0DQariHK8zf2HYZ7B7h2Cx) | [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr) | [Ace of Hearts \(From "Ace"\)](https://open.spotify.com/album/6jJk7L2xz36cCnqG5gQQCa) | 1:08 |
 | 34 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
 | 35 | [JD Intro \- Background Score](https://open.spotify.com/track/7KqmDr9lTjwXnX5krMIKiC) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 1:20 |
 | 36 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |

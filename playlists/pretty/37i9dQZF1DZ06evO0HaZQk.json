@@ -1,12 +1,12 @@
 {
   "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 492522,
+  "num_followers": 492566,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABFe/2lqy51xjsqYurzWyGA",
+  "snapshot_id": "ZkqSgAAAAACfF9I/NlIfhIt/Vh8wj4cU",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio la Colifata Presenta: El Canto del Loco",
-        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Contigo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
         "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
       },
@@ -263,6 +243,26 @@
       "duration_ms": 237000,
       "name": "Amor, Amor de Mis Amores (with Devendra Banhart)",
       "url": "https://open.spotify.com/track/3dB42OEuVNiktvt3V5JRVI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
     },
     {
       "added_at": null,

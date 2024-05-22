@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: La T y La M.",
-  "num_followers": 1163380,
+  "num_followers": 1163385,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "NO FUIMOS",
-        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 136853,
-      "name": "NO FUIMOS",
-      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Pasatiempo",
         "url": "https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 197161,
       "name": "Pasatiempo",
       "url": "https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "NO FUIMOS",
+        "url": "https://open.spotify.com/album/6vvHDYSxaLuhOZUMAU4xIf"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 136853,
+      "name": "NO FUIMOS",
+      "url": "https://open.spotify.com/track/717KavpEoZakUVizYk70TU"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Universo Paralelo",
+        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 156325,
+      "name": "Universo Paralelo",
+      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "B\u00e9same",
         "url": "https://open.spotify.com/album/2gdXeh9icSTRQp71pxmTP6"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 142410,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/5uD4fcXch2qE5LYeyDipA1"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Universo Paralelo",
-        "url": "https://open.spotify.com/album/7yzR06l7GbsbtIoRKqqCwP"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 156325,
-      "name": "Universo Paralelo",
-      "url": "https://open.spotify.com/track/7wx4KZQ9SRMTldt5ayD1ul"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Lo Mejor del Amor",
+        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo",
+          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Lo Mejor del Amor",
+      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -1307,26 +1327,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Lo Mejor del Amor",
-        "url": "https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo",
-          "url": "https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Lo Mejor del Amor",
-      "url": "https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "S\u00f3lo con un Beso",
-        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 155878,
-      "name": "S\u00f3lo con un Beso",
-      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Pechito Partido",
         "url": "https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 147109,
       "name": "Pechito Partido",
       "url": "https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "S\u00f3lo con un Beso",
+        "url": "https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
+        }
+      ],
+      "duration_ms": 155878,
+      "name": "S\u00f3lo con un Beso",
+      "url": "https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1623,26 +1623,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Noche de Party",
-        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 152942,
-      "name": "Noche de Party",
-      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Bonita",
         "url": "https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU"
       },
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Noche de Party",
+        "url": "https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 152942,
+      "name": "Noche de Party",
+      "url": "https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "La Culpa",
         "url": "https://open.spotify.com/album/2Oc4Ryp8QouliKlvFOiu9T"
       },
@@ -1683,6 +1683,26 @@
       "duration_ms": 123600,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/1TQ97PNnqsgVPnt6tjY46L"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Copacabana (Remix)",
+        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "La T y La M",
+          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
+        }
+      ],
+      "duration_ms": 153133,
+      "name": "Copacabana - Remix",
+      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Copacabana (Remix)",
-        "url": "https://open.spotify.com/album/3FBdw6cz2xafwzvukIVtuy"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "La T y La M",
-          "url": "https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B"
-        }
-      ],
-      "duration_ms": 153133,
-      "name": "Copacabana - Remix",
-      "url": "https://open.spotify.com/track/5QNPsYAr31UzNJ0NlsYPVQ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "CUMBIA DE BARRIO",
         "url": "https://open.spotify.com/album/3ULiklyFhamKh3S2B9zwbZ"
       },
@@ -1743,34 +1743,6 @@
       "duration_ms": 181354,
       "name": "CUMBIA DE BARRIO",
       "url": "https://open.spotify.com/track/2Q60P16hfjLGb8SbQbDt16"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Lado Triste (Remix)",
-        "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 167038,
-      "name": "Lado Triste - Remix",
-      "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1807,6 +1779,34 @@
       "duration_ms": 182599,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/1lyJIjlGdT429sZpukV0Ih"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Lado Triste (Remix)",
+        "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 167038,
+      "name": "Lado Triste - Remix",
+      "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
     },
     {
       "added_at": "2024-05-17 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Billie Eilish in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,689 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,720 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 84 | [EXTASY](https://open.spotify.com/track/5nrOXJPRfFcrZbc2E3It9h) | [Sillyelly](https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P), [EnimraK](https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf) | [EXTASY](https://open.spotify.com/album/3YaVkPXkzDkgFViCSrOFAu) | 2:25 |
 | 85 | [Marenero](https://open.spotify.com/track/5uUVrzgJGbAExheODT43h8) | [Mediterraneo](https://open.spotify.com/artist/0OW26IfAPpYzsymfad0489) | [Marenero](https://open.spotify.com/album/0uXHxyaEzteUvsnjZMAIQ4) | 3:13 |
 | 86 | [SOTTOCASSA](https://open.spotify.com/track/6fdNKvSzGtQMysIQMkfCOc) | [Zeep](https://open.spotify.com/artist/40usQNdy0NlR8VVqV3AUrl), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [SOTTOCASSA](https://open.spotify.com/album/4NFElO5jpsG15fexQqRhBi) | 3:36 |
-| 87 | [ALL’OLD \(feat\. I Desideri\)](https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [AMORI \(mag ‘23 \- giu ‘24\)](https://open.spotify.com/album/65Nd2MOzCg5iHIkfPMzUhs) | 2:31 |
+| 87 | [ALL’OLD \(feat\. I Desideri\)](https://open.spotify.com/track/6EFHIGfNnmIgefswKrMfVV) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [I Desideri](https://open.spotify.com/artist/4t7NH9MvLDY2RMiNLE50d8) | [AMORI \(giu ‘23 \- mag ‘24\)](https://open.spotify.com/album/65Nd2MOzCg5iHIkfPMzUhs) | 2:31 |
 | 88 | [AMICI](https://open.spotify.com/track/6P8Bzgax4c9wGFbaKqIWa8) | [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic) | [AMICI](https://open.spotify.com/album/12FEZRMxfJLbisaqfwrtq4) | 2:51 |
 | 89 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
 | 90 | [Badman \(Ting\) \(feat\. Flowdan\)](https://open.spotify.com/track/3diLbv7ChuSFm6nmhIqW0d) | [Valerian Swing](https://open.spotify.com/artist/5tj8t2rXNyMRpER4EbFU93), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Badman \(Ting\) \(feat\. Flowdan\)](https://open.spotify.com/album/6SdzI9JTSBYzZaIHxlwiwV) | 3:25 |

@@ -1,6 +1,6 @@
 {
   "description": "el amor es <3",
-  "num_followers": 90247,
+  "num_followers": 90265,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "YOKO",
-        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "YOKO",
-      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Miel",
         "url": "https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 124589,
       "name": "Miel",
       "url": "https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "YOKO",
+        "url": "https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "YOKO",
+      "url": "https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "ya no somos los mismos",
-        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
-    },
-    {
-      "added_at": "2024-05-16 00:12:45",
-      "album": {
         "name": "Sensaciones",
         "url": "https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 68733,
       "name": "86.400",
       "url": "https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN"
+    },
+    {
+      "added_at": "2024-05-16 00:12:45",
+      "album": {
+        "name": "ya no somos los mismos",
+        "url": "https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Ojitos de Mar",
-        "url": "https://open.spotify.com/album/5j0OvZUnnSdSoHTQXdXlfV"
+        "name": "Inmensamente Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
       },
       "artists": [
         {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+          "name": "Ronroneo",
+          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
         }
       ],
-      "duration_ms": 167040,
-      "name": "Ojitos de Mar",
-      "url": "https://open.spotify.com/track/6wVHckA1vQhXp1tRzSEzbH"
+      "duration_ms": 219967,
+      "name": "Inmensamente Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
     },
     {
       "added_at": "2024-05-16 00:12:45",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-05-16 00:12:45",
       "album": {
-        "name": "Inmensamente Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/1kdyYN2uapW4W1RFVcSPCa"
+        "name": "Ojitos de Mar",
+        "url": "https://open.spotify.com/album/5j0OvZUnnSdSoHTQXdXlfV"
       },
       "artists": [
         {
-          "name": "Ronroneo",
-          "url": "https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK"
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
         }
       ],
-      "duration_ms": 219967,
-      "name": "Inmensamente Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/7dbLDpFeg0Gydsf3UrxSdI"
+      "duration_ms": 167040,
+      "name": "Ojitos de Mar",
+      "url": "https://open.spotify.com/track/6wVHckA1vQhXp1tRzSEzbH"
     },
     {
       "added_at": "2024-05-16 00:12:45",

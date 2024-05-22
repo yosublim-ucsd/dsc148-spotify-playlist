@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7404,
+  "num_followers": 7405,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "One More Night",
         "url": "https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 226710,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
-      },
-      "artists": [
-        {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
-        }
-      ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Sugah Rush",
         "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 160594,
       "name": "Sugah Rush",
       "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Russell County Line",
-        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Love to See You Cry",
         "url": "https://open.spotify.com/album/1mkAPib2Kb832r0UBu3OmD"
       },
@@ -851,18 +835,34 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "How Did We Get To Goodbye",
-        "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
+        "name": "Russell County Line",
+        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
       },
       "artists": [
         {
-          "name": "Danielle Nicole",
-          "url": "https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn"
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
         }
       ],
-      "duration_ms": 279138,
-      "name": "How Did We Get To Goodbye",
-      "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Nighttime Walk",
+        "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
+      },
+      "artists": [
+        {
+          "name": "Mercy John",
+          "url": "https://open.spotify.com/artist/1zJU6SWc4fzECllRZbixhJ"
+        }
+      ],
+      "duration_ms": 336904,
+      "name": "Nighttime Walk",
+      "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
     }
   ],
   "unique_name": "Route Americana",

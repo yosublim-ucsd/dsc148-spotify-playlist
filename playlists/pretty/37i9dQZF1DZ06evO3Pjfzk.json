@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 61560,
+  "num_followers": 61642,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADpflkKkASQTw8bp3d7lebf",
+  "snapshot_id": "ZkqSgAAAAACcabNLGvHbo/GGWuQEOEEI",
   "tracks": [
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+        "name": "Workin' Overtime",
+        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 201653,
-      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
-      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
+      "duration_ms": 197685,
+      "name": "Workin' Overtime",
+      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Workin' Overtime",
-        "url": "https://open.spotify.com/album/7lSO4tNS7QRbsJXY8PAq7O"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 197685,
-      "name": "Workin' Overtime",
-      "url": "https://open.spotify.com/track/7moCajI0QyQ4mHf1ayiihD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -364,9 +348,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 140413,
-      "name": "WWDD",
-      "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
+      "duration_ms": 201653,
+      "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+      "url": "https://open.spotify.com/track/5AzFlhzijKM7xFPY5b1taP"
     },
     {
       "added_at": null,
@@ -387,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bell Bottom Country",
-        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "Hold My Halo",
-      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lainey Wilson - EP",
         "url": "https://open.spotify.com/album/1uxlD2oKxZ9i1gLO7l1Oga"
       },
@@ -419,6 +387,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bell Bottom Country",
+        "url": "https://open.spotify.com/album/06q6BDUpP6OS8Xnx3YC2M0"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "Hold My Halo",
+      "url": "https://open.spotify.com/track/29O197ONSFNzq063eb0869"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
         "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
       },
@@ -428,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176053,
-      "name": "Straight Up Sideways",
-      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
+      "duration_ms": 140413,
+      "name": "WWDD",
+      "url": "https://open.spotify.com/track/7AXmVQNJ93e9k2TLLU3ybl"
     },
     {
       "added_at": null,
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Rolling Stone",
-      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
+      "duration_ms": 176053,
+      "name": "Straight Up Sideways",
+      "url": "https://open.spotify.com/track/7E4ijYR8LB9gQ5gHHc3ljT"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
       "duration_ms": 228373,
       "name": "Prop Me Up Beside The Jukebox (If I Die) [feat. The Difftones]",
       "url": "https://open.spotify.com/track/5X9G3iIyegabYrQQLuzFIs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sayin\u2019 What I\u2019m Thinkin\u2019",
+        "url": "https://open.spotify.com/album/2WBvIseHSAwsPP4YbNgZXR"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/3p2brffzUnKntkWawtYQd9"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tougher",
+        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Two Sides of Bad",
+      "url": "https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enlisted",
         "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 249481,
       "name": "International Harvester",
       "url": "https://open.spotify.com/track/1IFHSmd00HhsINmxvjXtLW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tougher",
-        "url": "https://open.spotify.com/album/139iXhHdS8eCKVx7tOaOqo"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Two Sides of Bad",
-      "url": "https://open.spotify.com/track/4LyY1jvrnKnIWl3uv94qd1"
     },
     {
       "added_at": null,

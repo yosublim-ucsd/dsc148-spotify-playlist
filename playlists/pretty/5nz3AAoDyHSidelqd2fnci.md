@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 50 min 34 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 49 min 32 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Better Days](https://open.spotify.com/track/6xmMBY754l7guTzNokbzos) | [1111](https://open.spotify.com/artist/0CnZz6rvqYBualwWKuMiOE) | [Better Days](https://open.spotify.com/album/23TwGNiTdCvHnZXqm4tJsp) | 3:31 |
-| 2 | [With Love](https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc) | [Snarls](https://open.spotify.com/artist/3yZV7kMGClXfw0xaPAlImS) | [With Love,](https://open.spotify.com/album/3fqm4PDI57qVWEJBOGxyrN) | 3:21 |
-| 3 | [Don't Stop Believin'](https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [80s 100 Hits](https://open.spotify.com/album/0pvhletDH7CphbKErUtPCF) | 4:08 |
-| 4 | [That's All \- Remastered 2007](https://open.spotify.com/track/2gUjs3Y8RoPpwozKyQDCUa) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Genesis](https://open.spotify.com/album/2u0T1xzCoI7ANxWDEj9yl6) | 4:26 |
-| 5 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
-| 6 | [Dios se manifiesta](https://open.spotify.com/track/4fpubEHX4lU798JidwjSpv) | [Emmanuel Music](https://open.spotify.com/artist/4khkeTO8Uk7Zp870J76uDH) | [Alegría \(WYD 2011 International album\)](https://open.spotify.com/album/6P9MvLq59gPNZXA6aJLTyx) | 4:36 |
-| 7 | [Secrets in a Box](https://open.spotify.com/track/0p8UUl28sWjj4O9eTOHz2o) | [Cruskin](https://open.spotify.com/artist/0HhKAWSf0VFCkW9zoZodE9) | [Secrets in a Box](https://open.spotify.com/album/7eQ5R30YMqoyIQXW1B1f2E) | 2:59 |
-| 8 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 |
-| 9 | [Last Resort](https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/3VdXq4YQIt3ugs05SjFmsD) | 3:19 |
-| 10 | [I'll Be There For You](https://open.spotify.com/track/2SfXwLVq1w4WPP2SsPMynv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Bon Jovi Greatest Hits](https://open.spotify.com/album/5QBlkA2zcJ18lINbj2i8RD) | 5:46 |
-| 11 | [Tears of the Dragon](https://open.spotify.com/track/0wIBOrGO6PUkhsrbhJdlcJ) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls To Picasso](https://open.spotify.com/album/34ov9vJcIYcfQmFLxaagoc) | 6:24 |
-| 12 | [1230](https://open.spotify.com/track/44tWGaJ7ZRIeJFt6QITHo3) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [We Came As Romans](https://open.spotify.com/album/2bb60qwBSPJRVW5w7hgSIX) | 3:52 |
+| 1 | [All The Things She Said](https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg) | [t.A.T.u.](https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO) | [200 KM/H In The Wrong Lane \(10th Anniversary Edition\)](https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB) | 3:34 |
+| 2 | [Hooch](https://open.spotify.com/track/5df4yz25t1CQHYNHGGg6NR) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 3:28 |
+| 3 | [Broken Pieces](https://open.spotify.com/track/0zu383xVfq68H6XkHZ8prP) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [Lacey](https://open.spotify.com/artist/70ULy9xkT1iUxXIJyHPDQU) | [7th Symphony](https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk) | 3:54 |
+| 4 | [A New Level](https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 3:57 |
+| 5 | [Honeypot](https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW) | [Kinck](https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej) | [Most Wanted](https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf) | 2:30 |
+| 6 | [All Alone](https://open.spotify.com/track/0HoGNpafXs161vYcJnQcyu) | [The Sins Of Thy Beloved](https://open.spotify.com/artist/0eFg9cfr8pPciNtqP5s14S) | [Lake of Sorrow](https://open.spotify.com/album/4j6YOlgp8gPbg7eZuTGq1D) | 7:13 |
+| 7 | [Bulls in the Bronx](https://open.spotify.com/track/5JQ21uZ49Hn5VjPiyDSqza) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Collide With The Sky](https://open.spotify.com/album/3zV9jildMcfY3Dwq55ySt7) | 4:27 |
+| 8 | [The Hunger](https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ) | [The Distillers](https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT) | [Coral Fang \(PA Version\)](https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr) | 5:28 |
+| 9 | [Waking The Fallen: Resurrected](https://open.spotify.com/track/0cVlBklUQpJzFhIZSxw2J5) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen: Resurrected](https://open.spotify.com/album/23M9qOX1iPIlHKfm4l3oKU) | 2:49 |
+| 10 | [liverounds](https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso) | [damon r.](https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD) | [liverounds](https://open.spotify.com/album/4XVm6hHwM1fjUZywejQ3Wz) | 2:02 |
+| 11 | [Live To Kill](https://open.spotify.com/track/07zhTZ55wBAnnLUWP6HNGc) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Rescue \(Deluxe Version\)](https://open.spotify.com/album/7r0RKFHhYbNJSpzdSKP7Yg) | 2:35 |
+| 12 | [Victim](https://open.spotify.com/track/4H2x38N2IZAkZZM69WD1SH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 7:29 |
 
-Snapshot ID: `AAAAeR72crn1pWx05nBytoBdJhN221RD`
+Snapshot ID: `AAAAei3Y+zIeSgGsckggFp1c22YHWdXe`

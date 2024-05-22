@@ -2,9 +2,9 @@
 
 ### [Top Sharqi Hits](https://open.spotify.com/playlist/37i9dQZF1DXe3aCmUoBd8n)
 
-> Top Sharqi hits right now\. Cover: AL SHAMI
+> Top Sharqi hits right now\. Cover: Nassif Zeytoun & Rahma Riad
 
-154 songs - 9 hr 4 min
+158 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aal Sarii](https://open.spotify.com/track/5zzxjuMJkqSFlBCAeIEE6Y) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Aal Sarii](https://open.spotify.com/album/60TwM5Q2pT4ZQTn4SXrM1a) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [Aam Faker Fiya](https://open.spotify.com/track/03QwVOvP2mrb870634I6yi) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [Aam Faker Fiya](https://open.spotify.com/album/4F3ad3v2zB6nNri9P0rpke) | 2:48 | 2023-05-19 |  |
 | [Aam Ontofi](https://open.spotify.com/track/3p2PyYFJ84nakiP2ZjnATM) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Aam Ontofi](https://open.spotify.com/album/52f8giij6iu8vMFnhMaZWZ) | 2:59 | 2023-01-05 |  |
-| [Admantak](https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Admantak](https://open.spotify.com/album/590ZPmndijZDDjeC4DiAkC) | 4:28 | 2023-06-28 |  |
+| [Admantak](https://open.spotify.com/track/0tPxzBIbh3cPuwP56D2aiF) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Admantak](https://open.spotify.com/album/590ZPmndijZDDjeC4DiAkC) | 4:28 | 2023-06-28 | 2024-05-22 |
 | [Ahebany Kama Ana](https://open.spotify.com/track/2ASQ29GUeL8DpRXPcZLJsK) | [Mayada El Hennawy](https://open.spotify.com/artist/4KEnL3MuGqQHnaIKdZ1pYz) | [Ahebany Kama Ana](https://open.spotify.com/album/7dDnnhow00piLLNEDchlQY) | 6:34 | 2024-02-09 | 2024-04-24 |
 | [Ahla Sabiyeh](https://open.spotify.com/track/6hBysAK8U8DzswoRLZNah4) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ahla Sabiyeh](https://open.spotify.com/album/5t15RSlFHOwmPaJ7a7QXkO) | 4:35 | 2022-05-04 | 2023-03-14 |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2022-05-04 | 2022-07-17 |
@@ -79,13 +79,14 @@
 | [Hallah Hallah Ya Deni](https://open.spotify.com/track/0KtWEni97FG5JETFy9QXa9) | [Fares Karam](https://open.spotify.com/artist/06LBSAoRYVLCzBU0HtlPW3) | [Hallah Hallah Ya Deni](https://open.spotify.com/album/2U7JsJfzGnx5preXhVRG6F) | 3:00 | 2023-01-05 | 2023-06-28 |
 | [Haydi Habibit Albi](https://open.spotify.com/track/5Avczi9dhLQDx8JHrlkJZp) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [Haydi Habibit Albi](https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ) | 3:42 | 2022-05-04 | 2024-02-10 |
 | [Helmi W Helmik](https://open.spotify.com/track/0zy5G68FFZVEGJR6Gh888k) | [Eyad Tannous](https://open.spotify.com/artist/2TcwAXvlfUoL1QPBC2qmIR) | [حلمي وحلمك](https://open.spotify.com/album/0IilzA29e7JXxDMDTqqsGT) | 4:16 | 2022-06-20 | 2024-02-10 |
-| [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-03-13 |  |
-| [InshAllah Kheir](https://open.spotify.com/track/5rX5G6U6SR8459HXIFuKOS) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [InshAllah Kheir](https://open.spotify.com/album/6AyUgFdjCcaNeTYRlZFPe9) | 2:30 | 2023-07-27 |  |
-| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-03-11 |  |
+| [Hobbak Me'zi](https://open.spotify.com/track/2YmifrQSCaXqlRoH7MlgQu) | [Pascale Machaalani](https://open.spotify.com/artist/4BwpexsYvb32ZgJJsR9jP9) | [Hobbak Me'zi](https://open.spotify.com/album/4dyjBU7cvyqXNmxaY62U6r) | 4:15 | 2023-03-13 | 2024-05-22 |
+| [InshAllah Kheir](https://open.spotify.com/track/5rX5G6U6SR8459HXIFuKOS) | [Dana Hourani](https://open.spotify.com/artist/15hYqWGQsqwtFi7FgLE4i6) | [InshAllah Kheir](https://open.spotify.com/album/6AyUgFdjCcaNeTYRlZFPe9) | 2:30 | 2023-07-27 | 2024-05-22 |
+| [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-03-11 | 2024-05-22 |
 | [Kelna Mnenjar](https://open.spotify.com/track/0KGZNoR5kZ1aUw83pfunng) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kelna Mnenjar](https://open.spotify.com/album/3cPQv8RJQYIShkRDMhaO2R) | 3:10 | 2022-05-04 | 2023-03-14 |
 | [khallina N3esh](https://open.spotify.com/track/7qq9gkXMLG64zEnqTn2s9o) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [khallina N3esh](https://open.spotify.com/album/4bUVYFe5LEtKByQcKmRvQg) | 3:29 | 2022-06-20 |  |
 | [Khedi El Ghamrat](https://open.spotify.com/track/65nzInq9ZyybOT7QN5kmk9) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI), [Marwan Khoury](https://open.spotify.com/artist/6e6VucoDJD6bmJPlnO7AkN) | [Khedi El Ghamrat](https://open.spotify.com/album/7tDPiW6WjlY15ymIHUFbEW) | 4:13 | 2024-02-29 |  |
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-03-13 |  |
+| [La Akher Dakka](https://open.spotify.com/track/000tjH40F2n9sejp5LwAhV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [La Akher Dakka](https://open.spotify.com/album/2GJ8iNMaVPTzW59RPACjaQ) | 3:07 | 2024-05-21 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 | 2022-06-05 |
 | [La Tsin El Sef](https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tsin El Sef](https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn) | 3:10 | 2022-08-28 |  |
 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 | 2022-08-28 | 2023-07-28 |
@@ -149,6 +150,7 @@
 | [بركان](https://open.spotify.com/track/5ebPGUF0ycevMKFLepmYdU) | [Bigsam](https://open.spotify.com/artist/20T7aJPzK6LoFR0GRFdNW8) | [بركان](https://open.spotify.com/album/5RKRUPGQoldDKWdDOykvZv) | 3:10 | 2023-12-27 | 2024-04-19 |
 | [بيتكلم عليا](https://open.spotify.com/track/7yqw4f8ovU2HuuQmfy4kVu) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Byetkallem Aalaya](https://open.spotify.com/album/0in1Cb14BGgSyvwOHWpNni) | 4:17 | 2022-12-01 | 2023-01-06 |
 | [جمالا](https://open.spotify.com/track/6wyCbgtbiZU6g5ovWTIRwI) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Jamala](https://open.spotify.com/album/2zuh7nXPm70aZ1JyffBa8x) | 2:54 | 2022-10-09 |  |
+| [حـب الـلي بحـبك](https://open.spotify.com/track/7sbTbz9n2ormZLvs18jPYC) | [Mohamed el Majzoub](https://open.spotify.com/artist/154fa6GCqPcTDUCF6BBdHS) | [حـب الـلي بحـبك](https://open.spotify.com/album/6uNNRJncQVbNCzBZNXOofm) | 3:18 | 2024-05-21 |  |
 | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/track/0QdVWAqqAUcCg0kWVKInoy) | [Ahmed Al Glamawy](https://open.spotify.com/artist/1v8UZn3HGKyy1rqesyDhKl) | [رفـت عـيـنـي تريد اتشوفو](https://open.spotify.com/album/5GtpCK8jXXqp1f61R6mxqF) | 6:45 | 2023-08-25 | 2023-10-05 |
 | [زهرة من الياسمين](https://open.spotify.com/track/0tS4ytQ1au13MkSFESa6B7) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [زهرة من الياسمين](https://open.spotify.com/album/5CLgYJzaltpiwQOjXf4bD8) | 4:10 | 2022-07-16 | 2023-05-06 |
 | [سمرة وصغيرة](https://open.spotify.com/track/5NQOrWxcIL2Xh9I1SDoRmy) | [محفوض الماهر Mahfoud almaher](https://open.spotify.com/artist/6Hc6rbR7BcGj4qxnBrfWd3) | [سمرة وصغيرة](https://open.spotify.com/album/0oLeiK4TOJ93hWGFxSrOhZ) | 3:19 | 2024-02-09 |  |
@@ -162,5 +164,7 @@
 | [لسا معاكي](https://open.spotify.com/track/41QZQmkjJdoeDs1tXvHkTe) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [لسا معاكي](https://open.spotify.com/album/4YjpY7ewK48QYGBUMHoAoF) | 3:24 | 2022-05-04 | 2022-06-21 |
 | [منّي وفي](https://open.spotify.com/track/4eTNDn35N9I9SX7B1eNg0M) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [شايفه فيك](https://open.spotify.com/album/6ylllDswM090TsaEqRXsci) | 3:00 | 2023-01-05 | 2024-04-19 |
 | [وحدة استثنائية](https://open.spotify.com/track/3Bnv2cObKDoOkGsEUiB5ng) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [وحدة استثنائية](https://open.spotify.com/album/6TrVUinitYu2meZYum1FSI) | 3:32 | 2022-06-20 | 2023-05-20 |
+| [⁠Hazzi Dehekli](https://open.spotify.com/track/3VJ14M8j85bAYBupPOdZu2) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:12 | 2024-05-21 |  |
+| [⁠Kello Wahem](https://open.spotify.com/track/1f2fYVjioypcXDKj1eZLME) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Ana Sekketen](https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o) | 3:22 | 2024-05-21 |  |
 
 \*This playlist was first scraped on 2022-05-13. Prior content cannot be recovered.

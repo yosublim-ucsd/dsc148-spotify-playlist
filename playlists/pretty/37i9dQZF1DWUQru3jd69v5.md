@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Don Pero in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,282 likes - 56 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,285 likes - 56 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 47 | [CLAP](https://open.spotify.com/track/69fSWmNpHYANjhjIAzuVuS) | [Helena](https://open.spotify.com/artist/3YqQgRjT98ZzIhd9t8FHvt), [Tradez](https://open.spotify.com/artist/39oUK0McNh3XvEG5MyU4lm) | [CLAP](https://open.spotify.com/album/7lPIywafr4xHly98THAoWQ) | 2:17 |
 | 48 | [BIBLIOTECA \(feat\. Nerissima Serpe\)](https://open.spotify.com/track/0MQUTRdqQexyOW8PlkVG32) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB) | [BIBLIOTECA](https://open.spotify.com/album/33UgakjgEbV7nX2H30lktQ) | 2:33 |
 | 49 | [2 THE TOP \(feat\. Justinowusu\)](https://open.spotify.com/track/25EfgHjpWSf7Y30p8gUdvM) | [Razer.Rah](https://open.spotify.com/artist/48N1AD5ggZAa5tq6br2mZb), [Justinowusu](https://open.spotify.com/artist/7uNbiEsTlT5AmPdLr4Trab) | [2 THE TOP](https://open.spotify.com/album/7bFPHeW6o9j2X3FNfETKrh) | 2:41 |
-| 50 | [MOTARD \(feat\. Willy\)](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj), [Willy](https://open.spotify.com/artist/3OPPr0QwjBGnWfaVkxBTow) | [MOTARD \(feat\. Willy\)](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 |
+| 50 | [MOTARD](https://open.spotify.com/track/1eMlp9lwJqs9Bnh2WeZhPu) | [Helmi sa7bi](https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj) | [MOTARD](https://open.spotify.com/album/0z0F6lC6Mdo7fOvk6sXGiH) | 2:22 |
 | 51 | [Occhi Rossi Freestyle](https://open.spotify.com/track/2VJWfd8jn9SCIOhRyqcROy) | [Poli Ok](https://open.spotify.com/artist/0xgcFVaTrkdF6zEqV33f4E), [NiceKidd](https://open.spotify.com/artist/3zNcd0BHC60ItVXvCJtlyX) | [Occhi Rossi Freestyle](https://open.spotify.com/album/73uAUIvWzdVmSmhRdQtwOA) | 2:01 |
 | 52 | [BUGIE \(prod\. 2nd Roof\)](https://open.spotify.com/track/4bT69rREWHEheKHomaCwid) | [Fiore Akamono](https://open.spotify.com/artist/49ArqXIeUITOksVKcoKOCB), [85Prod](https://open.spotify.com/artist/7n6z8NXRn1fEM15LesQ2Fr), [2nd Roof](https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx) | [BUGIE](https://open.spotify.com/album/3KRmMixu3rYQo1om3MCJHm) | 2:22 |
 | 53 | [Silenzio](https://open.spotify.com/track/4ZeeaYpyJA9jYD8OLeO55R) | [Blocage](https://open.spotify.com/artist/44oncuQSlFMMh7PRslRKUk) | [Silenzio](https://open.spotify.com/album/52Pa9RKZkIg9f61V7duIRA) | 2:33 |

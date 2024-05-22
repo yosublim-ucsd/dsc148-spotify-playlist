@@ -2457,6 +2457,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30eb\u30b7\u30cd\u30a4\u30c8",
+        "url": "https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205680,
+      "name": "\u30cf\u30eb\u30b7\u30cd\u30a4\u30c8",
+      "url": "https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA"
+    },
+    {
+      "album": {
         "name": "LiSA BEST -Way-",
         "url": "https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls"
       },

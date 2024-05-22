@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 210749,
+  "num_followers": 210901,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAA8+mBxhTi+1YKz9vwHBTlP",
+  "snapshot_id": "ZkqSgAAAAAD5wF+vT0bxg8tT2lccc4PM",
   "tracks": [
     {
       "added_at": null,
@@ -327,18 +327,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+        "name": "Waylon & Willie 2",
+        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
       },
       "artists": [
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 136253,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF"
+      "duration_ms": 249302,
+      "name": "Fall in the Fall",
+      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
     },
     {
       "added_at": null,
@@ -359,22 +363,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie 2",
-        "url": "https://open.spotify.com/album/4o9I622N2dNhGOiaHqjwad"
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
       "artists": [
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
         }
       ],
-      "duration_ms": 249302,
-      "name": "Fall in the Fall",
-      "url": "https://open.spotify.com/track/6bXSfLBuqFQtVHNLxXbqbk"
+      "duration_ms": 136253,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/45C1q1zsHmxsRfCi9V9nVF"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 201280,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 254277,
       "name": "Life",
       "url": "https://open.spotify.com/track/1fnHcFqvzsTtXNDnm1rVf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 201280,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/4BImM1ASmigkuEhxrPfUAf"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Addiction Kills",
-        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 153388,
-      "name": "Comfort Zone",
-      "url": "https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 203550,
       "name": "Nothing Left At All",
       "url": "https://open.spotify.com/track/3WhglCUuc5HGhvtzfjc8YY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Addiction Kills",
+        "url": "https://open.spotify.com/album/1S7q7yBHK7Pxd8KDgn3iqP"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 153388,
+      "name": "Comfort Zone",
+      "url": "https://open.spotify.com/track/7vO6yVflgdpdAxArZV6URT"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Beautiful Disaster",
         "url": "https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 156816,
       "name": "The Bottom",
       "url": "https://open.spotify.com/track/3HTlU2dr9WtOXTe4ktQcc0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waylon & Willie",
-        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        },
-        {
-          "name": "Struggle Jennings",
-          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
-        }
-      ],
-      "duration_ms": 229103,
-      "name": "Glitter",
-      "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mud to Gold",
         "url": "https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 211706,
       "name": "Blame Us (feat. Merkules & Jelly Roll)",
       "url": "https://open.spotify.com/track/1Z0rdmLAw7VJ9WCIT3TkiC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waylon & Willie",
+        "url": "https://open.spotify.com/album/2XPQn6UyIL06t8Jgv6mba1"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        },
+        {
+          "name": "Struggle Jennings",
+          "url": "https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23"
+        }
+      ],
+      "duration_ms": 229103,
+      "name": "Glitter",
+      "url": "https://open.spotify.com/track/7JR4hNrjNTS9FOTAbfmr4k"
     },
     {
       "added_at": null,

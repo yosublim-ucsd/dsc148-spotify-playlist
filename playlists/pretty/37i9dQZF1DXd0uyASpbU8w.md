@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=KSw0R\-1dRNmhVaqTzh\-ZxA">Tito M</a>, <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=FUQtT2lMSDKowOkSCw5fQQ">Burna Boy</a>, <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=oM6IBWHoQLylpGQBv\-IJIA">Yuppe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,991 likes - 66 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,077 likes - 66 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 34 | [Say Yes \(feat\. Rona Ray\) \- Jimpster Remix](https://open.spotify.com/track/468OCUl2AS0D9dfFMYICLK) | [beatsbyhand](https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ), [Rona Ray](https://open.spotify.com/artist/3kirHdB9pQSMLSgLCgVp1P), [Jimpster](https://open.spotify.com/artist/2pfHsO54AOejDlJqtXnS85) | [Say Yes \(feat\. Rona Ray\) \[Jimpster Remix\]](https://open.spotify.com/album/0bK7ineznnkxK4cEKEohbt) | 4:03 |
 | 35 | [Billions](https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc) | [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Billions](https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2) | 3:44 |
 | 36 | [Stardust](https://open.spotify.com/track/4266h07udCdZ83jswW10IG) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [ROOM UNDER THE STAIRS](https://open.spotify.com/album/0PGluYePuY9INYN7SQheZ0) | 3:52 |
-| 37 | [Find Me](https://open.spotify.com/track/6dc1q5UPFNE0MuNwJec15r) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [Find Me](https://open.spotify.com/album/33eqZbHN6puprs1ccSMU3p) | 3:27 |
+| 37 | [Find Me](https://open.spotify.com/track/6dc1q5UPFNE0MuNwJec15r) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Ayanda Jiya](https://open.spotify.com/artist/6kjj4dSshgHMbeH8w06Sk4) | [Find Me](https://open.spotify.com/album/33eqZbHN6puprs1ccSMU3p) | 3:27 |
 | 38 | [Tomorrow](https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Tomorrow](https://open.spotify.com/album/2NafcOjkNhsr7o3ZGZynHm) | 3:23 |
 | 39 | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/track/1qtxlxXIBKhe3AOXSRhesO) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [P&E \(feat\. Mariah the Scientist\)](https://open.spotify.com/album/0Y5Vw8X32Wg269ZFqnER8a) | 2:30 |
 | 40 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |

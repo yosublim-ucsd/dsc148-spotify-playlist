@@ -4,7 +4,7 @@
 
 > for the baddies.
 
-89 songs - 5 hr 27 min
+90 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 | 2023-09-20 |  |
 | [Make Me Bad](https://open.spotify.com/track/286ek1kspX7VFaheXFSvPk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:55 | 2023-09-20 |  |
 | [Mascara](https://open.spotify.com/track/4cLdpErILMO8Db8pQVAVcZ) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:45 | 2023-09-20 |  |
-| [Mist](https://open.spotify.com/track/6im4lMMvEXArdAT9PDy6Fk) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Willpower](https://open.spotify.com/album/5Bo92Wl3pVuwXApUENPZ6W) | 2:27 | 2023-09-20 |  |
+| [Mist](https://open.spotify.com/track/6im4lMMvEXArdAT9PDy6Fk) | [Soul Blind](https://open.spotify.com/artist/4u8phrcaIdvRzcGq5DcQJa) | [Willpower](https://open.spotify.com/album/5Bo92Wl3pVuwXApUENPZ6W) | 2:27 | 2023-09-20 | 2024-05-22 |
 | [Mumble](https://open.spotify.com/track/3bEq6ig5QphDic6RPVA8h4) | [Whirr](https://open.spotify.com/artist/1tnjjbgszXYa8BbyTzwM0w) | [Sway](https://open.spotify.com/album/4jIsi2mhVUh51F7dZCxlGF) | 2:34 | 2023-09-20 |  |
 | [Nervous Habits](https://open.spotify.com/track/3iIOUEPbQDG2XQNeckP62n) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Far Removed](https://open.spotify.com/album/13RbzhZDgc98h8VWThEp9a) | 3:51 | 2023-09-20 |  |
 | [Obsession](https://open.spotify.com/track/4OCcKzbevqDQlNdOmXSjAK) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Obsession](https://open.spotify.com/album/41L4CSoalacuVSYkfEK2RY) | 3:17 | 2024-03-08 |  |
@@ -71,6 +71,7 @@
 | [Salt](https://open.spotify.com/track/0opJEZyslw0pzdfZisGiaL) | [Oversize](https://open.spotify.com/artist/38vNZvHEjUU9XlzlV43H9T), [Heavenward](https://open.spotify.com/artist/3iKDeO8yaOiWz7vkeljunk) | [Salt](https://open.spotify.com/album/1NjAWYIQvHY8uicYdQN3an) | 3:30 | 2024-04-02 |  |
 | [Scream](https://open.spotify.com/track/297d7PwfSFHQXCjqqDXQT2) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 4:48 | 2024-03-08 |  |
 | [Sextape](https://open.spotify.com/track/1EryAkZ0VHstC6haIxVBiE) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Diamond Eyes](https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e) | 4:01 | 2023-09-20 | 2023-10-30 |
+| [SHAKE](https://open.spotify.com/track/2oLdDgLtfYMd6nhukQWyRE) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [SHAKE](https://open.spotify.com/album/78A4CF4zvvHU21A2u5H1AW) | 3:10 | 2024-05-21 |  |
 | [Sleeptalk](https://open.spotify.com/track/53Ssvy5Rww0BPTtOw375zW) | [Dayseeker](https://open.spotify.com/artist/5FjQVp1Lb0kltmwIuu5kfj) | [Sleeptalk \(Deluxe\)](https://open.spotify.com/album/5eAo9LbhWjBYX2AHt9o4jh) | 3:43 | 2024-03-08 |  |
 | [Slumbernumb](https://open.spotify.com/track/3bcQvxrW59PlemA7rrPm2G) | [heffy](https://open.spotify.com/artist/00YJFmTkMloy3dYPLExyRr) | [Slumbernumb](https://open.spotify.com/album/7ItF9Bbj5JzCVqNv1nOp4p) | 3:09 | 2023-09-29 |  |
 | [snarky](https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r) | [quannnic](https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu) | [kenopsia](https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp) | 4:05 | 2023-09-20 |  |

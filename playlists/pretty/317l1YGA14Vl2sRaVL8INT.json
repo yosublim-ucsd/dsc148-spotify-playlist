@@ -1,13 +1,29 @@
 {
   "description": "Its pop punk, its the best",
-  "num_followers": 43702,
+  "num_followers": 43698,
   "original_name": "Best Of Pop Punk ",
   "owner": {
     "name": "Hopeless Records",
     "url": "https://open.spotify.com/user/hopelessrecords"
   },
-  "snapshot_id": "AAAa1fpeVwb2FTy4X2eubzbUULkK9ac0",
+  "snapshot_id": "AAAa11TeyiPSPVeUm88DvYoFi+MSm8Yy",
   "tracks": [
+    {
+      "added_at": "2024-05-21 21:06:11",
+      "album": {
+        "name": "Sick Ride",
+        "url": "https://open.spotify.com/album/44TooXW5CUSiERVsUPIZPJ"
+      },
+      "artists": [
+        {
+          "name": "Karen Di\u00f3",
+          "url": "https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Sick Ride",
+      "url": "https://open.spotify.com/track/2ITXPxN3Q9uzEqZlCXS2IL"
+    },
     {
       "added_at": "2024-03-08 19:41:58",
       "album": {

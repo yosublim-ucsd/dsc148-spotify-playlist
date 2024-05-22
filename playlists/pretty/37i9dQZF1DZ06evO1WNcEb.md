@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 
 ### [This Is Eyshila](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1WNcEb)
 
-> This is Eyshila\. Todos os maiores hits em uma só playlist.
+> This is Eyshila\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,792 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,791 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 12 | [Posso Clamar](https://open.spotify.com/track/2nKgXWYec69GUBuaSL3TYI) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Collection ao Vivo 10 Anos](https://open.spotify.com/album/5biEAG5fgF1JATyUAwcWe6) | 5:34 |
 | 13 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 14 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/1s98FijqLTd89U6pXGS8SF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Quero Aprender a Orar \(Ao Vivo\)](https://open.spotify.com/album/4hNeG3to2b8C3lazxnHYUc) | 5:26 |
-| 15 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 |
-| 16 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 |
+| 15 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 |
+| 16 | [Quanto Amor \(feat\. Eyshila\)](https://open.spotify.com/track/2he2Kf0Kr2nHqPsawBg435) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:26 |
 | 17 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 |
 | 18 | [Fala Comigo](https://open.spotify.com/track/1IBWMbYSBLYX36tuMkqcKY) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 6:12 |
 | 19 | [Nunca Pare De Lutar](https://open.spotify.com/track/3xcF4BD6UoNL3jqQ5xmV2V) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Nunca Pare de Lutar / Tua Graça Me Basta](https://open.spotify.com/album/2woKwrMEpv4ltwGp4cDa6D) | 7:39 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1WNcEb.md) - [plain]
 | 43 | [Com o Teu Fogo](https://open.spotify.com/track/4tZSrmVZ9Q72FJVEbNVjFG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 5:13 |
 | 44 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 |
 | 45 | [Mais Que Uma Voz](https://open.spotify.com/track/25Hh17rnSPTIjoa4y9nBRN) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 4:02 |
-| 46 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 |
-| 47 | [Lázaro](https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Lázaro](https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs) | 5:22 |
+| 46 | [Lázaro](https://open.spotify.com/track/3cqFVJ9wMjsU6NnI1aV741) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Lázaro](https://open.spotify.com/album/6K6iPw0DJulvcZ6GYXvIYs) | 5:22 |
+| 47 | [Vem Encher\-me](https://open.spotify.com/track/1SOMsn0oLw8hccpgwJckj8) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Tira\-me do Vale](https://open.spotify.com/album/1bGhzpYu9GHLyAnrMU7g3G) | 4:53 |
 | 48 | [Meu Sonho](https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eyshila Falando de Amor](https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y) | 4:18 |
 | 49 | [Pelo Fogo](https://open.spotify.com/track/632n8ItEl2mlsRX9tY59eM) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Liz Lanne](https://open.spotify.com/artist/1T5Me8q25LaMSFvpFOpR00) | [Gratidão](https://open.spotify.com/album/5MdMzjCV7nbiD9Eq8GhV6V) | 6:13 |
 | 50 | [Oleiro](https://open.spotify.com/track/6ADpJaVUozhAuh0OjbLd2w) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Oleiro](https://open.spotify.com/album/2HyIjpequVfbPh42JKtmjT) | 4:11 |
 
-Snapshot ID: `ZklBAAAAAABI1dfMuTH1WYGh2VuPgLIA`
+Snapshot ID: `ZkqSgAAAAABxPlOt/UFOlsjiego+baPD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbwoaqxaoAVr.md) - [plain]
 
 > Pop style reggae for a sunny summer vibe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 813,670 likes - 65 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 813,947 likes - 65 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

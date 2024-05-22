@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,840 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,843 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5x5ck36i2uO.md) - [plain]
 | 8 | [Where It All Started Remix \(Feat\. Verbal Jint, Beenzino\)](https://open.spotify.com/track/6baSXVPXg8OUoXnRt2tGrp) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Where It All Started Remix](https://open.spotify.com/album/2toAZkTdVUj5LdSdUY9NF2) | 3:43 |
 | 9 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 |
 | 10 | [Ladidadi!](https://open.spotify.com/track/5CF0DkZosBF1XC0dNJX5NR) | [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Ladidadi](https://open.spotify.com/album/1NblktVkuE0ZF9XU4vEiXM) | 2:03 |
-| 11 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
-| 12 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 |
+| 11 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [DON MALIK](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 |
+| 12 | [Paris](https://open.spotify.com/track/6F3K0PkrZhRCu59PSGnuRH) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Midnight](https://open.spotify.com/album/5XzQZiSyVyn4bxLGN1ZvER) | 3:13 |
 | 13 | [In The Morning \(Feat\. Bryn\)](https://open.spotify.com/track/3LqM4Ly49qhBej4C6AoiYo) | [YANGHONGWON](https://open.spotify.com/artist/1SsVqqC31h54Hg08g7uQhM), [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [In The Morning](https://open.spotify.com/album/6EiWZ23G5KGSwPYO5kMztu) | 3:15 |
 | 14 | [Champagne](https://open.spotify.com/track/7mxRhBvxm7zjMzSsO24kIq) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:06 |
 | 15 | [Party Forever](https://open.spotify.com/track/0kGnxJUOZgCemWBfpgVe6H) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [Party Forever](https://open.spotify.com/album/3kC4LhI9UMzNAkch7aBQ9h) | 3:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 
 > Be the first to hear the FINAL FANTASY VII REBIRTH soundtrack and stay tuned for the upcoming theme song\. 最新作『FINAL FANTASY VII REBIRTH』をはじめとするファイナルファンタジーの珠玉の名曲集。テーマソング、サウンドトラックの追加をお待ちください。©2019 SQUARE ENIX CO., LTD\. All Rights Reserved.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,443 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,466 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 20 | [Otherworld](https://open.spotify.com/track/6WGtQKmXCKzvPAFtXOGmNv) | [Bill Xtillidiex Muir](https://open.spotify.com/artist/1sshOKBw5a0pPxCfyRbULD) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 3:15 |
 | 21 | [Besaid](https://open.spotify.com/track/6Q4nNB7exf30TTt2SdhPAb) | [Masashi Hamauzu](https://open.spotify.com/artist/4xwBjyd53uiyfyUOkrpcvt) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 4:44 |
 | 22 | [FFVII REMAKE: 闘う者達 \-なんでも屋の仕事\- \(Let the Battles Begin! \- A Merc's Job\)](https://open.spotify.com/track/43SHYfEdVPCIag9L3xtUVm) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:53 |
-| 23 | [FFVII REMAKE: 陥没道路 \(Collapsed Expressway\)](https://open.spotify.com/track/5ao4oIuLJ5BiGh8sykGu12) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:39 |
-| 24 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 |
+| 23 | [SUTEKI DA NE \(Isn't It Wonderful?\)](https://open.spotify.com/track/3H39xh0GOrFkp0cjwazaXx) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 5:34 |
+| 24 | [FFVII REMAKE: 陥没道路 \(Collapsed Expressway\)](https://open.spotify.com/track/5ao4oIuLJ5BiGh8sykGu12) | [鈴木 光人](https://open.spotify.com/artist/0NCvengLgu4uTKTeC7z2Eg) | [FINAL FANTASY VII REMAKE Original Soundtrack](https://open.spotify.com/album/2ufkFJsK2Hh2ZdmgrRmCv3) | 2:39 |
 | 25 | [Somnus \- Instrumental Version](https://open.spotify.com/track/7fxzqLLTXObxIoTfI3FA0l) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 |
 | 26 | [Wayward Daughter](https://open.spotify.com/track/6XFeoBnO3gz1QHV9yUQdR0) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [STORMBLOOD: FINAL FANTASY XIV Original SoundtrackVolume 2【1/2】](https://open.spotify.com/album/7q7Zkp7Hvq0iEhrLCVTTbA) | 5:51 |
 | 27 | [Melodies Of Life ～Final Fantasy](https://open.spotify.com/track/5wx8XfI5Qq2OkDW5EHrZxm) | [Emiko Shiratori](https://open.spotify.com/artist/2l0RkPXVhAxkACI2dT7o8p) | [FINAL FANTASY IX Original Soundtrack](https://open.spotify.com/album/61z0CTrR8zhxdyOoieyMJi) | 7:36 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wCc28V2cVW.md) - [plain]
 | 45 | [Respite](https://open.spotify.com/track/5qr766CKjp0R0naWBcJzo4) | [崎元仁](https://open.spotify.com/artist/5IgtFW3mCaIGAuPbx7qE04) | [FINAL FANTASY XII Original Soundtrack](https://open.spotify.com/album/6BUaUV4g19n1zwF6iwkh4C) | 2:10 |
 | 46 | [Rise](https://open.spotify.com/track/2Xl9NXXsSzUtrP1PLBJg7U) | [Masayoshi Soken](https://open.spotify.com/artist/6NtwaHZLhTUvERKFbFqu8S) | [THE FAR EDGE OF FATE:FINAL FANTASY XIV Original Soundtrack](https://open.spotify.com/album/73mih5aIcuQ4OaQLI7O0X9) | 4:19 |
 | 47 | [「Keeping the Peace」 from DISSIDIA FINAL FANTASY](https://open.spotify.com/track/51evxX66nOSlnjlDjNJEm3) | [石元 丈晴](https://open.spotify.com/artist/5vYF4AhjOGjiqxyBzeoDFf) | [DISSIDIA FINAL FANTASY Original Soundtrack](https://open.spotify.com/album/5YAyjZBLHRwUGoijvobtCw) | 2:26 |
-| 48 | [Somnus](https://open.spotify.com/track/6wTVlrLR2qyEAbEuyoS7b2) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 2:29 |
+| 48 | [Stand Your Ground](https://open.spotify.com/track/238Owc9WvZ4HsUD57bcq8o) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [FINAL FANTASY XV Original Soundtrack](https://open.spotify.com/album/2zKqD5DUNUE4isjGLixU8v) | 3:29 |
 | 49 | [Run !!](https://open.spotify.com/track/1jcYcW06CNvqtWoZrd8LdV) | [仲野順也](https://open.spotify.com/artist/46QWOpfMFKehkcchUZmCfB) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 2:40 |
 | 50 | [SUTEKI DA NE \(Isn't It Wonderful?\) \- Orchestra Version](https://open.spotify.com/track/3Y9niDtvTxk0efj8IUQb9z) | [RIKKI](https://open.spotify.com/artist/6dpDHCzVviITtfGiB7S5HG) | [FINAL FANTASY X Original Soundtrack](https://open.spotify.com/album/5rsJCTSppss2cccM8a9V0u) | 6:19 |
 | 51 | [Noel's Theme \- Final Journey \-](https://open.spotify.com/track/0FdnNMadX8aP0gQkrJfhSM) | [KOKIA](https://open.spotify.com/artist/0gUsuVOGa73jzUAJ0WEJgo) | [FINAL FANTASY XIII\-2 Original Soundtrack](https://open.spotify.com/album/3VV4BLl2Eik6xVyHXlDjLK) | 4:20 |

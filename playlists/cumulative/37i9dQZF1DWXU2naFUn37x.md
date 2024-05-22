@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Capo Plaza
 
-527 songs - 1 day 0 hr 18 min
+528 songs - 1 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 | 2023-05-11 | 2023-06-09 |
 | [Fils De Pute \(feat\. Speranza & Rafilù\)](https://open.spotify.com/track/24FFdPglqlH5uXwBwyY8kb) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F), [Rafilù](https://open.spotify.com/artist/3ylMgftNTGy7cZgkWL82fJ) | [Le cose cambiano](https://open.spotify.com/album/50SWJ7Aq7XuSKl8SJYFnn9) | 3:25 | 2023-12-01 | 2023-12-22 |
 | [FINCHÉ NON ARRIVA LA BELLA VITA](https://open.spotify.com/track/3UAqmfO3U40eRAM8Cy8dbR) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [ASPETTANDO LA BELLA VITA \- Before and After](https://open.spotify.com/album/2Ai4mlifU1ng53CBXc93L5) | 2:00 | 2023-10-05 | 2023-11-03 |
+| [First Day Out](https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [First Day Out](https://open.spotify.com/album/4wcgoc19ZVFRcX0JxnBKNG) | 2:51 | 2024-05-21 |  |
 | [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 | 2023-10-13 |
 | [Fortuna \(feat\. Artie 5ive\)](https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [NOSTALGIA \(export\)](https://open.spotify.com/album/7nrBxtq6TJ5xs3D9G0R7ue) | 2:32 | 2024-02-22 |  |
 | [Frate](https://open.spotify.com/track/55BbuGqOvwaJd9tw16aVSc) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:43 | 2024-01-11 | 2024-01-19 |
@@ -366,7 +367,7 @@
 | [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 | 2023-06-08 | 2023-07-19 |
 | [Passa Il Tempo \(feat\. Nabi\)](https://open.spotify.com/track/2eVBudzixqw5GDDXy7D9H7) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO), [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [OFFLINE](https://open.spotify.com/album/4QjJhfVACjKRN34TYYSDAE) | 3:26 | 2023-11-02 | 2023-12-01 |
 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 | 2023-06-01 | 2023-06-30 |
-| [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 | 2023-12-01 |  |
+| [Paura E Delirio A Milano \(feat\. Tony Effe, Dylan, Side Baby\)](https://open.spotify.com/track/44hjRBoW648rQndFHKlgXQ) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 3:04 | 2023-12-01 | 2024-05-22 |
 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-16 | 2023-09-22 |
 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 | 2023-12-14 | 2024-03-29 |
 | [PETTINATO \(feat\. Side Baby\)](https://open.spotify.com/track/440qvNmOk5Doccg3MIFzGg) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT) | [PETTINATO \(feat\. Side Baby\)](https://open.spotify.com/album/5MGxMhasNjC4TwEd5Sr6gt) | 2:04 | 2024-05-02 |  |

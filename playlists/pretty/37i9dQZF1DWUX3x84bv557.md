@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,283 likes - 70 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,286 likes - 70 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Parler Français](https://open.spotify.com/track/0gfHldycqvlnoxGwTPu52Z) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [Parler Français](https://open.spotify.com/album/0HpUDKGmUBuvEA3AyaMqRh) | 2:34 |
-| 2 | [Sex](https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Sex](https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY) | 3:51 |
-| 3 | [Hoop Dat Jij Me Mist](https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hoop Dat Jij Me Mist](https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj) | 2:45 |
+| 2 | [Hoop Dat Jij Me Mist](https://open.spotify.com/track/0cQQnKPMD3ZgfGapcgO4cv) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hoop Dat Jij Me Mist](https://open.spotify.com/album/5gSRTpBHgyTkZf2o7podFj) | 2:45 |
+| 3 | [Sex](https://open.spotify.com/track/1hG3BvlHR6qaCzq2m7CPHH) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Sex](https://open.spotify.com/album/5j1V29MfouuZsRNMPhTzyY) | 3:51 |
 | 4 | [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 |
 | 5 | [Huil Maar Niet Om Mij](https://open.spotify.com/track/7mC3mnQrv7Q7qXpIYzlQIa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Huil Maar Niet Om Mij](https://open.spotify.com/album/17myds3ynEuOM29OFacYpD) | 2:27 |
 | 6 | [Doe Maar](https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Doe Maar](https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY) | 2:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Amsterdamse Student](https://open.spotify.com/track/5ErWEoGybmRwHPyB6IMsi2) | [Eyah](https://open.spotify.com/artist/2dQhYDhI8IWPGbwgyqMb2E) | [Amsterdamse Student](https://open.spotify.com/album/38uYDpZWoTs3vigKM0iyuK) | 2:06 |
 | 70 | [Zuinig](https://open.spotify.com/track/1443g2sOZtwR7NjDXlSsBv) | [Vlins](https://open.spotify.com/artist/3qV1LDx1ZWWJVdnLuVXAB5), [Laura Yasmin](https://open.spotify.com/artist/2ifdw2Mu8P2fCey9VLhuu2) | [Zuinig](https://open.spotify.com/album/0ocZWxeSCHRdeh5ogUbrdA) | 2:52 |
 
-Snapshot ID: `ZkaB4AAAAADDYuL5xKYtEuxRz7eWT6tc`
+Snapshot ID: `ZkyZBQAAAAC5D98zAGqiOk9J4hyUl1L+`

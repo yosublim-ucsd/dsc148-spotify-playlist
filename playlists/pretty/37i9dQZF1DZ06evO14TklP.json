@@ -1,12 +1,12 @@
 {
-  "description": "This is Ebony. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 7095,
+  "description": "This is Ebony. The essential tracks, all in one playlist.",
+  "num_followers": 7114,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAq3/llgWqFKEK6PyWmPoMh",
+  "snapshot_id": "ZkqSgAAAAAAd7/hCYLYqbdyOjMwE1Xmn",
   "tracks": [
     {
       "added_at": null,
@@ -640,17 +640,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Sidoka",
-          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "AJ Wav",
-          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 169590,
-      "name": "Flat",
-      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
+      "duration_ms": 134569,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
     },
     {
       "added_at": null,
@@ -732,17 +732,17 @@
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
         },
         {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+          "name": "AJ Wav",
+          "url": "https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8"
         }
       ],
-      "duration_ms": 134569,
-      "name": "Disco",
-      "url": "https://open.spotify.com/track/3NLir84ijUvixJsOxo2lxU"
+      "duration_ms": 169590,
+      "name": "Flat",
+      "url": "https://open.spotify.com/track/2lwDi9IN3waRZ2oqmkfye0"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Temporary Lover",
+        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
+      },
+      "artists": [
+        {
+          "name": "Adrian Jean",
+          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        }
+      ],
+      "duration_ms": 231367,
+      "name": "Temporary Lover",
+      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Never Ghost",
         "url": "https://open.spotify.com/album/1L32RsHbJ3RG20sHMbKm5W"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 212740,
       "name": "Important",
       "url": "https://open.spotify.com/track/3Xy9l8YmyD3occDvyC15aW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Temporary Lover",
-        "url": "https://open.spotify.com/album/0OVY3vUCNOUZ1Ft45kPG9G"
-      },
-      "artists": [
-        {
-          "name": "Adrian Jean",
-          "url": "https://open.spotify.com/artist/3mODeiHTEGj5TukYd3AmUl"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        }
-      ],
-      "duration_ms": 231367,
-      "name": "Temporary Lover",
-      "url": "https://open.spotify.com/track/2ZbNMj59rGrfDrKOHjOQTN"
     },
     {
       "added_at": null,

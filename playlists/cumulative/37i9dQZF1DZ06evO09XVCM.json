@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-02",
-  "description": "This is Ziggy Marley. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
   "name": "This Is Ziggy Marley",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 288506,
       "name": "A Lifetime",
       "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
@@ -426,7 +426,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 299827,
       "name": "High Tide or Low Tide (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"
@@ -522,10 +522,28 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 184986,
       "name": "Life Is A Honeymoon",
       "url": "https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF"
+    },
+    {
+      "album": {
+        "name": "Lift Our Spirits Raise Our Voice",
+        "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Lift Our Spirits Raise Our Voice",
+      "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
     },
     {
       "album": {
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 229332,
       "name": "Love for Love City (with Ziggy Marley)",
       "url": "https://open.spotify.com/track/6wrzvEu8Sk7sDf6W9ESVui"
@@ -1100,7 +1118,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 218786,
       "name": "This Train (feat. Willie Nelson)",
       "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"

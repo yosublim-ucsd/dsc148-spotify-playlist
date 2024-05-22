@@ -4,7 +4,7 @@
 
 > The rock songs you need to know\. Turn it  ⬆️ Cover: <b>Highly Suspect</b>
 
-1,172 songs - 2 day 22 hr 5 min
+1,173 songs - 2 day 22 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -361,6 +361,7 @@
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-05 | 2024-05-11 |
 | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Eyes Closed \(feat\. J Balvin\)](https://open.spotify.com/album/1kbKNVSyGgtiM8RQo1ngRB) | 3:20 | 2024-05-10 |  |
 | [Face Down](https://open.spotify.com/track/1hffzLWNeFthnUP4z01EPm) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Face Down](https://open.spotify.com/album/6MqOFiLK1FG5b7jy7JLtp6) | 3:39 | 2023-05-05 | 2023-07-15 |
+| [Face Down](https://open.spotify.com/track/0suR0ZWls0EHG9VfPaVq31) | [Return to Dust](https://open.spotify.com/artist/53Hm23U3dtaHeB5Oy6GbaS) | [Return to Dust](https://open.spotify.com/album/2iMQfRVysuYVHB4UEhT6dB) | 3:15 | 2024-05-21 |  |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-04-09 |
 | [Fait Accompli](https://open.spotify.com/track/2WVIffmLGZUz96nOsNgFHP) | [Capital Theatre](https://open.spotify.com/artist/4ISF1JXAPlRrDtZu9EgIcv) | [A Hero's Journey](https://open.spotify.com/album/5tupOm4z6F3B4UMmfliBi3) | 4:48 | 2022-06-24 | 2022-10-08 |
 | [Fake](https://open.spotify.com/track/4vSo9CwLjLiD6R5q1K8TZ1) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Fake](https://open.spotify.com/album/2uyn0c1NkN0OQvQLPTjJt8) | 3:11 | 2022-04-08 | 2022-04-29 |

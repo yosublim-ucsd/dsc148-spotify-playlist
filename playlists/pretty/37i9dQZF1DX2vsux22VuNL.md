@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 
 > Aquele som que é pura brisa\. 🍃 Foto: Lourena, MC Hariel
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,377 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,365 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vsux22VuNL.md) - [plain]
 | 50 | [não te amo mais](https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko) | [Isa Guerra](https://open.spotify.com/artist/0UvOu1XQNgxNJKi0tMtghC), [Mun\-Ra](https://open.spotify.com/artist/0TCMOxaDMS40afITXwbE96), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [não te amo mais](https://open.spotify.com/album/6Z4Cn5yCW38Bd7u7SuQnjj) | 2:13 |
 | 51 | [Toda Malévola](https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK) | [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Toda Malévola](https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD) | 3:16 |
 | 52 | [Conexão](https://open.spotify.com/track/1hoBqJiq8sR58nxGA1Wyva) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Luan LDS](https://open.spotify.com/artist/09zWmRrnBdacbqJUkysC3J) | [Conexão](https://open.spotify.com/album/3B0e27bRsdqkf8jAYIMC4i) | 2:23 |
-| 53 | [Gingado Dela](https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Pablo Bispo](https://open.spotify.com/artist/3adohsexzGP8ljUjx3SZJy) | [Pagode Urbano \#01](https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM) | 3:23 |
-| 54 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 53 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |
+| 54 | [Gingado Dela](https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ) | [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP), [Pablo Bispo](https://open.spotify.com/artist/3adohsexzGP8ljUjx3SZJy) | [Pagode Urbano \#01](https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM) | 3:23 |
 | 55 | [Queria Te Ver](https://open.spotify.com/track/5FLHmx1hk4KpuiuXMz4KJo) | [Taylan](https://open.spotify.com/artist/3atKv6SXjq5GuOgSj6T7Qu), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk) | [Queria Te Ver](https://open.spotify.com/album/7cCWhB0Bl8mVYC89BYyWJ8) | 3:09 |
 | 56 | [Agradecer \- Ao Vivo](https://open.spotify.com/track/1e6aaXjCWyJXGfEJVD5WEv) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Acústico 10 Anos Cacife](https://open.spotify.com/album/3xb7Esv7HNcnZkG8OKVGKs) | 3:45 |
 | 57 | [CULPADO](https://open.spotify.com/track/0rj4xjLTzUui03rlljrYfN) | [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [CULPADO](https://open.spotify.com/album/1iHh6gAh0swarbFrU3gvie) | 3:02 |

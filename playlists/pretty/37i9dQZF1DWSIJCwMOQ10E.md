@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 
 > No hay nada como una Rumba Colombiana\. ¡Hasta el amanecer! Foto: Fonseca y Grupo Niche
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,617 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,626 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIJCwMOQ10E.md) - [plain]
 | 40 | [Eso es mondar](https://open.spotify.com/track/0H3P5jWNBAAX1JF2IYGFZH) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [DJ Marimonda](https://open.spotify.com/artist/3w3qzXCQjVBeNLQJPC7QEl), [El Elvis Cienaguero](https://open.spotify.com/artist/5Gh9uPYIT29qh7L6BAaorA) | [Eso es mondar](https://open.spotify.com/album/4Ord2xIq0FaILVSt4bNBGa) | 3:53 |
 | 41 | [La Vamo a Tumbá](https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe) | [Herencia de Timbiqui](https://open.spotify.com/artist/3aeY1LxKK63GRg7tmI8UVa) | [La Vamo a Tumbá](https://open.spotify.com/album/143jwWAY05oHce5TH1yqLV) | 4:20 |
 | 42 | [Chiquita](https://open.spotify.com/track/263UaojVegiH2Hgp3D1dov) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Benji Cordero](https://open.spotify.com/artist/5NhE1pgahei4POWw4cIzJ3) | [Chiquita](https://open.spotify.com/album/3D1ujCJShDaTaZIZhAFBch) | 2:28 |
-| 43 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
-| 44 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 |
+| 43 | [Cómo No Amarte](https://open.spotify.com/track/6zHTsaVfFTRHw1nsQDelEE) | [Yembema](https://open.spotify.com/artist/4hbvLL1IAVzyjj0QAUFvoa), [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Cómo No Amarte](https://open.spotify.com/album/0CNNBLGrulMCZH9xkwcXkR) | 3:27 |
+| 44 | [Tres Perlas](https://open.spotify.com/track/3VFxQ09UP5ttUyRRDLG2qB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Legendarios](https://open.spotify.com/album/7K1Z4XJhJLPF2tBbrNCtEU) | 3:20 |
 | 45 | [Las Cuatro Fiestas](https://open.spotify.com/track/6mISZbsWrQ6EMWniWpavvk) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Mi Fiesta Favorita, Vol\. 1](https://open.spotify.com/album/7wWM2cfB37fZ41mASJXscI) | 3:44 |
 | 46 | [Las Caleñas Son Como las Flores](https://open.spotify.com/track/0dz1v4pBpWQMzAl3SiDh98) | [The Latin Brothers](https://open.spotify.com/artist/2AiZXMqpVlCDnz3trZbWaK), [Piper Pimienta Diaz](https://open.spotify.com/artist/35HTycyWifnoCzK2EQ3KUX) | [Greatest Hits](https://open.spotify.com/album/4DaozedmpMKOHRFgemDSrJ) | 3:57 |
 | 47 | [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 |
 | 48 | [Una Aventura](https://open.spotify.com/track/4WTmcNrXNwJ3Mi0VJhBt2f) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Lo Que Diga el Corazón](https://open.spotify.com/album/68Z5dYqgZXnsNpVgDtiv7f) | 5:43 |
 | 49 | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/track/1WWb9zdw08TEAESKJZ8mXW) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Robinson Damián](https://open.spotify.com/artist/2e28tOJGCLOJQBYNhGkxat), [Los Gigantes](https://open.spotify.com/artist/34tB6r0jRHdedlIlVrECP1) | [El Santo Cachón \(feat\. Robinson Damian & Los Gigantes\)](https://open.spotify.com/album/6bJiE0zCTa75ZZFBHtOmx8) | 3:59 |
-| 50 | [Persona Ideal](https://open.spotify.com/track/0u2LbmKA70atp4J59QUnHW) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Persona Ideal](https://open.spotify.com/album/7caeVU9hU1Jn0KPLXBlGeX) | 4:43 |
+| 50 | [Bella \- Remix](https://open.spotify.com/track/0SKhd6uBssOAqEvlLuUr3s) | [Wolfine](https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Bella \(Remix\)](https://open.spotify.com/album/05ydY3EcSmcCm8AfpDlmPU) | 3:38 |
 
 Snapshot ID: `Zj3bhQAAAADQc161KOhC6hhRW9eYELRt`

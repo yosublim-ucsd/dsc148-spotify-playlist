@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> nananananã na na na na nanananananã nã nana nana
+> iaeee dj topoo
 
-409 songs - 19 hr 18 min
+410 songs - 19 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2022-05-26 | 2022-07-19 |
 | [Formula](https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 1:31 | 2022-05-26 | 2022-11-08 |
 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 | 2023-06-19 | 2023-12-14 |
-| [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 | 2023-08-15 |  |
+| [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 | 2023-08-15 | 2024-05-22 |
 | [Galopeira](https://open.spotify.com/track/1Kb2zOLd3ua8kiiEtc82DE) | [MC Menor MT](https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU), [THEUZ ZL](https://open.spotify.com/artist/0sf2x76J3BWkY9mIgFX2Lz) | [Galopeira](https://open.spotify.com/album/2v6Sz9UJQYq7EFy2gSoiJF) | 4:00 | 2023-05-08 | 2023-10-24 |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-05-26 | 2022-06-22 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-22 | 2022-08-04 |
@@ -252,6 +252,7 @@
 | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/track/0c0QqyqhoiUVco4LdZjTdX) | [Davi Lemos DJ](https://open.spotify.com/artist/29bI5uqkhlogSttTEotooL), [MALHA FUNK](https://open.spotify.com/artist/7Aoq22DL55gHycti1JPL4z), [Os Caçadores](https://open.spotify.com/artist/0kD0mHs63ci8Zw1vvPDjYx), [Pansa Beats](https://open.spotify.com/artist/4oxPArmOSLN23wu2qy72xZ) | [MTG \- Mega das Tchutchucas 2](https://open.spotify.com/album/547whR3WlZWzCFXSckVqHG) | 2:11 | 2024-05-02 |  |
 | [Mtg Beat Fino Dança do Pombo](https://open.spotify.com/track/2lcH5EDMtDvFtMYHmitM6B) | [DJ MESQUITA DE NV](https://open.spotify.com/artist/7yM7Kxl5jirT0l5XRFNDiz), [DJ MESQUITA](https://open.spotify.com/artist/220TJrG9rRDB9M8ZLqUsxg) | [Mtg Beat Fino Dança do Pombo](https://open.spotify.com/album/3kddxToI1XUeGv8mUEyVK6) | 1:38 | 2022-11-28 | 2022-12-16 |
 | [Mtg Forró e Desmantelo](https://open.spotify.com/track/106SKHXoytRADjpxHBkJpV) | [dj sv](https://open.spotify.com/artist/7u9115faVQY8xNrCXqY0zx), [Doug Hits](https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9), [Manim Vaqueiro](https://open.spotify.com/artist/2MRXYszuTIaEliCCD22crt) | [Mtg Forró e Desmantelo](https://open.spotify.com/album/4Vc4te8jSlWfMOnJVcGbdc) | 2:29 | 2024-04-19 |  |
+| [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 | 2024-05-21 |  |
 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 | 2024-03-12 |  |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-05-26 | 2022-06-23 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-10 | 2024-01-30 |

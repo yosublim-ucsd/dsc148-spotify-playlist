@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,290 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,298 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 48 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
 | 49 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
 | 50 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
-| 51 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
-| 52 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
+| 51 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
+| 52 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 | 53 | [The Ghost](https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [The Ghost](https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd) | 5:25 |
 | 54 | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/album/1AcmrdgJxvJkwZoKJ9s8ww) | 3:09 |
 | 55 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 68 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 |
 | 69 | [Circulate \(Together\)](https://open.spotify.com/track/3v7fqrO4mQObrAI6L76l0I) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Circulate \(Together\)](https://open.spotify.com/album/1RfgUXB7iLaZaheEwRPamN) | 6:57 |
 | 70 | [The Good, the Bad & the Acid](https://open.spotify.com/track/3ikwLYbhR3cq8Wej3RXETZ) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [The Good, the Bad & the Acid](https://open.spotify.com/album/38nTiPUbeQQPMiEd0ITxGi) | 5:49 |
-| 71 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 |
-| 72 | [L.F.O.](https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
+| 71 | [L.F.O.](https://open.spotify.com/track/32Af7vCCWDKWlAipePUauP) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm), [George Riley](https://open.spotify.com/artist/76rh78p0cww0l4OqgKabLQ) | [THE RAT ROAD](https://open.spotify.com/album/43GrrOxnDLLiOec6O09NMv) | 4:31 |
+| 72 | [My Body](https://open.spotify.com/track/1NISyNrwwO4ysIDadFQI1c) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Skreamizm 8](https://open.spotify.com/album/6shH7NYCoBoWks3ddtW848) | 5:29 |
 | 73 | [Monica Vitti](https://open.spotify.com/track/7bIqHtObwmyE16EazeXHWa) | [Giulia Tess](https://open.spotify.com/artist/1DIRMEtLvteuZfHcKgwQX3) | [Vista Mare Forever](https://open.spotify.com/album/6s7TqgQdz4A8Ghx0dXsxqW) | 4:34 |
 | 74 | [Dreamcast](https://open.spotify.com/track/0kXPOcMLExBxGeS4YJexzk) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Dreamcast](https://open.spotify.com/album/4y3Og1wV6ODVRpado3WilW) | 5:25 |
 | 75 | [Beautiful World](https://open.spotify.com/track/3fZuXjjxxCjnFi8jcx0X0e) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Steve Smith](https://open.spotify.com/artist/6WUz3m9cjNKSvtQ8uAu9qu) | [Beautiful World](https://open.spotify.com/album/5ICYSl5q37F1hmLGKnslpC) | 6:15 |

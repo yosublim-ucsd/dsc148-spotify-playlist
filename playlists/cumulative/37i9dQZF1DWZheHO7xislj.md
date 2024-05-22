@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZheHO7xislj.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZheHO7xislj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZheHO7xislj)
 
-### [Soul Dinner](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
+### [Soul Cuisine](https://open.spotify.com/playlist/37i9dQZF1DWZheHO7xislj)
 
-> Classic and new soul music for the perfect dinner vibe.
+> Perfect music for perfect food.
 
 455 songs - 1 day 5 hr 30 min
 

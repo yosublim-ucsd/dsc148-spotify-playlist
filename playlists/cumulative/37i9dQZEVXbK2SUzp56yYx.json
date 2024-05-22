@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 285176,
       "name": "Buurman Uit Berlijn",
       "url": "https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6"
@@ -1275,6 +1275,24 @@
     },
     {
       "album": {
+        "name": "Frysl\u00e2n",
+        "url": "https://open.spotify.com/album/0EUaEFRUhjmGkIPaEoEGIY"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123888,
+      "name": "Florida 2009",
+      "url": "https://open.spotify.com/track/23M2pHxtt3QACQJKSYd69Y"
+    },
+    {
+      "album": {
         "name": "Racine Carr\u00e9e (Standard US Version)",
         "url": "https://open.spotify.com/album/22yd3bcffqUO7Pn5nsDaoj"
       },
@@ -1818,6 +1836,24 @@
       "duration_ms": 181175,
       "name": "Hide - CS01 Version",
       "url": "https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X"
+    },
+    {
+      "album": {
+        "name": "\u04174\u041f\u0420\u0410\u0412\u041a4 \u041a\u0418\u0414",
+        "url": "https://open.spotify.com/album/4il76IU7nxK7XwLDn5ta3T"
+      },
+      "artists": [
+        {
+          "name": "MAYOT",
+          "url": "https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145510,
+      "name": "High",
+      "url": "https://open.spotify.com/track/70p9DWXn03qMcC6PPgJPay"
     },
     {
       "album": {
@@ -3480,7 +3516,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 144846,
       "name": "Pedro",
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
@@ -5236,7 +5272,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 225095,
       "name": "\u0411\u043b\u044f\u0434\u0441\u043a\u0430\u044f \u043d\u0430\u0442\u0443\u0440\u0430",
       "url": "https://open.spotify.com/track/0dp4EOJL4KtiHKgSTVoQZ6"
@@ -5480,6 +5516,24 @@
       "duration_ms": 102908,
       "name": "\u0412\u0410\u0426\u041e\u041a \u041f\u041e\u0427\u0423\u0412\u0421\u0422\u0412\u0423\u0419",
       "url": "https://open.spotify.com/track/4P872YaAzAZNXLJCcATtFS"
+    },
+    {
+      "album": {
+        "name": "\u0412\u0438\u043a\u0430",
+        "url": "https://open.spotify.com/album/5ugWNLM2UXw4Ckc3uuZYH0"
+      },
+      "artists": [
+        {
+          "name": "Palmdropov",
+          "url": "https://open.spotify.com/artist/5iK6FUbuyAhJnbNzmAVnDM"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129677,
+      "name": "\u0412\u0438\u043a\u0430",
+      "url": "https://open.spotify.com/track/26gihPWWAlnbloWIYEUYF6"
     },
     {
       "album": {
@@ -5738,6 +5792,24 @@
       "duration_ms": 165714,
       "name": "\u0414\u0410\u041b\u0415\u041a\u041e",
       "url": "https://open.spotify.com/track/6yQFlN6H3imONjhmvhfhbb"
+    },
+    {
+      "album": {
+        "name": "\u0434\u0430\u043b\u0435\u043a\u043e (\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u0443\u0448\u0438\u0437\u043c) [prod. by wex & heysubr]",
+        "url": "https://open.spotify.com/album/3KXxUj15lVB5qolvUReTWB"
+      },
+      "artists": [
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107076,
+      "name": "\u0434\u0430\u043b\u0435\u043a\u043e (\u0431\u043e\u043b\u044c\u0448\u043e\u0439 \u0411\u0443\u0448\u0438\u0437\u043c) [prod. by wex & heysubr]",
+      "url": "https://open.spotify.com/track/5n0HWIOT3UoScVThrRkH4k"
     },
     {
       "album": {
@@ -6460,7 +6532,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 119744,
       "name": "\u041c\u043e\u0439 \u0437\u0430\u0439\u0447\u0438\u043a",
       "url": "https://open.spotify.com/track/04G01nMm1PQQo7XblK45tt"
@@ -6748,6 +6820,24 @@
       "duration_ms": 327920,
       "name": "\u041e\u0434\u043d\u0430 \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/7qUItrwcUIBxxCABFHiVJg"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0417\u0415\u0420\u041e \u0412 \u041b\u0415\u0421\u0423",
+        "url": "https://open.spotify.com/album/0DxbATyAW4FjQ83GwwRcO8"
+      },
+      "artists": [
+        {
+          "name": "SQWOZ BAB",
+          "url": "https://open.spotify.com/artist/5U2ISoieRzT6TaqiXumcXl"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160563,
+      "name": "\u041e\u0417\u0415\u0420\u041e \u0412 \u041b\u0415\u0421\u0423",
+      "url": "https://open.spotify.com/track/07ydIDymx2ufwWVjPPbFQD"
     },
     {
       "album": {
@@ -7696,7 +7786,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 117330,
       "name": "\u0423\u043d\u0438\u0432\u0435\u0440",
       "url": "https://open.spotify.com/track/6j7xiM2EoBVtI3yEe8dnld"
@@ -7920,7 +8010,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 114000,
       "name": "\u0427\u0435\u043b\u043e\u0432\u0435\u043a-\u0431\u0435\u043d\u0437\u043e\u043f\u0438\u043b\u0430",
       "url": "https://open.spotify.com/track/5PQFweohKzzPinkx7LOvmK"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: tuki.",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: \u4e43\u7d2b",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -3894,7 +3894,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 151483,
       "name": "For bbys",
       "url": "https://open.spotify.com/track/2EdLAaW8vO49B8QySpf2fC"
@@ -4163,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Get Wild",
+        "url": "https://open.spotify.com/album/1Fm21EmKUIntsVv1QviIoI"
+      },
+      "artists": [
+        {
+          "name": "B'z",
+          "url": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255118,
+      "name": "Get Wild",
+      "url": "https://open.spotify.com/track/4u3Xyot6RXdzrwbJq2cdgC"
+    },
+    {
+      "album": {
         "name": "Ghost and Writer",
         "url": "https://open.spotify.com/album/6jYlWrFBlQt4v7MSMPIkiE"
       },
@@ -4414,7 +4432,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 157200,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/18mkDTCwDfZyTJNYieHxhQ"
@@ -9641,6 +9659,32 @@
     },
     {
       "album": {
+        "name": "Pointless 5",
+        "url": "https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX"
+      },
+      "artists": [
+        {
+          "name": "SCHA DARA PARR",
+          "url": "https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X"
+        },
+        {
+          "name": "STUTS",
+          "url": "https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d"
+        },
+        {
+          "name": "PUNPEE",
+          "url": "https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258005,
+      "name": "Pointless 5",
+      "url": "https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze"
+    },
+    {
+      "album": {
         "name": "POP SONG",
         "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
       },
@@ -13580,7 +13624,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
@@ -14497,6 +14541,24 @@
     },
     {
       "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
         "name": "SURF & TURF",
         "url": "https://open.spotify.com/album/3JQPj1uNk62oTh8oB1qsNQ"
       },
@@ -15028,7 +15090,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
@@ -15546,6 +15608,24 @@
       "duration_ms": 207970,
       "name": "\u3059\u307f\u3063\u30b3\u30c7\u30a3\u30b9\u30b3",
       "url": "https://open.spotify.com/track/0KPWMRTUbbq1kyn8tINBTY"
+    },
+    {
+      "album": {
+        "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
+        "url": "https://open.spotify.com/album/0WcvYEwpmtLdlNsRNVeLU4"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "\u305a\u3046\u3063\u3068\u3044\u3063\u3057\u3087\uff01",
+      "url": "https://open.spotify.com/track/291j3B0q0RBJ15y3TRTzA5"
     },
     {
       "album": {
@@ -19609,6 +19689,48 @@
     },
     {
       "album": {
+        "name": "\u4e0d\u5e78\u4e2d\u306e\u5e78\u3044",
+        "url": "https://open.spotify.com/album/59BYR80OfcuZfHvJQnF076"
+      },
+      "artists": [
+        {
+          "name": "YENTOWN",
+          "url": "https://open.spotify.com/artist/5MZKzz8nnucMHhJq34UZwe"
+        },
+        {
+          "name": "kZm",
+          "url": "https://open.spotify.com/artist/4hg5WX4ro6OVIg66dcYUk4"
+        },
+        {
+          "name": "PETZ",
+          "url": "https://open.spotify.com/artist/1LUhwMGfJbyWkkRu8UmVXT"
+        },
+        {
+          "name": "JNKMN",
+          "url": "https://open.spotify.com/artist/3TAMa7XcdlVoUTc1giFv1L"
+        },
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        },
+        {
+          "name": "MonyHorse",
+          "url": "https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD"
+        },
+        {
+          "name": "U-LEE",
+          "url": "https://open.spotify.com/artist/5brBirPSajSulsPdYTRAtf"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256012,
+      "name": "\u4e0d\u5e78\u4e2d\u306e\u5e78\u3044",
+      "url": "https://open.spotify.com/track/3Dnzk4qIp457OtCfrD0S8S"
+    },
+    {
+      "album": {
         "name": "\u4e0d\u6cd5\u4fb5\u5165",
         "url": "https://open.spotify.com/album/4W82k5xNeEGD7TldC0zgMp"
       },
@@ -19750,7 +19872,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 194000,
       "name": "\u4eba\u9593\u3068\u3057\u3066",
       "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
@@ -20526,7 +20648,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 206141,
       "name": "\u5589\u4ecf",
       "url": "https://open.spotify.com/track/0pZ367OSDMoeZ2eP407lxG"
@@ -20808,6 +20930,28 @@
       "duration_ms": 185600,
       "name": "\u5922\u55b0",
       "url": "https://open.spotify.com/track/09eGoLGb5TkQhprZWHOakY"
+    },
+    {
+      "album": {
+        "name": "\u5922\u5e7b",
+        "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
+      },
+      "artists": [
+        {
+          "name": "MY FIRST STORY",
+          "url": "https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd"
+        },
+        {
+          "name": "HYDE",
+          "url": "https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241156,
+      "name": "\u5922\u5e7b",
+      "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1385625,
+  "num_followers": 1385768,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAC6U+iR1F+PyLEQliVREE1H",
+  "snapshot_id": "ZkqSgAAAAAC2BWIP571zxlJ++nISOPLy",
   "tracks": [
     {
       "added_at": null,
@@ -307,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Forgive You",
         "url": "https://open.spotify.com/album/3RPlxsjui6dOA6qMDBH70E"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 259902,
       "name": "I Forgive You",
       "url": "https://open.spotify.com/track/2jh0kJheW38ljJucWMoaG6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 252320,
+      "name": "Helium",
+      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
     },
     {
       "added_at": null,
@@ -387,26 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
-        "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 199688,
-      "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
-      "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -423,6 +403,26 @@
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+        "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 199688,
+      "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+      "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
     },
     {
       "added_at": null,
@@ -507,6 +507,26 @@
       "duration_ms": 272800,
       "name": "Breathe Me",
       "url": "https://open.spotify.com/track/7jqzZyJJLrpkRFYGpkqSK6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Love",
+        "url": "https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 200645,
+      "name": "Let's Love",
+      "url": "https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS"
     },
     {
       "added_at": null,
@@ -703,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Together",
-        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 205207,
-      "name": "Together",
-      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -731,22 +735,6 @@
       "duration_ms": 263520,
       "name": "Alive",
       "url": "https://open.spotify.com/track/25R5Tdr4K7ENb6umHzdCXn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 226028,
-      "name": "Wanna Be Known",
-      "url": "https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3"
     },
     {
       "added_at": null,
@@ -771,22 +759,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drinking From The Sun",
-        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
       "artists": [
-        {
-          "name": "Hilltop Hoods",
-          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 226413,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+      "duration_ms": 226028,
+      "name": "Wanna Be Known",
+      "url": "https://open.spotify.com/track/3qV77JjyBtqHovXoYSLnr3"
     },
     {
       "added_at": null,
@@ -807,18 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+        "name": "Floating Through Space",
+        "url": "https://open.spotify.com/album/0BE9HxEf6RRDyni3SSvM6t"
       },
       "artists": [
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 178591,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn"
+      "duration_ms": 177800,
+      "name": "Floating Through Space",
+      "url": "https://open.spotify.com/track/2AceGjiX9isUbXmMZa0Dl1"
     },
     {
       "added_at": null,
@@ -843,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Marshall Mathers LP2 (Deluxe)",
-        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
       "artists": [
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 265025,
-      "name": "Beautiful Pain",
-      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
+      "duration_ms": 178591,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn"
     },
     {
       "added_at": null,
@@ -875,6 +859,26 @@
       "duration_ms": 241493,
       "name": "Fire Meet Gasoline",
       "url": "https://open.spotify.com/track/3Rw6shHCDFRWv3g2WmEFKv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Marshall Mathers LP2 (Deluxe)",
+        "url": "https://open.spotify.com/album/6DN7GcZF1HywzrkGN6Eeqk"
+      },
+      "artists": [
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 265025,
+      "name": "Beautiful Pain",
+      "url": "https://open.spotify.com/track/7hiBhOh4s8G0xmGYBAjyuw"
     },
     {
       "added_at": null,

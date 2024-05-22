@@ -1,6 +1,6 @@
 {
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "num_followers": 45642,
+  "num_followers": 45763,
   "original_name": "Calming Nature Music",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Hommage \u00e0 la for\u00eat",
-        "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
-      },
-      "artists": [
-        {
-          "name": "David Sato",
-          "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
-        }
-      ],
-      "duration_ms": 147333,
-      "name": "Hommage \u00e0 la for\u00eat",
-      "url": "https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Canola Morning",
         "url": "https://open.spotify.com/album/5WfEKVlJo9uNtBTeBsFnFb"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 164000,
       "name": "Canola Morning",
       "url": "https://open.spotify.com/track/3NlKaBvnrdwMuYdsYgKAet"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Hommage \u00e0 la for\u00eat",
+        "url": "https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ"
+      },
+      "artists": [
+        {
+          "name": "David Sato",
+          "url": "https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5"
+        }
+      ],
+      "duration_ms": 147333,
+      "name": "Hommage \u00e0 la for\u00eat",
+      "url": "https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Sacred",
-        "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
-      },
-      "artists": [
-        {
-          "name": "Escix V",
-          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
-        }
-      ],
-      "duration_ms": 149884,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Lazy Lanta",
         "url": "https://open.spotify.com/album/49XdeD0HhnXEMTB1MvtsMi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 210541,
       "name": "Lazy Lanta",
       "url": "https://open.spotify.com/track/7BXS7Tp5wZZdkahdfPcHvU"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Sacred",
+        "url": "https://open.spotify.com/album/1rDWZjU82es1bcBmXzuCx3"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "duration_ms": 149884,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/48ApntXh9irnvS6aBo4jaV"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Cosmic Major",
-        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
-      },
-      "artists": [
-        {
-          "name": "Solarixo",
-          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Cosmic Major",
-      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Returning Home",
         "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 148000,
       "name": "Returning Home",
       "url": "https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Cosmic Major",
+        "url": "https://open.spotify.com/album/78Dd9HKoR1HEZLmzpjAhNF"
+      },
+      "artists": [
+        {
+          "name": "Solarixo",
+          "url": "https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Cosmic Major",
+      "url": "https://open.spotify.com/track/2bKMFV6ZR0RqQ0Gb6hPPDx"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Changing Colors",
-        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
-      },
-      "artists": [
-        {
-          "name": "Hiwet Tesmi",
-          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
-        }
-      ],
-      "duration_ms": 180353,
-      "name": "Changing Colors",
-      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Pitter Patter",
         "url": "https://open.spotify.com/album/6vroyHfRe7dytL34m4yatE"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 177197,
       "name": "Beautiful Nature",
       "url": "https://open.spotify.com/track/5y25kyQQTAqyPoSchOAnxS"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Changing Colors",
+        "url": "https://open.spotify.com/album/2FPYTlqy2N3I8wicQabdTf"
+      },
+      "artists": [
+        {
+          "name": "Hiwet Tesmi",
+          "url": "https://open.spotify.com/artist/7MIJsl2yQjdrjtVdNKd60T"
+        }
+      ],
+      "duration_ms": 180353,
+      "name": "Changing Colors",
+      "url": "https://open.spotify.com/track/0uqcH5GIa9Qcvez3Y1Lcuf"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Grave",
-        "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
-      },
-      "artists": [
-        {
-          "name": "Rudhek Caren",
-          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Grave",
-      "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Stolen Stream Moments",
         "url": "https://open.spotify.com/album/2qy2vMSHgIfGtaxoGjbFPD"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 188500,
       "name": "Stolen Stream Moments",
       "url": "https://open.spotify.com/track/7hnw4JKqdaiGhEch2TWoVR"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Grave",
+        "url": "https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W"
+      },
+      "artists": [
+        {
+          "name": "Rudhek Caren",
+          "url": "https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Grave",
+      "url": "https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Ra\u00f0lj\u00f3st",
-        "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
-      },
-      "artists": [
-        {
-          "name": "Kolbrun Stiger",
-          "url": "https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Ra\u00f0lj\u00f3st",
-      "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Der Goldene Weg Birds",
         "url": "https://open.spotify.com/album/6gY9gSX1z2xqL0RaOQJtkJ"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 182000,
       "name": "Der Goldene Weg Birds",
       "url": "https://open.spotify.com/track/25gegpoPE530mhPN7wXgYK"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Ra\u00f0lj\u00f3st",
+        "url": "https://open.spotify.com/album/2tjRIDpABNLXdgdCUoN8xa"
+      },
+      "artists": [
+        {
+          "name": "Kolbrun Stiger",
+          "url": "https://open.spotify.com/artist/3SCgJVq21LTIQ922B7hCHT"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Ra\u00f0lj\u00f3st",
+      "url": "https://open.spotify.com/track/5J617lX3koBmpHLZjgRmmB"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Balcons Verdoyants",
-        "url": "https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq"
-      },
-      "artists": [
-        {
-          "name": "Jorulf",
-          "url": "https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO"
-        }
-      ],
-      "duration_ms": 205605,
-      "name": "Balcons Verdoyants",
-      "url": "https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "The Garden",
         "url": "https://open.spotify.com/album/5LWRyizaBPnEsDo3etMFQF"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 150500,
       "name": "The Garden",
       "url": "https://open.spotify.com/track/3nJvNFOPUn4lIO7BO0XNKp"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Balcons Verdoyants",
+        "url": "https://open.spotify.com/album/6c59Ytjjkyfyh9jX2mWopq"
+      },
+      "artists": [
+        {
+          "name": "Jorulf",
+          "url": "https://open.spotify.com/artist/6x2A1plCACc4NHUpQm90EO"
+        }
+      ],
+      "duration_ms": 205605,
+      "name": "Balcons Verdoyants",
+      "url": "https://open.spotify.com/track/5WvqV2kdhbwayUbB339QAL"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
+        "name": "Hands In The Sky",
+        "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
+      },
+      "artists": [
+        {
+          "name": "Deepest Minds",
+          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
+        }
+      ],
+      "duration_ms": 164112,
+      "name": "Hands In The Sky",
+      "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
         "name": "Noche De Oto\u00f1o",
         "url": "https://open.spotify.com/album/7HymvpDTrtr4XV6KHKArRO"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 172000,
       "name": "Estebania Se Acurruca",
       "url": "https://open.spotify.com/track/4IaVsUtAY3omovCDMK6vwf"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
-        "name": "Hands In The Sky",
-        "url": "https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW"
-      },
-      "artists": [
-        {
-          "name": "Deepest Minds",
-          "url": "https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp"
-        }
-      ],
-      "duration_ms": 164112,
-      "name": "Hands In The Sky",
-      "url": "https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
+        "name": "By The Window",
+        "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Holmes",
+          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "By The Window",
+      "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
         "name": "Sara's Dream",
         "url": "https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF"
       },
@@ -1643,18 +1659,18 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "By The Window",
-        "url": "https://open.spotify.com/album/5XJaP9U70XQYC5TNghbDGJ"
+        "name": "Forest Dreams (432 Hz)",
+        "url": "https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ"
       },
       "artists": [
         {
-          "name": "Jonas Holmes",
-          "url": "https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl"
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
         }
       ],
-      "duration_ms": 150250,
-      "name": "By The Window",
-      "url": "https://open.spotify.com/track/37mi5rHsbv0dd6rTTbjiqr"
+      "duration_ms": 174500,
+      "name": "Forest Dreams (432 Hz)",
+      "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1691,18 +1707,18 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Forest Dreams (432 Hz)",
-        "url": "https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ"
+        "name": "Mystic Nature",
+        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
       },
       "artists": [
         {
-          "name": "Orvalis",
-          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+          "name": "Dawe Natauk",
+          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
         }
       ],
-      "duration_ms": 174500,
-      "name": "Forest Dreams (432 Hz)",
-      "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
+      "duration_ms": 202789,
+      "name": "Mystic Nature",
+      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1719,22 +1735,6 @@
       "duration_ms": 152272,
       "name": "Rays of Sunshine",
       "url": "https://open.spotify.com/track/44mxjw5BP9Oj9pJBOZmLUV"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
-        "name": "Mystic Nature",
-        "url": "https://open.spotify.com/album/0usPS2WBOfWdn02mP1VAQP"
-      },
-      "artists": [
-        {
-          "name": "Dawe Natauk",
-          "url": "https://open.spotify.com/artist/00NPHtzaWdG0VAOQjPi0ou"
-        }
-      ],
-      "duration_ms": 202789,
-      "name": "Mystic Nature",
-      "url": "https://open.spotify.com/track/1YBIHgT1xJHKStUYLhCeag"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1851,22 +1851,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Aventura",
-        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
-      },
-      "artists": [
-        {
-          "name": "Dormironauts",
-          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
-        }
-      ],
-      "duration_ms": 158490,
-      "name": "Aventura",
-      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "...comes sunshine",
         "url": "https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 187000,
       "name": "...comes sunshine",
       "url": "https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Aventura",
+        "url": "https://open.spotify.com/album/1ZYPv6NmRLWL56ZdfOowfs"
+      },
+      "artists": [
+        {
+          "name": "Dormironauts",
+          "url": "https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA"
+        }
+      ],
+      "duration_ms": 158490,
+      "name": "Aventura",
+      "url": "https://open.spotify.com/track/5nnjVFQmcrFvOqxbgv007t"
     },
     {
       "added_at": "2024-05-15 12:59:43",
@@ -1931,22 +1931,6 @@
     {
       "added_at": "2024-05-15 12:59:43",
       "album": {
-        "name": "Angelic Birds",
-        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
-      },
-      "artists": [
-        {
-          "name": "Inara Rex",
-          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "Angelic Birds",
-      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
-    },
-    {
-      "added_at": "2024-05-15 12:59:43",
-      "album": {
         "name": "Winter Lake",
         "url": "https://open.spotify.com/album/7uDFwqkJQ98z06u7ft3Mqb"
       },
@@ -1959,6 +1943,22 @@
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"
+    },
+    {
+      "added_at": "2024-05-15 12:59:43",
+      "album": {
+        "name": "Angelic Birds",
+        "url": "https://open.spotify.com/album/3IxoZadyhQnLHeDxKo06YX"
+      },
+      "artists": [
+        {
+          "name": "Inara Rex",
+          "url": "https://open.spotify.com/artist/1z7Wz5Nf6ZcKVMbTbrfGmj"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "Angelic Birds",
+      "url": "https://open.spotify.com/track/4RRSAw83nF2cnrIlmmVAq5"
     },
     {
       "added_at": "2024-05-15 12:59:43",

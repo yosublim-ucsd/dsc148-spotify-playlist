@@ -1,6 +1,6 @@
 {
   "description": "Behagelig musik.",
-  "num_followers": 152614,
+  "num_followers": 152613,
   "original_name": "Ren hygge",
   "owner": {
     "name": "Spotify",
@@ -391,22 +391,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Chapters",
-        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 246320,
-      "name": "Incredible",
-      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "I Should Probably Go To Bed",
         "url": "https://open.spotify.com/album/0LptEP83Iy0SKHaVrkCmuj"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 171826,
       "name": "I Should Probably Go To Bed",
       "url": "https://open.spotify.com/track/5ovVcYo2MvjVydFwFyaaqy"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Chapters",
+        "url": "https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 246320,
+      "name": "Incredible",
+      "url": "https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "The Things I Can't Take With Me",
         "url": "https://open.spotify.com/album/3PSY4nGEzBEDmrb1UQL4iJ"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 74303,
       "name": "you up?",
       "url": "https://open.spotify.com/track/4sDt091Uz1G7Nnq9xTRtMn"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Not That Special - EP",
-        "url": "https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk"
-      },
-      "artists": [
-        {
-          "name": "Lily Moore",
-          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
-        }
-      ],
-      "duration_ms": 212051,
-      "name": "Lying To Yourself",
-      "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "May I Have This Dance",
         "url": "https://open.spotify.com/album/3SBGlbJgjLYE0Z9kXuuqxC"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 211316,
       "name": "May I Have This Dance",
       "url": "https://open.spotify.com/track/3YToI74MpP1RN2b2VYlhMQ"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Not That Special - EP",
+        "url": "https://open.spotify.com/album/2BaKMdx0fIY62NkZchjxKk"
+      },
+      "artists": [
+        {
+          "name": "Lily Moore",
+          "url": "https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS"
+        }
+      ],
+      "duration_ms": 212051,
+      "name": "Lying To Yourself",
+      "url": "https://open.spotify.com/track/7jpLx7Y8GCLvXwSQZ6qhQf"
     },
     {
       "added_at": "2024-01-12 09:52:44",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2024-01-12 09:52:44",
       "album": {
-        "name": "Make Me Like You",
-        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
-      },
-      "artists": [
-        {
-          "name": "Tore",
-          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
-        }
-      ],
-      "duration_ms": 192001,
-      "name": "Make Me Like You",
-      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
-    },
-    {
-      "added_at": "2024-01-12 09:52:44",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/4yYS7JBEY54Zn2J1z0fNJK"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 209775,
       "name": "Fade",
       "url": "https://open.spotify.com/track/7zxhhMt0j1JV7OuFpQ2Boe"
+    },
+    {
+      "added_at": "2024-01-12 09:52:44",
+      "album": {
+        "name": "Make Me Like You",
+        "url": "https://open.spotify.com/album/4cNiFGADyghV19D7joMGyi"
+      },
+      "artists": [
+        {
+          "name": "Tore",
+          "url": "https://open.spotify.com/artist/1GZrKwVL73MyDEr4bR9sRk"
+        }
+      ],
+      "duration_ms": 192001,
+      "name": "Make Me Like You",
+      "url": "https://open.spotify.com/track/1Mz4SyM8h4euPiyLMiJNjL"
     },
     {
       "added_at": "2024-01-12 09:52:44",

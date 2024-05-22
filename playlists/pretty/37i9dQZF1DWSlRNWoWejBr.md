@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,183 likes - 67 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,548 likes - 67 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 | 12 | [Mtg Deixa Ela Passar Vs Ela É Top](https://open.spotify.com/track/2aXgnQz63y5Xgufvg84oag) | [Dj Aguilar](https://open.spotify.com/artist/1QywhHFJc6ix4XLDOUQVNE), [Mc Kelles](https://open.spotify.com/artist/3BMmIOQBgdS7X9ngOHc0lC), [Mc Bola](https://open.spotify.com/artist/4ulY4o7oEoqJlqc0V6R3Bc), [Dj Barreira](https://open.spotify.com/artist/1QMdm58RYRpTcJ2TfCTMkv) | [Mtg Deixa Ela Passar Vs Ela É Top](https://open.spotify.com/album/6k6x4Wtpyw5wyR6kLDKJ7N) | 1:58 |
 | 13 | [ENCONTREI VOCÊ](https://open.spotify.com/track/640rMRYPpMwPJdx2BA2OLR) | [DJPEJOTA](https://open.spotify.com/artist/5u6b8wUykkKk1OKCyHGG6W), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF), [MC MK DA ZL](https://open.spotify.com/artist/7blOpm5yNxCElWl1UKDRhL) | [ENCONTREI VOCÊ](https://open.spotify.com/album/148AFjwP0Qd1cydWBchOGM) | 2:30 |
 | 14 | [Pix ou Presente](https://open.spotify.com/track/2bwEs5CP234z3SaQkqVLEL) | [MC Jvila](https://open.spotify.com/artist/2f8xoxornfSw6ePzgyM9NO), [DJ Torricelli](https://open.spotify.com/artist/5DEyhfcrXFzsKDCBcTNyn3), [Dj Flor](https://open.spotify.com/artist/4XRu9SPd5xXRdodBz66O1s), [DJ CARLINHOS](https://open.spotify.com/artist/6FBX3c5yWFrMF2VCoMYNQ7), [DJ KAUE SOUZA](https://open.spotify.com/artist/5ZPaotOSXiMY5Qk20xu5Ro) | [Pix ou Presente](https://open.spotify.com/album/5A0eKD3Q2v0NqUbwi6M5oT) | 2:43 |
-| 15 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
+| 15 | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Mc Leozin](https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3) | [MTG QUEM NÃO QUER SOU EU](https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC) | 2:03 |
 | 16 | [Sexta\-Feira Tô na Bala](https://open.spotify.com/track/7Lm79MdoqvoxnpnOSp7FR8) | [MC Teteu](https://open.spotify.com/artist/6ulkDr2Bnu7Qlbrs5iDOF1), [DJ Guih Da ZO](https://open.spotify.com/artist/0rb23mC6LLZ3o15qcdSzjx) | [Sexta\-Feira Tô na Bala](https://open.spotify.com/album/6KdHQQe9PAVwPHgOkxRMCM) | 3:26 |
 | 17 | [3 Dias Virado](https://open.spotify.com/track/7DROtyR6IMNifyZmyksyE7) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN) | [Só Explosão](https://open.spotify.com/album/3gfYd2A8jDzJCNOamNRJEm) | 3:27 |
 | 18 | [De 10 Mulher 11 É Maluca](https://open.spotify.com/track/1jN0ysNJ2d9VZwVdlgspjr) | [MC Saci](https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p), [MC Fahah](https://open.spotify.com/artist/0MlMFTEEEk0uSwI4hYSxrq), [DJ Sammer](https://open.spotify.com/artist/70dP66OT4eq3soksc1syUs), [Dj Lc](https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY) | [De 10 Mulher 11 É Maluca](https://open.spotify.com/album/5geYQEhBL2t9iqTsBKgkPe) | 1:55 |

@@ -1,13 +1,293 @@
 {
   "description": "Updated daily, with the latest popular singles!",
   "num_followers": 76,
-  "original_name": "NEW SINGLES RELEASES | UPDATED 21 MAY",
+  "original_name": "NEW SINGLES RELEASES | UPDATED 22 MAY",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAIbSTd1+P+r+OJxaqC6NJW9h+S6vs+",
+  "snapshot_id": "AAAIcp+W+U2OUvlxPABkCEf4J/r6xq6O",
   "tracks": [
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Shinjuku Station",
+        "url": "https://open.spotify.com/album/1ZwjVpsJLsvivnlWWA20M2"
+      },
+      "artists": [
+        {
+          "name": "Xavier Wulf",
+          "url": "https://open.spotify.com/artist/3uo0ix4Y67XHVWBhXXIY1S"
+        }
+      ],
+      "duration_ms": 67395,
+      "name": "Shinjuku Station",
+      "url": "https://open.spotify.com/track/64M6KHUZMPQ9e8Bg9IsqWL"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/6TX5kexYIRx74evKMySRxb"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "duration_ms": 363863,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/7xMkYj57VjZN8HjLEc3eTY"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Rock Out",
+        "url": "https://open.spotify.com/album/3mKeMqi3QFtGLhsbgyT2Fl"
+      },
+      "artists": [
+        {
+          "name": "Trae Tha Truth",
+          "url": "https://open.spotify.com/artist/49vCIUW46QY3L5vo1xVFoy"
+        },
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "duration_ms": 176509,
+      "name": "Rock Out",
+      "url": "https://open.spotify.com/track/53opE2ZAIvEqv3pwo7kjLF"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Lucy Takes a Picture",
+        "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "duration_ms": 259131,
+      "name": "Lucy Takes a Picture",
+      "url": "https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Wink",
+        "url": "https://open.spotify.com/album/2MzpjA3zHufCtB5MWdX6KZ"
+      },
+      "artists": [
+        {
+          "name": "Horse Jumper of Love",
+          "url": "https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "Wink",
+      "url": "https://open.spotify.com/track/5IgYoIjoRxfSuAr436g029"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Melt The Crown",
+        "url": "https://open.spotify.com/album/4EpVa0eeQghz10IzWXj28Z"
+      },
+      "artists": [
+        {
+          "name": "Anciients",
+          "url": "https://open.spotify.com/artist/3YQOcYukzO6U1MjFcavDUE"
+        }
+      ],
+      "duration_ms": 425201,
+      "name": "Melt The Crown",
+      "url": "https://open.spotify.com/track/2FgGrRwDJyQOHUah3NLTFB"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Adolf Hitler is My Nigga",
+        "url": "https://open.spotify.com/album/2TfwCQeUos5VczcY0Erea4"
+      },
+      "artists": [
+        {
+          "name": "Yung Oogway",
+          "url": "https://open.spotify.com/artist/5A5NJ5KyZtwBOvpmSM6VjQ"
+        },
+        {
+          "name": "Master Oogway",
+          "url": "https://open.spotify.com/artist/2opKsUNsav4ZAMYQt5KF3C"
+        }
+      ],
+      "duration_ms": 109498,
+      "name": "Adolf Hitler is My Nigga",
+      "url": "https://open.spotify.com/track/3BK57KCIuDXAx3yAJ8FZlQ"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Chasm",
+        "url": "https://open.spotify.com/album/3h6Ud07nb6p4jYfhoXDZW8"
+      },
+      "artists": [
+        {
+          "name": "Earth Groans",
+          "url": "https://open.spotify.com/artist/4jL8OQmf0x3KZa8g8kt28H"
+        }
+      ],
+      "duration_ms": 193207,
+      "name": "Chasm",
+      "url": "https://open.spotify.com/track/1AnFqT1Jzl58YSAm3FnpNH"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Anti-Spirit Machine",
+        "url": "https://open.spotify.com/album/05CgxQlWiDMyNufNLzeD9q"
+      },
+      "artists": [
+        {
+          "name": "Umbra Vitae",
+          "url": "https://open.spotify.com/artist/340Q4BNeDs4ePSpBii4yRa"
+        }
+      ],
+      "duration_ms": 220750,
+      "name": "Anti-Spirit Machine",
+      "url": "https://open.spotify.com/track/0RwqJdZbJJu2lb11aqOtjv"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Gank Move (feat. HitgirlLena)",
+        "url": "https://open.spotify.com/album/24Ch49aGevPu08SeoyM7Jc"
+      },
+      "artists": [
+        {
+          "name": "Big Hit",
+          "url": "https://open.spotify.com/artist/1zQJBLCGM0tdPW9XwgdEll"
+        },
+        {
+          "name": "Hit-Boy",
+          "url": "https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed"
+        },
+        {
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "HitgirlLena",
+          "url": "https://open.spotify.com/artist/0PIvlikl0Ay3YU16kUrIIF"
+        }
+      ],
+      "duration_ms": 159582,
+      "name": "Gank Move (feat. HitgirlLena)",
+      "url": "https://open.spotify.com/track/2wWG40hblw6shF2ZJUVEaJ"
+    },
+    {
+      "added_at": "2024-05-21 22:02:45",
+      "album": {
+        "name": "Distant Light of Belonging",
+        "url": "https://open.spotify.com/album/483b7Ce4l2TpytOpggXf4d"
+      },
+      "artists": [
+        {
+          "name": "Respire",
+          "url": "https://open.spotify.com/artist/0DqvYoYI8wVqwtB9yzEZW4"
+        }
+      ],
+      "duration_ms": 214435,
+      "name": "Distant Light of Belonging",
+      "url": "https://open.spotify.com/track/2el4BqsPFp0Qqfsiu3nTlU"
+    },
+    {
+      "added_at": "2024-05-21 10:02:22",
+      "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "added_at": "2024-05-21 10:02:22",
+      "album": {
+        "name": "Raining On Your Pillow",
+        "url": "https://open.spotify.com/album/35uymqTjUrltGX52KHDns8"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Raining On Your Pillow",
+      "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
+    },
+    {
+      "added_at": "2024-05-21 10:02:22",
+      "album": {
+        "name": "Don't Go Making Plans",
+        "url": "https://open.spotify.com/album/0sa9LDew1lNqr9eER3vhBR"
+      },
+      "artists": [
+        {
+          "name": "Hard-Fi",
+          "url": "https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "Don't Go Making Plans",
+      "url": "https://open.spotify.com/track/2M1h3tFmbtjxlp5WcWiK3q"
+    },
+    {
+      "added_at": "2024-05-21 10:02:22",
+      "album": {
+        "name": "Mournful Benediction (feat. Ben Duerr)",
+        "url": "https://open.spotify.com/album/5jwvhbhjLUy5wePrQCQDY1"
+      },
+      "artists": [
+        {
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        },
+        {
+          "name": "Ben Duerr",
+          "url": "https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp"
+        }
+      ],
+      "duration_ms": 380639,
+      "name": "Mournful Benediction (feat. Ben Duerr)",
+      "url": "https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl"
+    },
+    {
+      "added_at": "2024-05-21 10:02:22",
+      "album": {
+        "name": "Wyjebane Mam Na Wszystko",
+        "url": "https://open.spotify.com/album/7r9AmD6BCaOCfjfiUrIayn"
+      },
+      "artists": [
+        {
+          "name": "ox33n",
+          "url": "https://open.spotify.com/artist/6REEq0BuL0Ocr83DM7bbPT"
+        }
+      ],
+      "duration_ms": 89280,
+      "name": "Wyjebane Mam Na Wszystko",
+      "url": "https://open.spotify.com/track/73RqTRfWp9zWdCQoEGiKEH"
+    },
     {
       "added_at": "2024-05-20 22:02:33",
       "album": {
@@ -159,292 +439,8 @@
       "duration_ms": 263736,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/18ERMqzWwOztb41ornQJ3Y"
-    },
-    {
-      "added_at": "2024-05-18 22:02:24",
-      "album": {
-        "name": "Herrschaft",
-        "url": "https://open.spotify.com/album/4mJN5UawknQO3zV71hSPsY"
-      },
-      "artists": [
-        {
-          "name": "Bushido",
-          "url": "https://open.spotify.com/artist/3c96G4d2lUOxhomM2mby5S"
-        }
-      ],
-      "duration_ms": 171647,
-      "name": "Herrschaft",
-      "url": "https://open.spotify.com/track/7n763EHJNMSpGt207kCp0v"
-    },
-    {
-      "added_at": "2024-05-18 22:02:24",
-      "album": {
-        "name": "C WUT I B!",
-        "url": "https://open.spotify.com/album/4nuSKwsOp3UWgVpiDBG8t2"
-      },
-      "artists": [
-        {
-          "name": "ISSBROKIE",
-          "url": "https://open.spotify.com/artist/23GnlSzW49oADOGGjvyfEI"
-        }
-      ],
-      "duration_ms": 154202,
-      "name": "C WUT I B!",
-      "url": "https://open.spotify.com/track/4IwifRBzq2o5NI2iJXX9HC"
-    },
-    {
-      "added_at": "2024-05-18 22:02:24",
-      "album": {
-        "name": "WOOSAH",
-        "url": "https://open.spotify.com/album/58MPDNjqvUqPM8DnAKZaSO"
-      },
-      "artists": [
-        {
-          "name": "Twelve'len",
-          "url": "https://open.spotify.com/artist/0G57ms4DD5dn6wXwuFOLdO"
-        },
-        {
-          "name": "OG Vinchenzo",
-          "url": "https://open.spotify.com/artist/0dwJj6QH2bhEwRIPIdBMyV"
-        }
-      ],
-      "duration_ms": 157297,
-      "name": "WOOSAH",
-      "url": "https://open.spotify.com/track/4yhecoRfm45Z0ncGGFdDrG"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "Illusion (London Sessions)",
-        "url": "https://open.spotify.com/album/2p0LRik0eBZQKUP3OU1nxq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 192907,
-      "name": "Illusion - London Sessions",
-      "url": "https://open.spotify.com/track/4ntgq32QHdQ9oOUtBGL4qy"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "On This Hill",
-        "url": "https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo"
-      },
-      "artists": [
-        {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-        }
-      ],
-      "duration_ms": 266104,
-      "name": "On This Hill",
-      "url": "https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "Slippery People",
-        "url": "https://open.spotify.com/album/61l4URgOvUZqdRs9Qlrdru"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 340413,
-      "name": "Slippery People",
-      "url": "https://open.spotify.com/track/0ZQ6P0kDhjjhZSDvV3i9Br"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "My Town",
-        "url": "https://open.spotify.com/album/4tUNMkwL1gEC9QEC4Mn4N8"
-      },
-      "artists": [
-        {
-          "name": "Dthang",
-          "url": "https://open.spotify.com/artist/2THPifY3pg9crvJrg9yOzr"
-        },
-        {
-          "name": "Sha Gz",
-          "url": "https://open.spotify.com/artist/5cZA9NpcHyvZjWldBitrR2"
-        },
-        {
-          "name": "Kha Structure",
-          "url": "https://open.spotify.com/artist/1npzTrxFene8P6jap4i0Qz"
-        },
-        {
-          "name": "Edai Gunz",
-          "url": "https://open.spotify.com/artist/38WiooUPRdg7DKqqCICTkQ"
-        }
-      ],
-      "duration_ms": 283637,
-      "name": "My Town",
-      "url": "https://open.spotify.com/track/3QsxS5jJ5aSOE66GfJJYil"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "Fashion Icon (feat. Ayesha Erotica)",
-        "url": "https://open.spotify.com/album/4bkN1XAiEBhDz3wDME6f25"
-      },
-      "artists": [
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
-        },
-        {
-          "name": "Ayesha Erotica",
-          "url": "https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Fashion Icon (feat. Ayesha Erotica)",
-      "url": "https://open.spotify.com/track/0A11YqPabntCohBrvq0Fqs"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "Thank You for Sending Me an Angel",
-        "url": "https://open.spotify.com/album/3XXw969WtYPCotGSO5S5x9"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 188240,
-      "name": "Thank You for Sending Me an Angel",
-      "url": "https://open.spotify.com/track/7j5diHi0CsErlpnfdw8GPg"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "No Handouts",
-        "url": "https://open.spotify.com/album/4WVpwTiPEasugKLEZnSrpY"
-      },
-      "artists": [
-        {
-          "name": "RXKNephew",
-          "url": "https://open.spotify.com/artist/5fLSo9mAFFDtAJDo3Q2xcT"
-        }
-      ],
-      "duration_ms": 128450,
-      "name": "No Handouts",
-      "url": "https://open.spotify.com/track/0cGxqzaOlgt44I0vqved0U"
-    },
-    {
-      "added_at": "2024-05-18 10:02:27",
-      "album": {
-        "name": "Beach House",
-        "url": "https://open.spotify.com/album/0p2EBGp6qHe4u90O8LuHHt"
-      },
-      "artists": [
-        {
-          "name": "daydreamers",
-          "url": "https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8"
-        }
-      ],
-      "duration_ms": 197027,
-      "name": "Beach House",
-      "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
-    },
-    {
-      "added_at": "2024-05-17 22:02:39",
-      "album": {
-        "name": "Fuck Around & Find Out",
-        "url": "https://open.spotify.com/album/7eVB6O913rtg2aKNpQnSXF"
-      },
-      "artists": [
-        {
-          "name": "Key Glock",
-          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
-        }
-      ],
-      "duration_ms": 150266,
-      "name": "Fuck Around & Find Out",
-      "url": "https://open.spotify.com/track/53V7lIwY3ayAJbH79lmZWd"
-    },
-    {
-      "added_at": "2024-05-17 22:02:39",
-      "album": {
-        "name": "Kind Of Man",
-        "url": "https://open.spotify.com/album/7bSCE8LUTgZ8lEWLjDKcy4"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        }
-      ],
-      "duration_ms": 255296,
-      "name": "Kind Of Man",
-      "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
-    },
-    {
-      "added_at": "2024-05-17 22:02:39",
-      "album": {
-        "name": "We All We Got",
-        "url": "https://open.spotify.com/album/0W7GgDwWGoTfZ7rsJMBfBW"
-      },
-      "artists": [
-        {
-          "name": "Tha Dogg Pound",
-          "url": "https://open.spotify.com/artist/60CFNa0ggWjV8OSDey8aGT"
-        },
-        {
-          "name": "Tha Eastsidaz",
-          "url": "https://open.spotify.com/artist/51FyBBOW464toW099BsW8z"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 294924,
-      "name": "We All We Got",
-      "url": "https://open.spotify.com/track/4Owys0KTReXE74waMNb6s1"
-    },
-    {
-      "added_at": "2024-05-17 22:02:39",
-      "album": {
-        "name": "Unattractive",
-        "url": "https://open.spotify.com/album/2IwztrANynFPpFWzAbPK0k"
-      },
-      "artists": [
-        {
-          "name": "SOFIA ISELLA",
-          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
-        }
-      ],
-      "duration_ms": 182694,
-      "name": "Unattractive",
-      "url": "https://open.spotify.com/track/7GLsAhi8OuJDAP7O5BwWTr"
-    },
-    {
-      "added_at": "2024-05-17 22:02:39",
-      "album": {
-        "name": "A Psychic Wound",
-        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
-        }
-      ],
-      "duration_ms": 241694,
-      "name": "A Psychic Wound",
-      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
     }
   ],
-  "unique_name": "NEW SINGLES RELEASES | UPDATED 21 MAY",
+  "unique_name": "NEW SINGLES RELEASES | UPDATED 22 MAY",
   "url": "https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV"
 }

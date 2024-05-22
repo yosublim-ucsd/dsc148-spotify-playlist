@@ -1,12 +1,12 @@
 {
-  "description": "This is Aidan Bissett. The essential tracks, all in one playlist.",
-  "num_followers": 742,
+  "description": "This is Aidan Bissett \u0e41\u0e17\u0e23\u0e47\u0e01\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e1e\u0e25\u0e32\u0e14 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e14\u0e35\u0e22\u0e27",
+  "num_followers": 745,
   "original_name": "This Is Aidan Bissett",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAA06pbya36VjubiXemMpbNd",
+  "snapshot_id": "ZkqSgAAAAACZLD/ZTcpCt86C9W4leADx",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/4enAteB9DBZD3W9jmAaYYc"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1Ph96WpdjNlwD6iKRE2Xa3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Supernova (Extended)",
         "url": "https://open.spotify.com/album/7cdmvQ2BpZNtxcsClyFgIu"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 186360,
       "name": "Planet",
       "url": "https://open.spotify.com/track/2t6drKARdGJAAEzx9PTlo3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Of My League",
-        "url": "https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9"
-      },
-      "artists": [
-        {
-          "name": "Aidan Bissett",
-          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
-        }
-      ],
-      "duration_ms": 181135,
-      "name": "Out Of My League",
-      "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
     },
     {
       "added_at": null,
@@ -135,6 +103,26 @@
       "duration_ms": 187263,
       "name": "Communication",
       "url": "https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stuck on us",
+        "url": "https://open.spotify.com/album/1KXHYyQGGw2QbPGQSOBwJN"
+      },
+      "artists": [
+        {
+          "name": "Claire Rosinkranz",
+          "url": "https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24"
+        },
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "stuck on us",
+      "url": "https://open.spotify.com/track/5GIsnSmSyFM8dI3e4dP1G5"
     },
     {
       "added_at": null,

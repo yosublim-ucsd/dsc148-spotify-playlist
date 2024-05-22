@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,206 likes - 105 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,261 likes - 105 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 36 | [Aabha \- Sound Bath](https://open.spotify.com/track/4CGYBCKiaSm5Y5oqn7xZIh) | [Amrita Ananda](https://open.spotify.com/artist/17ph9VKUlu3hc0liTAhYWP) | [Aabha \- Sound Bath](https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl) | 2:52 |
 | 37 | [Ocean](https://open.spotify.com/track/3HpSgIfYWpdyiNnSsI3EBY) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Ocean](https://open.spotify.com/album/4Tsi6BstEJGnmDAD5B4sr2) | 2:36 |
 | 38 | [Above the Clouds](https://open.spotify.com/track/1YNREOM2arPOMzVX9CJZx5) | [Hieling](https://open.spotify.com/artist/76oxgr1S7w2h6MuJ50h2JC) | [Above the Clouds](https://open.spotify.com/album/1TugxFZJMiKgRBXM0aOfRT) | 2:55 |
-| 39 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 |
-| 40 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 |
+| 39 | [Deep Waters 432Hz](https://open.spotify.com/track/2I88iPM3OQJfzp9t9Iqd6f) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Deep Waters 432Hz](https://open.spotify.com/album/04DUTY1SOJFPjdViDnh8iZ) | 2:14 |
+| 40 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 |
 | 41 | [Lighthouse](https://open.spotify.com/track/5vpgqLPc6SFZU9R2Tok6Uj) | [Time Sphere](https://open.spotify.com/artist/7f0RAiYJa5Qrf8EmM6zLaT) | [Lighthouse](https://open.spotify.com/album/3FIb3pRNm5Y3jQZaV0Awf6) | 3:36 |
 | 42 | [Skye Nights](https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Skye Nights](https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9) | 3:34 |
 | 43 | [Sunrise Wave](https://open.spotify.com/track/3fgKG6Zl8L7dFIThSlHfbY) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Sunrise Wave](https://open.spotify.com/album/6EyvIKH2rr6umpHpbe4Lso) | 2:47 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 53 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 |
 | 54 | [Summer Hibernation](https://open.spotify.com/track/69xIKC9AS1D5BXBXIun0Rb) | [Matt Tondut](https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX) | [Summer Hibernation](https://open.spotify.com/album/1fEc95TyHR3Krn0hmigMmf) | 3:06 |
 | 55 | [Over the Horizon](https://open.spotify.com/track/4jOFMMEPUV5GNa3qU2rdjn) | [Stravae](https://open.spotify.com/artist/4eaRMciQhKjV2INHRTE95t) | [Over the Horizon](https://open.spotify.com/album/2pSvgBR3X8bffY2bOOuhsq) | 3:11 |
-| 56 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 |
-| 57 | [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 |
+| 56 | [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 |
+| 57 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 |
 | 58 | [Hammock Life](https://open.spotify.com/track/3p0ITpxIkPIbgKIH7t3JLw) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Hammock Life](https://open.spotify.com/album/1rMazcyTVAwOIV8lAllCNZ) | 3:22 |
 | 59 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 |
 | 60 | [Pukaki Passion](https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Pukaki Passion](https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj) | 3:09 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 66 | [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 |
 | 67 | [Healing Vibrations](https://open.spotify.com/track/63DqInT6u5XnSNTBxi9KdK) | [Restful Minds](https://open.spotify.com/artist/1KC7jzPqVDerOarFJ6oj4D) | [Healing Vibrations](https://open.spotify.com/album/4fdCupr10MhDYHQHr7NMgp) | 3:48 |
 | 68 | [Shores of Serenity](https://open.spotify.com/track/56Wi8HppRbnVgvG4DDrm76) | [Moon Garden](https://open.spotify.com/artist/3BXLBEYS53k3FXlvHUJsw7) | [Shores of Serenity](https://open.spotify.com/album/3DdHLlGtxU5vLbYEvyMzc5) | 2:32 |
-| 69 | [Frihet Natur](https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Frihet Natur](https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV) | 2:58 |
-| 70 | [Lamenting Tides](https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Lamenting Tides](https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5) | 2:47 |
+| 69 | [Lamenting Tides](https://open.spotify.com/track/1EvV3xSsoomdlynBskfrcU) | [Nash Parker](https://open.spotify.com/artist/6gFeBMvafy8NNfpc1L0HTK) | [Lamenting Tides](https://open.spotify.com/album/1ADt66KybnarDRYzAIYgL5) | 2:47 |
+| 70 | [Frihet Natur](https://open.spotify.com/track/2bobfsUclg5AgoTDIGn5DD) | [Moderato Aredo](https://open.spotify.com/artist/74G3pWoGCFymwyQUPn8rsj) | [Frihet Natur](https://open.spotify.com/album/36Ur6FxNtvITUMwNvwlqkV) | 2:58 |
 | 71 | [Lumen At The Beach](https://open.spotify.com/track/5wvyUoWHUim7nBqYfqhOfp) | [Absydius](https://open.spotify.com/artist/4spHTgc7j8EfBkYPr4HMRu) | [Lumen At The Beach](https://open.spotify.com/album/1hpj4CvS7jBcV1LDcUwUjL) | 3:01 |
 | 72 | [Zen \(Sound Bath\)](https://open.spotify.com/track/6P1PwPQz9v8OpDmsaJLplo) | [Ghost Of Summer](https://open.spotify.com/artist/2SQs5lwQifKBBhMDYnPZy8) | [Zen \(Sound Bath\)](https://open.spotify.com/album/3ZRNXJU8GSBkM2qoDeTXvT) | 3:23 |
 | 73 | [Singing Mermaids](https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Singing Mermaids](https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3) | 3:06 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcECZl1cQzi5.md) - [plain]
 | 95 | [432 Hz Tsiatso](https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [432 Hz Tsiatso](https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q) | 3:00 |
 | 96 | [Wavelines](https://open.spotify.com/track/6lPugXizncPT4QTQWU9v4j) | [Sangenjaya](https://open.spotify.com/artist/5ZrrEKTUqjrI6kAVj5Mfrl) | [Wavelines](https://open.spotify.com/album/3sftADZhlTICCQvNkAHNtL) | 2:28 |
 | 97 | [Soothing Waves](https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [Soothing Waves](https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s) | 2:31 |
-| 98 | [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 |
-| 99 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 |
+| 98 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 |
+| 99 | [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 |
 | 100 | [Feel\(ing\)](https://open.spotify.com/track/47bHgaH5iRUjU0HQhtb6tQ) | [Quiet Notes](https://open.spotify.com/artist/6o4TgXVQ6lPBqMXXyjrMjt) | [Feel\(ing\)](https://open.spotify.com/album/7jUD1Sxsl7k7ysBKKR1i1N) | 3:23 |
 | 101 | [Slowing down with the Waves](https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Slowing down with the Waves](https://open.spotify.com/album/7CDYHzDA8UwQbmqXiXZKwO) | 2:47 |
 | 102 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 |

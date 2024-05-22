@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 9184,
+  "num_followers": 9194,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAA2ztfSjppFgUu8Sj1TfyHL",
+  "snapshot_id": "ZkqSgAAAAACe3kFTWl81KA2SSPcAjHQz",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Devil Wears White",
+        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
+      },
+      "artists": [
+        {
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 190488,
+      "name": "Devil Wears White",
+      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Credit Alert",
         "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
@@ -103,30 +127,6 @@
       "duration_ms": 267993,
       "name": "Melanin",
       "url": "https://open.spotify.com/track/6P4kIjBGUzlieJBkUFobTL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Devil Wears White",
-        "url": "https://open.spotify.com/album/3BR3nIfDHdX3Nn38JgJHY1"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
-        }
-      ],
-      "duration_ms": 190488,
-      "name": "Devil Wears White",
-      "url": "https://open.spotify.com/track/2gcOLxQioot3aJEzyVQZUr"
     },
     {
       "added_at": null,
@@ -523,26 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHOPLIFE (feat. Patoranking)",
-        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
-      },
-      "artists": [
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 213870,
-      "name": "CHOPLIFE (feat. Patoranking)",
-      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yagi",
         "url": "https://open.spotify.com/album/4dH19g7BC3ric2uEAGgEcv"
       },
@@ -563,22 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TONIGHT",
-        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+        "name": "CHOPLIFE (feat. Patoranking)",
+        "url": "https://open.spotify.com/album/04UO0sJC1oRi1N8kpRKiWf"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
         },
         {
-          "name": "Popcaan",
-          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 196260,
-      "name": "Tonight",
-      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
+      "duration_ms": 213870,
+      "name": "CHOPLIFE (feat. Patoranking)",
+      "url": "https://open.spotify.com/track/5F5OkyidOWn8gj4vQhD7QM"
     },
     {
       "added_at": null,
@@ -599,6 +579,26 @@
       "duration_ms": 229013,
       "name": "Confirm (feat. Davido)",
       "url": "https://open.spotify.com/track/2J7gUMdczimfHm5gSDn3Hz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TONIGHT",
+        "url": "https://open.spotify.com/album/5S1jcA8VvY8XRyW9VRUelb"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        }
+      ],
+      "duration_ms": 196260,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/7BwkvLDMcBX6cMjvsbjvlQ"
     },
     {
       "added_at": null,

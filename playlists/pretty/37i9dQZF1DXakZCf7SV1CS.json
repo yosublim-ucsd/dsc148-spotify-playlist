@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 79031,
+  "num_followers": 79053,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 137751,
-      "name": "fwb",
-      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
+      "duration_ms": 157903,
+      "name": "fuckboy",
+      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
         }
       ],
-      "duration_ms": 157903,
-      "name": "fuckboy",
-      "url": "https://open.spotify.com/track/7cELheBXF3jIShGuewCy44"
+      "duration_ms": 137751,
+      "name": "fwb",
+      "url": "https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -839,18 +839,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "team edward",
-        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
+        "name": "BIPP",
+        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
       },
       "artists": [
         {
-          "name": "meat computer",
-          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
         }
       ],
-      "duration_ms": 87242,
-      "name": "team edward",
-      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
+      "duration_ms": 224142,
+      "name": "BIPP",
+      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
     },
     {
       "added_at": "2023-06-20 14:29:14",
@@ -871,18 +871,18 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "BIPP",
-        "url": "https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU"
+        "name": "team edward",
+        "url": "https://open.spotify.com/album/3aDilVU5hkFytlfeoiPQo5"
       },
       "artists": [
         {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "meat computer",
+          "url": "https://open.spotify.com/artist/7JU13ATc2v3kzIuSqNNPWN"
         }
       ],
-      "duration_ms": 224142,
-      "name": "BIPP",
-      "url": "https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq"
+      "duration_ms": 87242,
+      "name": "team edward",
+      "url": "https://open.spotify.com/track/6tYAwvtbq99FKtK08sslC6"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Rich Bitch Juice",
-        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
-      },
-      "artists": [
-        {
-          "name": "Alice Longyu Gao",
-          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
-        }
-      ],
-      "duration_ms": 120221,
-      "name": "Rich Bitch Juice",
-      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 256000,
       "name": "Fade Away",
       "url": "https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Rich Bitch Juice",
+        "url": "https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq"
+      },
+      "artists": [
+        {
+          "name": "Alice Longyu Gao",
+          "url": "https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL"
+        }
+      ],
+      "duration_ms": 120221,
+      "name": "Rich Bitch Juice",
+      "url": "https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee"
     },
     {
       "added_at": "2023-04-27 17:13:18",

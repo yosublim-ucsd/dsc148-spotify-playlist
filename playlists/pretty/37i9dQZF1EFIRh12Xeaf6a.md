@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,712 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,714 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,8 +131,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 121 | [Fantasy Beginning](https://open.spotify.com/track/0SPyg468DnNeAFV0uhwoKL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:02 |
 | 122 | [Surely](https://open.spotify.com/track/76QndCpwsOKj5Wp8oNYVBm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 4:57 |
 | 123 | [High Out Of Time](https://open.spotify.com/track/1OG2IBegrMugiKf0QVjwRb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:14 |
-| 124 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
-| 125 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 124 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 125 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
 | 126 | [Show Me Girl \- 2008 Remaster](https://open.spotify.com/track/59Q9ivKKAZwbAETukwviEA) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Into Something Good \(The Mickie Most Years 1964\-1972\)](https://open.spotify.com/album/0o3pjzJ5XZGm0BZieBsTcV) | 2:37 |
 | 127 | [There Is A Tavern In The Town](https://open.spotify.com/track/4DJLYAE0mMknhKTwRdmt1v) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Those Lazy Hazy Crazy Days Of Summer](https://open.spotify.com/album/5jA1HyOHqWy718lEXH2koC) | 1:36 |
 | 128 | [Growing Away from Me](https://open.spotify.com/track/0k2ds7pE5cq6vlDwOzFxbZ) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 3:02 |
@@ -163,8 +163,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 153 | [Best of Friends](https://open.spotify.com/track/2zBD9cBfG7ZgEQ90B837Ps) | [Twennynine](https://open.spotify.com/artist/4lrBQQ6NR1pj1nSzsPs7sI), [Lenny White](https://open.spotify.com/artist/478WAnkTtQach00La2gvxR) | [Best Of Friends](https://open.spotify.com/album/53fNq8N0v5K2E7S789DqWi) | 3:52 |
 | 154 | [Let's Start the Party Again](https://open.spotify.com/track/7kD0nK8s5uPVf43t4o5lpU) | [Little Eva](https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8) | [The Incredible Little Eva](https://open.spotify.com/album/2EnCHcnNjyBSV0gZ7XPSFo) | 2:48 |
 | 155 | [Satisfied](https://open.spotify.com/track/4aAqN4Xzxd7UqG9KpTeVVI) | [Lulu And The Luvvers](https://open.spotify.com/artist/4N3yBX8wmW8uAXW7MdXwdb) | [Something To Shout About](https://open.spotify.com/album/6d1nUCOvcCLhMGzpTjLbQY) | 2:54 |
-| 156 | [Her Royal Majesty](https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA) | [James Darren, Shelley Fabares & Paul Peter](https://open.spotify.com/artist/0OD3Hhi7Dprc8AALYNHm5A) | [The Very Best of James Darren](https://open.spotify.com/album/6C145biC4F00ZZtwUcLvjt) | 2:13 |
-| 157 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 156 | [I Can't Stop Talking about You](https://open.spotify.com/track/1S3HwyddiVAR18ZYOqxRZ8) | [Steve Lawrence](https://open.spotify.com/artist/271pvVqDFiREx6PqzwOX8p), [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z) | [The Greatest Hits Vol\. 2](https://open.spotify.com/album/4hKXMzhgsG1YMUMBHTEEB8) | 2:07 |
+| 157 | [Her Royal Majesty](https://open.spotify.com/track/1lnCcWCcHCN1uKx6toQuaA) | [James Darren, Shelley Fabares & Paul Peter](https://open.spotify.com/artist/0OD3Hhi7Dprc8AALYNHm5A) | [The Very Best of James Darren](https://open.spotify.com/album/6C145biC4F00ZZtwUcLvjt) | 2:13 |
 | 158 | [God Only Knows](https://open.spotify.com/track/08eCQi9h03wYDNxtUN94OF) | [The Fun Surfers](https://open.spotify.com/artist/46sr5uwA9UiQgqtVPQMSgM) | [Hot 100 2017: Australia Day](https://open.spotify.com/album/3HQsI1KdfBILNojoVRdDMc) | 2:24 |
 | 159 | [Sweet Sweetheart](https://open.spotify.com/track/333YdlIdHL2ZpWoMDGuEKd) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 2:43 |
 | 160 | [It's Gonna Be Alright](https://open.spotify.com/track/6IyIz92JZRTmBunEPLwPoZ) | [Maxine Brown](https://open.spotify.com/artist/1kCqTUSrWJEHZm2GSpRuMV) | [The EP Collection..\. Plus](https://open.spotify.com/album/1TbczNPbmppYmcTqfJu92o) | 2:34 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 196 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
 | 197 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
 | 198 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
-| 199 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
-| 200 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
+| 199 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
+| 200 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
 | 201 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 |
 | 202 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
 | 203 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbR3vgAAAABJDtpaKhEkmyxeMSZ8W6/0`
+Snapshot ID: `AbR9IgAAAADAv4su4zn47rVjCMMfwBqY`

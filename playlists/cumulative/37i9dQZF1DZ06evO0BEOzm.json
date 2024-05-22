@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
+  "description": "This is Megan Thee Stallion. \u0623\u063a\u0627\u0646\u064a \u0631\u0648\u0639\u0629 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Megan Thee Stallion",
   "tracks": [
     {
@@ -130,7 +130,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 227395,
       "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
@@ -174,7 +174,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 128995,
       "name": "Big Booty (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3gTK8TzE4on9Xe05QlVIFI"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 170641,
       "name": "Circles",
       "url": "https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty"
@@ -1248,7 +1248,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 124802,
       "name": "Running Up Freestyle",
       "url": "https://open.spotify.com/track/1YU0fHUCpUyxkWqxx9ivHK"

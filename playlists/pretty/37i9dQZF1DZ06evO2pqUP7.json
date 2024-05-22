@@ -1,12 +1,12 @@
 {
-  "description": "This is Lunay. The essential tracks, all in one playlist.",
-  "num_followers": 66491,
+  "description": "This Is Lunay. Los temas esenciales, todos en una lista.",
+  "num_followers": 66504,
   "original_name": "This Is Lunay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAANhjiDG+zi/kDQVX91aSSI",
+  "snapshot_id": "ZkqSgAAAAADFC0D/ZxxCWCZ+18+XNN0k",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 164494,
-      "name": "Nena Buena",
-      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie (feat. Sech & Sharo Towers) [Remix]",
         "url": "https://open.spotify.com/album/4N2GPRKAskxYf1HQWveeFR"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 270186,
       "name": "Nadie (feat. Sech & Sharo Towers) - Remix",
       "url": "https://open.spotify.com/track/6pNjmMB8FTMEcqGSgs7Mji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/6N1iKBKY8zRGImxADk2IdN"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 164494,
+      "name": "Nena Buena",
+      "url": "https://open.spotify.com/track/3yaBstYCoYIfiQbAxTAxcT"
     },
     {
       "added_at": null,
@@ -1099,6 +1099,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Org\u00e1nico",
+        "url": "https://open.spotify.com/album/4sAj704PbYTvBF2fFa88a1"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 220465,
+      "name": "Quiz\u00e1s",
+      "url": "https://open.spotify.com/track/7xiZayz1eFWnzLPztL80VQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00facleo",
         "url": "https://open.spotify.com/album/1ePBXGcKDFJZR3XWc2g2OW"
       },
@@ -1135,22 +1159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LE GUSTA QUE LA VEAN",
-        "url": "https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "LE GUSTA QUE LA VEAN",
-      "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -1167,6 +1175,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LE GUSTA QUE LA VEAN",
+        "url": "https://open.spotify.com/album/52tk7FBtVA5xgzLfnzQ4jn"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "LE GUSTA QUE LA VEAN",
+      "url": "https://open.spotify.com/track/1VkfjnJvS5Q5Zn5TmqvcFZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fin De Semana",
         "url": "https://open.spotify.com/album/5xoULy1zmC7mR6u23LMW6B"
       },
@@ -1179,58 +1203,6 @@
       "duration_ms": 151562,
       "name": "Fin De Semana",
       "url": "https://open.spotify.com/track/2DFn7QiaiaNNWXuWLABatP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Costear (Equipo Negro Remix)",
-        "url": "https://open.spotify.com/album/58GTCQ17sVh9kAB6PgAIFl"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Rafa Pab\u00f6n",
-          "url": "https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "AMMUNATION",
-          "url": "https://open.spotify.com/artist/1UrscYQay7QLyK3HTws7xS"
-        }
-      ],
-      "duration_ms": 536506,
-      "name": "Costear - Equipo Negro Remix",
-      "url": "https://open.spotify.com/track/71mReylcyG7MfF1dqpVQEe"
     }
   ],
   "unique_name": "This Is Lunay",

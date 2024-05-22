@@ -1,6 +1,6 @@
 {
   "description": "la nueva ola de artistas con Miranda Santizo en portada. \ud83c\udf0a\u2728 ",
-  "num_followers": 79775,
+  "num_followers": 79792,
   "original_name": "la pop~wave",
   "owner": {
     "name": "Spotify",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Dame Chance (Rayuela)",
-        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 152560,
-      "name": "Dame Chance (Rayuela)",
-      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Pelo Suelto",
         "url": "https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 204817,
       "name": "Pelo Suelto",
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Dame Chance (Rayuela)",
+        "url": "https://open.spotify.com/album/1hrrlLfySKB6NgmMTcIBhL"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 152560,
+      "name": "Dame Chance (Rayuela)",
+      "url": "https://open.spotify.com/track/2czAQ067Yr4PTyCA22I1Pe"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Medianoche",
-        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+        "name": "entre las piernas",
+        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
       },
       "artists": [
         {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Un Ratito",
-      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
+      "duration_ms": 211454,
+      "name": "entre las piernas",
+      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -515,6 +515,22 @@
       "duration_ms": 169285,
       "name": "BAD INTENCIONES",
       "url": "https://open.spotify.com/track/5BwJIBeUgerlyYADTvRctX"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Un Ratito",
+      "url": "https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -571,22 +587,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "entre las piernas",
-        "url": "https://open.spotify.com/album/4lC8tWRJRUfADPn6aAjLVl"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 211454,
-      "name": "entre las piernas",
-      "url": "https://open.spotify.com/track/5Z8ylWRIPqri4EFRltuHMg"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 178588,
       "name": "disfraz",
       "url": "https://open.spotify.com/track/4eRLH2c7eyJmOylo7Nw47T"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "ni\u00f1o azul",
-        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 145800,
-      "name": "ni\u00f1o azul",
-      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 238000,
       "name": "Barco",
       "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "ni\u00f1o azul",
+        "url": "https://open.spotify.com/album/7uSH6G3Z9z5yGBk9LIH2Zk"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "ni\u00f1o azul",
+      "url": "https://open.spotify.com/track/6qV11bT43TNvpV9WdXN29O"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "rangerover",
         "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 151011,
       "name": "de mi cabeza no te vas",
       "url": "https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "YNQNP",
+        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "RPLK",
+          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
+        }
+      ],
+      "duration_ms": 150186,
+      "name": "YNQNP",
+      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Desorden",
         "url": "https://open.spotify.com/album/1y0EaKqovoRvT9316GaP9u"
       },
@@ -1023,42 +1043,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Tengo Que Hacer Esto Por M\u00ed",
-        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 150347,
-      "name": "Tengo Que Hacer Esto Por Mi",
-      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "YNQNP",
-        "url": "https://open.spotify.com/album/6MHJtcjTccqn6F5fYKr7Sa"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "RPLK",
-          "url": "https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g"
-        }
-      ],
-      "duration_ms": 150186,
-      "name": "YNQNP",
-      "url": "https://open.spotify.com/track/4MYfbMGI7KgUzkYDN1lpnD"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "la calle",
         "url": "https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 164540,
       "name": "hoy no me encuentro para nadie",
       "url": "https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Tengo Que Hacer Esto Por M\u00ed",
+        "url": "https://open.spotify.com/album/6IKEQRgjgX2bgNa8eeCDUg"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 150347,
+      "name": "Tengo Que Hacer Esto Por Mi",
+      "url": "https://open.spotify.com/track/02OUZnvRW1EChAL8EyPHWj"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "BITCH3",
-        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
-      },
-      "artists": [
-        {
-          "name": "Nicole Horts",
-          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
-        }
-      ],
-      "duration_ms": 144554,
-      "name": "BITCH3",
-      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Yo S\u00e9 (Aceptaci\u00f3n)",
         "url": "https://open.spotify.com/album/0bIoDg1vbxAO6MqGKcbbmV"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 182357,
       "name": "Yo S\u00e9 (Aceptaci\u00f3n)",
       "url": "https://open.spotify.com/track/0P0WYN6UXKIKs3JRidiXEW"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "BITCH3",
+        "url": "https://open.spotify.com/album/5KYA9DUntV71ML54hncirY"
+      },
+      "artists": [
+        {
+          "name": "Nicole Horts",
+          "url": "https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux"
+        }
+      ],
+      "duration_ms": 144554,
+      "name": "BITCH3",
+      "url": "https://open.spotify.com/track/5f1hwdxzqdomOHHe40ju1f"
     },
     {
       "added_at": "2024-05-10 06:00:00",

@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: Jayci Yucca, SLO\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: YEGNY\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,539 likes - 57 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,551 likes - 57 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Reed](https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [SLO](https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj) | [Reed](https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St) | 3:12 |
-| 2 | [Sasha](https://open.spotify.com/track/0zWXjCqHDcbAusF4CvuDw8) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC) | [Dog's Desire](https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N) | 2:57 |
-| 3 | [Re\-back](https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Re\-back](https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE) | 3:20 |
+| 1 | [Re\-back](https://open.spotify.com/track/0SmhVSccWVbjcuNkMrsBsV) | [YEGNY](https://open.spotify.com/artist/2bLAgTUhO43UF0DhE7Rrm4) | [Re\-back](https://open.spotify.com/album/2TYVuGJboMg8mvM3vUplxE) | 3:20 |
+| 2 | [Reed](https://open.spotify.com/track/0aPq9xDq5OWNiCRvDjBUVI) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [SLO](https://open.spotify.com/artist/0OxLdB5E14KIM16YBcJ3sj) | [Reed](https://open.spotify.com/album/2ODXFLBbWprQ5Eq7ONM6St) | 3:12 |
+| 3 | [Sasha](https://open.spotify.com/track/0zWXjCqHDcbAusF4CvuDw8) | [James An](https://open.spotify.com/artist/4BACFCf6Y0aEdjtk9gutvC) | [Dog's Desire](https://open.spotify.com/album/0ZRoTmOxkXQOZL4KshfU0N) | 2:57 |
 | 4 | [Hold Me Up](https://open.spotify.com/track/1SbOXVok2b7VsxXsTOnPpM) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [Hold Me Up](https://open.spotify.com/album/0cNcrqOqpRJ89wTHw3e6k0) | 3:06 |
 | 5 | [Your/My](https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Jay Park Season 1](https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7) | 3:39 |
 | 6 | [WORD](https://open.spotify.com/track/6lvHTbbCotiic58AA421g1) | [blessed.](https://open.spotify.com/artist/54Y80c5eEYbnlvCmIPKf6W) | [WORDS](https://open.spotify.com/album/5oGk1KUbLadVunvl2jaY6J) | 3:17 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 56 | [Promise](https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Promise](https://open.spotify.com/album/1g68tNYMO5iS3P2y74vqZ6) | 2:55 |
 | 57 | [Over \(feat\. Minna Seo\)](https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq), [Minna Seo](https://open.spotify.com/artist/783H2R3PrEaeM1WHym8B4R) | [Over \(feat\. Minna Seo\)](https://open.spotify.com/album/0Hh6ZWhJU9WzsN8PMEscEh) | 3:49 |
 
-Snapshot ID: `ZkcjhwAAAADcb/e2sluUauLgz4dYncMj`
+Snapshot ID: `Zkw9/QAAAAAkWEielBRF88oaF6EuMvSi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 
 > Have a drink and relax to the Jazz played in the background in the bar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,434 likes - 100 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,523 likes - 100 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 30 | [For All We Know](https://open.spotify.com/track/4bt0QV5XmTnW3GIH7TkTN7) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 5:31 |
 | 31 | [Misty](https://open.spotify.com/track/3jaoAZieoSp9hOW6g84YnQ) | [Don Byas](https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa) | [Amoureusement Vôtre](https://open.spotify.com/album/2F7LDeynUriBihPqWRgwQC) | 3:06 |
 | 32 | [Something To Remember You By](https://open.spotify.com/track/2YBFTDX53KehUg8RQY820l) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers \(Rudy Van Gelder Remaster\)](https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt) | 3:42 |
-| 33 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
-| 34 | [It Ain't Necessarily So](https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:48 |
+| 33 | [It's Only A Paper Moon](https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Sings The Blues](https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY) | 2:42 |
+| 34 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 |
 | 35 | [Don't You Know I Care](https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [I Just Dropped By To Say Hello](https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F) | 4:10 |
-| 36 | [It's Only A Paper Moon](https://open.spotify.com/track/4qKMHZqa4jSBPUCT9NL6kd) | [Morgana King](https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH) | [Sings The Blues](https://open.spotify.com/album/28T3uReFtvHdOo0rcztcxY) | 2:42 |
+| 36 | [It Ain't Necessarily So](https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:48 |
 | 37 | [Try Your Wings](https://open.spotify.com/track/4ILOGFnSMDzbtn0zXMCFwW) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 3:23 |
 | 38 | [Love For Sale](https://open.spotify.com/track/3dxAt1su013e3GZyBUL9bP) | [Shirley Horn](https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd) | [Loads Of Love](https://open.spotify.com/album/4Wb8zemQ91ofj5B74Y82IY) | 3:51 |
 | 39 | [My Romance](https://open.spotify.com/track/3LT1zcX6o7Xv2IfJrlU4f1) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Harry "Sweets" Edison](https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN) | [Ben And "Sweets"](https://open.spotify.com/album/2ZLYIpIfXFCbwBkaqgRhBk) | 4:14 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwi9yXPDI9y.md) - [plain]
 | 54 | [Waiter, Make Mine Blues](https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB) | [Waiter, Make Mine The Blues](https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7) | 3:20 |
 | 55 | [Ballad Medley](https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [Stan Getz And The Oscar Peterson Trio](https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD) | 10:07 |
 | 56 | [I Guess I'll Have To Change My Plan](https://open.spotify.com/track/0G1hOjlv35tcw3i1mgv8xG) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [The Jazz Giants '56](https://open.spotify.com/album/7vuPKUQhuvq0GFnmojAkX1) | 9:29 |
-| 57 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
-| 58 | [I Remember Clifford](https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 3:30 |
+| 57 | [I Remember Clifford](https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 3:30 |
+| 58 | [I'm Through With Love](https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz) | [Arthur Prysock](https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT) | [Jazz 'Round Midnight: Ballads](https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY) | 3:42 |
 | 59 | [I Didn't Know What Time It Was](https://open.spotify.com/track/28eFULERb1L9fTQ3mVHGAG) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Crazy And Mixed Up](https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO) | 3:57 |
 | 60 | [Your Love Has Faded](https://open.spotify.com/track/1X5DC9OMRJ2O7F9uJzlVqO) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Johnny Hodges With Billy Strayhorn And The Orchestra](https://open.spotify.com/album/5CGVW3S012Wp5KteaW61kG) | 3:00 |
 | 61 | [Early Autumn](https://open.spotify.com/track/1tj5ZJB9BhKlIBsi5mhI8b) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Marty Paich & His Orchestra](https://open.spotify.com/artist/59w6POLuDPBBzkjKLG1SC2) | [Sings The Winners](https://open.spotify.com/album/5EC5UZWQEWFyKy2Kq4ibWB) | 3:11 |

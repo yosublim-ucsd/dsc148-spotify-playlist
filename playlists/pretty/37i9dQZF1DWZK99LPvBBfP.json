@@ -1,6 +1,6 @@
 {
   "description": "Club classics from the homeland of dance music.",
-  "num_followers": 268285,
+  "num_followers": 268473,
   "original_name": "Ibiza Classics",
   "owner": {
     "name": "Spotify",
@@ -1099,26 +1099,6 @@
     {
       "added_at": "2024-03-22 15:59:52",
       "album": {
-        "name": "Watch The Sunrise",
-        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
-      },
-      "artists": [
-        {
-          "name": "Axwell",
-          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 372493,
-      "name": "Watch The Sunrise - Extended Vocal",
-      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
-    },
-    {
-      "added_at": "2024-03-22 15:59:52",
-      "album": {
         "name": "Essential - The 90s",
         "url": "https://open.spotify.com/album/1suw2wSUQSR9ZJxL2xkh3e"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 187653,
       "name": "Don't You Want Me - Hooj Mix Edit",
       "url": "https://open.spotify.com/track/3zXRtN3UOtt197xbTxv1A1"
+    },
+    {
+      "added_at": "2024-03-22 15:59:52",
+      "album": {
+        "name": "Watch The Sunrise",
+        "url": "https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ"
+      },
+      "artists": [
+        {
+          "name": "Axwell",
+          "url": "https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 372493,
+      "name": "Watch The Sunrise - Extended Vocal",
+      "url": "https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB"
     },
     {
       "added_at": "2024-03-22 15:59:52",

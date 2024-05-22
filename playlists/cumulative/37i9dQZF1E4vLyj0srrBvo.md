@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4vLyj0srrBvo.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4vLyj0srrBvo) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4vLyj0srrBvo)
 
-### [Radio de Grimes](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
+### [Grimes Radio](https://open.spotify.com/playlist/37i9dQZF1E4vLyj0srrBvo)
 
-> Con FKA twigs, Crystal Castles, Purity Ring y más
+> With FKA twigs, Crystal Castles, Purity Ring and more
 
 1,769 songs - 4 day 12 hr 47 min
 
@@ -52,7 +52,7 @@
 | [Addict](https://open.spotify.com/track/6LEG349yBthHmCjGMfd3g8) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [La Linda](https://open.spotify.com/album/05ZdcQ2F8wSobCk3ypo15O) | 3:26 | 2022-06-11 | 2022-06-12 |
 | [Advice](https://open.spotify.com/track/3poJLRLGViMX3gicX9UYtD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/1i8WVUZhMVNurF8rmlMeSH) | 2:37 | 2024-01-28 | 2024-04-16 |
 | [Affection](https://open.spotify.com/track/7322doZY3H7TUYavIGhZwM) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [ABRA](https://open.spotify.com/artist/3ZJxEmjYZd5VOqZ8o3aXiL) | [+/\-](https://open.spotify.com/album/76360gDUYhTAsphjiXM9gA) | 3:32 | 2022-03-19 | 2022-04-24 |
-| [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2024-04-19 |  |
+| [After Dark](https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/0yeP5olfo8IIu6UBGfUWHo) | 4:17 | 2024-04-19 | 2024-05-22 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2023-12-14 | 2024-02-07 |
 | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/track/0y8Wf6ltWpGCpgqVa21QNX) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [After the Afterparty \(feat\. Lil Yachty\)](https://open.spotify.com/album/4Txd0wc4WAgnoxXx0SLAlw) | 3:39 | 2021-02-15 | 2022-01-17 |
 | [After the Afterparty \(feat\. Lil Yachty\) \- Alan Walker Remix](https://open.spotify.com/track/3TeBDiwz0qrBJAFATBcmTx) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [After the Afterparty \(feat\. Lil Yachty\) \[Alan Walker Remix\]](https://open.spotify.com/album/35GzlUEoznVykXYYxDDTwG) | 3:16 | 2020-10-17 | 2021-02-02 |
@@ -696,7 +696,7 @@
 | [Haunted Water](https://open.spotify.com/track/0Uup3QTk7HXXMTkuXBvSqA) | [Spellling](https://open.spotify.com/artist/7rlAAAiWScpsT1hmgURAmh) | [Mazy Fly](https://open.spotify.com/album/6gVfjDY8iDGpGw3ObrB19y) | 4:46 | 2022-03-11 | 2022-10-15 |
 | [He Took Her to a Movie](https://open.spotify.com/track/67rg7z2MZN4WuVaUNHFeRK) | [Ladytron](https://open.spotify.com/artist/0ucLPotcQNI7AViFytdhBz) | [604](https://open.spotify.com/album/0Rg5gPR4pbwQrnfmTO9yxK) | 3:10 | 2022-12-20 | 2023-03-25 |
 | [Headache](https://open.spotify.com/track/4EDj8GXOlI45vG4SOfswK3) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Paradise Valley](https://open.spotify.com/album/5e5MtmjBRnh3eI5g5C0Tyv) | 5:04 | 2021-05-05 | 2022-03-06 |
-| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 | 2024-05-20 |
+| [Heads Will Roll](https://open.spotify.com/track/2WRFD9WczJ975X2K1Y9YVs) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/6w21zEx5okRPCYJejLVRdR) | 3:41 | 2024-04-25 |  |
 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 | 2023-09-26 | 2024-02-01 |
 | [Heartbeats](https://open.spotify.com/track/2YacpExEbX9tF8IbFlFOo4) | [The Knife](https://open.spotify.com/artist/7eQZTqEMozBcuSubfu52i4) | [Deep Cuts](https://open.spotify.com/album/1iqMDM4Io1tnDDl58NGeVJ) | 3:51 | 2020-10-22 | 2022-02-21 |
 | [Heatwave](https://open.spotify.com/track/4TvHgHwMh8jkc9iIUqljUZ) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL) | [Heatwave](https://open.spotify.com/album/2lEUWac6gmtTkuHOZqiGoH) | 2:42 | 2022-07-27 | 2023-04-11 |
@@ -970,7 +970,7 @@
 | [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 | 2021-05-06 | 2022-03-01 |
 | [Luna Llena](https://open.spotify.com/track/4I4p4iwxzFzdiz1WOZdZk7) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KICK ii](https://open.spotify.com/album/1Vg5v9M0afj5sIl1ndRXzy) | 3:19 | 2021-12-06 | 2022-03-18 |
 | [Lust](https://open.spotify.com/track/4gkSpsiFU0Lsjeitmx4zGK) | [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG) | [Lesser Man EP](https://open.spotify.com/album/0U0KLShCpe3rWkcfOLJl9Y) | 3:04 | 2023-06-12 | 2023-06-13 |
-| [Luxury](https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 2:48 | 2024-02-01 |  |
+| [Luxury](https://open.spotify.com/track/5BsGmbPJyupA70FlD7NtbS) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6hORzuqVAquk6Szm1NRoRt) | 2:48 | 2024-02-01 | 2024-05-22 |
 | [M'Lady](https://open.spotify.com/track/2i9yWmgHVqWW1vmXtxUaN9) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 | 2022-02-01 | 2022-02-21 |
 | [MACHINEE](https://open.spotify.com/track/5OgxLIsBdhjE9VCSyM1e04) | [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv), [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP) | [MACHINEE](https://open.spotify.com/album/7bafJgpgBTMjbeF9zJKwAf) | 6:34 | 2022-03-15 | 2022-06-16 |
 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 | 2022-03-31 | 2022-07-20 |
@@ -1357,7 +1357,7 @@
 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2024-01-05 | 2024-04-19 |
 | [Señorita](https://open.spotify.com/track/0mjDJiWmZ548y9EUnogCP1) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KicK iii](https://open.spotify.com/album/1paea7BPqUpZksvNkQ2cqQ) | 2:21 | 2021-12-06 | 2022-10-09 |
 | [Shadow](https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Shadow](https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG) | 3:44 | 2020-10-24 | 2022-03-08 |
-| [Shadows](https://open.spotify.com/track/4TimKwMIY6mTJXEdSilVP9) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:28 | 2024-01-14 | 2024-05-20 |
+| [Shadows](https://open.spotify.com/track/4TimKwMIY6mTJXEdSilVP9) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:28 | 2024-01-14 |  |
 | [shadowshow](https://open.spotify.com/track/4obdp8Nty0Cad7pAoY77h6) | [iamamiwhoami](https://open.spotify.com/artist/6UOcY6w4K6Ek5Lw5rFDHdP), [ionnalee](https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv) | [BLUE](https://open.spotify.com/album/0mECQjDNmBl1vThYWBQX5D) | 5:24 | 2022-03-24 | 2022-09-09 |
 | [Shadowside](https://open.spotify.com/track/2RYzm2lelugDMf0UcxR36i) | [Labyrinth Ear](https://open.spotify.com/artist/51kDu9CfyGBpcgMwy8MlEd) | [Shadowside](https://open.spotify.com/album/6JmuwDDaO5SeKypwskj2ua) | 5:08 | 2022-10-29 | 2022-10-30 |
 | [She Bangs Like a Fairy on Acid](https://open.spotify.com/track/3awA5h5b7xwPxCIlUK1p4c) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Dysania](https://open.spotify.com/album/4pOYgdkvLhLSydbYbJOeD2) | 2:55 | 2023-05-04 | 2024-03-05 |

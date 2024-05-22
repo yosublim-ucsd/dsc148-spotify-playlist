@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: tricksingh
 
-103 songs - 5 hr 2 min
+104 songs - 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Gangsta](https://open.spotify.com/track/3Vmo13MxVRKBszmfK61ONH) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 3:10 | 2023-05-26 |  |
 | [Gucci](https://open.spotify.com/track/7wkAbTbO0iaLuoTvAkWMCV) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Grit 2 Glory](https://open.spotify.com/album/4FRL6MDkCyQdyHi6umE2af) | 2:58 | 2023-07-27 | 2023-11-25 |
 | [Hail](https://open.spotify.com/track/1UG1pIgd5f1NU0byyGfm6w) | [Tarna](https://open.spotify.com/artist/5NKQMEArcrzIPct2RXdS7A), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT) | [Nothing to Prove](https://open.spotify.com/album/2F4jmLN6kAFzWzlabRMm0J) | 2:10 | 2023-03-18 | 2023-04-27 |
+| [Head Down](https://open.spotify.com/track/5LttjEv8EQgd6NQbC45Ssl) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Xplicit](https://open.spotify.com/artist/6qKmGvxFS54YHdlQ4S93gu) | [Head Down](https://open.spotify.com/album/1k9NCze8JjNmRkE3arYiVZ) | 2:39 | 2024-05-21 |  |
 | [HELLCAT](https://open.spotify.com/track/6UhcId8Fy6YByPYziOja5W) | [SOHAL](https://open.spotify.com/artist/4btWEiFCBW3yM80dXqq3p8), [Joban Dhillon](https://open.spotify.com/artist/7CDkAERLEgW9vI1g6RV764) | [HELLCAT](https://open.spotify.com/album/4VacXInq7MmyeZUmgzlDYd) | 3:25 | 2023-03-18 | 2023-10-14 |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-18 | 2023-04-27 |
 | [HOBBIES](https://open.spotify.com/track/11yCYW6r6MYoZDZmEZ7f5l) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg) | 2:48 | 2024-04-12 |  |

@@ -2,7 +2,7 @@
 
 ### [This Is Lou Rawls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0SkALb)
 
-> This Is Lou Rawls\. Los temas esenciales, todos en una lista.
+> This is Lou Rawls\. The essential tracks, all in one playlist.
 
 109 songs - 6 hr 46 min
 
@@ -43,7 +43,7 @@
 | [I Just Want To Make Love To You](https://open.spotify.com/track/5pGeEPpwJiFyvBbKGBZcKZ) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Portrait Of The Blues](https://open.spotify.com/album/6JdvEayKi0nsKq3XJNZolE) | 3:09 | 2022-12-25 | 2022-12-27 |
 | [I Wish It Were Yesterday](https://open.spotify.com/track/54lpLkeJoX4Aai5JdgJnIB) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:27 | 2022-09-19 |  |
 | [I'd Rather Drink Muddy Water](https://open.spotify.com/track/4I677Lz5xosfi7M4k3nsF9) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:55 | 2022-09-11 | 2022-10-06 |
-| [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 | 2022-05-25 |  |
+| [I'd Rather Drink Muddy Water \- 2006 Remaster](https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Black And Blue](https://open.spotify.com/album/7xYn8t0P9l0Oep0Ycpc7gS) | 3:35 | 2022-05-25 | 2024-05-22 |
 | [I'd Rather Drink Muddy Water \- Live/1968](https://open.spotify.com/track/7ykrjb0F8haiGHwXobEY1q) | [The Cannonball Adderley Quintet](https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Legendary Lou Rawls](https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2) | 3:08 | 2022-12-09 | 2024-01-07 |
 | [I'm A King Bee](https://open.spotify.com/track/59EwOUncU2w4BoI6Zk7Pc8) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Natural Man / Classic Lou](https://open.spotify.com/album/2AuskfemNIIJnipCT670GV) | 2:19 | 2023-05-26 | 2023-05-28 |
 | [If I Coulda, Woulda, Shoulda](https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 4:32 | 2022-05-25 |  |
@@ -72,7 +72,7 @@
 | [One Life to Live](https://open.spotify.com/track/7K5oM0YifHysADifGna69g) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [When You Hear Lou, You've Heard It All](https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl) | 3:53 | 2022-05-25 |  |
 | [Pure Imagination](https://open.spotify.com/track/0SYrCElkWSynWIEBKj1hwl) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [All Things In Time](https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m) | 3:41 | 2022-05-25 |  |
 | [Save the Bones for Henry Jones](https://open.spotify.com/track/5ZFb67RDwZFyOIfkkpdQvq) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi), [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Milt Jackson](https://open.spotify.com/artist/23i8EixXKG0EWGRCfHlUGN) | [True Genius](https://open.spotify.com/album/7gvxyetkX6vkoMyDkDM6ls) | 3:42 | 2022-10-18 |  |
-| [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 | 2022-05-26 | 2024-05-20 |
+| [Scotch & Soda](https://open.spotify.com/track/18Qu2MK93VADxqHFYctpql) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Anthology\-Lou Rawls](https://open.spotify.com/album/6RZbUqqODcPvuxw6zAD5fX) | 2:58 | 2022-05-26 |  |
 | [Season Of The Witch](https://open.spotify.com/track/65CQSLIsCjbVyGXVRg97K4) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Halloween's Gravest Hits](https://open.spotify.com/album/7I2eOFPEM14Yjh9cOPlYOh) | 5:51 | 2022-05-25 | 2024-01-10 |
 | [See See Rider](https://open.spotify.com/track/0nm1sz6alpQnzQAZZ8oOPq) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od), [Les McCann Ltd.](https://open.spotify.com/artist/5m5cI7A7X1nKfJfJIZumoA) | [Stormy Monday](https://open.spotify.com/album/2E5VtJahYu8mM1fjycL5ds) | 3:11 | 2022-11-12 | 2024-01-26 |
 | [See You When I Git There](https://open.spotify.com/track/3LJEsCWWR0eQ5zhwwzX5Kc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Unmistakably Lou](https://open.spotify.com/album/0frjcnc2w32xu0IotX4A2r) | 4:28 | 2022-05-25 |  |

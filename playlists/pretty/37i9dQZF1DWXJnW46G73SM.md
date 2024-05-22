@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,705 likes - 81 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,774 likes - 81 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 7 | [البدايات](https://open.spotify.com/track/64cbxJ5sRG93qgaqWw1Lfn) | [bassma boussel](https://open.spotify.com/artist/6fxepvV4IKhI2gmoHrOiTP) | [البدايات](https://open.spotify.com/album/109AUHjhLxGLBTjtkpMny2) | 4:43 |
 | 8 | [بيحلالى](https://open.spotify.com/track/0ydpAWEnusQNwlfL0mgj3P) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [بيحلالى](https://open.spotify.com/album/0uE1vcUj0nN4jn6VeFsYPw) | 3:20 |
 | 9 | [Ya Nahla](https://open.spotify.com/track/0er5CBzYS2GlYoNU3V4D9X) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Ya Nahla](https://open.spotify.com/album/4PN02EomiBAsQLVKuivtst) | 3:18 |
-| 10 | [يا خيبتو](https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [يا خيبتو](https://open.spotify.com/album/6vWs3pzaJe1qZzfF0EI2T2) | 2:46 |
+| 10 | [يا خيبتو](https://open.spotify.com/track/3h8EZOFQRHDRu4OuyaE9LJ) | [Nawal](https://open.spotify.com/artist/35HNwIg9J75QAhmT3eE1Uo) | [يا خيبتو](https://open.spotify.com/album/6vWs3pzaJe1qZzfF0EI2T2) | 3:03 |
 | 11 | [هنسى اسمك](https://open.spotify.com/track/5JlzkV5lnKxjrREddDBp62) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 3:35 |
 | 12 | [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 |
 | 13 | [رحيل](https://open.spotify.com/track/6iKmpbDPX61wXJJ4aQUPNR) | [Rana Samaha](https://open.spotify.com/artist/2uDFLyBdrEahDgvR0KEMUW) | [رحيل](https://open.spotify.com/album/4pvkQYbYlvz88nS1skKpgp) | 0:50 |

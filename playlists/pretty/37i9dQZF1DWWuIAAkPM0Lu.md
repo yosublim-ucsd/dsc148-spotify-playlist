@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">billie</a> 💙 you hit us hard and soft 🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,975 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,982 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

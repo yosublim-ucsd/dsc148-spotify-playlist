@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 112 songs - 6 hr 6 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 113 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,5 +120,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 110 | [Harlem Shake \(feat\. Young Thug\)](https://open.spotify.com/track/3cFHCXuBZKMJd8Q4Wt8RB3) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [High Off Life](https://open.spotify.com/album/4bNPOFOzxGhF5jhfIK6lit) | 2:28 |
 | 111 | [To Be Honest](https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:39 |
 | 112 | [Self](https://open.spotify.com/track/2wUnFLr2k5491Pv4cUYd83) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/7oHM3Sj0l2nXAzGAxW0KOt) | 1:34 |
+| 113 | [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 |
 
-Snapshot ID: `AAAcoNmpBiQXiwNgAN5eMqPlssbFITit`
+Snapshot ID: `AAAcoeLDX0ml1xRaOWnEv/lhsNhWNCwe`

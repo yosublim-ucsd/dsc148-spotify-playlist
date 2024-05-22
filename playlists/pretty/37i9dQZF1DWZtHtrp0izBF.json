@@ -1,6 +1,6 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 9672,
+  "num_followers": 9766,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2024-03-19 14:43:17",
+      "album": {
         "name": "De Vuelta Pa' La Vuelta",
         "url": "https://open.spotify.com/album/1mFvOlraT4JKt4D7aGb9tc"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 231593,
       "name": "De Vuelta Pa' La Vuelta",
       "url": "https://open.spotify.com/track/7AUhck1sPy11OExQmDDx4P"
-    },
-    {
-      "added_at": "2024-03-19 14:43:17",
-      "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "Acarey Ya Lleg\u00f3",
-        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
-      },
-      "artists": [
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "Eres Mi Sue\u00f1o",
-      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
-    },
-    {
-      "added_at": "2024-03-19 14:43:17",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 316093,
       "name": "Una Aventura",
       "url": "https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I"
+    },
+    {
+      "added_at": "2024-03-19 14:43:17",
+      "album": {
+        "name": "Acarey Ya Lleg\u00f3",
+        "url": "https://open.spotify.com/album/74i0QoJc9w1PmewVlDlnj3"
+      },
+      "artists": [
+        {
+          "name": "Septeto Acarey",
+          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Eres Mi Sue\u00f1o",
+      "url": "https://open.spotify.com/track/5ZA9ItQp7DyG6pPkSsq3Bn"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 261333,
-      "name": "Ojos Chinos",
-      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
-    },
-    {
-      "added_at": "2024-03-19 14:43:17",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2024-03-19 14:43:17",
+      "album": {
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 261333,
+      "name": "Ojos Chinos",
+      "url": "https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
       },
       "artists": [
         {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
+      "duration_ms": 296920,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
       "artists": [
         {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
         }
       ],
-      "duration_ms": 296920,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi"
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -663,6 +663,22 @@
       "duration_ms": 262079,
       "name": "Entre La Espada y La Pared",
       "url": "https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg"
+    },
+    {
+      "added_at": "2024-03-19 14:43:17",
+      "album": {
+        "name": "De Verdad",
+        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
+        }
+      ],
+      "duration_ms": 283200,
+      "name": "Mia",
+      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
     },
     {
       "added_at": "2024-03-19 14:43:17",
@@ -787,22 +803,6 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "De Verdad",
-        "url": "https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 283200,
-      "name": "Mia",
-      "url": "https://open.spotify.com/track/3x4oECarDKCZxecqOYis52"
-    },
-    {
-      "added_at": "2024-03-19 14:43:17",
-      "album": {
         "name": "Contraste En Salsa",
         "url": "https://open.spotify.com/album/0GxUdSpTj1PeJlqq0knC5I"
       },
@@ -819,26 +819,18 @@
     {
       "added_at": "2024-03-19 14:43:17",
       "album": {
-        "name": "Enam\u00f3rate Bailando",
-        "url": "https://open.spotify.com/album/3jABMVgOsgCpEggqrdFc6y"
+        "name": "Tributo a La Salsa Colombiana",
+        "url": "https://open.spotify.com/album/49m397xV5kOZlernc0Iq2d"
       },
       "artists": [
         {
-          "name": "Reynier Perez",
-          "url": "https://open.spotify.com/artist/3qcgjxAe4FRDMSj3vJejMd"
-        },
-        {
-          "name": "Septeto Acarey",
-          "url": "https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v"
-        },
-        {
-          "name": "Ma\u00eda",
-          "url": "https://open.spotify.com/artist/1IKP8dm7pmlkZS4V4MzKkI"
+          "name": "Alberto Barros",
+          "url": "https://open.spotify.com/artist/33ZuRLa8CHXZVPJXdQCcul"
         }
       ],
-      "duration_ms": 276581,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/3QXFOKlokWXMh2x9Q29764"
+      "duration_ms": 247920,
+      "name": "Sobredosis",
+      "url": "https://open.spotify.com/track/5WNfNohnH5zSjz9odihLM9"
     }
   ],
   "unique_name": "Salsa Lessons",

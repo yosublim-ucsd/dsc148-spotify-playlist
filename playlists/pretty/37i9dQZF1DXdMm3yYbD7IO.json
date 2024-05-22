@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 345630,
+  "num_followers": 345898,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -359,26 +359,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Surprise",
-        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
-      },
-      "artists": [
-        {
-          "name": "Crystal Waters",
-          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
-        },
-        {
-          "name": "The Basement Boys",
-          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
-        }
-      ],
-      "duration_ms": 451826,
-      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
-      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -395,6 +375,26 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        },
+        {
+          "name": "The Basement Boys",
+          "url": "https://open.spotify.com/artist/4zs2Vybqo9ktD8QORpnHfI"
+        }
+      ],
+      "duration_ms": 451826,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Basement Boy Strip To The Bone Mix",
+      "url": "https://open.spotify.com/track/1SShxVVBeZBCY7WddnksPz"
     },
     {
       "added_at": "2024-03-22 15:16:56",

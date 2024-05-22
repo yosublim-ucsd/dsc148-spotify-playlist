@@ -4,7 +4,7 @@
 
 > Jesus Music but make it pon pon\.  Get your fill of Afrobeats and Bible right here!  Cover: <a href="spotify:artist:58r1rB5t3VF5X6yXGPequV">Maverick City Music</a> & <a href="spotify:artist:6008gjU9UTUCfLZoSun5SH">Annatoria</a>
 
-279 songs - 14 hr 27 min
+280 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Agba](https://open.spotify.com/track/1vGzB06RdwXNWfCRA2xgjP) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Agba](https://open.spotify.com/album/1PFAetnwCwEWcVqpDIlgMG) | 3:24 | 2023-05-19 |  |
 | [Ah Ya Ya](https://open.spotify.com/track/2up5Sc4s1sh7HhY5VkeAoI) | [Samuel Folabi](https://open.spotify.com/artist/2MhhZ3x6FKYWCNzZDObdqM), [Minister Jayclef](https://open.spotify.com/artist/5vTmwsLqMwMpzyeBuq2P8r), [Cee Sharp](https://open.spotify.com/artist/4klUyv1VdiNhMDlWXoZpSN), [Speedy Nasara](https://open.spotify.com/artist/2JHbMnU4IideoZKilIIeVE) | [Ah Ya Ya](https://open.spotify.com/album/3vzzQKuIn0WV58V4DKYZnN) | 3:42 | 2023-05-19 |  |
 | [Akorede](https://open.spotify.com/track/6nNnOZRV4X5rxMMivAItDp) | [TB1](https://open.spotify.com/artist/79nV5xcc87fTQ2T527OqAG), [Kelly Lyon](https://open.spotify.com/artist/4ifitpTpp7bzrEyxkHuFmj), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Akorede](https://open.spotify.com/album/60OHPdjGHgbHZBwBQVnlyE) | 4:00 | 2022-07-30 | 2024-01-13 |
+| [All of My Worship](https://open.spotify.com/track/7yiYEIVckitSlalK5LKchp) | [Afrobeats Worship](https://open.spotify.com/artist/1zP3vvPUniQz6k3bKXI49n), [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR) | [All of My Worship](https://open.spotify.com/album/4v4rJu3XcdUprfdG49O5kK) | 3:28 | 2024-05-10 |  |
 | [Alone](https://open.spotify.com/track/2Im4gW7xrTDqQFOIjxkb7j) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:43 | 2023-10-24 |  |
 | [Already Won](https://open.spotify.com/track/6iMeVb83BHP9IetgCLaf2q) | [Mo'Lola](https://open.spotify.com/artist/2ejOctEUrvGWrMuTwZPdaO), [Mike Abdul](https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK) | [Already Won](https://open.spotify.com/album/6wJQFqrxl6EkCY9PyVFeHY) | 3:48 | 2024-01-12 |  |
 | [Altar \(Hosanna\)](https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [Altar \(Hosanna\)](https://open.spotify.com/album/1sJoz2kILCHl7n6wn351ko) | 2:52 | 2024-01-26 |  |
@@ -98,7 +99,7 @@
 | [Gold](https://open.spotify.com/track/3hlQG5mVjjR5MupseJXkid) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gold](https://open.spotify.com/album/6ogAwvxSzjwnaolFyQBpAf) | 2:54 | 2022-12-16 | 2024-01-04 |
 | [Good](https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267) | [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Good](https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i) | 3:36 | 2023-10-24 |  |
 | [Good 2 Me](https://open.spotify.com/track/3mczLeyhLCkkbn5jb5IMaX) | [Romeyo Wilson](https://open.spotify.com/artist/2dlixKsISNrgfVBQJzg3VJ) | [Good 2 Me](https://open.spotify.com/album/3Ir3eESTZEQDEGKiqFDF6m) | 3:12 | 2024-02-02 |  |
-| [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2024-01-26 |  |
+| [Good Thing](https://open.spotify.com/track/0bKzerzZVCgaS2Bx0WDabA) | [Mün The Shinobi](https://open.spotify.com/artist/3C0LlGBwMGs0ZjAtxUlJ6B), [Sal Ly](https://open.spotify.com/artist/0FozbkkgjGS40HDmqhC5WZ) | [Good Thing](https://open.spotify.com/album/1qhTnZDA67hssvx5HQ2O77) | 2:54 | 2024-01-26 | 2024-05-22 |
 | [Greatest](https://open.spotify.com/track/4RGma6BvBMPUlES6oAVubZ) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [RADICAL](https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE) | 3:08 | 2023-10-24 | 2024-01-27 |
 | [Halle](https://open.spotify.com/track/3jjIz7mRqYI8zXutJ9zwad) | [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv) | [Halle](https://open.spotify.com/album/3mcjpEjMXLuhBeaVPhPoub) | 2:20 | 2023-08-25 | 2024-01-27 |
 | [HALLELUJAH](https://open.spotify.com/track/2qBYHbmwGdn6aEMDc9xmha) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [HALLELUJAH](https://open.spotify.com/album/3lC2Nhs1VxXn4QubjCQqea) | 2:16 | 2024-01-26 |  |

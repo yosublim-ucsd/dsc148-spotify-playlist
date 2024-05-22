@@ -1,12 +1,12 @@
 {
-  "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
-  "num_followers": 58169,
+  "description": "This is Panter B\u00e9lico. The essential tracks, all in one playlist.",
+  "num_followers": 58247,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAA7D6oGaGLmN4SRGIOu9mn4",
+  "snapshot_id": "ZkqSgAAAAAChOLVyLgQrOEC20n18UGmt",
   "tracks": [
     {
       "added_at": null,
@@ -167,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Quiero Casar",
-        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 156252,
-      "name": "Me Quiero Casar",
-      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Borracho Enamorado",
         "url": "https://open.spotify.com/album/0sr6urbaaWIMexVmk97TZK"
       },
@@ -203,6 +183,26 @@
       "duration_ms": 152776,
       "name": "Borracho Enamorado",
       "url": "https://open.spotify.com/track/6VcVBZ2b43kiDO6rQxmsYO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Quiero Casar",
+        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 156252,
+      "name": "Me Quiero Casar",
+      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
     },
     {
       "added_at": null,

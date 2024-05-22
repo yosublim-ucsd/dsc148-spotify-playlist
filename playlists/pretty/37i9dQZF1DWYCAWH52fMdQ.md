@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCAWH52fMdQ.md) - [plain]
 
 > Get Ready! Show Time!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,107 likes - 54 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,110 likes - 54 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

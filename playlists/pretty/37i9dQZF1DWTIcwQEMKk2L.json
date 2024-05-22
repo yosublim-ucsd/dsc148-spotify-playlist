@@ -1,12 +1,12 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67726,
+  "num_followers": 67737,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkGZmgAAAACO1YKXUTAwCD6era86LgE4",
+  "snapshot_id": "ZkxEQgAAAACkmNXWRYpBcuEZdcFu71xe",
   "tracks": [
     {
       "added_at": "2024-05-13 04:39:54",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Although",
-        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
-      },
-      "artists": [
-        {
-          "name": "Jane Avril",
-          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
-        }
-      ],
-      "duration_ms": 180635,
-      "name": "Although",
-      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Meuse",
         "url": "https://open.spotify.com/album/71eY3XLNP4ixRL96BLNnWU"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 127500,
       "name": "Meuse",
       "url": "https://open.spotify.com/track/271aR2CbQyhO36eXkHstzy"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Although",
+        "url": "https://open.spotify.com/album/03ATVAe2XY1b6rZ7OGbMhw"
+      },
+      "artists": [
+        {
+          "name": "Jane Avril",
+          "url": "https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap"
+        }
+      ],
+      "duration_ms": 180635,
+      "name": "Although",
+      "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Before last month",
-        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
-      },
-      "artists": [
-        {
-          "name": "Aaron Xeres",
-          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
-        }
-      ],
-      "duration_ms": 124238,
-      "name": "Before last month",
-      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Petals",
         "url": "https://open.spotify.com/album/4xZ39MdrmOgVVCNt7UUL1L"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 157979,
       "name": "Petals",
       "url": "https://open.spotify.com/track/4EQeE98JeOcxg9YI5k8WV1"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Before last month",
+        "url": "https://open.spotify.com/album/4uygDUyIh8thKY9bYH5pJS"
+      },
+      "artists": [
+        {
+          "name": "Aaron Xeres",
+          "url": "https://open.spotify.com/artist/0KPqjJmay1wgZy1AJUYTmJ"
+        }
+      ],
+      "duration_ms": 124238,
+      "name": "Before last month",
+      "url": "https://open.spotify.com/track/6EpEjSQr7d6agKJENjeDff"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -683,38 +683,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "In Love In Vain",
-        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 174239,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -755,6 +723,38 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "duration_ms": 174239,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
         "name": "First Sunrise",
         "url": "https://open.spotify.com/album/31TimKFNBjRjS4oLnzfect"
       },
@@ -771,8 +771,8 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+        "name": "Tangerine",
+        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
       },
       "artists": [
         {
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
         }
       ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+      "duration_ms": 159445,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -899,8 +899,8 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Tangerine",
-        "url": "https://open.spotify.com/album/1jRoIrwrLAZlY7quAk5GUJ"
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
       },
       "artists": [
         {
@@ -908,9 +908,9 @@
           "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
         }
       ],
-      "duration_ms": 159445,
-      "name": "Tangerine",
-      "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "If You Must Go",
-        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
-      },
-      "artists": [
-        {
-          "name": "Larry McDavid",
-          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
-        }
-      ],
-      "duration_ms": 127624,
-      "name": "If You Must Go",
-      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Sibelius: Piano Music, Vol. 4",
         "url": "https://open.spotify.com/album/5ua9CNv1DptXlzsA0nYMJ2"
       },
@@ -1243,22 +1227,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Oddities",
-        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
-      },
-      "artists": [
-        {
-          "name": "Robert Gafforelli",
-          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
-        }
-      ],
-      "duration_ms": 212374,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1271,6 +1239,38 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "If You Must Go",
+        "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
+      },
+      "artists": [
+        {
+          "name": "Larry McDavid",
+          "url": "https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz"
+        }
+      ],
+      "duration_ms": 127624,
+      "name": "If You Must Go",
+      "url": "https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Oddities",
+        "url": "https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW"
+      },
+      "artists": [
+        {
+          "name": "Robert Gafforelli",
+          "url": "https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7"
+        }
+      ],
+      "duration_ms": 212374,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Sasha",
-        "url": "https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI"
+        "name": "Defying Gravity",
+        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
       },
       "artists": [
         {
-          "name": "Camilla Selezneva",
-          "url": "https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX"
+          "name": "Belinda Myers",
+          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
         }
       ],
-      "duration_ms": 145000,
-      "name": "Sasha",
-      "url": "https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY"
+      "duration_ms": 143240,
+      "name": "Children Will Listen",
+      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1387,18 +1387,18 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Defying Gravity",
-        "url": "https://open.spotify.com/album/0r4vtNHBSL4ksyonK1Itbb"
+        "name": "Sasha",
+        "url": "https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI"
       },
       "artists": [
         {
-          "name": "Belinda Myers",
-          "url": "https://open.spotify.com/artist/2mSWNZB816deXedBK3rIG8"
+          "name": "Camilla Selezneva",
+          "url": "https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX"
         }
       ],
-      "duration_ms": 143240,
-      "name": "Children Will Listen",
-      "url": "https://open.spotify.com/track/3gHsoFsPd1VJgd25F7H9vT"
+      "duration_ms": 145000,
+      "name": "Sasha",
+      "url": "https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Greensleaves",
-        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
-      },
-      "artists": [
-        {
-          "name": "Alexander Ardelan",
-          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
-        }
-      ],
-      "duration_ms": 107250,
-      "name": "Greensleaves",
-      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "See you in the morning",
         "url": "https://open.spotify.com/album/1oS4DdHemsUapv1o5Uur7T"
       },
@@ -1531,6 +1515,22 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
+        "name": "Greensleaves",
+        "url": "https://open.spotify.com/album/0E922s2u5gBDUb7YWrfjyJ"
+      },
+      "artists": [
+        {
+          "name": "Alexander Ardelan",
+          "url": "https://open.spotify.com/artist/3CxoICFGD6Cjj9NU7ewb0R"
+        }
+      ],
+      "duration_ms": 107250,
+      "name": "Greensleaves",
+      "url": "https://open.spotify.com/track/30uZQX3jngrbRsI2HeiIYg"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1543,6 +1543,22 @@
       "duration_ms": 107426,
       "name": "Home",
       "url": "https://open.spotify.com/track/2DNrA5s0WrklYU9R8NMuJS"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Beautiful Day.",
+        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 99541,
+      "name": "Beautiful Day.",
+      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1563,18 +1579,18 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Beautiful Day.",
-        "url": "https://open.spotify.com/album/3vhnzcmm0U42eKcoI78ykK"
+        "name": "The Giant",
+        "url": "https://open.spotify.com/album/2LOc5ZVVbA75nq1LKK6HfU"
       },
       "artists": [
         {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+          "name": "Dilia",
+          "url": "https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z"
         }
       ],
-      "duration_ms": 99541,
-      "name": "Beautiful Day.",
-      "url": "https://open.spotify.com/track/3bChX6zDQB7xZNw4LNWP6H"
+      "duration_ms": 183686,
+      "name": "The Giant",
+      "url": "https://open.spotify.com/track/2TOQzMaEqVVhdeheBVLOMm"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1607,22 +1623,6 @@
       "duration_ms": 127750,
       "name": "What if we never met",
       "url": "https://open.spotify.com/track/3yZ9BRpkgqJYtTbz9WZy9j"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
-        "name": "Cassiopeia",
-        "url": "https://open.spotify.com/album/0gubGxfpz8pDbvZZdtlX18"
-      },
-      "artists": [
-        {
-          "name": "S.A. Karl",
-          "url": "https://open.spotify.com/artist/5wvtkvwPR6pF2h7H6f08tM"
-        }
-      ],
-      "duration_ms": 168833,
-      "name": "Cassiopeia",
-      "url": "https://open.spotify.com/track/3MsVmtQmjTnEtOzr2w8tLY"
     }
   ],
   "unique_name": "\u5b89\u5be7\u92fc\u7434\u8072",

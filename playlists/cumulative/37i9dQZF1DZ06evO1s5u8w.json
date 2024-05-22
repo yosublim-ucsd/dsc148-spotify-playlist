@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-18",
-  "description": "This is Talking Heads. The essential tracks, all in one playlist.",
+  "description": "This is Talking Heads \u0e41\u0e17\u0e23\u0e47\u0e01\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e1e\u0e25\u0e32\u0e14 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e14\u0e35\u0e22\u0e27",
   "name": "This Is Talking Heads",
   "tracks": [
     {
@@ -546,7 +546,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 259906,
       "name": "Once in a Lifetime - 2005 Remaster",
       "url": "https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 159426,
       "name": "Paper",
       "url": "https://open.spotify.com/track/3kfsFQhrPxNKmZLgm26u0U"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 204520,
       "name": "Seen and Not Seen - 2005 Remaster",
       "url": "https://open.spotify.com/track/58uyNQ2aC329uLMZpU9Ptz"
@@ -672,7 +672,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 240960,
       "name": "Slippery People - Live",
       "url": "https://open.spotify.com/track/2WDvW3o8WeGN4v4cpsYVhT"

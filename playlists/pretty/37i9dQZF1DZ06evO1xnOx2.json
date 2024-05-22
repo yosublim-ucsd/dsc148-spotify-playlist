@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 492748,
+  "num_followers": 493188,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABH9k3jhEZtn6YBaroANnDm",
+  "snapshot_id": "ZkqSgAAAAADFZsCXxFTgYy4Yh47f3lSi",
   "tracks": [
     {
       "added_at": null,
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 283466,
-      "name": "From Eden",
-      "url": "https://open.spotify.com/track/5aRZk9oWIYUB5alrTs8TTV"
+      "duration_ms": 207666,
+      "name": "Sedated",
+      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
     },
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be (Acoustic)",
-        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
+        "name": "From Eden EP",
+        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 235346,
-      "name": "Be - Acoustic",
-      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
+      "duration_ms": 266546,
+      "name": "Arsonist's Lullabye",
+      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
     },
     {
       "added_at": null,
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 207666,
-      "name": "Sedated",
-      "url": "https://open.spotify.com/track/3Ub5gDJTOGWr2AlDcScUIr"
+      "duration_ms": 277653,
+      "name": "It Will Come Back",
+      "url": "https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
+      "duration_ms": 257346,
+      "name": "Sunlight",
+      "url": "https://open.spotify.com/track/4zvvvHm0b5CBl37tocxm7n"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Eden EP",
-        "url": "https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0"
+        "name": "Be (Acoustic)",
+        "url": "https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 266546,
-      "name": "Arsonist's Lullabye",
-      "url": "https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U"
+      "duration_ms": 235346,
+      "name": "Be - Acoustic",
+      "url": "https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa"
     },
     {
       "added_at": null,

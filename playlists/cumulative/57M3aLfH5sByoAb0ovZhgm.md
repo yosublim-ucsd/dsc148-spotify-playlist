@@ -4,7 +4,7 @@
 
 > cookin&\#x27;
 
-122 songs - 7 hr 28 min
+124 songs - 7 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Fast Car](https://open.spotify.com/track/2mCF8L0brIs88eH6Kf2h9p) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Dakota](https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms) | [Fast Car](https://open.spotify.com/album/55zQqrjWsFHRcI1mxlQSsZ) | 3:32 | 2024-05-10 | 2024-05-16 |
 | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/track/7840mcgnpkHeYU8jwMdq4n) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Feels \(feat\. Pharrell Williams, Katy Perry & Big Sean\)](https://open.spotify.com/album/6JyUvew61DDuKKkYVpwJoU) | 3:43 | 2023-06-11 |  |
 | [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2023-06-11 |  |
+| [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 | 2024-05-21 |  |
 | [Firestone](https://open.spotify.com/track/1I8tHoNBFTuoJAlh4hfVVE) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Conrad Sewell](https://open.spotify.com/artist/1rw8ZTLnDHd74TWDDukjVi) | [Cloud Nine](https://open.spotify.com/album/0uMIzWh1uEpHEBell4rlF8) | 4:31 | 2023-06-11 |  |
 | [Floated By](https://open.spotify.com/track/556jf0hyPQuLNHuNWo12I5) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 4:16 | 2023-06-11 |  |
 | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/album/5He2R0dw92kc4N9tg4v7zc) | 5:57 | 2023-06-11 |  |
@@ -72,6 +73,7 @@
 | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Lo Siento BB:/ \(with Bad Bunny & Julieta Venegas\)](https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx) | 3:27 | 2023-06-11 |  |
 | [Locket](https://open.spotify.com/track/2vfPsGhqMbqmhjMGQ52dYf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/4pKJ14jcQKqko0cVBYoeWR) | 5:18 | 2023-06-10 |  |
 | [Losing My Way](https://open.spotify.com/track/3zidJjXGWgKqgQnfb6hKak) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Losing My Way](https://open.spotify.com/album/4GlFFZE1tyiqLK81KVJ70T) | 4:19 | 2023-06-11 | 2024-03-24 |
+| [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/track/7HdZY9UJTylIiNcSDFyUDc) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/album/5Q44tz5m4c6y4pG7VPjfj6) | 3:06 | 2024-05-21 |  |
 | [moonlight](https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [rapunzel](https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6) | 2:39 | 2023-06-10 |  |
 | [MOOO!](https://open.spotify.com/track/00bWqt93aqLXqKtzZoq7Jw) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [MOOO!](https://open.spotify.com/album/3RElHqlTLwykUD4dXfEK1W) | 4:46 | 2023-06-11 |  |
 | [Mulberry Street](https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 3:44 | 2023-06-11 |  |

@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Tape B and Mersiv",
-  "num_followers": 976005,
+  "num_followers": 976028,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1213,6 +1213,26 @@
       "url": "https://open.spotify.com/track/7wa5lBm1Nl0kcXb9psV2Sj"
     },
     {
+      "added_at": "2023-11-24 05:00:00",
+      "album": {
+        "name": "Antagonist",
+        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
+      },
+      "artists": [
+        {
+          "name": "Apashe",
+          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 167001,
+      "name": "King",
+      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
+    },
+    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "The von dutch remix with skream and benga",
@@ -1235,26 +1255,6 @@
       "duration_ms": 281142,
       "name": "The von dutch remix with skream and benga",
       "url": "https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5"
-    },
-    {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Antagonist",
-        "url": "https://open.spotify.com/album/6u26YQ3XrrBmHUj3g0dzhJ"
-      },
-      "artists": [
-        {
-          "name": "Apashe",
-          "url": "https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 167001,
-      "name": "King",
-      "url": "https://open.spotify.com/track/6OvMmEeumtCP6WgYqgA08T"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1549,26 +1549,6 @@
       "url": "https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb"
     },
     {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Counting (Sammy Virji Remix)",
-        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
-      },
-      "artists": [
-        {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 214925,
-      "name": "Counting - Sammy Virji Remix",
-      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "I Found You",
@@ -1587,6 +1567,26 @@
       "duration_ms": 176548,
       "name": "I Found You",
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Counting (Sammy Virji Remix)",
+        "url": "https://open.spotify.com/album/2xgQT3uMk4sAalIAEsVG8n"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 214925,
+      "name": "Counting - Sammy Virji Remix",
+      "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1777,26 +1777,6 @@
       "url": "https://open.spotify.com/track/62Oto2BhdCETRMbzQLc3hD"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Dhunga",
-        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        },
-        {
-          "name": "Toxic Rob",
-          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Dhunga",
-      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
-    },
-    {
       "added_at": "2024-02-12 18:48:17",
       "album": {
         "name": "Rainbow Funk",
@@ -1815,6 +1795,26 @@
       "duration_ms": 160800,
       "name": "Rainbow Funk",
       "url": "https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Dhunga",
+        "url": "https://open.spotify.com/album/1YFhDt1XvJHuk8eN3dyaaY"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Toxic Rob",
+          "url": "https://open.spotify.com/artist/2xVWDstqnCMt8lKP8VXpzc"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Dhunga",
+      "url": "https://open.spotify.com/track/14CuAxOwFn2346hrXXx5Cj"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -1885,30 +1885,6 @@
       "url": "https://open.spotify.com/track/3twU0ngWzakD9k07Kb5eoV"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Feel The Vibe",
-        "url": "https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Trivecta",
-          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-        },
-        {
-          "name": "Doktor",
-          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
-        }
-      ],
-      "duration_ms": 202374,
-      "name": "Feel The Vibe",
-      "url": "https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "BANG YOUR HEAD",
@@ -1931,6 +1907,30 @@
       "duration_ms": 204798,
       "name": "BANG YOUR HEAD",
       "url": "https://open.spotify.com/track/2vk63a0DpsEDiCG4k0mjCF"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Feel The Vibe",
+        "url": "https://open.spotify.com/album/4hBRcZ9fXJULxdOSvpOkuD"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Trivecta",
+          "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+        },
+        {
+          "name": "Doktor",
+          "url": "https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl"
+        }
+      ],
+      "duration_ms": 202374,
+      "name": "Feel The Vibe",
+      "url": "https://open.spotify.com/track/5uubpHWcBAXoPSoBXY45vW"
     },
     {
       "added_at": "2023-10-20 04:01:00",
@@ -2013,6 +2013,22 @@
       "url": "https://open.spotify.com/track/21ceB6sHPjBtj8SCU9C1zi"
     },
     {
+      "added_at": "2023-10-20 04:01:00",
+      "album": {
+        "name": "Get Wompy",
+        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
+      },
+      "artists": [
+        {
+          "name": "SIPPY",
+          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Get Wompy",
+      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
+    },
+    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "RAVEN",
@@ -2031,22 +2047,6 @@
       "duration_ms": 184000,
       "name": "RAVEN",
       "url": "https://open.spotify.com/track/6tk1LRABEXt2zygYj3jmPt"
-    },
-    {
-      "added_at": "2023-10-20 04:01:00",
-      "album": {
-        "name": "Get Wompy",
-        "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
-      },
-      "artists": [
-        {
-          "name": "SIPPY",
-          "url": "https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Get Wompy",
-      "url": "https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB"
     },
     {
       "added_at": "2024-01-05 05:03:38",
@@ -2069,20 +2069,28 @@
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Young Majestic",
-        "url": "https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq"
+        "name": "This Mixtape is Fire TOO",
+        "url": "https://open.spotify.com/album/5H1GCTOowyeZzBVBddvdFD"
       },
       "artists": [
         {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+          "name": "Dillon Francis",
+          "url": "https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf"
+        },
+        {
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
+        },
+        {
+          "name": "Eptic",
+          "url": "https://open.spotify.com/artist/4dvZ0abeUaiHm7Fu9Gj0PQ"
         }
       ],
-      "duration_ms": 147555,
-      "name": "Young Majestic",
-      "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
+      "duration_ms": 141126,
+      "name": "Okay Okay (with Eptic and IDK)",
+      "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
     }
   ],
   "unique_name": "Bass Arcade",

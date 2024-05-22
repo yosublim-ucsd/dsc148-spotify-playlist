@@ -2,7 +2,7 @@
 
 ### [This Is Janis Joplin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Oo4IE)
 
-> This is Janis Joplin\. Todos os maiores hits em uma só playlist.
+> This is Janis Joplin\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 45 min
 
@@ -44,7 +44,7 @@
 | [Long Black Train](https://open.spotify.com/track/4kOb2Bu8UPRHpEJpza4hd5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 3:54 | 2023-11-10 |  |
 | [Maybe](https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:39 | 2023-07-22 |  |
 | [Me \- Live 1969](https://open.spotify.com/track/56w8vxskZpVGphNxBfkUoS) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Livin' Is Easy \(Live 1969\)](https://open.spotify.com/album/3BWz5OCpDXmYfCN3ggRUwi) | 1:50 | 2023-07-22 |  |
-| [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2023-07-22 | 2024-05-21 |
+| [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 | 2023-07-22 |  |
 | [Mercedes Benz](https://open.spotify.com/track/1MntHPLU1T7a9W4tojbg8g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 1:47 | 2023-07-22 |  |
 | [Misery'n](https://open.spotify.com/track/5KVGXJpiVtfHmY6kAOVos5) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 4:07 | 2023-07-22 |  |
 | [Move Over](https://open.spotify.com/track/2bD9x9kN4wYyVoyckeqlLk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:43 | 2023-07-22 |  |
@@ -66,7 +66,7 @@
 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 | 2023-07-22 |  |
 | [Trouble in Mind](https://open.spotify.com/track/11nblzv9v8bv5MAcEYqIpY) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/3bwBg7pwlW2NXhg7Sucdz9) | 2:53 | 2023-07-22 | 2023-11-11 |
 | [Trouble in Mind](https://open.spotify.com/track/48DDXcCW9tBv1I96Y83jJx) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 2:53 | 2023-11-10 |  |
-| [Trust Me](https://open.spotify.com/track/6EhE4bTkyFHzupV4bzG8Eu) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:17 | 2024-05-18 |  |
+| [Trust Me](https://open.spotify.com/track/6EhE4bTkyFHzupV4bzG8Eu) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:17 | 2024-05-18 | 2024-05-22 |
 | [Try \(Just a Little Bit Harder\)](https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:55 | 2023-07-22 |  |
 | [Tuning & Talk, Pt.2 \- Live](https://open.spotify.com/track/11ZgxZFZemrsfHqXt1cFgU) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Takes To The Sky \(Live 1968\)](https://open.spotify.com/album/4FbT4qT61380h7xQ1Pymb3) | 1:17 | 2023-07-22 |  |
 | [Turtle Blues](https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:21 | 2023-07-22 |  |

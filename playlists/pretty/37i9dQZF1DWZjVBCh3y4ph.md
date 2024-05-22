@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : LÉA CHURROS x Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,832 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,896 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Serment \- Radiot edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 |
+| 1 | [Serment \- Radio edit](https://open.spotify.com/track/62O7y8OPglCh7J70MMAowI) | [Kim](https://open.spotify.com/artist/1bufaOa1xsdvxGxeqQJtzW), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Serment](https://open.spotify.com/album/2EaYozbzaEtekOYF3WLFVB) | 2:57 |
 | 2 | [Alchimie](https://open.spotify.com/track/24LZjnwdJ7jn8aiW3Ym70D) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Alchimie](https://open.spotify.com/album/0KUAKOJFUlocgmrwGwvV07) | 3:11 |
 | 3 | [Pozisyon \- Fem voyé 2](https://open.spotify.com/track/2P4qGmPuDFJb7zBiI5L4aK) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 4:19 |
 | 4 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |

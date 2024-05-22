@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 2892,
+  "num_followers": 2896,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAkUuzO96Ox1tqp+FEc/7tC",
+  "snapshot_id": "ZkqSgAAAAABuhVg1/1XSi/SczT6LYLH8",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 189093,
-      "name": "Perfection Through Silence",
-      "url": "https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn"
+      "duration_ms": 159906,
+      "name": "Grey Matter",
+      "url": "https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 159906,
-      "name": "Grey Matter",
-      "url": "https://open.spotify.com/track/5ssjNXhTYQLlFEQP4aKGCr"
+      "duration_ms": 189093,
+      "name": "Perfection Through Silence",
+      "url": "https://open.spotify.com/track/6ydMD0MJXowcPgIRMKvkvn"
     },
     {
       "added_at": null,

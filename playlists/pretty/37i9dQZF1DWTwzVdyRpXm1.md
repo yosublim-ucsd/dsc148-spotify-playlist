@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 810,584 likes - 90 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 810,832 likes - 90 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 | 48 | [Sang Rahiyo](https://open.spotify.com/track/45PA9lW7U5LYnlpGrdTyHY) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Sang Rahiyo](https://open.spotify.com/album/1dkHqiypZzME8gcoJCAfWZ) | 3:33 |
 | 49 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 50 | [Tera Ban Jaunga](https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 3:56 |
-| 51 | [Apa Fer Milaangey](https://open.spotify.com/track/5BBB2PDgDWi6NBECj0wJiA) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Apa Fer Milaangey](https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti) | 3:33 |
+| 51 | [Apa Fer Milaangey](https://open.spotify.com/track/5BBB2PDgDWi6NBECj0wJiA) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Apa Fer Milaangey](https://open.spotify.com/album/4DJ0kcXBIrmzbdhoGkwmti) | 3:33 |
 | 52 | [Pardes Katenda](https://open.spotify.com/track/4IR5cCTkL4DjgJwtSijbjL) | [Adnan Dhool](https://open.spotify.com/artist/4XTiRlcZr4ACFHAXgV34Sc) | [Pardes Katenda](https://open.spotify.com/album/0Vvg3mHBvuZkXTg7rRSLnd) | 2:47 |
 | 53 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
 | 54 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 |

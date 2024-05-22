@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1288949,
+  "num_followers": 1288901,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
+        "name": "Run Your Mouth",
+        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Run Your Mouth",
+      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
         "name": "eternal sunshine (slightly deluxe)",
         "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
-        "name": "Run Your Mouth",
-        "url": "https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Run Your Mouth",
-      "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
-        "name": "ver2igo vol. 2",
-        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 196456,
-      "name": "Pillow In My Arms",
-      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 176632,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
+        "name": "ver2igo vol. 2",
+        "url": "https://open.spotify.com/album/1pKYkFrxb7RiJuCfSszdav"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 196456,
+      "name": "Pillow In My Arms",
+      "url": "https://open.spotify.com/track/63PcfAO5WaHp89H0CVKBVT"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        }
-      ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
         "name": "Strawberry eyes",
         "url": "https://open.spotify.com/album/7icn8Fv9Wy1yHHwoA7Yvxa"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 134570,
       "name": "such mit mir",
       "url": "https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "BECKS",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 181666,
       "name": "Cigarettes & Wine (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
-      },
-      "artists": [
-        {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
-        }
-      ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
         "name": "Ein Traum",
         "url": "https://open.spotify.com/album/3PpsCdaIagDzd4EvDSCSWo"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 169500,
       "name": "Ein Traum",
       "url": "https://open.spotify.com/track/6Rbw34MeB02zIlnEk3ZtIZ"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -1363,26 +1363,6 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
-        "name": "In Der Zeit Verlieren",
-        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
-      },
-      "artists": [
-        {
-          "name": "bac",
-          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
-        },
-        {
-          "name": "alfons.",
-          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "In Der Zeit Verlieren",
-      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
-    },
-    {
-      "added_at": "2024-05-10 09:07:17",
-      "album": {
         "name": "Pretty Lady",
         "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
       },
@@ -1399,18 +1379,22 @@
     {
       "added_at": "2024-05-10 09:07:17",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+        "name": "In Der Zeit Verlieren",
+        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
       },
       "artists": [
         {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "alfons.",
+          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
         }
       ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
+      "duration_ms": 158437,
+      "name": "In Der Zeit Verlieren",
+      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
     },
     {
       "added_at": "2024-05-10 09:07:17",
@@ -1443,6 +1427,22 @@
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
+    },
+    {
+      "added_at": "2024-05-10 09:07:17",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
     },
     {
       "added_at": "2024-05-10 09:07:17",

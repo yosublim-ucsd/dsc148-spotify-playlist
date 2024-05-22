@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Gila\(길라\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: SUHO\(수호\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-666 songs - 1 day 16 hr 27 min
+667 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Domino](https://open.spotify.com/track/0604Qn0FcaJCAi93erZduj) | [Band Nah](https://open.spotify.com/artist/5td0g0Owd8ZYu7SVb6f9xh) | [2021](https://open.spotify.com/album/2WyC34NtnFDLJKGRHfIhzd) | 3:29 | 2022-05-11 | 2022-06-24 |
 | [Don't \(feat\. RM\)](https://open.spotify.com/track/6KE3Fs6LMzi4hJI3eFqyLC) | [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Fragile](https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h) | 3:25 | 2022-04-12 |  |
 | [Don't be afraid to fall](https://open.spotify.com/track/2AfW3wIFo6uR2YIPoVewrd) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [Don't be afraid to fall](https://open.spotify.com/album/5lXkyPBrvROgUmXkVBBDEY) | 3:31 | 2022-09-30 | 2022-10-05 |
+| [don't leave me](https://open.spotify.com/track/5Fb64pKATb2BrH4yMPHkW3) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [don't leave me \(The Last 10 Years X TOIL, Gist\)](https://open.spotify.com/album/7C76NLb32tjJMRdZBzrALg) | 3:03 | 2024-05-21 |  |
 | [Don't Say No \(Feat\. Jay Park\)](https://open.spotify.com/track/2AmFJKuVIdW7fayLvZQ3aR) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Don't Say No](https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw) | 3:40 | 2022-04-22 | 2022-07-29 |
 | [Dream \(feat\. Tommy Kim\)](https://open.spotify.com/track/534Tet7JehDlh2v0fdbAaK) | [VINCIT](https://open.spotify.com/artist/2V7zsT7AqLOFIHWb08FQd5), [Tommy Kim](https://open.spotify.com/artist/5vXlLutlXopDvhSpvwDxmp) | [Dream](https://open.spotify.com/album/5IpCJICE3ZYfiT3bigsFfj) | 3:20 | 2022-08-18 | 2022-09-02 |
 | [Dreaming](https://open.spotify.com/track/43EV8ah3RzJV0jZgOyAnJ6) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [Dreaming](https://open.spotify.com/album/4ZT56atEMwZ1bagTDTZjrY) | 3:45 | 2022-04-21 | 2022-07-15 |
@@ -192,7 +193,7 @@
 | [Fuckers Are Everywhere](https://open.spotify.com/track/6UgjTJdHdoMT5hOr9nF10G) | [Deadbuttons](https://open.spotify.com/artist/1QOnYPjbIcHGpBetj5Szfb) | [Fuckers Are Everywhere](https://open.spotify.com/album/1fPsgAQLSulmieALAGythC) | 2:55 | 2022-05-03 | 2022-07-14 |
 | [GANGGANGSULLAE](https://open.spotify.com/track/3Vmlbu7l4vhZfpXZ8d10ad) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [GANGGANGSULLAE](https://open.spotify.com/album/0Kbpx8QDYQIEzzA05MlsCZ) | 3:26 | 2024-04-09 | 2024-05-10 |
 | [Girls](https://open.spotify.com/track/0jRA23cPBShrFIXPGfegQC) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Seoul Check\-in OST Part 1](https://open.spotify.com/album/1lQLjWafvbyoQ9XUmAZI2L) | 4:36 | 2022-04-22 | 2022-07-09 |
-| [Glad you liked it](https://open.spotify.com/track/7ILyMlB2UVceqKAqfko1zo) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [Glad you liked it](https://open.spotify.com/album/1VGfwHjQcjEozpi6o9hE2H) | 4:00 | 2024-05-17 |  |
+| [Glad you liked it](https://open.spotify.com/track/7ILyMlB2UVceqKAqfko1zo) | [Gila](https://open.spotify.com/artist/1DYmaars5bAW3OfddN9WjY) | [Glad you liked it](https://open.spotify.com/album/1VGfwHjQcjEozpi6o9hE2H) | 4:00 | 2024-05-17 | 2024-05-22 |
 | [Glittering Dreams \(Feat\. Lee Yongshin\)](https://open.spotify.com/track/7ka3DtYOq1iYs26gVXcCJ2) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Yongshin](https://open.spotify.com/artist/7IupjPUInYSwlSmdCL3mKM) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:27 | 2023-07-12 | 2023-07-29 |
 | [Go](https://open.spotify.com/track/51W0tWQB56AvnLhIauJuSc) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Record of Youth \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/6PCVAO4BRutldPc7WjbkLU) | 3:33 | 2022-07-22 | 2023-08-29 |
 | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/track/3YPSH6gOsnEZgItxaLDSAL) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB), [KimYeji](https://open.spotify.com/artist/3XyqYcDNFPFWbyGn8pFTf9) | [Go Fast \(KARTRIDER X LINE FRIENDS \[Original Game Soundtrack\], Pt\. 3\)](https://open.spotify.com/album/3DfLxv8m65MF99PDCpqlUa) | 2:53 | 2022-05-03 | 2022-06-13 |

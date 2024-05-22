@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 
 > When the night isn't over just yet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,973 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,076 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbizRAR17Ui.md) - [plain]
 | 26 | [Don't You](https://open.spotify.com/track/18354LBwPIgO5DJ8vzOsGg) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Izza Gara](https://open.spotify.com/artist/2ZYmbV91kG11F6WGuuuZov) | [Don't You](https://open.spotify.com/album/7HFGc7fbzZOuE2TFyYN8Ra) | 2:35 |
 | 27 | [You Said No](https://open.spotify.com/track/7ys8pYoFuFocTLF6ng80vK) | [Verboten Berlin](https://open.spotify.com/artist/6RNhl0w2Lfem0Xjy3l0LKX) | [You Said No](https://open.spotify.com/album/0tw0AB7jgkvyBMQHN1YLP4) | 3:39 |
 | 28 | [Lido](https://open.spotify.com/track/0HZtVLVL6oLU9WobKQxqGu) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Isles](https://open.spotify.com/album/0EdtTRCl3J22AnWrNpH1w9) | 3:20 |
-| 29 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
+| 29 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 |
 | 30 | [And Yet \- Gold Panda Remix](https://open.spotify.com/track/54g5CPCX4cJIAqNnS772pR) | [Will Samson](https://open.spotify.com/artist/6VBJxxPZ84ty9nR1nFkNNx), [Gold Panda](https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk) | [And Yet \(Gold Panda Remix\)](https://open.spotify.com/album/6LNDNbQAtMzcYwhuuiw8q2) | 3:28 |
-| 31 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 |
-| 32 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
-| 33 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 31 | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/track/0QcO66hidLPUiazab9hprm) | [Jonny was Here.](https://open.spotify.com/artist/23nRxsR5E3ALBpT8Cl2Vbv), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [sometimes i feel like saying goodbye \(feat\. Sondae\)](https://open.spotify.com/album/13tOrmLKmRMR8KlZE9U9mr) | 3:14 |
+| 32 | [CHROMA 003 Bi83](https://open.spotify.com/track/0cBrTgUeXg8oAEfKTlZAP6) | [DOVE](https://open.spotify.com/artist/11rGDSS7UriHODN31vFAXF), [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [CHROMA 003](https://open.spotify.com/album/635sAhOGiqkb11OZDCTRyk) | 3:56 |
+| 33 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
 | 34 | [Home](https://open.spotify.com/track/1wD2C9vWlPgmRa2hw1RdA0) | [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM), [T\. Matthias](https://open.spotify.com/artist/2R7k2SovVWGhTcvPx1JbQv) | [Home](https://open.spotify.com/album/66O2AlsvHJhKtaXtSZGias) | 2:45 |
 | 35 | [better](https://open.spotify.com/track/7oNOKWpTqTnTJeyLwkwWqN) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg), [Léa Sen](https://open.spotify.com/artist/6B03CBbFJ9aw9CjlxYP0UX) | [still slipping vol\. 1](https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA) | 5:01 |
 | 36 | [Loom \(feat\. Bonobo\)](https://open.spotify.com/track/3Yagxg6rtkwN01AYzA862i) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Loom](https://open.spotify.com/album/2kfPunUS5HqupNVAueFmgM) | 3:46 |

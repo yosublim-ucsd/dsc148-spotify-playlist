@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 188540,
+  "num_followers": 188695,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Pal Rancho 100% Chicoteadas",
+        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
+      },
+      "artists": [
+        {
+          "name": "Tamborazo Caliente",
+          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
+        }
+      ],
+      "duration_ms": 211121,
+      "name": "Rumbo A La Canada",
+      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "Puras Carnavaleras, Vol. 2",
         "url": "https://open.spotify.com/album/332rbeyvixuVxaVsNoS02G"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 226306,
       "name": "Chinelo Carnavalero",
       "url": "https://open.spotify.com/track/03RZNxQS4tgclnqCpRf3uv"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Pal Rancho 100% Chicoteadas",
-        "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
-      },
-      "artists": [
-        {
-          "name": "Tamborazo Caliente",
-          "url": "https://open.spotify.com/artist/1YzJJDforMoBGJeBLPAhRi"
-        }
-      ],
-      "duration_ms": 211121,
-      "name": "Rumbo A La Canada",
-      "url": "https://open.spotify.com/track/6VZzJ19D47BGoZua2Ht7yD"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "En Vivo...Desde Guanajuato Vol. 2",
+        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+      },
+      "artists": [
+        {
+          "name": "Banda Yurirense",
+          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "El Olotito",
+      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "Exitos",
         "url": "https://open.spotify.com/album/0oduvh6rT62D4y2vTBPJAj"
       },
@@ -843,18 +859,18 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
-        "name": "En Vivo...Desde Guanajuato Vol. 2",
-        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+        "name": "Una Vez M\u00e1s",
+        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
       "artists": [
         {
-          "name": "Banda Yurirense",
-          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 123141,
-      "name": "El Olotito",
-      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+      "duration_ms": 260666,
+      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
+      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
     },
     {
       "added_at": "2024-03-19 20:01:44",
@@ -875,22 +891,6 @@
       "duration_ms": 261897,
       "name": "El Rezado - En Vivo",
       "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Una Vez M\u00e1s",
-        "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Popurri Sones: Maria Chuchena / Ya Llegu\u00e9 ya Estoy Aqu\u00ed / Era de Madrugada / Juan Colorado",
-      "url": "https://open.spotify.com/track/1jMSzQlX6y0buI1XZX3ebH"
     },
     {
       "added_at": "2024-03-19 20:01:44",

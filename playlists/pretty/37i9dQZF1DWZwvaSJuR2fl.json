@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 68173,
+  "num_followers": 68195,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Dvorak, A.: String Quartets, Vol. 5 (Vlach Quartet) - Cypresses / String Quartet Movement in F Major / 2 Waltzes / Gavotte",
-        "url": "https://open.spotify.com/album/72akndhhoVkQP0Osy59o3e"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Vlach Quartet Prague",
-          "url": "https://open.spotify.com/artist/0Apnbohc6st5hulSIdnJsQ"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Ohlas pisni (Echo of Songs), B. 152: I Know That on My Love [arr. Of Cypresses, B. 11 for string quartet]",
-      "url": "https://open.spotify.com/track/5ly48QNVcTEnpWPL94WAp6"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Dvo\u0159\u00e1k: The Essentials",
         "url": "https://open.spotify.com/album/2jIX6jVyD1hJJlRWkub59N"
       },
@@ -1827,6 +1807,38 @@
       "duration_ms": 361400,
       "name": "Stabat Mater, Op. 58, B. 71: Inflammatus et accensus",
       "url": "https://open.spotify.com/track/2WcU7QahxomTTrv2NHEAhv"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Dvo\u0159\u00e1k: Mass in D Major, Op. 86, B. 153 & Te Deum, Op. 103, B. 176",
+        "url": "https://open.spotify.com/album/6n4bKWPVBfk9NGDtAjsyWg"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Ewa Biegas",
+          "url": "https://open.spotify.com/artist/2EaKtSWC9OX63FyLelwocv"
+        },
+        {
+          "name": "Orfe\u00f3n Pamplon\u00e9s",
+          "url": "https://open.spotify.com/artist/1cfDHjgUuUAghVM3UJ0YTe"
+        },
+        {
+          "name": "Orquesta Sinf\u00f3nica de Navarra",
+          "url": "https://open.spotify.com/artist/73DiMyPtJBScIv4cgvhNj9"
+        },
+        {
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
+        }
+      ],
+      "duration_ms": 377453,
+      "name": "Te Deum, Op. 103, B. 176: Te Deum laudamus",
+      "url": "https://open.spotify.com/track/30gWtejX18yXlV5JWYrURV"
     }
   ],
   "unique_name": "This Is Dvo\u0159\u00e1k",

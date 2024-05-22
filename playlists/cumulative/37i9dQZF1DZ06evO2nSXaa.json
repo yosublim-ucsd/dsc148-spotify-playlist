@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-19",
-  "description": "This is Tate McRae\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is Tate McRae. The essential tracks, all in one playlist.",
   "name": "This Is Tate McRae",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 172252,
       "name": "10:35",
       "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 173306,
       "name": "hate myself",
       "url": "https://open.spotify.com/track/1bXm6XU3SYSqQGLTRhUSfm"
@@ -912,7 +912,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 173826,
       "name": "stupid",
       "url": "https://open.spotify.com/track/0gIxF0RR0miqWLs2fPQGBu"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 175026,
       "name": "that way",
       "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 166946,
       "name": "what would you do?",
       "url": "https://open.spotify.com/track/4ewmHD3aRBmLyTsbGreNLw"
@@ -1198,7 +1198,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 170226,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"

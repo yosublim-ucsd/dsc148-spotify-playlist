@@ -1,6 +1,6 @@
 {
   "description": "The best Latin Indie tracks of today, featuring Leo Rizzi.",
-  "num_followers": 166050,
+  "num_followers": 166051,
   "original_name": "Top Latin Indie",
   "owner": {
     "name": "Spotify",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Lejos de Todo",
+        "url": "https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX"
+      },
+      "artists": [
+        {
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
+        }
+      ],
+      "duration_ms": 174610,
+      "name": "Lejos de Todo",
+      "url": "https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Feeling Low",
         "url": "https://open.spotify.com/album/2e7sqim2tJBpTAwXpl9r4j"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 221538,
       "name": "Feeling Low",
       "url": "https://open.spotify.com/track/4HGwDCdSkGJWfgCmwl54Qr"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Lejos de Todo",
-        "url": "https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 174610,
-      "name": "Lejos de Todo",
-      "url": "https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -815,22 +815,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Sobrenatural",
-        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
       },
       "artists": [
         {
-          "name": "Lara Project",
-          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
-        },
-        {
-          "name": "ARON",
-          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 222857,
-      "name": "Verona",
-      "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -847,22 +843,6 @@
       "duration_ms": 212052,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7njU3mZAmLyjdvoEl7XFtv"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -931,6 +911,26 @@
       "duration_ms": 176807,
       "name": "Carta de Amor",
       "url": "https://open.spotify.com/track/6Mn0TEs0e0EVOD6tzwlada"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Sobrenatural",
+        "url": "https://open.spotify.com/album/0XoqQ5cb29AAJ8OhIt4b41"
+      },
+      "artists": [
+        {
+          "name": "Lara Project",
+          "url": "https://open.spotify.com/artist/5FXxWnN3DpfSS4vbcoqvbs"
+        },
+        {
+          "name": "ARON",
+          "url": "https://open.spotify.com/artist/79ehGac6casNGvc5n8XL7J"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Verona",
+      "url": "https://open.spotify.com/track/64tuMkafK35OSgXmLYi1Ph"
     },
     {
       "added_at": "2024-05-17 04:00:00",

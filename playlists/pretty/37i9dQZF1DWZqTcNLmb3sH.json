@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kotee\n",
-  "num_followers": 57490,
+  "num_followers": 57505,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZksGiwAAAAAjO+aOWahwm2+5v5mgIX2S",
+  "snapshot_id": "ZkyD2gAAAABgqFOqY5tQr4nUkhgahq+K",
   "tracks": [
     {
       "added_at": "2024-05-14 04:29:52",
@@ -99,6 +99,30 @@
       "duration_ms": 158840,
       "name": "Pardana - From \"Balipe\"",
       "url": "https://open.spotify.com/track/7Cd3vSJ5zKO618jyPQiGZL"
+    },
+    {
+      "added_at": "2024-05-21 11:21:48",
+      "album": {
+        "name": "Kauthuka (From \"Blink\")",
+        "url": "https://open.spotify.com/album/61iIvTWY67585c9vmNmUYa"
+      },
+      "artists": [
+        {
+          "name": "Prasanna Kumar M S",
+          "url": "https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ"
+        },
+        {
+          "name": "Trilok Trivikram",
+          "url": "https://open.spotify.com/artist/1xm0IvlkYjHoADBUX3v6tm"
+        },
+        {
+          "name": "Kaumudhi Chandrashekhar",
+          "url": "https://open.spotify.com/artist/5gSnhSCTRL6EuT1m8dIsXi"
+        }
+      ],
+      "duration_ms": 176727,
+      "name": "Kauthuka (From \"Blink\")",
+      "url": "https://open.spotify.com/track/3mbWWav4Z5zwQNEOCS3wbC"
     },
     {
       "added_at": "2024-05-20 08:13:51",
@@ -1551,30 +1575,6 @@
       "duration_ms": 206206,
       "name": "Hithalaka Karibyada Maava (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/2MMfYFIcxu0CbLVdsqFI7k"
-    },
-    {
-      "added_at": "2024-02-29 19:42:06",
-      "album": {
-        "name": "Babu (No.1 Bullshit Guy) - Kannada",
-        "url": "https://open.spotify.com/album/2tU0crk3jV8WVZRPbdvtlL"
-      },
-      "artists": [
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Karunya",
-          "url": "https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2"
-        },
-        {
-          "name": "Kinnal Raj",
-          "url": "https://open.spotify.com/artist/6fYwsvBDdHgmAtfnjGJqOD"
-        }
-      ],
-      "duration_ms": 256034,
-      "name": "Ethukada Santhoshava",
-      "url": "https://open.spotify.com/track/43qx04vGcnGaKMVofQRluZ"
     },
     {
       "added_at": "2024-02-27 11:40:33",

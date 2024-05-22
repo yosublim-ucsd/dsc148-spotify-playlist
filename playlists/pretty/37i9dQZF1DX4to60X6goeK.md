@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,837 likes - 55 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,881 likes - 55 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 49 | [OH SHIT](https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS) | [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Dreps](https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2) | [OH SHIT](https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv) | 2:13 |
 | 50 | [Forever Changes](https://open.spotify.com/track/1B1y24UTK05DGz7A4EzgWs) | [DNMO](https://open.spotify.com/artist/3cMInYqk6yzf37zo8iznoz), [Zara Kershaw](https://open.spotify.com/artist/1RlBDEXSFnqeYBx70UxZn2) | [Forever Changes](https://open.spotify.com/album/4rSSLeJIKgTj7nymJ5Xgs6) | 3:04 |
 | 51 | [Skillz](https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg) | [Grima x Azza](https://open.spotify.com/artist/0B7mOOI1XegN3bz45dbD0R), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Nu Elementz](https://open.spotify.com/artist/1byzCRSdDJzbi0RnRB4xgP), [MC Spyda](https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl), [TNA](https://open.spotify.com/artist/5u6RylAtRAAxfm6Ahm2545) | [Skillz](https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf) | 3:24 |
-| 52 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
-| 53 | [Count To Ten \(2024\)](https://open.spotify.com/track/5ArpYtNCWRaGCxFv8xERer) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Count To Ten \(2024\) / Break the Cycle](https://open.spotify.com/album/6vDQhJv8UlLNuoTGWKsSOG) | 2:20 |
+| 52 | [Count To Ten \(2024\)](https://open.spotify.com/track/5ArpYtNCWRaGCxFv8xERer) | [DRS](https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2), [Enei](https://open.spotify.com/artist/6X3QjCYg5HcTwO5FPVQj0J) | [Count To Ten \(2024\) / Break the Cycle](https://open.spotify.com/album/6vDQhJv8UlLNuoTGWKsSOG) | 2:20 |
+| 53 | [Take You Higher](https://open.spotify.com/track/2T3fASr8VAc8sCs9A31VUz) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher](https://open.spotify.com/album/50rZcGSInCDVzBai5jQuo7) | 3:24 |
 | 54 | [Too Lazy](https://open.spotify.com/track/20z8sOQkGiwos8mlmRfbnj) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Too Lazy](https://open.spotify.com/album/25EVRGSF2edbKo80nU9QKm) | 3:54 |
 | 55 | [Lady Petrol](https://open.spotify.com/track/0tpOXOSVJZl20YgoS5DOYa) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Lady Petrol](https://open.spotify.com/album/24e3IAndixmqYlExyKTldi) | 5:09 |
 

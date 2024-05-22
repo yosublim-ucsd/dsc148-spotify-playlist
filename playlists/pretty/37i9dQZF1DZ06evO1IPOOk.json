@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1451882,
+  "num_followers": 1453048,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAACI90F6XlP4jKih/YGBktFo",
+  "snapshot_id": "ZkqSgAAAAABDUtQSDD+lkdDtz7hFhQRk",
   "tracks": [
     {
       "added_at": null,
@@ -759,6 +759,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "untitled unmastered.",
+        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 235506,
+      "name": "untitled 08 | 09.06.2014.",
+      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "untitled unmastered.",
-        "url": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 235506,
-      "name": "untitled 08 | 09.06.2014.",
-      "url": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
     },
     {
       "added_at": null,
@@ -887,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city (Deluxe)",
-        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Dr. Dre",
-          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
-        }
-      ],
-      "duration_ms": 352853,
-      "name": "The Recipe - Bonus Track",
-      "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "To Pimp A Butterfly",
         "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 271773,
       "name": "Institutionalized",
       "url": "https://open.spotify.com/track/4oFtLSgHyZPNYDCcANhTnO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "good kid, m.A.A.d city (Deluxe)",
+        "url": "https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Dr. Dre",
+          "url": "https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7"
+        }
+      ],
+      "duration_ms": 352853,
+      "name": "The Recipe - Bonus Track",
+      "url": "https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ"
     },
     {
       "added_at": null,
@@ -975,18 +975,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Section.80",
-        "url": "https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J"
+        "name": "To Pimp A Butterfly",
+        "url": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
       },
       "artists": [
         {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "James Fauntleroy",
+          "url": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+        },
+        {
+          "name": "Ronald Isley",
+          "url": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
         }
       ],
-      "duration_ms": 168591,
-      "name": "Rigamortus",
-      "url": "https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK"
+      "duration_ms": 261746,
+      "name": "How Much A Dollar Cost",
+      "url": "https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn"
     }
   ],
   "unique_name": "This Is Kendrick Lamar",

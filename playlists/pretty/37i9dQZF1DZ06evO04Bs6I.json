@@ -1,12 +1,12 @@
 {
-  "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 105039,
+  "description": "This is Isadora Pompeo. The essential tracks, all in one playlist.",
+  "num_followers": 105061,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADiicXF9QHDnvc/pxosty/n",
+  "snapshot_id": "ZkqSgAAAAAB1s5HtezRJ07ioexdEUzGx",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Processo",
+        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 276080,
+      "name": "Em Troca",
+      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 192402,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Processo",
-        "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 276080,
-      "name": "Em Troca",
-      "url": "https://open.spotify.com/track/0cYuoo4STj8htZVrh5w91U"
     },
     {
       "added_at": null,

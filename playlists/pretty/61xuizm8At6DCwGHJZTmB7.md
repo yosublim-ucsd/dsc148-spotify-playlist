@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship 2024 \| <a href="https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC?si=FLMGbM6MRYy3pa0DmxGIzA">UPPERROOM</a> is taking over Worship 2024 with their new album, 'Moments: 013 \(Live\)'! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,143 likes - 136 songs - 13 hr 8 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,140 likes - 136 songs - 13 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

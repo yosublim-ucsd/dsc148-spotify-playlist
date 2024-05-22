@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-501 songs - 1 day 6 hr 22 min
+502 songs - 1 day 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-03-17 | 2023-05-03 |
 | [DESERT EAGLE](https://open.spotify.com/track/2dklP2sRuvcJROlrM8F7Dp) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 1:12 | 2024-03-29 |  |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 |  |
-| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 |  |
+| [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 | 2024-05-22 |
 | [Deuce and a Quarter](https://open.spotify.com/track/5IdZAmbKgRVMkO5z8dORMH) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 1:35 | 2023-10-27 | 2024-02-10 |
 | [Didn't Cha Know](https://open.spotify.com/track/7pv80uUHfocFqfTytu1MVi) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Mama's Gun](https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH) | 3:58 | 2022-03-11 | 2023-02-25 |
 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 | 2021-12-03 |  |
@@ -507,6 +507,7 @@
 | [Yesterday Was Heaven](https://open.spotify.com/track/2xqHPcmoyo1CJN1WzbdWlr) | [Stefan Mahendra](https://open.spotify.com/artist/17lfIZ8ozwR7vDYqRdr8UF) | [Yesterday Was Heaven](https://open.spotify.com/album/5oNQFN3okVx45dvbueOWzs) | 3:27 | 2023-04-28 | 2023-05-13 |
 | [You Got This](https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF) | [Peter Collins](https://open.spotify.com/artist/7DpuhYociyFsr9lp4Ifmy8) | [enLIGHTened](https://open.spotify.com/album/4klK7oTdo6DCUIuttcEJrh) | 3:44 | 2022-11-04 | 2023-10-26 |
 | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/track/7gxUpscvq72a3LTkCbZ4Df) | [Lizz Wright](https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW), [Meshell Ndegeocello](https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj), [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [Your Love \(feat\. Meshell Ndegeocello & Brandee Younger\)](https://open.spotify.com/album/7BC4W4KBXXK7oBceZyXzB9) | 3:29 | 2024-02-02 |  |
+| [Your Love Is All I Need](https://open.spotify.com/track/2I2RgkvlyvqUJgtLvHoWfT) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Next Chapter](https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf) | 2:56 | 2024-05-17 |  |
 | [Your Love Is All I Need](https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Your Love Is All I Need](https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg) | 2:56 | 2024-04-19 | 2024-05-18 |
 | [Your Love Is King](https://open.spotify.com/track/1j2LuIf7mv15ZVug1Xy5qz) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Diamond Life](https://open.spotify.com/album/3JcNnjMVSKiNpqhErZarW0) | 3:39 | 2022-03-11 | 2023-05-06 |
 

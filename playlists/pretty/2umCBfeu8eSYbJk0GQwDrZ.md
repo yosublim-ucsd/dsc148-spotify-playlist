@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 
 > Stay current with the latest indie\-alt tracks.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,903 likes - 60 songs - 3 hr 9 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 27,902 likes - 65 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,10 @@ pretty - [cumulative](/playlists/cumulative/2umCBfeu8eSYbJk0GQwDrZ.md) - [plain]
 | 58 | [All Night](https://open.spotify.com/track/1bS3AQr4ABdj2TDzQQAsAT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Halo](https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV) | 3:28 |
 | 59 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 |
 | 60 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
+| 61 | [Confusion Song](https://open.spotify.com/track/6F5sJ8w1tzo3z1IHJAi5q1) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/0QwOhxhUMzkygHnnrLRtOr) | 2:41 |
+| 62 | [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 |
+| 63 | [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 |
+| 64 | [Sweet Divorce](https://open.spotify.com/track/0XZQ9p3u749NGdUfggDLDl) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Sweet Divorce](https://open.spotify.com/album/4JNGhjNAPkgRft141K6EBJ) | 2:23 |
+| 65 | [Songs In My Head](https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/5ZAJ8oDLqCT9cuELS11OdP) | 3:06 |
 
-Snapshot ID: `AAAgmnfRBm3ZoKA0SJwAwSalDHl2tT4P`
+Snapshot ID: `AAAgn36qVvMt92rHT21X7h9spCdja54K`

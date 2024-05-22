@@ -1,12 +1,12 @@
 {
   "description": "This is 2Baba. The essential tracks, all in one playlist.",
-  "num_followers": 5467,
+  "num_followers": 5478,
   "original_name": "This Is 2Baba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAATs6qp+vRmARk7So0YsHF/",
+  "snapshot_id": "ZkqSgAAAAACC+JRDUsWkx+btLBO/1Eof",
   "tracks": [
     {
       "added_at": null,
@@ -303,34 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baba Nla",
-        "url": "https://open.spotify.com/album/4VMCzDpzW1LRJjDLIGWRXN"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 202569,
-      "name": "Baba Nla",
-      "url": "https://open.spotify.com/track/741bGvXuyaHaiFZrVEtLza"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
@@ -343,6 +315,26 @@
       "duration_ms": 253857,
       "name": "Ihe Ne Me",
       "url": "https://open.spotify.com/track/3sSakgujWHyqR7j1mEUbs5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "Syemca",
+          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
+        }
+      ],
+      "duration_ms": 184420,
+      "name": "Target You (feat. Syemca)",
+      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
     },
     {
       "added_at": null,
@@ -383,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "Syemca",
-          "url": "https://open.spotify.com/artist/4deX5BRJZF7cfEdxcMXTDp"
-        }
-      ],
-      "duration_ms": 184420,
-      "name": "Target You (feat. Syemca)",
-      "url": "https://open.spotify.com/track/3TnN2kZvjnZDsrS19beSqt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AWAY & BEYOND",
         "url": "https://open.spotify.com/album/584KPtSKilxTAGAhzttVP6"
       },
@@ -419,6 +391,22 @@
       "duration_ms": 235781,
       "name": "Higher (Spiritual Healing) [feat. Huma Lara]",
       "url": "https://open.spotify.com/track/3Cx0XcneUukQQv2VZgiAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gaga Shuffle",
+        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "Gaga Shuffle",
+      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
     },
     {
       "added_at": null,
@@ -443,18 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gaga Shuffle",
-        "url": "https://open.spotify.com/album/0OoIp7iVPm1c1JYSgl4jEO"
+        "name": "Warriors",
+        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
       "artists": [
         {
           "name": "2Baba",
           "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        },
+        {
+          "name": "HI Idibia",
+          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
         }
       ],
-      "duration_ms": 221584,
-      "name": "Gaga Shuffle",
-      "url": "https://open.spotify.com/track/0XEaIqAvu2Z0GepEXNWzHd"
+      "duration_ms": 237740,
+      "name": "Oyi (feat. HI Idibia)",
+      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -479,26 +471,6 @@
       "duration_ms": 193044,
       "name": "Worry Me",
       "url": "https://open.spotify.com/track/1l1iB9yTcm1oDex1ZwKOwu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Warriors",
-        "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        },
-        {
-          "name": "HI Idibia",
-          "url": "https://open.spotify.com/artist/7hyQCE1I9Jrqlj09FO84q8"
-        }
-      ],
-      "duration_ms": 237740,
-      "name": "Oyi (feat. HI Idibia)",
-      "url": "https://open.spotify.com/track/7f1F8o8w0R7otr5JvQfXUR"
     },
     {
       "added_at": null,
@@ -539,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 289384,
-      "name": "Raindrops",
-      "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/5NqcaCfak06QPIY7gXFnsK"
       },
@@ -571,6 +527,22 @@
       "duration_ms": 225827,
       "name": "We Must Groove (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/7gcSJyitQE3OUWhEI7YTkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 289384,
+      "name": "Raindrops",
+      "url": "https://open.spotify.com/track/3mhjJw2JU1cpTfrPA29Jcc"
     },
     {
       "added_at": null,
@@ -655,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unstoppable International",
-        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
-      },
-      "artists": [
-        {
-          "name": "2Baba",
-          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
-        }
-      ],
-      "duration_ms": 191425,
-      "name": "Be There",
-      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Face 2 Face",
         "url": "https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw"
       },
@@ -687,6 +643,22 @@
       "duration_ms": 267240,
       "name": "Thank U Lord",
       "url": "https://open.spotify.com/track/3fP9OjGymyCALbaxrY0k6h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unstoppable International",
+        "url": "https://open.spotify.com/album/5EGrHCpoECndjmQC33KFiY"
+      },
+      "artists": [
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "duration_ms": 191425,
+      "name": "Be There",
+      "url": "https://open.spotify.com/track/6DpcgxMU0KZjDmFlXrU2xN"
     },
     {
       "added_at": null,

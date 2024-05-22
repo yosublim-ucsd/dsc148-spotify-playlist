@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 393828,
+  "num_followers": 393947,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -393,22 +393,6 @@
       "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
-      },
-      "artists": [
-        {
-          "name": "Marcus King",
-          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
-    },
-    {
       "added_at": "2024-03-01 05:00:00",
       "album": {
         "name": "All My Shades Of Blue",
@@ -423,6 +407,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5vzLvQIgT3vD1NA5MyaXaN"
+      },
+      "artists": [
+        {
+          "name": "Marcus King",
+          "url": "https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Seventeen Acres",
-        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
-      },
-      "artists": [
-        {
-          "name": "Joseph LeMay",
-          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
-        }
-      ],
-      "duration_ms": 122750,
-      "name": "Crazy Woman",
-      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "CLAIM",
         "url": "https://open.spotify.com/album/0pnpObbo9YZxQ9MzZ1A2Br"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 215853,
       "name": "Morning Coffee",
       "url": "https://open.spotify.com/track/5JChez1hix3cio2LrHgScq"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Seventeen Acres",
+        "url": "https://open.spotify.com/album/2gHqNCEbiiYGoE8WAEkFZf"
+      },
+      "artists": [
+        {
+          "name": "Joseph LeMay",
+          "url": "https://open.spotify.com/artist/3BRHUE4Ml0PKrgZ5EjVtxf"
+        }
+      ],
+      "duration_ms": 122750,
+      "name": "Crazy Woman",
+      "url": "https://open.spotify.com/track/5ke9Y5BL0wbGOg4pshd1B0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Take My Heart",
         "url": "https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 258651,
       "name": "Take My Heart",
       "url": "https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 269133,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "My Dearest Darkest Neighbor",
         "url": "https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 217466,
       "name": "Fine and Mellow",
       "url": "https://open.spotify.com/track/0aJhLmZV80gfqL8x9yDIpn"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5aGMS2lsapoII9HrZPd3eE"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 269133,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/2tb19wQu9EEK4mFooVSKx8"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Have a Seat",
+        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rose",
+          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "For Your Consideration",
+      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Real Contender",
         "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
@@ -859,34 +875,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Have a Seat",
-        "url": "https://open.spotify.com/album/0F6xm3rQ5sANn76KdVGQrJ"
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
       },
       "artists": [
         {
-          "name": "Maggie Rose",
-          "url": "https://open.spotify.com/artist/4FrAfXWWNZapoX4O1LEoLn"
+          "name": "Great Caesar",
+          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
         }
       ],
-      "duration_ms": 231506,
-      "name": "For Your Consideration",
-      "url": "https://open.spotify.com/track/4CbSiue28BxbRsUqdpYgTp"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "UNDIVIDED HEART & SOUL",
-        "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
-      },
-      "artists": [
-        {
-          "name": "JD McPherson",
-          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "CRYING\u2019S JUST A THING YOU DO",
-      "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
+      "duration_ms": 193386,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Hey Mama",
-        "url": "https://open.spotify.com/album/1E8uKGrYVGpNb7cGRg62ma"
+        "name": "UNDIVIDED HEART & SOUL",
+        "url": "https://open.spotify.com/album/3W3o75jSGuCqimWodjCUPB"
       },
       "artists": [
         {
-          "name": "Great Caesar",
-          "url": "https://open.spotify.com/artist/4R2xkQL6chRRTgUQ1Xgaf1"
+          "name": "JD McPherson",
+          "url": "https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9"
         }
       ],
-      "duration_ms": 193386,
-      "name": "Hey Mama",
-      "url": "https://open.spotify.com/track/5KlVIOeSrcVTZoasODK3W5"
+      "duration_ms": 194533,
+      "name": "CRYING\u2019S JUST A THING YOU DO",
+      "url": "https://open.spotify.com/track/0cnwJ1WWMGVCnDbqpnB4LG"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+      },
+      "artists": [
+        {
+          "name": "The Main Squeeze",
+          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+        }
+      ],
+      "duration_ms": 237587,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Watermelon Oranges",
         "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
@@ -955,18 +971,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/40bazR6yB36Wn9KAM5253O"
+        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
+        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
       },
       "artists": [
         {
-          "name": "The Main Squeeze",
-          "url": "https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT"
+          "name": "Brian Tyree Henry",
+          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
         }
       ],
-      "duration_ms": 237587,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/6DblWOuKGzV2V1ES2Tafud"
+      "duration_ms": 254329,
+      "name": "We Can Always Come Back To This",
+      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -991,38 +1007,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "We Can Always Come Back To This (Music From The Series This Is Us)",
-        "url": "https://open.spotify.com/album/3toZNs0m6NgYQS6fN80ACN"
-      },
-      "artists": [
-        {
-          "name": "Brian Tyree Henry",
-          "url": "https://open.spotify.com/artist/2dovDW77FbEJm18yuZ92cK"
-        }
-      ],
-      "duration_ms": 254329,
-      "name": "We Can Always Come Back To This",
-      "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Electric Fever",
-        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
-      },
-      "artists": [
-        {
-          "name": "Them Vibes",
-          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
-        }
-      ],
-      "duration_ms": 227567,
-      "name": "Electric Fever",
-      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "The Spirit Moves",
         "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 236920,
       "name": "Southern Bells",
       "url": "https://open.spotify.com/track/2QWJaT6j18Ay35M2eTlbVo"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Electric Fever",
+        "url": "https://open.spotify.com/album/1tHxFtjR1uoi3OOLQxFua5"
+      },
+      "artists": [
+        {
+          "name": "Them Vibes",
+          "url": "https://open.spotify.com/artist/6WFvpT4w9ZDxQQIjusk664"
+        }
+      ],
+      "duration_ms": 227567,
+      "name": "Electric Fever",
+      "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Darlin'",
         "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2024-03-01 05:00:00",

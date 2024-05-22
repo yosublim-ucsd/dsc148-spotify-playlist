@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "This Is Stevie Ray Vaughan. Los temas esenciales, todos en una lista.",
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
   "name": "This Is Stevie Ray Vaughan",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-08",
+      "date_removed": null,
       "duration_ms": 223586,
       "name": "I'm Cryin'",
       "url": "https://open.spotify.com/track/1oLVPN07o3aAgKAVWjhRRn"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 219586,
       "name": "Pride and Joy",
       "url": "https://open.spotify.com/track/1a2iF9XymafjRk56q7oCxo"

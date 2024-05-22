@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,011 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,042 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 3 | [Contentoso](https://open.spotify.com/track/2Pm3YD2PlePljgdzgBRr1h) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [Contentoso](https://open.spotify.com/album/2F96HODzvQI22dMNKLiEG6) | 2:49 |
 | 4 | [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 |
 | 5 | [Sin Medir Distancias](https://open.spotify.com/track/1p3kQIzyl2NKeJ45uDQw4G) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [El Cocha Molina](https://open.spotify.com/artist/3mGBnso9JtXG8OeNT7fqMs) | [Grandes Exitos](https://open.spotify.com/album/4xjVnNwDXWCPv9dsH6oITz) | 4:58 |
-| 6 | [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 |
-| 7 | [Hasta El Último Momento](https://open.spotify.com/track/5kLhFZ9dr3HF57sofekoHH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Hasta El Último Momento](https://open.spotify.com/album/3l7LDniJFkxYXoo0WnQhzN) | 2:48 |
+| 6 | [Hasta El Último Momento](https://open.spotify.com/track/5kLhFZ9dr3HF57sofekoHH) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [Hasta El Último Momento](https://open.spotify.com/album/3l7LDniJFkxYXoo0WnQhzN) | 2:48 |
+| 7 | [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 |
 | 8 | [Lo Que Ella Necesita](https://open.spotify.com/track/3dd1fU9pusWGfo0yFEwPg2) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Lo Que Ella Necesita](https://open.spotify.com/album/0qdohDjeEdi0ytJlNjPckw) | 2:46 |
 | 9 | [Misión Imposible](https://open.spotify.com/track/72ECleNQu4fFio2zmVZFgk) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Tuto López](https://open.spotify.com/artist/4YS5axj3KRs5XcZ005Qlb8) | [Un Mundo Real](https://open.spotify.com/album/2a34qq3IwDO9nBcqBCLlU5) | 4:41 |
 | 10 | [De Lejitos](https://open.spotify.com/track/2lTeOWfZmsXtfrbQn9ehg9) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [De Lejitos](https://open.spotify.com/album/076eF9kL3zTknU67VEJaUW) | 2:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RLBEieQdqD.md) - [plain]
 | 74 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 |
 | 75 | [Sin Ropa Eres Mía](https://open.spotify.com/track/5ByaGTrmhcpIXu6sasjagm) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Sin Ropa Eres Mía](https://open.spotify.com/album/3uAysXq7cISny7dDI93JRO) | 2:40 |
 
-Snapshot ID: `ZkbkFAAAAAAenk5609pSbvJUYKk3HIFR`
+Snapshot ID: `Zk0EFgAAAABNMRC2R+vZmX3V52j4WeiI`

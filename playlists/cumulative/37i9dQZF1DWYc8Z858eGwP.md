@@ -4,7 +4,7 @@
 
 > The most exciting new artists on the rise from the African continent & diaspora\. Cover: <a href="https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ?si=LIvjpBufTzuEnfsCe5ul3g">Manana</a>, <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=egylZMFXTKKjxV\-LkmPxCQ">Shallipopi</a> and <a href="https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW?si=Hb4fENpGRRW4g9bWlLEXHA">Joshua Baraka</a>
 
-331 songs - 17 hr 40 min
+332 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abotr3 \(Patience\)](https://open.spotify.com/track/6N9GrK3OSdZPgiFnXEnucr) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Patience](https://open.spotify.com/album/2PzZi8aAV2myyFYZp6Udna) | 2:58 | 2022-05-05 | 2022-06-17 |
 | [All Over You](https://open.spotify.com/track/4p5x9gioMn5CYZCuRGo1Kz) | [Guchi](https://open.spotify.com/artist/0PC3YLVMq3svBBqVtgrDI9) | [All Over You / Mon Bébé](https://open.spotify.com/album/6jUDD4gmGow8JAj1rL9Wl0) | 2:20 | 2023-06-02 | 2024-05-09 |
 | [All the Noise](https://open.spotify.com/track/4FEgeEyyW2zzdyoCk9sK2d) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [All the Noise](https://open.spotify.com/album/7wi4SEBg116K9mEX5x4I2D) | 4:09 | 2023-10-17 | 2023-11-17 |
+| [Alone](https://open.spotify.com/track/2AATVS4vVaUEguMooRkTZd) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66) | [Growing Pains \(Deluxe\)](https://open.spotify.com/album/6eUtyQ0nItk099GXX6NUWb) | 4:02 | 2024-05-21 |  |
 | [Alone](https://open.spotify.com/track/4qqXRH8qhmNA31oy1ADAN7) | [Kemuel](https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH) | [Alone](https://open.spotify.com/album/3QNMOgAZ3fezFohWtYRMaw) | 2:37 | 2023-09-14 | 2024-05-09 |
 | [Amdallah](https://open.spotify.com/track/0KBrX7XrrLWxv4nO3NOHQh) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Amdallah](https://open.spotify.com/album/5Xd5kbHU5hpjwnVVcn2zb7) | 3:00 | 2023-06-02 | 2023-09-22 |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-05-09 |  |
@@ -227,7 +228,7 @@
 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 | 2023-10-17 | 2024-05-09 |
 | [Not My Fault](https://open.spotify.com/track/7KxZdsNygnVsFOHExpxymV) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Not My Fault](https://open.spotify.com/album/7973TCLuWKCvUWFbfSVVOs) | 3:08 | 2023-06-08 | 2023-07-29 |
 | [Ntaawa](https://open.spotify.com/track/0gwOZ0bsxcHkXjdewTVC4I) | [JOWY LANDA](https://open.spotify.com/artist/2SynZgOgEzrqmPhtkr6q9X) | [Ntaawa](https://open.spotify.com/album/5uKZ39gh0m85av50uFH7vE) | 2:22 | 2024-05-09 |  |
-| [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-05-09 |  |
+| [Number one](https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG) | [Billnass](https://open.spotify.com/artist/2M65k1sV0TdWJxtHBR4YI4), [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Number one](https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5) | 3:47 | 2024-05-09 | 2024-05-22 |
 | [Oh Ma Linda](https://open.spotify.com/track/28aDl6G202ZZeynzYIZRDb) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Most High](https://open.spotify.com/album/505XBFuhnlK4GBsGq7old5) | 2:56 | 2023-07-14 | 2023-09-22 |
 | [Oh Ma Linda](https://open.spotify.com/track/0pUe1jK12D7nGf47QfEPK6) | [reggie](https://open.spotify.com/artist/08gM7TMuG3DTBmWUuH0w8T), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Oh Ma Linda](https://open.spotify.com/album/7lsm82NrdAoXBWoOEucvMg) | 2:56 | 2023-05-04 | 2023-07-14 |
 | [OLE](https://open.spotify.com/track/3ugqlQkSvdAckn4uNOlzQF) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OLE](https://open.spotify.com/album/72Gkfhx9bDh2LMrO2vMaPy) | 2:31 | 2023-05-04 | 2024-05-09 |

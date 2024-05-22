@@ -1,12 +1,12 @@
 {
-  "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 48620,
+  "description": "This Is Perdidos De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 48636,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAuDSouI5yW3pXBEyVrwIV+",
+  "snapshot_id": "ZkqSgAAAAABwWi3bpvXCXMoCloI8oOz4",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 183857,
-      "name": "Tu Forma De Ser",
-      "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parrandero (Remix)",
         "url": "https://open.spotify.com/album/6fQZ0ykhEyv1f6miucC5Ey"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 168127,
       "name": "Parrandero (Remix)",
       "url": "https://open.spotify.com/track/62W6epdy8GM2uthWuelzFV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/2jq43Yl1uXnYcdn5BPtmxR"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 183857,
+      "name": "Tu Forma De Ser",
+      "url": "https://open.spotify.com/track/50jTcQY6sWdDyMWwg62d0z"
     },
     {
       "added_at": null,
@@ -319,6 +319,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 196046,
+      "name": "Y Sigues Siendo Tu - En Vivo",
+      "url": "https://open.spotify.com/track/74pskWmh7XTcaxqaPdZHJq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Los Dolidos",
         "url": "https://open.spotify.com/album/2GQFwhWhS0guyuKxD7hoMi"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 196046,
-      "name": "Y Sigues Siendo Tu - En Vivo",
-      "url": "https://open.spotify.com/track/74pskWmh7XTcaxqaPdZHJq"
     },
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Estas Perdida",
+        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 197007,
+      "name": "Nuestro Adios",
+      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medias Negras",
         "url": "https://open.spotify.com/album/47un1dVrmVaaNT1PGvEU2d"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 187324,
       "name": "Medias Negras",
       "url": "https://open.spotify.com/track/36aWKc0gB1dt2bh9YLlUD6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Estas Perdida",
-        "url": "https://open.spotify.com/album/1CEut7ULUXYNOWoqC4Z2Nb"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 197007,
-      "name": "Nuestro Adios",
-      "url": "https://open.spotify.com/track/1zLX72SYG0YsB4IEKaBYx1"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quisiera",
+        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 129085,
+      "name": "Quisiera",
+      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00edganle",
         "url": "https://open.spotify.com/album/0KvyHutI4hdGctz0SnhT9z"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 180447,
       "name": "D\u00edganle",
       "url": "https://open.spotify.com/track/5QnDgXOeUQtDac2uqWecK9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quisiera",
-        "url": "https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 129085,
-      "name": "Quisiera",
-      "url": "https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Quiero Mas",
-        "url": "https://open.spotify.com/album/78kKkTlY1cnGwa933wkxNV"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Realeza De Sinaloa",
-          "url": "https://open.spotify.com/artist/30sr4nTSGWsW4EfrhKi3yc"
-        }
-      ],
-      "duration_ms": 202073,
-      "name": "Te Quiero Mas",
-      "url": "https://open.spotify.com/track/2xtF3xLpLI63iJjjzWTQVC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te Quiero Mas",
+        "url": "https://open.spotify.com/album/78kKkTlY1cnGwa933wkxNV"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Realeza De Sinaloa",
+          "url": "https://open.spotify.com/artist/30sr4nTSGWsW4EfrhKi3yc"
+        }
+      ],
+      "duration_ms": 202073,
+      "name": "Te Quiero Mas",
+      "url": "https://open.spotify.com/track/2xtF3xLpLI63iJjjzWTQVC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Naturaleza",
         "url": "https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x"
       },
@@ -883,6 +883,22 @@
       "duration_ms": 184523,
       "name": "Tu Naturaleza",
       "url": "https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 131285,
+      "name": "Siempre Trabajando",
+      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
     },
     {
       "added_at": null,
@@ -919,22 +935,6 @@
       "duration_ms": 148302,
       "name": "Carta Abierta - En Vivo",
       "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 131285,
-      "name": "Siempre Trabajando",
-      "url": "https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm"
     },
     {
       "added_at": null,

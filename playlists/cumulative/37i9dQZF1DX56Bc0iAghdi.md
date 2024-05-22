@@ -4,7 +4,7 @@
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-91 songs - 5 hr 33 min
+92 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [DAILY](https://open.spotify.com/track/3dO540N74bBzkNctFZK76s) | [Cortes](https://open.spotify.com/artist/4wVpcoHUxd0kMJaV2KbMs5), [Cass](https://open.spotify.com/artist/289ZzHonEANcXbHiyHV0sn) | [DAILY](https://open.spotify.com/album/3SidUros5s6r6X4zhvr2sk) | 3:14 | 2019-09-20 |  |
 | [Dancing On Top of the World](https://open.spotify.com/track/14Qg6RExIEgeTasOOXeclf) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/4LWmVkuA2s7n3q3UiIlsFf) | 2:53 | 2019-09-20 | 2024-04-19 |
 | [Dancing on Top of the World](https://open.spotify.com/track/2YNKo5RSCPFs0X0YQmYGme) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/1q8TJAtMTvA3FFjhcsDhvZ) | 2:53 | 2023-02-18 |  |
+| [Dear God](https://open.spotify.com/track/4uKnBwasJbpaXoPGrwqlc4) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Dear God](https://open.spotify.com/album/7rHeGICxTrC5XVjsNH2AjA) | 2:55 | 2023-02-18 |  |
 | [Dear God](https://open.spotify.com/track/5YOJIE5VA2g9OY7awMHdwL) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Country Strong Songs](https://open.spotify.com/album/3haDF4oBvo4RejgkF0gftW) | 2:55 | 2019-09-20 | 2022-11-13 |
 | [Dear God](https://open.spotify.com/track/6k9nsVCSf6QO1WnFsCsmVf) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Wild Blue, Part I](https://open.spotify.com/album/3xDD4CKNUEVmhOL1IY8MAL) | 2:55 | 2019-09-20 | 2024-04-19 |
 | [Dear Regret](https://open.spotify.com/track/5wrjoyXqTcLh7XvgukpFDO) | [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a) | [Dear Regret](https://open.spotify.com/album/27MKsRgdDeznExxKezUzjt) | 3:33 | 2023-02-18 |  |
@@ -47,7 +48,7 @@
 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 | 2019-09-20 |  |
 | [I Lift Your Name Up \- 80's Remix](https://open.spotify.com/track/3dw4ddlaQmQVFY5V1mBClv) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Rain](https://open.spotify.com/album/074R4kqJ2xNe4h8GkGBON8) | 3:21 | 2019-09-20 | 2024-04-19 |
 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/05hdZ0YRqAg6qsgV1ee3LE) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/album/4YOkLua2AMiyZYbocWWVqM) | 3:38 | 2019-09-20 |  |
-| [I'm Gonna Let It Go](https://open.spotify.com/track/6IqgRdrXDwZeSdSZtFmyTo) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go](https://open.spotify.com/album/7fHnC7zjvIf46XZV6KAoVt) | 3:06 | 2023-02-18 |  |
+| [I'm Gonna Let It Go](https://open.spotify.com/track/6IqgRdrXDwZeSdSZtFmyTo) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [I'm Gonna Let It Go](https://open.spotify.com/album/7fHnC7zjvIf46XZV6KAoVt) | 3:06 | 2023-02-18 | 2024-05-22 |
 | [I'm Gonna Let It Go](https://open.spotify.com/track/3sBPqE3LXl3ncVUzpkXfjK) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Order, Disorder, Reorder](https://open.spotify.com/album/4OB5WhwM3ApWRJ97GEF9Lc) | 3:09 | 2019-09-20 | 2024-04-19 |
 | [In Rhythm](https://open.spotify.com/track/1V4M9hcOewZm6xydaxsWl0) | [Mirours](https://open.spotify.com/artist/75LCOigw8mFKzvhjpHv2jT) | [In Rhythm](https://open.spotify.com/album/3g2ucyCUURbjVNo8ec6rO0) | 4:52 | 2023-02-18 |  |
 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 | 2019-09-20 |  |

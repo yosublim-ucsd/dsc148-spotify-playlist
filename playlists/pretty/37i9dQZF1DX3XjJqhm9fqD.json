@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 87594,
+  "num_followers": 87627,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -519,18 +519,22 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "40 %",
-        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
+        "name": "Apre bal la",
+        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
       "artists": [
         {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+          "name": "Pierre Jean",
+          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
+        },
+        {
+          "name": "T-ANSYTO",
+          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
         }
       ],
-      "duration_ms": 278000,
-      "name": "40 %",
-      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
+      "duration_ms": 237362,
+      "name": "Apre bal la",
+      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -603,22 +607,18 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Apre bal la",
-        "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
+        "name": "40 %",
+        "url": "https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS"
       },
       "artists": [
         {
-          "name": "Pierre Jean",
-          "url": "https://open.spotify.com/artist/01OsZozNGoEXWFtUjkv3l3"
-        },
-        {
-          "name": "T-ANSYTO",
-          "url": "https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa"
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
         }
       ],
-      "duration_ms": 237362,
-      "name": "Apre bal la",
-      "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+      "duration_ms": 278000,
+      "name": "40 %",
+      "url": "https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
+        "name": "Teke Fren",
+        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
+      },
+      "artists": [
+        {
+          "name": "Poirier",
+          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
+        },
+        {
+          "name": "Waahli",
+          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
+        }
+      ],
+      "duration_ms": 177748,
+      "name": "Teke Fren",
+      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
         "name": "Party Girls (feat. Buju Banton) [Micha\u00ebl Brun Dancehall Remix]",
         "url": "https://open.spotify.com/album/5MoizA6j9BtnH0w6IUmHsU"
       },
@@ -1059,26 +1079,6 @@
       "duration_ms": 199550,
       "name": "Party Girls (feat. Buju Banton) - Micha\u00ebl Brun Dancehall Remix",
       "url": "https://open.spotify.com/track/2a7RTbhDvTIEBvMQI9is88"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Teke Fren",
-        "url": "https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7"
-      },
-      "artists": [
-        {
-          "name": "Poirier",
-          "url": "https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4"
-        },
-        {
-          "name": "Waahli",
-          "url": "https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI"
-        }
-      ],
-      "duration_ms": 177748,
-      "name": "Teke Fren",
-      "url": "https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1439,6 +1439,26 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
+      },
+      "artists": [
+        {
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+        }
+      ],
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
         "name": "Fanm d'Ayiti",
         "url": "https://open.spotify.com/album/3KVpKanJVJ1efS6ISTkaJm"
       },
@@ -1459,26 +1479,6 @@
       "duration_ms": 400666,
       "name": "Papa Loko (Arr. N. Joachim) - Interlude. September 24, 1918",
       "url": "https://open.spotify.com/track/2loul0DeCz0DtLe5gLOjfi"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Se Ou M Chwazi",
-        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
-      },
-      "artists": [
-        {
-          "name": "D-Singer",
-          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
-        },
-        {
-          "name": "Rob Vital",
-          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
-        }
-      ],
-      "duration_ms": 218191,
-      "name": "Se Ou M Chwazi",
-      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 166008,
       "name": "Wine Pon Me - Remix",
       "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Se Ou M Chwazi",
+        "url": "https://open.spotify.com/album/2p3uVHyJpc9sxzCTT7YXGx"
+      },
+      "artists": [
+        {
+          "name": "D-Singer",
+          "url": "https://open.spotify.com/artist/2t7LC046sLDvGmzgwe9pdf"
+        },
+        {
+          "name": "Rob Vital",
+          "url": "https://open.spotify.com/artist/5KpCduTjXtQ4HkOiRbYvyY"
+        }
+      ],
+      "duration_ms": 218191,
+      "name": "Se Ou M Chwazi",
+      "url": "https://open.spotify.com/track/3Wz1Al5jmlNCltjY8IzMim"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Imitate",
-        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 200568,
-      "name": "Imitate",
-      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Imitate",
+        "url": "https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b"
+      },
+      "artists": [
+        {
+          "name": "Bava",
+          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
+        }
+      ],
+      "duration_ms": 200568,
+      "name": "Imitate",
+      "url": "https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA"
     },
     {
       "added_at": "2024-04-16 14:38:31",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-04-16 14:38:31",
       "album": {
-        "name": "Regr\u00e8",
-        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
-      },
-      "artists": [
-        {
-          "name": "Wood Terrib",
-          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
-        }
-      ],
-      "duration_ms": 229998,
-      "name": "Regr\u00e8",
-      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
-    },
-    {
-      "added_at": "2024-04-16 14:38:31",
-      "album": {
         "name": "Sote",
         "url": "https://open.spotify.com/album/2AwY7xfZpyp3VY2udktJXx"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 148000,
       "name": "Sote",
       "url": "https://open.spotify.com/track/4J8sOc2MDhfyYfiSMfCHP8"
+    },
+    {
+      "added_at": "2024-04-16 14:38:31",
+      "album": {
+        "name": "Regr\u00e8",
+        "url": "https://open.spotify.com/album/7ey8dqV3YckSnIA2ypxHz7"
+      },
+      "artists": [
+        {
+          "name": "Wood Terrib",
+          "url": "https://open.spotify.com/artist/4wSk5bVKgDx15T3dXLDcfr"
+        }
+      ],
+      "duration_ms": 229998,
+      "name": "Regr\u00e8",
+      "url": "https://open.spotify.com/track/4QNzWxiTT6z18G0so0cflj"
     },
     {
       "added_at": "2024-04-16 14:38:31",

@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: Thelma the Unicorn
 
-128 songs - 5 hr 14 min
+129 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [If It's To Be \- From "Maya And The Three" \- A Netflix Animated Event](https://open.spotify.com/track/72DJZtACE61IsndH6jG8S9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [If It's To Be \(From "Maya And The Three" \- A Netflix Animated Event\)](https://open.spotify.com/album/4a1a5nP1l7nE6jRCQLrHfX) | 3:34 | 2022-04-08 |  |
 | [It Takes Two \- Theme Song](https://open.spotify.com/track/3WWpdKMbTca5o8d5yhWyaL) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [Barbie It Takes Two \(Original Series Soundtrack\)](https://open.spotify.com/album/2mXF94JoueENMjvZFVhzth) | 1:06 | 2022-04-08 |  |
 | [It's All Me \(From The Netlix Series: "Ridley Jones" Vol\. 2\)](https://open.spotify.com/track/1eDzHZuMKAHFh1eeWWI06u) | [Ridley Jones Cast](https://open.spotify.com/artist/3Gt3xJ9pSk0mSkI9WsijkR) | [Ridley Jones \(Soundtrack From The Netflix Series Vol\. 2\)](https://open.spotify.com/album/2xgSjpv4IcKBxlMskb8LcU) | 1:03 | 2022-04-08 |  |
+| [Just As You Are \- From the Netflix Film "Thelma the Unicorn"](https://open.spotify.com/track/5DuSa5TfSngmuL0Z8qFvts) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Thelma The Unicorn \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH) | 3:26 | 2024-05-21 |  |
 | [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/0f1rObddzYzuikkqBKF8o3) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7kDe7QIbUXeF4FrzIHmX8D) | 4:10 | 2022-10-12 | 2024-04-19 |
 | [Keep Holding On \- Hybrid Version](https://open.spotify.com/track/2u66zu5KxLUmINS2sCMpGH) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [Thai Cave Rescue \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3VcxoYyUcIPoZU1yIVQvhi) | 4:10 | 2022-09-23 |  |
 | [Kitti Katz Theme \(from the Netflix Series\)](https://open.spotify.com/track/0xiZP7XvD12u2jPcCPYPgR) | [Kitti Katz](https://open.spotify.com/artist/3pL0HFJmARZMJYyDFdyNXL) | [Kitti Katz Theme \(from the Netflix Series\)](https://open.spotify.com/album/6U7BKPNbMqq3bmN829fUsu) | 2:39 | 2023-05-16 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 34955,
+  "num_followers": 34960,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -523,18 +523,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
       },
       "artists": [
         {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
         }
       ],
-      "duration_ms": 260333,
-      "name": "When I'm Gone",
-      "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
       },
       "artists": [
         {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 169306,
-      "name": "She Moves In Her Own Way",
-      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
+      "duration_ms": 260333,
+      "name": "When I'm Gone",
+      "url": "https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -831,18 +831,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
+        "name": "Hero (feat. Josey Scott)",
+        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
       "artists": [
         {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+          "name": "Chad Kroeger",
+          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
+        },
+        {
+          "name": "Josey Scott",
+          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
         }
       ],
-      "duration_ms": 211493,
-      "name": "My Life Would Suck Without You",
-      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
+      "duration_ms": 200480,
+      "name": "Hero (feat. Josey Scott)",
+      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -895,22 +899,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Hero (feat. Josey Scott)",
-        "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
+        "name": "All I Ever Wanted",
+        "url": "https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG"
       },
       "artists": [
         {
-          "name": "Chad Kroeger",
-          "url": "https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin"
-        },
-        {
-          "name": "Josey Scott",
-          "url": "https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP"
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Hero (feat. Josey Scott)",
-      "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+      "duration_ms": 211493,
+      "name": "My Life Would Suck Without You",
+      "url": "https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
+        "name": "The Best Damn Thing",
+        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 216600,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
         "name": "Under The Iron Sea",
         "url": "https://open.spotify.com/album/3g7Ba6diNryAEMk2LWIgfB"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 242586,
       "name": "Hella Good",
       "url": "https://open.spotify.com/track/3p9WUMN8SPfq3mUtUUnmE5"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
-        "name": "The Best Damn Thing",
-        "url": "https://open.spotify.com/album/5dfbrFuG8lfC4Yi75J8NmK"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 216600,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/5HbCnVLXRyZVxnreOPgJCK"
     },
     {
       "added_at": "2021-04-09 06:36:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks with Shubh for his track "MVP"
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,684 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 990,698 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 19 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 20 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
 | 21 | [Glorious](https://open.spotify.com/track/5Gj7bBHkXOEWCPOZv7eAHb) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Chobar](https://open.spotify.com/album/0PYDvpixI39fPsmBAs3FC6) | 2:43 |
-| 22 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 |
+| 22 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 |
 | 23 | [Bachke Bachke \(feat\. Yarah\)](https://open.spotify.com/track/2uWZ7EGddFlA1DJ3Rzzvs2) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Yarah](https://open.spotify.com/artist/5DzbLrOUJEiT6kx68Dnqxr) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:30 |
 | 24 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 |
 | 25 | [Check It Out](https://open.spotify.com/track/4VosVUajzm6nzGlSb6nP3L) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Check It Out](https://open.spotify.com/album/1vF3ag997oVOcaSYVlFytV) | 3:15 |

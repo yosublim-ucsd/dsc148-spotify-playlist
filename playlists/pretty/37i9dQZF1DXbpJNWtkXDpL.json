@@ -1,6 +1,6 @@
 {
   "description": "El futuro est\u00e1 ac\u00e1. Conoce a la Generaci\u00f3n 2024 de RADAR M\u00e9xico. CHOCA en portada.",
-  "num_followers": 83544,
+  "num_followers": 83575,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-05-20 20:47:48",
       "album": {
-        "name": "RLUX",
-        "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
-      },
-      "artists": [
-        {
-          "name": "ERRE",
-          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
-        },
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "RLUX",
-      "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
-    },
-    {
-      "added_at": "2024-05-20 20:47:48",
-      "album": {
         "name": "Cuando Alguien Me Amaba",
         "url": "https://open.spotify.com/album/4ndAvuct7VatXCVLItLSzj"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 144514,
       "name": "Cuando Alguien Me Amaba",
       "url": "https://open.spotify.com/track/5gmL61qk3Y3oAc7lswe70j"
+    },
+    {
+      "added_at": "2024-05-20 20:47:48",
+      "album": {
+        "name": "RLUX",
+        "url": "https://open.spotify.com/album/24PEFKJq2jgNlPbNnijTqo"
+      },
+      "artists": [
+        {
+          "name": "ERRE",
+          "url": "https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "RLUX",
+      "url": "https://open.spotify.com/track/3BdKQmGT9NVR3wQP9rNkf2"
     },
     {
       "added_at": "2024-05-20 20:47:48",

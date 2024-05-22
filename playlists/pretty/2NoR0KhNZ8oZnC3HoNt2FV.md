@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > A Boogie Wit Da Hoodie new album <a href="spotify:album:0tvOiqQkHp6bqYzzPfPc4B">Better Off Alone</a>
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,845 likes - 690 songs - 1 day 15 hr 1 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,850 likes - 690 songs - 1 day 15 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

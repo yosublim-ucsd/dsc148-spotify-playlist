@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,308 likes - 66 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,332 likes - 66 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 3 | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/track/1qfezHfM1Fvuu9KCZ72NB7) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde \(Speed\)](https://open.spotify.com/album/2sLiC8147QVvg2iOgxPz1u) | 2:46 |
 | 4 | [Mas Existe um Lugar \- speed](https://open.spotify.com/track/21XQbePSeOSvfuLRaZbZ7a) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [Noemi Leal](https://open.spotify.com/artist/15elHVyIMS1aobjNNJXcvK) | [Mas Existe um Lugar \(speed\)](https://open.spotify.com/album/6JHtorRl390LLDA8QjKm7w) | 2:21 |
 | 5 | [Ultimamente Speed](https://open.spotify.com/track/5ghSPv2tPkGZN8DESSvKZl) | [dreko](https://open.spotify.com/artist/0HOTKavni3wfNtHbpccVgy) | [Ultimamente Speed](https://open.spotify.com/album/3JOo0DgxsnC7TK0TaJ4Um4) | 2:10 |
-| 6 | [Imprevisto – Speed](https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B) | [Imprevisto – Speed](https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot) | 1:58 |
-| 7 | [Baile da Serra Speed](https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE) | [Baile da Serra Speed](https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs) | 2:50 |
+| 6 | [Baile da Serra Speed](https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [LIT UP](https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE) | [Baile da Serra Speed](https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs) | 2:50 |
+| 7 | [Imprevisto – Speed](https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B) | [Imprevisto – Speed](https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot) | 1:58 |
 | 8 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 |
 | 9 | [Ta Tudo Bem Speedplug \- Versão Alternativa](https://open.spotify.com/track/50nCM4Diua1enzBmN8i11A) | [luqeta](https://open.spotify.com/artist/5yBdprfbFGKUg6ckI8gtSZ), [deadpeace](https://open.spotify.com/artist/5GtEbRUFQN7CXSH9yZWfgA) | [Luq Speed Vision](https://open.spotify.com/album/4i2Yfw0gb4BwMPgrA6sG9J) | 1:42 |
 | 10 | [202 \- Speed](https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Thomie](https://open.spotify.com/artist/5UkeFCuymumzsQizZ1xzsW), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [202 \(Speed\)](https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ) | 2:22 |

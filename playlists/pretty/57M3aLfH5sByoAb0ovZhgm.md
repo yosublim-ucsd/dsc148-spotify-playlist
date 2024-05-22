@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 
 > cookin&\#x27;
 
-[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 120 songs - 7 hr 20 min
+[Smit Mehta](https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz) - 1 like - 122 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,5 +128,7 @@ pretty - [cumulative](/playlists/cumulative/57M3aLfH5sByoAb0ovZhgm.md) - [plain]
 | 118 | [Silk & Cologne \(EI8HT & Offset\) \- Spider\-Verse Remix](https://open.spotify.com/track/5Lv5L45PQmp5CTjs5PlQ6e) | [EI8HT](https://open.spotify.com/artist/70rSvlI9SRspEr0C84bJ5Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 2:42 |
 | 119 | [Samjho Na](https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Samjho Na](https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B) | 2:52 |
 | 120 | [Throw Your Arms Around Me](https://open.spotify.com/track/5WdStzLlaFAnJoYREQw3n9) | [Neil Finn](https://open.spotify.com/artist/183DuT2WcaEO2tclTJW1tU), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Crucible \- The Songs of Hunters & Collectors](https://open.spotify.com/album/3ZEo5nx18byaapvwDn8dYk) | 3:58 |
+| 121 | [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/track/7HdZY9UJTylIiNcSDFyUDc) | [Cashmere Cat](https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Miss You \(with Major Lazer & Tory Lanez\)](https://open.spotify.com/album/5Q44tz5m4c6y4pG7VPjfj6) | 3:06 |
+| 122 | [Fire for You](https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Shadows](https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn) | 3:51 |
 
-Snapshot ID: `AAAAnWcRoRvfoh9m2KvfHrpywUFBGNnj`
+Snapshot ID: `AAAAn8JO9Sl5Ky/UcOjmTpxOKw7T4bYE`

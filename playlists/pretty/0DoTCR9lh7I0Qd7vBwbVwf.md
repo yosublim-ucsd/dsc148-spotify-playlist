@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 
 > full focus \- maximum productivity \- deep concentration \- meditation music \- work playlist \- focus songs \- calm vibes \- focus muziek \- focused work \- study \- no lyrics \- mindful studying \- working hard
 
-[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,061 likes - 138 songs - 4 hr 34 min
+[✨](https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu) - 1,065 likes - 139 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,5 +146,6 @@ pretty - [cumulative](/playlists/cumulative/0DoTCR9lh7I0Qd7vBwbVwf.md) - [plain]
 | 136 | [Veiled Serenity](https://open.spotify.com/track/3u3gNJDn54FohmuS6ZECrY) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Luminous Reverberations](https://open.spotify.com/album/2EQSCXFUV6MhW7EBaFOIKv) | 1:51 |
 | 137 | [Serenade of Illusions](https://open.spotify.com/track/4pTOsbCnRIXpt9agLitHNV) | [Nahh Chill](https://open.spotify.com/artist/6A9Ea4TIDpSQOP5APKCiGT), [Sonic Strokes](https://open.spotify.com/artist/2R3cdAtELIEPmC0L6AGzSk), [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F) | [Melodic Phantasm](https://open.spotify.com/album/5t2nM6VQelYKAFm0NpceFZ) | 1:52 |
 | 138 | [Misty Solace](https://open.spotify.com/track/6bEjGMoeSx7bHZ1Qqh4c9V) | [Aqua Scholar](https://open.spotify.com/artist/2UIXBhB5h97ApAs48rTq7F), [Darkened Bliss](https://open.spotify.com/artist/1By9PeboTneR6Uh4glo7nE), [Mey Andog](https://open.spotify.com/artist/5hdRHEc4zRA99JEx4vEgzL) | [Melodies of Serenity](https://open.spotify.com/album/3Z6J66tVl7nqa1lzFqftrA) | 2:03 |
+| 139 | [Sleep in Your Dream](https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL) | [aswellas](https://open.spotify.com/artist/6CuHbpF36W0v7cEsrzqCkn) | [Sleep in Your Dream](https://open.spotify.com/album/39iWkaM314iuC5KfxK3xfy) | 2:28 |
 
-Snapshot ID: `AAAAQTVFrPUK5GB7A7fB1MoY3xujs+fm`
+Snapshot ID: `AAAAQnTv+YaJfkCftiSJvAtcTvTkF+AU`

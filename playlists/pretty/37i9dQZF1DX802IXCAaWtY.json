@@ -1,6 +1,6 @@
 {
   "description": "Who doesn't love the 90s?",
-  "num_followers": 1215549,
+  "num_followers": 1215963,
   "original_name": "90s Dance Party",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-07-14 10:06:53",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc"
-      },
-      "artists": [
-        {
-          "name": "E-Rotic",
-          "url": "https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu"
-        }
-      ],
-      "duration_ms": 211040,
-      "name": "Max Don't Have Sex with Your Ex",
-      "url": "https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7"
-    },
-    {
-      "added_at": "2023-07-14 10:06:53",
-      "album": {
         "name": "Fly High",
         "url": "https://open.spotify.com/album/3T1n5qLTtMAsJofzJoZDNI"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 272000,
       "name": "Fly High",
       "url": "https://open.spotify.com/track/29WTMnk0vsnapB0FaLDfGM"
+    },
+    {
+      "added_at": "2023-07-14 10:06:53",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc"
+      },
+      "artists": [
+        {
+          "name": "E-Rotic",
+          "url": "https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu"
+        }
+      ],
+      "duration_ms": 211040,
+      "name": "Max Don't Have Sex with Your Ex",
+      "url": "https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7"
     }
   ],
   "unique_name": "90s Dance Party",

@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/akademiks/\">DJ Akademiks</a>",
-  "num_followers": 18387,
+  "num_followers": 18409,
   "original_name": "DJ Akademiks' Taste",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,26 @@
     {
       "added_at": "2022-10-01 16:17:17",
       "album": {
+        "name": "Shiesty Season",
+        "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        },
+        {
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        }
+      ],
+      "duration_ms": 171780,
+      "name": "Neighbors (feat. BIG30)",
+      "url": "https://open.spotify.com/track/2xlOJSbScxrHHOmlNmILpD"
+    },
+    {
+      "added_at": "2022-10-01 16:17:17",
+      "album": {
         "name": "The Voice of the Heroes",
         "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
       },
@@ -171,26 +191,6 @@
       "duration_ms": 257428,
       "name": "Hats Off (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y"
-    },
-    {
-      "added_at": "2022-10-01 16:17:17",
-      "album": {
-        "name": "Shiesty Season",
-        "url": "https://open.spotify.com/album/2UwJ4Nt10VStLczYefhcEV"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "BIG30",
-          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
-        }
-      ],
-      "duration_ms": 171780,
-      "name": "Neighbors (feat. BIG30)",
-      "url": "https://open.spotify.com/track/2xlOJSbScxrHHOmlNmILpD"
     },
     {
       "added_at": "2022-10-01 16:17:17",

@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 415618,
+  "num_followers": 415941,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Navega",
         "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222800,
       "name": "Comme s'il en pleuvait",
       "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Manquait Plus Qu'Ca",
-        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
-      },
-      "artists": [
-        {
-          "name": "Sandrine Kiberlain",
-          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
-        }
-      ],
-      "duration_ms": 155120,
-      "name": "M'envoyer des fleurs",
-      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "J'ai Deux Amours",
         "url": "https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 201013,
       "name": "De Temps en Temps",
       "url": "https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Manquait Plus Qu'Ca",
+        "url": "https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf"
+      },
+      "artists": [
+        {
+          "name": "Sandrine Kiberlain",
+          "url": "https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l"
+        }
+      ],
+      "duration_ms": 155120,
+      "name": "M'envoyer des fleurs",
+      "url": "https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8"
     },
     {
       "added_at": "2024-03-20 07:39:51",

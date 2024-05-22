@@ -1,6 +1,6 @@
 {
   "description": "monochrome bliss. Cover: Matty Healy in the \"Robbers\" music video from The 1975.\n",
-  "num_followers": 156535,
+  "num_followers": 156575,
   "original_name": "reblog",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-01-22 23:30:40",
       "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 231853,
+      "name": "Dollhouse",
+      "url": "https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf"
+    },
+    {
+      "added_at": "2024-01-22 23:30:40",
+      "album": {
         "name": "Settle (Special Edition)",
         "url": "https://open.spotify.com/album/7bdjtx1RTkWoSoOaIl7a8E"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 255631,
       "name": "Latch",
       "url": "https://open.spotify.com/track/51ODNNDZm21HU7wI7cccRr"
-    },
-    {
-      "added_at": "2024-01-22 23:30:40",
-      "album": {
-        "name": "Cry Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 231853,
-      "name": "Dollhouse",
-      "url": "https://open.spotify.com/track/6wNeKPXF0RDKyvfKfri5hf"
     },
     {
       "added_at": "2024-01-22 23:30:40",

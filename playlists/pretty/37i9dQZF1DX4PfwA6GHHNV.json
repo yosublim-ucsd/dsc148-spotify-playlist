@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17209,
+  "num_followers": 17231,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -99,22 +99,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "m\u00e1gica \u2736",
-        "url": "https://open.spotify.com/album/20fNV1VWDM5AlmSmcFp19G"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 153942,
-      "name": "m\u00e1gica \u2736",
-      "url": "https://open.spotify.com/track/47uFCc3ppHXY0U7DdsWqko"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
       },
@@ -135,26 +119,18 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "COLADINHO",
-        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+        "name": "m\u00e1gica \u2736",
+        "url": "https://open.spotify.com/album/20fNV1VWDM5AlmSmcFp19G"
       },
       "artists": [
         {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
-        },
-        {
-          "name": "Liz Kaweria",
-          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 152079,
-      "name": "COLADINHO",
-      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+      "duration_ms": 153942,
+      "name": "m\u00e1gica \u2736",
+      "url": "https://open.spotify.com/track/47uFCc3ppHXY0U7DdsWqko"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -179,6 +155,30 @@
       "duration_ms": 196383,
       "name": "Jovinho",
       "url": "https://open.spotify.com/track/03sHFROBP18Wr2NayNAj6Q"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "COLADINHO",
+        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+      },
+      "artists": [
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Liz Kaweria",
+          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "COLADINHO",
+      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Do Mesmo Lado",
-        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
-      },
-      "artists": [
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        },
-        {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
-        }
-      ],
-      "duration_ms": 158109,
-      "name": "Do Mesmo Lado",
-      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 155512,
       "name": "Ch\u00e1",
       "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Do Mesmo Lado",
+        "url": "https://open.spotify.com/album/7wN4k8G4LfIsYxNnShicSu"
+      },
+      "artists": [
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 158109,
+      "name": "Do Mesmo Lado",
+      "url": "https://open.spotify.com/track/58pRRdXapyxE1OUzZWXa4u"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Luar",
         "url": "https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk"
       },
@@ -599,26 +615,6 @@
       "duration_ms": 194862,
       "name": "Luar",
       "url": "https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -643,18 +639,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
       "artists": [
         {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
         }
       ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "N\u00e3o Prometeu Nada",
         "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 175200,
       "name": "N\u00e3o Prometeu Nada",
       "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
+      },
+      "artists": [
+        {
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
+        }
+      ],
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "\u00c1guas Passadas",
+        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
+      },
+      "artists": [
+        {
+          "name": "Alta Hits",
+          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
+        },
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        }
+      ],
+      "duration_ms": 158400,
+      "name": "\u00c1guas Passadas",
+      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Fases Vol. 1",
         "url": "https://open.spotify.com/album/0VUKUkjsiowwZIHheuNOaG"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 146526,
       "name": "Teimosa e Ciumenta",
       "url": "https://open.spotify.com/track/5Xgbiv7vaRjKPq8PhXZcdd"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "\u00c1guas Passadas",
-        "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
-      },
-      "artists": [
-        {
-          "name": "Alta Hits",
-          "url": "https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv"
-        },
-        {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        }
-      ],
-      "duration_ms": 158400,
-      "name": "\u00c1guas Passadas",
-      "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
     },
     {
       "added_at": "2024-05-17 03:01:00",

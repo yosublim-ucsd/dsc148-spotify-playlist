@@ -1340,7 +1340,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 387160,
       "name": "Baby, We're Ascending",
       "url": "https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ"
@@ -3838,6 +3838,24 @@
       "duration_ms": 305684,
       "name": "Dorfex Bos - Bassnectar Remix 2015 Version",
       "url": "https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX"
+    },
+    {
+      "album": {
+        "name": "The Science Of Patterns",
+        "url": "https://open.spotify.com/album/3rkD1ZE9dt5rSGt3Y56RWh"
+      },
+      "artists": [
+        {
+          "name": "Tycho",
+          "url": "https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry"
+        }
+      ],
+      "date_added": "2024-05-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225800,
+      "name": "Dream as Memory",
+      "url": "https://open.spotify.com/track/0dKEf6u1dlX16AcY2ygHLy"
     },
     {
       "album": {

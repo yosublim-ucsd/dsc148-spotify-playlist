@@ -110,7 +110,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 232846,
       "name": "1230",
       "url": "https://open.spotify.com/track/44tWGaJ7ZRIeJFt6QITHo3"
@@ -294,6 +294,24 @@
       "duration_ms": 229480,
       "name": "A Moment",
       "url": "https://open.spotify.com/track/7BHAqFVUgqnsSNPCvY7zn9"
+    },
+    {
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237466,
+      "name": "A New Level",
+      "url": "https://open.spotify.com/track/5Tdx85q8KQIcIZJ9XoHblt"
     },
     {
       "album": {
@@ -597,6 +615,24 @@
     },
     {
       "album": {
+        "name": "Lake of Sorrow",
+        "url": "https://open.spotify.com/album/4j6YOlgp8gPbg7eZuTGq1D"
+      },
+      "artists": [
+        {
+          "name": "The Sins Of Thy Beloved",
+          "url": "https://open.spotify.com/artist/0eFg9cfr8pPciNtqP5s14S"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433613,
+      "name": "All Alone",
+      "url": "https://open.spotify.com/track/0HoGNpafXs161vYcJnQcyu"
+    },
+    {
+      "album": {
         "name": "Punk Goes Classic Rock",
         "url": "https://open.spotify.com/album/6BfFctwh6EnS2IYH0ekIez"
       },
@@ -630,6 +666,24 @@
       "duration_ms": 185026,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/24YMfPZROqG0FGrxXSUcpR"
+    },
+    {
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4vyPN44zoiJXE6hruCCrGB"
+      },
+      "artists": [
+        {
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214440,
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg"
     },
     {
       "album": {
@@ -1560,7 +1614,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 211748,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/6xmMBY754l7guTzNokbzos"
@@ -2129,6 +2183,28 @@
     },
     {
       "album": {
+        "name": "7th Symphony",
+        "url": "https://open.spotify.com/album/1gX0jHVdBfO6F0zd8beNnk"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Lacey",
+          "url": "https://open.spotify.com/artist/70ULy9xkT1iUxXIJyHPDQU"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234493,
+      "name": "Broken Pieces",
+      "url": "https://open.spotify.com/track/0zu383xVfq68H6XkHZ8prP"
+    },
+    {
+      "album": {
         "name": "Brussh",
         "url": "https://open.spotify.com/album/2x5zGAEdp7vBX8A1O8wq0I"
       },
@@ -2176,7 +2252,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-27",
+      "date_removed": null,
       "duration_ms": 267866,
       "name": "Bulls in the Bronx",
       "url": "https://open.spotify.com/track/5JQ21uZ49Hn5VjPiyDSqza"
@@ -3896,7 +3972,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 276986,
       "name": "Dios se manifiesta",
       "url": "https://open.spotify.com/track/4fpubEHX4lU798JidwjSpv"
@@ -4022,7 +4098,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 248200,
       "name": "Don't Stop Believin'",
       "url": "https://open.spotify.com/track/3HRQtRUYnnuZY7fE900XtJ"
@@ -6701,6 +6777,24 @@
     },
     {
       "album": {
+        "name": "Most Wanted",
+        "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
+      },
+      "artists": [
+        {
+          "name": "Kinck",
+          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150699,
+      "name": "Honeypot",
+      "url": "https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW"
+    },
+    {
+      "album": {
         "name": "Does This Look Infected?",
         "url": "https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8"
       },
@@ -6712,7 +6806,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 208200,
       "name": "Hooch",
       "url": "https://open.spotify.com/track/5df4yz25t1CQHYNHGGg6NR"
@@ -7242,7 +7336,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 346386,
       "name": "I'll Be There For You",
       "url": "https://open.spotify.com/track/2SfXwLVq1w4WPP2SsPMynv"
@@ -7260,7 +7354,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 185306,
       "name": "I'm A Believer",
       "url": "https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40"
@@ -7560,7 +7654,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 302466,
       "name": "In Waves",
       "url": "https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy"
@@ -8454,7 +8548,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 199893,
       "name": "Last Resort",
       "url": "https://open.spotify.com/track/5eek2X5459T1HoYJk2CKXv"
@@ -8714,6 +8808,42 @@
       "duration_ms": 237426,
       "name": "Live For Today (Mozaix Remix)",
       "url": "https://open.spotify.com/track/40Ip77nqyAolluHilW9tFH"
+    },
+    {
+      "album": {
+        "name": "Rescue (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7r0RKFHhYbNJSpzdSKP7Yg"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155118,
+      "name": "Live To Kill",
+      "url": "https://open.spotify.com/track/07zhTZ55wBAnnLUWP6HNGc"
+    },
+    {
+      "album": {
+        "name": "liverounds",
+        "url": "https://open.spotify.com/album/4XVm6hHwM1fjUZywejQ3Wz"
+      },
+      "artists": [
+        {
+          "name": "damon r.",
+          "url": "https://open.spotify.com/artist/3LE39lgBs68N41XjxH5cLD"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122571,
+      "name": "liverounds",
+      "url": "https://open.spotify.com/track/2mB9h4ED7P8PCErQPF3aso"
     },
     {
       "album": {
@@ -12836,7 +12966,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 179072,
       "name": "Secrets in a Box",
       "url": "https://open.spotify.com/track/0p8UUl28sWjj4O9eTOHz2o"
@@ -14618,7 +14748,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 384013,
       "name": "Tears of the Dragon",
       "url": "https://open.spotify.com/track/0wIBOrGO6PUkhsrbhJdlcJ"
@@ -14762,7 +14892,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 266173,
       "name": "That's All - Remastered 2007",
       "url": "https://open.spotify.com/track/2gUjs3Y8RoPpwozKyQDCUa"
@@ -15252,6 +15382,24 @@
       "duration_ms": 198493,
       "name": "The Hell Song",
       "url": "https://open.spotify.com/track/6hqt1z34Oz0OZtSfy62OFD"
+    },
+    {
+      "album": {
+        "name": "Coral Fang (PA Version)",
+        "url": "https://open.spotify.com/album/23MOdUJkZlG971DVuEINMr"
+      },
+      "artists": [
+        {
+          "name": "The Distillers",
+          "url": "https://open.spotify.com/artist/7MlyHuGRHi31yYlrttDqgT"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328226,
+      "name": "The Hunger",
+      "url": "https://open.spotify.com/track/7vUuOdabDtkAGRbdZGshsZ"
     },
     {
       "album": {
@@ -16771,6 +16919,24 @@
     },
     {
       "album": {
+        "name": "Nightmare",
+        "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449720,
+      "name": "Victim",
+      "url": "https://open.spotify.com/track/4H2x38N2IZAkZZM69WD1SH"
+    },
+    {
+      "album": {
         "name": "LIVING THINGS",
         "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
       },
@@ -17014,6 +17180,24 @@
       "duration_ms": 228306,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2QOyGdO9iLCEtdEGGri0yR"
+    },
+    {
+      "album": {
+        "name": "Waking The Fallen: Resurrected",
+        "url": "https://open.spotify.com/album/23M9qOX1iPIlHKfm4l3oKU"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169654,
+      "name": "Waking The Fallen: Resurrected",
+      "url": "https://open.spotify.com/track/0cVlBklUQpJzFhIZSxw2J5"
     },
     {
       "album": {
@@ -17716,7 +17900,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 201731,
       "name": "With Love",
       "url": "https://open.spotify.com/track/71uqQ3hm1ilBnT8Z4NECkc"

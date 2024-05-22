@@ -4,7 +4,7 @@
 
 > manifesting another Watermelon Sugar soundtracked summer 📷 Emei
 
-2,057 songs - 4 day 7 hr 29 min
+2,058 songs - 4 day 7 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Confetti](https://open.spotify.com/track/73m3OYU7lG7irNbFjNipwF) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:03 | 2023-09-15 | 2023-12-09 |
 | [Confetti](https://open.spotify.com/track/0ELnNmc1vQFW3aPEzQ5zOg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Confetti](https://open.spotify.com/album/4IvDhxrStvfyvnUy876AQY) | 3:04 | 2023-04-14 | 2023-09-18 |
 | [Congratulations](https://open.spotify.com/track/1UqWYp2HnYr6UDkv9EJERF) | [DEZI](https://open.spotify.com/artist/3X9hlPTLBIZ9pEONCQnjTm) | [Congratulations](https://open.spotify.com/album/6eSLN8ssi7MTmuKajgn6K6) | 2:31 | 2022-07-15 | 2022-07-28 |
+| [congratulations](https://open.spotify.com/track/7pegeIRzsya5cj5VcXGV5l) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [congratulations](https://open.spotify.com/album/6y892XaOB7haGQ3NZUoEsN) | 3:05 | 2024-05-17 |  |
 | [Contact](https://open.spotify.com/track/2IQB5iBapo0Y37Yc0PtIZc) | [Lulleaux](https://open.spotify.com/artist/6bA8L82JXU9CQa2nyUnLDh), [Giang Pham](https://open.spotify.com/artist/6OxNVd9jJ2IbNrOjHdcpJZ) | [Contact](https://open.spotify.com/album/7qCZ7hu4uJKHGAbQvdBgVG) | 2:21 | 2019-05-26\* | 2019-06-15 |
 | [Control](https://open.spotify.com/track/7yS8NOPrjvSelAd9xuRwxm) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Control](https://open.spotify.com/album/799MtiaLaTx19lk7NQCPhK) | 3:06 | 2021-04-24 | 2021-11-20 |
 | [Cool Again](https://open.spotify.com/track/7tDqtZnEQcgAE92mEMtgnF) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Cool Again](https://open.spotify.com/album/0gWTwy5h4m4G851BIQKg37) | 3:11 | 2019-05-26\* | 2020-04-18 |
@@ -455,7 +456,7 @@
 | [Did It Hurt?](https://open.spotify.com/track/2hTeOCShIAHRpNCV6sHGOW) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Did It Hurt?](https://open.spotify.com/album/1PlfFsWQTIuu3t5THSHzDD) | 2:44 | 2022-12-09 | 2023-03-25 |
 | [Die For You \(feat\. Dominic Fike\)](https://open.spotify.com/track/7aely3H8kMj9o0gt6vXHE1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2021-04-26 | 2021-11-20 |
 | [die without u](https://open.spotify.com/track/0vco9GaTEbNP8fC2lafd4s) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [die without u](https://open.spotify.com/album/37RfLZM8Lk0k1kpuIOOGqq) | 2:49 | 2021-08-19 | 2021-10-16 |
-| [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 | 2023-04-07 |  |
+| [different but exactly like you](https://open.spotify.com/track/75ndnB6GNTTfsMiBHiLh7u) | [Riley Biederer](https://open.spotify.com/artist/31bkN7gszM3TNGZrpTa2tR) | [different but exactly like you](https://open.spotify.com/album/2rPPCfxOqFAM2nezbAjnlx) | 3:47 | 2023-04-07 | 2024-05-22 |
 | [Different Kind Of Beautiful](https://open.spotify.com/track/6mxsd0LQt2qk2rpLEqlCJw) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Different Kind Of Beautiful](https://open.spotify.com/album/6M7C0uHmNik7gss4M31k0t) | 3:21 | 2023-11-10 | 2024-01-05 |
 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 | 2024-03-22 |  |
 | [dirty dancing](https://open.spotify.com/track/1gdfNi8uXMJNWPvlFRPbUW) | [CODY JON](https://open.spotify.com/artist/5xYvg2nZQcavaPwYOcOYRD), [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [dirty dancing](https://open.spotify.com/album/5Ok7Du3YNww8fRqu8SSCe7) | 2:39 | 2022-07-18 | 2022-08-13 |

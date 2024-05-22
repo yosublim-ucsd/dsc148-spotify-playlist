@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Remi Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,076,741 likes - 120 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,076,724 likes - 120 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

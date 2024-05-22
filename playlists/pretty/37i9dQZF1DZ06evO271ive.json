@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 13335,
+  "num_followers": 13382,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABDGUElhgdbaeAnqS2n9sqA",
+  "snapshot_id": "ZkqSgAAAAADifEfHPdFUnmrFdYLWfTRs",
   "tracks": [
     {
       "added_at": null,
@@ -227,6 +227,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hood Hottest Princess (Deluxe)",
+        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Sukihana",
+          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
+        }
+      ],
+      "duration_ms": 175125,
+      "name": "Hood Rats (with Sukihana)",
+      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
         "url": "https://open.spotify.com/album/3v9a1PtWXE5NopNCeaw1sj"
       },
@@ -247,26 +267,6 @@
       "duration_ms": 217213,
       "name": "Peaches & Eggplants (feat. Latto & Sexyy Red)",
       "url": "https://open.spotify.com/track/1BmI4EYdfzbg8DlV6pHYrY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hood Hottest Princess (Deluxe)",
-        "url": "https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 175125,
-      "name": "Hood Rats (with Sukihana)",
-      "url": "https://open.spotify.com/track/7iSPXk5AFvZGhfOSQpisSQ"
     },
     {
       "added_at": null,
@@ -385,7 +385,7 @@
         }
       ],
       "duration_ms": 194047,
-      "name": "Pound Town 2 (feat. Nicki Minaj & Tay Keith)",
+      "name": "Pound Town 2",
       "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
     },
     {
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FYM",
+        "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 160175,
+      "name": "FYM",
+      "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
         "url": "https://open.spotify.com/album/4cHKYYHsdahV4qVTHlBq34"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 151272,
       "name": "Big Dawg (Moneybagg Yo, Sexyy Red)",
       "url": "https://open.spotify.com/track/6nmSkbapT1YnObUA8TyF8e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FYM",
-        "url": "https://open.spotify.com/album/4lHjS8UkaC9Kc1pL5KloqG"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 160175,
-      "name": "FYM",
-      "url": "https://open.spotify.com/track/05Z64r07QHoEetD74fmpcu"
     },
     {
       "added_at": null,
@@ -851,6 +851,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Twin",
+        "url": "https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 168071,
+      "name": "My Twin",
+      "url": "https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Panties (with Sexyy Red) [From Rap Sh!t S2: The Mixtape]",
         "url": "https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 125926,
       "name": "No Panties (with Sexyy Red) - From Rap Sh!t S2: The Mixtape",
       "url": "https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Twin",
-        "url": "https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 168071,
-      "name": "My Twin",
-      "url": "https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl"
     },
     {
       "added_at": null,
@@ -967,22 +967,6 @@
       "duration_ms": 197880,
       "name": "Sexyy",
       "url": "https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ghetto Superstar",
-        "url": "https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 157492,
-      "name": "Ghetto Freestyle",
-      "url": "https://open.spotify.com/track/14cDqt0n4v50DerFfFpBXD"
     }
   ],
   "unique_name": "This Is Sexyy Red",

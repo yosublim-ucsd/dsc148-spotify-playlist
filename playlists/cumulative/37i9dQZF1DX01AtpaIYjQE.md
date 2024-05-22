@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-167 songs - 11 hr 53 min
+168 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [スパイシーワールド](https://open.spotify.com/track/3YLlqqZHMJqVqNIv69MwZV) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [赤い罠\(who loves it?\) / ADAMAS](https://open.spotify.com/album/50elnoiGrA2BmbEZkoMlde) | 4:27 | 2022-05-31 | 2022-07-29 |
 | [ノンノン](https://open.spotify.com/track/5798eKtdpVJudo6BOCWnfD) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LADYBUG](https://open.spotify.com/album/1X7vvwD3illZKuq4lhZJqB) | 3:37 | 2022-05-31 | 2023-06-14 |
 | [ハウル \- LEO\-NiNE ver.](https://open.spotify.com/track/6hIoBUG5amkusKDaJAmoVO) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:53 | 2022-05-31 | 2023-06-14 |
+| [ハルシネイト](https://open.spotify.com/track/5CKCkKyjtxI3wpDyEMLxbA) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [ハルシネイト](https://open.spotify.com/album/29VQzxOjTwNEeIBlQVumMs) | 3:25 | 2024-05-21 |  |
 | [ハローグッデイ](https://open.spotify.com/track/2HeoW34oznLWvuH3q43alB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/6qkTX2PnlQkbKnnSWmROls) | 5:14 | 2022-05-31 | 2023-06-14 |
 | [ハローグッデイ](https://open.spotify.com/track/7xG1Ld4Z9IeWpRHQGjYUvg) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LiSA BEST \-Way\-](https://open.spotify.com/album/62bCLGSLy7BJ41XO2jLPee) | 5:14 | 2022-05-31 | 2022-07-29 |
 | [マコトシヤカ](https://open.spotify.com/track/2Tkn0WEYxylHggkNXg6iud) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:58 | 2022-05-31 | 2023-06-14 |

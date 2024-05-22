@@ -1,6 +1,6 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 489935,
+  "num_followers": 489902,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
@@ -595,30 +595,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Ghost Town",
-        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Joris Sava",
-          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
-        },
-        {
-          "name": "July",
-          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "Mercy (feat. Jacob Lusk)",
         "url": "https://open.spotify.com/album/0fUKZB6bCIkamKICaWy2t2"
       },
@@ -639,6 +615,30 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/29xmDbpP6xSw3Bs1d6YPHa"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Joris Sava",
+          "url": "https://open.spotify.com/artist/7M7NxBEoOEg35yqUyLRTgT"
+        },
+        {
+          "name": "July",
+          "url": "https://open.spotify.com/artist/2lQUT7KTSpuj9z8PdtMdtz"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6h6HgJ66laDl6bY8W59Jdn"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -811,6 +811,30 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
+        "name": "Phone",
+        "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "Sam Tompkins",
+          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Phone",
+      "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
       },
@@ -847,30 +871,6 @@
       "duration_ms": 170253,
       "name": "Lifeline (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
-        "name": "Phone",
-        "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Sam Tompkins",
-          "url": "https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ"
-        },
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Phone",
-      "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1187,26 +1187,22 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "All You Need Is Love",
-        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
+        "name": "Sunset Wave",
+        "url": "https://open.spotify.com/album/6g6IczQEJIyuG8QVKLEg6k"
       },
       "artists": [
         {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
         },
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Nico Santos",
-          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
+          "name": "Michael Shynes",
+          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
         }
       ],
-      "duration_ms": 139927,
-      "name": "All You Need Is Love",
-      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
+      "duration_ms": 172000,
+      "name": "Sunset Wave",
+      "url": "https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1231,22 +1227,26 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Sunset Wave",
-        "url": "https://open.spotify.com/album/6g6IczQEJIyuG8QVKLEg6k"
+        "name": "All You Need Is Love",
+        "url": "https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe"
       },
       "artists": [
         {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Michael Shynes",
-          "url": "https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3"
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Nico Santos",
+          "url": "https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Sunset Wave",
-      "url": "https://open.spotify.com/track/3kD8Ed75AXHuzNmny7BUiO"
+      "duration_ms": 139927,
+      "name": "All You Need Is Love",
+      "url": "https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE"
     },
     {
       "added_at": "2024-04-30 09:24:58",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-04-30 09:24:58",
       "album": {
-        "name": "Mess It Up (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 215370,
-      "name": "Mess It Up - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
-    },
-    {
-      "added_at": "2024-04-30 09:24:58",
-      "album": {
         "name": "Through the Fire",
         "url": "https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 149374,
       "name": "Through the Fire",
       "url": "https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL"
+    },
+    {
+      "added_at": "2024-04-30 09:24:58",
+      "album": {
+        "name": "Mess It Up (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/0L6IypGWr61krz90boqPDD"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 215370,
+      "name": "Mess It Up - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7wkTF8cHGCurrfNATqvJLc"
     },
     {
       "added_at": "2024-04-30 09:24:58",

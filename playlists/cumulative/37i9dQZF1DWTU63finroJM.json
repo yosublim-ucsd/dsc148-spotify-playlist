@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 127594,
       "name": "21 de septiembre",
       "url": "https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz"
@@ -13441,6 +13441,28 @@
     },
     {
       "album": {
+        "name": "May flowers",
+        "url": "https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192212,
+      "name": "May flowers",
+      "url": "https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m"
+    },
+    {
+      "album": {
         "name": "Me Arrepent\u00ed",
         "url": "https://open.spotify.com/album/3kJfAuZ4uXc4WtccFWExg2"
       },
@@ -15022,6 +15044,24 @@
       "duration_ms": 147310,
       "name": "NERVEs",
       "url": "https://open.spotify.com/track/0UfibtjJfsjOYpOIm5XcFW"
+    },
+    {
+      "album": {
+        "name": "Never Far From Paradise",
+        "url": "https://open.spotify.com/album/1jyjlTXKLKlZ2WGAbmqQGG"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187653,
+      "name": "Never Far From Paradise",
+      "url": "https://open.spotify.com/track/5yJDj9ppmBA3FANgQMA24D"
     },
     {
       "album": {
@@ -18706,7 +18746,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 222480,
       "name": "Salsa y Clase",
       "url": "https://open.spotify.com/track/5LZ2TYePl9ZwKSQpgJ2W7e"

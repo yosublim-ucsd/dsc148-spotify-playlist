@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80308,
+  "num_followers": 80332,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -103,6 +103,26 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
+        "name": "Baile da Serra Speed",
+        "url": "https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "LIT UP",
+          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
+        }
+      ],
+      "duration_ms": 170964,
+      "name": "Baile da Serra Speed",
+      "url": "https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
         "name": "Imprevisto \u2013 Speed",
         "url": "https://open.spotify.com/album/7iU3KlCks9lXfrbTUu36ot"
       },
@@ -123,26 +143,6 @@
       "duration_ms": 118666,
       "name": "Imprevisto \u2013 Speed",
       "url": "https://open.spotify.com/track/2mgnSTCwWvi61c12eYVGdy"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
-        "name": "Baile da Serra Speed",
-        "url": "https://open.spotify.com/album/0ufzRGXXtSZZM8HhsXHcRs"
-      },
-      "artists": [
-        {
-          "name": "Bra\u00e3o",
-          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
-        },
-        {
-          "name": "LIT UP",
-          "url": "https://open.spotify.com/artist/048eLqPGxqWk7PblwFmXgE"
-        }
-      ],
-      "duration_ms": 170964,
-      "name": "Baile da Serra Speed",
-      "url": "https://open.spotify.com/track/0B1HaiQaUUeFgqbC2ayvTG"
     },
     {
       "added_at": "2023-12-27 14:18:14",

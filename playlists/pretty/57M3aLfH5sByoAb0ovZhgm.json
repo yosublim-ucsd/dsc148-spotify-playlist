@@ -6,7 +6,7 @@
     "name": "Smit Mehta",
     "url": "https://open.spotify.com/user/2ot8an8oisha0eialjk34kqjz"
   },
-  "snapshot_id": "AAAAnWcRoRvfoh9m2KvfHrpywUFBGNnj",
+  "snapshot_id": "AAAAn8JO9Sl5Ky/UcOjmTpxOKw7T4bYE",
   "tracks": [
     {
       "added_at": "2023-06-10 13:20:10",
@@ -2327,6 +2327,46 @@
       "duration_ms": 238253,
       "name": "Throw Your Arms Around Me",
       "url": "https://open.spotify.com/track/5WdStzLlaFAnJoYREQw3n9"
+    },
+    {
+      "added_at": "2024-05-21 04:04:56",
+      "album": {
+        "name": "Miss You (with Major Lazer & Tory Lanez)",
+        "url": "https://open.spotify.com/album/5Q44tz5m4c6y4pG7VPjfj6"
+      },
+      "artists": [
+        {
+          "name": "Cashmere Cat",
+          "url": "https://open.spotify.com/artist/2LZDXcxJWgsJfKXZv9a5eG"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        }
+      ],
+      "duration_ms": 186231,
+      "name": "Miss You (with Major Lazer & Tory Lanez)",
+      "url": "https://open.spotify.com/track/7HdZY9UJTylIiNcSDFyUDc"
+    },
+    {
+      "added_at": "2024-05-21 09:19:49",
+      "album": {
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/0pMkbror5DyuBSl5yeUYTn"
+      },
+      "artists": [
+        {
+          "name": "Cannons",
+          "url": "https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B"
+        }
+      ],
+      "duration_ms": 231825,
+      "name": "Fire for You",
+      "url": "https://open.spotify.com/track/4o0LyB69tylqDG6eTGhmig"
     }
   ],
   "unique_name": "Aish",

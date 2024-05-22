@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-274 songs - 22 hr 38 min
+275 songs - 22 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Disregarding Time](https://open.spotify.com/track/6z5Wi1WMciQrg9v9J1Wz9X) | [Innesti](https://open.spotify.com/artist/6vjQzIlQxwDP0miO2oGoXE) | [Folding, A Study](https://open.spotify.com/album/6wiGtb9WnjxZWTe2XFq3Bk) | 5:07 | 2022-12-30 |  |
 | [Distant Sun](https://open.spotify.com/track/2dKFafH1SkummNxPHVNRSC) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Distant Sun](https://open.spotify.com/album/5iQpyU13TrYymWLXCYZS8L) | 2:46 | 2023-09-01 | 2023-09-11 |
 | [Drips](https://open.spotify.com/track/5VvdocXHkdmMDaid6ehtgJ) | [Ah! Kosmos](https://open.spotify.com/artist/1PtegeWYDiBNTVmbINxtgD), [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Drips](https://open.spotify.com/album/3QgCCsEkvRIfP7ZDx43mfU) | 2:15 | 2023-10-06 | 2023-10-29 |
+| [Dwfn](https://open.spotify.com/track/1uMM2tn0kfRutm6vVtGrXN) | [Carwyn](https://open.spotify.com/artist/07xmi3luGn1Zgl4LbQs9i3) | [Dwfn](https://open.spotify.com/album/4JiYuczkOvLDeTbkWQmFZ1) | 2:25 | 2023-12-01 |  |
 | [En Bas Tu Vois](https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [En Bas Tu Vois](https://open.spotify.com/album/0DFXWb2ufqNIGnm6LnjFMm) | 12:47 | 2022-07-08 | 2023-02-01 |
 | [Ending Theme](https://open.spotify.com/track/3xkWegiABp4TsIMpT41Qhg) | [nthng](https://open.spotify.com/artist/1V0EQCS8125xaDrR4ZURGO) | [Unfinished](https://open.spotify.com/album/092PUhslAi3ldIwtlPiQ98) | 3:43 | 2022-01-21 |  |
 | [Enerhodar](https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo) | [Natalia Tsupryk](https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX), [Angus MacRae](https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX) | [II](https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI) | 4:27 | 2022-05-06 |  |
@@ -75,7 +76,7 @@
 | [Fen](https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx) | [Wacław Zimpel](https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz) | [Fen](https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk) | 4:55 | 2022-01-21 |  |
 | [Floating Through Time and Space](https://open.spotify.com/track/28nJQ9XzkcAirC5edOewp5) | [The Last Days of Our Past](https://open.spotify.com/artist/2jRNvVCA7vd9patmMZQTlX) | [Digressions](https://open.spotify.com/album/5dzNjLlC4M35rakoVQr6SU) | 2:55 | 2023-12-01 |  |
 | [Floor Position](https://open.spotify.com/track/0vYvVrMjN1gzzAxqobT6i1) | [Perila](https://open.spotify.com/artist/5tWRKxz6TY4YfkdrMPGPPi) | [Everything is Already There](https://open.spotify.com/album/1he2AlYOWu58VJxZQPzdJK) | 2:56 | 2022-01-21 |  |
-| [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 |  |
+| [Frozen Plains](https://open.spotify.com/track/3czI9Tjuim4boa9KwizjvQ) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [Baba Gnohm](https://open.spotify.com/artist/2emlnsOgKrMMwXqpgpBMLF) | [Frozen Plains](https://open.spotify.com/album/6NP6uRqDzvNfSmJZi4uqx7) | 5:38 | 2023-01-27 | 2024-05-22 |
 | [Full Av Tomhet](https://open.spotify.com/track/0tOAVxzcetDy2wzrJ0Hmk8) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Bansull](https://open.spotify.com/album/1HhptIM5EglrNcLOtaZXRj) | 3:24 | 2023-03-10 |  |
 | [Fundament \(Part 1\)](https://open.spotify.com/track/0NWuVsxbGEwS4qCiicGxBs) | [Slim Vic](https://open.spotify.com/artist/2RQNyybaIaaskTzRz3fVDZ), [Plasmafuse](https://open.spotify.com/artist/6iYdmg7rSNUKQabi5wzRtN) | [Mörkrets Narr](https://open.spotify.com/album/2VqFfX6U0xOW0Ad58xyfV9) | 7:40 | 2022-01-21 |  |
 | [Future Memory](https://open.spotify.com/track/5kiPu9EFwEhzzClpoEtRfQ) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Only Love From Now On](https://open.spotify.com/album/51gBdOcPhuUMKlSTO5CySL) | 5:02 | 2022-03-25 | 2023-03-06 |

@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "Talker",
+        "url": "https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE"
+      },
+      "artists": [
+        {
+          "name": "Wilderado",
+          "url": "https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182095,
+      "name": "Talker",
+      "url": "https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O"
+    },
+    {
+      "album": {
         "name": "Tell Me How",
         "url": "https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m"
       },

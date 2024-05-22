@@ -1,12 +1,12 @@
 {
   "description": "This is Christina Aguilera. The essential tracks, all in one playlist.",
-  "num_followers": 260930,
+  "num_followers": 260986,
   "original_name": "This Is Christina Aguilera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAACmBz1P8xe/ueMkpiQjCMGm",
+  "snapshot_id": "ZkqSgAAAAACTrL9p+qgnI7+3dcL1df0n",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+        "name": "Lady Marmalade",
+        "url": "https://open.spotify.com/album/5rlAvknHpWuF6m4VMS3vnJ"
       },
       "artists": [
         {
           "name": "Christina Aguilera",
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        },
+        {
+          "name": "Lil' Kim",
+          "url": "https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX"
+        },
+        {
+          "name": "M\u00fda",
+          "url": "https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF"
+        },
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+      "duration_ms": 267960,
+      "name": "Lady Marmalade - Single Edit",
+      "url": "https://open.spotify.com/track/0PSZ9G584Ve27GK6ThlY6P"
     },
     {
       "added_at": null,
@@ -263,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -272,9 +300,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 194213,
-      "name": "Candyman",
-      "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
+      "duration_ms": 243373,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
     },
     {
       "added_at": null,
@@ -291,22 +319,6 @@
       "duration_ms": 190240,
       "name": "Ven Conmigo (Solamente T\u00fa)",
       "url": "https://open.spotify.com/track/2PYJnUWEPPP8C6b79UiwIl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 273706,
-      "name": "I Turn to You",
-      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "added_at": null,
@@ -331,8 +343,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
@@ -340,9 +352,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 243373,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/6gDXbcILAyBa2skSdbUYq7"
+      "duration_ms": 273706,
+      "name": "I Turn to You",
+      "url": "https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus"
     },
     {
       "added_at": null,
@@ -367,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+        "name": "Back To Basics",
+        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
       "artists": [
         {
@@ -376,9 +388,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 215800,
-      "name": "What a Girl Wants",
-      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
+      "duration_ms": 228906,
+      "name": "Ain't No Other Man",
+      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
     },
     {
       "added_at": null,
@@ -403,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back To Basics",
-        "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
       },
       "artists": [
         {
@@ -412,9 +424,9 @@
           "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 228906,
-      "name": "Ain't No Other Man",
-      "url": "https://open.spotify.com/track/7huo2wvrCgRucUsjdSDLQV"
+      "duration_ms": 215800,
+      "name": "What a Girl Wants",
+      "url": "https://open.spotify.com/track/5bGmuxShUba9maPswDnhCs"
     },
     {
       "added_at": null,
@@ -915,22 +927,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
-        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 163280,
-      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
-      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AGUILERA",
         "url": "https://open.spotify.com/album/1yzGdDRVUtPRGWATYs7J35"
       },
@@ -947,6 +943,22 @@
       "duration_ms": 173922,
       "name": "Su\u00e9ltame",
       "url": "https://open.spotify.com/track/11dM832bBziKUZvI3tCfW5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mejor Guerrero (De \"Mul\u00e1n\")",
+        "url": "https://open.spotify.com/album/4HyRb7YrqhfdFrxVzxjG7F"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "El Mejor Guerrero - De \"Mul\u00e1n\"",
+      "url": "https://open.spotify.com/track/3HPX9a7oh0dvdokOUp85cL"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAFgmYBmOiv.md) - [plain]
 
 > pov: you're going on a cross\-country roadtrip with your three childhood best friends\. Cover: Britney Spears in Crossroads
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,563 likes - 20 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,584 likes - 20 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

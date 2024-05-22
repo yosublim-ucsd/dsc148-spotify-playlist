@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,574 likes - 70 songs - 9 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,630 likes - 70 songs - 9 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 69 | [Done so Much](https://open.spotify.com/track/0oktbWzrkxJyjtucARGMdN) | [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1), [Oyel Planet](https://open.spotify.com/artist/2jFCEamp1CqHmt9u9Bsry6), [Cyzn](https://open.spotify.com/artist/0dA0oeFfSMIZc43fl7g5tc) | [Done so Much](https://open.spotify.com/album/5eehtoGboiXAaJEHZgbtN4) | 8:43 |
 | 70 | [Cornerstone Live \- Live](https://open.spotify.com/track/56LotXpD5t2JTrdWyuz7j1) | [Aremmic](https://open.spotify.com/artist/7BT40oP5mx0gTwoR8KmbCN) | [Cornerstone Live](https://open.spotify.com/album/76ZIA5faEpQeoWcN9K9obr) | 8:08 |
 
-Snapshot ID: `ZkaePAAAAAD1XKxWGFhk7uNxNDIVujRr`
+Snapshot ID: `Zk01vAAAAADWjXL+1BZX2NToaeSw8n1R`

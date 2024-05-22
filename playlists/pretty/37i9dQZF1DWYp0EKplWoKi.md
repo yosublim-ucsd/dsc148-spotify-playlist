@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde las estrellas de la Música Mexicana se juntan\. La Cuadrilla Oficial, Fracción EME en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,947 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,961 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,088 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,456 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Selamanya](https://open.spotify.com/track/4nP7xWXJh7qzszFlUDpVPx) | [Satine Zaneta](https://open.spotify.com/artist/6knRMh5dYEPnItzvpOJk2j) | [Selamanya](https://open.spotify.com/album/4HBb3TgaurAxPuxwcSd49c) | 3:55 |
 | 29 | [Pretty girl swag](https://open.spotify.com/track/4r7sb62uw7njf1L0lLnaq7) | [María Escarmiento](https://open.spotify.com/artist/7sRtI3bMrrgSFkNs2jFHrl) | [Pretty girl swag](https://open.spotify.com/album/7pKCsf7DoHW7UaN5QcX9Zo) | 2:42 |
 | 30 | [最美的光芒](https://open.spotify.com/track/4vE41pPfsf0KhYiHZdu6Ll) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [最美的光芒](https://open.spotify.com/album/4k0lXnxGcxbqLKedTJFz9i) | 3:14 |
-| 31 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
-| 32 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
+| 31 | [Whiskey](https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Whiskey](https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8) | 5:07 |
+| 32 | [Illeg\*lis party](https://open.spotify.com/track/45D2eYiMaCKXGBIaDdepqV) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE), [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [ILLEG\*LIS PARTYK](https://open.spotify.com/album/6uyJvmYnCoZ64sGKTAxD8B) | 2:38 |
 | 33 | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/track/0J7jhgo9b25MiltPJ4xdhy) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB), [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Lembras\-te de mim? \(feat\. Carolina de Deus\)](https://open.spotify.com/album/2WZOiUyx2FeSnmzdXWFhPs) | 3:14 |
 | 34 | [別再留下](https://open.spotify.com/track/6gf4b3P4vkIdPS6fIywImQ) | [Ella Chen](https://open.spotify.com/artist/1DNci4XjJlglg629j3yO5n) | [BAD HABITS](https://open.spotify.com/album/4Ch2nOdim0blFYGm9H8ahM) | 4:18 |
 | 35 | [I Wanna Go](https://open.spotify.com/track/4mh0uJSKznwt17Gj0A8BsJ) | [Armi Millare](https://open.spotify.com/artist/7bT6URJrhJleZUfkrysELD) | [I Wanna Go](https://open.spotify.com/album/0pefjgnSlK39AtVcDo9Xzd) | 3:10 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/track/7lTWTesY1sXVIYjJaCoyIy) | [Thu Phương](https://open.spotify.com/artist/3LsIDqxwDjcEKbK3D1IrDk), [Huyền Baby](https://open.spotify.com/artist/5bMwwJZX9bBFAMTbqIHig7), [Trang Pháp](https://open.spotify.com/artist/3Ovt66opVihLuIvPhlceI6), [Ninh Dương Lan Ngọc](https://open.spotify.com/artist/1XO2u0sx6W0yNLUYZmPPmq), [Diệu Nhi](https://open.spotify.com/artist/2mpSmbp35mvG7ig3cg1jEj) | [Mashup: Hoa Nở Không Màu & Bông Hoa Đẹp Nhất](https://open.spotify.com/album/7pAK1iJrMvvPfZmjGRjddp) | 4:45 |
 | 43 | [Por Amor](https://open.spotify.com/track/6rwu6PTeXa9zyGzYameOWf) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Mensagens de Amor](https://open.spotify.com/album/3dlWnKQ8MozKGiptJsMlII) | 3:54 |
 | 44 | [HYPNOTIC](https://open.spotify.com/track/2OtTD3gAHMkPKZK9BHZQ7p) | [REHMA](https://open.spotify.com/artist/528kmCx2HGqrT4G9sXCDuD) | [HYPNOTIC](https://open.spotify.com/album/2WkMvvfTTUXIKaBN5YqkpT) | 2:14 |
-| 45 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
-| 46 | [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 |
-| 47 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
+| 45 | [Daydream](https://open.spotify.com/track/0ltdxjSWkeE4cmU2kRxzi1) | [Valeria Stoica](https://open.spotify.com/artist/1U0dn9EFyhTfKS4xvFrUSR) | [Daydream](https://open.spotify.com/album/572P9V0PZpvCp9FOM4wK6T) | 2:39 |
+| 46 | [Sunflower](https://open.spotify.com/track/2MKUKzxL3U4bZ12QYhRS4i) | [Tamara Kramar](https://open.spotify.com/artist/5oUUInn3oIsijfbnrmlYhT) | [Sunflower](https://open.spotify.com/album/03g79cWftoGqwO48vn9wOn) | 3:23 |
+| 47 | [Moushtaqa](https://open.spotify.com/track/4FpyysKYlKXHrG65ZmaK39) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Moushtaqa](https://open.spotify.com/album/3GZ6qeNYqCh7mLEUbDxz9f) | 4:23 |
 | 48 | [It's A No From Me](https://open.spotify.com/track/6xRevLNVt6fBDEueLFQAM4) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT), [chi](https://open.spotify.com/artist/0ObIepMcBwVZRtJUniGKiW) | [It's A No From Me](https://open.spotify.com/album/0H0ZGtrZT81cG5x0lMf9sw) | 2:07 |
 | 49 | [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 |
 | 50 | [You're the Best Thing Yet](https://open.spotify.com/track/3KFGJtXiobcnd5e2LjRFpy) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [90s Love Songs](https://open.spotify.com/album/64ZzUU5hSd6wHSdLuvjKQ6) | 5:35 |
 
-Snapshot ID: `ZktPhgAAAABr9svjxjJtaX+1HwsnRdzs`
+Snapshot ID: `ZkxusQAAAAD1ZaAwB9S0wKCeAjSt9p7J`

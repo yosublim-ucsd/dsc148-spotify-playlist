@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Gila(\uae38\ub77c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: SUHO(\uc218\ud638)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -2537,6 +2537,28 @@
     },
     {
       "album": {
+        "name": "don't leave me (The Last 10 Years X TOIL, Gist)",
+        "url": "https://open.spotify.com/album/7C76NLb32tjJMRdZBzrALg"
+      },
+      "artists": [
+        {
+          "name": "TOIL",
+          "url": "https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S"
+        },
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183093,
+      "name": "don't leave me",
+      "url": "https://open.spotify.com/track/5Fb64pKATb2BrH4yMPHkW3"
+    },
+    {
+      "album": {
         "name": "Don't Say No",
         "url": "https://open.spotify.com/album/1vm6PTRu1D8zhWh3gSStGw"
       },
@@ -3440,7 +3462,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 240000,
       "name": "Glad you liked it",
       "url": "https://open.spotify.com/track/7ILyMlB2UVceqKAqfko1zo"

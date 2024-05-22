@@ -1,6 +1,6 @@
 {
   "description": "brutal breakdowns and riffs to amp you up.",
-  "num_followers": 366218,
+  "num_followers": 366585,
   "original_name": "Energy Booster: Metal",
   "owner": {
     "name": "Spotify",
@@ -407,6 +407,22 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
+        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 246733,
+      "name": "Symphony Of Destruction",
+      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
+    },
+    {
+      "added_at": "2024-05-08 19:56:45",
+      "album": {
         "name": "Suffocate (feat. Poppy)",
         "url": "https://open.spotify.com/album/2Ow8BhxOQJDErR0ei0RYHo"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/1f9GowTtuwSkdJfKBk3VeU"
-    },
-    {
-      "added_at": "2024-05-08 19:56:45",
-      "album": {
-        "name": "Countdown To Extinction (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 246733,
-      "name": "Symphony Of Destruction",
-      "url": "https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ"
     },
     {
       "added_at": "2024-05-08 19:56:45",
@@ -567,18 +567,18 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
-        "name": "Seeing Red",
-        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
       },
       "artists": [
         {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
         }
       ],
-      "duration_ms": 219575,
-      "name": "Seeing Red",
-      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2024-05-08 19:56:45",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+        "name": "Seeing Red",
+        "url": "https://open.spotify.com/album/5BQFBKccFAr4RcHLXZrPXe"
       },
       "artists": [
         {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
+      "duration_ms": 219575,
+      "name": "Seeing Red",
+      "url": "https://open.spotify.com/track/5EauhH7IW4eDo0SPnP6rIY"
     },
     {
       "added_at": "2024-05-08 19:56:45",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
+        "name": "Take Me Back To Eden",
+        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
+      },
+      "artists": [
+        {
+          "name": "Sleep Token",
+          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
+        }
+      ],
+      "duration_ms": 339606,
+      "name": "Vore",
+      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
+    },
+    {
+      "added_at": "2024-05-08 19:56:45",
+      "album": {
         "name": "Got Your Six",
         "url": "https://open.spotify.com/album/4KXYNMizBHgXUFM1UOUhoJ"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 146176,
       "name": "Self-Destruction",
       "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
-    },
-    {
-      "added_at": "2024-05-08 19:56:45",
-      "album": {
-        "name": "Take Me Back To Eden",
-        "url": "https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY"
-      },
-      "artists": [
-        {
-          "name": "Sleep Token",
-          "url": "https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6"
-        }
-      ],
-      "duration_ms": 339606,
-      "name": "Vore",
-      "url": "https://open.spotify.com/track/5vJIVr0ZYo8DFbfSOY4Goa"
     },
     {
       "added_at": "2024-05-08 19:56:45",
@@ -1355,26 +1355,18 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
-        "name": "AFRAID TO DIE",
-        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
+        "name": "Searching for Solace",
+        "url": "https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8"
       },
       "artists": [
         {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        },
-        {
-          "name": "Tatiana Shmayluk",
-          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
-        },
-        {
-          "name": "Jinjer",
-          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
         }
       ],
-      "duration_ms": 184215,
-      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
-      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
+      "duration_ms": 214710,
+      "name": "Wash It Away",
+      "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"
     },
     {
       "added_at": "2024-05-08 19:56:45",
@@ -1411,18 +1403,26 @@
     {
       "added_at": "2024-05-08 19:56:45",
       "album": {
-        "name": "Searching for Solace",
-        "url": "https://open.spotify.com/album/7BG35dblZK6ZijbcDjIRj8"
+        "name": "AFRAID TO DIE",
+        "url": "https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T"
       },
       "artists": [
         {
-          "name": "The Ghost Inside",
-          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        },
+        {
+          "name": "Tatiana Shmayluk",
+          "url": "https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa"
+        },
+        {
+          "name": "Jinjer",
+          "url": "https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf"
         }
       ],
-      "duration_ms": 214710,
-      "name": "Wash It Away",
-      "url": "https://open.spotify.com/track/0sTCKil0qqD6PDco3M6iyn"
+      "duration_ms": 184215,
+      "name": "AFRAID TO DIE (feat. Tatiana Shmayluk from Jinjer)",
+      "url": "https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26"
     },
     {
       "added_at": "2024-05-08 19:56:45",

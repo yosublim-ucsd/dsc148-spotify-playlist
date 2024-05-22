@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,664 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,669 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 90 | [For the Beauty of the Earth](https://open.spotify.com/track/5G7QaeDEy7kFPac5Hr5INn) | [A New Liturgy](https://open.spotify.com/artist/5WeVXS5COv8kOfCkfe5YMW) | [No 4: Creation](https://open.spotify.com/album/1xBXUvPWnFj7NaKNNweqEz) | 5:26 |
 | 91 | [Want](https://open.spotify.com/track/4OYE671tr7tLa3vUG21pop) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Just This](https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc) | 2:07 |
 | 92 | [My Hope Is in the Lord](https://open.spotify.com/track/5aWMousRRsFOROMVikDtpx) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Changed](https://open.spotify.com/album/1GGV9IZO83uLgRE0VYx0dx) | 3:21 |
-| 93 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
-| 94 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
+| 93 | [Doxology](https://open.spotify.com/track/475fggJIgGaM2dgjZrsPnL) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Where His Light Was](https://open.spotify.com/album/1jamkW0fDJFlcF1wyAejsW) | 0:42 |
+| 94 | [Softly And Tenderly](https://open.spotify.com/track/3RVSPxPCT29wt3NgJgAQNn) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Softly And Tenderly](https://open.spotify.com/album/0Mi5UCbI2mPA4Ws6Ql60Wj) | 5:29 |
 | 95 | [There May Be Tears](https://open.spotify.com/track/1oe3sWhApeuqleeD16rtgi) | [Scott Cunningham Band](https://open.spotify.com/artist/440q5WuNyKO9LHgZACm6bf) | [Come Away](https://open.spotify.com/album/1geY7Bt8b8q1HOn8EOpFIk) | 4:29 |
 | 96 | [God I Look to You](https://open.spotify.com/track/6sDKhTbn1Hd3niDhvrhfe9) | [John Ward](https://open.spotify.com/artist/60vLjtgcrQRJuLfEvM2v2j) | [God I Look to You](https://open.spotify.com/album/1t2UalMvs6V2pkCIuXDFfT) | 4:38 |
 | 97 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 |

@@ -2,7 +2,7 @@
 
 ### [This Is U2](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2X1bTq)
 
-> This Is U2\. Los temas esenciales, todos en una lista.
+> This is U2\. The essential tracks, all in one playlist.
 
 76 songs - 5 hr 34 min
 
@@ -14,7 +14,7 @@
 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 | 2022-10-24 |  |
 | [Bad \- Remastered 2009](https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 6:08 | 2023-02-03 | 2023-02-26 |
 | [Bad \- Songs Of Surrender](https://open.spotify.com/track/2Xnbnmo8pIBbfkcgEBVydz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 5:31 | 2023-03-24 | 2023-05-15 |
-| [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 | 2022-10-24 |  |
+| [Beautiful Day](https://open.spotify.com/track/0gzqZ9d1jIKo9psEIthwXe) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:08 | 2022-10-24 | 2024-05-22 |
 | [Bullet The Blue Sky \- Remastered 2007](https://open.spotify.com/track/1C6Tmo58WMtnAPdxYz9qCz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 4:31 | 2022-12-27 | 2023-02-23 |
 | [City Of Blinding Lights](https://open.spotify.com/track/2R3wzFFjNYc1z3PSoO8FNV) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:45 | 2022-10-24 |  |
 | [Desire](https://open.spotify.com/track/4D01oA1mGouaAT7fubvKRT) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 2:59 | 2022-10-24 |  |
@@ -38,7 +38,7 @@
 | [Invisible \- Songs Of Surrender](https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 4:23 | 2023-03-19 | 2024-05-17 |
 | [Iris \(Hold Me Close\)](https://open.spotify.com/track/7kbQE1Xbyf7kvcn4DVICiR) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Innocence](https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS) | 5:19 | 2022-12-12 | 2023-02-24 |
 | [Kite](https://open.spotify.com/track/4Wjaa3vx2BiLGF01AZMlHb) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7a5U0GPoAvT3gvEY66FRuN) | 4:24 | 2022-10-24 |  |
-| [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-08 | 2024-05-21 |
+| [Last Night On Earth \- Single Version / Remastered 2024](https://open.spotify.com/track/7Ctp5UnoabCQ9MLG6v8eKw) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Last Night On Earth](https://open.spotify.com/album/0JB2aNVc7mUlwwz5qdl9zM) | 4:15 | 2024-05-08 |  |
 | [Lemon](https://open.spotify.com/track/3GtaFJ4Zx7TEBU8yUXtdOx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 6:56 | 2022-10-24 |  |
 | [Lights Of Home](https://open.spotify.com/track/2pguQFntKxYZNGvXvZVWDp) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 4:16 | 2022-12-17 | 2023-03-06 |
 | [Magnificent](https://open.spotify.com/track/6u38x61qv7JBIJD4dqztmm) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [No Line On The Horizon](https://open.spotify.com/album/5yqMA7IvahYJc53ewRAMnP) | 5:24 | 2022-10-24 |  |

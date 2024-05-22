@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-138 songs - 8 hr 23 min
+139 songs - 8 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 | 2022-08-19 | 2024-04-19 |
 | [Nossa música](https://open.spotify.com/track/4hpcc2wq84pilUgDbIPkDN) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [Nossa música](https://open.spotify.com/album/7vdk9XKYqz9BL7mZlzIlfj) | 3:59 | 2022-08-19 |  |
 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 | 2022-08-19 |  |
-| [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
+| [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 | 2024-05-22 |
 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 | 2022-08-19 |  |
 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 | 2023-11-24 | 2024-04-09 |
 | [O Barquinho](https://open.spotify.com/track/1wfW4rHqRsodDpnH1fOD5R) | [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG), [Diogo Monzo](https://open.spotify.com/artist/5WQDCMkE5lMq5H0lkHKQmc), [Ricardo Bacelar](https://open.spotify.com/artist/0ydGW5O1ai60prNBXKWSbF) | [Nós e o Mar](https://open.spotify.com/album/2D17MtpiNuMjRABN5GpviU) | 3:53 | 2023-07-14 | 2023-12-13 |
@@ -123,6 +123,7 @@
 | [Se...](https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 4:51 | 2022-08-19 |  |
 | [Sede Pra Te Ver \- Acústica](https://open.spotify.com/track/0P1JJk72Sb8o9d18SltaUS) | [Breno Miranda](https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n) | [Sede Pra Te Ver \(Acústica\)](https://open.spotify.com/album/7BlOX3pSGZHdVI5YyU8ZMf) | 3:00 | 2022-08-19 | 2023-05-10 |
 | [SERENA](https://open.spotify.com/track/4ZxM1fRBKH1IdiKWPE6eZc) | [IVYSON](https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu) | [SERENA](https://open.spotify.com/album/73rAawCkZdweVXlMfHkB51) | 3:09 | 2024-04-01 |  |
+| [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 | 2024-05-10 |  |
 | [Sons de Amor](https://open.spotify.com/track/1m8qkyl5sHDEvZQslKOwJC) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH), [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Mariana Nolasco](https://open.spotify.com/album/6OjzwQGhOxJneIOaltnuSr) | 3:04 | 2023-10-20 | 2024-04-19 |
 | [Sozinho](https://open.spotify.com/track/72mUA93xzlV2ovVCK44EO8) | [Lucas e Orelha](https://open.spotify.com/artist/1hX5P2lkCP3LrzVRlJmQX8) | [Marcas](https://open.spotify.com/album/0w2m39XsqwjuNdhDRsdKDM) | 3:23 | 2022-08-19 |  |
 | [Sozinho \- Ao Vivo](https://open.spotify.com/track/7fdr8oEin4nTpTBuQsxvO9) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Bloco Do Silva \#2 \(Ao Vivo\)](https://open.spotify.com/album/7fejBJENVk4TlB6vPxRavK) | 3:55 | 2024-03-18 | 2024-03-22 |

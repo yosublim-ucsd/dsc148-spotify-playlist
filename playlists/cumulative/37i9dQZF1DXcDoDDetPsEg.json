@@ -11399,6 +11399,24 @@
     },
     {
       "album": {
+        "name": "Life of the Party",
+        "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
+      },
+      "artists": [
+        {
+          "name": "oSHAMO",
+          "url": "https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192477,
+      "name": "Life of the Party",
+      "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },

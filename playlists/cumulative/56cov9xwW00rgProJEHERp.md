@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-120 songs - 7 hr 0 min
+121 songs - 7 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Sun and Time](https://open.spotify.com/track/1f6je5fzqQuQMKCcbWHc35) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Sun and Time](https://open.spotify.com/album/6kgE5jbeuqMz6kq2Z2p5Zx) | 4:10 | 2024-01-12 | 2024-03-23 |
 | [Sweet Little Hummingbird](https://open.spotify.com/track/4EDToNaUfaBVNdxGmZbqKb) | [Chorus of Courage](https://open.spotify.com/artist/5ohObI7a6VenwZVe56uAjv), [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Sweet Little Hummingbird](https://open.spotify.com/album/4I8abFjsOo9WkfmeiyuYvY) | 4:18 | 2024-02-16 |  |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-04-01 | 2024-05-11 |
+| [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 | 2024-05-21 |  |
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2023-12-08 | 2024-02-24 |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2023-12-08 |  |
 | [The Banks of The Lough Erne](https://open.spotify.com/track/72NQqlScymhPQuPe3haRyd) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl), [Erin Rae](https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6) | [The Banks of The Lough Erne \(feat\. Erin Rae\)](https://open.spotify.com/album/4C5wWyXwZ6XthXF7GfjhUB) | 4:50 | 2024-04-12 | 2024-04-20 |

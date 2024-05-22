@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrVH01e3PIE.md) - [plain]
 
 > Blunted Vato en la casa del Trap Argentino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 627,948 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 627,933 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cocodrilo](https://open.spotify.com/track/2BLu3SyKiWmJixjMMcN1XH) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Tymo Benz](https://open.spotify.com/artist/4zlVZ5DUwGD6gQppoYq2hF), [Roxxe](https://open.spotify.com/artist/0YukSgBpJ8xU7ah3w1UWbC) | [Cocodrilo](https://open.spotify.com/album/5baAHQ72XXllJo3SnMEsRL) | 1:30 |
+| 1 | [COCODRILO](https://open.spotify.com/track/2BLu3SyKiWmJixjMMcN1XH) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Tymo Benz](https://open.spotify.com/artist/4zlVZ5DUwGD6gQppoYq2hF), [Roxxee](https://open.spotify.com/artist/7gnbAa5mL68nImWWYqHmDg) | [COCODRILO](https://open.spotify.com/album/5baAHQ72XXllJo3SnMEsRL) | 1:30 |
 | 2 | [Premium](https://open.spotify.com/track/3XB1ccS8WJXTG3QbDqiK8J) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Lea in the Mix](https://open.spotify.com/artist/1r9N4yRWfeyTu4VEWU1yoP) | [Premium](https://open.spotify.com/album/1jyyGmiWCqNtxMN7HhVQhD) | 2:17 |
 | 3 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 |
 | 4 | [EL DON](https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [Trapicheo: EL DON](https://open.spotify.com/album/16cVnNMAB6g0IyiOn2ViFv) | 3:38 |

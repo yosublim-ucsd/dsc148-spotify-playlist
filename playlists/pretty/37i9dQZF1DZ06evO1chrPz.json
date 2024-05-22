@@ -1,12 +1,12 @@
 {
-  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 197182,
+  "description": "This is Bethel Music \u0e41\u0e17\u0e23\u0e47\u0e01\u0e17\u0e35\u0e48\u0e44\u0e21\u0e48\u0e04\u0e27\u0e23\u0e1e\u0e25\u0e32\u0e14 \u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14\u0e43\u0e19\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e14\u0e35\u0e22\u0e27",
+  "num_followers": 197194,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADBw/09wqpkT2MiLeCUJQHu",
+  "snapshot_id": "ZkqSgAAAAACn+ZbpkqT4+5QNssiKC6nG",
   "tracks": [
     {
       "added_at": null,
@@ -907,18 +907,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "David Funk",
+          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
+        },
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 79706,
-      "name": "Isabelline (Interlude)",
-      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
+      "duration_ms": 479771,
+      "name": "Son Of Suffering - Live",
+      "url": "https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM"
     },
     {
       "added_at": null,
@@ -943,26 +951,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "David Funk",
-          "url": "https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc"
-        },
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
         }
       ],
-      "duration_ms": 479771,
-      "name": "Son Of Suffering - Live",
-      "url": "https://open.spotify.com/track/5DWuh0oKJfcpabhzAMbXOM"
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
     },
     {
       "added_at": null,

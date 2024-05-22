@@ -3889,6 +3889,32 @@
     },
     {
       "album": {
+        "name": "Aquarius",
+        "url": "https://open.spotify.com/album/69QyqdoPVph33uO2BTuCDk"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129350,
+      "name": "Aquarius",
+      "url": "https://open.spotify.com/track/5oumPtBURtSbi4njivMUUJ"
+    },
+    {
+      "album": {
         "name": "Aqvarium",
         "url": "https://open.spotify.com/album/22wOdocRS19zmobJ9Tdylj"
       },
@@ -48894,7 +48920,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 142853,
       "name": "Night Call",
       "url": "https://open.spotify.com/track/72J5zGOpsoCmnRmUw7Gi8D"

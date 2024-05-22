@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 20967,
+  "num_followers": 23353,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "\u00a1Date Prisa!",
+        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "STO CULTR",
+          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
+        }
+      ],
+      "duration_ms": 199687,
+      "name": "\u00a1Date Prisa!",
+      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
       },
@@ -1323,26 +1343,6 @@
       "duration_ms": 164307,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/1HU2VVHRKbcvHvqUMY5BqN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "\u00a1Date Prisa!",
-        "url": "https://open.spotify.com/album/7jR2mswx59U6MBSRZIAwIe"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "STO CULTR",
-          "url": "https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G"
-        }
-      ],
-      "duration_ms": 199687,
-      "name": "\u00a1Date Prisa!",
-      "url": "https://open.spotify.com/track/5Y2w2rya1gOzMjNojnn9f8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1457,26 +1457,6 @@
       "url": "https://open.spotify.com/track/2S4LxGDb2UwzGpoHp5sqwg"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Esta Pegao",
-        "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
-      },
-      "artists": [
-        {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "Esta Pegao",
-      "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Wataqui",
@@ -1495,6 +1475,26 @@
       "duration_ms": 154285,
       "name": "Wataqui",
       "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Esta Pegao",
+        "url": "https://open.spotify.com/album/22YbHPhVc8AZ6wwINoeqE1"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Esta Pegao",
+      "url": "https://open.spotify.com/track/4b3szx7jmxOaJ125VWXMqQ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dimini",
-        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "Twolate",
-          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
-        }
-      ],
-      "duration_ms": 142447,
-      "name": "Dimini",
-      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Adios",
         "url": "https://open.spotify.com/album/2Y5HkAKcA98j4dugmg2yms"
       },
@@ -1687,6 +1667,26 @@
       "duration_ms": 200823,
       "name": "Adios",
       "url": "https://open.spotify.com/track/0oWyR0YlcPGZ9zuEHc6EaI"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dimini",
+        "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "Twolate",
+          "url": "https://open.spotify.com/artist/1IRtNLR91uUQxQzh9veJhh"
+        }
+      ],
+      "duration_ms": 142447,
+      "name": "Dimini",
+      "url": "https://open.spotify.com/track/3UwlHoQ1pEHHds28BJ2bvb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Nicotina",
-        "url": "https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        },
-        {
-          "name": "Musicologo The Libro",
-          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
-        }
-      ],
-      "duration_ms": 188819,
-      "name": "Nicotina",
-      "url": "https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Tuku Tu",
         "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
       },
@@ -1883,6 +1863,42 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Nicotina",
+        "url": "https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        },
+        {
+          "name": "Musicologo The Libro",
+          "url": "https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q"
+        }
+      ],
+      "duration_ms": 188819,
+      "name": "Nicotina",
+      "url": "https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Pelota",
         "url": "https://open.spotify.com/album/5fIhFcKkwc1TGivrJD5vdU"
       },
@@ -1907,22 +1923,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "La Bulla",
         "url": "https://open.spotify.com/album/406Xu0Zh1jTzjzBPsJCYmo"
       },
@@ -1943,18 +1943,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Coquetilla",
-        "url": "https://open.spotify.com/album/2MBYYNf80Dxj92TPfDN4pc"
+        "name": "Te Marchar",
+        "url": "https://open.spotify.com/album/6F7DYs7EZRgEg3fUOuvVSN"
       },
       "artists": [
         {
-          "name": "Blue Man",
-          "url": "https://open.spotify.com/artist/5bVrQimnfCnZacitI0aejI"
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 129957,
-      "name": "Coquetilla",
-      "url": "https://open.spotify.com/track/6tuzoKtwLCF5d2LvpDPspn"
+      "duration_ms": 180005,
+      "name": "Te Marchar",
+      "url": "https://open.spotify.com/track/6INdWhk0oJqeVLZQiTwpIx"
     },
     {
       "added_at": "2024-04-19 04:00:00",

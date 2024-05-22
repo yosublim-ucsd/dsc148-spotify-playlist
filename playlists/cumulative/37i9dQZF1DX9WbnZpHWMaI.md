@@ -4,7 +4,7 @@
 
 > Celebrating women at the centre of innovation in electronic music\. Cover: Elkka
 
-314 songs - 20 hr 54 min
+315 songs - 20 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,7 +195,7 @@
 | [Milan](https://open.spotify.com/track/4mahGo3dO07PB93ukfc62D) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [SOS MUSIC VOL\. 1](https://open.spotify.com/album/5ffE081DdeFbqJFZ6F6MOY) | 3:30 | 2021-03-01 | 2022-07-29 |
 | [Milan](https://open.spotify.com/track/366wMj4PcQ3Ihye2Ljsf2C) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [Milan](https://open.spotify.com/album/6wVcEf60sMZqB5FRzfbwJV) | 3:30 | 2022-03-08 | 2023-03-08 |
 | [Milan](https://open.spotify.com/track/4BWhmMQ52fqNoL3kabIM3L) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U), [L U C Y](https://open.spotify.com/artist/0L18KxnMWgXorB5oVDRGzR) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 3:30 | 2022-03-08 | 2022-11-14 |
-| [Miss Dopamine](https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Miss Dopamine](https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6) | 3:46 | 2024-03-01 |  |
+| [Miss Dopamine](https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Miss Dopamine](https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6) | 3:46 | 2024-03-01 | 2024-05-22 |
 | [Monochrome](https://open.spotify.com/track/2kskTbid8dwX2CWRr0PHTI) | [Dea Magna](https://open.spotify.com/artist/2CV829PespIwQonuSPIClv) | [Monochrome](https://open.spotify.com/album/5hgyxNLlJI41T8ZRiMxmSB) | 3:32 | 2024-05-03 |  |
 | [Movementt](https://open.spotify.com/track/1zYA5cNkQnFyyVOZaY7lqO) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4jZE92oJG0NgpXB6gBKe8K) | 3:33 | 2022-03-08 | 2023-03-08 |
 | [Movementt](https://open.spotify.com/track/41eywgVC3YN7RmdZNmwpyC) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC) | [Movementt](https://open.spotify.com/album/4MnjVFnInqwCgHBqt4e6zN) | 3:33 | 2021-03-01 | 2023-02-02 |
@@ -284,6 +284,7 @@
 | [The Sun Made For A Soft Landing](https://open.spotify.com/track/39vC0mokdXbWbdzzUymp3x) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/2ruYajRlSa2ODHn7mxxNRk) | 4:30 | 2022-03-08 | 2023-03-08 |
 | [there she goes!](https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ) | [niina](https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh) | [there she goes!](https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2) | 1:57 | 2024-04-26 |  |
 | [thicc](https://open.spotify.com/track/3tda2VED1rPj3MmVf3mXTo) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Cosha](https://open.spotify.com/artist/5P8FHUS4EuE2FXskLnqkAg) | [thicc](https://open.spotify.com/album/7CGatMISsY9SZCJhVsYiT5) | 3:42 | 2024-03-01 |  |
+| [Thinking A Lot](https://open.spotify.com/track/6R4i0xWUvB5gzkCRilxOPK) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Thinking A Lot](https://open.spotify.com/album/7HKAWbE7LhMLvWHHwWnpzY) | 2:44 | 2024-05-21 |  |
 | [Tidal wave \(feat\. Miss Jay\)](https://open.spotify.com/track/0M8E67OGSGgqwkJeRHC9bq) | [Lurayana](https://open.spotify.com/artist/3RA3hn7wU5JYYY12KQ5EzY), [Miss Jay](https://open.spotify.com/artist/2282mHW48ronyIbZWsubbn) | [Kairosclerosis](https://open.spotify.com/album/3MU1jBa04ioVt0ivHkAEEy) | 3:00 | 2024-03-01 |  |
 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/44IESxtHXHjxYLUqoKKGK2) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/3d9j0nWCz8AjqgBwuZ0ZUb) | 3:36 | 2021-03-01 | 2022-07-29 |
 | [Timbu Limbu And Her War Bass](https://open.spotify.com/track/6e0eVsUOcWSykyieIlpxrQ) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Timbu Limbu And Her War Bass](https://open.spotify.com/album/69zfdOF5MIl9a3dRezJwT7) | 3:36 | 2022-03-08 | 2023-03-08 |

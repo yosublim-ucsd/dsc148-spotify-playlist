@@ -4,7 +4,7 @@
 
 > Stay current with the latest indie\-alt tracks.
 
-301 songs - 16 hr 29 min
+306 songs - 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Close Calls](https://open.spotify.com/track/2JO7CpZKggHArL31IKRpZx) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Breakfast EP](https://open.spotify.com/album/2onCLWv34wdqijf6bJDIr9) | 2:41 | 2024-05-03 |  |
 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 | 2024-03-22 | 2024-04-20 |
 | [come undone](https://open.spotify.com/track/1Tezlsoi6WeyZUa1yyPLNd) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [the life and death of a dog](https://open.spotify.com/album/3zzzsk0VzmLORaVtENlOHY) | 2:05 | 2024-03-22 | 2024-04-06 |
+| [Confusion Song](https://open.spotify.com/track/6F5sJ8w1tzo3z1IHJAi5q1) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/0QwOhxhUMzkygHnnrLRtOr) | 2:41 | 2024-05-21 |  |
 | [cOoL WATeR foR thE nIGHT](https://open.spotify.com/track/0V9Lj9QsXAbOd9vKcxoQl4) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:54 | 2024-02-09 | 2024-03-09 |
 | [Cover Girl](https://open.spotify.com/track/0a4Xp4UKqigsiSSqKhbJAT) | [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Hypocrite](https://open.spotify.com/album/14cPbGhop4YtAREj1jYWL9) | 3:09 | 2024-04-19 |  |
 | [Crazy Again](https://open.spotify.com/track/1zEwPwgdkD5bKuiovSKi23) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Crazy Again](https://open.spotify.com/album/50FmJw1eIHCs4vwzyI5OOK) | 3:17 | 2023-11-17 | 2024-02-03 |
@@ -162,6 +163,7 @@
 | [Infinity Repeating \(2013 Demo\) \[feat\. Julian Casablancas+The Voidz\]](https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Julian Casablancas](https://open.spotify.com/artist/1rAv1GhTQ2rmG94p9lU3rB), [The Voidz](https://open.spotify.com/artist/4nUBBtLtzqZGpdiynTJbYJ) | [Random Access Memories \(10th Anniversary Edition\)](https://open.spotify.com/album/4mAhdh996uW5SnnFKXUmC0) | 3:59 | 2023-11-03 | 2024-04-06 |
 | [Insecure](https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Insecure](https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw) | 3:15 | 2024-05-03 |  |
 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 | 2024-05-03 | 2024-05-11 |
+| [is it my face?](https://open.spotify.com/track/17PatSYk0lOvw1jc1pXOci) | [Juliet Ivy](https://open.spotify.com/artist/3sHvvFIzt6FKUQuksXhZn3) | [is it my face?](https://open.spotify.com/album/0j5i3HJlYDuhce85GFYBQN) | 2:24 | 2024-05-21 |  |
 | [Is This What Love Is?](https://open.spotify.com/track/4GOfwIZckKlsgnt62esc40) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Is This What Love Is?](https://open.spotify.com/album/5kVea5Ulg8bpNHhRbWfAkt) | 3:43 | 2024-03-22 | 2024-04-02 |
 | [it'll be alright](https://open.spotify.com/track/1ksfm4onmPLgyRmar3P9ev) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [it'll be alright](https://open.spotify.com/album/39Kg078Fkl3eaw3bcdRA8a) | 4:13 | 2024-04-01 | 2024-04-27 |
 | [Ithaca](https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Memory Morning](https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7) | 3:59 | 2024-04-19 |  |
@@ -250,6 +252,7 @@
 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 | 2024-03-01 | 2024-03-16 |
 | [Smoke](https://open.spotify.com/track/6U5jxvMBwlTFZkN1xjaQJg) | [HOMESHAKE](https://open.spotify.com/artist/4DMSJzGjw2SMkKAT5EEE5u) | [CD Wallet](https://open.spotify.com/album/19Lalmmvq9JmMFbyTM7kzA) | 2:59 | 2024-03-08 | 2024-04-02 |
 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 | 2024-03-16 |
+| [Songs In My Head](https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Songs In My Head](https://open.spotify.com/album/5ZAJ8oDLqCT9cuELS11OdP) | 3:06 | 2024-05-21 |  |
 | [Sorority](https://open.spotify.com/track/5MwA2Z1ZEBZKY8E2Qd8lq0) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [Sorority](https://open.spotify.com/album/5rmWWYeXjHCusQpIMe5U3t) | 3:33 | 2023-11-03 | 2023-11-18 |
 | [Spider Bites](https://open.spotify.com/track/2mv5dA8av1yu8bRKtTw2Z5) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [History Books](https://open.spotify.com/album/1GxcyEReAOxieTKZZcivlJ) | 4:19 | 2023-11-03 | 2023-11-25 |
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-22 | 2024-04-27 |
@@ -268,10 +271,12 @@
 | [Sunset](https://open.spotify.com/track/5hFVuHDVUqR9FvVnHFoLLo) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Sunset](https://open.spotify.com/album/7zAZZ3cUAbM6WPAecRTN01) | 3:13 | 2023-11-03 | 2023-11-25 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 | 2023-11-03 |  |
 | [Swallow](https://open.spotify.com/track/2xtF0pR5YIroM6MzKUhJBy) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [Swallow](https://open.spotify.com/album/1lF9N8KTJe8rEuCTVRwyV8) | 2:59 | 2024-02-02 | 2024-02-24 |
+| [Sweet Divorce](https://open.spotify.com/track/0XZQ9p3u749NGdUfggDLDl) | [RMR](https://open.spotify.com/artist/0j1Pwmd6nuk0BXD1RqoHDw) | [Sweet Divorce](https://open.spotify.com/album/4JNGhjNAPkgRft141K6EBJ) | 2:23 | 2024-05-21 |  |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-04-01 |  |
 | [Sweet Tooth](https://open.spotify.com/track/2q3WnVVXT4xh4GA4O7cHF3) | [Lusaint](https://open.spotify.com/artist/35v2YILQxee0yatdWj6Kg7) | [Sweet Tooth](https://open.spotify.com/album/0m7jHaP0wjBEqrRncFTLic) | 3:07 | 2024-02-02 | 2024-03-02 |
 | [Sweety](https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 2:49 | 2023-11-03 | 2024-03-16 |
 | [take yr time](https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [take yr time](https://open.spotify.com/album/1VH9FaS0iG8QiB5cE475b0) | 3:55 | 2024-01-12 | 2024-02-17 |
+| [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 | 2024-05-21 |  |
 | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ), [Diggy Graves](https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t) | [TEETH \(feat\. Diggy Graves\)](https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I) | 2:29 | 2024-03-15 | 2024-04-02 |
 | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/track/3AvfMmfCipJLdr9OozL1bv) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [Tennessee \(feat\. Lil Nas X\)](https://open.spotify.com/album/37APE1ZgCTM38NY4IgO73G) | 2:53 | 2024-05-03 |  |
 | [The Conflict of the Mind](https://open.spotify.com/track/4BFYRUjuuesHjLTJdvo1XR) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Conflict of the Mind](https://open.spotify.com/album/7bGzvyccrDzn32gieBu3tE) | 4:15 | 2024-01-19 | 2024-02-24 |

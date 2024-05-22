@@ -2,9 +2,9 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> Spotifyが注目するニューカマー・プレイリスト。Cover: HOME
+> Spotifyが注目するニューカマー・プレイリスト。Cover: Bye\-Bye\-Handの方程式
 
-1,520 songs - 3 day 20 hr 6 min
+1,521 songs - 3 day 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -771,6 +771,7 @@
 | [Supremacy](https://open.spotify.com/track/5YdQ2ekqb2i17sCZELI3VC) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Supremacy](https://open.spotify.com/album/7dVYDyMKuta1QkHwOJpjze) | 3:14 | 2023-07-25 | 2023-09-06 |
 | [Surviving is Resistance](https://open.spotify.com/track/5dxn2pf1KNtyRyJvqZMnYP) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 | 2023-09-28 | 2023-10-04 |
 | [SWAM](https://open.spotify.com/track/3mUDs6V97GirTDSNLJr5z6) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [SWAM](https://open.spotify.com/album/07dVrbFzLZIszN5tGtSeVn) | 2:34 | 2022-09-29 | 2022-11-16 |
+| [swamp \(沼\)](https://open.spotify.com/track/7Cepy9ToUEUpdmdDjjaY6L) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [ソフビ](https://open.spotify.com/album/4wWsoXMGRW7BLXeljW20LI) | 2:19 | 2024-05-21 |  |
 | [Sweet Child](https://open.spotify.com/track/2yqsyoYqdrfHTSY9kYlLhp) | [えんぷてい](https://open.spotify.com/artist/7zzRFLfG1OzxyobuR74moh) | [QUIET FRIENDS](https://open.spotify.com/album/6y5k01dl3b8is0X7NwwFfL) | 4:32 | 2022-11-22 | 2022-12-21 |
 | [Sweet dream](https://open.spotify.com/track/0Ru3TRhknBC8a9MjJyKKxV) | [TOGITO](https://open.spotify.com/artist/102etpERD7ol169sTsFdQK) | [9.](https://open.spotify.com/album/1yj4g4NAlimjHHL2CF74Y7) | 2:56 | 2023-04-27 | 2023-05-31 |
 | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [Sweet Escape \(feat\. ひかり\)](https://open.spotify.com/album/6QWulBLmOcERqXcs2tSxh6) | 3:53 | 2022-08-09 | 2022-10-05 |
@@ -1289,7 +1290,7 @@
 | [好きなものは手のひらの中](https://open.spotify.com/track/3FrwPF0EFJFLE9yVprrbd5) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [好きなものは手のひらの中](https://open.spotify.com/album/1rCQBrvCaa54giOkANP59K) | 2:54 | 2023-02-01 | 2023-03-01 |
 | [好きなように](https://open.spotify.com/track/3tLyaiz0o1oKcibp8NaZK3) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [好きなように](https://open.spotify.com/album/6vvPUBVIrAEPXB9nkrhmsX) | 3:15 | 2023-03-21 | 2023-04-05 |
 | [嫌でもね](https://open.spotify.com/track/0vMirJzqc32hw8gzMISrga) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [嫌でもね](https://open.spotify.com/album/0ENL0kl70GDim5FzZk9vQj) | 3:06 | 2022-04-28 | 2022-05-18 |
-| [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-02-06 |  |
+| [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-02-06 | 2024-05-22 |
 | [宇宙\(苦痛\)](https://open.spotify.com/track/3kgOuTuuRMyt23wiejeBrH) | [GRASAM ANIMAL](https://open.spotify.com/artist/6emi8SzZeJ2JmKnaPnDkbA) | [宇宙\(苦痛\)](https://open.spotify.com/album/6lqvl7ZhUQ5tOuu4j90khR) | 3:55 | 2023-12-05 | 2023-12-27 |
 | [宝道〜たからのみち〜](https://open.spotify.com/track/66rbjh986YzlZLi5NK3ALl) | [南無阿部陀仏](https://open.spotify.com/artist/5d3O7Y0ejEy42d6QJaqCvQ) | [宝道\~たからのみち\~](https://open.spotify.com/album/5a1KXmIYIC8rlfrxEnVNgn) | 3:11 | 2022-02-17 | 2022-03-09 |
 | [小さな怪獣](https://open.spotify.com/track/5UHvtWIBduWHyvMu8uU32S) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [風街突風倶楽部\-EP](https://open.spotify.com/album/4KufIw40yi95QMckwUEwaW) | 3:03 | 2023-03-14 | 2023-03-16 |

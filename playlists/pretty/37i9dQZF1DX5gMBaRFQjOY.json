@@ -1,6 +1,6 @@
 {
   "description": "Country classics you know and love.",
-  "num_followers": 458153,
+  "num_followers": 458340,
   "original_name": "Classic Country",
   "owner": {
     "name": "Spotify",
@@ -695,8 +695,8 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Memorial Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
+        "name": "Honky Tonkin (Expanded Undubbed Edition)",
+        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 176893,
-      "name": "Hey, Good Lookin'",
-      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
+      "duration_ms": 174866,
+      "name": "Jambalaya (On The Bayou)",
+      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -775,8 +775,8 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Honky Tonkin (Expanded Undubbed Edition)",
-        "url": "https://open.spotify.com/album/18qEQEBcLbBiDyAW3d73mU"
+        "name": "Memorial Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Cdvtu5XUmCKPwcnue11xS"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1FClsNYBUoNFtGgzeG74dW"
         }
       ],
-      "duration_ms": 174866,
-      "name": "Jambalaya (On The Bayou)",
-      "url": "https://open.spotify.com/track/5gbm0aNo7eXNuOEkQi5m9B"
+      "duration_ms": 176893,
+      "name": "Hey, Good Lookin'",
+      "url": "https://open.spotify.com/track/0deAIqyKFFw55JDMGWTcdA"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Almost Persuaded",
-        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
-      },
-      "artists": [
-        {
-          "name": "David Houston",
-          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
-        }
-      ],
-      "duration_ms": 176360,
-      "name": "Almost Persuaded",
-      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "The Essential Willie Nelson",
         "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
@@ -1427,22 +1411,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Ultimate Collection: Barbara Mandrell",
-        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 138853,
-      "name": "Sleeping Single In A Double Bed - Single Version",
-      "url": "https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "HAG: The Hits Volume 2",
         "url": "https://open.spotify.com/album/5JpPv6eZYKMXdBTFc41wsC"
       },
@@ -1455,6 +1423,38 @@
       "duration_ms": 169346,
       "name": "The Fightin' Side Of Me",
       "url": "https://open.spotify.com/track/7tvnZH4Db2zylKHo7ojKH1"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Almost Persuaded",
+        "url": "https://open.spotify.com/album/0zOZyQFw8zR4hFAMyM92tk"
+      },
+      "artists": [
+        {
+          "name": "David Houston",
+          "url": "https://open.spotify.com/artist/7tIs7rxqGuBvWMhIIigunf"
+        }
+      ],
+      "duration_ms": 176360,
+      "name": "Almost Persuaded",
+      "url": "https://open.spotify.com/track/2Krnm3qWdy4VG5vTkT0cDn"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Ultimate Collection: Barbara Mandrell",
+        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 138853,
+      "name": "Sleeping Single In A Double Bed - Single Version",
+      "url": "https://open.spotify.com/track/2Ln5JJOBoVDIoA8MJ2vG0C"
     },
     {
       "added_at": "2024-05-04 20:18:13",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2024-05-04 20:18:13",
       "album": {
-        "name": "Ultimate Collection: Barbara Mandrell",
-        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
-      },
-      "artists": [
-        {
-          "name": "Barbara Mandrell",
-          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
-      "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
-    },
-    {
-      "added_at": "2024-05-04 20:18:13",
-      "album": {
         "name": "The Very Best Of Rosanne Cash",
         "url": "https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 195080,
       "name": "Tennessee Flat Top Box",
       "url": "https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW"
+    },
+    {
+      "added_at": "2024-05-04 20:18:13",
+      "album": {
+        "name": "Ultimate Collection: Barbara Mandrell",
+        "url": "https://open.spotify.com/album/42G4gGwqZzt4t9dlJTzDcX"
+      },
+      "artists": [
+        {
+          "name": "Barbara Mandrell",
+          "url": "https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "(If Loving You Is Wrong) I Don't Want To Be Right",
+      "url": "https://open.spotify.com/track/1cxjGdsHJn2vo17AbWLFzu"
     },
     {
       "added_at": "2024-05-04 20:18:13",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "This is Katy Perry. The essential tracks, all in one playlist.",
+  "description": "This Is Katy Perry. Los temas esenciales, todos en una lista.",
   "name": "This Is Katy Perry",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-19",
+      "date_removed": null,
       "duration_ms": 267476,
       "name": "By The Grace Of God",
       "url": "https://open.spotify.com/track/2IRK3qdY6BzbKxKr8eBk8o"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 237733,
       "name": "Chained To The Rhythm",
       "url": "https://open.spotify.com/track/7qvxFz3JodM0A7xEM7k3YD"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 173123,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 197840,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/60XMmxciP1qewvkcD16qKQ"
@@ -526,7 +526,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 227893,
       "name": "Firework",
       "url": "https://open.spotify.com/track/3lXbHd0EoryoQh3vpevNEP"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 185480,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
@@ -638,7 +638,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 165009,
       "name": "Harleys In Hawaii - KANDY Remix",
       "url": "https://open.spotify.com/track/5EECgBC0NjIaUd8ke9YYTo"
@@ -728,7 +728,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 179640,
       "name": "I Kissed A Girl",
       "url": "https://open.spotify.com/track/14iN3o8ptQ8cFVZTEmyQRV"
@@ -746,7 +746,7 @@
       ],
       "date_added": "2022-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 176762,
       "name": "I Kissed A Girl - Rock Remix",
       "url": "https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd"
@@ -993,6 +993,24 @@
     },
     {
       "album": {
+        "name": "One Of The Boys (15th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4E0vDZuTPYYySw3TcVi6H0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255986,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3YHr20DraO9onR5iadROdA"
+    },
+    {
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -1076,7 +1094,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 225039,
       "name": "Never Worn White",
       "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
@@ -1130,7 +1148,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-15",
+      "date_removed": null,
       "duration_ms": 198724,
       "name": "Only Love",
       "url": "https://open.spotify.com/track/6lWp5O5XH6smTt4vzd4Mgy"
@@ -1166,7 +1184,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 231920,
       "name": "Peacock",
       "url": "https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 203474,
       "name": "Rise",
       "url": "https://open.spotify.com/track/1CwNogTShsnsn1C8UhRmYX"
@@ -1282,7 +1300,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 161962,
       "name": "Small Talk",
       "url": "https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 166898,
       "name": "Smile",
       "url": "https://open.spotify.com/track/59s3aMqR9uOzLIXAcgBCEm"
@@ -1424,7 +1442,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 182595,
       "name": "Teary Eyes",
       "url": "https://open.spotify.com/track/3i0uu4DEpcmEAudChpVDBh"
@@ -1586,7 +1604,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 259040,
       "name": "The One That Got Away - Acoustic",
       "url": "https://open.spotify.com/track/5jx8tCxiO0uIbo2uNia23K"
@@ -1604,7 +1622,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 246410,
       "name": "Thinking Of You",
       "url": "https://open.spotify.com/track/4ciwlQ4UYHUMj2wuH0ffw6"
@@ -1676,7 +1694,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 228878,
       "name": "Unconditionally",
       "url": "https://open.spotify.com/track/009ImBOrIUlWgla8U05RAC"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 161266,
       "name": "When I\u2019m Gone (with Katy Perry)",
       "url": "https://open.spotify.com/track/5902W4uHWzhtOff1UK7the"
@@ -1774,7 +1792,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 182026,
       "name": "Where We Started",
       "url": "https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc"

@@ -1,6 +1,6 @@
 {
   "description": "Aquelas pra come\u00e7ar o dia de alma leve",
-  "num_followers": 545838,
+  "num_followers": 546006,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
@@ -203,6 +203,22 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
+        "name": "C\u00e9u Azul",
+        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        }
+      ],
+      "duration_ms": 208219,
+      "name": "C\u00e9u Azul",
+      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
+    },
+    {
+      "added_at": "2024-05-10 16:51:58",
+      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 205467,
       "name": "Trevo (Tu)",
       "url": "https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7"
-    },
-    {
-      "added_at": "2024-05-10 16:51:58",
-      "album": {
-        "name": "C\u00e9u Azul",
-        "url": "https://open.spotify.com/album/6h1YceFakmfDMsTqVDNp1N"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
-        }
-      ],
-      "duration_ms": 208219,
-      "name": "C\u00e9u Azul",
-      "url": "https://open.spotify.com/track/2GvbK34eLArbttr0bXRu4l"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
-        "name": "ANAVIT\u00d3RIA",
-        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 206108,
-      "name": "Singular",
-      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
-    },
-    {
-      "added_at": "2024-05-10 16:51:58",
-      "album": {
         "name": "Um amor puro",
         "url": "https://open.spotify.com/album/5PebzLJlsrtY3HzUTm6FQO"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 285000,
       "name": "Um amor puro",
       "url": "https://open.spotify.com/track/6AOVm8DxKYBtcgo35DOzss"
+    },
+    {
+      "added_at": "2024-05-10 16:51:58",
+      "album": {
+        "name": "ANAVIT\u00d3RIA",
+        "url": "https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 206108,
+      "name": "Singular",
+      "url": "https://open.spotify.com/track/2bwNhYxgQlkokiEn94eAYT"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -631,6 +631,22 @@
       "duration_ms": 198075,
       "name": "Garotos II - Ao Vivo",
       "url": "https://open.spotify.com/track/00czhIXqubU5Y07ycKqRIO"
+    },
+    {
+      "added_at": "2024-05-10 16:51:58",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -707,8 +723,8 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+        "name": "COR",
+        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
       "artists": [
         {
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+      "duration_ms": 244386,
+      "name": "Te amar \u00e9 massa demais",
+      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -759,22 +775,6 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
-        "name": "Gal Estratosf\u00e9rica",
-        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 267266,
-      "name": "Quando Voc\u00ea Olha Pra Ela",
-      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
-    },
-    {
-      "added_at": "2024-05-10 16:51:58",
-      "album": {
         "name": "Eu",
         "url": "https://open.spotify.com/album/3GPW2lcCmRQSz0IFTDF1WH"
       },
@@ -791,34 +791,18 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+        "name": "Gal Estratosf\u00e9rica",
+        "url": "https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H"
       },
       "artists": [
         {
-          "name": "Atitude 67",
-          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 169086,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
-    },
-    {
-      "added_at": "2024-05-10 16:51:58",
-      "album": {
-        "name": "COR",
-        "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 244386,
-      "name": "Te amar \u00e9 massa demais",
-      "url": "https://open.spotify.com/track/5PLtrIrBZytL4L11AyxOHR"
+      "duration_ms": 267266,
+      "name": "Quando Voc\u00ea Olha Pra Ela",
+      "url": "https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -835,6 +819,22 @@
       "duration_ms": 221624,
       "name": "Duas da Tarde",
       "url": "https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj"
+    },
+    {
+      "added_at": "2024-05-10 16:51:58",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A"
+      },
+      "artists": [
+        {
+          "name": "Atitude 67",
+          "url": "https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo"
+        }
+      ],
+      "duration_ms": 169086,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2"
     },
     {
       "added_at": "2024-05-10 16:51:58",
@@ -887,6 +887,26 @@
     {
       "added_at": "2024-05-10 16:51:58",
       "album": {
+        "name": "Lisboa-Madrid",
+        "url": "https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+        }
+      ],
+      "duration_ms": 220031,
+      "name": "Lisboa-Madrid",
+      "url": "https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E"
+    },
+    {
+      "added_at": "2024-05-10 16:51:58",
+      "album": {
         "name": "Caravanas",
         "url": "https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu"
       },
@@ -903,22 +923,6 @@
       "duration_ms": 202080,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg"
-    },
-    {
-      "added_at": "2024-05-10 16:51:58",
-      "album": {
-        "name": "Te Fa\u00e7o um Cafun\u00e9",
-        "url": "https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aydar",
-          "url": "https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N"
-        }
-      ],
-      "duration_ms": 227604,
-      "name": "Te Fa\u00e7o um Cafun\u00e9",
-      "url": "https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD"
     }
   ],
   "unique_name": "Manh\u00e3 Relax",

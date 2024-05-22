@@ -1,15 +1,31 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 108917,
+  "num_followers": 108938,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ld6zQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LeAEwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "P.O.P.",
+        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 172153,
+      "name": "LALALALA",
+      "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "MBAPPE",
         "url": "https://open.spotify.com/album/2FRgTjahtyzUQG8A3ZaaDT"
@@ -33,23 +49,7 @@
       "url": "https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 172153,
-      "name": "LALALALA",
-      "url": "https://open.spotify.com/track/6cStn8ifAT1MkQoDHPd6YP"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "ELECTRIC",
         "url": "https://open.spotify.com/album/20EOSBzZX1zHzMocYcSNvf"
@@ -69,23 +69,7 @@
       "url": "https://open.spotify.com/track/6GujKDj7JIaPwMi990CkIK"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 180979,
-      "name": "ZARI",
-      "url": "https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "P.O.P.",
         "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
@@ -125,23 +109,27 @@
       "url": "https://open.spotify.com/track/0ZiUhT3rhtIfspNKIZ5YIr"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/7nWf3uKfeQOGvkxAxfRfiw"
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
         }
       ],
-      "duration_ms": 192515,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
+      "duration_ms": 211666,
+      "name": "Parapatao",
+      "url": "https://open.spotify.com/track/31A9vCMK5RaMBstup4l9iU"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "9ARI",
         "url": "https://open.spotify.com/album/5AlVNGNmZw1zh988FeOif6"
@@ -169,47 +157,39 @@
       "url": "https://open.spotify.com/track/6vlH3qCZn1PjuBww5Z0e5I"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "XADV",
-        "url": "https://open.spotify.com/album/6gE7I2ZQyxIzCRqAlJM36i"
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/7nWf3uKfeQOGvkxAxfRfiw"
       },
       "artists": [
         {
-          "name": "Ivan Greko",
-          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
-        },
-        {
-          "name": "BeTaf Beats",
-          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         }
       ],
-      "duration_ms": 206802,
-      "name": "XADV",
-      "url": "https://open.spotify.com/track/2f5yxc6MC191U7EALZugfi"
+      "duration_ms": 192515,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/5CqO0vPgia1781FOP2CjdE"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
+        "name": "P.O.P.",
+        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
       },
       "artists": [
         {
-          "name": "Wang",
-          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
-        },
-        {
-          "name": "Mateos Nps",
-          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Parapatao",
-      "url": "https://open.spotify.com/track/31A9vCMK5RaMBstup4l9iU"
+      "duration_ms": 180979,
+      "name": "ZARI",
+      "url": "https://open.spotify.com/track/3wRgk5tGQzfNXtSawH8O3S"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
@@ -233,7 +213,43 @@
       "url": "https://open.spotify.com/track/2wbBqDHV8Lv4XyBhBnakNx"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Foto",
+        "url": "https://open.spotify.com/album/2UND54fKCXrwSH2YGROPl6"
+      },
+      "artists": [
+        {
+          "name": "Alecc",
+          "url": "https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG"
+        }
+      ],
+      "duration_ms": 148192,
+      "name": "Foto",
+      "url": "https://open.spotify.com/track/6oNJTAqOggRjmNQqKyAwfz"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Grammes",
+        "url": "https://open.spotify.com/album/2Qutjhy1RKGAH7WeCQLNF9"
+      },
+      "artists": [
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Destiny",
+          "url": "https://open.spotify.com/artist/00EuEpMzi9sEgwVRxuPBky"
+        }
+      ],
+      "duration_ms": 175700,
+      "name": "Grammes",
+      "url": "https://open.spotify.com/track/0FT7EsckLHPVdfx9K3dwj2"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Metal Slang",
         "url": "https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd"
@@ -257,23 +273,7 @@
       "url": "https://open.spotify.com/track/5ap0QTKjE9M8MRBI7gz5RL"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "The Code",
-        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
-      },
-      "artists": [
-        {
-          "name": "Nemo",
-          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
-        }
-      ],
-      "duration_ms": 180141,
-      "name": "The Code",
-      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Siga To Prama",
         "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
@@ -289,7 +289,27 @@
       "url": "https://open.spotify.com/track/6lLyJtACSS8hb9ySXuBfCF"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "XADV",
+        "url": "https://open.spotify.com/album/6gE7I2ZQyxIzCRqAlJM36i"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "duration_ms": 206802,
+      "name": "XADV",
+      "url": "https://open.spotify.com/track/2f5yxc6MC191U7EALZugfi"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Mia Kaseta Gia Ton Dromo",
         "url": "https://open.spotify.com/album/2vb1FOxlzBYITBzSSiFQdg"
@@ -305,83 +325,23 @@
       "url": "https://open.spotify.com/track/6OeMRweMBxOOsH0jRZZcHB"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "Essentiels",
-        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
+        "name": "The Code",
+        "url": "https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA"
       },
       "artists": [
         {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+          "name": "Nemo",
+          "url": "https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N"
         }
       ],
-      "duration_ms": 181920,
-      "name": "Mon amour",
-      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
+      "duration_ms": 180141,
+      "name": "The Code",
+      "url": "https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "love hotel",
-        "url": "https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3"
-      },
-      "artists": [
-        {
-          "name": "leftovermax",
-          "url": "https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj"
-        }
-      ],
-      "duration_ms": 152380,
-      "name": "love hotel",
-      "url": "https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "GRANDE",
-        "url": "https://open.spotify.com/album/1ZtlohrNT1VkoAvEVZ6doh"
-      },
-      "artists": [
-        {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "MILLION",
-      "url": "https://open.spotify.com/track/1dYcj4cAs1MSv5MfGeO9Me"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "RATATA",
-        "url": "https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        },
-        {
-          "name": "Venom",
-          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "RATATA",
-      "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
@@ -405,7 +365,83 @@
       "url": "https://open.spotify.com/track/2i6m9IDP7obOv5qj9J2d4U"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "RATATA",
+        "url": "https://open.spotify.com/album/2IvNAPQGN0QWjMObrttNlW"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        },
+        {
+          "name": "Venom",
+          "url": "https://open.spotify.com/artist/6CdAVuqNOSOZ9KsZXMZwFr"
+        },
+        {
+          "name": "Oge",
+          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+        }
+      ],
+      "duration_ms": 137142,
+      "name": "RATATA",
+      "url": "https://open.spotify.com/track/576AjdnQCA91t0sfMRcBq3"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "love hotel",
+        "url": "https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3"
+      },
+      "artists": [
+        {
+          "name": "leftovermax",
+          "url": "https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "love hotel",
+      "url": "https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "GRANDE",
+        "url": "https://open.spotify.com/album/1ZtlohrNT1VkoAvEVZ6doh"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        }
+      ],
+      "duration_ms": 138181,
+      "name": "MILLION",
+      "url": "https://open.spotify.com/track/1dYcj4cAs1MSv5MfGeO9Me"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Essentiels",
+        "url": "https://open.spotify.com/album/30d0ikqr92UVb1L0xVe0Fx"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 181920,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/4BVcVEp6Df9VQN5qFwxDn3"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "1111",
         "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
@@ -429,7 +465,7 @@
       "url": "https://open.spotify.com/track/4Fke1kIQz7pzIZYKqyzeNm"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Homesick",
         "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
@@ -449,7 +485,27 @@
       "url": "https://open.spotify.com/track/6H3kT5Ighs29hnGaGJSV0Z"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Apotoma",
+        "url": "https://open.spotify.com/album/06MswgDdAz1qxh97su2gCq"
+      },
+      "artists": [
+        {
+          "name": "Yanek",
+          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
+        },
+        {
+          "name": "Block 93",
+          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
+        }
+      ],
+      "duration_ms": 188473,
+      "name": "Apotoma",
+      "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Panselinos",
         "url": "https://open.spotify.com/album/2hJa2Xk7VGr3n2kT1FAv32"
@@ -473,7 +529,27 @@
       "url": "https://open.spotify.com/track/230Aews21zrVVeaebAndZG"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "C4",
+        "url": "https://open.spotify.com/album/1rgBlW5Gaki4SinOchfBZc"
+      },
+      "artists": [
+        {
+          "name": "RICTA",
+          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+        },
+        {
+          "name": "Savv",
+          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+        }
+      ],
+      "duration_ms": 232854,
+      "name": "C4",
+      "url": "https://open.spotify.com/track/6qOOizC2N3Qe2wSoVF4dFn"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Lingo 2",
         "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
@@ -497,7 +573,7 @@
       "url": "https://open.spotify.com/track/4BItWPq63r4WFsPASSNVZI"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Lingo 2",
         "url": "https://open.spotify.com/album/6BPkSnOSgApcpdhGP32tcW"
@@ -513,7 +589,7 @@
       "url": "https://open.spotify.com/track/6m3x4gOuiAqUpCkkx29bmR"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "Allegra (N1)",
         "url": "https://open.spotify.com/album/2R1Hjal9D3sWfmSt2Tsi4L"
@@ -529,95 +605,7 @@
       "url": "https://open.spotify.com/track/7B528NXMGf4cqBJSK036yl"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Apotoma",
-        "url": "https://open.spotify.com/album/06MswgDdAz1qxh97su2gCq"
-      },
-      "artists": [
-        {
-          "name": "Yanek",
-          "url": "https://open.spotify.com/artist/3qQbT0KRi9n6xs3dAd8hz5"
-        },
-        {
-          "name": "Block 93",
-          "url": "https://open.spotify.com/artist/6lLBwuarTgj4GxTykLYCLo"
-        }
-      ],
-      "duration_ms": 188473,
-      "name": "Apotoma",
-      "url": "https://open.spotify.com/track/0alDILQ9n7nRMfwaifGOIK"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Eipes",
-        "url": "https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh"
-      },
-      "artists": [
-        {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        }
-      ],
-      "duration_ms": 220741,
-      "name": "Eipes",
-      "url": "https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 201397,
-      "name": "Ah THALASSA",
-      "url": "https://open.spotify.com/track/26y4aj2ggWCXEKNqDU3MZQ"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "1111",
-        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 180356,
-      "name": "3:15",
-      "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Arga",
-        "url": "https://open.spotify.com/album/4mSJp1x3OZ3i4NghpV2mM4"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 162562,
-      "name": "Arga",
-      "url": "https://open.spotify.com/track/3mzSzoAPvteMqisimpJf4b"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "KSIRASIA",
         "url": "https://open.spotify.com/album/7sh9ZtpnyLT9anmYqOSxAY"
@@ -637,7 +625,43 @@
       "url": "https://open.spotify.com/track/6y5Nb8Op1TgWCJk1yxeFG8"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Arga",
+        "url": "https://open.spotify.com/album/4mSJp1x3OZ3i4NghpV2mM4"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        }
+      ],
+      "duration_ms": 162562,
+      "name": "Arga",
+      "url": "https://open.spotify.com/track/3mzSzoAPvteMqisimpJf4b"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Eipes",
+        "url": "https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh"
+      },
+      "artists": [
+        {
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        }
+      ],
+      "duration_ms": 220741,
+      "name": "Eipes",
+      "url": "https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "ROLLS ROYCE",
         "url": "https://open.spotify.com/album/5aChdDTUKnXBKn3YuAPqJ9"
@@ -657,43 +681,43 @@
       "url": "https://open.spotify.com/track/30NGlJlriaraINBxFfxAsY"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "C4",
-        "url": "https://open.spotify.com/album/1rgBlW5Gaki4SinOchfBZc"
+        "name": "1111",
+        "url": "https://open.spotify.com/album/6YvjHwDKHxrl7bakqft3pf"
       },
       "artists": [
         {
-          "name": "RICTA",
-          "url": "https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN"
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 180356,
+      "name": "3:15",
+      "url": "https://open.spotify.com/track/5d2ETO2YDunJTXd5yuCCRA"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Death Before Dishonor",
+        "url": "https://open.spotify.com/album/3VOHkQx48iWkRL1PHf97zc"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         },
         {
-          "name": "Savv",
-          "url": "https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1"
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
         }
       ],
-      "duration_ms": 232854,
-      "name": "C4",
-      "url": "https://open.spotify.com/track/6qOOizC2N3Qe2wSoVF4dFn"
+      "duration_ms": 143766,
+      "name": "Death Before Dishonor",
+      "url": "https://open.spotify.com/track/5MdKLXYWrL48gqZjioO0N4"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "la noia",
-        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
-      },
-      "artists": [
-        {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
-        }
-      ],
-      "duration_ms": 189124,
-      "name": "la noia",
-      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "H MASKA",
         "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
@@ -709,7 +733,23 @@
       "url": "https://open.spotify.com/track/3CdFVH8SOVnvT0sJLT198p"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "P.O.P.",
+        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
+      },
+      "artists": [
+        {
+          "name": "Marina Satti",
+          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
+        }
+      ],
+      "duration_ms": 201397,
+      "name": "Ah THALASSA",
+      "url": "https://open.spotify.com/track/26y4aj2ggWCXEKNqDU3MZQ"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "DELUXE",
         "url": "https://open.spotify.com/album/7cTzcUA70kwCqu7tUH7xD3"
@@ -733,219 +773,7 @@
       "url": "https://open.spotify.com/track/2HryglxMYeEZcLHxSgQe4T"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Sukarie",
-        "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
-      },
-      "artists": [
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Thodoris Verlis",
-          "url": "https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Sukarie",
-      "url": "https://open.spotify.com/track/3EDocnZVJedQToA6rv8v3p"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Rim Tim Tagi Dim",
-        "url": "https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t"
-      },
-      "artists": [
-        {
-          "name": "Baby Lasagna",
-          "url": "https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH"
-        }
-      ],
-      "duration_ms": 179062,
-      "name": "Rim Tim Tagi Dim",
-      "url": "https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 204525,
-      "name": "TUCUTUM",
-      "url": "https://open.spotify.com/track/2Z4sdQqOm8KSI5H9eOk3Xr"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Homesick",
-        "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
-      },
-      "artists": [
-        {
-          "name": "Wang",
-          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
-        },
-        {
-          "name": "Mateos Nps",
-          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
-        }
-      ],
-      "duration_ms": 186979,
-      "name": "Amarties",
-      "url": "https://open.spotify.com/track/2BpzWytgabzoy6xYi1H66R"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "P.O.P.",
-        "url": "https://open.spotify.com/album/54q5iCJaFUV78UzE47Szgb"
-      },
-      "artists": [
-        {
-          "name": "Marina Satti",
-          "url": "https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ"
-        }
-      ],
-      "duration_ms": 200610,
-      "name": "STIN IYIA MAS",
-      "url": "https://open.spotify.com/track/2QhPkTSjL4Tisn0y7jSbEb"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Death Before Dishonor",
-        "url": "https://open.spotify.com/album/3VOHkQx48iWkRL1PHf97zc"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        }
-      ],
-      "duration_ms": 143766,
-      "name": "Death Before Dishonor",
-      "url": "https://open.spotify.com/track/5MdKLXYWrL48gqZjioO0N4"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Beverly Hills",
-        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 123045,
-      "name": "Skoni",
-      "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Europapa",
-        "url": "https://open.spotify.com/album/3v1pSXwPFLvjQWbcN1iwKS"
-      },
-      "artists": [
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        }
-      ],
-      "duration_ms": 160218,
-      "name": "Europapa",
-      "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "No Sleep",
-        "url": "https://open.spotify.com/album/2peljNrepnuuVPc8PKSCpE"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        }
-      ],
-      "duration_ms": 213733,
-      "name": "No Sleep",
-      "url": "https://open.spotify.com/track/5nM5TStrOQt5HQAt4VzyHz"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
-      "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/1L2QiHrJaY7at3MWJShPG9"
-      },
-      "artists": [
-        {
-          "name": "FLY LO",
-          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
-        }
-      ],
-      "duration_ms": 120615,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/5Hi8Ym8bzFinGpPwbpMTdQ"
-    },
-    {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
         "name": "BBL",
         "url": "https://open.spotify.com/album/1TbCnLNBi0MTyvyiEt3wfl"
@@ -973,28 +801,200 @@
       "url": "https://open.spotify.com/track/5PcFy1S7mLSZedQaRA0R1u"
     },
     {
-      "added_at": "2024-05-20 09:25:46",
+      "added_at": "2024-05-21 10:23:09",
       "album": {
-        "name": "ANASAINO KAI ZALIZOMAI",
-        "url": "https://open.spotify.com/album/2UgIdLydL04XUygE4rqF6j"
+        "name": "Sukarie",
+        "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
       },
       "artists": [
         {
-          "name": "LILA",
-          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
         },
         {
-          "name": "Sin Laurent",
-          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
-        },
-        {
-          "name": "Beyond",
-          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+          "name": "Thodoris Verlis",
+          "url": "https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz"
         }
       ],
-      "duration_ms": 158085,
-      "name": "ANASAINO KAI ZALIZOMAI",
-      "url": "https://open.spotify.com/track/0Wl2xRQZH2c5GdYLJIGCaN"
+      "duration_ms": 182400,
+      "name": "Sukarie",
+      "url": "https://open.spotify.com/track/3EDocnZVJedQToA6rv8v3p"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Homesick",
+        "url": "https://open.spotify.com/album/4WosJwHEcsbDlTj7a2fk5R"
+      },
+      "artists": [
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        },
+        {
+          "name": "Mateos Nps",
+          "url": "https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV"
+        }
+      ],
+      "duration_ms": 186979,
+      "name": "Amarties",
+      "url": "https://open.spotify.com/track/2BpzWytgabzoy6xYi1H66R"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "la noia",
+        "url": "https://open.spotify.com/album/3thPAnMavUmX8gGyjOzYFI"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "duration_ms": 189124,
+      "name": "la noia",
+      "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Beverly Hills",
+        "url": "https://open.spotify.com/album/2VntvMP9WSDqPXlsFAbhKW"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        }
+      ],
+      "duration_ms": 123045,
+      "name": "Skoni",
+      "url": "https://open.spotify.com/track/6YfzfBiC4dpF5yv63QcLCY"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/1L2QiHrJaY7at3MWJShPG9"
+      },
+      "artists": [
+        {
+          "name": "FLY LO",
+          "url": "https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu"
+        }
+      ],
+      "duration_ms": 120615,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/5Hi8Ym8bzFinGpPwbpMTdQ"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "H MASKA",
+        "url": "https://open.spotify.com/album/5sJyWYQHi5jamYY4XZY4cY"
+      },
+      "artists": [
+        {
+          "name": "Sicario",
+          "url": "https://open.spotify.com/artist/6x0pz3N2n51qG75kjMR4uV"
+        }
+      ],
+      "duration_ms": 247346,
+      "name": "KSEHORISTO",
+      "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "THE DEAL",
+        "url": "https://open.spotify.com/album/6MrQVsxWATii7CjY9MDs7n"
+      },
+      "artists": [
+        {
+          "name": "Bloody Hawk",
+          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
+        },
+        {
+          "name": "Dani Gambino",
+          "url": "https://open.spotify.com/artist/0JDrljGBQpzIKFIcZ4R1H4"
+        },
+        {
+          "name": "Wang",
+          "url": "https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy"
+        }
+      ],
+      "duration_ms": 303333,
+      "name": "THE DEAL",
+      "url": "https://open.spotify.com/track/28ooJkbDOGToXhO1NRoBhQ"
+    },
+    {
+      "added_at": "2024-05-21 10:23:09",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     }
   ],
   "unique_name": "Top 50 - Greece",

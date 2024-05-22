@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,191,894 likes - 100 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,192,011 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 68 | [02.02.99](https://open.spotify.com/track/582YxhgpJEY0aEHQtVQFhO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [02.02.99](https://open.spotify.com/album/079OfpydEQxerHZRJD3Or9) | 2:42 |
 | 69 | [100+ \(feat\. Lil Baby\)](https://open.spotify.com/track/6NJYGSDR7I0Bz7NlUhmlxE) | [Young Shiners](https://open.spotify.com/artist/3j8KnvnrydBHrj5y4BblMp), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [EST Marti](https://open.spotify.com/artist/5DZRcxS14ntEBa4mAJkikV), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Shiners Are Forever](https://open.spotify.com/album/15xQHdl4XG9vWf7dU48IBX) | 2:59 |
 | 70 | [Let's Go \- Remix](https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Let's Go \(Remix\)](https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2) | 2:19 |
-| 71 | [No Diddy](https://open.spotify.com/track/6WGP3utzkTZKUZiIuhHVQT) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [No Diddy](https://open.spotify.com/album/7k1VyUWPLgSiD8mLkWuOOP) | 3:24 |
+| 71 | [No Diddy](https://open.spotify.com/track/6WGP3utzkTZKUZiIuhHVQT) | [Jackboy](https://open.spotify.com/artist/2S2mt1DiA4QKdKvtqwxrbB), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [No Diddy](https://open.spotify.com/album/7k1VyUWPLgSiD8mLkWuOOP) | 3:23 |
 | 72 | [Subject](https://open.spotify.com/track/5ulhSfhwH8HJtYtYUTCTdg) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Subject](https://open.spotify.com/album/2URgWzMdduouoVGG0zSzPf) | 2:40 |
 | 73 | [Keep It Low \(feat\. Future\)](https://open.spotify.com/track/3kH94a1MQM7YrpsZRWuXrh) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Keep It Low \(feat\. Future\)](https://open.spotify.com/album/30XjUCo4sqJqNuYuJdYAFu) | 2:22 |
 | 74 | [No Fake Love](https://open.spotify.com/track/7cUTJwL4pZiD3oTr5bKQSg) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [No Fake Love](https://open.spotify.com/album/0tJu26afSbkWTDgBABZeEV) | 2:26 |

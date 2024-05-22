@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Billie Eilish \(pictured\), Peggy Gou, ZAYN and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,913 likes - 124 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,966 likes - 124 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

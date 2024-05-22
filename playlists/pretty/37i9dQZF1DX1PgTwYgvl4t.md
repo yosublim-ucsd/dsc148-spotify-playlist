@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=f30pYG6KQaiHmVDQayf2lg>Victoria Orenze</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,516 likes - 52 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,650 likes - 52 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 51 | [ÀÁNU RE \- Live](https://open.spotify.com/track/7cis87CPYVitN0xfV8XCum) | [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [ÀÁNU RE \(Live\)](https://open.spotify.com/album/58f0lm4ufYoihz27JA9Rrv) | 6:43 |
 | 52 | [In You](https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [In You](https://open.spotify.com/album/4sKh0lvHz8RmO3BOpETpZS) | 2:39 |
 
-Snapshot ID: `ZkaePAAAAACoPV9/ZOvYHpvdP2RZAw5t`
+Snapshot ID: `Zk01vAAAAABHcu3dAnrrIOz4D3XR1C/h`

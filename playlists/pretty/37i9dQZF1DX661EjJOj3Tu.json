@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 514981,
+  "num_followers": 515022,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -467,26 +467,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Mango",
-        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
-      },
-      "artists": [
-        {
-          "name": "The Bahama Soul Club",
-          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
-        },
-        {
-          "name": "Arema Arega",
-          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
-        }
-      ],
-      "duration_ms": 221954,
-      "name": "Mango",
-      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 417302,
       "name": "Como Fue (feat. Bobby Carcass\u00e9s)",
       "url": "https://open.spotify.com/track/23DTCcj8R5BHYgsprq5ngD"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Mango",
+        "url": "https://open.spotify.com/album/59PyMjDWf4lvoQTtNUNUcX"
+      },
+      "artists": [
+        {
+          "name": "The Bahama Soul Club",
+          "url": "https://open.spotify.com/artist/2xcyMeQhPSRjXrSVZDkVGo"
+        },
+        {
+          "name": "Arema Arega",
+          "url": "https://open.spotify.com/artist/4PoCFDDkJ29rcgBOVTUY5C"
+        }
+      ],
+      "duration_ms": 221954,
+      "name": "Mango",
+      "url": "https://open.spotify.com/track/1YiIduNkxaZtiojkkQxk2R"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        }
-      ],
-      "duration_ms": 454291,
-      "name": "Cuchifrito",
-      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Coral Way",
         "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 219999,
       "name": "Coral Way",
       "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        }
+      ],
+      "duration_ms": 454291,
+      "name": "Cuchifrito",
+      "url": "https://open.spotify.com/track/3KL71OfzGjSeNeMfPQ4w3V"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -707,26 +707,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Que Ser\u00e1",
-        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Munir Hossn",
-          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Que Ser\u00e1",
-      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Flor De Piel",
         "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 311920,
       "name": "En Esta Tarde Gris",
       "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Que Ser\u00e1",
+        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Munir Hossn",
+          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Que Ser\u00e1",
+      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ultimate Duets",
-        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
-      },
-      "artists": [
-        {
-          "name": "Arturo Sandoval",
-          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
-        },
-        {
-          "name": "Josh Groban",
-          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Solo Esta Soledad",
-      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "El Arte Del Bolero",
         "url": "https://open.spotify.com/album/71ESLz3m93ORMv1ebjdV7c"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 477496,
       "name": "C\u00f3mo Fue",
       "url": "https://open.spotify.com/track/71kX9pOTMTHA5ofZj4TUmS"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Ultimate Duets",
+        "url": "https://open.spotify.com/album/28xn3zHQbQHtmAL8dptb4A"
+      },
+      "artists": [
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        },
+        {
+          "name": "Josh Groban",
+          "url": "https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Solo Esta Soledad",
+      "url": "https://open.spotify.com/track/4Y30iXqao3OnzhSFQaBW7L"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Te Lo Dije",
         "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 198783,
       "name": "JazzT\u00f3n",
       "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Tu, la Tierra",
+        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Rojas",
+          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
+        },
+        {
+          "name": "Susana Baca",
+          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
+        }
+      ],
+      "duration_ms": 237186,
+      "name": "Tu, la Tierra",
+      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Back to the Sunset",
         "url": "https://open.spotify.com/album/4cVleu2VjKo3Ujz86nzDqB"
       },
@@ -1795,26 +1815,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Tu, la Tierra",
-        "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Rojas",
-          "url": "https://open.spotify.com/artist/090N9hqT8Tn5nYcvkjVqkM"
-        },
-        {
-          "name": "Susana Baca",
-          "url": "https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0"
-        }
-      ],
-      "duration_ms": 237186,
-      "name": "Tu, la Tierra",
-      "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Stringwise",
         "url": "https://open.spotify.com/album/2MG0iMoEPcF2qqgjqOndzA"
       },
@@ -1835,18 +1835,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Bruma: Celebrating Milton Nascimento",
-        "url": "https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e"
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
       },
       "artists": [
         {
-          "name": "Antonio Adolfo",
-          "url": "https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9"
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
         }
       ],
-      "duration_ms": 328560,
-      "name": "Encontros E Despedidas",
-      "url": "https://open.spotify.com/track/1fFSzpBvEwJ8G9lbyMlGlZ"
+      "duration_ms": 344606,
+      "name": "Guarajazz",
+      "url": "https://open.spotify.com/track/1skp5PmXkbwb9uUHI3mPSg"
     }
   ],
   "unique_name": "Latin Jazz",

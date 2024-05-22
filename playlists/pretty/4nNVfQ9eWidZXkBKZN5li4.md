@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 228,122 likes - 116 songs - 7 hr 5 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 228,114 likes - 116 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 | 115 | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1YOW5pnfikVa6BcCBIOQUU) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/5ihBJJNvnTaDzEj1i2ACwM) | 3:51 |
 | 116 | [O Maahi \(From "Dunki"\)](https://open.spotify.com/track/0qQ4IdhjzNr0gJhdMTf2n3) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [O Maahi \(From "Dunki"\)](https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC) | 3:53 |
 
-Snapshot ID: `AAAUw2tumAjP9Evc5lh/LKLuz9xP1i+c`
+Snapshot ID: `AAAUxAlkldu1MzlKI/ZF+tZ+HEFk5KAB`

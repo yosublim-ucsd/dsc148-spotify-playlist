@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 14288,
+  "num_followers": 14290,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "INTOXYCATED (feat. Dave)",
+        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 212000,
+      "name": "INTOXYCATED (feat. Dave)",
+      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -255,22 +259,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "INTOXYCATED (feat. Dave)",
-        "url": "https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV"
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
         }
       ],
-      "duration_ms": 212000,
-      "name": "INTOXYCATED (feat. Dave)",
-      "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -367,6 +367,26 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "My Dealer",
+        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
+      },
+      "artists": [
+        {
+          "name": "KAESTYLE",
+          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 148297,
+      "name": "My Dealer",
+      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Soweto (with Omah Lay & Tempoe)",
         "url": "https://open.spotify.com/album/7Dw31c2yokW19SZNFtby5X"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "My Dealer",
-        "url": "https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU"
-      },
-      "artists": [
-        {
-          "name": "KAESTYLE",
-          "url": "https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 148297,
-      "name": "My Dealer",
-      "url": "https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Danger",
-        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 148651,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 209968,
       "name": "Different Size (feat. Victony)",
       "url": "https://open.spotify.com/track/5Z1vl9fO2iaqB7M6B6MLat"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Danger",
+        "url": "https://open.spotify.com/album/7INuTkjRWZjmsTF2GvfSKh"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 148651,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
-      },
-      "artists": [
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        }
-      ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Want You",
         "url": "https://open.spotify.com/album/7I2CUrd8gtIBHVXXhFbCuX"
       },
@@ -1103,22 +1083,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Zero",
-        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
+        "name": "AREA BOYZ",
+        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "NSG",
+          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
         }
       ],
-      "duration_ms": 176692,
-      "name": "Zero",
-      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
+      "duration_ms": 250920,
+      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1135,6 +1115,26 @@
       "duration_ms": 153103,
       "name": "Peace Be Unto You (PBUY)",
       "url": "https://open.spotify.com/track/1mJFFeluclL38IwV264lm9"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "AREA BOYZ",
-        "url": "https://open.spotify.com/album/3Uo1dpUULgBeWEgjf5AMsd"
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/3hEMQKXVKJWkoOu6Cj0Nhc"
       },
       "artists": [
         {
-          "name": "NSG",
-          "url": "https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA"
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
         },
         {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 250920,
-      "name": "AREA BOYZ PRAYER (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/4q66cTrveS3OCh2cIeOKRS"
+      "duration_ms": 176692,
+      "name": "Zero",
+      "url": "https://open.spotify.com/track/1ZBoY6ta9ANMD19SGsp7JN"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
+        "name": "Kweku Jesus",
+        "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
+      },
+      "artists": [
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "duration_ms": 184385,
+      "name": "Jah Guide",
+      "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
         "name": "Sober (Soo Bad)",
         "url": "https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
-        "name": "Kweku Jesus",
-        "url": "https://open.spotify.com/album/5PVHieQPIKB81wkDQ4SBz2"
-      },
-      "artists": [
-        {
-          "name": "Kweku Smoke",
-          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
-        }
-      ],
-      "duration_ms": 184385,
-      "name": "Jah Guide",
-      "url": "https://open.spotify.com/track/68z8LK5OWx69lhL2Jj2V8R"
     },
     {
       "added_at": "2024-05-17 00:01:00",

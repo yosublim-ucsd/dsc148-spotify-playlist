@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover \- Natania, Subhi & Shalmali
 
-311 songs - 18 hr 21 min
+312 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Dooriyan](https://open.spotify.com/track/0MkiFdqyxCy38AVfk9f8N5) | [Radnyi Tyagraj](https://open.spotify.com/artist/1VD8SZyyHr71h9hJtIfQma), [Bramha](https://open.spotify.com/artist/54aaAVP09vkCtRd9WjuEW8), [DeRAWAT](https://open.spotify.com/artist/36iJ2lo4vggUAweT8OJ2S0) | [Dooriyan](https://open.spotify.com/album/5Z0SfXPqh2ghL6CrdEecRh) | 3:03 | 2021-12-10 | 2022-02-02 |
 | [Dum Hai Toh Aaja \- From "Sam Bahadur"](https://open.spotify.com/track/5bGu8UREkeCtHglvOAFcR0) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Sam Bahadur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4XCmGQKLUg0jr3uPQEhXQH) | 2:51 | 2023-11-28 | 2023-11-30 |
 | [DYNAMITE](https://open.spotify.com/track/7MOXP0ZdRqWUTYz44BpsHY) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [DYNAMITE](https://open.spotify.com/album/34PiZyEGOyoXAe0HE1N2al) | 2:53 | 2022-05-04 | 2023-01-04 |
+| [Ek Khwaab](https://open.spotify.com/track/4BLS4whPCafeIwc3HjGhlt) | [Neha Bhasin](https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z) | [Ek Khwaab](https://open.spotify.com/album/2OV5h8oUYjIPrYBaG9RgFv) | 3:18 | 2024-05-21 |  |
 | [Ek Tarfa](https://open.spotify.com/track/6s7dQ6nHwILfXw1SMyOI8F) | [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Ek Tarfa](https://open.spotify.com/album/48N7cNRVOafA9ERnFHkIIy) | 3:46 | 2022-09-07 | 2023-03-03 |
 | [Fikkar Koi Na \- Female Version](https://open.spotify.com/track/3aUeXn3MYEojxXBqrdJlgy) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [The Koko](https://open.spotify.com/artist/5fdZP1hlx6kNQlOVVunTi3), [Sync](https://open.spotify.com/artist/1JT2GXhUeRkIglDUazBmVH) | [Fikkar Koi Na \(Female Version\)](https://open.spotify.com/album/07HlaUf3JFUc8jhxvlnLcE) | 2:52 | 2022-02-01 | 2022-03-08 |
 | [Firaaq](https://open.spotify.com/track/2KqjyZUxqp8AstWlcgn2gA) | [Daboo Malik](https://open.spotify.com/artist/5pizYgjzyLFGdSQp80rQF1), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Firaaq](https://open.spotify.com/album/3GZbbelzDwCclNQwt4yEEh) | 3:52 | 2022-02-01 | 2022-03-08 |
@@ -131,7 +132,7 @@
 | [Kashmiri Apple](https://open.spotify.com/track/3BOCJTidTQjcF1Wtx23FEG) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Kashmiri Apple](https://open.spotify.com/album/4uv4ayUNwsS959kshlPpxi) | 3:24 | 2022-03-07 | 2022-04-06 |
 | [Kehndi Haan Kehndi Naa](https://open.spotify.com/track/7jl8FKIm4v4RfaGXLEV0s6) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86) | [Kehndi Haan Kehndi Naa](https://open.spotify.com/album/5KBhZPdX6L8iWK8E6azUde) | 3:21 | 2022-02-01 | 2022-03-08 |
 | [Kehri Gali](https://open.spotify.com/track/1paDFKGNdKWOSq8sk4Bv8u) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Tini \- EP](https://open.spotify.com/album/2ieFpeF1ll67TuqGjmOJP3) | 3:33 | 2022-09-06 | 2023-12-09 |
-| [Khaali Botal](https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Khaali Botal](https://open.spotify.com/album/6YatkhZz9GNPjrh6Zyrdye) | 4:16 | 2024-04-16 |  |
+| [Khaali Botal](https://open.spotify.com/track/5TWA9jc24sOjhO3Xlx1ZlG) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE) | [Khaali Botal](https://open.spotify.com/album/6YatkhZz9GNPjrh6Zyrdye) | 4:16 | 2024-04-16 | 2024-05-22 |
 | [Khayaal](https://open.spotify.com/track/1hlpcQkgSpvHTrdVIz79Ow) | [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES), [Goldie Sohel](https://open.spotify.com/artist/5Y9YGMxRoQYfJFj4kJ9TVv) | [Khayaal](https://open.spotify.com/album/4Ox9ZXam3tPU1uOQrRZKsu) | 3:55 | 2024-02-09 | 2024-05-11 |
 | [Khwaab](https://open.spotify.com/track/0iEdt7cayQ2XbicDeWFztj) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Khwaab](https://open.spotify.com/album/2kNkewZHbS6gbDlDoIqFy4) | 2:58 | 2023-03-02 | 2023-08-04 |
 | [Kise Hor Da](https://open.spotify.com/track/6VtaoiKwWcVNtTpr8vTRUE) | [AKASA](https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s) | [Manmaani](https://open.spotify.com/album/2LAmN6XVq5kGH59XOezHkM) | 2:36 | 2023-12-21 | 2024-02-08 |

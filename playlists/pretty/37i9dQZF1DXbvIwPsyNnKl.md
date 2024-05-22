@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 > The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Young Blood Neet x Bugoy Na Koykoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,132,686 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,133,484 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

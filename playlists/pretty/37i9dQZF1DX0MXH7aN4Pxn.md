@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 699,412 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 699,429 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 81 | [Atmosphere](https://open.spotify.com/track/0yfJlRyn9VEZfonQUIPdkr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Atmosphere](https://open.spotify.com/album/0HJyrlWLM8NLuxsjbvLejV) | 3:02 |
 | 82 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
 | 83 | [Liquid Spirit \- Claptone Remix](https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Liquid Spirit \(Claptone Remix\)](https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2) | 6:23 |
-| 84 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 |
-| 85 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 |
+| 84 | [Million Dollar Bill](https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7) | [Beyond Chicago](https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Alex Mills](https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq) | [Million Dollar Bill](https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7) | 2:08 |
+| 85 | [Fuck The Pain Away](https://open.spotify.com/track/4xCmCF6pHz0v6vcANehny0) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Peaches](https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:43 |
 | 86 | [Stay Together \(Baby Baby\) \[feat\. Vula\]](https://open.spotify.com/track/5Wwrj8E4h3bJQjOvzpPg9T) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [Vula](https://open.spotify.com/artist/6YqhcZlSE8ugUcmoHLw9gz) | [Stay Together \(Baby Baby\) \[feat\. Vula\]](https://open.spotify.com/album/3RqBN822NxPDfCa6D7j33i) | 2:36 |
 | 87 | [FLUTE](https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO) | [MONSS](https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz) | [FLUTE](https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF) | 3:17 |
 | 88 | [Panic Room](https://open.spotify.com/track/3MkuFR7t25mu7Iscp6GGiV) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [Panic Room](https://open.spotify.com/album/0I1FZLxw8XWEwQMLMAlTkp) | 3:34 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MXH7aN4Pxn.md) - [plain]
 | 97 | [They Don't Know \- Radio Edit](https://open.spotify.com/track/3ddsRCIG5TcpytqsfTOnX1) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB) | [They Don't Know \(Radio Edit\)](https://open.spotify.com/album/3PFPHmT6f2Meat5xuT42MV) | 2:41 |
 | 98 | [Turn Me On](https://open.spotify.com/track/70pNsXFxPkPw5pkwMuywP2) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DAMANTE](https://open.spotify.com/artist/6OwdAyf853gxbmJCqzDtSQ) | [Turn Me On](https://open.spotify.com/album/1dACmwUnkKyXTl2w04Zymr) | 2:06 |
 | 99 | [Hella Good](https://open.spotify.com/track/1ck6fXDzbKiWKCVSfqxsUB) | [Niko The Kid](https://open.spotify.com/artist/0FPoqGEZFwHQfu5tRPL08X), [Benson](https://open.spotify.com/artist/1b4hTx0gHm3uA0AkZ3GdtY) | [Hella Good](https://open.spotify.com/album/7r5MlpWk6gQ2fCRDWjUIzn) | 2:55 |
-| 100 | [Don't Stop The Party](https://open.spotify.com/track/3yU05u9gw48xEmBbjXij53) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Don't Stop The Party](https://open.spotify.com/album/0OfADW0uRpFXhedZyHOnkO) | 3:05 |
+| 100 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 |
 
 Snapshot ID: `ZkaePAAAAAAfYY/9nSBNP8k89EhhLG/s`

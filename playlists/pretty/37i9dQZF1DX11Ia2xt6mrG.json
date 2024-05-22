@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 57200,
+  "num_followers": 57211,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -1391,6 +1391,30 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
+        "name": "Ruja",
+        "url": "https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS"
+      },
+      "artists": [
+        {
+          "name": "Flavor Dudes",
+          "url": "https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y"
+        },
+        {
+          "name": "Roylets",
+          "url": "https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY"
+        },
+        {
+          "name": "Ad\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
+        }
+      ],
+      "duration_ms": 174891,
+      "name": "Ruja",
+      "url": "https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
         "name": "\u00a1Bang Bang!",
         "url": "https://open.spotify.com/album/5DwaVHb22Cf0iI4eVhloH1"
       },
@@ -1419,30 +1443,6 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "Ruja",
-        "url": "https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS"
-      },
-      "artists": [
-        {
-          "name": "Flavor Dudes",
-          "url": "https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y"
-        },
-        {
-          "name": "Roylets",
-          "url": "https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY"
-        },
-        {
-          "name": "Ad\u00e1n Cruz",
-          "url": "https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR"
-        }
-      ],
-      "duration_ms": 174891,
-      "name": "Ruja",
-      "url": "https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
         "name": "Amanece",
         "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
       },
@@ -1455,26 +1455,6 @@
       "duration_ms": 332560,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
-        "name": "UP (Bzars Remix)",
-        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
-      },
-      "artists": [
-        {
-          "name": "INNA",
-          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
-        },
-        {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "UP (Bzars Remix)",
-      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1499,6 +1479,26 @@
       "duration_ms": 211903,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "UP (Bzars Remix)",
+        "url": "https://open.spotify.com/album/57NJ9mlC0mPtXJAc6T9Q2g"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "UP (Bzars Remix)",
+      "url": "https://open.spotify.com/track/0emY0nAu2g2ExIHmb5TNCB"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
         "name": "Hanging Tree",
         "url": "https://open.spotify.com/album/4ldIgsaqKxrv5s44HLJ28S"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 173760,
       "name": "Hanging Tree",
       "url": "https://open.spotify.com/track/0BKgZjR0nB7zYXqlGvW4hQ"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     },
     {
       "added_at": "2024-05-20 21:33:08",

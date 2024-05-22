@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 
 > Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Rvssian, Ayra Starr & Rauw Alejandro
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,778 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,788 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzQ2Vx5M6uV.md) - [plain]
 | 46 | [Baila Kumi](https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Baila Kumi](https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav) | 3:26 |
 | 47 | [Guava Rose](https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK) | [June Freedom](https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC), [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Guava Rose](https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs) | 3:12 |
 | 48 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
-| 49 | [Drogba \(Joanna\) \- Global Latin Version](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Chosen Few](https://open.spotify.com/artist/35Btqnex8RxQg68iBRD16v) | [Drogba \(Joanna\) \[Global Latin Version\]](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
+| 49 | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/track/6P1lijcRsH94klfkw7zEUj) | [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Drogba \(Joanna\) \(Global Latin Version\)](https://open.spotify.com/album/1zVgKFneyzt9OMn0Bg8oBq) | 3:17 |
 | 50 | [MOSLADO](https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [WONDALAND](https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw) | 3:26 |
 | 51 | [Zimenice](https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18) | [Chris Kaiga](https://open.spotify.com/artist/1S879JVAjzvTzxmSq7DFCz), [Tezzla](https://open.spotify.com/artist/05T1hjv3SFJ2AnLwB6bpd3) | [Zimenice](https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0) | 3:32 |
 | 52 | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/track/3VmnJVSkgLIZujxut5yf73) | [Team Salut](https://open.spotify.com/artist/2QoOImOYDWU4i2DyQoLVAH), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [Boom Bam \(with Afro B & Mariah Angeliq](https://open.spotify.com/album/3SgiVymzgM0tF6U0Uua8hH) | 2:57 |

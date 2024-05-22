@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Zbqt8mPfYuL4tGBq13sFT">Aaron Dessner</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-245 songs - 16 hr 24 min
+246 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,7 +20,8 @@
 | [Amazing](https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:05 | 2024-04-25 |  |
 | [Amelie](https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:19 | 2024-04-25 |  |
 | [American Mary \- 2021 Remaster](https://open.spotify.com/track/0I5erZXdbZS3uSYuftoi2d) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 4:02 | 2024-04-25 |  |
-| [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2024-04-25 |  |
+| [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2024-04-25 | 2024-05-22 |
+| [American Town](https://open.spotify.com/track/4rDvBpFgKbgJepZTaP0rD6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:17 | 2024-05-21 |  |
 | [Augusta](https://open.spotify.com/track/35h0oVv5uf0WPNMaFAmNXS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:57 | 2024-04-25 |  |
 | [Available](https://open.spotify.com/track/4rzAsxogB0Y1mEUapp6Y4P) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Sad Songs for Dirty Lovers](https://open.spotify.com/album/2GXoU6gpOlx1oZ0DkNgrUM) | 3:20 | 2024-04-25 |  |
 | [Beautiful Head \- 2021 Remaster](https://open.spotify.com/track/5n7ZqHJo1d3ensM9ovgpF4) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [The National \(2021 Remaster\)](https://open.spotify.com/album/68NmQ5XgjHsKYcJZJKkvSp) | 3:08 | 2024-04-25 |  |

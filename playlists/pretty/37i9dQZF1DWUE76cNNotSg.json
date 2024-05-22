@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 526097,
+  "num_followers": 526369,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1679,6 +1679,22 @@
     {
       "added_at": "2024-04-19 04:40:02",
       "album": {
+        "name": "comic relief",
+        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
+      },
+      "artists": [
+        {
+          "name": "David Bay",
+          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
+        }
+      ],
+      "duration_ms": 197733,
+      "name": "<3 beat",
+      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
+    },
+    {
+      "added_at": "2024-04-19 04:40:02",
+      "album": {
         "name": "Lovely Day (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 165789,
       "name": "Lovely Day - Austin Millz Remix",
       "url": "https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy"
-    },
-    {
-      "added_at": "2024-04-19 04:40:02",
-      "album": {
-        "name": "comic relief",
-        "url": "https://open.spotify.com/album/0atx8iYFmiwntVxFkr7Fou"
-      },
-      "artists": [
-        {
-          "name": "David Bay",
-          "url": "https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo"
-        }
-      ],
-      "duration_ms": 197733,
-      "name": "<3 beat",
-      "url": "https://open.spotify.com/track/5LU0XONtCOg9zduG7t0CZI"
     },
     {
       "added_at": "2024-04-19 04:40:02",

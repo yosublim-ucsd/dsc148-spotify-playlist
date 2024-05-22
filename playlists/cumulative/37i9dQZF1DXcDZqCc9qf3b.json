@@ -1269,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Thelma The Unicorn (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH"
+      },
+      "artists": [
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206559,
+      "name": "Just As You Are - From the Netflix Film \"Thelma the Unicorn\"",
+      "url": "https://open.spotify.com/track/5DuSa5TfSngmuL0Z8qFvts"
+    },
+    {
+      "album": {
         "name": "Thai Cave Rescue (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/7kDe7QIbUXeF4FrzIHmX8D"
       },

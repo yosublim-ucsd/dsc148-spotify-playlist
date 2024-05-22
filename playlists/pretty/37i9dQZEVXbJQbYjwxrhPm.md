@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 25 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 |
 | 26 | [Обичам те, ти мене \- не](https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Обичам те, ти мене \- не](https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ) | 2:48 |
 | 27 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 |
-| 28 | [DVAMATA](https://open.spotify.com/track/3xwNG8evnrOMelmAJ9RxJ1) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2) | [3/3 vol\. 3](https://open.spotify.com/album/7DD5gSaNExnrTIC288V29q) | 3:53 |
+| 28 | [DVAMATA](https://open.spotify.com/track/3xwNG8evnrOMelmAJ9RxJ1) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Mishell](https://open.spotify.com/artist/4M47drOmnvyfjvu7H3TFH2) | [3/3 Vol\. 3](https://open.spotify.com/album/7DD5gSaNExnrTIC288V29q) | 3:53 |
 | 29 | [Никъде](https://open.spotify.com/track/5ROUivw3bUOzFWVzZlstRm) | [Robi](https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz), [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | [Никъде](https://open.spotify.com/album/3w2dZfDpvo3lOVpY7gDdWY) | 3:13 |
 | 30 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
 | 31 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Бавария](https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Бавария](https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG) | 3:17 |
 | 50 | [TAKA TAKA](https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [TAKA TAKA](https://open.spotify.com/album/7bQTgMCz2F7KOyvl46Uf9y) | 3:04 |
 
-Snapshot ID: `Ld6zQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LeAEwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

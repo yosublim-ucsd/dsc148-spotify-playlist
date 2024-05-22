@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 
 > Classic 12" singles to take you back to the the vinyl era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,647 likes - 80 songs - 8 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,759 likes - 80 songs - 8 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 48 | [I Can't Stand the Rain \- Extended 12" Remix; 2015 Remaster](https://open.spotify.com/track/1vyPz26Qiew0MjlJtpsvN2) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 5:41 |
 | 49 | [Shattered Dreams \- 12'' Extended Mix](https://open.spotify.com/track/0bzN1ky1onoeDSbayxt0Gi) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [The Very Best Of Johnny Hates Jazz](https://open.spotify.com/album/0NDIvDmFe9H6DOBKwsOmgB) | 5:12 |
 | 50 | [True Faith \- Shep Pettibone 12" Remix](https://open.spotify.com/track/6gIg6yHRojDG9Px3eSIZ3P) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Brotherhood \(Collector's Edition\)](https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu) | 9:03 |
-| 51 | [Raspberry Beret \- Extended 12" Version](https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Raspberry Beret](https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx) | 6:40 |
+| 51 | [The Riddle \- Extended Riddle](https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 5:10 |
 | 52 | [Sussudio \- Extended Remix](https://open.spotify.com/track/4eZxIWW9JcaKo0xcKegItn) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [12"ers](https://open.spotify.com/album/4vDz0u2AwgacbWvI827om5) | 6:35 |
-| 53 | [The Riddle \- Extended Riddle](https://open.spotify.com/track/0igY0kvEQIEyvC9Uj9DYY1) | [Nik Kershaw](https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac) | [The Riddle \(Expanded Edition\)](https://open.spotify.com/album/2CqELgQ8dNxGgBuIic49Gq) | 5:10 |
+| 53 | [Raspberry Beret \- Extended 12" Version](https://open.spotify.com/track/1O3xlreuUsPlSJXUYZzTjs) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Raspberry Beret](https://open.spotify.com/album/2aJPa9emKOSIGUJpxgjNnx) | 6:40 |
 | 54 | [Shout \- U.S\. Remix](https://open.spotify.com/track/6F1UlQcpFzL3RLuRSQwK2n) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Steve Thompson](https://open.spotify.com/artist/072BKskZiAjsLMHqZkX9bo), [Michael Barbiero](https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1) | [12" 80s Classics](https://open.spotify.com/album/77zu6NfDouq2TomJaVadKb) | 8:00 |
 | 55 | [High Society Girl \- Long Dub Version; 1983 Digital Remaster](https://open.spotify.com/track/5bTXVkgoUZs8SXngRproJG) | [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Good Vibes \- The Very Best of Laid Back](https://open.spotify.com/album/2PTte9WD2NqJzmbqNaDpa1) | 6:10 |
 | 56 | [Never Ending Story \- 12'' Dance Mix](https://open.spotify.com/track/0MnpVLnTeduZTulhqaU3kU) | [Limahl](https://open.spotify.com/artist/7LTzUnZaptYfAFmvqW5M6D) | [Never Ending Story](https://open.spotify.com/album/2IMheU2zkSgqXk01d1GRrD) | 6:08 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbNxO0uJPyJ9.md) - [plain]
 | 73 | [Jump \(For My Love\) \- 12" Long Version](https://open.spotify.com/track/14PU9jOwOrTqhknAqz0rNT) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Goldmine: The Best Of The Pointer Sisters](https://open.spotify.com/album/3C38glg2GLKKsTwcLYYQa7) | 6:24 |
 | 74 | [Back To Life \(However Do You Want Me\) \- One World Remix](https://open.spotify.com/track/41k3TdCIcig3faspsOEtt9) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 6:34 |
 | 75 | [The Reflex \- Dance Mix](https://open.spotify.com/track/5CbvdXluVAq96ePQYg1xbi) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [The Singles 81\-85](https://open.spotify.com/album/2nKTcZhqiPzJCGfBmjPR7a) | 6:34 |
-| 76 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
-| 77 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
-| 78 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
-| 79 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
+| 76 | [Axel F \- Extended Mix](https://open.spotify.com/track/3vGfr8E9nAEdi1iZxZQv74) | [Forever 80](https://open.spotify.com/artist/4L1IYCTwbB9PXUtVT10HCM) | [Axel F \(Theme from "Beverly Hills Cop"\)](https://open.spotify.com/album/3BGEfvBICQ2tqWoEzt1OmV) | 5:10 |
+| 77 | [High Energy \(Extended Version\)](https://open.spotify.com/track/5kUiHXmyAYfhHpue64CWlQ) | [Evelyn Thomas](https://open.spotify.com/artist/2YLxwK8ceDNaG8RHhtkcQh) | [High Energy](https://open.spotify.com/album/2u0fuYIuuwvGwb6vO9utFn) | 7:51 |
+| 78 | [Vamos a la Playa \- 1983 Maxi](https://open.spotify.com/track/45CDt8Bli1qsoskZQTpxzD) | [Righeira](https://open.spotify.com/artist/6hfVCgKTJbLM6M18e2z7OI) | [Best of Righeira \(Le meilleur des annees 80\)](https://open.spotify.com/album/1wch1bSItmAwqaJ1PhsSoB) | 5:06 |
+| 79 | [Why ? \- 12'' Version; 2008 Remastered Version](https://open.spotify.com/track/01w9XPwMIXAcyzQ6o9oaNM) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [Hundreds and Thousands](https://open.spotify.com/album/5E3xFtmJsuOMA94EpGTRRF) | 6:18 |
 | 80 | [Uncertain Smile \- 12" Remix](https://open.spotify.com/track/4XpHQQLQRrkpx92NqejUxV) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [45 RPM \- The Singles Of The The](https://open.spotify.com/album/5OCyAuTGiuGmrxL58zWpfa) | 9:59 |
 
 Snapshot ID: `ZcJUFgAAAAAhs3za3IFP/sHcGIxId/Fn`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50FeI1zgOSW.md) - [plain]
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,115 likes - 59 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,137 likes - 59 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

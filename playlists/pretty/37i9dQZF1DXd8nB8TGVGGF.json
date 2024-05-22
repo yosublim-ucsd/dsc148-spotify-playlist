@@ -1,6 +1,6 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 40495,
+  "num_followers": 40545,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 144933,
-      "name": "Outside Woman Blues",
-      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Blues & Trouble (Blues Reference 1983-1985)",
         "url": "https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 298013,
       "name": "Can't Wait to See My Baby's Face",
       "url": "https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 144933,
+      "name": "Outside Woman Blues",
+      "url": "https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Whose Muddy Shoes",
-        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
-      },
-      "artists": [
-        {
-          "name": "John Brim",
-          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Ice Cream Man",
-      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Beck, Bogert, Appice",
         "url": "https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 226826,
       "name": "Black Cat Moan",
       "url": "https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Whose Muddy Shoes",
+        "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
+      },
+      "artists": [
+        {
+          "name": "John Brim",
+          "url": "https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Ice Cream Man",
+      "url": "https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "Let's Work Together",
+        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
+      },
+      "artists": [
+        {
+          "name": "Wilbert Harrison",
+          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
+        }
+      ],
+      "duration_ms": 335533,
+      "name": "Let's Work Together",
+      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Big Mama Thornton with the Muddy Waters Blues Band - 1966",
         "url": "https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 181586,
       "name": "I'm Feeling Alright",
       "url": "https://open.spotify.com/track/1CUuRMphE7FKb1A44vP3Vu"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
-        "name": "Let's Work Together",
-        "url": "https://open.spotify.com/album/35nn7TrslBi7Yf0ru9l6lq"
-      },
-      "artists": [
-        {
-          "name": "Wilbert Harrison",
-          "url": "https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6"
-        }
-      ],
-      "duration_ms": 335533,
-      "name": "Let's Work Together",
-      "url": "https://open.spotify.com/track/59XNlPnp7mkbCTupmPocbJ"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
+        "name": "BD Music & Toppi Present the Blues",
+        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 131946,
+      "name": "Confessin' the Blues",
+      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
         "name": "Shake Your Money Maker: The Best Of The Fire Sessions",
         "url": "https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "BD Music & Toppi Present the Blues",
-        "url": "https://open.spotify.com/album/1f3irUajLCbRpZhS4aZvae"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 131946,
-      "name": "Confessin' the Blues",
-      "url": "https://open.spotify.com/track/1jITXDhtm0vwjyeY3bLVN3"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Free Form Patterns",
         "url": "https://open.spotify.com/album/6XY6Bd52R2cJRI2uaDLqgd"
       },
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Texas Oil - The Complete Federal Recordings",
-        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Wash Out",
-      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Frijid Pink (Digitially Remastered)",
         "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 228626,
       "name": "Drivin' Blues - Remastered",
       "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Texas Oil - The Complete Federal Recordings",
+        "url": "https://open.spotify.com/album/0aUiSnttJkUwVycLAnXKdQ"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Wash Out",
+      "url": "https://open.spotify.com/track/7krwrfAipXYI2aChTzv3t0"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1455,18 +1455,18 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Talkin' Some Sense",
-        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+        "name": "Blues Jam In Chicago - Volume 1",
+        "url": "https://open.spotify.com/album/3t81Ka8mPF6NUUj0MUL43H"
       },
       "artists": [
         {
-          "name": "Lightnin' Hopkins",
-          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 208842,
-      "name": "The Purple Puppy",
-      "url": "https://open.spotify.com/track/6ULPuvWEQYXPPzdfGzq90k"
+      "duration_ms": 226733,
+      "name": "I'm Worried",
+      "url": "https://open.spotify.com/track/7IuiCifsATBLv4PQHHsP5T"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Blues Jam In Chicago - Volume 1",
-        "url": "https://open.spotify.com/album/3t81Ka8mPF6NUUj0MUL43H"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 226733,
-      "name": "I'm Worried",
-      "url": "https://open.spotify.com/track/7IuiCifsATBLv4PQHHsP5T"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 182573,
       "name": "Someday Baby",
       "url": "https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Talkin' Some Sense",
+        "url": "https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA"
+      },
+      "artists": [
+        {
+          "name": "Lightnin' Hopkins",
+          "url": "https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE"
+        }
+      ],
+      "duration_ms": 208842,
+      "name": "The Purple Puppy",
+      "url": "https://open.spotify.com/track/6ULPuvWEQYXPPzdfGzq90k"
     },
     {
       "added_at": "2023-01-27 16:34:16",

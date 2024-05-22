@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-946 songs - 2 day 19 hr 56 min
+947 songs - 2 day 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Awakening](https://open.spotify.com/track/25qARnxoUsIBFGkOXqxkav) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [Awakening](https://open.spotify.com/album/6H6LJIaOw10O3WnmKwTSPQ) | 4:00 | 2019-05-26\* | 2020-08-26 |
 | [Away](https://open.spotify.com/track/5oblHSqS0RHGQy0YxbQ21p) | [Konac](https://open.spotify.com/artist/6XoPTqzeS9Y6YhHCnSH5bQ) | [Away](https://open.spotify.com/album/4t0fCuo7Dmw4LWFabd2gbE) | 4:12 | 2019-05-26\* | 2020-08-26 |
 | [b song](https://open.spotify.com/track/3sykiSQr56MVZW1vp3hJgK) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [The Trip EP](https://open.spotify.com/album/0OVyWmEdWlSrG2EcbkXjt4) | 3:25 | 2019-06-19\* | 2021-03-07 |
-| [Baby, We're Ascending](https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 6:27 | 2022-05-06 |  |
+| [Baby, We're Ascending](https://open.spotify.com/track/3Nn6tQg6gYqCMZR0IpiiFJ) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Baby, We're Ascending](https://open.spotify.com/album/5C2OE4duZUCuR4EEahyUPT) | 6:27 | 2022-05-06 | 2024-05-22 |
 | [Bach: Prelude And Fugue In C \- Ulrich Schnauss Rework](https://open.spotify.com/track/6XNeuuAYTmEd04FQPBorJl) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [András Schiff](https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd), [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE) | [re:works](https://open.spotify.com/album/2hfzcziOuaZXs4H3gZSbRv) | 4:28 | 2019-06-19 | 2020-08-26 |
 | [Balloons \- Radio Edit](https://open.spotify.com/track/7gsBhmfWBTt1SbizSDL1xf) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Balloons](https://open.spotify.com/album/5A7mVowni98nXQptyPID82) | 3:50 | 2019-07-25 | 2020-10-19 |
 | [baxter climb](https://open.spotify.com/track/1sfqPyzweozuYYP7Xg9d7i) | [tstewart](https://open.spotify.com/artist/5xEcI8Vn4ofUa5tLHNNlkV), [Machinedrum](https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4) | [elysian](https://open.spotify.com/album/228l4A41HRKtL3R1rlUNGv) | 4:34 | 2022-04-22 | 2022-07-29 |
@@ -210,6 +210,7 @@
 | [Donut](https://open.spotify.com/track/5rnVpmklzQMUcAa1VMhi1D) | [Stereo Cube](https://open.spotify.com/artist/0lpcim9mbdhneVMoTJDzud) | [Donut](https://open.spotify.com/album/0uQP5J1K4LaRVPEjBJEURt) | 3:42 | 2019-06-21 | 2020-08-26 |
 | [Don’t Leave Me Alone](https://open.spotify.com/track/0sts2lyM27TXVhRUo5uTEx) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Don't Leave Me Alone](https://open.spotify.com/album/4ehmsm1IQXNEF0Va8RHc5z) | 3:02 | 2022-04-22 | 2022-07-29 |
 | [Dorfex Bos \- Bassnectar Remix 2015 Version](https://open.spotify.com/track/4nhPLFdQIZyZzt6mw1mMoX) | [Dorfex Bos](https://open.spotify.com/artist/60lZ2sr01yS7uJQeq7zoPv), [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i) | [Into the Sun](https://open.spotify.com/album/29e92rWX8k9EYyhi3COxtE) | 5:05 | 2019-06-21 | 2020-10-22 |
+| [Dream as Memory](https://open.spotify.com/track/0dKEf6u1dlX16AcY2ygHLy) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [The Science Of Patterns](https://open.spotify.com/album/3rkD1ZE9dt5rSGt3Y56RWh) | 3:45 | 2024-05-10 |  |
 | [Dream It Right](https://open.spotify.com/track/4B7nE0r1RkjFDjx0tWQrhu) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [10](https://open.spotify.com/album/3s2PCuMrBgJEzyic9pXQAY) | 5:48 | 2024-02-12 | 2024-03-15 |
 | [Dream It Right](https://open.spotify.com/track/6xnyxSCB8WY0GGZw0TILJD) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Dream It Right](https://open.spotify.com/album/59I52LoItJLyv9i4OYzQAc) | 5:48 | 2023-12-15 | 2024-02-15 |
 | [Dream Weaversm, Pt\. 2](https://open.spotify.com/track/5zH3MhHsWmqBvw72bHb52h) | [Babau](https://open.spotify.com/artist/2gSV6FsMxBBH01LLNgx6HU) | [Stock Fantasy Zone](https://open.spotify.com/album/4aHUddc9Fx5S5QSU3y341I) | 4:38 | 2023-08-22 | 2023-10-14 |

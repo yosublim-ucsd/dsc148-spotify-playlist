@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,637 likes - 150 songs - 11 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,649 likes - 150 songs - 11 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 112 | [Fol\-de\-rol](https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J) | [Belbury Poly](https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB) | [The Gone Away](https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv) | 3:48 |
 | 113 | [Red Kite](https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP) | [Plone](https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41) | [Puzzlewood](https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq) | 3:28 |
 | 114 | [STARS](https://open.spotify.com/track/0WSIufID4rzjlJaBneODBc) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 3:08 |
-| 115 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
-| 116 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
+| 115 | [Together](https://open.spotify.com/track/5sw0c6FmdTgXlUyfy7YSc4) | [William Shatner](https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza) | [William Shatner Has Been](https://open.spotify.com/album/5K6Yuzk8t9t0B9WxI7WtpT) | 5:39 |
+| 116 | [Jolly Pranks](https://open.spotify.com/track/4QeUbmB2aKz1KOatrjLW1K) | [Ron Geesin](https://open.spotify.com/artist/4daGH8VML8ZuDWhWytZdGa) | [Kpm 1000 Series: Atmospheres](https://open.spotify.com/album/1WQBoxhs1nkpZLdSQrZo5u) | 2:09 |
 | 117 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
 | 118 | [Meridians](https://open.spotify.com/track/0iJDit15B3kgxEvuSEzqK5) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 4:43 |
 | 119 | [Empty Space](https://open.spotify.com/track/6YjlOZqj0Cy2JiyA8hy0jQ) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Empty Space](https://open.spotify.com/album/3Nw5LQwrewAs5dIzDkf89I) | 4:17 |

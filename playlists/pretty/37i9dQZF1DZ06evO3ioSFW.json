@@ -1,12 +1,12 @@
 {
   "description": "This is Yuridia. The essential tracks, all in one playlist.",
-  "num_followers": 435842,
+  "num_followers": 436044,
   "original_name": "This Is Yuridia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADdypTm20L22LyJ6K1weH2S",
+  "snapshot_id": "ZkqSgAAAAAAQB+0Pv9dX5dwKGDGqjSiO",
   "tracks": [
     {
       "added_at": null,
@@ -707,22 +707,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habla Ahora",
-        "url": "https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ"
+        "name": "Pensando Positivo",
+        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
       },
       "artists": [
         {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         },
         {
           "name": "Yuridia",
           "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         }
       ],
-      "duration_ms": 196961,
-      "name": "No Soy",
-      "url": "https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt"
+      "duration_ms": 193300,
+      "name": "Pensando Positivo",
+      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,
@@ -743,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Habla Ahora",
+        "url": "https://open.spotify.com/album/0fpY2STo9E1gOR3lVetRKQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 196961,
+      "name": "No Soy",
+      "url": "https://open.spotify.com/track/3lnyg9GBMn1ub1zrupntYt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Voz de un \u00c1ngel",
         "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 234306,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/7H561OZAeONWEskedqaDQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pensando Positivo",
-        "url": "https://open.spotify.com/album/58iuRein03jS4ByY5s8OE1"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        },
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 193300,
-      "name": "Pensando Positivo",
-      "url": "https://open.spotify.com/track/7c8y7v1RLIn4YvEjSFcTwq"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 280146,
-      "name": "As\u00ed Fue",
-      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Primera Fila (En Vivo)",
         "url": "https://open.spotify.com/album/59AvNgPPcI6C8o3kuWfZQG"
       },
@@ -843,6 +827,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/7C00pR2m5tkpqjRczIdbqw"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 280146,
+      "name": "As\u00ed Fue",
+      "url": "https://open.spotify.com/track/7xSLmRhD3zySGXlyO90LQn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Valiente",
         "url": "https://open.spotify.com/album/4M25KZhSDUMpXklhN3X199"
       },
@@ -855,22 +855,6 @@
       "duration_ms": 161880,
       "name": "Con Toda Libertad",
       "url": "https://open.spotify.com/track/2J2PshVOxoKEk8XZzmVnwc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "6",
-        "url": "https://open.spotify.com/album/4LeSvXuIdlY95PqHks3pmU"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "Para Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6yut3fnS1t1eJjRsWDp2Ku"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Diego Daza
 
-187 songs - 10 hr 54 min
+188 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Ellas Así Son](https://open.spotify.com/track/2xpGwATRUWzIry8S1dq0aV) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/6JyXUac9EvemfjYLdiqFCI) | 3:35 | 2024-03-29 |  |
 | [Ellas Así Son](https://open.spotify.com/track/3KryG1HWXMmNbFc5unHd2C) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Repítelas](https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY) | 3:35 | 2022-08-18 | 2023-02-25 |
 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 | 2022-10-14 | 2024-04-19 |
-| [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 | 2024-03-29 |  |
+| [En Teoría](https://open.spotify.com/track/6YR09tom5EUiYwOCNid18S) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk), [Ana del Castillo](https://open.spotify.com/artist/7uxS8IKq7xAVrLcpGPrdR7), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [En Teoría](https://open.spotify.com/album/1U0yVKJ8Ge6gMZxZlRGx2z) | 3:03 | 2024-03-29 | 2024-05-22 |
 | [En un andén](https://open.spotify.com/track/6VvLhvvOANxka9yA5XT48s) | [Sotomonte](https://open.spotify.com/artist/635jBFbh5dBCfigU7SHNNa) | [En un andén](https://open.spotify.com/album/3HbK3Byyhn8rW8oCfuc3mW) | 2:41 | 2024-01-19 | 2024-02-17 |
 | [Entre Copa y Copa](https://open.spotify.com/track/3eYFUlQKXEDMNMyFJd91nJ) | [Mauricio Ceballos](https://open.spotify.com/artist/2uNCwCLFD16nb7hhibD0sl), [Luis Alberto Posada](https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX) | [Entre Copa y Copa](https://open.spotify.com/album/06gQzNIkKd9u3iLqDUoflD) | 2:48 | 2022-12-19 | 2023-02-04 |
 | [EXCESOS](https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 3:07 | 2023-10-20 | 2024-01-20 |
@@ -162,6 +162,7 @@
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-14 | 2022-11-13 |
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-08-18 | 2024-01-05 |
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 | 2023-12-08 | 2024-04-19 |
+| [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 | 2024-05-21 |  |
 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 | 2024-03-29 |  |
 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-08-18 | 2024-04-19 |
 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 | 2022-08-18 |  |

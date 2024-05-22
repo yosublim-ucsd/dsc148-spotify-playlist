@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,214 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,282 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y2yPmGqrG8.md) - [plain]
 | 34 | [Yesterday's Parties](https://open.spotify.com/track/1QbsFvXo5XJXTbjvjvLU45) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw), [Rachel Goswell](https://open.spotify.com/artist/0prEgQscX7BEd2EvCFm6Se), [Samara Lubelski](https://open.spotify.com/artist/7m0vo8YcqFNXFOoKycpOES) | [Goodbye, Hotel Arkada](https://open.spotify.com/album/26k4Yg7IX877sxz5mnoQBK) | 8:58 |
 | 35 | [Islands](https://open.spotify.com/track/2mYDLShG42sxWjgvs8VBXS) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Islands, Pt\. 3](https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ) | 7:36 |
 | 36 | [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 |
-| 37 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
-| 38 | [New Grass](https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 9:46 |
-| 39 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
+| 37 | [Camille](https://open.spotify.com/track/6VI6LnXQSm7NI7ptuQ7Dl4) | [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I) | [Because of a Flower](https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd) | 5:04 |
+| 38 | [Impossible Island](https://open.spotify.com/track/312f1c2NbtQKam65h7Mq39) | [Gaussian Curve](https://open.spotify.com/artist/2rxgmguaQSynTMnBKZL73G) | [Clouds](https://open.spotify.com/album/4FC9qI04vobItNEKVeRh8Q) | 7:28 |
+| 39 | [New Grass](https://open.spotify.com/track/51Lt2RN3W0u2xI0LiARCRm) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [Laughing Stock](https://open.spotify.com/album/7vqMpYHIqqWQQc0IVR03ue) | 9:46 |
 | 40 | [Winter's Lament](https://open.spotify.com/track/6SeSesTsbZgtyoY6GTyrEd) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Winter's Lament](https://open.spotify.com/album/46HYCYxZJjjl2DYPnWBCIC) | 2:50 |
-| 41 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 |
-| 42 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
+| 41 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 |
+| 42 | [Bloodwork](https://open.spotify.com/track/3iCvLAdsFiqlnusTzGSG64) | [Steve Tibbetts](https://open.spotify.com/artist/4VksGqYn2k7ljivxGwRZ8y) | [Life Of](https://open.spotify.com/album/6dYkIcKYqvb8lNB3FD1dAC) | 1:39 |
 | 43 | [SILHOUETTE](https://open.spotify.com/track/4iNljnJPDFYXyaLVpr7tbe) | [Lorn](https://open.spotify.com/artist/1PmVyfIR9KtCxbHWuga8E5) | [REMNANT](https://open.spotify.com/album/2GYaqE9jZ1IFdWYiFlQNQV) | 3:53 |
 | 44 | [Atoms Song](https://open.spotify.com/track/5GkmYAsDo9mWAEBrxfQo5j) | [Teebs](https://open.spotify.com/artist/2L2unNFaPbDxjg3NqzpqhJ), [Thomas Stankiewicz](https://open.spotify.com/artist/6z4bXm4x6pBHdbxdj6gL7G) | [Anicca](https://open.spotify.com/album/19tj2J1Czpvnd1nNyPBGDU) | 7:40 |
 | 45 | [Pop 4](https://open.spotify.com/track/6tjzp1mCVaTeK5ZFAye3Ou) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 9:51 |

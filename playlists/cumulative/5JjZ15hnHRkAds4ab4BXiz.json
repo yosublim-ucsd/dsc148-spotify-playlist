@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "13.0.0.0.0",
+        "url": "https://open.spotify.com/album/3QQOkN9iqJJrwXohbNYRiP"
+      },
+      "artists": [
+        {
+          "name": "TTNG",
+          "url": "https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293986,
+      "name": "Cat Fantastic",
+      "url": "https://open.spotify.com/track/1kaWnMc0ryiFtPwWVKmZtb"
+    },
+    {
+      "album": {
         "name": "Graduation",
         "url": "https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3"
       },
@@ -994,6 +1012,24 @@
       "duration_ms": 137400,
       "name": "Dope Nose",
       "url": "https://open.spotify.com/track/741oLronOsunwlx4MSZ6YY"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109933,
+      "name": "Dream (Bonus Track)",
+      "url": "https://open.spotify.com/track/1rZjND3XQhSDIrGi78aWmZ"
     },
     {
       "album": {
@@ -1376,6 +1412,24 @@
       "duration_ms": 195093,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182800,
+      "name": "Haiku",
+      "url": "https://open.spotify.com/track/3xfVTbyfrJwPN9bqlXipmw"
     },
     {
       "album": {
@@ -2039,6 +2093,24 @@
     },
     {
       "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191866,
+      "name": "Just Apathy",
+      "url": "https://open.spotify.com/track/7zCtLJNfkx82oqi1RUDSIU"
+    },
+    {
+      "album": {
         "name": "Anthology",
         "url": "https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp"
       },
@@ -2357,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Zion II",
+        "url": "https://open.spotify.com/album/5fnXMRZFd0SkPitan6pLu4"
+      },
+      "artists": [
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127184,
+      "name": "LoveKills!!!",
+      "url": "https://open.spotify.com/track/25zeBhNc1wu8ELK3BReDlk"
+    },
+    {
+      "album": {
         "name": "InnerSpeaker",
         "url": "https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng"
       },
@@ -2610,6 +2700,24 @@
       "duration_ms": 145438,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/5rAG22yUrd0kkwxztDVAue"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98150,
+      "name": "Mucka Blucka (Bonus Track)",
+      "url": "https://open.spotify.com/track/17vXKhOq1aDVoHqm375fKq"
     },
     {
       "album": {
@@ -3294,7 +3402,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-01",
+      "date_removed": null,
       "duration_ms": 222106,
       "name": "Ruler of Everything",
       "url": "https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X"
@@ -3624,6 +3732,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287813,
+      "name": "Spring and a Storm",
+      "url": "https://open.spotify.com/track/7i6pxHwCREvogBRpGyMzFX"
     },
     {
       "album": {
@@ -4259,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104760,
+      "name": "The Whole World and You",
+      "url": "https://open.spotify.com/track/1mpSmPwWONa4LFdvpzcM7S"
+    },
+    {
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
       },
@@ -4512,6 +4656,24 @@
       "duration_ms": 222080,
       "name": "Two Kinds of Happiness",
       "url": "https://open.spotify.com/track/10rOqbOBlAJybglgmqaMZL"
+    },
+    {
+      "album": {
+        "name": "Marvin's Marvelous Mechanical Museum",
+        "url": "https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5"
+      },
+      "artists": [
+        {
+          "name": "Tally Hall",
+          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223133,
+      "name": "Two Wuv",
+      "url": "https://open.spotify.com/track/1P3S1F6BihfsSVVxButO9N"
     },
     {
       "album": {

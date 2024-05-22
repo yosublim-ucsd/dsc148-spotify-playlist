@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Alive City
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,253 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,259 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 35 | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/track/1NP5ku0BU1gy385HXzwkIB) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Carlo Rossi \(Love in the Face of Great Danger\)](https://open.spotify.com/album/5jWg8NzihAG74pcktzGU6F) | 4:30 |
 | 36 | [Today](https://open.spotify.com/track/1uhOr4xSpCx8uaJkesYmqN) | [Coquí](https://open.spotify.com/artist/1uCjP7p7EWy5ZfH2jszK06) | [Today](https://open.spotify.com/album/4SZJCyYeFDgozCFwILJUr1) | 4:13 |
 | 37 | [Run \- Twenty Version](https://open.spotify.com/track/6Qg4obUZBQ0R8M1Q3Lg6mN) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Twenty](https://open.spotify.com/album/05Lk7Ave4ANejifje8LKCZ) | 4:22 |
-| 38 | [Pilot](https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2) | [Pilot](https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY) | 1:40 |
-| 39 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 |
+| 38 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 |
+| 39 | [Pilot](https://open.spotify.com/track/2ePV8y7NK53tnk6AJEntBV) | [IMRSQD](https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Sammie Lee](https://open.spotify.com/artist/4xdSrVRzcVvxW4CJVCuRJ2) | [Pilot](https://open.spotify.com/album/7ujAh0O6Cr9BTIW7aH0cJY) | 1:40 |
 | 40 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 |
 | 41 | [Nothing To Buy](https://open.spotify.com/track/3EuZbohxMO9P7C8UbkEpaT) | [Rita Springer](https://open.spotify.com/artist/0XnterAMV09fuPjq4joR0c), [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Nothing To Buy](https://open.spotify.com/album/36XduRuhm8VvFCWAgdr8zl) | 4:27 |
 | 42 | [Hold On](https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7) | [Corey Voss](https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa) | [Hold On](https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV) | 4:09 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 79 | [Crisis Of Faith](https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha) | [The War Within](https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh) | [Crisis Of Faith](https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi) | 3:48 |
 | 80 | [Killer](https://open.spotify.com/track/05F7rkqDQPBZboapB7MCA5) | [Truslow](https://open.spotify.com/artist/0zBShgJCo19qQZtM0CZxJv) | [Natural Killer](https://open.spotify.com/album/3oZfCFEY6PqY59fsUyitbV) | 3:44 |
 | 81 | [War Going On](https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB) | [Port Duo](https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP) | [War Going On](https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ) | 4:22 |
-| 82 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 |
-| 83 | [Keep Hopin'](https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4) | [The Scally Brothers](https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos) | [Keep Hopin'](https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn) | 2:47 |
+| 82 | [Keep Hopin'](https://open.spotify.com/track/0mGZn0WtZipxhZIGH7j6m4) | [The Scally Brothers](https://open.spotify.com/artist/1zxZJBr1JIL8X4zDvpkFos) | [Keep Hopin'](https://open.spotify.com/album/7G5ZyTvGNdOmTjwtPMf9Dn) | 2:47 |
+| 83 | [W O U N D E D H E A R T](https://open.spotify.com/track/1PpJlu2jNAXxdWRB9eimR4) | [Joshua Leventhal](https://open.spotify.com/artist/0v4Z3oeoImzlsCniDL7em5) | [W O U N D E D H E A R T](https://open.spotify.com/album/3stPMKUkRfVuXnDHkUaLlQ) | 2:46 |
 | 84 | [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 |
 | 85 | [Break Out \- Live](https://open.spotify.com/track/2L2QWbLgFS57dFTvYVcZDX) | [Woodlands Worship](https://open.spotify.com/artist/70DKVAScY08K0FhflRSVls) | [Break Out \(Live\)](https://open.spotify.com/album/1DsOGTyMmBEmu0Ro5CoLy2) | 3:42 |
 | 86 | [Nothing is Wasted \- Live](https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv) | [Grace City](https://open.spotify.com/artist/0nthudnBUjSpYoUnNawp6J), [Bobby Walker](https://open.spotify.com/artist/1wOa9zqJNXhPTAKrSegafE), [Kenzie Walker](https://open.spotify.com/artist/4VJFpqwAvZKRah8klcHmFy) | [Nothing is Wasted \(Live\)](https://open.spotify.com/album/5gIP0NeugQ1VkKQ6lDk87l) | 5:48 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 92 | [Between The Joy And The Sorrow](https://open.spotify.com/track/5jxbNNre9WDXom2hyJeE2e) | [Ian Yates](https://open.spotify.com/artist/1f4Ai5lRAeK0wameps1zqU) | [Between The Joy And The Sorrow \- Part 2](https://open.spotify.com/album/6wUCazGhDr64fdK4cYogNZ) | 3:22 |
 | 93 | [Here We Are](https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO) | [Gungor](https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif) | [Praise](https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY) | 3:52 |
 | 94 | [Found](https://open.spotify.com/track/3TdJeWZcITRaSf9Cr1k4Q4) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Found](https://open.spotify.com/album/6ofPGdVjQVbTqvT9x2PlDU) | 3:47 |
-| 95 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 |
-| 96 | [Only One](https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Only One](https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6) | 4:08 |
+| 95 | [Only One](https://open.spotify.com/track/4LTe9CeE3UWwM4UyPaWfws) | [Chase Wagner](https://open.spotify.com/artist/05pJ61Jqg42zcdFsCMdUDi) | [Only One](https://open.spotify.com/album/6LdAJzqInYclAliXmazpE6) | 4:08 |
+| 96 | [Get A Life](https://open.spotify.com/track/5yFxlpOPCyAX4OXQAC99eC) | [Brady James](https://open.spotify.com/artist/2GSov2kK4wpeRDrCxT6EWe) | [Get A Life](https://open.spotify.com/album/7LemReJ7Gyy6N0ssYBUBKQ) | 1:50 |
 | 97 | [Free?](https://open.spotify.com/track/40MYtIxcMkgex0xHvcZlMX) | [Emissary](https://open.spotify.com/artist/2Ri7fP3YtNrLb2A2ZoTxXf) | [Free?](https://open.spotify.com/album/6yJ2VI1c4Z8sREUJp0jek9) | 5:44 |
 | 98 | [I Might Not Be Breathing](https://open.spotify.com/track/4YJcjLWnuUtIdBDvpnN6Df) | [Corey Wise](https://open.spotify.com/artist/6vIEpnoY5ajDIcFQdbzz2j), [OnBeatMusic](https://open.spotify.com/artist/19DgE5CQNujdohCwPmYddj), [Outatime!](https://open.spotify.com/artist/4v8xBaNwna8BMYcvjwXmlN) | [I Might Not Be Breathing](https://open.spotify.com/album/5FF3iZ2Yxr3nF2UqYmfqRg) | 2:58 |
 | 99 | [limbo](https://open.spotify.com/track/6JqwhcKzZX3HPbtyTxaQU7) | [Mas](https://open.spotify.com/artist/3f7sxX5HfXXiD3DvLm0CWm) | [limbo](https://open.spotify.com/album/3R6MKsZWoTZZt63NHnChWf) | 4:35 |
-| 100 | [How Much More](https://open.spotify.com/track/38XxzQ32b6xfJmilIxTNHC) | [Nick Herbert](https://open.spotify.com/artist/2d1xKAOMjV142Pf9cEmYeS) | [How Much More](https://open.spotify.com/album/7G9ga238zS7VNk2YCmlJET) | 3:32 |
+| 100 | [May The Lamb](https://open.spotify.com/track/7H2I1AIj744jqp4Sh7U6ad) | [Chris McCall](https://open.spotify.com/artist/0TcGpkdfl5wneHvpYgN3xp) | [May The Lamb](https://open.spotify.com/album/6SdX9be9ZQk4Y1ZqS45o46) | 4:23 |
 
 Snapshot ID: `Zj2lbwAAAADS6KNVFSvvucdksO9uuBB3`

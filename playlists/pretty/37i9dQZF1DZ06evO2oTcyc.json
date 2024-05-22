@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 200229,
+  "num_followers": 200271,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAEBeHdcmAu45dKLYz7eFSE",
+  "snapshot_id": "ZkqSgAAAAAAdkQCOBWuCLaY64dnhgYYd",
   "tracks": [
     {
       "added_at": null,
@@ -219,42 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 268186,
-      "name": "Tunnel Vision",
-      "url": "https://open.spotify.com/track/4Q3N4Ct4zCuIHuZ65E3BD4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 213132,
-      "name": "Roll in Peace (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/40oKW22ZNNkEdZLJTScaQI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Back For Everything",
         "url": "https://open.spotify.com/album/7sX9VE0I4zbslanrLXR5aR"
       },
@@ -319,22 +283,6 @@
       "duration_ms": 165765,
       "name": "Lemme See",
       "url": "https://open.spotify.com/track/53QRPT9Z42ALxGL1YGT9x1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dying to Live",
-        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Calling My Spirit",
-      "url": "https://open.spotify.com/track/2MShy1GSSgbmGUxADNIao5"
     },
     {
       "added_at": null,
@@ -443,26 +391,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drowning (Sped Up Version)",
-        "url": "https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI"
+        "name": "Skrt",
+        "url": "https://open.spotify.com/album/5pgyZ32nzg48ugJS2QVVuS"
       },
       "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 174517,
-      "name": "Drowning - Sped Up Version",
-      "url": "https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb"
+      "duration_ms": 224864,
+      "name": "Skrt",
+      "url": "https://open.spotify.com/track/5v7kaZNsnyByrSJOfO8gKq"
     },
     {
       "added_at": null,
@@ -499,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Project Baby 2: All Grown Up",
-        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 150979,
-      "name": "Unexplainable",
-      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diplo Presents Thomas Wesley: Chapter 2 - Swamp Savant",
         "url": "https://open.spotify.com/album/7ELhUQl1bjPyYHtRt7S5vg"
       },
@@ -539,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walk/Spin",
-        "url": "https://open.spotify.com/album/54x77I85ZNITP0wvN07CVT"
+        "name": "Project Baby 2: All Grown Up",
+        "url": "https://open.spotify.com/album/51wp3EOOp2mBIjhZjR7W0i"
       },
       "artists": [
         {
@@ -548,9 +472,29 @@
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 166039,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/3wspfG772mi1c25JpnNOVP"
+      "duration_ms": 150979,
+      "name": "Unexplainable",
+      "url": "https://open.spotify.com/track/6X5x6uOKio6vBiHyptfkGV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Project Baby 2: All Grown Up (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0D2kFxAO1YPAuxAtP23g0p"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 264531,
+      "name": "Codeine Dreaming (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4DTpngLjoHj5gFxEZFeD3J"
     },
     {
       "added_at": null,
@@ -587,6 +531,26 @@
       "duration_ms": 164745,
       "name": "Dis Time",
       "url": "https://open.spotify.com/track/1urny9t2FN704XW20PyFfS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dying to Live",
+        "url": "https://open.spotify.com/album/5n1GSzC1Reao29ScnpLYqp"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 164038,
+      "name": "MoshPit (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/4KX8vXbouybtUptEyYxtIk"
     },
     {
       "added_at": null,
@@ -863,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Non Believer",
-        "url": "https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 207337,
-      "name": "Non Believer",
-      "url": "https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bill Israel",
         "url": "https://open.spotify.com/album/051k93izd0reEjp85OgEo6"
       },
@@ -919,22 +867,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me vs. Myself",
-        "url": "https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv"
+        "name": "Non Believer",
+        "url": "https://open.spotify.com/album/4lQxLqMHEEFXlhcnZKEjcF"
       },
       "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        },
         {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Water (Drowning Pt. 2) [feat. Kodak Black]",
-      "url": "https://open.spotify.com/track/3xXI0QxPxPnexMc8wxPOYA"
+      "duration_ms": 207337,
+      "name": "Non Believer",
+      "url": "https://open.spotify.com/track/3FRYmCRHCavq3Y6aCj11Px"
     },
     {
       "added_at": null,
@@ -987,6 +931,62 @@
       "duration_ms": 155480,
       "name": "Honey Bun",
       "url": "https://open.spotify.com/track/1SRYeLTTfFC1nYtIMauYQc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HOMAGE (feat. Kodak Black)",
+        "url": "https://open.spotify.com/album/7BUO6iB8gQ0bOeLBSNMvQv"
+      },
+      "artists": [
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 189791,
+      "name": "HOMAGE (feat. Kodak Black)",
+      "url": "https://open.spotify.com/track/7d385YmjS53AFzloIRmfL9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kahan (last year)",
+        "url": "https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Kahan (last year)",
+      "url": "https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psychotic, Iconic Ep 2",
+        "url": "https://open.spotify.com/album/4sotapY3zEP0hR8Sly7SlX"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 242808,
+      "name": "Roll N Peace 2",
+      "url": "https://open.spotify.com/track/2gjdD8IWgliKlyfuag7ct8"
     }
   ],
   "unique_name": "This Is Kodak Black",

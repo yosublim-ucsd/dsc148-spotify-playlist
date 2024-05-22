@@ -1,13 +1,29 @@
 {
   "description": "This is John Lee Hooker. The essential tracks, all in one playlist.",
-  "num_followers": 46587,
+  "num_followers": 46606,
   "original_name": "This Is John Lee Hooker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAC6bvQfnfED2R7u0oQG4o3+",
+  "snapshot_id": "ZkqSgAAAAAC2MswUeDZdGmRaKe9ku7NP",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burnin'",
+        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 152350,
+      "name": "Boom Boom",
+      "url": "https://open.spotify.com/track/2Mr1bGI2E10K7Mt1UJZ6Mw"
+    },
     {
       "added_at": null,
       "album": {
@@ -123,26 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hooker 'N Heat",
-        "url": "https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Canned Heat",
-          "url": "https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "Whiskey And Wimmen'",
-      "url": "https://open.spotify.com/track/2FbLpNNlImB5mqCHgVIG1c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -159,38 +155,6 @@
       "duration_ms": 205400,
       "name": "It Serves You Right To Suffer - The Avener Rework",
       "url": "https://open.spotify.com/track/35mKWzraWktvQcTGfuAHbV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Serves You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Shake It Baby",
-      "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Urban Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Cry Before I Go",
-      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -215,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Shake It Baby",
+      "url": "https://open.spotify.com/track/69AMgoqKt39WvDRFIX6WQw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -231,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "It Serves You Right To Suffer",
-        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+        "name": "Urban Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x"
       },
       "artists": [
         {
@@ -240,25 +220,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 145760,
-      "name": "Bottle Up & Go",
-      "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That's My Story",
-        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 145026,
-      "name": "I Need Some Money",
-      "url": "https://open.spotify.com/track/6vKjJqK3XRQsRn91dsUWAY"
+      "duration_ms": 158800,
+      "name": "Cry Before I Go",
+      "url": "https://open.spotify.com/track/7jskfadkwgveJrlF3KNqbb"
     },
     {
       "added_at": null,
@@ -275,6 +239,22 @@
       "duration_ms": 204426,
       "name": "Tupelo",
       "url": "https://open.spotify.com/track/609Z49h2R2fPKGn1kArB0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 145760,
+      "name": "Bottle Up & Go",
+      "url": "https://open.spotify.com/track/0X1w7fhjareYB8kfqW25Rf"
     },
     {
       "added_at": null,
@@ -324,9 +304,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 172400,
-      "name": "Mr. Lucky",
-      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
+      "duration_ms": 170506,
+      "name": "Backbiters And Syndicaters",
+      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
     },
     {
       "added_at": null,
@@ -392,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
         }
       ],
-      "duration_ms": 170506,
-      "name": "Backbiters And Syndicaters",
-      "url": "https://open.spotify.com/track/1Hp3DVGqIm7ydG7F5u6E0l"
+      "duration_ms": 172400,
+      "name": "Mr. Lucky",
+      "url": "https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is"
     },
     {
       "added_at": null,
@@ -475,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "It Serves You Right To Suffer",
+        "url": "https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 143693,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shake",
         "url": "https://open.spotify.com/album/7iW0lg3yMzmO47L2yjCBHn"
       },
@@ -491,6 +487,22 @@
       "duration_ms": 296733,
       "name": "Ali D'Oro",
       "url": "https://open.spotify.com/track/0U2g0D3nV8oS6qdEAqYZqT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That's My Story",
+        "url": "https://open.spotify.com/album/7IudsICOiqekfeig8EZ5PE"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "No More Doggin'",
+      "url": "https://open.spotify.com/track/1zLunDGKySWa7Gwsif5Ckc"
     },
     {
       "added_at": null,
@@ -575,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burnin'",
-        "url": "https://open.spotify.com/album/3H0HdocoAAEEfiDfcRZauz"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 229150,
-      "name": "Blues Before Sunrise",
-      "url": "https://open.spotify.com/track/0gHeDEGKk5Pnm3LfgrY9tG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -603,26 +599,6 @@
       "duration_ms": 184506,
       "name": "Stella Mae",
       "url": "https://open.spotify.com/track/1kUbawlVQyu6oZzKRn6RYe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Robert Cray",
-          "url": "https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj"
-        }
-      ],
-      "duration_ms": 225906,
-      "name": "Baby Lee (feat. Robert Cray)",
-      "url": "https://open.spotify.com/track/0f9HBk7sdDtolNucZ2Scav"
     },
     {
       "added_at": null,
@@ -654,31 +630,11 @@
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 386973,
-      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
-      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "You Know, I Know",
-      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+      "duration_ms": 319693,
+      "name": "Annie Mae (2007 - Remaster)",
+      "url": "https://open.spotify.com/track/4L7cUoSuj5zjZ96x9YcUYI"
     },
     {
       "added_at": null,
@@ -703,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "You Know, I Know",
+      "url": "https://open.spotify.com/track/2PoCFAeqx7VDDwljQpxjts"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Travelin'",
         "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
       },
@@ -715,6 +687,26 @@
       "duration_ms": 145551,
       "name": "No Shoes",
       "url": "https://open.spotify.com/track/5hKvkvpH0vd3NyuCuTbZf1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chill Out",
+        "url": "https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 386973,
+      "name": "Serves Me Right to Suffer / Syndicator (feat. Van Morrison) (2007 Remaster)",
+      "url": "https://open.spotify.com/track/7cdA9MmxoRwjpYFDO0TEhs"
     },
     {
       "added_at": null,
@@ -755,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "On The Waterfront",
-        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 144733,
-      "name": "Don\u2019t Want Nobody Else",
-      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don't Look Back",
         "url": "https://open.spotify.com/album/7nEx6csxKzaeNAf4y056F7"
       },
@@ -783,6 +759,22 @@
       "duration_ms": 309320,
       "name": "The Healing Game",
       "url": "https://open.spotify.com/track/1SSAVVIiMMfpukBfQ15vBP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "On The Waterfront",
+        "url": "https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 144733,
+      "name": "Don\u2019t Want Nobody Else",
+      "url": "https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud"
     },
     {
       "added_at": null,
@@ -847,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Travelin'",
-        "url": "https://open.spotify.com/album/3a9R9D77P7YMCG24vpsulQ"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 134173,
-      "name": "I Wanna Walk",
-      "url": "https://open.spotify.com/track/2OigRCY3ff6sAmQRrJwMGC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Wanderings Of The Avener",
         "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
       },
@@ -907,22 +883,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Healer",
-        "url": "https://open.spotify.com/album/7dX5RVwG4Bdw13xrCuIFbk"
+        "name": "The Folk Lore Of John Lee Hooker",
+        "url": "https://open.spotify.com/album/46dtJspYQJrfVWpVRo4O5w"
       },
       "artists": [
         {
           "name": "John Lee Hooker",
           "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        },
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
         }
       ],
-      "duration_ms": 264026,
-      "name": "That's Alright (feat. Charlie Musselwhite)",
-      "url": "https://open.spotify.com/track/2COsS6PVvMjYwqGXYc4mrE"
+      "duration_ms": 175106,
+      "name": "I'm Going Upstairs",
+      "url": "https://open.spotify.com/track/4m5NBj2M2ooeXS9I96Z0cP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half A Stranger Vol 1",
+        "url": "https://open.spotify.com/album/1UKljueptyRlVnuHNYNJOe"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 183706,
+      "name": "Hobo Blues",
+      "url": "https://open.spotify.com/track/15u5oLagRuxJUNebO6mpgX"
     }
   ],
   "unique_name": "This Is John Lee Hooker",

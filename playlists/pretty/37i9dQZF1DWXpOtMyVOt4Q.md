@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,869 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,880 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 46 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 47 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
 | 48 | [black roses](https://open.spotify.com/track/1nR2dLSV4UXr9r8UFBECqQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [letting go](https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I) | 1:53 |
-| 49 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
-| 50 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
+| 49 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
+| 50 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
 
 Snapshot ID: `ZkfHRwAAAAChH+BOQG8LzrSMrWbjoXWg`

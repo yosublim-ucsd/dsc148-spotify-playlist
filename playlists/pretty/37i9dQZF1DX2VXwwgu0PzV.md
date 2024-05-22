@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:   <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=7PGKFDlbR72xXL\-QxUC62A>Neon Adejo</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,403 likes - 100 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,421 likes - 100 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [Jara](https://open.spotify.com/track/5jWKjltQ2Ui7hkxv03Nw6o) | [Clinton Flames](https://open.spotify.com/artist/3LEYSk47eQzeiwihi4f1Ye), [Baron Jay](https://open.spotify.com/artist/3I92MLYQY4V30w9jXnKhbv), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Jara](https://open.spotify.com/album/77LjGOezGUP2Ni0ZhmpuXe) | 2:11 |
 | 100 | [A Thousand Miles](https://open.spotify.com/track/6wo96z1C1AhAzoPZaApaZg) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH), [Folabi Nuel](https://open.spotify.com/artist/0zBTbtoYVNCJmbN3MWHcRe) | [A Thousand Miles](https://open.spotify.com/album/0ipy8wcwrzP0VQ0DjuE9U6) | 4:49 |
 
-Snapshot ID: `ZkaePAAAAAB5BdZofOJBU4dDHW36zMJO`
+Snapshot ID: `Zk01vAAAAAAYJJQxBANcpHfSHzFz7Hip`

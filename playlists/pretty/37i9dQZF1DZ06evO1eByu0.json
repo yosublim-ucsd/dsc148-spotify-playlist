@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 159102,
+  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "num_followers": 159109,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABE3zIvFu3lEEQnzBUnerTr",
+  "snapshot_id": "ZkqSgAAAAACpfXYYxMA+ez/fD8tOI9bC",
   "tracks": [
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Nazareno",
-        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Generaci\u00f3n Gracia M\u00fasica",
-          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
-        }
-      ],
-      "duration_ms": 339373,
-      "name": "O Nazareno",
-      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rompendo em F\u00e9",
         "url": "https://open.spotify.com/album/3LLEfGjWnKolXnYC0SfiNR"
       },
@@ -459,6 +439,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Nazareno",
+        "url": "https://open.spotify.com/album/3GDrnx8ePXn3ykgVosI7J6"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Generaci\u00f3n Gracia M\u00fasica",
+          "url": "https://open.spotify.com/artist/7qwXfWee0I0c9hgkJfzich"
+        }
+      ],
+      "duration_ms": 339373,
+      "name": "O Nazareno",
+      "url": "https://open.spotify.com/track/5bQKQ0pDrQXXJyAolC5g4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extraordin\u00e1rio Amor de Deus",
         "url": "https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6"
       },
@@ -471,22 +471,6 @@
       "duration_ms": 225280,
       "name": "Vit\u00f3ria no Deserto",
       "url": "https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jehov\u00e1 Jireh",
-        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 336662,
-      "name": "Jehov\u00e1 Jireh",
-      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
     },
     {
       "added_at": null,
@@ -507,6 +491,22 @@
       "duration_ms": 293684,
       "name": "Pai Presente",
       "url": "https://open.spotify.com/track/17A6kCom591jICydbChxCk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
     },
     {
       "added_at": null,

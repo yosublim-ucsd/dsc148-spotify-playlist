@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-1,938 songs - 3 day 1 hr 46 min
+1,939 songs - 3 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [ejak](https://open.spotify.com/track/1MFsBRgwmZeNir6I5knP3O) | [longstar](https://open.spotify.com/artist/4v7r7XxcGpcuwcSJM9r2aG) | [ejak](https://open.spotify.com/album/6PCNOgXSMMJzsF4VqRDPFB) | 1:41 | 2022-04-15 | 2022-05-13 |
 | [Elektrons & Sand](https://open.spotify.com/track/1Z4bpJGqmQggtnW2ecBcVl) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Elektrons & Sand](https://open.spotify.com/album/7vUQSN2EFZEmmeT2msODyW) | 2:09 | 2022-11-25 | 2023-11-17 |
 | [Element](https://open.spotify.com/track/53DFFbfYi0NSJXbbszd3Qp) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [Element](https://open.spotify.com/album/00hSbgfjZn412iRBt7CpwB) | 2:19 | 2022-09-09 | 2023-03-09 |
+| [elevate](https://open.spotify.com/track/116YArgZMwSpTDCahpTkx1) | [Nice Gii](https://open.spotify.com/artist/4y04SK9f1oYHAZ8WDHy9wi) | [elevate](https://open.spotify.com/album/0VymtrFCuQtNr4zp29zHhl) | 2:34 | 2024-05-13 |  |
 | [Elevator](https://open.spotify.com/track/5iPB9VskHHAsEcpOf4dpxw) | [Cosmoo](https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG) | [Elevator](https://open.spotify.com/album/3xzPR62gpoezzrvy1Ybmkw) | 1:11 | 2024-03-08 |  |
 | [Elevator](https://open.spotify.com/track/7ISbNz7VjqbFlpahcUwRVB) | [Sadglow](https://open.spotify.com/artist/03yrAJkdVcb5kNlS90YDvu) | [Elevator](https://open.spotify.com/album/7wXpxaQcmX3LpZW6w8CsGy) | 2:40 | 2022-04-15 | 2022-05-27 |
 | [embrace](https://open.spotify.com/track/2TI3LJ5EVBDMNI60VT795t) | [Donovan's Playground](https://open.spotify.com/artist/67tuLuJ6EoOTR1KntyUnHQ), [Maadrhino](https://open.spotify.com/artist/69NXAR2kpX8fv5ed7xJpgx), [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5) | [embrace](https://open.spotify.com/album/7uPvQ8z3UATuOoW4xb0IFS) | 2:03 | 2022-04-15 | 2022-07-08 |
@@ -1142,7 +1143,7 @@
 | [Neon Vision](https://open.spotify.com/track/7M2Iw9mM6J9cXSlTPJmJna) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Neon Vision](https://open.spotify.com/album/0KA0WQNv9pzBaXaNBwXVsK) | 1:35 | 2023-03-20 | 2023-10-06 |
 | [Netflix & Chill](https://open.spotify.com/track/656DFwGAl0zFjAXrD0pJk9) | [Tama](https://open.spotify.com/artist/76SQufIPbADbhnxyLsDbyJ) | [Netflix & Chill](https://open.spotify.com/album/7cSId6VBwFqGsLKtIoQtqv) | 2:21 | 2024-04-26 |  |
 | [neutron](https://open.spotify.com/track/0EctAgmIOVOUkyliA8Wgx4) | [Cyan\_95](https://open.spotify.com/artist/2F0ArRuBoD4jl4bM8fNyiU) | [neutron](https://open.spotify.com/album/1qmY4LfYonUmUXm2rHq9y5) | 2:07 | 2023-10-27 |  |
-| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 |  |
+| [never ending](https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV) | [Fax Farin](https://open.spotify.com/artist/78mSJYNRn1B36OJL4RPKNo) | [never ending](https://open.spotify.com/album/1U4UOx5tNIxZyuNfSo2f7Q) | 1:48 | 2022-09-16 | 2024-05-22 |
 | [new cans](https://open.spotify.com/track/099r2YIhwSeUsDOaqG0tXb) | [Re\-Lax & Re\-Why'nd](https://open.spotify.com/artist/1rMywJQt6BtOpjN9E1qKxt) | [new cans](https://open.spotify.com/album/7tkx7cknQ6rRta2uiBypHL) | 2:14 | 2023-12-22 | 2024-05-14 |
 | [New day](https://open.spotify.com/track/4qH6CKbSXk5iiy1jXZLbTp) | [SAKIRAN](https://open.spotify.com/artist/5MkPq0kcEmaG1F8vqtSO3z) | [New day](https://open.spotify.com/album/6CUomVqIbLdCcGh9njgvpS) | 2:07 | 2022-04-15 | 2022-09-23 |
 | [New Digs](https://open.spotify.com/track/49vHEmDBptOhfz1EUR2qt0) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [New Digs](https://open.spotify.com/album/2ypN0p2zkApynrOLhJGO5e) | 2:20 | 2023-11-24 |  |

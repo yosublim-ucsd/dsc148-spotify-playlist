@@ -1,12 +1,12 @@
 {
   "description": "This is Bruna Karla. The essential tracks, all in one playlist.",
-  "num_followers": 132313,
+  "num_followers": 132320,
   "original_name": "This Is Bruna Karla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAFWiCJzhggX8tEL/MBCgya",
+  "snapshot_id": "ZkqSgAAAAABL9CbB08B/QkWlHR0TpN/w",
   "tracks": [
     {
       "added_at": null,
@@ -151,6 +151,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rendido Estou (Arms Open Wide)",
         "url": "https://open.spotify.com/album/7mxMcIyAjRNquXNxAPANXG"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 462355,
       "name": "Rendido Estou (Arms Open Wide)",
       "url": "https://open.spotify.com/track/0Ari6yg3wuIi6zxpRQC3f2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 328753,
-      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
     },
     {
       "added_at": null,
@@ -307,6 +307,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Identidade",
+        "url": "https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 267168,
+      "name": "Identidade",
+      "url": "https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Forma de Cuidado (Ao Vivo)",
         "url": "https://open.spotify.com/album/2acF6eJqkOSqlXiH97dBsa"
       },
@@ -327,26 +347,6 @@
       "duration_ms": 244285,
       "name": "Forma de Cuidado (Ao Vivo)",
       "url": "https://open.spotify.com/track/6KOtFGXB6I18VCgaQrG0IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Identidade",
-        "url": "https://open.spotify.com/album/6upQvE1kxFNojkaIUmukKb"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 267168,
-      "name": "Identidade",
-      "url": "https://open.spotify.com/track/7LXJorEhjuKbh2xwMp5RaA"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aceito o Teu Chamado",
-        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 265032,
-      "name": "Aceito o Teu Chamado",
-      "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Siga em Frente",
         "url": "https://open.spotify.com/album/1IzXIdVD5bF5GYpkVwpfit"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 253004,
       "name": "Lugar Santo",
       "url": "https://open.spotify.com/track/6YTm0iqTuVkiAA1kQ57e1w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aceito o Teu Chamado",
+        "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 265032,
+      "name": "Aceito o Teu Chamado",
+      "url": "https://open.spotify.com/track/1JxseLLcAhM48rfw0pQfYd"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
       },
       "artists": [
-        {
-          "name": "Fabiana Sinfr\u00f4nio",
-          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
-        },
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 255824,
-      "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar"
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,
@@ -871,6 +867,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 255824,
+      "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aceito o Teu Chamado",
         "url": "https://open.spotify.com/album/4dWAoWGTlbC0JdSbODjFpG"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 284165,
       "name": "N\u00e3o H\u00e1 Nada, Mas Haver\u00e1",
       "url": "https://open.spotify.com/track/1VwszHZbuF3IRtWInwRoar"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
     },
     {
       "added_at": null,

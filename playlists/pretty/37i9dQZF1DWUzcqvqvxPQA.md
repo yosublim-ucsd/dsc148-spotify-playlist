@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,944 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,943 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 33 | [Till I Found You](https://open.spotify.com/track/1var9mNP1RLTlu8qVDji0F) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Till I Found You](https://open.spotify.com/album/5i8yKKrI71gqHdXxYafYAo) | 4:00 |
 | 34 | [Inside Out](https://open.spotify.com/track/3hZBRLzeM0u4YKQ9mj7fy7) | [Bonray](https://open.spotify.com/artist/0FR1DkepvHaDMQnmJF4fVg) | [Inside Out](https://open.spotify.com/album/2hgLM7tz6g8wNk3I5SPj8U) | 3:13 |
 | 35 | [THIS MOMENT](https://open.spotify.com/track/1uEUj9f1Rv6Bk420cg0AMS) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8) | [THIS MOMENT](https://open.spotify.com/album/5VXM9tBUk5oboBP6yCJAx9) | 2:56 |
-| 36 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
-| 37 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
+| 36 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
+| 37 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
 | 38 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
 | 39 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 |
 | 40 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 69 | [IWKY](https://open.spotify.com/track/1bGKjyrC5SKldCSLFp5AsJ) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [IWKY](https://open.spotify.com/album/0WMM3M7bSAV5RzMpHcd32Z) | 3:26 |
 | 70 | [More Than Words](https://open.spotify.com/track/633WMigQJSGHjxHWSGh8kW) | [Nashville Life Music](https://open.spotify.com/artist/2VeZkVPpOuBcRZXvI774ul), [Alvin Love](https://open.spotify.com/artist/6Hng7qHsjVDwppa6jmwHgk) | [More Than Words](https://open.spotify.com/album/46esL28GSyqGTCdncmXCZC) | 3:54 |
 | 71 | [Only a Step Away](https://open.spotify.com/track/4S3t5FXBxheRO83b1UdlOB) | [Marshall Marshall](https://open.spotify.com/artist/3f5eDe7KfH3eTCc94eJCad) | [Sunset Sunrise](https://open.spotify.com/album/0WolJ0CvYwNsn6wrk7VIke) | 3:03 |
-| 72 | [Your Love](https://open.spotify.com/track/3PXxy72t3J1a3gjgbhEuM2) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [Your Love](https://open.spotify.com/album/55HoHHiPEzZaDTu5U9ljix) | 2:56 |
-| 73 | [Afraid](https://open.spotify.com/track/0yvCs4vcwnDyqV38SKTQgz) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Afraid](https://open.spotify.com/album/1EcTXccHNT4N652cXI3p9r) | 3:02 |
+| 72 | [Afraid](https://open.spotify.com/track/0yvCs4vcwnDyqV38SKTQgz) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [Afraid](https://open.spotify.com/album/1EcTXccHNT4N652cXI3p9r) | 3:02 |
+| 73 | [Your Love](https://open.spotify.com/track/3PXxy72t3J1a3gjgbhEuM2) | [Holly Halliwell](https://open.spotify.com/artist/7dKSR3Z8KA6aTZbuMKjuet) | [Your Love](https://open.spotify.com/album/55HoHHiPEzZaDTu5U9ljix) | 2:56 |
 | 74 | [In The Grey / The Place](https://open.spotify.com/track/0oZ4QsMcq9AUDNHRRx84j4) | [William Matthews](https://open.spotify.com/artist/6xzvt1VigDuN3Qt39YozYA) | [In The Grey / The Place](https://open.spotify.com/album/1N9dGpzRQ0pCgP87wLCPEc) | 5:22 |
 | 75 | [Sound of Heaven](https://open.spotify.com/track/0DAryQ3hgh1moozAbN0QAr) | [Brad & Rebekah](https://open.spotify.com/artist/1ef7Y06MRVT7HfRdJDHBOG) | [Sound of Heaven](https://open.spotify.com/album/0wMiTkGO2EsLLutbOD9Zkv) | 4:35 |
 | 76 | [Look At Me Now \(feat\. JUICEBANGERS, nobigdyl\. & Steve Malcolm\) \- Remix](https://open.spotify.com/track/3XEgNWVG2r6vxYfNLrI1by) | [Roy Tosh](https://open.spotify.com/artist/7JjM4ZFJffM5vti5m241ye), [GIDI](https://open.spotify.com/artist/4jpyLwY88iZc65WHKxderI), [Juicebangers](https://open.spotify.com/artist/5NJ5H0WVG6JpjTROfISdpE), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4), [Steve Malcolm](https://open.spotify.com/artist/6a839D2SIj8AazasGFuKQ6) | [Remix](https://open.spotify.com/album/55NnP6YjYGWIbvnbiC3bIw) | 3:14 |

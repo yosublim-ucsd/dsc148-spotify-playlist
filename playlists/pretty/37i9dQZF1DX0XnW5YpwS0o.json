@@ -1,6 +1,6 @@
 {
   "description": "2016 highlights from the home of indie music.",
-  "num_followers": 88829,
+  "num_followers": 88865,
   "original_name": "Best of Indie 2016",
   "owner": {
     "name": "Spotify",
@@ -136,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 230693,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
+      "duration_ms": 320654,
+      "name": "The Other Side Of Paradise",
+      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
         }
       ],
-      "duration_ms": 320654,
-      "name": "The Other Side Of Paradise",
-      "url": "https://open.spotify.com/track/0rRjGruFonCGOt0S5zAJNQ"
+      "duration_ms": 230693,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Blossoms",
-        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
-      },
-      "artists": [
-        {
-          "name": "Blossoms",
-          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
-        }
-      ],
-      "duration_ms": 166791,
-      "name": "Charlemagne",
-      "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Everything You've Come To Expect (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 236252,
       "name": "Sweet Dreams, TN",
       "url": "https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Blossoms",
+        "url": "https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 166791,
+      "name": "Charlemagne",
+      "url": "https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 248879,
-      "name": "The Sound",
-      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Signs of Light",
         "url": "https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 225560,
       "name": "All We Ever Knew",
       "url": "https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 248879,
+      "name": "The Sound",
+      "url": "https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "How To Be A Human Being",
         "url": "https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 243509,
       "name": "Season 2 Episode 3",
       "url": "https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Berhana",
-        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
-      },
-      "artists": [
-        {
-          "name": "Berhana",
-          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
-        }
-      ],
-      "duration_ms": 261102,
-      "name": "Grey Luh",
-      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
         "name": "Ash & Ice",
         "url": "https://open.spotify.com/album/7E6UpW4mlPavgOq1YuB2fd"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 247793,
       "name": "Doing It To Death",
       "url": "https://open.spotify.com/track/2hDtkP0ge2Gckcj7qi2NQ2"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
+        "name": "Berhana",
+        "url": "https://open.spotify.com/album/5Tl4ncCoenypfpqZqRbtp3"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 261102,
+      "name": "Grey Luh",
+      "url": "https://open.spotify.com/track/1x1BKrrpq7CfOZPBeUsx16"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Hoops",
+        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
+      },
+      "artists": [
+        {
+          "name": "The Rubens",
+          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
+        }
+      ],
+      "duration_ms": 158946,
+      "name": "Hoops",
+      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Warm on a Cold Night (Deluxe)",
         "url": "https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA"
       },
@@ -1187,34 +1203,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Cleopatra",
-        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
+        "name": "Gameshow (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
       },
       "artists": [
         {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 201785,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/6Zz5CiVpQk2Fz2nV8m3YQm"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Hoops",
-        "url": "https://open.spotify.com/album/6fW3GP3S8MqN0byG0fJ0Ut"
-      },
-      "artists": [
-        {
-          "name": "The Rubens",
-          "url": "https://open.spotify.com/artist/2hrWpLNoJcs1EnWSXvB6JI"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Hoops",
-      "url": "https://open.spotify.com/track/4yUZPM6OfAY1KJik9rsveW"
+      "duration_ms": 297786,
+      "name": "Bad Decisions",
+      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Gameshow (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB"
+        "name": "Cleopatra",
+        "url": "https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 297786,
-      "name": "Bad Decisions",
-      "url": "https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta"
+      "duration_ms": 201785,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/6Zz5CiVpQk2Fz2nV8m3YQm"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
+        "name": "Somebody Else",
+        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 233076,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
+    },
+    {
+      "added_at": "2024-03-18 13:26:28",
+      "album": {
         "name": "Shadowboxer",
         "url": "https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q"
       },
@@ -1579,18 +1595,18 @@
     {
       "added_at": "2024-03-18 13:26:28",
       "album": {
-        "name": "Somebody Else",
-        "url": "https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU"
+        "name": "22, A Million",
+        "url": "https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG"
       },
       "artists": [
         {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 233076,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO"
+      "duration_ms": 245200,
+      "name": "29 #Strafford APTS",
+      "url": "https://open.spotify.com/track/4VZM71F8XAoLRuNyNLxwWS"
     },
     {
       "added_at": "2024-03-18 13:26:28",
@@ -1623,22 +1639,6 @@
       "duration_ms": 152333,
       "name": "Petals",
       "url": "https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR"
-    },
-    {
-      "added_at": "2024-03-18 13:26:28",
-      "album": {
-        "name": "Light Upon the Lake",
-        "url": "https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 237973,
-      "name": "No Woman",
-      "url": "https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04"
     }
   ],
   "unique_name": "Best of Indie 2016",

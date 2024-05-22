@@ -1,12 +1,12 @@
 {
   "description": "This is Saweetie. The essential tracks, all in one playlist.",
-  "num_followers": 38724,
+  "num_followers": 38728,
   "original_name": "This Is Saweetie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAABtf088KHvle3b/RKkT91Er",
+  "snapshot_id": "ZkqSgAAAAAAcjeE8G3+ROpb64kfWGFDI",
   "tracks": [
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richtivities",
-        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+        "name": "High Maintenance",
+        "url": "https://open.spotify.com/album/4Sz0PugCLKo0CEA7zgPplW"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 176401,
-      "name": "Richtivities",
-      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
+      "duration_ms": 109302,
+      "name": "ICY GRL",
+      "url": "https://open.spotify.com/track/1sl1cpix9GnwNwaVt04BIu"
     },
     {
       "added_at": null,
@@ -179,6 +179,22 @@
       "duration_ms": 189496,
       "name": "Back to the Streets (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/3MEruRteiUZXkStfTlZqRn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richtivities",
+        "url": "https://open.spotify.com/album/6YtEsHXxWjQLdNYIkRjFgB"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 176401,
+      "name": "Richtivities",
+      "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
     },
     {
       "added_at": null,
@@ -247,6 +263,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Closer (feat. H.E.R.)",
+        "url": "https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 168873,
+      "name": "Closer (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faking Love (feat. Saweetie)",
         "url": "https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx"
       },
@@ -287,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hey, Mickey!",
-        "url": "https://open.spotify.com/album/1Qpd1fT9Vgp2uuuZ533By0"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 173532,
-      "name": "Hey, Mickey!",
-      "url": "https://open.spotify.com/track/7r6uppLBApzJPMpDmdFoi4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Do It For The Bay",
         "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
@@ -323,34 +339,6 @@
       "duration_ms": 118551,
       "name": "Do It For The Bay",
       "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-        "url": "https://open.spotify.com/album/1aa1RxpukjEwAGbNdeV3Ft"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 253568,
-      "name": "Tap In (feat. Post Malone, DaBaby & Jack Harlow)",
-      "url": "https://open.spotify.com/track/5woaU1FNkqCwg6WzWiQPW5"
     },
     {
       "added_at": null,
@@ -411,22 +399,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Public Displays Of Affection: The Album",
-        "url": "https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9"
+        "name": "All She Wanna Do",
+        "url": "https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M"
       },
       "artists": [
         {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+          "name": "John Legend",
+          "url": "https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t"
         },
         {
           "name": "Saweetie",
           "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 152241,
-      "name": "Baby Boo",
-      "url": "https://open.spotify.com/track/36UY111WEuMBKpF189a6m1"
+      "duration_ms": 195715,
+      "name": "All She Wanna Do (with Saweetie)",
+      "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
     },
     {
       "added_at": null,
@@ -551,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talkin' Bout (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
+      },
+      "artists": [
+        {
+          "name": "Loui",
+          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 126225,
+      "name": "Talkin' Bout (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Money Mouf",
         "url": "https://open.spotify.com/album/6dn11fbycq7fhBCfS8GBRG"
       },
@@ -599,26 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Talkin' Bout (feat. Saweetie)",
-        "url": "https://open.spotify.com/album/2bjv3pxHHeerVrMDG4Iqyd"
-      },
-      "artists": [
-        {
-          "name": "Loui",
-          "url": "https://open.spotify.com/artist/053fl1QPQFGqSPPxSPcacT"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 126225,
-      "name": "Talkin' Bout (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/0NS0ycRjNrnONGvqoou1ot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pretty Bitch Freestyle",
         "url": "https://open.spotify.com/album/4AFMc41peNA5Pf2JbXEpdK"
       },
@@ -631,6 +619,26 @@
       "duration_ms": 129379,
       "name": "Pretty Bitch Freestyle",
       "url": "https://open.spotify.com/track/7Hhtz9zeiTz03DSIcXjV4V"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Come First (feat. Saweetie)",
+        "url": "https://open.spotify.com/album/53fnJWISeZ4hjXYXBDVqB0"
+      },
+      "artists": [
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 191254,
+      "name": "You Come First (feat. Saweetie)",
+      "url": "https://open.spotify.com/track/5Ef2noaxqTAfa5gLVw05OJ"
     },
     {
       "added_at": null,
@@ -651,6 +659,26 @@
       "duration_ms": 208235,
       "name": "Feels",
       "url": "https://open.spotify.com/track/6jdkNQpwclqrrgcxbz6GA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "duration_ms": 171235,
+      "name": "Tip Toes (feat. Quavo)",
+      "url": "https://open.spotify.com/track/6001xXfECxjyKrrbbRF0Vl"
     },
     {
       "added_at": null,
@@ -787,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pretty Summer Playlist: Season 1",
-        "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        },
-        {
-          "name": "Drakeo the Ruler",
-          "url": "https://open.spotify.com/artist/0p4ViyfJUTW0IT4SCBLexf"
-        }
-      ],
-      "duration_ms": 159152,
-      "name": "Risky (feat. Drakeo the Ruler)",
-      "url": "https://open.spotify.com/track/4Y0E52nss2ZybjhMpMHTT5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up Now (feat. G-Eazy and Rich The Kid)",
         "url": "https://open.spotify.com/album/3joOEhJbsckuCFIF5G8veI"
       },
@@ -831,26 +839,6 @@
       "duration_ms": 198087,
       "name": "Up Now (feat. G-Eazy and Rich The Kid)",
       "url": "https://open.spotify.com/track/01TreyTchXP0J1Mn6wcVHt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "7",
-        "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 194626,
-      "name": "I'm That Bitch (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/7jJVq2u7EP9XoAxMIc5Dro"
     },
     {
       "added_at": null,
@@ -979,42 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "IDGAF (Remixes II)",
-        "url": "https://open.spotify.com/album/4M7slCAvVUFZLYICsgY3xq"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 238940,
-      "name": "IDGAF (feat. Saweetie)",
-      "url": "https://open.spotify.com/track/2ry53n0NXbB4ZUJM1SP8Vc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ICY",
-        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
-      },
-      "artists": [
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 169409,
-      "name": "Dipped In Ice",
-      "url": "https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Space Jam: A New Legacy (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6OzNQxGDo0AGzQqumG1QXP"
       },
@@ -1039,6 +991,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "ICY",
+        "url": "https://open.spotify.com/album/7mdpibDh6Sec6o6zItcSEH"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 169409,
+      "name": "Dipped In Ice",
+      "url": "https://open.spotify.com/track/70Vc2mCfevAjiM6O1vfGXR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pretty Summer Playlist: Season 1",
         "url": "https://open.spotify.com/album/2HOYNp9NxRakR9u9na7Wth"
       },
@@ -1051,6 +1019,22 @@
       "duration_ms": 106687,
       "name": "Pretty & Rich",
       "url": "https://open.spotify.com/track/41z1jdRoERVUz1MPtfSl14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Icy Chain",
+        "url": "https://open.spotify.com/album/3w9vMC3vFzCWBq1pQFHAQ5"
+      },
+      "artists": [
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+        }
+      ],
+      "duration_ms": 110790,
+      "name": "Icy Chain",
+      "url": "https://open.spotify.com/track/5MkPZ9VprDSFTljruLxDEd"
     }
   ],
   "unique_name": "This Is Saweetie",

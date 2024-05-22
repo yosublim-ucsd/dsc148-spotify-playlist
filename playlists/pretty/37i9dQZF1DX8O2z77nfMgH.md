@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Portada: Álvaro Díaz y Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,333 likes - 61 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,340 likes - 61 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 20 | [LA CRUSH](https://open.spotify.com/track/0r0uZzz9nsnEKOeQbYteHn) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [LA CRUSH](https://open.spotify.com/album/1xpfbMT8aXQLOtMKwy1WMf) | 3:29 |
 | 21 | [Dime Quién](https://open.spotify.com/track/2O37D0PuPoRrL657rdpnLk) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 2:30 |
 | 22 | [Nivel Dios](https://open.spotify.com/track/2fQDPWL8HKiiAC3l95dXJO) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Nivel Dios](https://open.spotify.com/album/4kqA5xSxfGhwH7OubMCZQl) | 2:31 |
-| 23 | [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 |
+| 23 | [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 |
 | 24 | [Siempre Que Lo Beso](https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Siempre Que Lo Beso](https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s) | 2:33 |
 | 25 | [El fantasma](https://open.spotify.com/track/1deICC29CXML5wAejryEME) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [The Classics, Vol.2](https://open.spotify.com/album/0JpljCD8RhPRAdsb5tzCOl) | 3:15 |
 | 26 | [2000's](https://open.spotify.com/track/21YrUZi23eK0jx7wPU5oh0) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Los Sentimientos De un Robot](https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK) | 3:52 |

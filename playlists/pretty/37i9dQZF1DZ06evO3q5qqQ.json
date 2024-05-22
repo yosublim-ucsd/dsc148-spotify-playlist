@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Arriesgado. The essential tracks, all in one playlist.",
-  "num_followers": 107830,
+  "description": "This Is Grupo Arriesgado. Los temas esenciales, todos en una lista.",
+  "num_followers": 107840,
   "original_name": "This Is Grupo Arriesgado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADv7d6StXL3IN6dzyV/LK95",
+  "snapshot_id": "ZkqSgAAAAAAw1Og8fMNwUau57RKLTwLl",
   "tracks": [
     {
       "added_at": null,
@@ -863,42 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Gente Del Sombrero (En Vivo)",
-        "url": "https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK"
-      },
-      "artists": [
-        {
-          "name": "Cuatro De Oro",
-          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
-        },
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 203504,
-      "name": "Somos Gente Del Sombrero - En Vivo",
-      "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Los Tiempos De Aguas",
-        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 184957,
-      "name": "Jimenez",
-      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Son Cosas De La Peda",
         "url": "https://open.spotify.com/album/27dr3cYlhnh0gCCXdctJXZ"
       },
@@ -919,6 +883,42 @@
       "duration_ms": 141566,
       "name": "Son Cosas De La Peda",
       "url": "https://open.spotify.com/track/4jj418EQiugASJj07JuiMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los Tiempos De Aguas",
+        "url": "https://open.spotify.com/album/3RPyUzWLR3liD40Lpytjxg"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 184957,
+      "name": "Jimenez",
+      "url": "https://open.spotify.com/track/7j1Un12rLufeK7WEuTgAKe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Gente Del Sombrero (En Vivo)",
+        "url": "https://open.spotify.com/album/2qaSacTJoTXZHZShAIRkZK"
+      },
+      "artists": [
+        {
+          "name": "Cuatro De Oro",
+          "url": "https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9"
+        },
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 203504,
+      "name": "Somos Gente Del Sombrero - En Vivo",
+      "url": "https://open.spotify.com/track/5cJUpAtZBY253aPOo0QmId"
     }
   ],
   "unique_name": "This Is Grupo Arriesgado",

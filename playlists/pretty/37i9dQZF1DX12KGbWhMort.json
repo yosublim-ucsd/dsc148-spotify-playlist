@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que el amor no pare.",
-  "num_followers": 179339,
+  "num_followers": 179374,
   "original_name": "Enganchados: Rom\u00e1nticos",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-05-03 11:47:22",
       "album": {
+        "name": "Un Nuevo Sol (Versi\u00f3n Standard)",
+        "url": "https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ"
+      },
+      "artists": [
+        {
+          "name": "Axel",
+          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
+        }
+      ],
+      "duration_ms": 253240,
+      "name": "Te Voy A Amar",
+      "url": "https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU"
+    },
+    {
+      "added_at": "2024-05-03 11:47:22",
+      "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 256973,
       "name": "Rival (feat. Mario Domm)",
       "url": "https://open.spotify.com/track/0JYdkP4Kz0ixmSfTTPvECC"
-    },
-    {
-      "added_at": "2024-05-03 11:47:22",
-      "album": {
-        "name": "Un Nuevo Sol (Versi\u00f3n Standard)",
-        "url": "https://open.spotify.com/album/7McgebAgt9gSwYSdvPjqXQ"
-      },
-      "artists": [
-        {
-          "name": "Axel",
-          "url": "https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE"
-        }
-      ],
-      "duration_ms": 253240,
-      "name": "Te Voy A Amar",
-      "url": "https://open.spotify.com/track/2pWBSBT4GLSqt4mb0dkokU"
     },
     {
       "added_at": "2024-05-03 11:47:22",

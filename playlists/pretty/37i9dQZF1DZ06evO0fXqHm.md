@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 ### [This Is Mac Júlia](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0fXqHm)
 
-> This is Mac Júlia\. Todos os maiores hits em uma só playlist.
+> This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,334 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,336 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 28 | [Puta Que Pariu](https://open.spotify.com/track/4NDvt31QU8VSXjfEk7O64A) | [DJ Dayeh](https://open.spotify.com/artist/0ZTKJ3pvPBc2IgKz6i7RH3), [DJ K](https://open.spotify.com/artist/1YZljq3fZXrlnCe0mMxwKB), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [Tory Dru](https://open.spotify.com/artist/0dxYsrJebx92yDX7hQrup5) | [Puta Que Pariu](https://open.spotify.com/album/515WImJFOyl2duvuIV1lo6) | 2:31 |
 | 29 | [Fiel à Cachorrada](https://open.spotify.com/track/6XbwsJyQ9E5vf3e0dAVd5d) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC NAHARA](https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS), [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:12 |
 | 30 | [Sem Pressão](https://open.spotify.com/track/2a3xEMLiLgIrYzPPXbTV0b) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:22 |
-| 31 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
-| 32 | [Sem Calcinha](https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:36 |
+| 31 | [Sem Calcinha](https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:36 |
+| 32 | [BOLA LOGO](https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [AMOUR BEIJA FLOR](https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn) | 1:47 |
 | 33 | [No Baile do Serrão](https://open.spotify.com/track/7AimXL9UmBDdoHOfFGx678) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Luan da BS](https://open.spotify.com/artist/1BrFcFtIp3ZqvuI5C0VcK3), [DJ BK](https://open.spotify.com/artist/0qMiyCDnXRhIDkpG4NgVZX) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:15 |
 | 34 | [Sainha](https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:44 |
 | 35 | [Me Leva Pra Casa](https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6) | [Me Leva Pra Casa](https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs) | 2:44 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 39 | [Para de Brincar Comigo](https://open.spotify.com/track/1XU61okRaI9UxMB3z2O2GQ) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 1:56 |
 | 40 | [Ranger Preta](https://open.spotify.com/track/3R7u5QHAGWLIfk4cguiKaR) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C) | [Juma](https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW) | 2:35 |
 | 41 | [Sentadinha Matinal](https://open.spotify.com/track/53JbVO3ABYd4s8Fm65H68n) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Milbeats](https://open.spotify.com/artist/6oQfW0xYBhMqOMt5cJ4oSV) | [Baile da Dona Onça](https://open.spotify.com/album/6tWDy3FS2naau5PI4FnRey) | 2:32 |
-| 42 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
-| 43 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
+| 42 | [Salto Alto](https://open.spotify.com/track/5tJm7qkKmiwt2iHZBLR02c) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu) | [$IMBIO$E](https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY) | 2:37 |
+| 43 | [Mama](https://open.spotify.com/track/61znzBhqg2HpuK1aMckMi4) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Mama](https://open.spotify.com/album/4xOsFV0RqRz4SJq2fkwge6) | 2:10 |
 | 44 | [Olha Bebê](https://open.spotify.com/track/3MieTvQzwXlljej28RVFmC) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Mete Mac Vol 1](https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er) | 3:44 |
 | 45 | [Phone](https://open.spotify.com/track/4MLf65UBiNnLtqBhlliNyM) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Phone](https://open.spotify.com/album/2bPSxJj209g3KOyyA44RPL) | 2:46 |
 | 46 | [Tudo Acontece Lá na Favela](https://open.spotify.com/track/66dKLOLPJK0ubuhlRlhD3T) | [DJ IGOR SANCHEZ](https://open.spotify.com/artist/6CdxiVkuXz0UwHvYr1TVAO), [Daan Mc](https://open.spotify.com/artist/4X6uKYeA7OePF4FkyjdXXe), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [MC Vitin LC](https://open.spotify.com/artist/3VU1prPpWqYhRlKS6FQNMR) | [Tudo Acontece Lá na Favela](https://open.spotify.com/album/5MF7SoKuLGukuJekMQ2Mjh) | 2:03 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 50 | [Clap Clap](https://open.spotify.com/track/6KgcAydMahma6e6lGjsc66) | [Dj Hugo CS](https://open.spotify.com/artist/3wXK40a3UnsuyRARbF44QA), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [DALÃMA](https://open.spotify.com/artist/0dglu68sb1lWf1ACF9uOb6) | [Clap Clap](https://open.spotify.com/album/0GsnPOdNKpo7VnjYEVME6D) | 2:02 |
 | 51 | [Dentro da Jacuzzi](https://open.spotify.com/track/0wZP6InCRKqs3mkMXOLbZH) | [Dj Mack](https://open.spotify.com/artist/5ZflLwWVyy7wFkCQXkfgw7), [Mc Pretchako](https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF) | [Dentro da Jacuzzi](https://open.spotify.com/album/0vBioGs64fxKw2V0jYYNfi) | 2:12 |
 
-Snapshot ID: `ZklBAAAAAAA0VbsiOzSIrCkN/iF2ceUr`
+Snapshot ID: `ZkqSgAAAAABIg1f0xK0Zgh+cfJszk7Lx`

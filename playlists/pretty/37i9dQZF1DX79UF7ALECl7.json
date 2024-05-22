@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121553,
+  "num_followers": 121557,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        }
+      ],
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Electric Visions",
         "url": "https://open.spotify.com/album/3VMT3Z40rMJ85HkvfsASZb"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 369346,
       "name": "Electric Visions",
       "url": "https://open.spotify.com/track/6WQ3ZhGLfGWVLNBvu9t29v"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
-      },
-      "artists": [
-        {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        }
-      ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+        "name": "Golven",
+        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
       },
       "artists": [
         {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+          "name": "Anna Simonetta",
+          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
+        },
+        {
+          "name": "Jeremy Lim",
+          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
         }
       ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
+      "duration_ms": 194421,
+      "name": "Golven",
+      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -967,22 +971,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Golven",
-        "url": "https://open.spotify.com/album/4hnKYfEXxxRnGlr8PrAkXN"
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
       },
       "artists": [
         {
-          "name": "Anna Simonetta",
-          "url": "https://open.spotify.com/artist/6bO9oIiqJAQQJPZJEaNucG"
-        },
-        {
-          "name": "Jeremy Lim",
-          "url": "https://open.spotify.com/artist/4kaKtscY9uw3TitaJYWOyd"
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
         }
       ],
-      "duration_ms": 194421,
-      "name": "Golven",
-      "url": "https://open.spotify.com/track/50i5vfuzSeaWIcVH5PjPO1"
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "You Know",
+        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 156774,
+      "name": "You Know",
+      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 453559,
       "name": "Deneb Cygni - Original Mix",
       "url": "https://open.spotify.com/track/7w3TeiGbzbfvPE192wpKdX"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "You Know",
-        "url": "https://open.spotify.com/album/6IoJpTO7kXGusqLKglYGVk"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 156774,
-      "name": "You Know",
-      "url": "https://open.spotify.com/track/5gt8DyZLTb9U2m0i6ENZnP"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
+        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
+        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
+      },
+      "artists": [
+        {
+          "name": "B\u00f8lling",
+          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
+        }
+      ],
+      "duration_ms": 199346,
+      "name": "Nothing Happened",
+      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
         "name": "Do This",
         "url": "https://open.spotify.com/album/4z82w201UQTrLSxaEHKrgl"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 231593,
       "name": "Do This",
       "url": "https://open.spotify.com/track/5zrISuhxhXCp4Tnm6gjWZl"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
-        "name": "Chill Executive Officer (CEO), Vol. 7 [Selected by Maykel Piron]",
-        "url": "https://open.spotify.com/album/4wvrrh7LugJVuufRSpE4pt"
-      },
-      "artists": [
-        {
-          "name": "B\u00f8lling",
-          "url": "https://open.spotify.com/artist/3lTVwL069q4XSE9pcacCXS"
-        }
-      ],
-      "duration_ms": 199346,
-      "name": "Nothing Happened",
-      "url": "https://open.spotify.com/track/7aMBDyba2YVpoKWHXBijrG"
     },
     {
       "added_at": "2024-04-25 22:00:00",

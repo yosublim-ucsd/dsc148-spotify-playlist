@@ -1,6 +1,6 @@
 {
   "description": "A blend of the best from years past\u2014from indie folk and pop grass to roots rock and Americana. Cover: The Lumineers",
-  "num_followers": 616032,
+  "num_followers": 616039,
   "original_name": "Roots Revival",
   "owner": {
     "name": "Spotify",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Cold Little Heart (Acoustic)",
-        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+        "name": "You Are Not Alone",
+        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
       },
       "artists": [
         {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+          "name": "Mavis Staples",
+          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
         }
       ],
-      "duration_ms": 269386,
-      "name": "Cold Little Heart - Acoustic",
-      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+      "duration_ms": 237120,
+      "name": "You Are Not Alone",
+      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Cold Little Heart (Acoustic)",
+        "url": "https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 269386,
+      "name": "Cold Little Heart - Acoustic",
+      "url": "https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Ashkelon",
         "url": "https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 313867,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "You Are Not Alone",
-        "url": "https://open.spotify.com/album/5o5TBMTI6OUnM6aDSWOFxV"
-      },
-      "artists": [
-        {
-          "name": "Mavis Staples",
-          "url": "https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "You Are Not Alone",
-      "url": "https://open.spotify.com/track/2REeTHmiO6kbkNTwkolGwC"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1319,34 +1319,6 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "Call My Name",
-        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        },
-        {
-          "name": "Sara Watkins",
-          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
-        },
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        },
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Call My Name",
-      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT"
       },
@@ -1379,6 +1351,34 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
+        "name": "Call My Name",
+        "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        },
+        {
+          "name": "Sara Watkins",
+          "url": "https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek"
+        },
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        },
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Call My Name",
+      "url": "https://open.spotify.com/track/2MgfxFG6RBfW4ivhwFtYoi"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
         "name": "Rubber",
         "url": "https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 198373,
       "name": "Rubber",
       "url": "https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO"
-    },
-    {
-      "added_at": "2022-03-11 23:43:10",
-      "album": {
-        "name": "The Place I Left Behind",
-        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
-      },
-      "artists": [
-        {
-          "name": "The Deep Dark Woods",
-          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
-        }
-      ],
-      "duration_ms": 244840,
-      "name": "The Place I Left Behind",
-      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2022-03-11 23:43:10",
       "album": {
-        "name": "All Your Favorite Bands",
-        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+        "name": "The Place I Left Behind",
+        "url": "https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU"
       },
       "artists": [
         {
-          "name": "Dawes",
-          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+          "name": "The Deep Dark Woods",
+          "url": "https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl"
         }
       ],
-      "duration_ms": 243319,
-      "name": "Things Happen",
-      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
+      "duration_ms": 244840,
+      "name": "The Place I Left Behind",
+      "url": "https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB"
     },
     {
       "added_at": "2022-03-11 23:43:10",
@@ -1455,6 +1439,22 @@
       "duration_ms": 197640,
       "name": "Good Woman",
       "url": "https://open.spotify.com/track/1jQoqq9UMkt4IASvOYe6TU"
+    },
+    {
+      "added_at": "2022-03-11 23:43:10",
+      "album": {
+        "name": "All Your Favorite Bands",
+        "url": "https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE"
+      },
+      "artists": [
+        {
+          "name": "Dawes",
+          "url": "https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV"
+        }
+      ],
+      "duration_ms": 243319,
+      "name": "Things Happen",
+      "url": "https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG"
     },
     {
       "added_at": "2022-03-11 23:43:10",

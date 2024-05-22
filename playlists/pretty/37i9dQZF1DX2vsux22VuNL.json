@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289377,
+  "num_followers": 289365,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Acordo Cedo",
+        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
+      },
+      "artists": [
+        {
+          "name": "Sobral",
+          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Acordo Cedo",
+      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Pagode Urbano #01",
         "url": "https://open.spotify.com/album/0tpkxRanA19zdLPHe2NunM"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Acordo Cedo",
-        "url": "https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB"
-      },
-      "artists": [
-        {
-          "name": "Sobral",
-          "url": "https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Acordo Cedo",
-      "url": "https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n"
     },
     {
       "added_at": "2024-05-17 03:03:00",

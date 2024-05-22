@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ron Macapagal\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,600 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,597 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 6 | [Laylow](https://open.spotify.com/track/1Xwjw9DuWQ28pLSesXwjnM) | [K\-Leb](https://open.spotify.com/artist/4U3clCN7761fpD0czDpytx), [Sheed](https://open.spotify.com/artist/6WqpI59QEG4AJpleDh0wqL), [Dre professor](https://open.spotify.com/artist/5njjpHvuYqivedSNaUcW1I), [Mcee Zabala](https://open.spotify.com/artist/2zIc88mQjN4RqMwaPaokez) | [Halo Halo Mixtape](https://open.spotify.com/album/11kZbo5YgatfkjspNehSE4) | 4:08 |
 | 7 | [Ibang Amatz \(feat\. Flict G & Joshua Marie\)](https://open.spotify.com/track/0Paw12GTpvphICRx2BkdvE) | [Siobal D](https://open.spotify.com/artist/2AodiAoxyk5D0l2KW3WqGG), [Flict G](https://open.spotify.com/artist/4K7jEoIMJx2MpmgivAbJsS), [Joshua Marie](https://open.spotify.com/artist/5VWZeIdDkKp4mIhVfciOb6) | [Siobal D](https://open.spotify.com/album/19pbJciaQXlqwB9ZOJV2u4) | 4:09 |
 | 8 | [78](https://open.spotify.com/track/5rJWBEnfP9kpRQrN1OyqxY) | [Breē](https://open.spotify.com/artist/5dw8ejHVfSDig5NlMJ5ON4) | [A DREAM OF SUNRISE](https://open.spotify.com/album/1LwSkNN1XrQXm6snJ75mZB) | 4:03 |
-| 9 | [Man Eater \(feat\. CDB\)](https://open.spotify.com/track/3kx6IsDky73KlUUzOb143x) | [Mitchie](https://open.spotify.com/artist/7mg0xXiyQngsjIokEuy1Vw), [CDB](https://open.spotify.com/artist/7EUjDdRgLHcgFIL4sfhvFo) | [Man Eater \(feat\. CDB\)](https://open.spotify.com/album/7o2re2NMB7JIZ7DELVq2PO) | 4:20 |
+| 9 | [Man Eater \(feat\. CDB\)](https://open.spotify.com/track/3kx6IsDky73KlUUzOb143x) | [Mitchie](https://open.spotify.com/artist/7mg0xXiyQngsjIokEuy1Vw), [CBD](https://open.spotify.com/artist/1jZtk3ZrDVj83WPa7JHlQ6) | [Man Eater \(feat\. CDB\)](https://open.spotify.com/album/7o2re2NMB7JIZ7DELVq2PO) | 4:20 |
 | 10 | [So Fine](https://open.spotify.com/track/2rtT09WysnS8jm4C6yPS5Y) | [Zynergy](https://open.spotify.com/artist/0MUzybUI0w3cqN03N8NAxi), [Angelo Rhodes](https://open.spotify.com/artist/64L5nzTPYa992VG8L6fBHH) | [So Fine](https://open.spotify.com/album/65HwLBeLyI0jtFCV0KoHhr) | 3:52 |
 | 11 | [Gold Dust](https://open.spotify.com/track/178jOktLUS6VcaferiGgNs) | [Valere](https://open.spotify.com/artist/5ZQF36w4zKY03Rq4zbYx88) | [Gold Dust](https://open.spotify.com/album/4tQpkw7pQz21OVlMxPSsPx) | 4:35 |
 | 12 | [Kompyansa](https://open.spotify.com/track/4Bzg6a3KTYXA0xlbCVcJVz) | [Ferny](https://open.spotify.com/artist/0c2o962KhSDjbr8doBqOcC), [Chuya](https://open.spotify.com/artist/2GXEVRwL1sW36TxBxq1QsV) | [Kompyansa](https://open.spotify.com/album/32ROu1tha6DyRWTidliClO) | 4:36 |

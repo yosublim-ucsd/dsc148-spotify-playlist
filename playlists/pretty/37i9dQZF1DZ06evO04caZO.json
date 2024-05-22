@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 430969,
+  "num_followers": 431068,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAD++hxvER5V8dtKxWt7aEcS",
+  "snapshot_id": "ZkqSgAAAAAAmFMHzHvwr8RcecYuIVSzj",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Present Past",
-        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 299232,
-      "name": "Oblivius",
-      "url": "https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Singles - Volume 01",
         "url": "https://open.spotify.com/album/2j5jqlI0NvqlXAy9C740pZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 194651,
       "name": "I'll Try Anything Once (\"You Only Live Once\" demo) - Heart In a Cage B-Side",
       "url": "https://open.spotify.com/track/1L0C3xvOtzHSOSZ5T59n0L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Present Past",
+        "url": "https://open.spotify.com/album/1SQjs5LxCj7J5WIZYg3h1D"
+      },
+      "artists": [
+        {
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "duration_ms": 299232,
+      "name": "Oblivius",
+      "url": "https://open.spotify.com/track/6y4ySPeb68KGoAi1dk130F"
     },
     {
       "added_at": null,

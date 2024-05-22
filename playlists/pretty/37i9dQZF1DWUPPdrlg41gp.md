@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179 likes - 15 songs - 1 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 197 likes - 15 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,6 +22,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPPdrlg41gp.md) - [plain]
 | 12 | [Long Way Down \- Remix](https://open.spotify.com/track/64fe1l8criCPmkk9tGPCaJ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:28 |
 | 13 | [No One Needs To Know](https://open.spotify.com/track/6UjODa5z7iMoP4xpzpe0tw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:04 |
 | 14 | [Twisted](https://open.spotify.com/track/2S2IT5e9CcsClsBkaTnBwO) | [Stevie Nicks](https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz), [Lindsey Buckingham](https://open.spotify.com/artist/3Dzj993UEz8Z5ovxuirzFO) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:13 |
-| 15 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/4eg6G4HaUe2ILWXKd1eaDa), [Alex Van Halen](https://open.spotify.com/artist/5eUWg1MYmqntpzUjzFsHI9) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 |
+| 15 | [Respect the Wind](https://open.spotify.com/track/1Uk3N1ayracgnAgw8jk7Zf) | [Eddie Van Halen](https://open.spotify.com/artist/1DlE1l0q1w0cE9cQVIsC7I), [Alex Van Halen](https://open.spotify.com/artist/3CmDSgt3JbEGKxvssuARPB) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:46 |
 
 Snapshot ID: `ZkeRwgAAAAC0o7PPZIm9V043mq+zI27n`

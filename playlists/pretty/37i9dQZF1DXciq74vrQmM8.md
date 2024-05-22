@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. static dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,669 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,712 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 |
 | 85 | [dance baby dance](https://open.spotify.com/track/3OBZmOr9ykJFUQAChoFeFQ) | [hackedface](https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v), [Sick Solution](https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6), [0%Mercury](https://open.spotify.com/artist/4DxusQrhwkEDAg0iznFfEB) | [dance baby dance](https://open.spotify.com/album/7MX1LRDVjxjJC64gU77paP) | 2:28 |
 
-Snapshot ID: `ZkaP8AAAAAAmNB45Tttmsuh8y+Nj78GB`
+Snapshot ID: `Zk0ncAAAAAAIUw1PQS7Xe686hAP6Tnj9`

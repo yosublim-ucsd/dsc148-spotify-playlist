@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,515 likes - 87 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,563 likes - 87 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 |
-| 2 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
-| 3 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 |
-| 4 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
-| 5 | [Weekend](https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zin In De Zomer Man](https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv) | 1:57 |
+| 1 | [Weekend](https://open.spotify.com/track/6vIdMFb41Jdej53GSNPlQs) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Zin In De Zomer Man](https://open.spotify.com/album/6Gkcya6VzCPstK4IcPBoiv) | 1:57 |
+| 2 | [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 |
+| 3 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 |
+| 4 | [Festival](https://open.spotify.com/track/7Jvfgj6mmATe6hq7dSdseM) | [Yssi SB](https://open.spotify.com/artist/0o1hCS1PDOc1UtVrcXB9s8), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [Dopebwoy](https://open.spotify.com/artist/3kw9wqwYyvRCI6Q2rqsfNS) | [Festival](https://open.spotify.com/album/4oxdUH6eGKuQWF2H4vcHF5) | 2:26 |
+| 5 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
 | 6 | [Vent](https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds) | [NOIT](https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC) | [Vent](https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU) | 2:56 |
 | 7 | [SITU](https://open.spotify.com/track/2h2xqIze7ZpHNlLoyP1Tor) | [Jesse Hoefnagels](https://open.spotify.com/artist/6TqU4DvvYvem6oqVn9PM8q) | [SITU](https://open.spotify.com/album/7euM4uBIBJRoTU76sqd6aJ) | 3:03 |
 | 8 | [Friendly Pressure \- Into The Sunshine Mix](https://open.spotify.com/track/0RZmpy15J6VSzx3IPuNEmR) | [Sunship](https://open.spotify.com/artist/01vieJHWhg5Vxk57RmfGau), [Jhelisa](https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA) | [Is This Real](https://open.spotify.com/album/3ae504ho747nwloxNn2CH8) | 5:34 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 86 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 87 | [Push Up \- Main Edit](https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j) | [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Push Up \(Main Edit\)](https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0) | 2:19 |
 
-Snapshot ID: `ZkcjrgAAAAAzCO8Kp0sXJyRW0Xwzf/cH`
+Snapshot ID: `ZkxVmQAAAABxOoq99LTWOS8HPsaQk1YY`

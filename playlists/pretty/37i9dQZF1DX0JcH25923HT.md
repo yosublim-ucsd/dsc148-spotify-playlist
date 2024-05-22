@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,122 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 446,340 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 85 | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/track/3tMNgcUfPEXTtG5vaaGi85) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN) | [Lucho SSJ: Bzrp Music Sessions, Vol\. 26](https://open.spotify.com/album/0thIkyfD115LyonQgwBhyT) | 2:22 |
 | 86 | [Bando Boyz Free](https://open.spotify.com/track/6xX1coEqiOl3EhKCjNgxvr) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free](https://open.spotify.com/album/5WPXLBp8n4yrU9Zzrr4iq5) | 2:59 |
 | 87 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 |
-| 88 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 |
-| 89 | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La) | 4:04 |
+| 88 | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/track/7KAveXwQ5xzdHT6GDlNIBu) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [5 Stars \(feat\. Polimá Westcoast\)](https://open.spotify.com/album/6rkXVqUqFTSeBe611ar0La) | 4:04 |
+| 89 | [Ferrari](https://open.spotify.com/track/4mbb7hmfDR6M9cQaLdYSFd) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Emmanuel](https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg) | 3:08 |
 | 90 | [Cuenta Conmigo](https://open.spotify.com/track/09mher1pkrrvgc5PKBbvxS) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3) | [Maracucho Bueno Muere Chiquito](https://open.spotify.com/album/7dThD0ZbftpiMw5kChXpC5) | 3:32 |
 | 91 | [Ahora Me Llama \- Remix](https://open.spotify.com/track/0mQD5ilmghCieAw6E6YFrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Ahora Me Llama \(Remix\)](https://open.spotify.com/album/3QL5SDLpu79KrQAW3jhJ8y) | 4:11 |
 | 92 | [Mente Gitana](https://open.spotify.com/track/074rCBnmb4MlfA7OoQrAcx) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Mente Gitana](https://open.spotify.com/album/3r4ZGro2e0Vb4x3JyNFViY) | 3:33 |

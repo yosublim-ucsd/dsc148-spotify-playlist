@@ -1,12 +1,12 @@
 {
   "description": "This is Cage The Elephant. The essential tracks, all in one playlist.",
-  "num_followers": 165138,
+  "num_followers": 165181,
   "original_name": "This Is Cage The Elephant",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAD6ctXXT1dFkanLMfAO1ezG",
+  "snapshot_id": "ZkqSgAAAAAC3s0Hk7jG1S0jmCSpJs/JV",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 208760,
-      "name": "Cigarette Daydreams",
-      "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 225973,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/5n0CTysih20NYdT2S0Wpe8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Come a Little Closer",
+      "url": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0"
     },
     {
       "added_at": null,
@@ -139,22 +139,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Come a Little Closer",
-      "url": "https://open.spotify.com/track/4sebUbjqbcgDSwG6PbSGI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 214386,
       "name": "Cold Cold Cold",
       "url": "https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Float Into The Sky",
+      "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
     },
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Float Into The Sky",
-      "url": "https://open.spotify.com/track/35VPGInrefWbfj8c8S2wXu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 228293,
       "name": "Telescope",
       "url": "https://open.spotify.com/track/0tkBOcK7oRVXQJY97zzSvr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 166360,
+      "name": "Ball and Chain",
+      "url": "https://open.spotify.com/track/3m0CF4HewwireSxJJQ3uOt"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 166360,
-      "name": "Ball and Chain",
-      "url": "https://open.spotify.com/track/3m0CF4HewwireSxJJQ3uOt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cage The Elephant (Expanded Edition)",
         "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 228320,
       "name": "Back Against the Wall",
       "url": "https://open.spotify.com/track/0vz64VTiPPBpcmla0QvAI9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Silent Picture",
+      "url": "https://open.spotify.com/track/4zEeVJMVdmPjP5Hw9NR9Ou"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Silent Picture",
-      "url": "https://open.spotify.com/track/4zEeVJMVdmPjP5Hw9NR9Ou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Melophobia",
         "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 222813,
       "name": "Spiderhead",
       "url": "https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Same",
+      "url": "https://open.spotify.com/track/2rBwN8iTEzecsWjksIJMXG"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Same",
-      "url": "https://open.spotify.com/track/2rBwN8iTEzecsWjksIJMXG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 224893,
       "name": "Sweetie Little Jean",
       "url": "https://open.spotify.com/track/4dpEYOPcmHNfvERbiajp3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Shy Eyes",
+      "url": "https://open.spotify.com/track/4nO1CkQRa3y8dgnv6D1AsA"
     },
     {
       "added_at": null,
@@ -463,38 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neon Pill",
-        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Shy Eyes",
-      "url": "https://open.spotify.com/track/4nO1CkQRa3y8dgnv6D1AsA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Out Loud",
-        "url": "https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Out Loud",
-      "url": "https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -507,22 +475,6 @@
       "duration_ms": 252786,
       "name": "Too Late To Say Goodbye",
       "url": "https://open.spotify.com/track/48sc7vBJeNoCEQhxO3zYKA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Melophobia",
-        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs"
     },
     {
       "added_at": null,
@@ -559,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/00CqEmnPLFKDhAb3cuu6Cs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -591,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 147853,
-      "name": "Drones In The Valley",
-      "url": "https://open.spotify.com/track/2Tv7qvpjiI3xnHdvBtGLoZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You Happy Birthday",
         "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
       },
@@ -623,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Thank You Happy Birthday (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+        "name": "Melophobia",
+        "url": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
       },
       "artists": [
         {
@@ -632,9 +584,25 @@
           "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 237060,
-      "name": "Shiver",
-      "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
+      "duration_ms": 248986,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/1PmaWG47wJRCIOM9v8Bauo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 147853,
+      "name": "Drones In The Valley",
+      "url": "https://open.spotify.com/track/2Tv7qvpjiI3xnHdvBtGLoZ"
     },
     {
       "added_at": null,
@@ -655,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "James Brown",
-      "url": "https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You Happy Birthday",
         "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
       },
@@ -683,6 +635,38 @@
       "duration_ms": 191600,
       "name": "Around My Head",
       "url": "https://open.spotify.com/track/0oFCz4vOMbg9dRmV69K1vG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Thank You Happy Birthday (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3jytOUwcg7ba7sMnma78k9"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 237060,
+      "name": "Shiver",
+      "url": "https://open.spotify.com/track/54W4dN6L58ySaW7WkWlTQ5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "James Brown",
+      "url": "https://open.spotify.com/track/2bQv3yAOjVFO7hcVpqyyVc"
     },
     {
       "added_at": null,
@@ -703,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cage The Elephant (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Back Stabbin' Betty",
-      "url": "https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thank You Happy Birthday",
         "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
       },
@@ -731,6 +699,22 @@
       "duration_ms": 221946,
       "name": "Always Something",
       "url": "https://open.spotify.com/track/3bpV86Ui1ND9aRU5uhQRRX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cage The Elephant (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Back Stabbin' Betty",
+      "url": "https://open.spotify.com/track/60AGFQbS6ViLy1dcnL9427"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
       "duration_ms": 196560,
       "name": "Lotus",
       "url": "https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thank You Happy Birthday",
-        "url": "https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "2024",
-      "url": "https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL"
     }
   ],
   "unique_name": "This Is Cage The Elephant",

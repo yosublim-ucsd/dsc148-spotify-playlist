@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-544 songs - 1 day 3 hr 48 min
+545 songs - 1 day 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -446,6 +446,7 @@
 | [Stay With Me](https://open.spotify.com/track/37SZi6cnrAJY0K7Xc8lwqe) | [SPIRIT LINK](https://open.spotify.com/artist/4k42mHalwBTdZWvAy3ucTc), [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Tom The Gaffer](https://open.spotify.com/artist/10RN2BJRsFdGpySIC39RRN) | [Stay With Me](https://open.spotify.com/album/3QksXN9OBPOxeyrBTIZnFt) | 2:45 | 2022-10-20 | 2023-08-10 |
 | [Stick Around You](https://open.spotify.com/track/62DSnDAEydxbgbU3OI2eMF) | [Jinxspr0](https://open.spotify.com/artist/6dGnKpumgA8WOmhmoMsGhK) | [Stick Around You](https://open.spotify.com/album/7axrnFv4TrV9USJVlllNtn) | 2:13 | 2024-03-12 |  |
 | [Stronger](https://open.spotify.com/track/6L49pJuPwkiSjYFcwK19SA) | [Prismo](https://open.spotify.com/artist/23ostNBoB9z6GMXLtHdg7y) | [Stronger](https://open.spotify.com/album/7aHMPHIbu3sQb6IF5pAt9E) | 3:32 | 2023-08-08 | 2024-01-04 |
+| [Stuck](https://open.spotify.com/track/52EEswA1EqXKDuyzcsbgZV) | [Ripple](https://open.spotify.com/artist/1bNSQdcS5Z0qpyqR9dpbjW) | [Stuck](https://open.spotify.com/album/7fs01eUoFmk6R0ar9AzqS3) | 4:11 | 2024-05-21 |  |
 | [SUN](https://open.spotify.com/track/3ss6ur5xJD1weR8QRYgT3f) | [KEELA](https://open.spotify.com/artist/7rWlbS9hZvqhjYRDgMkY2l) | [SUN](https://open.spotify.com/album/0WsOV2WePPv73OB5XRfyga) | 2:53 | 2024-01-24 |  |
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2023-04-28 |
 | [Sunrise](https://open.spotify.com/track/6WV6aIFluFdtoqnhUmmgKA) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Sunrise](https://open.spotify.com/album/5KXb5CBBV5HucBeRRus7K6) | 4:16 | 2024-01-05 |  |

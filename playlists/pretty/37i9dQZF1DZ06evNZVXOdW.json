@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 6639,
+  "num_followers": 6648,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAAFVSOr+0M6u6gQvI+OFUdZ",
+  "snapshot_id": "ZkqSgAAAAADDSkUIyhX1vF9rXwZ86Ben",
   "tracks": [
     {
       "added_at": null,
@@ -296,9 +296,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 556525,
-      "name": "To Remain/To Return",
-      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
+      "duration_ms": 844005,
+      "name": "Shadow Forces",
+      "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV"
         }
       ],
-      "duration_ms": 844005,
-      "name": "Shadow Forces",
-      "url": "https://open.spotify.com/track/0Vh8ykJFAowwy7w5ila6xC"
+      "duration_ms": 556525,
+      "name": "To Remain/To Return",
+      "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
     },
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naja",
-        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
-      },
-      "artists": [
-        {
-          "name": "Pawas",
-          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 542837,
-      "name": "Naja",
-      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resonant Bodies (Live)",
         "url": "https://open.spotify.com/album/4xZgFllOjdl5xPInHpiUXD"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 826911,
       "name": "En Route to Unfriending (Live)",
       "url": "https://open.spotify.com/track/5h12CCqstNZAeUJqYeTfCx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 542837,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
     },
     {
       "added_at": null,

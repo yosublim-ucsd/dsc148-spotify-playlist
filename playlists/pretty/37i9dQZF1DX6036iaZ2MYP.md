@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Harley
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,446 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,538 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 48 | [Undress You](https://open.spotify.com/track/6LVuaveD4hazORqbg67C03) | [KJ Spio](https://open.spotify.com/artist/6t0b3AebBcMNFuFrPDtv8L), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Undress You](https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO) | 3:33 |
 | 49 | [En tas](https://open.spotify.com/track/311ssPqcNd2wVwT1tj6QsE) | [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0), [Lala &ce](https://open.spotify.com/artist/1AKP8Tnz8KfOdRM4mqvNtF) | [En tas](https://open.spotify.com/album/4kH0PIZSyDbUC4Iyj5ZcoT) | 2:34 |
 
-Snapshot ID: `ZkaCHAAAAADVDHCBsBI8oKeDNao0GQkz`
+Snapshot ID: `ZkytmgAAAADmm8fIkwAB4vJpEzB9sT+o`

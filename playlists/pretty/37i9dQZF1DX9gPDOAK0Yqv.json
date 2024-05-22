@@ -1,6 +1,6 @@
 {
   "description": "A hypnotic journey through Melodic Techno.",
-  "num_followers": 111725,
+  "num_followers": 111923,
   "original_name": "Melodic Techno Elements",
   "owner": {
     "name": "Spotify",
@@ -883,18 +883,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+        "name": "Yumi (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
       },
       "artists": [
         {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+          "name": "Notre Dame",
+          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
+      "duration_ms": 245624,
+      "name": "Yumi - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -923,22 +927,18 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Yumi (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/4FlNcHrLMwoYWpiJXTPVLW"
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
       },
       "artists": [
         {
-          "name": "Notre Dame",
-          "url": "https://open.spotify.com/artist/6Q1Ps2F5LkdxLAM6S7KPpt"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
         }
       ],
-      "duration_ms": 245624,
-      "name": "Yumi - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/59xRzYdesxyCMhRFaodWNi"
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
-      },
-      "artists": [
-        {
-          "name": "KAAZE",
-          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
-        }
-      ],
-      "duration_ms": 159555,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/3hio3GF2DEZ2OYIAyUmvXd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 183524,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/3A5ZCWkV5EOJ949L1YzpJn"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/6rhQcQdPVL1DR6ljVTF6co"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        }
+      ],
+      "duration_ms": 159555,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/7fwu5NJYai1G5A1MxY91yX"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
-        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
+        "name": "All That Matters (Artbat Remix)",
+        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
       "artists": [
         {
@@ -1324,17 +1324,17 @@
           "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         },
         {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+          "name": "Troels Abrahamsen",
+          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
         },
         {
-          "name": "Perry Farrell",
-          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
         }
       ],
-      "duration_ms": 180952,
-      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
-      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
+      "duration_ms": 529920,
+      "name": "All That Matters - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "All That Matters (Artbat Remix)",
-        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+        "name": "I Talk To Water (With Perry Farrell) (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/6tIe9eiRP3pUXY2f2DMMpe"
       },
       "artists": [
         {
@@ -1472,17 +1472,17 @@
           "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         },
         {
-          "name": "Troels Abrahamsen",
-          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "Perry Farrell",
+          "url": "https://open.spotify.com/artist/2DS5RPK5A2GQTucYlgsQdE"
         }
       ],
-      "duration_ms": 529920,
-      "name": "All That Matters - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/6MUrwiKZCEc80rbKU7cvbd"
+      "duration_ms": 180952,
+      "name": "I Talk To Water (With Perry Farrell) - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/0VMY3ugy98OkCzk8U3q2C7"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/1CFS7xc9Y41gLfqjsJ1HJx"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ash Nova",
-          "url": "https://open.spotify.com/artist/0FAjfnZoYYn9rnVBW0pKv8"
-        }
-      ],
-      "duration_ms": 220952,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/1HAjyqnfYo2WfBpG6Gy1F0"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Freyja",
         "url": "https://open.spotify.com/album/2ahVbWkHUwk5vn2yDQAtKM"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 310819,
       "name": "RIDERS ON THE STORM",
       "url": "https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/1CFS7xc9Y41gLfqjsJ1HJx"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ash Nova",
+          "url": "https://open.spotify.com/artist/0FAjfnZoYYn9rnVBW0pKv8"
+        }
+      ],
+      "duration_ms": 220952,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/1HAjyqnfYo2WfBpG6Gy1F0"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1991,30 +1991,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/6nidpuJhFVRIS7OYGmYWUH"
-      },
-      "artists": [
-        {
-          "name": "BLR",
-          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
-        },
-        {
-          "name": "anam\u0113",
-          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
-        },
-        {
-          "name": "Truetone",
-          "url": "https://open.spotify.com/artist/5CUkPfzleT7XoFhu8g6FZw"
-        }
-      ],
-      "duration_ms": 238080,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5jBRQjXV85Bu9AGILqdY9C"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/1Vc0JlTLauPwn1lXC7mfCV"
       },
@@ -2047,6 +2023,30 @@
       "duration_ms": 412505,
       "name": "Pegasus",
       "url": "https://open.spotify.com/track/0ly6MZRi74jcRezlEYqeeJ"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Close To You",
+        "url": "https://open.spotify.com/album/6nidpuJhFVRIS7OYGmYWUH"
+      },
+      "artists": [
+        {
+          "name": "BLR",
+          "url": "https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y"
+        },
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Truetone",
+          "url": "https://open.spotify.com/artist/5CUkPfzleT7XoFhu8g6FZw"
+        }
+      ],
+      "duration_ms": 238080,
+      "name": "Close To You",
+      "url": "https://open.spotify.com/track/5jBRQjXV85Bu9AGILqdY9C"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Olympus",
-        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
-      },
-      "artists": [
-        {
-          "name": "AKKI (DE)",
-          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
-        }
-      ],
-      "duration_ms": 177777,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/28pnttupmDIu0TM7sevN0n"
       },
@@ -2343,6 +2327,22 @@
       "duration_ms": 212119,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/6NXhcyMDzhtAVHTmkGGBPo"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Olympus",
+        "url": "https://open.spotify.com/album/3lFDbkGVwjx3Dp1Kx4Fqus"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "duration_ms": 177777,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/0hfyaFhHkcEdWWckyVRnH6"
     },
     {
       "added_at": "2024-05-16 22:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 99147,
+  "num_followers": 99199,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/44pXIgdwWjrTRUW2oN4u5I"
     },
     {
-      "added_at": "2023-06-08 00:48:53",
-      "album": {
-        "name": "Moon Journey",
-        "url": "https://open.spotify.com/album/2iYxQTXWXf9bViocIGzSVv"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 378661,
-      "name": "Moon Journey",
-      "url": "https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5"
-    },
-    {
       "added_at": "2021-08-17 02:11:46",
       "album": {
         "name": "Virtual World",
@@ -503,6 +487,22 @@
       "duration_ms": 149266,
       "name": "Tropical Green (B) - Instrumental Version",
       "url": "https://open.spotify.com/track/3D94IdEFFnOL6wt2S2Dm1a"
+    },
+    {
+      "added_at": "2023-06-08 00:48:53",
+      "album": {
+        "name": "Moon Journey",
+        "url": "https://open.spotify.com/album/2iYxQTXWXf9bViocIGzSVv"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 378661,
+      "name": "Moon Journey",
+      "url": "https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Cat In The Night",
-      "url": "https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Ye Olde Space Bande Plays The Classic Rock Hits",
         "url": "https://open.spotify.com/album/6W2UlntAS3IpIZmDH0qFWk"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 394373,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/6keOvpOxtugHSLokIznZk8"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Cat In The Night",
+      "url": "https://open.spotify.com/track/6fOSsfrKQDwVC0ONVTnCeR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -639,6 +639,26 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Moog Acid",
+        "url": "https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        },
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "You Moog Me",
+      "url": "https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Moog: The Electric Eclectics Of Dick Hyman",
         "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 246893,
       "name": "Oxygene, Pt. 4",
       "url": "https://open.spotify.com/track/0Tt2jli0yAD1MKSTb5MvS2"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog Acid",
-        "url": "https://open.spotify.com/album/3C5nuwx0aR44qaFov9SW7G"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        },
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "You Moog Me",
-      "url": "https://open.spotify.com/track/6l3iWMWq52eEa6sxdzSsAw"
     },
     {
       "added_at": "2022-04-12 02:00:42",
@@ -755,6 +755,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+      },
+      "artists": [
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Suite bergamasque: No. 4: Passepied",
+      "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "The Happy Electropop Music Machine",
         "url": "https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 104026,
       "name": "The Typewriter",
       "url": "https://open.spotify.com/track/2W7PFU8zXwwEF60G9Yv2Yd"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
-      },
-      "artists": [
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Suite bergamasque: No. 4: Passepied",
-      "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -971,22 +971,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Meat Beat Manifesto",
-          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Unavailable Memory",
-      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 150026,
       "name": "Yakety Moog",
       "url": "https://open.spotify.com/track/0EYe4qWRTMB0m1ybGMHz2x"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Unavailable Memory",
+      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Celestial Scenery: Breezing Universe, Volume 6",
         "url": "https://open.spotify.com/album/01VXCpKgHrgOVO3Ld7k2u5"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 482026,
       "name": "A Passage Of Life",
       "url": "https://open.spotify.com/track/6OG2clL6ASDaddoBySTkvX"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 466306,
-      "name": "Oxygene, Pt. 2",
-      "url": "https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Weinberg Method of Nonsynthetic Electronic Rock",
         "url": "https://open.spotify.com/album/1hQGY2ktzYCU4aK66nrj8Y"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 128941,
       "name": "1958 Revisited",
       "url": "https://open.spotify.com/track/3o7FnCvqTVmw5FUKMalYIa"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 466306,
+      "name": "Oxygene, Pt. 2",
+      "url": "https://open.spotify.com/track/4roqhhRarPSjK7V9viFOVU"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Psilonaut",
-          "url": "https://open.spotify.com/artist/3cNUP3BBHBZs7363ufwtIF"
-        }
-      ],
-      "duration_ms": 364013,
-      "name": "The Sentinel",
-      "url": "https://open.spotify.com/track/4B96dYBk5Mh3ls0TDVJWtR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Kpm 1000 Series: Industry Volume 1",
         "url": "https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 70680,
       "name": "The Sausage Machine",
       "url": "https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Psilonaut",
+          "url": "https://open.spotify.com/artist/3cNUP3BBHBZs7363ufwtIF"
+        }
+      ],
+      "duration_ms": 364013,
+      "name": "The Sentinel",
+      "url": "https://open.spotify.com/track/4B96dYBk5Mh3ls0TDVJWtR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Equinoxe",
-        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 232093,
-      "name": "Equinoxe, Pt. 5",
-      "url": "https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Country Moog / Nashville Gold",
         "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 110426,
       "name": "Martha White Theme",
       "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Equinoxe",
+        "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 232093,
+      "name": "Equinoxe, Pt. 5",
+      "url": "https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1501,6 +1501,22 @@
       "url": "https://open.spotify.com/track/5SUJoc7GRrSgxdEOnDwuKd"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Oxyg\u00e8ne",
+        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
+      },
+      "artists": [
+        {
+          "name": "Jean-Michel Jarre",
+          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Oxygene, Pt. 1",
+      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
+    },
+    {
       "added_at": "2022-04-28 22:15:39",
       "album": {
         "name": "Pencerenin Perdesini / Beyo\u011flu'nda Gezersin",
@@ -1531,22 +1547,6 @@
       "duration_ms": 138178,
       "name": "Words From The Underground",
       "url": "https://open.spotify.com/track/7f8730MutBPbNRxzElLWgM"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Oxyg\u00e8ne",
-        "url": "https://open.spotify.com/album/3e7TxckusgnC1AYnAqbl2z"
-      },
-      "artists": [
-        {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Oxygene, Pt. 1",
-      "url": "https://open.spotify.com/track/75c7B7CF7n06YFSgnoxVMm"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "R Plus Seven",
+        "url": "https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR"
+      },
+      "artists": [
+        {
+          "name": "Oneohtrix Point Never",
+          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+        }
+      ],
+      "duration_ms": 305287,
+      "name": "Chrome Country",
+      "url": "https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "People On Sunday",
         "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 61703,
       "name": "Music for Advertising #1",
       "url": "https://open.spotify.com/track/5XHR7hotYg8SLIi0hdFTuU"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "R Plus Seven",
-        "url": "https://open.spotify.com/album/68PRq4zj7YXMwiUq6FNGvR"
-      },
-      "artists": [
-        {
-          "name": "Oneohtrix Point Never",
-          "url": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
-        }
-      ],
-      "duration_ms": 305287,
-      "name": "Chrome Country",
-      "url": "https://open.spotify.com/track/5G54EXkOheyrrT3CDM07Mm"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 201178,
+      "name": "Plantasia",
+      "url": "https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Retro Synth POP",
         "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
       },
@@ -1863,22 +1879,6 @@
       "duration_ms": 190806,
       "name": "Motorama",
       "url": "https://open.spotify.com/track/70RSgTp3AuCOenN3RXlef2"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Plantasia",
-      "url": "https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T"
     },
     {
       "added_at": "2021-11-12 02:59:19",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 161049,
+      "name": "Symphony for a Spider Plant",
+      "url": "https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Retro Synth POP",
         "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
       },
@@ -1975,22 +1991,6 @@
       "duration_ms": 171348,
       "name": "Mescalito",
       "url": "https://open.spotify.com/track/0RfvCPTuBiznJAhTSK6xpR"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 161049,
-      "name": "Symphony for a Spider Plant",
-      "url": "https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2123,22 +2123,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Retro Synth POP",
-        "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
       },
       "artists": [
         {
-          "name": "Gerhard Narholz",
-          "url": "https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q"
-        },
-        {
-          "name": "Manuel Landy",
-          "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
         }
       ],
-      "duration_ms": 238047,
-      "name": "Tropic Topic",
-      "url": "https://open.spotify.com/track/3DhODZawheEKJAZENppr0r"
+      "duration_ms": 207697,
+      "name": "Rhapsody in Green",
+      "url": "https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2191,18 +2187,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
+        "name": "Retro Synth POP",
+        "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
       },
       "artists": [
         {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+          "name": "Gerhard Narholz",
+          "url": "https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q"
+        },
+        {
+          "name": "Manuel Landy",
+          "url": "https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco"
         }
       ],
-      "duration_ms": 207697,
-      "name": "Rhapsody in Green",
-      "url": "https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX"
+      "duration_ms": 238047,
+      "name": "Tropic Topic",
+      "url": "https://open.spotify.com/track/3DhODZawheEKJAZENppr0r"
     },
     {
       "added_at": "2021-08-17 02:11:46",

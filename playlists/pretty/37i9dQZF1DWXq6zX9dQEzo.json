@@ -1,6 +1,6 @@
 {
   "description": "Faith without work[out]s is dead!  Get your beast mode on!",
-  "num_followers": 232108,
+  "num_followers": 232274,
   "original_name": "Beast Mode Christian",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "CHECK!",
-        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 146985,
-      "name": "CHECK!",
-      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Every Step",
         "url": "https://open.spotify.com/album/6dOZLDXel55K6Td1cbs1PG"
       },
@@ -531,6 +515,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "CHECK!",
+        "url": "https://open.spotify.com/album/2ap4EkuxDV83miHllb0IZ4"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 146985,
+      "name": "CHECK!",
+      "url": "https://open.spotify.com/track/3Oyx8qq8PlRhGnDxMA4cdR"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "NOPE",
         "url": "https://open.spotify.com/album/5RwiHu9QOCzjyoCjBeH4fR"
       },
@@ -547,6 +547,26 @@
       "duration_ms": 148000,
       "name": "NOPE",
       "url": "https://open.spotify.com/track/1xpUpmKZsGwQWYFV0XkH8u"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "VICIOUS CYCLE",
+        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        }
+      ],
+      "duration_ms": 208979,
+      "name": "VICIOUS CYCLE",
+      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -579,26 +599,6 @@
       "duration_ms": 211788,
       "name": "GROOVY FREESTYLE (REMIX)",
       "url": "https://open.spotify.com/track/75I3cFxZ68lLh9y61DhASM"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "VICIOUS CYCLE",
-        "url": "https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        }
-      ],
-      "duration_ms": 208979,
-      "name": "VICIOUS CYCLE",
-      "url": "https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -691,26 +691,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "YOU KNOW WHAT I MEAN",
-        "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        },
-        {
-          "name": "BigBreeze",
-          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
-        }
-      ],
-      "duration_ms": 142221,
-      "name": "YOU KNOW WHAT I MEAN",
-      "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "BIG GOD",
         "url": "https://open.spotify.com/album/48WS9KBMnD32p4q3RFnvvS"
       },
@@ -727,6 +707,26 @@
       "duration_ms": 176579,
       "name": "BIG GOD",
       "url": "https://open.spotify.com/track/4wssjvR1Viyq4QzArsnzgv"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "YOU KNOW WHAT I MEAN",
+        "url": "https://open.spotify.com/album/1QZUAkjbqzDudg78GJ87Up"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        },
+        {
+          "name": "BigBreeze",
+          "url": "https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt"
+        }
+      ],
+      "duration_ms": 142221,
+      "name": "YOU KNOW WHAT I MEAN",
+      "url": "https://open.spotify.com/track/7uomhQZto3zjn7LuUGjfBP"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "BREAK ME DOWN",
-        "url": "https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI"
-      },
-      "artists": [
-        {
-          "name": "DizzyEight",
-          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
-        },
-        {
-          "name": "Musicality",
-          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
-        }
-      ],
-      "duration_ms": 196736,
-      "name": "BREAK ME DOWN",
-      "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/0spOTYRQFWRbNwapBauYmg"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 163500,
       "name": "Giants",
       "url": "https://open.spotify.com/track/0N8R08onW7h8ghBhns9TqV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "BREAK ME DOWN",
+        "url": "https://open.spotify.com/album/4KaVPVFVdQwGqZZODLkHfI"
+      },
+      "artists": [
+        {
+          "name": "DizzyEight",
+          "url": "https://open.spotify.com/artist/3qpVZqXttPUYEmt53UYDGV"
+        },
+        {
+          "name": "Musicality",
+          "url": "https://open.spotify.com/artist/3jbwoqhl1GhkvC5rNBvHH3"
+        }
+      ],
+      "duration_ms": 196736,
+      "name": "BREAK ME DOWN",
+      "url": "https://open.spotify.com/track/2WRTsWXngQLDtvv9geDEah"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "We Already Won",
-        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 177587,
-      "name": "The City Is Mine",
-      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "WORKOUT",
         "url": "https://open.spotify.com/album/7AwxTm0N1wwfdSsfdR0kip"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 162403,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "We Already Won",
+        "url": "https://open.spotify.com/album/5FjeaQ1gGVrgTzwwbkB4cx"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 177587,
+      "name": "The City Is Mine",
+      "url": "https://open.spotify.com/track/04jZiRSpNucRPCAab0bK53"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Bend The Whip",
-        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
-      },
-      "artists": [
-        {
-          "name": "Canon",
-          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "Bend The Whip",
-      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/0li3bqzi1Mbs3qQqIKHEA4"
       },
@@ -1435,18 +1419,18 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
+        "name": "Bend The Whip",
+        "url": "https://open.spotify.com/album/5rwFEKB8GgdsEAbEaWvnWB"
       },
       "artists": [
         {
-          "name": "Scootie Wop",
-          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+          "name": "Canon",
+          "url": "https://open.spotify.com/artist/1dIjbaW9JTTQQ7ufrQnGsq"
         }
       ],
-      "duration_ms": 219399,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
+      "duration_ms": 163902,
+      "name": "Bend The Whip",
+      "url": "https://open.spotify.com/track/3ABLULiimnqZkQFTb6QsZh"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1463,6 +1447,22 @@
       "duration_ms": 115434,
       "name": "HE BACK!",
       "url": "https://open.spotify.com/track/3Rbab48znK9UXKteEzmyeu"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/2q4Mu2bkMECpfOBT8UP7Vx"
+      },
+      "artists": [
+        {
+          "name": "Scootie Wop",
+          "url": "https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I"
+        }
+      ],
+      "duration_ms": 219399,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/43F2kSXlvOfMFsvFg5LpPa"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
         "name": "RIVALS",
         "url": "https://open.spotify.com/album/0AFbdKKyYriMmSZxOuCrU3"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 187118,
       "name": "RIVALS",
       "url": "https://open.spotify.com/track/4Lv3A56fTvfZvTK4mrB1vZ"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2024-03-20 10:50:51",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-03-20 10:50:51",
       "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
-      },
-      "artists": [
-        {
-          "name": "Xay Hill",
-          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
-        }
-      ],
-      "duration_ms": 163862,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
-    },
-    {
-      "added_at": "2024-03-20 10:50:51",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/0CgRpgsbDEV7uiiZBsdrqp"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 147910,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3z6e2jZFuNrLFE6nXrSPTa"
+    },
+    {
+      "added_at": "2024-03-20 10:50:51",
+      "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/2PwgtkiIRxcTvOAxngjbcV"
+      },
+      "artists": [
+        {
+          "name": "Xay Hill",
+          "url": "https://open.spotify.com/artist/6e7kIHb5oTfOJY5IzLyzR6"
+        }
+      ],
+      "duration_ms": 163862,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/3w3GpeDVdLb5c7XnTQ3Ktw"
     },
     {
       "added_at": "2024-03-20 10:50:51",

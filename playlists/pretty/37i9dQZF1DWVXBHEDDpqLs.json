@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31272,
+  "num_followers": 31277,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Wicked (feat. Eliza Legzdina)",
-        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
-      },
-      "artists": [
-        {
-          "name": "lau.ra",
-          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 157674,
-      "name": "Wicked (feat. Eliza Legzdina)",
-      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "clown shit",
         "url": "https://open.spotify.com/album/25XfRZJiNYItar9V08ZOWn"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 387310,
       "name": "clown shit (up the wall) [SOPHIE Remix]",
       "url": "https://open.spotify.com/track/4RMtFI3hGFBnyDg9YIvLLs"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Wicked (feat. Eliza Legzdina)",
+        "url": "https://open.spotify.com/album/3SGr4NHccCw3UI1tiuhIpK"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Wicked (feat. Eliza Legzdina)",
+      "url": "https://open.spotify.com/track/6Bhdiee45ytzB8b2tgHdzR"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1379,22 +1395,6 @@
       "duration_ms": 209090,
       "name": "The Floor Is Ours",
       "url": "https://open.spotify.com/track/767s2E491pxVbvHhaKsmZU"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Switch",
         "url": "https://open.spotify.com/album/4Pmn6tJdfbu69sv4vMQxVC"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 166500,
       "name": "Switch",
       "url": "https://open.spotify.com/track/30c9tBMcRT1FnRXA8NvVVT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Nights Into Mornings EP",
         "url": "https://open.spotify.com/album/6wgYPnFPjoD178hdY6cvea"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151965,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
-      },
-      "artists": [
-        {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
-        }
-      ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bedroom DJ Remixes",
         "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 168827,
       "name": "Bedroom DJ - So Drove's Reefer Mix",
       "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "sunscreen",
+        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 247236,
+      "name": "sunscreen",
+      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1875,6 +1875,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Black Rave Culture Vol 2",
+        "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
+      },
+      "artists": [
+        {
+          "name": "Black Rave Culture",
+          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
+        }
+      ],
+      "duration_ms": 348000,
+      "name": "Something Else",
+      "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "FIJI WATER",
         "url": "https://open.spotify.com/album/1BS1edClr1Bo0pdBTq8zuk"
       },
@@ -1891,22 +1907,6 @@
       "duration_ms": 136615,
       "name": "FIJI WATER",
       "url": "https://open.spotify.com/track/4YHwBlm1YVZ8pgMVlYAx9k"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Black Rave Culture Vol 2",
-        "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
-      },
-      "artists": [
-        {
-          "name": "Black Rave Culture",
-          "url": "https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS"
-        }
-      ],
-      "duration_ms": 348000,
-      "name": "Something Else",
-      "url": "https://open.spotify.com/track/1QfBG4EMitoLtVy1796F8A"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1935,22 +1935,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I Am In Love",
-        "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
+        "name": "I Said",
+        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
       },
       "artists": [
         {
-          "name": "FARRAH",
-          "url": "https://open.spotify.com/artist/4R862i0Bp6ESVOKauKCviF"
-        },
-        {
-          "name": "DIALYUP",
-          "url": "https://open.spotify.com/artist/31kpdqeO4EBxFxzlpAA5Fb"
+          "name": "Kade Young",
+          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
         }
       ],
-      "duration_ms": 173142,
-      "name": "I Am In Love",
-      "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
+      "duration_ms": 178560,
+      "name": "I Said",
+      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1975,34 +1971,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "I Said",
-        "url": "https://open.spotify.com/album/3dRwrDrZAVZuUnPQ0mZCde"
+        "name": "I Am In Love",
+        "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
       },
       "artists": [
         {
-          "name": "Kade Young",
-          "url": "https://open.spotify.com/artist/0HuyMTJ3Nd3JQsOfDrGYVT"
-        }
-      ],
-      "duration_ms": 178560,
-      "name": "I Said",
-      "url": "https://open.spotify.com/track/4Memi5MoLKZVCELuMCa3ku"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
-        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
-      },
-      "artists": [
+          "name": "FARRAH",
+          "url": "https://open.spotify.com/artist/4R862i0Bp6ESVOKauKCviF"
+        },
         {
-          "name": "Traxman",
-          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+          "name": "DIALYUP",
+          "url": "https://open.spotify.com/artist/31kpdqeO4EBxFxzlpAA5Fb"
         }
       ],
-      "duration_ms": 290813,
-      "name": "Get Down Lil Bit - Street Bangers Factory 16",
-      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
+      "duration_ms": 173142,
+      "name": "I Am In Love",
+      "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2039,6 +2023,22 @@
       "duration_ms": 376888,
       "name": "DELETE",
       "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Get Down Lil Bit (Street Bangers Factory 16)",
+        "url": "https://open.spotify.com/album/75vio1xSvsEGN3oC9veBzn"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 290813,
+      "name": "Get Down Lil Bit - Street Bangers Factory 16",
+      "url": "https://open.spotify.com/track/1KzKhPENPl7U9Mi25Qo7ir"
     }
   ],
   "unique_name": "Global Club Music",

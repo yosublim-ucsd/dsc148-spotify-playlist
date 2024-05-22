@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,479 likes - 70 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,481 likes - 70 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 63 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 | 64 | [First Sleep](https://open.spotify.com/track/4kvIhfgXgFIMsxmCbsMB0M) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 2:52 |
 | 65 | [Fire The Editor \- Pt\. 3 / Endel Chill Soundscape](https://open.spotify.com/track/32ybGt9QtBbtLqfu8Tzchg) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven \(Endel Chillout Soundscape\)](https://open.spotify.com/album/1aNEVZZJsa4nFR9D3N6WXm) | 2:41 |
-| 66 | [Space Oracle \- aus Remix](https://open.spotify.com/track/1eM2EGmwytpLoX5APjhp9n) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Space Oracle \(aus Remix\)](https://open.spotify.com/album/0k4bUIwiHR0F8Wsb0iPtsW) | 5:18 |
-| 67 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 66 | [Introspection \- Edit](https://open.spotify.com/track/4SqfCU4jNDOqP8qKcSpMU9) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/0v1LQD6fWcMcvvTg6Mbcia) | 2:35 |
+| 67 | [Space Oracle \- aus Remix](https://open.spotify.com/track/1eM2EGmwytpLoX5APjhp9n) | [Seahawks](https://open.spotify.com/artist/6WHCgS2g18qWw45K66DdRZ), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Space Oracle \(aus Remix\)](https://open.spotify.com/album/0k4bUIwiHR0F8Wsb0iPtsW) | 5:18 |
 | 68 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 69 | [Drive My Car \(Cassette\)](https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh) | [Eiko Ishibashi](https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7) | [Drive My Car Original Soundtrack](https://open.spotify.com/album/5UX8iI2DhriBFsAJ7Hz8lM) | 2:55 |
 | 70 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |

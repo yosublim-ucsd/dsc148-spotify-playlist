@@ -6,8 +6,100 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADI0epU8n3sj1A3ODoODQOHnpOstb1",
+  "snapshot_id": "AAADKmp6uRmG2ynqgZbmAXVvx1CY7m45",
   "tracks": [
+    {
+      "added_at": "2024-05-21 08:03:17",
+      "album": {
+        "name": "OVER LIT",
+        "url": "https://open.spotify.com/album/6ZJsbUaOoHUtp0Ud8cWq0G"
+      },
+      "artists": [
+        {
+          "name": "\u66f8\u5e97\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/2xUC9RhmZ0w9djd9uuPTCD"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 290002,
+      "name": "OVER LIT (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/7zjV95cZjBPARW2snSaLVr"
+    },
+    {
+      "added_at": "2024-05-21 08:04:54",
+      "album": {
+        "name": "\u30d2\u30c3\u30c8\u30e1\u30fc\u30ab\u30fc",
+        "url": "https://open.spotify.com/album/6wjwen02xljrduDf9ul2Yj"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u672a\u30a2\u30ac\u30ea",
+          "url": "https://open.spotify.com/artist/6fVGwhKnpLfTAbZNHRDxFa"
+        },
+        {
+          "name": "\u91cd\u97f3\u30c6\u30c8",
+          "url": "https://open.spotify.com/artist/7Al85ZdCo2ZoQiBghDSj7o"
+        }
+      ],
+      "duration_ms": 219391,
+      "name": "\u30d2\u30c3\u30c8\u30e1\u30fc\u30ab\u30fc (feat. \u91cd\u97f3\u30c6\u30c8)",
+      "url": "https://open.spotify.com/track/1DOLc4mELcfI4AimbVKy5T"
+    },
+    {
+      "added_at": "2024-05-21 08:06:08",
+      "album": {
+        "name": "I know \u611b\u8133.",
+        "url": "https://open.spotify.com/album/01eGlRkyJwkTPl4XIJ4Qbb"
+      },
+      "artists": [
+        {
+          "name": "\u5409\u7530\u591c\u4e16",
+          "url": "https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "I know \u611b\u8133. (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0jUo25DS04JAE5ajjpobw1"
+    },
+    {
+      "added_at": "2024-05-21 08:07:47",
+      "album": {
+        "name": "\u4ec4\u6697\u3044\u90e8\u5c4b\u3068\u6708\u306e\u591c",
+        "url": "https://open.spotify.com/album/0qdAI4shjkKqe8KMokjUEi"
+      },
+      "artists": [
+        {
+          "name": "OtuQ",
+          "url": "https://open.spotify.com/artist/4aR1U3I9Fa7m6XmkDBcT3s"
+        }
+      ],
+      "duration_ms": 185419,
+      "name": "\u4ec4\u6697\u3044\u90e8\u5c4b\u3068\u6708\u306e\u591c",
+      "url": "https://open.spotify.com/track/0QZQPdaxxDrSUQcnLswm3j"
+    },
+    {
+      "added_at": "2024-05-21 08:08:05",
+      "album": {
+        "name": "\u30e2\u30b8\u30e5\u30fc\u30eb\u30c1\u30a7\u30a4\u30b9Vol.2",
+        "url": "https://open.spotify.com/album/6TrSkf8TuSoZ05N18Dv4JX"
+      },
+      "artists": [
+        {
+          "name": "yukitsuki",
+          "url": "https://open.spotify.com/artist/0QI68ykMZoGMCUSUlOOdfD"
+        }
+      ],
+      "duration_ms": 167659,
+      "name": "\u30c7\u30f3\u30b8\u30e3\u30e9\u30b9 \u30e9\u30f4\u30db\u30ea\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1rfpHlN5gACg9QgIfUsSCb"
+    },
     {
       "added_at": "2024-05-14 03:49:44",
       "album": {
@@ -703,106 +795,6 @@
       "duration_ms": 184291,
       "name": "\u3089\u305a\u3079\u308a! (feat. MEIKO)",
       "url": "https://open.spotify.com/track/0lsgFVTq7gwpXtF00B85s7"
-    },
-    {
-      "added_at": "2024-02-27 05:31:57",
-      "album": {
-        "name": "Jewel",
-        "url": "https://open.spotify.com/album/3l0ya5baIPs7Hu2GnhE5kE"
-      },
-      "artists": [
-        {
-          "name": "\u3081\u308d\u304f\u308b",
-          "url": "https://open.spotify.com/artist/7ylTFjdr6lbBsuQdHWQwtc"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        },
-        {
-          "name": "Kagamine Rin",
-          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Magic (feat. \u521d\u97f3\u30df\u30af&\u93e1\u97f3\u30ea\u30f3&\u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/1eNteA4vie5NpHkGKZJFF5"
-    },
-    {
-      "added_at": "2024-02-27 05:32:10",
-      "album": {
-        "name": "\u30c7\u30e5\u30ec\u30a8",
-        "url": "https://open.spotify.com/album/6R1oU4gVNz9K4yFt5PRZZ0"
-      },
-      "artists": [
-        {
-          "name": "\u690e\u4e43\u5473\u9182",
-          "url": "https://open.spotify.com/artist/0It67rh1sbAlCG80VXJVrk"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "\u30c7\u30e5\u30ec\u30a8 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/78KvUgShCqHiWVLZweVqPP"
-    },
-    {
-      "added_at": "2024-02-27 05:32:25",
-      "album": {
-        "name": "Unbreakable - Storyteller & Identity",
-        "url": "https://open.spotify.com/album/4czMTFV9oBX1BgS2ymM5hV"
-      },
-      "artists": [
-        {
-          "name": "\u66f8\u5e97\u592a\u90ce",
-          "url": "https://open.spotify.com/artist/2xUC9RhmZ0w9djd9uuPTCD"
-        },
-        {
-          "name": "Megurine Luka",
-          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
-        }
-      ],
-      "duration_ms": 240500,
-      "name": "\u6b8b\u50cf\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2 (feat. \u5de1\u97f3\u30eb\u30ab)",
-      "url": "https://open.spotify.com/track/2R9ciM5kHGNZ7509uoEZAv"
-    },
-    {
-      "added_at": "2024-02-27 05:33:10",
-      "album": {
-        "name": "SUBTRACTION",
-        "url": "https://open.spotify.com/album/6mrVfAHSKMunKbrN3nqCxB"
-      },
-      "artists": [
-        {
-          "name": "Reno",
-          "url": "https://open.spotify.com/artist/0YeyArWyZ8WylXppXeiZ2z"
-        }
-      ],
-      "duration_ms": 213461,
-      "name": "SUBTRACTION",
-      "url": "https://open.spotify.com/track/48OTuTslIAIIngK6Gmgg4N"
-    },
-    {
-      "added_at": "2024-02-27 05:35:56",
-      "album": {
-        "name": "WISH",
-        "url": "https://open.spotify.com/album/0qtPGKqR5WpsfyUaFqiahI"
-      },
-      "artists": [
-        {
-          "name": "shu-t",
-          "url": "https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4"
-        }
-      ],
-      "duration_ms": 231617,
-      "name": "WISH",
-      "url": "https://open.spotify.com/track/75huOjjs27I48isuSfPUhv"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 
 > Some of the best Christian, Gospel, and inspirational songs of the year\.  Cover: <a href="spotify:artist:55qfDfgj4Qi3JGe6KpqGtC">Blessing Offor</a>  \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,076 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,088 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrknLz4Do7C.md) - [plain]
 | 34 | [I've Witnessed It \- Single Version](https://open.spotify.com/track/7taJcMLsv0VoF96NOvHCqx) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Melodie Malone](https://open.spotify.com/artist/0ex9uIrMyFOJ64RCl0yuB3) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 4:29 |
 | 35 | [All Things](https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [All Things](https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9) | 3:09 |
 | 36 | [Carry Me](https://open.spotify.com/track/3RCAjJWDwqFbYu1FkjXdF5) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [ABLE](https://open.spotify.com/album/5wVNAe5fORILSHquSst7Z5) | 3:49 |
-| 37 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 |
+| 37 | [Somebody Loves You](https://open.spotify.com/track/6jOrsBdE4gzgnUuwKjhNdy) | [Jordan Feliz](https://open.spotify.com/artist/7HZ71xA72mMAj94NH7suWy) | [Somebody Loves You](https://open.spotify.com/album/0m1sI2WlgWK2RuYEcB0ExO) | 3:11 |
 | 38 | [Place For Me](https://open.spotify.com/track/14ZwtJEQKZfIxV7fNXfWcI) | [Jason Gray](https://open.spotify.com/artist/4i2mkyKkRrc0OvPrWqb4BE) | [Place For Me](https://open.spotify.com/album/7LaeZvJR9oC9zqhfJ1vd23) | 2:51 |
 | 39 | [Miracles](https://open.spotify.com/track/7ofj9JjyUFJ5loeIM9cijS) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 2:41 |
 | 40 | [Be There For You](https://open.spotify.com/track/7AWkRQoTPaqUrZpRvCH748) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 3:48 |

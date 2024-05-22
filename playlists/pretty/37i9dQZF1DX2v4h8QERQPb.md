@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: YSY A.
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,357 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,398 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 13 | [Deja de Hacerte la Cabeza](https://open.spotify.com/track/0lXPhUBG5yikApjP4X4zKE) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [JOACO SB](https://open.spotify.com/artist/7bXEq6s67s50UyrPb8QHFN), [Maxi Prieto](https://open.spotify.com/artist/7k4sBYY4ict7ilJdWo5DnW) | [Deja de Hacerte la Cabeza](https://open.spotify.com/album/3lJ4uJlSIwAOxJa0htRnAv) | 2:10 |
 | 14 | [All Ki Misters](https://open.spotify.com/track/7zeOsFxFxm3HezYd5gzDbi) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [RepliK](https://open.spotify.com/artist/6V6omUMPOxHJF0BQ0Dy3Ch) | [All Ki Misters](https://open.spotify.com/album/6047mBYZ5kziuClGxL3gDO) | 3:35 |
 | 15 | [A o B](https://open.spotify.com/track/4oVZbGkrMJbgbyNGKLe2Kg) | [Mir Nicolas](https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT) | [A o B](https://open.spotify.com/album/0BJk0oxddt0DNpFMqfciYM) | 3:05 |
-| 16 | [El Trucho](https://open.spotify.com/track/3THuuiiGWE8hze0zpI5Xly) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Trucho](https://open.spotify.com/album/7Ge06YmapWk1g3mpxEnbj7) | 3:26 |
-| 17 | [A TODO GAS](https://open.spotify.com/track/5aQl2bVgHX5Gh8NYjE6Vp9) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [A TODO GAS](https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X) | 2:29 |
-| 18 | [You Know](https://open.spotify.com/track/70VVJobHiS56Jdz9WOuGuT) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Alan Wanline](https://open.spotify.com/artist/4PrYvA92Dy7kkdWYXbrrOZ) | [You Know](https://open.spotify.com/album/4cLGzScbUTA77fi8afFt0z) | 4:26 |
-| 19 | [PASILLO](https://open.spotify.com/track/2OIg3ISQap0p136C4OOHvS) | [sin1rostro](https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A) | [PASILLO](https://open.spotify.com/album/7jjIlLHrItXevpeXCVEYFM) | 3:17 |
-| 20 | [Jove](https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Jove](https://open.spotify.com/album/1mPtqibOsDaDsFwEDNFup5) | 2:17 |
+| 16 | [A TODO GAS](https://open.spotify.com/track/5aQl2bVgHX5Gh8NYjE6Vp9) | [Oney1](https://open.spotify.com/artist/4MOX8I8Ot0wUu4Sochsxrt) | [A TODO GAS](https://open.spotify.com/album/462anxtEVBxKxOR5xLTn6X) | 2:29 |
+| 17 | [You Know](https://open.spotify.com/track/70VVJobHiS56Jdz9WOuGuT) | [Wolty](https://open.spotify.com/artist/0tabWyvzBwZR4NVIotBm21), [Alan Wanline](https://open.spotify.com/artist/4PrYvA92Dy7kkdWYXbrrOZ) | [You Know](https://open.spotify.com/album/4cLGzScbUTA77fi8afFt0z) | 4:26 |
+| 18 | [PASILLO](https://open.spotify.com/track/2OIg3ISQap0p136C4OOHvS) | [sin1rostro](https://open.spotify.com/artist/5d5rASnyRPeheVxkp3MT4A) | [PASILLO](https://open.spotify.com/album/7jjIlLHrItXevpeXCVEYFM) | 3:17 |
+| 19 | [Jove](https://open.spotify.com/track/4f4V6yEu8qBRpbunequTUp) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Jove](https://open.spotify.com/album/1mPtqibOsDaDsFwEDNFup5) | 2:17 |
+| 20 | [El Trucho](https://open.spotify.com/track/3THuuiiGWE8hze0zpI5Xly) | [El Doctor](https://open.spotify.com/artist/1p9IEVolgFCEjlFwEGTjPG), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Trucho](https://open.spotify.com/album/7Ge06YmapWk1g3mpxEnbj7) | 3:26 |
 | 21 | [Wachita](https://open.spotify.com/track/1GNq3jJMQZmtmXnjDEkiU3) | [Kris Alaniz](https://open.spotify.com/artist/2BBJWIcxT5ermErEg2LbWB), [Lula Bertoldi](https://open.spotify.com/artist/5WX7W5ESabcsJrPMHYkjNQ) | [Wachita](https://open.spotify.com/album/52xzKPPlZ8IjvjtNqoATwU) | 2:23 |
 | 22 | [Viaje de Ida](https://open.spotify.com/track/6NxIfPSFv9ZFTaptcnGEUU) | [MACO](https://open.spotify.com/artist/0XerM4yoGja0adi5ohB8Lm) | [Viaje de Ida](https://open.spotify.com/album/5DdMn4yexdusfpW05ddQnR) | 3:11 |
 | 23 | [Kpoper](https://open.spotify.com/track/5NKscBgVX8yY7UbdPpsPos) | [Rayder](https://open.spotify.com/artist/33PpkcHB2eCvphzqqqDAmC), [Benji24](https://open.spotify.com/artist/0fkb9EixInbTgSCf6GIuyk) | [Kpoper](https://open.spotify.com/album/3peKlhIthkXCsWuItCYTi4) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Detrás Del Dólar](https://open.spotify.com/track/5EslUzaxGTmgaoYGXkbhLa) | [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Detrás Del Dólar](https://open.spotify.com/album/796DOnaZS8M46WOdyiPeVO) | 2:53 |
 | 100 | [ACTITUD](https://open.spotify.com/track/2ZHN30E4lGPIyRfzy6HPGe) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [ACTITUD](https://open.spotify.com/album/2dkwZc8hKL1W5HkRMPscUL) | 2:05 |
 
-Snapshot ID: `ZkbIMAAAAADOD0JHlFLjWOqBY2dwucd+`
+Snapshot ID: `ZkzT7gAAAACHENRy2tZ9SoRlqDLQheM4`

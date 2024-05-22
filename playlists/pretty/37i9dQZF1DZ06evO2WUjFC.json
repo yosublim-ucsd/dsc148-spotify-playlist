@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAACZyVHnE3Olzekljdjo7Uuw",
+  "snapshot_id": "ZkqSgAAAAAA7Vxa46Bi/15YSD2+g5tZe",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO TE VAYAS",
-        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "NO TE VAYAS",
-      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nivel Dios",
         "url": "https://open.spotify.com/album/3wgoM6ZJLIVwkDBtZ0Lb1u"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 147389,
       "name": "Brillando Bengalas",
       "url": "https://open.spotify.com/track/2riTGN7mgQH7VO0W5qbMF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO TE VAYAS",
+        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "NO TE VAYAS",
+      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 200979,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TUMBADO STYLE",
         "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
@@ -415,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Pase De Lavada (En Vivo)",
-        "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
+        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
       },
       "artists": [
         {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 198826,
-      "name": "Un Pase De Lavada (En Vivo)",
-      "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
+      "duration_ms": 200979,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
     },
     {
       "added_at": null,
@@ -455,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grupo T\u00e1ctico",
-        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
+        "name": "Un Pase De Lavada (En Vivo)",
+        "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
       },
       "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 180600,
-      "name": "GRUPO T\u00c1CTICO",
-      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
+      "duration_ms": 198826,
+      "name": "Un Pase De Lavada (En Vivo)",
+      "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
       "duration_ms": 97760,
       "name": "INTRO TUMBADO",
       "url": "https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Grupo T\u00e1ctico",
+        "url": "https://open.spotify.com/album/6lbNqeDhky0kDKym5eFaQ0"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 180600,
+      "name": "GRUPO T\u00c1CTICO",
+      "url": "https://open.spotify.com/track/1BZSu3nKKyjnSJHaaUgeFb"
     },
     {
       "added_at": null,
@@ -563,26 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Hombres O Payasos",
-        "url": "https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn"
+        "name": "La Leyenda De Los Llanos",
+        "url": "https://open.spotify.com/album/5gwNiUYmhTBYEWMrnKUFNz"
       },
       "artists": [
         {
-          "name": "Linea Activada",
-          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
+          "name": "Nano machado y los keridos",
+          "url": "https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los De Finix",
-          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
         }
       ],
-      "duration_ms": 155560,
-      "name": "Somos Hombres O Payasos",
-      "url": "https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv"
+      "duration_ms": 204240,
+      "name": "La Leyenda De Los Llanos",
+      "url": "https://open.spotify.com/track/5XmceElKDjfqXj2tSJdaCz"
     },
     {
       "added_at": null,
@@ -603,22 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Leyenda De Los Llanos",
-        "url": "https://open.spotify.com/album/5gwNiUYmhTBYEWMrnKUFNz"
+        "name": "Somos Hombres O Payasos",
+        "url": "https://open.spotify.com/album/5BToanreAoj2wvKJh8nWyn"
       },
       "artists": [
         {
-          "name": "Nano machado y los keridos",
-          "url": "https://open.spotify.com/artist/53A1yW7juOFn33hsocW3aL"
+          "name": "Linea Activada",
+          "url": "https://open.spotify.com/artist/6SNv0DeLTRtRzaJ5c5uy4O"
         },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Los De Finix",
+          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
         }
       ],
-      "duration_ms": 204240,
-      "name": "La Leyenda De Los Llanos",
-      "url": "https://open.spotify.com/track/5XmceElKDjfqXj2tSJdaCz"
+      "duration_ms": 155560,
+      "name": "Somos Hombres O Payasos",
+      "url": "https://open.spotify.com/track/05Tt6ZvFojXH2tggyKAzbv"
     },
     {
       "added_at": null,
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 362306,
-      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
-      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
     },
     {
       "added_at": null,
@@ -816,9 +816,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 286032,
-      "name": "El Caballero (Live)",
-      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+      "duration_ms": 362306,
+      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
+      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
     },
     {
       "added_at": null,
@@ -859,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Todo Tuyo (En Vivo)",
-        "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 195666,
-      "name": "Soy Todo Tuyo - En Vivo",
-      "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sigo Firme de Pie",
         "url": "https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT"
       },
@@ -895,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Todo Tuyo (En Vivo)",
+        "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Soy Todo Tuyo - En Vivo",
+      "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "12:34",
         "url": "https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b"
       },
@@ -911,6 +911,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/6rShPRJVTWIv4uvdcQgKmZ"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 149386,
+      "name": "amorlove",
+      "url": "https://open.spotify.com/track/7FwmTxJMAymJsRwR4YVPYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zombie",
+        "url": "https://open.spotify.com/album/7BrLxwMJBnpfsVSg0Ie6q1"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "Zombie",
+      "url": "https://open.spotify.com/track/5p9FYWkDFenGUL5KY6bmBL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Con La Cochi (En Vivo)",
         "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
@@ -923,42 +955,6 @@
       "duration_ms": 145160,
       "name": "Los Botones Azules - En Vivo",
       "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 141400,
-      "name": "DOCTOR DEL BARRIO",
-      "url": "https://open.spotify.com/track/0nML7ShqQh6oxvVE7RZZBo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigo Firme de Pie",
-        "url": "https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Los De Finix",
-          "url": "https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "Te Vi Con el",
-      "url": "https://open.spotify.com/track/7pv40g1fao791aNhcQZ9Tu"
     }
   ],
   "unique_name": "This Is Danny Felix",

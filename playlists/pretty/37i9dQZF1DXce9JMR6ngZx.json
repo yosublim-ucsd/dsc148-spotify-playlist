@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos dos anos 80 para te acompanhar na faxina!",
-  "num_followers": 213480,
+  "num_followers": 213511,
   "original_name": "Faxina Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Atomic/Atomix",
-        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
+        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
+        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 212600,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
+      "duration_ms": 226240,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -519,18 +519,18 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Parade - Music from the Motion Picture Under the Cherry Moon",
-        "url": "https://open.spotify.com/album/54DjkEN3wdCQgfCTZ9WjdB"
+        "name": "Atomic/Atomix",
+        "url": "https://open.spotify.com/album/5HRB9TeaIHRBxfIm4XZTj6"
       },
       "artists": [
         {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 226240,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/62LJFaYihsdVrrkgUOJC05"
+      "duration_ms": 212600,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/4qO03RMQm88DdpTJcxlglY"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1099,8 +1099,8 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "The Best of New Order",
-        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
       },
       "artists": [
         {
@@ -1108,25 +1108,9 @@
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 244720,
-      "name": "Blue Monday '88",
-      "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
+      "duration_ms": 263213,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1143,6 +1127,22 @@
       "duration_ms": 333306,
       "name": "Save a Prayer - 2009 Remaster",
       "url": "https://open.spotify.com/track/1ff8lsrJ2kuZuofMw81EQo"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1259,8 +1259,8 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+        "name": "The Best of New Order",
+        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
       },
       "artists": [
         {
@@ -1268,9 +1268,9 @@
           "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
         }
       ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
+      "duration_ms": 244720,
+      "name": "Blue Monday '88",
+      "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu"
     },
     {
       "added_at": "2020-06-24 14:37:20",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2020-06-24 14:37:20",
       "album": {
-        "name": "A Revolta Dos Dandis",
-        "url": "https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC"
-      },
-      "artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
-        }
-      ],
-      "duration_ms": 372093,
-      "name": "Infinita Highway",
-      "url": "https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi"
-    },
-    {
-      "added_at": "2020-06-24 14:37:20",
-      "album": {
         "name": "Music for the Masses (Deluxe)",
         "url": "https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 294613,
       "name": "Strangelove",
       "url": "https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p"
+    },
+    {
+      "added_at": "2020-06-24 14:37:20",
+      "album": {
+        "name": "A Revolta Dos Dandis",
+        "url": "https://open.spotify.com/album/3EYoZQUIKrDPd1teAZbSsC"
+      },
+      "artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
+        }
+      ],
+      "duration_ms": 372093,
+      "name": "Infinita Highway",
+      "url": "https://open.spotify.com/track/266WEiJhZI1dNUcOqr7Yzi"
     }
   ],
   "unique_name": "Faxina Nostalgia",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Leon Leiden. Los temas esenciales, todos en una lista.",
-  "num_followers": 9911,
+  "description": "This is Leon Leiden. The essential tracks, all in one playlist.",
+  "num_followers": 9912,
   "original_name": "This Is Leon Leiden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAAApU9VQktQmNlcq4uM72NX0",
+  "snapshot_id": "ZkqSgAAAAAA8M80pALXi/GQ+/k2wTW+0",
   "tracks": [
     {
       "added_at": null,
@@ -27,26 +27,6 @@
       "duration_ms": 185454,
       "name": "Todo Mal",
       "url": "https://open.spotify.com/track/1T7o9INhyRVJ3yz40AOpJ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Modo Melanc\u00f3lico",
-        "url": "https://open.spotify.com/album/3dc57wAaDKFlbjfb2Njuz1"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 166207,
-      "name": "Modo Melanc\u00f3lico",
-      "url": "https://open.spotify.com/track/4APwd61xpDtKY2rcac8VCI"
     },
     {
       "added_at": null,
@@ -191,6 +171,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contigo Si",
+        "url": "https://open.spotify.com/album/0Iad8zEmBpMtEpU81jMWfX"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "Contigo Si",
+      "url": "https://open.spotify.com/track/2oDR6BqgQ9iuQguQL30UEU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aqu\u00ed Estoy",
         "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
       },
@@ -198,11 +198,15 @@
         {
           "name": "Leon Leiden",
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 133065,
-      "name": "NASCAR",
-      "url": "https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx"
+      "duration_ms": 211702,
+      "name": "Scirocco",
+      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
     },
     {
       "added_at": null,
@@ -282,15 +286,11 @@
         {
           "name": "Leon Leiden",
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 211702,
-      "name": "Scirocco",
-      "url": "https://open.spotify.com/track/1gKaxZg8fclovRKtLPWV35"
+      "duration_ms": 133065,
+      "name": "NASCAR",
+      "url": "https://open.spotify.com/track/6ljG3LLjRJDWbkQHrtuIWx"
     },
     {
       "added_at": null,
@@ -611,26 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Da",
-        "url": "https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        },
-        {
-          "name": "David Rees",
-          "url": "https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L"
-        }
-      ],
-      "duration_ms": 195726,
-      "name": "Qu\u00e9 M\u00e1s Da",
-      "url": "https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thalia's Mixtape",
         "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
       },
@@ -675,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 130280,
+      "name": "Embassy",
+      "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mp3.",
         "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
@@ -695,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqu\u00ed Estoy",
-        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 130280,
-      "name": "Embassy",
-      "url": "https://open.spotify.com/track/0UFfGjyqll9cg23Kg689rd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mereces Menos",
         "url": "https://open.spotify.com/album/5mkSWQ0dQ0wRMk9QOV1dF1"
       },
@@ -727,30 +707,6 @@
       "duration_ms": 180705,
       "name": "Mereces Menos",
       "url": "https://open.spotify.com/track/6FbX0SETk8Pd70ZSXOWFEq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vinta$h",
-        "url": "https://open.spotify.com/album/1LjcaATUkhM1wU2ZN4cfSi"
-      },
-      "artists": [
-        {
-          "name": "Zaucy",
-          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
-        },
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Vinta$h",
-      "url": "https://open.spotify.com/track/56LA9tBBl0oLEjgKJLRKpn"
     },
     {
       "added_at": null,
@@ -791,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vinta$h",
+        "url": "https://open.spotify.com/album/1LjcaATUkhM1wU2ZN4cfSi"
+      },
+      "artists": [
+        {
+          "name": "Zaucy",
+          "url": "https://open.spotify.com/artist/5DXdqxleQWNIESR33s0Bwv"
+        },
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Vinta$h",
+      "url": "https://open.spotify.com/track/56LA9tBBl0oLEjgKJLRKpn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cheve",
         "url": "https://open.spotify.com/album/7kqF1aMgkHnR2t2QcO4RHP"
       },
@@ -827,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "mp3.",
-        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 151153,
-      "name": "FATALITY",
-      "url": "https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TSUNAMI",
         "url": "https://open.spotify.com/album/6783uPp1wS4A7VZAUJyXbE"
       },
@@ -867,22 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estamos Aqu\u00ed",
-        "url": "https://open.spotify.com/album/6IbnsjiPCSJwhALs37S2Mu"
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
       "artists": [
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
         },
         {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 182698,
-      "name": "Estamos Aqu\u00ed",
-      "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
+      "duration_ms": 151153,
+      "name": "FATALITY",
+      "url": "https://open.spotify.com/track/6SPQL7Kz0hiXyWzaYIw3Ga"
     },
     {
       "added_at": null,
@@ -899,26 +859,6 @@
       "duration_ms": 149333,
       "name": "Vente",
       "url": "https://open.spotify.com/track/0jGekvFOOBQm3Ba8IfimAp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "mp3.",
-        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
-      },
-      "artists": [
-        {
-          "name": "Francely Abreuu",
-          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "NUTELLA",
-      "url": "https://open.spotify.com/track/13BZfskMSABepXzgrp4ErP"
     },
     {
       "added_at": null,
@@ -955,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Morro Que Hace M\u00fasica",
-        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
-      },
-      "artists": [
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "La Habanera",
-      "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "mp3.",
         "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
       },
@@ -984,9 +908,25 @@
           "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
         }
       ],
-      "duration_ms": 170666,
-      "name": "COMOSINADA",
-      "url": "https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz"
+      "duration_ms": 152000,
+      "name": "NUTELLA",
+      "url": "https://open.spotify.com/track/13BZfskMSABepXzgrp4ErP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Morro Que Hace M\u00fasica",
+        "url": "https://open.spotify.com/album/4RoRb3XF1ibgFcrbNeI3h3"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "La Habanera",
+      "url": "https://open.spotify.com/track/4t1wJfxOwUBsMpYVPnQhQm"
     },
     {
       "added_at": null,
@@ -1023,6 +963,66 @@
       "duration_ms": 141219,
       "name": "Mil Maneras",
       "url": "https://open.spotify.com/track/2MH2Octk42xw891Bilg89D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "mp3.",
+        "url": "https://open.spotify.com/album/7hay7ShcevjZmyMfrEYoF6"
+      },
+      "artists": [
+        {
+          "name": "Francely Abreuu",
+          "url": "https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "COMOSINADA",
+      "url": "https://open.spotify.com/track/2v4RtwYOiTbvtQUueyU9Bz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desamor Feliz Pt. 2",
+        "url": "https://open.spotify.com/album/0NrGygP6LZsmRMi1x3FhVj"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 156168,
+      "name": "Desamor Feliz Pt. 2",
+      "url": "https://open.spotify.com/track/6AOnqRLQNHmGkZt0mCObS7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Una Fresa",
+        "url": "https://open.spotify.com/album/4wI5wYLCNe0HamNt0YAoZs"
+      },
+      "artists": [
+        {
+          "name": "Atl Garza",
+          "url": "https://open.spotify.com/artist/7moaTmrKrxOnFYW07pMEpg"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "SAG",
+          "url": "https://open.spotify.com/artist/3laRUVXNA2glQ95MJJ5qHi"
+        }
+      ],
+      "duration_ms": 151010,
+      "name": "Quisiste Dejar",
+      "url": "https://open.spotify.com/track/7taftG3uw5D6nfWyUi64pI"
     }
   ],
   "unique_name": "This Is Leon Leiden",

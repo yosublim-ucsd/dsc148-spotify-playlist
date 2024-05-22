@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic <a href=\"spotify:genre:house\">house</a> and <a href=\"spotify:genre:techno\">techno</a> to light up the night.",
-  "num_followers": 465365,
+  "num_followers": 465507,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Bitch, Don't Kill My Vibe",
-        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        },
-        {
-          "name": "Liquid Rose",
-          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
-        }
-      ],
-      "duration_ms": 157558,
-      "name": "Bitch, Don't Kill My Vibe",
-      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "The Dream (feat. Martina Camargo)",
         "url": "https://open.spotify.com/album/3PUyvnJrykuLTnWyUhyrep"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 210156,
       "name": "The Dream (feat. Martina Camargo)",
       "url": "https://open.spotify.com/track/2dwU9cQumllxZFtXgautY4"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bitch, Don't Kill My Vibe",
+        "url": "https://open.spotify.com/album/0apMOjnx6oMN06Fr5VrK5W"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        },
+        {
+          "name": "Liquid Rose",
+          "url": "https://open.spotify.com/artist/0zHBCBYJo29r8RvsfjUIIN"
+        }
+      ],
+      "duration_ms": 157558,
+      "name": "Bitch, Don't Kill My Vibe",
+      "url": "https://open.spotify.com/track/7BDfhY395y8U4dZCiCoIYW"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Lose Your Love",
-        "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "Rony Seikaly",
-          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
-        }
-      ],
-      "duration_ms": 192018,
-      "name": "Lose Your Love",
-      "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "This Is What It Feels Like (Atmos Blaq Remix)",
         "url": "https://open.spotify.com/album/63jVuDM0KyQ5dnH07YcH6Q"
       },
@@ -1407,6 +1387,26 @@
       "duration_ms": 207000,
       "name": "This Is What It Feels Like - Atmos Blaq Remix",
       "url": "https://open.spotify.com/track/4lZx7hxaZ33hZNGvu2VY2d"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Lose Your Love",
+        "url": "https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Rony Seikaly",
+          "url": "https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB"
+        }
+      ],
+      "duration_ms": 192018,
+      "name": "Lose Your Love",
+      "url": "https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1471,6 +1471,26 @@
       "duration_ms": 222080,
       "name": "Like That",
       "url": "https://open.spotify.com/track/7MJY6QjGV2Rf4LbGt4hxEV"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 353497,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1599,26 +1619,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/7H9Zk7eP2W1C3XFhRIOsPC"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 353497,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/1CptCgwaWniIYlqeM6SXmS"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Like Forever (Hernan Cattaneo & Kevin Di Serna Remix)",
         "url": "https://open.spotify.com/album/02ZyfvHxCHY8PmH1JOhKF9"
       },
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Luxo",
+        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
+      },
+      "artists": [
+        {
+          "name": "Trikk",
+          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+        }
+      ],
+      "duration_ms": 332400,
+      "name": "Luxo",
+      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Paradise (Chambord Remix)",
         "url": "https://open.spotify.com/album/4rHpK2TRa26iJnqVDgc9Q5"
       },
@@ -1743,18 +1759,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Luxo",
-        "url": "https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ"
+        "name": "Imamou",
+        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
       },
       "artists": [
         {
-          "name": "Trikk",
-          "url": "https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY"
+          "name": "Francis Mercier",
+          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+        },
+        {
+          "name": "Boukman Eksperyans",
+          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
         }
       ],
-      "duration_ms": 332400,
-      "name": "Luxo",
-      "url": "https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1"
+      "duration_ms": 240487,
+      "name": "Imamou",
+      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Holding On",
-        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
-      },
-      "artists": [
-        {
-          "name": "Durante",
-          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Holding On",
-      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Dale",
         "url": "https://open.spotify.com/album/57UcRw8voA5xTPL7ctpBIG"
       },
@@ -1831,22 +1831,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Imamou",
-        "url": "https://open.spotify.com/album/3J6oqhHKxsDystgctdjBpw"
+        "name": "Holding On",
+        "url": "https://open.spotify.com/album/7eWioRNyXGjl0KnIeZIeHI"
       },
       "artists": [
         {
-          "name": "Francis Mercier",
-          "url": "https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf"
+          "name": "Durante",
+          "url": "https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh"
         },
         {
-          "name": "Boukman Eksperyans",
-          "url": "https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp"
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
         }
       ],
-      "duration_ms": 240487,
-      "name": "Imamou",
-      "url": "https://open.spotify.com/track/3IfKTOehj6Hlm4u3PUvxgd"
+      "duration_ms": 238003,
+      "name": "Holding On",
+      "url": "https://open.spotify.com/track/4XZk8j2tyVDMoXjmblznuu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "SIGN",
+        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        }
+      ],
+      "duration_ms": 223774,
+      "name": "SIGN",
+      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Lean Into The Sunshine",
         "url": "https://open.spotify.com/album/7rgSE69LAmqzt5kCYj7C1k"
       },
@@ -1903,26 +1919,6 @@
       "duration_ms": 366829,
       "name": "Lean Into The Sunshine",
       "url": "https://open.spotify.com/track/1FC909ieY6lAD7U4pz6Hvl"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wants",
-          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 209031,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1963,6 +1959,26 @@
       "duration_ms": 321951,
       "name": "MONTE",
       "url": "https://open.spotify.com/track/37PacxDrLWaHtYMPV8IYse"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/69mDnsD32WKYNhwsNThNab"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wants",
+          "url": "https://open.spotify.com/artist/7sK4hnuUOXw6VStDw0q8NI"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 209031,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/381ECEhvIF9iuarDpJ1m9f"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2047,22 +2063,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "SIGN",
-        "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        }
-      ],
-      "duration_ms": 223774,
-      "name": "SIGN",
-      "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Wala",
         "url": "https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 200655,
       "name": "Wala",
       "url": "https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Magic Circus",
+        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        }
+      ],
+      "duration_ms": 229180,
+      "name": "Magic Circus",
+      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2151,62 +2167,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Out of Sight",
-        "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
-      },
-      "artists": [
-        {
-          "name": "Tonic Walter",
-          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
-        },
-        {
-          "name": "Nina Nst",
-          "url": "https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q"
-        }
-      ],
-      "duration_ms": 242040,
-      "name": "Out of Sight",
-      "url": "https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Maasai",
-        "url": "https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "Robin M",
-          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
-        }
-      ],
-      "duration_ms": 193770,
-      "name": "Intina",
-      "url": "https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Magic Circus",
-        "url": "https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        }
-      ],
-      "duration_ms": 229180,
-      "name": "Magic Circus",
-      "url": "https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Temple Of Dreams (Remixes Part 5)",
         "url": "https://open.spotify.com/album/6rjJTD1FWGbijpXLIoz001"
       },
@@ -2227,6 +2187,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Out of Sight",
+        "url": "https://open.spotify.com/album/5o602wD0yatOExl8G8qWkw"
+      },
+      "artists": [
+        {
+          "name": "Tonic Walter",
+          "url": "https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv"
+        },
+        {
+          "name": "Nina Nst",
+          "url": "https://open.spotify.com/artist/6S7CIpIi5NY2ZmdUP9Wh4Q"
+        }
+      ],
+      "duration_ms": 242040,
+      "name": "Out of Sight",
+      "url": "https://open.spotify.com/track/0oXlBKfmpMcpjHF94j5UBd"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Another",
         "url": "https://open.spotify.com/album/3PIcb7olB62RHxTdetIDUK"
       },
@@ -2239,6 +2219,26 @@
       "duration_ms": 186187,
       "name": "Another",
       "url": "https://open.spotify.com/track/3e8RJKof3ohJkoEKChvH2F"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Maasai",
+        "url": "https://open.spotify.com/album/51VRG6BjxHM2nZ9a7qEbPD"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "Robin M",
+          "url": "https://open.spotify.com/artist/2XOzTjiQuB1TeW6JQKU3j7"
+        }
+      ],
+      "duration_ms": 193770,
+      "name": "Intina",
+      "url": "https://open.spotify.com/track/0J7Doa7oWtMqSNTifFjpZJ"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2455,26 +2455,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "El Ritmo (La Noche) (Xinobi Remix)",
-        "url": "https://open.spotify.com/album/4UtfPOsiK9TZ9pVtoJGhXG"
+        "name": "Blomst",
+        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        },
-        {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
-        },
-        {
-          "name": "Ang\u00e9lica Garcia",
-          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+          "name": "Meera (NO)",
+          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
         }
       ],
-      "duration_ms": 318912,
-      "name": "El Ritmo (La Noche) (Xinobi Remix)",
-      "url": "https://open.spotify.com/track/5G8ucMkM4wsJzuvZLszfqx"
+      "duration_ms": 553648,
+      "name": "Blomst",
+      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -2495,18 +2487,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Blomst",
-        "url": "https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP"
+        "name": "El Ritmo (La Noche) (Xinobi Remix)",
+        "url": "https://open.spotify.com/album/4UtfPOsiK9TZ9pVtoJGhXG"
       },
       "artists": [
         {
-          "name": "Meera (NO)",
-          "url": "https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        },
+        {
+          "name": "Xinobi",
+          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+        },
+        {
+          "name": "Ang\u00e9lica Garcia",
+          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
         }
       ],
-      "duration_ms": 553648,
-      "name": "Blomst",
-      "url": "https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr"
+      "duration_ms": 318912,
+      "name": "El Ritmo (La Noche) (Xinobi Remix)",
+      "url": "https://open.spotify.com/track/5G8ucMkM4wsJzuvZLszfqx"
     },
     {
       "added_at": "2024-05-17 04:00:00",

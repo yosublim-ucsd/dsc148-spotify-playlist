@@ -2,7 +2,7 @@
 
 ### [This Is Luca Brasi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4soWDC)
 
-> This Is Luca Brasi\. Los temas esenciales, todos en una lista.
+> This is Luca Brasi\. The essential tracks, all in one playlist.
 
 63 songs - 3 hr 20 min
 

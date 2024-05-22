@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 
 > ¡Muévete al ritmo de las Cumbias! <br/>Cover: Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,447 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,452 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUMEWUyV9JB.md) - [plain]
 | 76 | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/track/0EpNfDwNgFUEdHvJ5jSgby) | [Fany y sus Tropicales](https://open.spotify.com/artist/6rzdQptvODu9LGopgGv393) | [Máscara \(Soundtrack de la Película “EL HALCÓN"\)](https://open.spotify.com/album/4ss2BW6S7DpHIrYbcm9fWh) | 3:11 |
 | 77 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 |
 | 78 | [Peligrosa y Linda](https://open.spotify.com/track/67H1L34DWG4M0wr4Y0VuNj) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX), [Wilceu Pause](https://open.spotify.com/artist/44Eoyx3pVM83sgqDzyY7sk) | [Peligrosa y Linda](https://open.spotify.com/album/1Ja4Zw46RSoClT3fBjFv3G) | 3:30 |
-| 79 | [Besar Tu Piel \(Con Buenos Aires\) \- En Vivo](https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Besar Tu Piel \(Con Buenos Aires\) \[En Vivo\]](https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx) | 3:12 |
-| 80 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 79 | [Cumbia En La Playa](https://open.spotify.com/track/4USKfftLX85UCuwuV5DLUT) | [INSPIRACION COLOMBIANA](https://open.spotify.com/artist/6aDQPhm289KjJHzU0TvaVA) | [Quienes Somos](https://open.spotify.com/album/3A20APioynHFJaz8sItaP1) | 5:45 |
+| 80 | [Besar Tu Piel \(Con Buenos Aires\) \- En Vivo](https://open.spotify.com/track/4Vq5kQseWne9B8Mu9lO2aD) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Besar Tu Piel \(Con Buenos Aires\) \[En Vivo\]](https://open.spotify.com/album/4l63VeyYTk3AQg7d3EVsHx) | 3:12 |
 | 81 | [Adoro](https://open.spotify.com/track/10DXxZz4pj3Y3kNrutKbB8) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N), [Tapy Quintero](https://open.spotify.com/artist/1CTYCiBGcZTsZBzYoa4pxM) | [Adoro](https://open.spotify.com/album/5j4gCXvNTkOlYblzmA7eYR) | 3:30 |
 | 82 | [Amores Como el Nuestro](https://open.spotify.com/track/5B5ESVyQywgJI0kD0gUlHJ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9), [Flor De Cumbia](https://open.spotify.com/artist/0vU2vjB0JnqPkuYV7zkYtW) | [Amores Como el Nuestro](https://open.spotify.com/album/1676169Nezgo33tdsUOdIe) | 3:19 |
 | 83 | [El Humo Del Cigarrillo \- En Vivo](https://open.spotify.com/track/269oxRs2kMDnAJGkWie7oy) | [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Solo Para Entendidos \(En Vivo\)](https://open.spotify.com/album/4RtIpsti0qbITAECVct2JI) | 2:01 |

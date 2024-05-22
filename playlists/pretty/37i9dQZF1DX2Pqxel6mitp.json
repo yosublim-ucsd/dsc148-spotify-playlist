@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 85922,
+  "num_followers": 85980,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Liar",
+        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
+      },
+      "artists": [
+        {
+          "name": "Sons Of Atticus",
+          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
+        }
+      ],
+      "duration_ms": 174067,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Leftover Feelings",
         "url": "https://open.spotify.com/album/0FzlGjsD9wgGFCVXbhLIWs"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 186429,
       "name": "Mississippi Phone Booth",
       "url": "https://open.spotify.com/track/4o344C2p7wwpWRmQIVsdkL"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Liar",
-        "url": "https://open.spotify.com/album/5IrhwzC5IkEFzERecd2wnl"
-      },
-      "artists": [
-        {
-          "name": "Sons Of Atticus",
-          "url": "https://open.spotify.com/artist/1XWJCGMAlVXkarYONgIw7g"
-        }
-      ],
-      "duration_ms": 174067,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/1cKGXdl6m2k9gLDDDxqqtp"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Blues From The Gutter",
-        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 261092,
-      "name": "Evil Woman",
-      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Remastered from the Archives",
         "url": "https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 145204,
       "name": "This is Hip - Remastered",
       "url": "https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Blues From The Gutter",
+        "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 261092,
+      "name": "Evil Woman",
+      "url": "https://open.spotify.com/track/7lpsRa4kcNoxSHUDNDXpnn"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -967,22 +967,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Racing To A Red Light",
-        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 264066,
-      "name": "Racing To A Red Light",
-      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Man in the Ground",
         "url": "https://open.spotify.com/album/3pSMQQFLcjdQDasxNuGNEF"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186920,
       "name": "Man in the Ground",
       "url": "https://open.spotify.com/track/58hIcKjEMwvTLGdEsdfRPf"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Racing To A Red Light",
+        "url": "https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 264066,
+      "name": "Racing To A Red Light",
+      "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "A Soul to Claim",
         "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 183896,
       "name": "Please Take My Hand",
       "url": "https://open.spotify.com/track/2wWvmScZdELY3qBA4d22Kc"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Road to Liberty, Pt. 1",
-        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
-      },
-      "artists": [
-        {
-          "name": "Mark Harrison",
-          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Passing Through",
-      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Whose Muddy Shoes",
         "url": "https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 188306,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "The Road to Liberty, Pt. 1",
+        "url": "https://open.spotify.com/album/2fuHUsqBxtWeSQ810gaggk"
+      },
+      "artists": [
+        {
+          "name": "Mark Harrison",
+          "url": "https://open.spotify.com/artist/14CtALWVNL2IsuvjO27qBd"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Passing Through",
+      "url": "https://open.spotify.com/track/6IHuZvXDvMgk0D15P08FPj"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Wasted Time",
-        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
-      },
-      "artists": [
-        {
-          "name": "Shannon McNally",
-          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
-        }
-      ],
-      "duration_ms": 138040,
-      "name": "Wasted Time",
-      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "High Flying Bird",
         "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 159360,
       "name": "Blues Chase up a Rabbit",
       "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Wasted Time",
+        "url": "https://open.spotify.com/album/268I3VN44lBjdb3zrkTVlc"
+      },
+      "artists": [
+        {
+          "name": "Shannon McNally",
+          "url": "https://open.spotify.com/artist/7MnItka0A4PsGNVzO7Ad0T"
+        }
+      ],
+      "duration_ms": 138040,
+      "name": "Wasted Time",
+      "url": "https://open.spotify.com/track/5g2wWZNls6R0tIcEqvfY0h"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Good Morning Mr. Blues",
-        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
+        "name": "Wild Country",
+        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
       },
       "artists": [
         {
-          "name": "Otis Spann",
-          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
+          "name": "Carmel",
+          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
         }
       ],
-      "duration_ms": 205360,
-      "name": "Good Morning Mr. Blues",
-      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
+      "duration_ms": 358133,
+      "name": "Wild Country 2021",
+      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1571,50 +1571,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Wild Country",
-        "url": "https://open.spotify.com/album/53IDDlOPFfhxS5juY4m8jG"
+        "name": "Good Morning Mr. Blues",
+        "url": "https://open.spotify.com/album/2zb7HGV0Tme5sfLodL8Qmn"
       },
       "artists": [
         {
-          "name": "Carmel",
-          "url": "https://open.spotify.com/artist/3uDjQUKw2WHSYtZcz2xjDo"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 358133,
-      "name": "Wild Country 2021",
-      "url": "https://open.spotify.com/track/4m4dj4kNqbvpgAKap6wJbs"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "A Soul to Claim",
-        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 267512,
-      "name": "Only Porter at the Station",
-      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Unknown Road",
-        "url": "https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK"
-      },
-      "artists": [
-        {
-          "name": "Sara Syms",
-          "url": "https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Unknown Road",
-      "url": "https://open.spotify.com/track/1yk9xba6I7cvfDBpkARZkN"
+      "duration_ms": 205360,
+      "name": "Good Morning Mr. Blues",
+      "url": "https://open.spotify.com/track/1T6DPowtT7hazkIVaiuoOW"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1639,6 +1607,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Unknown Road",
+        "url": "https://open.spotify.com/album/0esv0rfP9vJSi0rduSczyK"
+      },
+      "artists": [
+        {
+          "name": "Sara Syms",
+          "url": "https://open.spotify.com/artist/59zNVUIdLrT7Wl0Zyc8CZj"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Unknown Road",
+      "url": "https://open.spotify.com/track/1yk9xba6I7cvfDBpkARZkN"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 222724,
       "name": "Smoke In Heaven",
       "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "A Soul to Claim",
+        "url": "https://open.spotify.com/album/1wXsCNbcEIPuW4Gkf11afj"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 267512,
+      "name": "Only Porter at the Station",
+      "url": "https://open.spotify.com/track/5SPr9SKT4ipy5X4ngnX40A"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1891,26 +1891,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Set Sail",
-        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
-      },
-      "artists": [
-        {
-          "name": "North Mississippi Allstars",
-          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
-        },
-        {
-          "name": "Lamar Williams Jr.",
-          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
-        }
-      ],
-      "duration_ms": 298293,
-      "name": "Outside (featuring Lamar Williams Jr.)",
-      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Ridin'",
         "url": "https://open.spotify.com/album/4fFdf7qb0vuKkLPabnhRO0"
       },
@@ -1927,6 +1907,26 @@
       "duration_ms": 319506,
       "name": "I Got My Own",
       "url": "https://open.spotify.com/track/5AX066kNrxHpXDPauvOfs6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Set Sail",
+        "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
+      },
+      "artists": [
+        {
+          "name": "North Mississippi Allstars",
+          "url": "https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY"
+        },
+        {
+          "name": "Lamar Williams Jr.",
+          "url": "https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4"
+        }
+      ],
+      "duration_ms": 298293,
+      "name": "Outside (featuring Lamar Williams Jr.)",
+      "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
     },
     {
       "added_at": "2023-11-24 19:23:20",

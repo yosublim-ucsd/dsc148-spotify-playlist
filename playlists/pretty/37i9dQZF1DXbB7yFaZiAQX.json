@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1036651,
+  "num_followers": 1036778,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Love Bites",
-        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
-      },
-      "artists": [
-        {
-          "name": "Buzzcocks",
-          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
-        }
-      ],
-      "duration_ms": 163693,
-      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
-      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Never for Ever (2018 Remaster)",
         "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 199226,
       "name": "Babooshka - 2018 Remaster",
       "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Love Bites",
+        "url": "https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg"
+      },
+      "artists": [
+        {
+          "name": "Buzzcocks",
+          "url": "https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y"
+        }
+      ],
+      "duration_ms": 163693,
+      "name": "Ever Fallen in Love (With Someone You Shouldn't've?) - 1996 Remastered Version",
+      "url": "https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Vision Thing",
-        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 503109,
-      "name": "More",
-      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Seventeen Seconds",
         "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 218960,
       "name": "Play For Today",
       "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Vision Thing",
+        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 503109,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw"
-      },
-      "artists": [
-        {
-          "name": "The Primitives",
-          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
-        }
-      ],
-      "duration_ms": 152200,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Some Great Reward (Deluxe)",
         "url": "https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 252866,
       "name": "Master and Servant",
       "url": "https://open.spotify.com/track/6E6RViXGAhLXHv4Sbe8e96"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/17BSRPsfwXoQwwGoRVHPBw"
+      },
+      "artists": [
+        {
+          "name": "The Primitives",
+          "url": "https://open.spotify.com/artist/4FPmAi3p4T3p0AsthfqHMA"
+        }
+      ],
+      "duration_ms": 152200,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/7COcoiWy4fuz0nH2v8BkRD"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "INXS Remastered",
-        "url": "https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl"
-      },
-      "artists": [
-        {
-          "name": "INXS",
-          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
-        }
-      ],
-      "duration_ms": 317240,
-      "name": "Original Sin",
-      "url": "https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Da Da Da",
         "url": "https://open.spotify.com/album/39HzuoE8coAbqrKpPapa58"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 392360,
       "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
       "url": "https://open.spotify.com/track/4HCdu48LScraIfJ7Ik7EhE"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "INXS Remastered",
+        "url": "https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl"
+      },
+      "artists": [
+        {
+          "name": "INXS",
+          "url": "https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv"
+        }
+      ],
+      "duration_ms": 317240,
+      "name": "Original Sin",
+      "url": "https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Stoned and Dethroned",
-        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
-      },
-      "artists": [
-        {
-          "name": "The Jesus and Mary Chain",
-          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
-        }
-      ],
-      "duration_ms": 151960,
-      "name": "Sometimes Always",
-      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Dance Vault Mixes - Whisper To A Scream (Birds Fly)",
         "url": "https://open.spotify.com/album/0zWgSTLgDWUgkbKjiRop8w"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 228613,
       "name": "Whisper to a Scream (Birds Fly) - Single Version",
       "url": "https://open.spotify.com/track/1uiktZkzFSVDhp7i73faz2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Stoned and Dethroned",
+        "url": "https://open.spotify.com/album/24tOMYmmWLNGiLSBaarqyb"
+      },
+      "artists": [
+        {
+          "name": "The Jesus and Mary Chain",
+          "url": "https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs"
+        }
+      ],
+      "duration_ms": 151960,
+      "name": "Sometimes Always",
+      "url": "https://open.spotify.com/track/11sxpJrfYJFxkA77PauDj4"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Best of Depeche Mode, Vol. 1 (Deluxe)",
-        "url": "https://open.spotify.com/album/0h1RmJe86n74nWpNWWb2dj"
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
       },
       "artists": [
         {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 238986,
-      "name": "Everything Counts",
-      "url": "https://open.spotify.com/track/6fjfJSj5sWSih9QG8kB1ey"
+      "duration_ms": 391426,
+      "name": "Rapture - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+        "name": "The Best of Depeche Mode, Vol. 1 (Deluxe)",
+        "url": "https://open.spotify.com/album/0h1RmJe86n74nWpNWWb2dj"
       },
       "artists": [
         {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
         }
       ],
-      "duration_ms": 391426,
-      "name": "Rapture - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
+      "duration_ms": 238986,
+      "name": "Everything Counts",
+      "url": "https://open.spotify.com/track/6fjfJSj5sWSih9QG8kB1ey"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Black Sea",
-        "url": "https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU"
-      },
-      "artists": [
-        {
-          "name": "XTC",
-          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
-        }
-      ],
-      "duration_ms": 244506,
-      "name": "Generals And Majors - 2001 Remaster",
-      "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Night And Day",
         "url": "https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 242573,
       "name": "Real Men",
       "url": "https://open.spotify.com/track/5ImoRAws2ni1qYWrLR7sqi"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Black Sea",
+        "url": "https://open.spotify.com/album/6sLuXZdrb1cmsAnfrmgbrU"
+      },
+      "artists": [
+        {
+          "name": "XTC",
+          "url": "https://open.spotify.com/artist/2qT62DYO8Ajb276vUJmvhz"
+        }
+      ],
+      "duration_ms": 244506,
+      "name": "Generals And Majors - 2001 Remaster",
+      "url": "https://open.spotify.com/track/3jJm28Q9MEhnRbxk2LdfkK"
     },
     {
       "added_at": "2023-05-03 07:47:14",

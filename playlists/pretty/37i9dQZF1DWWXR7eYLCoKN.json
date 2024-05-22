@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 146733,
+  "num_followers": 146761,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 144760,
-      "name": "Disritmia",
-      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
         "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 139360,
       "name": "Figa De Guin\u00e9",
       "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 144760,
+      "name": "Disritmia",
+      "url": "https://open.spotify.com/track/7fs6csqE3EltCrESv6cn0J"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "A Voz Do Samba",
+        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 173106,
       "name": "As Rosas N\u00e3o Falam",
       "url": "https://open.spotify.com/track/6J4gdn9L1im9uqzqBLhht6"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "A Voz Do Samba",
-        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Alerta Geral",
-        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "Mil E Uma Noites De Bagd\u00e1",
         "url": "https://open.spotify.com/album/1dkIsxo7tY3mG1dS3N5p8S"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 192400,
       "name": "Samba Jambo",
       "url": "https://open.spotify.com/track/6AqpqiRTQcDn0N02lHx1nJ"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Alerta Geral",
+        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Xande Canta Caetano",
-        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 181665,
-      "name": "Lua de S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
         "name": "J\u00e1 ouviu falar de amor?",
         "url": "https://open.spotify.com/album/28L8pJVhVSS4WPj1rL37ov"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 184617,
       "name": "Samba",
       "url": "https://open.spotify.com/track/3j1OvxNI3bH9tV1e49K17R"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
+        "name": "Xande Canta Caetano",
+        "url": "https://open.spotify.com/album/7DG96zvwE2rauCCLwO1JWV"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 181665,
+      "name": "Lua de S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+    },
+    {
+      "added_at": "2024-01-19 03:01:00",
+      "album": {
         "name": "Bis - Paulinho Da Viola",
         "url": "https://open.spotify.com/album/6acEK03JM3ebF4QNJKS7wo"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-01-19 03:01:00",
       "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+        "name": "Fazendo As Pazes Com o Swing",
+        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
       },
       "artists": [
         {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+          "name": "Orquestra Imperial",
+          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
         }
       ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+      "duration_ms": 190880,
+      "name": "Pode Ser",
+      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
     },
     {
       "added_at": "2024-01-19 03:01:00",
@@ -971,22 +987,6 @@
       "duration_ms": 145823,
       "name": "Gema (342 Amaz\u00f4nia ao Vivo no Circo Voador)",
       "url": "https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H"
-    },
-    {
-      "added_at": "2024-01-19 03:01:00",
-      "album": {
-        "name": "Fazendo As Pazes Com o Swing",
-        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
-      },
-      "artists": [
-        {
-          "name": "Orquestra Imperial",
-          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
-        }
-      ],
-      "duration_ms": 190880,
-      "name": "Pode Ser",
-      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
     },
     {
       "added_at": "2024-01-19 03:01:00",

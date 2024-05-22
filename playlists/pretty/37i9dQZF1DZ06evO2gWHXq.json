@@ -1,12 +1,12 @@
 {
-  "description": "This Is MC Davo. Los temas esenciales, todos en una lista.",
-  "num_followers": 218547,
+  "description": "This is MC Davo. The essential tracks, all in one playlist.",
+  "num_followers": 218591,
   "original_name": "This Is MC Davo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZklBAAAAAADy2etOKjDNPagTuojzjc0l",
+  "snapshot_id": "ZkqSgAAAAAAVG3vYsn7xzrZoXWMuBymj",
   "tracks": [
     {
       "added_at": null,
@@ -159,34 +159,6 @@
       "duration_ms": 252443,
       "name": "Resistir\u00e9",
       "url": "https://open.spotify.com/track/0XFQb7pNfT90A7fRxjMWgz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
-        "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Eirian Music",
-          "url": "https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4"
-        },
-        {
-          "name": "Los Golpes",
-          "url": "https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
-      "url": "https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M"
     },
     {
       "added_at": null,
@@ -403,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Round 2 (feat. MC Davo) - Single",
+        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Round 2",
+      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -427,26 +419,6 @@
       "duration_ms": 268124,
       "name": "No Me Arrepiento (feat. Gera MX, Neto Pe\u00f1a, Santa Fe Klan)",
       "url": "https://open.spotify.com/track/6TVKrzgEE5b0TP5oVLeZLh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Round 2 (feat. MC Davo) - Single",
-        "url": "https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB"
-      },
-      "artists": [
-        {
-          "name": "C-Kan",
-          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Round 2",
-      "url": "https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y"
     },
     {
       "added_at": null,
@@ -883,26 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callejera",
-        "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 223750,
-      "name": "Callejera",
-      "url": "https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Take Over, Vol. 3",
         "url": "https://open.spotify.com/album/4JTxI5uDDK11MT6fuqF1ax"
       },
@@ -923,18 +875,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Psicosis",
-        "url": "https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p"
+        "name": "Callejera",
+        "url": "https://open.spotify.com/album/44MreFKTqiCxAEHel5avg1"
       },
       "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
         {
           "name": "MC Davo",
           "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 179120,
-      "name": "La Historia De Un Olvido",
-      "url": "https://open.spotify.com/track/7mq5HftjAklgdNT4SljJtr"
+      "duration_ms": 223750,
+      "name": "Callejera",
+      "url": "https://open.spotify.com/track/2dXRSe761Gg9fl2NcxnkW2"
     },
     {
       "added_at": null,
@@ -1067,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Juegos de pasi\u00f3n",
-      "url": "https://open.spotify.com/track/3bRXRniN8vaUWFf3FMDPMM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Psicosis 2",
         "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
       },
@@ -1123,6 +1063,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Dominio",
+        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Andamos De Parranda",
+      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Soledad (feat. Monica Saldivar)",
         "url": "https://open.spotify.com/album/1ZoVyyIvp3ZJwv3zW8wuHv"
       },
@@ -1151,22 +1107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Dominio",
-        "url": "https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG"
-      },
-      "artists": [
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 221146,
-      "name": "Andamos De Parranda",
-      "url": "https://open.spotify.com/track/1s5vd2FOQj34P5vfRRoPHT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tremenda",
         "url": "https://open.spotify.com/album/5fYPkmVk2wjnZM6Nwxsqx3"
       },
@@ -1183,6 +1123,98 @@
       "duration_ms": 192592,
       "name": "Tremenda",
       "url": "https://open.spotify.com/track/3tbVojOpYBUQFDPDoITdZg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Psicosis 2",
+        "url": "https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        }
+      ],
+      "duration_ms": 225978,
+      "name": "Vive La Vida",
+      "url": "https://open.spotify.com/track/1kvTvzhNUjbKjI7PCcuTFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voy Por El Sueno de Muchos",
+        "url": "https://open.spotify.com/album/3i3hD84ypGIseYsZw8m05P"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Smoky",
+          "url": "https://open.spotify.com/artist/1P184E1yqU3hzj71d1oOzb"
+        },
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "T-Killa",
+          "url": "https://open.spotify.com/artist/52QQ2BADyRwXsS8uqLu2Hl"
+        },
+        {
+          "name": "Don Aero",
+          "url": "https://open.spotify.com/artist/2EkFEL5IvD2W8hpwbjS9yv"
+        },
+        {
+          "name": "Tanke",
+          "url": "https://open.spotify.com/artist/4IUiUtBRDlsoaOVtAMuTKp"
+        },
+        {
+          "name": "Little el Crack",
+          "url": "https://open.spotify.com/artist/20kZ1fvR4TfMUsyXfOOnAm"
+        },
+        {
+          "name": "Big Metra",
+          "url": "https://open.spotify.com/artist/5J5DLfdC5YmPjVk8ljdOqU"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Zimple",
+          "url": "https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t"
+        },
+        {
+          "name": "DJ Maxo",
+          "url": "https://open.spotify.com/artist/1egxVNTkxulcLB6iBDwdV6"
+        }
+      ],
+      "duration_ms": 471185,
+      "name": "Esta Vida Me Encanta Remix (feat. Smoky, MC Davo, T-Killa, Don Aero, Tanke, Little el Crack, Big Metra, Santa RM, Zimple & DJ Maxo)",
+      "url": "https://open.spotify.com/track/4EMnuIxITWPhErDRfxQUuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones Mamalonas",
+        "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
+      },
+      "artists": [
+        {
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "La Paleta (feat. C-Kan)",
+      "url": "https://open.spotify.com/track/5Mhx3qKwMZdgDWhRvY6V7m"
     }
   ],
   "unique_name": "This Is MC Davo",

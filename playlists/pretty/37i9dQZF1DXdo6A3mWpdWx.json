@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: B*Witched",
-  "num_followers": 852843,
+  "num_followers": 853303,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Scatman's World",
-        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
-      },
-      "artists": [
-        {
-          "name": "Scatman John",
-          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
-        }
-      ],
-      "duration_ms": 215973,
-      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
-      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 238226,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Scatman's World",
+        "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
+      },
+      "artists": [
+        {
+          "name": "Scatman John",
+          "url": "https://open.spotify.com/artist/4omQQTNN7ILiMsSB2k9eqX"
+        }
+      ],
+      "duration_ms": 215973,
+      "name": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Tubthumper",
+        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
+      },
+      "artists": [
+        {
+          "name": "Chumbawamba",
+          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
+        }
+      ],
+      "duration_ms": 278778,
+      "name": "Tubthumping",
+      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/7wlnHCWKkBXBWtYgpaCaz7"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 244093,
       "name": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams)",
       "url": "https://open.spotify.com/track/7eheoW4hxrH51ww2QePVwF"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Tubthumper",
-        "url": "https://open.spotify.com/album/5yaumQgV6xGqCy014aOREt"
-      },
-      "artists": [
-        {
-          "name": "Chumbawamba",
-          "url": "https://open.spotify.com/artist/0TcYeHEK9sBtv7xPbKhzHz"
-        }
-      ],
-      "duration_ms": 278778,
-      "name": "Tubthumping",
-      "url": "https://open.spotify.com/track/22HYEJveCvykVDHDiEEmjZ"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Life Thru A Lens",
-        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "Let Me Entertain You",
-      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Life Thru A Lens",
+        "url": "https://open.spotify.com/album/31Sx9uz9KqlvmX07Pvp0wN"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "Let Me Entertain You",
+      "url": "https://open.spotify.com/track/0SLtqCrXBRrnkxSOMA3X4W"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 246426,
-      "name": "Waiting for Tonight",
-      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "12 Inches Of Snow",
         "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 268910,
       "name": "Informer",
       "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 246426,
+      "name": "Waiting for Tonight",
+      "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Pieces Of A Dream",
-        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
-      },
-      "artists": [
-        {
-          "name": "Anastacia",
-          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
-        }
-      ],
-      "duration_ms": 245400,
-      "name": "I'm Outta Love - Radio Edit",
-      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Ice 'n' Green",
         "url": "https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 260973,
       "name": "Think About the Way",
       "url": "https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Pieces Of A Dream",
+        "url": "https://open.spotify.com/album/5sLISkyWFgcOCxIooPYfT4"
+      },
+      "artists": [
+        {
+          "name": "Anastacia",
+          "url": "https://open.spotify.com/artist/2siHvYaxjaW5rKVRiIrMYH"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "I'm Outta Love - Radio Edit",
+      "url": "https://open.spotify.com/track/583xVl0Sbj93uU4ceixgU8"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
+      },
+      "artists": [
+        {
+          "name": "CeCe Peniston",
+          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
+        }
+      ],
+      "duration_ms": 245000,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Rainbow",
         "url": "https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 285706,
       "name": "Heartbreaker (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/0jsANwwkkHyyeNyuTFq2XO"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip"
-      },
-      "artists": [
-        {
-          "name": "CeCe Peniston",
-          "url": "https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD"
-        }
-      ],
-      "duration_ms": 245000,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 241066,
-      "name": "Let the Dream Come True",
-      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Homebase",
         "url": "https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 270973,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 241066,
+      "name": "Let the Dream Come True",
+      "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
+        "name": "Casino",
+        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
+      },
+      "artists": [
+        {
+          "name": "Alcazar",
+          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
+        }
+      ],
+      "duration_ms": 231533,
+      "name": "Crying at the Discoteque - Radio Edit",
+      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
         "name": "Spice",
         "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 238706,
       "name": "That Don't Impress Me Much",
       "url": "https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
-        "name": "Casino",
-        "url": "https://open.spotify.com/album/5FWRzWPvOHCxOoo0ibUfI5"
-      },
-      "artists": [
-        {
-          "name": "Alcazar",
-          "url": "https://open.spotify.com/artist/5HnkAAaf0MCIxMWzsJNrdg"
-        }
-      ],
-      "duration_ms": 231533,
-      "name": "Crying at the Discoteque - Radio Edit",
-      "url": "https://open.spotify.com/track/7gQAFGUyHPcY0cQNPsjMf0"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "Boombastic",
         "url": "https://open.spotify.com/album/40rtksAqnwebfPKWzSL6Iv"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 238360,
       "name": "In The Summertime",
       "url": "https://open.spotify.com/track/726KAdf3k8Ce8W95O38XNI"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Love Is All Around",
-      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Commitments",
         "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 241866,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
     },
     {
       "added_at": "2024-03-15 19:06:32",
@@ -2419,22 +2419,6 @@
     {
       "added_at": "2024-03-15 19:06:32",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 293105,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
-    },
-    {
-      "added_at": "2024-03-15 19:06:32",
-      "album": {
         "name": "The Summer Is Magic - Ep",
         "url": "https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab"
       },
@@ -2447,6 +2431,22 @@
       "duration_ms": 236666,
       "name": "The Summer Is Magic - Radio Mix",
       "url": "https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc"
+    },
+    {
+      "added_at": "2024-03-15 19:06:32",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 293105,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2024-03-15 19:06:32",

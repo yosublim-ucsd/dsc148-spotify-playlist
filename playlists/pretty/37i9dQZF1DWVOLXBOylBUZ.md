@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Maluma y Pirlo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,639 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,668 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 19 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW) | 3:14 |
 | 20 | [HACE TIEMPO](https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ) | [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [HACE TIEMPO](https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE) | 2:52 |
 | 21 | [Los Roques](https://open.spotify.com/track/5wUNXICiryiGhRBVL5FQXh) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 2:51 |
-| 22 | [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 |
+| 22 | [SORNERITA](https://open.spotify.com/track/3ZqO2DY8gfRA2nSKJuuBrz) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT) | [SORNERITA](https://open.spotify.com/album/453jwTxCzUQbLIOutkVUgK) | 3:12 |
 | 23 | [LATTE \(feat\. Maria Becerra\)](https://open.spotify.com/track/4G3noMmipB4pOuVwbjkbov) | [The Academy: Segunda Misión](https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu), [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [The Academy: Segunda Misión](https://open.spotify.com/album/7HPtZ8XfUirtDilX4LZ9Cg) | 4:20 |
 | 24 | [TQMQA](https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [TQMQA](https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r) | 2:49 |
 | 25 | [La Mini](https://open.spotify.com/track/5cBYXVEGfdcEm506VCvxHG) | [Charly Gynn](https://open.spotify.com/artist/3ozO2Uj1PEP2h2SzFVTgYT), [Alnz G](https://open.spotify.com/artist/6jr7HGYltyHEEolCbaDKIf), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [La Mini](https://open.spotify.com/album/6kiHCzOGKtsieZtXOxsNPy) | 2:26 |

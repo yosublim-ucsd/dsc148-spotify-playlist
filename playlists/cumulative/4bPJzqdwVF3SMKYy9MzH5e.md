@@ -4,7 +4,7 @@
 
 > 
 
-1,900 songs - 4 day 6 hr 29 min
+1,901 songs - 4 day 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2021-08-05 |  |
 | [Butch 4 Butch](https://open.spotify.com/track/59eUvoOBAOGHJsXnaNuVZK) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Butch 4 Butch](https://open.spotify.com/album/71s8Wq2B3M7aIB5loki5XC) | 2:58 | 2022-06-21 |  |
 | [Butterflies...](https://open.spotify.com/track/4tlU5pwlM8ZnVofZqLxleM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Troubled Paradise](https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK) | 1:48 | 2022-06-04 |  |
+| [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 | 2024-05-21 |  |
 | [c2.0](https://open.spotify.com/track/5gNTRfMRPZg1U07j7KSSaG) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 3:40 | 2022-04-03 |  |
 | [C3L3STIAL\_CITY](https://open.spotify.com/track/7qfIfb1Wh9K1gVsVzz99jx) | [bliss3three](https://open.spotify.com/artist/5tP9MksSHHb59vV4N6HMHI) | [C3L3STIAL天の](https://open.spotify.com/album/6yiGXFTyMYPu8EabAjSaud) | 1:08 | 2022-10-11 |  |
 | [California Here We Go](https://open.spotify.com/track/0GARqhVTsP5GA6q1G3xWph) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [California Here We Go](https://open.spotify.com/album/7kNOKBIpn1PGOWPEoRcgMl) | 2:06 | 2023-02-07 |  |

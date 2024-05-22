@@ -4,7 +4,7 @@
 
 > Pass the sticks & press play.
 
-963 songs - 1 day 22 hr 26 min
+964 songs - 1 day 22 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/track/5QdVpZhASstTN4BBwglPz6) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC) | [Ghetto Superstar \(feat\. G Herbo & Doe Boy\)](https://open.spotify.com/album/2MTfZnikwjrMJ20QSomF5j) | 4:04 | 2022-09-16 | 2023-11-11 |
 | [Glitches \(feat\. G Herbo\)](https://open.spotify.com/track/41NdzKqZKg6i629P4UxUaO) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Glitches](https://open.spotify.com/album/33zs2J5lgdvrtKwJwQRKOh) | 1:58 | 2022-10-28 | 2022-12-17 |
 | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/track/0zbGWzQkLY5wn4xyiLYEi0) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glizock & Wizop \(feat\. Key Glock\)](https://open.spotify.com/album/4ocf6wJAV6NJCBn8nTkeaj) | 3:12 | 2023-10-13 |  |
-| [Go Again](https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Go Again](https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP) | 2:34 | 2023-10-27 |  |
+| [Go Again](https://open.spotify.com/track/0Yn7YAYQVEtOZYJDhRN1Le) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Go Again](https://open.spotify.com/album/7AkY91byYrxUdKHrK4PBdP) | 2:34 | 2023-10-27 | 2024-05-22 |
 | [Go Down \(feat\. TisaKorean\)](https://open.spotify.com/track/2Qr5PWUt8XycAAv338LicY) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:30 | 2023-02-24 | 2023-06-17 |
 | [Go Get It](https://open.spotify.com/track/0CIusTSIe1WLFrIPg6ekKx) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Go Get It](https://open.spotify.com/album/03etiL2wGRCdc7VDHiKpni) | 1:45 | 2022-08-19 | 2022-09-03 |
 | [Go Hard](https://open.spotify.com/track/1IzJxbARcQrOWMZgPw1PNj) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Go Hard](https://open.spotify.com/album/0lvoLgzBquqlIQyVnXD2Jo) | 3:37 | 2023-05-05 |  |
@@ -757,6 +757,7 @@
 | [Shoot My Shot](https://open.spotify.com/track/5q9Et9kJTWvRg80uQLBW4s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [SHOOT MY SHOT](https://open.spotify.com/album/2ug89z91VcJ8NfpbZGVrPw) | 2:52 | 2021-09-03 | 2022-07-29 |
 | [shop \(feat\. DaBaby\)](https://open.spotify.com/track/5iwSmckCiyv9J5eUxD2cLN) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Thank You For Believing](https://open.spotify.com/album/616PXlH2cjun1oU5LR81oB) | 3:09 | 2021-09-03 | 2022-04-16 |
 | [Shutcho](https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:07 | 2023-09-22 | 2023-10-14 |
+| [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 | 2024-05-20 |  |
 | [Sideways \(with NLE Choppa\)](https://open.spotify.com/track/3dX2DItyqF78yNhPJZakmM) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Sideways](https://open.spotify.com/album/0ylJgtYMwhgSeiz7bgtWr1) | 2:00 | 2023-10-06 | 2024-02-01 |
 | [SILVER TOOTH\. \(with A$AP Ferg\)](https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL) | [SILVER TOOTH.](https://open.spotify.com/album/41eT1d6A24YhZ3zAwnYXUY) | 2:22 | 2023-04-21 |  |
 | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/track/3vsHHMdo734N08AcJ7bzrq) | [Sonny Digital](https://open.spotify.com/artist/655963AgkTZeYUvCyodCIL), [$lugg](https://open.spotify.com/artist/6qBEAm67lFVJIqPdWnLZA3) | [Since 91 \(feat\. $LUGG\)](https://open.spotify.com/album/1xNjebhLSg4XXs7iDT8Vgj) | 2:54 | 2022-07-01 | 2022-07-09 |

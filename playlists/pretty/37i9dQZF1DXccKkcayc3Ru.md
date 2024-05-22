@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,554 likes - 60 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,567 likes - 96 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,41 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 58 | [明るい未来](https://open.spotify.com/track/5Gbgx64AeuCcXIFys7ymqK) | [never young beach](https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX) | [fam fam](https://open.spotify.com/album/1bW2uDVWI51ttFReQYFWQ0) | 3:53 |
 | 59 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
 | 60 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 |
+| 61 | [20190720](https://open.spotify.com/track/2PiajLmZ5qYxEfBAJvweOO) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 4:50 |
+| 62 | [何もない。同じ毎日](https://open.spotify.com/track/2REm2wGRUugzTdalXsAFdE) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:56 |
+| 63 | [noise（　　 ）](https://open.spotify.com/track/07p7BSqv1Qn8aXmw21PJN4) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:16 |
+| 64 | [noise（ushio）](https://open.spotify.com/track/5wtgjAZGYcVnS19xuc9Otx) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 3:51 |
+| 65 | [潮が割った窓](https://open.spotify.com/track/7lH6ZnFy1ahi5JnifPPbjh) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:41 |
+| 66 | [これからどうしよ](https://open.spotify.com/track/3gKe8hP2Eg2cUjLpL7lYIA) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:48 |
+| 67 | [untitled](https://open.spotify.com/track/0pIAQRIoj50tEm0vvGbzjr) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:14 |
+| 68 | [良いこと思いついてん](https://open.spotify.com/track/3uyzcTfnaDXH80JXwRjM7k) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:42 |
+| 69 | [清澄を応援したいねん](https://open.spotify.com/track/1Iu3m1eWhJHqj3t3WF7yv6) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:53 |
+| 70 | [step](https://open.spotify.com/track/1b3EI1cRPQtyWX2pZ6aJEx) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:48 |
+| 71 | [JUNIOR SWEET](https://open.spotify.com/track/3doXnZYqeUfkAvEqnBHbWA) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 3:07 |
+| 72 | [sea](https://open.spotify.com/track/1nvc8i9rQRZnkmFFEWcFEh) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:53 |
+| 73 | [noise（riku）](https://open.spotify.com/track/4IeHrr4vBkz3FjPOQq27kI) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:38 |
+| 74 | [うちは清澄と関わりたい](https://open.spotify.com/track/1QmEEo0ql2MEZCg0UvhiD4) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:40 |
+| 75 | [noise（AZUR）](https://open.spotify.com/track/3pQj3vOI0yflJhorLnnAjB) | [AZUR](https://open.spotify.com/artist/5b6VXFcXYgjXiZF2gQnYoi) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:51 |
+| 76 | [Scream](https://open.spotify.com/track/3l72aJMLGxEFa7iI1oOAX5) | [Misaki](https://open.spotify.com/artist/15sBxBvvwsG9p1ST1FAIRZ) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:52 |
+| 77 | [何のために音楽を？](https://open.spotify.com/track/5UCjxoluI3vgIamr88rACu) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:43 |
+| 78 | [noise（Misaki）](https://open.spotify.com/track/5svmTtTVXZCVkeRVS9UVuw) | [AZUR](https://open.spotify.com/artist/5b6VXFcXYgjXiZF2gQnYoi) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:57 |
+| 79 | [collage](https://open.spotify.com/track/0NlpDtFAnZHpM2NreaddmK) | [AZUR](https://open.spotify.com/artist/5b6VXFcXYgjXiZF2gQnYoi) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:11 |
+| 80 | [誰かと](https://open.spotify.com/track/0tExvRUTbN2i7tdcNQ9rHY) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:50 |
+| 81 | [すれちがう大切](https://open.spotify.com/track/4Ra9MBjMwMM4Qfg3YB4ZGq) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:08 |
+| 82 | […](https://open.spotify.com/track/60uLOEQpy7d6yLETuvTcWh) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY), [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:18 |
+| 83 | [tide](https://open.spotify.com/track/64GUTSx5v0yeVuaxkdQIEp) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 4:05 |
+| 84 | [孤独](https://open.spotify.com/track/6Rd3yggCScCedthZGPQloY) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:11 |
+| 85 | [Misaki demo](https://open.spotify.com/track/1SN6HJrPv686Ec90n0FiIl) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:42 |
+| 86 | [他人どうし](https://open.spotify.com/track/5z84n8qFJvi2AxvWYGPcbg) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:08 |
+| 87 | [海辺のふたり](https://open.spotify.com/track/0aAzuvTalryNAn7ziP7Eox) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:52 |
+| 88 | [潮と陸と航太郎と](https://open.spotify.com/track/5b50vLqeaCoNKLjsOXXqW3) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:55 |
+| 89 | [Prima Sense](https://open.spotify.com/track/5RJe5TUsMPTI1ScF4kDATW) | [辻井凪](https://open.spotify.com/artist/7clMrsxFoWNpE3RAqE6PCs) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:19 |
+| 90 | [ankhead demo](https://open.spotify.com/track/6tTdsejKglvEWHYKVfs9FX) | [清澄](https://open.spotify.com/artist/6y8ZFFPpyGfjVeeqAaIzmY) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:41 |
+| 91 | [うちは楽しそうに音楽やってる清澄が好き](https://open.spotify.com/track/5eIlGvcIOkcZ4dPKs6Efzf) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:09 |
+| 92 | [ひとりでいい](https://open.spotify.com/track/68PjQYQto61GTJtCn1gQUy) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:47 |
+| 93 | [うちら海で出会ったやん](https://open.spotify.com/track/2lwo5Fp6bRyjFkCHjndo2P) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:44 |
+| 94 | [青](https://open.spotify.com/track/464oGGM5MAuKwhYFaCuMUn) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 1:37 |
+| 95 | [noise \(EP version\)](https://open.spotify.com/track/4e5XunMEsCUKiblz89QqjB) | [AZUR](https://open.spotify.com/artist/5b6VXFcXYgjXiZF2gQnYoi) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 2:55 |
+| 96 | [浜辺のあと](https://open.spotify.com/track/1QvZqHeh2Fs1nexbF7jCNb) | [坂本　秀一](https://open.spotify.com/artist/2LC7eA23n9VF53DCyWcwCg) | [バジーノイズ \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4Ivi7HH61ltfTzQ6E3z5po) | 0:46 |
 
-Snapshot ID: `ZjJY8AAAAACAqr5vT0hu3JVeSwEFYjUm`
+Snapshot ID: `Zky4OQAAAABglJBsnl+pYMg5N21sbF9n`

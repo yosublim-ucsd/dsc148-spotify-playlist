@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,468 likes - 80 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,462 likes - 80 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 59 | [El Cuartetazo](https://open.spotify.com/track/5iMKKoKwGrVCDBQsSr2ffl) | [Los Wawanco](https://open.spotify.com/artist/0WSHVLqlPkVePCFIUiDuC6) | [50 Años De Fiesta](https://open.spotify.com/album/6ypapHwVMUIcPHnCsmI3uF) | 2:52 |
 | 60 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 |
 | 61 | [A Mi Dios Todo Le Debo](https://open.spotify.com/track/3pjavh1Qwrx4oOait4hRiU) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [El Baile del Siglo Con Joe Arroyo](https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp) | 4:53 |
-| 62 | [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl), [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 |
-| 63 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 |
+| 62 | [Amparito](https://open.spotify.com/track/4RQ0j2QKEe5gjrFsKriIF5) | [Los Melódicos](https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW) | [Lo Mejor de los Melodicos Vol\. 1](https://open.spotify.com/album/13evw9mEtB5xBNgUWk89rR) | 3:47 |
+| 63 | [La Cinta Verde](https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS) | [Gustavo "El Loco" Quintero](https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl), [Los Teen Agers](https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl) | [Éxitos Gustavo 'El Loko' Quintero](https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL) | 3:20 |
 | 64 | [Tabaco y ron](https://open.spotify.com/track/4Wo82fEZenBEqL4dpn6Bqt) | [Rodolfo y su Típica RA7](https://open.spotify.com/artist/2cHxxmqUJnm5Rc4FqqU1Hy) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:05 |
 | 65 | [El Ron de Vinola](https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI) | [Los 50 De Joselito](https://open.spotify.com/artist/0FTkvpgQfrCz3ku0oSbrYU) | [Pasado y Presente: 14 Años de Éxitos](https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F) | 2:42 |
-| 66 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 |
-| 67 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
+| 66 | [La Casa De Fernando](https://open.spotify.com/track/1nvbESS1keAEEVL7SJjSH4) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Billo 76 1/2](https://open.spotify.com/album/2cxu9v4F49h6eMCLunQmhQ) | 3:14 |
+| 67 | [Solo Un Cigarrillo](https://open.spotify.com/track/4LhVMfmZ5OQq1dUP778MCq) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos Volume 1](https://open.spotify.com/album/3Zh2ReqhDsU5aiR8aO6rfM) | 2:48 |
 | 68 | [Baion de Madrid](https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY) | [Nelson Henriquez](https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon) | [A Pulir la Hebilla](https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q) | 2:56 |
 | 69 | [La Última Copa](https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [Ídolo del Pueblo](https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE) | 2:34 |
 | 70 | [Con los Crespos Hechos](https://open.spotify.com/track/0JhZ96xBAor5yrPd96KG7D) | [Los Embajadores Vallenatos](https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf) | [Historia Musical de los Embajadores Vallenatos: 36 Grandes Éxitos](https://open.spotify.com/album/0nkhy88CQZrf6grqG1CGBI) | 4:43 |

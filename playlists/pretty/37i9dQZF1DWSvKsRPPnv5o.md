@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kalan.FrFr
 
-[Spotify](https://open.spotify.com/user/spotify) - 724,789 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,854 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 8 | [rock your hips](https://open.spotify.com/track/7ciVVd4JFgUb5D38mMCkIA) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [rock your hips](https://open.spotify.com/album/1AX6HDF2vw86lWVq2yObhz) | 2:58 |
 | 9 | [Vacuum Seals & Money Counters](https://open.spotify.com/track/0gR11UbCTTx8ycCNFXj697) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU) | [Vacuum Seals & Money Counters](https://open.spotify.com/album/22VahKJmWjnyiQOWlBMVIr) | 1:43 |
 | 10 | [Face no Book](https://open.spotify.com/track/5c5qbRMz03GPy7Mj1Fpn6G) | [Heembeezy](https://open.spotify.com/artist/0ywBEn3tITirlskY3SZBei) | [Face no Book](https://open.spotify.com/album/69Z4SGlHRBjljGmHsmS5fu) | 2:24 |
-| 11 | [Daboi Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboi Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
+| 11 | [Daboii Flexin](https://open.spotify.com/track/6osoye1Uw7190l2ySuq6vm) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Daboii Flexin](https://open.spotify.com/album/0Xd4B9pMYvD6RV371tuezu) | 2:43 |
 | 12 | [Doin Yo Stuff](https://open.spotify.com/track/1VEPKq5jNdUyemcq29h5ki) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Sixtape 3](https://open.spotify.com/album/40eNoJ2ryZfFNb5iyhKoiX) | 2:36 |
 | 13 | [STAY SAFE](https://open.spotify.com/track/6zF0upolmiaThxNs8tnb6n) | [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ), [BlueBucksClan](https://open.spotify.com/artist/04gIf2ntjvCBuhkFrkeiqH), [Teaawhy](https://open.spotify.com/artist/7ikaWAiot7KxyQQx8LICbt), [Milly Mo](https://open.spotify.com/artist/1FbNRjYXMW1sZGjlxaOO9u), [Jasscole](https://open.spotify.com/artist/3cDwTYciDzlk8vf9HHHgS6), [BB](https://open.spotify.com/artist/28tk1PiLYWjkVr0fxlleKP), [Big I\-N\-D\-O](https://open.spotify.com/artist/06P96M68wB5ZW82bUJIt1T) | [STAY SAFE](https://open.spotify.com/album/44WpInS9We73GRHqTRRYWt) | 3:02 |
 | 14 | [She Said \(feat\. Kalan.FrFr\)](https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR) | [R3 DA Chilliman](https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Chilli Season](https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh) | 1:50 |

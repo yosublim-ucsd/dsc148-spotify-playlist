@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Sargun Mehta & Jordan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,898 likes - 76 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,009 likes - 76 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 10 | [Dhundle Dhundle](https://open.spotify.com/track/4JU4kP0LBnUJg4qMQjGF0H) | [Bunny Johal](https://open.spotify.com/artist/0jdnMCU1yJPwoIErT6a4OS), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Dhundle Dhundle](https://open.spotify.com/album/1mazw25I3H3UlGaw8a7tiO) | 4:03 |
 | 11 | [Chann Sitare](https://open.spotify.com/track/50UrzLQaUmPp5LsehLMMKR) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Chann Sitare \(From "Oye Makhna"\)](https://open.spotify.com/album/3fms8MQoHUUbAfK9ao7X8G) | 3:07 |
 | 12 | [Nimm Thalle](https://open.spotify.com/track/31YZi2MZoP2CszakCUG9NO) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Nimm Thalle](https://open.spotify.com/album/3JR6MsMhr1UbXpSNGAD05v) | 3:00 |
-| 13 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 |
+| 13 | [Apa Fer Milaange](https://open.spotify.com/track/6JP8RinqsLkPiBi7B0VLGJ) | [Savi Kahlon](https://open.spotify.com/artist/6jvvFfe34NYXjWZMz7rExP), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi) | [Apa Fer Milaange](https://open.spotify.com/album/62dVx2sHnVaGFP2cuURpL5) | 4:14 |
 | 14 | [Dil Nu \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/track/2zdP6CEm1lV9Oh65JRbvgt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Dil Nu \(From "Jatt Nuu Chudail Takri"\)](https://open.spotify.com/album/0OmnSUCyHhOLumqNf8arkq) | 2:26 |
 | 15 | [Ikko Jehe](https://open.spotify.com/track/0uG6SxCSZUgrzb5yNo2g1e) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Ikko Jehe](https://open.spotify.com/album/4QpYtJtoSMKRCHAWHMS9eF) | 3:11 |
 | 16 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 |

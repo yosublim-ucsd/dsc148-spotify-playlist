@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3886278,
+  "num_followers": 3886328,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Waiting For The Sun",
+        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
+      },
+      "artists": [
+        {
+          "name": "Fritz Kalkbrenner",
+          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
+        }
+      ],
+      "duration_ms": 222278,
+      "name": "Waiting For The Sun",
+      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Rule The World",
         "url": "https://open.spotify.com/album/1tXbZl7KpKIsBcNfYi2qth"
       },
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Waiting For The Sun",
-        "url": "https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4"
-      },
-      "artists": [
-        {
-          "name": "Fritz Kalkbrenner",
-          "url": "https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM"
-        }
-      ],
-      "duration_ms": 222278,
-      "name": "Waiting For The Sun",
-      "url": "https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Time",
         "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
       },
@@ -1059,26 +1059,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Loving Blind",
-        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
+        "name": "This Is It",
+        "url": "https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z"
       },
       "artists": [
         {
-          "name": "Sam Wiseman",
-          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
         },
         {
-          "name": "Idun Nicoline",
-          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
-        },
-        {
-          "name": "ANDREWBATES",
-          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
+          "name": "Frida Sundemo",
+          "url": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
         }
       ],
-      "duration_ms": 216926,
-      "name": "Loving Blind",
-      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
+      "duration_ms": 263503,
+      "name": "This Is It",
+      "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1123,22 +1119,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "This Is It",
-        "url": "https://open.spotify.com/album/0XI1OLkA9VGYzzK5lNPu0z"
+        "name": "Loving Blind",
+        "url": "https://open.spotify.com/album/2XvypO5sCalte148ttpNPI"
       },
       "artists": [
         {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+          "name": "Sam Wiseman",
+          "url": "https://open.spotify.com/artist/5bHmaSbFRcjgoZy7GWml47"
         },
         {
-          "name": "Frida Sundemo",
-          "url": "https://open.spotify.com/artist/5vuIOnOp6NI06rjLgTpYiY"
+          "name": "Idun Nicoline",
+          "url": "https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr"
+        },
+        {
+          "name": "ANDREWBATES",
+          "url": "https://open.spotify.com/artist/57okaNCSgssYD2PwiE0yQv"
         }
       ],
-      "duration_ms": 263503,
-      "name": "This Is It",
-      "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
+      "duration_ms": 216926,
+      "name": "Loving Blind",
+      "url": "https://open.spotify.com/track/0ExkHA0DRWUHCUNVEdpabl"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "This Is Love",
-        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
-      },
-      "artists": [
-        {
-          "name": "Ourson",
-          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "This Is Love",
-      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Brave",
         "url": "https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 230074,
       "name": "Brave",
       "url": "https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "This Is Love",
+        "url": "https://open.spotify.com/album/4nfEXULziiv5H8KMJksixS"
+      },
+      "artists": [
+        {
+          "name": "Ourson",
+          "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "This Is Love",
+      "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 262221,
+      "name": "I Love You",
+      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "How Does It Feel",
         "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
       },
@@ -1363,22 +1379,6 @@
       "duration_ms": 297803,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/1GMlSudRzZJhxl2Qq8Epdl"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 262221,
-      "name": "I Love You",
-      "url": "https://open.spotify.com/track/2olzFCSJhJvc8KVxwH4J9b"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1599,22 +1599,18 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Pangea",
-        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+        "name": "Gleams",
+        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
       },
       "artists": [
         {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Nathan Nicholson",
-          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
         }
       ],
-      "duration_ms": 241983,
-      "name": "Pangea (feat. Nathan Nicholson)",
-      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+      "duration_ms": 293133,
+      "name": "Gleams",
+      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1635,6 +1631,26 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
+        "name": "Pangea",
+        "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "duration_ms": 241983,
+      "name": "Pangea (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
         "name": "Resen\u00e4ren",
         "url": "https://open.spotify.com/album/4ooplbpUcmkYThvwnMLj0Q"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 422374,
       "name": "Resen\u00e4ren",
       "url": "https://open.spotify.com/track/5fwSydkuyJTqAhrPfvM5wr"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Gleams",
-        "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 293133,
-      "name": "Gleams",
-      "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 199682,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Feel You In Love",
-        "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
-      },
-      "artists": [
-        {
-          "name": "Bjarne Hendrik",
-          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
-        }
-      ],
-      "duration_ms": 193562,
-      "name": "Feel You In Love",
-      "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/0rVLC0oJ2EfwbrGETFixBc"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 267860,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/2yGcuM8Nb3UeE3sphPzKml"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Feel You In Love",
+        "url": "https://open.spotify.com/album/0FO0x3qrzxMlsZqRNFYooN"
+      },
+      "artists": [
+        {
+          "name": "Bjarne Hendrik",
+          "url": "https://open.spotify.com/artist/5FIR37Eznpe8S0fondwPd2"
+        }
+      ],
+      "duration_ms": 193562,
+      "name": "Feel You In Love",
+      "url": "https://open.spotify.com/track/1HSlSne8NSLQIqZMIs97AI"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-05-10 04:00:00",
       "album": {
-        "name": "Miracles",
-        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 269249,
-      "name": "Gemini",
-      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
         "name": "LIFELINE",
         "url": "https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
+    },
+    {
+      "added_at": "2024-05-10 04:00:00",
+      "album": {
+        "name": "Miracles",
+        "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 269249,
+      "name": "Gemini",
+      "url": "https://open.spotify.com/track/045XVRhD2NCR8LtNVR1Yqh"
     }
   ],
   "unique_name": "Chill Tracks",

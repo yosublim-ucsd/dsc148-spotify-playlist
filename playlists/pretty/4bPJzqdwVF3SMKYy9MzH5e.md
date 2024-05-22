@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,897 songs - 4 day 6 hr 18 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,898 songs - 4 day 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1905,5 +1905,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1895 | [Thalassophobia](https://open.spotify.com/track/1pcDlqCeLHpxK6xVdv6ONZ) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Thalassophobia](https://open.spotify.com/album/3JHerj4helcEAuoZzsfkSE) | 5:37 |
 | 1896 | [O'lord! I Have My Doubts](https://open.spotify.com/track/5hWa8yLWGRjkBQDekWVElJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
 | 1897 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 |
+| 1898 | [Buurman Uit Berlijn](https://open.spotify.com/track/5lE64uyiHhhSwS01VI4pV6) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 4:45 |
 
-Snapshot ID: `AAAC+91hNXZUxDy/G7F26I8EtcC4Kwg3`
+Snapshot ID: `AAAC/OGi6WK8b8oD/8o3AU8mWqnaBVVm`

@@ -1,12 +1,12 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover :Rahul Dit-O",
-  "num_followers": 23090,
+  "num_followers": 23093,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZksdEwAAAACoivMqTCVXLukPVlLvVpE8",
+  "snapshot_id": "Zkwz5QAAAADekm4W7rkW/osppzqvhH/9",
   "tracks": [
     {
       "added_at": "2024-04-26 12:05:14",
@@ -75,6 +75,22 @@
       "duration_ms": 142153,
       "name": "Shambo Shiva Shankara",
       "url": "https://open.spotify.com/track/0g4QRe3yNIB9Ld0HOImBYp"
+    },
+    {
+      "added_at": "2024-05-21 05:40:37",
+      "album": {
+        "name": "Oo Jeevave",
+        "url": "https://open.spotify.com/album/5qfB377p8oXyR0yDG9RRwA"
+      },
+      "artists": [
+        {
+          "name": "Girish Prabhu",
+          "url": "https://open.spotify.com/artist/3gwJq0GldUL2tNtdeaG7gN"
+        }
+      ],
+      "duration_ms": 186186,
+      "name": "Oo Jeevave",
+      "url": "https://open.spotify.com/track/3oVtDUiXOdiJNeZ9GdkE7Q"
     },
     {
       "added_at": "2024-05-13 06:23:59",
@@ -1347,22 +1363,6 @@
       "duration_ms": 202746,
       "name": "Kanna Muche Kaade Goode",
       "url": "https://open.spotify.com/track/4YAsBEAp5yV4AAtlKnsjXh"
-    },
-    {
-      "added_at": "2024-01-08 12:33:05",
-      "album": {
-        "name": "Bayaside Ninna",
-        "url": "https://open.spotify.com/album/1oq31tsHpML3zUgHXxMu3j"
-      },
-      "artists": [
-        {
-          "name": "Ashwamedha Karthik",
-          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
-        }
-      ],
-      "duration_ms": 122938,
-      "name": "Bayaside Ninna",
-      "url": "https://open.spotify.com/track/3NmzEX42jupduW7vMPlXVR"
     },
     {
       "added_at": "2023-12-29 06:01:19",

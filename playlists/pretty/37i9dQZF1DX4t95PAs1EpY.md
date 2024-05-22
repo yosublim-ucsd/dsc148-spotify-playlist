@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 
 > beats + birds = <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,869 likes - 261 songs - 10 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,040 likes - 261 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,7 +253,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4t95PAs1EpY.md) - [plain]
 | 243 | [Calm Journey](https://open.spotify.com/track/4LgeEcSRLIwHNHQLbivmIf) | [Blumen](https://open.spotify.com/artist/1iAP06My9fOKSWunfLK9FH), [Dosi](https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9) | [Plenitude](https://open.spotify.com/album/5g62q4lcEL127ajXQAUbp4) | 1:52 |
 | 244 | [Elongation](https://open.spotify.com/track/5ZbBjMlIJzgrxauaIQMInm) | [L O F I L U V](https://open.spotify.com/artist/4yhcsS8fEAHnMszuWUU37O), [Tokoname](https://open.spotify.com/artist/6zROBwkwrwFefHWv6M4kGG) | [Elongation](https://open.spotify.com/album/5O8oEgJio4pyCbS9qVIpjE) | 2:34 |
 | 245 | [Dream Tunnel](https://open.spotify.com/track/0gyDK00aAkv2Cj5MiDdRDV) | [Alpacca](https://open.spotify.com/artist/6I1hzKZBbWpAwZjGXBI9uA), [Cassidy Godwin](https://open.spotify.com/artist/2fCuEFatpJymbazPkYYVi8) | [Dream Tunnel](https://open.spotify.com/album/1em9TDR3pNUlMSG7VixHbC) | 2:30 |
-| 246 | [Closure](https://open.spotify.com/track/5AoRaygf1Gqd5nk0wWZSMl) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [Roadetrix](https://open.spotify.com/artist/7Md5xGlvby3sPI2NLkbYlv) | [Closure](https://open.spotify.com/album/0WIibN3WgfTnFPY1isNNv3) | 2:07 |
+| 246 | [Closure](https://open.spotify.com/track/5AoRaygf1Gqd5nk0wWZSMl) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [Closure](https://open.spotify.com/album/0WIibN3WgfTnFPY1isNNv3) | 2:07 |
 | 247 | [late](https://open.spotify.com/track/4MapfTz35onmkmfi7TmMlQ) | [\[zoethecat\]](https://open.spotify.com/artist/2a0He55lnQxr74EmQv8yyi) | [late](https://open.spotify.com/album/6fzByHc5DrtRR8sdjvhAGp) | 2:17 |
 | 248 | [The Shore](https://open.spotify.com/track/3GPREePdZKcPnZkReSnZnz) | [ticofaces](https://open.spotify.com/artist/7fG9d41QElOF8zSI1OoRbE) | [The Shore](https://open.spotify.com/album/7mKl1hW33KrnBBXQqghrcs) | 2:06 |
 | 249 | [Flower trip](https://open.spotify.com/track/3YsmPCSFwhkKrwNn4OOECm) | [Raul Vinicius](https://open.spotify.com/artist/5jXnCghyML9ot78G4qjsVp) | [Flower trip](https://open.spotify.com/album/3aDtEmt2HeqxuV0s1CYxCq) | 1:52 |

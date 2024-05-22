@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Sasha Alex Sloan",
-  "num_followers": 77296,
+  "num_followers": 77348,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Riding Around In The Dark",
         "url": "https://open.spotify.com/album/5AOciqgWEcZRjz0D85Hktj"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 206459,
       "name": "Riding Around In The Dark",
       "url": "https://open.spotify.com/track/7LTNjzQRoE0LMGyzymXTpU"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -831,42 +831,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Questions, Chaos & Faith",
-        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 237915,
-      "name": "Questions, Chaos & Faith",
-      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Little Blue (feat. Brandi Carlile)",
-        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
-      },
-      "artists": [
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 265306,
-      "name": "Little Blue (feat. Brandi Carlile)",
-      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Simple Like 17 (Deluxe)",
         "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
       },
@@ -883,18 +847,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+        "name": "Questions, Chaos & Faith",
+        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+      "duration_ms": 237915,
+      "name": "Questions, Chaos & Faith",
+      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -919,66 +883,38 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Cape Forestier",
-        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
+        "name": "Little Blue (feat. Brandi Carlile)",
+        "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 232725,
-      "name": "Cape Forestier",
-      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
+      "duration_ms": 265306,
+      "name": "Little Blue (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/0HWWt7Nv69TSuaVc5Woy7O"
     },
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Whiskey",
-        "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 307007,
-      "name": "Whiskey",
-      "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Pages",
-        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -999,6 +935,70 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Whiskey",
+        "url": "https://open.spotify.com/album/2YyLl4pOkP4RWJIphfcAr8"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 307007,
+      "name": "Whiskey",
+      "url": "https://open.spotify.com/track/0fwQ9azMBpJHQ8pzDl9I9i"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/4Lwy5hFH1NTDb6kQZ5pTSy"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Cape Forestier",
+        "url": "https://open.spotify.com/album/4jYX3Qzf8jzasDiGls6o7h"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Cape Forestier",
+      "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Pages",
+        "url": "https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Don't Do Me Good",
         "url": "https://open.spotify.com/album/26sIa4onZCyC8VWiKLSwuB"
       },
@@ -1015,6 +1015,26 @@
       "duration_ms": 253613,
       "name": "Don't Do Me Good",
       "url": "https://open.spotify.com/track/0oiiE9xAEoq7Pk49LtDc9W"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Burial Ground",
+      "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1111,26 +1131,6 @@
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        },
-        {
-          "name": "James Mercer",
-          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Burial Ground",
-      "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
     },
     {
       "added_at": "2024-05-17 04:00:00",

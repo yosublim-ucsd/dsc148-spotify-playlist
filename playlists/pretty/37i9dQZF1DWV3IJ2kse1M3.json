@@ -1,6 +1,6 @@
 {
   "description": "\u5728\u97f3\u6a02\u7684\u61f7\u62b1\u88e1\uff0c\u4f60\u60f3\u54ed\u5c31\u54ed\u3002\u6211\u5011\u4e00\u8d77\u52aa\u529b\u4e86\u90a3\u9ebc\u4e45\uff0c\u6700\u5f8c\u537b\u9084\u662f\u6557\u7d66\u4e0d\u9069\u5408\u3002",
-  "num_followers": 185621,
+  "num_followers": 185623,
   "original_name": "\u60b2\u50b7\u91cb\u653e",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2024-04-11 05:48:57",
       "album": {
-        "name": "\u9006\u5149",
-        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Sun",
-          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
-        }
-      ],
-      "duration_ms": 289066,
-      "name": "\u6211\u61f7\u5ff5\u7684",
-      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
-    },
-    {
-      "added_at": "2024-04-11 05:48:57",
-      "album": {
         "name": "\u5979\u8aaa",
         "url": "https://open.spotify.com/album/2jzTdhgI2kvDx6NerFsRe8"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 318499,
       "name": "\u5979\u8aaa",
       "url": "https://open.spotify.com/track/632VyMrvhsHIsO4zq9khts"
+    },
+    {
+      "added_at": "2024-04-11 05:48:57",
+      "album": {
+        "name": "\u9006\u5149",
+        "url": "https://open.spotify.com/album/6mBrt99J1sFWMQ9LzPHLGw"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Sun",
+          "url": "https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn"
+        }
+      ],
+      "duration_ms": 289066,
+      "name": "\u6211\u61f7\u5ff5\u7684",
+      "url": "https://open.spotify.com/track/7z2M7DsEjZjwXBkWG3zd21"
     },
     {
       "added_at": "2024-04-11 05:48:57",

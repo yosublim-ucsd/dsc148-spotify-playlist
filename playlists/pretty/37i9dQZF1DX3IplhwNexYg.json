@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: 86TVs",
-  "num_followers": 114464,
+  "num_followers": 114460,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Blue Weekend",
         "url": "https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Come Back To Me",
-        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
-      },
-      "artists": [
-        {
-          "name": "Sea Girls",
-          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
-        }
-      ],
-      "duration_ms": 153906,
-      "name": "Come Back To Me",
-      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Normal People Things",
         "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 164844,
       "name": "Normal People Things",
       "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Come Back To Me",
+        "url": "https://open.spotify.com/album/61ioqNXFsMG17cxa5MaQvo"
+      },
+      "artists": [
+        {
+          "name": "Sea Girls",
+          "url": "https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe"
+        }
+      ],
+      "duration_ms": 153906,
+      "name": "Come Back To Me",
+      "url": "https://open.spotify.com/track/5hjhWO6rxO7EEl5YFtLzpa"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -527,22 +543,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Zombieland",
-        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
-      },
-      "artists": [
-        {
-          "name": "Jake Bugg",
-          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
-        }
-      ],
-      "duration_ms": 162932,
-      "name": "Zombieland",
-      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Run Run Run",
         "url": "https://open.spotify.com/album/6hV5hdmEp1eMTTBeeAiC0K"
       },
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Right Here, For Now",
-        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Cuts & Bruises",
         "url": "https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 215906,
       "name": "Just To Keep You Satisfied",
       "url": "https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -767,18 +767,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
       },
       "artists": [
         {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
         }
       ],
-      "duration_ms": 150897,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
+      "duration_ms": 180663,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -799,18 +799,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "This Could Be Texas",
-        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
       },
       "artists": [
         {
-          "name": "English Teacher",
-          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
         }
       ],
-      "duration_ms": 228122,
-      "name": "I\u2019m Not Crying, You\u2019re Crying",
-      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+      "duration_ms": 150897,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "This Could Be Texas",
+        "url": "https://open.spotify.com/album/4gd3XcQ7dR37m8GimBfiYT"
+      },
+      "artists": [
+        {
+          "name": "English Teacher",
+          "url": "https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU"
+        }
+      ],
+      "duration_ms": 228122,
+      "name": "I\u2019m Not Crying, You\u2019re Crying",
+      "url": "https://open.spotify.com/track/1y7Z0cDqFWRJ9RS70ecEXM"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Tropic Morning News",
         "url": "https://open.spotify.com/album/3XBBiy4lTb6ov7GNZZe8eJ"
       },
@@ -847,22 +863,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
-      },
-      "artists": [
-        {
-          "name": "bby",
-          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
-        }
-      ],
-      "duration_ms": 203636,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Voice Of The Voiceless",
         "url": "https://open.spotify.com/album/4sjD6pJ90VtPPy2lnT6uwU"
       },
@@ -875,6 +875,22 @@
       "duration_ms": 193612,
       "name": "Voice Of The Voiceless",
       "url": "https://open.spotify.com/track/1clBozMcdm8BPjda4Uh3mt"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D"
+      },
+      "artists": [
+        {
+          "name": "bby",
+          "url": "https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM"
+        }
+      ],
+      "duration_ms": 203636,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -907,22 +923,6 @@
       "duration_ms": 202693,
       "name": "Weeds",
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/5rV3o00UyA3MBnwPEpvmiC"
-      },
-      "artists": [
-        {
-          "name": "Tommy Lefroy",
-          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
-        }
-      ],
-      "duration_ms": 180663,
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/2oh6OHvQ8BmsxzTthpuz7b"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "A Psychic Wound",
+        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Campesinos!",
+          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+        }
+      ],
+      "duration_ms": 241694,
+      "name": "A Psychic Wound",
+      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Hammer",
-        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 219498,
-      "name": "Hammer",
-      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "angel in realtime.",
         "url": "https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 238653,
       "name": "the angel of 8th ave.",
       "url": "https://open.spotify.com/track/3ono1eRCqwTW9PJMx9u2Ru"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Hammer",
+        "url": "https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 219498,
+      "name": "Hammer",
+      "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "The Hills",
-        "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 211152,
-      "name": "The Hills",
-      "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Theatre",
         "url": "https://open.spotify.com/album/3fTht12H0wDBFZ7OBsWZdv"
       },
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "A Psychic Wound",
-        "url": "https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z"
+        "name": "The Hills",
+        "url": "https://open.spotify.com/album/0iFGP0AHWd8UHjpeHDUIMz"
       },
       "artists": [
         {
-          "name": "Los Campesinos!",
-          "url": "https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 241694,
-      "name": "A Psychic Wound",
-      "url": "https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "What Happened to the Beach?",
-        "url": "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 155341,
-      "name": "The Phantom Buzz (Kick In)",
-      "url": "https://open.spotify.com/track/1wvh2OmuJkO9czmCKbuvpk"
+      "duration_ms": 211152,
+      "name": "The Hills",
+      "url": "https://open.spotify.com/track/1McBsb9H3rFIl5cENthWd6"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "What Happened to the Beach?",
+        "url": "https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 155341,
+      "name": "The Phantom Buzz (Kick In)",
+      "url": "https://open.spotify.com/track/1wvh2OmuJkO9czmCKbuvpk"
     },
     {
       "added_at": "2024-05-16 23:00:00",

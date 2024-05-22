@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 400502,
+  "num_followers": 400553,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Pon P\u00f3n",
-        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
+        "name": "Already Gone",
+        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
       },
       "artists": [
         {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
         }
       ],
-      "duration_ms": 178436,
-      "name": "Pon P\u00f3n",
-      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
+      "duration_ms": 300499,
+      "name": "Into The Sun - EP Version",
+      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Already Gone",
-        "url": "https://open.spotify.com/album/0qOy9NpS6fADbXb0ViXNtE"
+        "name": "Pon P\u00f3n",
+        "url": "https://open.spotify.com/album/6TNu9Fm6dr3ReP1omRRaZl"
       },
       "artists": [
         {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 300499,
-      "name": "Into The Sun - EP Version",
-      "url": "https://open.spotify.com/track/4gFakkHz0RjUrbf9Ufilb7"
+      "duration_ms": 178436,
+      "name": "Pon P\u00f3n",
+      "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
+        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
+      },
+      "artists": [
+        {
+          "name": "Vinyl Hotel",
+          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
+        }
+      ],
+      "duration_ms": 177854,
+      "name": "Renegades - Acoustic Version",
+      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
         "name": "Madrid",
         "url": "https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 240622,
       "name": "Madrid",
       "url": "https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
-        "name": "Caf\u00e9 Acoustic Session (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2A1S0jZ4Xbmue6lq4GSLuW"
-      },
-      "artists": [
-        {
-          "name": "Vinyl Hotel",
-          "url": "https://open.spotify.com/artist/0cL5BDthYmHa4fUYkRNe6h"
-        }
-      ],
-      "duration_ms": 177854,
-      "name": "Renegades - Acoustic Version",
-      "url": "https://open.spotify.com/track/57BrLjdnIbUTnTVXBJIBAM"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "I don\u2019t care about the rain",
-        "url": "https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i"
-      },
-      "artists": [
-        {
-          "name": "TYNSKY",
-          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "I don\u2019t care about the rain",
-      "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Sanadoras Voluntades",
         "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 164956,
       "name": "Sanadoras Voluntades",
       "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "I don\u2019t care about the rain",
+        "url": "https://open.spotify.com/album/0X9D08RXensTJaGFiHH09i"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "I don\u2019t care about the rain",
+      "url": "https://open.spotify.com/track/2u9lYD4BrRNA42fHk1aeZv"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "BLU",
-        "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
-      },
-      "artists": [
-        {
-          "name": "Blackpanda",
-          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
-        }
-      ],
-      "duration_ms": 148650,
-      "name": "BLU",
-      "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
-    },
-    {
-      "added_at": "2024-05-02 09:39:32",
-      "album": {
         "name": "Chilleando por Madrid",
         "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-05-02 09:39:32",
       "album": {
-        "name": "Dreamers",
-        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+        "name": "BLU",
+        "url": "https://open.spotify.com/album/0lTNBDVR2b8Ubcm0L44CA5"
       },
       "artists": [
         {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+          "name": "Blackpanda",
+          "url": "https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma"
         }
       ],
-      "duration_ms": 252293,
-      "name": "The Great Unknown",
-      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
+      "duration_ms": 148650,
+      "name": "BLU",
+      "url": "https://open.spotify.com/track/1SBcduWy2JPFRDKqxBjowZ"
     },
     {
       "added_at": "2024-05-02 09:39:32",
@@ -1515,6 +1499,22 @@
       "duration_ms": 157400,
       "name": "No deber\u00eda quererte - Ac\u00fastico",
       "url": "https://open.spotify.com/track/77oNNJ8T6ZVHbCPhqM9Fry"
+    },
+    {
+      "added_at": "2024-05-02 09:39:32",
+      "album": {
+        "name": "Dreamers",
+        "url": "https://open.spotify.com/album/56iF3zN01TJO6yhr1HCVfA"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 252293,
+      "name": "The Great Unknown",
+      "url": "https://open.spotify.com/track/7CeJuYHjC7wmtwMWBDKcvV"
     },
     {
       "added_at": "2024-05-02 09:39:32",

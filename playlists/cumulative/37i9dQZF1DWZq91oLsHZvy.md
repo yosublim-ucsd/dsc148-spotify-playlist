@@ -4,7 +4,7 @@
 
 > Let's go! 👟
 
-274 songs - 15 hr 52 min
+275 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Balance](https://open.spotify.com/track/5waH4K1bmTMlikre01uqKi) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [On the Water](https://open.spotify.com/album/6jP0e39bcK8jrfc1Tg0rVk) | 4:06 | 2022-03-31 | 2024-04-17 |
 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 | 2022-03-31 | 2024-04-19 |
 | [Banquet](https://open.spotify.com/track/172u95XX2JxIfBZi1v0vKN) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/6SsIdN05HQg2GwYLfXuzLB) | 3:21 | 2022-01-21 | 2022-07-29 |
-| [Better Now \(feat\. Rae Morris\)](https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:46 | 2024-04-12 |  |
+| [Better Now \(feat\. Rae Morris\)](https://open.spotify.com/track/0Zu5Nb2llf36AMjYd1as45) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV), [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst) | [Fantasies](https://open.spotify.com/album/7jI0uMNouj0i2i0Kw0NpSR) | 3:46 | 2024-04-12 | 2024-05-22 |
 | [Blue Orchid](https://open.spotify.com/track/7kyRTopEX56DqBBeC1C3pD) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [The White Stripes Greatest Hits](https://open.spotify.com/album/6iOP7HgYAk3x5i19Os1d7v) | 2:37 | 2022-09-30 | 2022-11-13 |
 | [Blue Orchid](https://open.spotify.com/track/4jU7NPkz4HVnM4hweqNhI1) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/3rHeq4F5wnaLBjNtuz7Yvh) | 2:37 | 2022-03-31 | 2024-04-19 |
 | [Blue Orchid](https://open.spotify.com/track/1PCA097woCMSDvZPUVeRI7) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Get Behind Me Satan](https://open.spotify.com/album/5dQCkDTTilKZBD8Fhlmxiw) | 2:38 | 2022-01-21 | 2022-07-28 |
@@ -230,6 +230,7 @@
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2024-01-05 |  |
 | [Sister](https://open.spotify.com/track/1zPWMtCrpd6ppFoAZJSIb9) | [Dorsal Fins](https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4) | [Sister](https://open.spotify.com/album/4vykL6dZ8n9spAdzEPvn3n) | 4:04 | 2022-03-04 | 2022-11-13 |
 | [Sleepyhead](https://open.spotify.com/track/47NoCaEOxlLifJ86Pr3hb8) | [Hunter Moreau](https://open.spotify.com/artist/18E7vRs277FpAIZelUzoCQ) | [Sleepyhead](https://open.spotify.com/album/1jefPRHYXgymDYCwHFnqZf) | 2:58 | 2022-02-07 | 2023-02-08 |
+| [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 | 2024-05-21 |  |
 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 | 2022-01-21 |  |
 | [Speak Loud](https://open.spotify.com/track/6irQlJurQFK1OqKun57XUq) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [Speak Loud](https://open.spotify.com/album/7IPQgTmojnOGuVESJbNwny) | 4:23 | 2022-03-11 | 2022-07-29 |
 | [Speeddance](https://open.spotify.com/track/1gdO3q99cYhaFg3WaP27JQ) | [Reptile Youth](https://open.spotify.com/artist/0XoZwt2DsmzVvOe5GRSYDC) | [Reptile Youth](https://open.spotify.com/album/70diW1bHdn1h7FUvjz7W2o) | 2:57 | 2022-03-16 | 2022-11-13 |

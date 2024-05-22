@@ -1,6 +1,6 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Jordan Rakei",
-  "num_followers": 312197,
+  "num_followers": 312234,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,26 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Freudian Slips",
-        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
+        "name": "edbl & friends \u2013 Jackson Mathod",
+        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
         }
       ],
-      "duration_ms": 163516,
-      "name": "Freudian Slips",
-      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
+      "duration_ms": 172732,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -419,26 +427,18 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "edbl & friends \u2013 Jackson Mathod",
-        "url": "https://open.spotify.com/album/4Dm4vJNsXbsutvoeNRqjSI"
+        "name": "Freudian Slips",
+        "url": "https://open.spotify.com/album/5sdHPWcKzFKUVHE87snT3v"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 172732,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/74lXEOR1jwNlqIRGXdcIn7"
+      "duration_ms": 163516,
+      "name": "Freudian Slips",
+      "url": "https://open.spotify.com/track/16RzGIuWeutIpBbwBH1Zcm"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Dopamine",
-        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
-      },
-      "artists": [
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 175635,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Earth",
         "url": "https://open.spotify.com/album/1L9EOt6qghU2kFVXItfI3S"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 203581,
       "name": "Earth",
       "url": "https://open.spotify.com/track/33SjP7IwTNrPEpZAn16Bzf"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "Dopamine",
+        "url": "https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 175635,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Actress",
+        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
+      },
+      "artists": [
+        {
+          "name": "Maya Delilah",
+          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
+        }
+      ],
+      "duration_ms": 238003,
+      "name": "Actress",
+      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "The Liminality of Her",
         "url": "https://open.spotify.com/album/3tNvEZnLV5OAnOmII0jTiU"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 176874,
       "name": "Rite of Passage",
       "url": "https://open.spotify.com/track/3QB9XSrhotF0v8tkML3F3r"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Actress",
-        "url": "https://open.spotify.com/album/7MYz8LyncTdKmzaf9a9bCx"
-      },
-      "artists": [
-        {
-          "name": "Maya Delilah",
-          "url": "https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM"
-        }
-      ],
-      "duration_ms": 238003,
-      "name": "Actress",
-      "url": "https://open.spotify.com/track/1ajlpHpd9b8Yf36KTT6EXw"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "My Voice",
+        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "Breeze",
+      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "All Black Everything",
         "url": "https://open.spotify.com/album/1mEy3yttQpCAuNwdMc1Qng"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "My Voice",
-        "url": "https://open.spotify.com/album/3307v7bngEkIXsB6OZWBy8"
+        "name": "Funeka",
+        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
       },
       "artists": [
         {
-          "name": "Ashley Henry",
-          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+          "name": "Cooks But We're Chefs",
+          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
         }
       ],
-      "duration_ms": 271040,
-      "name": "Breeze",
-      "url": "https://open.spotify.com/track/1ssRJeVukT0jJEoBO8b0c7"
+      "duration_ms": 243000,
+      "name": "Funeka",
+      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -963,6 +979,26 @@
       "duration_ms": 263333,
       "name": "Annie's Tune",
       "url": "https://open.spotify.com/track/1n6eQozvR8PbW2opBdmtLg"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "26% MIXTAPE",
+        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
+      },
+      "artists": [
+        {
+          "name": "B-ahwe",
+          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
+        },
+        {
+          "name": "NEONE the Wonderer",
+          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
+        }
+      ],
+      "duration_ms": 221409,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1027,42 +1063,6 @@
       "duration_ms": 218244,
       "name": "Raven Flies Low [Feat. Benji B, Raven Bush, Theon Cross, Nubya Garcia, Tom Herbert, Shabaka Hutchings, Nikolaj Torp Larsen, Dave Okumu, Nick Ramm, Dan See, Tom Skinner, Martin Terefe] - Single Edit",
       "url": "https://open.spotify.com/track/4uIsRHhz5M7uT7YV0LDoQD"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "26% MIXTAPE",
-        "url": "https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi"
-      },
-      "artists": [
-        {
-          "name": "B-ahwe",
-          "url": "https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl"
-        },
-        {
-          "name": "NEONE the Wonderer",
-          "url": "https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E"
-        }
-      ],
-      "duration_ms": 221409,
-      "name": "Patience",
-      "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "Funeka",
-        "url": "https://open.spotify.com/album/2xwYWGQYsWdjQTI9Wxacr5"
-      },
-      "artists": [
-        {
-          "name": "Cooks But We're Chefs",
-          "url": "https://open.spotify.com/artist/2Q9PBFjIjNgm7N5tyL0Z83"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Funeka",
-      "url": "https://open.spotify.com/track/3eNfjouyFU9bTAeBB4eirf"
     },
     {
       "added_at": "2024-05-09 23:00:00",
@@ -1187,6 +1187,30 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
+        "name": "Temperature High",
+        "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 190259,
+      "name": "Temperature High",
+      "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
         "name": "FIELDNOTES PT III",
         "url": "https://open.spotify.com/album/1mN1K7R6kn8FqBP2OY613q"
       },
@@ -1219,46 +1243,6 @@
     {
       "added_at": "2024-05-09 23:00:00",
       "album": {
-        "name": "Temperature High",
-        "url": "https://open.spotify.com/album/6KOHE7segw0upBTSCpWELD"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
-        }
-      ],
-      "duration_ms": 190259,
-      "name": "Temperature High",
-      "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
-        "name": "In The Fire",
-        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
-      },
-      "artists": [
-        {
-          "name": "Yakul",
-          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
-        }
-      ],
-      "duration_ms": 237046,
-      "name": "In The Fire",
-      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
-    },
-    {
-      "added_at": "2024-05-09 23:00:00",
-      "album": {
         "name": "Champagne Kisses",
         "url": "https://open.spotify.com/album/1BkhAWj2DJmsapEOd0OUUU"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 235433,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/2n1tmBwwgF0dP0kU9CELhL"
+    },
+    {
+      "added_at": "2024-05-09 23:00:00",
+      "album": {
+        "name": "In The Fire",
+        "url": "https://open.spotify.com/album/4hU4FUzK08HZ3hwM7XZZIE"
+      },
+      "artists": [
+        {
+          "name": "Yakul",
+          "url": "https://open.spotify.com/artist/0Pi3s9W42iTzuxDp7GKIfO"
+        }
+      ],
+      "duration_ms": 237046,
+      "name": "In The Fire",
+      "url": "https://open.spotify.com/track/7MUiVyNZdipLltGWBmXHXN"
     },
     {
       "added_at": "2024-05-09 23:00:00",

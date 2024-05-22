@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-880 songs - 1 day 13 hr 38 min
+882 songs - 1 day 13 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Between the Heaves](https://open.spotify.com/track/67k8S3GXTelujadCL0MzZN) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Between the Heaves](https://open.spotify.com/album/50dcAZn3eoMrJlNtKq09qd) | 2:15 | 2023-01-26 |  |
 | [Between The Lines](https://open.spotify.com/track/33BPMNYcPhcua4D5MhJa6d) | [Michel Haspeslagh](https://open.spotify.com/artist/3pBbMbMr7qdCr9OA3hasPl) | [Between The lines](https://open.spotify.com/album/5jDKJJoabz0LeU11vXVfRR) | 2:28 | 2023-03-08 |  |
 | [Beyond The Glimmering Light](https://open.spotify.com/track/0Nz9A8EyeTvRo4WWFOLXeJ) | [Anton Byers](https://open.spotify.com/artist/3EXHOUECuF5L9svlzdsnBu) | [Beyond The Glimmering Light](https://open.spotify.com/album/40yxXM3SxRR0qUqzjwQBhN) | 2:39 | 2023-01-31 | 2023-10-07 |
+| [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 | 2024-05-21 |  |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2021-12-07 | 2023-06-17 |
 | [Bird of Passage](https://open.spotify.com/track/79XrQYbxrhehKlaT70VfxN) | [Carmelito](https://open.spotify.com/artist/7GDVEcdwoNfZlN6sRYrjwZ) | [Bird of Passage](https://open.spotify.com/album/7y8UGL1WYh2YkErlNvqrBO) | 2:07 | 2023-08-14 |  |
 | [Blessed Days](https://open.spotify.com/track/2JCvAX5Htrxx2KVF5sVlVR) | [Xie Qi](https://open.spotify.com/artist/6HFojJ4dKdfE6sHHB1XZpb) | [Blessed Days](https://open.spotify.com/album/5m9rTnoDdOFYvQs2ovfcu4) | 2:07 | 2021-12-07 | 2022-11-12 |
@@ -526,6 +527,7 @@
 | [Only My Truth](https://open.spotify.com/track/63WeYLkKYPF3ybwkvlGEGB) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Only My Truth](https://open.spotify.com/album/3Zi9UxcwNDiI9SFKw5af9h) | 2:10 | 2023-01-26 |  |
 | [Onthou](https://open.spotify.com/track/0CoSBNNeO8JgayAfLttECk) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:08 | 2021-12-07 | 2022-05-06 |
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-01-26 |  |
+| [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 | 2024-05-21 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-16 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2021-12-07 | 2022-05-06 |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-05-06 |

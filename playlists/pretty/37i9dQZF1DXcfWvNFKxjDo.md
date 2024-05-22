@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: LUNAX, Blue Man Group
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,313 likes - 80 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,494 likes - 80 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 50 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 |
 | 51 | [Your Love](https://open.spotify.com/track/5sjsi4egcX7MuABlhWHja3) | [Topmodelz](https://open.spotify.com/artist/4SgbqL3dLr5BfCvBBBUucP), [Pulsedriver](https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp) | [Your Love](https://open.spotify.com/album/1wPXrUHbEusBfZtcUMfxhP) | 2:34 |
 | 52 | [Der letzte Drink](https://open.spotify.com/track/7swGy6v30GsmTV6z6kq5qR) | [MYT](https://open.spotify.com/artist/49zauyREeS0BA9layn9e6j), [YAMAS](https://open.spotify.com/artist/78oWym4ACzyf81OAeS0dHY) | [Der letzte Drink](https://open.spotify.com/album/62HK7T6w6WKtWCuE7xHxqn) | 2:59 |
-| 53 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
+| 53 | [FUKINASTY](https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [DJ Rush](https://open.spotify.com/artist/6gBmUpKvNYtnQTSLK5vwS5) | [FUKINASTY / Look, Alright](https://open.spotify.com/album/7cK9lEO7XG4JGq9eB4Lwla) | 2:57 |
 | 54 | [Balla Balla](https://open.spotify.com/track/1TFK9oczePSWgNtWRWlUoI) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Balla Balla](https://open.spotify.com/album/3eO6cDNIDdCwEIlkp2mZmb) | 2:55 |
 | 55 | [30 Stunden Wach](https://open.spotify.com/track/0MzBrHve0tvrdwrEXgCK31) | [Paraçek](https://open.spotify.com/artist/1YAXvPP9indIwd27HpEDF1), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi) | [30 Stunden Wach](https://open.spotify.com/album/3yPtZIgGqP7PPpGCuvoj6l) | 2:12 |
 | 56 | [Mama Mia](https://open.spotify.com/track/3px16DtfikGGjsgZCT2N0E) | [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Mama Mia](https://open.spotify.com/album/5elKzaXleeYQJIo5ur8luO) | 2:38 |

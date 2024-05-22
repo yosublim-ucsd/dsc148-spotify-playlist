@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 
 > El cantautor del Pueblo: canciones que duelen, del rancho para el Mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,455 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,538 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,10 +57,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 47 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 |
 | 48 | [Después de Ti ¿Quién?](https://open.spotify.com/track/2pwaDBvwFwppCMnnTUbl7A) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/6gifhpOt5g6LTcdQuhxX6s) | 3:54 |
 | 49 | [Nuevo Amor](https://open.spotify.com/track/3Omc1JskWu7w1bJqBcB5dq) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1Qps9OOxeSjzjOl3fJ3ddW) | 3:20 |
-| 50 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 |
-| 51 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
+| 50 | [Amor Express](https://open.spotify.com/track/6YsuDpAInqxAIGnlZbfCOt) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:07 |
+| 51 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 |
 | 52 | [Y Si Te Robo?](https://open.spotify.com/track/7uQDvbL52jBIIID4xtK4fo) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Más Completa Colección \(Componente 1\)](https://open.spotify.com/album/75m8XGzKJKWr3vmmfiTOyf) | 2:48 |
-| 53 | [Pídeme Perdón](https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:27 |
+| 53 | [Te La Pasas feat\. EP](https://open.spotify.com/track/17vqjVUNEOgfmeJNtG8auU) | [Tito Torbellino](https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ) | [No Eres Tu, Ahora Soy Yo](https://open.spotify.com/album/3fp9GQlPhA6sRgnUDIrom1) | 2:50 |
 | 54 | [El Mes De Enero](https://open.spotify.com/track/4YmlELbX9klHVjD4ZqyUWn) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Dejame Vacio](https://open.spotify.com/album/6SEYiyzGvrtW3QSgzYZcuW) | 3:36 |
 | 55 | [Perdí la Pose](https://open.spotify.com/track/6FGMsyDuHxkUmPwMvAJvDj) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 2:37 |
 | 56 | [Ellas Así Son](https://open.spotify.com/track/2xpGwATRUWzIry8S1dq0aV) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/6JyXUac9EvemfjYLdiqFCI) | 3:35 |
@@ -102,9 +102,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXNdAVrxJgz6.md) - [plain]
 | 92 | [Te Busco](https://open.spotify.com/track/4LRGjptIr1QmRNt79HXgvy) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Arpaz](https://open.spotify.com/album/3iywrfxYzfwlGChMImY6L6) | 3:02 |
 | 93 | [Mazatlán Carnaval](https://open.spotify.com/track/4w6HQOBMup9MoZStrN43pb) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Que No Se Caiga el Ritmo \(Deluxe\)](https://open.spotify.com/album/2T0jMFLwnKREZV00ySlQcK) | 4:04 |
 | 94 | [Era Creyente](https://open.spotify.com/track/739pK5ifHZjAXWYFcbYpR7) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Era Creyente](https://open.spotify.com/album/1VZ4GflGwn76gVpM36ZItR) | 3:14 |
-| 95 | [Solo Un Día](https://open.spotify.com/track/7DyZKKLarO3ZAEmQQbHNLI) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Las Bandas Románticas](https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U) | 3:08 |
-| 96 | [El Próximo Viernes](https://open.spotify.com/track/7bjAtBIgDlmTQAILEtww40) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [El Cantautor del Pueblo](https://open.spotify.com/album/3tfitfMrmX3mLCwuZ4fOv8) | 4:11 |
-| 97 | [Amor Express](https://open.spotify.com/track/6YsuDpAInqxAIGnlZbfCOt) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:07 |
+| 95 | [Pídeme Perdón](https://open.spotify.com/track/6wRAXwjKkw95QEZnpcXWdk) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Mi Razón De Ser](https://open.spotify.com/album/0IF0o88tDFcKoiqsiZ8GQO) | 3:27 |
+| 96 | [Solo Un Día](https://open.spotify.com/track/7DyZKKLarO3ZAEmQQbHNLI) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Las Bandas Románticas](https://open.spotify.com/album/0ENViT87wqrx5RiQKtLO8U) | 3:08 |
+| 97 | [El Próximo Viernes](https://open.spotify.com/track/7bjAtBIgDlmTQAILEtww40) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [El Cantautor del Pueblo](https://open.spotify.com/album/3tfitfMrmX3mLCwuZ4fOv8) | 4:11 |
 | 98 | [El Ruido De Tus Zapatos](https://open.spotify.com/track/3XK37tM2ck30dk7oNiMVlp) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [LAS BANDAS MÁS ROMÁNTICAS PARA ENAMORARTE](https://open.spotify.com/album/3cHvTPfLhnvNjT8OLBXXWy) | 4:26 |
 | 99 | [Me Gusta Tu Vieja](https://open.spotify.com/track/5xaTPSo55BLp68xyT7mr1s) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [No Me Pidas Perdón](https://open.spotify.com/album/6XEShWs8N2oP6jEUWAA9de) | 3:03 |
 | 100 | [Qué Ganaste \(En Vivo\)](https://open.spotify.com/track/1xCeHFK0K0nUZrpjCVW7K9) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [A Veces](https://open.spotify.com/album/2WSBDoIoeFgOCXQopqrmWd) | 3:29 |

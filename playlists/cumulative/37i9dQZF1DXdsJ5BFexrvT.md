@@ -4,7 +4,7 @@
 
 > Grab a quick nap for an instant refresher\. Zzzz...
 
-205 songs - 9 hr 55 min
+207 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Aura Serena](https://open.spotify.com/track/0ZeAWj2BGa6VoJUBzN4bZE) | [Coêlie Couvez](https://open.spotify.com/artist/76RIL7v2EFaMgfcMdLfIXq) | [Aura Serena](https://open.spotify.com/album/3ogABRGwm1rntxXBNxOFVX) | 2:36 | 2024-02-08 |  |
 | [Aurora](https://open.spotify.com/track/1Tijwgp5gSwdWWAeWkzzmV) | [Mystery Ark](https://open.spotify.com/artist/2J2lnOLZ6awcRhTfLGfKzI) | [Aurora](https://open.spotify.com/album/2tI2Wx10jbbxksqJEttROH) | 2:58 | 2023-11-15 |  |
 | [Azure](https://open.spotify.com/track/5yhFMyyzQKl9w3D4oWXPPt) | [Jake Slumber](https://open.spotify.com/artist/5zXzDGnSdx0XqjZzuKNNYx) | [Highlights](https://open.spotify.com/album/2VR51P4HVXyUxmeBLCGx7q) | 2:47 | 2023-11-15 |  |
+| [Barefoot](https://open.spotify.com/track/4C97XW6FKoCdgyXoTgB6bV) | [Don Salfva](https://open.spotify.com/artist/1Qoope6yvhZ1qDZoEGMUdW) | [Barefoot](https://open.spotify.com/album/1voQMtrtjwjSzDq6urVhSV) | 2:59 | 2024-05-20 |  |
 | [Basic Meditation](https://open.spotify.com/track/3MlyE6l0NIyTvLAIyojRWp) | [Maria Botican](https://open.spotify.com/artist/02CZQLikIIoZB7rhBk5PvT) | [Basic Meditation](https://open.spotify.com/album/4EIsO7ZvPEJvHOijkaQX53) | 3:02 | 2024-01-17 |  |
 | [Beyond](https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn) | [Koen Parker](https://open.spotify.com/artist/53uV0zzGfjaht3NaIiepwB) | [Beyond](https://open.spotify.com/album/57bF9UXUsV3Fczqi4vleLJ) | 2:30 | 2024-03-06 |  |
 | [Bland Minnen](https://open.spotify.com/track/1GPtXZ0BuMsaURDQQxQIR1) | [Wenicia Lindh](https://open.spotify.com/artist/6YkAIhgTo3tAwl6LufTd5G) | [Bland Minnen](https://open.spotify.com/album/3QKjt5vYNd6cGTbdCgRbQQ) | 2:38 | 2023-11-15 | 2024-05-07 |
@@ -117,7 +118,7 @@
 | [life cycle](https://open.spotify.com/track/4ehaeiOh82oQHaTOYU2X3O) | [Aquas](https://open.spotify.com/artist/7HgUx5Ns8oY9OIJitDRnej) | [life cycle](https://open.spotify.com/album/4bD96IkCbqtIp5IqcaVNzy) | 3:07 | 2024-05-20 |  |
 | [Light for all](https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB) | [Hello Artemisia!](https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3) | [Light for all](https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX) | 2:58 | 2024-05-04 |  |
 | [Lucens](https://open.spotify.com/track/2A2PrM5rdbQPHQIaDZnxCu) | [Tristan Motuo](https://open.spotify.com/artist/3dmTIkKXnIpN7hUc46cyFi) | [Lucens](https://open.spotify.com/album/0zUwEUIDjzDsBGleRn90EY) | 2:18 | 2023-11-15 |  |
-| [Lygophilia](https://open.spotify.com/track/2noNdyAX8mqrgW8m1wfQkO) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Lygophilia](https://open.spotify.com/album/3CKI3PcY3vGC9S69EoBLlA) | 3:37 | 2023-11-15 |  |
+| [Lygophilia](https://open.spotify.com/track/2noNdyAX8mqrgW8m1wfQkO) | [Keira Barton](https://open.spotify.com/artist/7MDW47TOvs2sC0FyHqSV3Y) | [Lygophilia](https://open.spotify.com/album/3CKI3PcY3vGC9S69EoBLlA) | 3:37 | 2023-11-15 | 2024-05-22 |
 | [Mare Silentis](https://open.spotify.com/track/3A6DWUeknQRKZjrwxnO6eC) | [Cassio Bera](https://open.spotify.com/artist/3Tpe9f8UW0i1JD2r1pW506) | [Mare Silentis](https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR) | 2:48 | 2024-03-06 | 2024-05-05 |
 | [Marimosa](https://open.spotify.com/track/6Jdeeh0nD5AsDFKaYQeIqO) | [Alpha Vectoriam](https://open.spotify.com/artist/4tJk8aN9skPGFZmkoAsBJD) | [Marimosa](https://open.spotify.com/album/7xTRy7Ll52l96kKe6OpXgB) | 3:09 | 2024-01-17 |  |
 | [Memento Vivere](https://open.spotify.com/track/2Vs8AIlAGaEyhh5y7vR7x7) | [James Matthéus](https://open.spotify.com/artist/5fv48FX13ObHcPLxuxguyy) | [Ad Infinitum](https://open.spotify.com/album/6K2qi9kHluhzqyUPIDx1JR) | 2:37 | 2023-11-15 |  |
@@ -164,6 +165,7 @@
 | [Sleep Loop](https://open.spotify.com/track/59Sp3gJKprka4OfnYhCxBJ) | [Eckhart Lange](https://open.spotify.com/artist/6EbSaSGsX82f6k7pEZNdUW) | [Sleep Loop](https://open.spotify.com/album/6T8Hvp5f3Y9fa5c8To99QM) | 2:40 | 2023-11-15 |  |
 | [Soft](https://open.spotify.com/track/6HR82S6IU4a7Lq0Gg8fx8U) | [Madna Eúra](https://open.spotify.com/artist/0taUhbLc6gC65ufqheYsPe) | [Soft](https://open.spotify.com/album/33WqLEqPxoOwdF2ZnE6YTx) | 2:52 | 2023-11-15 |  |
 | [Soft Blend](https://open.spotify.com/track/62bbizSic7MEEfMFDJniE5) | [Awake or Asleep](https://open.spotify.com/artist/3oBTUfwSCOhxSuhdXeN1c4) | [Complex](https://open.spotify.com/album/0BhbkpkVvEbIF3zG8SEC16) | 2:11 | 2023-11-15 |  |
+| [Soft Corals](https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs) | [Gateway IV](https://open.spotify.com/artist/4YoqgU4m9qY7tUO4iwIM45) | [Soft Corals](https://open.spotify.com/album/5PStymsZrftcSxP5rO2hgF) | 3:12 | 2024-05-20 |  |
 | [Softly](https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB) | [Delawares](https://open.spotify.com/artist/3gvjsh2EulaYf5hIlS7Lk1) | [Softly](https://open.spotify.com/album/3eHldyd3B8vooLnelcDW8b) | 2:16 | 2023-11-15 |  |
 | [Solange](https://open.spotify.com/track/7CrjRJEOLkJ5oD7TTHpqZi) | [Neil Mansella](https://open.spotify.com/artist/6R6OzpQPL5Mh9ulcQy6CET) | [Solange](https://open.spotify.com/album/0X2iA43edDtNT5UJZCVZUt) | 3:02 | 2024-02-08 |  |
 | [Solitaire](https://open.spotify.com/track/1dpmYcSMBDCr2EPUxMTdyA) | [Calming Lesmo](https://open.spotify.com/artist/5acenmixbZVmxdHn0Je47D) | [Solitaire](https://open.spotify.com/album/7BIDbqxwFJ9v30pxGqnToR) | 3:21 | 2024-03-06 |  |
@@ -193,7 +195,7 @@
 | [Tranquilizar el Ser](https://open.spotify.com/track/3HMptEvLblLn7DbyRVaCLw) | [Slower Lover](https://open.spotify.com/artist/77gg1JUo3GX5h3JKWKZKeF), [Soothing Buzz](https://open.spotify.com/artist/7c6K2xsxh9HtmnzpNb4NIx), [Stilly Night](https://open.spotify.com/artist/6QIztxy4eQlPJxZGq0YS0z) | [Tranquilizar el Ser](https://open.spotify.com/album/6ZhrQdoRXpHnIapIxFfh5O) | 2:07 | 2024-03-06 | 2024-05-21 |
 | [Transcendent \(Ambient\)](https://open.spotify.com/track/1Vy4HAb0RScGjasnr0KOJ8) | [Valentinah Garcia](https://open.spotify.com/artist/2H7P5YeImYP9Z6RdOSPyQN) | [Transcendent](https://open.spotify.com/album/0Ic6OFgw0fuyvTcdW2Hgcd) | 2:13 | 2023-11-15 |  |
 | [Transmute](https://open.spotify.com/track/6aUqIwsjJuIfgkltHN23lJ) | [Nahla Cline](https://open.spotify.com/artist/5Q5kLyyxBItFbzCvwWkla1) | [Transmute](https://open.spotify.com/album/6DlNcY8tGlAycwR6dayZTK) | 2:48 | 2024-01-17 |  |
-| [True Calm Trees](https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Into The Beyond](https://open.spotify.com/album/7J76ftvW2bI69RTAJdSt74) | 3:09 | 2023-11-15 |  |
+| [True Calm Trees](https://open.spotify.com/track/76HJiGoSk8VHXxfrAkyErG) | [Sleep Cyclone](https://open.spotify.com/artist/1J7K4Jr0deYSXtXoUtyp1D) | [Into The Beyond](https://open.spotify.com/album/7J76ftvW2bI69RTAJdSt74) | 3:09 | 2023-11-15 | 2024-05-22 |
 | [Twinkle](https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of) | [Månvarv](https://open.spotify.com/artist/3npr0emNGSWh2iyRvzEiRI) | [Twinkle](https://open.spotify.com/album/2RpPkM7oYQ2Zt0TEW7Hs1W) | 2:33 | 2024-01-17 |  |
 | [Ultraviolet Dream](https://open.spotify.com/track/2RvWqqueP3Qfwqn0s3dWCI) | [Pax Magnolia](https://open.spotify.com/artist/1rTNvNMPdbMrZwTzvu1e7U) | [Ultraviolet Dream](https://open.spotify.com/album/3KXRBPQAbUeBveuZ4yEWTo) | 2:45 | 2023-11-15 | 2024-05-07 |
 | [Unfolded](https://open.spotify.com/track/0dTDnqM4UuT1RMQE2l915Y) | [Aca Malvina](https://open.spotify.com/artist/7H3SyQlYDmgYpQlmkm0rsO) | [Unfolded](https://open.spotify.com/album/3iMTy9vlz8gkjb3ZfqURa1) | 2:40 | 2023-11-15 |  |

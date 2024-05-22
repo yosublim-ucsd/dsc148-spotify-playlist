@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgq0lsW8B2O.md) - [plain]
 
 > Music from the early days of Ambient.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,429 likes - 46 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,473 likes - 46 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

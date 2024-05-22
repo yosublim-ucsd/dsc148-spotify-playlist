@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,043 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,048 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 12 | [OKAY](https://open.spotify.com/track/0e1KTuawmiFLiK0Lh3nNtM) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [OKAY](https://open.spotify.com/album/7AmtY0qyLuqkGXYu7lOLjL) | 2:44 |
 | 13 | [rookie of the year](https://open.spotify.com/track/52efxkazJPLF9SeuUuuX0u) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 2:49 |
 | 14 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 |
-| 15 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 |
-| 16 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 15 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 |
+| 16 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 |
 | 17 | [1+1=11 \- Edit](https://open.spotify.com/track/2HMas4DrtQoPebT1VL52Dr) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 3:10 |
 | 18 | [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 |
 | 19 | [Don't Forget Me](https://open.spotify.com/track/5tlXwZ4m7dbRZyG4natJZ1) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Don't Forget Me](https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO) | 4:25 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
 | 32 | [Younger and Wiser](https://open.spotify.com/track/6p5dxf9lCU0nS4taYbrc3E) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Younger and Wiser](https://open.spotify.com/album/0IGeQTiKG3nfFihluikCOS) | 3:32 |
 | 33 | [Scary Love](https://open.spotify.com/track/1Q2npOPcXnQA8sYKV0fLy2) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Scary Love](https://open.spotify.com/album/3F9p267m68RpVbRhksOlhN) | 3:00 |
-| 34 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 |
-| 35 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 34 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 35 | [DO YOU LIKE ME?](https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [DO YOU LIKE ME?](https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS) | 2:57 |
 | 36 | [MISS U AGAIN](https://open.spotify.com/track/6AFESCtuUjE4vfi2OFKKn6) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [MISS U AGAIN](https://open.spotify.com/album/0b5hRsDSSnWPaw8ViQ1uJ4) | 2:57 |
 | 37 | [World on a String](https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8) | [Jessica Pratt](https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh) | [World on a String](https://open.spotify.com/album/39juqMzTGcRlRdBsGfSyFe) | 3:09 |
 | 38 | [GO GET YA MOTHA](https://open.spotify.com/track/6AHjMfDel9YzCTu1Lci5iq) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 3:03 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: ENHYPEN) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: MCND) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -4918,7 +4918,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-22",
       "duration_ms": 184117,
       "name": "JIKJIN",
       "url": "https://open.spotify.com/track/2bnJ8IxZnVc2YmUaX0sZap"
@@ -10284,6 +10284,24 @@
       "duration_ms": 193893,
       "name": "X.O.X",
       "url": "https://open.spotify.com/track/4TsXvv60e5N9uQpanWkFQ9"
+    },
+    {
+      "album": {
+        "name": "X10",
+        "url": "https://open.spotify.com/album/0lSgROy25yUfnZqrY9g4P4"
+      },
+      "artists": [
+        {
+          "name": "MCND",
+          "url": "https://open.spotify.com/artist/59dDRtMe8DILtibke8FWLK"
+        }
+      ],
+      "date_added": "2024-05-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176226,
+      "name": "X10",
+      "url": "https://open.spotify.com/track/4gqpNgLOarYEPrIRqjy5gZ"
     },
     {
       "album": {
