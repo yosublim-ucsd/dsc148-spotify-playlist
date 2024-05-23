@@ -388,7 +388,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2023-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 237488,
       "name": "El Plan - Cyma Remix",
       "url": "https://open.spotify.com/track/3DE5UpRmIHUtQFqvpqKAZg"
@@ -3842,6 +3842,10 @@
         {
           "name": "Monte",
           "url": "https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG"
+        },
+        {
+          "name": "Sim\u00f3n Mej\u00eda",
+          "url": "https://open.spotify.com/artist/5tsVE5RLYWuAhPL99Gzx4W"
         }
       ],
       "date_added": "2022-01-04",

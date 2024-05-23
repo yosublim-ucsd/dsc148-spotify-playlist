@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 
 > next gen pop Cover: Camila Cabello & Lil Nas X
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,309,101 likes - 101 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,309,051 likes - 101 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPCIWxzZwR1.md) - [plain]
 | 100 | [Try Again](https://open.spotify.com/track/2Jdo2UwlQMc0AySBT7T2EZ) | [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Try Again](https://open.spotify.com/album/7LikYERyfpoxZdjyezrJiN) | 3:31 |
 | 101 | [Two Hands](https://open.spotify.com/track/523F1pQJh1P4JKvbVOgDU7) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Two Hands](https://open.spotify.com/album/14ISDS5Xh5QsS8NZN6H20l) | 3:02 |
 
-Snapshot ID: `ZkbWQAAAAADqlBnjAgXKU6Jq+FtOSGzh`
+Snapshot ID: `Zk3QMAAAAABSOgAljRybMXgxffejb7SD`

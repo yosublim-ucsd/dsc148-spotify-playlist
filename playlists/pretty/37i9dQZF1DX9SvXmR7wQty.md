@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra, Louane
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,749 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,747 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 13 | [nouvelle vie](https://open.spotify.com/track/6P2fUld8s7GRxc6Egris2H) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [nouvelle vie](https://open.spotify.com/album/2SCDDp4qknjCUBufmbuEyg) | 2:37 |
 | 14 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 |
 | 15 | [ORIGINAL FINESSEUR](https://open.spotify.com/track/2rSKV180yMV8T4goCCFq8k) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc) | [ORIGINAL FINESSEUR](https://open.spotify.com/album/2t0i4ZzpYztDiDegowkufU) | 3:27 |
-| 16 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
+| 16 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 |
 | 17 | [Hey Sophia](https://open.spotify.com/track/46PQokbJBAJB7Nz2sAPNw6) | [Kinkead](https://open.spotify.com/artist/5Aly75fTVDrSY5TQMB4K1o) | [Hey Sophia](https://open.spotify.com/album/6l45hR6O8aeBETmpw1smw7) | 3:16 |
-| 18 | [Cannelloni](https://open.spotify.com/track/4AaG82i74FxJqk7J9oKS8P) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Cannelloni](https://open.spotify.com/album/4NZbikstasK82K7jq7YXgO) | 3:18 |
+| 18 | [Otra](https://open.spotify.com/track/0x9KqMgyO6SzBf4fLH9gsX) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Otra](https://open.spotify.com/album/7CDNVS0VbByb886MZVPeuF) | 2:14 |
 | 19 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 |
 | 20 | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/track/45Vsjd89poscQkXodaMc0v) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Nothing Personal \- A COLORS SHOW](https://open.spotify.com/album/4DbG96qdPpW4hCvOUU5Vny) | 2:58 |
 | 21 | [On y va](https://open.spotify.com/track/4Q8b4DRrRRpxRSurGIEo7g) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [On y va](https://open.spotify.com/album/1ovpt5YRiwmrx0rmRuKikm) | 2:35 |
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 25 | [C'est toi](https://open.spotify.com/track/2g3Fic14Z4VhYGtuINPXDW) | [Rita Baga](https://open.spotify.com/artist/0QigUNRqSbo5kTwdH93bHH) | [C'est toi](https://open.spotify.com/album/5KvPHrEw9Pg9GbVFaf7ReA) | 2:26 |
 | 26 | [Galbi](https://open.spotify.com/track/2VgjGB1MMpkCTVVwKMSBjB) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [Galbi](https://open.spotify.com/album/0Uad3EVytXLqLknoA7xVQ1) | 2:23 |
 | 27 | [Huby boy](https://open.spotify.com/track/58eJn1Lxb9kC6d91luXcVg) | [Alex Pic](https://open.spotify.com/artist/5nnFfYhJHiCcO3BznCYBnQ) | [Huby boy](https://open.spotify.com/album/2gn6F4Tkz6Z9an3zG7d1eN) | 2:17 |
-| 28 | [RSQ3](https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [RSQ3](https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq) | 2:18 |
+| 28 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
 | 29 | [VANESSA'S FIRST RAVE](https://open.spotify.com/track/3SiubxzJUUQP75qS2VGENV) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [VANESSA'S FIRST RAVE](https://open.spotify.com/album/4rIsAp0i4ogiKtPsrN8vE9) | 2:46 |
-| 30 | [Colisée \(feat\. SDM\)](https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Colisée \(feat\. SDM\)](https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE) | 2:48 |
+| 30 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 |
 | 31 | [Dalí](https://open.spotify.com/track/6Tf9XtivRsQaNmT78p3jHM) | [Naomi](https://open.spotify.com/artist/7kCkigPAOvUemaGziItnCo) | [Dalí](https://open.spotify.com/album/1yEluoqj12CZmTplcnB8EW) | 2:42 |
-| 32 | [Nous on sait](https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Nous on sait](https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx) | 3:02 |
+| 32 | [RSQ3](https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [RSQ3](https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq) | 2:18 |
 | 33 | [Le monde est fou](https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa) | [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Le monde est fou](https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6) | 4:04 |
 | 34 | [Adieu](https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN) | [Jérémy Frerot](https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK) | [Adieu](https://open.spotify.com/album/4Fdd91nXf2m2ZiOPVS18Zl) | 3:04 |
 | 35 | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/track/7zxEFmvPTSEPpkSY6FL264) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [n'as\-tu jamais vu d'oiseaux](https://open.spotify.com/album/1Uuhiqy8PR0lSu5Yp3z2fK) | 2:17 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 43 | [No makeup](https://open.spotify.com/track/1jLP4Lc2B5tuPoToGnVBPN) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [L'école des Stars](https://open.spotify.com/album/2irfNof1Ax0ib0KeLtnTvv) | 3:11 |
 | 44 | [Océane](https://open.spotify.com/track/2nEOK9TCxjqg76uZ0FOpjH) | [BU$HI](https://open.spotify.com/artist/2GIoAorOnT0Yp1jKyTzW7K), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Bushi Tape 3](https://open.spotify.com/album/2q69Frs1buRGe6sCAoeDlf) | 3:04 |
 | 45 | [Matata](https://open.spotify.com/track/2r8eknpCO79WImm5i9Aaiz) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Matata](https://open.spotify.com/album/6loazP7tFix6vicTNHi2Qs) | 3:26 |
-| 46 | [ENCORE \(feat\. Rsko\)](https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:43 |
-| 47 | [JOE PESCI](https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Inso Le Véritable](https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6) | [JOE PESCI](https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ) | 3:19 |
-| 48 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 |
+| 46 | [Facile à danser](https://open.spotify.com/track/2LCUvL8ZJ49z6uP1cGXSFi) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Facile à danser](https://open.spotify.com/album/1LXf0FJdk7greyhOvUBDBf) | 3:13 |
+| 47 | [ENCORE \(feat\. Rsko\)](https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:43 |
+| 48 | [JOE PESCI](https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Inso Le Véritable](https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6) | [JOE PESCI](https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ) | 3:19 |
 | 49 | [SHE LIT](https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6) | [J9ueve](https://open.spotify.com/artist/4fj5OWrMmlCbrc3PocAcl1), [Green Montana](https://open.spotify.com/artist/0zhMujl1yB8pkB023Qm4Y2) | [SHE LIT](https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B) | 2:17 |
 | 50 | [45](https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 3\)](https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan) | 2:54 |
 

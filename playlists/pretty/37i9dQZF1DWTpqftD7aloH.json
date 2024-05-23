@@ -1,6 +1,6 @@
 {
   "description": "No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo. ",
-  "num_followers": 351931,
+  "num_followers": 352068,
   "original_name": "Louvando no Tr\u00e2nsito",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZisjHQAAAAA1eKNmwMmmoBEtpY+b0G9T",
   "tracks": [
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Me Atraiu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 503635,
+      "name": "Me Atraiu - Ao Vivo",
+      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
+    },
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 213420,
       "name": "Cuido dos Detalhes",
       "url": "https://open.spotify.com/track/1otGRpxjSNjSg5lmjaviNB"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Me Atraiu (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4TwCz7XycpT1wxXsQ1Vq9U"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 503635,
-      "name": "Me Atraiu - Ao Vivo",
-      "url": "https://open.spotify.com/track/51uirMnJ9sO1sxqrTqy1fP"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "De Dentro Pra Fora",
-        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 307213,
-      "name": "De Dentro Pra Fora",
-      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "C\u00e9u",
         "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 422333,
       "name": "Lugar Secreto",
       "url": "https://open.spotify.com/track/7Dp0unlUzhQtk60rVq5mMC"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "De Dentro Pra Fora",
+        "url": "https://open.spotify.com/album/6zHmlmkq4W4DFuyXitpgLI"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 307213,
+      "name": "De Dentro Pra Fora",
+      "url": "https://open.spotify.com/track/56tz4dLbydeQGTcWs7nMHa"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Algo Novo (feat. Lukas Agustinho) [Ao Vivo]",
         "url": "https://open.spotify.com/album/6NnwfOWxraoq915Cj4fQIh"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 408132,
       "name": "Algo Novo (feat. Lukas Agustinho) - Ao Vivo",
       "url": "https://open.spotify.com/track/2fvwEBdCFhFD7IO3IX3bIw"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -375,6 +375,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 297726,
+      "name": "Raridade",
+      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us (Ao Vivo)",
         "url": "https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 454133,
       "name": "Ruja o Le\u00e3o / Que Se Abram Os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 297726,
-      "name": "Raridade",
-      "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Raridade",
-        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
-      },
-      "artists": [
-        {
-          "name": "Anderson Freire",
-          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
-        }
-      ],
-      "duration_ms": 261178,
-      "name": "Acalma o Meu Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
         "name": "Caminho no Deserto",
         "url": "https://open.spotify.com/album/53ExbRaSYoHhR5ZAvD2U62"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 224725,
       "name": "Girassol",
       "url": "https://open.spotify.com/track/22rcaYTa2UgcLCbeO0NoNj"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
+        "name": "Raridade",
+        "url": "https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc"
+      },
+      "artists": [
+        {
+          "name": "Anderson Freire",
+          "url": "https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B"
+        }
+      ],
+      "duration_ms": 261178,
+      "name": "Acalma o Meu Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
+        "name": "Quem \u00e9 Como Nosso Deus?",
+        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 489116,
+      "name": "Quem \u00e9 Como Nosso Deus?",
+      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": "2024-04-26 03:44:28",
+      "album": {
         "name": "Deus de Milagres (Ao Vivo)",
         "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
       },
@@ -1631,18 +1647,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Quem \u00e9 Como Nosso Deus?",
-        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+        "name": "Com Muito Louvor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        },
+        {
+          "name": "Gabriel Guedes de Almeida",
+          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
         }
       ],
-      "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus?",
-      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+      "duration_ms": 386420,
+      "name": "Com Muito Louvor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1667,22 +1687,26 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "Com Muito Louvor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4UjtxiZX4FA79cyDpad6rH"
+        "name": "Flutuar",
+        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
       },
       "artists": [
         {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
         },
         {
-          "name": "Gabriel Guedes de Almeida",
-          "url": "https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB"
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        },
+        {
+          "name": "Pedro Valen\u00e7a",
+          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
         }
       ],
-      "duration_ms": 386420,
-      "name": "Com Muito Louvor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6GCNJ1sqdNvtIzOwJj9Gun"
+      "duration_ms": 214191,
+      "name": "Flutuar",
+      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -1755,30 +1779,6 @@
       "duration_ms": 332906,
       "name": "Faz Chover - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1KgGFjOWKzSwiCVYBVVojm"
-    },
-    {
-      "added_at": "2024-04-26 03:44:28",
-      "album": {
-        "name": "Flutuar",
-        "url": "https://open.spotify.com/album/36cNFxnu0eMMivWsIu3vKX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC"
-        },
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        },
-        {
-          "name": "Pedro Valen\u00e7a",
-          "url": "https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7"
-        }
-      ],
-      "duration_ms": 214191,
-      "name": "Flutuar",
-      "url": "https://open.spotify.com/track/7FmATHDqlXHREmimjJUIWj"
     },
     {
       "added_at": "2024-04-26 03:44:28",
@@ -2183,22 +2183,22 @@
     {
       "added_at": "2024-04-26 03:44:28",
       "album": {
-        "name": "N\u00f3s Iremos Ver (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0WPz6DaXqGzr9sJ96LMMcB"
+        "name": "Grato Sou",
+        "url": "https://open.spotify.com/album/3liy8YW701jQR0tCWZIjwC"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Wellington",
-          "url": "https://open.spotify.com/artist/2egKsN5dCWCpAp9He9BLUt"
+          "name": "Israel Soares",
+          "url": "https://open.spotify.com/artist/0qK2qFPXIi5KKpOVQSFfA5"
         },
         {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+          "name": "Bob Jonathan",
+          "url": "https://open.spotify.com/artist/1YzJ5MfR1MifWecgW9KG5s"
         }
       ],
-      "duration_ms": 403333,
-      "name": "N\u00f3s Iremos Ver - Ao Vivo",
-      "url": "https://open.spotify.com/track/433p0PyAjtsFf4Gpehvp6E"
+      "duration_ms": 266432,
+      "name": "Grato Sou",
+      "url": "https://open.spotify.com/track/66Z9NK2ydHCRf8nzVTkdiE"
     }
   ],
   "unique_name": "Louvando no Tr\u00e2nsito",

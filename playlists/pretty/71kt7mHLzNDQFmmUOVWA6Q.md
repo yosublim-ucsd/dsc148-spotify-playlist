@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 
 ### [VALORANT \- Music of Masters Madrid](https://open.spotify.com/playlist/71kt7mHLzNDQFmmUOVWA6Q)
 
-> The OFFICIAL Playlist for the Valorant Champions Tour!
+> Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
-[John Lock](https://open.spotify.com/user/12178106667) - 8,372 likes - 63 songs - 3 hr 17 min
+[John Lock](https://open.spotify.com/user/12178106667) - 8,370 likes - 63 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/71kt7mHLzNDQFmmUOVWA6Q.md) - [plain]
 | 62 | [Llamarada](https://open.spotify.com/track/00kTse9Yp8CYSAKWlRIyuT) | [Macha Kiddo](https://open.spotify.com/artist/5sMMzzTjQpX6z7gKVOVlIv), [El Licenciado](https://open.spotify.com/artist/6OJ2DXPdpVl88gYuQkqzxY) | [Mala Crianza](https://open.spotify.com/album/2szxWyRwu1MyzrRaJsDehS) | 2:39 |
 | 63 | [Like This](https://open.spotify.com/track/2bA4qBF3S30cH0SS5imQQh) | [MAGNUS](https://open.spotify.com/artist/1lyii7pljE9uBeNXlZrSKP) | [Like This](https://open.spotify.com/album/2VBSrjDaZDrA0HaKd00jsw) | 2:44 |
 
-Snapshot ID: `AAAAr2llKiVVFrpJqhzc/nPRW4yTYJsp`
+Snapshot ID: `AAAAsFeg3hH4yvNmybxw9/2mTpTfJo08`

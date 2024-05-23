@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2Af5aejlBF2UrIn1xmPWJ5">Filip Max</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,252 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,267 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Sam](https://open.spotify.com/track/2RV7LSjq6wWMIBQZCE5BDj) | [Natina](https://open.spotify.com/artist/06hXmcqapLjcKUwLhQBXOt) | [Sam](https://open.spotify.com/album/6m928vE3A4rfsNSBgFpFKt) | 2:13 |
 | 100 | [Jakby co](https://open.spotify.com/track/7AbqA3bPbI9FgsSXdY4US8) | [HLA4Transplant](https://open.spotify.com/artist/2BYcf5EUEXIsdhWUz1mqBG) | [Jakby co](https://open.spotify.com/album/5quIA757p71LD0Yh4klJhk) | 3:17 |
 
-Snapshot ID: `Zk0ZYAAAAABS+RY7KHQjOFVRpDtMYKnZ`
+Snapshot ID: `Zk3QMAAAAAA1sYUv0Qnu/mFAdCjMfih/`

@@ -6,8 +6,36 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAADsAdiTjJj8EdiTf6fx57M0dMKZLeD",
+  "snapshot_id": "AAADsiTPq3BGiHgdHf+nMTpwYoorqWJY",
   "tracks": [
+    {
+      "added_at": "2024-05-22 18:15:19",
+      "album": {
+        "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
+        "url": "https://open.spotify.com/album/1cmCebelS6vjNHb9dnPAbn"
+      },
+      "artists": [
+        {
+          "name": "Bru-C",
+          "url": "https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D"
+        },
+        {
+          "name": "MC Spyda",
+          "url": "https://open.spotify.com/artist/2b4CwhkY6rAscPhxXVxDJl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 234615,
+      "name": "Ten Toes (Feat. MC Spyda, General Levy & Eksman)",
+      "url": "https://open.spotify.com/track/6d7smhFOnBEVeaKAiYm8PK"
+    },
     {
       "added_at": "2024-05-12 05:01:22",
       "album": {

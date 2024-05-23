@@ -2,7 +2,7 @@
 
 ### [This Is KB](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4djsfT)
 
-> This is KB แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is KB\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 23 min
 

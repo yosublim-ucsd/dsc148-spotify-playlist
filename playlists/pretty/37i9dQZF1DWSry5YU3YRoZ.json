@@ -795,6 +795,22 @@
     {
       "added_at": "2024-03-08 06:42:30",
       "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/66jcalDfukwwC85IUvWwvZ"
+      },
+      "artists": [
+        {
+          "name": "Slowcity",
+          "url": "https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif"
+        }
+      ],
+      "duration_ms": 231482,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/1uf2hC3k0lHokAuwdUAIEZ"
+    },
+    {
+      "added_at": "2024-03-08 06:42:30",
+      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 207998,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg"
-    },
-    {
-      "added_at": "2024-03-08 06:42:30",
-      "album": {
-        "name": "\ub0a8\ud574",
-        "url": "https://open.spotify.com/album/4aKXwlN0w1K7Vr1TiPwN1G"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Sparkling Sunshine",
-      "url": "https://open.spotify.com/track/6DHFVQmd2y2yQVfKGMo03g"
     }
   ],
   "unique_name": "zZZ \uc798\uc790\uc694",

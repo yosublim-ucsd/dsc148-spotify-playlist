@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Costa Rica.
 
-2,212 songs - 5 day 2 hr 38 min
+2,213 songs - 5 day 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,7 +1053,7 @@
 | [Let Her Go](https://open.spotify.com/track/7DFNE7NO0raLIUbgzY2rzm) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [All The Little Lights](https://open.spotify.com/album/2mylGx7w2Q3yhUyN8iEWOF) | 4:12 | 2022-05-22 | 2022-06-01 |
 | [Let Her Go \(feat\. Ed Sheeran\) \- Anniversary Edition](https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [All The Little Lights \(Anniversary Edition\)](https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR) | 4:16 | 2023-11-28 | 2023-12-04 |
 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 | 2022-03-20 | 2022-03-28 |
-| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-05-02 |  |
+| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-05-02 | 2024-05-23 |
 | [Levanto Mi Bandera](https://open.spotify.com/track/4pTYLDFDh9PkAyhdNu4jMs) | [La Liga \- LDA](https://open.spotify.com/artist/5WIdtUJe33eFpPU47tgVuf) | [Levanto Mi Bandera](https://open.spotify.com/album/4adHxAkhmSAiYAz1EsgSpW) | 3:11 | 2022-07-04 | 2022-07-09 |
 | [Lift Me Up](https://open.spotify.com/track/6sCvvleqKbeyOkQDieBYgp) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5) | 3:16 | 2022-11-22 | 2022-11-26 |
 | [Liga Campeón](https://open.spotify.com/track/3WoBzDNeDr3PLAr4eovuVD) | [La Liga \- LDA](https://open.spotify.com/artist/5WIdtUJe33eFpPU47tgVuf) | [Liga Campeón](https://open.spotify.com/album/15fAGxPcvsOGtbGbMZ63IJ) | 1:57 | 2022-06-24 | 2023-06-06 |
@@ -1596,6 +1596,7 @@
 | [QUIENES SON](https://open.spotify.com/track/528T2xvgLJ1T8TWYX7blBy) | [CDobleta](https://open.spotify.com/artist/2KtMll7bpqySnZhr8wriRE) | [QUIENES SON](https://open.spotify.com/album/29oehbbF6k3rgM5BD9D3jW) | 2:43 | 2023-07-25 | 2024-01-31 |
 | [Quiere Que Llame](https://open.spotify.com/track/22MC8VbKP6Qedbar74WkzU) | [Feloman](https://open.spotify.com/artist/28VWxxfmtShKO6W1qYvnw8), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Quiere Que Llame](https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU) | 3:09 | 2022-11-26 | 2023-01-14 |
 | [QUIZÁS SI QUIZÁS NO](https://open.spotify.com/track/3WQhuJnlOTV9RiDZx2tDFF) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [QUIZÁS SI QUIZÁS NO](https://open.spotify.com/album/12yhzd8FI261UJ2UZDqMcw) | 3:23 | 2023-12-12 | 2023-12-20 |
+| [QUIZÁS SI QUIZÁS NO](https://open.spotify.com/track/7zJu3gmfC46vRoCQ8MZSIY) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [SAYONARA](https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI) | 3:23 | 2024-05-22 |  |
 | [Qué Agonía](https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Pa' Luego Es Tarde](https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE) | 2:32 | 2022-11-15 | 2023-03-13 |
 | [Qué Haríamos Los Viernes](https://open.spotify.com/track/0xAYwmGGFwTCQbP5fTLW50) | [José Otero](https://open.spotify.com/artist/0WwKYgJb1raMJAiAtEbBKy), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Qué Haríamos Los Viernes](https://open.spotify.com/album/4e4s8RiuEH8Nyuvp5RJLD9) | 3:01 | 2022-07-01 | 2022-07-25 |
 | [qué le pasa conmigo?](https://open.spotify.com/track/0RD94y2DlYTzEePb4WuVbU) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [ALMA](https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc) | 2:47 | 2023-05-20 | 2023-05-24 |

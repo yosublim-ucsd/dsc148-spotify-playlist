@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Warren Zeiders, Luke Combs, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 266,367 likes - 79 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 266,605 likes - 79 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 78 | [Family Tree](https://open.spotify.com/track/25ocdHOB8d593YoUcaj52F) | [Ryan Kinder](https://open.spotify.com/artist/0GAapPTQR8KFJxrNZOKksy) | [Family Tree](https://open.spotify.com/album/0hhMkZcjThBU3xkt7FRxfJ) | 2:56 |
 | 79 | [Work on Loving You](https://open.spotify.com/track/44O6pjNEdAucVcPDKLNr88) | [Alex Mather](https://open.spotify.com/artist/5MtAaF6q3qHVfXfoUdBokw) | [Work on Loving You](https://open.spotify.com/album/0CBXw8Q2g2A8u8sg3VkuQV) | 3:10 |
 
-Snapshot ID: `ZkbWQAAAAAAoyDaCty1jJnA+/u4D1G2b`
+Snapshot ID: `Zk3QMAAAAAA0oWw7IvNATuEPYHiM4rQk`

@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 73495,
+  "num_followers": 73523,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "High Noon",
+        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
+      },
+      "artists": [
+        {
+          "name": "Don Ready",
+          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
+        }
+      ],
+      "duration_ms": 130679,
+      "name": "High Noon",
+      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "I Pray",
         "url": "https://open.spotify.com/album/2oXzrYopy6GG9TdIperrVC"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 212366,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/0izNEoXVrG6GtLneKnJmWU"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "High Noon",
-        "url": "https://open.spotify.com/album/2h5y0B45wGR7hJ69hO554J"
-      },
-      "artists": [
-        {
-          "name": "Don Ready",
-          "url": "https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl"
-        }
-      ],
-      "duration_ms": 130679,
-      "name": "High Noon",
-      "url": "https://open.spotify.com/track/34X5s4UGB6fhtQDNAhMpQD"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Keeper Of My Soul",
-        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
-      },
-      "artists": [
-        {
-          "name": "Earnest Pugh",
-          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
-        }
-      ],
-      "duration_ms": 228280,
-      "name": "Keeper Of My Soul",
-      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Back To Life (Studio Version)",
         "url": "https://open.spotify.com/album/5W8kmElAc1czjr3J4xCUtD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 153418,
       "name": "IF I RAN AWAY",
       "url": "https://open.spotify.com/track/6R4SU3BpbQMcyg3ZB6GTCd"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Keeper Of My Soul",
+        "url": "https://open.spotify.com/album/5DbtcUFqwk0ydSUKkXsPC1"
+      },
+      "artists": [
+        {
+          "name": "Earnest Pugh",
+          "url": "https://open.spotify.com/artist/3qJMkUIxNLC90m6BdgLEFt"
+        }
+      ],
+      "duration_ms": 228280,
+      "name": "Keeper Of My Soul",
+      "url": "https://open.spotify.com/track/3muK6ysybzQ7zRh1J07RAx"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -911,6 +911,26 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Werking",
+        "url": "https://open.spotify.com/album/7CobEccBZosg2VdmqIGHU3"
+      },
+      "artists": [
+        {
+          "name": "Me\u2019Kayla",
+          "url": "https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z"
+        },
+        {
+          "name": "churchppl",
+          "url": "https://open.spotify.com/artist/4vOnttEcKNxaPzOhvyrYQF"
+        }
+      ],
+      "duration_ms": 167573,
+      "name": "Werking",
+      "url": "https://open.spotify.com/track/1sLWPEWvudwEa4B5HEYdpF"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "We Can't Forget Him (Remix)",
         "url": "https://open.spotify.com/album/3msLOa4LRClARErfwRP2pv"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 236785,
       "name": "1000 Names",
       "url": "https://open.spotify.com/track/740a4rwTRLEUTRP0Z1iwVL"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Werking",
-        "url": "https://open.spotify.com/album/7CobEccBZosg2VdmqIGHU3"
-      },
-      "artists": [
-        {
-          "name": "Me\u2019Kayla",
-          "url": "https://open.spotify.com/artist/3AKhqrs0V0iRNBOjPKhi5z"
-        },
-        {
-          "name": "churchppl",
-          "url": "https://open.spotify.com/artist/4vOnttEcKNxaPzOhvyrYQF"
-        }
-      ],
-      "duration_ms": 167573,
-      "name": "Werking",
-      "url": "https://open.spotify.com/track/1sLWPEWvudwEa4B5HEYdpF"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "God Is In Control",
-        "url": "https://open.spotify.com/album/4C7meepdyNlG0wpTrtKVEv"
-      },
-      "artists": [
-        {
-          "name": "DOE",
-          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
-        }
-      ],
-      "duration_ms": 234296,
-      "name": "God Is In Control",
-      "url": "https://open.spotify.com/track/2Yd7rRnjUY83VkSLFaPL0k"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "God Is In Control",
+        "url": "https://open.spotify.com/album/4C7meepdyNlG0wpTrtKVEv"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "duration_ms": 234296,
+      "name": "God Is In Control",
+      "url": "https://open.spotify.com/track/2Yd7rRnjUY83VkSLFaPL0k"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "SURREAL",
-        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 174409,
-      "name": "SURREAL",
-      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb"
       },
@@ -1459,6 +1443,38 @@
       "duration_ms": 267374,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "SURREAL",
+        "url": "https://open.spotify.com/album/3gEUKNl13U2UbK5kkpPEkf"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 174409,
+      "name": "SURREAL",
+      "url": "https://open.spotify.com/track/2aWCddpZS2rHZyXlqpHt4H"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f"
+      },
+      "artists": [
+        {
+          "name": "Angeloh",
+          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
+        }
+      ],
+      "duration_ms": 196859,
+      "name": "365",
+      "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1499,22 +1515,6 @@
       "duration_ms": 178360,
       "name": "God Of My Dreams",
       "url": "https://open.spotify.com/track/0iCoAvCGdcS8il7ZcGvCop"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/6Yj082yvPaZh6Zut0es12f"
-      },
-      "artists": [
-        {
-          "name": "Angeloh",
-          "url": "https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg"
-        }
-      ],
-      "duration_ms": 196859,
-      "name": "365",
-      "url": "https://open.spotify.com/track/6jXGfwxPCXDzKa4JS9ySR1"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Closer Than You Think",
-        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Traylor",
-          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
-        }
-      ],
-      "duration_ms": 156384,
-      "name": "I'm Good",
-      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "The Village Is On Fire",
         "url": "https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 191808,
       "name": "Amplify",
       "url": "https://open.spotify.com/track/7JCUFszcuSHwvcj2ZjQ0T9"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Closer Than You Think",
+        "url": "https://open.spotify.com/album/3ZPJpdPrrLgi4rxoXSYLKP"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Traylor",
+          "url": "https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo"
+        }
+      ],
+      "duration_ms": 156384,
+      "name": "I'm Good",
+      "url": "https://open.spotify.com/track/6AKnOJ94EuWu0DJnvMt6xU"
     },
     {
       "added_at": "2024-03-20 10:43:05",

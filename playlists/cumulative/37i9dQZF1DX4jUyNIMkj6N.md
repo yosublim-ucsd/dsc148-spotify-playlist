@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-285 songs - 17 hr 31 min
+286 songs - 17 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Darkest Night](https://open.spotify.com/track/0WjjBxrfnjtW8c2WSHZDJF) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Darkest Night](https://open.spotify.com/album/38Zutwd997e5hLl2565HfV) | 2:45 | 2023-10-05 | 2023-12-30 |
 | [Dead Of The Night](https://open.spotify.com/track/5uwd5yUWXV4AtPCBIdz0WB) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Dead Of The Night](https://open.spotify.com/album/5cyHGjBQvgZv3zHK2Q1y71) | 10:07 | 2021-12-02 | 2022-07-29 |
 | [Demo of a One Night Stand \- Live](https://open.spotify.com/track/1RE5F9AkTYPQzcglYbd5K2) | [Malin Pettersen](https://open.spotify.com/artist/3kVhFap6wa2EN5yrMZIupm) | [Acoustic Session – Live in Oslo](https://open.spotify.com/album/0tBtWCAAGMGs7aV3NjRrOS) | 2:43 | 2022-05-26 | 2022-07-28 |
-| [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 | 2024-03-07 |  |
+| [Departure](https://open.spotify.com/track/60jiLoF3SXocwFp0yTa9eZ) | [Rasmus Fynbo](https://open.spotify.com/artist/3gPzywCcsWpiH9alPFXPaZ), [Camila Castellani](https://open.spotify.com/artist/5jjt3rudOSHIajX5YEnAGv) | [Departure](https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx) | 3:42 | 2024-03-07 | 2024-05-23 |
 | [Desert](https://open.spotify.com/track/1aFqPWyt9BoSgIfMIuGb8P) | [Ask Carol](https://open.spotify.com/artist/4KrnntHJnsol4gWJEnCDKR) | [Desert](https://open.spotify.com/album/12NvD133MaNuRg7tsC0RNf) | 5:31 | 2024-03-07 |  |
 | [Don't Belong](https://open.spotify.com/track/2rAsSCMSh2KqZSrzPeNuCe) | [Silver Lining](https://open.spotify.com/artist/2fpiIE5NAH8HpcYthaxm97) | [I'll Be Waiting For You \(In the Grey\)](https://open.spotify.com/album/6lTDlqYzdZHPZfjoOBtS0f) | 2:44 | 2021-12-02 | 2022-06-03 |
 | [Don't Waste Our Time](https://open.spotify.com/track/5Htz8oOxwK7GrggPuUQtCk) | [Maria Toresen](https://open.spotify.com/artist/2wzYrzIHrbBH2B8DVCa8sh) | [Don't Waste Our Time](https://open.spotify.com/album/77cCfoG0wBrss1KBjReemN) | 3:51 | 2021-12-02 | 2022-06-24 |
@@ -186,6 +186,7 @@
 | [Old Man](https://open.spotify.com/track/7KyWGpLukZ6Nur6kup0386) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Old Man](https://open.spotify.com/album/26csqloo1s3vGsaSeJyNer) | 3:33 | 2022-12-01 | 2023-01-05 |
 | [One Day at a Time](https://open.spotify.com/track/32QJXzwGjE3ok7NVcgz9yq) | [Benedikt](https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y) | [One Day at a Time](https://open.spotify.com/album/5X4jirryDmU1Jg0MgTqP8c) | 2:32 | 2022-11-17 | 2023-05-01 |
 | [Only Stupid Kids Get Bored](https://open.spotify.com/track/3oVd52XTxdQvg46Z25DHqc) | [The Northern Belle](https://open.spotify.com/artist/3SSBBFq7ACVCk7vapfDqIS), [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [The Women in Me](https://open.spotify.com/album/6iixNCrjwoAe2MfDuONaLu) | 4:50 | 2021-12-02 | 2022-07-29 |
+| [Our Friends Don't Think I Deserve You](https://open.spotify.com/track/62fSokXCylmrzxySNTPjrq) | [Nora Legrand](https://open.spotify.com/artist/7G7qvIAfp8DKYAlQH8XH3N) | [Our Friends Don't Think I Deserve You](https://open.spotify.com/album/2LkbmuEzm415toSaCaBzmC) | 2:18 | 2024-05-16 |  |
 | [Out in the Backyard](https://open.spotify.com/track/5SEdPtbU8mBVtLYbTFjbJ3) | [Konradsen](https://open.spotify.com/artist/59CWeBMEzwj6U2HhTVLJ3O) | [Out in the Backyard](https://open.spotify.com/album/5agiqfFKIiceHwD2E44Zdr) | 3:40 | 2023-11-23 | 2023-12-23 |
 | [Pixie's Parasol](https://open.spotify.com/track/00Gbi2ytn6ZmA1ObVcPT93) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/4giKFINYxPLvnV0fBsv4Vw) | 3:02 | 2021-12-02 |  |
 | [Poor Symmetry](https://open.spotify.com/track/4FAiqzB4VQSckzurMJ5wSX) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Poor Symmetry / Cities](https://open.spotify.com/album/624PNGP795hhIwigo5ixXg) | 2:01 | 2024-04-11 |  |

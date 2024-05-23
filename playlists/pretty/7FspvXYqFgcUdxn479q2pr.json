@@ -1,12 +1,12 @@
 {
   "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  COVER: JEV",
-  "num_followers": 32505,
+  "num_followers": 32504,
   "original_name": "New Dance Music Friday",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqgiEpu30Q2j+746P0Ck/kL7s3y+p8",
+  "snapshot_id": "AAAqgwSYmcuaju0MZW8favLIqlPaJJrU",
   "tracks": [
     {
       "added_at": "2024-05-16 23:35:50",
@@ -275,6 +275,30 @@
       "duration_ms": 161803,
       "name": "Sad Love (feat. JAIKO)",
       "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
+    },
+    {
+      "added_at": "2024-05-22 16:31:47",
+      "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        }
+      ],
+      "duration_ms": 163572,
+      "name": "June",
+      "url": "https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5"
     }
   ],
   "unique_name": "New Dance Music Friday",

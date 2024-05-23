@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > SOM EN NORRLÄNDSK SAMURAI MED ETTAN LÖS OCH PEPPARSPRAJ!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,044 likes - 99 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,105 likes - 99 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sörbäckenkartellen](https://open.spotify.com/track/6Z9wEtCQtq0XSUAUL80lyJ) | [Bröderna Öhman](https://open.spotify.com/artist/5lLSZvy7jLYACia430zl4C) | [Sörbäckenkartellen](https://open.spotify.com/album/6zAukiIRVPHgYhoM7rCOAT) | 3:28 |
-| 2 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8), [Mannschaft](https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
+| 2 | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/track/7BPcWZDSRLdMbOybXlspcC) | [Søte og Rare Gutter](https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8) | [Bærum Bitches \(Mannschaft\)](https://open.spotify.com/album/04FzRblfFwLUm81HJEYCAo) | 2:26 |
 | 3 | [UNGA & FRIA REMIX](https://open.spotify.com/track/1ahb93Op9pGIoAmtjMvPdT) | [FRÖKEN SNUSK](https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt), [Ringnes\-Ronny](https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL) | [UNGA & FRIA REMIX](https://open.spotify.com/album/2qy2vrpRkn1AAFHSEguCaX) | 3:04 |
 | 4 | [KUNG FÖR EN DAG](https://open.spotify.com/track/4l8E2CbbDgAGVSikCL39s8) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [KUNG FÖR EN DAG](https://open.spotify.com/album/79ODSm622lS9XphYJfUtHX) | 2:27 |
 | 5 | [PRIPPS I LÅNGBURK](https://open.spotify.com/track/1iDImQzAyl6Nm5tlyTUJVT) | [vem e du](https://open.spotify.com/artist/2KBgumo8NAu59C5DwsTBUQ), [Banditerna](https://open.spotify.com/artist/2M0RKn1NTwiZsfqXuSaKpQ) | [PRIPPS I LÅNGBURK](https://open.spotify.com/album/1EXl5ML4D40WYVEGWjOCcX) | 1:35 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 98 | [Norrlands Guld](https://open.spotify.com/track/06ejLmwLBU7c6SzaQD1bk8) | [Smörebua](https://open.spotify.com/artist/3choMl26IyqK5yBJPwN2Qk) | [Norrlands Guld](https://open.spotify.com/album/6FRpL1yoCp2KMRFMctk7h1) | 2:04 |
 | 99 | [Under hökens vingar](https://open.spotify.com/track/4F750jMhwkiRInQVZ9WwvD) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [Under hökens vingar](https://open.spotify.com/album/2P8Kj5fwKf9OXjmhZ9S1bV) | 2:09 |
 
-Snapshot ID: `ZkaB4AAAAADX/gM6jP5a3hF7OIBvKAPM`
+Snapshot ID: `Zk3QMAAAAAAQCfl6W08LKEC9F8hEdsUC`

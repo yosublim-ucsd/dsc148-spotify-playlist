@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=KSw0R\-1dRNmhVaqTzh\-ZxA">Tito M</a>, <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=FUQtT2lMSDKowOkSCw5fQQ">Burna Boy</a>, <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=oM6IBWHoQLylpGQBv\-IJIA">Yuppe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,077 likes - 66 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,118 likes - 66 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

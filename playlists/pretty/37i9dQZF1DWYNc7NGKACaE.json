@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 80332,
+  "num_followers": 80362,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -451,30 +451,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
-      },
-      "artists": [
-        {
-          "name": "Gapes",
-          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
-        },
-        {
-          "name": "fallkee",
-          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
-        },
-        {
-          "name": "Dougb",
-          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
-        }
-      ],
-      "duration_ms": 120100,
-      "name": "Karma - Speed",
-      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
         "url": "https://open.spotify.com/album/4ZZFHTy6rCdrnbqCoEd0B7"
       },
@@ -495,6 +471,30 @@
       "duration_ms": 136615,
       "name": "TANTA COISA PRA ACONTECER DE NOVO, PRA MIM TANTO FAZ",
       "url": "https://open.spotify.com/track/43qgbgEvGQKI8PofVgFFbH"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6"
+      },
+      "artists": [
+        {
+          "name": "Gapes",
+          "url": "https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu"
+        },
+        {
+          "name": "fallkee",
+          "url": "https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o"
+        },
+        {
+          "name": "Dougb",
+          "url": "https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh"
+        }
+      ],
+      "duration_ms": 120100,
+      "name": "Karma - Speed",
+      "url": "https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4"
     },
     {
       "added_at": "2023-12-27 14:18:14",

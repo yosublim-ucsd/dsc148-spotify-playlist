@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Heuss L'enfoiré x Werenoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,081,566 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,081,634 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Ma beauté](https://open.spotify.com/track/56ybIzUpbqWYdyzvcEggxo) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Ma beauté](https://open.spotify.com/album/5JtUYSVQrWBBbGobCt1lUb) | 2:59 |
 | 40 | [Noche](https://open.spotify.com/track/2OFjQrosVRVFY2nVxrFvBG) | [Gros Mo](https://open.spotify.com/artist/7r65N4pfWPM7D0zKe86jgk) | [LES DIÈSES 2](https://open.spotify.com/album/1MyXhXWrMODghP4Oa9p054) | 3:10 |
 
-Snapshot ID: `ZkaB4AAAAAAbX+t9Zg2srtSiipEFigwa`
+Snapshot ID: `Zk3QMAAAAAAG0F7+5NsvmNHf9P5m0nZ4`

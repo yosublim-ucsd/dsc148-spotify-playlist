@@ -1,15 +1,15 @@
 {
   "description": "Listen to <a href=\"spotify:artist:3ABaec4jjl95VqmG1iD4k2\">Green Velvet</a>'s favorite tracks. Updated regularly. More track IDs <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 60362,
+  "num_followers": 60385,
   "original_name": "Green Velvet's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZhWjXwAAAAAyUJNpY4nidC76sft0rC2+",
+  "snapshot_id": "Zk4cfgAAAAA0kxjxq7z2zMPR3C/Kg5Rm",
   "tracks": [
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "PATT (Party All The Time) [Adam Beyer, Layton Giordani & Green Velvet Remix]",
         "url": "https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J"
@@ -37,7 +37,7 @@
       "url": "https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "All We Need (Deep Inside)",
         "url": "https://open.spotify.com/album/18DfikKMks3PcTBfNIhBr9"
@@ -53,27 +53,119 @@
       "url": "https://open.spotify.com/track/4QH1B0fYwxCmFkY8bxhocr"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
-        "name": "Knockin' Boots",
-        "url": "https://open.spotify.com/album/3HHQ6BlkOPh12w9y0v8Lup"
+        "name": "Preach (feat. Ron Carroll)",
+        "url": "https://open.spotify.com/album/0qEumhqsy2Q2W57kMcGItu"
+      },
+      "artists": [
+        {
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
+        },
+        {
+          "name": "Ron Carroll",
+          "url": "https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r"
+        }
+      ],
+      "duration_ms": 245861,
+      "name": "Preach (feat. Ron Carroll)",
+      "url": "https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Sprungboard",
+        "url": "https://open.spotify.com/album/6Wutl7K9lVjDVHYfBaT3KM"
       },
       "artists": [
         {
           "name": "Julio Bashmore",
           "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
-        },
-        {
-          "name": "J\u2019Danna",
-          "url": "https://open.spotify.com/artist/26cxbdcg0dljeZYweE6bR4"
         }
       ],
-      "duration_ms": 323226,
-      "name": "Rhythm of Auld (feat. J'Danna)",
-      "url": "https://open.spotify.com/track/4nmvi7lxDfJPT6qA6kdx0Q"
+      "duration_ms": 204878,
+      "name": "Sprungboard",
+      "url": "https://open.spotify.com/track/734tGYxSWui9uJ2SMlN1B1"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Pliva (HoneyLuv Remix)",
+        "url": "https://open.spotify.com/album/0wY9NtHyoVuPGeOIXWjomb"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "HoneyLuv",
+          "url": "https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Pliva - HoneyLuv Remix",
+      "url": "https://open.spotify.com/track/4Q3lU2oJfu1fWGMx1h5mRP"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Hunter EP",
+        "url": "https://open.spotify.com/album/3kfLPaZYzbJibbfk60DNLt"
+      },
+      "artists": [
+        {
+          "name": "Pedroz",
+          "url": "https://open.spotify.com/artist/0pvhlBRoxPlAsW02LwKp3p"
+        },
+        {
+          "name": "Abbud",
+          "url": "https://open.spotify.com/artist/1sOPD3DNHl88H7fyKONfcg"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Effie",
+      "url": "https://open.spotify.com/track/2jPEH8bLyUuO1OmKngVRMi"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Lost & Found, Vol. 3",
+        "url": "https://open.spotify.com/album/29jmcQc8RpuAYtaoeCUNAs"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "duration_ms": 428711,
+      "name": "The Bassline - Kerri's Dark Mix",
+      "url": "https://open.spotify.com/track/7KZZpTIq0gka1PtGbpaRJV"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Alright",
+        "url": "https://open.spotify.com/album/74s3XKCq44zTxEJptMBjpY"
+      },
+      "artists": [
+        {
+          "name": "Groove P",
+          "url": "https://open.spotify.com/artist/1QR0qBs45isMMz5qHTMcV9"
+        }
+      ],
+      "duration_ms": 251963,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/4R2eX1eShJVmVkFYuo9XqF"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Gimme That Beat",
         "url": "https://open.spotify.com/album/3B1pBUfIsNpSBcMsdHWF2q"
@@ -89,7 +181,63 @@
       "url": "https://open.spotify.com/track/0C5spyWMFHCc0EzlHxC6Ug"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "The Drill",
+        "url": "https://open.spotify.com/album/7vnEp4Tb1J1c8fXZLN13QZ"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "The Drill",
+      "url": "https://open.spotify.com/track/0Y6P6oy3EqBPEbox8BZAW8"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Get Together",
+        "url": "https://open.spotify.com/album/2IdxYhFs8hSesG1bOphXvC"
+      },
+      "artists": [
+        {
+          "name": "Raxon",
+          "url": "https://open.spotify.com/artist/6gp9WP1OleU89x2gF9w2ID"
+        }
+      ],
+      "duration_ms": 348134,
+      "name": "Get Together",
+      "url": "https://open.spotify.com/track/2NwnlFNM8QWTHKvMxHPoRw"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Quantize Miami Sampler 2024",
+        "url": "https://open.spotify.com/album/5YodgWVmIWkmbRzWHnyx7R"
+      },
+      "artists": [
+        {
+          "name": "Ann Nesby",
+          "url": "https://open.spotify.com/artist/6hIILipyNOmswy0IdWHx7b"
+        },
+        {
+          "name": "DJ Spen",
+          "url": "https://open.spotify.com/artist/4kr94nr7SzBRas5Cb3krFZ"
+        },
+        {
+          "name": "Paul Adam",
+          "url": "https://open.spotify.com/artist/3iGb7UzZCk28lAo1ZpQyBV"
+        }
+      ],
+      "duration_ms": 368640,
+      "name": "I Feel - Paul Adam Remix",
+      "url": "https://open.spotify.com/track/0XguTwiMPsiy6J2U8afy1n"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Weak (Marco Lys Remix)",
         "url": "https://open.spotify.com/album/2Fv2EOiuICLlDDjpzvxM4n"
@@ -117,7 +265,7 @@
       "url": "https://open.spotify.com/track/08Iz2viTMqt57UbVwSQYmc"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "U Got Me",
         "url": "https://open.spotify.com/album/1XM4mIMDCHN8CIt6I1djBb"
@@ -133,7 +281,7 @@
       "url": "https://open.spotify.com/track/2FGxtHUsfE465RmOp0uM4g"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/2jkGU1Z7dvBWoKU3jJURm4"
@@ -149,7 +297,7 @@
       "url": "https://open.spotify.com/track/1gVDPdCghb3j9wX02yeydF"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Your Love (Seth Troxler Remix)",
         "url": "https://open.spotify.com/album/0H4XPs3byMfSvGTpGGoh15"
@@ -169,7 +317,71 @@
       "url": "https://open.spotify.com/track/1vY3452aVUKq59zjQqmNk7"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "No Haters",
+        "url": "https://open.spotify.com/album/1hu0GL5odUfEDDhLBYmMNn"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Renato Cohen",
+          "url": "https://open.spotify.com/artist/7C26wQyStqkNFW94iutvVD"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "No Haters",
+      "url": "https://open.spotify.com/track/7vjpdT9RmZ8w0hrUEwRzAT"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ"
+      },
+      "artists": [
+        {
+          "name": "Mochakk",
+          "url": "https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo"
+        }
+      ],
+      "duration_ms": 256406,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "LIFT ME UP",
+        "url": "https://open.spotify.com/album/4P4mMZqsPVTzwAxpdMrHVe"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Dajae",
+          "url": "https://open.spotify.com/artist/79Gg0tmzETfnVrOUjgXPeE"
+        }
+      ],
+      "duration_ms": 227463,
+      "name": "LIFT ME UP",
+      "url": "https://open.spotify.com/track/7LNiEbgn9x43HQGQywRoYC"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Power Of One",
         "url": "https://open.spotify.com/album/5Fvt14TezBeoJfE7TCxxef"
@@ -189,7 +401,7 @@
       "url": "https://open.spotify.com/track/3UR5UresBbHljYFVOHm83m"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Kaleta",
         "url": "https://open.spotify.com/album/1Ved6gJTWaDH1oLiJzMrKv"
@@ -205,7 +417,7 @@
       "url": "https://open.spotify.com/track/7Me0K7S9Kpu3lNGk3k9SJZ"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Rhythm Of Dancing",
         "url": "https://open.spotify.com/album/6Me33wI912Zbj1CFLs9G7b"
@@ -221,7 +433,7 @@
       "url": "https://open.spotify.com/track/2hEsIVUsJM8m10GL5tLQSb"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "If You Wait (Jamie Jones 4Z Remix)",
         "url": "https://open.spotify.com/album/5H9SQQJxdiaMWFBrhAbSS8"
@@ -241,7 +453,7 @@
       "url": "https://open.spotify.com/track/66UW8eUBnNYhTmtMgtnYQb"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Dog Days",
         "url": "https://open.spotify.com/album/05CHTnmUe3df2YJyJGvRA8"
@@ -257,7 +469,7 @@
       "url": "https://open.spotify.com/track/0Uk6JcLoMOKwIP9Qkg1z4q"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Can't Play Myself (A Tribute To Amy)",
         "url": "https://open.spotify.com/album/4dIIRxQJD8krCBjlEBDX35"
@@ -277,7 +489,7 @@
       "url": "https://open.spotify.com/track/6GrLwf1LdBCmkBOsmOcbPp"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Greatest Thing Alive",
         "url": "https://open.spotify.com/album/4pO9irtP1FElMi4HaIUct0"
@@ -301,7 +513,7 @@
       "url": "https://open.spotify.com/track/6As1zfxQHAgeQPBK2paaqh"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Purple / Babylon",
         "url": "https://open.spotify.com/album/1jBQ8o02yAhEJlVyhDbS2t"
@@ -317,7 +529,7 @@
       "url": "https://open.spotify.com/track/2twuGqldk9Zv9cM7EIWdPQ"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Only Love Can Save Me",
         "url": "https://open.spotify.com/album/5hDv8KtNJmKDlaIsOsYTjy"
@@ -337,7 +549,7 @@
       "url": "https://open.spotify.com/track/5JKPDysrz0ZKh0UHAJg4cn"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Lazer Beams (Bontan Remix)",
         "url": "https://open.spotify.com/album/0JSuSCEmCRshZTXxNbQNXC"
@@ -361,7 +573,7 @@
       "url": "https://open.spotify.com/track/5rXOdqkiMHXLuwCKoCfImt"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "A Tension Attention",
         "url": "https://open.spotify.com/album/2NNfgx8Ndh7GKej8DUaDdR"
@@ -377,7 +589,7 @@
       "url": "https://open.spotify.com/track/3RRO4L4V5hXUcMB8yJPVmW"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/186uyD7sS54yFZ4viGrIz9"
@@ -393,7 +605,7 @@
       "url": "https://open.spotify.com/track/3srre2C7GNHuowM46tOe1J"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Fall / My Place",
         "url": "https://open.spotify.com/album/5dlkQeTQ5VR8lXfCzqdGhl"
@@ -409,7 +621,7 @@
       "url": "https://open.spotify.com/track/5SGxyinOC5xopxJXS0DsUq"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Bigger Than Prince (10 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/6rWfLtu9NQDtUmvBZr8dRN"
@@ -429,7 +641,7 @@
       "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Tell You What It Is",
         "url": "https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu"
@@ -449,27 +661,7 @@
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
-      "album": {
-        "name": "In Der Nacht (Joyce Muniz Rework)",
-        "url": "https://open.spotify.com/album/5HdGhV2A6LfelpQSj5q1lF"
-      },
-      "artists": [
-        {
-          "name": "Joyce Muniz",
-          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
-        },
-        {
-          "name": "Karl Michael",
-          "url": "https://open.spotify.com/artist/0JhyiOg35fcqh7KvBs8sci"
-        }
-      ],
-      "duration_ms": 398906,
-      "name": "In Der Nacht - Joyce Muniz Rework",
-      "url": "https://open.spotify.com/track/7KbYzHnuX8DsZSfBdxNANF"
-    },
-    {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "BARBEE (On Acid)",
         "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
@@ -489,7 +681,7 @@
       "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Heat Makes Sense EP",
         "url": "https://open.spotify.com/album/5CP9Vvc3dkErwUyedCDJTC"
@@ -509,7 +701,7 @@
       "url": "https://open.spotify.com/track/6RwHZjife1FCLKGnc1Ge5W"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Hianali",
         "url": "https://open.spotify.com/album/10OEXJX9wd5tLPsombFqBq"
@@ -525,7 +717,7 @@
       "url": "https://open.spotify.com/track/3SxYoL6CscnqirBw7t1yVQ"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Now Work",
         "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
@@ -541,31 +733,7 @@
       "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
-      "album": {
-        "name": "Voicemail (Layton Giordani Remix)",
-        "url": "https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo"
-      },
-      "artists": [
-        {
-          "name": "Green Velvet",
-          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
-        },
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 275472,
-      "name": "Voicemail - Layton Giordani Remix",
-      "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
-    },
-    {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Rapture Pt.III",
         "url": "https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5"
@@ -589,7 +757,7 @@
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Bocat (Michael Bibi Remix)",
         "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
@@ -613,7 +781,7 @@
       "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Brighter Days (30 Year Anniversary Remixes)",
         "url": "https://open.spotify.com/album/27khu5BAQkUgYxqlYFwRLB"
@@ -637,7 +805,7 @@
       "url": "https://open.spotify.com/track/7IJP1vVnqU5mV2hYUbZrlX"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Deceiver (VIP)",
         "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
@@ -657,7 +825,7 @@
       "url": "https://open.spotify.com/track/39aowVnxyzMDZOmrgsN4MU"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Simulator",
         "url": "https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ"
@@ -677,7 +845,7 @@
       "url": "https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/11jNkhpC7go26jsd1K9mZU"
@@ -693,7 +861,7 @@
       "url": "https://open.spotify.com/track/16W1pX4XrDrJzeyVYV8Qe8"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "They Will EP",
         "url": "https://open.spotify.com/album/0Q774PS7DkrMtDIAs27cWQ"
@@ -709,7 +877,7 @@
       "url": "https://open.spotify.com/track/4zA4JIlPXfmvDa7mOnvaxa"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Green Armchair",
         "url": "https://open.spotify.com/album/4B0nqucbPKzBbWtEjUvbxo"
@@ -725,7 +893,7 @@
       "url": "https://open.spotify.com/track/1Fr5Ge2F5bFNADFjZlus9C"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Testimony",
         "url": "https://open.spotify.com/album/000z99zZbT9Gfabqyw1THb"
@@ -741,7 +909,7 @@
       "url": "https://open.spotify.com/track/702TT2q83VQlC75h807I1J"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Free Love / Silk",
         "url": "https://open.spotify.com/album/2HGmNysGT3fifYOFeD6gB1"
@@ -757,7 +925,7 @@
       "url": "https://open.spotify.com/track/7EhFJ5xpMQHsrX0a6yOZeW"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Mode EP",
         "url": "https://open.spotify.com/album/7d6UzEtMcgtLzTczhuaMk1"
@@ -777,7 +945,7 @@
       "url": "https://open.spotify.com/track/7LNBV0CoqYKjZUTbyGJH6v"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Prayer",
         "url": "https://open.spotify.com/album/3GydW4vAlw2pCGe8BZC5Fa"
@@ -797,7 +965,7 @@
       "url": "https://open.spotify.com/track/6sSjMJC4C04SKjrHbxKi39"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Remixes From The Other Side",
         "url": "https://open.spotify.com/album/4JlKhvgS86NmWsQlQ5BGq0"
@@ -821,7 +989,7 @@
       "url": "https://open.spotify.com/track/14sXAzJk59scwHtuQjOIlM"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Iffy",
         "url": "https://open.spotify.com/album/7JoFdHAOCBzjT6lzWOfcGR"
@@ -837,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1Xgg0bhjK57PJ6WLYOi3oY"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Acamar EP",
         "url": "https://open.spotify.com/album/04m5xYrkOmtW3jDyvrfxwa"
@@ -853,7 +1021,7 @@
       "url": "https://open.spotify.com/track/2o9fz1ALwGI65oMzueYMUI"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Biggest Heart / Halomot",
         "url": "https://open.spotify.com/album/1Uwd9aK3LKSVz5ECsCLvhW"
@@ -869,7 +1037,7 @@
       "url": "https://open.spotify.com/track/22Sh3XuGWd2kGbMJgSpE5T"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Love E.P.",
         "url": "https://open.spotify.com/album/0giOgdsRSZagxBoLnFNQ8n"
@@ -885,7 +1053,7 @@
       "url": "https://open.spotify.com/track/31EEwI8KmW7gZUrCHvsmyL"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Soul Clap Social Experiment Sampler Part 2",
         "url": "https://open.spotify.com/album/31glV4B2Xhgkeo99Q7ZGPv"
@@ -901,7 +1069,7 @@
       "url": "https://open.spotify.com/track/3kWwoy7YplmupGFwxTk192"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Throw (Slam's RTM Remix)",
         "url": "https://open.spotify.com/album/6HJxnK1kaSc5KNONkdZAuX"
@@ -921,7 +1089,7 @@
       "url": "https://open.spotify.com/track/5Az5ZI6idNY1JbcIGVoBKE"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "The Voice",
         "url": "https://open.spotify.com/album/6gB0dlUcco2nXIIrmEeTtb"
@@ -937,7 +1105,7 @@
       "url": "https://open.spotify.com/track/1T63iv1GOvngDdBOEm8UIk"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1qToiTMk8Gakk4iRiUQRQN"
@@ -969,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6ybLHccLu0q2pS8uMX1UK2"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Future (feat. Inner City)",
         "url": "https://open.spotify.com/album/6UvhyKqiU7yr1XdVAgHiMh"
@@ -993,7 +1161,7 @@
       "url": "https://open.spotify.com/track/6xRtX4emvb1T8Sep84XAUE"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Bar A Thym / Sunshine & Twilight",
         "url": "https://open.spotify.com/album/7myHq20xdrIj5f31Sb0NED"
@@ -1009,7 +1177,7 @@
       "url": "https://open.spotify.com/track/3ZIUUxXje25Py7lcWeHNE0"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Satellite",
         "url": "https://open.spotify.com/album/6oFLCjftoYaWOsNuXZW8xa"
@@ -1025,7 +1193,7 @@
       "url": "https://open.spotify.com/track/2nAfcOcGRIvNMHvY70i18M"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Too Underground For The Main Stage",
         "url": "https://open.spotify.com/album/28smuNBpHVM4Ezqg1MB94J"
@@ -1049,7 +1217,7 @@
       "url": "https://open.spotify.com/track/0RPXHiLI9JBLOcUOeocvqZ"
     },
     {
-      "added_at": "2024-04-09 20:21:51",
+      "added_at": "2024-05-22 16:25:34",
       "album": {
         "name": "Like This (House Mix / Ddd Dub)",
         "url": "https://open.spotify.com/album/5xC7mvUqeScBXku4RxDDE4"
@@ -1075,6 +1243,74 @@
       "duration_ms": 313783,
       "name": "Like This - House Mix - Short Edit",
       "url": "https://open.spotify.com/track/1dobNCqp13CpgV7xW6m8o6"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Acid Trax 2011",
+        "url": "https://open.spotify.com/album/0sJZB1Cgn6nzs2hHvSWpi6"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Phuture",
+          "url": "https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70"
+        }
+      ],
+      "duration_ms": 557727,
+      "name": "Acid Trax 2011 - 2011 Mix",
+      "url": "https://open.spotify.com/track/4mvQh5HXuhdTh1wmiyTAQm"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Emperor",
+        "url": "https://open.spotify.com/album/2zfMUjNfwV4Q1DbM2tDIji"
+      },
+      "artists": [
+        {
+          "name": "Ali Love",
+          "url": "https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge"
+        },
+        {
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/3UTQd8eWHGNvMNGIZ578p2"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "duration_ms": 455296,
+      "name": "Emperor - Maceo Plex Last Disco Remix",
+      "url": "https://open.spotify.com/track/61mc3Px7vuUyRYbN3ZLPf5"
+    },
+    {
+      "added_at": "2024-05-22 16:25:34",
+      "album": {
+        "name": "Good Life (Remastered)",
+        "url": "https://open.spotify.com/album/2lUlqHTF2ohyou9NKcpa7Z"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Good Life (Remastered)",
+      "url": "https://open.spotify.com/track/1F0uekJ6dni1ywjlSx3nsA"
     }
   ],
   "unique_name": "Green Velvet's track IDs",

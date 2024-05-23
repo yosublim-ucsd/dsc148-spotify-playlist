@@ -1,13 +1,101 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Kotee\n",
-  "num_followers": 57505,
+  "num_followers": 57508,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkyD2gAAAABgqFOqY5tQr4nUkhgahq+K",
+  "snapshot_id": "Zk3svAAAAAAPfAnPiDk0/FBtufedsKCg",
   "tracks": [
+    {
+      "added_at": "2024-05-22 13:01:10",
+      "album": {
+        "name": "Janatha City (From \"Kotee\")",
+        "url": "https://open.spotify.com/album/40sQiYiBOPHqwnnwYrWja9"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        }
+      ],
+      "duration_ms": 203403,
+      "name": "Janatha City (From \"Kotee\")",
+      "url": "https://open.spotify.com/track/1gbPXhladfKNsCiMe5U76Q"
+    },
+    {
+      "added_at": "2024-05-13 06:22:08",
+      "album": {
+        "name": "Time Baruthe (From \"Gowri\")",
+        "url": "https://open.spotify.com/album/5KSNLptTcs7ijGj0uPFoFK"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+        },
+        {
+          "name": "Vijay Eshwar",
+          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+        }
+      ],
+      "duration_ms": 261018,
+      "name": "Time Baruthe (From \"Gowri\")",
+      "url": "https://open.spotify.com/track/4byiOcGL732FhLerbMaskD"
+    },
+    {
+      "added_at": "2024-05-22 08:24:44",
+      "album": {
+        "name": "Elli Hode Nee (From \"Ramana Avatara\")",
+        "url": "https://open.spotify.com/album/02peMQph3GJgHNXmYOMI6m"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Vikas Pampapathi",
+          "url": "https://open.spotify.com/artist/1BBIHUOyYTFDRFkOui8Y2f"
+        }
+      ],
+      "duration_ms": 215764,
+      "name": "Elli Hode Nee (From \"Ramana Avatara\")",
+      "url": "https://open.spotify.com/track/0XTj9jLyV9ybEhHvppq4ph"
+    },
+    {
+      "added_at": "2024-05-20 08:14:53",
+      "album": {
+        "name": "Ivanyaro (From \"Hejjaru\")",
+        "url": "https://open.spotify.com/album/0EDrhzEQqWpuJOxWq9LoAE"
+      },
+      "artists": [
+        {
+          "name": "Poornachandra Tejaswi S.V.",
+          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+        },
+        {
+          "name": "Harshapriya",
+          "url": "https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2"
+        },
+        {
+          "name": "Shwetha Prabhu",
+          "url": "https://open.spotify.com/artist/4Dq0HDhhKM8zMtTSOppA6p"
+        }
+      ],
+      "duration_ms": 303200,
+      "name": "Ivanyaro (From \"Hejjaru\")",
+      "url": "https://open.spotify.com/track/0iTPdcPKhtTOzuDUOXaiKQ"
+    },
     {
       "added_at": "2024-05-14 04:29:52",
       "album": {
@@ -33,48 +121,28 @@
       "url": "https://open.spotify.com/track/0UvB51pcl6Z34iPZZ8AEJK"
     },
     {
-      "added_at": "2024-05-13 06:22:08",
+      "added_at": "2024-05-22 13:01:48",
       "album": {
-        "name": "Time Baruthe (From \"Gowri\")",
-        "url": "https://open.spotify.com/album/5KSNLptTcs7ijGj0uPFoFK"
+        "name": "Grey Games (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5hIX44cOoxWtjlLfmq8GY2"
       },
       "artists": [
         {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
         },
         {
-          "name": "Vijay Eshwar",
-          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+          "name": "Shriyansh Shreeram",
+          "url": "https://open.spotify.com/artist/4B1sflNWueE49cSjMTPgQO"
+        },
+        {
+          "name": "Kiran Kaverappa",
+          "url": "https://open.spotify.com/artist/6V4kCkZTtVLAlQz9DKSWc9"
         }
       ],
-      "duration_ms": 261018,
-      "name": "Time Baruthe (From \"Gowri\")",
-      "url": "https://open.spotify.com/track/4byiOcGL732FhLerbMaskD"
-    },
-    {
-      "added_at": "2024-05-20 08:14:53",
-      "album": {
-        "name": "Ivanyaro (From \"Hejjaru\")",
-        "url": "https://open.spotify.com/album/0EDrhzEQqWpuJOxWq9LoAE"
-      },
-      "artists": [
-        {
-          "name": "Poornachandra Tejaswi S.V.",
-          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
-        },
-        {
-          "name": "Harshapriya",
-          "url": "https://open.spotify.com/artist/124VVnT2v2M3Ucb5r099j2"
-        },
-        {
-          "name": "Shwetha Prabhu",
-          "url": "https://open.spotify.com/artist/4Dq0HDhhKM8zMtTSOppA6p"
-        }
-      ],
-      "duration_ms": 303200,
-      "name": "Ivanyaro (From \"Hejjaru\")",
-      "url": "https://open.spotify.com/track/0iTPdcPKhtTOzuDUOXaiKQ"
+      "duration_ms": 241083,
+      "name": "Manaselede (From \"Grey Games\")",
+      "url": "https://open.spotify.com/track/4Le0cHC26RurlhamQYFio5"
     },
     {
       "added_at": "2024-05-14 12:49:44",
@@ -147,6 +215,66 @@
       "duration_ms": 195064,
       "name": "Fear Song (From \"Devara Part 1\") [Kannada]",
       "url": "https://open.spotify.com/track/5QnUJYAmnPTqvWeE0xDt0W"
+    },
+    {
+      "added_at": "2024-05-22 08:23:25",
+      "album": {
+        "name": "Maja Maja (From \"Salute\")",
+        "url": "https://open.spotify.com/album/3aKzJBKB4dtrVmBg8eIxZY"
+      },
+      "artists": [
+        {
+          "name": "Rishikesh C",
+          "url": "https://open.spotify.com/artist/5oUscDQ9vxp2B3DntUxdqV"
+        },
+        {
+          "name": "Keerthan S",
+          "url": "https://open.spotify.com/artist/4hf6PIBjnDE8Q1H7HF0ppA"
+        },
+        {
+          "name": "Pushpa B",
+          "url": "https://open.spotify.com/artist/69eUpFzjD7jvghQhf4IBIC"
+        },
+        {
+          "name": "Bharath Babu L",
+          "url": "https://open.spotify.com/artist/2vsjthIpOrCunnPfrLTGGP"
+        },
+        {
+          "name": "Manuel Jayasheel J",
+          "url": "https://open.spotify.com/artist/3O7XrpigY4x2cYqr9CWXU9"
+        }
+      ],
+      "duration_ms": 370000,
+      "name": "Maja Maja - From \"Salute\"",
+      "url": "https://open.spotify.com/track/4Gv6pqTY1goK93UD9u8Bmk"
+    },
+    {
+      "added_at": "2024-05-22 08:24:11",
+      "album": {
+        "name": "Kanda Kanda (From \"C\")",
+        "url": "https://open.spotify.com/album/1ZD8JYiTBRD04aT8aQl8Gy"
+      },
+      "artists": [
+        {
+          "name": "Vasuki Vaibhav",
+          "url": "https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5"
+        },
+        {
+          "name": "Surabhi Bharadwaj",
+          "url": "https://open.spotify.com/artist/2QlJhNbj61Ci927HCUQTlr"
+        },
+        {
+          "name": "Hridaya Shiva",
+          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
+        },
+        {
+          "name": "A B murlidharan",
+          "url": "https://open.spotify.com/artist/5yMQpixGn2LatPlfos3IZV"
+        }
+      ],
+      "duration_ms": 261303,
+      "name": "Kanda Kanda - From \"C\"",
+      "url": "https://open.spotify.com/track/6kqp2TK6BC0fRiSWNFHVXy"
     },
     {
       "added_at": "2024-05-14 12:50:49",
@@ -1409,26 +1537,6 @@
       "url": "https://open.spotify.com/track/20Nh79oL6AFlcyuUrLSFKq"
     },
     {
-      "added_at": "2024-02-29 19:42:43",
-      "album": {
-        "name": "Paravasha (from \"Grey Games\")",
-        "url": "https://open.spotify.com/album/6KWlSdjzSuVb9krzNb76RG"
-      },
-      "artists": [
-        {
-          "name": "Pancham Jeeva",
-          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
-        },
-        {
-          "name": "Atrangi Funkaar",
-          "url": "https://open.spotify.com/artist/1uvi7MKXfrVYQITj0VTIdf"
-        }
-      ],
-      "duration_ms": 254236,
-      "name": "Paravasha (from \"Grey Games\")",
-      "url": "https://open.spotify.com/track/73xfwYEsymSfVofTD6OKfs"
-    },
-    {
       "added_at": "2024-03-19 10:51:36",
       "album": {
         "name": "Kelayya Nanna (From \"Muktha Manasu\")",
@@ -1481,34 +1589,6 @@
       "url": "https://open.spotify.com/track/5SCD5sujZXB2NhqpMgGewX"
     },
     {
-      "added_at": "2024-02-29 19:48:19",
-      "album": {
-        "name": "Guntur Kaaram (Kannada)",
-        "url": "https://open.spotify.com/album/3zvK8jniV8gOtt60ZNf0hj"
-      },
-      "artists": [
-        {
-          "name": "Thaman S",
-          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
-        },
-        {
-          "name": "Surabhi",
-          "url": "https://open.spotify.com/artist/58pxJIczpmjeAikEW6xt6j"
-        },
-        {
-          "name": "Abhishek",
-          "url": "https://open.spotify.com/artist/1CwJfbAkP2ZyA2QaF3ZKgE"
-        },
-        {
-          "name": "Pratap",
-          "url": "https://open.spotify.com/artist/7dCDPRfjq5MzfeJFgwbqb5"
-        }
-      ],
-      "duration_ms": 258694,
-      "name": "Rangabhoomige Abhinandane",
-      "url": "https://open.spotify.com/track/3tFNzMneiqAXwPmzXmfCJ7"
-    },
-    {
       "added_at": "2024-02-26 04:59:06",
       "album": {
         "name": "Meetadene Veene (From \"Karataka Damanaka\")",
@@ -1527,30 +1607,6 @@
       "duration_ms": 193321,
       "name": "Meetadene Veene (From \"Karataka Damanaka\")",
       "url": "https://open.spotify.com/track/1VnsZvkBpSb5oy5Q6BJESm"
-    },
-    {
-      "added_at": "2024-03-04 11:32:38",
-      "album": {
-        "name": "Mehabooba Title Track (From \"Mehabooba\") - Single",
-        "url": "https://open.spotify.com/album/7brcws5TFhyJtMfy8oE2Hp"
-      },
-      "artists": [
-        {
-          "name": "Jaskaran Singh",
-          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
-        },
-        {
-          "name": "V. Raghu Shastry",
-          "url": "https://open.spotify.com/artist/54RaRFcpqUUJIisuXILbUL"
-        },
-        {
-          "name": "Mathews Manu",
-          "url": "https://open.spotify.com/artist/2qlqqGIFF4jY4sGn29J4Ir"
-        }
-      ],
-      "duration_ms": 202928,
-      "name": "Mehabooba Title Track (From \"Mehabooba\")",
-      "url": "https://open.spotify.com/track/3f65YvWytHE1dz4JrAa6jI"
     },
     {
       "added_at": "2024-03-04 11:32:38",

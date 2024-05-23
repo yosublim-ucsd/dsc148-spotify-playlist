@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4nqQTosM2Mbg7iRjvJU0N0\">Samara Cyn</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4A0F4D2N7CtAVHPNUHftem\">Diany Dior</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 126627,
       "name": "Ain't Goin",
       "url": "https://open.spotify.com/track/4mxgBzqjxVeqsCYwJXgydM"
@@ -1515,6 +1515,24 @@
     },
     {
       "album": {
+        "name": "Your Stepdad",
+        "url": "https://open.spotify.com/album/2NpZdzeE7qiT1irfRkA3IO"
+      },
+      "artists": [
+        {
+          "name": "Your Stepdad",
+          "url": "https://open.spotify.com/artist/4l7BJOIRyFkQT9QD96m8tu"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114285,
+      "name": "ANITA BAKED",
+      "url": "https://open.spotify.com/track/4IBBRbmElqkqndMcTixPMn"
+    },
+    {
+      "album": {
         "name": "Another Day",
         "url": "https://open.spotify.com/album/3W98a1ODzyIZ048YGUYM2Q"
       },
@@ -1732,7 +1750,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 224914,
       "name": "ATLANTA INTERLUDE",
       "url": "https://open.spotify.com/track/43QwyJGbNbW5T0TcrkNlyb"
@@ -2346,6 +2364,24 @@
       "duration_ms": 147702,
       "name": "BARCELONA",
       "url": "https://open.spotify.com/track/70Pxlv6OpjLTGwtUQhRLwa"
+    },
+    {
+      "album": {
+        "name": "Basement Freestyle (My Movement Elevated)",
+        "url": "https://open.spotify.com/album/02OEbYMA7EmH7PErkuOzqI"
+      },
+      "artists": [
+        {
+          "name": "Just Juice",
+          "url": "https://open.spotify.com/artist/4s0K7Gh1qCZCXB5OuMF1VT"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 58588,
+      "name": "Basement Freestyle (My Movement Elevated)",
+      "url": "https://open.spotify.com/track/4QbCYAYhl0XtSYjLUc4Hfb"
     },
     {
       "album": {
@@ -4863,6 +4899,32 @@
     },
     {
       "album": {
+        "name": "WE ALL",
+        "url": "https://open.spotify.com/album/0Nz4qd7OFBVuT0ujFPMpSG"
+      },
+      "artists": [
+        {
+          "name": "Donte Thomas",
+          "url": "https://open.spotify.com/artist/53F7MNlYur7XEV75tY3Yor"
+        },
+        {
+          "name": "Blu3 Boy",
+          "url": "https://open.spotify.com/artist/1RBUgrN6Oe0OVSazMuTAN6"
+        },
+        {
+          "name": "Chris Patrick",
+          "url": "https://open.spotify.com/artist/6wFu8qYepLnl61GixCI5cu"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213487,
+      "name": "CRASHING DOWN",
+      "url": "https://open.spotify.com/track/1pYAKlIRaVOgp9UW3c0Ytd"
+    },
+    {
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/56kAFh4wODx0dL3GwWV4Vi"
       },
@@ -5582,7 +5644,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 138600,
       "name": "Dick On Yo Hoe",
       "url": "https://open.spotify.com/track/1RtF7BYImqxF1vZvuBqPtY"
@@ -7156,10 +7218,36 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 140852,
       "name": "Favorite Lady",
       "url": "https://open.spotify.com/track/3DEDh62pZq4z5Lc8WkhwuM"
+    },
+    {
+      "album": {
+        "name": "Favorite Lady (with NAV & Cash Cobain)",
+        "url": "https://open.spotify.com/album/78adtlPeGeYd1Am0o9dNz7"
+      },
+      "artists": [
+        {
+          "name": "Diany Dior",
+          "url": "https://open.spotify.com/artist/4A0F4D2N7CtAVHPNUHftem"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204935,
+      "name": "Favorite Lady (with NAV & Cash Cobain)",
+      "url": "https://open.spotify.com/track/4DCvMCGfSBMoNwvpKqtCpt"
     },
     {
       "album": {
@@ -7330,7 +7418,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 249307,
       "name": "Fiendin",
       "url": "https://open.spotify.com/track/4FTcKpiMMIxEKoGXPZouKt"
@@ -8050,7 +8138,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 123669,
       "name": "Gang Gang",
       "url": "https://open.spotify.com/track/3eMdEKCNW3pD2mUuB7Nokk"
@@ -9191,6 +9279,24 @@
     },
     {
       "album": {
+        "name": "HELL WEEK (NEXT DAY)",
+        "url": "https://open.spotify.com/album/49ZkxiFV9FngIhpMpttKCd"
+      },
+      "artists": [
+        {
+          "name": "SOLOCELO",
+          "url": "https://open.spotify.com/artist/28iF2lSSdTB7jwUNQuh497"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142439,
+      "name": "HELL WEEK (NEXT DAY)",
+      "url": "https://open.spotify.com/track/1HzMuyFFfnjUJ2ZqF2bJjq"
+    },
+    {
+      "album": {
         "name": "Herringbone",
         "url": "https://open.spotify.com/album/3y8sZLquAIwSOVz9g2mQnI"
       },
@@ -9232,6 +9338,32 @@
       "duration_ms": 163750,
       "name": "HI SPEED (with AiA LITT & BabyDelly)",
       "url": "https://open.spotify.com/track/5CsFSfyl4ujmTKi8s1mHeg"
+    },
+    {
+      "album": {
+        "name": "high kick",
+        "url": "https://open.spotify.com/album/6evp25LUCHr0erAU335Wxf"
+      },
+      "artists": [
+        {
+          "name": "mynameisntjmack",
+          "url": "https://open.spotify.com/artist/7HY1ISUuRotG01FVu0PKWh"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "femdot.",
+          "url": "https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209454,
+      "name": "high kick",
+      "url": "https://open.spotify.com/track/4CfRF1iIZXnXe0gi0RSgnU"
     },
     {
       "album": {
@@ -9956,6 +10088,24 @@
       "duration_ms": 158312,
       "name": "I'm Him",
       "url": "https://open.spotify.com/track/4wHbKkgXBSUA2kke4v95WS"
+    },
+    {
+      "album": {
+        "name": "ICE COLD",
+        "url": "https://open.spotify.com/album/0kY11UduFEWltlwEzsAov1"
+      },
+      "artists": [
+        {
+          "name": "Opal OD",
+          "url": "https://open.spotify.com/artist/6t9ljQX4QGp8kwH7llR2dw"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147368,
+      "name": "ICE COLD",
+      "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
     },
     {
       "album": {
@@ -11188,7 +11338,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 91200,
       "name": "LAMBO + NIC",
       "url": "https://open.spotify.com/track/6POc3AEMEl3jXMe90cFY1t"
@@ -12238,7 +12388,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 127200,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/5fNgz0GbFBXhz4RoBNTnQB"
@@ -15908,7 +16058,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 161916,
       "name": "PERFECT",
       "url": "https://open.spotify.com/track/3D7LJWHulSV2vSEyxoyjg0"
@@ -17663,6 +17813,28 @@
     },
     {
       "album": {
+        "name": "SALAD",
+        "url": "https://open.spotify.com/album/0xkWdFSnZVaHICeiGyiVIY"
+      },
+      "artists": [
+        {
+          "name": "Obl\u00e9 Reed",
+          "url": "https://open.spotify.com/artist/4drP7GL5gdmNowIgcunWgn"
+        },
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173176,
+      "name": "SALAD",
+      "url": "https://open.spotify.com/track/29fUrdzF1FqIhk0ZWxyyby"
+    },
+    {
+      "album": {
         "name": "Same old",
         "url": "https://open.spotify.com/album/15CbefjARKuoAi3YIC3mvF"
       },
@@ -19077,6 +19249,24 @@
     },
     {
       "album": {
+        "name": "Splat",
+        "url": "https://open.spotify.com/album/7yxhsijLki5kVHC62xPhKr"
+      },
+      "artists": [
+        {
+          "name": "Whookilledkenny",
+          "url": "https://open.spotify.com/artist/2KZnFwKkzZwaTe74507ZLD"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Splat",
+      "url": "https://open.spotify.com/track/3lXHc32BQnQsTjQpyaDWbs"
+    },
+    {
+      "album": {
         "name": "Spliff Vol.1",
         "url": "https://open.spotify.com/album/2FvYBgeJ79zoMR0iSoIEUn"
       },
@@ -19683,6 +19873,28 @@
     },
     {
       "album": {
+        "name": "swag it! (Remix)",
+        "url": "https://open.spotify.com/album/7KjmXSpjjhHctk0eyQNNEB"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191526,
+      "name": "swag it! - Remix",
+      "url": "https://open.spotify.com/track/5TH16toxd8LXyTKr35zQja"
+    },
+    {
+      "album": {
         "name": "SWAT TEAM",
         "url": "https://open.spotify.com/album/06y3iBmST6xCnixefRge87"
       },
@@ -19764,6 +19976,24 @@
       "duration_ms": 106510,
       "name": "SWEETS",
       "url": "https://open.spotify.com/track/73O0tENMd55PvYnzjnFYR4"
+    },
+    {
+      "album": {
+        "name": "S.n.S",
+        "url": "https://open.spotify.com/album/6WIJcXYhMBC2o6EdUJRJg4"
+      },
+      "artists": [
+        {
+          "name": "Bando.",
+          "url": "https://open.spotify.com/artist/5kkpDTQbRC2UCCCUhF6j90"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199972,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/11vl1eaSsZHDnuEDfvvhCm"
     },
     {
       "album": {
@@ -22002,7 +22232,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 169032,
       "name": "WANTS",
       "url": "https://open.spotify.com/track/4JRemRYPQWzqHwtbUChUbX"
@@ -22624,7 +22854,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 230165,
       "name": "Why",
       "url": "https://open.spotify.com/track/5kpnHcXBVgGRFRfHERO9oK"

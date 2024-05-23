@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Experimental](https://open.spotify.com/playlist/37i9dQZF1DX8C585qnMYHP)
 
-> The best new music by Experimental independent artists and labels\. LI YILEI  cover\. Artwork by Thami Nabil
+> The best new music by Experimental independent artists and labels\. Ozoyo on cover\. Artwork by Thami Nabil
 
 1,707 songs - 5 day 16 hr 1 min
 

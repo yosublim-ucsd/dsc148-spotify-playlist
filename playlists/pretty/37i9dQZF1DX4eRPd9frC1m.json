@@ -1,6 +1,6 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2583090,
+  "num_followers": 2583190,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,26 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
+        "name": "Ground Shake",
+        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Ground Shake",
+      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+    },
+    {
+      "added_at": "2024-05-10 18:00:07",
+      "album": {
         "name": "Blue Mile",
         "url": "https://open.spotify.com/album/77I9ebOxX1nxDk8vlJNUH9"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 212571,
       "name": "Blue Mile",
       "url": "https://open.spotify.com/track/5EIyuLTiZwAmmlsqxdLJC0"
-    },
-    {
-      "added_at": "2024-05-10 18:00:07",
-      "album": {
-        "name": "Ground Shake",
-        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Bandlez",
-          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Ground Shake",
-      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
     },
     {
       "added_at": "2024-05-10 18:00:07",
@@ -1047,30 +1047,6 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
-        "name": "Bangers[7].Zip",
-        "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "ProbCause",
-          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
-        },
-        {
-          "name": "Chrishira Perrier",
-          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "MEGAZORD",
-      "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
-    },
-    {
-      "added_at": "2024-05-10 18:00:07",
-      "album": {
         "name": "Do It To It (Subtronics Remix)",
         "url": "https://open.spotify.com/album/50ojeeiaz71JzrgDJfzsIw"
       },
@@ -1091,6 +1067,30 @@
       "duration_ms": 147310,
       "name": "Do It To It - Subtronics Remix",
       "url": "https://open.spotify.com/track/4JHL5XOuByjoHSt5bcVk0u"
+    },
+    {
+      "added_at": "2024-05-10 18:00:07",
+      "album": {
+        "name": "Bangers[7].Zip",
+        "url": "https://open.spotify.com/album/5YueSKmEPBLy809CKxv4bV"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "ProbCause",
+          "url": "https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY"
+        },
+        {
+          "name": "Chrishira Perrier",
+          "url": "https://open.spotify.com/artist/0A7SwEIXcHDINnTgiHq5M2"
+        }
+      ],
+      "duration_ms": 163764,
+      "name": "MEGAZORD",
+      "url": "https://open.spotify.com/track/4Iz3e22hTN8B2koCpPuoUD"
     },
     {
       "added_at": "2024-05-10 18:00:07",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
-    },
-    {
-      "added_at": "2024-05-10 18:00:07",
-      "album": {
         "name": "Thrilla",
         "url": "https://open.spotify.com/album/0huroHZfl6hAgdFdfp2dhL"
       },
@@ -1215,22 +1199,6 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
-        "name": "In The Place",
-        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "In The Place",
-      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
-    },
-    {
-      "added_at": "2024-05-10 18:00:07",
-      "album": {
         "name": "damn Right Pt. 2",
         "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
@@ -1247,6 +1215,42 @@
       "duration_ms": 186666,
       "name": "damn Right Pt. 2",
       "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+    },
+    {
+      "added_at": "2024-05-10 18:00:07",
+      "album": {
+        "name": "In The Place",
+        "url": "https://open.spotify.com/album/37l2dXxlFFKBZFi5lG3IMc"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "In The Place",
+      "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
+    },
+    {
+      "added_at": "2024-05-10 18:00:07",
+      "album": {
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        }
+      ],
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
       "added_at": "2024-05-10 18:00:07",
@@ -1271,22 +1275,18 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
       "artists": [
         {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2024-05-10 18:00:07",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-05-10 18:00:07",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2024-05-10 18:00:07",
-      "album": {
         "name": "NECROMANCER EP",
         "url": "https://open.spotify.com/album/0i5W06nlD4FXK2zLPXqp2w"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 228413,
       "name": "NECROMANCER",
       "url": "https://open.spotify.com/track/4q6M0ocvDwZp0kbnWtYLaF"
+    },
+    {
+      "added_at": "2024-05-10 18:00:07",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
     },
     {
       "added_at": "2024-05-10 18:00:07",

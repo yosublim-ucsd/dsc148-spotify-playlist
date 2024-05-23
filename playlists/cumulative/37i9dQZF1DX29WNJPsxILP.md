@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring Karma
 
-128 songs - 6 hr 40 min
+129 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-10 |  |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-10 |  |
 | [Batman](https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf) | [Aghor](https://open.spotify.com/artist/3AsmJFW9t14OXuJp9zOuPk), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Batman](https://open.spotify.com/album/75K8WUFvfA5ejXARa0y60o) | 3:32 | 2023-03-10 | 2023-10-12 |
-| [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 |  |
+| [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-12 | 2024-05-23 |
 | [Been a While](https://open.spotify.com/track/6FN68TXRiK095cQzv9tG5c) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:47 | 2023-03-10 |  |
 | [Bhussi](https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Bhussi](https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj) | 3:04 | 2023-07-24 |  |
 | [Blowing Up](https://open.spotify.com/track/3Oh2FwWbnKIAyUE2gToFYu) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [Blowing Up](https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri) | 4:07 | 2023-03-10 |  |
@@ -117,6 +117,7 @@
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 | 2023-12-16 |
 | [Taakat](https://open.spotify.com/track/3RGalL1QdsfG6b8mzATGKx) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [DJ Sa](https://open.spotify.com/artist/4rbhmiCpAkyvqqtTRzjJGf), [Lil Bhavi](https://open.spotify.com/artist/1IbSPJLkIqkDmIoyysS3Vn) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:36 | 2023-08-28 |  |
 | [Tarakkiyan \- From "Multani Mitti"](https://open.spotify.com/track/7sN02weI1CrnLIa5Nk0c3V) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL), [Boyblanck](https://open.spotify.com/artist/4ClQqb25PHO77Hciaauga5), [Bombay the Artist](https://open.spotify.com/artist/2Qa5HYyDrPrArARMDJfDbJ) | [Tarakkiyan \(From "Multani Mitti"\)](https://open.spotify.com/album/3SxARRjRLlgfgm1FWs6dqW) | 2:12 | 2023-10-06 | 2023-11-17 |
+| [Tera Hua](https://open.spotify.com/track/2ZVW5S2D4MR6EJO08qInbo) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Tera Hua](https://open.spotify.com/album/6erT6iguLk3iop4nykkHgC) | 2:15 | 2024-05-22 |  |
 | [tere saath \(i feel good\)](https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [tere saath \(i feel good\)](https://open.spotify.com/album/1eZUWcFJQ5gzlE1Q8Ps5T3) | 1:49 | 2023-07-25 | 2023-09-02 |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 | 2024-02-09 |
 | [Top Off](https://open.spotify.com/track/2xDEnSLBxi2CRq2SlA17g6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 3:01 | 2023-03-10 |  |

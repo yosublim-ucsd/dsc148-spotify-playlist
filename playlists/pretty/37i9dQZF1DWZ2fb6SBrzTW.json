@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 31936,
+  "num_followers": 31963,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -879,18 +879,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
+        "name": "Bad Friends",
+        "url": "https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme"
       },
       "artists": [
         {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+          "name": "Tulenkey",
+          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
         }
       ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+      "duration_ms": 161156,
+      "name": "Bad Feeling",
+      "url": "https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -911,22 +915,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Bad Friends",
-        "url": "https://open.spotify.com/album/7CPDg8cp3nKsAWNdZniYme"
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
       },
       "artists": [
         {
-          "name": "Tulenkey",
-          "url": "https://open.spotify.com/artist/2jVltxUvvzAX2lZKN95HBT"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 161156,
-      "name": "Bad Feeling",
-      "url": "https://open.spotify.com/track/1toPx3Ekrax1CIGIBJIgLf"
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2024-05-17 00:01:00",

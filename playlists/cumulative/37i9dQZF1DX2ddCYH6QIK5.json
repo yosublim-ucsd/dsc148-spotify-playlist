@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: fyne, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Brosie, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -3365,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "Coffee",
+        "url": "https://open.spotify.com/album/0qT49y3iSgfahdp2hNBX5u"
+      },
+      "artists": [
+        {
+          "name": "vincent varus",
+          "url": "https://open.spotify.com/artist/2Mirs2KlJTaBavdK1i6jIP"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170082,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/3XHnCCAMa3TgIQzA0R2REG"
+    },
+    {
+      "album": {
         "name": "Cold",
         "url": "https://open.spotify.com/album/6JqDwyZv90VIEHa0ROTpRw"
       },
@@ -4694,6 +4712,24 @@
       "duration_ms": 224371,
       "name": "Don't",
       "url": "https://open.spotify.com/track/2etfrWFecTIOP06qhabSSG"
+    },
+    {
+      "album": {
+        "name": "Don't Buy It",
+        "url": "https://open.spotify.com/album/7K2Q1toShn4Z3b846ux0iD"
+      },
+      "artists": [
+        {
+          "name": "ERNST",
+          "url": "https://open.spotify.com/artist/0XsBuDfCmcWiHLpdzJhtes"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220047,
+      "name": "Don't Buy It",
+      "url": "https://open.spotify.com/track/1mq7jqyw8Tdw2VBl24syXD"
     },
     {
       "album": {
@@ -7756,7 +7792,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 234667,
       "name": "Hands / Trees",
       "url": "https://open.spotify.com/track/016uLcvrFGSOuXdoER26C9"
@@ -13733,6 +13769,24 @@
     },
     {
       "album": {
+        "name": "Picture Perfect Standard",
+        "url": "https://open.spotify.com/album/4Y7RlGQR1n7QpzKhdFlHde"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Picture Perfect Standard",
+      "url": "https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh"
+    },
+    {
+      "album": {
         "name": "Ping Pong",
         "url": "https://open.spotify.com/album/3AlEafC9LBg6pmptmNTqDZ"
       },
@@ -15666,7 +15720,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 274368,
       "name": "Shillings",
       "url": "https://open.spotify.com/track/1oOqyRlTmo6RW6OkZec2MG"
@@ -16312,6 +16366,24 @@
       "duration_ms": 223500,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/4kiTRXw20EkyxoAMb2fCeY"
+    },
+    {
+      "album": {
+        "name": "Sommerherz",
+        "url": "https://open.spotify.com/album/19cWQ5dNAo2pbRfl5J5an4"
+      },
+      "artists": [
+        {
+          "name": "Satero",
+          "url": "https://open.spotify.com/artist/39Ny7kCVC5LuxOYDEjMuhJ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144181,
+      "name": "Sommerherz",
+      "url": "https://open.spotify.com/track/3MvYgQdC075ShrV9NMY5l3"
     },
     {
       "album": {
@@ -17384,7 +17456,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 233346,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/7tRVTrvTIpYC15QvLkI3Tv"
@@ -19326,7 +19398,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 228964,
       "name": "waves",
       "url": "https://open.spotify.com/track/6rx3c4Nq86l0FHDCrc94XB"

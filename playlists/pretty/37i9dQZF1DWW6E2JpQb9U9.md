@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,303 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,334 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 85 | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Cinco Siglos Igual \(En Vivo Teatro Coliseo\)](https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x) | 4:28 |
 | 86 | [Ojos Rojos \- En vivo](https://open.spotify.com/track/5Rbbj3DEeK2PXRkzbJVv19) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Ojos Rojos \(En Vivo\)](https://open.spotify.com/album/3ccn8gkTRS9ly0X6795rsO) | 3:20 |
 | 87 | [Ni Mierda \- Vivo En Obras](https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h) | [La Perra Que Los Parió](https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7) | [Ni Mierda \(Vivo En Obras\)](https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs) | 5:11 |
-| 88 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |
-| 89 | [Botella \- En Vivo](https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Botella \(En Vivo\)](https://open.spotify.com/album/1todV49PshzA1zQckYe0KR) | 4:37 |
+| 88 | [Botella \- En Vivo](https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Botella \(En Vivo\)](https://open.spotify.com/album/1todV49PshzA1zQckYe0KR) | 4:37 |
+| 89 | [Colgado de la luna \- En vivo El Sol 2, abril 1998](https://open.spotify.com/track/4gPtmKoWB6X7vXxLn3Dhcf) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [Colgado de la luna \(En vivo El Sol 2, abril 1998\)](https://open.spotify.com/album/0w8Lpf5B1qVbRid4BFMCWo) | 4:15 |
 | 90 | [Una Persona Especial \(En Vivo\)](https://open.spotify.com/track/0ba0fBNrr6wuOzPXtIcvht) | [Smitten](https://open.spotify.com/artist/6b12ezIOzhz60P3CASuEtL) | [En Vivo en Chile Volumen 2](https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv) | 2:25 |
 | 91 | [Dorado y Púrpura \- En Vivo](https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB) | [Winona Riders](https://open.spotify.com/artist/6ipac2Z0d0L6LWS7tTudcp) | [En Vivo En El Emergente 02.06.2023](https://open.spotify.com/album/75kVWmC0bVSKjv234nhQGl) | 10:17 |
 | 92 | [Pantalla Del Mundo Nuevo](https://open.spotify.com/track/4YbGxcfzDt4vDFUA3RcB5M) | [Riff](https://open.spotify.com/artist/3IyuxBX0pwXqbeFI4DWmhG) | [Pantalla Del Mundo Nuevo \(En Vivo En B.A.Rock\)](https://open.spotify.com/album/6vt2QGdahU0tGtmXHqIv56) | 6:50 |

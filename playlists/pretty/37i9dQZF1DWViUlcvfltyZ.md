@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Novità rock, indie e punk dall'Italia! Brucherò nei pascoli in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,201 likes - 95 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,206 likes - 95 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 94 | [Resta](https://open.spotify.com/track/045ZrdHAwkC4tmeZbMRnAV) | [tatà](https://open.spotify.com/artist/4QoYQE9SrNOfQaBdb5Xt1M) | [Resta](https://open.spotify.com/album/2xBezxO3xq3mQisYOeOGdC) | 3:02 |
 | 95 | [IL CIELO SOPRA BERLINO](https://open.spotify.com/track/35qn0z2w10fNbQCGEBgnh3) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [IL CIELO SOPRA BERLINO](https://open.spotify.com/album/305uGvWZt5p4kLoPD4rP5n) | 3:40 |
 
-Snapshot ID: `ZkaCHAAAAABV5AtoHDXyK4UTkdLrXw7K`
+Snapshot ID: `Zk3QbAAAAADQmay0MDwWZMyArYOpfxFV`

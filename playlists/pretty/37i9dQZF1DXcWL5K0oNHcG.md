@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Salin\. Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,376 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,642 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [1\-0](https://open.spotify.com/track/6K6RV21WP5Kj0oelvC56kI) | [SALVALAI](https://open.spotify.com/artist/5zCSsv346I2xgK1fVGJ7H3) | [1\-0](https://open.spotify.com/album/48aa23wkmx3JUSwWK2dTjQ) | 4:41 |
 | 50 | [Marcovaldo](https://open.spotify.com/track/5Lom5Jdjtfe45AJZywRjNi) | [Louis Matute](https://open.spotify.com/artist/29W139vCxg27ll23aYZ9u7) | [Small Variations from the Previous Day](https://open.spotify.com/album/4f4XeLb2E2IMw4O2UPP76h) | 3:12 |
 
-Snapshot ID: `ZkQzQAAAAADWtsoUFZqe+XtMnwqBehsr`
+Snapshot ID: `Zk5CcwAAAABmOGwG/lGg0uA0w9K8JgE+`

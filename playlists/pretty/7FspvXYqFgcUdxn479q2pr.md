@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER: JEV
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,505 likes - 14 songs - 40 min 29 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,504 likes - 15 songs - 43 min 13 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,5 +22,6 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 12 | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Go Back \(feat\. Julia Church\)](https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk) | 3:40 |
 | 13 | [Northern Rhythm](https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Northern Rhythm](https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe) | 3:27 |
 | 14 | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Bastyan](https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g), [JAIKO](https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT) | [Sad Love \(feat\. JAIKO\)](https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03) | 2:41 |
+| 15 | [June](https://open.spotify.com/track/1xfj8i1OvEhqJmWncOV2d5) | [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6), [Horizon Blue](https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb) | [June](https://open.spotify.com/album/5R8lqTv6VUfTgPyuA3vScp) | 2:43 |
 
-Snapshot ID: `AAAqgiEpu30Q2j+746P0Ck/kL7s3y+p8`
+Snapshot ID: `AAAqgwSYmcuaju0MZW8favLIqlPaJJrU`

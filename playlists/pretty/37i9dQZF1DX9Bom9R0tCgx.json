@@ -1,6 +1,6 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 376893,
+  "num_followers": 377003,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Love Is Free",
+        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+      },
+      "artists": [
+        {
+          "name": "Eli Brown",
+          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Love Is Free",
+      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Atlantis",
         "url": "https://open.spotify.com/album/7tn97Br9XVlKBPYoNR7qmr"
       },
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Love Is Free",
-        "url": "https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm"
+        "name": "Voodoo People",
+        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
       },
       "artists": [
         {
-          "name": "Eli Brown",
-          "url": "https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU"
+          "name": "Lonelysoul.",
+          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
         }
       ],
-      "duration_ms": 172563,
-      "name": "Love Is Free",
-      "url": "https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc"
+      "duration_ms": 120000,
+      "name": "Voodoo People",
+      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1515,22 +1531,6 @@
       "duration_ms": 157875,
       "name": "Classical Music",
       "url": "https://open.spotify.com/track/5ZsnPZX0aPg5xIxhlkkoOt"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Voodoo People",
-        "url": "https://open.spotify.com/album/2SA0Lmd4YWjX0HpahKTXB0"
-      },
-      "artists": [
-        {
-          "name": "Lonelysoul.",
-          "url": "https://open.spotify.com/artist/0SiRcOpdzIT5ea5SwdEQ37"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Voodoo People",
-      "url": "https://open.spotify.com/track/1GjP81Vfj8qjra1WHmYXji"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1583,26 +1583,18 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Est-ce que tu m'aimes ?",
-        "url": "https://open.spotify.com/album/0N1QJxB4j1y846Zz7g5Wtq"
+        "name": "FAKE ID (Techno)",
+        "url": "https://open.spotify.com/album/7f7YG5R9vr3ETq0mUfnzVe"
       },
       "artists": [
         {
-          "name": "Fyex",
-          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
-        },
-        {
-          "name": "Kevin Krissen",
-          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
-        },
-        {
-          "name": "Hyper Hamster",
-          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+          "name": "MAUD",
+          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
         }
       ],
-      "duration_ms": 174620,
-      "name": "Est-ce que tu m'aimes ?",
-      "url": "https://open.spotify.com/track/3alxL5Z2ld9jGeacOJBWBb"
+      "duration_ms": 105639,
+      "name": "FAKE ID - Techno",
+      "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1631,22 +1623,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "FAKE ID (Techno)",
-        "url": "https://open.spotify.com/album/7f7YG5R9vr3ETq0mUfnzVe"
-      },
-      "artists": [
-        {
-          "name": "MAUD",
-          "url": "https://open.spotify.com/artist/3CNPVYQ9QnNxlrEBdHS4hx"
-        }
-      ],
-      "duration_ms": 105639,
-      "name": "FAKE ID - Techno",
-      "url": "https://open.spotify.com/track/7AcHMpUcnpJCsEsRQyvenv"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Don't Tell Me",
         "url": "https://open.spotify.com/album/2KadoM6f5oT6yXrLBpqZG3"
       },
@@ -1659,6 +1635,30 @@
       "duration_ms": 181028,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/1DoFiO1x9P3Ls2LVI40qVj"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Est-ce que tu m'aimes ?",
+        "url": "https://open.spotify.com/album/0N1QJxB4j1y846Zz7g5Wtq"
+      },
+      "artists": [
+        {
+          "name": "Fyex",
+          "url": "https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM"
+        },
+        {
+          "name": "Kevin Krissen",
+          "url": "https://open.spotify.com/artist/136IMKXG5a8xUSYuTkCBMI"
+        },
+        {
+          "name": "Hyper Hamster",
+          "url": "https://open.spotify.com/artist/2zEmE2fUy3FPemLS0WI5fM"
+        }
+      ],
+      "duration_ms": 174620,
+      "name": "Est-ce que tu m'aimes ?",
+      "url": "https://open.spotify.com/track/3alxL5Z2ld9jGeacOJBWBb"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1763,6 +1763,30 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "GENESIS",
+        "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "duration_ms": 208804,
+      "name": "GENESIS",
+      "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "One By One (feat. Oaks) [Andromedik Remix]",
         "url": "https://open.spotify.com/album/16dGc8axqZ3AwFDfS6PmPQ"
       },
@@ -1787,30 +1811,6 @@
       "duration_ms": 181173,
       "name": "One By One (feat. Oaks) - Andromedik Remix",
       "url": "https://open.spotify.com/track/4tnQ6L9YvwkTjjiDuiCJjX"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "GENESIS",
-        "url": "https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y"
-      },
-      "artists": [
-        {
-          "name": "HI-LO",
-          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
-        },
-        {
-          "name": "Space 92",
-          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
-        },
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        }
-      ],
-      "duration_ms": 208804,
-      "name": "GENESIS",
-      "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
-      },
-      "artists": [
-        {
-          "name": "Layton Giordani",
-          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
-        }
-      ],
-      "duration_ms": 174565,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Body Drop",
         "url": "https://open.spotify.com/album/5djmS90kHePMsuqEmSLR6M"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 214684,
       "name": "Body Drop",
       "url": "https://open.spotify.com/track/3CWwoYqnCzerl9DhlRNYoI"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Paranoid",
+        "url": "https://open.spotify.com/album/7tjjNI3iFSjbkBqcS8NyVp"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "duration_ms": 174565,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/7MriQOSzV5A9qvD2qWHah5"
     },
     {
       "added_at": "2024-05-16 22:00:00",

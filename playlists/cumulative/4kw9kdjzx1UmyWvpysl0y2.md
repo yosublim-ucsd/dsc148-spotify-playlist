@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-731 songs - 1 day 18 hr 7 min
+732 songs - 1 day 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-21 | 2023-05-13 |
 | [FAR OUT \- VIP](https://open.spotify.com/track/7MkQcCKy90nZcoHGOdA7N8) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT \(VIP\)](https://open.spotify.com/album/1wIr5DAKLanHRO0E8DU7za) | 3:51 | 2023-12-06 | 2024-03-20 |
 | [FASTEST](https://open.spotify.com/track/2SFTvk2vpu26ZTpMuO3cjW) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq), [CLOUD ZERO](https://open.spotify.com/artist/5k8aKKH3WU39dXEbRyUhGJ) | [FASTEST](https://open.spotify.com/album/6PPdZI6Qg0AzTS10i2qxwl) | 2:30 | 2024-04-17 |  |
+| [Feel Again](https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71) | [OddKidOut](https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux), [ellie d.](https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh) | [Feel Again](https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW) | 2:47 | 2024-05-22 |  |
 | [Feel Again](https://open.spotify.com/track/4kqikvllN5GRPrxf9vQ1SR) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 3:15 | 2022-11-19 | 2023-02-17 |
 | [feeling](https://open.spotify.com/track/5mdCX1AXoc8EDupVjAn581) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [feeling](https://open.spotify.com/album/1tyMgTVA2zIUjppWaqmf5W) | 3:06 | 2022-02-04 | 2022-04-16 |
 | [Feeling Free](https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Feeling Free](https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB) | 2:59 | 2023-09-05 | 2023-12-14 |
@@ -327,7 +328,7 @@
 | [IT ISN'T ME](https://open.spotify.com/track/7KJ4sdjdKQdXgM47Ifd5RK) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [VOLPETRON ASCENDS EP](https://open.spotify.com/album/3KspUuYZY7CFg2BF72Tt03) | 3:07 | 2023-08-24 | 2023-12-14 |
 | [It's Not Love](https://open.spotify.com/track/7mv9t5XQUSHa4akJAwdmiZ) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Roee Yeger](https://open.spotify.com/artist/532H5OS6W0NQak3xMOp7fz), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [It's Not Love](https://open.spotify.com/album/3jUr6DL5fNek9PGfdKwxiE) | 4:49 | 2023-01-09 | 2023-03-23 |
 | [it’s not easy when you’re alone](https://open.spotify.com/track/1T44fRUBJqwWjZDttsMbJv) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV), [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [this feeling that never ends](https://open.spotify.com/album/3PKuwfjGrZmyjcPykCLjJv) | 2:09 | 2022-12-03 | 2023-02-25 |
-| [Johera](https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Johera](https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ) | 4:09 | 2024-03-04 |  |
+| [Johera](https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [Johera](https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ) | 4:09 | 2024-03-04 | 2024-05-23 |
 | [Journey](https://open.spotify.com/track/62MxAFvT4ro5MWT9QkS507) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [KLAXX](https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp) | [Journey](https://open.spotify.com/album/6mmKc4M94vTYr2lKAZo2dD) | 3:06 | 2022-09-27 | 2022-11-30 |
 | [Journey To Ascendance](https://open.spotify.com/track/7vtQedqaDBjJqg2QA6aDfd) | [YULA](https://open.spotify.com/artist/32GQyTofHn92DwudAFpVf8) | [Journey To Ascendance](https://open.spotify.com/album/6RRsIYwEOfoLA4pgcIzOiL) | 4:21 | 2022-11-19 | 2022-11-22 |
 | [Jupiter & Saturn](https://open.spotify.com/track/5kihqmQ7LLDHK3nEbqyyqm) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Jupiter & Saturn](https://open.spotify.com/album/5RqTuhUL1aoro59s9CKyqW) | 3:13 | 2022-06-17 | 2022-08-31 |
@@ -557,7 +558,7 @@
 | [Searchlight](https://open.spotify.com/track/5uvTLiE8me3c4rW3mlVQbL) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL), [Brandon Mignacca](https://open.spotify.com/artist/5k1EecpyjkutxtmZKlsBOj) | [Searchlight](https://open.spotify.com/album/6VhsXwh4KOtMPyXJSLnIm5) | 3:37 | 2022-02-09 | 2022-04-20 |
 | [Secrets](https://open.spotify.com/track/6rA8aGJkFECLPm6UKfPFdW) | [Hausman](https://open.spotify.com/artist/1jD9rZnKHp1tqnYMxSxkiQ) | [Secrets](https://open.spotify.com/album/37sG0du7RSmjM8VMg9E6NR) | 4:00 | 2021-11-26 | 2022-03-03 |
 | [see str8](https://open.spotify.com/track/3COeRgwnfUYpJN9AV8koIz) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [see str8](https://open.spotify.com/album/15afkTcJmSdZc8b3rkpQzo) | 4:00 | 2022-07-19 | 2022-10-01 |
-| [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 |  |
+| [SEE YOU DROP](https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SEE YOU DROP](https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz) | 2:37 | 2024-03-01 | 2024-05-23 |
 | [Sell Your Soul](https://open.spotify.com/track/2FePeEwAsqh7tspWUV2Ui6) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Existentia](https://open.spotify.com/album/1xyTd01otJ97KwyMQlcCSP) | 2:47 | 2022-11-19 | 2022-11-22 |
 | [Sell Your Soul](https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Sell Your Soul](https://open.spotify.com/album/1xVPfRWBXIb5d5FXFYSWYC) | 2:47 | 2022-09-26 | 2022-11-29 |
 | [Sensitive](https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 3:54 | 2022-10-29 | 2023-01-14 |

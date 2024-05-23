@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 
 > o melhor do trap dá o play e aumenta! Foto: MC Caverinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,451,532 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,452,145 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 25 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 26 | [De Marola](https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2) | [Azevedo](https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Skinny Beats](https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r) | [Paz Terrível](https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90) | 2:49 |
 | 27 | [Vida Rasa](https://open.spotify.com/track/5t2RXNtjGIzKPGiNYSU6FG) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [442](https://open.spotify.com/album/6Mu1OvykDP0nf1wtG77xpG) | 2:05 |
-| 28 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
+| 28 | [Melhor Só](https://open.spotify.com/track/2LTlykcdu0gwb7zcKneo2a) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Baco Exu do Blues](https://open.spotify.com/artist/5akTJ4daDNwrs95KlgQgY5), [Marquinho no Beat](https://open.spotify.com/artist/3eLR6eOKqqNDtHTbABNkn1) | [Melhor Só](https://open.spotify.com/album/17QQ2RosBKKrV5bHh4Z8tJ) | 3:49 |
 | 29 | [Dose de Gin](https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 2:57 |
 | 30 | [Mesma História](https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:43 |
 | 31 | [Loucura](https://open.spotify.com/track/4QCwvUs4ob87Tq9VP07Uo3) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr5uieiPUVM.md) - [plain]
 | 49 | [Amanhã](https://open.spotify.com/track/6nN8XpGqjA3CQmDy3BTx89) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Bvga Beatz](https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q) | [Amanhã](https://open.spotify.com/album/0jbfyfmfapZoYoXPXpHLSS) | 2:22 |
 | 50 | [Atlanta \- Spotify Singles](https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Atlanta \- Spotify Singles](https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY) | 2:01 |
 
-Snapshot ID: `ZkbIbAAAAADY7MLqDlDE2nU38X6vLJ2q`
+Snapshot ID: `Zk3QMAAAAAA3dKyZt38iTtNRP/atISd6`

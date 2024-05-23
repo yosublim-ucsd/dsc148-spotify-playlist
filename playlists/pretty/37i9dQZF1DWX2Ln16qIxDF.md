@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más trendy, o sea Maria Becerra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068,451 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,068,756 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 99 | [En Un Loop](https://open.spotify.com/track/2sYskpiXS8DD4tEsxoycpS) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [INTERMITENTE](https://open.spotify.com/album/30KCpzi4d2tMxyF5zsRU8j) | 2:49 |
 | 100 | [10percs](https://open.spotify.com/track/2V90V4Q8v9C19fKOakLUA8) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [10percs](https://open.spotify.com/album/5ffWOu69p9fUosQcolZbmE) | 2:06 |
 
-Snapshot ID: `ZkbIMAAAAACzr+Dq0pCxBS1690DZeQxL`
+Snapshot ID: `Zk3QMAAAAABdkAbc8MQFYn8iwIwvvZHp`

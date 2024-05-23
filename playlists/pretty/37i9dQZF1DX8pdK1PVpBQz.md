@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. <br/>Cover: DIVEBAR YOUTH Artwork: Isu Kim
+> The best new music by independent artists and labels\. Cover: DIVEBAR YOUTH<br/>Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,168 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,197 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Bury Me](https://open.spotify.com/track/0LhFzBT21BMCfm4VvXwn7W) | [neish](https://open.spotify.com/artist/4OhS3bWx7rkNbSe5VWnlNa) | [Bury Me](https://open.spotify.com/album/4odJErHwgNYOzT31qR2omg) | 2:55 |
 | 100 | [Malibu](https://open.spotify.com/track/5uHF2OIhwHoomJh4snRq8D) | [LSF](https://open.spotify.com/artist/7pqgKTaA1R7iaSHxcgXQZ9) | [Malibu](https://open.spotify.com/album/6FdKYjZq7I0Eqkpib3ygSM) | 3:00 |
 
-Snapshot ID: `Zkyo4AAAAAAXO0vTkvqw7S/0pcJIwZfO`
+Snapshot ID: `Zk3QMAAAAADAZsSGfxnO9frVustCIdUb`

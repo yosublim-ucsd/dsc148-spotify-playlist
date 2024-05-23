@@ -2,7 +2,7 @@
 
 ### [K\-Pop Hits 2024](https://open.spotify.com/playlist/7JXJKP3xMvIMbEBBGApTPQ)
 
-> Tune in for the years hottest Kpop tracks.K\-Pop Tunes \| Kpop Mix \| Kpop Boyband \| Kpop Girl Groups \| Cover: NewJeans
+> Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 
 103 songs - 5 hr 17 min
 

@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 306226,
+  "num_followers": 306277,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -231,18 +231,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Love Song",
-        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
       },
       "artists": [
         {
-          "name": "Softcult",
-          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
+          "name": "Swiss Portrait",
+          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
         }
       ],
-      "duration_ms": 171563,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
+      "duration_ms": 160700,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -279,18 +279,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/7tAW9jXsBbgsuRBLhuyqR7"
+        "name": "Love Song",
+        "url": "https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH"
       },
       "artists": [
         {
-          "name": "Swiss Portrait",
-          "url": "https://open.spotify.com/artist/0jeoy9hjbZq37CK6cepDcE"
+          "name": "Softcult",
+          "url": "https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0"
         }
       ],
-      "duration_ms": 160700,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
+      "duration_ms": 171563,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 294640,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Slide",
         "url": "https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 233333,
       "name": "Slide",
       "url": "https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/7B6jRQYFeJR4eUe2LBZfr4"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Hints",
-        "url": "https://open.spotify.com/album/7LtcG0hYC9ES31LPYoGiSz"
-      },
-      "artists": [
-        {
-          "name": "Low Hum",
-          "url": "https://open.spotify.com/artist/7AfmYGPRYiNkwKfV8LrqLd"
-        }
-      ],
-      "duration_ms": 197964,
-      "name": "Hints",
-      "url": "https://open.spotify.com/track/6RWiiQO8o3lL0h9glwiXuO"
-    },
-    {
       "added_at": "2023-07-21 10:37:28",
       "album": {
         "name": "number own",
@@ -787,6 +771,22 @@
       "duration_ms": 159032,
       "name": "number own",
       "url": "https://open.spotify.com/track/4RX4JxC2GZShiS8sqCRRuF"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Hints",
+        "url": "https://open.spotify.com/album/7LtcG0hYC9ES31LPYoGiSz"
+      },
+      "artists": [
+        {
+          "name": "Low Hum",
+          "url": "https://open.spotify.com/artist/7AfmYGPRYiNkwKfV8LrqLd"
+        }
+      ],
+      "duration_ms": 197964,
+      "name": "Hints",
+      "url": "https://open.spotify.com/track/6RWiiQO8o3lL0h9glwiXuO"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -819,38 +819,6 @@
       "duration_ms": 204464,
       "name": "rest up",
       "url": "https://open.spotify.com/track/5vFpDxSYbw2ooyuKFfXNPr"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "If I Come Home",
-        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
-      },
-      "artists": [
-        {
-          "name": "rozey",
-          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
-        }
-      ],
-      "duration_ms": 216145,
-      "name": "If I Come Home",
-      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -891,6 +859,38 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "If I Come Home",
+        "url": "https://open.spotify.com/album/7l2qDkPU22dXV5mylQTj45"
+      },
+      "artists": [
+        {
+          "name": "rozey",
+          "url": "https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u"
+        }
+      ],
+      "duration_ms": 216145,
+      "name": "If I Come Home",
+      "url": "https://open.spotify.com/track/1pqrOSuEubjirB4OyBNHPm"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR"
+      },
+      "artists": [
+        {
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -921,20 +921,20 @@
       "url": "https://open.spotify.com/track/5Cd4brIkLNzLJJUxugJA1X"
     },
     {
-      "added_at": "2024-02-21 11:35:46",
+      "added_at": "2023-09-29 10:51:04",
       "album": {
-        "name": "Standard Tuning",
-        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
+        "name": "Lost In A Rush Of Emptiness",
+        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
       "artists": [
         {
-          "name": "bdrmm",
-          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+          "name": "Bleach Lab",
+          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
         }
       ],
-      "duration_ms": 264279,
-      "name": "Standard Tuning",
-      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
+      "duration_ms": 198767,
+      "name": "Nothing Left To Lose",
+      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -953,36 +953,20 @@
       "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
     },
     {
-      "added_at": "2023-09-29 10:51:04",
+      "added_at": "2024-02-21 11:35:46",
       "album": {
-        "name": "Lost In A Rush Of Emptiness",
-        "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
+        "name": "Standard Tuning",
+        "url": "https://open.spotify.com/album/3kNoURlBf85G3B80lndXSP"
       },
       "artists": [
         {
-          "name": "Bleach Lab",
-          "url": "https://open.spotify.com/artist/2B70zWgfCAGQ8o2ImS2bH8"
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
         }
       ],
-      "duration_ms": 198767,
-      "name": "Nothing Left To Lose",
-      "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
-        "name": "Flying Wig",
-        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
-      },
-      "artists": [
-        {
-          "name": "Devendra Banhart",
-          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
-        }
-      ],
-      "duration_ms": 268659,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
+      "duration_ms": 264279,
+      "name": "Standard Tuning",
+      "url": "https://open.spotify.com/track/61MO0SkYsYMeREzLNqFI2p"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1003,6 +987,22 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "Flying Wig",
+        "url": "https://open.spotify.com/album/7vvTyj4ORSliWgfqdBspYp"
+      },
+      "artists": [
+        {
+          "name": "Devendra Banhart",
+          "url": "https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ"
+        }
+      ],
+      "duration_ms": 268659,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/46JwWkm9rEycvh5mI4lpCx"
     },
     {
       "added_at": "2023-09-29 10:51:04",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/1xEZKgQsD52AvrFxpON5EX"
     },
     {
+      "added_at": "2024-01-26 00:52:30",
+      "album": {
+        "name": "obliterate me",
+        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 233201,
+      "name": "obliterate me",
+      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
+    },
+    {
       "added_at": "2024-02-09 00:00:00",
       "album": {
         "name": "Honeybee",
@@ -1163,22 +1179,6 @@
       "duration_ms": 322840,
       "name": "So Humble the Afternoon",
       "url": "https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx"
-    },
-    {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "obliterate me",
-        "url": "https://open.spotify.com/album/19oywMyEwcitk495lSqOyM"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 233201,
-      "name": "obliterate me",
-      "url": "https://open.spotify.com/track/7qRMiZxKOdihhkdlJthqxP"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "what if love isn't enough",
+        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
+      },
+      "artists": [
+        {
+          "name": "ellis",
+          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
+        }
+      ],
+      "duration_ms": 228522,
+      "name": "what if love isn't enough",
+      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Ethernity",
         "url": "https://open.spotify.com/album/50vJHtZI95zHU1zqjAsVu8"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "what if love isn't enough",
-        "url": "https://open.spotify.com/album/3bOj7Y6H1q8TqqEoAIGjd0"
-      },
-      "artists": [
-        {
-          "name": "ellis",
-          "url": "https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN"
-        }
-      ],
-      "duration_ms": 228522,
-      "name": "what if love isn't enough",
-      "url": "https://open.spotify.com/track/3eIGb91cDxpyaGoDjflUoL"
     }
   ],
   "unique_name": "Dreampop",

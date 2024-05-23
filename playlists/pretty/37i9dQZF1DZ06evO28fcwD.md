@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 
 ### [This Is Ladysmith Black Mambazo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO28fcwD)
 
-> This Is Ladysmith Black Mambazo\. Los temas esenciales, todos en una lista.
+> This is Ladysmith Black Mambazo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,786 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,789 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO28fcwD.md) - [plain]
 | 49 | [Amagugu](https://open.spotify.com/track/4Yr0GLFCwZAyIV8WjYYXRk) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Ezulwini Siyakhona](https://open.spotify.com/album/2VOZDi18mx1k4feiFSXOD6) | 4:00 |
 | 50 | [Wangibambezela \(Message From His Heart\)](https://open.spotify.com/track/43EM1Raenxk6YrW73ytjcX) | [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Wenyukela](https://open.spotify.com/album/1sCK9ROgvlWRvN08keQmb7) | 4:57 |
 
-Snapshot ID: `ZkqSgAAAAAD46OUrCPLXEGnde3kKCAhf`
+Snapshot ID: `ZkqSgAAAAABLVn6s9t1i1Oj73he0j4JN`

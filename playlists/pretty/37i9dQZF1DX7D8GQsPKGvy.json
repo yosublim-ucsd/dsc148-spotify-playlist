@@ -1,6 +1,6 @@
 {
   "description": "Remixed hits from the past.",
-  "num_followers": 18798,
+  "num_followers": 19430,
   "original_name": "Remix Hits",
   "owner": {
     "name": "Spotify",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Players (David Guetta Remix)",
-        "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 152494,
-      "name": "Players (with David Guetta) - David Guetta Remix",
-      "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Into You (3LAU Remix)",
         "url": "https://open.spotify.com/album/3c5hq7WzAnJapzz9CNuuLl"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 197146,
       "name": "Into You - 3LAU Remix",
       "url": "https://open.spotify.com/track/1cfVkL84XmRON3Gl9jDXKI"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "Players (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/0SoJzCzWfs9nwKrLDiuXdu"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 152494,
+      "name": "Players (with David Guetta) - David Guetta Remix",
+      "url": "https://open.spotify.com/track/2bgGETGKhv7V0WwQzzWqwc"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1015,30 +1015,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "Body (Dzeko Remix)",
-        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Brando",
-          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
-        },
-        {
-          "name": "Dzeko",
-          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Body - Dzeko Remix",
-      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "Midnight City (Eric Prydz Private Remix)",
         "url": "https://open.spotify.com/album/7lOidIGDpO6imOl4zDGQ9p"
       },
@@ -1059,22 +1035,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "If I Can't Have You (Gryffin Remix)",
-        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+        "name": "Body (Dzeko Remix)",
+        "url": "https://open.spotify.com/album/27BS0fcfFoF6hNMdJZPMRR"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Brando",
+          "url": "https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE"
+        },
+        {
+          "name": "Dzeko",
+          "url": "https://open.spotify.com/artist/5vQfv3s2Z2SRdPZKr82ABw"
         }
       ],
-      "duration_ms": 253040,
-      "name": "If I Can't Have You - Gryffin Remix",
-      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
+      "duration_ms": 165714,
+      "name": "Body - Dzeko Remix",
+      "url": "https://open.spotify.com/track/4RgDgaohkG08f630ZT9QKc"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1119,6 +1099,26 @@
       "duration_ms": 155840,
       "name": "Let Me Love You - Ti\u00ebsto's AFTR:HRS Mix",
       "url": "https://open.spotify.com/track/7srwQKnqYsIY26Aatbazaq"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "If I Can't Have You (Gryffin Remix)",
+        "url": "https://open.spotify.com/album/4QxzbfSsVryEQwvPFEV5Iu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "If I Can't Have You - Gryffin Remix",
+      "url": "https://open.spotify.com/track/1IXGILkPm0tOCNeq00kCPa"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "...Ready For It? (BloodPop\u00ae Remix)",
-        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "BloodPop\u00ae",
-          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
-        }
-      ],
-      "duration_ms": 189508,
-      "name": "...Ready For It? - BloodPop\u00ae Remix",
-      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
         "name": "What About Us (The Remixes)",
         "url": "https://open.spotify.com/album/0fnhGErI5xy7fNuzLP4aDx"
       },
@@ -1259,6 +1239,26 @@
       "duration_ms": 233902,
       "name": "What About Us - Cash Cash Remix",
       "url": "https://open.spotify.com/track/5Xt5iEbljmwJW51LMTQ6Nx"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
+        "name": "...Ready For It? (BloodPop\u00ae Remix)",
+        "url": "https://open.spotify.com/album/45fMDoh9dhhQicddIZzhKM"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "BloodPop\u00ae",
+          "url": "https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO"
+        }
+      ],
+      "duration_ms": 189508,
+      "name": "...Ready For It? - BloodPop\u00ae Remix",
+      "url": "https://open.spotify.com/track/1Ygm9KdH3wbzDekO8JgxcW"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 286346,
+      "name": "Paradise - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
+    },
+    {
+      "added_at": "2023-07-03 13:15:34",
+      "album": {
         "name": "Final Song (Diplo & Jauz Remix)",
         "url": "https://open.spotify.com/album/0Pu2TfRdLnYUvY16n7c4fK"
       },
@@ -1363,26 +1383,6 @@
       "duration_ms": 172539,
       "name": "No Lie - Sam Feldt Remix",
       "url": "https://open.spotify.com/track/1nRA1PmMNZMv4BMV4Je8uK"
-    },
-    {
-      "added_at": "2023-07-03 13:15:34",
-      "album": {
-        "name": "Princess of China",
-        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 286346,
-      "name": "Paradise - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/0pjMTISKHTJkogN1BPZxaC"
     },
     {
       "added_at": "2023-07-03 13:15:34",
@@ -2175,26 +2175,34 @@
     {
       "added_at": "2023-07-03 13:15:34",
       "album": {
-        "name": "First Time (Remixes)",
-        "url": "https://open.spotify.com/album/7HHIhheCJaHwKL6fNXEsUI"
+        "name": "Lose Control (The Remixes, Pt. 2)",
+        "url": "https://open.spotify.com/album/6DbsmA9K8WDhUgu3ZuLcBX"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
         },
         {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        },
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "Badd Dimes",
+          "url": "https://open.spotify.com/artist/4ddhmWe0fgEqOyb2kihLWB"
         }
       ],
-      "duration_ms": 173440,
-      "name": "First Time - Gryffin Remix",
-      "url": "https://open.spotify.com/track/6LIe9o2p1xfj72rx4NDY8k"
+      "duration_ms": 207021,
+      "name": "Lose Control - ChildsPlay & Badd Dimes Remix",
+      "url": "https://open.spotify.com/track/44Fy9nmj1bBh42WviVea0m"
     }
   ],
   "unique_name": "Remix Hits",

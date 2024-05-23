@@ -2,9 +2,9 @@
 
 ### [Chill Vibes](https://open.spotify.com/playlist/37i9dQZF1DX889U0CL85jj)
 
-> Turn this on, and relax to certified good chill indie and beyond.
+> Relax to certified good chill indie and beyond.
 
-618 songs - 1 day 11 hr 45 min
+621 songs - 1 day 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Blue](https://open.spotify.com/track/4GL8hK0rhcjCrJQx0x6WEx) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Blue](https://open.spotify.com/album/6pCv2ZVC723QBxXYWPVBCF) | 2:41 | 2023-02-15 |  |
 | [Blue Hour](https://open.spotify.com/track/6f9BnONLZr0rpB5thUzzlW) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:31 | 2022-11-11 | 2023-09-08 |
 | [Blue Hour](https://open.spotify.com/track/7lggwV1nP2sMYOieWNvjfw) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Blue Hour](https://open.spotify.com/album/2m57meR4I847cmV8m7cNxn) | 3:31 | 2022-11-11 | 2023-02-02 |
-| [Bog Song](https://open.spotify.com/track/6r3lH9rMcwCDdx2SgcGRiH) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Bog Song](https://open.spotify.com/album/2xLKqKxH6sfgeAUpR9cT1V) | 4:52 | 2023-07-21 |  |
+| [Bog Song](https://open.spotify.com/track/6r3lH9rMcwCDdx2SgcGRiH) | [Holy Wave](https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b) | [Bog Song](https://open.spotify.com/album/2xLKqKxH6sfgeAUpR9cT1V) | 4:52 | 2023-07-21 | 2024-05-23 |
 | [BOGU$](https://open.spotify.com/track/3MGozJX0jp6ynA97MDwOUU) | [Annalise Azadian](https://open.spotify.com/artist/0HfhX8IRgwiQm4FRmGCV5c) | [BOGU$](https://open.spotify.com/album/0Bi0DMc4BkYkvT5QeC54g7) | 2:44 | 2020-08-21 | 2022-09-03 |
 | [Bolero](https://open.spotify.com/track/74i9MJfZdRhcv6XnAfwjBA) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bolero](https://open.spotify.com/album/4HOdt0FN0eALgbFNhpACU7) | 3:25 | 2021-10-08 | 2023-04-22 |
 | [Borderline \- Blood Orange Remix](https://open.spotify.com/track/7IbGa7PhnXHvUOvhELtGgL) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Borderline \(Blood Orange Remix\)](https://open.spotify.com/album/2twIktE58aJg5kF95rTpch) | 7:17 | 2020-09-25 | 2022-01-22 |
@@ -112,6 +112,7 @@
 | [city](https://open.spotify.com/track/7ezWFPZxTDiQMl7NlAXdkR) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [city](https://open.spotify.com/album/7B56wFrXjSdNgudqe46eKz) | 2:21 | 2020-07-31 | 2022-01-22 |
 | [cloud castle](https://open.spotify.com/track/3gyIcFToYNdOJycgMShtb2) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/3SY8e6mECmhnR3XYtY6R9g) | 1:03 | 2021-02-05 | 2022-11-02 |
 | [cloud castle](https://open.spotify.com/track/6cSkQRxoJt6FHGrWVIGDTJ) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [jams EP](https://open.spotify.com/album/0qecSxB8NZ4ga9s9FqkboY) | 1:03 | 2022-08-19 | 2022-11-12 |
+| [Cold](https://open.spotify.com/track/3htYFunt7YtsGChtMlHmkc) | [Flawed Mangoes](https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG) | [Cold](https://open.spotify.com/album/6elmTOi3sOIcpmBNAGfbAV) | 3:21 | 2024-05-22 |  |
 | [Cold War](https://open.spotify.com/track/6DwiGVCgXGREeCyJZtX7S1) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Blood Type](https://open.spotify.com/album/1xpNb3oOnWsZJYQyomLe4Z) | 3:22 | 2020-03-30 | 2022-08-06 |
 | [Colors We Made](https://open.spotify.com/track/1EWK3hODDw0DaiS5ffsPO7) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Permanent Beta](https://open.spotify.com/album/4s22gKBrVyGtFSXez21EWV) | 2:50 | 2020-08-21 | 2022-12-15 |
 | [Colors We Made](https://open.spotify.com/track/2wnt2dMobi8aEqsvYK8N0k) | [Lani Rose](https://open.spotify.com/artist/7bdI7Q9ffxcej6cfVUktvb) | [Colors We Made](https://open.spotify.com/album/6efiQ3j3RIFy6oYHbeziIu) | 2:50 | 2022-08-19 | 2023-01-14 |
@@ -425,6 +426,7 @@
 | [Promise](https://open.spotify.com/track/42sMyIVgpVv9zFFQ2rdZ0P) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN) | [Promise](https://open.spotify.com/album/1vt3ZOyY1VodhBDoPZSlIi) | 3:23 | 2022-07-15 | 2023-04-22 |
 | [Queen of Paisley](https://open.spotify.com/track/2YwDDVHflNhUKgu70WR7OH) | [Silas Short](https://open.spotify.com/artist/4qFyLjhOZ9HGh22ggqoUBQ) | [Queen of Paisley](https://open.spotify.com/album/68YvD3abQk3tHk3blTVnRF) | 4:04 | 2021-08-27 | 2023-04-01 |
 | [Quick Stop By](https://open.spotify.com/track/40pECTjUhc3WgzF5Lj7SXg) | [Boy Willows](https://open.spotify.com/artist/41JVKMtlK9ecoACJu1xWca) | [Choking For A Year](https://open.spotify.com/album/24iwH7UIVd1TncjuFLSegC) | 3:15 | 2022-11-11 | 2022-12-24 |
+| [Quit Your Job, Runaway!](https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [Quit Your Job, Runaway!](https://open.spotify.com/album/6027fNILSRndfej1CldyP4) | 2:46 | 2024-05-22 |  |
 | [RADIO SILENCE](https://open.spotify.com/track/2XnKHgfNOJOMj2B7u5qiD4) | [Bensbeendead.](https://open.spotify.com/artist/6MJHYFIRxicXnYNhDdfn80) | [GARDENING](https://open.spotify.com/album/7geyON27pFNOLshvNKiYqk) | 4:15 | 2020-10-16 | 2022-01-22 |
 | [Rain](https://open.spotify.com/track/72afDNRJsldkG7R02rRdA1) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Rain](https://open.spotify.com/album/4SHF6hbHOAAOarZIUzpXLd) | 2:31 | 2020-09-15 | 2023-02-04 |
 | [Rainbow Tables \(feat\. Biig Piig\)](https://open.spotify.com/track/2XpohxcjYvNerUpTrjefcP) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Rainbow Tables \(feat\. Biig Piig\)](https://open.spotify.com/album/2iEDOlUmd5O0SYLdIdwy8M) | 3:03 | 2022-08-05 | 2023-04-22 |
@@ -451,7 +453,7 @@
 | [Satellites](https://open.spotify.com/track/67zg0RXCLGmf934W2H2ooM) | [Chartreuse](https://open.spotify.com/artist/3U58oqsrbpLo0EbARkZrBW), [Orlando Weeks](https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA) | [Satellites](https://open.spotify.com/album/5wvHPnrNyTIQmZuqEPUgLO) | 4:00 | 2022-11-07 |  |
 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 | 2022-08-05 | 2024-02-24 |
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-09-29 | 2024-04-19 |
-| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 |  |
+| [seasons](https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 4:16 | 2023-07-12 | 2024-05-23 |
 | [Secrets](https://open.spotify.com/track/5ktGBmi2zJOqcoVxxuzmcD) | [Kevitch](https://open.spotify.com/artist/5TBHVZmjr81pOyk8gi0HmI) | [Secrets](https://open.spotify.com/album/50QXe7xHd3i6rhYYxeQAJF) | 2:53 | 2023-02-16 | 2023-07-22 |
 | [Seigfried](https://open.spotify.com/track/2MccEWWQ00oLtGjeOQKibQ) | [Justice Der](https://open.spotify.com/artist/2N79L5eT2Xraec4UJsi2Fz) | [Favorites 3](https://open.spotify.com/album/140HPATke2m0iUEJ0kNb5D) | 6:13 | 2022-04-29 |  |
 | [Selene](https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Selene](https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7) | 4:54 | 2023-03-17 | 2024-03-20 |
@@ -498,6 +500,7 @@
 | [Stanley](https://open.spotify.com/track/3oEygw3VoOhoqPn6EoCw9n) | [North Americans](https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S) | [Going Steady](https://open.spotify.com/album/26P67Eiu9rHgW52g3vsRrY) | 2:06 | 2023-09-07 | 2024-02-24 |
 | [Star Song](https://open.spotify.com/track/4EZIrBbmC9MqtxXNUrlho4) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Star Song](https://open.spotify.com/album/1YXaxdoQwwzdpLQDDDpmPD) | 3:30 | 2023-03-02 | 2024-02-06 |
 | [Start Again](https://open.spotify.com/track/1paqDaEmvtY89pZPso63bT) | [Steve Cousins](https://open.spotify.com/artist/48W7OjKwB7Aj78pMskyZiO) | [Start Again](https://open.spotify.com/album/3qyt5asteYs11agJXDNBSq) | 3:00 | 2020-05-29 | 2022-01-22 |
+| [State of Mind](https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 5:37 | 2024-05-22 |  |
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2023-08-11 |  |
 | [STAY](https://open.spotify.com/track/4xVeqNkWlKZkEqsmD8akJp) | [Max Leonard](https://open.spotify.com/artist/5UXiN3pIEW9zZQXQY3vwew), [Jayden](https://open.spotify.com/artist/2TYELN8GW9hc6ft18Knmrx) | [STAY](https://open.spotify.com/album/6lmSVJO6vLr5zlPjVHkG5M) | 4:11 | 2023-01-13 | 2023-08-12 |
 | [Stay Where You Are](https://open.spotify.com/track/1hCss2zjMPOdWFbr5Ryf3F) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/4gHiYSPUmmPoTT8h4AHHaS) | 3:29 | 2020-05-22 | 2022-07-29 |

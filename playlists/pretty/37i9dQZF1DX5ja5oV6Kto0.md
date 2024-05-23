@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: SGawD
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,106 likes - 80 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,136 likes - 80 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 23 | [BEBE](https://open.spotify.com/track/6g66M8kCsTHH62T7oT0K3I) | [boistory](https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW) | [BEBE/CINNAMON](https://open.spotify.com/album/1xNUH2MsviQz6p4firxKHR) | 2:45 |
 | 24 | [Do Not Disturb](https://open.spotify.com/track/0yiBLJp8JFeJU8DcJeuwjU) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Do Not Disturb](https://open.spotify.com/album/4sSm5RNKqNxeJEO6f5M7M9) | 2:22 |
 | 25 | [Naija Funk](https://open.spotify.com/track/368hIemlcjDPQuYulhJrHE) | [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Naija Funk](https://open.spotify.com/album/10MuD6qY8FZx08xgnlJc7O) | 2:06 |
-| 26 | [Trust The Process](https://open.spotify.com/track/61NC6VVyBuHohAm8MWVrbF) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [Trust The Process](https://open.spotify.com/album/3WqKChd04Gc1kzJmkbYQ0E) | 2:05 |
+| 26 | [TRUST THE PROCESS](https://open.spotify.com/track/61NC6VVyBuHohAm8MWVrbF) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [Thekiddnk](https://open.spotify.com/artist/1rVu32t9I4VAf5CvShNpDy) | [TRUST THE PROCESS](https://open.spotify.com/album/3WqKChd04Gc1kzJmkbYQ0E) | 2:05 |
 | 27 | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/track/5NSR2CDIcWkV8aXTDjF4ur) | [Major AJ](https://open.spotify.com/artist/5PLTdezWnkHzUBGqQ2P6cT), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Some Kind Things \(feat\. PsychoYP & Minz\)](https://open.spotify.com/album/1ybxzzMBGSlfigEsfuXtsF) | 2:46 |
 | 28 | [Red Potion](https://open.spotify.com/track/6THzboswz9kc4gfkmTTePN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:54 |
 | 29 | [SINK OR SWIM](https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4) | [SOLU](https://open.spotify.com/artist/6HLMSqpfFuN2s2AW04nyCt) | [SINK OR SWIM](https://open.spotify.com/album/34Db2WinZb68Nk0cvWirdt) | 3:10 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 79 | [Know Me Well](https://open.spotify.com/track/7KwPDwN7DOJdtM202zds6Y) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Know Me Well](https://open.spotify.com/album/23hAI6sqZbVi34etUaxPJr) | 2:39 |
 | 80 | [Last Call](https://open.spotify.com/track/4vASmHoLBcndZfYv3vvBLH) | [RBJ](https://open.spotify.com/artist/3TgEQwGpMbs5mGx4coPViP), [BRYAN THE MENSAH](https://open.spotify.com/artist/2zsThoavhdt8NBt6OQLfw2) | [Last Call](https://open.spotify.com/album/3nqUm4ybg7MEcr8DEBBQ4B) | 3:21 |
 
-Snapshot ID: `ZkaePAAAAABql15OWdDMM8z0erBY97zr`
+Snapshot ID: `Zk3QMAAAAAARik/yNkw7Zf5IR80XoHx0`

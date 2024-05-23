@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,254 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,278 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 49 | [HR Alee](https://open.spotify.com/track/7dvIesoeetHINXgjqGJNXD) | [Deepak Sharma](https://open.spotify.com/artist/1rAdtSzr09FZquUOXkEMNQ) | [HR Alee](https://open.spotify.com/album/1uCXOyeJUEJ6mYLOZsUau0) | 2:57 |
 | 50 | [Things We Do](https://open.spotify.com/track/7yHpwPG691Bi52Lta0HtFj) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Things We Do](https://open.spotify.com/album/4PmrsxOsKa6wgwXK07Nz4k) | 2:50 |
 
-Snapshot ID: `Zkt4qgAAAACH6b6V6TXxHNPrP43VJ+Pd`
+Snapshot ID: `Zk3QMAAAAACE5d9rY/rk8z6OsCcaq0gu`

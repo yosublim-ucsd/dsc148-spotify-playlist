@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWTMYgB8TqtmR.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWTMYgB8TqtmR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMYgB8TqtmR)
 
-### [It's Hits Sweden](https://open.spotify.com/playlist/37i9dQZF1DWTMYgB8TqtmR)
+### [Hot Hits Sweden](https://open.spotify.com/playlist/37i9dQZF1DWTMYgB8TqtmR)
 
-> It's Hits – största och bästa hitsen just nu!
+> Hot Hits – största och bästa hitsen just nu!
 
 743 songs - 1 day 13 hr 30 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 287 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [Бавария](https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG) | [VANE$$A](https://open.spotify.com/artist/12a4KgFut39rBB8WjeN2oL), [Konstantin](https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8) | [Бавария](https://open.spotify.com/album/2yFMOSTwQWSgBkR3wDA9YG) | 3:17 |
 | 50 | [TAKA TAKA](https://open.spotify.com/track/2mA1BVYwzbhRqqkkkFQx83) | [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [TAKA TAKA](https://open.spotify.com/album/7bQTgMCz2F7KOyvl46Uf9y) | 3:04 |
 
-Snapshot ID: `LeAEwAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LeFWQAAAAAAAAAAAAAAAAAAAAAAAAGVu`

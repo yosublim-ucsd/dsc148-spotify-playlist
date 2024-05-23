@@ -4,7 +4,7 @@
 
 > Billie Eilish in cover + le migliori uscite di questa settimana!
 
-370 songs - 18 hr 44 min
+371 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,7 +348,8 @@
 | [Toro](https://open.spotify.com/track/62QValXcWLH5RSnZRFeKKl) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Toro / Alone in Miami](https://open.spotify.com/album/6uXCWFQ6aKYMbIvJQPObt9) | 2:55 | 2024-05-09 | 2024-05-17 |
 | [TRISTE](https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [TRISTE](https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m) | 2:26 | 2024-05-16 |  |
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-04-26 | 2024-05-03 |
-| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 | 2024-05-16 |  |
+| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 3:35 | 2024-05-22 |  |
+| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 | 2024-05-16 | 2024-05-23 |
 | [UH AH](https://open.spotify.com/track/3sZAXrAnjZr26ORoDAdnPJ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Limbo](https://open.spotify.com/album/4ohRMb0hz3WWv8RYwd5IsV) | 2:40 | 2024-05-09 | 2024-05-17 |
 | [umorismo italiano \(feat\. Guè\)](https://open.spotify.com/track/2SDqKQUP5q05u8Wty71mVJ) | [Michele Bravi](https://open.spotify.com/artist/1CF7hrTuWgErEa6HBFJ8d3), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [tu cosa vedi quando chiudi gli occhi](https://open.spotify.com/album/5NeKpBjSpAypbay1wJB87B) | 3:33 | 2024-05-09 | 2024-05-17 |
 | [Una casa in cui tornare](https://open.spotify.com/track/7zoS1OtnYQdB9EKB29tnM6) | [Elephant Brain](https://open.spotify.com/artist/7seUm7aEVYUy5M61nVARgt) | [Una casa in cui tornare](https://open.spotify.com/album/31V9wKtqfO4OVx9bKCbnSU) | 3:02 | 2024-05-16 |  |

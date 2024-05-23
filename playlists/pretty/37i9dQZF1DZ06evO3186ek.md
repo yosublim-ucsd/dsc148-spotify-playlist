@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 ### [This Is Maverick City Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3186ek)
 
-> This Is Maverick City Music\. Los temas esenciales, todos en una lista.
+> This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,739 likes - 52 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,834 likes - 52 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 51 | [Conmigo \(feat\. Nate Diaz & Amanda Camille\)](https://open.spotify.com/track/6Ikao91sXHsljCRhkSX20j) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN), [Amanda Camille](https://open.spotify.com/artist/6HGQmlvyrjFK2ZWuSK2YIR) | [Como En El Cielo](https://open.spotify.com/album/144N5Ys734Sm3JHLXTTnCD) | 5:44 |
 | 52 | [My Life Is In Your Hands](https://open.spotify.com/track/01sXKzitAQVsljePSMpxuv) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Kingdom Book One](https://open.spotify.com/album/4H7cvd7qmzOX4o1R8GS3X3) | 7:01 |
 
-Snapshot ID: `ZkqSgAAAAAB05IAQOtlBBVBY0kbUpNTe`
+Snapshot ID: `ZkqSgAAAAADujZVJNcXnJ6KvXiTd4AZ7`

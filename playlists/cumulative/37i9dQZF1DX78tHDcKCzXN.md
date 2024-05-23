@@ -4,7 +4,7 @@
 
 > To the world, this is NCT! This is NCT 127!
 
-124 songs - 7 hr 21 min
+125 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chain](https://open.spotify.com/track/3u34tP62fx4FI4IbqmgiGe) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Chain](https://open.spotify.com/album/63sTGIOG5yT6YpVwKMl21I) | 3:42 | 2021-10-25 |  |
 | [Cherry Bomb](https://open.spotify.com/track/3o8QzWsiiqTUVgBZfHgF58) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 CHERRY BOMB– The 3rd Mini Album](https://open.spotify.com/album/7H5FkCA6cTDBX3wtvIbN8s) | 3:56 | 2021-10-25 |  |
 | [City 127](https://open.spotify.com/track/0UEknUD00qJuDjljnI1zw9) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:19 | 2021-10-25 |  |
+| [Colors](https://open.spotify.com/track/4qeRAXlNZ03SYvoXJNs2v2) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Colors](https://open.spotify.com/album/5URzZroiLUZhdMOwq6KsRk) | 3:13 | 2024-05-22 |  |
 | [Come Back](https://open.spotify.com/track/33rp9HxDEoriuRUOr0iWpX) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Regular\-Irregular \- The 1st Album](https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU) | 3:25 | 2021-10-25 |  |
 | [Crash Landing](https://open.spotify.com/track/66eZq38bO1ofzmpNa02XiL) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [2 Baddies \- The 4th Album](https://open.spotify.com/album/6p80QT3z7kOHpYdnsItQTQ) | 3:24 | 2022-09-16 |  |
 | [Day Dream](https://open.spotify.com/track/01MofO92inu7XFSfCXwsbT) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:25 | 2022-09-16 | 2022-11-13 |

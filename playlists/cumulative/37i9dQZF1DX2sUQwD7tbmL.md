@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-680 songs - 1 day 14 hr 19 min
+682 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [All Night](https://open.spotify.com/track/1mHGtXWQSfnzB5CLVnsykO) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [All Night](https://open.spotify.com/album/4GJuAhTBGZUgdAFLU5phPk) | 3:28 | 2023-09-29 |  |
 | [All Or Nothin](https://open.spotify.com/track/1PmLZMYwFqOosXYoRypUuh) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [All Or Nothin](https://open.spotify.com/album/5mTIxr0fRYDGTbTrRyRzS1) | 2:28 | 2021-05-01 | 2022-04-14 |
 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 | 2023-07-07 |  |
+| [All Your Life](https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [All Your Life](https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez) | 3:16 | 2024-05-22 |  |
 | [Always Forever](https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Static](https://open.spotify.com/album/6WnfWrfsfu7T9TXbHIFHX9) | 3:43 | 2022-04-13 | 2023-03-25 |
 | [Always Like This](https://open.spotify.com/track/73M2Vb5MfZh8iGKudkMtlw) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [I Had The Blues But I Shook Them Loose](https://open.spotify.com/album/4X0bhkSBOfcnOPyfG5Ef6a) | 4:05 | 2022-04-13 | 2023-02-14 |
 | [Always on My Mind](https://open.spotify.com/track/6JBOTY4U3xGtE2Wpzp2uA3) | [Roller Derby](https://open.spotify.com/artist/2MCyjG9viaC9IM39VO3yDe) | [Always on My Mind](https://open.spotify.com/album/5i0Y2Sy1MsI93LMM8FcyX4) | 3:29 | 2024-03-01 |  |
@@ -96,6 +97,7 @@
 | [Bluebird](https://open.spotify.com/track/4Gy9i08hxSqDR5v2RPqXmu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 3:47 | 2021-05-01 | 2022-01-17 |
 | [Body](https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Body](https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3) | 3:20 | 2023-05-19 |  |
 | [Bon Dance](https://open.spotify.com/track/5qSXYD0fEuTOHfXZxH8arx) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [THE MILLENNIUM PARADE](https://open.spotify.com/album/5eDx77cI1mT3psVn6cUFjI) | 3:48 | 2021-05-01 | 2022-04-14 |
+| [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 | 2024-05-22 |  |
 | [Bored Again!](https://open.spotify.com/track/3ufH99mUTvwXajptLNsPQi) | [Buddy Ross](https://open.spotify.com/artist/5H7nJuWib5HbOYYwaAODwn), [Gabriel Delicious](https://open.spotify.com/artist/3DYynjdQqDEoGqwLtHm3Hh) | [Bored Again!](https://open.spotify.com/album/3sQW1u7UaAprUmzDOhUO18) | 4:18 | 2021-05-01 | 2022-03-22 |
 | [Boys](https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [LP3](https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX) | 4:13 | 2023-07-11 |  |
 | [Boys Will Be Bugs](https://open.spotify.com/track/6suYoN4gFkanqOBn5yRnJC) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 5:29 | 2022-04-13 | 2023-02-03 |
@@ -173,7 +175,7 @@
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-23 | 2022-12-31 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-04-12 |  |
 | [Don't Cry](https://open.spotify.com/track/6qXbp2zTI2WJSR0OV4AlJ8) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Don't Cry](https://open.spotify.com/album/1513Yt291Vh9Di4lCEzKjS) | 3:22 | 2021-05-01 | 2022-04-13 |
-| [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-10 |  |
+| [Don't Fade Away](https://open.spotify.com/track/21lFRFkdf5sgITNZCDMeDq) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Don't Fade Away](https://open.spotify.com/album/0YqMt0AKeSCOfXIPuE3lJO) | 3:22 | 2023-03-10 | 2024-05-23 |
 | [Don't Keep Me Around](https://open.spotify.com/track/35jSR5mRjigfhzlcKX2XX1) | [Maybird](https://open.spotify.com/artist/0Aev3tJ4D1LLfG6q9f7fkP) | [Don't Keep Me Around](https://open.spotify.com/album/2PFROf9YKGMZm95FHkbeAW) | 3:17 | 2021-05-01 | 2022-04-13 |
 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 | 2024-04-18 |  |
 | [Don't Wanna](https://open.spotify.com/track/5hMffqN6nHPltws5nhjTpR) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 | 2021-07-19 |  |
@@ -182,7 +184,7 @@
 | [Down That Road](https://open.spotify.com/track/5IumbZ7yeqdlQG6did2IuL) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [Down That Road](https://open.spotify.com/album/2BD6lBUoeYarXRnjvQxy3C) | 4:17 | 2021-05-01 | 2022-04-13 |
 | [Drag](https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Drag](https://open.spotify.com/album/4hn0zhFiaWgWgA5I9POoA2) | 3:09 | 2021-05-01 | 2022-04-14 |
 | [Dreaming on the Bus \- Ra Ra Riot Remix](https://open.spotify.com/track/5fTDFgodYR6VDoBecROzFl) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H), [Ra Ra Riot](https://open.spotify.com/artist/6FIrstf3kHEg3zBOyLpvxD) | [Dreaming on the Bus \(Ra Ra Riot Remix\)](https://open.spotify.com/album/3QRKsmsUgheSIqfBJu9AiI) | 4:59 | 2021-05-01 | 2022-04-14 |
-| [Drown Me In Emotions](https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [Drown Me In Emotions](https://open.spotify.com/album/3hcOGmFHcV1st3jsDqK0zg) | 3:38 | 2024-03-01 |  |
+| [Drown Me In Emotions](https://open.spotify.com/track/3mPFQwHIMIRLheTICb02YP) | [Carver Commodore](https://open.spotify.com/artist/0JYBvQbg4xyCfKy1S5YGpU) | [Drown Me In Emotions](https://open.spotify.com/album/3hcOGmFHcV1st3jsDqK0zg) | 3:38 | 2024-03-01 | 2024-05-23 |
 | [Dræm Girl](https://open.spotify.com/track/6lbLn5iL2NBJnbib7bTXMn) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Summer Break Mixtape](https://open.spotify.com/album/3Ahz3KpKarLfZAb2bYEe65) | 3:54 | 2022-04-13 |  |
 | [Dummy](https://open.spotify.com/track/0eerOylUIOjlGLYdxOn0ug) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dummy](https://open.spotify.com/album/6H2pOaXUBIDKMTZmedEhrk) | 2:25 | 2023-03-03 | 2023-08-18 |
 | [Dummy](https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Chris Black Changed My Life](https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX) | 2:25 | 2023-05-26 | 2024-04-19 |

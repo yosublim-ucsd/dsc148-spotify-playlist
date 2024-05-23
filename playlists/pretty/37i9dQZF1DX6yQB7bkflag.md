@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Marion Jola
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,487 likes - 99 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,525 likes - 99 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 | 98 | [I Know](https://open.spotify.com/track/5UJRrmcrapgTCEhpUlDFXH) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [I Know](https://open.spotify.com/album/7JW9Ok3X1No2KOQ8ebaVu3) | 2:52 |
 | 99 | [Stand By Me](https://open.spotify.com/track/1TjlQxjzKnaW7bfBKYkxqV) | [Javier Parisi](https://open.spotify.com/artist/79zGNMGG2AU1xjzdaVfZKW) | [Stand By Me](https://open.spotify.com/album/5F2Aay4HcEz6Rq3FLzRGrK) | 3:22 |
 
-Snapshot ID: `ZkZCDgAAAAA5UO0WdYA2bBFX+pT7gLhL`
+Snapshot ID: `Zk3QMAAAAADBxJdvYfIc2FRhwE9jjM1X`

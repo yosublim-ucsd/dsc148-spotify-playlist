@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03?si=BhP2CqPnRnqVrRefOJbTTw"> Gemaine </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,667 likes - 209 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,958 likes - 209 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -218,4 +218,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 208 | [Space.](https://open.spotify.com/track/2o7Cw1QTutWxPIWtlYUYjG) | [Sintoria](https://open.spotify.com/artist/5obN8rH8vcZiPJprUDj46p) | [Space.](https://open.spotify.com/album/1bg1DyFuA7ZPFT0MHDYnox) | 3:22 |
 | 209 | [JJC](https://open.spotify.com/track/4IcQbIh8U4DtXEy5KWKcAu) | [Osé](https://open.spotify.com/artist/31iLIUM0MeqrkbswnUpUaj) | [JJC](https://open.spotify.com/album/6Ba8adcxt440I92gC7ld28) | 2:34 |
 
-Snapshot ID: `ZkcRLgAAAAB5ozW1hHZeZxVjQWT0b21m`
+Snapshot ID: `Zk3QMAAAAAADCV9TrF0/FsO1KsNq3IJD`

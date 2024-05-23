@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 
 > Avant\-garde, experimental and free jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,362 likes - 100 songs - 12 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,384 likes - 100 songs - 12 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3rTk9UUrbYS.md) - [plain]
 | 80 | [Awake Nu \(Remastered\)](https://open.spotify.com/track/1YlTuLs7h8VxqxImc1mh2l) | [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI) | [Now Playing Don Cherry](https://open.spotify.com/album/3fvpOLLX8Rhulm9ChxqX8O) | 6:55 |
 | 81 | [From Before](https://open.spotify.com/track/5xNLSDTG2TL62XufqAnvWN) | [Anthony Williams](https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6) | [Creative Jazz 101](https://open.spotify.com/album/3QvXwS7tpdWuz9ZC2GqvOR) | 6:51 |
 | 82 | [Ra Comm 43](https://open.spotify.com/track/0jnNk2OwmJzUlMf05xYmCu) | [Jairus Sharif](https://open.spotify.com/artist/4YdyabAhjPkZEJ77ML7q4x) | [Water & Tools](https://open.spotify.com/album/45SgGNuaRkSXVbkgyqTB0K) | 4:52 |
-| 83 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 |
+| 83 | [Round Trip](https://open.spotify.com/track/19nWocKXsR6KsD8PLbeNha) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now!](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 6:18 |
 | 84 | [Fractured Gatherings](https://open.spotify.com/track/06njugsiOINoCxXCr0fvCI) | [Jonah Rosenberg](https://open.spotify.com/artist/6ZhtuL1nt69JO0Q0OR9UN8) | [Jonah Rosenberg’s Fabulous Trio \- The Bulbous and The Budding](https://open.spotify.com/album/0On5P1MK3poldhDSaB2wBl) | 12:40 |
 | 85 | [Knknighgh 3](https://open.spotify.com/track/34sjpLJnGPzcCV3QyMlaC2) | [Nate Wooley](https://open.spotify.com/artist/151kdGxCPmdZZqaYsd79F5), [Dre Hocevar](https://open.spotify.com/artist/0hC3NhaOJFQbfIMOcciGna), [Brandon Lopez](https://open.spotify.com/artist/6doW8xA7H2Utrsofmg2jNe), [Chris Pitsiokos](https://open.spotify.com/artist/5QHolFgux963cIORgueJxs) | [Knknighgh \(Minimal Poetry for Aram Saroyan\)](https://open.spotify.com/album/2XXg6AelSK0HtagamH1qJM) | 16:19 |
 | 86 | [Everything I Love](https://open.spotify.com/track/1eBwxDeN0OjfRGcFSE0YxY) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y) | [Life Between The Exit Signs](https://open.spotify.com/album/1PluOanzqH0rOxjiAJV5Oq) | 4:33 |

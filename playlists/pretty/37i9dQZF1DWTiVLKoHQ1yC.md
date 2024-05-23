@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 
 > Come alive with this progressive & melodic house selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,566 likes - 60 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,631 likes - 60 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiVLKoHQ1yC.md) - [plain]
 | 44 | [Elements Of A New Life](https://open.spotify.com/track/4aoT4eYesZWIwifnIFRgcs) | [VER:WEST](https://open.spotify.com/artist/0Ig1YsHXd4GGVLWXXYqM2W), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Elements Of A New Life](https://open.spotify.com/album/47c6Wt8ZJP39IEhtn8JzTd) | 3:25 |
 | 45 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 |
 | 46 | [Holding On](https://open.spotify.com/track/4yqRW7Ovd47DcgfuWXzEGR) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Holding On](https://open.spotify.com/album/2kTunMwym8g0oFkljWvXZ0) | 3:38 |
-| 47 | [When Everything Was New](https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [When Everything Was New](https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye) | 4:27 |
-| 48 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 |
+| 47 | [Lost In You](https://open.spotify.com/track/2aqx6MOQxskEH5OlpTtyp2) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Lost In You EP](https://open.spotify.com/album/2N2GUBaJpYW7xHbDU5lnHl) | 3:30 |
+| 48 | [When Everything Was New](https://open.spotify.com/track/3RvZSJe1YFaCR34mRnABDX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [When Everything Was New](https://open.spotify.com/album/42OTAsIABBpoxlgibM6rye) | 4:27 |
 | 49 | [Lose Your Love](https://open.spotify.com/track/0MbWTn0MTwqvW3OItPMaOX) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB) | [Lose Your Love](https://open.spotify.com/album/1Wq6wYd5isQ2EchLxPUxPi) | 3:12 |
 | 50 | [Crazy Love \- ANUQRAM Remix](https://open.spotify.com/track/0rQscieJqmFbGM7uZpisXu) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [Zoë Johnston](https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL), [ANUQRAM](https://open.spotify.com/artist/05HPAdadViWOL8mwgYhet8) | [Crazy Love \(ANUQRAM Remix\)](https://open.spotify.com/album/5EkwcV1x0pkD5wWJNaNG7U) | 4:16 |
 | 51 | [Home](https://open.spotify.com/track/0WrWaXFATnUTQHeLkTK2JU) | [RAZZ](https://open.spotify.com/artist/42vNc7YKaB7aleV5gdBz4l), [Joel Winterflood](https://open.spotify.com/artist/6SW28suhyCreYrl00Amk36) | [Home](https://open.spotify.com/album/0yzOf4gdeVEOK34yvtwJ0t) | 2:49 |

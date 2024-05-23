@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,395 songs - 3 day 4 hr 32 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,397 songs - 3 day 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1403,5 +1403,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1393 | [Renai & Sakusen Kaigi](https://open.spotify.com/track/1Dmqt9sK2ojmPFedIuOt29) | [DJ Genki](https://open.spotify.com/artist/787mj6iFvEpBBuQQRDdMXB), [Tia](https://open.spotify.com/artist/4JpQE4Ny78FVuXwN2qSRgP) | [Vivid Refrain](https://open.spotify.com/album/1LxdJKdW99pKA4711BS8UJ) | 3:21 |
 | 1394 | [Party Harder](https://open.spotify.com/track/42I9F8IxUZlgdFuBBEzJby) | [JKLL](https://open.spotify.com/artist/3BzXxsczLsf5AjlmIAFyT7), [Flawx](https://open.spotify.com/artist/11qVwA5mziMzwH4s7A1Wqq) | [Party Harder](https://open.spotify.com/album/0NCkBciWvimwtJR9G619Jp) | 4:24 |
 | 1395 | [Houseparty](https://open.spotify.com/track/02ScUhpBxHx0I3HFQI5FPC) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3), [Tomsku](https://open.spotify.com/artist/4gN2g4l2TwblFjd3o3FDuF) | [Houseparty](https://open.spotify.com/album/2vCJCf7TCDnrP1xMWEZShO) | 1:59 |
+| 1396 | [Can you feel it](https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:00 |
+| 1397 | [Let's go](https://open.spotify.com/track/4KQfv7fDJnqkMsqR6MZQq2) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4), [Heaven's Demon](https://open.spotify.com/artist/3q44TsjKfwQZjkqIVJjSLa) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:17 |
 
-Snapshot ID: `AAAFoFb4IQKmUtbkrDNsSFDF0hccnD2v`
+Snapshot ID: `AAAFoS1bXaXxvqR8VyMOVt3KUl+EHW3P`

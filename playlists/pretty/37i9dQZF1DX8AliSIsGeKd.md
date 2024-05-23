@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Oliver Huntemann, Marc Romboy
 
-[Spotify](https://open.spotify.com/user/spotify) - 642,911 likes - 90 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,021 likes - 90 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Blomst](https://open.spotify.com/track/5Iss7JRvqDjMzQqZhYKujr) | [Meera \(NO\)](https://open.spotify.com/artist/5dlUBPnFrAnjqC9hvEpEYi) | [Blomst](https://open.spotify.com/album/1DUXiOusufER3z7lGvtcnP) | 9:13 |
 | 90 | [Alright](https://open.spotify.com/track/50lItJcoM4uB8a7sZ649vv) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Oliver Nelson](https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1) | [Alright](https://open.spotify.com/album/6sr8xHsqWALanJDYV0RDJx) | 2:16 |
 
-Snapshot ID: `ZkaB4AAAAAD7kfD0H3YWX6US74XLKA6s`
+Snapshot ID: `Zk4xuQAAAAD2lTbUO3NvZUREKVgS3UI2`

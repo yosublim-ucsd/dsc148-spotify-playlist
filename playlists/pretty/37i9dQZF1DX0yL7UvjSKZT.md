@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 
 > Fresh takes on that high lonesome sound\. Cover: Kaia Kater
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,243 likes - 126 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,265 likes - 126 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0yL7UvjSKZT.md) - [plain]
 | 125 | [Next to Nothing](https://open.spotify.com/track/32rfM7bIDwz44zCcLwcdKC) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [Haste Make / Hard Hearted Stranger](https://open.spotify.com/album/5nBEPxMYprdGPngcur3JoV) | 3:31 |
 | 126 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
 
-Snapshot ID: `Zj2b/AAAAADaZyOidrnVBDwYYGbjZ6HC`
+Snapshot ID: `Zk3QMAAAAAByyLG8jei58Pdj7ljdwGOl`

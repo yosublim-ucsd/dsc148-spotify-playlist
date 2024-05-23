@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-1,426 songs - 3 day 14 hr 56 min
+1,428 songs - 3 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -877,6 +877,7 @@
 | [SORA](https://open.spotify.com/track/3dGWJ8UlemnEV4WycKW3hd) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/019fqb5ajmLWkD57gViVvo) | 2:52 | 2023-03-14 | 2023-04-12 |
 | [SORA](https://open.spotify.com/track/5dxgS2c7FhhMpa0RbmzYaL) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [HUES](https://open.spotify.com/album/2tplAesy7fbkjLUbYulqZh) | 2:52 | 2023-03-14 | 2023-03-16 |
 | [Soran Bushi](https://open.spotify.com/track/5MIGldUdtw8y5WqZYT7ykM) | [民謡クルセイダーズ](https://open.spotify.com/artist/3uiPsc4PufUpYHoxnOlMyE) | [Soran Bushi](https://open.spotify.com/album/4iRwcagbROsUFQ4GLvEHu2) | 5:11 | 2023-11-02 | 2023-11-08 |
+| [SPACE](https://open.spotify.com/track/2nH73E5GzyKrHSgvAGXUkT) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [SPACE](https://open.spotify.com/album/3ZIUKKoOzTufm17noPTfFR) | 3:06 | 2024-05-14 |  |
 | [Spaceship](https://open.spotify.com/track/5uTctpcdaA0o91A5LGx5LR) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [Komorebi](https://open.spotify.com/album/18abfRUQQNVLHEA127jj6h) | 3:23 | 2024-04-23 | 2024-05-02 |
 | [SPACEWALKER](https://open.spotify.com/track/1OpTHfC6jNSBqfIhgArQXV) | [TakehisaChiba](https://open.spotify.com/artist/6tNEkLN7enKAv3isBXiyuu), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [SPACEWALKER](https://open.spotify.com/album/5d7OLwQz7I56hjYgxoEKUr) | 4:05 | 2023-08-15 | 2023-08-23 |
 | [SPACEWALKER](https://open.spotify.com/track/5I88SwLvFI4qzSU6aOFUCv) | [千葉剛久](https://open.spotify.com/artist/6cVmanDEHDZdRNZV0NzefC), [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc) | [SPACEWALKER](https://open.spotify.com/album/1BxeQ1unSwIpaT46KYIXlK) | 4:05 | 2023-08-15 | 2023-08-17 |
@@ -973,6 +974,7 @@
 | [The Edge](https://open.spotify.com/track/7ErnaYalt2rUa9TZbq5fwU) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [The Edge](https://open.spotify.com/album/2HnbfPdTfU6ALbVGxE7xID) | 2:43 | 2023-02-23 | 2023-02-25 |
 | [The Plot](https://open.spotify.com/track/5QT91mtJH2GPdN5u9O6X5R) | [Wez Atlas](https://open.spotify.com/artist/6fDdl8sluLiRg4fbrqMoeQ), [Seann Bowe](https://open.spotify.com/artist/4hgt99SPkxLoBYMVHs88uz) | [The Plot / Echo](https://open.spotify.com/album/0rVsFYQTx5WPkaIHOuOdje) | 2:39 | 2022-10-04 | 2022-10-26 |
 | [The Swallow \(feat\. Midories\)](https://open.spotify.com/track/2d5sYrmQnEPjB06HbZK9GC) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [The Swallow \(feat\. Midories\)](https://open.spotify.com/album/2sPwmjhTqdGDlsOGk2bUmq) | 3:37 | 2022-11-04 | 2023-10-13 |
+| [THE UNION](https://open.spotify.com/track/0cwWmh7iIH6aMpGvdjr48Q) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 3:39 | 2024-05-14 |  |
 | [THE UNION](https://open.spotify.com/track/1qlcGHhGLtcSYqtHFtDIoC) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [THE UNION](https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp) | 3:39 | 2023-10-24 | 2023-11-16 |
 | [the wire](https://open.spotify.com/track/1YcIUoRRC2gtPa5HN87idh) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:38 | 2022-08-11 | 2022-10-01 |
 | [The Yonder](https://open.spotify.com/track/3IRdpIbyz1HriL6M3bAnb8) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E), [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [Trio & Charm](https://open.spotify.com/album/3SiofApkAxUnDhpEFzLB87) | 2:33 | 2024-03-12 | 2024-04-13 |
@@ -1093,7 +1095,7 @@
 | [Woofin' and Meowin'](https://open.spotify.com/track/1HiNADnfOiQW8yUBO2ldF2) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Woofin' and Meowin'](https://open.spotify.com/album/3BSOkIhSXwjvq70aPX3rLZ) | 2:47 | 2022-12-06 | 2023-01-11 |
 | [Workin' Hard](https://open.spotify.com/track/0Whfa8wikSDUvtB5mzYOGH) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Workin' Hard](https://open.spotify.com/album/0BsBIukVE2pUB4xmWrkeAt) | 3:59 | 2023-08-24 |  |
 | [World](https://open.spotify.com/track/2sNz1tEFJPKMQ6CwCbimnj) | [uruwashi](https://open.spotify.com/artist/71tBDDxmRVFTrqs1D5e8gS), [清水玲奈](https://open.spotify.com/artist/2O9kfVGkj9jOmL0wQCPKB6) | [World](https://open.spotify.com/album/6urOBqRnPXWoTguc9KDjeF) | 3:38 | 2023-06-20 | 2023-06-28 |
-| [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 |  |
+| [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 | 2024-05-23 |
 | [World is Mine](https://open.spotify.com/track/4fCm5wA6obyowgH4Rn3cTS) | [鋭児](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [World is Mine](https://open.spotify.com/album/2vDiHS5Dy4cfKmT1O98G5d) | 3:10 | 2022-08-25 | 2022-11-23 |
 | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/track/30n0Z8l9uTkKCQemxDzTnJ) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv), [5lack](https://open.spotify.com/artist/7M2IC3qpsnS8QhlWjQzfvI) | [World's End \(feat\. Julia Wu, 5lack\)](https://open.spotify.com/album/4TdMgCC9A81JzD2BTfsczk) | 5:06 | 2022-08-18 | 2022-09-07 |
 | [Worthy](https://open.spotify.com/track/0dd7NUdwv5uq0cCjC39nwK) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Worthy](https://open.spotify.com/album/5d2Pj55asIJOBjbn5eatr2) | 2:29 | 2022-10-04 | 2022-10-26 |
@@ -1319,7 +1321,7 @@
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
 | [平和](https://open.spotify.com/track/1xFILrBQBn67qprImezB0I) | [Zainichi Funk](https://open.spotify.com/artist/37hqgMV84m06updLlBFhIa), [Tavito Nanao](https://open.spotify.com/artist/6OK5I4qMrrS3taSgczMS1a) | [在ライフ](https://open.spotify.com/album/2bbfZQbPszzs9CIww7UNn3) | 5:07 | 2023-10-31 | 2023-11-16 |
 | [平安](https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [平安](https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw) | 3:09 | 2024-04-23 |  |
-| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 |  |
+| [幸せのまわり道](https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [幸せのまわり道](https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN) | 3:45 | 2023-10-05 | 2024-05-23 |
 | [幽霊](https://open.spotify.com/track/4dKjOYrXQxuJ2C3VaoWZwJ) | [odol](https://open.spotify.com/artist/1JWciWrGdCTOWeycrjFWpS) | [幽霊](https://open.spotify.com/album/1KW6vC2adbnG1XOvj20Lld) | 3:55 | 2023-10-17 | 2023-12-01 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2022-11-08 | 2023-01-18 |
 | [後光](https://open.spotify.com/track/0rk1EARKenr7L7neBv3SQX) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [後光](https://open.spotify.com/album/1EXCMLzeMlfD6RvMDbn5Rg) | 3:24 | 2023-07-26 | 2023-11-16 |

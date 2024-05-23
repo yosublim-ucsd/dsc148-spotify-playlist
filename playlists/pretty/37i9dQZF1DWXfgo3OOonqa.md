@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 328,380 likes - 100 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 328,412 likes - 100 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [PAPAPA](https://open.spotify.com/track/6A0Wfspn6zvSBOfRYUPWbE) | [Chapo](https://open.spotify.com/artist/0A2TLDRLEVG2aRIUPSBtNS) | [PAPAPA](https://open.spotify.com/album/63Eipjl2g9hCda4rP6Si4r) | 2:50 |
 | 100 | [INGEN ANNAN](https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI) | [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [INGEN ANNAN](https://open.spotify.com/album/7A170JHkGo9IGaTydd1txD) | 1:58 |
 
-Snapshot ID: `Zkr1VQAAAABJWTcB8GBUCZAMUT1zr2bP`
+Snapshot ID: `Zk3QMAAAAAAjBGOhd4D4VhlTpNqLCJ4l`

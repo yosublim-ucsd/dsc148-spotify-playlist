@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-181 songs - 12 hr 10 min
+182 songs - 12 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,8 +102,9 @@
 | [Les jolies choses](https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Les jolies choses](https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI) | 3:42 | 2023-03-20 |  |
 | [LET'S DO IT AGAIN \- Radio Edit](https://open.spotify.com/track/06eFWpksA3M9qg8GeOGGBX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [LET'S DO IT AGAIN](https://open.spotify.com/album/1pBQcc31ztdgf8dXeZlLKZ) | 3:45 | 2023-03-20 |  |
 | [Like this](https://open.spotify.com/track/7pY3HE16Ir4ZFTEOmosP57) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [How can I](https://open.spotify.com/album/7mUyZcmorwXzHxCJZNxXKD) | 4:05 | 2023-03-20 | 2024-04-19 |
+| [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-23 |  |
 | [Lost in Music](https://open.spotify.com/track/5HTIpHpGL1GJDxEpyaipK9) | [Maulisé](https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1) | [Lost in Music](https://open.spotify.com/album/4Q3jOD21FwVdIHrKHQQJIG) | 3:28 | 2023-03-20 |  |
-| [Luminous](https://open.spotify.com/track/5Nysjljr2cotY9HeW74GHh) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 3:31 | 2023-08-14 |  |
+| [Luminous](https://open.spotify.com/track/5Nysjljr2cotY9HeW74GHh) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Luminous](https://open.spotify.com/album/2nTexLdtmJEpfFSftYb7C0) | 3:31 | 2023-08-14 | 2024-05-23 |
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2023-08-14 |  |
 | [Luv Is Not Enough](https://open.spotify.com/track/0Hy5csM0LflFU0vUU9wFpj) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 3:17 | 2023-03-20 | 2024-04-19 |
 | [Luv Is Not Enough \- Cabu Remix](https://open.spotify.com/track/2RGLP4kZKLmTgxva9QE5Qx) | [Miami Horror](https://open.spotify.com/artist/0Z5pcmXDCKTrFWLnDChC37), [Forrest Mortifee](https://open.spotify.com/artist/2YQJdQtHgTYz4u9vvf3DgJ), [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Luv Is Not Enough \(Remixes\)](https://open.spotify.com/album/1sOtcGkBxbq7CflXDnVFYa) | 2:55 | 2023-03-20 | 2024-04-19 |

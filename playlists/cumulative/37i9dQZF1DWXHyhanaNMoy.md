@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: GIMS & DYSTINCT
 
-973 songs - 1 day 19 hr 49 min
+974 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [Beter Af Alleen](https://open.spotify.com/track/7dDbJduMeUOHoU2SATXn7k) | [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX) | [Beter Af Alleen](https://open.spotify.com/album/5EtgGMGFw9y0xy0xUDwFRw) | 2:13 | 2023-01-26 | 2023-02-10 |
 | [Beter dan je Ex](https://open.spotify.com/track/4CTgqYUQwsUBqMODJH26BI) | [Andrea Rafaella](https://open.spotify.com/artist/2yE0kA8MsGco9LevlkJjcq), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8) | [Beter dan je Ex](https://open.spotify.com/album/1atlknYHSeBUnEyyi6E1f1) | 2:15 | 2024-02-29 | 2024-05-17 |
 | [Betta Guy](https://open.spotify.com/track/0GoMbFiHdaeI5iHiu2DjaD) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk) | [Betta Guy](https://open.spotify.com/album/1Q5PCsixXRAAof0kGQQemA) | 2:18 | 2023-09-07 | 2024-03-01 |
-| [Better](https://open.spotify.com/track/6sVpYIMty1Y20RxjaGUm1y) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh), [BUR Savants](https://open.spotify.com/artist/4MSObfou6zR5uE6FM2dYAr) | [Better](https://open.spotify.com/album/2y8PQI8kE0k7AZdraYXl3l) | 2:24 | 2024-02-01 |  |
+| [Better](https://open.spotify.com/track/6sVpYIMty1Y20RxjaGUm1y) | [MC MC](https://open.spotify.com/artist/7eMoHqrg7fdrVTjhrQE0Go), [Pearl Ramos](https://open.spotify.com/artist/4L8v7LCc2BtljMWBEvSgCh), [BUR Savants](https://open.spotify.com/artist/4MSObfou6zR5uE6FM2dYAr) | [Better](https://open.spotify.com/album/2y8PQI8kE0k7AZdraYXl3l) | 2:24 | 2024-02-01 | 2024-05-23 |
 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 | 2023-07-30 | 2023-09-01 |
 | [Big Man Ting](https://open.spotify.com/track/5ulIfOLr3pg4EDuVmF96RD) | [RBDjan](https://open.spotify.com/artist/1W4O1UxWetSz00CiAu01zf), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp) | [Kleine Jongens Worden Groot](https://open.spotify.com/album/24z2HWc8t4yya3nP4yEBaC) | 2:32 | 2022-11-10 | 2022-11-26 |
 | [Big Player](https://open.spotify.com/track/25uTHWeasYt0agKHBXGMPp) | [Jamily Jordan](https://open.spotify.com/artist/6gHqhHMbrZ5VHK1z3CoqDa) | [Big Player](https://open.spotify.com/album/6yxBzEi4tNslPCYyakJLNb) | 2:07 | 2023-05-12 | 2023-05-19 |
@@ -235,6 +235,7 @@
 | [Demon Time](https://open.spotify.com/track/23IuFgCndsodlvirH5HEfJ) | [La Toya Linger](https://open.spotify.com/artist/340ZBWi8L5lldZGTHqQfm7) | [Demon Time](https://open.spotify.com/album/7u5WyK8nbQzCxEAcZ73HNa) | 2:17 | 2024-04-11 | 2024-04-26 |
 | [DESATAAA](https://open.spotify.com/track/2vh03XeMmNRwxiAztk01Pe) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [DESATAAA](https://open.spotify.com/album/7Ja7q53ewWXSOGM9MSmted) | 3:17 | 2024-03-21 | 2024-04-26 |
 | [Designed By The Divine](https://open.spotify.com/track/2Uc6BX7wCobNV33MLhA0BB) | [KC](https://open.spotify.com/artist/3STIe3ZmArSpfSUD6lZuCv) | [Designed By The Divine](https://open.spotify.com/album/01LTzLbVvIoPJVNwWVPMiD) | 5:45 | 2022-12-22 | 2023-01-13 |
+| [Designers](https://open.spotify.com/track/4WFWjdqin0t72MwAqY2UQs) | [IliassOpDeBeat](https://open.spotify.com/artist/7jlzu3WivGk7tszA2QUSxw), [LouiVos](https://open.spotify.com/artist/0lzYw5xI9jgMg8O5i4bTre), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Designers](https://open.spotify.com/album/2pTwxvjTS5XCJIOOeCPd0Q) | 3:01 | 2024-05-22 |  |
 | [Desire](https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Desire](https://open.spotify.com/album/0Dh59MYnNmPWhcjLZvKQwb) | 2:20 | 2024-05-02 |  |
 | [Devam](https://open.spotify.com/track/55avhPnraGoTdTH3TEaJwq) | [Emil Rosé](https://open.spotify.com/artist/3TNTPduFxe8yaox2f6NxNC) | [Devam](https://open.spotify.com/album/57cfV5MDVuiNjDnwoTgbm1) | 2:23 | 2022-08-25 | 2022-10-07 |
 | [DEY INSIDE](https://open.spotify.com/track/6HVKsh53jZpEj53hC82rtU) | [Amartey](https://open.spotify.com/artist/2yVIMZ3tHWSmoP3ZLwJmJu) | [Dey Inside](https://open.spotify.com/album/1R9Omq2kGRKB41M7nNzr1D) | 3:14 | 2022-10-20 | 2022-12-09 |

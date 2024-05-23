@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Ice Prince
 
-405 songs - 19 hr 19 min
+406 songs - 19 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-11-15 | 2022-11-25 |
 | [6am in Accra \- Freestyle](https://open.spotify.com/track/0foXd0m4rkk6yudp5bWf9m) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [6am in Accra \(Freestyle\)](https://open.spotify.com/album/2PvPnsNQfY1iq5FtJI9Owq) | 1:53 | 2023-10-13 | 2023-11-05 |
 | [ABDZ](https://open.spotify.com/track/2OfFoA6XkrNEh446a0Fotc) | [Davolee](https://open.spotify.com/artist/5sw96lcKm8tdmqudO4AJ8a) | [ABDZ](https://open.spotify.com/album/47TF52P8mx6B365HJkxa44) | 2:49 | 2023-09-29 | 2023-10-13 |
+| [Accidentally \(feat\. Seyi Vibez\)](https://open.spotify.com/track/3ZfLSz6tcx19sjKMVCbccG) | [Ice Prince](https://open.spotify.com/artist/1sSt1DqqqFLkPwfrqafVyn), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Fire & Ice](https://open.spotify.com/album/3EZt8wq3KWXB7gVM9SuLWR) | 3:06 | 2024-05-22 |  |
 | [Account Balance](https://open.spotify.com/track/5C6r3u5SjqyBcE4ex7WqrS) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:33 | 2023-06-30 |  |
 | [Afro Jigga](https://open.spotify.com/track/4z48XG61raE7WwbtJdIvqe) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 3:06 | 2022-06-09 | 2023-10-27 |
 | [ALA BEKE 2](https://open.spotify.com/track/4K9AA4YDiI3y4NPKevpyGN) | [EverythingOShauN](https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [ALA BEKE 2](https://open.spotify.com/album/2sDHYMxotwVrr40MSel3PG) | 2:59 | 2023-11-10 | 2023-12-08 |
@@ -99,7 +100,7 @@
 | [Demons & Angels](https://open.spotify.com/track/67GWgzQyDPXRSt8PcodrG4) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Demons & Angels](https://open.spotify.com/album/1Mbqe3atwMxu9DKRzawdbr) | 3:01 | 2024-02-16 |  |
 | [Denge 3.0](https://open.spotify.com/track/2SXbzZhAJs0vF3h6fQhtT2) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Denge 3.0](https://open.spotify.com/album/30oF6LFNkttC3Mtktz9Zb9) | 3:29 | 2024-02-23 | 2024-03-19 |
 | [Denge III](https://open.spotify.com/track/2tschk15VzJ5IqhHRnNoxp) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Savara](https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap) | [Denge 6.0](https://open.spotify.com/album/5X5PlqH0I4xPr6HAqYvNOx) | 3:29 | 2024-03-15 | 2024-03-29 |
-| [Desire](https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ) | [Badsome](https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT) | [Desire](https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ) | 2:27 | 2024-05-03 |  |
+| [Desire](https://open.spotify.com/track/6KDnzbD6YW8uHoqfXP4gwZ) | [Badsome](https://open.spotify.com/artist/6EmAZVYYOGM6aF1A2YufwT) | [Desire](https://open.spotify.com/album/7oehBOTkl7TKn8YmmD2MaJ) | 2:27 | 2024-05-03 | 2024-05-23 |
 | [Devil Agent \(2 Fighting\)](https://open.spotify.com/track/6nFL2WU0fb8VEu9NVfGtw6) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [Devil Agent \(2 Fighting\)](https://open.spotify.com/album/5bYg6iGA8bULUtNUlovZUK) | 3:12 | 2023-05-12 | 2023-07-01 |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2023-12-08 |  |
 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 | 2022-09-12 | 2023-01-28 |

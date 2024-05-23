@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,284 songs - 3 day 2 hr 36 min
+1,285 songs - 3 day 2 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -630,6 +630,7 @@
 | [Life](https://open.spotify.com/track/5uIPgZYAPggdErCVj6lY56) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Life](https://open.spotify.com/album/31QOLr0kdg0qjiZboNEm7b) | 2:50 | 2022-08-26 | 2023-06-17 |
 | [Life Is One](https://open.spotify.com/track/5kGVL2l2eEqaFPuYU1mdbl) | [Ludovica Pagani](https://open.spotify.com/artist/0Ab61kRJ0CWyfeVQ4ckek2), [Stefy De Cicco](https://open.spotify.com/artist/5v3JgLiZtNnw6ablRjjNKK), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Life Is One](https://open.spotify.com/album/3QSMGCTqNNUziypWujExxP) | 3:04 | 2020-12-12 | 2021-09-11 |
 | [Lifeline](https://open.spotify.com/track/1tMOnS5eW2usMSQc8VLbsD) | [Keeno](https://open.spotify.com/artist/6r54QO0889i9vqaeuruUSn), [Oscar Corney](https://open.spotify.com/artist/5PVtPhvsH9JYIiY4xVIamh) | [Futurist](https://open.spotify.com/album/0N6wNVcGYMUcGpgomjMQj9) | 3:44 | 2019-08-09\* | 2019-09-14 |
+| [LIFELINE](https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn), [NASAYA](https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4) | [LIFELINE](https://open.spotify.com/album/1plQ1snsvRuNbQR7FbRpdo) | 3:26 | 2024-05-22 |  |
 | [Lifetime](https://open.spotify.com/track/0eFxgHmbw8rqtctamM53Gu) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr), [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E), [Damon Sharpe](https://open.spotify.com/artist/3Woqe3KegExVyrEK1I6ITJ) | [Lifetime](https://open.spotify.com/album/3VLpcqemz65jFB2TOL2D6T) | 2:15 | 2019-08-26 | 2020-10-30 |
 | [Lift Me Up \(feat\. Mike Taylor\)](https://open.spotify.com/track/5QBQ6uA3sQFBSJJt8w9iat) | [Headhunterz](https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy), [Mike Taylor](https://open.spotify.com/artist/30ejUciK31BCg0IVCbt1dW) | [Lift Me Up \(feat\. Mike Taylor\)](https://open.spotify.com/album/12oB47jQouCO3smnZHrjiT) | 2:59 | 2019-08-09\* | 2019-08-27 |
 | [Light \- GOSLO Remix](https://open.spotify.com/track/2rkCYgvzyHp1AESIlJcqqY) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [GOSLO](https://open.spotify.com/artist/63cYZFLRnmgGOEVGvDjJs7) | [Light \(Remixes\)](https://open.spotify.com/album/1DXYbyVwa7yMxA1Fm9kpNj) | 5:02 | 2020-04-15 | 2021-05-08 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 
 ### [This Is JJ Hairston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1D0sR2)
 
-> This Is JJ Hairston\. Los temas esenciales, todos en una lista.
+> This is JJ Hairston\. De viktigaste låtarna samlade i en spellista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,607 likes - 50 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,608 likes - 50 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1D0sR2.md) - [plain]
 | 49 | [All You've Done \(feat\. Cristabel Clack\)](https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Cristabel Clack](https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y) | [Believe Again, Vol\. II](https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL) | 7:01 |
 | 50 | [The Great I Am \- Live](https://open.spotify.com/track/6CfklnHt4juAJH97bIWCEp) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Brittney Wright](https://open.spotify.com/artist/1gJGPbLdPxg4GHQ7InK8Gw), [David Wilford](https://open.spotify.com/artist/4FCFuoO71C9UjF3czc4Blt), [Trina Hairston](https://open.spotify.com/artist/7n1IHHMYQBW4ayNv5XTvFz), [Gathering Place Worship Choir](https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm) | [Joy Is Here \(Live\)](https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB) | 10:43 |
 
-Snapshot ID: `ZkqSgAAAAABQy8gVwo5Lk7em0pLv0ogp`
+Snapshot ID: `ZkqSgAAAAAD+xwOfxBNJeJSk/ftHVU1l`

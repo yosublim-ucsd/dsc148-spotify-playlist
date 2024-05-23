@@ -1,13 +1,101 @@
 {
-  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: The Idea of You",
-  "num_followers": 157640,
+  "description": "Original and synced songs that will stay with you long after the credits roll...Cover: Bridgerton",
+  "num_followers": 157593,
   "original_name": "needle drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZjsM1QAAAACdr/7isO3RMrM6QvzR91cl",
+  "snapshot_id": "Zk5lFwAAAAD1ziNUU8xh6UhiVY0jE6KG",
   "tracks": [
+    {
+      "added_at": "2024-05-22 21:26:14",
+      "album": {
+        "name": "Bridgerton Season Three (Covers from the Netflix Series \u2013 Pt. 1)",
+        "url": "https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH"
+      },
+      "artists": [
+        {
+          "name": "Archer Marsh",
+          "url": "https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg"
+        }
+      ],
+      "duration_ms": 132096,
+      "name": "Give Me Everything - Stripped",
+      "url": "https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX"
+    },
+    {
+      "added_at": "2024-05-22 21:26:14",
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
+    },
+    {
+      "added_at": "2024-05-22 21:26:14",
+      "album": {
+        "name": "Good Life (From \"The Garfield Movie\")",
+        "url": "https://open.spotify.com/album/5k545vq1XFdS5O7N2cXV21"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Good Life - From \"The Garfield Movie\"",
+      "url": "https://open.spotify.com/track/1gu8OZFMB9dcEmT90j0lQ8"
+    },
+    {
+      "added_at": "2024-05-22 21:26:14",
+      "album": {
+        "name": "Secret (Theme from \"Pretty Little Liars: Summer School\")",
+        "url": "https://open.spotify.com/album/6BIbZiOafCfWNYgGoSeolH"
+      },
+      "artists": [
+        {
+          "name": "Transviolet",
+          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
+        }
+      ],
+      "duration_ms": 182693,
+      "name": "Secret (Theme from \"Pretty Little Liars: Summer School\")",
+      "url": "https://open.spotify.com/track/6ulca5GPT6ZhMpCXCxVJMa"
+    },
+    {
+      "added_at": "2024-05-22 21:26:14",
+      "album": {
+        "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
+        "url": "https://open.spotify.com/album/06OlGmd9PuKK8CXYw7xiEu"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 218000,
+      "name": "TONIGHT (Bad Boys: Ride Or Die) (feat. Becky G)",
+      "url": "https://open.spotify.com/track/237t7ZswmEnZChpNZ0zscx"
+    },
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
@@ -447,22 +535,6 @@
       "duration_ms": 215936,
       "name": "World Burn",
       "url": "https://open.spotify.com/track/2vJ87WiYmOXYd1EE7hysVb"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Anyone But You",
-        "url": "https://open.spotify.com/album/2viPAytIOe7TjMOITmmWav"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Anyone But You",
-      "url": "https://open.spotify.com/track/4faTuWPQeMo24zvuTDre3c"
     },
     {
       "added_at": "2024-05-03 04:00:00",

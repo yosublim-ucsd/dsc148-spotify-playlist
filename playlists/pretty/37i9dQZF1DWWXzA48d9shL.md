@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Rap from hell\. Cover: $uicideboy$
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,698 likes - 107 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,751 likes - 107 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 | 106 | [GANJA GOBLIN](https://open.spotify.com/track/2C0qiqukMAE9WZjvQB76qH) | [Pranav.Wav](https://open.spotify.com/artist/3lF1kjL5naJPzQjpWkg1IP) | [GANJA GOBLIN](https://open.spotify.com/album/6U4IaeKOwAnscsbdwEF5vJ) | 2:30 |
 | 107 | [DESIRE](https://open.spotify.com/track/25sabs7iC9eESyOpf0b6CY) | [LITTLE 4N](https://open.spotify.com/artist/66sdClSxeLEamPlKTQcrbd) | [DESIRE](https://open.spotify.com/album/4HRlH8H0ujyz46QqdEBI51) | 2:21 |
 
-Snapshot ID: `ZkvTqwAAAACcr4I4DzBccbLemMYg5ywI`
+Snapshot ID: `Zk3QMAAAAACzi9gtEPq7xlHIooIWlfVK`

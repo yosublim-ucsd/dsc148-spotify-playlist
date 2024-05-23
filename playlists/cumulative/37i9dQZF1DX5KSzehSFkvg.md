@@ -2,7 +2,7 @@
 
 ### [Top Maghreb Pop](https://open.spotify.com/playlist/37i9dQZF1DX5KSzehSFkvg)
 
-> Les meilleurs hits Pop du Maghreb sont ici\. Cover: Zouhair Bahaoui
+> Les meilleurs hits Pop du Maghreb sont ici\. Cover: RYM
 
 120 songs - 6 hr 31 min
 

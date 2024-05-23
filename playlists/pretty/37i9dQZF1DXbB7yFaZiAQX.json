@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1036778,
+  "num_followers": 1036965,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Seventeen Seconds",
-        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Play For Today",
-      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Vision Thing",
         "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 503109,
       "name": "More",
       "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Seventeen Seconds",
+        "url": "https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Play For Today",
+      "url": "https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Colour of Spring",
-        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 418173,
-      "name": "Living in Another World - 1997 Remaster",
-      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Be Yourself Tonight",
         "url": "https://open.spotify.com/album/2tbXCl8en5ZDVnHIk1OZGI"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 268240,
       "name": "Would I Lie to You? - Remastered Version",
       "url": "https://open.spotify.com/track/1lJZSsMoWEbrgaY6CxPMf8"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Colour of Spring",
+        "url": "https://open.spotify.com/album/70V1kL7w7Q9pDU4I6zDjYE"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 418173,
+      "name": "Living in Another World - 1997 Remaster",
+      "url": "https://open.spotify.com/track/03d3DCqwvt65Orfdomjs6e"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Da Da Da",
-        "url": "https://open.spotify.com/album/39HzuoE8coAbqrKpPapa58"
-      },
-      "artists": [
-        {
-          "name": "Trio",
-          "url": "https://open.spotify.com/artist/417rMeQ1e1B90lsiS1iMZ1"
-        }
-      ],
-      "duration_ms": 392360,
-      "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
-      "url": "https://open.spotify.com/track/4HCdu48LScraIfJ7Ik7EhE"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "INXS Remastered",
         "url": "https://open.spotify.com/album/7CJvhqb2PJq5fBcY6eKqjl"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 317240,
       "name": "Original Sin",
       "url": "https://open.spotify.com/track/1jM23jASF0JrhgqYhqCZfl"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Da Da Da",
+        "url": "https://open.spotify.com/album/39HzuoE8coAbqrKpPapa58"
+      },
+      "artists": [
+        {
+          "name": "Trio",
+          "url": "https://open.spotify.com/artist/417rMeQ1e1B90lsiS1iMZ1"
+        }
+      ],
+      "duration_ms": 392360,
+      "name": "Da Da Da ich lieb dich nicht du liebst mich nicht Aha Aha Aha - Lange Version",
+      "url": "https://open.spotify.com/track/4HCdu48LScraIfJ7Ik7EhE"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 300368,
-      "name": "Big Sleep",
-      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Reproduction",
         "url": "https://open.spotify.com/album/7tc1nTdBA717D74uJ07VRn"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 234040,
       "name": "Being Boiled - Fast Version / 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/2xN8RYKg69sdfoqtvYnwwM"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 300368,
+      "name": "Big Sleep",
+      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Tc Matic",
-        "url": "https://open.spotify.com/album/0vbUh7tsxHV4AlpKVrxIm0"
-      },
-      "artists": [
-        {
-          "name": "TC Matic",
-          "url": "https://open.spotify.com/artist/6ZtncQAhOATpLxzxfEj4oY"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "O La La La",
-      "url": "https://open.spotify.com/track/09uuSsYh4Gti5Ek6kUh17G"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Cosmic Thing",
         "url": "https://open.spotify.com/album/5BAzAODqIwttjj7wxmlNMS"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 290066,
       "name": "Channel Z",
       "url": "https://open.spotify.com/track/2W5MOhFWk9rPsMHQMqfTdj"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Tc Matic",
+        "url": "https://open.spotify.com/album/0vbUh7tsxHV4AlpKVrxIm0"
+      },
+      "artists": [
+        {
+          "name": "TC Matic",
+          "url": "https://open.spotify.com/artist/6ZtncQAhOATpLxzxfEj4oY"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "O La La La",
+      "url": "https://open.spotify.com/track/09uuSsYh4Gti5Ek6kUh17G"
     },
     {
       "added_at": "2023-05-03 07:47:14",

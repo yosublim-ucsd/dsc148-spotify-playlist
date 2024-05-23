@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 ### [This Is Kacey Musgraves](https://open.spotify.com/playlist/37i9dQZF1DZ06evO48Rn9u)
 
-> This Is Kacey Musgraves\. Los temas esenciales, todos en una lista.
+> This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,598 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,637 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 42 | [To June This Morning](https://open.spotify.com/track/5j7uJrdZv5JjxSPhDeqPSp) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 2:04 |
 | 43 | [My House](https://open.spotify.com/track/5GMaBMKjisLhVfjRoH5BaW) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 2:40 |
 
-Snapshot ID: `ZkqSgAAAAADkgex9IlkHYTdg/2wBdXoB`
+Snapshot ID: `ZkvkAAAAAAA86wXPDdN1hhyAsisvFwxC`

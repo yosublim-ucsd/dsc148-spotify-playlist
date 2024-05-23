@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: SOAPBOX",
-  "num_followers": 447321,
+  "num_followers": 447290,
   "original_name": "The Punk List",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Sanguivore",
+        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
+      },
+      "artists": [
+        {
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
+        }
+      ],
+      "duration_ms": 267864,
+      "name": "Cry To Heaven",
+      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "The Twits",
         "url": "https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 107998,
       "name": "Ready",
       "url": "https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Sanguivore",
-        "url": "https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 267864,
-      "name": "Cry To Heaven",
-      "url": "https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "feel something (feat. Izzy Spears)",
         "url": "https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 133307,
       "name": "feel something (feat. Izzy Spears)",
       "url": "https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Claw",
-        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "Claw",
-      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "The Prius Diaries: A Hybrid Story",
+        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
+      },
+      "artists": [
+        {
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
+        }
+      ],
+      "duration_ms": 142538,
+      "name": "Stop Living & Don't Dream",
+      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "Lost My Shadow",
         "url": "https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "The Prius Diaries: A Hybrid Story",
-        "url": "https://open.spotify.com/album/7jvo4Qe2aRc4hSyv8wA3KU"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 142538,
-      "name": "Stop Living & Don't Dream",
-      "url": "https://open.spotify.com/track/70xKZgV2e8oA6ww1CFb0f6"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/0V99dg4bfGbJV0s3giFxlO"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "I Gotta Feeling",
-        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
-      },
-      "artists": [
-        {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
-        }
-      ],
-      "duration_ms": 197648,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "THIS HERE AIN'T WATER",
         "url": "https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 201686,
       "name": "THIS HERE AIN'T WATER",
       "url": "https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "I Gotta Feeling",
+        "url": "https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 197648,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Dream Big",
-        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
-      },
-      "artists": [
-        {
-          "name": "Bob Vylan",
-          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
-        }
-      ],
-      "duration_ms": 185060,
-      "name": "Dream Big",
-      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Spunky!",
         "url": "https://open.spotify.com/album/60FSBWxKZud6tMxtR6f2NB"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 130173,
       "name": "Spunky!",
       "url": "https://open.spotify.com/track/0MlBMpX1lyVnlBBuR2HxO2"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "duration_ms": 185060,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Des Goblin",
-        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
-      },
-      "artists": [
-        {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
-        }
-      ],
-      "duration_ms": 256543,
-      "name": "Des Goblin",
-      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
         "name": "Here's Looking At You, Kid!",
         "url": "https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 200480,
       "name": "Private Public Transport",
       "url": "https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Des Goblin",
+        "url": "https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 256543,
+      "name": "Des Goblin",
+      "url": "https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg"
     },
     {
       "added_at": "2024-04-25 23:00:00",
@@ -1215,6 +1215,38 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
+        "name": "Grade 2",
+        "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
+      },
+      "artists": [
+        {
+          "name": "Grade 2",
+          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
+        }
+      ],
+      "duration_ms": 182243,
+      "name": "Fast Pace",
+      "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
+        "name": "Left Right Forward",
+        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "duration_ms": 175116,
+      "name": "Left Right Forward",
+      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
+    },
+    {
+      "added_at": "2024-04-25 23:00:00",
+      "album": {
         "name": "What A Fucking Nightmare",
         "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
       },
@@ -1247,50 +1279,18 @@
     {
       "added_at": "2024-04-25 23:00:00",
       "album": {
-        "name": "Left Right Forward",
-        "url": "https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE"
+        "name": "Anaconda Frank",
+        "url": "https://open.spotify.com/album/5xwbdKZopGHbMrhti5NfCW"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "CARSICK",
+          "url": "https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH"
         }
       ],
-      "duration_ms": 175116,
-      "name": "Left Right Forward",
-      "url": "https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "All Comes Down to This",
-        "url": "https://open.spotify.com/album/3gVokvQ6Kp8QwnpYrbzrb4"
-      },
-      "artists": [
-        {
-          "name": "A Certain Ratio",
-          "url": "https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk"
-        }
-      ],
-      "duration_ms": 152546,
-      "name": "All Comes Down to This",
-      "url": "https://open.spotify.com/track/4gs4otFPRCU02x9MsSSNoN"
-    },
-    {
-      "added_at": "2024-04-25 23:00:00",
-      "album": {
-        "name": "Grade 2",
-        "url": "https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe"
-      },
-      "artists": [
-        {
-          "name": "Grade 2",
-          "url": "https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b"
-        }
-      ],
-      "duration_ms": 182243,
-      "name": "Fast Pace",
-      "url": "https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b"
+      "duration_ms": 169373,
+      "name": "Anaconda Frank",
+      "url": "https://open.spotify.com/track/1DSfQ1Ol5YoPkY9Y3mv9d1"
     },
     {
       "added_at": "2024-04-25 23:00:00",

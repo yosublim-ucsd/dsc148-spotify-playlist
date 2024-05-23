@@ -4,7 +4,7 @@
 
 > La playlist urban più grande d'Italia 🔥 Cover: Salmo, Noyz Narcos, Lazza
 
-519 songs - 1 day 1 hr 33 min
+520 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,8 @@
 | [NEW YORK](https://open.spotify.com/track/3FSW3VzKEYf9nDGafU4KEL) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [NEW YORK](https://open.spotify.com/album/2Cx1vPGOj3JBazwoKFYt1M) | 3:16 | 2023-03-09 | 2023-03-22 |
 | [Niente da perdere](https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Niente da perdere](https://open.spotify.com/album/73llI6vpyKmE5Na0tlGMca) | 2:46 | 2022-06-01 | 2022-11-25 |
 | [NLFP \(feat\. tha Supreme\)](https://open.spotify.com/track/7AINlTLLzoduGA7Aw7iUwf) | [PSICOLOGI](https://open.spotify.com/artist/0fskdccy6fvnWMNMNPqEro), [tha Supreme](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [TRAUMA](https://open.spotify.com/album/4yIRhOu3cXwjCCLsdvMCAe) | 2:37 | 2022-05-12 | 2022-06-03 |
-| [NO EX \(feat\. Paky\)](https://open.spotify.com/track/6mIjiYKYP8hcO8Rqm81Vii) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:27 | 2024-04-25 |  |
+| [NO EX \(feat\. Paky\)](https://open.spotify.com/track/3QPlXypNboN7q32K1IuQ9v) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 2:27 | 2024-05-22 |  |
+| [NO EX \(feat\. Paky\)](https://open.spotify.com/track/6mIjiYKYP8hcO8Rqm81Vii) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [È \(BANGER\)](https://open.spotify.com/album/1D5qqiF7QgoKwlbnnrmPcT) | 2:27 | 2024-04-25 | 2024-05-23 |
 | [No Joke \(feat\. MadMan\)](https://open.spotify.com/track/3PFDJgtrBif1ORn5As2hly) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz), [Poison Beatz](https://open.spotify.com/artist/2jnjbAYKylrmBMCFZE0OCK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [AMBIZIONE](https://open.spotify.com/album/7ojtnqVHOa5Z5GvUHWqfzL) | 2:24 | 2022-05-09 | 2022-05-13 |
 | [No Love \(feat\. CoCo\)](https://open.spotify.com/track/3EtI6sLY2w2l4oCQ1JSI5m) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 3:47 | 2022-05-09 | 2022-05-28 |
 | [NO LOVE \(feat\. Tony Effe\)](https://open.spotify.com/track/55PcknO9mJhaB4eAuXW0Ch) | [Dylan](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [LOVE IS WAR](https://open.spotify.com/album/5kWaIJ06SZgSyNTUpsUR3K) | 2:41 | 2023-05-11 | 2023-06-02 |

@@ -2,9 +2,9 @@
 
 ### [Latest Tamil](https://open.spotify.com/playlist/37i9dQZF1DWVo4cdnikh7Z)
 
-> New Music from Kollywood.<br/>Cover : Raayan
+> New Music from Kollywood.<br/>Cover : Indian 2
 
-1,306 songs - 3 day 7 hr 50 min
+1,307 songs - 3 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -831,6 +831,7 @@
 | [Paakura Thaakura \- From "Yemmaku Thozhil Romance"](https://open.spotify.com/track/2amB87E1p9dg44o3c8Zt1f) | [Nivas K Prasanna](https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2), [Mohan Rajan](https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma) | [Paakura Thaakura \(From "Yemmaku Thozhil Romance"\)](https://open.spotify.com/album/3O2kDc0mVejnjRxbq3aG2K) | 3:45 | 2024-05-14 |  |
 | [Paal Veedhiyil \- From "Singapore Saloon"](https://open.spotify.com/track/35plSrnsfa6UoVjRiv4HEM) | [Vivek \- Mervin](https://open.spotify.com/artist/4hBCDHUWTljP6BDl5AekgW), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD), [Uma Devi](https://open.spotify.com/artist/2GOvdhofeVQ9pVgHP4K4vo) | [Paal Veedhiyil \(From "Singapore Saloon"\)](https://open.spotify.com/album/3Nq1snMUZZ1zpzOnmbdJ53) | 4:25 | 2024-01-30 | 2024-03-07 |
 | [Paapa Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/track/6N1W8K1cpEK1GdS4Q24aRF) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Girishh Gopalakrishnan](https://open.spotify.com/artist/1h8cptkBZRjX3xJT2rtkkl) | [Paapa Paattu \(From "Veetla Vishesham"\)](https://open.spotify.com/album/2g9NPPtI4w7ujQ6kRdMBpF) | 4:17 | 2022-06-08 | 2022-07-05 |
+| [Paaraa \(From "Indian 2"\)](https://open.spotify.com/track/4Tt5XWEl7kUawvupLCdzxh) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shruthika Samudhrala](https://open.spotify.com/artist/6tV6eU1gwsruSzN4PyDJWe) | [Paaraa \(From "Indian 2"\)](https://open.spotify.com/album/1KNEpdLEp4B3G3iFV7lb3G) | 4:12 | 2024-05-22 |  |
 | [Paartha Nyabhagam \(From "Kolai"\)](https://open.spotify.com/track/66R1mgEw5IfOPCAtngwHlL) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Girishh G](https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB), [Viswanathan–Ramamoorthy](https://open.spotify.com/artist/3bACGAZLK8w1OVWOncgtKm), [Kannadasan](https://open.spotify.com/artist/0YLTEt48dwAEsoAR9CxhQB) | [Paartha Nyabhagam \(From "Kolai"\) \- Single](https://open.spotify.com/album/6VNCXzImQUqraMLH2ygueg) | 4:30 | 2022-09-27 | 2022-10-11 |
 | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/track/670iKfSnpak9BdFsrArKSB) | [Krithika Nelson](https://open.spotify.com/artist/6vgkpiszNB3NqHNrdHxXOm), [Gopi Sundar](https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6) | [Paathi Nee Paathi Naan \(From "Nitham Oru Vaanam"\)](https://open.spotify.com/album/6Jjewe3aw0BpZDtkssx7ZG) | 6:10 | 2022-10-27 | 2022-11-10 |
 | [Paavai](https://open.spotify.com/track/0Dy51XHPjIcOuVsCgFbtNF) | [Marshall Robinson](https://open.spotify.com/artist/4ApGv767BWZI3MojIwGt0H), [Sreekanth Hariharan](https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj), [Priyanka NK](https://open.spotify.com/artist/2ur0GHc7zvYZXe0WjIKd2K) | [Paavai](https://open.spotify.com/album/730TPIYVhOi5veCbw3yxc3) | 3:35 | 2024-03-16 |  |

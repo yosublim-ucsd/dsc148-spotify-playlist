@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Sasha Alex Sloan",
-  "num_followers": 77348,
+  "num_followers": 77388,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Free Treasure",
+        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 215514,
+      "name": "Free Treasure",
+      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "One Less Question",
         "url": "https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Free Treasure",
-        "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 215514,
-      "name": "Free Treasure",
-      "url": "https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Simple Like 17 (Deluxe)",
+        "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 198287,
+      "name": "Shut Up About It",
+      "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Only One",
         "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "How Much Longer?",
-        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
-      },
-      "artists": [
-        {
-          "name": "Alexander 23",
-          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
-        }
-      ],
-      "duration_ms": 243798,
-      "name": "How Much Longer?",
-      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Crying Over U",
         "url": "https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj"
       },
@@ -827,38 +827,6 @@
       "duration_ms": 234231,
       "name": "Crying Over U",
       "url": "https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Simple Like 17 (Deluxe)",
-        "url": "https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 198287,
-      "name": "Shut Up About It",
-      "url": "https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Questions, Chaos & Faith",
-        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 237915,
-      "name": "Questions, Chaos & Faith",
-      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -883,6 +851,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "How Much Longer?",
+        "url": "https://open.spotify.com/album/0DaO7SKybQhxKPK4HLCZrV"
+      },
+      "artists": [
+        {
+          "name": "Alexander 23",
+          "url": "https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag"
+        }
+      ],
+      "duration_ms": 243798,
+      "name": "How Much Longer?",
+      "url": "https://open.spotify.com/track/2KlWdo608p1j3BUnkKzmdb"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Little Blue (feat. Brandi Carlile)",
         "url": "https://open.spotify.com/album/1vAsPmIGCKf9Pt2p4feAfa"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Afterlife",
-        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+        "name": "Questions, Chaos & Faith",
+        "url": "https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Afterlife",
-      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
+      "duration_ms": 237915,
+      "name": "Questions, Chaos & Faith",
+      "url": "https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -931,6 +915,22 @@
       "duration_ms": 236320,
       "name": "Nightvisions",
       "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2nCXDKFnPvlSTH4D119M4V"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/53spNZ1E32zh40DupLu6cf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -963,6 +963,26 @@
       "duration_ms": 222341,
       "name": "Hawkmoon",
       "url": "https://open.spotify.com/track/5KwvjABtVbrDGBamRoyos2"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Oh No!",
+        "url": "https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        },
+        {
+          "name": "James Mercer",
+          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
+        }
+      ],
+      "duration_ms": 244773,
+      "name": "Burial Ground",
+      "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1019,26 +1039,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Oh No!",
-        "url": "https://open.spotify.com/album/6hbXOmm6JkscrDJqj5rSNX"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        },
-        {
-          "name": "James Mercer",
-          "url": "https://open.spotify.com/artist/1og8fy01lbguVA5plZZRtd"
-        }
-      ],
-      "duration_ms": 244773,
-      "name": "Burial Ground",
-      "url": "https://open.spotify.com/track/1DGBNjWsXgKZqFlYBa0gIw"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Name of God",
         "url": "https://open.spotify.com/album/1qk8EaixtL3TI4xc5dhyiq"
       },
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Mantras",
-        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 232263,
-      "name": "Self Sabotage",
-      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Back For The Funeral",
         "url": "https://open.spotify.com/album/0XgBUadqi7WXDReJAetsCX"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Evolution (Deluxe)",
-        "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
+        "name": "Mantras",
+        "url": "https://open.spotify.com/album/6gmHatBTdcFoIujxwHuZir"
       },
       "artists": [
         {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 262008,
-      "name": "Don't Walk Away",
-      "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
+      "duration_ms": 232263,
+      "name": "Self Sabotage",
+      "url": "https://open.spotify.com/track/1a9YC2FLdQSfqNU9ebIJIw"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 208440,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2D95Uh41ewhOwnshoHfL3l"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Evolution (Deluxe)",
+        "url": "https://open.spotify.com/album/17u2BRLhnXTtnDRaOuebQy"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "duration_ms": 262008,
+      "name": "Don't Walk Away",
+      "url": "https://open.spotify.com/track/0vvmNRlJzDAXnJggMRXXqo"
     },
     {
       "added_at": "2024-05-17 04:00:00",

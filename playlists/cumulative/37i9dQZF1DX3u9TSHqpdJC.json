@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: My Friend Catie Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Caity Krone Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -7065,6 +7065,24 @@
     },
     {
       "album": {
+        "name": "Boring",
+        "url": "https://open.spotify.com/album/49VXbfwx0MNMkPJr4uB4ts"
+      },
+      "artists": [
+        {
+          "name": "Alice Lee",
+          "url": "https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171824,
+      "name": "Boring",
+      "url": "https://open.spotify.com/track/2yUAOqsyocG2zJs2y4qNN2"
+    },
+    {
+      "album": {
         "name": "Bossa Nova Baby",
         "url": "https://open.spotify.com/album/54jhUseLv2L1LtDJ27ydEx"
       },
@@ -8918,7 +8936,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 146906,
       "name": "Call Me Stupid",
       "url": "https://open.spotify.com/track/4fXHEdEmxMsCP4tB3LvZpi"
@@ -14874,7 +14892,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 184235,
       "name": "Don\u2019t",
       "url": "https://open.spotify.com/track/2nc4Ri2CDDc4I4ED7QaJMw"
@@ -22224,7 +22242,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 178125,
       "name": "Grow Old Together",
       "url": "https://open.spotify.com/track/7Fg5ZfzagPmxs7HmaXSF8H"
@@ -22570,7 +22588,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 153250,
       "name": "Half of forever",
       "url": "https://open.spotify.com/track/5v3MSh7CD3VNyCwAoSha5p"
@@ -23252,7 +23270,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 180394,
       "name": "He's Dancing So Well (I'm Better)",
       "url": "https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG"
@@ -28421,6 +28439,24 @@
     },
     {
       "album": {
+        "name": "if you still like me in the morning",
+        "url": "https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l"
+      },
+      "artists": [
+        {
+          "name": "Tessa Rae",
+          "url": "https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228144,
+      "name": "if you still like me in the morning",
+      "url": "https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f"
+    },
+    {
+      "album": {
         "name": "If You'll Have Me",
         "url": "https://open.spotify.com/album/2Tj6aMOWvhNxk4bh3JA3vj"
       },
@@ -28504,7 +28540,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 219370,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/2aN738vVrFyKjwy8ypg1US"
@@ -29092,6 +29128,24 @@
       "duration_ms": 185930,
       "name": "Insane",
       "url": "https://open.spotify.com/track/4WAq76sKJNYCcFJ6pNRpse"
+    },
+    {
+      "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/1EGr5YuSWlQ48Oq8Zg5XQi"
+      },
+      "artists": [
+        {
+          "name": "Sonia Stein",
+          "url": "https://open.spotify.com/artist/5ct2WFb5gFMXAntFsAwA0y"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230773,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/1T2zcfPrblb9wkKHdoBizN"
     },
     {
       "album": {
@@ -29890,6 +29944,24 @@
       "duration_ms": 146400,
       "name": "Juicy",
       "url": "https://open.spotify.com/track/5PLTltSEHxeHhAZmrrqs1i"
+    },
+    {
+      "album": {
+        "name": "Julia Roberts",
+        "url": "https://open.spotify.com/album/1IqrCsHY278uWeFeXhzfNu"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184202,
+      "name": "Julia Roberts",
+      "url": "https://open.spotify.com/track/19MOp5aXEBDgsCVksJ5MS0"
     },
     {
       "album": {
@@ -41040,7 +41112,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 173893,
       "name": "Opera",
       "url": "https://open.spotify.com/track/25qioGPeNaC1X9FiVPIoJ0"
@@ -42024,7 +42096,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 196036,
       "name": "Paralyzing",
       "url": "https://open.spotify.com/track/6kryJEIoIaogn0HUUWDbTE"
@@ -42414,7 +42486,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 218800,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/1LtNEYgneVIjcl9Kcu231Q"
@@ -42728,6 +42800,24 @@
       "duration_ms": 215943,
       "name": "Picture",
       "url": "https://open.spotify.com/track/1tUHwdqRMqbLyt2tEoB2EU"
+    },
+    {
+      "album": {
+        "name": "Picture Perfect Standard",
+        "url": "https://open.spotify.com/album/4Y7RlGQR1n7QpzKhdFlHde"
+      },
+      "artists": [
+        {
+          "name": "Brosie",
+          "url": "https://open.spotify.com/artist/1BhHfoVYBG9UF75NYr61RB"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148085,
+      "name": "Picture Perfect Standard",
+      "url": "https://open.spotify.com/track/4gasg8PCUY1myPy5twWEgh"
     },
     {
       "album": {
@@ -46174,7 +46264,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 179482,
       "name": "Rough Patch",
       "url": "https://open.spotify.com/track/0TNDy8OHQZkiZn9W5EObNr"
@@ -49995,6 +50085,24 @@
     },
     {
       "album": {
+        "name": "Someone",
+        "url": "https://open.spotify.com/album/3hCX0yEonCeJxVVO09FMOL"
+      },
+      "artists": [
+        {
+          "name": "Peyton McMahon",
+          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199535,
+      "name": "Someone",
+      "url": "https://open.spotify.com/track/0D0bi3xh6KJVmZGf27bKR3"
+    },
+    {
+      "album": {
         "name": "Someone Else",
         "url": "https://open.spotify.com/album/2VGi7CzoyQpRf85qoZ0Ara"
       },
@@ -50458,6 +50566,24 @@
       "duration_ms": 222701,
       "name": "Sorry?",
       "url": "https://open.spotify.com/track/3TVHf2iC4sIdhYT6dTNPv7"
+    },
+    {
+      "album": {
+        "name": "Sound of Heartache",
+        "url": "https://open.spotify.com/album/3iw4SzmAPu9JKEIpIeIgwE"
+      },
+      "artists": [
+        {
+          "name": "Asbj\u00f8rn",
+          "url": "https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240260,
+      "name": "Sound of Heartache",
+      "url": "https://open.spotify.com/track/6ls0Col3YKJSjEBVtjyVLD"
     },
     {
       "album": {
@@ -51369,6 +51495,24 @@
     },
     {
       "album": {
+        "name": "still that girl",
+        "url": "https://open.spotify.com/album/0CQ9GChsufL7YhifsvE5uG"
+      },
+      "artists": [
+        {
+          "name": "MADELINE.",
+          "url": "https://open.spotify.com/artist/3DcmBCuALIFNQhuc0nQe70"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225781,
+      "name": "still that girl",
+      "url": "https://open.spotify.com/track/6W8uSymsLDoazjE95IRBat"
+    },
+    {
+      "album": {
         "name": "Still Think You Do",
         "url": "https://open.spotify.com/album/2dZwOcKSlPXF0avepEFyXy"
       },
@@ -51625,6 +51769,24 @@
     },
     {
       "album": {
+        "name": "stranger at the dinner table",
+        "url": "https://open.spotify.com/album/51bIfvJlFR0llFDfAS3TLg"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237365,
+      "name": "stranger at the dinner table",
+      "url": "https://open.spotify.com/track/5IKZkf0qpBXNqeSjaLnU7G"
+    },
+    {
+      "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/3yKCOpRPNk4GogBIfN35me"
       },
@@ -51676,6 +51838,24 @@
       "duration_ms": 154956,
       "name": "Strangers With Memories",
       "url": "https://open.spotify.com/track/6kBpyIkIT7nqDNtb1F2Xw6"
+    },
+    {
+      "album": {
+        "name": "strawberry cake",
+        "url": "https://open.spotify.com/album/1wlssQmeJ21bMtmiPZSMf1"
+      },
+      "artists": [
+        {
+          "name": "teddie",
+          "url": "https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "strawberry cake",
+      "url": "https://open.spotify.com/track/65jL6lQnGBMiyWMOEwDDNK"
     },
     {
       "album": {
@@ -51896,7 +52076,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 199533,
       "name": "Student",
       "url": "https://open.spotify.com/track/4w0WVJWw1cm1n5FLox2Yjp"
@@ -53552,6 +53732,24 @@
       "duration_ms": 228750,
       "name": "Talking Too Much",
       "url": "https://open.spotify.com/track/1aoPYlWgdqduzucCVKnaNk"
+    },
+    {
+      "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
     },
     {
       "album": {
@@ -56264,6 +56462,24 @@
       "duration_ms": 183529,
       "name": "Timeless",
       "url": "https://open.spotify.com/track/621ZeUkBOs93NwbWixnMHD"
+    },
+    {
+      "album": {
+        "name": "Times Are Changin'",
+        "url": "https://open.spotify.com/album/6Mc1EE6rHNvMjKXrBadFIa"
+      },
+      "artists": [
+        {
+          "name": "Fraser Churchill",
+          "url": "https://open.spotify.com/artist/07Y56gwdkeIu8RZpGy7tSZ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198400,
+      "name": "Times Are Changin'",
+      "url": "https://open.spotify.com/track/5GfeGwrQvFAQgevgfvmQ2D"
     },
     {
       "album": {
@@ -59156,7 +59372,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 128843,
       "name": "walk away",
       "url": "https://open.spotify.com/track/4qPlGME9gibeMHrhLLq1KR"
@@ -62242,7 +62458,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 194618,
       "name": "wreck",
       "url": "https://open.spotify.com/track/2vU4N94Z1BS9TPKYMoQPKx"
@@ -62426,6 +62642,24 @@
       "duration_ms": 128507,
       "name": "XOXO",
       "url": "https://open.spotify.com/track/3NcbkfyYhxERMXaUU7UaUR"
+    },
+    {
+      "album": {
+        "name": "XY",
+        "url": "https://open.spotify.com/album/6RD0cWA9UuX0KQPto5iNuA"
+      },
+      "artists": [
+        {
+          "name": "Jillian Shea",
+          "url": "https://open.spotify.com/artist/6MG9ZA7bWygcE92TnXrTP4"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177071,
+      "name": "XY",
+      "url": "https://open.spotify.com/track/5D4BMFxuF5u0DIQNc7cliu"
     },
     {
       "album": {

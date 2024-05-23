@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Ferrugem, Billie Eilish, MC Caveirinha e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,908,744 likes - 67 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,909,000 likes - 67 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

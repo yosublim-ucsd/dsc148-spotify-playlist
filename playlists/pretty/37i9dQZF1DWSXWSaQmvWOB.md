@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 
 > New soul\-infused music every week! Cover: Jordan Rakei
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,266 likes - 88 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,311 likes - 88 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXWSaQmvWOB.md) - [plain]
 | 12 | [Greens](https://open.spotify.com/track/6X3eqOlk8aatOtVCMsVcR9) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Greens](https://open.spotify.com/album/3luBM373jJCrmgP9My6eLe) | 3:29 |
 | 13 | [Shine](https://open.spotify.com/track/0pD0ZDgjAMHLdFNov4sRta) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Shine](https://open.spotify.com/album/0NWWNpxBOkggyzp829Fudt) | 3:14 |
 | 14 | [California](https://open.spotify.com/track/6AebzRlXA8IEwTarwJAzt9) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [VOLUME 1](https://open.spotify.com/album/7dAz4N6jLl36RwpVmJnJBr) | 4:46 |
-| 15 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
+| 15 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 16 | [Ringing With Love](https://open.spotify.com/track/2CcosXxDkanGpGMCjX3UeZ) | [Noa Lauryn](https://open.spotify.com/artist/6bukZqzHUL1BdEXfa1wLz9), [Maddy Moreah](https://open.spotify.com/artist/0ITnYfCgaZPWFXJ2Yir6gY), [DAVIES](https://open.spotify.com/artist/04q7KeD8GMTsUEtIqO4N4Y) | [Ringing With Love](https://open.spotify.com/album/3yAEUE3qdYhA2qqoA1GULk) | 3:10 |
 | 17 | [OMW](https://open.spotify.com/track/3nw5WQ5REgGUWStVIdvvbM) | [Tom Bailey](https://open.spotify.com/artist/2oazmaA42Jf78TZeTsUIDU) | [OMW](https://open.spotify.com/album/0j894aliAJ5EfeBHPbia11) | 2:41 |
 | 18 | [I Feel The Same](https://open.spotify.com/track/3g5USVPXT64avOIty1eJEO) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [I Feel The Same](https://open.spotify.com/album/3zwgXxn3hxMKh7Cbbor2j2) | 4:07 |

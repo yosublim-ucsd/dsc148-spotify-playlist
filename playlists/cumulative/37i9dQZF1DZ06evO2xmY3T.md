@@ -2,7 +2,7 @@
 
 ### [This Is Cardi B](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xmY3T)
 
-> This is Cardi B แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is Cardi B\. The essential tracks, all in one playlist.
 
 59 songs - 3 hr 19 min
 

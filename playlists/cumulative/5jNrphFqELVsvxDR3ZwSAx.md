@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/5jNrphFqELVsvxDR3ZwSAx.md) - cumulative - [plain](/playlists/plain/5jNrphFqELVsvxDR3ZwSAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5jNrphFqELVsvxDR3ZwSAx)
 
-### [As Heard on Screen](https://open.spotify.com/playlist/5jNrphFqELVsvxDR3ZwSAx)
+### [As Heard on TV](https://open.spotify.com/playlist/5jNrphFqELVsvxDR3ZwSAx)
 
-> 
+> Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney +
 
-155 songs - 10 hr 16 min
+158 songs - 10 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 | 2024-05-01 |  |
 | [I Feel Love](https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [I Feel Love](https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu) | 4:14 | 2024-05-01 |  |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2022-05-18 | 2024-05-02 |
+| [I Was Made For Lovin’ You \(from The Fall Guy\) \[Orchestral Version\]](https://open.spotify.com/track/26oE6AJXIqCSBnyxd9pjwI) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [The Fall Guy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1rUyvuK18HiuH5L2jJAtZH) | 4:47 | 2024-05-22 |  |
 | [I Won't Back Down](https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 2:58 | 2022-05-18 | 2024-05-02 |
 | [I'm A Believer](https://open.spotify.com/track/0C9jZPUv4SuaXkuEQw6L40) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Smash Mouth](https://open.spotify.com/album/7KZkFAtkse1rKL9HdFTCuh) | 3:05 | 2024-05-01 |  |
 | [I, Oh I](https://open.spotify.com/track/6tqzcNKCr0ZIM7sz6lNGg1) | [Paul Stanley's Soul Station](https://open.spotify.com/artist/3SSu1tFfLuAZgAvEPOyay6) | [I, Oh I / Could It Be I’m Falling In Love / O\-O\-H Child](https://open.spotify.com/album/6efsxPXLNqMcFaP70eoPm9) | 3:15 | 2022-05-18 | 2024-05-02 |
@@ -82,6 +83,7 @@
 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 | 2024-05-01 |  |
 | [Let It Roll \- From "The Garfield Movie"](https://open.spotify.com/track/2sEY3b8G71YuHxlu5XWJMN) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Let It Roll \(From "The Garfield Movie"\)](https://open.spotify.com/album/4NpZf8CeLUEZ22RZYfwluT) | 2:43 | 2024-05-01 |  |
 | [Lick It Up \- Live In Virginia Beach / 2004](https://open.spotify.com/track/3rpjleFYXvIIaWAD7Lb7zS) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Lick It Up \(Live\)](https://open.spotify.com/album/0AWQQY6jhwuLXKFKv9VAbq) | 5:57 | 2022-05-18 | 2024-05-02 |
+| [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 | 2024-05-22 |  |
 | [Lithium \- Live In Melbourne, Australia For Triple J/1992](https://open.spotify.com/track/6g6QsvjCNdc9jCTKC9mlAr) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Lithium / Breed \(Live\)](https://open.spotify.com/album/431UlB4LLO6ctKniV74i5g) | 4:47 | 2022-05-18 | 2024-05-02 |
 | [Livin' On A Prayer](https://open.spotify.com/track/0J6mQxEZnlRt9ymzFntA6z) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/5uU2uM1RGHfzlA12opjqol) | 4:09 | 2022-05-18 | 2024-05-02 |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2022-05-18 | 2024-05-02 |
@@ -138,6 +140,7 @@
 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 | 2022-05-18 | 2024-05-02 |
 | [The Scuttlebutt](https://open.spotify.com/track/2wLDS3oCMufFrvwN2IK3Bt) | [Awkwafina](https://open.spotify.com/artist/3SmyWs7ou3udD8gtM0Z6Vx), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/40tsP3taBOC9HqNaLCZZKP) | 2:01 | 2024-05-01 |  |
 | [The World Tonight \- 2020 Remaster](https://open.spotify.com/track/2LvGwQDjRJAdh5N1QkmwsL) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Jeff Lynne](https://open.spotify.com/artist/3bTAaMx9nf237AkBnGw3vL) | [The World Tonight EP](https://open.spotify.com/album/05Yx2hGvmRjhChNrWW10jK) | 4:05 | 2022-05-18 | 2024-05-02 |
+| [Then There Was You \- From "The Garfield Movie"](https://open.spotify.com/track/40rCgFIq4lZUQcvoQR2j0t) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Then There Was You \(From "The Garfield Movie"\)](https://open.spotify.com/album/4sTlExwGlfYbBJ4zTZP78U) | 2:42 | 2024-05-22 |  |
 | [This Wish \- From "Wish"](https://open.spotify.com/track/5yvHjO06WHe7ETlgirLjbw) | [Ariana DeBose](https://open.spotify.com/artist/1Np9GsrPO7dlczjvdehBxs), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [This Wish \(From "Wish"\)](https://open.spotify.com/album/123gDnj9pBl8GNRLyOViC9) | 3:25 | 2024-05-01 |  |
 | [Time Waits For No One](https://open.spotify.com/track/2drbAkZsG7PSe1eVT5kRvy) | [Freddie Mercury](https://open.spotify.com/artist/4M1FpEWs2PeYfJe7xxJfhH) | [Time Waits For No One](https://open.spotify.com/album/3HW23wGFz88IaTUIOdumfz) | 3:23 | 2022-05-18 | 2024-05-02 |
 | [Tiny Dancer](https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Madman Across The Water](https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr) | 6:17 | 2024-05-01 |  |

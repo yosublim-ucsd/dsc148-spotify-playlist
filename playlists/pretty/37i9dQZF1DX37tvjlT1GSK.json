@@ -1,6 +1,6 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Octavio Cuadras en portada. ",
-  "num_followers": 799484,
+  "num_followers": 799502,
   "original_name": "Sierre\u00f1o 2024",
   "owner": {
     "name": "Spotify",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "GXLE 3",
         "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 223200,
       "name": "Hoy la Vi Con \u00c9l - En Vivo",
       "url": "https://open.spotify.com/track/3Tz3CWlyJgui4a5VlIgRwf"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -2119,26 +2119,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Ando Free",
-        "url": "https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Doble Cara",
-          "url": "https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Ando Free",
-      "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/54s95AAfjN7bwnABUfdR6Z"
       },
@@ -2159,18 +2139,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Como Le Explico",
-        "url": "https://open.spotify.com/album/7KQ85vdnUNN5qs4uLJ2HAO"
+        "name": "Ando Free",
+        "url": "https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv"
       },
       "artists": [
         {
-          "name": "Los Del Limit",
-          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Doble Cara",
+          "url": "https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf"
         }
       ],
-      "duration_ms": 190997,
-      "name": "Como Le Explico",
-      "url": "https://open.spotify.com/track/2TFsdZ1qfKYv5x3sWMl2ju"
+      "duration_ms": 124973,
+      "name": "Ando Free",
+      "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -2187,6 +2171,22 @@
       "duration_ms": 235224,
       "name": "Sobran Motivos",
       "url": "https://open.spotify.com/track/7k6ljvd7ny9AUHWEFBrBFa"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Como Le Explico",
+        "url": "https://open.spotify.com/album/7KQ85vdnUNN5qs4uLJ2HAO"
+      },
+      "artists": [
+        {
+          "name": "Los Del Limit",
+          "url": "https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw"
+        }
+      ],
+      "duration_ms": 190997,
+      "name": "Como Le Explico",
+      "url": "https://open.spotify.com/track/2TFsdZ1qfKYv5x3sWMl2ju"
     },
     {
       "added_at": "2024-05-03 06:00:00",

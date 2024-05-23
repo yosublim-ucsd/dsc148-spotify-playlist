@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6wMr4zKPrrR0UVz08WtUWc">Black Coffee</a>'s favorite tracks\. Updated regularly\. Curated by Black Coffee\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-501 songs - 2 day 1 hr 45 min
+502 songs - 2 day 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Axel](https://open.spotify.com/track/1ndO08vc6G8ToyQDYOHMb3) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Axel](https://open.spotify.com/album/3aX1f8fBtbh84KpXKzdvjm) | 4:40 | 2023-11-06 | 2023-12-22 |
 | [Axel](https://open.spotify.com/track/3DKPOkUrUyloVq3lGmHfiV) | [KeeQ](https://open.spotify.com/artist/5OSkggAoi9qMYfSJuTz4pB) | [Axel](https://open.spotify.com/album/2p8asP7O6CErLIC1dqFFMb) | 4:40 | 2023-02-02 | 2023-11-11 |
 | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/track/5GmYZKs60MPyyVySv6yQKF) | [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Ayikh' Indaw' Enjengekhaya \(Henrik Schwarz Rework\)](https://open.spotify.com/album/2uGCLaCAJ7EuKCrPZVxf8X) | 6:41 | 2022-09-13 | 2024-03-22 |
+| [B27](https://open.spotify.com/track/2oXnWipLEQOeS1b10Frd3t) | [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [B27](https://open.spotify.com/album/5dw5CkaR95xfNBuzvJcVL1) | 4:24 | 2024-05-22 |  |
 | [Babylon](https://open.spotify.com/track/6T9aB3QkE3v1GfU2noLTXK) | [Stereo Cassette](https://open.spotify.com/artist/6NRuO6KTcl8Zpx3Ue8Zau0) | [Revival EP](https://open.spotify.com/album/0I6Yhz0OpdICjWfDFSqIFL) | 5:16 | 2023-11-06 | 2023-12-22 |
 | [Bakone](https://open.spotify.com/track/5XPzuMJVQ9cX9kbOOCRvDW) | [Da Capo](https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9) | [Bakone](https://open.spotify.com/album/7KKssScoi6eEnGUYbgiG9l) | 7:16 | 2023-07-21 | 2023-08-09 |
 | [Banho de Folhas \- Maz Remix](https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Banho de Folhas \(Maz Remix\)](https://open.spotify.com/album/4TOESm4bhH4SDlH0hnuP7O) | 3:35 | 2023-11-06 |  |

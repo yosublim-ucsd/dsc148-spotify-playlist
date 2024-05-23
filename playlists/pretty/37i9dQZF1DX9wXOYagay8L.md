@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Proudly Southern African Afropop gems\. Cover: <a href="https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN?si=sVSYrD4YRliHn20AbUrzkg">Nhlonipho</a>, <a href="https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap?si=LkqJvhZ7RsqKHOI\_AGaO3w">Savara</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,705 likes - 55 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,739 likes - 55 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

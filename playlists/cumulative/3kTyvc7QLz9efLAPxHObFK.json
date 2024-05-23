@@ -3803,6 +3803,24 @@
     },
     {
       "album": {
+        "name": "Can you feel it EP",
+        "url": "https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA"
+      },
+      "artists": [
+        {
+          "name": "Raw System",
+          "url": "https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180960,
+      "name": "Can you feel it",
+      "url": "https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY"
+    },
+    {
+      "album": {
         "name": "Can You Feel The Love",
         "url": "https://open.spotify.com/album/6FiB3syZRasiVDz1mWDSPV"
       },
@@ -14124,6 +14142,28 @@
       "duration_ms": 116461,
       "name": "Let's Go",
       "url": "https://open.spotify.com/track/6XK6qCTQgLT0FiyFqq7BIO"
+    },
+    {
+      "album": {
+        "name": "Can you feel it EP",
+        "url": "https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA"
+      },
+      "artists": [
+        {
+          "name": "Raw System",
+          "url": "https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4"
+        },
+        {
+          "name": "Heaven's Demon",
+          "url": "https://open.spotify.com/artist/3q44TsjKfwQZjkqIVJjSLa"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197490,
+      "name": "Let's go",
+      "url": "https://open.spotify.com/track/4KQfv7fDJnqkMsqR6MZQq2"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "Afro diaspora cuts from around the globe. Vibe & whine to this! Cover: Fireboy DML",
-  "num_followers": 29229,
+  "num_followers": 29231,
   "original_name": "Afro Fusion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkYRYAAAAAAWrT0hCO9/Wfq5Vq18d6UT",
+  "snapshot_id": "Zk3QMAAAAADaYI3PrDkPDVLGEouEaJr0",
   "tracks": [
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 166350,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
+    },
     {
       "added_at": "2024-05-09 21:20:37",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
-    },
-    {
-      "added_at": "2024-05-16 14:00:00",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 166350,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf"
     },
     {
       "added_at": "2024-05-16 14:00:00",
@@ -101,24 +101,20 @@
       "url": "https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd"
     },
     {
-      "added_at": "2024-05-16 14:00:00",
+      "added_at": "2024-05-09 21:20:37",
       "album": {
-        "name": "Best Life",
-        "url": "https://open.spotify.com/album/7gvgZlzFcTZndfDmyeIIJi"
+        "name": "Rodo",
+        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
       },
       "artists": [
         {
-          "name": "Desiigner",
-          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
-        },
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 165026,
-      "name": "Best Life",
-      "url": "https://open.spotify.com/track/2dXMAzJqvBPreykgeNIXdV"
+      "duration_ms": 143756,
+      "name": "Rodo",
+      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
     },
     {
       "added_at": "2024-05-09 21:20:37",
@@ -137,20 +133,24 @@
       "url": "https://open.spotify.com/track/08oUbg2xP9viDnYcKacUd8"
     },
     {
-      "added_at": "2024-05-09 21:20:37",
+      "added_at": "2024-05-16 14:00:00",
       "album": {
-        "name": "Rodo",
-        "url": "https://open.spotify.com/album/62qOqQtptVw6h4ywlGsNXZ"
+        "name": "Best Life",
+        "url": "https://open.spotify.com/album/7gvgZlzFcTZndfDmyeIIJi"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+          "name": "Desiigner",
+          "url": "https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4"
+        },
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
         }
       ],
-      "duration_ms": 143756,
-      "name": "Rodo",
-      "url": "https://open.spotify.com/track/2FCaYrweDiATqvZYDmHqlr"
+      "duration_ms": 165026,
+      "name": "Best Life",
+      "url": "https://open.spotify.com/track/2dXMAzJqvBPreykgeNIXdV"
     },
     {
       "added_at": "2024-05-09 21:20:37",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-05-09 21:20:37",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2024-05-09 21:20:37",
-      "album": {
         "name": "Ruin",
         "url": "https://open.spotify.com/album/5FCCJIcpppCJI3qIPAhgbG"
       },
@@ -1683,22 +1667,6 @@
       "duration_ms": 172342,
       "name": "Last Last",
       "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2024-05-09 21:20:37",
-      "album": {
-        "name": "KATIGORI/PIANO",
-        "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "KATIGORI",
-      "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
     },
     {
       "added_at": "2024-05-09 21:20:37",
@@ -1891,30 +1859,6 @@
       "duration_ms": 166956,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/5uvjfyCmTkTdDDZTsfmGIS"
-    },
-    {
-      "added_at": "2024-05-09 21:20:37",
-      "album": {
-        "name": "Party No Dey Stop (JayO & Byron Messia Remix)",
-        "url": "https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "JayO",
-          "url": "https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD"
-        },
-        {
-          "name": "Byron Messia",
-          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
-        }
-      ],
-      "duration_ms": 152109,
-      "name": "Party No Dey Stop (with JayO & Byron Messia) - JayO & Byron Messia Remix",
-      "url": "https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ"
     },
     {
       "added_at": "2024-05-09 21:20:37",

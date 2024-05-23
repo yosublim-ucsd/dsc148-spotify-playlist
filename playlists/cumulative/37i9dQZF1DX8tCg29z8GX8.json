@@ -403,6 +403,28 @@
     },
     {
       "album": {
+        "name": "Growing Pains (Deluxe)",
+        "url": "https://open.spotify.com/album/47EX0L1oFrF9x13M3VhuxG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Nkosazana Daughter",
+          "url": "https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242142,
+      "name": "Alone - Deluxe",
+      "url": "https://open.spotify.com/track/5zaoKCTA6RW3XW03TUHTLe"
+    },
+    {
+      "album": {
         "name": "Alright (feat. Shatta Wale)",
         "url": "https://open.spotify.com/album/4BLHs4HKOkzO4lofvYlHa4"
       },
@@ -4562,7 +4584,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 147326,
       "name": "Knee Down",
       "url": "https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4"

@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241698,
+  "num_followers": 241699,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "calm & patient",
+        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "calm & patient",
+      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "KARMA",
         "url": "https://open.spotify.com/album/0ahMBglX3zpyTxcD3NwZR5"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 187972,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/5gc1YUM7XMyvzjJtNLXprG"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "calm & patient",
-        "url": "https://open.spotify.com/album/0lVHZDJCaXbth0EkXrQlFg"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "calm & patient",
-      "url": "https://open.spotify.com/track/5FxKXIwFBKb2eWSwJ523sp"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Spinn On You",
-        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
+        "name": "Next Chapter",
+        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 140663,
-      "name": "Spinn On You",
-      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
+      "duration_ms": 149966,
+      "name": "Hurts Me To Know",
+      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Next Chapter",
-        "url": "https://open.spotify.com/album/1CYWwUlTWMQwT2M7rUnqkf"
+        "name": "Spinn On You",
+        "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
       },
       "artists": [
         {
@@ -1020,9 +1020,9 @@
           "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 149966,
-      "name": "Hurts Me To Know",
-      "url": "https://open.spotify.com/track/0yZ6a47o7jfO5PmFjbQwCi"
+      "duration_ms": 140663,
+      "name": "Spinn On You",
+      "url": "https://open.spotify.com/track/2sJFKoTuGxIbz8b1ytHMZM"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Loveloca",
-        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
-      },
-      "artists": [
-        {
-          "name": "J.A.D.E",
-          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Loveloca",
-      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "You and I",
         "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 186666,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Loveloca",
+        "url": "https://open.spotify.com/album/6cc0aH6M1S3SAUdMglc37e"
+      },
+      "artists": [
+        {
+          "name": "J.A.D.E",
+          "url": "https://open.spotify.com/artist/286YnD3iVn80KxG43TyBHH"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Loveloca",
+      "url": "https://open.spotify.com/track/1JCKPYM0yFZfXeC04RmeiB"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "speed up",
-        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
-      },
-      "artists": [
-        {
-          "name": "Cyra Gwynth",
-          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
-        },
-        {
-          "name": "K1D",
-          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
-        }
-      ],
-      "duration_ms": 149989,
-      "name": "speed up",
-      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Find Me Again",
         "url": "https://open.spotify.com/album/7GxmqeXiLac35NmgcqdAuI"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 167145,
       "name": "Find Me Again",
       "url": "https://open.spotify.com/track/3QXVVOPVHLMXFjFI3UQ5cB"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "speed up",
+        "url": "https://open.spotify.com/album/6GWBNmNUtFbMFZNaOUjGVG"
+      },
+      "artists": [
+        {
+          "name": "Cyra Gwynth",
+          "url": "https://open.spotify.com/artist/73xasVLAvFrnbuhBdAucpp"
+        },
+        {
+          "name": "K1D",
+          "url": "https://open.spotify.com/artist/6vkNDrbuaVIuKwAylGos5o"
+        }
+      ],
+      "duration_ms": 149989,
+      "name": "speed up",
+      "url": "https://open.spotify.com/track/4jz3KUDAYLnhOjN0GsH005"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Mood",
-        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
-      },
-      "artists": [
-        {
-          "name": "Natalie La Rose",
-          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
-        }
-      ],
-      "duration_ms": 186268,
-      "name": "Mood",
-      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Nobody believes me",
         "url": "https://open.spotify.com/album/13nO1IRMG3mjtaTD9AWLth"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 158571,
       "name": "Nobody believes me",
       "url": "https://open.spotify.com/track/0REfEuEqp99TRAWP3qqAQv"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Mood",
+        "url": "https://open.spotify.com/album/1bxGp98YJlaWr6nLaBIvHp"
+      },
+      "artists": [
+        {
+          "name": "Natalie La Rose",
+          "url": "https://open.spotify.com/artist/2qdONMCoDngQk0eV4Avs1i"
+        }
+      ],
+      "duration_ms": 186268,
+      "name": "Mood",
+      "url": "https://open.spotify.com/track/1YoaC97vl8UBcXM9J0V3ro"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1743,6 +1743,26 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "majestic exclusives",
+        "url": "https://open.spotify.com/album/7uOqjUeVTPctM8NINdY4Cn"
+      },
+      "artists": [
+        {
+          "name": "1STVIRGINIA",
+          "url": "https://open.spotify.com/artist/34igzgmICCp2wgRfgr1jKW"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/2z8oOBWOJLyzdd7GVKOHe5"
+        }
+      ],
+      "duration_ms": 152347,
+      "name": "Feelin'",
+      "url": "https://open.spotify.com/track/7dbNxYPYILE3MNxh9ND12K"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Private",
         "url": "https://open.spotify.com/album/6obunuhuVYQh7LBZgXoIOR"
       },
@@ -1759,26 +1779,6 @@
       "duration_ms": 158901,
       "name": "Private",
       "url": "https://open.spotify.com/track/42aNId1lKXtXYhs3tw9qlE"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "We're through",
-        "url": "https://open.spotify.com/album/4wPDZWxj7CB4xUBLQ7hIJn"
-      },
-      "artists": [
-        {
-          "name": "Kyara Shereen",
-          "url": "https://open.spotify.com/artist/2xtnBW8NATpAS0zySpH23Q"
-        },
-        {
-          "name": "This is Lema",
-          "url": "https://open.spotify.com/artist/6xukNNXDc47oIMHVZR5SQv"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "We're Through",
-      "url": "https://open.spotify.com/track/0rQKB1uvWhq4CAVNQxjPuj"
     }
   ],
   "unique_name": "R&B Magic",

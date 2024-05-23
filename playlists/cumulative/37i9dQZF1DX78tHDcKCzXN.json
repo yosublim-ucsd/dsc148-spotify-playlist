@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5URzZroiLUZhdMOwq6KsRk"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4qeRAXlNZ03SYvoXJNs2v2"
+    },
+    {
+      "album": {
         "name": "NCT #127 Regular-Irregular - The 1st Album",
         "url": "https://open.spotify.com/album/4oU5Tp952fPL7z2Bax4JmU"
       },

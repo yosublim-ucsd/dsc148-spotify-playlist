@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 
 > O melhor do sertanejo em uma só playlist! Foto: Felipe & Rodrigo
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,642,617 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,643,112 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdSjVZQzv2tl.md) - [plain]
 | 48 | [Leão](https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Decretos Reais, Vol\. 2](https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf) | 2:46 |
 | 49 | [Sorte Da Porra \- Ao Vivo](https://open.spotify.com/track/0mAYsM1VLBsYjiHLH3wm8Y) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Última Noite \(Ao Vivo\)](https://open.spotify.com/album/2sI9lVO5PJrw0XgR4ec1vq) | 2:35 |
 
-Snapshot ID: `ZkbI5AAAAADOTr53D2FNnNfi2Rx5qlAI`
+Snapshot ID: `Zk3QMAAAAABZBltKnd+6Phd7LxyKE1vp`

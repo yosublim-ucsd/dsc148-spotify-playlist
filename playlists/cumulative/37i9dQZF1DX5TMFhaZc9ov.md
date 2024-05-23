@@ -2,9 +2,9 @@
 
 ### [Queer As Folk](https://open.spotify.com/playlist/37i9dQZF1DX5TMFhaZc9ov)
 
-> Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Izzy Heltai
+> Lyrical\. Legit\. Folk, Americana, and Singer\-Songwriter music features LGBTQIA+ acts and allies\. Cover: Adrianne Lenker
 
-183 songs - 11 hr 31 min
+185 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 | 2022-06-10 | 2024-04-19 |
 | [First Time](https://open.spotify.com/track/2xdCrFLOOJ7VCvvaGAjnQh) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/3VOetHtDXdOu2ScKlUlyd3) | 2:43 | 2022-06-10 | 2022-11-13 |
 | [First Time](https://open.spotify.com/track/7e0MiLm35bJhjevtHv0QCD) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [First Time](https://open.spotify.com/album/0VKxyyHFvel8XDtnHEudNk) | 2:43 | 2021-06-01 |  |
+| [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-05-22 |  |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2022-06-10 | 2024-04-19 |
 | [Garden Song](https://open.spotify.com/track/1LTWcRVy9o96Zzn29wXLsa) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/4Qjp6b3M3pL2mb4b1oF3vP) | 3:40 | 2021-06-01 |  |
 | [Garden Song](https://open.spotify.com/track/6WrzIVwfETihmZ91wwt5cq) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Garden Song](https://open.spotify.com/album/5RSEIqWnZsBKKYngHOkpuU) | 3:40 | 2022-06-10 | 2022-11-13 |
@@ -134,6 +135,7 @@
 | [Olivia](https://open.spotify.com/track/3OByrxVpeHjxxc0HX9bRIT) | [Rachael Sage](https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw) | [Olivia](https://open.spotify.com/album/3kmkC2FDsfV2wImqY5hYi0) | 2:47 | 2021-06-01 |  |
 | [Other Boys](https://open.spotify.com/track/0UiAguUUtTHDq4ppFEpBfG) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Other Boys](https://open.spotify.com/album/3jbFVt4VrqklkWj8uVpLAN) | 3:14 | 2021-06-01 |  |
 | [Other Boys](https://open.spotify.com/track/6s28m7d580Paz08mNEQbKo) | [Paisley Fields](https://open.spotify.com/artist/6tzDsjuTpo8J7qsGfGZvPx) | [Electric Park Ballroom](https://open.spotify.com/album/4R6UMOPlR169LPEm0gIhLU) | 3:14 | 2023-04-04 | 2024-04-19 |
+| [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-05-22 |  |
 | [Persephone](https://open.spotify.com/track/7m4pa6QJVZ5T4vf33pvLTm) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Outside Child](https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw) | 4:22 | 2021-06-01 |  |
 | [Photographs](https://open.spotify.com/track/4rUslPXZmnIT23InzwjBlj) | [Diana DeMuth](https://open.spotify.com/artist/1EGJoRmXcYb7biwtm8r0ln) | [Misadventure](https://open.spotify.com/album/1zin6IBiA6s7QQBAY372m5) | 2:59 | 2022-06-01 |  |
 | [Pipe Dreams](https://open.spotify.com/track/294T1COkA1muObOvFKe8Kx) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:25 | 2021-06-01 |  |

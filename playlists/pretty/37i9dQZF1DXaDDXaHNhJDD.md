@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > The finest set of Malayalam music from the past 10 years.<br/>Cover : Aadujeevitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,061 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,328 likes - 50 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [PakalIravukal](https://open.spotify.com/track/4ZQA0norYP8HHLJszeWvvd) | [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH), [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [PakalIravukal \- Kurup \- Malayalam](https://open.spotify.com/album/6Ihw5iaPPj87lrZwyksSmc) | 3:33 |
 | 50 | [Kamini](https://open.spotify.com/track/5sC8JC6dHcEifGMB8xPbbO) | [K\. S\. Harisankar](https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB) | [Anugraheethan Antony](https://open.spotify.com/album/2DJyACvp30UFBGAvk9UGmL) | 3:58 |
 
-Snapshot ID: `Zkr8YwAAAACXHtz/GznUmn3B9nHnfl3m`
+Snapshot ID: `Zk3roAAAAABfccGnefqHkru4EWriDpif`

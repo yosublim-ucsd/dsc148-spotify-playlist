@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: DARUMAS",
-  "num_followers": 53825,
+  "num_followers": 53821,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAARcheSqHTBd1dbhOZFYG9UfrFXE4Z4",
+  "snapshot_id": "AAARdJc/yBfitpWQYhtx9PMXA6NrMpqV",
   "tracks": [
     {
       "added_at": "2024-05-17 04:57:00",
@@ -25,20 +25,24 @@
       "url": "https://open.spotify.com/track/0Q4oppQ566CUYqfPhbkQB9"
     },
     {
-      "added_at": "2024-05-09 00:11:32",
+      "added_at": "2024-04-05 12:19:17",
       "album": {
-        "name": "tres",
-        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 154794,
-      "name": "Misi\u00f3n Imposible",
-      "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
     },
     {
       "added_at": "2024-04-25 00:18:05",
@@ -89,24 +93,20 @@
       "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
-      "added_at": "2024-04-05 12:19:17",
+      "added_at": "2024-05-09 00:11:32",
       "album": {
-        "name": "Una Vida Pasada",
-        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+        "name": "tres",
+        "url": "https://open.spotify.com/album/6vWanV9XtF0CQR0z48B5Nd"
       },
       "artists": [
         {
           "name": "Camilo",
           "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 218500,
-      "name": "Una Vida Pasada",
-      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+      "duration_ms": 154794,
+      "name": "Misi\u00f3n Imposible",
+      "url": "https://open.spotify.com/track/6Lj2ZtFODa5p3fCXp2FfIl"
     },
     {
       "added_at": "2024-05-10 00:47:35",

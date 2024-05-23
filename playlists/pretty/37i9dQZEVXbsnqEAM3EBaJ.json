@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAABZmnww+bL5YBWW1qkGY9dk",
+  "snapshot_id": "AAAAAAAAAACh09wDswqD8LW84DBJyPMZ",
   "tracks": [
     {
       "added_at": "2024-05-17 04:00:00",
@@ -51,26 +51,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
-        "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
-      },
-      "artists": [
-        {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Van Canto",
-          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
-        }
-      ],
-      "duration_ms": 251334,
-      "name": "Anteroom of Death - Edit Version",
-      "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "One (feat. James Hetfield & Robert Trujillo)",
         "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
       },
@@ -91,6 +71,26 @@
       "duration_ms": 574634,
       "name": "One (feat. James Hetfield & Robert Trujillo)",
       "url": "https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
+        "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Van Canto",
+          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+        }
+      ],
+      "duration_ms": 251334,
+      "name": "Anteroom of Death - Edit Version",
+      "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Mind Games (Evolution Documentary)",
+        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 360234,
+      "name": "Mind Games - Evolution Documentary",
+      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
       },
@@ -159,18 +175,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Mind Games (Evolution Documentary)",
-        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
       },
       "artists": [
         {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+          "name": "Visions of Atlantis",
+          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
         }
       ],
-      "duration_ms": 360234,
-      "name": "Mind Games - Evolution Documentary",
-      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+      "duration_ms": 215066,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -211,22 +227,6 @@
       "duration_ms": 332253,
       "name": "Awful Dream feat. Iggy Pop",
       "url": "https://open.spotify.com/track/3RiJyQYWyk8cGAl5xPMgDT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Monsters",
-        "url": "https://open.spotify.com/album/3PTuQBSaljC8mpbQVbWtkI"
-      },
-      "artists": [
-        {
-          "name": "Visions of Atlantis",
-          "url": "https://open.spotify.com/artist/5kanN1nKzrkW1m2gZmo82x"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/58J1gfmMIdfOUYnqt7Qhtu"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "The Live Series: Songs From Around The World Vol. 2",
+        "url": "https://open.spotify.com/album/7Mz0fvTwK8aGTXxWmgqPDz"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "From Small Things (Big Things One Day Come) - Live at Malieveld, The Hague, Holland - 06/14/2016",
+      "url": "https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Circular (BVSMV Sunset Mix)",
         "url": "https://open.spotify.com/album/1llzlwanfn739rdbRJzyO7"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 313988,
       "name": "Circular - BVSMV Sunset Mix",
       "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "The Live Series: Songs From Around The World Vol. 2",
-        "url": "https://open.spotify.com/album/7Mz0fvTwK8aGTXxWmgqPDz"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "From Small Things (Big Things One Day Come) - Live at Malieveld, The Hague, Holland - 06/14/2016",
-      "url": "https://open.spotify.com/track/5Nt0z9i8Can8wyQ28D7v6Y"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Remorse? No!",
-        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 269800,
-      "name": "Killed By Death - Demo",
-      "url": "https://open.spotify.com/track/44alqIie0HSc9LCxnm4UEf"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "You Won't Go Before You're Supposed To",
         "url": "https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 183721,
       "name": "Slaughterhouse 2 (feat. Chris Motionless)",
       "url": "https://open.spotify.com/track/3IXBQaQJ5ljpWwndAVvixg"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Remorse? No!",
+        "url": "https://open.spotify.com/album/0F4ob5tWXCsooq9qO2w2M3"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 269800,
+      "name": "Killed By Death - Demo",
+      "url": "https://open.spotify.com/track/44alqIie0HSc9LCxnm4UEf"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
         }
       ],
-      "duration_ms": 333197,
-      "name": "Desprotegi\u00e9ndome",
-      "url": "https://open.spotify.com/track/2pgGswwIXdzyB4fVxMJkrp"
+      "duration_ms": 268211,
+      "name": "La Banquina de Alg\u00fan Lado",
+      "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Portable Door",
-        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
+        "name": "Beautiful & Broken",
+        "url": "https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "b\u00f4a",
+          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
+      "duration_ms": 208919,
+      "name": "Beautiful & Broken",
+      "url": "https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -691,34 +691,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Beautiful & Broken",
-        "url": "https://open.spotify.com/album/6TDWp0q6vlG51oDrB2bmN7"
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
       },
       "artists": [
         {
-          "name": "b\u00f4a",
-          "url": "https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 208919,
-      "name": "Beautiful & Broken",
-      "url": "https://open.spotify.com/track/1bSpiBU7f3SQP2OhkzsDZ9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Divine",
-        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
-      },
-      "artists": [
-        {
-          "name": "All That Remains",
-          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
-        }
-      ],
-      "duration_ms": 219676,
-      "name": "Divine",
-      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -735,6 +719,22 @@
       "duration_ms": 255774,
       "name": "Song to the Siren",
       "url": "https://open.spotify.com/track/5ebyPkIzYSFHmzZtdVBOZm"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/2hPKkbMX9RJTi2BCIX5czA"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "duration_ms": 219676,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/1QCj1poCyvcNUkMV5hu4Ad"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Crooked Boy",
-        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
+        "name": "Breadcrumbs",
+        "url": "https://open.spotify.com/album/5STTMINKxheEifPb6aUPMO"
       },
       "artists": [
         {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 179680,
-      "name": "Gonna Need Someone",
-      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
+      "duration_ms": 156935,
+      "name": "Go Man Go - Live At Hellfest 2022",
+      "url": "https://open.spotify.com/track/75nSr7dCLyiNcHfN4wqbqY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -879,18 +879,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Breadcrumbs",
-        "url": "https://open.spotify.com/album/5STTMINKxheEifPb6aUPMO"
+        "name": "Crooked Boy",
+        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
       },
       "artists": [
         {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
         }
       ],
-      "duration_ms": 156935,
-      "name": "Go Man Go - Live At Hellfest 2022",
-      "url": "https://open.spotify.com/track/75nSr7dCLyiNcHfN4wqbqY"
+      "duration_ms": 179680,
+      "name": "Gonna Need Someone",
+      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -927,26 +927,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "2 Song Acoustic Single",
-        "url": "https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096"
-      },
-      "artists": [
-        {
-          "name": "Periphery",
-          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
-        },
-        {
-          "name": "Mike Dawes",
-          "url": "https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz"
-        }
-      ],
-      "duration_ms": 300181,
-      "name": "It's Only Smiles - Acoustic",
-      "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "To Save A Child: An Intimate Live Concert",
         "url": "https://open.spotify.com/album/2AFTCoFxo67KJgTKZtmDWi"
       },
@@ -959,30 +939,6 @@
       "duration_ms": 568000,
       "name": "Got To Get Better In A Little While - Live",
       "url": "https://open.spotify.com/track/3lNHwRPfFHckwPm1nTIuu9"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
-        "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
-      },
-      "artists": [
-        {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
-        },
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        },
-        {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
-        }
-      ],
-      "duration_ms": 212571,
-      "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
-      "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1011,6 +967,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "2 Song Acoustic Single",
+        "url": "https://open.spotify.com/album/47B4feQDM2Fkycbz5eS096"
+      },
+      "artists": [
+        {
+          "name": "Periphery",
+          "url": "https://open.spotify.com/artist/6d24kC5fxHFOSEAmjQPPhc"
+        },
+        {
+          "name": "Mike Dawes",
+          "url": "https://open.spotify.com/artist/3B83ffT0B4Si3ttxzY9fMz"
+        }
+      ],
+      "duration_ms": 300181,
+      "name": "It's Only Smiles - Acoustic",
+      "url": "https://open.spotify.com/track/0l0xADSYCvroPuNtCXDyIP"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Niebla",
         "url": "https://open.spotify.com/album/7K0rkFuaN2l85ZMNdnV9UB"
       },
@@ -1027,6 +1003,30 @@
       "duration_ms": 222965,
       "name": "Niebla",
       "url": "https://open.spotify.com/track/3dpi4ZGA27elKx01mbWSb7"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+        "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
+      },
+      "artists": [
+        {
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+        },
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        },
+        {
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+        }
+      ],
+      "duration_ms": 212571,
+      "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+      "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
     },
     {
       "added_at": "2024-05-17 04:00:00",

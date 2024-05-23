@@ -2,7 +2,7 @@
 
 ### [Fresh Finds AU & NZ](https://open.spotify.com/playlist/37i9dQZF1DX8pdK1PVpBQz)
 
-> The best new music by independent artists and labels\. <br/>Cover: DIVEBAR YOUTH Artwork: Isu Kim
+> The best new music by independent artists and labels\. Cover: DIVEBAR YOUTH<br/>Artwork: Isu Kim
 
 3,305 songs - 7 day 13 hr 13 min
 

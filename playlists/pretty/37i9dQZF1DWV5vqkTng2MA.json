@@ -1,6 +1,6 @@
 {
   "description": "Make it new. Fresh takes on vintage soul, folk, blues, and roots rock. Cover: Marcus King",
-  "num_followers": 393947,
+  "num_followers": 394068,
   "original_name": "the new retro",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Moonlit Breakers (feat. Dijon)",
-        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
+        "name": "For the Time Being",
+        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
       },
       "artists": [
         {
-          "name": "Paul Dally",
-          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
         },
         {
-          "name": "Dijon",
-          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
+          "name": "Will Leet",
+          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
         }
       ],
-      "duration_ms": 234681,
-      "name": "Moonlit Breakers (feat. Dijon)",
-      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
+      "duration_ms": 245333,
+      "name": "For the Time Being",
+      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -343,22 +343,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "For the Time Being",
-        "url": "https://open.spotify.com/album/34yEKd4Ee3yKFyhlKtAL8o"
+        "name": "Moonlit Breakers (feat. Dijon)",
+        "url": "https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD"
       },
       "artists": [
         {
-          "name": "Sammy Rae & The Friends",
-          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+          "name": "Paul Dally",
+          "url": "https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE"
         },
         {
-          "name": "Will Leet",
-          "url": "https://open.spotify.com/artist/2ArFmY25rRvP5RFJpHkqLi"
+          "name": "Dijon",
+          "url": "https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4"
         }
       ],
-      "duration_ms": 245333,
-      "name": "For the Time Being",
-      "url": "https://open.spotify.com/track/0b0rwzZCms56M9VvEWkd0M"
+      "duration_ms": 234681,
+      "name": "Moonlit Breakers (feat. Dijon)",
+      "url": "https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "S.O.B.",
-        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
-      },
-      "artists": [
-        {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
-        }
-      ],
-      "duration_ms": 247426,
-      "name": "S.O.B.",
-      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "All My Shades Of Blue",
         "url": "https://open.spotify.com/album/5ZfLIL2IFjtgKAAxvW7WiJ"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 201000,
       "name": "Summer Sun",
       "url": "https://open.spotify.com/track/2YMIYzyip7FRqV1pasIGc9"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "S.O.B.",
+        "url": "https://open.spotify.com/album/1IJTTZwMPAgXApak2v9tWI"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+        }
+      ],
+      "duration_ms": 247426,
+      "name": "S.O.B.",
+      "url": "https://open.spotify.com/track/45Z9SQmHi1nCIevliOVtaz"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Sister Andre",
-        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
-      },
-      "artists": [
-        {
-          "name": "Pokey LaFarge",
-          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
-        }
-      ],
-      "duration_ms": 185583,
-      "name": "Sister Andre",
-      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "First Time Feeling",
         "url": "https://open.spotify.com/album/7lAuqI7aCLX66UAyT74Yuu"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 186016,
       "name": "First Time Feeling",
       "url": "https://open.spotify.com/track/4FBwo4kO38ZKBFF29U9GCJ"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Sister Andre",
+        "url": "https://open.spotify.com/album/6J3yk0Qw2U2iGINcNelPQp"
+      },
+      "artists": [
+        {
+          "name": "Pokey LaFarge",
+          "url": "https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT"
+        }
+      ],
+      "duration_ms": 185583,
+      "name": "Sister Andre",
+      "url": "https://open.spotify.com/track/1lk7yaYquaKwiXPmdZD6mn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Champagne Corolla",
-      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 238680,
       "name": "Not Yet",
       "url": "https://open.spotify.com/track/3kVWSiAW7f42Lk7csxJ1VN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Champagne Corolla",
+      "url": "https://open.spotify.com/track/0Na0XZN8XNwcgbgW9sS7IY"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Every Night",
         "url": "https://open.spotify.com/album/6V2QX2Hckiqbcuq9F97NZS"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 174735,
       "name": "Every Night",
       "url": "https://open.spotify.com/track/5BrN8NTopdMoVuidy7jFRo"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Test Your Love",
-        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
+        "name": "Watermelon Oranges",
+        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
       },
       "artists": [
         {
-          "name": "Buffalo Clover",
-          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
         }
       ],
-      "duration_ms": 190600,
-      "name": "The Ruse",
-      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
+      "duration_ms": 207613,
+      "name": "Don't Please Yourself",
+      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Watermelon Oranges",
-        "url": "https://open.spotify.com/album/2Vy5z8CxvtXhim24ZFgAwF"
+        "name": "Test Your Love",
+        "url": "https://open.spotify.com/album/7I6nkUiXTp1kfBbxUk8VWH"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+          "name": "Buffalo Clover",
+          "url": "https://open.spotify.com/artist/2JTQSdVTZDWslqkHPZM2LA"
         }
       ],
-      "duration_ms": 207613,
-      "name": "Don't Please Yourself",
-      "url": "https://open.spotify.com/track/2D8C5Zxq4sGwktylVkhSRt"
+      "duration_ms": 190600,
+      "name": "The Ruse",
+      "url": "https://open.spotify.com/track/08flJ3BaFDVdtnoTFB17Xt"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -983,26 +983,6 @@
       "duration_ms": 254329,
       "name": "We Can Always Come Back To This",
       "url": "https://open.spotify.com/track/20rztDEfgrFOuHDhAeVDt3"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Don't Want Your Love",
-        "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
-      },
-      "artists": [
-        {
-          "name": "Haiva Ru",
-          "url": "https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA"
-        },
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 212376,
-      "name": "Don't Want Your Love",
-      "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1039,6 +1019,26 @@
       "duration_ms": 227567,
       "name": "Electric Fever",
       "url": "https://open.spotify.com/track/6OSjtt4YK1f3Qjlrs0PYHg"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Don't Want Your Love",
+        "url": "https://open.spotify.com/album/01VhhE9VOeFoBlKYRUv87d"
+      },
+      "artists": [
+        {
+          "name": "Haiva Ru",
+          "url": "https://open.spotify.com/artist/2KjR229AjvbIGlrkjDBguA"
+        },
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 212376,
+      "name": "Don't Want Your Love",
+      "url": "https://open.spotify.com/track/1d9BwBTqmH8qKELdwn2PH0"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Darlin'",
-        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
-      },
-      "artists": [
-        {
-          "name": "She & Him",
-          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Darlin\u2019",
-      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "The Dark Of The Morning EP",
         "url": "https://open.spotify.com/album/6SWg5ON0UMQCNzSHxulEgy"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Darlin'",
+        "url": "https://open.spotify.com/album/0OytsWs4ItvGyNP9hbBkcI"
+      },
+      "artists": [
+        {
+          "name": "She & Him",
+          "url": "https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Darlin\u2019",
+      "url": "https://open.spotify.com/track/74XIo9SlfPvxTh2dFM8Uq1"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Something In The Water",
         "url": "https://open.spotify.com/album/4F6r0ZQAOMukT5HIhZJGkM"
       },
@@ -1199,22 +1199,6 @@
       "duration_ms": 203986,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/5mSZyyhus6o620qkJbZ8yG"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
-        "name": "Kids In The Street",
-        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
-      },
-      "artists": [
-        {
-          "name": "Justin Townes Earle",
-          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
-        }
-      ],
-      "duration_ms": 202320,
-      "name": "Trouble Is",
-      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
+        "name": "Kids In The Street",
+        "url": "https://open.spotify.com/album/10bNKmk6ZxM6HRB5mwh4SU"
+      },
+      "artists": [
+        {
+          "name": "Justin Townes Earle",
+          "url": "https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq"
+        }
+      ],
+      "duration_ms": 202320,
+      "name": "Trouble Is",
+      "url": "https://open.spotify.com/track/6hEXUoac3X1sDGUzMtzVPK"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
         "name": "Stay Right Here",
         "url": "https://open.spotify.com/album/5fSnsS6vf9eovM8R3nvKNn"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "Blown Away",
-        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
-      },
-      "artists": [
-        {
-          "name": "Ben Goldsmith",
-          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
-        }
-      ],
-      "duration_ms": 192066,
-      "name": "Blown Away",
-      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "What You Don't Do",
         "url": "https://open.spotify.com/album/54lLC6rMU62oNOYyyzUEVF"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 220586,
       "name": "What You Don't Do",
       "url": "https://open.spotify.com/track/2txZKGnh75sFb3FFnuwjgF"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "Blown Away",
+        "url": "https://open.spotify.com/album/2gKCl4Xw662KFd1VjSRjgM"
+      },
+      "artists": [
+        {
+          "name": "Ben Goldsmith",
+          "url": "https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Blown Away",
+      "url": "https://open.spotify.com/track/7mHBL0aq8D9DLGchZWMG48"
     },
     {
       "added_at": "2024-05-08 22:18:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2024-03-01 05:00:00",
       "album": {
-        "name": "The Token",
-        "url": "https://open.spotify.com/album/6CbbtMBoX5MysfmEmzUNDx"
-      },
-      "artists": [
-        {
-          "name": "Elise Davis",
-          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
-        }
-      ],
-      "duration_ms": 244349,
-      "name": "I Just Want Your Love",
-      "url": "https://open.spotify.com/track/5OCDdu3NYsm3bCUK0KgrBe"
-    },
-    {
-      "added_at": "2024-03-01 05:00:00",
-      "album": {
         "name": "Got Soul",
         "url": "https://open.spotify.com/album/1QoYDxyqJbI1zQN0LfV5mL"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 212293,
       "name": "Got Soul",
       "url": "https://open.spotify.com/track/1ipnaANJ3PxKhsZGgMP4LN"
+    },
+    {
+      "added_at": "2024-03-01 05:00:00",
+      "album": {
+        "name": "The Token",
+        "url": "https://open.spotify.com/album/6CbbtMBoX5MysfmEmzUNDx"
+      },
+      "artists": [
+        {
+          "name": "Elise Davis",
+          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
+        }
+      ],
+      "duration_ms": 244349,
+      "name": "I Just Want Your Love",
+      "url": "https://open.spotify.com/track/5OCDdu3NYsm3bCUK0KgrBe"
     },
     {
       "added_at": "2024-03-01 05:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=1m\_FdFmXRqSqN0Zpf7anLQ">Tito M</a> ,  <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=SiH9HdV2TgCth0Y2rOoPpQ">Burna Boy </a>  and <a href="https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=1XDGBcj3TwGnCS2CqdzJJg">Yuppe </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,589,270 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,589,714 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

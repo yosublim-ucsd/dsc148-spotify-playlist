@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,234 likes - 115 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,239 likes - 115 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 27 | [年少寄來的信](https://open.spotify.com/track/0j79mmkVu4KI8AczaVcRMf) | [庄淇文29](https://open.spotify.com/artist/0VAKR4GQJU6lCNIVy7gCrJ) | [年少寄來的信](https://open.spotify.com/album/1rZ4pRHUrLaXPdPRfJfl9J) | 3:41 |
 | 28 | [空白格](https://open.spotify.com/track/36JFiwcMSrEbPR7H9wLMEV) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [空白格](https://open.spotify.com/album/2O27040RdJ08OTUdAQg8S4) | 3:48 |
 | 29 | [盛夏花開時](https://open.spotify.com/track/5I4XXBT6HSrgB1fs6oF5Wh) | [糖炒李子Lee](https://open.spotify.com/artist/5KEVGpLc7yHZhSRtyFvBnC) | [盛夏花開時](https://open.spotify.com/album/1gx0e13lOjvZRisduTH358) | 3:16 |
-| 30 | [這樣好嗎](https://open.spotify.com/track/6V4IeXQe4wQK4ZxpP0VTTR) | [李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [這樣好嗎](https://open.spotify.com/album/30ZcpSlYZ2cjSGn2c2cFqI) | 4:16 |
+| 30 | [這樣好嗎](https://open.spotify.com/track/6V4IeXQe4wQK4ZxpP0VTTR) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [這樣好嗎](https://open.spotify.com/album/30ZcpSlYZ2cjSGn2c2cFqI) | 4:16 |
 | 31 | [愛你的決定](https://open.spotify.com/track/20g19dqTMUxaXkSKTOtHBI) | [邱詩凌](https://open.spotify.com/artist/5vM5uXrXIJ7vEao4Zs6Dak) | [愛你的決定](https://open.spotify.com/album/6c2UJcuHFJCqdiYj7PCakW) | 3:19 |
 | 32 | [壓力山大](https://open.spotify.com/track/43iJg5vwDc3MxYVAXFzRAA) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [壓力山大](https://open.spotify.com/album/79WOZYCce3ciFiLTREYlSn) | 3:50 |
 | 33 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |

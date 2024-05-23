@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-05",
-  "description": "europapa \ud83c\uddea\ud83c\uddfa",
+  "description": "\u26ab\ufe0f\u26aa\ufe0f PEDRO PEDRO PEDRO \u26aa\ufe0f\u26ab\ufe0f",
   "name": "pov (2)",
   "tracks": [
     {
@@ -3531,6 +3531,24 @@
     },
     {
       "album": {
+        "name": "BRAND NEW BITCH",
+        "url": "https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "BRAND NEW BITCH",
+      "url": "https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM"
+    },
+    {
+      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -3798,10 +3816,6 @@
         {
           "name": "S\u00f8te og Rare Gutter",
           "url": "https://open.spotify.com/artist/2gmup32OWc65WVKSoP4rD8"
-        },
-        {
-          "name": "Mannschaft",
-          "url": "https://open.spotify.com/artist/3AIknosYoaF6OgCcH10ZCy"
         }
       ],
       "date_added": "2024-04-11",
@@ -22208,7 +22222,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 135529,
-      "name": "Shut up My Moms Calling - (Sped Up)",
+      "name": "Shut up My Moms Calling (Sped up)",
       "url": "https://open.spotify.com/track/31mzt4ZV8C0f52pIz1NSwd"
     },
     {

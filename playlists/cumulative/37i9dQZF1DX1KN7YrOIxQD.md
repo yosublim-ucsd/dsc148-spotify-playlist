@@ -2,7 +2,7 @@
 
 ### [Éxitos Centroamérica](https://open.spotify.com/playlist/37i9dQZF1DX1KN7YrOIxQD)
 
-> Los éxitos del momento en Centroamérica\. Portada: Myke Towers y Bad Bunny
+> Los éxitos del momento en Centroamérica\. Portada: Bad Bunny
 
 298 songs - 16 hr 35 min
 

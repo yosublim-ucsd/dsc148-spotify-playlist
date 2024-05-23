@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 
 > Tomorrow's <a href="spotify:genre:edm\_dance">dance</a> hits, with Barry Can't Swim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,942,100 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,942,141 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tZsk68tuDw.md) - [plain]
 | 74 | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/track/0UcgETwF7Rj8ssMJaqEKvS) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Full Speed \(feat\. Aviella\)](https://open.spotify.com/album/1go08O7spIyibPNIb3lGF4) | 3:30 |
 | 75 | [Lovesome](https://open.spotify.com/track/6563duTX83eTMkc2AGETfE) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Peaky Beats](https://open.spotify.com/artist/1QEUzOmKdCmakEgcatckZd) | [Business As Usual EP](https://open.spotify.com/album/30URyJrwzIsoabTOMRncJw) | 4:33 |
 
-Snapshot ID: `ZkbWQAAAAABN3t8Hsp24PuuzeVwV6NDG`
+Snapshot ID: `Zk3QbAAAAADVDK2zLZnZFILAo9EcWzLg`

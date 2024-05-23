@@ -2,7 +2,7 @@
 
 ### [Queercore](https://open.spotify.com/playlist/37i9dQZF1DXa3ll4rE48Mv)
 
-> The sounds of LGBTQ+ punk\. Cover: The Oozes
+> The sounds of LGBTQ+ punk\. Cover: Bikini Kill
 
 140 songs - 6 hr 55 min
 

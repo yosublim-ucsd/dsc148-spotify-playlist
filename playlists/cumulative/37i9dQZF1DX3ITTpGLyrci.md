@@ -4,7 +4,7 @@
 
 > Get the drinks on ice, this one is on us!
 
-268 songs - 13 hr 21 min
+269 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [FWTDJ \(All Night Long\)](https://open.spotify.com/track/34Xi5GDOHIQu0xebSzvArx) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Triple F](https://open.spotify.com/album/2MJZVIvc14YSuFze66w5Vw) | 2:54 | 2024-03-29 |  |
 | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/track/2cV7aw6lhyfGxNNi2n6vNt) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Tom Zanetti](https://open.spotify.com/artist/73Msd8rknjBghcGQiZ1mgh) | [George Best \(feat\. Tom Zanetti\)](https://open.spotify.com/album/50srAn63LR5smlW4LzKsGB) | 3:08 | 2023-04-18 | 2023-05-31 |
 | [Ghosts](https://open.spotify.com/track/3nAYEZFHbgbWyR9ztORqlm) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [Lily McKenzie](https://open.spotify.com/artist/6LsSHppZVgx7eks7hAkTPN) | [Ghosts](https://open.spotify.com/album/5HY0aSwicIG1FdTS4lP3Uw) | 2:56 | 2024-03-29 |  |
-| [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2024-04-12 |  |
+| [Girl](https://open.spotify.com/track/0WAgwdyjTwx2TT55W8z8lu) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/2AqUNG1UqSQrik7Q3YWCNm) | 2:39 | 2024-04-12 | 2024-05-23 |
 | [Girl](https://open.spotify.com/track/4YsMDOgS5vQf5RyZD8lR34) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ) | [Girl](https://open.spotify.com/album/4PypLx4PRtIi1HJF3A0yEF) | 2:39 | 2023-04-18 | 2024-04-19 |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-05-16 | 2024-03-29 |
 | [Give Me All Your Love](https://open.spotify.com/track/5xeY8885PBalCYRewyzfyh) | [Schwing](https://open.spotify.com/artist/3J94kJuhsKSz4YmSsalkqq) | [Give Me All Your Love](https://open.spotify.com/album/7HzTzfJZZqYbSp8eJOktCn) | 2:43 | 2023-04-18 | 2023-07-01 |
@@ -150,6 +150,7 @@
 | [Lionheart \(Fearless\)](https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Lionheart \(Fearless\)](https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT) | 3:06 | 2023-08-22 | 2023-09-06 |
 | [Liquor Store](https://open.spotify.com/track/3aLsMcZZTLgQqjpWgeWMMM) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Liquor Store](https://open.spotify.com/album/4FgvuityoVGuhA5dYXQtIF) | 3:21 | 2023-08-22 | 2023-09-06 |
 | [Little Things x Gypsy Woman \- L BEATS MASHUP](https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Little Things x Gypsy Woman \(L BEATS MASHUP\)](https://open.spotify.com/album/052c03LAr2euUtLKgvOKae) | 2:11 | 2023-06-30 |  |
+| [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-22 |  |
 | [Lollipop](https://open.spotify.com/track/0iG3esqSDh6QJdN1zrAgyo) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Lollipop](https://open.spotify.com/album/482d91SbKIqijUyqTGQYZl) | 2:24 | 2023-08-22 | 2023-09-06 |
 | [Looking for Me](https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Looking for Me](https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o) | 3:31 | 2024-04-12 |  |
 | [Looking For Me](https://open.spotify.com/track/2KYnSFIrSbaKUXWetW7Klt) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Kareen Lomax](https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa) | [Do You Dance?](https://open.spotify.com/album/6Az907HDvldO5qxqVyysz0) | 3:31 | 2023-04-18 | 2024-04-19 |

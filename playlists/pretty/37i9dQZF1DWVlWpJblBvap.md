@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 
 > Majestic and bold, these new and known worship songs are great for every day\.  Cover artist: <a href="https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw">Kim Walker\-Smith</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,203 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,299 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlWpJblBvap.md) - [plain]
 | 74 | [Canvas And Clay \- Live](https://open.spotify.com/track/4Woit6kXxixnS2jduLUcy4) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3), [Ben Smith](https://open.spotify.com/artist/3Fh5jeRl6cDZyDwVS7iwX5) | [Canvas And Clay \(Live\)](https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv) | 6:40 |
 | 75 | [Follow You Anywhere \- Live](https://open.spotify.com/track/3OhF89cVIbCq5oG4syZ3dr) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 5:00 |
 | 76 | [Champion \- Studio Version](https://open.spotify.com/track/6EyT2JF7yHUdAZo1kPHHAW) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [Champion \(Studio Version\)](https://open.spotify.com/album/4wrSJzNpNFHcsy4UMw4NIS) | 3:57 |
-| 77 | [Lord Send Revival \- Live](https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Lord Send Revival \(Live\)](https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF) | 6:42 |
-| 78 | [Kingdom of God](https://open.spotify.com/track/1vZp48RdsFgYHSUSOZwwzn) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:47 |
-| 79 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/2A8CedURGD092Wp2FfTnAC) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/1LqHu3QaVhNMDJCEj115fy) | 4:13 |
-| 80 | [Lamb of God](https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Church Songs](https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6) | 4:11 |
+| 77 | [Kingdom of God](https://open.spotify.com/track/1vZp48RdsFgYHSUSOZwwzn) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:47 |
+| 78 | [Lord Send Revival \- Live](https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [Lord Send Revival \(Live\)](https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF) | 6:42 |
+| 79 | [Lamb of God](https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Church Songs](https://open.spotify.com/album/2n25b8gFJcDKbiXi9t4dP6) | 4:11 |
+| 80 | [YOUR NAME IS POWER](https://open.spotify.com/track/161pnfRpiTTMZC1NWmjwh4) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [YOUR NAME IS POWER](https://open.spotify.com/album/18yGXV5AlRfJV8HrsBXD2A) | 3:56 |
 
 Snapshot ID: `ZIsSGQAAAABPE7Fdjg9ZYf/XGY8DeG3V`

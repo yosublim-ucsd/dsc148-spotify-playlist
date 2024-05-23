@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,754 likes - 575 songs - 1 day 16 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,753 likes - 575 songs - 1 day 16 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -296,8 +296,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 286 | [The Emperor's New Clothes](https://open.spotify.com/track/4iQbhtTEwrM2qfbaJlUe7I) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:28 |
 | 287 | [Finale](https://open.spotify.com/track/3xDfQmTLVmMtpR80ZF1Z85) | [Original Cast of Billy Elliot](https://open.spotify.com/artist/0llkptfupTulUWZRCDYqGT) | [Billy Elliot: The Original Cast Recording](https://open.spotify.com/album/0n7z0uxgNQT5YV6z99IIDt) | 5:34 |
 | 288 | [Walk of Shame](https://open.spotify.com/track/7byHhHTTpN8FKSFlqb5yhf) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [No Time For Rest](https://open.spotify.com/album/4IY0k3z5JHzC3j5P4Nkt6D) | 3:52 |
-| 289 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/1VXgLmMVNVIxI1iTB4oIli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ) | 4:06 |
-| 290 | [Sartorial Eloquence](https://open.spotify.com/track/10iq4kBKW7tPIzUEIKmcTm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:43 |
+| 289 | [Sartorial Eloquence](https://open.spotify.com/track/10iq4kBKW7tPIzUEIKmcTm) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:43 |
+| 290 | [Ho! Ho! Ho! \(Who'd Be A Turkey At Christmas\)](https://open.spotify.com/track/1VXgLmMVNVIxI1iTB4oIli) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Step Into Christmas](https://open.spotify.com/album/6qXYjhnacPdM4QT0aYrFuJ) | 4:06 |
 | 291 | [The North](https://open.spotify.com/track/4l1wkdNUNjEzUerp34s51F) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The One](https://open.spotify.com/album/5WbC2jwkdiRD3lcgC2SAHa) | 5:15 |
 | 292 | [Dreamboat](https://open.spotify.com/track/44Ow6QD0WKNDXKa7V7gmcB) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Too Low For Zero](https://open.spotify.com/album/0OmYuz9hwn1XoqmDaU0yJ7) | 7:34 |
 | 293 | [Dan Dare \(Pilot Of The Future\)](https://open.spotify.com/track/1IP1ymL87BtfZqCsJTyp4C) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 3:29 |
@@ -433,8 +433,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 423 | [Sixty](https://open.spotify.com/track/7LdYewqyXq76VabqPahqoE) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 3:51 |
 | 424 | [Can I Put You On \- UK\-Release Mix](https://open.spotify.com/track/6mVRyHTk2P190llXw7EXdH) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [17\-11\-70](https://open.spotify.com/album/4oQROC3cT21c88hQWQF47s) | 6:10 |
 | 425 | [The Heart Of Every Girl](https://open.spotify.com/track/3GGiAnxb53Z4LF90CaUOiS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Mona Lisa Smile \(Music from the Motion Picture\)](https://open.spotify.com/album/77suLYEns1w0HliIh0z5r9) | 3:38 |
-| 426 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
-| 427 | [Never Gonna Fall In Love Again](https://open.spotify.com/track/2jTObRM0ckTs6naKA7r7P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:08 |
+| 426 | [Never Gonna Fall In Love Again](https://open.spotify.com/track/2jTObRM0ckTs6naKA7r7P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 4:08 |
+| 427 | [Karmatron](https://open.spotify.com/track/5r1lqFkEQRhOQ1EtOCZnpA) | [Elton John vs Pnau](https://open.spotify.com/artist/5cwANc87RyiNKHM46y1nPf) | [Good Morning To The Night](https://open.spotify.com/album/20tf6bNLQKKxb6lFxVOVuL) | 2:41 |
 | 428 | [January](https://open.spotify.com/track/3iiDK7xLc1gHFYb2GeiSHl) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 3:59 |
 | 429 | [I Can't Keep This From You](https://open.spotify.com/track/440GIX1uR5Ve8nPvek7W23) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Peachtree Road \(Expanded Edition\)](https://open.spotify.com/album/4ZnbmpRdl8H0JW8e4ReSt7) | 4:34 |
 | 430 | [Soul Glove](https://open.spotify.com/track/38sTwkSHVBMnbijbygSmSM) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Ice On Fire](https://open.spotify.com/album/0xuxPr53iRlhWCu7QqHH24) | 3:31 |
@@ -467,9 +467,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 457 | [Queen Of Cities \- From "The Road To El Dorado" Soundtrack](https://open.spotify.com/track/72O82V1EopNTdV2X7kRsHb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Road To El Dorado \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GAGfiaxn35fhwQlBGFgpf) | 3:54 |
 | 458 | [Ball & Chain \- Remastered 2003](https://open.spotify.com/track/78KPKXdYxbt2pSu2WdXSjS) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:28 |
 | 459 | [Spiteful Child \- Remastered 2003](https://open.spotify.com/track/6JthALIr8UuPMqw8COEHOh) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 4:15 |
-| 460 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 |
-| 461 | [Legal Boys \- Remastered 2003](https://open.spotify.com/track/0Ttvx1AbYYFRl7tIDwuPfR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:08 |
-| 462 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 460 | [Back To Paramount](https://open.spotify.com/track/7a9CW7ve8muchxA3Ei6leZ) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Muse \(In Goddess We Trust\)](https://open.spotify.com/album/1Bw19v2tAnqvykiKoKUOy2) | 0:43 |
+| 461 | [Dear God](https://open.spotify.com/track/4i6r30m0T4qoCjjCYwvJ1c) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [21 At 33](https://open.spotify.com/album/6uIizyHYBxUUp3I76LQ8cV) | 3:46 |
+| 462 | [Legal Boys \- Remastered 2003](https://open.spotify.com/track/0Ttvx1AbYYFRl7tIDwuPfR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jump Up!](https://open.spotify.com/album/6u0a1IJnnqEqiIamPssH7G) | 3:08 |
 | 463 | [Slow Rivers](https://open.spotify.com/track/2CW3BiW1wuGFtZFILgbPkr) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 3:07 |
 | 464 | [Japanese Hands](https://open.spotify.com/track/7vZaVgqgDC5GTolnvX0Bzz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:40 |
 | 465 | [Breaking Down Barriers \- Remastered 2003](https://open.spotify.com/track/0cao7zXiY3a5BTRzsO5R0Q) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Fox](https://open.spotify.com/album/3YeviehXlWgJWcwFMog39Y) | 4:41 |
@@ -584,4 +584,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGqQaoBGw8hI.md) - [plain]
 | 574 | [Reprise](https://open.spotify.com/track/4tXLX0unQSWg2TenJa3MEx) | [Uncle Ho](https://open.spotify.com/artist/1DD4yp3ebKBtH6Vm5auC7B) | [Everything Must Be Destroyed](https://open.spotify.com/album/61ewEVlLpT7EiB9zGhwKd6) | 1:06 |
 | 575 | [Sua Canção](https://open.spotify.com/track/5ABQkEGK30DVvB07JhYh5H) | [Plinio Oliveira](https://open.spotify.com/artist/3H0QZbeiCwLxBAqbnzbBK0), [Coro Infantil Sou da Paz](https://open.spotify.com/artist/1NVq6eZp8PQiYBSVAFNahZ), [Orquestra Jovem da Paz](https://open.spotify.com/artist/05RyEHgRQ9x8tJ25ulYEN4) | [Show da Paz 2017](https://open.spotify.com/album/4p3WhZIn7qLUX1UCEDeCUc) | 4:19 |
 
-Snapshot ID: `AbR9GAAAAAADKA+VbsY9PPQ9XVcZtaZ9`
+Snapshot ID: `AbSC9AAAAACH4fZ8C+BECztWdFKVe1cC`

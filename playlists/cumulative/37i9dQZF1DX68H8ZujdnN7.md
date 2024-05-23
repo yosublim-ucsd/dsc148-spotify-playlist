@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX68H8ZujdnN7.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX68H8ZujdnN7) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX68H8ZujdnN7)
 
-### [’80s Hard Rock](https://open.spotify.com/playlist/37i9dQZF1DX68H8ZujdnN7)
+### [80s Hard Rock](https://open.spotify.com/playlist/37i9dQZF1DX68H8ZujdnN7)
 
-> Hair goals, spandex and epic guitar solos\. We got you.
+> Hair goals, spandex and epic guitar solos\. Cover: Van Halen
 
 196 songs - 14 hr 14 min
 
@@ -13,7 +13,7 @@
 | [Ace of Spades](https://open.spotify.com/track/3Dg3QZpHkrEVnj87TxBz6G) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades](https://open.spotify.com/album/7cTXWw02BWHxyH77wRfhuQ) | 2:46 | 2022-07-05 | 2023-11-04 |
 | [Ace of Spades](https://open.spotify.com/track/6EPRKhUOdiFSQwGBRBbvsZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/3rxF05Aux0QTrN533Kjc91) | 2:46 | 2020-10-08 |  |
 | [Ace of Spades](https://open.spotify.com/track/3CIOopLwvyMvXk97ZEksKO) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Ace of Spades \(Expanded Edition\)](https://open.spotify.com/album/619d4uJE3h2rOlw7kmSlD6) | 2:48 | 2022-07-05 | 2024-04-19 |
-| [Addicted To That Rush](https://open.spotify.com/track/4QPRua3G7RQraiYX2NwdH6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big](https://open.spotify.com/album/78ed0Ew3rR89MCbOaEyFZQ) | 4:44 | 2020-10-08 |  |
+| [Addicted To That Rush](https://open.spotify.com/track/4QPRua3G7RQraiYX2NwdH6) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big](https://open.spotify.com/album/78ed0Ew3rR89MCbOaEyFZQ) | 4:44 | 2020-10-08 | 2024-05-23 |
 | [Addicted To That Rush \- 2023 Remastered](https://open.spotify.com/track/59I1DrJrPtVg3mSJ4ZCtu7) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 4:45 | 2022-07-05 | 2024-04-19 |
 | [Addicted To That Rush \- Remastered Version](https://open.spotify.com/track/1RCOCHtcnVWoWNSarMlwyd) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \[Expanded\]](https://open.spotify.com/album/18HPDet34B8LwgCfagDeZd) | 4:46 | 2022-07-05 | 2023-04-28 |
 | [Ain't Talkin' 'Bout Love \- 2015 Remaster](https://open.spotify.com/track/6fybp4N6eW3bsFAvARxyVe) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:47 | 2020-10-08 |  |
@@ -21,7 +21,7 @@
 | [Alone Again](https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Tooth and Nail](https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL) | 4:22 | 2020-10-08 |  |
 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 | 2022-07-05 | 2024-04-19 |
 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/5KWXgsKOI1KWtPl6hqKSgx) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Masters of Rock \(2000 Remaster\)](https://open.spotify.com/album/2boXljh3BUb75mDiNrNXU2) | 4:09 | 2022-07-05 | 2022-11-13 |
-| [Armed And Ready \- 2008 Remastered Version](https://open.spotify.com/track/6q5vdf6Mfkk0eETYzmgokj) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [The Best Of The Michael Schenker Group \('80\-'84\)](https://open.spotify.com/album/70pxdOG2Bre3rOp2i1pwtZ) | 4:08 | 2020-10-08 |  |
+| [Armed And Ready \- 2008 Remastered Version](https://open.spotify.com/track/6q5vdf6Mfkk0eETYzmgokj) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [The Best Of The Michael Schenker Group \('80\-'84\)](https://open.spotify.com/album/70pxdOG2Bre3rOp2i1pwtZ) | 4:08 | 2020-10-08 | 2024-05-23 |
 | [Bad Medicine](https://open.spotify.com/track/72hcFp4tYkd3dbNA9dZ3Pv) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:16 | 2020-10-08 |  |
 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 | 2020-10-08 |  |
 | [Bark at the Moon](https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Bark At The Moon \(Expanded Edition\)](https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn) | 4:17 | 2020-10-08 |  |
@@ -34,7 +34,7 @@
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-07-05 | 2024-04-19 |
 | [Crazy Train](https://open.spotify.com/track/2b9lp5A6CqSzwOrBfAFhof) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard of Ozz \(Expanded Edition\)](https://open.spotify.com/album/6aGfK3YpRxZ1rJfaNRckLH) | 4:56 | 2020-10-08 |  |
 | [Crazy Train \- 2002 Version](https://open.spotify.com/track/09nx3UW8Mufo0Nq0iTKt5x) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [The Osbourne Family Album \(Clean Version\)](https://open.spotify.com/album/24nhPPOmRDre6oBvhKKRQA) | 4:49 | 2022-07-05 | 2022-11-13 |
-| [Cryin'](https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 3:31 | 2020-10-08 |  |
+| [Cryin'](https://open.spotify.com/track/1Fu3vJJwVKY7c7JnTX3Mvi) | [Vixen](https://open.spotify.com/artist/4wlPkvHKZzP2K8wtBzFRyY) | [Vixen](https://open.spotify.com/album/51aj98h378eXQJZXtIZKjK) | 3:31 | 2020-10-08 | 2024-05-23 |
 | [Cum on Feel the Noize](https://open.spotify.com/track/6FBmHx1FuaSnTnnnaThgbF) | [Quiet Riot](https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3) | [Quiet Riot \- Greatest Hits](https://open.spotify.com/album/1JSjQhsnC2xElFjTVG3Qhy) | 4:47 | 2020-10-08 |  |
 | [Detroit Rock City](https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum \(Remastered Version\)](https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9) | 3:35 | 2020-10-08 | 2022-05-31 |
 | [Don't Close Your Eyes](https://open.spotify.com/track/3QnkcRD8WEKFQGSQDJMRIN) | [Kix](https://open.spotify.com/artist/45KpBChrKYWhTlU6N57ofu) | [Essential Rock Ballad Hits](https://open.spotify.com/album/1d1rfKvbP8RRDyUBDIA04T) | 4:17 | 2022-07-05 | 2023-10-27 |
@@ -81,9 +81,9 @@
 | [I Remember You](https://open.spotify.com/track/1xqVri47rxr9oRpUgJa8rf) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0L5J7BLU1AKDuSewTMpw7E) | 5:13 | 2022-07-05 | 2024-04-19 |
 | [I Remember You](https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 5:13 | 2020-10-08 |  |
 | [I Surrender](https://open.spotify.com/track/6G72gzABviuul6g4BSmKqM) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [The Very Best Of Rainbow](https://open.spotify.com/album/6ZkHKKe3hp4veHPyyiGGBi) | 4:01 | 2022-07-05 | 2022-11-13 |
-| [I Surrender](https://open.spotify.com/track/0gGJO7JM51uAUu7EE2lxx6) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/1S7skgvAjZ4r0r8WcqDY7J) | 4:01 | 2020-10-08 |  |
+| [I Surrender](https://open.spotify.com/track/0gGJO7JM51uAUu7EE2lxx6) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/1S7skgvAjZ4r0r8WcqDY7J) | 4:01 | 2020-10-08 | 2024-05-23 |
 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 | 2022-07-05 | 2024-04-19 |
-| [I Wanna Be Somebody](https://open.spotify.com/track/5F8WPtrurLmNE3tv6Sm14m) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [WASP](https://open.spotify.com/album/5ve6MqQrbyQyf4vFUDar6G) | 3:43 | 2020-10-08 |  |
+| [I Wanna Be Somebody](https://open.spotify.com/track/5F8WPtrurLmNE3tv6Sm14m) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [WASP](https://open.spotify.com/album/5ve6MqQrbyQyf4vFUDar6G) | 3:43 | 2020-10-08 | 2024-05-23 |
 | [I Wanna Be Somebody](https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:43 | 2022-07-05 | 2024-04-19 |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/2ILulZOhm5QR3pPdmLcD1W) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Greatest Rock Hits](https://open.spotify.com/album/2zmMp3P3ZAJWWGxyUJ2TzB) | 4:28 | 2022-07-05 | 2022-11-13 |
 | [I Was Made For Lovin' You](https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Dynasty](https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1) | 4:31 | 2022-07-05 | 2024-04-19 |

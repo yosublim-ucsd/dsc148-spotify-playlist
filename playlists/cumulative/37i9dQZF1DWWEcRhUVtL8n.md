@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: ROLE MODEL
 
-1,864 songs - 4 day 2 hr 17 min
+1,866 songs - 4 day 2 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [202Ø](https://open.spotify.com/track/0GvkYGfvARyRBLK0dQV2JR) | [Caye](https://open.spotify.com/artist/3kkoYvxvV00UXPJCqMCljL) | [202Ø](https://open.spotify.com/album/2V6NsSiH2Gl307v8YhKFqZ) | 3:18 | 2020-11-13 | 2021-03-22 |
 | [21](https://open.spotify.com/track/2D2lazsae9o1UoVPUAdxyT) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [21](https://open.spotify.com/album/1IbwoLXOOvXeLeyE7tZnOl) | 3:05 | 2020-10-20 | 2022-07-29 |
 | [21](https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [minor](https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy) | 3:05 | 2022-06-17 | 2023-01-24 |
-| [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 |  |
+| [24](https://open.spotify.com/track/1dODOcUBb5SrXflh3L4zjE) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [24](https://open.spotify.com/album/547AToKcvgV26kOjsuvUhR) | 4:06 | 2024-01-12 | 2024-05-23 |
 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 | 2021-10-08 | 2022-12-22 |
 | [25/8](https://open.spotify.com/track/1rMsNUMDEp6pLOJ5BcznsF) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Deadpan Love \(Deluxe\)](https://open.spotify.com/album/5bVpGSaFPrZuduNCXrmsqO) | 2:38 | 2022-02-25 | 2022-08-03 |
 | [2lovely](https://open.spotify.com/track/5E0yYdXdw4Lp8ffTA0KqEX) | [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [2lovely](https://open.spotify.com/album/44T9VnAR20oFiq4BvMzgzE) | 3:04 | 2021-02-24 | 2021-05-21 |
@@ -350,6 +350,7 @@
 | [Communication](https://open.spotify.com/track/0s2AQhkfFb9EM9tz5s64lA) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Communication](https://open.spotify.com/album/7yAAlqMy8h1dKS3K8TBRYb) | 3:07 | 2021-05-06 | 2022-04-04 |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2022-03-29 | 2022-07-29 |
 | [Confetti](https://open.spotify.com/track/5yQ3r7YV573w0mpGtNpoAl) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Confetti](https://open.spotify.com/album/433yeUccrhJPYJTqgOkxCv) | 3:04 | 2021-01-19 | 2021-05-21 |
+| [Confusion Song](https://open.spotify.com/track/62Zw1ojf7TsvGCUMzzQOT8) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Confusion Song](https://open.spotify.com/album/3TsIzke1clyxvsgzCjn3Y5) | 2:41 | 2024-05-17 |  |
 | [congratulations](https://open.spotify.com/track/2ad0hTq75JpcB4JzmZPCbC) | [phem](https://open.spotify.com/artist/0MGJHTThvyAyqKuEAgPqDr) | [how u stop hating urself \(pt 1.5\)](https://open.spotify.com/album/7vHfgHVoXFsx5ysSpKEHvQ) | 2:12 | 2021-03-27 | 2021-05-28 |
 | [Congratulations \- Remix](https://open.spotify.com/track/5FbCde0tUpWvOphrT0sGAO) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu), [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Congratulations \(Remix\)](https://open.spotify.com/album/4nNxeKXg2YGYAxd1zcfMAM) | 3:22 | 2021-01-15 | 2021-05-28 |
 | [Connect 5](https://open.spotify.com/track/6GHXF7ip4leelmjjAFYLgE) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [Connect 5](https://open.spotify.com/album/2rqHR4Sjr44TPMxAmzJ0pq) | 2:53 | 2021-10-16 | 2021-10-20 |
@@ -1634,7 +1635,7 @@
 | [Talking to Myself](https://open.spotify.com/track/7t5uiTZNaSrQpTvs7fonmK) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Talking to Myself](https://open.spotify.com/album/6wkNeJH60FfISXiYHA6cpo) | 3:51 | 2020-10-20 | 2021-06-03 |
 | [Tangerine](https://open.spotify.com/track/4qzAGRJuc6vOZ7Jsf2wA5W) | [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Tangerine](https://open.spotify.com/album/0EU7Ds5lLkvyuxgC7jJFFJ) | 2:55 | 2020-10-20 | 2021-05-28 |
 | [tarde](https://open.spotify.com/track/00d5cZCaxuGWzeL4n8dbpe) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tarde](https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq) | 3:37 | 2021-05-04 | 2021-05-26 |
-| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 |  |
+| [Taste of Metal](https://open.spotify.com/track/6ac7zxx5odBoNp7MoElL1F) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Taste of Metal](https://open.spotify.com/album/1dd9cr2W3kYyV7YyTv5s5N) | 2:54 | 2024-02-09 | 2024-05-23 |
 | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/track/6OSN2N61BWdYlozr5cywFK) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE EXTRAÑO Y LO SIENTO...](https://open.spotify.com/album/5nq42mfjwHfY2tFGWhn6mP) | 3:49 | 2023-04-21 | 2023-06-24 |
 | [Teenager](https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE), [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Teenager](https://open.spotify.com/album/306w1PbQAo2jBo2k1IG7JJ) | 2:59 | 2022-03-18 | 2022-04-21 |
 | [Tek It \- Sped Up](https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Tek It \(I Watch the Moon\)](https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv) | 2:46 | 2022-05-20 | 2022-11-26 |
@@ -1740,6 +1741,7 @@
 | [Un Deux Trois](https://open.spotify.com/track/3B9rkj19z4Hno7NdkN6cNe) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Jardin](https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky) | 3:30 | 2023-07-07 | 2024-03-23 |
 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 | 2023-07-07 | 2023-11-05 |
 | [UNBOUND \- Austin Millz Remix](https://open.spotify.com/track/7aiIY5CiuTP7htW4grQuaO) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [UNBOUND \(Austin Millz Remix\)](https://open.spotify.com/album/3jUoYwBHyDxjozwc6DpQyj) | 2:40 | 2020-11-03 | 2021-02-24 |
+| [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 | 2024-05-17 |  |
 | [Underdog](https://open.spotify.com/track/6h5BYxvBFe7jZ4Eih1sCFG) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Underdog](https://open.spotify.com/album/0Ea494IBRHAvQcvRcY9b2c) | 4:26 | 2023-06-09 | 2023-06-24 |
 | [Unfold](https://open.spotify.com/track/1QFyp1h3FcZiZqOf3QIGZe) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Nurture](https://open.spotify.com/album/4btev9CC7D5soKdcIP6ApM) | 4:45 | 2021-05-03 | 2021-05-26 |
 | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/track/7oVDQPi77CXAlWpHxrsnPb) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [UNITED GIRLS ROCK'N'ROLL CLUB](https://open.spotify.com/album/65zPNLrqrf0G0wrItBaYKR) | 2:56 | 2020-11-05 | 2021-05-25 |

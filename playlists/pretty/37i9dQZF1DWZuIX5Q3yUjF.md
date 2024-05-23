@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Nico Kyni
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,244 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,252 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 49 | [Fuori Da Me](https://open.spotify.com/track/1QdAtWujBndq4Bb3rs9UYP) | [Arya](https://open.spotify.com/artist/1Rr944KwI8GqDCdzdsHYok) | [Punto Zero](https://open.spotify.com/album/3PcENwZrpHJ1mlFsoSo6Bv) | 3:03 |
 | 50 | [Regina](https://open.spotify.com/track/2pIx4VWz2epzH426RfNgt9) | [Joao](https://open.spotify.com/artist/54Z6rzUItAo9WRCtb9BQoS), [JC Five](https://open.spotify.com/artist/47XSDyTQptyvTkw7RlaG5r) | [Regina](https://open.spotify.com/album/1fKtKKH4Btqw21bsfrtnVL) | 3:05 |
 
-Snapshot ID: `ZkaCHAAAAAAjGQFo0t8YbJROKV/dvn5t`
+Snapshot ID: `Zk3QMAAAAAC9P37TcwzLUbV3o9PasO29`

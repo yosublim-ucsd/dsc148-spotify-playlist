@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Paul Partohap
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,989 likes - 61 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,172 likes - 61 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,4 +70,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 60 | [Keluarga \- From" Glenn Fredly The Movie"](https://open.spotify.com/track/6HXZEmzDZ1lc87YKVhEnCg) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Keluarga \(From" Glenn Fredly The Movie"\)](https://open.spotify.com/album/2dHxY8VTmKUjfIxGtxi0ns) | 3:54 |
 | 61 | [Tunggulah Sebentar](https://open.spotify.com/track/0A3wcFYUZLeVqvJMj95qXq) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Bertumbuh](https://open.spotify.com/album/5NsLnUV8d8Ppiwwlr0RRX9) | 4:13 |
 
-Snapshot ID: `ZkY7kAAAAACvf3Kdc/XmtJM0Jr73SkkF`
+Snapshot ID: `Zk3QMAAAAADxFyYs0C4RdkeKhqDCESZi`

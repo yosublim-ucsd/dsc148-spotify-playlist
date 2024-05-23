@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/1eiYSjWt0mkbZNJPUsZpeG"
+      },
+      "artists": [
+        {
+          "name": "MARK",
+          "url": "https://open.spotify.com/artist/70DFixYAFPv4Pf9kgSfR9O"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164586,
+      "name": "200",
+      "url": "https://open.spotify.com/track/7rx73Y7UB1gy6bOLqJvsRe"
+    },
+    {
+      "album": {
         "name": "28 Reasons - The 1st Mini Album",
         "url": "https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw"
       },
@@ -7225,6 +7243,28 @@
     },
     {
       "album": {
+        "name": "BM 1st EP 'Element'",
+        "url": "https://open.spotify.com/album/6q2zOdLESHZyOpfSwA8Reb"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5lZV4z4dpX6IfTYlfUMvOE"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177600,
+      "name": "Nectar (Feat. Jay Park)",
+      "url": "https://open.spotify.com/track/0Tq39nkuBrIdhGhUSRFISJ"
+    },
+    {
+      "album": {
         "name": "BLUE SET Chapter. [NEW DAYZ]",
         "url": "https://open.spotify.com/album/6UWqRWFu1heBKnelgnZxs2"
       },
@@ -8666,6 +8706,24 @@
       "duration_ms": 217773,
       "name": "Rich Kids Anthem (Feat. Lee Hi)",
       "url": "https://open.spotify.com/track/4nF3APHarLJHV3igGVgTUJ"
+    },
+    {
+      "album": {
+        "name": "Ride the Vibe",
+        "url": "https://open.spotify.com/album/0sntdgg5hCdn84P5ULZGoA"
+      },
+      "artists": [
+        {
+          "name": "NEXZ",
+          "url": "https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172444,
+      "name": "Ride the Vibe",
+      "url": "https://open.spotify.com/track/2bmo0oEVhlbAgMQetHgLYC"
     },
     {
       "album": {

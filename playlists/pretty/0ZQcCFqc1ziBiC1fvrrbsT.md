@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 
 > A playlist of some of our favorite new songs, updated weekly\. See our archived playlists for songs from previous weeks.
 
-[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,747 likes - 34 songs - 2 hr 22 min
+[BrooklynVegan](https://open.spotify.com/user/brooklynvegan) - 10,750 likes - 34 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/0ZQcCFqc1ziBiC1fvrrbsT.md) - [plain]
 | 4 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 |
 | 5 | [encore](https://open.spotify.com/track/29DtfDAK5Q78nvlyPgYlWv) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq) | [encore](https://open.spotify.com/album/3L3wCKCD42do9KaJDvIz5k) | 2:49 |
 | 6 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 |
-| 7 | [Bork Pelly \(feat\. Ghösh and ID.Sus\)](https://open.spotify.com/track/4n5rH8FYoGB7FxiBdri0LT) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [GHÖSH](https://open.spotify.com/artist/2AuEdslCfe6mkmXdaHW0M0), [ID.Sus](https://open.spotify.com/artist/2FnA6jrus87MR9rFLjE5iM) | [Hex Dealer](https://open.spotify.com/album/3L5va7www3TF2QYjPGTrQl) | 3:00 |
+| 7 | [Bork Pelly \(feat\. GHÖSH and ID.Sus\)](https://open.spotify.com/track/4n5rH8FYoGB7FxiBdri0LT) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9), [GHÖSH](https://open.spotify.com/artist/2AuEdslCfe6mkmXdaHW0M0), [ID.Sus](https://open.spotify.com/artist/2FnA6jrus87MR9rFLjE5iM) | [Hex Dealer](https://open.spotify.com/album/3L5va7www3TF2QYjPGTrQl) | 3:00 |
 | 8 | [I Don't Fear Hell](https://open.spotify.com/track/4MW5s9tRGxuwTOQBV4cSVt) | [Shellac](https://open.spotify.com/artist/6I8R5MFTlez7rHCsH4cx0u) | [To All Trains](https://open.spotify.com/album/09SFqMvmXLpfG62LjeSorU) | 4:17 |
 | 9 | [I Don't Fucking Know What I'm Gunna Do](https://open.spotify.com/track/0zZVR4kUpT5hU2CZtEa4TB) | [The Lovely Eggs](https://open.spotify.com/artist/4DO9uZBipcWHEfMXo87yhS) | [Eggsistentialism](https://open.spotify.com/album/5XoX6DJA8e2mxGlfsBcTuM) | 2:07 |
 | 10 | [Cognitive Dissident](https://open.spotify.com/track/7h8QaaglxATIpAW5Yv8ELa) | [The The](https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce) | [Cognitive Dissident](https://open.spotify.com/album/3oN0BqxXWDHDaZPuNKkL9D) | 2:55 |

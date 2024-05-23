@@ -2436,7 +2436,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 446106,
       "name": "Glitter and Litter",
       "url": "https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp"
@@ -3416,6 +3416,28 @@
       "duration_ms": 572068,
       "name": "Love Letters From Sicily",
       "url": "https://open.spotify.com/track/0AROOP6Ee5j65jP34ekMyW"
+    },
+    {
+      "album": {
+        "name": "Loyalty",
+        "url": "https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV"
+      },
+      "artists": [
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
+        },
+        {
+          "name": "Sofiane Pamart",
+          "url": "https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198857,
+      "name": "Loyalty",
+      "url": "https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv"
     },
     {
       "album": {

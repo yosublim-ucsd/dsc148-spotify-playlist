@@ -2,7 +2,7 @@
 
 ### [This Is XXXTENTACION](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AnZXW)
 
-> This is XXXTENTACION\. أغاني روعة في قايمة أغاني واحدة.
+> This is XXXTENTACION\. The essential tracks, all in one playlist.
 
 65 songs - 2 hr 36 min
 

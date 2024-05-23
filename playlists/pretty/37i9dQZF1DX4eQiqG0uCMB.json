@@ -1,6 +1,6 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 30703,
+  "num_followers": 30726,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
@@ -455,26 +455,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Men Are Crazy",
-        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Men Are Crazy",
-      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 149457,
       "name": "Water",
       "url": "https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "Men Are Crazy",
+        "url": "https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Men Are Crazy",
+      "url": "https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "To Last",
-        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 176283,
-      "name": "To Last",
-      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
-    },
-    {
-      "added_at": "2024-05-17 00:01:00",
-      "album": {
         "name": "WITH YOU",
         "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 192475,
       "name": "WITH YOU",
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2024-05-17 00:01:00",
+      "album": {
+        "name": "To Last",
+        "url": "https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 176283,
+      "name": "To Last",
+      "url": "https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -747,18 +747,22 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Ngibongiseni",
-        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
+        "name": "Know You",
+        "url": "https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu"
       },
       "artists": [
         {
-          "name": "Sjava",
-          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Ngibongiseni",
-      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
+      "duration_ms": 230020,
+      "name": "Know You",
+      "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -779,22 +783,18 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Know You",
-        "url": "https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu"
+        "name": "Ngibongiseni",
+        "url": "https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72"
       },
       "artists": [
         {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Sjava",
+          "url": "https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn"
         }
       ],
-      "duration_ms": 230020,
-      "name": "Know You",
-      "url": "https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s"
+      "duration_ms": 156000,
+      "name": "Ngibongiseni",
+      "url": "https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU"
     },
     {
       "added_at": "2024-05-17 00:01:00",
@@ -851,18 +851,30 @@
     {
       "added_at": "2024-05-17 00:01:00",
       "album": {
-        "name": "Hypertension",
-        "url": "https://open.spotify.com/album/3opLRe2XgBsWPtccbGUGL8"
+        "name": "CLOSER",
+        "url": "https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW"
       },
       "artists": [
         {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
         }
       ],
-      "duration_ms": 163709,
-      "name": "Contraband",
-      "url": "https://open.spotify.com/track/2XWEtuwV02B9L4UNQ2wf9W"
+      "duration_ms": 228518,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly"
     }
   ],
   "unique_name": "Sound Semester ",

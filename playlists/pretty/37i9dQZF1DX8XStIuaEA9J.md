@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 冨岡 愛
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,967 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,015 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 54 | [After Rain](https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8) | [3House](https://open.spotify.com/artist/5hnSOpUeldFZV2lzs8TP1w) | [After Rain](https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e) | 2:54 |
 | 55 | [CONNECT](https://open.spotify.com/track/6tyCsqp5qGXdagwG6rIoru) | [IS:SUE](https://open.spotify.com/artist/4lhRqhIMRnKrmZkEAlxkCw) | [CONNECT](https://open.spotify.com/album/0aBKpiRYV5X7VDIFKr3MlR) | 3:11 |
 | 56 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/4vp5t5VMY0oG8IgVQoEjsg) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 3:17 |
-| 57 | [泡沫雪](https://open.spotify.com/track/33BJGY9p358RhOGWBPM11s) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [泡沫雪](https://open.spotify.com/album/0TAUFZrovI0ttYWMhHelGA) | 3:00 |
+| 57 | [泡沫雪\(Awayuki\)](https://open.spotify.com/track/33BJGY9p358RhOGWBPM11s) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [泡沫雪\(Awayuki\)](https://open.spotify.com/album/0TAUFZrovI0ttYWMhHelGA) | 3:00 |
 | 58 | [明るい部屋](https://open.spotify.com/track/2iIWIiSKpKzuDuxmGt05S1) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [明るい部屋](https://open.spotify.com/album/2LR5kIDao2NU9Y3nfjgPLK) | 2:54 |
 | 59 | [escaper](https://open.spotify.com/track/2Mm4RrOBvZe7tWEeWk4R6i) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [escaper](https://open.spotify.com/album/1N6dcviDSU9kWkqHOizc1Z) | 3:19 |
 | 60 | [Don’t Look Down](https://open.spotify.com/track/12aiT6u1KdAW15HGUqAhSN) | [Loota](https://open.spotify.com/artist/2i98we4ZId0tp9xtg2Vte7), [JUMADIBA](https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj) | [Don't Look Down](https://open.spotify.com/album/3OrVnCytoZ2vsJnTp4Ohy9) | 4:10 |

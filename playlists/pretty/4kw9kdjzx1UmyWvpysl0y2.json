@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125994,
+  "num_followers": 125992,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAASZbNOPOztafq8jChMSVB4hcVBmC7A",
+  "snapshot_id": "AAASZ4iaO/IutHa2C13F3eiWiEDW5rJ0",
   "tracks": [
+    {
+      "added_at": "2024-05-22 16:56:43",
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/4kHLkD35YdrfrJLdXeb3dW"
+      },
+      "artists": [
+        {
+          "name": "OddKidOut",
+          "url": "https://open.spotify.com/artist/6l6zabESz1QE4me8Cz3uux"
+        },
+        {
+          "name": "ellie d.",
+          "url": "https://open.spotify.com/artist/1sb3Wnb1EfKjGrGZxC7uhh"
+        }
+      ],
+      "duration_ms": 167586,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/06R5NcXhfxHzw4b89lDB71"
+    },
     {
       "added_at": "2024-05-21 13:39:31",
       "album": {
@@ -1175,38 +1195,6 @@
       "duration_ms": 250000,
       "name": "sound therapy",
       "url": "https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27"
-    },
-    {
-      "added_at": "2024-03-04 18:24:58",
-      "album": {
-        "name": "Johera",
-        "url": "https://open.spotify.com/album/6YRv6DbwXQfCQGsWHAnukJ"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Johera",
-      "url": "https://open.spotify.com/track/15fgmFhr5x3ZoPojV1IRuj"
-    },
-    {
-      "added_at": "2024-03-01 16:57:47",
-      "album": {
-        "name": "SEE YOU DROP",
-        "url": "https://open.spotify.com/album/58RdlAxXscDRen4SVXtayz"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 157600,
-      "name": "SEE YOU DROP",
-      "url": "https://open.spotify.com/track/7hBUvEg6V9TQPZgLie2krb"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

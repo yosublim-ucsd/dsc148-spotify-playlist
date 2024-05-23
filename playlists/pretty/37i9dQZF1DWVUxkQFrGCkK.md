@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,963 likes - 259 songs - 18 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,419 likes - 259 songs - 18 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

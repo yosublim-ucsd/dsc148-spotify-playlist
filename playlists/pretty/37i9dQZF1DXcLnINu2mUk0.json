@@ -1095,6 +1095,26 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Dji Tafinha",
+          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
+        }
+      ],
+      "duration_ms": 264496,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Orgulho",
-        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Dji Tafinha",
-          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
-        }
-      ],
-      "duration_ms": 264496,
-      "name": "Orgulho",
-      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Juro",
-        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
-      },
-      "artists": [
-        {
-          "name": "Neko\u2019Rs",
-          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
-        }
-      ],
-      "duration_ms": 211324,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
       },
@@ -1247,26 +1231,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "PESSOAS MUDAM",
-        "url": "https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3"
+        "name": "Juro",
+        "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
       },
       "artists": [
         {
-          "name": "Carlos Kendrick",
-          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
-        },
-        {
-          "name": "Raptorxy",
-          "url": "https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z"
-        },
-        {
-          "name": "Dream Studio",
-          "url": "https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v"
+          "name": "Neko\u2019Rs",
+          "url": "https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee"
         }
       ],
-      "duration_ms": 147930,
-      "name": "PESSOAS MUDAM",
-      "url": "https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X"
+      "duration_ms": 211324,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1295,26 +1271,26 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Imagina",
-        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+        "name": "PESSOAS MUDAM",
+        "url": "https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3"
       },
       "artists": [
         {
-          "name": "FRANKIEONTHEGUITAR",
-          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+          "name": "Carlos Kendrick",
+          "url": "https://open.spotify.com/artist/1a2ojKrPRx2TmnrLoCG5sH"
         },
         {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+          "name": "Raptorxy",
+          "url": "https://open.spotify.com/artist/4pVtBTmZCA85SaQ0sM3J6z"
         },
         {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+          "name": "Dream Studio",
+          "url": "https://open.spotify.com/artist/0PfcaKZUGplTAFvP0zRl9v"
         }
       ],
-      "duration_ms": 223100,
-      "name": "Imagina",
-      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
+      "duration_ms": 147930,
+      "name": "PESSOAS MUDAM",
+      "url": "https://open.spotify.com/track/41QyQzP9N0Ue1xggj9kh5X"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1363,6 +1339,30 @@
       "duration_ms": 158081,
       "name": "O Que N\u00f3s Fomos",
       "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Imagina",
+        "url": "https://open.spotify.com/album/2C1S5oONnsIYEgvaNf1KWh"
+      },
+      "artists": [
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 223100,
+      "name": "Imagina",
+      "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
     },
     {
       "added_at": "2024-05-16 23:00:00",

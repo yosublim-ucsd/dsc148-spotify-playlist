@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: THEODORT
 
-[Spotify](https://open.spotify.com/user/spotify) - 901,402 likes - 49 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 901,588 likes - 49 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 48 | [In My Feelings](https://open.spotify.com/track/09TzHCTLSIx4UvQloqw5lS) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [In My Feelings](https://open.spotify.com/album/2jnWt8ZFbEw0IKXvMzJuDG) | 3:22 |
 | 49 | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/track/5Ymv6tlT7HgheiAfiU12mN) | [Emma'a](https://open.spotify.com/artist/45icwBBgjnEtg9ETR1Nipx), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Biso Mibale \(feat\. Jungeli\)](https://open.spotify.com/album/2qJCFSI8a3jNLyusz1opBU) | 2:57 |
 
-Snapshot ID: `ZkaLggAAAADHQjemEThcpHQoDr+VwBSd`
+Snapshot ID: `Zk3QMAAAAAAVHvQGkv6c3cc5suHGMzVF`

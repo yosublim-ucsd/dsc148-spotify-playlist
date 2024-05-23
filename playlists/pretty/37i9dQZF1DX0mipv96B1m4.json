@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1142,
+  "num_followers": 1141,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -215,26 +215,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bwogana",
-        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
-      },
-      "artists": [
-        {
-          "name": "Winnie Nwagi",
-          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
-        },
-        {
-          "name": "Recho Rey",
-          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bwogana",
-      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Star Gal",
         "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Bwogana",
+        "url": "https://open.spotify.com/album/3r0StX3tAzPtuZU20E9FrY"
+      },
+      "artists": [
+        {
+          "name": "Winnie Nwagi",
+          "url": "https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD"
+        },
+        {
+          "name": "Recho Rey",
+          "url": "https://open.spotify.com/artist/4YRkc69hJMlLOzmrk5Wb14"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bwogana",
+      "url": "https://open.spotify.com/track/3YU8Nr54ccC4SQD2YqFvQ5"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
-      },
-      "artists": [
-        {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
-        }
-      ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -835,42 +835,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Bounce",
-        "url": "https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X"
-      },
-      "artists": [
-        {
-          "name": "Selecta Jeff",
-          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
-        },
-        {
-          "name": "Kanyere",
-          "url": "https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO"
-        }
-      ],
-      "duration_ms": 170721,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
-      },
-      "artists": [
-        {
-          "name": "Vian Music",
-          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
-        }
-      ],
-      "duration_ms": 193541,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Nkwatewa",
         "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
       },
@@ -891,6 +855,42 @@
       "duration_ms": 181890,
       "name": "Nkwatewa",
       "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
+      },
+      "artists": [
+        {
+          "name": "Vian Music",
+          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
+        }
+      ],
+      "duration_ms": 193541,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Bounce",
+        "url": "https://open.spotify.com/album/2gA3mT3UlvQDgOFWlskO9X"
+      },
+      "artists": [
+        {
+          "name": "Selecta Jeff",
+          "url": "https://open.spotify.com/artist/0jpbFVpDj9GtjCCEBdp5Yu"
+        },
+        {
+          "name": "Kanyere",
+          "url": "https://open.spotify.com/artist/3CGuPNyjmRVGi6veE8GymO"
+        }
+      ],
+      "duration_ms": 170721,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/3ckYKLN77N5JhabWiFmLnM"
     },
     {
       "added_at": "2024-03-01 12:07:08",

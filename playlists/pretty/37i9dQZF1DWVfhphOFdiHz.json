@@ -1,13 +1,29 @@
 {
   "description": "Bops and LGBTQIA+ artists only. Cover: Mad Tsai",
-  "num_followers": 10213,
+  "num_followers": 10228,
   "original_name": "GLOW US & Canada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkIldAAAAAD9sXua5pPp9k8O2PpvGkPA",
+  "snapshot_id": "Zk3QMAAAAADpC18afxb+yaN1iJjjRXE1",
   "tracks": [
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
     {
       "added_at": "2024-05-13 14:36:36",
       "album": {

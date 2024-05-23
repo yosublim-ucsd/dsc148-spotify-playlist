@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Simone Mendes e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,250,142 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,251,594 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Dois Fugitivos \- Ao Vivo](https://open.spotify.com/track/6MCaEL0pQo1Jg1vlKpMWop) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 2:53 |
 | 50 | [Devia Ser Proibido \- Ao Vivo Em Brasília](https://open.spotify.com/track/0QcKkN8b4iVkmVsbaze8OS) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [To Be \(Ao Vivo Em Brasília\)](https://open.spotify.com/album/4KanzzLcDoiraz456AUvEl) | 2:53 |
 
-Snapshot ID: `ZkYfcAAAAAC6mp3Pe36FkFNb1Arqwxvd`
+Snapshot ID: `Zk3QMAAAAABwdq+cPs4JMKxA593/YFWU`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 
 ### [This Is Clara Rockmore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CknpS)
 
-> This is Clara Rockmore\. The essential tracks, all in one playlist.
+> This is Clara Rockmore\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,461 likes - 30 songs - 2 hr 1 min
 
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3CknpS.md) - [plain]
 | 29 | [Symphonie Espagnole: Andante](https://open.spotify.com/track/184i6lucCoz9GPRzt5IoYA) | [Édouard Lalo](https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music and Memories: Clara Rockmore](https://open.spotify.com/album/74CsKqZHXphRAMS7dPYnoy) | 6:32 |
 | 30 | [Theremin Concerto: Pastorale](https://open.spotify.com/track/22rXGMOKzA05kco3q4Y06E) | [Anis Fuleihan](https://open.spotify.com/artist/5gHoKuc3ZL5JlXOXJnyP9E), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q) | [Music and Memories: Clara Rockmore \(Bonus Album\)](https://open.spotify.com/album/6QBbxEkEh3EHcmlOcpyrNv) | 4:24 |
 
-Snapshot ID: `ZkqSgAAAAACoUQs4xzoDjPAea8HctcJJ`
+Snapshot ID: `ZkqSgAAAAAABhEX6VTq2DQ2nCuhmvNK9`

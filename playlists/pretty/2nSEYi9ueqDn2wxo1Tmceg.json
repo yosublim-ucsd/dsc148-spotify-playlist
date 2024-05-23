@@ -1,18 +1,18 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 66992,
+  "num_followers": 66994,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAPY9guY2vvRvToW0eGyz74QFWhEQjr",
+  "snapshot_id": "AAAPZcQWIM9hpiSqQZq4gWUZeCAMADyj",
   "tracks": [
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
-        "name": "Lost Changes",
-        "url": "https://open.spotify.com/album/0InZsj14Zayf3eC7auh4aJ"
+        "name": "Lives Outgrown",
+        "url": "https://open.spotify.com/album/0YC5MWwUmsTpJrRumtBdZA"
       },
       "artists": [
         {
@@ -22,10 +22,46 @@
       ],
       "duration_ms": 341933,
       "name": "Lost Changes",
-      "url": "https://open.spotify.com/track/77tzZpDAF4lZGQN10R2i61"
+      "url": "https://open.spotify.com/track/5oBcWBVBoGlTacocqeNjkc"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
+      "album": {
+        "name": "Bullet of Dignity (Acid Arab Remix)",
+        "url": "https://open.spotify.com/album/6xEZAlxVfwmyxUWXT3BnCH"
+      },
+      "artists": [
+        {
+          "name": "Fat White Family",
+          "url": "https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4"
+        },
+        {
+          "name": "Acid Arab",
+          "url": "https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7"
+        }
+      ],
+      "duration_ms": 298910,
+      "name": "Bullet Of Dignity - Acid Arab Remix",
+      "url": "https://open.spotify.com/track/3xniPXJTPnMuSapsVBp1RK"
+    },
+    {
+      "added_at": "2024-05-22 12:05:03",
+      "album": {
+        "name": "AMAMA",
+        "url": "https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo"
+      },
+      "artists": [
+        {
+          "name": "Crumb",
+          "url": "https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B"
+        }
+      ],
+      "duration_ms": 157706,
+      "name": "From Outside A Window Sill",
+      "url": "https://open.spotify.com/track/5zgC2gUyZxRZiAnUkFpbx7"
+    },
+    {
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "That Golden Time",
         "url": "https://open.spotify.com/album/69u5RXvbCnrLgf2zV8VGey"
@@ -41,7 +77,7 @@
       "url": "https://open.spotify.com/track/1BBI0SWpDYIoOmgue9ncqI"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Joker",
         "url": "https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70"
@@ -57,7 +93,7 @@
       "url": "https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Kids On Holiday (Live)",
         "url": "https://open.spotify.com/album/6r6V1etUvbGViUVFVt0y8c"
@@ -73,7 +109,7 @@
       "url": "https://open.spotify.com/track/2NaQ5oJ6SzF2YTVPBbvdky"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "I Forget (Richard X Remixes)",
         "url": "https://open.spotify.com/album/1FYt31PDTU0mBGnRbwIJC2"
@@ -93,7 +129,7 @@
       "url": "https://open.spotify.com/track/1NaAATQvwsSdIy6CdHo8iT"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Funeral for Justice",
         "url": "https://open.spotify.com/album/1fJajwWIysMm9TqWzFcHwq"
@@ -109,7 +145,7 @@
       "url": "https://open.spotify.com/track/4EwVCBiXHzunO6vZrM7xEX"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Here in the Pitch",
         "url": "https://open.spotify.com/album/3sxWkhkLVGfUd9jltFgcrG"
@@ -125,7 +161,23 @@
       "url": "https://open.spotify.com/track/7sbZIRcVfeAQSrbwNKCh3J"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/68WcI67Cm1Ag9R6zNdqEBE"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        }
+      ],
+      "duration_ms": 302544,
+      "name": "There Is No East Or West",
+      "url": "https://open.spotify.com/track/5Kkc9jNGT4MfJXzflaSIeR"
+    },
+    {
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Shark-Shark",
         "url": "https://open.spotify.com/album/6PBPuFAVh2mcKvyWEmiMys"
@@ -141,7 +193,7 @@
       "url": "https://open.spotify.com/track/7rZk0wXj9bWeozbcTmBhaJ"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Spell Blanket - Collected Demos 2006 - 2009",
         "url": "https://open.spotify.com/album/5kKCZmfiHpIEIiWntTIGP7"
@@ -157,7 +209,7 @@
       "url": "https://open.spotify.com/track/7bwCWyqO9snFZ4AnBHd7XM"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Blue Kite",
         "url": "https://open.spotify.com/album/22RNSXaulZOIgT9aA8XaTu"
@@ -173,7 +225,7 @@
       "url": "https://open.spotify.com/track/3mmPVTmjCRIa7p7cA8lDTh"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Brighter Days EP",
         "url": "https://open.spotify.com/album/0PhF1WfsVV0kbbuJIbdFGB"
@@ -189,7 +241,7 @@
       "url": "https://open.spotify.com/track/1vcCRrXOiOC0qPrap9xkdl"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Skipping Stones: The Cassette Years '92-'93",
         "url": "https://open.spotify.com/album/3iXLqqA22fk4N9mnY3W0K2"
@@ -205,7 +257,7 @@
       "url": "https://open.spotify.com/track/1M5kYPvp4Vcz4cXoWlmGi9"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/3HseNECeqM5CL7GEdg2YM3"
@@ -221,7 +273,7 @@
       "url": "https://open.spotify.com/track/4jRj9rmvSkshJq2QaGLg8A"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "I'm totally fine with it \ud83d\udc4d don't give a fuck anymore \ud83d\udc4d",
         "url": "https://open.spotify.com/album/10OAPWpR7qXlxUbJlRhSFi"
@@ -237,7 +289,7 @@
       "url": "https://open.spotify.com/track/3sm6GfmHISsEjJrPExmxqz"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Sophomore / EUC",
         "url": "https://open.spotify.com/album/4hTgRqvU1U9omRJuQffA8I"
@@ -253,7 +305,7 @@
       "url": "https://open.spotify.com/track/7LRBfIOKLb09y0i0THx0L1"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Serene King",
         "url": "https://open.spotify.com/album/73s9AcfBH4qedokS40d1vP"
@@ -269,7 +321,7 @@
       "url": "https://open.spotify.com/track/2MLWlv0FjiuzaYYNqa3hLa"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Close Call",
         "url": "https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50"
@@ -285,7 +337,7 @@
       "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "We Are the Animals in the Night",
         "url": "https://open.spotify.com/album/6bA3mRh0sxmwon3fSqvSrT"
@@ -301,7 +353,7 @@
       "url": "https://open.spotify.com/track/46f7HmXDUpynTwr4gF2YLp"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "When You're Outside",
         "url": "https://open.spotify.com/album/7MI292qGxx40vLAJMzYfTO"
@@ -317,7 +369,7 @@
       "url": "https://open.spotify.com/track/7wljeeYu5PdBuza4u2v0J0"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Singeli Ya Maajabu",
         "url": "https://open.spotify.com/album/4J3s9s0ZCieNsS37YPuy8D"
@@ -337,7 +389,7 @@
       "url": "https://open.spotify.com/track/1iRGaOUfgj4Z8NPAVxLQND"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Windsor Safari Park",
         "url": "https://open.spotify.com/album/2cyAfclIauubG2S32DgMRX"
@@ -353,7 +405,7 @@
       "url": "https://open.spotify.com/track/0sKWl7zap6vW1jZDNnMj6H"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "I Forget (Richard X Remixes)",
         "url": "https://open.spotify.com/album/1FYt31PDTU0mBGnRbwIJC2"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/5oCpMam8qvuMLVaMGlCZ1s"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Storm Days",
         "url": "https://open.spotify.com/album/0GRmEtInhC6LOvfhGEwdgc"
@@ -389,7 +441,7 @@
       "url": "https://open.spotify.com/track/0YkH41NB498LJV8F0UmQzI"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Eloise / So Low (Live at Empty Bottle)",
         "url": "https://open.spotify.com/album/4ieAv54Yt9MDu3m2villx2"
@@ -405,7 +457,7 @@
       "url": "https://open.spotify.com/track/3GOwLkxgL3RejeRIDJ99iS"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/3r0VesXDDB6uhQSlHd3Fi1"
@@ -421,7 +473,7 @@
       "url": "https://open.spotify.com/track/1maCBeXVQaPo2n9jHzB8JJ"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "The Apple",
         "url": "https://open.spotify.com/album/3aOAqZUVEMBYayufw3tJZz"
@@ -437,7 +489,7 @@
       "url": "https://open.spotify.com/track/6H1Y7gLmHdBZx94EfaSEj6"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "You Are Not an Island (Version)",
         "url": "https://open.spotify.com/album/7mKCJAMYy09pGTnfDSeTpw"
@@ -453,7 +505,7 @@
       "url": "https://open.spotify.com/track/0fUqmkdHIoRbIHt1rkaKJ9"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Feast of Tongues",
         "url": "https://open.spotify.com/album/6vaDzDJt8OmHA4DOQ8BiNf"
@@ -469,7 +521,7 @@
       "url": "https://open.spotify.com/track/2Swd06y8WpBggzYhsqso3N"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Death Jokes",
         "url": "https://open.spotify.com/album/0IbEeSedat83fZMCvcdCR3"
@@ -485,7 +537,7 @@
       "url": "https://open.spotify.com/track/4xjTDA90Gc2cRob4HkLU3U"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "La Fusion",
         "url": "https://open.spotify.com/album/7MIntt4LljUvKFGcZ3Bf66"
@@ -501,7 +553,7 @@
       "url": "https://open.spotify.com/track/4Y1eEB2GFzKFKUiU5AtPYU"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "The Bug",
         "url": "https://open.spotify.com/album/2A1c0zO7rYkPtlSrEiZTGP"
@@ -517,7 +569,7 @@
       "url": "https://open.spotify.com/track/381x0Ox55JwTU6QTENUWkI"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Shadows Pt. 3",
         "url": "https://open.spotify.com/album/0oWr4r89kkWmeZ5dQqHcHy"
@@ -537,7 +589,7 @@
       "url": "https://open.spotify.com/track/6QndKEhGoxbCDixi6FPOGD"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "RITUAL (evocation)",
         "url": "https://open.spotify.com/album/4DLnLBvf6aKhABSsGMVpET"
@@ -569,7 +621,7 @@
       "url": "https://open.spotify.com/track/1mtkcUtTvtscfzIlOmcPBW"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Running",
         "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
@@ -585,7 +637,7 @@
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Tout Suite!",
         "url": "https://open.spotify.com/album/5gzSYdPxNogCumceyRlqb8"
@@ -601,7 +653,7 @@
       "url": "https://open.spotify.com/track/4i6bUWmzQRnSdDDmFG5TJW"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/3lsiZe2JwHyakKmB4EvTrj"
@@ -617,7 +669,7 @@
       "url": "https://open.spotify.com/track/0UqjNjsRDHskBTjsN0C9dR"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "HAWD THAT",
         "url": "https://open.spotify.com/album/7IBKsN43AlunQwU7scSCuA"
@@ -633,7 +685,7 @@
       "url": "https://open.spotify.com/track/7gw4Gqbl1CwUsvsxSR295o"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/5G3eeWvTGag67FvGLTCKCx"
@@ -649,7 +701,7 @@
       "url": "https://open.spotify.com/track/5dJskdUj4OoHI2nTosbTvU"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Ursula",
         "url": "https://open.spotify.com/album/2i5WAeVCa9hnHoPi29ahah"
@@ -665,7 +717,7 @@
       "url": "https://open.spotify.com/track/1M3MkQsyHneKRo2LRlBrg3"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Contingency/Necessity (Modality of Fate)",
         "url": "https://open.spotify.com/album/3QR8LjYYmzDFvUjPe2pIIp"
@@ -681,7 +733,7 @@
       "url": "https://open.spotify.com/track/5JG967CjnqHz3GloV8W8XB"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Forgiveness Is Yours",
         "url": "https://open.spotify.com/album/7KRpvNDUvx7Sr9qVFPZJj6"
@@ -697,7 +749,7 @@
       "url": "https://open.spotify.com/track/4Mwpfw9r64IBnq8czrEaFo"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Saru l-Qamar",
         "url": "https://open.spotify.com/album/6Ym4jUstqHNidE2yZmYx9F"
@@ -713,7 +765,7 @@
       "url": "https://open.spotify.com/track/4xTqmMBML88LAtbUaX2V5r"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "The Dog's Name",
         "url": "https://open.spotify.com/album/31Fn6UFqSjPh3HDHTJSuNx"
@@ -737,7 +789,7 @@
       "url": "https://open.spotify.com/track/3LceuhYOoy3YnRj3zzpSGu"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Ruby",
         "url": "https://open.spotify.com/album/0vGkCDtfhZThob8oPVnlzr"
@@ -753,7 +805,7 @@
       "url": "https://open.spotify.com/track/2jYWjSsnsGJ7Vpz4blfXzX"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Drinking the Dusk Away / Only the Moon Knows",
         "url": "https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd"
@@ -769,7 +821,7 @@
       "url": "https://open.spotify.com/track/0kd0HiLMEAmDP3qMbdLK2q"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Affection",
         "url": "https://open.spotify.com/album/41fPjriqD2ycjCAE8TfmuT"
@@ -789,7 +841,7 @@
       "url": "https://open.spotify.com/track/3U04LDPkBGu7AwFAeQ7Ot2"
     },
     {
-      "added_at": "2024-05-15 16:00:28",
+      "added_at": "2024-05-22 12:05:03",
       "album": {
         "name": "Moments Die",
         "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
@@ -807,58 +859,6 @@
       "duration_ms": 246886,
       "name": "Moments Die",
       "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
-    },
-    {
-      "added_at": "2024-05-15 16:00:28",
-      "album": {
-        "name": "Dig feat. Rhian Teasdale",
-        "url": "https://open.spotify.com/album/3G4A8L6xxq7iGLRts9sTSw"
-      },
-      "artists": [
-        {
-          "name": "Orlando Weeks",
-          "url": "https://open.spotify.com/artist/5K9Px0eeCuYatmBGFfhSOA"
-        },
-        {
-          "name": "Rhian Teasdale",
-          "url": "https://open.spotify.com/artist/3ceorkSx0PQZbkvQvWpXIF"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Dig feat. Rhian Teasdale",
-      "url": "https://open.spotify.com/track/4VE5B2N4TCHvK5ZZ3dSI6c"
-    },
-    {
-      "added_at": "2024-05-15 16:00:28",
-      "album": {
-        "name": "Drinking the Dusk Away / Only the Moon Knows",
-        "url": "https://open.spotify.com/album/7clPtGzsrPBrQCpkRNYjDd"
-      },
-      "artists": [
-        {
-          "name": "Alex Izenberg",
-          "url": "https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Only the Moon Knows",
-      "url": "https://open.spotify.com/track/4trxvoXoZVIylRpv6eZRNa"
-    },
-    {
-      "added_at": "2024-05-15 16:00:28",
-      "album": {
-        "name": "La Bomba",
-        "url": "https://open.spotify.com/album/2KtK583Hq65HDEkgE0c5qn"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 134720,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/4DVogoYzvFrFOtUMQIamJf"
     }
   ],
   "unique_name": "Domino Sound System",

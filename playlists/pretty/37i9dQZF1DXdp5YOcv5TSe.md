@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Cover: G2 LOL
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,692 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,691 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Never Enough](https://open.spotify.com/track/0Gl5s8IhMmQE5YQwM8Qx1J) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [The Greatest Showman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F) | 3:27 |
 | 50 | [Run With Me \- From The Voice Of Germany](https://open.spotify.com/track/7mqXDT7UTg3rCYbAJEKL4O) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Anny Ogrezeanu](https://open.spotify.com/artist/4fYJk0gCxLhyHu5NsIAhHU) | [Run With Me \(From The Voice Of Germany\)](https://open.spotify.com/album/0FHmYWOBAEnZ9BnVmdEb6P) | 3:19 |
 
-Snapshot ID: `ZjDL/AAAAADkpuJdVBJD60klwnf9VZXW`
+Snapshot ID: `Zk3QMAAAAABy3j2N/ky0+sVA1+IvbfZu`

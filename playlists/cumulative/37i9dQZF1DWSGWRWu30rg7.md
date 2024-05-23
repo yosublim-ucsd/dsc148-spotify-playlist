@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Peter Holly
 
-3,433 songs - 8 day 18 hr 48 min
+3,434 songs - 8 day 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [Crush](https://open.spotify.com/track/5TxnDvw7XL8RRtnEOQwwbn) | [Louwiesye](https://open.spotify.com/artist/4CX9rkItDqgahVdyHjdKC6) | [Crush](https://open.spotify.com/album/1PWrdDtO8WRyKx4vKW8KDg) | 4:13 | 2023-05-11 | 2023-05-26 |
 | [Crush](https://open.spotify.com/track/1htJlPwaupxmJ1XSYoT5AD) | [Uap Widya](https://open.spotify.com/artist/1WWvSaBJuHGztksVJ0N9A9) | [Crush](https://open.spotify.com/album/0nMd1E9qxuHc2zKfy26ZX3) | 3:30 | 2023-06-01 | 2023-06-16 |
 | [Crush](https://open.spotify.com/track/6G6xJvy375fwsFLncY4jdI) | [Y.A.W](https://open.spotify.com/artist/56TdM0MqdC3okSgo6KPk96) | [Crush](https://open.spotify.com/album/1hDDOQstjfYGcvdlD6VWQr) | 3:02 | 2022-11-24 | 2022-12-01 |
+| [Crush, Crush](https://open.spotify.com/track/0BSPfxWGmAhFFTlqVSThRc) | [Jingga](https://open.spotify.com/artist/5KOo1WEqyJMsWTmPC2Lra9) | [Crush, Crush](https://open.spotify.com/album/0EPWssXA7rEpw68SYh7XcK) | 3:24 | 2024-05-16 |  |
 | [Crystals](https://open.spotify.com/track/3vzfW72pzkZokdhYJFA7ln) | [The Candle Light Children](https://open.spotify.com/artist/59PyMbVTNW1JNa6aCHGFGW) | [Crystals](https://open.spotify.com/album/5xx8TXASDM2gq4OWPqrITf) | 2:31 | 2022-09-22 | 2022-10-14 |
 | [Cuaca Buruk](https://open.spotify.com/track/1UbXcl1usVGnHyxrxwNSXi) | [Mamski](https://open.spotify.com/artist/6cpHst6YEodF1JeOGeCqLZ) | [Cuaca Buruk](https://open.spotify.com/album/6Ro4W6vSluNvlaTyShMsVY) | 3:56 | 2024-03-21 | 2024-04-19 |
 | [Cukup](https://open.spotify.com/track/7J0nEDopowLqDAg8yjdLe7) | [Odelia Sabrina](https://open.spotify.com/artist/6B5OOUXDbJT2heXdZuGOKs) | [Cukup](https://open.spotify.com/album/3GUPVSaHzlcUXHUN9FIMUs) | 3:00 | 2023-08-24 | 2023-09-08 |

@@ -4,7 +4,7 @@
 
 > Focus with melodic house and techno.
 
-369 songs - 1 day 16 hr 26 min
+370 songs - 1 day 16 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Free Colombia](https://open.spotify.com/track/0FvP1wBXZGMkZPRyFEtkdN) | [Alex Dovo](https://open.spotify.com/artist/2dFwWoBhOLLBO9bfTUvqaL) | [The Dawn](https://open.spotify.com/album/0s1Uhx9QIQfSyFuGSI0OuT) | 7:43 | 2020-01-13 | 2022-11-26 |
 | [Fräulein Smilla](https://open.spotify.com/track/2VhMVewJnu96AG9QxyeJLo) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Fallin](https://open.spotify.com/album/3Hkx4TJYtfUeQ07qnlD2yo) | 6:19 | 2021-07-05 | 2022-11-26 |
 | [Galactic](https://open.spotify.com/track/4q1e5Gh80PBbyNyh8axUDB) | [Moonwalk](https://open.spotify.com/artist/1khyIydqanugacJyKdmceT) | [Galactic](https://open.spotify.com/album/18hIPLjcCNhVXRMdsxYcRj) | 6:37 | 2019-05-26\* | 2020-01-07 |
-| [Glitter and Litter](https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Glitter and Litter](https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2) | 7:26 | 2022-08-12 |  |
+| [Glitter and Litter](https://open.spotify.com/track/7zwYmpLrtDNxID8sRvlePp) | [Gabriel Ananda](https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX), [Ninsa](https://open.spotify.com/artist/1hyVEtn2U4zlDtjZkTGyq8) | [Glitter and Litter](https://open.spotify.com/album/5mUQFI4lOx2CdZtkseari2) | 7:26 | 2022-08-12 | 2024-05-23 |
 | [Glow](https://open.spotify.com/track/43Y8J1INTd88M9zJTUPMaT) | [AKA AKA](https://open.spotify.com/artist/64fjAjykuM8Oc3Bqup4g72), [JØREN OZ](https://open.spotify.com/artist/5VKVgpHKOCFbto8DwpnadA) | [Glow](https://open.spotify.com/album/2NtTJ9sWOH2NeTX5LLGgM8) | 5:36 | 2021-01-08 | 2021-08-14 |
 | [Glutes](https://open.spotify.com/track/6n85CqZrqbMjwQImS02tQx) | [Patrice Bäumel](https://open.spotify.com/artist/5OvpF1A65DXs93M9NfPIjT) | [Glutes](https://open.spotify.com/album/5d62LwcW0OFVIHaE9IRlqM) | 7:29 | 2019-06-21 | 2019-08-13 |
 | [Goliath](https://open.spotify.com/track/2yfxLmjLcNYSjdMSJbMZYJ) | [Boss Axis](https://open.spotify.com/artist/0LbAebKs7ZKbgtOnIizXLk) | [Goliath](https://open.spotify.com/album/6otJvL5Xlxmejx5LtNiLnN) | 8:08 | 2019-07-05 | 2022-05-03 |
@@ -187,6 +187,7 @@
 | [Lost Secret](https://open.spotify.com/track/0XOZAwkIVpGeqrEWShNwdZ) | [Alyne](https://open.spotify.com/artist/3I6VTLm67GhUmOTrhM0DzY) | [Lost Secret](https://open.spotify.com/album/08IliBAiETNNbC3Ra94XPt) | 6:53 | 2019-05-26\* | 2019-06-22 |
 | [Love Attack](https://open.spotify.com/track/5wpJy21k5VFx0qWtGQfopq) | [Edu Imbernon](https://open.spotify.com/artist/0Vr0xxcbllx4JWHHxio088) | [Indenait](https://open.spotify.com/album/4glKx1gNQgVIWc8wv4cUMR) | 7:28 | 2019-05-26\* | 2020-06-10 |
 | [Love Letters From Sicily](https://open.spotify.com/track/0AROOP6Ee5j65jP34ekMyW) | [Matthias Meyer](https://open.spotify.com/artist/6bWakzaLHaNewLTdhJHPQb), [Ryan Davis](https://open.spotify.com/artist/0AHClmU8AZuj9naaENhVrP) | [Love Letters From Sicily](https://open.spotify.com/album/0vucQ6KVbtW7jn9tucIgmy) | 9:32 | 2019-05-26\* | 2021-05-08 |
+| [Loyalty](https://open.spotify.com/track/4zyYWKv2hYVdAzeVBHeJAv) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [Loyalty](https://open.spotify.com/album/3JB13d1xqzarAyIUD9BKbV) | 3:18 | 2024-05-22 |  |
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2021-12-17 |  |
 | [Luna](https://open.spotify.com/track/1AgUrCsgXQZ9IRmT1lEoH8) | [Lake Avalon](https://open.spotify.com/artist/2GgwB2XT8sTzoBVddjJ2Vd) | [Silver Goat](https://open.spotify.com/album/1Y903pCu66Txu6e1iOiudi) | 7:51 | 2020-03-02 | 2022-07-29 |
 | [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 | 2021-01-30 |  |

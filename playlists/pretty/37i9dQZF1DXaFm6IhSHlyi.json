@@ -1,6 +1,6 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 143621,
+  "num_followers": 143627,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Accetto Miracoli",
+        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
+      },
+      "artists": [
+        {
+          "name": "Tiziano Ferro",
+          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
+        }
+      ],
+      "duration_ms": 225386,
+      "name": "In Mezzo A Questo Inverno",
+      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "The Way I Love You",
         "url": "https://open.spotify.com/album/3K4LPKywpYV44mQtqt5mNH"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 162726,
       "name": "The Way I Love You",
       "url": "https://open.spotify.com/track/3XV5r1cMB2AlD2ir0v6mfm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Accetto Miracoli",
-        "url": "https://open.spotify.com/album/2OFCijOtzwFMkFNLRdShHw"
-      },
-      "artists": [
-        {
-          "name": "Tiziano Ferro",
-          "url": "https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m"
-        }
-      ],
-      "duration_ms": 225386,
-      "name": "In Mezzo A Questo Inverno",
-      "url": "https://open.spotify.com/track/6bMfEx9nIYsmFjiJl6P9NY"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Ang Kwento Ng Pag-Ibig",
+        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+      },
+      "artists": [
+        {
+          "name": "Steph",
+          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+        }
+      ],
+      "duration_ms": 272288,
+      "name": "Ang Kwento Ng Pag-Ibig",
+      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "I See The Dream (Badna Salam) [feat. Ali Gatie] [Acoustic]",
         "url": "https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5"
       },
@@ -1395,18 +1411,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Ang Kwento Ng Pag-Ibig",
-        "url": "https://open.spotify.com/album/6yAWkGEiemE4t8Gh55gmSN"
+        "name": "Don't forget me (Prod. ROCOBERRY)",
+        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
       },
       "artists": [
         {
-          "name": "Steph",
-          "url": "https://open.spotify.com/artist/59vzNh002ixVsTYtMAwn6i"
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
         }
       ],
-      "duration_ms": 272288,
-      "name": "Ang Kwento Ng Pag-Ibig",
-      "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
+      "duration_ms": 193047,
+      "name": "Don't forget me (Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 249545,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Don't forget me (Prod. ROCOBERRY)",
-        "url": "https://open.spotify.com/album/2PE9zF0g4LWpmxkpYzBsZg"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        }
-      ],
-      "duration_ms": 193047,
-      "name": "Don't forget me (Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/3Plg6ZQZeVSBUSp11zBXL5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kyle",
         "url": "https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 255000,
       "name": "Something",
       "url": "https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1719,6 +1719,22 @@
       "duration_ms": 275913,
       "name": "Maghihintay",
       "url": "https://open.spotify.com/track/4LgccgKkSa1zOVGcvnQPhn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Forever And Ever",
+        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 191171,
+      "name": "Forever And Ever",
+      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1807,22 +1823,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Forever And Ever",
-        "url": "https://open.spotify.com/album/4KgQv1cSfo1soq5B2Uns9o"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 191171,
-      "name": "Forever And Ever",
-      "url": "https://open.spotify.com/track/10mVmWuvnQpmwbCR1vYHWe"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Cardamom Tea",
         "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
@@ -1835,6 +1835,22 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Lore",
+        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
+      },
+      "artists": [
+        {
+          "name": "Qaayel",
+          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
+        }
+      ],
+      "duration_ms": 212610,
+      "name": "It Scares Me to Death",
+      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1903,38 +1919,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Lore",
-        "url": "https://open.spotify.com/album/6RlqE0VxRuxdXaT8yQK20m"
-      },
-      "artists": [
-        {
-          "name": "Qaayel",
-          "url": "https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv"
-        }
-      ],
-      "duration_ms": 212610,
-      "name": "It Scares Me to Death",
-      "url": "https://open.spotify.com/track/7A26Q7EMjPnJQw7F3oAy17"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Umaga",
-        "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
-      },
-      "artists": [
-        {
-          "name": "The Juans",
-          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
-        }
-      ],
-      "duration_ms": 303937,
-      "name": "Hindi Tayo Pwede",
-      "url": "https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Oye",
         "url": "https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O"
       },
@@ -1955,6 +1939,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Umaga",
+        "url": "https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "duration_ms": 303937,
+      "name": "Hindi Tayo Pwede",
+      "url": "https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Kahit Maputi Na Ang Buhok ko (From \"The Hows Of Us\")",
         "url": "https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25"
       },
@@ -1967,22 +1967,6 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok ko - From \"The Hows Of Us\"",
       "url": "https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Maula",
-        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
-      },
-      "artists": [
-        {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 237882,
-      "name": "Maula",
-      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2003,6 +1987,22 @@
       "duration_ms": 169127,
       "name": "At My Worst (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Maula",
+        "url": "https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu"
+      },
+      "artists": [
+        {
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+        }
+      ],
+      "duration_ms": 237882,
+      "name": "Maula",
+      "url": "https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
-      },
-      "artists": [
-        {
-          "name": "DAVICHI",
-          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
-        }
-      ],
-      "duration_ms": 216734,
-      "name": "Sunset",
-      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG"
       },
@@ -2167,6 +2151,38 @@
       "duration_ms": 169748,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4ejQlM2w2X2AJqWYcMyNVm"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Asal Mein - Single",
+        "url": "https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 224240,
+      "name": "Asal Mein",
+      "url": "https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J"
+      },
+      "artists": [
+        {
+          "name": "DAVICHI",
+          "url": "https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq"
+        }
+      ],
+      "duration_ms": 216734,
+      "name": "Sunset",
+      "url": "https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2267,22 +2283,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Asal Mein - Single",
-        "url": "https://open.spotify.com/album/3yFJOvXHvK0pgCllEWAyPV"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 224240,
-      "name": "Asal Mein",
-      "url": "https://open.spotify.com/track/1StFDfq4raRws97W8Wb3QS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "How Is This Love ?",
         "url": "https://open.spotify.com/album/6yM5DlsPoNz8C2pZwVqN2l"
       },
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Hanggang Sa Huli (From \"24/7\")",
-        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 258906,
-      "name": "Hanggang Sa Huli - From \"24/7\"",
-      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Crash Landing on You (Original Television Soundtrack), Pt. 6",
         "url": "https://open.spotify.com/album/1FqkBTEnhrkGzu934rDADs"
       },
@@ -2363,6 +2347,22 @@
       "duration_ms": 234986,
       "name": "The Hill of Yearning",
       "url": "https://open.spotify.com/track/0oZRDruCnbV2W9Z6VZaJ1v"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Hanggang Sa Huli (From \"24/7\")",
+        "url": "https://open.spotify.com/album/2C8rsZPS30jp7yaIjjROgO"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 258906,
+      "name": "Hanggang Sa Huli - From \"24/7\"",
+      "url": "https://open.spotify.com/track/49ymBY89zdOGaw0Avp9g6L"
     },
     {
       "added_at": "2022-10-17 15:00:00",

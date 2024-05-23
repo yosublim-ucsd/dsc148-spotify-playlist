@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 17231,
+  "num_followers": 17236,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -75,30 +75,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Quantas Hist\u00f3rias",
-        "url": "https://open.spotify.com/album/4mIY62yYxx9DP6zkJMv28E"
-      },
-      "artists": [
-        {
-          "name": "JOTTA R",
-          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Lima",
-          "url": "https://open.spotify.com/artist/2FXb8tASMYr7GN6Xelcwkv"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Quantas Hist\u00f3rias",
-      "url": "https://open.spotify.com/track/2eycfzTUO7u0ZmZQWEvNB9"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Saudade",
         "url": "https://open.spotify.com/album/2ssOy85YiJXKAA8dj6YBaV"
       },
@@ -131,6 +107,30 @@
       "duration_ms": 153942,
       "name": "m\u00e1gica \u2736",
       "url": "https://open.spotify.com/track/47uFCc3ppHXY0U7DdsWqko"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Quantas Hist\u00f3rias",
+        "url": "https://open.spotify.com/album/4mIY62yYxx9DP6zkJMv28E"
+      },
+      "artists": [
+        {
+          "name": "JOTTA R",
+          "url": "https://open.spotify.com/artist/6m4DLE0Z8CKnI7UQx62BbS"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        },
+        {
+          "name": "Lima",
+          "url": "https://open.spotify.com/artist/2FXb8tASMYr7GN6Xelcwkv"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Quantas Hist\u00f3rias",
+      "url": "https://open.spotify.com/track/2eycfzTUO7u0ZmZQWEvNB9"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "Xona",
+        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
+      },
+      "artists": [
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 205431,
+      "name": "Xona",
+      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "It Girl Pt. 2",
         "url": "https://open.spotify.com/album/6NZvkPXAtD3ksX7Tm7nFFK"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 175000,
       "name": "Doce de Latche",
       "url": "https://open.spotify.com/track/3YacGCNqPQFiN7kRfpDPkV"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Xona",
-        "url": "https://open.spotify.com/album/07WYQmujANpy2kmw0Pix8p"
-      },
-      "artists": [
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 205431,
-      "name": "Xona",
-      "url": "https://open.spotify.com/track/06paTYzK3uqFZBBbNm7rbh"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "MAIS VERDE",
+        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+      },
+      "artists": [
+        {
+          "name": "2:22",
+          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "MAIS VERDE",
+      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Perigo",
         "url": "https://open.spotify.com/album/1oFEEJiCKaUPk8h4yqVwvT"
       },
@@ -583,18 +599,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "MAIS VERDE",
-        "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
       "artists": [
         {
-          "name": "2:22",
-          "url": "https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4"
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
         }
       ],
-      "duration_ms": 208000,
-      "name": "MAIS VERDE",
-      "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -639,22 +659,26 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
       },
       "artists": [
         {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
         },
         {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
         }
       ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -699,46 +723,18 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
       },
       "artists": [
         {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
         }
       ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "Anel da Pandora",
-        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
-      },
-      "artists": [
-        {
-          "name": "greg mc",
-          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
-        },
-        {
-          "name": "ESCOB4R",
-          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
-        }
-      ],
-      "duration_ms": 199012,
-      "name": "Anel da Pandora",
-      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -763,18 +759,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+        "name": "Anel da Pandora",
+        "url": "https://open.spotify.com/album/6GsGh4Jk1lg1n4w7AdX3mH"
       },
       "artists": [
         {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+          "name": "greg mc",
+          "url": "https://open.spotify.com/artist/1QXhKJOKOSSwXYiSwiI52X"
+        },
+        {
+          "name": "ESCOB4R",
+          "url": "https://open.spotify.com/artist/7DTnr0rETgOxGZ9v0oXhAy"
         }
       ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
+      "duration_ms": 199012,
+      "name": "Anel da Pandora",
+      "url": "https://open.spotify.com/track/5b1FFWfYki45kGusI0aSGU"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
-        "name": "Medusa",
-        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
-      },
-      "artists": [
-        {
-          "name": "Ryan Realcria",
-          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
-        },
-        {
-          "name": "Bi$",
-          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
-        }
-      ],
-      "duration_ms": 144522,
-      "name": "Medusa",
-      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 164007,
       "name": "Desacelera",
       "url": "https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
+        "name": "Medusa",
+        "url": "https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Realcria",
+          "url": "https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX"
+        },
+        {
+          "name": "Bi$",
+          "url": "https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA"
+        }
+      ],
+      "duration_ms": 144522,
+      "name": "Medusa",
+      "url": "https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt"
     },
     {
       "added_at": "2024-05-17 03:01:00",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-17 03:01:00",
       "album": {
+        "name": "LUNA",
+        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
+      },
+      "artists": [
+        {
+          "name": "Andrade",
+          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
+    },
+    {
+      "added_at": "2024-05-17 03:01:00",
+      "album": {
         "name": "Veneno",
         "url": "https://open.spotify.com/album/3sQK9FAmoPBct69Clj6TB5"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 166438,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/3mdQSQI8aYJbYmFnod2ErL"
-    },
-    {
-      "added_at": "2024-05-17 03:01:00",
-      "album": {
-        "name": "LUNA",
-        "url": "https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu"
-      },
-      "artists": [
-        {
-          "name": "Andrade",
-          "url": "https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J"
     },
     {
       "added_at": "2024-05-17 03:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs?si=SBcEfoTTRteVArBDUyl\_Ug">Armaan Malik</a>, <a href="https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX?si=WyO4f2\_zTMOpnb\-PR5IH7A">Calum Scott</a>, <a href="https://open.spotify.com/playlist/37i9dQZF1EFMXdDNyT5XPb?si=f17706ee09a94673">Jon Maguire</a> and <a href="https://open.spotify.com/playlist/37i9dQZF1EFHkietQPUHvT?si=57bbd3e8ae3b4985">Bill Maybury</a> .
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,762 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,804 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

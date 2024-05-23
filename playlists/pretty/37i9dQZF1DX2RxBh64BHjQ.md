@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1GVenmuuAtusi17LY6FvgI">Skilla Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,755,578 likes - 100 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,755,657 likes - 100 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/track/5cMju8aHhROILtAHKsSO4A) | [Loe Shimmy](https://open.spotify.com/artist/6UIpxj5ggLdOebFVCOxVax), [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Zuper \(feat\. Wizz Havinn\)](https://open.spotify.com/album/44s9T0FGkafvdrtJ86YEq2) | 2:39 |
 | 100 | [Ranchero](https://open.spotify.com/track/2JQlJ8NMAsc64NpK40I7FK) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Ranchero](https://open.spotify.com/album/6YuTYAphtTtx15HsessRq4) | 2:55 |
 
-Snapshot ID: `ZkevGAAAAABPdLDisoFFzPHAdu/FAbT/`
+Snapshot ID: `Zk3QMAAAAAD7UQjfYIFixcsEkb69D5Sx`

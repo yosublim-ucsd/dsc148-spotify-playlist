@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,660 likes - 94 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,666 likes - 94 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 93 | [DRESSED IN WHITE](https://open.spotify.com/track/4plfQW1yRfP6o64Tf2jJ2s) | [QUANZA](https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy) | [DRESSED IN WHITE](https://open.spotify.com/album/510cwnH4C8lxPTchg51mcV) | 4:12 |
 | 94 | [Little Wing](https://open.spotify.com/track/7s1eL0UR7asGuv2etJPgNB) | [Teus Nobel](https://open.spotify.com/artist/20eoV7sw474Caz79MZIhxY) | [Little Wing](https://open.spotify.com/album/6rCNpLE6Ez5bx1b1N3XdF8) | 4:31 |
 
-Snapshot ID: `ZkaB4AAAAACYiIEEZr/BmXnFe3xHRcb1`
+Snapshot ID: `Zk36HQAAAADH5p2bKSWiRGGjQ43lSQF0`

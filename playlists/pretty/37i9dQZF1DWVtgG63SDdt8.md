@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: Sarah Kroger
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,869 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,915 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Too Old To Quit](https://open.spotify.com/track/74CFZ5mgXEO0rmTedB09ts) | [Joshua's Giants](https://open.spotify.com/artist/6ULNzmxY00PU4YfT3ZZp7T), [Zach Paradis](https://open.spotify.com/artist/1W2W85bJ8lG3g409Lm6goy) | [Too Old To Quit](https://open.spotify.com/album/3eQS6wyKQ4UlF45IpK9cI2) | 2:53 |
 | 100 | [FOR ME](https://open.spotify.com/track/5edbyuV4bKej1OkFQ2VeBK) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y), [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [FOR ME](https://open.spotify.com/album/3XpGWYn2E8gagmm8yIlPiQ) | 2:55 |
 
-Snapshot ID: `ZkbWQAAAAAD8I4zisxba9/ukDrgRGexP`
+Snapshot ID: `Zk3QMAAAAABBNITy+5esoI/sDPCSbQqX`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Girl Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,490 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,477 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 59 | [Nos Despedimos](https://open.spotify.com/track/5YaRt2MFIfmp6jdabC4JTx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Nos Despedimos / Window Shopping](https://open.spotify.com/album/0JAhLeKnyJ5SeRGU3F261M) | 2:19 |
 | 60 | [Cuadriculado](https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Cuadriculado](https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX) | 2:49 |
 
-Snapshot ID: `ZkdwRAAAAAAxbP9RKH1BwTtW37+GurVG`
+Snapshot ID: `Zk4pWQAAAACXxX7bsES/g9RGK0/8Zcat`

@@ -2,9 +2,9 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/328748?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: WurtS \*👉 <a href="https://spice.eplus.jp/articles/328941%E2%81%A0?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
 
-6,314 songs - 16 day 1 hr 23 min
+6,316 songs - 16 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [2024/4/24 Lucky Kilimanjaroがカバー！go!go!vanillas、十明、DURDN、BE:FIRST、LEXなど注目アーティストの新作続々到着！Spotify記録を樹立したテイラー・スウィフトのニューアルバムも！Nenashiのニューアルバム、Bye\-Bye\-Handの方程式の新曲、KaneeeとDaichi Yamamotoのコラボ曲も！](https://open.spotify.com/episode/7KbNheF2NCe8gR8bPtOddJ) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 26:14 | 2024-04-24 | 2024-05-01 |
 | [2024/5/1 あいみょんがカバー！LEXとJP THE WAVYのコラボ、Tempalayのニューアルバムもリリースに。ちゃんみな、WurtS、女王蜂、槇原敬之の新曲、Early Noiseアーティストの音田雅則、CHO CO PA CO CHO CO QUIN QUINの新曲も！フランスのジャスティスのニューアルバムもピックアップ！](https://open.spotify.com/episode/3ar9F7aWEXxlGtMWQ6vSI0) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 30:49 | 2024-05-01 | 2024-05-08 |
 | [2024/5/15 imaseが初のアルバムをリリース！MILLENNIUM PARADEの新曲も！！\[Alexandros\]や水曜日のカンパネラの新曲も。BonberoとKohjiyaのコラボ、guca owlの新曲といったヒップホップ注目新作や、長谷川白紙の新曲、TM NETWORKのトリビュートアルバムからB'zの「Get Wild」も！ポスト・マローンの新曲もリリースに！](https://open.spotify.com/episode/1MAjxXzBfF7weYVGTr9jW9) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 34:02 | 2024-05-15 | 2024-05-22 |
+| [2024/5/22 WurtSがカバー！XGの新曲、ゲスの極み乙女のニューアルバム、Mrs\. GREEN APPLEの新曲も！ビリー・アイリッシュのニューアルバムや、スチャダラパー、STUTS、PUNPEEによるコラボ曲、JUBEEとJESSEのコラボ、宇多田ヒカルの「Simple And Clean \(Re\-Recording\)」も！Bye\-Bye\-Handの方程式のアルバム、冨岡愛の新曲も！](https://open.spotify.com/episode/7gMmUWwKTlwych6YU5Vr07) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 33:01 | 2024-05-22 |  |
 | [2024/5/8 ゲスの極み乙女がカバー！「幾億光年」がヒット中のOmoinotakeの新曲も！WILYWNKAのニューアルバム、JJJ、BLASÉ、Bonberoのコラボ曲、KEIJUの新曲など注目ヒップホップ作品も多数リリースに！Mr.Children、ビッケブランカ、乃紫、KERENMIもピックアップ。海外からはデュア・リパのニューアルバムなどを深堀り！](https://open.spotify.com/episode/7E9vuHi6y2SkknvDQmW816) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/show/6sN6lkCV6rvwMDupBRK68E) | [New Music Wednesday \[Music+Talk Edition\]](https://open.spotify.com/album/6sN6lkCV6rvwMDupBRK68E) | 35:32 | 2024-05-08 | 2024-05-15 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/0t6GDvannAPMhpYV9KQvhd) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4NQWLV27zjKf450cF0HtGp) | 5:12 | 2023-09-12 | 2023-09-14 |
 | [21st Century Nostalgia \(grand finale with our big band\)](https://open.spotify.com/track/69xcj07x7CoDq2X82QA14j) | [Dos Monos](https://open.spotify.com/artist/5Zg5lgH9GmkewONPMJlhbv) | [DMAN \[excerpt\]](https://open.spotify.com/album/4h3k67qvKQdWTM7LWpSYOH) | 5:12 | 2023-09-13 | 2023-09-20 |
@@ -2703,6 +2704,7 @@
 | [Over the rain\~Hikari no hashi\~ \- Ryu\-Take 2023 ver.](https://open.spotify.com/track/7cjE6T1u6wqUY3jtNW3g95) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Over the rain\~Hikari no hashi\~ \(Ryu\-Take 2023 ver.\)](https://open.spotify.com/album/3gsC9sx5X4FKPG30MPD8BR) | 4:38 | 2023-08-15 | 2023-08-23 |
 | [Over the Years](https://open.spotify.com/track/2E0zut80kCyYbtuL5YcY35) | [w\-inds.](https://open.spotify.com/artist/2UEnhov0KDPYU2dmGUjfcn) | [Beyond](https://open.spotify.com/album/5Mfu19X7rqDQ6PIidGQ8al) | 3:21 | 2023-03-14 | 2023-03-22 |
 | [Overdrive](https://open.spotify.com/track/0aSuXnjpcNTARU4EjCnJfD) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Overdrive](https://open.spotify.com/album/2Bc5lb46P1HYmayhkBu3cW) | 3:08 | 2024-05-14 | 2024-05-22 |
+| [Overdrive](https://open.spotify.com/track/1OSZ8aDA8R1HwPn1kbhjO3) | [Quadlips](https://open.spotify.com/artist/2G2pl9H7xMw4oYh6PCk3zN) | [Overdrive](https://open.spotify.com/album/2rcjwOpKPxgzmsW6gW14uj) | 3:10 | 2024-05-22 |  |
 | [overtime](https://open.spotify.com/track/3GjWcRCJw1fgdWXek9TVbP) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [overtime](https://open.spotify.com/album/6qoqj6pfCiQFh84BIXb7MG) | 1:53 | 2024-04-02 | 2024-04-10 |
 | [Owaranaimama](https://open.spotify.com/track/5o5r7X8Z4CJBpAgK4snpcS) | [Who Do You Love](https://open.spotify.com/artist/71nYHi1r0deMRvM1SAiflz) | [WHO DO YOU LOVE?](https://open.spotify.com/album/4Zwy3cY2rpi4vH7V16jDGm) | 2:40 | 2023-05-24 | 2023-05-31 |
 | [P.S.](https://open.spotify.com/track/5IUa0XCUrIzqjBcFv5fgRo) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [P.S.](https://open.spotify.com/album/4Ov5F3jrRQcCApqS3NheI0) | 2:52 | 2023-07-11 | 2023-07-19 |

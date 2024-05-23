@@ -2,7 +2,7 @@
 
 ### [VALORANT \- Music of Masters Madrid](https://open.spotify.com/playlist/71kt7mHLzNDQFmmUOVWA6Q)
 
-> The OFFICIAL Playlist for the Valorant Champions Tour!
+> Follow the OFFICIAL Playlist for VCT now on the VALORANT Spotify!!
 
 107 songs - 5 hr 50 min
 

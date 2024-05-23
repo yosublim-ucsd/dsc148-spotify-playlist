@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: BBHF",
-  "num_followers": 57931,
+  "num_followers": 57939,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -647,18 +647,18 @@
     {
       "added_at": "2024-05-21 15:00:00",
       "album": {
-        "name": "Water Carrier",
-        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
+        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
       },
       "artists": [
         {
-          "name": "Kroi",
-          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
         }
       ],
-      "duration_ms": 242470,
-      "name": "Water Carrier",
-      "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
+      "duration_ms": 239625,
+      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
     },
     {
       "added_at": "2024-05-21 15:00:00",
@@ -679,18 +679,18 @@
     {
       "added_at": "2024-05-21 15:00:00",
       "album": {
-        "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/3fR1I5UaWbiYzqNdSuEz3w"
+        "name": "Water Carrier",
+        "url": "https://open.spotify.com/album/0LkdcehFEz0i0RALwIp9V7"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Kroi",
+          "url": "https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa"
         }
       ],
-      "duration_ms": 239625,
-      "name": "\u30ed\u30c3\u30af\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/52G3NGUareSbVOKplhjTeF"
+      "duration_ms": 242470,
+      "name": "Water Carrier",
+      "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
     },
     {
       "added_at": "2024-05-21 15:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-05-21 15:00:00",
       "album": {
-        "name": "NEHAN",
-        "url": "https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8"
-      },
-      "artists": [
-        {
-          "name": "Tempalay",
-          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
-        }
-      ],
-      "duration_ms": 329464,
-      "name": "NEHAN",
-      "url": "https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb"
-    },
-    {
-      "added_at": "2024-05-21 15:00:00",
-      "album": {
         "name": "Cubism",
         "url": "https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 193322,
       "name": "Cubism",
       "url": "https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl"
+    },
+    {
+      "added_at": "2024-05-21 15:00:00",
+      "album": {
+        "name": "NEHAN",
+        "url": "https://open.spotify.com/album/1BLvDXPyzT4TqUekITovR8"
+      },
+      "artists": [
+        {
+          "name": "Tempalay",
+          "url": "https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP"
+        }
+      ],
+      "duration_ms": 329464,
+      "name": "NEHAN",
+      "url": "https://open.spotify.com/track/11c1SrN1UdW3BCNrrZddTb"
     },
     {
       "added_at": "2024-05-21 15:00:00",

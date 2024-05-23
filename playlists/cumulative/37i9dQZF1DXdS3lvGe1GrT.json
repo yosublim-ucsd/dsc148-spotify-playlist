@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Esme Emerson",
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Caity Krone",
   "name": "Fresh Finds Folk ",
   "tracks": [
     {
@@ -304,7 +304,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 177520,
       "name": "A Mother's Touch",
       "url": "https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb"
@@ -1796,7 +1796,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 220632,
       "name": "Babylon",
       "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
@@ -4491,6 +4491,28 @@
     },
     {
       "album": {
+        "name": "Cult to A Saint",
+        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        },
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218400,
+      "name": "Cult to A Saint",
+      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/1C0kWotM8BjtGPCr6zV1G6"
       },
@@ -4506,6 +4528,24 @@
       "duration_ms": 216017,
       "name": "Curse",
       "url": "https://open.spotify.com/track/7BxCGP08zbMIdqkuZMsszC"
+    },
+    {
+      "album": {
+        "name": "curse",
+        "url": "https://open.spotify.com/album/24mdQfh0a9aM0FuK7VRq9x"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214814,
+      "name": "curse",
+      "url": "https://open.spotify.com/track/5QJm7O7PhFZUVbwD6seP6W"
     },
     {
       "album": {
@@ -6903,6 +6943,24 @@
     },
     {
       "album": {
+        "name": "Feline Wave Race",
+        "url": "https://open.spotify.com/album/4ESu7CGDAaKvCpDET7ZdHm"
+      },
+      "artists": [
+        {
+          "name": "Nap Eyes",
+          "url": "https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370879,
+      "name": "Feline Wave Race",
+      "url": "https://open.spotify.com/track/62D9JFjTnGgF7REU7oI2AB"
+    },
+    {
+      "album": {
         "name": "Fifteen",
         "url": "https://open.spotify.com/album/3MHvO6ZlicVMDOSQ8RWDEc"
       },
@@ -7710,7 +7768,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 216306,
       "name": "Garden In The Sky",
       "url": "https://open.spotify.com/track/2DNIxbixiKsHDEll7nBnbD"
@@ -7746,7 +7804,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 155874,
       "name": "Gears",
       "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
@@ -8490,6 +8548,24 @@
       "duration_ms": 226229,
       "name": "Green Girls",
       "url": "https://open.spotify.com/track/6V7OZGtBzzrEUzFQg5M7T2"
+    },
+    {
+      "album": {
+        "name": "Green Morning",
+        "url": "https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250560,
+      "name": "Green Morning",
+      "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
     },
     {
       "album": {
@@ -11248,7 +11324,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 386040,
       "name": "Keeper of the Shepherd",
       "url": "https://open.spotify.com/track/6WO06FW9LqHcmTFGvyjTL9"
@@ -12299,6 +12375,24 @@
     },
     {
       "album": {
+        "name": "Lose The Gun",
+        "url": "https://open.spotify.com/album/4tIlywYMZGCZANo1fz9ugF"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230401,
+      "name": "Lose The Gun",
+      "url": "https://open.spotify.com/track/4h232GePNDICZKuIo9w27V"
+    },
+    {
+      "album": {
         "name": "Lost in a Dream",
         "url": "https://open.spotify.com/album/4RtRUvZstzZeNfpwHjfPD4"
       },
@@ -12584,6 +12678,24 @@
       "duration_ms": 186294,
       "name": "Lying Lately",
       "url": "https://open.spotify.com/track/5v6qSmrjodkCu1A06aCh5h"
+    },
+    {
+      "album": {
+        "name": "Mad At Nothing",
+        "url": "https://open.spotify.com/album/7Jiy2uR2ytNxiM4jqF38Pq"
+      },
+      "artists": [
+        {
+          "name": "Ethansroom",
+          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148480,
+      "name": "Mad At Nothing",
+      "url": "https://open.spotify.com/track/0ifDqYIKmrG93QqrWLNGxQ"
     },
     {
       "album": {
@@ -13673,6 +13785,24 @@
     },
     {
       "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
+      },
+      "artists": [
+        {
+          "name": "Niamh Regan",
+          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193438,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL"
+    },
+    {
+      "album": {
         "name": "The Mend",
         "url": "https://open.spotify.com/album/7HRPtt8ht452JmyM5kogNE"
       },
@@ -14124,7 +14254,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 234174,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
@@ -14780,6 +14910,24 @@
       "duration_ms": 191600,
       "name": "On Fire",
       "url": "https://open.spotify.com/track/35Y8IZv0K3lN22Vs4dHym2"
+    },
+    {
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/5zxsAueCxKs7vmwFU9xl3l"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266672,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/435DAdFp3Ey9QMyT8UogTc"
     },
     {
       "album": {
@@ -16267,6 +16415,24 @@
     },
     {
       "album": {
+        "name": "Rockdale",
+        "url": "https://open.spotify.com/album/77l40wbAkDypi1otMXLN3K"
+      },
+      "artists": [
+        {
+          "name": "Orebolo",
+          "url": "https://open.spotify.com/artist/5dUvPdohZCubdo8k4oG2Mx"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375312,
+      "name": "Rockdale",
+      "url": "https://open.spotify.com/track/1wP9autTu3EpTzFQBfYzIS"
+    },
+    {
+      "album": {
         "name": "Rocket Ship",
         "url": "https://open.spotify.com/album/2mElHcM1XjGavQw9HOSVxr"
       },
@@ -16912,7 +17078,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 164220,
       "name": "shaking head",
       "url": "https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf"
@@ -18665,6 +18831,24 @@
     },
     {
       "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271475,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
+    },
+    {
+      "album": {
         "name": "Not in a Bad Way",
         "url": "https://open.spotify.com/album/2f0Q3pgUwMpEBhvD16iZqO"
       },
@@ -19004,7 +19188,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 250341,
       "name": "THE CITY NEVER SLEEPS",
       "url": "https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk"
@@ -19314,7 +19498,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 185034,
       "name": "the machine",
       "url": "https://open.spotify.com/track/4AhZ3OCy7lG0aMoEztWVGR"
@@ -20330,7 +20514,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 230329,
       "name": "Twin Flame",
       "url": "https://open.spotify.com/track/2BQR4wX9e6kZXnIqPXUtUK"
@@ -20528,7 +20712,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 180000,
       "name": "Unravel Myself",
       "url": "https://open.spotify.com/track/2Xr2Lim9QmzDruk6sPhzmH"
@@ -21546,6 +21730,24 @@
       "duration_ms": 248337,
       "name": "Wild Garlic",
       "url": "https://open.spotify.com/track/63QMSWVvD2rJ9szBFx5ssF"
+    },
+    {
+      "album": {
+        "name": "Wild Geese",
+        "url": "https://open.spotify.com/album/7nhOxgSW1mGtfWYNvmtzz0"
+      },
+      "artists": [
+        {
+          "name": "Liv Greene",
+          "url": "https://open.spotify.com/artist/2UltodJ8HNFM8hNpVyD5Ae"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214876,
+      "name": "Wild Geese",
+      "url": "https://open.spotify.com/track/38jCElKYHdWG9f0DsPB3Q9"
     },
     {
       "album": {

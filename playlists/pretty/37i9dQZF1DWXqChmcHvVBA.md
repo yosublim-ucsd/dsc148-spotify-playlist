@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: elaggume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,096 likes - 100 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,319 likes - 100 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 | 11 | [Cierre Rkt](https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj) | [Eze Remix](https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT), [Matt Sebastian](https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt) | [Cierre Rkt](https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd) | 2:00 |
 | 12 | [La Chispa Es Una](https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [La Chispa Es Una](https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr) | 2:51 |
 | 13 | [DOBLE P \| DJ TAO Turreo Sessions \#21](https://open.spotify.com/track/4dWzA1JJ0QOTUNBrYv8K9N) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036) | [DOBLE P \| DJ TAO Turreo Sessions \#21](https://open.spotify.com/album/7gCrEPu4QmI8SNV5D0sdtU) | 1:53 |
-| 14 | [Ubicación 7 \- Los Wachos Crecen](https://open.spotify.com/track/6i4rGY3NxSB2BD4Z53FGBy) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [Ubicación 7 \- Los Wachos Crecen](https://open.spotify.com/album/7vmoIFoXGXmZaDwUaeKvZX) | 2:41 |
+| 14 | [Ubicación 7 \- Los Wachos Crecen](https://open.spotify.com/track/6i4rGY3NxSB2BD4Z53FGBy) | [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Gonzalo Nawel](https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5) | [Ubicación 7 \- Los Wachos Crecen](https://open.spotify.com/album/7vmoIFoXGXmZaDwUaeKvZX) | 2:42 |
 | 15 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 |
 | 16 | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/track/08809bzGs69SfjOFdeyssu) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75) | [EL NEGRO TECLA \| Omar Algo Anda Mal \#9](https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY) | 2:28 |
 | 17 | [FIESTA PUNKY](https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Pereiraremix](https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0), [VERNAZ](https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57) | [FIESTA PUNKY](https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8) | 2:24 |

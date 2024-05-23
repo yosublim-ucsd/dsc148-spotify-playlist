@@ -1,6 +1,6 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5392,
+  "num_followers": 5400,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-05-09 15:37:57",
       "album": {
-        "name": "Could It Be",
-        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
-      },
-      "artists": [
-        {
-          "name": "YUQI",
-          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
-        }
-      ],
-      "duration_ms": 189786,
-      "name": "Could It Be",
-      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
-    },
-    {
-      "added_at": "2024-05-09 15:37:57",
-      "album": {
         "name": "Still Life",
         "url": "https://open.spotify.com/album/2oCAY48bhZvQte0l7apmYC"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 188369,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/3TSLqZssCoCdDlMhCJ08XW"
+    },
+    {
+      "added_at": "2024-05-09 15:37:57",
+      "album": {
+        "name": "Could It Be",
+        "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "duration_ms": 189786,
+      "name": "Could It Be",
+      "url": "https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8"
     },
     {
       "added_at": "2024-05-09 15:37:57",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-09 15:37:57",
       "album": {
-        "name": "GOMAK BOYS",
-        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
-      },
-      "artists": [
-        {
-          "name": "GOMAK BOYS",
-          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
-    },
-    {
-      "added_at": "2024-05-09 15:37:57",
-      "album": {
         "name": "LOVE or TAKE",
         "url": "https://open.spotify.com/album/5iu1d69dqEo9UaKpZDYoIV"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 191906,
       "name": "Baby I Love You",
       "url": "https://open.spotify.com/track/6QK081MDKmHExMa1zmCC1S"
+    },
+    {
+      "added_at": "2024-05-09 15:37:57",
+      "album": {
+        "name": "GOMAK BOYS",
+        "url": "https://open.spotify.com/album/2AvUSHJRehVLcanWAJFzM9"
+      },
+      "artists": [
+        {
+          "name": "GOMAK BOYS",
+          "url": "https://open.spotify.com/artist/3Xm9SBZmNxPOUbHcdvaTeT"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/6l7uDfH7H3BDLH08rFX79a"
     },
     {
       "added_at": "2024-05-09 15:37:57",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-05-09 15:37:57",
       "album": {
-        "name": "HESITATING",
-        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
-      },
-      "artists": [
-        {
-          "name": "h3hyeon",
-          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
-        },
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178706,
-      "name": "JUST RIGHT (feat. SOLE)",
-      "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
-    },
-    {
-      "added_at": "2024-05-09 15:37:57",
-      "album": {
         "name": "Me and U",
         "url": "https://open.spotify.com/album/0cJCVdokJ6fahSURKcZWm6"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 173373,
       "name": "By Your Side (feat. Ashley Alisha)",
       "url": "https://open.spotify.com/track/1cBbrsza3fkHgtE6F16aQv"
+    },
+    {
+      "added_at": "2024-05-09 15:37:57",
+      "album": {
+        "name": "HESITATING",
+        "url": "https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz"
+      },
+      "artists": [
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        },
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178706,
+      "name": "JUST RIGHT (feat. SOLE)",
+      "url": "https://open.spotify.com/track/6wevHkyjRNc6B92Mt4mHaC"
     },
     {
       "added_at": "2024-05-09 15:37:57",

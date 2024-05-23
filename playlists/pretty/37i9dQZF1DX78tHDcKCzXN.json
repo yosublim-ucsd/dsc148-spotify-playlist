@@ -1,13 +1,29 @@
 {
   "description": "To the world, this is NCT! This is NCT 127! ",
-  "num_followers": 223189,
+  "num_followers": 223230,
   "original_name": "This Is NCT 127",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZYaF9wAAAABv7jzHGqvsr4X6VOt2QMVo",
+  "snapshot_id": "Zk4IcAAAAACQ4aO6N4wRjLsBF8T7iPXp",
   "tracks": [
+    {
+      "added_at": "2024-05-22 15:00:00",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/5URzZroiLUZhdMOwq6KsRk"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "duration_ms": 193946,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/4qeRAXlNZ03SYvoXJNs2v2"
+    },
     {
       "added_at": "2023-12-23 07:02:15",
       "album": {

@@ -970,7 +970,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 189771,
       "name": "Continental",
       "url": "https://open.spotify.com/track/1QtiYtQqGXBl6yypWy58C9"
@@ -2800,6 +2800,24 @@
       "duration_ms": 268405,
       "name": "La Barda",
       "url": "https://open.spotify.com/track/0pi1spZ3Upm2gXb1OVDq5y"
+    },
+    {
+      "album": {
+        "name": "La Guagua",
+        "url": "https://open.spotify.com/album/4qcYprsGD3dG5PZvjh33y4"
+      },
+      "artists": [
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186590,
+      "name": "La Guagua",
+      "url": "https://open.spotify.com/track/2RHMD7tOoCtiVh5gS4IOlc"
     },
     {
       "album": {

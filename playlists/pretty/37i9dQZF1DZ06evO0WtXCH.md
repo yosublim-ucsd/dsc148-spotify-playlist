@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 ### [This Is Quicksand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WtXCH)
 
-> This is Quicksand\. Todos os maiores hits em uma só playlist.
+> This is Quicksand\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 1,032 likes - 28 songs - 1 hr 21 min
 
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 27 | [Felíz](https://open.spotify.com/track/0FuxK5rKSaHq58svnOaO73) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Felíz](https://open.spotify.com/album/1AuXDucHakfrZb2EqrdfeL) | 2:47 |
 | 28 | [Clean Slate](https://open.spotify.com/track/5b3GgYZdWKFyAjYBosWdqI) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Quicksand](https://open.spotify.com/album/1sGzf87xjiWHd2vyA3gD1S) | 2:49 |
 
-Snapshot ID: `ZkqSgAAAAADxCndrGl0jggnu19QQPT6r`
+Snapshot ID: `ZkqSgAAAAAAuOIxwb3COfwM8Q9Ub0ZNw`

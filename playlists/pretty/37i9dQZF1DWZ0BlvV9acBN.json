@@ -1,6 +1,6 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Oficina G3",
-  "num_followers": 136568,
+  "num_followers": 136603,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-05-10 03:01:00",
       "album": {
+        "name": "Cordeiro e Le\u00e3o",
+        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 236295,
+      "name": "Cordeiro e Le\u00e3o",
+      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
+    },
+    {
+      "added_at": "2024-05-10 03:01:00",
+      "album": {
         "name": "1000 Graus",
         "url": "https://open.spotify.com/album/1YNEyzlJYU2QCcYbkQNXIB"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 168866,
       "name": "1000 Graus",
       "url": "https://open.spotify.com/track/0eAq2bA89nCxLTDBt9T1b0"
-    },
-    {
-      "added_at": "2024-05-10 03:01:00",
-      "album": {
-        "name": "Cordeiro e Le\u00e3o",
-        "url": "https://open.spotify.com/album/5OrnFeXMXvUvhw2bvFbpFI"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 236295,
-      "name": "Cordeiro e Le\u00e3o",
-      "url": "https://open.spotify.com/track/0l7lyBcrTSSwBgu1AJ5ktC"
     },
     {
       "added_at": "2024-05-10 03:01:00",

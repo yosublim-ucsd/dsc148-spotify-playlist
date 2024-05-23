@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 菲道爾 \(Firdhaus\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,496 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 464,615 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 49 | [鮮花 \- 现场](https://open.spotify.com/track/0nCoNIXHnbQdHWex9eua90) | [回春丹](https://open.spotify.com/artist/49x8WCVjNPZNepo3NmeMEi) | [樂隊的夏天3 第9期](https://open.spotify.com/album/58CnNgWRvqfawXazaSyZJv) | 7:45 |
 | 50 | [SEX TAPE](https://open.spotify.com/track/4HLYZKtAd0hUYVpe8NywZr) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [SEX TAPE](https://open.spotify.com/album/2bp9B0z5G4Jsu7pcb1Ko1R) | 4:15 |
 
-Snapshot ID: `ZktoTwAAAADW+QZ1Tfu32ZxvMXM7NLom`
+Snapshot ID: `Zk3QMAAAAAARZgCf53cVa5k5gv08+SZw`

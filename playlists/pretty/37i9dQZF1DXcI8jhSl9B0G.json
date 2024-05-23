@@ -1,6 +1,6 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 75231,
+  "num_followers": 75228,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "In Our Own Sweet Time",
-        "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
+        "name": "Feel Like Clarity",
+        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Gaudion",
+          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
         }
       ],
-      "duration_ms": 204573,
-      "name": "Every Side Of You",
-      "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
+      "duration_ms": 188004,
+      "name": "Feel Like Clarity",
+      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Feel Like Clarity",
-        "url": "https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk"
+        "name": "In Our Own Sweet Time",
+        "url": "https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK"
       },
       "artists": [
         {
-          "name": "Gaudion",
-          "url": "https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 188004,
-      "name": "Feel Like Clarity",
-      "url": "https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb"
+      "duration_ms": 204573,
+      "name": "Every Side Of You",
+      "url": "https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Smile At The Party",
-        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
-      },
-      "artists": [
-        {
-          "name": "The Happiest Kind of Sad",
-          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
-        }
-      ],
-      "duration_ms": 266709,
-      "name": "Smile At The Party",
-      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "She Came Back with Rainbows",
         "url": "https://open.spotify.com/album/44bjrm9iSwHwsORmWkfyiO"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 230189,
       "name": "She Came Back with Rainbows",
       "url": "https://open.spotify.com/track/50ky5cRasDDFdra1ZouJ09"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Smile At The Party",
+        "url": "https://open.spotify.com/album/4zCDxfU1VLsXp8mCRTlBO7"
+      },
+      "artists": [
+        {
+          "name": "The Happiest Kind of Sad",
+          "url": "https://open.spotify.com/artist/6Pv3lH3WAj3SC3a5ansh6q"
+        }
+      ],
+      "duration_ms": 266709,
+      "name": "Smile At The Party",
+      "url": "https://open.spotify.com/track/3cMd8PtCloqArDY3drMqq8"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Oh My Girl",
         "url": "https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 168393,
       "name": "Oh My Girl",
       "url": "https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt"
     },
     {
       "added_at": "2023-11-30 13:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
+        "name": "At the Roadhouse",
+        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
+      },
+      "artists": [
+        {
+          "name": "The Paper Kites",
+          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
+        }
+      ],
+      "duration_ms": 223560,
+      "name": "Midnight Moon",
+      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
         "name": "Still Care (feat. NASAYA)",
         "url": "https://open.spotify.com/album/6M2fIu2ezYUwMBLCI4C2vM"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "At the Roadhouse",
-        "url": "https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu"
-      },
-      "artists": [
-        {
-          "name": "The Paper Kites",
-          "url": "https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Midnight Moon",
-      "url": "https://open.spotify.com/track/3w56FHzu728d0WHnoG6yr1"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-11-30 13:00:00",
       "album": {
-        "name": "Dawn Sounds",
-        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
-      },
-      "artists": [
-        {
-          "name": "Kim Churchill",
-          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
-        }
-      ],
-      "duration_ms": 199207,
-      "name": "Go, Try, Fall",
-      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
-    },
-    {
-      "added_at": "2023-11-30 13:00:00",
-      "album": {
         "name": "Love Is So Easy",
         "url": "https://open.spotify.com/album/6GjF0VIRKqm7DiCdTCHMVC"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 176000,
       "name": "Love Is So Easy",
       "url": "https://open.spotify.com/track/2PaUug2coERAmmnhwtQXw0"
+    },
+    {
+      "added_at": "2023-11-30 13:00:00",
+      "album": {
+        "name": "Dawn Sounds",
+        "url": "https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2"
+      },
+      "artists": [
+        {
+          "name": "Kim Churchill",
+          "url": "https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho"
+        }
+      ],
+      "duration_ms": 199207,
+      "name": "Go, Try, Fall",
+      "url": "https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0"
     },
     {
       "added_at": "2023-11-30 13:00:00",

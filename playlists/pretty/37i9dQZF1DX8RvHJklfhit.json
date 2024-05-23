@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Latin Indie classics.",
-  "num_followers": 178188,
+  "num_followers": 178206,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Al Chile",
-        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Clandestino",
-      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "Regresa",
         "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 253984,
       "name": "Nydia",
       "url": "https://open.spotify.com/track/7ukQ49ilGpTfivGRtYda4E"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Al Chile",
+        "url": "https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Clandestino",
+      "url": "https://open.spotify.com/track/2FhtfyGL4UavFTJbjomXNF"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "NTE",
-        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
         "name": "The Future Sugar",
         "url": "https://open.spotify.com/album/3JFTJTZLNG2B0ZJpxcUBOt"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 210000,
       "name": "Alexander",
       "url": "https://open.spotify.com/track/5udE6XUnhzUvoC80bsYEMR"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "NTE",
+        "url": "https://open.spotify.com/album/7iTTVfzk46Vk4NFaJLksLu"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/48P1N8CkOMbdaOLZgwDo4x"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Drooling",
-        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
+        "name": "Month One",
+        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
       },
       "artists": [
         {
-          "name": "Rey Pila",
-          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
+          "name": "The Acapulco Express",
+          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
         }
       ],
-      "duration_ms": 219794,
-      "name": "Drooling",
-      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
+      "duration_ms": 310090,
+      "name": "Week 4",
+      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1151,18 +1151,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Month One",
-        "url": "https://open.spotify.com/album/76wb7lJiY2I3doiGroK4YE"
+        "name": "Drooling",
+        "url": "https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu"
       },
       "artists": [
         {
-          "name": "The Acapulco Express",
-          "url": "https://open.spotify.com/artist/398DySP5d4MCX9UJFkng6N"
+          "name": "Rey Pila",
+          "url": "https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW"
         }
       ],
-      "duration_ms": 310090,
-      "name": "Week 4",
-      "url": "https://open.spotify.com/track/1FP5gWiRMjw3vfvvbf241v"
+      "duration_ms": 219794,
+      "name": "Drooling",
+      "url": "https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Nena <3",
-        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
+        "name": "Hate My Face",
+        "url": "https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ"
       },
       "artists": [
         {
-          "name": "Julienne Ramos",
-          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 193149,
-      "name": "Nena <3",
-      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
+      "duration_ms": 181173,
+      "name": "Hate My Face",
+      "url": "https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Hate My Face",
-        "url": "https://open.spotify.com/album/2UUBmbPIewpO7axHpYeScJ"
+        "name": "Nena <3",
+        "url": "https://open.spotify.com/album/5C3T3vpziN6iA4o2SkPjHY"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Julienne Ramos",
+          "url": "https://open.spotify.com/artist/6pvopC9Vu2mV6rYsXxxnTg"
         }
       ],
-      "duration_ms": 181173,
-      "name": "Hate My Face",
-      "url": "https://open.spotify.com/track/7h631DjBj4j7aFMFwEA7ma"
+      "duration_ms": 193149,
+      "name": "Nena <3",
+      "url": "https://open.spotify.com/track/1Ss6kJu8otX3v4yV5fBuq2"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW"
+        "name": "Someone To Spend Time With",
+        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
       },
       "artists": [
         {
-          "name": "Inner Wave",
-          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+          "name": "Los Retros",
+          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
         }
       ],
-      "duration_ms": 170000,
-      "name": "American Spirits",
-      "url": "https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS"
+      "duration_ms": 173953,
+      "name": "Someone To Spend Time With",
+      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1523,6 +1523,22 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2C3iXsSSv1K73fxClTDgEW"
+      },
+      "artists": [
+        {
+          "name": "Inner Wave",
+          "url": "https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "American Spirits",
+      "url": "https://open.spotify.com/track/01w1oN1WO5aOThHnLBN8eS"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1563,6 +1579,38 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
+        "name": "Mira Lo Que Me Hiciste Hacer",
+        "url": "https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe"
+      },
+      "artists": [
+        {
+          "name": "Diamante El\u00e9ctrico",
+          "url": "https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo"
+        }
+      ],
+      "duration_ms": 228543,
+      "name": "Su\u00e9ltame, Bogot\u00e1",
+      "url": "https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/1nETLIyhtk8GjuqyfOt1G7"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/6BXHCHzw706smnLQdCIDUy"
+    },
+    {
+      "added_at": "2023-10-12 20:02:07",
+      "album": {
         "name": "Si T\u00fa Supieras",
         "url": "https://open.spotify.com/album/6CRpj51c1A3Pbx05JsKGPt"
       },
@@ -1575,54 +1623,6 @@
       "duration_ms": 190926,
       "name": "Si T\u00fa Supieras",
       "url": "https://open.spotify.com/track/5UbZkag2EpEKQugkdrUluj"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Daikiri",
-        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 237652,
-      "name": "Daikiri",
-      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "Unbothered",
-        "url": "https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 124954,
-      "name": "Unbothered",
-      "url": "https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W"
-    },
-    {
-      "added_at": "2023-10-12 20:02:07",
-      "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/4SsEredFwBsSDyu6tF8cCg"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "V\u00e1monos de Viaje",
-      "url": "https://open.spotify.com/track/2aoaTP39LTDPGHxSKj9OW5"
     },
     {
       "added_at": "2023-10-12 20:02:07",
@@ -1643,34 +1643,34 @@
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Someone To Spend Time With",
-        "url": "https://open.spotify.com/album/7MNOeNJ9RJgDJ2EPEbsIRv"
+        "name": "Daikiri",
+        "url": "https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C"
       },
       "artists": [
         {
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
         }
       ],
-      "duration_ms": 173953,
-      "name": "Someone To Spend Time With",
-      "url": "https://open.spotify.com/track/0qQ9VcVPkWDTnff6HIhISU"
+      "duration_ms": 237652,
+      "name": "Daikiri",
+      "url": "https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O"
     },
     {
       "added_at": "2023-10-12 20:02:07",
       "album": {
-        "name": "Colores Paganos",
-        "url": "https://open.spotify.com/album/4vnX5IssItnysn23jh72Wj"
+        "name": "BACH",
+        "url": "https://open.spotify.com/album/4SsEredFwBsSDyu6tF8cCg"
       },
       "artists": [
         {
-          "name": "TOURISTA",
-          "url": "https://open.spotify.com/artist/5gOlm0kBmadY4qgw4UssxM"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 204585,
-      "name": "Explotar Contigo",
-      "url": "https://open.spotify.com/track/20ErAhgNBROUWr8GM4q47f"
+      "duration_ms": 235866,
+      "name": "V\u00e1monos de Viaje",
+      "url": "https://open.spotify.com/track/2aoaTP39LTDPGHxSKj9OW5"
     }
   ],
   "unique_name": "Latin Indie Classics",

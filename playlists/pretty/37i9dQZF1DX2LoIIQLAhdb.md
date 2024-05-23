@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Leila AD
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,983 likes - 39 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,025 likes - 39 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 38 | [Malsaine](https://open.spotify.com/track/3m5x9wW6Aj03rAY1bEgR9v) | [IPNDEGO](https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj) | [Malsaine](https://open.spotify.com/album/6JxRMFBzS1Ls0jigCEqY2w) | 3:08 |
 | 39 | [Faire sans](https://open.spotify.com/track/3E0KhzsFwvaUeJeMpCIudk) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Faire sans](https://open.spotify.com/album/3X4u5L4fmzr4q6gxGUm4vj) | 2:07 |
 
-Snapshot ID: `ZkaK8wAAAABcQvkG47A+vSHA3J1JOwpv`
+Snapshot ID: `Zk3QMAAAAAB++JKiBA+3tCpBD2Ou/yBG`

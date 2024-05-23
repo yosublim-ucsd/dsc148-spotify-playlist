@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> DA Uzi au top de la première playlist de rap français.
+> DA Uzi au top de la première playlist de rap français !
 
 250 songs - 12 hr 50 min
 

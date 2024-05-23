@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Durand Bernarr
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,439 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,520 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
+| 1 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 2 | [Smoke and Mirrors](https://open.spotify.com/track/1WUwrMCXTFxuOdxf3ltVVN) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Smoke and Mirrors](https://open.spotify.com/album/3PJV7f6A5BtV8eiYCSZdJH) | 3:19 |
 | 3 | [Lola](https://open.spotify.com/track/5wncqbdGEyrmowwIGddZCs) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [Lola](https://open.spotify.com/album/2eMcFHmOIAepZqmlt15wOY) | 3:32 |
 | 4 | [Queen](https://open.spotify.com/track/0t6qpXXwi9Mev4m2DaYr0D) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Queen](https://open.spotify.com/album/3XR8FN0cFnpi1A8wUKjirn) | 4:42 |

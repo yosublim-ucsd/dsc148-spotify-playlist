@@ -1028,7 +1028,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 151624,
       "name": "Before You Go",
       "url": "https://open.spotify.com/track/10DoO2uACXfXrRvlqSTHTW"
@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "Douce \u00c8meraude",
+        "url": "https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Douce \u00c8meraude",
+      "url": "https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX"
+    },
+    {
+      "album": {
         "name": "Down The Line",
         "url": "https://open.spotify.com/album/5dx9rLR3Lqfx8zh6XWklKw"
       },
@@ -2540,7 +2558,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 138500,
       "name": "Eternal Light",
       "url": "https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg"
@@ -4795,6 +4813,24 @@
     },
     {
       "album": {
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154507,
+      "name": "Longitude",
+      "url": "https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9"
+    },
+    {
+      "album": {
         "name": "Look to the Sea",
         "url": "https://open.spotify.com/album/5krugfl1J2zSBZG7R2zNy5"
       },
@@ -4842,7 +4878,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 179874,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO"
@@ -6154,7 +6190,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 154625,
       "name": "Num\u00e9ro 1",
       "url": "https://open.spotify.com/track/4Q4LaLRedI0F02XS2lsYkP"
@@ -8682,7 +8718,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 132681,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
@@ -10656,7 +10692,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 130500,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"

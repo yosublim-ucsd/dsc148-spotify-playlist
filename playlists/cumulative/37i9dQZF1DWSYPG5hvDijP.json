@@ -260,7 +260,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 121142,
       "name": "AAT",
       "url": "https://open.spotify.com/track/4RXRgE3ShaYBrFxy2q0OkK"
@@ -1042,7 +1042,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 173114,
       "name": "BROKE FLEX (feat. AHSAN & Ab 17)",
       "url": "https://open.spotify.com/track/4sOEWzDRzVdZaTvVc3T7dO"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 151670,
       "name": "DL9CAP",
       "url": "https://open.spotify.com/track/2RpFBnDA4cJ3Wixzg1n3qQ"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 146866,
       "name": "Doon",
       "url": "https://open.spotify.com/track/6nthwAxdXDMU0LczZ5FUFd"
@@ -2126,6 +2126,42 @@
       "duration_ms": 170400,
       "name": "GANGNUM",
       "url": "https://open.spotify.com/track/5jjF4AbQaA7mTZyGjK5aLo"
+    },
+    {
+      "album": {
+        "name": "Gangster Shit 1st",
+        "url": "https://open.spotify.com/album/2EASVa2mSXZs7KERC2D8zp"
+      },
+      "artists": [
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321410,
+      "name": "Gangster Shit 1st",
+      "url": "https://open.spotify.com/track/78WyKftS4YtbhbnQGwAMMi"
+    },
+    {
+      "album": {
+        "name": "Gardan Pe",
+        "url": "https://open.spotify.com/album/5LTMMbrkGD4ai6MkYMXi3L"
+      },
+      "artists": [
+        {
+          "name": "Hitzone",
+          "url": "https://open.spotify.com/artist/0mtJ84Ykk72kP5NvC14s6V"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Gardan Pe",
+      "url": "https://open.spotify.com/track/4PVTwQqET48kzzI8SJTLIO"
     },
     {
       "album": {
@@ -2743,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Independent",
+        "url": "https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220746,
+      "name": "Independent",
+      "url": "https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE"
+    },
+    {
+      "album": {
         "name": "Industry Galat",
         "url": "https://open.spotify.com/album/4jM5gTMAaDkaFtgGyOcnmP"
       },
@@ -3010,6 +3064,24 @@
       "duration_ms": 314650,
       "name": "Judgement",
       "url": "https://open.spotify.com/track/4XoECpd0nkk9OSLUIEOi1i"
+    },
+    {
+      "album": {
+        "name": "Kaala Teeka",
+        "url": "https://open.spotify.com/album/0Hy9vV9UuBV1uDy14zG76n"
+      },
+      "artists": [
+        {
+          "name": "Dizlaw",
+          "url": "https://open.spotify.com/artist/1UCR3l3JEC7O3XMS5I8dUU"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171400,
+      "name": "Kaala Teeka",
+      "url": "https://open.spotify.com/track/6GDEzYzHX4DcmQdR2njtC5"
     },
     {
       "album": {
@@ -5345,6 +5417,28 @@
     },
     {
       "album": {
+        "name": "Tera Hua",
+        "url": "https://open.spotify.com/album/6erT6iguLk3iop4nykkHgC"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135862,
+      "name": "Tera Hua",
+      "url": "https://open.spotify.com/track/2ZVW5S2D4MR6EJO08qInbo"
+    },
+    {
+      "album": {
         "name": "THAPPAD!",
         "url": "https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0"
       },
@@ -5800,7 +5894,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 161968,
       "name": "WHAT CAN I SAY?",
       "url": "https://open.spotify.com/track/0r9Gq7KS7AinpipgbXHaxJ"

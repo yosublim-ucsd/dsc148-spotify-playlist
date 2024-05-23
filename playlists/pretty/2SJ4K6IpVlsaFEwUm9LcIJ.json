@@ -1,12 +1,12 @@
 {
   "description": "what i&#x27;m listening to: may-june 2024 (previous playlists archived on my profile)",
-  "num_followers": 19548,
+  "num_followers": 19543,
   "original_name": "impressive\u2026 but true!",
   "owner": {
     "name": "margeaux",
     "url": "https://open.spotify.com/user/1220511975"
   },
-  "snapshot_id": "AAAKaKc/XdQEsex8a5pYdZ/TcELFMj+8",
+  "snapshot_id": "AAAKam+bG5vgIiR1QaomgyQuZ8/fRynA",
   "tracks": [
     {
       "added_at": "2024-05-16 01:01:16",
@@ -347,6 +347,42 @@
       "duration_ms": 164000,
       "name": "Boy With the Bright Eyes",
       "url": "https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE"
+    },
+    {
+      "added_at": "2024-05-22 16:45:04",
+      "album": {
+        "name": "Calm Before...",
+        "url": "https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ"
+      },
+      "artists": [
+        {
+          "name": "The Rising Storm",
+          "url": "https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG"
+        }
+      ],
+      "duration_ms": 151026,
+      "name": "Bright Lit Blue Skies",
+      "url": "https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s"
+    },
+    {
+      "added_at": "2024-05-22 23:51:07",
+      "album": {
+        "name": "Becker and Fagen - The Early Years",
+        "url": "https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu"
+      },
+      "artists": [
+        {
+          "name": "Walter Becker",
+          "url": "https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX"
+        },
+        {
+          "name": "Donald Fagen",
+          "url": "https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "You Go Where I Go",
+      "url": "https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya"
     }
   ],
   "unique_name": "impressive\u2026 but true!",

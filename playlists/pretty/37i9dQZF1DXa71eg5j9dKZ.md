@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Jasper Tygner
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,246 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,258 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 99 | [Discotheque](https://open.spotify.com/track/1yRhh10n3BaaLCqGqanViI) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Discotheque](https://open.spotify.com/album/12XCd9YPgSOFOsCzw2PW04) | 6:45 |
 | 100 | [Deewana Deewana](https://open.spotify.com/track/58daZksNVvIO6X9977fAo7) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Deewana Deewana](https://open.spotify.com/album/4qULPYu7nqpBLcJMoEUYAY) | 5:42 |
 
-Snapshot ID: `ZkaePAAAAADK6rWu35gEb1agLv3Ofd/A`
+Snapshot ID: `Zk3eQAAAAAAjPgnLFriFivJRicqWeVoH`

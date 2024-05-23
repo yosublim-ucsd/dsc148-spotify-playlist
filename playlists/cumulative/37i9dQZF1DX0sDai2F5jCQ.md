@@ -4,7 +4,7 @@
 
 > Hip\-Hop's hottest from Australia, New Zealand and beyond\. Cover: Ice Spice
 
-265 songs - 13 hr 15 min
+266 songs - 13 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [All Three Eyes](https://open.spotify.com/track/5ZYLuWpHYXDx5NYj21nHrd) | [Vida Sunshyne](https://open.spotify.com/artist/4HmDdowCSXsHMjXtbKS4FZ) | [All Three Eyes](https://open.spotify.com/album/7eLKNmCLp1dG8Mo11pW3Oi) | 2:32 | 2023-09-22 | 2023-10-13 |
 | [And We](https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl) | [Hooligan Hefs](https://open.spotify.com/artist/1VXE1xqGNlT9HG6TcjpQ9I) | [And We](https://open.spotify.com/album/1LsthOymdj0WByKPShsB3W) | 2:41 | 2023-09-22 | 2024-03-08 |
 | [Attention](https://open.spotify.com/track/6FarFRn9u25aqc6sr2axuO) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Attention](https://open.spotify.com/album/4WdTj6XgugduzjfhFcI5Ew) | 1:47 | 2024-03-14 | 2024-05-10 |
+| [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Attitude \(feat\. Charlie Wilson & Cash Cobain\)](https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY) | 2:41 | 2024-05-23 |  |
 | [Avalanche](https://open.spotify.com/track/6NTZCq7P6aZRbP6KpJTIvw) | [JK\-47](https://open.spotify.com/artist/1MS6lYWuDWugNbdDhzEHvF), [Jay Orient](https://open.spotify.com/artist/7bgViO0G1B9CmxmNovYasB), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Avalanche](https://open.spotify.com/album/3uyRVYklYijNZbk5wgfsEr) | 2:36 | 2023-09-28 | 2023-11-17 |
 | [Bacardi Papi](https://open.spotify.com/track/2EyiuaItL3x16qi1zzEbzn) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi), [Kelman Duran](https://open.spotify.com/artist/6PIl48ctj6HDmqVM2uIikd) | [Bacardi Papi](https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK) | 3:23 | 2023-11-30 | 2024-02-23 |
 | [Back to Back](https://open.spotify.com/track/1IdyeqRZL64acaATS8sK2m) | [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Back to Back](https://open.spotify.com/album/5a53nDA0g6X0w2jV8xsNh0) | 2:48 | 2024-03-07 |  |

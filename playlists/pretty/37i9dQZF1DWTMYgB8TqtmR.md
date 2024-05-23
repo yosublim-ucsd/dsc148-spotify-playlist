@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain](/playlists/plain/37i9dQZF1DWTMYgB8TqtmR) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWTMYgB8TqtmR)
 
-### [It's Hits Sweden](https://open.spotify.com/playlist/37i9dQZF1DWTMYgB8TqtmR)
+### [Hot Hits Sweden](https://open.spotify.com/playlist/37i9dQZF1DWTMYgB8TqtmR)
 
-> It's Hits – största och bästa hitsen just nu!
+> Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,986 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,422 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [PERSON I NÖDEN](https://open.spotify.com/track/0n2qnn5LOpxXNeTyj7YDYK) | [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [PERSON I NÖDEN](https://open.spotify.com/album/4UmXu9AfcluB1B2UvrmbSd) | 2:20 |
 | 50 | [Lose Control](https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Lose Control](https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX) | 3:30 |
 
-Snapshot ID: `ZksaQQAAAAAKa4oEqnKEIpTEoR+SwA5W`
+Snapshot ID: `Zk3QMAAAAADMLOSi//T0TGU5mHKIftoj`

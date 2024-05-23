@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. static dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,712 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 697,749 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Doomsday Blue](https://open.spotify.com/track/7qiEoVlFjb3KaytT2zgK1g) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Cathexis](https://open.spotify.com/album/70IfQDr5WnlqwK2Cb0tvco) | 3:03 |
 | 2 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 |
-| 3 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
-| 4 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 |
+| 3 | [snakelike \(the stars collide\)](https://open.spotify.com/track/6CTdEvRD18xnL8qIumOaSU) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV) | [snakelike \(the stars collide\)](https://open.spotify.com/album/3pDUMX2cDvZOSDRvNgnjBx) | 2:43 |
+| 4 | [It's Supposed To Hurt](https://open.spotify.com/track/0nPWNzcryh5oyJA5uZaepT) | [House of Protection](https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA) | [It's Supposed To Hurt](https://open.spotify.com/album/0dc1Zy69cvE8jnt1apdrLE) | 3:32 |
 | 5 | [Over It](https://open.spotify.com/track/0eArfQGTTeqPmBuj1Z58cv) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Over It](https://open.spotify.com/album/52XmcASMvRBkCTuFIPxwPi) | 2:04 |
 | 6 | [City of Angels](https://open.spotify.com/track/6FvI7R1y1OX5xjfDc2ed5n) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [City of Angels](https://open.spotify.com/album/1gkhkwllwZOHYtGKj9T0af) | 2:12 |
 | 7 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [Psychopath](https://open.spotify.com/track/134Enu11pXxLWWPwadoq2f) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Psychopath](https://open.spotify.com/album/5FfQVGAscDySGRgP799p4Y) | 3:00 |
 | 85 | [dance baby dance](https://open.spotify.com/track/3OBZmOr9ykJFUQAChoFeFQ) | [hackedface](https://open.spotify.com/artist/4GIyZ8aBc3t04EYYp2zb4v), [Sick Solution](https://open.spotify.com/artist/5I8Ea6B50cE6NR6HL6BHa6), [0%Mercury](https://open.spotify.com/artist/4DxusQrhwkEDAg0iznFfEB) | [dance baby dance](https://open.spotify.com/album/7MX1LRDVjxjJC64gU77paP) | 2:28 |
 
-Snapshot ID: `Zk0ncAAAAAAIUw1PQS7Xe686hAP6Tnj9`
+Snapshot ID: `Zk3QMAAAAACzGa4IZ9pjNFVq2SuZEBUz`

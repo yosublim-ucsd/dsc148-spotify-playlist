@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 
 > El Dembow que está subiendo\. Foto: Bb trickz y Kevin AMF
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,904 likes - 80 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,115 likes - 80 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU3iv5mH3inV.md) - [plain]
 | 13 | [Entone](https://open.spotify.com/track/5dkVCKoLV0uR1ihoPCXgKN) | [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Entone](https://open.spotify.com/album/6OoM9afwahIrEG2N3LNJAB) | 1:42 |
 | 14 | [Me Arregle \- El loco](https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [Me Arregle \(El loco\)](https://open.spotify.com/album/3s231XSay5ko3W5psvQhrW) | 2:49 |
 | 15 | [Bagazo](https://open.spotify.com/track/4BpdzdVk4o33Xn6nMObhxD) | [D´Flow Aka La Maldad](https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG), [Yomel El Meloso](https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul), [Mapa Negro](https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO) | [Bagazo](https://open.spotify.com/album/1ybINUxdQVisgZvO5MUwnP) | 2:22 |
-| 16 | [Ma Buena](https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Ma Buena](https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6) | 2:32 |
+| 16 | [Ma Buena](https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Ma Buena](https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6) | 2:32 |
 | 17 | [El Te Dio](https://open.spotify.com/track/74E2L10UCNdtKbm3Ykecds) | [Yoan Retro](https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi), [OG DETRUYELO](https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli), [Papera](https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW) | [El Te Dio](https://open.spotify.com/album/1p8qr1mwJbHFJlWXk51Xzs) | 2:17 |
 | 18 | [Bailar](https://open.spotify.com/track/2DuBOUMZMowLdngW9tbLBx) | [El Mayor Clasico](https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Bailar](https://open.spotify.com/album/0WeZGkKjUfmY0QgSqUaZL9) | 2:31 |
 | 19 | [Lo Leo](https://open.spotify.com/track/6HC8YpEQBTX9jUYNtztymL) | [EL YALA](https://open.spotify.com/artist/1I3kOJZqxQso79tnP71dwU), [Ricko](https://open.spotify.com/artist/6iMwEtMtogBXXnBUOowaIj), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Lo Leo](https://open.spotify.com/album/5r2vagQRqvu11rnr8XMppq) | 2:29 |

@@ -4015,6 +4015,32 @@
     },
     {
       "album": {
+        "name": "MTG QUEM N\u00c3O QUER SOU EU",
+        "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
+      },
+      "artists": [
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        },
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123692,
+      "name": "MTG QUEM N\u00c3O QUER SOU EU",
+      "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
+    },
+    {
+      "album": {
         "name": "Mtg Quero Te Encontrar",
         "url": "https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh"
       },

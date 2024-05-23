@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Eden Rain\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,037 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,109 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 99 | [Love Of Our Lives](https://open.spotify.com/track/7BSPpvHoymTt25QXcAZfPV) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [Love Of Our Lives](https://open.spotify.com/album/4Q6WNOy4kfwwYIZwIY5CZt) | 3:01 |
 | 100 | [Life Is Beautiful](https://open.spotify.com/track/5ewEVlYzIYW1Jpc6jVntJP) | [YXUNGTARZAAN](https://open.spotify.com/artist/3GmCKqbtFV0PPRbQV3QfKb) | [Life Is Beautiful](https://open.spotify.com/album/6pWLW9FyisHf9H5bEYtaq9) | 2:40 |
 
-Snapshot ID: `Zk0ncAAAAABRpQwjAQEFbsPfrFPQfX9J`
+Snapshot ID: `Zk3QMAAAAAAJHel34dZ1S/NxBw08E9XC`

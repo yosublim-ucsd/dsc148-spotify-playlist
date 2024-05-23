@@ -1,12 +1,12 @@
 {
-  "description": "Turn this on, and relax to certified good chill indie and beyond. ",
-  "num_followers": 2465801,
+  "description": "Relax to certified good chill indie and beyond. ",
+  "num_followers": 2465739,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj5QwAAAAAARvyUuRbAkCbw4HzJjfwwy",
+  "snapshot_id": "Zk3QMAAAAACedtfcPaCYVGue9baGJDYk",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/7wnj1zRcZVlPNJ58shwl7h"
     },
     {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/6elmTOi3sOIcpmBNAGfbAV"
+      },
+      "artists": [
+        {
+          "name": "Flawed Mangoes",
+          "url": "https://open.spotify.com/artist/4MrQDA45Gd0llLrwFUzimG"
+        }
+      ],
+      "duration_ms": 201081,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/3htYFunt7YtsGChtMlHmkc"
+    },
+    {
       "added_at": "2024-01-12 17:00:46",
       "album": {
         "name": "effort in",
@@ -147,6 +163,22 @@
       "duration_ms": 188293,
       "name": "Life Is",
       "url": "https://open.spotify.com/track/4J2iXXCHLyyuRTS6rieF0t"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Quit Your Job, Runaway!",
+        "url": "https://open.spotify.com/album/6027fNILSRndfej1CldyP4"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 166039,
+      "name": "Quit Your Job, Runaway!",
+      "url": "https://open.spotify.com/track/1zeufW5l91Hj4WMaSDIkih"
     },
     {
       "added_at": "2024-05-10 16:52:01",
@@ -317,6 +349,22 @@
       "url": "https://open.spotify.com/track/5W3ut9fKvknIV1TCzUl2Lo"
     },
     {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 337565,
+      "name": "State of Mind",
+      "url": "https://open.spotify.com/track/09NiadAHVDJ3t8kCPgbkUW"
+    },
+    {
       "added_at": "2024-03-19 21:38:50",
       "album": {
         "name": "Excalibur / Toy",
@@ -451,38 +499,6 @@
       "duration_ms": 134616,
       "name": "Little Monk (feat. Karriem Riggins)",
       "url": "https://open.spotify.com/track/58G48t6eicC81u3W2OHFeq"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "summer flows 0.02",
-        "url": "https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/1acVBP8BcK6LTeNeFjfxnh"
-    },
-    {
-      "added_at": "2023-09-29 19:55:22",
-      "album": {
-        "name": "Bog Song",
-        "url": "https://open.spotify.com/album/2xLKqKxH6sfgeAUpR9cT1V"
-      },
-      "artists": [
-        {
-          "name": "Holy Wave",
-          "url": "https://open.spotify.com/artist/0Cx9SrMKbfrkHvnqJLHq6b"
-        }
-      ],
-      "duration_ms": 292768,
-      "name": "Bog Song",
-      "url": "https://open.spotify.com/track/6r3lH9rMcwCDdx2SgcGRiH"
     },
     {
       "added_at": "2024-03-19 21:38:50",

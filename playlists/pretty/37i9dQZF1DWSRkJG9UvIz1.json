@@ -1,6 +1,6 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 130839,
+  "num_followers": 130850,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Excelentes Lugares Bonitos",
-        "url": "https://open.spotify.com/album/1owWux16F84jwfPxHpds4w"
-      },
-      "artists": [
-        {
-          "name": "Beto Villares",
-          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
-        }
-      ],
-      "duration_ms": 206471,
-      "name": "Rio da Bossa Nova",
-      "url": "https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Bonita y Triste",
         "url": "https://open.spotify.com/album/6V58HtmEGLXzLohD7J4fOO"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 216745,
       "name": "Bonita y Triste",
       "url": "https://open.spotify.com/track/5eQ2eEO7mDnJlN8mtRaN6i"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Excelentes Lugares Bonitos",
+        "url": "https://open.spotify.com/album/1owWux16F84jwfPxHpds4w"
+      },
+      "artists": [
+        {
+          "name": "Beto Villares",
+          "url": "https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt"
+        }
+      ],
+      "duration_ms": 206471,
+      "name": "Rio da Bossa Nova",
+      "url": "https://open.spotify.com/track/5FjLOA14hdUgVqamAPvyVI"
     },
     {
       "added_at": "2023-06-23 03:00:00",

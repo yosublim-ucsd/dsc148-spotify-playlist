@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Alluvial",
+        "url": "https://open.spotify.com/album/7hGQkINy88oomqyYo4mWYX"
+      },
+      "artists": [
+        {
+          "name": "Cosmologica",
+          "url": "https://open.spotify.com/artist/3mtKH7qKSckjQ2tx3CaGCY"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218644,
+      "name": "Alluvial",
+      "url": "https://open.spotify.com/track/20DqGufkwM3Zy7l05GqtTO"
+    },
+    {
+      "album": {
         "name": "Along The Way",
         "url": "https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM"
       },
@@ -1233,6 +1251,24 @@
     },
     {
       "album": {
+        "name": "Centered",
+        "url": "https://open.spotify.com/album/4B8W32tfhj8fkNSa9N1hlx"
+      },
+      "artists": [
+        {
+          "name": "A\u00b4leroi",
+          "url": "https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166218,
+      "name": "Centered",
+      "url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n"
+    },
+    {
+      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -1352,7 +1388,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 144166,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT"
@@ -2653,6 +2689,24 @@
     },
     {
       "album": {
+        "name": "Glacier",
+        "url": "https://open.spotify.com/album/6JpIe64nHeX4yHr2qxspAa"
+      },
+      "artists": [
+        {
+          "name": "Constellationes",
+          "url": "https://open.spotify.com/artist/12R2nJ1KzSG6ZbnaZ1l72h"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242959,
+      "name": "Glacier",
+      "url": "https://open.spotify.com/track/7FNjSThORckWUhxLh9bzLy"
+    },
+    {
+      "album": {
         "name": "Glaciers",
         "url": "https://open.spotify.com/album/4cU5BIohnVNLHJxW0rEuWY"
       },
@@ -2664,7 +2718,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 143880,
       "name": "Glaciers",
       "url": "https://open.spotify.com/track/2DFEXBkwfIN4r1P5JMdxiI"
@@ -2826,7 +2880,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 163361,
       "name": "Hati",
       "url": "https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ"
@@ -3046,6 +3100,24 @@
       "duration_ms": 142019,
       "name": "In Dreams",
       "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
+    },
+    {
+      "album": {
+        "name": "In the Midst",
+        "url": "https://open.spotify.com/album/3yBxReys742ya4rB2ow3bt"
+      },
+      "artists": [
+        {
+          "name": "Cosmazul",
+          "url": "https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209168,
+      "name": "In the Midst",
+      "url": "https://open.spotify.com/track/3lQoTHU4TdBM3VGW70ZV1x"
     },
     {
       "album": {
@@ -3388,7 +3460,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
@@ -4151,6 +4223,24 @@
     },
     {
       "album": {
+        "name": "Natural Aura",
+        "url": "https://open.spotify.com/album/0dkM1RjmZRlMDXCweCa8B0"
+      },
+      "artists": [
+        {
+          "name": "New Dawns",
+          "url": "https://open.spotify.com/artist/5hrLalNIieWvBxqxbj855p"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Natural Aura",
+      "url": "https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM"
+    },
+    {
+      "album": {
         "name": "Neda",
         "url": "https://open.spotify.com/album/5OPhBBP7Q2tyxRLdPhBmNw"
       },
@@ -4684,7 +4774,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 151352,
       "name": "Phoenix Rises",
       "url": "https://open.spotify.com/track/3hUdzZiiEUDdcU4bXKU6NS"
@@ -5534,7 +5624,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 175073,
       "name": "Solfeggio Purity 741 Hz",
       "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"
@@ -6096,6 +6186,24 @@
       "duration_ms": 177600,
       "name": "Tranquil Tides",
       "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
+    },
+    {
+      "album": {
+        "name": "Tranquil Twilight",
+        "url": "https://open.spotify.com/album/1YoFs6VGUuqM6hc1AU0Ufd"
+      },
+      "artists": [
+        {
+          "name": "Luminous Dreamer",
+          "url": "https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tranquil Twilight",
+      "url": "https://open.spotify.com/track/1r2H27I3r0rqCi4l2osIjc"
     },
     {
       "album": {

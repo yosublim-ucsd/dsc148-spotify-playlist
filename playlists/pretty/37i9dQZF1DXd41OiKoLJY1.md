@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Ron Macapagal\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,597 likes - 99 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,596 likes - 99 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 98 | [Sulyap](https://open.spotify.com/track/7486rGkEnmyi00EDiBSMVA) | [Mihir](https://open.spotify.com/artist/4VwMO4toz6BXQ32EAuJHD8) | [Sulyap](https://open.spotify.com/album/2VKlGwvv9snxAagXvnIzsK) | 4:09 |
 | 99 | [Sabi Nila](https://open.spotify.com/track/6BnYOhiAUu52Rx80yR0uKH) | [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [northernroot](https://open.spotify.com/artist/0OUO1wGu28k4X5KBQxXCoF) | [Sabi Nila](https://open.spotify.com/album/1nvAmqiumezwNSqL8AG4Lz) | 3:19 |
 
-Snapshot ID: `ZkYtqAAAAAApLgf/exfwKxd42bP2ggNg`
+Snapshot ID: `Zk3QMAAAAABr+e/0yR1p+5RovrWBNdu5`

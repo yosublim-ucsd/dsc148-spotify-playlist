@@ -1,6 +1,6 @@
 {
   "description": "Take a world tour on the club floor. \nCover: DJ Swisha",
-  "num_followers": 31277,
+  "num_followers": 31281,
   "original_name": "Global Club Music",
   "owner": {
     "name": "Spotify",
@@ -627,30 +627,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
-        "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
-      },
-      "artists": [
-        {
-          "name": "Big Freedia",
-          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
-        },
-        {
-          "name": "Soaky Siren",
-          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
-        },
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
-      "url": "https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Dark City Beneath The Beat (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3uzH6PmVioHRyKmBcJFELQ"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 162919,
       "name": "Roll Call (feat. TT The Artist & Mighty Mark)",
       "url": "https://open.spotify.com/track/0CqO3pjpupPRniIQIqfDDC"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
+        "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
+      },
+      "artists": [
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        },
+        {
+          "name": "Soaky Siren",
+          "url": "https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC"
+        },
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
+      "url": "https://open.spotify.com/track/0x754YEyX1foz1WkbRF4uY"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Arriba",
+        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        },
+        {
+          "name": "Spence Lee",
+          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
+        }
+      ],
+      "duration_ms": 139701,
+      "name": "Arriba",
+      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Desire (Jersey Club Remix)",
         "url": "https://open.spotify.com/album/0yDIsqT5Om4waEGlHYeTKY"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 139130,
       "name": "Desire - Jersey Club Remix",
       "url": "https://open.spotify.com/track/1ILih0tnJMvkggPP2879Bg"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "Arriba",
-        "url": "https://open.spotify.com/album/2X5FDyB4cH7pBeoXjbgM1L"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        },
-        {
-          "name": "Spence Lee",
-          "url": "https://open.spotify.com/artist/14an7ScQuhM34iovTS6CNa"
-        }
-      ],
-      "duration_ms": 139701,
-      "name": "Arriba",
-      "url": "https://open.spotify.com/track/52ELmtQHttLnmaSc6xv4zd"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Rhythm Chronicles",
-        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
-      },
-      "artists": [
-        {
-          "name": "Gina Jeanz",
-          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Body Bend",
-      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Give It 2 Em (Remix)",
         "url": "https://open.spotify.com/album/2TzG1D0BvG7p1V5VT30UiK"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 120333,
       "name": "Give It 2 Em - Remix",
       "url": "https://open.spotify.com/track/2tAnY41RqXmq1nUlvq9CBw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Rhythm Chronicles",
+        "url": "https://open.spotify.com/album/7ou6gSn7Qh5osmu10HHhT7"
+      },
+      "artists": [
+        {
+          "name": "Gina Jeanz",
+          "url": "https://open.spotify.com/artist/5Q7xprZSylNFMR77qUm5Iu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Bend",
+      "url": "https://open.spotify.com/track/6FrpVh6qp1UeQReksd7IlF"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
-      },
-      "artists": [
-        {
-          "name": "DJ Manny",
-          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
-        }
-      ],
-      "duration_ms": 169146,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "The Floor Is Ours",
         "url": "https://open.spotify.com/album/2elNjgpGtg7wOBytKwswH1"
       },
@@ -1399,6 +1383,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Bubbly",
+        "url": "https://open.spotify.com/album/4tgYqNxOWopZY3jZNf42OI"
+      },
+      "artists": [
+        {
+          "name": "DJ Manny",
+          "url": "https://open.spotify.com/artist/5whJkWAzwCYfeetVpUJKn7"
+        }
+      ],
+      "duration_ms": 169146,
+      "name": "Bubbly",
+      "url": "https://open.spotify.com/track/21WEswbNVT85ni62l9WFqw"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "Sub Zero",
         "url": "https://open.spotify.com/album/6e2IsVAatL9zzIaXJNTGSd"
       },
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "INTO THE COCOON",
-        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
-      },
-      "artists": [
-        {
-          "name": "THE BLVCK BUTTAFLY",
-          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
-        }
-      ],
-      "duration_ms": 240960,
-      "name": "BALTIMORE",
-      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Wash Yo Handz",
         "url": "https://open.spotify.com/album/6NyZuJXVfaw3yg6jh8rjkY"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 118282,
       "name": "Wash Yo Handz",
       "url": "https://open.spotify.com/track/0r1zuvTrYEXOSYw6vv2zZB"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "INTO THE COCOON",
+        "url": "https://open.spotify.com/album/5QJVINRs16k6p7bcEWT9bw"
+      },
+      "artists": [
+        {
+          "name": "THE BLVCK BUTTAFLY",
+          "url": "https://open.spotify.com/artist/7HANR0SlqJPTI4dOLV6cRb"
+        }
+      ],
+      "duration_ms": 240960,
+      "name": "BALTIMORE",
+      "url": "https://open.spotify.com/track/75rWEZDZB8p9ZKLP9sEpZJ"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Another Chance (SBF17)",
-        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
-      },
-      "artists": [
-        {
-          "name": "DJ Earl",
-          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
-        }
-      ],
-      "duration_ms": 183345,
-      "name": "Another Chance - SBF17",
-      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Period",
         "url": "https://open.spotify.com/album/0X2Avh0JE6Fv6UsHLVtXA0"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
+        "name": "Another Chance (SBF17)",
+        "url": "https://open.spotify.com/album/7ddsu7Hd6aRxDYG0KTYIy9"
+      },
+      "artists": [
+        {
+          "name": "DJ Earl",
+          "url": "https://open.spotify.com/artist/3Y6Xd3ZOlhkroMrz1Bmo0Y"
+        }
+      ],
+      "duration_ms": 183345,
+      "name": "Another Chance - SBF17",
+      "url": "https://open.spotify.com/track/1XHBrciEOk88g5toN30LNS"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
         "name": "BADBOI",
         "url": "https://open.spotify.com/album/1vpixBHNGprGXBkLsQofuN"
       },
@@ -1679,22 +1679,6 @@
       "duration_ms": 196535,
       "name": "BADBOI",
       "url": "https://open.spotify.com/track/1pKk7nVh4fGjI8k6t20PmX"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "I Don\u2019t Like You",
-        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
-      },
-      "artists": [
-        {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
-        }
-      ],
-      "duration_ms": 151965,
-      "name": "I Don't Like You",
-      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1735,6 +1719,22 @@
       "duration_ms": 361500,
       "name": "De Todo Se Aprende - Yamil Remix",
       "url": "https://open.spotify.com/track/1DFnhOVN66vUuCW0uKwLsO"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "I Don\u2019t Like You",
+        "url": "https://open.spotify.com/album/2QoKJJ0SFYVshmjJziG0vp"
+      },
+      "artists": [
+        {
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+        }
+      ],
+      "duration_ms": 151965,
+      "name": "I Don't Like You",
+      "url": "https://open.spotify.com/track/3RWKVlV1KPprDTOMUvqi7C"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1795,26 +1795,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "COME THRU",
-        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Dapper Dan Midas",
-          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
-        }
-      ],
-      "duration_ms": 189518,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "Bedroom DJ Remixes",
         "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
       },
@@ -1835,18 +1815,22 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "sunscreen",
-        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+        "name": "COME THRU",
+        "url": "https://open.spotify.com/album/5kva7lghULukC4QnlVHrIp"
       },
       "artists": [
         {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Dapper Dan Midas",
+          "url": "https://open.spotify.com/artist/1W4jo080Cbx8DJNRAz4TFP"
         }
       ],
-      "duration_ms": 247236,
-      "name": "sunscreen",
-      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
+      "duration_ms": 189518,
+      "name": "COME THRU",
+      "url": "https://open.spotify.com/track/3nzZ2iEy316fM5ZQ9Jpbxy"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1871,6 +1855,22 @@
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "sunscreen",
+        "url": "https://open.spotify.com/album/5vTvEDpakO9KL0CGnRArew"
+      },
+      "artists": [
+        {
+          "name": "Jubilee",
+          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+        }
+      ],
+      "duration_ms": 247236,
+      "name": "sunscreen",
+      "url": "https://open.spotify.com/track/3UyVoeuY8Pr4ixF2jr3a48"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1951,26 +1951,6 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "Holding It Together",
-        "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
-      },
-      "artists": [
-        {
-          "name": "Mighty Mark",
-          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
-        },
-        {
-          "name": "Sunny Cowell",
-          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
-        }
-      ],
-      "duration_ms": 243720,
-      "name": "Holding It Together",
-      "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
         "name": "I Am In Love",
         "url": "https://open.spotify.com/album/3eJWtTvfnKFb0lax8imgZS"
       },
@@ -1987,6 +1967,26 @@
       "duration_ms": 173142,
       "name": "I Am In Love",
       "url": "https://open.spotify.com/track/3fNYguDH58u3AWRvS0cnj3"
+    },
+    {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "Holding It Together",
+        "url": "https://open.spotify.com/album/5XKhfINdaG84OaXHmQKCVS"
+      },
+      "artists": [
+        {
+          "name": "Mighty Mark",
+          "url": "https://open.spotify.com/artist/1ZOrj4AfBAHarzErIezwhM"
+        },
+        {
+          "name": "Sunny Cowell",
+          "url": "https://open.spotify.com/artist/5Vx8yHZLeIngcgEJH65uGF"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "Holding It Together",
+      "url": "https://open.spotify.com/track/2I86S8Clb865nD6VTiMq6n"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-01-26 05:00:00",
       "album": {
-        "name": "DELETE",
-        "url": "https://open.spotify.com/album/5HZJ7eDbjIaCvs8YVpnsp6"
+        "name": "DURO",
+        "url": "https://open.spotify.com/album/3XCTUt1TLaWdOho6dND3Qx"
       },
       "artists": [
         {
-          "name": "Jubilee",
-          "url": "https://open.spotify.com/artist/2J0nrQnGGAgPlgQz4hj7iK"
+          "name": "INVT",
+          "url": "https://open.spotify.com/artist/7iS41tYQBUyJsZYcxCse0D"
         }
       ],
-      "duration_ms": 376888,
-      "name": "DELETE",
-      "url": "https://open.spotify.com/track/09vJDWdKEkO92JmpbIw6FE"
+      "duration_ms": 342481,
+      "name": "TEMPRANO",
+      "url": "https://open.spotify.com/track/67m4RmEnCwnnvDwFMkKH0N"
     },
     {
       "added_at": "2024-01-26 05:00:00",

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWSBi5svWQ9Nk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWSBi5svWQ9Nk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWSBi5svWQ9Nk)
 
-### [Top Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
+### [Hot Hits NL](https://open.spotify.com/playlist/37i9dQZF1DWSBi5svWQ9Nk)
 
 > De 50 populairste hits van Nederland\. Cover: Joost
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 ### [This Is MC Cabelinho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16f5bq)
 
-> This is MC Cabelinho\. The essential tracks, all in one playlist.
+> This is MC Cabelinho\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,056 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,118 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [Dia de Operação](https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [A.R](https://open.spotify.com/artist/7KEZl3nvHOJaaLZUo1wLwc), [Amorim](https://open.spotify.com/artist/3FVZlbowUWV4h0nKFKVb0a), [Brutos](https://open.spotify.com/artist/3Og0gjJyLFUdqIYzXxq6T6), [Vinicin](https://open.spotify.com/artist/5XEiZVyQHpIDjhkIBbpf2G), [Palma](https://open.spotify.com/artist/5M5Fa00P9Ur9hh3MnqHUQC), [MANO R7](https://open.spotify.com/artist/6RruMIOL9mfFjnNfZfsXhB) | [Dia de Operação](https://open.spotify.com/album/2of77xllwOV4R21J3v4t20) | 3:52 |
 | 50 | [Não Demora](https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Sorriso Maroto](https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Não Demora](https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH) | 3:02 |
 
-Snapshot ID: `ZkqSgAAAAACMRRbOyS5mIj7qJQaWqc8o`
+Snapshot ID: `ZkqSgAAAAADudqZP2uEn43nxbo1+wVKc`

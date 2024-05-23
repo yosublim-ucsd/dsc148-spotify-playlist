@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0gOlRe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0gOlRe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0gOlRe)
 
-### [This is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
+### [This Is Alexander Stewart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gOlRe)
 
-> This is Alexander Stewart\. Lagu\-lagu utama, semuanya dalam satu playlist.
+> This is Alexander Stewart\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 28 min
 
@@ -15,8 +15,8 @@
 | [Alexander Stewart on 'day i die'](https://open.spotify.com/track/6jCzYITsTE5eiOXEiiAM3p) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:45 | 2024-05-17 |  |
 | [Alexander Stewart on 'how dare you'](https://open.spotify.com/track/3aupwl4XHjM1l957jPs0fU) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:33 | 2024-05-17 |  |
 | [Alexander Stewart on 'i wish you cheated'](https://open.spotify.com/track/5jP8p57LNcS8wWFVeLMHn2) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:39 | 2024-05-17 |  |
-| [Alexander Stewart on 'reflection'](https://open.spotify.com/track/1Gl07mtzYpSv521rygV2bb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:45 | 2024-05-15 | 2024-05-22 |
-| [Alexander Stewart on 'strangers'](https://open.spotify.com/track/7GX7XXNHloRI7SAdG8hBEm) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:37 | 2024-05-18 |  |
+| [Alexander Stewart on 'reflection'](https://open.spotify.com/track/1Gl07mtzYpSv521rygV2bb) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:45 | 2024-05-15 |  |
+| [Alexander Stewart on 'strangers'](https://open.spotify.com/track/7GX7XXNHloRI7SAdG8hBEm) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart \(with Track\-by\-Track Commentary\)](https://open.spotify.com/album/26cd7AEyGAPbguPDvoKtub) | 0:37 | 2024-05-18 | 2024-05-23 |
 | [all these years](https://open.spotify.com/track/0FtwNRIbtna2kdrOKUV5o2) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 3:34 | 2024-05-12 |  |
 | [back to you](https://open.spotify.com/track/4a1BeAIF3COAK52u6xwO55) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [back to you](https://open.spotify.com/album/64IQBabtZ8YzeZVMuxoS5z) | 2:49 | 2024-01-10 |  |
 | [Backwards](https://open.spotify.com/track/0DsIoA5io9H9ViOl2YNLcR) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [Backwards](https://open.spotify.com/album/6aoNAm8yGoOu1E0ct0gsOi) | 2:52 | 2024-01-10 |  |

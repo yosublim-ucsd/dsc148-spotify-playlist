@@ -2,7 +2,7 @@
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, soffie, error und Katha Pauer
+> <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit JEREMIAS, Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, SOFFIE, error und Katha Pauer
 
 627 songs - 1 day 6 hr 13 min
 

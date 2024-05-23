@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> Shotgun Willy, born and raised on the internet.
+> ian, born and raised on the internet.
 
 1,008 songs - 1 day 17 hr 3 min
 

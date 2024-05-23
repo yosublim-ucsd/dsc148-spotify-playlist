@@ -4,7 +4,7 @@
 
 > India's Rap Scene\. Cover\- BADSHAH
 
-158 songs - 8 hr 47 min
+160 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 | 2024-02-05 |  |
 | [I'm Done](https://open.spotify.com/track/4uW8CuyO9r7vOXgYf1eqCz) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [I'm Done](https://open.spotify.com/album/5ltoKiI9M68DVgRZy0OjFZ) | 2:50 | 2023-03-27 | 2023-04-20 |
 | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/track/1meDneuv818z2sRDMbI72N) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Illuminaughty \(From "Bajao"\)](https://open.spotify.com/album/4Qz07DWj8Rnhig4nyZF6oR) | 3:01 | 2023-08-08 | 2023-08-18 |
+| [Independent](https://open.spotify.com/track/60xwE3pt6nzNed0COrDhgE) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Independent](https://open.spotify.com/album/1UNGlQZLUxbLzqwEOZ4lge) | 3:40 | 2024-05-22 |  |
 | [Indian Hip Hop Cypher](https://open.spotify.com/track/0xwPtXvVX3JWs508EUfe5t) | [Emiway Bantai](https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I) | [Indian Hip Hop Cypher](https://open.spotify.com/album/3iJBtqwxuTy8FOeIb3vu3f) | 8:38 | 2023-09-05 | 2023-10-04 |
 | [Jaadugar](https://open.spotify.com/track/3uCmVdJNi3Ci4bidF0mdHb) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Hustle 2.0](https://open.spotify.com/album/1IaOxCVpa6TckpUwp6LdXS) | 3:12 | 2023-04-19 | 2023-07-22 |
 | [Jaadugar](https://open.spotify.com/track/4ujToRFWb3C8tdPkmVPwu2) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:12 | 2023-07-17 | 2023-12-06 |
@@ -112,6 +113,7 @@
 | [Maharani](https://open.spotify.com/track/7unLxuzKpxbjASww1qi4br) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Lambo Drive](https://open.spotify.com/artist/0ECy3INAe1k7665cRLCT0Y), [Arpit Bala](https://open.spotify.com/artist/6qtADmCOQ6a9NlpMULzJj9), [ReVo LEKHAK](https://open.spotify.com/artist/6WPI5BHCoVymuFbC2p7p4G) | [Maharani](https://open.spotify.com/album/6da96K6wuRyf61We22UBPe) | 6:29 | 2024-01-09 |  |
 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 | 2023-09-22 | 2023-10-04 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2023-06-01 | 2023-06-09 |
+| [MANKA](https://open.spotify.com/track/3jlLMjkV2zm6Kdt4CQd1Z5) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [ThudWiser](https://open.spotify.com/artist/4J0a9qdlbNLgB6WLDV9vcp) | [MANKA](https://open.spotify.com/album/50GqzRKS5Zf1a8lvQUf2dV) | 4:21 | 2024-05-22 |  |
 | [Mashooka](https://open.spotify.com/track/78iOfBb1DWPhKzihpDGZf5) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Mashooka](https://open.spotify.com/album/5YIfNbv6RRMIdjP2hvF1Nc) | 2:28 | 2023-10-03 | 2023-10-19 |
 | [Meri Zindagi Rap Se Pan Deep Hai](https://open.spotify.com/track/0zJRZiwA3OcNKjCqjTUepL) | [MC STAN](https://open.spotify.com/artist/5uemEEtB1ZC3s1KM7gReeH) | [Meri Zindagi Rap Se Pan Deep Hai](https://open.spotify.com/album/1QAz5TBFcmFyGxaKPMVPx1) | 2:31 | 2024-03-05 | 2024-03-23 |
 | [Mirchi](https://open.spotify.com/track/5KkCsYIgMK5H7Ih31Dnd2Q) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Phenom](https://open.spotify.com/artist/3vQ75vDDu0nhfHuEW3n17Z) | [Mirchi](https://open.spotify.com/album/7veJEEW836HtKZG9Admr3z) | 3:12 | 2023-03-27 | 2023-10-19 |

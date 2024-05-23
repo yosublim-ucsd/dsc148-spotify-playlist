@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7405,
+  "num_followers": 7410,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -483,18 +483,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+        "name": "Alpine Gold",
+        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
       },
       "artists": [
         {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+          "name": "Dawn Brothers",
+          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
         }
       ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+      "duration_ms": 196426,
+      "name": "It's So Easy",
+      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -535,18 +535,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Alpine Gold",
-        "url": "https://open.spotify.com/album/56epnGRSer3a3fTncdQMxK"
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
       },
       "artists": [
         {
-          "name": "Dawn Brothers",
-          "url": "https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a"
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
         }
       ],
-      "duration_ms": 196426,
-      "name": "It's So Easy",
-      "url": "https://open.spotify.com/track/5cvgCBm4qIPpgnvn6hiZ25"
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -663,22 +663,18 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Times",
-        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
+        "name": "Sugah Rush",
+        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
       },
       "artists": [
         {
-          "name": "Marlayne",
-          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
-        },
-        {
-          "name": "Hans Vermeulen",
-          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
         }
       ],
-      "duration_ms": 244060,
-      "name": "Times",
-      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
+      "duration_ms": 160594,
+      "name": "Sugah Rush",
+      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -703,18 +699,22 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Sugah Rush",
-        "url": "https://open.spotify.com/album/7FCSkgpXvMz79ACgtqTUnm"
+        "name": "Times",
+        "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
       "artists": [
         {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+          "name": "Marlayne",
+          "url": "https://open.spotify.com/artist/4xjoVIB3eX5vHU3oz4BmBr"
+        },
+        {
+          "name": "Hans Vermeulen",
+          "url": "https://open.spotify.com/artist/7kGe553AEMYjqXiGI8wIYD"
         }
       ],
-      "duration_ms": 160594,
-      "name": "Sugah Rush",
-      "url": "https://open.spotify.com/track/4VpexnvsPBv0cXBkOwEumH"
+      "duration_ms": 244060,
+      "name": "Times",
+      "url": "https://open.spotify.com/track/2SihsYSOGwYDHMfd0riW4Y"
     },
     {
       "added_at": "2024-04-25 22:00:00",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-04-25 22:00:00",
       "album": {
-        "name": "Russell County Line",
-        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
-      },
-      "artists": [
-        {
-          "name": "49 Winchester",
-          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
-        }
-      ],
-      "duration_ms": 249872,
-      "name": "Russell County Line",
-      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
-    },
-    {
-      "added_at": "2024-04-25 22:00:00",
-      "album": {
         "name": "Nighttime Walk",
         "url": "https://open.spotify.com/album/6B3IT89Ihbf3s3SPkLlz48"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 336904,
       "name": "Nighttime Walk",
       "url": "https://open.spotify.com/track/4xWwLMuE6SfoqvtWpSgoyO"
+    },
+    {
+      "added_at": "2024-04-25 22:00:00",
+      "album": {
+        "name": "Russell County Line",
+        "url": "https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h"
+      },
+      "artists": [
+        {
+          "name": "49 Winchester",
+          "url": "https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20"
+        }
+      ],
+      "duration_ms": 249872,
+      "name": "Russell County Line",
+      "url": "https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB"
     }
   ],
   "unique_name": "Route Americana",

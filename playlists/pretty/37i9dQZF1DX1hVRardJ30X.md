@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Blessd & Nicki Nicole
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,612 likes - 63 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,736 likes - 63 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 62 | [Tommy John](https://open.spotify.com/track/2lRUU3ITueZpRl0PBhMHDb) | [AloSofia](https://open.spotify.com/artist/5Q6CBqo1uJlO4qbw7MD875), [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [Tommy John](https://open.spotify.com/album/0k4XOeS7hRH1OgCOi4zu3W) | 3:07 |
 | 63 | [Tú](https://open.spotify.com/track/39i7HWKN0Jl8JUshntDuew) | [GorditoFlo](https://open.spotify.com/artist/2WuQrDiF8jVZS8WJ1yOkkn) | [Tú](https://open.spotify.com/album/0zSsDzpL5ASh3NKLJ74UWf) | 2:12 |
 
-Snapshot ID: `ZkendAAAAAArsdwPCmFzK4RhEQLdN8vW`
+Snapshot ID: `Zk3QMAAAAADFRINlxGJ7meNrsuK81jNz`

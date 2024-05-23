@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Simba La Rue, Salmo, Noyz Narcos, Artie 5ive e tanti altri!
 
-3,583 songs - 6 day 17 hr 40 min
+3,584 songs - 6 day 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3355,7 +3355,8 @@
 | [UBER BLACK](https://open.spotify.com/track/2R8qcj89WKRMPeNdKuqPB4) | [SAC1](https://open.spotify.com/artist/0MnomJDrX3FmjLCNuTLfz6) | [UBER BLACK](https://open.spotify.com/album/0uNZWqD92slsHl0elNczzZ) | 2:15 | 2022-12-09 | 2023-01-06 |
 | [UEUE](https://open.spotify.com/track/5Vq17WvWaqM8B6dj0qGFkB) | [Capozanarky](https://open.spotify.com/artist/4L2hq3OboU70UVsqOrU6qt) | [UEUE](https://open.spotify.com/album/2XCdtqGGbxzFq6OVg5jVK9) | 1:56 | 2022-06-23 | 2022-07-08 |
 | [UFC](https://open.spotify.com/track/3T1KXh21ieREyl1TIdxzdb) | [Westcross](https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk), [Rayan](https://open.spotify.com/artist/6doCr3greqY545Eo7IsY3m), [Intifaya](https://open.spotify.com/artist/1sSz8a84ezDX1LhXCIgt41) | [UFC](https://open.spotify.com/album/27pQVLpSz8kAFBwnTc1ZZM) | 2:48 | 2023-02-16 | 2023-03-03 |
-| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 | 2024-05-16 |  |
+| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 3:35 | 2024-05-22 |  |
+| [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 | 2024-05-16 | 2024-05-23 |
 | [UH AH](https://open.spotify.com/track/3sZAXrAnjZr26ORoDAdnPJ) | [Adriana](https://open.spotify.com/artist/5PEdtrdgUCso8TLij5uhWa) | [Limbo](https://open.spotify.com/album/4ohRMb0hz3WWv8RYwd5IsV) | 2:40 | 2024-05-09 | 2024-05-22 |
 | [Uh Ah Ah](https://open.spotify.com/track/1JDIwqwmJZkMyekXsyjCHq) | [O'Tsunami](https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm) | [Uh Ah Ah](https://open.spotify.com/album/3fbqHsycYllRTYVtyZv20V) | 2:06 | 2023-12-14 | 2023-12-22 |
 | [ULTIMO PASSO](https://open.spotify.com/track/42KJsbe4kosMkwX6I2D3Y4) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN) | [ULTIMO PASSO](https://open.spotify.com/album/1Xxt9gUmZFYNyQ3QG7yugw) | 3:50 | 2024-03-21 | 2024-04-12 |
@@ -3482,7 +3483,7 @@
 | [Vulture Activity](https://open.spotify.com/track/2gBZh3c9dOIO3rVOOYcgul) | [Faneto](https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4) | [Vulture Activity](https://open.spotify.com/album/0aBdE0VBdHtayvgjT8KyaE) | 2:22 | 2023-09-28 | 2023-10-20 |
 | [VUOLE UNA BIRKIN](https://open.spotify.com/track/3Mccz2MFFFaPH86n8RaPp9) | [Nello Taver](https://open.spotify.com/artist/6JV9OrfLS1nkVkAYl0naok) | [HO UCCISO L'HIP HOP ITALIANO](https://open.spotify.com/album/0GAfssfM9kJkIPrbeHotxy) | 2:42 | 2022-06-16 | 2022-06-24 |
 | [Vérité](https://open.spotify.com/track/0z3NbX7fjSqEOP1fHc3khu) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Vérité](https://open.spotify.com/album/3G6ekX43dDTjzjPbO50N5m) | 2:25 | 2022-10-27 | 2022-11-25 |
-| [W4nnabe](https://open.spotify.com/track/5F6iGNDBAQ7CazzJ62F0JJ) | [Highsnob](https://open.spotify.com/artist/47RMRcPX8zWGaiMSZRuOd4) | [KINTSUGI](https://open.spotify.com/album/0jcojW1ok6bqIEXu6JmZ3j) | 3:52 | 2024-05-09 |  |
+| [W4nnabe](https://open.spotify.com/track/5F6iGNDBAQ7CazzJ62F0JJ) | [Highsnob](https://open.spotify.com/artist/47RMRcPX8zWGaiMSZRuOd4) | [KINTSUGI](https://open.spotify.com/album/0jcojW1ok6bqIEXu6JmZ3j) | 3:52 | 2024-05-09 | 2024-05-23 |
 | [Wa Zwina](https://open.spotify.com/track/3bxRbTAzbVNvTfUfENvs4J) | [hmizo](https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai) | [Wa Zwina](https://open.spotify.com/album/4xC3ge0yiYLupIZsq8npOY) | 2:20 | 2023-07-20 | 2023-08-25 |
 | [WACCIUGANADU](https://open.spotify.com/track/6hq9ObiIlUs79ro1qZidRD) | [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE), [Keynoise](https://open.spotify.com/artist/6gXD6pjT4eFa8sdYOISCXL) | [WACCIUGANADU](https://open.spotify.com/album/7iRjmGH4vAioEL2CsAZevI) | 2:10 | 2024-02-22 | 2024-03-08 |
 | [Wagwan](https://open.spotify.com/track/02uHKMH6D8XWDdlqdEVg0F) | [Knowpmw](https://open.spotify.com/artist/17krypRYPb6x6ojBgFuhLx), [Almighty Brian](https://open.spotify.com/artist/0067CTZR9FIUo865ZSMpQw) | [Wagwan](https://open.spotify.com/album/6E84fCaQHDn0y2aveiLPn3) | 2:16 | 2022-06-02 | 2022-06-17 |

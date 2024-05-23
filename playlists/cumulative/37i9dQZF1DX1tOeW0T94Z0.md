@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1tOeW0T94Z0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1tOeW0T94Z0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1tOeW0T94Z0)
 
-### [Canadian Gems](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
+### [Millennium Hip\-Hop/R&B: Canada](https://open.spotify.com/playlist/37i9dQZF1DX1tOeW0T94Z0)
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Maestro Fresh Wes
 
@@ -63,7 +63,7 @@
 | [Hot Girl](https://open.spotify.com/track/5shriEQRYGJku39AyNf2rp) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Hot Girl \(Explicit\)](https://open.spotify.com/album/68nVHhgO1eslVlrhSWxdmp) | 4:14 | 2022-07-01 | 2022-09-01 |
 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 | 2022-07-01 | 2022-12-29 |
 | [I'm Still Fly feat\. Drake \- Dirty](https://open.spotify.com/track/2fGnxqCBPSnH5tUmoXT0TV) | [Page](https://open.spotify.com/artist/5OsGiqFzthFwOzufJYuGpN), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I'm Still Fly \(feat\. Drake\)](https://open.spotify.com/album/1UYSaFqLGydD6Apl2gzM5k) | 3:41 | 2022-07-01 | 2024-04-19 |
-| [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2022-07-01 |  |
+| [Informer](https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs) | [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [12 Inches Of Snow](https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW) | 4:28 | 2022-07-01 | 2024-05-23 |
 | [Into You \(feat\. Fabolous\)](https://open.spotify.com/track/0ceeRNqbOzRiGE42KWSrRa) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:54 | 2022-07-01 |  |
 | [It Kills Me](https://open.spotify.com/track/6qU37BgVfPhpb2rhYzZWrF) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [The Bridge](https://open.spotify.com/album/3Qwn4i9QV2uXfPiBQNnT3z) | 4:10 | 2022-07-01 | 2022-09-01 |
 | [It's Fo Twenty](https://open.spotify.com/track/6IHYCWWWyKOV54i5eXbSKq) | [Bishop Brigante](https://open.spotify.com/artist/4yGFddIt30417yFQiq2QaS), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [It's Fo Twenty \(Explicit Version\)](https://open.spotify.com/album/2L2Ia4j1mNUec5fi5PS35O) | 3:46 | 2024-01-12 |  |
@@ -112,7 +112,7 @@
 | [Rap Passion \(feat\. Red One\)](https://open.spotify.com/track/0OKl5o9g4coiF36u9UXCzq) | [Checkmate](https://open.spotify.com/artist/6nfguy4Wxd0sQ8Bq7O3zYT), [The Red One](https://open.spotify.com/artist/5hXGIlHB5bApAiYvcaEhiP) | [Welcome To The Game](https://open.spotify.com/album/5RUtDILSiQz96aSdNM1a1o) | 4:33 | 2022-07-01 | 2023-06-09 |
 | [Rewind](https://open.spotify.com/track/1PHtMv7FD30owJuNl2N1tE) | [Andreena](https://open.spotify.com/artist/6Yj9DHVH5JLhPFQMlhG28v), [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [Rewind](https://open.spotify.com/album/0aEQ1YQNcx2bWHCukaefna) | 3:31 | 2022-08-31 |  |
 | [Rubbin'](https://open.spotify.com/track/4bT6qTu5mi5i0ZcZtgcz1Y) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Ice Cold](https://open.spotify.com/album/1NxOhu7pWLESkHyxliwV6m) | 3:43 | 2022-07-01 | 2023-08-03 |
-| [Say About Us? \- Feat\. Jenna](https://open.spotify.com/track/1clvE2lBqwbLsZocPaLZmx) | [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD) | [Say About Us?](https://open.spotify.com/album/3M0txXTWpZxrCoSmAFB2Co) | 3:56 | 2023-06-08 |  |
+| [Say About Us? \- Feat\. Jenna](https://open.spotify.com/track/1clvE2lBqwbLsZocPaLZmx) | [Michie Mee](https://open.spotify.com/artist/1WlzGi0kEyKjZe4egH6BJD) | [Say About Us?](https://open.spotify.com/album/3M0txXTWpZxrCoSmAFB2Co) | 3:56 | 2023-06-08 | 2024-05-23 |
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2022-07-01 | 2022-12-29 |
 | [Seven Day Fool](https://open.spotify.com/track/68Vb8dhUtY7xXgAc9WONXc) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/2PpxaPsS6U1bhDNG2sMf2q) | 3:25 | 2022-07-01 |  |
 | [Seven Day Fool](https://open.spotify.com/track/2PL3PBj9UUJzU3O3M85nIj) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [Revival](https://open.spotify.com/album/7fjR0khZYoo95oW4RtHOkg) | 3:25 | 2022-07-01 | 2023-01-03 |

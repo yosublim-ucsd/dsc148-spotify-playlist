@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 154070,
       "name": "AlgeVita",
       "url": "https://open.spotify.com/track/6YkVOrkg6wSrXQeVb0Pbtl"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 161167,
       "name": "Depuis que j'ai l'argent",
       "url": "https://open.spotify.com/track/4evLmoQZvzyWHzXFIH1ixe"
@@ -2362,6 +2362,24 @@
       "duration_ms": 215346,
       "name": "Ego",
       "url": "https://open.spotify.com/track/2PeDk0mGZRF1gXbZRRdQzN"
+    },
+    {
+      "album": {
+        "name": "Feux de joie",
+        "url": "https://open.spotify.com/album/69un5QeWz6xSBF7dc7cROC"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/0VBzJIYJey6MvcNH8Set2U"
     },
     {
       "album": {
@@ -2989,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "hana",
+        "url": "https://open.spotify.com/album/2TkxPbXf8lg0cgHZh823Tg"
+      },
+      "artists": [
+        {
+          "name": "Virginie B",
+          "url": "https://open.spotify.com/artist/5lKndZJCSUoXztCsyrhUut"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155240,
+      "name": "hana",
+      "url": "https://open.spotify.com/track/2Qvvb2wC3wPiRP2C0xxsc6"
+    },
+    {
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -3026,6 +3062,24 @@
       "duration_ms": 153421,
       "name": "Holiday Inn",
       "url": "https://open.spotify.com/track/2gcq5nOTW4xhvShjcq3Dro"
+    },
+    {
+      "album": {
+        "name": "On frap la route?",
+        "url": "https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE"
+      },
+      "artists": [
+        {
+          "name": "Guessmi",
+          "url": "https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Holla",
+      "url": "https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR"
     },
     {
       "album": {
@@ -4119,6 +4173,28 @@
     },
     {
       "album": {
+        "name": "la honte",
+        "url": "https://open.spotify.com/album/5MxKI5pwIa2LuSyhJGA2wO"
+      },
+      "artists": [
+        {
+          "name": "blesse",
+          "url": "https://open.spotify.com/artist/5MGjRHDmuH8M7tuk7NVmge"
+        },
+        {
+          "name": "David Numwami",
+          "url": "https://open.spotify.com/artist/2uKChU7eHSda8R79iR9rel"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209687,
+      "name": "la honte",
+      "url": "https://open.spotify.com/track/3j8wfBkVowBTt1bGmtHOf7"
+    },
+    {
+      "album": {
         "name": "Petite nature",
         "url": "https://open.spotify.com/album/7x0PB0u5Mr7agHHV35EKj4"
       },
@@ -4415,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "La clairi\u00e8re",
+        "url": "https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq"
+      },
+      "artists": [
+        {
+          "name": "Vanille",
+          "url": "https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "Le bois",
+      "url": "https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V"
+    },
+    {
+      "album": {
         "name": "Snake eyes",
         "url": "https://open.spotify.com/album/1FexOSZ11itCQyCsbAT8v8"
       },
@@ -4487,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "Le monde est fou",
+        "url": "https://open.spotify.com/album/5zw2EYeEDWW53kmmksiAM6"
+      },
+      "artists": [
+        {
+          "name": "Alfa Rococo",
+          "url": "https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244200,
+      "name": "Le monde est fou",
+      "url": "https://open.spotify.com/track/6vOi7yWHX7Qy9Eunm8ATOa"
+    },
+    {
+      "album": {
         "name": "le nord",
         "url": "https://open.spotify.com/album/30DZk7D0TRMIzQwnqY4pnD"
       },
@@ -4520,6 +4632,24 @@
       "duration_ms": 137560,
       "name": "Le p'tit poisson",
       "url": "https://open.spotify.com/track/3hHuT6JJb6BWYeICvG5ZEk"
+    },
+    {
+      "album": {
+        "name": "Jaune (Version originale remasteris\u00e9e)",
+        "url": "https://open.spotify.com/album/69OtZSaKCtNJawhqenAJ0U"
+      },
+      "artists": [
+        {
+          "name": "Jean-Pierre Ferland",
+          "url": "https://open.spotify.com/artist/6ztZs0FOUv1FqwSxsj11R3"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253720,
+      "name": "Le petit roi",
+      "url": "https://open.spotify.com/track/322V7y7CTFE5JPxjtHr4I0"
     },
     {
       "album": {
@@ -4600,6 +4730,24 @@
       "duration_ms": 173000,
       "name": "LE SOURIRE D'UNE TOMBE",
       "url": "https://open.spotify.com/track/4yIlzOPjaaEPsF3RyivxQD"
+    },
+    {
+      "album": {
+        "name": "Demain il fera beau",
+        "url": "https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143055,
+      "name": "Le stade",
+      "url": "https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H"
     },
     {
       "album": {
@@ -5515,6 +5663,24 @@
     },
     {
       "album": {
+        "name": "Banlieue",
+        "url": "https://open.spotify.com/album/55jx7wdVwNSGViAbdl2G1d"
+      },
+      "artists": [
+        {
+          "name": "Aswell",
+          "url": "https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170500,
+      "name": "Next",
+      "url": "https://open.spotify.com/track/4WpxkB1l5qbBRJ7BHBJSHb"
+    },
+    {
+      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -5556,6 +5722,24 @@
       "duration_ms": 216926,
       "name": "Nitepuatauat",
       "url": "https://open.spotify.com/track/3GkSeLkX4pIpoKg6n50Ix2"
+    },
+    {
+      "album": {
+        "name": "Emmanuelle",
+        "url": "https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply"
+      },
+      "artists": [
+        {
+          "name": "Rosie Valland",
+          "url": "https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146853,
+      "name": "Non merci",
+      "url": "https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y"
     },
     {
       "album": {
@@ -5936,6 +6120,24 @@
       "duration_ms": 211506,
       "name": "P'tit cochon",
       "url": "https://open.spotify.com/track/4KzVQwE98AbZ7TrrNwt9L9"
+    },
+    {
+      "album": {
+        "name": "Feu de garde",
+        "url": "https://open.spotify.com/album/4mylCMxsXSVvUbnbK6N8Fn"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "Parc de Beauvoir",
+      "url": "https://open.spotify.com/track/1UTV9BFdsO8hxBa0jItmUv"
     },
     {
       "album": {
@@ -7461,6 +7663,24 @@
     },
     {
       "album": {
+        "name": "Kizavibe",
+        "url": "https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv"
+      },
+      "artists": [
+        {
+          "name": "Kizaba",
+          "url": "https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230570,
+      "name": "Soso",
+      "url": "https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll"
+    },
+    {
+      "album": {
         "name": "Sous le m\u00eame toit",
         "url": "https://open.spotify.com/album/3Y6a6zuvIzFOuvQRUBpxMN"
       },
@@ -7823,6 +8043,42 @@
     },
     {
       "album": {
+        "name": "Tralala",
+        "url": "https://open.spotify.com/album/4XXJC6DVgxRnbdcTfJTQXV"
+      },
+      "artists": [
+        {
+          "name": "La Bottine Souriante",
+          "url": "https://open.spotify.com/artist/7ba7eFah7fB6SbgnSufYBJ"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263440,
+      "name": "Tralala",
+      "url": "https://open.spotify.com/track/0iLVqqB6eQGyvQnQ1QcLGx"
+    },
+    {
+      "album": {
+        "name": "MAELSTR\u00d6M",
+        "url": "https://open.spotify.com/album/6EpLt7pH9qtQMxT3nmTEAl"
+      },
+      "artists": [
+        {
+          "name": "Malko",
+          "url": "https://open.spotify.com/artist/501Uzli8ksZoUEWZj8uKJI"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108948,
+      "name": "TRISTE & C\u00c9L\u00c8BRE",
+      "url": "https://open.spotify.com/track/7n84GX5guMpcJTmSakw1zT"
+    },
+    {
+      "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/1Vg18m8cCSPsTrGSoe0gpH"
       },
@@ -8141,6 +8397,24 @@
     },
     {
       "album": {
+        "name": "Pr\u00e9sence d'esprit",
+        "url": "https://open.spotify.com/album/2l642fbBnGoi2872LHn9Yl"
+      },
+      "artists": [
+        {
+          "name": "Les Trois Accords",
+          "url": "https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208059,
+      "name": "Vol \u00e0 l'\u00e9talage",
+      "url": "https://open.spotify.com/track/6g7nJF5VdDBAO2yAT4KN4V"
+    },
+    {
+      "album": {
         "name": "Demain c'\u00e9tait hier",
         "url": "https://open.spotify.com/album/5bGN7bhzEYEvNnRrye9zaP"
       },
@@ -8380,7 +8654,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-13",
+      "date_removed": null,
       "duration_ms": 151586,
       "name": "\u00c9coute",
       "url": "https://open.spotify.com/track/4UnXyvCcjtybAC4KK8Klsx"

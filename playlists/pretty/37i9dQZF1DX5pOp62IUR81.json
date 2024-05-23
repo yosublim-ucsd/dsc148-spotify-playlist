@@ -1,29 +1,13 @@
 {
   "description": "Go inside the music from the Marvel worlds that you love!",
-  "num_followers": 175965,
+  "num_followers": 175959,
   "original_name": "Marvel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZfyPiwAAAACHgrORvDnZgsKi4AUV9A4b",
+  "snapshot_id": "Zk5DKgAAAADCyGMQ1ObeWHf/Xv8bi6c0",
   "tracks": [
-    {
-      "added_at": "2024-03-21 19:50:35",
-      "album": {
-        "name": "X-Men '97 Theme (From \"X-Men '97\")",
-        "url": "https://open.spotify.com/album/3lpER8BQDPbDsamuZviUaG"
-      },
-      "artists": [
-        {
-          "name": "The Newton Brothers",
-          "url": "https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3"
-        }
-      ],
-      "duration_ms": 65382,
-      "name": "X-Men '97 Theme - From \"X-Men '97\"",
-      "url": "https://open.spotify.com/track/3GIu4yGiUgvDi9ERewkbIa"
-    },
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
@@ -47,62 +31,18 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
+        "name": "Loki: Season 2 - Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1"
       },
       "artists": [
         {
-          "name": "John Paesano",
-          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
-        },
-        {
-          "name": "Ben Billions",
-          "url": "https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5"
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Greater Together (Album Version)",
-      "url": "https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Echo (From \"Echo\")",
-        "url": "https://open.spotify.com/album/1Fp8O0KHxXodPjvIAdUiCY"
-      },
-      "artists": [
-        {
-          "name": "Dave Porter",
-          "url": "https://open.spotify.com/artist/1WkfFuCfD2BnsiyPElbEv5"
-        },
-        {
-          "name": "Brenner Billy",
-          "url": "https://open.spotify.com/artist/39s2fv1CDe6pxNT3Kne2pj"
-        },
-        {
-          "name": "Bryon \"Mahli\" Billy",
-          "url": "https://open.spotify.com/artist/4JHxRNU2YIhFMK6PpzbHso"
-        },
-        {
-          "name": "Philip L. Billy",
-          "url": "https://open.spotify.com/artist/1muYBPXPmzBlQIcSoize2D"
-        },
-        {
-          "name": "Lisa Johnson-Billy",
-          "url": "https://open.spotify.com/artist/4WFBUcHNMlLx2EqYsaFbMn"
-        },
-        {
-          "name": "Alisha Williams",
-          "url": "https://open.spotify.com/artist/6w6aLgf6yZPXXaZ4ZSb63T"
-        },
-        {
-          "name": "Seth Fairchild",
-          "url": "https://open.spotify.com/artist/6nYldcJGouosntBOf1N9Ik"
-        }
-      ],
-      "duration_ms": 132638,
-      "name": "Echo - From \"Echo\"",
-      "url": "https://open.spotify.com/track/7MNFjEqc7G4kjskQSz7Bxn"
+      "duration_ms": 126113,
+      "name": "Burden of Wisdom",
+      "url": "https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -129,10 +69,30 @@
       "url": "https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu"
     },
     {
-      "added_at": "2024-01-05 18:09:37",
+      "added_at": "2024-05-22 19:10:34",
       "album": {
-        "name": "Loki: Season 2 - Vol. 1 (Episodes 1-3) [Original Soundtrack]",
-        "url": "https://open.spotify.com/album/7AUyA40JztkugyHxkPGOL1"
+        "name": "Black Panther: Wakanda Forever (Original Score)",
+        "url": "https://open.spotify.com/album/2lPz7qiqG7TfvKr3S1Lv6p"
+      },
+      "artists": [
+        {
+          "name": "Ludwig G\u00f6ransson",
+          "url": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
+        },
+        {
+          "name": "Busiswa",
+          "url": "https://open.spotify.com/artist/3RThWxnHbyN5Hvkr66eYj7"
+        }
+      ],
+      "duration_ms": 155480,
+      "name": "We Know What You Whisper",
+      "url": "https://open.spotify.com/track/55SCtqrks5WVsUHC2TxnLC"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "Loki: Season 2 - Vol. 2 (Episodes 4-6) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ"
       },
       "artists": [
         {
@@ -140,25 +100,29 @@
           "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
         }
       ],
-      "duration_ms": 126113,
-      "name": "Burden of Wisdom",
-      "url": "https://open.spotify.com/track/5GeEXc0FMRYEcUHGChK1Pf"
+      "duration_ms": 188367,
+      "name": "Purpose Is Glorious",
+      "url": "https://open.spotify.com/track/14ttivyM8Dj0xichnst1Vd"
     },
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
-        "name": "Higher. Further. Faster. Together. (From \"The Marvels\")",
-        "url": "https://open.spotify.com/album/6Hg1d6H8AjeTvALjqWlNld"
+        "name": "Marvel's Spider-Man 2 (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5C3YrS6NdLwSrkNQWRAwLR"
       },
       "artists": [
         {
-          "name": "Laura Karpman",
-          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+          "name": "John Paesano",
+          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
+        },
+        {
+          "name": "Ben Billions",
+          "url": "https://open.spotify.com/artist/5sPlkg8kBNhEMGNTMy8Ey5"
         }
       ],
-      "duration_ms": 230406,
-      "name": "Higher. Further. Faster. Together. - From \"The Marvels\"",
-      "url": "https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu"
+      "duration_ms": 198400,
+      "name": "Greater Together (Album Version)",
+      "url": "https://open.spotify.com/track/7D3owndTfR0iPyRO7sHR3g"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -175,6 +139,22 @@
       "duration_ms": 137142,
       "name": "Headless",
       "url": "https://open.spotify.com/track/424JrO6uy6tRKULU2FruAB"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
+        "name": "Higher. Further. Faster. Together. (From \"The Marvels\")",
+        "url": "https://open.spotify.com/album/6Hg1d6H8AjeTvALjqWlNld"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        }
+      ],
+      "duration_ms": 230406,
+      "name": "Higher. Further. Faster. Together. - From \"The Marvels\"",
+      "url": "https://open.spotify.com/track/1ovt0wjtCfOzgNvAcCUfzu"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -271,22 +251,6 @@
       "duration_ms": 164062,
       "name": "Did That Look Cool?",
       "url": "https://open.spotify.com/track/2cUIII8NsSGtBBxaadhoj5"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Nick Fury (Main Title Theme) [From \"Secret Invasion\"]",
-        "url": "https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm"
-      },
-      "artists": [
-        {
-          "name": "Kris Bowers",
-          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
-        }
-      ],
-      "duration_ms": 123553,
-      "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
-      "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -499,6 +463,22 @@
     {
       "added_at": "2024-01-05 18:09:37",
       "album": {
+        "name": "Nick Fury (Main Title Theme) [From \"Secret Invasion\"]",
+        "url": "https://open.spotify.com/album/5RUHeweIAuU8wytVHP7mIm"
+      },
+      "artists": [
+        {
+          "name": "Kris Bowers",
+          "url": "https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ"
+        }
+      ],
+      "duration_ms": 123553,
+      "name": "Nick Fury (Main Title Theme) - From \"Secret Invasion\"",
+      "url": "https://open.spotify.com/track/4eJekm7bfnUMUPSF54rdYJ"
+    },
+    {
+      "added_at": "2024-01-05 18:09:37",
+      "album": {
         "name": "Secret Invasion: Vol. 2 (Episodes 4-6) [Original Soundtrack]",
         "url": "https://open.spotify.com/album/0YalLMcaosDgk2wPyUe5zW"
       },
@@ -527,22 +507,6 @@
       "duration_ms": 280467,
       "name": "Moscow Madness",
       "url": "https://open.spotify.com/track/7cRmW97CFuBmhRCVv14TSM"
-    },
-    {
-      "added_at": "2024-01-05 18:09:37",
-      "album": {
-        "name": "Greater Together (From \"Marvel's Spider-Man 2\")",
-        "url": "https://open.spotify.com/album/0OoAUC89GYvRahhIUv1rWM"
-      },
-      "artists": [
-        {
-          "name": "John Paesano",
-          "url": "https://open.spotify.com/artist/3MhnTc9AODdRGMrtntEqIz"
-        }
-      ],
-      "duration_ms": 202568,
-      "name": "Greater Together - From \"Marvel's Spider-Man 2\"",
-      "url": "https://open.spotify.com/track/4U7yZWuIaqcAIsfCLw5T2R"
     },
     {
       "added_at": "2024-01-05 18:09:37",
@@ -3127,6 +3091,106 @@
       "duration_ms": 354826,
       "name": "The Real Hero",
       "url": "https://open.spotify.com/track/3KHrXuByzDnDOaVR15rZH7"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 45266,
+      "name": "Snow Days",
+      "url": "https://open.spotify.com/track/4UDoIGh022D5aCQ13O2zY0"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 80506,
+      "name": "Sugar Cookies",
+      "url": "https://open.spotify.com/track/0ig0QTeIhfSw6eWvoXb2cX"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 71986,
+      "name": "Fa La La",
+      "url": "https://open.spotify.com/track/6IXiFdmK9vZ7mmffeNpjsy"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 46586,
+      "name": "All Is Bright",
+      "url": "https://open.spotify.com/track/2BDcOBMcquNpofkW6nDqUH"
+    },
+    {
+      "added_at": "2024-05-22 19:10:34",
+      "album": {
+        "name": "What If... Happy Hogan Saved Christmas? (Season 2/Episode 3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/3cDdNPdIPTjcvXyuRtd293"
+      },
+      "artists": [
+        {
+          "name": "Laura Karpman",
+          "url": "https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD"
+        },
+        {
+          "name": "Nora Kroll-Rosenbaum",
+          "url": "https://open.spotify.com/artist/0CoOM0ifGVtT9OSDkyZshm"
+        }
+      ],
+      "duration_ms": 49266,
+      "name": "Merrily On",
+      "url": "https://open.spotify.com/track/7KFvL8WkzjO9f7OceZy2BZ"
     }
   ],
   "unique_name": "Marvel Music",

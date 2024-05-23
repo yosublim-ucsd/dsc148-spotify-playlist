@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-27",
-  "description": "This Is Hombres G. Los temas esenciales, todos en una lista.",
+  "description": "This is Hombres G. The essential tracks, all in one playlist.",
   "name": "This Is Hombres G",
   "tracks": [
     {
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 132080,
       "name": "Marta tiene un marcapasos",
       "url": "https://open.spotify.com/track/1XvfncS1t4BNkh37klHeqj"
@@ -1194,6 +1194,24 @@
       "duration_ms": 258200,
       "name": "Tu C\u00e1rcel (En Vivo)",
       "url": "https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO"
+    },
+    {
+      "album": {
+        "name": "Historia Del Bikini",
+        "url": "https://open.spotify.com/album/3NDwXI7yrQMZvjoQdJ5lsv"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266080,
+      "name": "Un minuto nada m\u00e1s",
+      "url": "https://open.spotify.com/track/1LgZrAA0k8ZLvfk3K7BnNl"
     },
     {
       "album": {

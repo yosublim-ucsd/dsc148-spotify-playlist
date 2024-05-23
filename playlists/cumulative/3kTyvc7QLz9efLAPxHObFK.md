@@ -4,7 +4,7 @@
 
 > 
 
-1,396 songs - 3 day 4 hr 35 min
+1,398 songs - 3 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Calling My Name](https://open.spotify.com/track/2ZEKzTPC3BtMlqkMJ1zUI4) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [Through My Veins](https://open.spotify.com/album/7kdMytBymEhWquNnV10Swv) | 3:25 | 2024-04-19 |  |
 | [CALLING YOUR NAME](https://open.spotify.com/track/44Wm2KPh2HCivsZEudvhC4) | [LINK](https://open.spotify.com/artist/20kaxHgwoxhckhw90pyRbb) | [CALLING YOUR NAME](https://open.spotify.com/album/3i1KoE2XJkpkkyjxr31wFH) | 4:21 | 2023-11-13 |  |
 | [Came 2 Rave!](https://open.spotify.com/track/6aEcdWLLt3xI0CJqWs1WTV) | [Al Storm](https://open.spotify.com/artist/12CfGGtVpvaQVgoQaFy7kM), [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7) | [Came 2 Rave!](https://open.spotify.com/album/0iDIWMl1uMDpU5F5bhPVGz) | 4:18 | 2023-09-22 |  |
+| [Can you feel it](https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:00 | 2024-05-22 |  |
 | [Can You Feel The Love \- Radio Edit](https://open.spotify.com/track/0IV3rPb3TebEgigzfcY5Vd) | [Riko](https://open.spotify.com/artist/6VZ658qB3goLJXy084ROQs), [Krayze](https://open.spotify.com/artist/4q1ag2CrQMOL87AkSNtvOA) | [Can You Feel The Love](https://open.spotify.com/album/6FiB3syZRasiVDz1mWDSPV) | 3:58 | 2023-09-22 |  |
 | [CAN YOU MAKE IT HARDER?](https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [CAN YOU MAKE IT HARDER?](https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG) | 2:36 | 2023-10-09 |  |
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-09 |  |
@@ -691,6 +692,7 @@
 | [LET THE BASS GO](https://open.spotify.com/track/6Nu8Ek8HhQLthr9OcoqZKe) | [TYEGUYS](https://open.spotify.com/artist/2asjtW7K4OnBYGQ0zBqi4F), [Water Spirit](https://open.spotify.com/artist/6kDrYhgzsmoiuwHbzWgA41) | [LOCO / LET THE BASS GO](https://open.spotify.com/album/0A5BBNeMiYjoFu2gaON8cW) | 2:09 | 2023-06-09 |  |
 | [Let You Go](https://open.spotify.com/track/0hcu80huViWXXgblBH9STD) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Let You Go](https://open.spotify.com/album/1T23jgHKLzraqMGiIa5c4L) | 4:41 | 2022-08-14 |  |
 | [Let's Go](https://open.spotify.com/track/6XK6qCTQgLT0FiyFqq7BIO) | [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [What's My Name](https://open.spotify.com/album/6Lkp5DdAuf9E2uZAfgMbqJ) | 1:56 | 2023-03-21 |  |
+| [Let's go](https://open.spotify.com/track/4KQfv7fDJnqkMsqR6MZQq2) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4), [Heaven's Demon](https://open.spotify.com/artist/3q44TsjKfwQZjkqIVJjSLa) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:17 | 2024-05-22 |  |
 | [Let's Go](https://open.spotify.com/track/10DCKF5HGuad1Ioeb355j3) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Let's Go](https://open.spotify.com/album/3EJWanj2h0RrlvlRaqq6HL) | 2:50 | 2022-09-06 |  |
 | [Let's Sing \- DJ Shimamura Remix](https://open.spotify.com/track/6Z5NMby96dqTy3zZsj2T1i) | [P\*Light](https://open.spotify.com/artist/7A5iW5McqgmSz4uV12zw5J), [DJ Shimamura](https://open.spotify.com/artist/3w4XD20Uhwh95PA6Hjfd0M), [\*airi](https://open.spotify.com/artist/1KBcER9QPRIhAhea2D8HOU) | [Are You Happy?](https://open.spotify.com/album/0B0PdUAbqQfLayFyb8mSUk) | 5:20 | 2024-05-03 |  |
 | [Letting Go](https://open.spotify.com/track/703GoxcjoOMHoksudToNSY) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv) | [Letting Go](https://open.spotify.com/album/5U5eNnELP8KF5YwY0PjOZo) | 2:56 | 2023-04-28 |  |

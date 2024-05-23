@@ -5,6 +5,54 @@
   "tracks": [
     {
       "album": {
+        "name": "16",
+        "url": "https://open.spotify.com/album/6gmvmAQvthM3tyXqOaOyFX"
+      },
+      "artists": [
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        },
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221754,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1DaiV2h1XWvqpyxJ25Q6Cs"
+    },
+    {
+      "album": {
+        "name": "4 AM",
+        "url": "https://open.spotify.com/album/1avwAILe1EKoT0yzL3sikg"
+      },
+      "artists": [
+        {
+          "name": "Alarmin",
+          "url": "https://open.spotify.com/artist/5EJimw4J7NPLFxG5dPscPM"
+        },
+        {
+          "name": "Z\u00f8ie X",
+          "url": "https://open.spotify.com/artist/6g9htvUdEJA5WrG8YX16gY"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231678,
+      "name": "4 AM",
+      "url": "https://open.spotify.com/track/6LS3774BZi0uDWh7ks7uUi"
+    },
+    {
+      "album": {
         "name": "4U",
         "url": "https://open.spotify.com/album/1QHGzZ6hs7tX6SWThqRTa1"
       },
@@ -46,6 +94,28 @@
       "duration_ms": 196560,
       "name": "A Moment Apart - camoufly Remix",
       "url": "https://open.spotify.com/track/1LGEamUOVpiXa1RPsdhoH7"
+    },
+    {
+      "album": {
+        "name": "Alarm",
+        "url": "https://open.spotify.com/album/30ce73zUonp7zKRiOGuc8X"
+      },
+      "artists": [
+        {
+          "name": "The Kudu",
+          "url": "https://open.spotify.com/artist/4MpZp62IK0JU1LLxJtLbpJ"
+        },
+        {
+          "name": "Mylo",
+          "url": "https://open.spotify.com/artist/4cZHqxNseNd2knwVE7LoGD"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137633,
+      "name": "Alarm",
+      "url": "https://open.spotify.com/track/3cxrdZORNFFpro4z4jx4j8"
     },
     {
       "album": {
@@ -191,6 +261,32 @@
     },
     {
       "album": {
+        "name": "Crowns (Remixes EP)",
+        "url": "https://open.spotify.com/album/6q7mxB7vCLSsrvKdARWCUv"
+      },
+      "artists": [
+        {
+          "name": "Valoramous",
+          "url": "https://open.spotify.com/artist/6fon03TINlPtll8gi3RNnD"
+        },
+        {
+          "name": "The Safety Word",
+          "url": "https://open.spotify.com/artist/0ACJc7XJoVM9j1HeuAtLRX"
+        },
+        {
+          "name": "Clawdeeoh",
+          "url": "https://open.spotify.com/artist/4kKJDaJnThXkDRW4mPZcbS"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Crowns - Clawdeeoh Remix Radio Edit",
+      "url": "https://open.spotify.com/track/56Nts76uGoEDtD6vGNimv1"
+    },
+    {
+      "album": {
         "name": "Dark Days Are Gone (feat. Sam Martin)",
         "url": "https://open.spotify.com/album/1vhDEMORlCzf5L6vhKkjmr"
       },
@@ -267,7 +363,7 @@
         },
         {
           "name": "L\u00e9\u00f8na",
-          "url": "https://open.spotify.com/artist/5ZnHJck40tqeQlhVsgZ2UG"
+          "url": "https://open.spotify.com/artist/4hl3MHpB3Ig1FYC3XNP592"
         }
       ],
       "date_added": "2024-05-17",
@@ -666,6 +762,10 @@
           "url": "https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW"
         },
         {
+          "name": "Dimitri Vegas",
+          "url": "https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO"
+        },
+        {
           "name": "Kiki Solvej",
           "url": "https://open.spotify.com/artist/3REA7BOURYizezV7PGQJEW"
         }
@@ -807,6 +907,24 @@
     },
     {
       "album": {
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/3LLdD3YI9wQCetxg973Pxu"
+      },
+      "artists": [
+        {
+          "name": "BXNNED",
+          "url": "https://open.spotify.com/artist/1OOAnuIBOoa0sri75C0YI5"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256510,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/5rJXO2UhZhp19J6MYnZFpc"
+    },
+    {
+      "album": {
         "name": "Role Model",
         "url": "https://open.spotify.com/album/3sxeCXtywWoYIcpGj5aGKm"
       },
@@ -925,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Sunset Beats",
+        "url": "https://open.spotify.com/album/46z175RsDXrmHAGEByKPsA"
+      },
+      "artists": [
+        {
+          "name": "Rojo B Cruz",
+          "url": "https://open.spotify.com/artist/6fAHflV1g6KRvdT6sr8pTt"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174455,
+      "name": "Sunset Beats",
+      "url": "https://open.spotify.com/track/74g6lGQe6Rht912FDH0r4q"
+    },
+    {
+      "album": {
         "name": "Talamanca",
         "url": "https://open.spotify.com/album/7JR24UsUPwhMVz0RHezHFE"
       },
@@ -940,6 +1076,24 @@
       "duration_ms": 171428,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/6tkNASWMUnomZ4ixePCUAY"
+    },
+    {
+      "album": {
+        "name": "This Groove is Crazy",
+        "url": "https://open.spotify.com/album/3hIngv3IPHV0eOvtO71HzE"
+      },
+      "artists": [
+        {
+          "name": "Robbie Rivera",
+          "url": "https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "This Groove is Crazy",
+      "url": "https://open.spotify.com/track/1h8ob2eHXpG911xD5XudtX"
     },
     {
       "album": {
@@ -983,6 +1137,28 @@
     },
     {
       "album": {
+        "name": "King Energy EP",
+        "url": "https://open.spotify.com/album/3WsGBsnA3c31FX8H5YLbk1"
+      },
+      "artists": [
+        {
+          "name": "Lowke",
+          "url": "https://open.spotify.com/artist/1qCQF0OXEwcYJ4hSmeKNsk"
+        },
+        {
+          "name": "R\u00d8NAN",
+          "url": "https://open.spotify.com/artist/4hr35IZgAg6mylpvu609Qs"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165428,
+      "name": "Verified",
+      "url": "https://open.spotify.com/track/1u4ouv3VvVk87iV1GigTnb"
+    },
+    {
+      "album": {
         "name": "Walk The Edge (RAM Remix)",
         "url": "https://open.spotify.com/album/1nvwod8b8AhmuVRUdJK1Ir"
       },
@@ -1002,6 +1178,24 @@
       "duration_ms": 175798,
       "name": "Walk The Edge - RAM Remix",
       "url": "https://open.spotify.com/track/715vUT3JBbofalXrb2g6iH"
+    },
+    {
+      "album": {
+        "name": "you are mine",
+        "url": "https://open.spotify.com/album/5SOrvURLv4rO1D3Wyy0Oxz"
+      },
+      "artists": [
+        {
+          "name": "sincerely Lue.",
+          "url": "https://open.spotify.com/artist/68bqztJbjbjG36rYWZ0D5Y"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234240,
+      "name": "you are mine",
+      "url": "https://open.spotify.com/track/5T1tAWGyTnPTLBkukw0RGN"
     },
     {
       "album": {

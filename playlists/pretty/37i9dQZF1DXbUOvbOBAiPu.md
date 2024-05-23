@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,014 likes - 90 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,018 likes - 90 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 89 | [I Lose 3x](https://open.spotify.com/track/2NUx9qTDo8pwU4lpFZPVPF) | [Bodine Monet](https://open.spotify.com/artist/3yYjWBj7KIlhTtr8LPeKVz) | [I Lose 3x](https://open.spotify.com/album/4hMsl7DDQDfusdUAaKhR5F) | 3:36 |
 | 90 | [Tsss](https://open.spotify.com/track/2N00KvAyMb0OpXiLuRXgKk) | [MajinBluu](https://open.spotify.com/artist/7k7pi3pFlAWc50LlIkB3sh), [Scottie](https://open.spotify.com/artist/2DuqP12YUTiGJ6nqyEcx8k) | [Tsss](https://open.spotify.com/album/6JcCiIREen3bEcPp6fHoTM) | 1:56 |
 
-Snapshot ID: `Zkca9AAAAAB3TVg+qSHHFLfkVXYZ/kH2`
+Snapshot ID: `Zk36PQAAAABZzPLtD+WKutd3I9w5r5UP`

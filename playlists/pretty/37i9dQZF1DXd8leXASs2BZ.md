@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,659 likes - 107 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,667 likes - 107 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

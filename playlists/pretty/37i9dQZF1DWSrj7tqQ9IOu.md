@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > The best French indie tracks right now\. Cover : Kazy Lambist
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,024 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,033 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 49 | [Superpouvoirs](https://open.spotify.com/track/4H9bfPHh0Kn298kVKb1Vlo) | [Petit Nuage](https://open.spotify.com/artist/3Fda0TI4lWfXB9c9R4xLyg) | [Superpouvoirs](https://open.spotify.com/album/1s03eumLRPRG0deQfniyds) | 2:34 |
 | 50 | [C'est ton truc](https://open.spotify.com/track/21cdxCXMIgweW3yZuWNn5V) | [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [C'est ton truc](https://open.spotify.com/album/4Id8NPFlQigLDmpob64QPo) | 2:50 |
 
-Snapshot ID: `ZkaCHAAAAADW0G+HfzWZCqSJ8KTlGSNW`
+Snapshot ID: `Zk3QMAAAAADEbdvyyndGTAMps87HW8h4`

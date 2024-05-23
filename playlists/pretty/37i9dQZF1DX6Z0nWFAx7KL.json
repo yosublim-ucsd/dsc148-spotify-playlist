@@ -1,6 +1,6 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 49737,
+  "num_followers": 49745,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -87,26 +87,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "PLANT",
-          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
-        }
-      ],
-      "duration_ms": 158031,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Far Beyond",
         "url": "https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5"
       },
@@ -127,6 +107,26 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/3CVaImUrMiIWsweWKRPeN0"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "PLANT",
+          "url": "https://open.spotify.com/artist/2b2PRT5intoFoG9KPB3Nyq"
+        }
+      ],
+      "duration_ms": 158031,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/7sfpydlJrHpTi533idUuZV"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "A Fire Inside Of Me",
         "url": "https://open.spotify.com/album/5HH7aYCowVuzif3gYObhbu"
       },
@@ -139,42 +139,6 @@
       "duration_ms": 238080,
       "name": "A Fire Inside Of Me",
       "url": "https://open.spotify.com/track/3N5JcXOMWU0J1lZcJrAVms"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Waiting All My Life",
-        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Waiting All My Life",
-      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "2 Much",
-        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
-      },
-      "artists": [
-        {
-          "name": "Cookie Crumble",
-          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
-        },
-        {
-          "name": "Lenji",
-          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
-        }
-      ],
-      "duration_ms": 138026,
-      "name": "2 Much",
-      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -199,6 +163,42 @@
       "duration_ms": 163410,
       "name": "Found It With You",
       "url": "https://open.spotify.com/track/1ShSONF1T74kfTEakluK40"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "2 Much",
+        "url": "https://open.spotify.com/album/2uyBSSOL4xLjy1AKiySCbc"
+      },
+      "artists": [
+        {
+          "name": "Cookie Crumble",
+          "url": "https://open.spotify.com/artist/4TwUyusgsQc4Pfr6GlEd5V"
+        },
+        {
+          "name": "Lenji",
+          "url": "https://open.spotify.com/artist/4NyAVAttRLmlUpV7HpgLfR"
+        }
+      ],
+      "duration_ms": 138026,
+      "name": "2 Much",
+      "url": "https://open.spotify.com/track/7twp7m9ZSxWwWyPgimocpH"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Waiting All My Life",
+        "url": "https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Waiting All My Life",
+      "url": "https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -627,46 +627,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Black & Blue",
-        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Not Your House",
-        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
-      },
-      "artists": [
-        {
-          "name": "Satin Jackets",
-          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
-        },
-        {
-          "name": "Usually Quiet",
-          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
-        }
-      ],
-      "duration_ms": 235918,
-      "name": "Not Your House",
-      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Madness",
         "url": "https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ"
       },
@@ -687,6 +647,46 @@
       "duration_ms": 178909,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Black & Blue",
+        "url": "https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Escaping",
+        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
+      },
+      "artists": [
+        {
+          "name": "Bellestar",
+          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+        },
+        {
+          "name": "Urban Love",
+          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Escaping",
+      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -731,22 +731,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Escaping",
-        "url": "https://open.spotify.com/album/5slrIsKwwsPYUheEWRKQMn"
+        "name": "Not Your House",
+        "url": "https://open.spotify.com/album/4hKeNnaXXJ901davvlWHuZ"
       },
       "artists": [
         {
-          "name": "Bellestar",
-          "url": "https://open.spotify.com/artist/004F88I7EWH54o9jNfUbEn"
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
         },
         {
-          "name": "Urban Love",
-          "url": "https://open.spotify.com/artist/6sZREHX9XWWC5van5XX6Q7"
+          "name": "Usually Quiet",
+          "url": "https://open.spotify.com/artist/1O1HvB6EYifPQ5udFJnL6j"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Escaping",
-      "url": "https://open.spotify.com/track/4Wwks4OJMfW07eu4RQ6wOR"
+      "duration_ms": 235918,
+      "name": "Not Your House",
+      "url": "https://open.spotify.com/track/48GVZUhF5IOr97zW7pCEoy"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Eagle",
-        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
-      },
-      "artists": [
-        {
-          "name": "Mats Westbroek",
-          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
-        }
-      ],
-      "duration_ms": 184994,
-      "name": "Eagle",
-      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Anything",
         "url": "https://open.spotify.com/album/1UdsVPkJmTx4ITfeVnL8bF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 143606,
       "name": "Anything",
       "url": "https://open.spotify.com/track/74bv7UX4lmiu5ukPgHOUcY"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Eagle",
+        "url": "https://open.spotify.com/album/4Crz6njLs2cLjs3OTdpzKs"
+      },
+      "artists": [
+        {
+          "name": "Mats Westbroek",
+          "url": "https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA"
+        }
+      ],
+      "duration_ms": 184994,
+      "name": "Eagle",
+      "url": "https://open.spotify.com/track/5Hvj61IXD0Y4MBGossQ2Zk"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "All Shook Up",
-        "url": "https://open.spotify.com/album/4q97x8AkvkiHUPtWvgrU83"
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
       "artists": [
         {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "ECH\u014cWALL",
+          "url": "https://open.spotify.com/artist/0wNQ7AjdPL8uDAiSKVLXAS"
         }
       ],
-      "duration_ms": 154838,
-      "name": "All Shook Up",
-      "url": "https://open.spotify.com/track/2Gau2T1kADcSNw11VS01Xu"
+      "duration_ms": 156375,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
     }
   ],
   "unique_name": "Dance Chill",

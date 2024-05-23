@@ -2,7 +2,7 @@
 
 ### [una playlist felice](https://open.spotify.com/playlist/37i9dQZF1DWT888el8RDPq)
 
-> canzoni felici italiane e internazionali per una primavera presa bene
+> canzoni felici italiane e internazionali per un'estate presa bene
 
 367 songs - 18 hr 28 min
 

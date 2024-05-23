@@ -2,7 +2,7 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Mikayla Geier
+> Discover the next wave of talent on the scene writing their own songs\. Cover: Greyson Chance
 
 672 songs - 1 day 11 hr 42 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Billie Eilish
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,012 likes - 109 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,016 likes - 109 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 73 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
 | 74 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 75 | [Ocean in Your Vein](https://open.spotify.com/track/2yO2nmqFNG2zuJlk10HBsx) | [Cove Diamond](https://open.spotify.com/artist/2BElGCSX2adO5TEMe07ESf) | [Ocean in Your Vein](https://open.spotify.com/album/6KKnqE04N6iX9BzjQuPCNo) | 3:15 |
-| 76 | [Lächeln](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 |
+| 76 | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/track/6og1RW6aAL3yvikwDZry2s) | [Katy B Diamond](https://open.spotify.com/artist/0LZIINuynL1bpxyMFmQCq4) | [Lächeln \(Wenn ich wein\)](https://open.spotify.com/album/6hCpPMG7xE161VOeyWTC1r) | 2:09 |
 | 77 | [Let It Shine](https://open.spotify.com/track/0n5kHF9fCQYcQ21ebiwFNY) | [Henry And The Waiter](https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn) | [Let It Shine](https://open.spotify.com/album/6wOlIrOsZThdaqQFxN6yk9) | 2:25 |
 | 78 | [Shut Up About It](https://open.spotify.com/track/22anHevRPlC1njepJ7FOvE) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Simple Like 17 \(Deluxe\)](https://open.spotify.com/album/4mSakdxl4oMzEMWeUxr37a) | 3:18 |
 | 79 | [Kanape](https://open.spotify.com/track/3wsvMgs5DtrBxkQlYu9XhT) | [Loamsiada](https://open.spotify.com/artist/10IVjENK2jibo2cAEnZn4a) | [Kanape](https://open.spotify.com/album/6YaG8XVeS48MjGpk6Z1L6U) | 3:40 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: O Daapun, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Fiddlecraft, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -3569,6 +3569,24 @@
     },
     {
       "album": {
+        "name": "Chalte hai wahan",
+        "url": "https://open.spotify.com/album/67q6Zsmoyd1VgJrtSRnwro"
+      },
+      "artists": [
+        {
+          "name": "Sparsh Jain",
+          "url": "https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165936,
+      "name": "Chalte hai wahan",
+      "url": "https://open.spotify.com/track/0wIiL1mUXT78n57W69ae22"
+    },
+    {
+      "album": {
         "name": "Chalte Jaana",
         "url": "https://open.spotify.com/album/1T0ZK7Ez5HyuL7HjCfzC59"
       },
@@ -5257,6 +5275,10 @@
         "url": "https://open.spotify.com/album/1GHl8AIXqqKnKSKu1bDr8m"
       },
       "artists": [
+        {
+          "name": "Nikhil Shetty",
+          "url": "https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ"
+        },
         {
           "name": "Nikhil And Rishabh",
           "url": "https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l"
@@ -9849,6 +9871,24 @@
     },
     {
       "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/7qHIUjr8i06msD20NVimEM"
+      },
+      "artists": [
+        {
+          "name": "Fiddlecraft",
+          "url": "https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302222,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/4JG9xQh4gppzjB9aArwj89"
+    },
+    {
+      "album": {
         "name": "Josephine On The Floor",
         "url": "https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4"
       },
@@ -12498,7 +12538,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 226663,
       "name": "Laut Aao",
       "url": "https://open.spotify.com/track/1mTbcETPy7i8zwTIFNCG9p"
@@ -17962,7 +18002,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 171214,
       "name": "Saavan",
       "url": "https://open.spotify.com/track/0kTTSKEauNeCYp9YWYDu8d"

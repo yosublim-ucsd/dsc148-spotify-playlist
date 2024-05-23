@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Cover: Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,450 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,454 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 99 | [Crepuscolo](https://open.spotify.com/track/44F4bqGIhKirUSSf3kLX3g) | [Mandark](https://open.spotify.com/artist/0Y6B1fQJ0pFHBzYRRN8Bp6) | [Crepuscolo](https://open.spotify.com/album/0FsMV9DUvjF9aJHU91ME9B) | 2:43 |
 | 100 | [Lady Blue](https://open.spotify.com/track/3FvKihEBLCxOUJKmgDDcf8) | [Maximilian](https://open.spotify.com/artist/2ysBLiVHbTXWPcYXNE9U4m) | [Lady Blue + Mi annoia](https://open.spotify.com/album/1gtOjANtq3zsSaoLp7AwYY) | 3:12 |
 
-Snapshot ID: `ZkaCHAAAAADbhLc5Mqk/UbbLUeBom3JW`
+Snapshot ID: `Zk3QMAAAAADWLlnCH3KkgU12V0ZlwKVZ`

@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: Tsu Nami\. Artwork by Rewina Beshue.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,349 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,669 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [LET THE MUSIC PLAY](https://open.spotify.com/track/5Www92j9UCkB0NZJTWnvcg) | [AUGIS](https://open.spotify.com/artist/2UlsuMqDGywuSw0FT1rfbb), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [LET THE MUSIC PLAY](https://open.spotify.com/album/2NiQ2hHA5xPLjvbG4wcpqp) | 2:57 |
 | 2 | [Everything's Gonna Be Fine](https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [Everything's Gonna Be Fine](https://open.spotify.com/album/7C6emRYpSMajc4kds3tLxJ) | 3:39 |
-| 3 | [One \- Edit](https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [One \(Edit\)](https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor) | 4:00 |
+| 3 | [Bring The Beat](https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [Bring The Beat](https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy) | 2:30 |
 | 4 | [Get U All The Way](https://open.spotify.com/track/6dAvSMeDqy7PVAWGE7axm0) | [Triple M](https://open.spotify.com/artist/2Tw3Czv2kxEz8h3RILbzjT) | [Get U All The Way](https://open.spotify.com/album/6w50vSF6vixfZkzINb354E) | 2:25 |
-| 5 | [Bring The Beat](https://open.spotify.com/track/7f4xsa2uGFACKGXpZ7W2kt) | [VASA](https://open.spotify.com/artist/2AfkC7SKf63FMnxCKGbncN) | [Bring The Beat](https://open.spotify.com/album/0Pz6LyhxGTMtuSbTRl5UVy) | 2:30 |
+| 5 | [One \- Edit](https://open.spotify.com/track/6EW5n7EQKoBd306OB8penN) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [One \(Edit\)](https://open.spotify.com/album/3tixmIEv4JBngTWmWZFvor) | 4:00 |
 | 6 | [Bebé](https://open.spotify.com/track/3toqyoTLmmXxqf9JmGdiLX) | [Sloujin](https://open.spotify.com/artist/1SVGLbXBihRMJWiImKwPOe) | [Bebé](https://open.spotify.com/album/65gP9MmcCUBQHGTovrOoGx) | 2:58 |
 | 7 | [Loco](https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86) | [Enzo is Burning](https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB) | [Loco](https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l) | 3:27 |
 | 8 | [Mutually Exclusive](https://open.spotify.com/track/4Z0lNl33lyqGPu1p6HsAun) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL) | [Mutually Exclusive](https://open.spotify.com/album/0IHHSEBwmKdmSwn2tjRmwR) | 3:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [No Good](https://open.spotify.com/track/1FMx9xm0tf53HCh1T6TXK0) | [Joe Mattei](https://open.spotify.com/artist/0SL9C2lAw80S3N4IHFpaI6) | [No Good](https://open.spotify.com/album/2R5jWJMZNtsNYdWAJ4GYEs) | 3:35 |
 | 100 | [Sculptor](https://open.spotify.com/track/5ycwhQoLUvrmaOXo8x1lLZ) | [Villager](https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7) | [Sculptor EP](https://open.spotify.com/album/2B50Q0XcyJa3wCnowd44ca) | 5:08 |
 
-Snapshot ID: `ZkbWQAAAAABizIh5zgjgzsxK4NQTREXc`
+Snapshot ID: `Zk3QMAAAAAAYwU5U9B5yAzotPznrontd`

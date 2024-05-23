@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 
 > From Lagos to Zambia, find classic African psychedelic rock & funk jams here! Cover: <a href="spotify:artist:05LK9pT8ScfWNT0UbDsyqe">Ofege</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,871 likes - 47 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,971 likes - 47 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVyizF9BJ61m.md) - [plain]
 | 46 | [In the Jungle \- Instrumental](https://open.spotify.com/track/4bGdBAWrCkz4ZxXbWOreoK) | [The Hygrades](https://open.spotify.com/artist/6kP2CQaCRWY4aTw6hzLfXU) | [Nigeria Rock Special: Psychedelic Afro\-Rock & Fuzz Funk in 1970's Nigeria](https://open.spotify.com/album/3da6by8KHBpcDs75FF4lDV) | 3:09 |
 | 47 | [You Are My Heart](https://open.spotify.com/track/0Ky98GMSlZQdctbAhU3I0Z) | [Rex Williams](https://open.spotify.com/artist/5KSFuLEiUvKeFg1tssgfuV) | [Nigeria 70 \- Lagos Jump](https://open.spotify.com/album/3oMy0b5i9EbBUR02bYIKZv) | 3:13 |
 
-Snapshot ID: `ZcUB7gAAAACKto8lgw2phhzfXumrLdVt`
+Snapshot ID: `Zk3QMAAAAAD+DgNdVXOV0LOAtekZiTvj`

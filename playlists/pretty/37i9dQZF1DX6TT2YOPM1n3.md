@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 
 ### [Pakka Hit Hai](https://open.spotify.com/playlist/37i9dQZF1DX6TT2YOPM1n3)
 
-> Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
+> Hai Hai Hoye Hoye Home to current Pakistani Hits\. 🇵🇰 Cover: Kaavish, Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,732 likes - 55 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,753 likes - 55 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6TT2YOPM1n3.md) - [plain]
 | 54 | [Kahani Meri](https://open.spotify.com/track/2dMlTWQbY9tfPFLIqAa7Tv) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Anmol Daniel](https://open.spotify.com/artist/0kcv0RnAZxw2dnUwq7bz9h) | [Kahani Meri](https://open.spotify.com/album/35slzJUJmUi2jQ8SZ7xSEc) | 2:19 |
 | 55 | [BIG DAWG THING \(feat\. JJ47, Talha Anjum, Shamoon Ismail & Talhah Yunus\)](https://open.spotify.com/track/7bT78WsTtxts1c6cb2mSnP) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 5:01 |
 
-Snapshot ID: `Zkbs+wAAAACLtv25fyW8c0f93jOYN3yp`
+Snapshot ID: `Zk3xlgAAAAC23cSaYZzjlJ1o2BG3nqwp`

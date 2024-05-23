@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 
 > The Finest In Jazz Since 1939
 
-[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 44,107 likes - 122 songs - 13 hr 9 min
+[Blue Note Records](https://open.spotify.com/user/bluenoterecords) - 44,110 likes - 122 songs - 13 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/5TtGuJhGPKgrjZ9Hd9C3Hn.md) - [plain]
 | 40 | [Cantaloupe Island \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/0sCeNwt8xRCMR4NhKpMyBe) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Empyrean Isles \(Expanded Edition\)](https://open.spotify.com/album/5HCi1WVOT9SGks2deeceFu) | 5:33 |
 | 41 | [Cornbread](https://open.spotify.com/track/7iPjzOaZiNXp0I8vOCcVZV) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Cornbread](https://open.spotify.com/album/5aY4PliFxsCd55sgU5A2KQ) | 9:03 |
 | 42 | [Adam's Apple \- Remastered](https://open.spotify.com/track/0QRcIGOrLvLNhIB9SLXW9F) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 6:49 |
-| 43 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 |
+| 43 | [Broad Way Blues](https://open.spotify.com/track/3ASbn4OVbcg1tnSjmdyREe) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [New York Is Now!](https://open.spotify.com/album/5YExsVX6QRDHsLJLLm4ogy) | 8:43 |
 | 44 | [Reza](https://open.spotify.com/track/6IgVY53j5gJXOHRHLscYp4) | [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Puttin' It Together](https://open.spotify.com/album/5JkyHalhn8Ml6KhwZBYfBp) | 7:13 |
 | 45 | [Hat And Beard](https://open.spotify.com/track/2VzRmb0GCPDBv6FddHGu7s) | [Eric Dolphy](https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp) | [Out To Lunch \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3PIVqZzL1PnrxFZDzuT1aX) | 8:24 |
 | 46 | [New Monastery \- Rudy Van Gelder Edition/1999 Remaster](https://open.spotify.com/track/5K6jQyCr2sxKMvcBLI6Zfv) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Point Of Departure \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/647o8vl4OD1sjvvhql3jFS) | 7:05 |

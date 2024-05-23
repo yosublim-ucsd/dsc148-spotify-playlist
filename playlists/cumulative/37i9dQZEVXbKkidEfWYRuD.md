@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,492 songs - 2 day 21 hr 22 min
+1,493 songs - 2 day 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,7 +624,7 @@
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/15HMh4yxdf4wyxSZSlOgGZ) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4lYcrnwCwPmh63E03VyAv2) | 3:24 | 2021-11-07 | 2021-11-19 |
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2021-11-25 | 2022-06-17 |
 | [Saloon](https://open.spotify.com/track/6hoU9YjR1Roq2Zez5qTPWU) | [MiyaGi & Endspiel](https://open.spotify.com/artist/6L5bLEtpxwd0KOdOr3gtW4) | [HATTORI](https://open.spotify.com/album/5AyqSPIOfYqVDIwAOdAPSi) | 2:46 | 2022-10-29 | 2022-11-05 |
-| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 | 2024-05-22 |
+| [Salut papa](https://open.spotify.com/track/0TskfugKgc0Dj6Afw0jdmu) | [KOLA](https://open.spotify.com/artist/3DUi7MrtGNXwgYKAG3mBCh) | [Salut papa](https://open.spotify.com/album/0FHDJmFpabnyZypQhDyPZ6) | 2:34 | 2024-05-20 |  |
 | [SANTA DADDY](https://open.spotify.com/track/1AHMBgE9uJ5VFObhPxsbCK) | [Nikitata](https://open.spotify.com/artist/6w5qVRuob9t7rfBj9vQfJl) | [SANTA DADDY](https://open.spotify.com/album/6FCa38abpdriSzHAxERCur) | 2:10 | 2022-12-24 | 2022-12-29 |
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2022-01-01 | 2024-01-03 |
 | [Saturday](https://open.spotify.com/track/60dwJ8dnqZ4WrIdiu7LkNR) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Scaled And Icy](https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ) | 2:52 | 2021-05-23 | 2021-05-25 |
@@ -1060,7 +1060,7 @@
 | [Капли](https://open.spotify.com/track/0LwPFTgtNaQrfyWHM42Z83) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [Дора](https://open.spotify.com/artist/2eiThpX5zH6LFmqP2HY1hL) | [Капли](https://open.spotify.com/album/2G5WhV5vAbitKizDrCX8ry) | 2:40 | 2022-04-16 | 2022-04-25 |
 | [Карманы](https://open.spotify.com/track/4VMD5B8Om6Oo7fFhMOcyGg) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 5:12 | 2021-12-18 | 2021-12-19 |
 | [Карусель](https://open.spotify.com/track/7hTEDmot0y3DilKQZid6Q9) | [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [Sense Of Human](https://open.spotify.com/album/1cV2HrhbAAlW4F348o8Bxm) | 2:28 | 2021-10-17 | 2021-10-23 |
-| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 |  |
+| [Касета](https://open.spotify.com/track/4MQmxIxM5CXKjdq4IrCWhd) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:24 | 2022-04-20 | 2024-05-23 |
 | [Квіти](https://open.spotify.com/track/1BBXxqH8gdhsic0GeKD11U) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Квіти](https://open.spotify.com/album/7oSD0T1aolSFWD1nYwM4YQ) | 2:01 | 2023-06-17 | 2023-06-19 |
 | [Киллер \(Prod\. by malenkiyyarche x kayyo\)](https://open.spotify.com/track/3d67iioYf1Hvt2b7ncDzZv) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [ЗАПРАВКА КИД 2](https://open.spotify.com/album/2Fw2CNrwvmKKoEIgtnaara) | 1:08 | 2021-03-27 | 2021-03-29 |
 | [кискис](https://open.spotify.com/track/6yUw6FLB1g8DqZUv7S5TKA) | [zhanulka](https://open.spotify.com/artist/260kWe4y9lg7YFDsZBgsLv) | [кискис](https://open.spotify.com/album/6ursd41l2w1YvIgiYIVtDK) | 2:50 | 2021-04-03 | 2021-04-28 |
@@ -1130,8 +1130,9 @@
 | [Мне это не нужно](https://open.spotify.com/track/1I08Gc6g5fK9zEWNZASQzq) | [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [Тебя любят там где меня нет](https://open.spotify.com/album/3eayFI3gTLNnDoJs39o5V9) | 3:27 | 2022-11-19 | 2022-12-11 |
 | [Может Расскажешь, Что Ты Чувствуешь \(Главные Ворота\)](https://open.spotify.com/track/6ABWiqJMSrd4XZ4t7kJzeu) | [PHARAOH](https://open.spotify.com/artist/1F8usyx5PbYGWxf0bwdXwA) | [PHILARMONIA](https://open.spotify.com/album/4TqFHsIfmRgHNB3FLL5pKI) | 2:26 | 2022-11-26 | 2022-11-28 |
 | [МОЖНО СФОТКАТЬСЯ?](https://open.spotify.com/track/4SW7uB5wCBgMRlCwqABPuA) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: HAPPINESS](https://open.spotify.com/album/1gy6IjmdOtzqJ2BtLDb7HQ) | 1:04 | 2021-05-22 | 2021-05-26 |
+| [Можно я с тобой](https://open.spotify.com/track/0MRBhe9wjupFpmdKGh3Xhp) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/1P6jao46qEoaobNco6B0yl) | 2:12 | 2024-05-22 |  |
 | [Можно я с тобой](https://open.spotify.com/track/2KlFcj8nBHh4VSg7lkQOqJ) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой](https://open.spotify.com/album/2v232fMW91TYINJUwtgwOB) | 2:12 | 2024-03-04 | 2024-03-14 |
-| [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 |  |
+| [Можно я с тобой \(can i come with you\)](https://open.spotify.com/track/4CvrZAA0I1rG4tlvwYydi4) | [AP$ENT](https://open.spotify.com/artist/6oiinpr7kwRmyWKVDTZgRT) | [Можно я с тобой \(can i come with you\)](https://open.spotify.com/album/7Kc9koYXi87S1nPJ9EOZmK) | 2:12 | 2024-03-13 | 2024-05-23 |
 | [Мой байк](https://open.spotify.com/track/4ZXE5Lwt3DiQ1J66nP8YQj) | [СЕРЕГА ПИРАТ](https://open.spotify.com/artist/5IS4dQ9lDW01IY1buR7bW7) | [Мой байк](https://open.spotify.com/album/2a1MEcQrArJo6GIzsKo08P) | 2:54 | 2022-02-23 | 2022-02-28 |
 | [Молодість](https://open.spotify.com/track/0wpkj8A7T1CjIul0XQtkqK) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G) | [Cassette](https://open.spotify.com/album/0Wn5sHYtC7vPPX0n2AVJmF) | 2:30 | 2022-05-30 | 2023-10-18 |
 | [Молча](https://open.spotify.com/track/1BjBE6bfBbDnGmDhDItaKP) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ) | [СХИК2](https://open.spotify.com/album/44wvsZUldIhxQ9qtnLN1ji) | 2:16 | 2023-11-11 | 2023-11-13 |

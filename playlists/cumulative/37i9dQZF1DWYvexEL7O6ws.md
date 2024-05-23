@@ -4,7 +4,7 @@
 
 > The label's essential tracks by Drake, PARTYNEXTDOOR, Naomi Sharon, Roy Woods, dvsn, and more\. Cover: <a href="spotify:artist:3TVXtAsR1Inumwj472S9r4">Drake</a> and Noah "40" Shebib
 
-165 songs - 10 hr 32 min
+166 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Lemon Pepper Freestyle \(feat\. Rick Ross\)](https://open.spotify.com/track/7hpQCQrEaYpFVgbQPNH7Mg) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Scary Hours 2](https://open.spotify.com/album/6RxuBWYLCMtRHl7IpoVuhY) | 6:21 | 2023-06-01 |  |
 | [Live Up to My Name](https://open.spotify.com/track/61mnlyQlnPuq1GEX0LxIWh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Live Up to My Name](https://open.spotify.com/album/5CAhrMWfi3ClQiaHKG8C6Z) | 3:00 | 2024-04-12 |  |
 | [Live Up to My Name](https://open.spotify.com/track/79KZAInFkxA0XLukZCGzvh) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:00 | 2023-06-01 | 2024-04-19 |
-| [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 | 2023-07-25 |  |
+| [Long Nights](https://open.spotify.com/track/0QnyUB7rJhWLEEDgcT7i8g) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Long Nights](https://open.spotify.com/album/6cVwRJ0ttMRnCIWzY8zr9D) | 2:39 | 2023-07-25 | 2024-05-23 |
 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/1aVut0Tb18c8BOpLGkfAhp) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 4:41 | 2023-06-01 | 2024-04-19 |
 | [LOYAL \(feat\. Drake and Bad Bunny\) \- Remix](https://open.spotify.com/track/6WGTfHSQtUcEx5vgpxTLCs) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 4:41 | 2024-04-12 |  |
 | [Marvins Room](https://open.spotify.com/track/047fCsbO4NdmwCBn8pcUXl) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 5:47 | 2023-06-01 | 2024-04-19 |
@@ -154,6 +154,7 @@
 | [THE NEWS](https://open.spotify.com/track/6VOjT8L5zgRFabrh4kz3YA) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 4:27 | 2024-04-12 |  |
 | [Think About Me](https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd) | 4:06 | 2023-06-01 | 2024-04-13 |
 | [Thinking About Drilling](https://open.spotify.com/track/1QLgRHLG9sQXq4Plb600kj) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Thinking About Drilling](https://open.spotify.com/album/5ZgqagL5UMDxxvEECOLeKC) | 1:59 | 2023-06-01 |  |
+| [Tonka Truck](https://open.spotify.com/track/2MFQGJmG9JH3A93AxSQGKW) | [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Tonka Truck](https://open.spotify.com/album/7jktwHuYoePFWWTeSrCaID) | 3:12 | 2024-05-22 |  |
 | [Too Deep](https://open.spotify.com/track/1AUxZY6hgoyrHTOSttSP2x) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/2XhC7JL4ULFBP1qlqoR0Vv) | 3:20 | 2023-06-01 | 2024-04-19 |
 | [Too Deep](https://open.spotify.com/track/3uSSjnDMmoyERaAK9KvpJR) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [SEPT 5TH](https://open.spotify.com/album/0jLynoED1FbV2Ky7vU6Pjc) | 3:20 | 2024-04-12 |  |
 | [Took A Trip](https://open.spotify.com/track/5dfLLn4ypq5tJaJw5INCNZ) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [Took A Trip](https://open.spotify.com/album/3HCiWvxfdUL1ptV9u4YgR6) | 1:56 | 2023-06-01 |  |

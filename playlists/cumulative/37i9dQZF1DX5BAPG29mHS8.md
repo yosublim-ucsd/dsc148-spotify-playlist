@@ -2,7 +2,7 @@
 
 ### [Éxitos México](https://open.spotify.com/playlist/37i9dQZF1DX5BAPG29mHS8)
 
-> Los hits de ahora en la playlist más grande de México\. Rels B y Junior H en portada.
+> Los hits de ahora en la playlist más grande de México\. Luis R Conriquez en portada.
 
 569 songs - 1 day 6 hr 56 min
 

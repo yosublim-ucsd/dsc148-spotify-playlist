@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY?si=QJbuh\-RjQmmrNwSQBrFQhA">Kanji Mbugua</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,182 likes - 110 songs - 9 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,237 likes - 110 songs - 9 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

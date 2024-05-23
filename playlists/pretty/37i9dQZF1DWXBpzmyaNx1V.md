@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,210 likes - 65 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,208 likes - 65 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,15 +56,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 | 46 | [Runnin](https://open.spotify.com/track/37KlI45scNKbu1ZXnRwXPj) | [DEBBY FRIDAY](https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4) | [Runnin](https://open.spotify.com/album/7Jd9oUB6lEUrSXdnn2KCeo) | 2:57 |
 | 47 | [Wako](https://open.spotify.com/track/5XxbL0FQ8PVTxkhO7NAg8s) | [Diles que no me maten](https://open.spotify.com/artist/22Gr8D6d3DlHfUYjbqtIev) | [La Vida De Alguien Más](https://open.spotify.com/album/0ALFZgR22JpKMQps1lhfzm) | 4:57 |
 | 48 | [Raiments](https://open.spotify.com/track/5IpcpeWGJl0BGb7Ke3zrS9) | [Ami Dang](https://open.spotify.com/artist/1DAqw4sYHPmgHQ6gzOVDig) | [Parted Plains](https://open.spotify.com/album/2CY7iodG7q2mC8C6GbMeTq) | 3:23 |
-| 49 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
-| 50 | [Mirrorage](https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Ring](https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7) | 3:39 |
+| 49 | [Mirrorage](https://open.spotify.com/track/1DBJlY3yRIqaScNNnkZbUy) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Ring](https://open.spotify.com/album/67jSVxuCF5y7rPizT4mLP7) | 3:39 |
+| 50 | [i/O](https://open.spotify.com/track/7f95Umg9PDh3UIdQgCTOaj) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [i/O](https://open.spotify.com/album/049Ce5l3IGtVIYsHiwqA70) | 3:15 |
 | 51 | [Los Alan Anaya Rifa](https://open.spotify.com/track/1piKVgpWdThlVRv71CCQkG) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw), [Alan Anaya](https://open.spotify.com/artist/1kvJJQdizRx7Q3FFgWuhwi) | [El Morroeste](https://open.spotify.com/album/1FaFnc7lRcUSy2fk8DSHNe) | 2:38 |
 | 52 | [The Peter Pan Syndrome](https://open.spotify.com/track/4MYP2luuQPOoK4JPHnfMmR) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [Il Visore Lunatique](https://open.spotify.com/album/60D6qJWgHKFXYJ7gf8ZRtQ) | 3:06 |
 | 53 | [Sol](https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Sol](https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF) | 3:08 |
 | 54 | [Ascenso \- Descenso](https://open.spotify.com/track/28sv0FiGwBpFS34FPKrgfR) | [Vyctoria](https://open.spotify.com/artist/2x3wpxbrl6sfLzQYaGTDgW) | [Ahora Veo Más Claro](https://open.spotify.com/album/1ZOLew9YSk4dR2ZDi9poYD) | 4:54 |
 | 55 | [Itaca Tropical](https://open.spotify.com/track/06hXume0bdbFHdbdl7BTbG) | [NOIA](https://open.spotify.com/artist/7ME5Ue2P7g1BP11FRWr7LA) | [Habits EP](https://open.spotify.com/album/0GMbhSy7bxfov0ZbiJcoMm) | 3:01 |
-| 56 | [Goldie](https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:43 |
-| 57 | [Celebra](https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 1:26 |
+| 56 | [Celebra](https://open.spotify.com/track/1PuaidNUXQxNcW1MdksTkE) | [Mengers](https://open.spotify.com/artist/2VbAt1al6lMiIM04IFZ90n) | [GOLLY](https://open.spotify.com/album/06QqjEJoq3YWDdG0FJXKU3) | 1:26 |
+| 57 | [Goldie](https://open.spotify.com/track/0NwKqhgmPMrhELT4zlE1eR) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Junior](https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N) | 4:43 |
 | 58 | [The Gods Must Be Crazy](https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [We Buy Diabetic Test Strips](https://open.spotify.com/album/3xtJ7J0TyOaMqslZdKGkoh) | 3:00 |
 | 59 | [Easy](https://open.spotify.com/track/1kCj1xjrJSldhN6bSfkDLF) | [Glasser](https://open.spotify.com/artist/2M45qKMZX16QUyOiKyluI0) | [Crux](https://open.spotify.com/album/2GvEyAvxiEyNu0Os14cZk7) | 4:02 |
 | 60 | [Hallucinogen](https://open.spotify.com/track/5OKRhphQqMrtWLMfcbiail) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5Olw4XubTcqIBtKt3U8poM) | 2:20 |

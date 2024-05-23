@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. El Pinche Mara y Gera MX en la casa.
+> Aquí vive el hip\-hop mexicano\. Toser One y Dharius en la casa.
 
 524 songs - 1 day 7 hr 29 min
 

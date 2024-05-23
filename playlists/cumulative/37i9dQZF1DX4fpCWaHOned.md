@@ -2,7 +2,7 @@
 
 ### [Confidence Boost](https://open.spotify.com/playlist/37i9dQZF1DX4fpCWaHOned)
 
-> You know we're superstars ⭐ Cover: Kesha
+> I can buy my own flowers
 
 502 songs - 1 day 3 hr 48 min
 

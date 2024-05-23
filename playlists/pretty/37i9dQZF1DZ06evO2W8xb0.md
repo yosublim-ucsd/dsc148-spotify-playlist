@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 
 ### [This Is Chief Commander Ebenezer Obey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W8xb0)
 
-> This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
+> This Is Chief Commander Ebenezer Obey\. Los temas esenciales, todos en una lista.
 
 [Spotify](https://open.spotify.com/user/spotify) - 3,044 likes - 50 songs - 10 hr 0 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 49 | [Bonus Track](https://open.spotify.com/track/5aabOGm40vt2ibeVN0SLr9) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs 50](https://open.spotify.com/album/6dqxA3R56pAP0pelY8b0N6) | 2:57 |
 | 50 | [Ojeje](https://open.spotify.com/track/2cu05uZ9A48CdfH9c3goy0) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Je Ka Jo \(Let Us Dance\)](https://open.spotify.com/album/2qJY0aFBMRfyrKu67a94e2) | 4:21 |
 
-Snapshot ID: `ZkqSgAAAAAAIYEitZzUvAE9631794dXm`
+Snapshot ID: `ZkqSgAAAAAArTMGpVk1vQhFc375ak6KY`

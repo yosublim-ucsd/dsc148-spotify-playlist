@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 
 ### [This Is Los Desvelados](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mRgcJ)
 
-> This Is Los Desvelados\. Los temas esenciales, todos en una lista.
+> This is Los Desvelados\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 452 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 455 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mRgcJ.md) - [plain]
 | 49 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 |
 | 50 | [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 |
 
-Snapshot ID: `ZkqSgAAAAAD0/WsjWQIk9Kf0rw1RBFyc`
+Snapshot ID: `ZkqSgAAAAABG3dD2vFsWJMqnt1iLr0ru`

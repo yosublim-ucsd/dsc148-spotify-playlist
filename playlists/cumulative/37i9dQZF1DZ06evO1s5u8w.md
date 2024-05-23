@@ -2,7 +2,7 @@
 
 ### [This Is Talking Heads](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1s5u8w)
 
-> This is Talking Heads แทร็กที่ไม่ควรพลาด ทั้งหมดในเพลย์ลิสต์เดียว
+> This is Talking Heads\. The essential tracks, all in one playlist.
 
 52 songs - 3 hr 41 min
 

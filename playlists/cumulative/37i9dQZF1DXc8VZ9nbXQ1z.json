@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "B27",
+        "url": "https://open.spotify.com/album/5dw5CkaR95xfNBuzvJcVL1"
+      },
+      "artists": [
+        {
+          "name": "Karyendasoul",
+          "url": "https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264255,
+      "name": "B27",
+      "url": "https://open.spotify.com/track/2oXnWipLEQOeS1b10Frd3t"
+    },
+    {
+      "album": {
         "name": "Revival EP",
         "url": "https://open.spotify.com/album/0I6Yhz0OpdICjWfDFSqIFL"
       },

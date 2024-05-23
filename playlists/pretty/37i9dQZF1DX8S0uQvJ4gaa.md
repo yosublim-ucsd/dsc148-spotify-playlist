@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,796 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,233,936 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Same Drunk](https://open.spotify.com/track/7ia6WjhKSljuub3g3KVkBG) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf) | [Sober Thoughts](https://open.spotify.com/album/0KgmDZFkeMg2HfZlKxiek8) | 3:16 |
 | 100 | [Baby Daddy's Weekend](https://open.spotify.com/track/5fqSP5pSyVoxnbFyGRjEEe) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Baby Daddy's Weekend](https://open.spotify.com/album/7uwBOtieYh0NBjJco1GsuH) | 3:03 |
 
-Snapshot ID: `ZkbWQAAAAABQFXvpRPSscy4OXdZBVqFt`
+Snapshot ID: `Zk3QMAAAAAA3jJZLNWJ/HTcCfn67Jl5Z`

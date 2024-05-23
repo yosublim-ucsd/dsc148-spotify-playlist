@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,946 likes - 108 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,044 likes - 108 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 107 | [Solo Cristo](https://open.spotify.com/track/5mWLbn5NBU5uhVJrYGdWRT) | [Titus Naveja](https://open.spotify.com/artist/3UkozH5W5OVm6KrpEbvDQQ), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Solo Cristo](https://open.spotify.com/album/46R5v469YpWp9PXAnGOxpk) | 5:15 |
 | 108 | [Tu Autoridad](https://open.spotify.com/track/0ciNudJhfiMWE48PBGW0zB) | [René González](https://open.spotify.com/artist/65cuDgm56bv2MhCytEVRRF) | [Tu Autoridad](https://open.spotify.com/album/40MFlVfN4uVqGzDWKF4xhl) | 4:01 |
 
-Snapshot ID: `ZiHsQAAAAAA8/W0V4vGRy61QBeajQKIk`
+Snapshot ID: `Zk3QMAAAAAD+oh61QautW+0QHkqC3bxR`

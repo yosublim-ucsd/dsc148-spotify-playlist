@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: BILLIE EILISH
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,188 likes - 106 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,232 likes - 106 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 105 | [Down](https://open.spotify.com/track/3DHjuag3mnQqCIxIrK4ing) | [TENGY](https://open.spotify.com/artist/40NI9ZKB9SZhfBD81Yv7pK) | [Down](https://open.spotify.com/album/4ZE5VDfheUZ4vEfez4as8Z) | 2:53 |
 | 106 | [神様](https://open.spotify.com/track/4I2UHDCZ6zLFWZibJ4mJyU) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [神様](https://open.spotify.com/album/2NuDontJsYWA564Lf7xixc) | 3:27 |
 
-Snapshot ID: `Zka4LAAAAABDNKEN0UT0xRZuAgVKY+DE`
+Snapshot ID: `Zk34MAAAAAA+VjJi/jXETFfKGXCNSw9w`

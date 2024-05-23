@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=bxHBIxCoS7qHxrs\-XtXUYQ">Zwide</a>
+> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg">Big Zulu</a>
 
 195 songs - 15 hr 36 min
 
@@ -130,7 +130,7 @@
 | [Ngiyashisa Bhe!](https://open.spotify.com/track/5T2V2jA4cPulYnMT5SUETu) | [Mfaz' Omnyama](https://open.spotify.com/artist/0JQAeDYaigl5nor0kUP44X) | [Ngiyashisa Bhe!!](https://open.spotify.com/album/0HGeXxPm0xeqMorXQXSczL) | 4:57 | 2018-09-25 | 2022-09-25 |
 | [Ngiyeza](https://open.spotify.com/track/3Pv1NcASIE987vF8t1VWVu) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Ngiyeza](https://open.spotify.com/album/5S4kyrm5mTa1PK4ur0BPIR) | 4:41 | 2023-02-02 | 2024-04-05 |
 | [Ngiyeza](https://open.spotify.com/track/7ATU7xI4ffZgPGm3QCKX4K) | [Lwah Ndlunkulu](https://open.spotify.com/artist/2h9NlcdGxIEnnh5aQuSeZ1) | [Imizwa](https://open.spotify.com/album/0wHGXy5mpIDDal77mwCqBP) | 4:41 | 2024-01-18 |  |
-| [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 | 2023-04-07 | 2024-05-17 |
+| [Ngomthetho Omdala \- Remake](https://open.spotify.com/track/3QHCcH3mQ7kVT7RgFWSIsI) | [Inkos'yamagcokama](https://open.spotify.com/artist/6wq5brCC7NSFUDJ8rL0fcF) | [Ngomthetho Omdala \(Remake\)](https://open.spotify.com/album/5R8ColLxaWu79CDJVFcSRn) | 4:29 | 2023-04-07 |  |
 | [Nguye](https://open.spotify.com/track/5rO92QmCFzqbHgbwaJnwAH) | [Intaba Yase Dubai](https://open.spotify.com/artist/2j6fdvCneiKmXX8rsYEoU6), [Malome Vector](https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw), [Wave Rhyder](https://open.spotify.com/artist/2g6Idw9wnJRWM0viAxhRRX) | [Amagama](https://open.spotify.com/album/5iPOBiXSE3zgsZctEvp0UP) | 4:03 | 2023-01-30 |  |
 | [Nguye Lo](https://open.spotify.com/track/5v3FY18Q1MxKV2GFcjgIYM) | [Ntencane](https://open.spotify.com/artist/3PKVcK4wKrfPi7qDz1odsV) | [Ngivunywe Usathane](https://open.spotify.com/album/6PnShffIuygTGwCrJiAPEN) | 4:11 | 2023-01-30 | 2023-06-23 |
 | [Njalo](https://open.spotify.com/track/7HKU5vab9h0HpPtYbRUS4X) | [Phuzekhemisi](https://open.spotify.com/artist/7exwnL9NFBRuwqUEvX8kGP) | [Ziyangiluma Izinja](https://open.spotify.com/album/1NEqGFT5ZfRJc5TwGffesn) | 4:17 | 2020-08-28 | 2023-03-10 |
@@ -142,7 +142,7 @@
 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 | 2023-08-11 |  |
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
-| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 |  |
+| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 | 2024-05-23 |
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 | 2024-01-19 |
 | [Sakhala Kamnandi](https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ) | [Umgqumeni](https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB) | [I Magic](https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN) | 4:19 | 2019-05-13 | 2023-06-16 |
 | [Sanibonani](https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Phendula](https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2) | 4:21 | 2023-01-30 | 2023-06-16 |

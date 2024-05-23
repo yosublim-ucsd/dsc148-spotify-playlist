@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "La tierra del Rap de oro puro. MC Davo en portada",
+  "description": "La tierra del Rap de oro puro. Santa Fe Klan en portada",
   "name": "Hip-Hop MX 24k",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 234005,
       "name": "99's",
       "url": "https://open.spotify.com/track/2L6MlX6DWzZQ6xKblKXuww"
@@ -1057,6 +1057,32 @@
     },
     {
       "album": {
+        "name": "La Misi\u00f3n (Episodio 4)",
+        "url": "https://open.spotify.com/album/5TzgFVuMKUDiyYPtMiX66e"
+      },
+      "artists": [
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "Tiro Loko",
+          "url": "https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293325,
+      "name": "La Misi\u00f3n (Episodio 4)",
+      "url": "https://open.spotify.com/track/3TAzpSBGCZvFe3XuHevWoW"
+    },
+    {
+      "album": {
         "name": "La Misma Bandera",
         "url": "https://open.spotify.com/album/4BchMOSQZkIWEkY9G5lZ6e"
       },
@@ -1820,6 +1846,28 @@
       "duration_ms": 243920,
       "name": "Piel Con Piel",
       "url": "https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7"
+    },
+    {
+      "album": {
+        "name": "PLOMO",
+        "url": "https://open.spotify.com/album/18J9vWonbcXXBYFa9bF88S"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178512,
+      "name": "PLOMO",
+      "url": "https://open.spotify.com/track/6OuYW44MKPScpqvoiiGDkN"
     },
     {
       "album": {

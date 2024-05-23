@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Billie Eilish, Charlotte Cardin, Childish Gambino, BADBADNOTGOOD and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,214 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,248 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,14 +69,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 59 | [On This Hill](https://open.spotify.com/track/1Ai4EnJN4sywxcj8KOmIgb) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [On This Hill](https://open.spotify.com/album/5StpVKqlHLWZwdlivpSMpo) | 4:26 |
 | 60 | [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 |
 | 61 | [Just For The Night I’m In Love With You](https://open.spotify.com/track/44x808kg2vfiJdHkqWCeVG) | [Jonathan Roy](https://open.spotify.com/artist/62ggJuZV87VvP3sAHM0V3K) | [Just For The Night I'm In Love With You](https://open.spotify.com/album/6BpfT9tXKEWqA1pEGfCAyH) | 2:58 |
-| 62 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
+| 62 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 63 | [Ya Te Olvide](https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Ya Te Olvide](https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB) | 3:36 |
 | 64 | [DIVA](https://open.spotify.com/track/37KmFNIT72X8KJ1nsI3MTJ) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [microcelebrity](https://open.spotify.com/album/5e4T3urdHvFwYy2W4eqOOu) | 2:10 |
 | 65 | [C4 \(feat\. Skilla Baby & Rob49\)](https://open.spotify.com/track/7mVu7ZhScNi6NilUJos3Z5) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [C4 \(feat\. Skilla Baby & Rob49\)](https://open.spotify.com/album/17stDb8vQKN7dMdCRfH119) | 2:28 |
 | 66 | [Ocean](https://open.spotify.com/track/284f8fL3XQ71bGIZvNTpId) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Darkroom](https://open.spotify.com/album/0EL6B1uF8KkXOh99PnR5ME) | 3:34 |
 | 67 | [DIAMOND RING](https://open.spotify.com/track/69cFa6cbxklnS4IjevPR5P) | [RUSSELL!](https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb) | [Dearly Loved](https://open.spotify.com/album/6Cb5dxz5j71SdkXKV2Jop7) | 3:11 |
 | 68 | [Myself](https://open.spotify.com/track/5r8kNexW2JdeW2NF8cZvRc) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55), [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC) | [Myself](https://open.spotify.com/album/6DHv10clynLQ3fpDgiou8C) | 2:38 |
-| 69 | [Her Smile](https://open.spotify.com/track/1hY5B4hOuheednUTQYpthf) | [Fateh](https://open.spotify.com/artist/1t44XSPiW7z8PebleCo7uP) | [Her Smile](https://open.spotify.com/album/6LDXK1dCP3Ik3OTqLbujxo) | 3:41 |
+| 69 | [Her Smile](https://open.spotify.com/track/1hY5B4hOuheednUTQYpthf) | [Fateh](https://open.spotify.com/artist/5rrtv0AMFocqzADK15vGB1) | [Her Smile](https://open.spotify.com/album/6LDXK1dCP3Ik3OTqLbujxo) | 3:41 |
 | 70 | [Side By Side](https://open.spotify.com/track/2vlHyjzgm52ikajf5OAdlg) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:07 |
 | 71 | [OK OK](https://open.spotify.com/track/7jUHpMHisyNj0uuiDjfuJD) | [Makk Mikkael](https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs) | [OK OK](https://open.spotify.com/album/4Eo5QHYjrKahSzXMAp1cEH) | 3:45 |
 | 72 | [Green Morning](https://open.spotify.com/track/42VWxciaW70cNreVvpx368) | [Bobby Bazini](https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth) | [Green Morning](https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw) | 4:10 |

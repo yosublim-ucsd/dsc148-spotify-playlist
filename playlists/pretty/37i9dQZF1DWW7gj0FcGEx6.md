@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,694 likes - 244 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,748 likes - 244 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 5 | [Whatever It Takes](https://open.spotify.com/track/6dU7upUDqJasYhxB4zliT5) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Kara Talve](https://open.spotify.com/artist/3EHtbaE4XfijksNLg8kK3N) | [The Tattooist of Auschwitz \(Original Series Soundtrack\)](https://open.spotify.com/album/3cx1ds4j6353nYetKxBOdX) | 3:52 |
 | 6 | [Felix Amica](https://open.spotify.com/track/2dtRoZSU49jCGS6wnuum5T) | [Anthony Willis](https://open.spotify.com/artist/3eQRx2K7xDJFIbuzZt4wOk), [London Contemporary Orchestra](https://open.spotify.com/artist/1Uw2tN8RWQAKO3jtsqIJ8M) | [Saltburn \(Original Motion Picture Score\)](https://open.spotify.com/album/4uR9mrMic9dHCOHEFfRnxd) | 2:35 |
 | 7 | [The Last of Us](https://open.spotify.com/track/4unEKanhrUiSOMqja8Euw5) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [The Last of Us: Season 1 \(Soundtrack from the HBO Original Series\)](https://open.spotify.com/album/1dJGmqeJGPl9jZrmoc0h5j) | 1:07 |
-| 8 | [Dementus Is Gaining \- from "Furiosa: A Mad Max Saga"](https://open.spotify.com/track/00qJ3vS081EtrgJMW0j6mI) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Dementus Is Gaining \(from "Furiosa: A Mad Max Saga"\)](https://open.spotify.com/album/1vWpboi8b0LLhUihX0JwGk) | 4:37 |
+| 8 | [Dementus Is Gaining](https://open.spotify.com/track/00qJ3vS081EtrgJMW0j6mI) | [Junkie XL](https://open.spotify.com/artist/5svDnd8joFhbpbA3Ar0CfN) | [Dementus Is Gaining](https://open.spotify.com/album/1vWpboi8b0LLhUihX0JwGk) | 4:37 |
 | 9 | [Life Blood](https://open.spotify.com/track/4df0C9ncdvxy4rZ6kQWtA6) | [Pinar Toprak](https://open.spotify.com/artist/7z1L55q63jRGHqqS3xcGgl), [Tyler Durham](https://open.spotify.com/artist/4jYtPUSVUu0ZRDKxpAIGq9) | [Our Living World \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5bYwy9SM7MrGzi2uWoDh1F) | 4:05 |
 | 10 | [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 |
 | 11 | [Elodie's Maze](https://open.spotify.com/track/41Kgj6Wuncv2yRhE4HQArh) | [David Fleming](https://open.spotify.com/artist/5i0L6675x4W9WULHPA2Ks8) | [Damsel \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4yv3v9bzrS6MwL5X6pjeeH) | 4:41 |

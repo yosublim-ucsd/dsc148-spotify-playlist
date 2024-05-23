@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 ### [Wilde Herzen](https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC)
 
-> <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, soffie, error und Katha Pauer
+> <a href="https://www.introducing.events/">Hier</a> anmelden für das Wilde Herzen Festival mit JEREMIAS, Zartmann, Sandra Isabel, elimako, Levin Liam, Dilla, SOFFIE, error und Katha Pauer
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,852 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,907 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Mond](https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Also was jetzt?](https://open.spotify.com/album/0HV0znOFszVIR664Z6vc3k) | 2:40 |
 | 75 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 |
 
-Snapshot ID: `ZkeJjAAAAABHYXdZp586pZNv1f8ysJ6q`
+Snapshot ID: `Zk4dYAAAAAAf2UHYoLpWxcbD61gRGdre`

@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Ayra Starr
 
-1,899 songs - 4 day 9 hr 1 min
+1,901 songs - 4 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,7 +596,7 @@
 | [Goddess](https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Goddess](https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ) | 4:27 | 2024-04-17 | 2024-05-03 |
 | [GODDESS](https://open.spotify.com/track/2Yyf3awGJQnm70qSVoA9In) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [GODDESS](https://open.spotify.com/album/33oQ9C3SzYpP9d21X3BAkl) | 2:32 | 2023-07-05 | 2023-08-03 |
 | [Gold Rush](https://open.spotify.com/track/48iDkwmfHzeX5IXFQujb7x) | [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Gold Rush](https://open.spotify.com/album/0s0xUyVkHmZy5GeHlwEvK0) | 4:44 | 2022-10-04 | 2022-12-01 |
-| [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 | 2024-05-02 |  |
+| [Gond](https://open.spotify.com/track/1fAcoiGYJt2mOcc5WFYvS6) | [Paulina](https://open.spotify.com/artist/2GRFrkzvkVB4s7dikR8PWx) | [Rubin](https://open.spotify.com/album/2eXsYZA7kD7yYKqOR1uybg) | 3:04 | 2024-05-02 | 2024-05-23 |
 | [Gone](https://open.spotify.com/track/307xzW2nYqkHpnQpt6JM1T) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Gone](https://open.spotify.com/album/05hHYbkCCQ4AUKCbja744B) | 2:59 | 2023-02-01 | 2023-03-02 |
 | [Good Behaviour](https://open.spotify.com/track/3nnvLEArRQf6HgpC8VNqgK) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/4bAfpIai1dvdqA0UgA5r7c) | 4:03 | 2022-01-05 | 2022-02-03 |
 | [Good Behaviour](https://open.spotify.com/track/4vqkuf2iiz4eRMHZakL94e) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Good Behaviour](https://open.spotify.com/album/5evJhPMfeMuqgIJQF7ARYZ) | 4:03 | 2022-01-05 | 2022-02-01 |
@@ -1044,6 +1044,7 @@
 | [Mood Hoover](https://open.spotify.com/track/1Kma7Z2DAv6tI7beez0Jqo) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Mood Hoover](https://open.spotify.com/album/6QMxKOuHssNVCqphLFbUn1) | 3:14 | 2022-10-04 | 2022-11-03 |
 | [Mooier Als Je Lacht](https://open.spotify.com/track/0DJ1GDJ7PQkNdHFeFfdV2E) | [Sophie Straat](https://open.spotify.com/artist/6SU1jFBqw4tZJQDT8iQ6Nw) | [Mooier Als Je Lacht](https://open.spotify.com/album/35IrJEnHoJZo7BueWiI3XL) | 3:38 | 2023-03-01 | 2023-04-06 |
 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 | 2024-04-17 | 2024-05-03 |
+| [MOONLIGHT](https://open.spotify.com/track/6BUoPkRrqMIKBqFNbSFpFM) | [LUNAS](https://open.spotify.com/artist/3nrWlcpQsthFyjL3X9iJvz) | [MOONLIGHT](https://open.spotify.com/album/5h9yK7t12CJ3gfmdkuBvL3) | 3:12 | 2024-05-22 |  |
 | [Moonlight](https://open.spotify.com/track/093KjE0RKo2wfnWqYZvWJo) | [Noémie Wolfs](https://open.spotify.com/artist/5sJWIuRMqeiMooXNf6pavo) | [Wild At Heart](https://open.spotify.com/album/2Z74FlDExdsnJm1IG7Y2Ia) | 4:09 | 2023-11-14 | 2023-11-30 |
 | [More](https://open.spotify.com/track/1T39YsnUTKbqlyKwu5aycZ) | [Chxrry22](https://open.spotify.com/artist/0SVd0yQpJ6xcZ3vTKXUaro) | [Siren](https://open.spotify.com/album/3vbRoP5njDmRN1nVTcW5Z7) | 3:16 | 2023-11-14 | 2023-11-30 |
 | [Mortel](https://open.spotify.com/track/77nU8wDRYGuoIt6ryY49pz) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:47 | 2023-07-05 | 2023-08-03 |
@@ -1703,6 +1704,7 @@
 | [Wilde Rozen](https://open.spotify.com/track/62B4ceP9bpaBYV7h443aMp) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Wilde Rozen](https://open.spotify.com/album/7Eea9Jvh1okLitSUSQIF1W) | 3:02 | 2022-07-06 | 2022-08-04 |
 | [WILLY](https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [WILLY](https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs) | 2:45 | 2023-08-02 | 2023-09-07 |
 | [Wish The Love Never Died](https://open.spotify.com/track/5yuYE3N0sSIPXLE3L3GbSK) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Wish The Love Never Died](https://open.spotify.com/album/2G7bvknLHIy1f5im8V7NmP) | 3:01 | 2021-12-11 | 2022-01-06 |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-22 |  |
 | [Woman Trueman](https://open.spotify.com/track/35riuC99CaJSizvUjB1vaO) | [Mahina](https://open.spotify.com/artist/58WJ3aTp1T7yJ8rxAWmeJQ) | [Woman Trueman](https://open.spotify.com/album/2aOXOGMG4WRB7axcNFxl7n) | 3:23 | 2022-07-06 | 2022-08-04 |
 | [Wonder Woman](https://open.spotify.com/track/4rWiBVHA06kJRCFlSuyLQt) | [Dominika Mirgova](https://open.spotify.com/artist/5FxqSK3bTstp7wa05O01jt) | [Wonder Woman](https://open.spotify.com/album/5ERMwTDRSJdT8cOjLikAoJ) | 4:20 | 2023-05-03 | 2023-06-08 |
 | [Words You Want \(feat\. SOI\)](https://open.spotify.com/track/3VvsQQVICDghw26uFsrs8O) | [Rhosy](https://open.spotify.com/artist/3lL6jMbIkYzyxsXn3TU7GK), [SOI](https://open.spotify.com/artist/5b35BALBqCHvoV4vcbZQ1P) | [Words You Want \(feat\. SOI\)](https://open.spotify.com/album/1Cbw4XP3Kpv2IjH2ZlwZ2Z) | 2:24 | 2022-07-06 | 2022-08-04 |
@@ -1740,7 +1742,7 @@
 | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [You're Not Alone \[Feat\. Brandi Carlile\]](https://open.spotify.com/album/6uBCu9hARcX7SlAvOD501U) | 5:09 | 2023-02-01 | 2023-03-02 |
 | [You're Not Harry Styles](https://open.spotify.com/track/1yCrrZwlYPS3AqQHsJvFlu) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [You're Not Harry Styles](https://open.spotify.com/album/2syexb536heyUjkWkx7Kab) | 2:56 | 2021-12-11 | 2022-01-06 |
 | [you're not special](https://open.spotify.com/track/3KOi4iJ5t3vbaMdMxWQ30S) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [self sabotage](https://open.spotify.com/album/34u86bUB4rmIcU8FGjPj4C) | 2:46 | 2022-09-07 | 2022-10-05 |
-| [You're the Best Thing Yet](https://open.spotify.com/track/3KFGJtXiobcnd5e2LjRFpy) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [90s Love Songs](https://open.spotify.com/album/64ZzUU5hSd6wHSdLuvjKQ6) | 5:35 | 2024-05-15 |  |
+| [You're the Best Thing Yet](https://open.spotify.com/track/3KFGJtXiobcnd5e2LjRFpy) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [90s Love Songs](https://open.spotify.com/album/64ZzUU5hSd6wHSdLuvjKQ6) | 5:35 | 2024-05-15 | 2024-05-23 |
 | [Your Song](https://open.spotify.com/track/4eXSYqAqPGykzxxs5gNgpX) | [Image Suthita](https://open.spotify.com/artist/3BJnzsdoO0qbpDS8QNE5wJ) | [Your Song](https://open.spotify.com/album/3Vnx12s8sWJkQ6u0ALp0fb) | 3:37 | 2022-04-06 | 2022-05-05 |
 | [Your Universe](https://open.spotify.com/track/46BiCwK19EBpo5GQAu5Zzq) | [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Your Universe](https://open.spotify.com/album/6P1YM5ziaz8LMJNRu3BGMD) | 3:58 | 2022-10-04 | 2022-11-03 |
 | [Yüzyıllardır Aynı Dert](https://open.spotify.com/track/04wGMtBQPybaTDuK0jDBeB) | [Deniz Tekin](https://open.spotify.com/artist/4TdvNk4wmn5DgBFiLDeCj0) | [Yüzyıllardır Aynı Dert](https://open.spotify.com/album/1DVfs34DYfRLYwaIGjcWb2) | 5:41 | 2024-01-10 | 2024-02-08 |

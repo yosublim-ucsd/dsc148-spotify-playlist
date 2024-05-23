@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Akher Dewa",
+        "url": "https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu"
+      },
+      "artists": [
+        {
+          "name": "Sultan Khalifa",
+          "url": "https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296119,
+      "name": "Akher Dewa",
+      "url": "https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr"
+    },
+    {
+      "album": {
         "name": "Al Aajab Fi Al Hawa",
         "url": "https://open.spotify.com/album/3lZfmx2Wp1GpolaXboUYZw"
       },
@@ -666,7 +684,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 301898,
       "name": "Fahem",
       "url": "https://open.spotify.com/track/5LXlfCsvGlsobIrJ093Rai"
@@ -1002,6 +1020,24 @@
       "duration_ms": 256173,
       "name": "Khaloony",
       "url": "https://open.spotify.com/track/09jkfb9ry4b1EANWKN33eY"
+    },
+    {
+      "album": {
+        "name": "Kheft Bodak",
+        "url": "https://open.spotify.com/album/3puLzAjBoJGZqSz0z0fiIP"
+      },
+      "artists": [
+        {
+          "name": "Abdulkader Alahmed",
+          "url": "https://open.spotify.com/artist/7fpdcwPFWY9cOWQfEKKIbk"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280968,
+      "name": "Kheft Bodak",
+      "url": "https://open.spotify.com/track/0GOLg32xobuTOktjx0oMkd"
     },
     {
       "album": {
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 241946,
       "name": "Tejene (2)",
       "url": "https://open.spotify.com/track/5KnVP62QZhBeViSV0JUVmU"

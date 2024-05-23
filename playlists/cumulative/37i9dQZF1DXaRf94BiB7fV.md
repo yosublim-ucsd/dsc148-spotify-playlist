@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels in India\. Cover: O Daapun, Artwork: Isu Kim
+> The best new music by independent artists and labels in India\. Cover: Fiddlecraft, Artwork: Isu Kim
 
-1,223 songs - 2 day 23 hr 16 min
+1,225 songs - 2 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Chala Jaunga](https://open.spotify.com/track/2GaxXMW0r4lkNBgMiCdBwU) | [Kushal Mangal](https://open.spotify.com/artist/2aChr4prwNx6859zYkznf6) | [Chala Jaunga](https://open.spotify.com/album/7fHZ3bZ1rd16gEljhTmdLs) | 3:52 | 2021-12-01 | 2022-01-13 |
 | [Chale Bhi Jao](https://open.spotify.com/track/37fbtdjzCUvmoPgnkmCIO1) | [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Chale Bhi Jao](https://open.spotify.com/album/6FdPMK1pnbYpAIXFPDI84f) | 3:30 | 2022-07-20 | 2023-01-12 |
 | [Chale Gaye](https://open.spotify.com/track/0eZUo7dcgwmPHalQat5JuJ) | [Navjot Ahuja](https://open.spotify.com/artist/7pVf872VEuJQBwiuRFSg4w) | [Chale Gaye](https://open.spotify.com/album/5uWSN63exQGd7pyABRRDbz) | 3:58 | 2023-09-20 | 2023-11-16 |
+| [Chalte hai wahan](https://open.spotify.com/track/0wIiL1mUXT78n57W69ae22) | [Sparsh Jain](https://open.spotify.com/artist/0vHTMw51bbuH1yYoiJ75PD) | [Chalte hai wahan](https://open.spotify.com/album/67q6Zsmoyd1VgJrtSRnwro) | 2:45 | 2024-05-22 |  |
 | [Chalte Jaana](https://open.spotify.com/track/0oyRs9pRurqwGGALF9lJMg) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/1T0ZK7Ez5HyuL7HjCfzC59) | 1:35 | 2023-11-15 | 2024-01-20 |
 | [Chalte Jaana](https://open.spotify.com/track/1KBXALAcmP4zzC7uAjLj0b) | [Riya Shrivastava](https://open.spotify.com/artist/3kMUiWRc5cWOC5aZsQRNtN) | [Chalte Jaana](https://open.spotify.com/album/4EhbWXUXD6EcsjOVNjThr7) | 1:35 | 2024-01-10 | 2024-02-15 |
 | [Chalte Jaanaa](https://open.spotify.com/track/3NneoN6Z0PxZLiXbxBhjjx) | [Chinmayi Tripathi](https://open.spotify.com/artist/2SBaWEFGgEDAPXw8dLqDfi), [Joell](https://open.spotify.com/artist/68dq9WskDdoAdDfzFAkXPd) | [Chalte Jaanaa](https://open.spotify.com/album/1OUkQnuzxhQknljjd26BPz) | 3:55 | 2023-06-07 | 2023-08-10 |
@@ -272,7 +273,7 @@
 | [Door](https://open.spotify.com/track/0lMixoUCAHneWbYrB1iSH2) | [Vyom Singh Rajput](https://open.spotify.com/artist/7fldcpZbS6DA18xe3YlsEj) | [Door](https://open.spotify.com/album/4qgn3rp6i2P6P20lnjf99A) | 2:47 | 2023-06-07 | 2023-08-31 |
 | [Door Kahin](https://open.spotify.com/track/5470L9bpQikPiizRl93NtM) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/7wpmVOLRDHC4QtDoAVIjBR) | 3:24 | 2023-11-29 | 2024-01-11 |
 | [Door Kahin](https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB) | [Raghav Kaushik](https://open.spotify.com/artist/2NSBUoP14iO3vxm14Slc5H) | [Door Kahin](https://open.spotify.com/album/3LSrmX5b1H3Y2stUBR8OEs) | 3:24 | 2023-05-24 | 2023-10-12 |
-| [Doori](https://open.spotify.com/track/76U0XvvhxMXhPhHyciwEWG) | [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Doori](https://open.spotify.com/album/1GHl8AIXqqKnKSKu1bDr8m) | 3:56 | 2024-02-28 |  |
+| [Doori](https://open.spotify.com/track/76U0XvvhxMXhPhHyciwEWG) | [Nikhil Shetty](https://open.spotify.com/artist/3C5gNf24feSHYFXXEJWiAJ), [Nikhil And Rishabh](https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l) | [Doori](https://open.spotify.com/album/1GHl8AIXqqKnKSKu1bDr8m) | 3:56 | 2024-02-28 |  |
 | [Dooriyaan](https://open.spotify.com/track/1JIgQtS13gsEOKdQsee2F8) | [FearZ](https://open.spotify.com/artist/28pMYmVYi6dI3wR8aFPS9L) | [Dooriyaan](https://open.spotify.com/album/1SGNSU53uXAE44EKSTmKAF) | 3:56 | 2023-08-09 | 2023-11-10 |
 | [Dooriyaan](https://open.spotify.com/track/09YtF2lAlYgTN5yA39iYYa) | [Shubumm](https://open.spotify.com/artist/5T3nhvOB6jdI5IxYFpuTZ8) | [Dooriyaan](https://open.spotify.com/album/2Okc9hbSudtpncMMbTRUv0) | 2:48 | 2021-12-01 | 2022-01-13 |
 | [Dooriyan](https://open.spotify.com/track/77Gwkk9NxZbaZ5s9u1rXSN) | [Pranjal Sahu](https://open.spotify.com/artist/0jNETbZi2W1629lNUlvChz), [Dikshyant](https://open.spotify.com/artist/2yqpqCw2H3bRLQnPZtpuOy), [SPANDAN](https://open.spotify.com/artist/1jonFvLAWp9KcPamGKp6Xe), [Yati Pandey](https://open.spotify.com/artist/1ibBwxhpzQeUVXhUXAbaM3) | [Dooriyan](https://open.spotify.com/album/4PUMe6JIOm84GnF5Zbhb3l) | 2:47 | 2024-05-08 |  |
@@ -504,6 +505,7 @@
 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 | 2021-12-01 | 2022-01-13 |
 | [Jo Tu Mere Paas Hai](https://open.spotify.com/track/5e8LGG7AenfzV7Yq44wbkZ) | [Yohan Marshall](https://open.spotify.com/artist/69FVuMNh5n6YNPq6Qf42rD) | [Jo Tu Mere Paas Hai](https://open.spotify.com/album/0o4QiTAQaLXZdlXR0PlI0K) | 2:32 | 2024-02-07 | 2024-04-04 |
 | [Jo Tum Ho](https://open.spotify.com/track/2zTyNH7GCD99yqywgZg6rk) | [Dhruv Kapoor](https://open.spotify.com/artist/25RpK0wKK891C05JinG9ii) | [Jo Tum Ho](https://open.spotify.com/album/0enBHmgJ2zbBGgx5EtrIM0) | 3:47 | 2022-10-12 | 2023-03-16 |
+| [Jogiya](https://open.spotify.com/track/4JG9xQh4gppzjB9aArwj89) | [Fiddlecraft](https://open.spotify.com/artist/0xhbB0DrR0MnaU1ynq4itU) | [Jogiya](https://open.spotify.com/album/7qHIUjr8i06msD20NVimEM) | 5:02 | 2024-05-22 |  |
 | [Josephine On The Floor](https://open.spotify.com/track/65acdnLjDjysEy1nMGu6jM) | [Karshni](https://open.spotify.com/artist/2krHp4TdZbPjAyN8atU6Ff) | [Josephine On The Floor](https://open.spotify.com/album/4LxOKY3zx94ld1aXxqgDE4) | 4:27 | 2023-02-08 | 2023-07-06 |
 | [Joy](https://open.spotify.com/track/31I0BHIOs0lydljTMGUrnu) | [Harini Iyer](https://open.spotify.com/artist/3Wpq48rI8vokXpZ0y0XkMv), [Aleif Hamdan](https://open.spotify.com/artist/0TmInNPGLSWyopwB9XNa2s), [Julian Schoming](https://open.spotify.com/artist/3Mw5g22qLsyREdvcVRvyAi) | [Joy](https://open.spotify.com/album/22A52Bei3qUTPGA4Li8VGw) | 5:35 | 2023-11-22 | 2024-01-18 |
 | [Judaai](https://open.spotify.com/track/4quoTn7QTN1GLN6NhzQMlE) | [Tajinder Singh](https://open.spotify.com/artist/74YdWBWq7R9JJIDM3NCSrG), [Bhanu Singh](https://open.spotify.com/artist/6W4D2fiAamwzg9RMOvAS16) | [Judaai](https://open.spotify.com/album/7HYBdhoPLG4viSMEIwiFr7) | 2:37 | 2023-09-13 | 2024-01-11 |
@@ -637,7 +639,7 @@
 | [Lat Uljhi](https://open.spotify.com/track/2JFVLdhDjoGi1Ys3UI2LsR) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN) | [Lat Uljhi](https://open.spotify.com/album/69n5C4zWG1zR2WnXEqCM32) | 4:35 | 2022-04-20 | 2022-06-16 |
 | [Lately Maybe](https://open.spotify.com/track/2WRg29fJgjy34RrskV0O35) | [Varun Agnihotri](https://open.spotify.com/artist/1wM6bWtRPgisC0eP1kH9vH) | [Lately Maybe](https://open.spotify.com/album/7plACeUzjjpZx8Lpy6s7BQ) | 4:15 | 2022-01-26 | 2022-01-31 |
 | [Laut Aao](https://open.spotify.com/track/4XberKGfNrXQuXj3xy3K21) | [Aaryan Tiwari](https://open.spotify.com/artist/5k4fwx4cEoKw23tpX47nLQ) | [Laut Aao](https://open.spotify.com/album/68eFGZNfhQZsbghfe8D7yk) | 3:54 | 2022-07-20 | 2022-11-03 |
-| [Laut Aao](https://open.spotify.com/track/1mTbcETPy7i8zwTIFNCG9p) | [Parth Gambhir](https://open.spotify.com/artist/1wi1qrjDbpDLrQkkwuS7Dm) | [Laut Aao](https://open.spotify.com/album/2E7sbHTClKeC4HXGq27yO5) | 3:46 | 2024-03-27 |  |
+| [Laut Aao](https://open.spotify.com/track/1mTbcETPy7i8zwTIFNCG9p) | [Parth Gambhir](https://open.spotify.com/artist/1wi1qrjDbpDLrQkkwuS7Dm) | [Laut Aao](https://open.spotify.com/album/2E7sbHTClKeC4HXGq27yO5) | 3:46 | 2024-03-27 | 2024-05-23 |
 | [Lavinia](https://open.spotify.com/track/1GIGwGjBw5CT3QKK7Ibw6b) | [Prabhtoj Singh](https://open.spotify.com/artist/78XtO5iHFCF6gSqWV18AWA) | [Lavinia](https://open.spotify.com/album/58ukWZd5zrrWi2clQ4PqSI) | 3:46 | 2022-07-06 | 2022-10-20 |
 | [Lay Your Head Down](https://open.spotify.com/track/657uaCgAx8D6ZYBjRoxsJS) | [KAVYA](https://open.spotify.com/artist/0GBYfJU5PsKSfo17UaPpC2) | [Lay Your Head Down](https://open.spotify.com/album/4COku6DVXbtTcqc7E7Nfvp) | 3:20 | 2021-12-01 | 2022-01-20 |
 | [Le Chal Wahan Candle Light Version](https://open.spotify.com/track/3TxvxCQ8b1AS2r4WHGk67J) | [Deepanshu](https://open.spotify.com/artist/68B9IZXfD5yTTz5oXv3WFO) | [Le Chal Wahan Candle Light Version](https://open.spotify.com/album/1VvboAYJUF31Bd56e1MUqd) | 4:34 | 2022-03-23 | 2022-06-09 |
@@ -911,7 +913,7 @@
 | [Saansein](https://open.spotify.com/track/5L0tuFBJijhDF811yx6YAS) | [Underground Authority](https://open.spotify.com/artist/3J8yboH4lCQSwGjmqW9ggG) | [Saansein](https://open.spotify.com/album/6KSwR9LuHgQhlAJd2X7D1l) | 3:45 | 2023-10-18 | 2024-01-25 |
 | [Saanson Ki Baatein](https://open.spotify.com/track/4lDdywqvrKQ7SVt1TLmyDn) | [Gamak](https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN) | [Saanson Ki Baatein](https://open.spotify.com/album/41ah06Q7eu9sequA1ZaNLu) | 5:23 | 2023-03-08 | 2024-01-11 |
 | [Saath Tum Mere](https://open.spotify.com/track/15b35KYNZzZW1TAvPrmPXW) | [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Saath Tum Mere](https://open.spotify.com/album/0RZmzqkndbl1jiOxfiIXDQ) | 2:50 | 2022-10-06 | 2023-02-02 |
-| [Saavan](https://open.spotify.com/track/0kTTSKEauNeCYp9YWYDu8d) | [miraan](https://open.spotify.com/artist/5ZHUg7zjQ8sM9X650bodAt) | [Saavan](https://open.spotify.com/album/4CANhyg7rbVrzJvba2TJnA) | 2:51 | 2024-04-24 |  |
+| [Saavan](https://open.spotify.com/track/0kTTSKEauNeCYp9YWYDu8d) | [miraan](https://open.spotify.com/artist/5ZHUg7zjQ8sM9X650bodAt) | [Saavan](https://open.spotify.com/album/4CANhyg7rbVrzJvba2TJnA) | 2:51 | 2024-04-24 | 2024-05-23 |
 | [Saavan](https://open.spotify.com/track/0dddCnn5V9rEqeZF625HT4) | [Satwik Kumar](https://open.spotify.com/artist/7CH4vn9FuFwQjc6SKCaSRG) | [Saavan](https://open.spotify.com/album/2erJ4eVKivyb8Fp1a6OWlo) | 3:43 | 2022-03-23 | 2022-07-21 |
 | [Saawariya](https://open.spotify.com/track/0ih4RI6CfRdnl7CsXQmglj) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa), [Purani](https://open.spotify.com/artist/0bnKXCAkZoRV3qmPrFMN30) | [Saawariya](https://open.spotify.com/album/2QbSeltyE7UbW1UCKXrGHz) | 3:09 | 2022-02-09 | 2022-03-10 |
 | [Saaz](https://open.spotify.com/track/5hc3aftcBaFgMYHyuUBnTO) | [Prabhash Joshi](https://open.spotify.com/artist/2AAa9WV0xwMaTKSIRP5vQ0) | [Saaz](https://open.spotify.com/album/76xnfXgyqOsHqn76nHszDK) | 4:20 | 2023-02-08 | 2023-07-06 |

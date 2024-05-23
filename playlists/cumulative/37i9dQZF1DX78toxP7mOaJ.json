@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 121858,
       "name": "Action Painting",
       "url": "https://open.spotify.com/track/5VsPSsmnSr0bTTMDfZrFBD"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 244223,
       "name": "Adrenaline",
       "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
@@ -1032,7 +1032,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 200200,
       "name": "Altered",
       "url": "https://open.spotify.com/track/7d1pcl6R0xnBAli8Xp5w3m"
@@ -1868,7 +1868,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 188808,
       "name": "BACKSTABBER",
       "url": "https://open.spotify.com/track/4pYiIZn2DKrK8MBYuS946R"
@@ -7541,6 +7541,24 @@
     },
     {
       "album": {
+        "name": "End Of The Night",
+        "url": "https://open.spotify.com/album/1HdaI08dFvKfr3rg50XQE8"
+      },
+      "artists": [
+        {
+          "name": "Slow Fiction",
+          "url": "https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250163,
+      "name": "End Of The Night",
+      "url": "https://open.spotify.com/track/1rN641NwfrIYcIfZyNK80f"
+    },
+    {
+      "album": {
         "name": "Endless Heaven",
         "url": "https://open.spotify.com/album/5bnxWebiOWQLZPwZ2B66rt"
       },
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 251491,
       "name": "Enemy",
       "url": "https://open.spotify.com/track/3Hq9IA7EYt6oU3Lk1ub1RI"
@@ -7700,6 +7718,24 @@
       "duration_ms": 158684,
       "name": "Everybody's Down",
       "url": "https://open.spotify.com/track/1aC8y8f7nobVnD8rTwPzL1"
+    },
+    {
+      "album": {
+        "name": "I'm cool...I guess",
+        "url": "https://open.spotify.com/album/5duNYF5T14CMxB4V3ps9lA"
+      },
+      "artists": [
+        {
+          "name": "JonoJono",
+          "url": "https://open.spotify.com/artist/0HPzKByIKi4qqSgS3gc26q"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284968,
+      "name": "Everyone I please hates me",
+      "url": "https://open.spotify.com/track/1KaZWvFJELretod1Gk98nS"
     },
     {
       "album": {
@@ -10899,6 +10935,24 @@
     },
     {
       "album": {
+        "name": "Holy Touch",
+        "url": "https://open.spotify.com/album/1Ew7k7kcMCmJ19GoDntcrN"
+      },
+      "artists": [
+        {
+          "name": "Suzy Clue",
+          "url": "https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224395,
+      "name": "Holy Touch",
+      "url": "https://open.spotify.com/track/4OX2oCV4aZHnmCf1Woh0FG"
+    },
+    {
+      "album": {
         "name": "homesick.",
         "url": "https://open.spotify.com/album/2Beb6J2sNAI2FZyR0mQoTq"
       },
@@ -13333,6 +13387,24 @@
     },
     {
       "album": {
+        "name": "4ever",
+        "url": "https://open.spotify.com/album/3LPhzZtahvRaqOzA6VguNy"
+      },
+      "artists": [
+        {
+          "name": "Axolotes Mexicanos",
+          "url": "https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191587,
+      "name": "La canci\u00f3n que escribiste",
+      "url": "https://open.spotify.com/track/767PhFKXo761IJdwvLFHTo"
+    },
+    {
+      "album": {
         "name": "Lady Lightyear",
         "url": "https://open.spotify.com/album/2hcFoXL4qWIkH7ypNCztfI"
       },
@@ -15152,7 +15224,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 185976,
       "name": "Monday",
       "url": "https://open.spotify.com/track/1t5PT2WujM3dINY2JMaKWS"
@@ -15498,6 +15570,24 @@
       "duration_ms": 197931,
       "name": "MR. DREAMER",
       "url": "https://open.spotify.com/track/79OC19qMNOWKYCTbqUboNP"
+    },
+    {
+      "album": {
+        "name": "Mucho Mistrust",
+        "url": "https://open.spotify.com/album/0HElOAQamGxzj7AyBudkDk"
+      },
+      "artists": [
+        {
+          "name": "Fake Fruit",
+          "url": "https://open.spotify.com/artist/3WpGIqLvk5kAcvvxEHztL9"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219381,
+      "name": "Mucho Mistrust",
+      "url": "https://open.spotify.com/track/0rjk58Eg7K0uzOriidMDWF"
     },
     {
       "album": {
@@ -16100,7 +16190,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-23",
       "duration_ms": 162413,
       "name": "Nirvana",
       "url": "https://open.spotify.com/track/3G9GN38rhuGtvZfW3Lc76N"
@@ -18028,6 +18118,24 @@
       "duration_ms": 137211,
       "name": "Pretty Little Thing",
       "url": "https://open.spotify.com/track/3br9uDRIfZSboz1BVhimhQ"
+    },
+    {
+      "album": {
+        "name": "You Can't Put A Price On Fun",
+        "url": "https://open.spotify.com/album/3ypNothOPxns9O8DIJubYb"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200449,
+      "name": "Price On Fun",
+      "url": "https://open.spotify.com/track/3RVdfN1q7TMQKywRmtfhdD"
     },
     {
       "album": {
@@ -24172,6 +24280,24 @@
       "duration_ms": 226385,
       "name": "Up and Comer",
       "url": "https://open.spotify.com/track/469d5BNae99knRggeaqA0n"
+    },
+    {
+      "album": {
+        "name": "Up-tight",
+        "url": "https://open.spotify.com/album/1X5QdFimUVUbzS2toVmkPQ"
+      },
+      "artists": [
+        {
+          "name": "Perennial",
+          "url": "https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113690,
+      "name": "Up-tight",
+      "url": "https://open.spotify.com/track/474gBGPsslOvQcsF3ZuPJO"
     },
     {
       "album": {

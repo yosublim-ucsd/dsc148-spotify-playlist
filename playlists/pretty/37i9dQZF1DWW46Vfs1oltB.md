@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Paul Blanco, CHANGMO\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,614 likes - 149 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,568 likes - 149 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 | 34 | [이 밤이 다 가기 전에](https://open.spotify.com/track/1hqgbBpTWSIIG8MlewfwMg) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [nightvibe2](https://open.spotify.com/album/25dD1vQuRvHb4jdShxb0Ar) | 2:23 |
 | 35 | [WORK Remix \(Prod\. Jeffrey White\)](https://open.spotify.com/track/5qbIGzVIB229Lw7KdMqvB5) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq), [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [CHERRY BOY 17](https://open.spotify.com/artist/0jxGPRjBD9ofybNRoB14dc) | [Monthly AP \- April, 2024](https://open.spotify.com/album/7crxq1hGkURZoGF81Xnd47) | 2:35 |
 | 36 | [Seoul \(Feat\. Huh\)](https://open.spotify.com/track/6amJOWamF7tolut1VJcM8N) | [NO:EL](https://open.spotify.com/artist/3S79khDmqHqH3SudDjO6dV), [Huh](https://open.spotify.com/artist/30AghIfoMJrMo1YqoUkEMM) | [Seoul](https://open.spotify.com/album/0szGEMKDItrca9wDqgTVV7) | 3:29 |
-| 37 | [flip \(feat\. 스카이민혁, Don Mills\)](https://open.spotify.com/track/4vn9tvIFRHuiOS6OrDQwJh) | [KIM DAN](https://open.spotify.com/artist/5YXQmQgNteUrgFXoPyombD), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [VERSE BATTLE RAPCUP Round of 16 Part II](https://open.spotify.com/album/7MzrqYdS0ZpwBPFdrgSdfs) | 2:46 |
+| 37 | [flip](https://open.spotify.com/track/4vn9tvIFRHuiOS6OrDQwJh) | [KIM DAN](https://open.spotify.com/artist/5YXQmQgNteUrgFXoPyombD), [Skyminhyuk](https://open.spotify.com/artist/1SHIOlNm9pVZ7EzO9322AM), [Don Mills](https://open.spotify.com/artist/6bIsFWNkjQvSm5P4rqlxKn) | [VERSE BATTLE RAPCUP Round of 16 Part II](https://open.spotify.com/album/7MzrqYdS0ZpwBPFdrgSdfs) | 2:46 |
 | 38 | [Excuse](https://open.spotify.com/track/3Kvludm9mx8wPSp0YKzPOz) | [CHANHYUN](https://open.spotify.com/artist/3mVfekn5nIuqNWJCK0u1r9) | [Excuse](https://open.spotify.com/album/7gaaPrwHk3sCo8e8x9wYG5) | 3:22 |
 | 39 | [OK](https://open.spotify.com/track/36ivhvZz9YVL0AjELWlWGP) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [OK](https://open.spotify.com/album/2aVzG0xQisfr60C4zSD4Um) | 4:02 |
 | 40 | [KrOWN \- Choiza of Dynamic Duo](https://open.spotify.com/track/74KUxRJj4MnfEA0HYniXI0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [KrOWN Audio liner](https://open.spotify.com/album/44DLxr4LasHqoLxlYQdyRF) | 0:04 |

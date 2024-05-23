@@ -11953,6 +11953,24 @@
     },
     {
       "album": {
+        "name": "Crush, Crush",
+        "url": "https://open.spotify.com/album/0EPWssXA7rEpw68SYh7XcK"
+      },
+      "artists": [
+        {
+          "name": "Jingga",
+          "url": "https://open.spotify.com/artist/5KOo1WEqyJMsWTmPC2Lra9"
+        }
+      ],
+      "date_added": "2024-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204768,
+      "name": "Crush, Crush",
+      "url": "https://open.spotify.com/track/0BSPfxWGmAhFFTlqVSThRc"
+    },
+    {
+      "album": {
         "name": "Crystals",
         "url": "https://open.spotify.com/album/5xx8TXASDM2gq4OWPqrITf"
       },

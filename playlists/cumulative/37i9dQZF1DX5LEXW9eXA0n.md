@@ -4,7 +4,7 @@
 
 > New & hot K\-Pop ballads\. \(Cover: Tophyun\(탑현\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,219 songs - 3 day 7 hr 0 min
+1,221 songs - 3 day 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,6 +457,7 @@
 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 | 2023-10-20 | 2024-01-05 |
 | [I'll always protect you](https://open.spotify.com/track/7lkGeSEOJ8DUlkKjWiEt0w) | [오현우](https://open.spotify.com/artist/1PQQMG99o0K7BBYAwVpTqf) | [I'll always protect you](https://open.spotify.com/album/6T0GUepMgFxSPqDsnhvkka) | 4:00 | 2023-01-10 | 2023-02-25 |
 | [I'll be your side](https://open.spotify.com/track/4C78LrFzGnKJcHgAmtg4SB) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t) | [왜 오수재인가 \(Original Television Soundtrack\) Pt.4](https://open.spotify.com/album/7lbmHYq1NJ8zFqmAYCDw9R) | 4:09 | 2022-07-04 | 2022-09-30 |
+| [I'll be your star](https://open.spotify.com/track/0r48lzfe5Gq00MrGijRaJB) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [I'll be your star \(The Last 10 Years X JUKJAE\)](https://open.spotify.com/album/21eZTqqr9EXJzw8mJyMgt3) | 3:26 | 2024-05-22 |  |
 | [I'll change](https://open.spotify.com/track/0yGGSo8VQE8YfpJvdYsqFk) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Cyworld BGM 2021](https://open.spotify.com/album/2hM6xcBoE6GcsLRIHh4xYu) | 4:12 | 2022-01-03 | 2022-06-23 |
 | [I'll never love you again](https://open.spotify.com/track/5FAKWh0CdQfSt0CWgHGqOq) | [Dawn window](https://open.spotify.com/artist/5nIoYbALPbBGdyajpNGqTm), [Lee Yu Bin](https://open.spotify.com/artist/68n72jwJJfHg9MeLekrdub) | [I'll never love you again](https://open.spotify.com/album/4KuQvV9gQEKlxenz6A5nkv) | 3:40 | 2022-08-12 | 2022-11-17 |
 | [I'll Pray](https://open.spotify.com/track/0tpu39rHkjgI9UVTdIFCT0) | [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [YUICHIRO](https://open.spotify.com/artist/50ubdBeKVowI0HLEfehhPl) | [I'll Pray](https://open.spotify.com/album/0CxZcDZ5cEMfO1VM6cLm4f) | 3:57 | 2023-01-20 | 2023-02-25 |
@@ -494,6 +495,7 @@
 | [Illusion](https://open.spotify.com/track/5fMStTciZIwEinOIaWFtaf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI), [KWON SOON IL](https://open.spotify.com/artist/1e7AZDBG64lv62iUtQ6nTf) | [Rewind : Blossom Side A](https://open.spotify.com/album/4YZ9E6yT1aAJguVIi8KBN8) | 4:21 | 2022-02-17 | 2022-02-20 |
 | [Illusion](https://open.spotify.com/track/37HFpYEG2RifbZYxTfl5jz) | [Kim Hye Rim](https://open.spotify.com/artist/5eKQbKV7Khdo1RjmkbzbTT) | [Illusion](https://open.spotify.com/album/3QoqL2ZBK38R7d8H9PRuHm) | 4:00 | 2023-01-20 | 2023-03-28 |
 | [In Color](https://open.spotify.com/track/6c2z1AwD4exKBy69bvv5Pk) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [Jirisan \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/2zlu6Jn5ux4CN6SrzXsebM) | 3:49 | 2022-03-24 | 2022-04-13 |
+| [In my dream \(Prod\. Inf\)](https://open.spotify.com/track/1HXdmA14opY7kLPsi7NQLF) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [In my dream](https://open.spotify.com/album/5pUgLrMF2iUgVvFskG08Aw) | 3:23 | 2024-05-22 |  |
 | [In My Heart](https://open.spotify.com/track/2URys8E6imQmRIfAlES1p4) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/0hRiiWogBg37JG9IGmy0QU) | 3:51 | 2023-02-24 | 2023-05-16 |
 | [In my life](https://open.spotify.com/track/1pUi13QNa1k919IMumUDNe) | [Kim Jong Seo](https://open.spotify.com/artist/1Z6Sy2Tn7jFqqPAPIAVMB1) | [In my life](https://open.spotify.com/album/6t12wExU0kuJm52ZRCCIHd) | 3:55 | 2023-02-14 | 2023-03-28 |
 | [In my Room](https://open.spotify.com/track/5UHQql79LIcoZytAEWdIOq) | [YOONWON](https://open.spotify.com/artist/1Wp1QiJslBV2qX7aAV7pXN) | [In my Room](https://open.spotify.com/album/6Yom5swCi5Yk88GWjlGK6h) | 3:38 | 2022-08-18 | 2022-12-27 |

@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring ODESZA",
-  "num_followers": 766732,
+  "num_followers": 766757,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -739,26 +739,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Say The Word (feat. Clementine Douglas)",
-        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
-      },
-      "artists": [
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 237133,
-      "name": "Say The Word (feat. Clementine Douglas)",
-      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/1qoo47WZEDvgAm7a4WK73e"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Say The Word (feat. Clementine Douglas)",
+        "url": "https://open.spotify.com/album/6n71DzGS11DoNhdmGQGq5B"
+      },
+      "artists": [
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 237133,
+      "name": "Say The Word (feat. Clementine Douglas)",
+      "url": "https://open.spotify.com/track/1jxGhPyCn9SZR9eqrTduja"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -987,22 +987,30 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Talking Too Much",
-        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
       },
       "artists": [
         {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
         },
         {
-          "name": "Bawo",
-          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+          "name": "longstoryshort",
+          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
+        },
+        {
+          "name": "WYNNE",
+          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
+        },
+        {
+          "name": "Mansionair",
+          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
         }
       ],
-      "duration_ms": 234666,
-      "name": "Talking Too Much",
-      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
+      "duration_ms": 249114,
+      "name": "Line Of Sight - longstoryshort Remix",
+      "url": "https://open.spotify.com/track/6D21uj826czZVHvyj4ZQyF"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1023,6 +1031,26 @@
       "duration_ms": 234244,
       "name": "Windhorse",
       "url": "https://open.spotify.com/track/6tTDDMmEJpyA97VNYQjjeP"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Talking Too Much",
+        "url": "https://open.spotify.com/album/5DlqOm7mN0iuJs9k5r16Ii"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        },
+        {
+          "name": "Bawo",
+          "url": "https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Talking Too Much",
+      "url": "https://open.spotify.com/track/60O3TTCYh6LZFNKiicBodq"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1063,26 +1091,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
-      },
-      "artists": [
-        {
-          "name": "KU\u010cKA",
-          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 164451,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "BRING BACK THE COLOR (feat. AURORA)",
         "url": "https://open.spotify.com/album/5F3hrGQ5xXSg7ZxNvvDUxo"
       },
@@ -1099,6 +1107,26 @@
       "duration_ms": 168545,
       "name": "BRING BACK THE COLOR (feat. AURORA)",
       "url": "https://open.spotify.com/track/575i9kr1iypkCZyfJuoAlZ"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "One More Night",
+        "url": "https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng"
+      },
+      "artists": [
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 164451,
+      "name": "One More Night",
+      "url": "https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1123,34 +1151,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Spinback Remixes",
-        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "longstoryshort",
-          "url": "https://open.spotify.com/artist/1ExbGBgD1r1eRfFlVyAWWl"
-        },
-        {
-          "name": "WYNNE",
-          "url": "https://open.spotify.com/artist/7MtZPIh0gpnInKFnXGcYDS"
-        },
-        {
-          "name": "Mansionair",
-          "url": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
-        }
-      ],
-      "duration_ms": 249114,
-      "name": "Line Of Sight - longstoryshort Remix",
-      "url": "https://open.spotify.com/track/6D21uj826czZVHvyj4ZQyF"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6o8D6vk6tTWJZCR5zNpn7b"
       },
@@ -1163,6 +1163,30 @@
       "duration_ms": 183548,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/0RktjKyHm5GjiwQFQf6kOg"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
+        "name": "Spinback Remixes",
+        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Biicla",
+          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+        },
+        {
+          "name": "Bettye LaVette",
+          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+        }
+      ],
+      "duration_ms": 163008,
+      "name": "The Last Goodbye - Biicla Remix",
+      "url": "https://open.spotify.com/track/29k2X2TJz1ocPanE3OLQFh"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1207,30 +1231,6 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Spaceman (ft. RIZ LA VIE)",
-        "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
-      },
-      "artists": [
-        {
-          "name": "Daniel Allan",
-          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
-        },
-        {
-          "name": "RIZ LA VIE",
-          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
-        },
-        {
-          "name": "Emilia Ali",
-          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
-        }
-      ],
-      "duration_ms": 179104,
-      "name": "Spaceman (ft. RIZ LA VIE)",
-      "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
         "name": "GLOW (feat. Au/Ra)",
         "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
       },
@@ -1251,26 +1251,26 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Spinback Remixes",
-        "url": "https://open.spotify.com/album/7wBTfpRnS7yaw5cdi3bWpu"
+        "name": "Spaceman (ft. RIZ LA VIE)",
+        "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
       "artists": [
         {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+          "name": "Daniel Allan",
+          "url": "https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra"
         },
         {
-          "name": "Biicla",
-          "url": "https://open.spotify.com/artist/72heZIc2iMXdpDwsTjTcCQ"
+          "name": "RIZ LA VIE",
+          "url": "https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k"
         },
         {
-          "name": "Bettye LaVette",
-          "url": "https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3"
+          "name": "Emilia Ali",
+          "url": "https://open.spotify.com/artist/4k5j2KkfsE7yGO46C0Hm1G"
         }
       ],
-      "duration_ms": 163008,
-      "name": "The Last Goodbye - Biicla Remix",
-      "url": "https://open.spotify.com/track/29k2X2TJz1ocPanE3OLQFh"
+      "duration_ms": 179104,
+      "name": "Spaceman (ft. RIZ LA VIE)",
+      "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1447,6 +1447,30 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Waiting (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 228718,
       "name": "While you count down.",
       "url": "https://open.spotify.com/track/2GTBThIhxFWnSNpvLr1HHu"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Pola & Bryson",
-          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Waiting (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/0AcuvNq4yAuLJ5SLeyYOFo"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1675,26 +1675,18 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "Set The Remixes",
-        "url": "https://open.spotify.com/album/5MZjbJlDz79EU90vunw7ZV"
+        "name": "die for you",
+        "url": "https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt"
       },
       "artists": [
         {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
-        },
-        {
-          "name": "Nikki Nair",
-          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
-        },
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+          "name": "jigitz",
+          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
         }
       ],
-      "duration_ms": 219653,
-      "name": "Set The Roof (Flux Pavilion Remix)",
-      "url": "https://open.spotify.com/track/7AqsAzxoevATD63LEoeDoB"
+      "duration_ms": 118026,
+      "name": "die for you",
+      "url": "https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1731,18 +1723,26 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
-        "name": "die for you",
-        "url": "https://open.spotify.com/album/6XEyg8afWgcWOb3PKMcUPt"
+        "name": "Set The Remixes",
+        "url": "https://open.spotify.com/album/5MZjbJlDz79EU90vunw7ZV"
       },
       "artists": [
         {
-          "name": "jigitz",
-          "url": "https://open.spotify.com/artist/7sfn5Z6ItzDkOF9cYzxWPZ"
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Nikki Nair",
+          "url": "https://open.spotify.com/artist/27JCep1zDO3K8GY50trDo6"
+        },
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
         }
       ],
-      "duration_ms": 118026,
-      "name": "die for you",
-      "url": "https://open.spotify.com/track/2VYRw09BrrRLcUoilTLN43"
+      "duration_ms": 219653,
+      "name": "Set The Roof (Flux Pavilion Remix)",
+      "url": "https://open.spotify.com/track/7AqsAzxoevATD63LEoeDoB"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2024-05-16 22:00:00",
       "album": {
+        "name": "Sd-2",
+        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
+      },
+      "artists": [
+        {
+          "name": "Loukeman",
+          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
+    },
+    {
+      "added_at": "2024-05-16 22:00:00",
+      "album": {
         "name": "look at me but through me",
         "url": "https://open.spotify.com/album/2Nin3ZwsF1sdkYt2rMkiIb"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 253386,
       "name": "caught up",
       "url": "https://open.spotify.com/track/18rUsFjE2GoJaO2eesZtUP"
-    },
-    {
-      "added_at": "2024-05-16 22:00:00",
-      "album": {
-        "name": "Sd-2",
-        "url": "https://open.spotify.com/album/0UCKDXpYHTZoZpwzrm1KRp"
-      },
-      "artists": [
-        {
-          "name": "Loukeman",
-          "url": "https://open.spotify.com/artist/10JL2s5aUztzFyURrFrxtL"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2X7D3Pg9gNuQ5iwFHuyCr0"
     },
     {
       "added_at": "2024-05-16 22:00:00",

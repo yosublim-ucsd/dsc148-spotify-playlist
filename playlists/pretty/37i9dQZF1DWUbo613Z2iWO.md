@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > R&B of the moment by the artists of the future\. Cover: kwn
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,750 likes - 115 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,764 likes - 115 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 14 | [Touch It](https://open.spotify.com/track/2vI2o9GfUaFbbalCiTGwMc) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Touch It](https://open.spotify.com/album/4g38km2uJCDbYq5lnve4Ai) | 2:49 |
 | 15 | [Such Is Love](https://open.spotify.com/track/5Vj0gHzm9njFI4Us8jwvbZ) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Such Is Love](https://open.spotify.com/album/7oVdqFnANJV4UZai6ucg3f) | 2:08 |
 | 16 | [Happy Home](https://open.spotify.com/track/3WTrRUIfO71a5eBoGEvSAO) | [Trevor Jackson](https://open.spotify.com/artist/6vZUJpsm4VHjSWpedp05vg) | [He Don't Know](https://open.spotify.com/album/1urjgGljXT6gPuN9DePk26) | 2:40 |
-| 17 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
+| 17 | [Fist Bump \- Radio Edit](https://open.spotify.com/track/5El5mxXJzfYYr0PM61xrvn) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Fist Bump \(Radio Edit\)](https://open.spotify.com/album/2KKfaCj1zRMDHuCa2fmlZa) | 3:33 |
 | 18 | [Karma](https://open.spotify.com/track/2k9R6I6dhAWnNnsU4qS53p) | [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Karma](https://open.spotify.com/album/5YA9fKZpw1m6yGs360j4Ke) | 3:44 |
 | 19 | [what do you need](https://open.spotify.com/track/6w1e7VnGbH5TKIjX8gsTnR) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [what do you need](https://open.spotify.com/album/2XfbLj4z1SWkZsg6YfD9Wi) | 2:41 |
 | 20 | [Here Now](https://open.spotify.com/track/7pL8Abg7AAMFu66W3etmAy) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Here Now](https://open.spotify.com/album/2dn3rbVDA051YrJkDci1xl) | 2:22 |

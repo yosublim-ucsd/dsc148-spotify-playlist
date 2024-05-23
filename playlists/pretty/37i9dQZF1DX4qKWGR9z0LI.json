@@ -1,6 +1,6 @@
 {
   "description": "Lo \u00faltimo y lo mejor de la salsa. Cover: Fonseca",
-  "num_followers": 1915565,
+  "num_followers": 1915590,
   "original_name": "Salsa Nation",
   "owner": {
     "name": "Spotify",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Y Si Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp"
-      },
-      "artists": [
-        {
-          "name": "Ronald Borjas",
-          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
-        },
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Y Si Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Es Ajena",
         "url": "https://open.spotify.com/album/00yqN4rueEKgy1bH0be0GI"
       },
@@ -1379,22 +1359,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Bochinchero",
-        "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
+        "name": "Y Si Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/3HWmFsK6dOTkwbrvanYKMp"
       },
       "artists": [
         {
-          "name": "Motiff",
-          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+          "name": "Ronald Borjas",
+          "url": "https://open.spotify.com/artist/1c8m6rFeA6QIhImbIaZ7k2"
         },
         {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
         }
       ],
-      "duration_ms": 199656,
-      "name": "Bochinchero",
-      "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
+      "duration_ms": 260000,
+      "name": "Y Si Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5Uu8GM9LOeCxdxcvEqiMIY"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1411,6 +1391,26 @@
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/1s25QxtuRQsSrOm9tTOaD6"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Bochinchero",
+        "url": "https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY"
+      },
+      "artists": [
+        {
+          "name": "Motiff",
+          "url": "https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj"
+        },
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        }
+      ],
+      "duration_ms": 199656,
+      "name": "Bochinchero",
+      "url": "https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Grandes Exitos",
+        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
+      },
+      "artists": [
+        {
+          "name": "Willie Gonzalez",
+          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
+        }
+      ],
+      "duration_ms": 360666,
+      "name": "Doble Vida",
+      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Salsa de Ahora",
         "url": "https://open.spotify.com/album/2tJozh0xhFgh8zg2Xj28NE"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 177450,
       "name": "Salsa de Ahora",
       "url": "https://open.spotify.com/track/0owEuZsTB5525nGXNCpgXh"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/2FakrUxHjeJKeY0QxX4MGo"
-      },
-      "artists": [
-        {
-          "name": "Willie Gonzalez",
-          "url": "https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z"
-        }
-      ],
-      "duration_ms": 360666,
-      "name": "Doble Vida",
-      "url": "https://open.spotify.com/track/6kpWSzcaLQc5wccq51Ysp9"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Una Historia Musical",
-        "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
-      },
-      "artists": [
-        {
-          "name": "Tito Nieves",
-          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
-        },
-        {
-          "name": "Sergio George",
-          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
-        }
-      ],
-      "duration_ms": 231306,
-      "name": "Cuando Te Miro",
-      "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Mi Confesi\u00f3n",
         "url": "https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 198001,
       "name": "Mi Confesi\u00f3n",
       "url": "https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Una Historia Musical",
+        "url": "https://open.spotify.com/album/3Upn5Xs3hq5NC0SXlI4W79"
+      },
+      "artists": [
+        {
+          "name": "Tito Nieves",
+          "url": "https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m"
+        },
+        {
+          "name": "Sergio George",
+          "url": "https://open.spotify.com/artist/4Ht1HigABvctq7wW4D3jAC"
+        }
+      ],
+      "duration_ms": 231306,
+      "name": "Cuando Te Miro",
+      "url": "https://open.spotify.com/track/22q2vb5U0lbiP6WYzJLF7x"
     }
   ],
   "unique_name": "Salsa Nation",

@@ -1,13 +1,29 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Esme Emerson",
-  "num_followers": 69017,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Caity Krone",
+  "num_followers": 69338,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkTRUwAAAADcS76TQAdvaS/7HNbU+LNF",
+  "snapshot_id": "Zk4enQAAAAD8j6HqMZ1AcSZffzvJT3wH",
   "tracks": [
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Nose Job",
+        "url": "https://open.spotify.com/album/2uOQTwIOf0IJecVoNYdFAi"
+      },
+      "artists": [
+        {
+          "name": "Caity Krone",
+          "url": "https://open.spotify.com/artist/0qMLMrYSgSJBquDGCOMERs"
+        }
+      ],
+      "duration_ms": 271475,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/6xdB35eP1oltwaPgtwZ9tP"
+    },
     {
       "added_at": "2024-05-15 15:14:27",
       "album": {
@@ -23,6 +39,170 @@
       "duration_ms": 163698,
       "name": "Artichoke",
       "url": "https://open.spotify.com/track/08Z0xcdFb0KC0yt5QRVvxT"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "curse",
+        "url": "https://open.spotify.com/album/24mdQfh0a9aM0FuK7VRq9x"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 214814,
+      "name": "curse",
+      "url": "https://open.spotify.com/track/5QJm7O7PhFZUVbwD6seP6W"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/5zxsAueCxKs7vmwFU9xl3l"
+      },
+      "artists": [
+        {
+          "name": "Theo Kandel",
+          "url": "https://open.spotify.com/artist/0YEY41EVT9qE1IdDDDyF9q"
+        }
+      ],
+      "duration_ms": 266672,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/435DAdFp3Ey9QMyT8UogTc"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Cult to A Saint",
+        "url": "https://open.spotify.com/album/5J51HUdRQFacntDsIhRmbf"
+      },
+      "artists": [
+        {
+          "name": "Rhys",
+          "url": "https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU"
+        },
+        {
+          "name": "AKA lisa",
+          "url": "https://open.spotify.com/artist/0WTTqGh79njNF2o4Cgklc1"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "Cult to A Saint",
+      "url": "https://open.spotify.com/track/6LiZv6hKaSY9DMMqVO3hgy"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Mad At Nothing",
+        "url": "https://open.spotify.com/album/7Jiy2uR2ytNxiM4jqF38Pq"
+      },
+      "artists": [
+        {
+          "name": "Ethansroom",
+          "url": "https://open.spotify.com/artist/0obyulaZmmOhiSsnYIfHne"
+        }
+      ],
+      "duration_ms": 148480,
+      "name": "Mad At Nothing",
+      "url": "https://open.spotify.com/track/0ifDqYIKmrG93QqrWLNGxQ"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Feline Wave Race",
+        "url": "https://open.spotify.com/album/4ESu7CGDAaKvCpDET7ZdHm"
+      },
+      "artists": [
+        {
+          "name": "Nap Eyes",
+          "url": "https://open.spotify.com/artist/1ysOXSDpupZ5RBQ9PNFZU7"
+        }
+      ],
+      "duration_ms": 370879,
+      "name": "Feline Wave Race",
+      "url": "https://open.spotify.com/track/62D9JFjTnGgF7REU7oI2AB"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Green Morning",
+        "url": "https://open.spotify.com/album/608J5tNM6Lt827kWtBRaMw"
+      },
+      "artists": [
+        {
+          "name": "Bobby Bazini",
+          "url": "https://open.spotify.com/artist/57FbfTkxFU7crAkIEtioth"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Green Morning",
+      "url": "https://open.spotify.com/track/42VWxciaW70cNreVvpx368"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Lose The Gun",
+        "url": "https://open.spotify.com/album/4tIlywYMZGCZANo1fz9ugF"
+      },
+      "artists": [
+        {
+          "name": "HAPPY LANDING",
+          "url": "https://open.spotify.com/artist/2Jsv2nBcTfKpM9dbZcBbk6"
+        }
+      ],
+      "duration_ms": 230401,
+      "name": "Lose The Gun",
+      "url": "https://open.spotify.com/track/4h232GePNDICZKuIo9w27V"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Music",
+        "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
+      },
+      "artists": [
+        {
+          "name": "Niamh Regan",
+          "url": "https://open.spotify.com/artist/5vQdYaBacVe00yHMbpnRVa"
+        }
+      ],
+      "duration_ms": 193438,
+      "name": "Music",
+      "url": "https://open.spotify.com/track/6HrcOG9ILLgEZZ28FyQLaL"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Wild Geese",
+        "url": "https://open.spotify.com/album/7nhOxgSW1mGtfWYNvmtzz0"
+      },
+      "artists": [
+        {
+          "name": "Liv Greene",
+          "url": "https://open.spotify.com/artist/2UltodJ8HNFM8hNpVyD5Ae"
+        }
+      ],
+      "duration_ms": 214876,
+      "name": "Wild Geese",
+      "url": "https://open.spotify.com/track/38jCElKYHdWG9f0DsPB3Q9"
+    },
+    {
+      "added_at": "2024-05-22 16:34:37",
+      "album": {
+        "name": "Rockdale",
+        "url": "https://open.spotify.com/album/77l40wbAkDypi1otMXLN3K"
+      },
+      "artists": [
+        {
+          "name": "Orebolo",
+          "url": "https://open.spotify.com/artist/5dUvPdohZCubdo8k4oG2Mx"
+        }
+      ],
+      "duration_ms": 375312,
+      "name": "Rockdale",
+      "url": "https://open.spotify.com/track/1wP9autTu3EpTzFQBfYzIS"
     },
     {
       "added_at": "2024-05-15 15:14:27",
@@ -1381,38 +1561,6 @@
       "url": "https://open.spotify.com/track/1E1m6vWbDvApleEu9H2oVT"
     },
     {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "the machine",
-        "url": "https://open.spotify.com/album/2WBSe1gcZOCGSreDKc8rCA"
-      },
-      "artists": [
-        {
-          "name": "Son of the Challenger",
-          "url": "https://open.spotify.com/artist/5ArUOljpeiuePVYkK6KFmG"
-        }
-      ],
-      "duration_ms": 185034,
-      "name": "the machine",
-      "url": "https://open.spotify.com/track/4AhZ3OCy7lG0aMoEztWVGR"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Twin Flame",
-        "url": "https://open.spotify.com/album/7oisAmmg9BaaTHsdzvO3oq"
-      },
-      "artists": [
-        {
-          "name": "Georgia Parker",
-          "url": "https://open.spotify.com/artist/4OGodtGAXXUvXC4mmJzZNf"
-        }
-      ],
-      "duration_ms": 230329,
-      "name": "Twin Flame",
-      "url": "https://open.spotify.com/track/2BQR4wX9e6kZXnIqPXUtUK"
-    },
-    {
       "added_at": "2024-02-28 05:00:00",
       "album": {
         "name": "Bad Luck Bad Habit",
@@ -1427,150 +1575,6 @@
       "duration_ms": 210256,
       "name": "Bad Luck Bad Habit",
       "url": "https://open.spotify.com/track/0o394lDZL07bwAv8K11yDj"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Unravel Myself",
-        "url": "https://open.spotify.com/album/1BppxhXRwlhItsVZEaq9t9"
-      },
-      "artists": [
-        {
-          "name": "Ivy James",
-          "url": "https://open.spotify.com/artist/1WoddWoiAejGKl7zIoyNl7"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Unravel Myself",
-      "url": "https://open.spotify.com/track/2Xr2Lim9QmzDruk6sPhzmH"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Babylon",
-        "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
-      },
-      "artists": [
-        {
-          "name": "Alexander Grandjean",
-          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
-        }
-      ],
-      "duration_ms": 220632,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/6zlwcDw4sY6FOIfUhQ1alu"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Gears",
-        "url": "https://open.spotify.com/album/0lK9saFbfDfxZHQVuImkLQ"
-      },
-      "artists": [
-        {
-          "name": "Divorce",
-          "url": "https://open.spotify.com/artist/0YMVzWF9HWGbV4DZHfCyKo"
-        }
-      ],
-      "duration_ms": 155874,
-      "name": "Gears",
-      "url": "https://open.spotify.com/track/6n9oYc4iYuBJf95UFNY4Ky"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Keeper of the Shepherd",
-        "url": "https://open.spotify.com/album/36z8ptLj0Dag5rxBmwvFxe"
-      },
-      "artists": [
-        {
-          "name": "Hannah Frances",
-          "url": "https://open.spotify.com/artist/6Xep0FcobRPss2EjGf3ewz"
-        }
-      ],
-      "duration_ms": 386040,
-      "name": "Keeper of the Shepherd",
-      "url": "https://open.spotify.com/track/6WO06FW9LqHcmTFGvyjTL9"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "THE CITY NEVER SLEEPS",
-        "url": "https://open.spotify.com/album/23moFrYISKXivaLiNPT8ai"
-      },
-      "artists": [
-        {
-          "name": "Jo Hill",
-          "url": "https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8"
-        }
-      ],
-      "duration_ms": 250341,
-      "name": "THE CITY NEVER SLEEPS",
-      "url": "https://open.spotify.com/track/3iWEE0xx3HFmVjFjsAyxzk"
-    },
-    {
-      "added_at": "2024-03-20 16:00:00",
-      "album": {
-        "name": "Garden In The Sky",
-        "url": "https://open.spotify.com/album/2rz4IeiRzPpl9j2U7gtETg"
-      },
-      "artists": [
-        {
-          "name": "KATYA",
-          "url": "https://open.spotify.com/artist/6ARtMKoXQvZclVIxRqMFBQ"
-        }
-      ],
-      "duration_ms": 216306,
-      "name": "Garden In The Sky",
-      "url": "https://open.spotify.com/track/2DNIxbixiKsHDEll7nBnbD"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "shaking head",
-        "url": "https://open.spotify.com/album/5FiKwOdK0erlaCZ06n4U12"
-      },
-      "artists": [
-        {
-          "name": "Noah Pope",
-          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
-        }
-      ],
-      "duration_ms": 164220,
-      "name": "shaking head",
-      "url": "https://open.spotify.com/track/0GCzgti2LYrdH93iJiC9hf"
-    },
-    {
-      "added_at": "2024-03-06 14:10:40",
-      "album": {
-        "name": "No Worries",
-        "url": "https://open.spotify.com/album/0bVB46dm7GSleUFnDhuDuX"
-      },
-      "artists": [
-        {
-          "name": "Mal Not Bad",
-          "url": "https://open.spotify.com/artist/2ufQNkP4cn7cHHgh9l3jqL"
-        }
-      ],
-      "duration_ms": 234174,
-      "name": "No Worries",
-      "url": "https://open.spotify.com/track/0HTiA0Al8NXUD5NSPvoHVH"
-    },
-    {
-      "added_at": "2024-03-13 04:00:00",
-      "album": {
-        "name": "A Mother's Touch",
-        "url": "https://open.spotify.com/album/2xKU9gBYRXTOLaVJdYDGJv"
-      },
-      "artists": [
-        {
-          "name": "Amanda Cy",
-          "url": "https://open.spotify.com/artist/7ocbmQfDODtTh1CFeK66wW"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "A Mother's Touch",
-      "url": "https://open.spotify.com/track/36QR24ko74w3ZZ6RbHjJjb"
     },
     {
       "added_at": "2024-03-13 04:00:00",

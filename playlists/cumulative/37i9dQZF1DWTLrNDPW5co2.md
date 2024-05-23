@@ -4,11 +4,11 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: I\. JORDAN
 
-168 songs - 11 hr 12 min
+169 songs - 11 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-10-15 |  |
+| [10% \(feat\. Kali Uchis\)](https://open.spotify.com/track/41SwdQIX8Hy2u6fuEDgvWr) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:06 | 2021-10-15 | 2024-05-23 |
 | [160 DOWN THE A406](https://open.spotify.com/track/1uFinqBJvAhyupYVcrUaAl) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [160 DOWN THE A406](https://open.spotify.com/album/5Wu97Q2WeXdwFk6kXmF6mS) | 6:02 | 2022-06-03 | 2023-04-01 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-07-14 | 2024-03-02 |
 | [Amber Rush](https://open.spotify.com/track/0OvsbQdI2xvN7HXosDtfoJ) | [Joshua James](https://open.spotify.com/artist/3g6L9paGFaZxGp7lxChRqh) | [Amber Rush](https://open.spotify.com/album/0nAGpiOiKPhWd8rYe7JdgF) | 6:05 | 2023-10-13 | 2024-04-19 |
@@ -62,6 +62,7 @@
 | [Final Credits](https://open.spotify.com/track/5gC2aJwuSzGe3IJVlk9r2O) | [Midland](https://open.spotify.com/artist/1YFLNH4rO40x9i16RpLwdY) | [Final Credits](https://open.spotify.com/album/4DR47uL0VrENkV4fuTMdOE) | 7:19 | 2021-10-15 |  |
 | [Find Your Way Home](https://open.spotify.com/track/0WoxURnxMhMHVEZpK04KzU) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 8:17 | 2021-10-15 | 2023-06-02 |
 | [Forward Flamingo](https://open.spotify.com/track/5jTUWYHBoAebFimm7yteTN) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [Face to Phase](https://open.spotify.com/album/3JAHvyB4gAIjPPxQ6k2XRu) | 4:23 | 2021-10-15 | 2022-06-04 |
+| [Friki](https://open.spotify.com/track/19wfGoIBGL0Psw6c8Oa23N) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [Megane Mercury](https://open.spotify.com/artist/1dQK5HMaxZWCAwHD4a1l85) | [Friki](https://open.spotify.com/album/1ZrhzZuCRdqshEK1CB60As) | 3:07 | 2024-05-22 |  |
 | [Fuck It!](https://open.spotify.com/track/4GTa4r47RMGgVzESGRmEul) | [TAAHLIAH](https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU), [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Fuck It!](https://open.spotify.com/album/1snDRRO46ItFbvq8OyNvo2) | 3:41 | 2023-03-31 |  |
 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2hvR60sd1TZmrvH89WLatt) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/0ftkoyoDRZNwpZYl7N1vx2) | 6:16 | 2024-03-22 |  |
 | [GETOUTOFMYHEAD](https://open.spotify.com/track/2kYQCKxOi9Dccib2E8KaW5) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [GETOUTOFMYHEAD](https://open.spotify.com/album/04Cbf32azwsSiMpOjHDNya) | 6:16 | 2023-03-31 | 2023-04-30 |

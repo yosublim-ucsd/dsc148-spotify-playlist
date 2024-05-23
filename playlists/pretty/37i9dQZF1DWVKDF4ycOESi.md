@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Billie Eilish in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 309,720 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 309,754 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 27 | [One Cry \(feat\. Rosa Linn\)](https://open.spotify.com/track/2KE3Ukz2maas53WCtYIvCE) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 3:06 |
 | 28 | [IMAN \(Two Of Us\)](https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [IMAN \(Two Of Us\)](https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb) | 2:02 |
 | 29 | [GUARDA COME FL3XO](https://open.spotify.com/track/5TlndMPcKVEaTsBtbmMuBW) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [GUARDA COME FL3XO](https://open.spotify.com/album/3WoOhPK946IoZwevCoayvR) | 2:28 |
-| 30 | [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI) | 3:35 |
+| 30 | [UFFA \(feat\. Silent Bob\)](https://open.spotify.com/track/6Z5xZS3W3zLJGGDA5hv64H) | [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0), [Silent Bob](https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI) | [È LA \(LOVE\)](https://open.spotify.com/album/2xceE0IerYTmZi5Ueeppqt) | 3:35 |
 | 31 | [KILLER \(feat\. Rose Villain\)](https://open.spotify.com/track/33DOYNnargf2vYuMEfDd6E) | [Finley](https://open.spotify.com/artist/7JOervne0BnU0raxSI5Ooc), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [POGO MIXTAPE VOL.1](https://open.spotify.com/album/6XmCk9ofF63wwmhE0b3PIS) | 2:37 |
 | 32 | [Big Panorama](https://open.spotify.com/track/3K7z0fSlSRxrdFPqavdaKC) | [Tredici Pietro](https://open.spotify.com/artist/0RENwV6Phsp2y8nnFJ54UC) | [Big Panorama](https://open.spotify.com/album/4Pcpa6u8EH2bAzboGbcIfK) | 2:36 |
 | 33 | [FATIMA](https://open.spotify.com/track/7ahK3ber0bIxRUxBvmkNMl) | [Beatrice Quinta](https://open.spotify.com/artist/3Jk1Qjo5P7yOQIBVkqUzet) | [DEVOTA](https://open.spotify.com/album/7i3oRIjhcZAb9wjqVLzbfE) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 99 | [si dai però](https://open.spotify.com/track/556yPQfa994qWfw6X1ctsf) | [Leanò](https://open.spotify.com/artist/0pb0sehd5pPALyoCt8B4MV) | [si dai però](https://open.spotify.com/album/2wJBHBlSfOPMDheHJknHwH) | 2:22 |
 | 100 | [ZITTA](https://open.spotify.com/track/2bVt0Oio2v8V6am7ETFHyk) | [MARTE XOXO](https://open.spotify.com/artist/07Jk3bTwGr2NzImHMBnlxb) | [ZITTA](https://open.spotify.com/album/6hXPnFfVEWBDo66VCt2AMS) | 3:25 |
 
-Snapshot ID: `ZkaFpwAAAAC9QPpXMj7lBEGDyaHefMTZ`
+Snapshot ID: `Zk3VSQAAAAD9S3brRkhcS035QjsEVneo`

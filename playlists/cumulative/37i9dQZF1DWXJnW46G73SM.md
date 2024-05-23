@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: إليسا
 
-958 songs - 2 day 6 hr 11 min
+959 songs - 2 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Asmrani Eyounoh Samrah](https://open.spotify.com/track/6M8EcLbklscFeUPav8fIGu) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D), [Orange](https://open.spotify.com/artist/2xlHEDzOINtGVm6XQ9pn3W) | [Asmrani Eyounoh Samrah](https://open.spotify.com/album/7lB8Cor4rlvXJ9o8d0HshY) | 3:12 | 2024-03-12 |  |
 | [Asrar](https://open.spotify.com/track/17kMbUwpSIdXdLUe70XHps) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Asrar](https://open.spotify.com/album/79LLrOm3su0LwbV2JGkMlt) | 3:19 | 2023-03-21 | 2023-05-12 |
 | [Awel Gawla](https://open.spotify.com/track/1l4MnoTcwYZN2yUpd7Wwuy) | [Sedawy](https://open.spotify.com/artist/317hp6Z5h0o05KwsqXk9tR) | [Awel Gawla](https://open.spotify.com/album/6jBiGjq1Ojvao2sh1orMRB) | 3:18 | 2023-03-07 | 2023-05-06 |
-| [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 | 2024-04-10 |  |
+| [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 | 2024-04-10 | 2024-05-23 |
 | [Aysha w Mabsouta](https://open.spotify.com/track/07VbeX7HRoHVSTHI6ZS1TP) | [Mirna nasser](https://open.spotify.com/artist/6V50iHFrnnkOzahS4QbvbR) | [Aysha w Mabsouta](https://open.spotify.com/album/4RcJd2zIAn78Bqqj7wVoHZ) | 3:45 | 2024-02-16 | 2024-05-03 |
 | [Aywa](https://open.spotify.com/track/7zvJlh2aBSiWeQ6sTHSecc) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [My Maya I](https://open.spotify.com/album/3MTvNPfeRGJl2QBevmUuXe) | 3:20 | 2023-05-02 | 2023-06-02 |
 | [Ayzak Ala Enferad](https://open.spotify.com/track/7GvJaBiQmrzLP5FNz61p47) | [Waed](https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg) | [Ayzak Ala Enferad](https://open.spotify.com/album/5gtfKG7lMH9U5hZjCoV3U3) | 3:18 | 2023-09-22 | 2023-12-30 |
@@ -178,7 +178,7 @@
 | [Eiish Ahla Snin](https://open.spotify.com/track/5cTeuErPw3vt8SBga9YAfM) | [Maya Diab](https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz) | [Eiish Ahla Snin](https://open.spotify.com/album/0I58q7plyh0jifvzl4gMzh) | 3:13 | 2022-07-14 | 2022-10-08 |
 | [Eish'ha B Afia](https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Eish'ha B Afia](https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW) | 3:18 | 2022-08-12 | 2022-11-04 |
 | [Ekhtary](https://open.spotify.com/track/2V3E17nHsmFLpuV3aswZKn) | [Rawan Bin Hussain](https://open.spotify.com/artist/2EwH8s2tM7Oxp45dIW6oNQ) | [اختاري](https://open.spotify.com/album/3ty4b0EddF0sWH4FyMtYpi) | 3:20 | 2022-09-26 | 2022-12-24 |
-| [El 7owar](https://open.spotify.com/track/4A05M0xEifCqrrCqRRxB8N) | [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG), [Hany El Dakkak](https://open.spotify.com/artist/3lkpsAecG5PLOzsanTmfvo) | [El 7owar](https://open.spotify.com/album/1VZKRmqQOEbapnvyKK8MBF) | 3:34 | 2024-04-10 |  |
+| [El 7owar](https://open.spotify.com/track/4A05M0xEifCqrrCqRRxB8N) | [Twyxx](https://open.spotify.com/artist/49tL54lw3BSK1DD2OfaffG), [Hany El Dakkak](https://open.spotify.com/artist/3lkpsAecG5PLOzsanTmfvo) | [El 7owar](https://open.spotify.com/album/1VZKRmqQOEbapnvyKK8MBF) | 3:34 | 2024-04-10 | 2024-05-23 |
 | [El Alb Galo Hoboot](https://open.spotify.com/track/1moe9UH2JUoBYes6RzrUk6) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [El Alb Galo Hoboot](https://open.spotify.com/album/1qqhyewwExUUhz98GwuWPa) | 4:43 | 2021-12-23 | 2022-03-10 |
 | [El Amal We El Noor Fe Eedak](https://open.spotify.com/track/0R9RoVQip12AW82kNNX9UF) | [Hany Mehanna](https://open.spotify.com/artist/3h9X1RMf1TfyNGntWJZdJ2), [Ehab Yunis](https://open.spotify.com/artist/3UmYYEQUym9QNV5mWCV2Gp) | [Red Bull Sika](https://open.spotify.com/album/6HsfsZfT4XutmUQFvHM3Rz) | 3:58 | 2023-10-17 | 2024-01-17 |
 | [El Ashkhas El Ghalat](https://open.spotify.com/track/1cVZZhxBVFBjkDOwuNdxro) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [El Ashkhas El Ghalat](https://open.spotify.com/album/0K8IbRnIP3S6RCv1Enu8LF) | 3:04 | 2023-08-23 | 2023-11-22 |
@@ -234,6 +234,7 @@
 | [Eshrit Sinin](https://open.spotify.com/track/56l5RCpLHC2LMif1W5LaWo) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Eshrit Sinin](https://open.spotify.com/album/6Sw1IoBzUkQllqXLAwdhNe) | 4:06 | 2022-02-01 | 2022-05-19 |
 | [Eskendereya](https://open.spotify.com/track/1xLgw7NZmHcFDi7PRe4Wod) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Eskendereya](https://open.spotify.com/album/0gpiCuYzxOpiYMrYADdJup) | 3:37 | 2023-07-28 | 2023-08-10 |
 | [Esma W Naseeb \(New Version\)](https://open.spotify.com/track/1NLrUb7V2sz10xZwtK6QAM) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [Esma W Naseeb \(New Version\)](https://open.spotify.com/album/45h1SNOrUM3xV27D6FaCLL) | 3:56 | 2023-02-02 | 2023-03-11 |
+| [Etabelna](https://open.spotify.com/track/6AvhXZErJVyLcTPGWyriJr) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Etabelna](https://open.spotify.com/album/5t9HH3TTtAh6faeuy2UOSR) | 3:06 | 2024-05-22 |  |
 | [ETTIEEL](https://open.spotify.com/track/2V7cMt98OdLnsVzPslqD8M) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [ETTIEEL](https://open.spotify.com/album/1jYqFQeUCu7rPvhyp1jLbn) | 2:47 | 2024-04-25 |  |
 | [Ew3a](https://open.spotify.com/track/1LN3baoelgQTeK6XIb80q1) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Ew3a](https://open.spotify.com/album/6olbtWuufnTDpFBJ5IiWFS) | 3:13 | 2023-08-04 | 2023-10-10 |
 | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/track/5OFdNtPy9sgIw7UMkKhpLn) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [EZZ AL ARAB \(Music from the FIFA World Cup Qatar 2022 Official Soundtrack\)](https://open.spotify.com/album/7IxVks2oX1JIfmX23Fp2Nh) | 3:33 | 2022-12-15 | 2023-02-10 |

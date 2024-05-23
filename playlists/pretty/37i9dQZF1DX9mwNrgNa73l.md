@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 
 > Jahaan bhi dekho tera nishaan hai, mahraab\-i dil men teri azaan hai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,678 likes - 80 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,747 likes - 80 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mwNrgNa73l.md) - [plain]
 | 50 | [Rangrez](https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Coke Studio Season 10: Episode 5](https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0) | 8:57 |
 | 51 | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/track/05rGKExmwZcwIvia1YVr8C) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Balaghal\-Ula Bi\-Kamaalihi](https://open.spotify.com/album/45xKWqxlWWRdb3rk3jHjHz) | 8:44 |
 | 52 | [Alif Allah Chambey Di Booty](https://open.spotify.com/track/7krpkx52sDmcO6U8ujbref) | [Arif Lohar & Meesha Shafi](https://open.spotify.com/artist/2AI4UlqXx9uRwCcK4hCqcg), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 3](https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY) | 8:44 |
-| 53 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1SAfLgPPu8S6NWUJES6LNO) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
+| 53 | [Tasbih](https://open.spotify.com/track/01X1vwWYDvUzIW78ZmBO7q) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Lakhwinder Wadali](https://open.spotify.com/artist/1qa2fyoTZpIGtyfghuB5sK) | [Tasbih](https://open.spotify.com/album/40i5w2FOxwHsnO6ubxn5kF) | 4:13 |
 | 54 | [Rabba Ho](https://open.spotify.com/track/7pHeWftiVZ64s3E7gnTz3n) | [Saieen Zahoor](https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q), [Sanam Marvi](https://open.spotify.com/artist/6ckyg7wmYQLuUqRkLtKnj5), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Season 6](https://open.spotify.com/album/1zJtqhpXJiqVBOP91oM0Ky) | 9:57 |
 | 55 | [Maikada 2](https://open.spotify.com/track/6IH1DsmUezNkZIxW1SM95q) | [Muhammad Samie](https://open.spotify.com/artist/6G5nbVLqZWNNT37I5icSVs) | [Maikada 2](https://open.spotify.com/album/60EYSdCM5BQDajqMyG0xz0) | 9:10 |
 | 56 | [Mere Sarkaar \(feat\. Ali Brothers, Raj Pandit & Shivam Bhardwaj\)](https://open.spotify.com/track/1xPvMc7UCIUxQ6GP2DIyng) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Brothers](https://open.spotify.com/artist/7j4bvaxcXA4ShJitAHfuBt), [Raj Pandit](https://open.spotify.com/artist/3UOrPjiw3UxtqP8ZoKR908), [Shivam Bhardwaj](https://open.spotify.com/artist/1jhRh4hiFlCDxzEnwDQrDA) | [Mere Sarkaar](https://open.spotify.com/album/57gn0V9OURh6d3Gg2BWGkL) | 6:49 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Guzior
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,073 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,349 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [Pewex](https://open.spotify.com/track/6ENavkkI3fuWmLYhIlJRGP) | [KęKę](https://open.spotify.com/artist/11ohMXkA2KIq5F1DoWH2jj), [PSR](https://open.spotify.com/artist/58HrJf2URKRHTdaB28FcLh) | [Pewex](https://open.spotify.com/album/7a6ddYnMX1oxMs7KsjogfJ) | 2:42 |
 | 50 | [Masterszef](https://open.spotify.com/track/4yMZirO69kX51sOLvEtcJ5) | [Smolasty](https://open.spotify.com/artist/5GwdnlZaSwKpHmjcAijATP), [Książulo](https://open.spotify.com/artist/1IvWinvbN8G1hPmthF7zWf) | [Masterszef](https://open.spotify.com/album/3kFe20Iaed4dBBJkLaqI36) | 2:33 |
 
-Snapshot ID: `ZksAewAAAACFGAVfMuzEIoqwfbgYOVJT`
+Snapshot ID: `Zk3QMAAAAACrUkVN6JhN3pMHZ1jOVZYD`

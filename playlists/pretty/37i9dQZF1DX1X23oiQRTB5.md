@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> DA Uzi au top de la première playlist de rap français.
+> DA Uzi au top de la première playlist de rap français !
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,991 likes - 40 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,496,154 likes - 40 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Triste mélancolie \(feat\. Josman\)](https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Du peu que j'ai eu, Du mieux que j'ai pu](https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7) | 3:25 |
 | 40 | [LOYAL](https://open.spotify.com/track/5W9JWRvM5nTLCz8Z9aW2NS) | [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ) | [LOYAL](https://open.spotify.com/album/5ua3ScbhrRD4fPu8G9YOtf) | 3:48 |
 
-Snapshot ID: `ZkaB4AAAAADre8xsYZq9lr1MH7+Rvx9q`
+Snapshot ID: `Zk3QMAAAAABesSr0dZq5JiCevAS//rNc`

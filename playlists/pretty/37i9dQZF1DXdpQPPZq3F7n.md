@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 
 > Let these songs be the background score to your love story\. Cover \- Teri Baaton Mein Aisa Uljha Jiya
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,300,857 likes - 75 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,301,533 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpQPPZq3F7n.md) - [plain]
 | 74 | [Tumhe Kitna Pyaar Karte \(From "Bawaal"\)](https://open.spotify.com/track/03hJuEQpEQERrHpjcXKWzJ) | [Mithoon](https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Tumhe Kitna Pyaar Karte \(From "Bawaal"\)](https://open.spotify.com/album/20zQZcEhMLsDUn1LhPCEFY) | 5:05 |
 | 75 | [Bekhayali](https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG) | [Kabir Singh](https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4) | 6:11 |
 
-Snapshot ID: `Zkb8dgAAAAB8nhyoKbnBImvYeSvDyrAT`
+Snapshot ID: `Zk3QMAAAAABE2yC5zFgWJ7oQHSBZQiQm`

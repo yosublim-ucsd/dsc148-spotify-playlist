@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Luma Elpidio",
-  "num_followers": 93597,
+  "num_followers": 93642,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
-        "name": "SL.27.4",
-        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Gomes",
-          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
-        }
-      ],
-      "duration_ms": 237209,
-      "name": "Tudo",
-      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
         "name": "Reconstituir",
         "url": "https://open.spotify.com/album/5FVMdmhaJfHB0o2ZDzb1SJ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
+        "name": "SL.27.4",
+        "url": "https://open.spotify.com/album/1dRT83wTKwey6FeWv177iy"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Gomes",
+          "url": "https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE"
+        }
+      ],
+      "duration_ms": 237209,
+      "name": "Tudo",
+      "url": "https://open.spotify.com/track/5wbSVolmtQA6kodui95x40"
     },
     {
       "added_at": "2024-04-26 03:45:55",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
+        "name": "Voc\u00ea Por Perto",
+        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
+      },
+      "artists": [
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 231679,
+      "name": "Voc\u00ea Por Perto",
+      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
         "name": "Teu V\u00f4o",
         "url": "https://open.spotify.com/album/6rS0qf26llSApDssZvCyX1"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 192000,
       "name": "Teu V\u00f4o",
       "url": "https://open.spotify.com/track/3s1puxrckxaAKtsqGcHuPD"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
-        "name": "Voc\u00ea Por Perto",
-        "url": "https://open.spotify.com/album/3B8bR2QhFW5k2VUFmcMCew"
-      },
-      "artists": [
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
-        }
-      ],
-      "duration_ms": 231679,
-      "name": "Voc\u00ea Por Perto",
-      "url": "https://open.spotify.com/track/796SV74nPB0puKX8HFMFs9"
     },
     {
       "added_at": "2024-04-26 03:45:55",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
-        "name": "minha vida",
-        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
-      },
-      "artists": [
-        {
-          "name": "LLC Flame",
-          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
-        },
-        {
-          "name": "DJ HTSW",
-          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
-        }
-      ],
-      "duration_ms": 135230,
-      "name": "minha vida",
-      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
         "name": "Tudo Novo",
         "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 185901,
       "name": "Tudo Novo",
       "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
+        "name": "minha vida",
+        "url": "https://open.spotify.com/album/4kG8hRdehnWtIaEkJdG4VY"
+      },
+      "artists": [
+        {
+          "name": "LLC Flame",
+          "url": "https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4"
+        },
+        {
+          "name": "DJ HTSW",
+          "url": "https://open.spotify.com/artist/4dXzdbWstY0rXrJiL3Cn6R"
+        }
+      ],
+      "duration_ms": 135230,
+      "name": "minha vida",
+      "url": "https://open.spotify.com/track/4u9rhcGy5RjTxJSbETsqsP"
     },
     {
       "added_at": "2024-04-26 03:45:55",
@@ -1107,6 +1107,30 @@
       "duration_ms": 234600,
       "name": "Al\u00e9m do Que Se V\u00ea",
       "url": "https://open.spotify.com/track/4XzEfk8FB5T2D0qEXHhaGW"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
+        "name": "Tudo Novo (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        }
+      ],
+      "duration_ms": 179998,
+      "name": "Tudo Novo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
     },
     {
       "added_at": "2024-04-26 03:45:55",
@@ -1215,30 +1239,6 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
-        "name": "Tudo Novo (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3gWsO95tq0c0qTAyogPlHk"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 179998,
-      "name": "Tudo Novo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/77uSoHkw1ot5r6JdfvtTmi"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
         "name": "Ponto de Paz",
         "url": "https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP"
       },
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
-        "name": "Pra Onde Vou Correr",
-        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
-      },
-      "artists": [
-        {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Sulset Music",
-          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
-        }
-      ],
-      "duration_ms": 215125,
-      "name": "Pra Onde Vou Correr",
-      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
         "name": "Ousado Amor (Releitura)",
         "url": "https://open.spotify.com/album/5dpS81RUXO7awRzR3b9Yug"
       },
@@ -1327,22 +1307,6 @@
     {
       "added_at": "2024-04-26 03:45:55",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
-      },
-      "artists": [
-        {
-          "name": "Leif Bessa",
-          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
-        }
-      ],
-      "duration_ms": 199864,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
-    },
-    {
-      "added_at": "2024-04-26 03:45:55",
-      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
@@ -1363,6 +1327,42 @@
       "duration_ms": 166530,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
+        "name": "Pra Onde Vou Correr",
+        "url": "https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq"
+      },
+      "artists": [
+        {
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Sulset Music",
+          "url": "https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs"
+        }
+      ],
+      "duration_ms": 215125,
+      "name": "Pra Onde Vou Correr",
+      "url": "https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE"
+    },
+    {
+      "added_at": "2024-04-26 03:45:55",
+      "album": {
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/75MMXMPZcSAK8L0Q4QQhk0"
+      },
+      "artists": [
+        {
+          "name": "Leif Bessa",
+          "url": "https://open.spotify.com/artist/7AXkzxHwKWcrSmdAJ5e5WV"
+        }
+      ],
+      "duration_ms": 199864,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/2z06u1grifKTmzRf48Hbdh"
     },
     {
       "added_at": "2024-04-26 03:45:55",

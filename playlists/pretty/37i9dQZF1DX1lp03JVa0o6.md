@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Peggy Gou
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,660 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,669 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
 | 75 | [2MUCH$](https://open.spotify.com/track/10jzrk4RI6TYIAcNoHjOgI) | [Sophiya](https://open.spotify.com/artist/0cAZn7vdec0QR58yldVTwm) | [2MUCH$](https://open.spotify.com/album/7jeJlWk5DQcziq5Wc0X3ik) | 2:22 |
 
-Snapshot ID: `ZkY7kAAAAADadnYcR2L3B/4B1Qc7kIow`
+Snapshot ID: `Zk3QMAAAAAA0eoYp8Gy+aRlrf25jd8Q1`
