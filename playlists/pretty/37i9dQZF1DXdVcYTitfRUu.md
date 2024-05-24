@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 
 > 감성 가득한 노래와 함께 부드럽게 핸들을 돌려보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,805 likes - 80 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,807 likes - 80 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 34 | [If We Ever Meet Again](https://open.spotify.com/track/2RLdkXSaiQjRbey5pvP8Kt) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 4:34 |
 | 35 | [Hongdae R&B](https://open.spotify.com/track/5TIwTvdD7OpJBt0tqIWLH3) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:02 |
 | 36 | [Still You](https://open.spotify.com/track/7pIpkUJOiFghCDLxono6qC) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Romantic Doctor 3 OST Part.4](https://open.spotify.com/album/76EcPCpVlaS2IJWTuQgGmf) | 3:49 |
-| 37 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
-| 38 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 37 | [I′m Sorry](https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Alchemy of Souls: Light and Shadow, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg) | 4:16 |
+| 38 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 |
 | 39 | [Rhapsody of Sadness](https://open.spotify.com/track/3HIDWyZGwSe5MhrSP890nc) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Rhapsody of Sadness](https://open.spotify.com/album/2tu5FWMandguGnkiPxVOvV) | 3:55 |
 | 40 | [Heavenly fate](https://open.spotify.com/track/4mqfe9XrgEOSsofvq5MyjR) | [LEE CHANGSUB](https://open.spotify.com/artist/1rp5HzWaNwgauM5W5YmZ3U) | [Heavenly fate \(Original Soundtrack from the Webtoon A Not So Fairy Tale\)](https://open.spotify.com/album/6R3XGAZh7OzZBQiN8Ucbkq) | 4:31 |
 | 41 | [Rock With You \- Spotify Singles](https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO), [WOOGIE](https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN) | [Spotify Singles](https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5) | 3:48 |
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVcYTitfRUu.md) - [plain]
 | 70 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 71 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 |
 | 72 | [Only you](https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Only you](https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx) | 3:10 |
-| 73 | [Weird](https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Weird](https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y) | 4:08 |
+| 73 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 |
 | 74 | [거리에서](https://open.spotify.com/track/1J0NAemu98Bg5y39sqqfMI) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [The Ballads](https://open.spotify.com/album/0qkUj6ue5MHiAFO52gi2ac) | 4:39 |
-| 75 | [O \(Circle\)](https://open.spotify.com/track/7qVWT4IvUK7xI82QmaPnwa) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo) | [Circle \- The 1st Album](https://open.spotify.com/album/0oJAypAuPQSssiLTvhNmxJ) | 3:17 |
-| 76 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |
-| 77 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
-| 78 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
+| 75 | [Weird](https://open.spotify.com/track/0MUJdif0DqzHsJCpBnD3PN) | [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq) | [Weird](https://open.spotify.com/album/09nEHFRgp3gWym7gvqlu2y) | 4:08 |
+| 76 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 |
+| 77 | [The Moment You Arrive](https://open.spotify.com/track/74jC2OHiPnRCCCSdBGXHVo) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Tell Me That You Love Me, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3c6lzwgHhaIDSjPRz9zjCq) | 4:10 |
+| 78 | [Shining on Your Night](https://open.spotify.com/track/0w8gFJyJ2QmNDsHYy0KEa6) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [YUMI's Cells 2, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5mwZc68D7ZattMx8VPUDLN) | 3:42 |
 | 79 | [Butterfly](https://open.spotify.com/track/6FUFNToiiQKYqhPvWKVy9u) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Wedding Impossible \(Original Soundtrack Special\)](https://open.spotify.com/album/4SjPoZdHsCXFOz1Nb6ZKSo) | 3:39 |
 | 80 | [Hello](https://open.spotify.com/track/6Me6uD7KrQ2fS8U8wCiMDY) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 OST Part.1](https://open.spotify.com/album/6nErKEsThTGVCCO4RDiIqE) | 3:50 |
 

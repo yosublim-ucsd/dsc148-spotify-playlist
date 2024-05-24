@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Ice Spice",
+  "description": "Hip-Hop's hottest from Australia, New Zealand and beyond. Cover: Megan Thee Stallion",
   "name": "A1",
   "tracks": [
     {
@@ -641,6 +641,28 @@
     },
     {
       "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
         "name": "Bandit",
         "url": "https://open.spotify.com/album/0jSSRlhYuZmtLMrYB8pjzC"
       },
@@ -718,6 +740,28 @@
       "duration_ms": 198706,
       "name": "Bend It Ova (feat. A Boogie Wit da Hoodie & Big Freedia)",
       "url": "https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y"
+    },
+    {
+      "album": {
+        "name": "Best Friend",
+        "url": "https://open.spotify.com/album/3tFee3xnJ2I9vWAmAEC93x"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Melii",
+          "url": "https://open.spotify.com/artist/4udfTw7V8jI4AHi7PEfJfj"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155513,
+      "name": "Best Friend",
+      "url": "https://open.spotify.com/track/2WJXlmZ5ZgFkUjcs3798sc"
     },
     {
       "album": {
@@ -2444,7 +2488,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190285,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3ZaEs1O8BG581qYPHpQ8d6"
@@ -2462,7 +2506,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
@@ -3301,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "NATURAL HABITAT",
+        "url": "https://open.spotify.com/album/0VLcFjaI6ovxm26q3tebTZ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173475,
+      "name": "NATURAL HABITAT",
+      "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
+    },
+    {
+      "album": {
         "name": "Naughty Child",
         "url": "https://open.spotify.com/album/7sVNRVXaclzgHZObFAR5zc"
       },
@@ -4042,7 +4104,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 176401,
       "name": "Richtivities",
       "url": "https://open.spotify.com/track/78VmtCRovWdLIz3p0Tj7nb"
@@ -5484,6 +5546,28 @@
       "duration_ms": 183935,
       "name": "Wifey Riddim 4",
       "url": "https://open.spotify.com/track/6tbHckupN0s7pM7w2ifq12"
+    },
+    {
+      "album": {
+        "name": "Wildlife (feat. Sleepy Hallow)",
+        "url": "https://open.spotify.com/album/6NRSyW6U2CGW7eedBPyB3f"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        },
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "Wildlife (feat. Sleepy Hallow)",
+      "url": "https://open.spotify.com/track/350eBNxmi87YdMxQvauyUQ"
     },
     {
       "album": {

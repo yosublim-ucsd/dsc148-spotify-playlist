@@ -4,7 +4,7 @@
 
 > killer rock & alternative covers\. Cover: Paramore
 
-354 songs - 22 hr 54 min
+355 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,7 +215,7 @@
 | [Mad World](https://open.spotify.com/track/5LVUEkOEf54bCxaDGiDAoR) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Mad World](https://open.spotify.com/album/37TH3YIaKD0gapxH6YDk3l) | 3:30 | 2022-10-26 | 2023-03-25 |
 | [Mad World](https://open.spotify.com/track/6ga5MQ9qQUlwOJpVIYFqft) | [The Funeral Portrait](https://open.spotify.com/artist/4iGsihTcyZ80RQFZhC8bf8) | [Sounds From Beyond The Abyss \(Vol\. 1\)](https://open.spotify.com/album/3MBwzr71e3WZL0gCa5wt5v) | 3:35 | 2023-11-17 |  |
 | [Mine](https://open.spotify.com/track/1FYbKJI9kRofsRgOVYciic) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [Mine](https://open.spotify.com/album/759xTRwjc0HF1m64zkRm0L) | 3:14 | 2022-11-25 | 2023-02-08 |
-| [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 |  |
+| [Miss Independent \- Spotify Singles](https://open.spotify.com/track/3gbeY1MzOJ5X7SWItYD0jk) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Spotify Singles](https://open.spotify.com/album/62LIDyIEMgZU8c7oyGHAhL) | 3:32 | 2023-06-16 | 2024-05-24 |
 | [Mississippi Queen](https://open.spotify.com/track/1duKBUeDwvZm5wfIuZSyGt) | [Joyous Wolf](https://open.spotify.com/artist/48vfT7i3EmuNEDAVRhzxpp) | [Mississippi Queen/Slow Hand](https://open.spotify.com/album/2aT5TOBdR5ZcBsOwrPy8sp) | 2:32 | 2020-12-16 |  |
 | [My Sharona \- Live Session from Abbey Road Studios, London, UK](https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Spotify Singles](https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD) | 2:32 | 2020-12-16 |  |
 | [Nightmare](https://open.spotify.com/track/5916P1HiQM5R5SxTC2Y510) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Covers Collection, Vol\. 1](https://open.spotify.com/album/4RPlOjAwTVDGqt5kZIumGR) | 3:55 | 2022-03-25 | 2022-11-26 |
@@ -235,6 +235,7 @@
 | [One Step Closer – Spotify Singles](https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [One Step Closer – Spotify Singles](https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym) | 2:26 | 2022-03-25 |  |
 | [Only Happy When It Rains](https://open.spotify.com/track/6PQsEmqXl81ULIZcuk8VoO) | [Sam Tinnesz](https://open.spotify.com/artist/70TsVY28EcEUYSGG5Yw7mp), [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [The Influence EP](https://open.spotify.com/album/79IXJNggITVEGL4W4LEXw1) | 2:44 | 2022-03-25 | 2022-04-19 |
 | [Our House](https://open.spotify.com/track/1rkGytnje8oF8Ek13ZodT5) | [American Hi\-Fi](https://open.spotify.com/artist/4XlcLj6bxCnpBIOHmBpIWP) | [Our House](https://open.spotify.com/album/1o0W44e3TLSSkyFI55Wi2Z) | 3:32 | 2020-12-16 |  |
+| [Papa Was a Rolling Stone \(feat\. Demi Lovato\)](https://open.spotify.com/track/2ZBE2MwgYqw6JgNgUztCVZ) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Orgy of the Damned](https://open.spotify.com/album/3t3ZFkQhYdxBro1D83C8EB) | 7:52 | 2024-05-17 |  |
 | [Patience](https://open.spotify.com/track/7n3u7RrzdXGVcclBEp9aSa) | [Chris Cornell](https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I) | [Patience](https://open.spotify.com/album/6EEv3516e4dH7sAPPUq9oo) | 4:13 | 2020-12-16 |  |
 | [People Are Strange](https://open.spotify.com/track/3PX33J7MsHibdN9kmubVTk) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/0mQNxURcyah31JJNXMA86S) | 2:27 | 2022-10-26 | 2023-12-24 |
 | [People Are Strange](https://open.spotify.com/track/7GoOq1xY12PehqOfUryNWU) | [The Violent](https://open.spotify.com/artist/5NokRbYYfqacBmRVBRj0wD) | [The Violent](https://open.spotify.com/album/5hrWPFVNiTbMqrv6rdvVap) | 2:27 | 2022-03-22 | 2022-10-14 |

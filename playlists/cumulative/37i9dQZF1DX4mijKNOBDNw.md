@@ -4,7 +4,7 @@
 
 > Si tocan a una respondemos todas.
 
-81 songs - 4 hr 49 min
+82 songs - 4 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Belicosa](https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9) | [Baja Frequencia](https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z), [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Belicosa](https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R) | 2:49 | 2023-03-10 |  |
 | [Bruja](https://open.spotify.com/track/01XccHu8pc3IIdCyT6lGl4) | [Jueves](https://open.spotify.com/artist/0QgjobhNIK7xjezjEl1giw), [Adryana Marroquín](https://open.spotify.com/artist/4ksR4M4XHakLLh7YaTE7zh), [Fernanda Elío](https://open.spotify.com/artist/3fWL42NNnFgoXDTgVfWVrK), [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI), [Lúa Jenn](https://open.spotify.com/artist/7IxAfATN571mFtoyZHwCgE), [Michelle Anzo](https://open.spotify.com/artist/7fF7CiFel3ggkgm1tDIgvb), [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Bruja](https://open.spotify.com/album/1qeYxt5kg2nX9Bw3Qic8jj) | 2:33 | 2023-03-10 |  |
 | [Brujas](https://open.spotify.com/track/2QSksPcpxlX6APIppww8Ar) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/4fVKCgpWN1lWkMses30NqQ) | 2:54 | 2023-03-10 | 2024-04-19 |
-| [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2024-03-07 |  |
+| [Brujas](https://open.spotify.com/track/5KgWXLYmWDXFmRiWAkYECD) | [Eli Almic](https://open.spotify.com/artist/5KXdJKZm2dVPkKmbitndiR) | [Brujas](https://open.spotify.com/album/6SK2Fcj0EZ2iqIlGRd5FxF) | 2:54 | 2024-03-07 | 2024-05-24 |
 | [Báilalo Mujer](https://open.spotify.com/track/1RdQkmD04McqnaiN76PohD) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Báilalo Mujer](https://open.spotify.com/album/3TqIGSpoilpG6QXGpwn5X5) | 2:52 | 2023-03-10 |  |
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2023-03-10 |  |
 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 | 2023-03-10 |  |
@@ -39,6 +39,7 @@
 | [Hermanas](https://open.spotify.com/track/1ZMILHInTaxZ3G5A7y55hY) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg), [Maria Rezende](https://open.spotify.com/artist/3WDDrOm8mMLjqb8DltOW4k) | [Hermanas](https://open.spotify.com/album/5UPSoi84uNlqOuRcSkOOEa) | 4:06 | 2023-03-10 |  |
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2023-03-10 | 2024-04-19 |
 | [Historika](https://open.spotify.com/track/3zFa7TqRFNNZPjxJ1jkwkZ) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/5OjA7BRUSj9msWXXRGQqsj) | 4:26 | 2024-03-07 |  |
+| [Idealizar, nunca más](https://open.spotify.com/track/454mv67DU2LHuuP2gKh1vx) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el) | [Idealizar, nunca más](https://open.spotify.com/album/5bcdtAzzuqKxdtDgYGAuqz) | 3:41 | 2024-05-23 |  |
 | [La Cumbia Feminazi](https://open.spotify.com/track/7yXQbL33HEOGd7we8c3BOG) | [Renee Goust](https://open.spotify.com/artist/4eV7xFoCLdPWpOx7LtF52K) | [La Cumbia Feminazi](https://open.spotify.com/album/42tCTBqRe7XUhgMKUYjm6p) | 3:49 | 2023-03-10 |  |
 | [La Fortaleza](https://open.spotify.com/track/1VXPKfgMIAn95PFK4TlyDD) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [La Fortaleza](https://open.spotify.com/album/73V6n1hTD93z5VVOm8eRb9) | 3:55 | 2023-03-10 |  |
 | [La Loba \(Trooko Remix\)](https://open.spotify.com/track/4h1Y0K73QoylJoXQAnUikz) | [La Chica](https://open.spotify.com/artist/7BiV41WZCIDfp0YtYol0Wr), [Trooko](https://open.spotify.com/artist/6mPl1Nq6hMkto7vsF0PfGi) | [La Loba \(Remixes\)](https://open.spotify.com/album/3hUyUAq0S8ccXaHsRGXXwa) | 4:16 | 2023-03-10 | 2023-03-28 |

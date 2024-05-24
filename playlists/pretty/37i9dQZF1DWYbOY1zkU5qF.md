@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 
 > Versiones acústicas de tus canciones favoritas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,874 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,961 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 24 | [Despacito \- Acoustic](https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Despacito \(Acoustic\)](https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB) | 3:38 |
 | 25 | [La Nave del Olvido](https://open.spotify.com/track/4O4qat7D2fs9iErTOXJcKk) | [Flora Martínez](https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ) | [La Nave del Olvido](https://open.spotify.com/album/38Ofq9oRq6PgGA33Z8goP0) | 2:55 |
 | 26 | [No Bailes Sola \- Versión Acústica](https://open.spotify.com/track/3LfJzT37DkyzELlmmTWYgO) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [No Bailes Sola \(Versión Acústica\)](https://open.spotify.com/album/6JxnMDh4sNQs4sd6z5w0eo) | 3:09 |
-| 27 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
-| 28 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
+| 27 | [La Mejor Versión de Mi](https://open.spotify.com/track/2dD81TOEFUYhYG7x46CBwY) | [Carlo Gless](https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm) | [La Mejor Versión de Mi](https://open.spotify.com/album/6W9IzP6FXIdiI0QHr9yv5T) | 2:14 |
+| 28 | [Burbujas De Amor](https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw) | [Luisita Peixoto](https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN) | [Burbujas De Amor](https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq) | 4:03 |
 | 29 | [Mátenme Porque Me Muero](https://open.spotify.com/track/4sVoEFCyerZgHpVuPK4klD) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Mátenme Porque Me Muero](https://open.spotify.com/album/1xnmcDkmUfiN7fJXU85tRQ) | 3:26 |
 | 30 | [Eres](https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Eres](https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg) | 3:33 |
 | 31 | [SUBEME LA RADIO](https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [SUBEME LA RADIO](https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo) | 3:29 |
@@ -72,21 +72,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbOY1zkU5qF.md) - [plain]
 | 62 | [Dembow \- Acoustic Version](https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy) | [Rebeca Luna](https://open.spotify.com/artist/5haTMRhcwfF9yHRJGTMvbi) | [Acoustic Sessions](https://open.spotify.com/album/3mYIi2EtIUUVWsMlEUzrUb) | 3:34 |
 | 63 | [Felices los 4 \- Acoustic version](https://open.spotify.com/track/4N0Md19ln8Fq3O7Up0lqme) | [Aberola](https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC) | [Felices los 4 \(Acoustic Version\)](https://open.spotify.com/album/5ywUlCNTlkwvnnpZ5uXNd7) | 4:09 |
 | 64 | [Azucar Amargo](https://open.spotify.com/track/0246cwlPqmGNwUA6M4LFyU) | [Kendra Soliz](https://open.spotify.com/artist/6FhgKnJWJrgcqfDwQHdSyZ) | [Azucar Amargo](https://open.spotify.com/album/3GiopNRMrlO7GRvbPrt7pL) | 4:30 |
-| 65 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
-| 66 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
+| 65 | [Alguien Te Va a Hacer Llorar](https://open.spotify.com/track/6kQiVs1qyD6dZMJ0BmtJ2D) | [Hugo Coronel](https://open.spotify.com/artist/0RGnnaJ9xMIKNvKCuvNvfj) | [Bohemia Y Trova, Vol\. 2](https://open.spotify.com/album/4HaMf32uLd9i4F6Yrv0mTb) | 2:54 |
+| 66 | [Con la miel en los labios](https://open.spotify.com/track/37IxNTaLe74OKWltUcF7Og) | [Carolina García](https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC) | [Con la miel en los labios](https://open.spotify.com/album/5Cdz5tyljQmbTMZUkDLphi) | 3:30 |
 | 67 | [Vete](https://open.spotify.com/track/1dyeQq5l5dxAcMPxFhE3pM) | [Alfa Omega](https://open.spotify.com/artist/40U0n49Vb1zjKZq3mQmKxo), [Cláudia Nunes](https://open.spotify.com/artist/23Q6X7fvKHUilv3ii6VFMl) | [Vete](https://open.spotify.com/album/1bJebMwImKlh4wNpHj9hHb) | 3:34 |
-| 68 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
-| 69 | [Enamórate de Alguien Más](https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Enamórate de Alguien Más](https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0) | 2:46 |
+| 68 | [Enamórate de Alguien Más](https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Enamórate de Alguien Más](https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0) | 2:46 |
+| 69 | [Otro trago](https://open.spotify.com/track/6VFsWv9LkBMAnSE4vVqvJV) | [Xandra Garsem](https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s), [Paul Fourmy](https://open.spotify.com/artist/0wEhgN98ys7Fzv7FIKUAQo) | [Otro trago](https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx) | 2:47 |
 | 70 | [Muerte En Hawaii](https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi) | [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Muerte En Hawaii](https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM) | 3:06 |
 | 71 | [Amigos con derechos](https://open.spotify.com/track/1HfYMwc523BOgGi6xBIFJX) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Amigos con derechos](https://open.spotify.com/album/1wrc9RHnvnQRrtjlErc8w2) | 2:40 |
 | 72 | [Soñe](https://open.spotify.com/track/35tKDCAmNFueq5KmvGkzRr) | [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Soñé](https://open.spotify.com/album/3zGPOSwv1krOcKkv8QgpBs) | 2:29 |
 | 73 | [Me Rehúso](https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S) | [Ledes Diaz](https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV) | [Me Rehúso](https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41) | 2:52 |
-| 74 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
-| 75 | [Pareja Del Año](https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P) | [Hermia Morillo](https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4) | [Pareja Del Año](https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf) | 4:08 |
+| 74 | [Pareja Del Año](https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P) | [Hermia Morillo](https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4) | [Pareja Del Año](https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf) | 4:08 |
+| 75 | [Asi Es La Vida](https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX) | [Pablo Rojas](https://open.spotify.com/artist/3eZMc1qqbM4whaMy2X14nx) | [Asi Es La Vida](https://open.spotify.com/album/4EYa4M7e4FYqBqsJFwt3Vi) | 4:44 |
 | 76 | [Fin](https://open.spotify.com/track/3yxoXsE9d1DTg6f1TGESig) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Fin](https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm) | 3:36 |
-| 77 | [La Noche De Anoche](https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j) | [Perdita Cazalla](https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn) | [La Noche De Anoche](https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh) | 2:53 |
+| 77 | [Ropa Cara](https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Ropa Cara](https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2) | 1:54 |
 | 78 | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/track/2eTLsumTdtFMIrS1g37sId) | [Jaime Kohen](https://open.spotify.com/artist/3dPV32rIkpT2Y7w8mwkg2l) | [Otros Labios \(Versión Acústica\)](https://open.spotify.com/album/5fRkFb6UrPeUlCpwJTLTil) | 3:38 |
-| 79 | [Ropa Cara](https://open.spotify.com/track/6m3FUyZ90V3eWdHPSafhm1) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6) | [Ropa Cara](https://open.spotify.com/album/1bgTQ6ggQ020SCTSLL8NP2) | 1:54 |
+| 79 | [La Noche De Anoche](https://open.spotify.com/track/0x6aRKrxUvPL5ktixcva5j) | [Perdita Cazalla](https://open.spotify.com/artist/2CP0Db8PTDxSjeXx23ETBn) | [La Noche De Anoche](https://open.spotify.com/album/6kvjN0eOp3iixUU8FWMyYh) | 2:53 |
 | 80 | [Ya no tiene novio](https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY) | [Laura Naranjo](https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr) | [Ya no tiene novio](https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0) | 1:48 |
 
 Snapshot ID: `ZIxVqgAAAACWICmHQh1F2HrlDmhED2uR`

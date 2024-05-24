@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Listen here for the ultimate list of original and synced songs from TV and Film. TV Soundtrack - Movie Soundtrack - Hollywood - Film Score - Movie - TV - Film - Netflix - Amazon Prime - Disney +",
-  "name": "As Heard on TV",
+  "description": "Listen here for the ultimate list of original and synced songs from TV and Film. TV Soundtrack - Movie Soundtrack - Hollywood Hits - Film Score - Movie - TV - Film - Netflix - Amazon Prime - Disney +",
+  "name": "As Heard on TV \ud83c\udfa5 Movie Soundtracks ",
   "tracks": [
     {
       "album": {
@@ -1742,6 +1742,24 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "my tears ricochet",
+      "url": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC"
     },
     {
       "album": {

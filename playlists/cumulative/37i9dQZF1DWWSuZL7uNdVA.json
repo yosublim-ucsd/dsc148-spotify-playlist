@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Tenacious D au top des meilleurs morceaux rock du moment.",
+  "description": "Bring Me The Horizon au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -286,7 +286,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
@@ -773,6 +773,24 @@
     },
     {
       "album": {
+        "name": "Black / Red",
+        "url": "https://open.spotify.com/album/5OEuYee2wiiEIUZ9SWwi50"
+      },
+      "artists": [
+        {
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238847,
+      "name": "ELF",
+      "url": "https://open.spotify.com/track/10hB96qzB5jNxuOZyH5tlX"
+    },
+    {
+      "album": {
         "name": "ATUM",
         "url": "https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49"
       },
@@ -1174,7 +1192,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 216849,
       "name": "Hey You",
       "url": "https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl"
@@ -1210,7 +1228,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 206873,
       "name": "Horns",
       "url": "https://open.spotify.com/track/2rfXQAs0j00PzH1Lz8X05B"
@@ -1448,7 +1466,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222920,
       "name": "Koda",
       "url": "https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 213560,
       "name": "Liminal Status",
       "url": "https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk"
@@ -1722,6 +1740,24 @@
       "duration_ms": 181377,
       "name": "Man Of The Hour",
       "url": "https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM"
+    },
+    {
+      "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
     },
     {
       "album": {
@@ -2064,6 +2100,24 @@
       "duration_ms": 203619,
       "name": "Playing With Fire",
       "url": "https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn"
+      },
+      "artists": [
+        {
+          "name": "The Score",
+          "url": "https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142533,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu"
     },
     {
       "album": {
@@ -2737,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Sungazer",
+        "url": "https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180234,
+      "name": "Sungazer",
+      "url": "https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb"
+    },
+    {
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -3098,6 +3170,24 @@
       "duration_ms": 238442,
       "name": "Tomorrow Is Closed",
       "url": "https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "album": {

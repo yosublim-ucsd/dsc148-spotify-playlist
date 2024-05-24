@@ -4,7 +4,7 @@
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-87 songs - 3 hr 1 min
+88 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Can't Go Back](https://open.spotify.com/track/6LFuNuo5tixQyi414xrinC) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/5kOp5XHhmMoG2e41VyVQC0) | 1:44 | 2023-01-05 | 2023-02-04 |
 | [Catalina](https://open.spotify.com/track/7fvcx0cXsc7FZhViJAtRxg) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Milo Goes to College](https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8) | 1:47 | 2022-10-05 |  |
 | [Catalina](https://open.spotify.com/track/5XOFzbdObS7ASc0MFrCHcY) | [The Bronx](https://open.spotify.com/artist/7nqSDaZKccpnUqjzedyZF4), [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Dead Tracks, Vol\. 2](https://open.spotify.com/album/4ErXAsdor9LnNuLW4xyzRI) | 1:51 | 2023-09-02 |  |
+| [Cheer](https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy](https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA) | 3:03 | 2024-05-24 |  |
 | [Cheer](https://open.spotify.com/track/2vuY4aYI49AY6pXB12ivBu) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Enjoy!](https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg) | 3:03 | 2022-09-16 | 2022-12-29 |
 | [Clean Sheets](https://open.spotify.com/track/3pCc0a00cKo9o1qCsNDgiP) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Somery](https://open.spotify.com/album/3aZ0LWZrvkSMJFp8RtLpDe) | 3:13 | 2022-09-16 | 2024-04-08 |
 | [Clean Sheets](https://open.spotify.com/track/3nAbOriOfFwreUu1TtXtJ5) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [All](https://open.spotify.com/album/0nWME5ZFE3jGnJ1gylIOoR) | 3:14 | 2024-04-08 |  |

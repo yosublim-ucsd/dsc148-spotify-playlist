@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,853 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,871 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 14 | [Like A Fool](https://open.spotify.com/track/1E8Cztx0OIj4zm1IZh2XXj) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF), [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [Like A Fool](https://open.spotify.com/album/4wJPiw5ZoTJFRUt2r2zvCy) | 3:34 |
 | 15 | [WINE \(Feat.Changmo\) \(Prod\. SUGA\)](https://open.spotify.com/track/3eHkFA3StDR9BU7EVrUFLs) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [WINE](https://open.spotify.com/album/26adxLsliyYcCfVTF6xA75) | 3:52 |
 | 16 | [Let Me Know](https://open.spotify.com/track/1SPDWTBH7qcjbZ8zMRXlQ9) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [Let Me Know](https://open.spotify.com/album/1x7V4e67JZoCpJWXSb8Yw1) | 3:08 |
-| 17 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
-| 18 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
+| 17 | [nostalgia](https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [nostalgia](https://open.spotify.com/album/7posuhCeCtSWbHS2BJTuIG) | 3:16 |
+| 18 | [Flu](https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:08 |
 | 19 | [Can I Love ? \(feat\. youra, Meego\)](https://open.spotify.com/track/4T2cOfemKB0owJS2JOu7dF) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy) | [Can I Love ?](https://open.spotify.com/album/3RMvO654eEqnwdmZCwHFs5) | 3:49 |
 | 20 | [It's Raining](https://open.spotify.com/track/3woXnjYYyZ66vPg3lutPDj) | [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [It's Raining](https://open.spotify.com/album/43x4oosPjmsGbyG4vVKMFE) | 3:34 |
 | 21 | [It's You \(Feat\. ZICO\)](https://open.spotify.com/track/6pm3SR1vvrV54AOJWsN7y7) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Sun And Moon](https://open.spotify.com/album/0AsQlY5YENtlvd8SLnrSxX) | 4:17 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 46 | [Stupid](https://open.spotify.com/track/6ktEI3U7Wnip2P5pEHchzq) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Do monsters love too?](https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET) | 3:22 |
 | 47 | [Think About' Chu](https://open.spotify.com/track/3e0VhBdgJLUhI1ErcrY64B) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Boys and Girls Music Vol.1](https://open.spotify.com/album/7JHMwCyGG1plb2QGOXSHB6) | 3:59 |
 | 48 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 |
-| 49 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
-| 50 | [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 |
+| 49 | [Hope You're Doing Well](https://open.spotify.com/track/15D4iY3vp1lO871Ed37joF) | [Kim Seungmin](https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ) | [Double\-sidedness](https://open.spotify.com/album/07W2qb5tETgGj1GNjMT9EH) | 3:04 |
+| 50 | [Like a Dream \(feat\. Ashley Alisha, kelsey kuan & Nicholas Roberts\)](https://open.spotify.com/track/5DRT1mVlE29XSnAS0bbZHq) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk), [Nicholas Roberts](https://open.spotify.com/artist/5AzZFipQtJEUXeQ3JJzMX4), [Kelsey Kuan](https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9) | [About You](https://open.spotify.com/album/0LP2w2lrfCVm4goQqyJBRb) | 3:12 |
 
 Snapshot ID: `ZkNsCAAAAAAnk4PaX4zHCXlG4VciUdgp`

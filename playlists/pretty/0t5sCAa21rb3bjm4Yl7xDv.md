@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 
 ### [Summer Pop Hits](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> The hottest tracks you want to hear, all in one playlist! Cover: Billie Eilish
+> The hottest tracks you want to hear, all in one playlist! Cover: Nelly Furtado
 
 [Digster Canada](https://open.spotify.com/user/digsterca) - 79,699 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
-| 2 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 3 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
-| 4 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 |
+| 1 | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Love Bites \(Feat\. Tove Lo & SG Lewis\)](https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ) | 2:47 |
+| 2 | [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 |
+| 3 | [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 |
+| 4 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 5 | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/track/6G53gri09h5KXRegSCcWy9) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HE KNOWS \(feat\. Lil Nas X\)](https://open.spotify.com/album/5lFg9dwFRS88AOY22qwki2) | 3:01 |
 | 6 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 7 | [PROPPA GHANDA](https://open.spotify.com/track/2B0sNvXch0qIzgVYdNUVF1) | [King Cruff](https://open.spotify.com/artist/4OpO9CxjDD3HQ2g4NnTato), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [PROPPA GHANDA](https://open.spotify.com/album/5iRuq9RJu23GYLiSQZScrF) | 2:27 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/0t5sCAa21rb3bjm4Yl7xDv.md) - [plain]
 | 86 | [Outta Love](https://open.spotify.com/track/6X4xZ67oR9dUHD74Yc7XDf) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj) | [Outta Love](https://open.spotify.com/album/7r7byZzn7AuyKEA5U9oTd2) | 2:19 |
 | 87 | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/track/4PRdeh2zIyM1pvY4x5luLe) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Everywhere, Everything \(with Gracie Abrams\)](https://open.spotify.com/album/0kOisOp4b7xNUNs7aSMSno) | 4:17 |
 
-Snapshot ID: `AAA4erC12jORq69uwvIUgOvupFaCC5Cl`
+Snapshot ID: `AAA4fz7+9e4mTEdfA+nGJIbOJ+XFFuqV`

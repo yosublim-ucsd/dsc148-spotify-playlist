@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,082 likes - 225 songs - 13 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,084 likes - 225 songs - 13 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 68 | [Rabbit Hole](https://open.spotify.com/track/0BFGclich9JXVCAS79P793) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Rabbit Hole](https://open.spotify.com/album/7dx74V0ACulX7f5cjbsdSx) | 2:59 |
 | 69 | [Fly Away](https://open.spotify.com/track/3apMZR8xEsLHEA2KvIefC7) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:31 |
 | 70 | [Weight Of The World](https://open.spotify.com/track/2nieU4GEfeeV4B3AbxOnLZ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Retrograde](https://open.spotify.com/album/474yypWtSGpQGmOsMx2Vwq) | 3:27 |
-| 71 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
-| 72 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 71 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 72 | [What Is It About Me](https://open.spotify.com/track/183XXqSJsk4kbnElYNorzD) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [My Mind Wanders and Sometimes Leaves Completely](https://open.spotify.com/album/2cGz67xkbq20pKQpqQmzQl) | 3:34 |
 | 73 | [Nobody Told Me](https://open.spotify.com/track/6kxgE6qfqrXsKWMWSbUxaB) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [Underground Luxury](https://open.spotify.com/album/177byugYOk12NcfRtWvghY) | 3:23 |
 | 74 | [Better By Now](https://open.spotify.com/track/0HBvEjoX56Ms9quzgKPi4l) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 4:06 |
 | 75 | [Love to My Cobain](https://open.spotify.com/track/2UfCks3j9KYfvf0ELmnO6v) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Love to My Cobain](https://open.spotify.com/album/6q0tGOIKIbNIWpuyD8zYSC) | 4:37 |
 | 76 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
 | 77 | [u hurt me hurts u](https://open.spotify.com/track/7cWy95kMrBH5ho6GAzpEBB) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 2:57 |
-| 78 | [Riding Solo](https://open.spotify.com/track/6ybNJZF5XxvLUwHZVzopWV) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:36 |
-| 79 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
-| 80 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
-| 81 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 |
+| 78 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
+| 79 | [Riding Solo](https://open.spotify.com/track/6ybNJZF5XxvLUwHZVzopWV) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/6FumkInA48vTNiUcTMzlbp) | 3:36 |
+| 80 | [Two Things Can Be True](https://open.spotify.com/track/0hWD4quyea8bHiRp9EjRKH) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:45 |
+| 81 | [Big Bang](https://open.spotify.com/track/5PZYx77iX5fHnV0k92rXAs) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Big Bang](https://open.spotify.com/album/4nWjwpB38UNcyce4tM21d7) | 2:49 |
 | 82 | [Fake Sugar](https://open.spotify.com/track/1WDVZNals95SINqXbGPHgs) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:29 |
 | 83 | [Long Time Coming](https://open.spotify.com/track/6Asx1JqGcQGEjbmJuhEDdY) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 3:24 |
 | 84 | [Enfer](https://open.spotify.com/track/3q6AnBH0ECwej44ZiVjfei) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK), [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:58 |
@@ -129,10 +129,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 119 | [Bleed](https://open.spotify.com/track/73k6CSBwtpNiMNMVagMsUK) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Life](https://open.spotify.com/album/0OwVeTY6EU5CuHNhEhc4kJ) | 3:30 |
 | 120 | [Knock Yourself Out](https://open.spotify.com/track/5GyXZ7DiUmJPdZnO0syfVA) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 4:04 |
 | 121 | [Staring At The Ceiling](https://open.spotify.com/track/2w2iCUjTKbuGJ5OtCSqOS6) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Perfect Picture](https://open.spotify.com/album/1ChwZuPoRvA8Z5uprRsO2P) | 3:43 |
-| 122 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
-| 123 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
-| 124 | [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 |
-| 125 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 122 | [Boom Boom Back](https://open.spotify.com/track/2VGtqvu66pNze1L7vFcRNN) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Boom Boom Back](https://open.spotify.com/album/4U2OigPyy9uJ4K8yKbKwUi) | 3:24 |
+| 123 | [Go Baby Go](https://open.spotify.com/track/7caGhEAbbH6WXTjcXJFG3L) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:03 |
+| 124 | [Oh My God](https://open.spotify.com/track/1DJ4xfLYFfJ5FIYVMsyigX) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:44 |
+| 125 | [Off My Mind](https://open.spotify.com/track/5j04PtFqIYTitAIVINjhOz) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:09 |
 | 126 | [Some People](https://open.spotify.com/track/32PhQGVwurZaoJrCvrh0nl) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Take Me To The Disco](https://open.spotify.com/album/1R5NwXzxNPMFcUQAeh0Tfn) | 3:56 |
 | 127 | [Love Burning Alive](https://open.spotify.com/track/3EixVTTtetiZbDX40ODLoV) | [Lena Fayre](https://open.spotify.com/artist/2d59Uv1mu7Cc8EKdgeVGWQ) | [Lena Fayre \- EP](https://open.spotify.com/album/0vo0tNvOdKdVd0etko25Iw) | 3:55 |
 | 128 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 |
@@ -147,8 +147,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 137 | [That Time Of Year Always](https://open.spotify.com/track/1Uy0dtxpFBCt6uNcRnLudo) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/2T8UKnnH2VfNB2QwCQcq3o) | 3:34 |
 | 138 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
 | 139 | [Always](https://open.spotify.com/track/00f9bVD0cVpRK0V9DnCVoF) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarettes & City Lights](https://open.spotify.com/album/7a5sQmXXnUANreLelj7OFe) | 3:49 |
-| 140 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
-| 141 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
+| 140 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
+| 141 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
 | 142 | [Kill For You](https://open.spotify.com/track/0BuW1JbaKtMpAxLyjpHf9n) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 3:44 |
 | 143 | [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 |
 | 144 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
@@ -234,4 +234,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 224 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 225 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbSCwgAAAABqk6rSvoA7Q5DetWmgXtPQ`
+Snapshot ID: `AbSIYgAAAABmhmFEpa1GfSkaVSvE8PUT`

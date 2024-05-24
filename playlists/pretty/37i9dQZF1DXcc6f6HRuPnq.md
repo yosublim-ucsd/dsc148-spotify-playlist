@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,256 likes - 80 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,351 likes - 80 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 52 | [Wish Her Well](https://open.spotify.com/track/5vfgPEOY5GGJfZ7AnWAheB) | [Emma Wilson](https://open.spotify.com/artist/4BNyTaev3qfEqB2nyQrnm2) | [Wish Her Well](https://open.spotify.com/album/3omllPlq6CTSlr2DVzDW5c) | 4:23 |
 | 53 | [Sweet Slumber](https://open.spotify.com/track/0jEaukzFANr3SRJC53KkBb) | [Jimmy Witherspoon](https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb), [Jack McDuff](https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs) | [The Blues Is Now](https://open.spotify.com/album/7eIAMxI6NVQuDVwoFGrA3o) | 3:49 |
 | 54 | [Weak Days](https://open.spotify.com/track/0ci4FY6foptsMwZZtVhYNw) | [Chris Duarte](https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN) | [Ain't Giving Up](https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE) | 7:00 |
-| 55 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
-| 56 | [Double Lovin´](https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo) | [Aynsley Dunbar Retaliation](https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX) | [Aynsley Dunbar Retaliation](https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB) | 3:49 |
+| 55 | [Double Lovin´](https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo) | [Aynsley Dunbar Retaliation](https://open.spotify.com/artist/5PwOYsK8fRoIJcMxXBwdhX) | [Aynsley Dunbar Retaliation](https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB) | 3:49 |
+| 56 | [Midnight Hour Blues](https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M) | [John Hammond](https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR) | [Big City Blues](https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl) | 4:04 |
 | 57 | [Last Night](https://open.spotify.com/track/3hR2Azl3pBy1pSpwWrp5Tw) | [Jantso Jokelin](https://open.spotify.com/artist/1Uu3zc3BR3YLzOabYX2vQA) | [Silver Lining](https://open.spotify.com/album/5P8L4C2elkFaRUeP58tIkC) | 3:39 |
 | 58 | [Everytime I Get to Drinkin' \- Remastered](https://open.spotify.com/track/4eSdODfEYeBxDlOAQt11Da) | [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Golden Selection \(Remastered\)](https://open.spotify.com/album/6bXXdAzX6YF7eEmvSnraaF) | 2:45 |
 | 59 | [Blue Because Of You](https://open.spotify.com/track/0dvTYGTfv30BCYbLCORKcb) | [The Big Three Trio](https://open.spotify.com/artist/7EPI9RLrU6kU6ZQLTqB7wY) | [I Feel Like Steppin' Out](https://open.spotify.com/album/577wQlMr4FANgCxSxGuC24) | 2:31 |

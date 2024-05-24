@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 
 > Soft, smoky undertones of singer\-songwriter sounds give way to lingering notes of rich, earthy chamber folk\. Cover: Glen Hansard.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,122 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,132 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdaMkR2m2cl5.md) - [plain]
 | 69 | [Wells Tower Song](https://open.spotify.com/track/0H4SpGyg6pqk5Tpcayz8Jp) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Wells Tower Song](https://open.spotify.com/album/4R2N0yN1m6aYfoUvuYu3yj) | 5:04 |
 | 70 | [Feet On The Dashboard](https://open.spotify.com/track/0YbAkvT3mvybfRUpqGv6R5) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj) | [Feet On The Dashboard](https://open.spotify.com/album/28vqhb1JY28NWLWEVyfRxw) | 4:44 |
 | 71 | [May Your Kindness Remain](https://open.spotify.com/track/71l6dkMk6FSKcL4LcC8hzG) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:54 |
-| 72 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 |
-| 73 | [Daydreaming](https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 5:03 |
+| 72 | [Daydreaming](https://open.spotify.com/track/0L9WXYWHUMtTDkxBl6Y6M5) | [Rainbow Girls](https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7) | [Give the People What They Want](https://open.spotify.com/album/1wAjWPzXGAgwzDK9Nkb9vh) | 5:03 |
+| 73 | [A Drive Through the Countryside](https://open.spotify.com/track/366PD9y46HEbFLkOyraxMM) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [A Drive Through the Countryside](https://open.spotify.com/album/6TUwtJ1lbA3Ovapr5cHbS4) | 2:14 |
 | 74 | [Officer of Love](https://open.spotify.com/track/4KhBvLbRr58rHPF24bdL9Q) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Officer of Love](https://open.spotify.com/album/7JQPBE6v0PxayunYaJ0CiT) | 3:59 |
 | 75 | [Wildwood Flower](https://open.spotify.com/track/6Hw1VP98PW5QMcOGOWw1Xo) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Wildwood Flower](https://open.spotify.com/album/7aMiIpr39dyEbykG95vGDo) | 2:31 |
 | 76 | [Brave Young Man](https://open.spotify.com/track/3cu4RyvPHcRLROGqxuvx75) | [Howard](https://open.spotify.com/artist/7kfaJkEGQmDhceMYvn9Ax5) | [Together Alone](https://open.spotify.com/album/17doIeg3S4GqQfqot4oxQf) | 2:51 |
 | 77 | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/track/4DEN6S0ysyln9dZceE1YuM) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [When A Cowboy Trades His Spurs For Wings](https://open.spotify.com/album/4IXUHwfkm4GhHZX1yjE28f) | 3:03 |
 | 78 | [True North](https://open.spotify.com/track/3vbxHp7vq9jBcWmlwR5jTE) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria Duplex](https://open.spotify.com/album/33kQ6VPlEEAQTctQZQmd1b) | 4:13 |
 | 79 | [Take The Journey](https://open.spotify.com/track/597hPebsGeX5PkcHcFiort) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Take The Journey](https://open.spotify.com/album/46negsjk9mq5mXpjWW7Me5) | 2:42 |
-| 80 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
-| 81 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
+| 80 | [Paradise Bay](https://open.spotify.com/track/089pj5YyhzANXVGt42iFZG) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Look Up & Fly Away](https://open.spotify.com/album/2ADmKspwLRXnHsLGX4ChdF) | 2:29 |
+| 81 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 |
 | 82 | [Heart To Ride](https://open.spotify.com/track/0XLfZsD45c6zoI7uoFzStJ) | [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Out of My Province](https://open.spotify.com/album/4PzDHK25iFZHEx6yRieVXk) | 4:09 |
 | 83 | [Two Hearts](https://open.spotify.com/track/0uh5L0aTFSVxi7Dw29eN6L) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [For The Loved & Loveless](https://open.spotify.com/album/77cwbGS06HijohXkm0oDM2) | 3:53 |
 | 84 | [White Bird](https://open.spotify.com/track/7n0oyohwoDeRqD5ktNGBQr) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [White Bird](https://open.spotify.com/album/4zHrB2f7c1S9CuEJnz8woA) | 3:24 |

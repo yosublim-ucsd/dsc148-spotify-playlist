@@ -1,12 +1,12 @@
 {
-  "description": "This Is HARDY. Los temas esenciales, todos en una lista.",
-  "num_followers": 66161,
+  "description": "This is: HARDY. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 66207,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACfG8Eg5U2D1dS1zvLHjpVE",
+  "snapshot_id": "Zk01gAAAAABZWP7PHLRP1vIZFptxdpGh",
   "tracks": [
     {
       "added_at": null,
@@ -203,6 +203,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PSYCHO",
+        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 198748,
+      "name": "PSYCHO",
+      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THIS OLE BOY",
         "url": "https://open.spotify.com/album/74G3iEDTbqrBTN3USAlquk"
       },
@@ -235,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/48r61fmMtlyjaMgXhi0Go6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the mockingbird & THE CROW",
         "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PSYCHO",
-        "url": "https://open.spotify.com/album/453RlEBiL47ArcRDW2PwUd"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 198748,
-      "name": "PSYCHO",
-      "url": "https://open.spotify.com/track/1CwXFT3pDiMCPmvv3Ohfli"
+      "duration_ms": 193901,
+      "name": "BOOTS",
+      "url": "https://open.spotify.com/track/48r61fmMtlyjaMgXhi0Go6"
     },
     {
       "added_at": null,
@@ -295,38 +295,6 @@
       "duration_ms": 240452,
       "name": "Gin & Juice - HARDY\u2019s Version",
       "url": "https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
-      "url": "https://open.spotify.com/track/45nc69lqKe3kY9sit2UU6G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 202912,
-      "name": "SOLD OUT",
-      "url": "https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN"
     },
     {
       "added_at": null,
@@ -359,6 +327,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202912,
+      "name": "SOLD OUT",
+      "url": "https://open.spotify.com/track/4D4d3N9nuPnvNg3ZAICWTN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 235360,
+      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "url": "https://open.spotify.com/track/45nc69lqKe3kY9sit2UU6G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG"
       },
@@ -375,38 +375,6 @@
       "duration_ms": 195236,
       "name": "The Better Me",
       "url": "https://open.spotify.com/track/1DAaHUdfW4Y9hil4zrc2Q9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 218718,
-      "name": "TRUCK",
-      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "the mockingbird & THE CROW",
-        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 140523,
-      "name": ".30-06",
-      "url": "https://open.spotify.com/track/73GyOpmUluAOb2yUVbuTkp"
     },
     {
       "added_at": null,
@@ -439,8 +407,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+        "name": "the mockingbird & THE CROW",
+        "url": "https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN"
       },
       "artists": [
         {
@@ -448,9 +416,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 161159,
-      "name": "ALL SHE LEFT WAS ME",
-      "url": "https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r"
+      "duration_ms": 140523,
+      "name": ".30-06",
+      "url": "https://open.spotify.com/track/73GyOpmUluAOb2yUVbuTkp"
     },
     {
       "added_at": null,
@@ -464,9 +432,25 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 202516,
-      "name": "AIN'T A BAD DAY",
-      "url": "https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw"
+      "duration_ms": 218718,
+      "name": "TRUCK",
+      "url": "https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 161159,
+      "name": "ALL SHE LEFT WAS ME",
+      "url": "https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r"
     },
     {
       "added_at": null,
@@ -527,6 +511,22 @@
       "duration_ms": 170112,
       "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
       "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 202516,
+      "name": "AIN'T A BAD DAY",
+      "url": "https://open.spotify.com/track/06HJeBN0j6ADkE5SJLrHKw"
     },
     {
       "added_at": null,
@@ -931,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "zombieland (feat. HARDY)",
+        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 192397,
+      "name": "zombieland (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/6F8QHX4aAyXKLOrJLICAWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "zombieland (feat. HARDY)",
-        "url": "https://open.spotify.com/album/1HB5u33KcIukGAlu6lTu2Y"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 192397,
-      "name": "zombieland (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3xGi8NYBHKM8mKsheBWV0G"
     },
     {
       "added_at": null,

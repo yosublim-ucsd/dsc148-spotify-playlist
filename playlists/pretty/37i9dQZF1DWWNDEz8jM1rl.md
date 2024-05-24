@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,313 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,332 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 2 | [Las Avispas](https://open.spotify.com/track/1oInQX1RuH1TcHuDv8Gvw3) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Coleccion Cristiana](https://open.spotify.com/album/4u3f2d7j7SUlPh5dGaJf1v) | 3:15 |
 | 3 | [Dios Nunca Falla](https://open.spotify.com/track/3mBlNX9LKkJU8BM9B3k23Y) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 3:10 |
 | 4 | [No Fallará \(Remix\)](https://open.spotify.com/track/72XN9Vvud8SKkbWMsIvE15) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue), [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM) | [No Fallará \(Remix\)](https://open.spotify.com/album/3b9P46dufcEVUm4TwrrTCf) | 6:20 |
-| 5 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
-| 6 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 |
+| 5 | [Soy Tu Padre](https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17) | [Su Presencia](https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3) | [Vive en Mí](https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x) | 3:54 |
+| 6 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 7 | [Dame Tus Ojos \(feat\. Laurie Colón\)](https://open.spotify.com/track/3jPaLIbWPyfS5GZluhxh4D) | [Reynaldo Santiago " Chino "](https://open.spotify.com/artist/0d2PKfTXyO0YaqnClQybw1), [Laurie Colon](https://open.spotify.com/artist/3D3ZmxtOiCz4n6UJf9k1R7) | [Chino " De Viaje " ....\. Camino Al Cielo](https://open.spotify.com/album/5fWfAVXPS3buPNuv0tCViu) | 4:10 |
 | 8 | [El Cristiano No Se Enoja](https://open.spotify.com/track/1m4pJIKdaMuyEUiqZiyxCE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:25 |
 | 9 | [Mi Maestro](https://open.spotify.com/track/6cyWdTbdJVZaqHeJ3GA1Rk) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu) | [Acceso Total Tour Edition](https://open.spotify.com/album/5iZ99qIRyztj5xNc9JkxDP) | 4:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 | 40 | [Ganarlos a Todos](https://open.spotify.com/track/0XmNgMHkBTJHXY968aCLWF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Oxigeno](https://open.spotify.com/album/27RxGAYGrcBwdp3KBdlZIb) | 5:21 |
 | 41 | [Caminamos En La Luz](https://open.spotify.com/track/6ARRtBKk1fwEZpfAfsAbD0) | [Yan Rymond](https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j) | [Alegria Latina](https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR) | 3:00 |
 | 42 | [Armonía](https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD) | [GaVriel](https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2) | [Armonía](https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u) | 2:55 |
-| 43 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
-| 44 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
-| 45 | [El Esta Aquí](https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [David Y Abraham "La Historia"](https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD) | 5:59 |
-| 46 | [Mi Iglesia](https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:53 |
+| 43 | [Mi Iglesia](https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:53 |
+| 44 | [\#BendecidoAmen](https://open.spotify.com/track/7bgEoYgjwC1OG40Qv0PmFh) | [Omy Alka](https://open.spotify.com/artist/6dBxV47XdYFxRPmDGSyhgh) | [\#BendecidoAmen](https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt) | 3:58 |
+| 45 | [Contigo](https://open.spotify.com/track/1ld0Nc6a8kqXjMJw3eRm1j) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR) | [Contigo](https://open.spotify.com/album/4EyoMV51X0r69upo5S2na0) | 3:42 |
+| 46 | [El Esta Aquí](https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY) | [David Y Abraham](https://open.spotify.com/artist/03bSnfVbCWNrwj4UfHzoc4) | [David Y Abraham "La Historia"](https://open.spotify.com/album/4E5MZ12SqOgFZKmXJ89HGD) | 5:59 |
 | 47 | [Party Love](https://open.spotify.com/track/0AlbIFjE60wOeB4gTPiXa3) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/29wQaEDDwOEyghp030mgtm) | 3:16 |
 | 48 | [Yo Tierra, Tú Semilla](https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Yo Tierra, Tú Semilla](https://open.spotify.com/album/2oGG8gg5AjSdAIqeWGWJMl) | 3:44 |
 | 49 | [Dependo de Ti](https://open.spotify.com/track/5gbsTyMgtbGEkZwQbnfF90) | [Daniel Sierra](https://open.spotify.com/artist/59kFGrpOBHO4SS83Hr9qM0), [Gilberto Daza](https://open.spotify.com/artist/6pdXxGaaEGf7huw3C6fz6a) | [Dependo de Ti](https://open.spotify.com/album/31rd8tqz4OcQPt6lG59CjT) | 3:15 |
-| 50 | [Unico Version Merengue](https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp) | [Lizzie Lizzie](https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x) | [Indescriptible](https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo) | 4:07 |
+| 50 | [Que Tire La Piedra](https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [Que Tire La Piedra](https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO) | 4:24 |
 
 Snapshot ID: `ZIsLYgAAAAC4RD4O1qj5LOU3BVKG5Awj`

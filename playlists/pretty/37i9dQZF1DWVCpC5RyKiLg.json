@@ -1,6 +1,6 @@
 {
   "description": "Pagode e Sertanejo pura sofr\u00eancia para te acompanhar na faxina!",
-  "num_followers": 719876,
+  "num_followers": 719875,
   "original_name": "Faxina com Sofr\u00eancia",
   "owner": {
     "name": "Spotify",
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 203894,
-      "name": "Pra voc\u00ea acreditar - Ao vivo",
-      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
+      "duration_ms": 219592,
+      "name": "Pirata e tesouro - Ao vivo",
+      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
         }
       ],
-      "duration_ms": 219592,
-      "name": "Pirata e tesouro - Ao vivo",
-      "url": "https://open.spotify.com/track/3Cabw7y9EoR68v7dBS76HQ"
+      "duration_ms": 203894,
+      "name": "Pra voc\u00ea acreditar - Ao vivo",
+      "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -967,26 +967,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Misturadin (Ao Vivo)",
-        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
+        "name": "Errejota (ao Vivo)",
+        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
       },
       "artists": [
         {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
         },
         {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        },
-        {
-          "name": "Chrigor",
-          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 360269,
-      "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
+      "duration_ms": 231680,
+      "name": "Algo Mais (Amante) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1011,26 +1007,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Errejota (ao Vivo)",
-        "url": "https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k"
-      },
-      "artists": [
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 231680,
-      "name": "Algo Mais (Amante) - Ao Vivo",
-      "url": "https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Com ou Sem Mim (Ao Vivo)",
         "url": "https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r"
       },
@@ -1043,6 +1019,30 @@
       "duration_ms": 201856,
       "name": "Com ou Sem Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Misturadin (Ao Vivo)",
+        "url": "https://open.spotify.com/album/00XeMtw9lHuOzG2stN4ny4"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        },
+        {
+          "name": "Chrigor",
+          "url": "https://open.spotify.com/artist/6J2dPGeS2VqFZrpu7dhdZk"
+        }
+      ],
+      "duration_ms": 360269,
+      "name": "Desliga e Vem / Gamei / Gandaia (feat. P\u00e9ricles & Chrigor) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2uRwpWT3PmIFQRvqx3LPkN"
     },
     {
       "added_at": "2023-11-17 03:01:00",

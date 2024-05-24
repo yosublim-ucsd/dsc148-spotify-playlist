@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Jazeek
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Zartmann
 
-302 songs - 16 hr 8 min
+304 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Abendkleider und Nadelstreifen](https://open.spotify.com/track/5xMX2H3NpXB0Kv1nRTSB8O) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb) | [Universum regelt](https://open.spotify.com/album/7fZRhnOouYC7iDsIP4XCWh) | 2:47 | 2022-05-19 |  |
 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 | 2022-05-05 | 2023-01-27 |
 | [ADHD](https://open.spotify.com/track/6YYjOdTC6r8woS303ScscC) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [ADHD](https://open.spotify.com/album/1R8E8cwhWD2NI1Y04F6rQu) | 3:57 | 2023-11-09 |  |
-| [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 | 2023-11-09 |  |
+| [Alive](https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Alive](https://open.spotify.com/album/1bIkaKwrNbpDzFKVgqp8IU) | 3:52 | 2023-11-09 | 2024-05-24 |
 | [ALL I REALLY WANT](https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [ALL I REALLY WANT](https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf) | 5:58 | 2023-07-06 |  |
 | [All that I am](https://open.spotify.com/track/5V9Da2AvLFqb12cpZ40jPH) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [All that I am](https://open.spotify.com/album/1rBwUaaFaq4cR8zkPija3W) | 4:37 | 2023-09-07 | 2024-03-15 |
 | [All We Are](https://open.spotify.com/track/0RuQVn5JcxuDBSNxo1sxau) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:38 | 2021-12-16 | 2023-02-24 |
@@ -54,7 +54,7 @@
 | [Bring The Good Mood Back](https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 | 2022-05-19 | 2023-08-25 |
 | [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 | 2023-02-27 |
 | [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-23 | 2023-07-21 |
-| [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 |  |
+| [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 | 2024-05-24 |
 | [Bulletproof](https://open.spotify.com/track/0wQ0yPIeyJAvSBCRu9PGon) | [Keir](https://open.spotify.com/artist/2YOYjcNXjBJSW1STwwhE74) | [KEIR](https://open.spotify.com/album/6DIwGl4xl6vRf3LTzJuyuJ) | 2:34 | 2023-08-24 |  |
 | [Cabriolet](https://open.spotify.com/track/1386VN04NxJTXHxUa1M2r2) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Cabriolet](https://open.spotify.com/album/4KkqzAcyfYG4bGsRdnCwcf) | 2:29 | 2023-07-27 | 2023-08-25 |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
@@ -121,6 +121,7 @@
 | [Haus am See](https://open.spotify.com/track/0ZmJHRMjUaDTjgUvg867Y5) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U) | [Haus am See](https://open.spotify.com/album/0oCCOrnBMCeNJ8kJXnUGJe) | 3:17 | 2021-12-16 | 2022-08-12 |
 | [Herz](https://open.spotify.com/track/1Yryu4z1YbCmqkz76J18nb) | [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Herz](https://open.spotify.com/album/6pvbHjNeuK9qk4MaOU81w6) | 2:20 | 2023-07-27 |  |
 | [Herz Klopft](https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [Lugatti](https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg), [Cato](https://open.spotify.com/artist/5Qa6L42X3G6sXrWvYvxGOc) | [Herz Klopft](https://open.spotify.com/album/0PpvnPnQgnObHVKSUsnGrO) | 2:52 | 2022-07-14 | 2023-03-03 |
+| [Hiatus](https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Hiatus](https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2) | 2:48 | 2024-05-23 |  |
 | [Hilferuf](https://open.spotify.com/track/08QqmrxcfV58x8f1o6JxKe) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [Hilferuf](https://open.spotify.com/album/2pV2IQwHfErIcdjNxznMqs) | 2:37 | 2023-02-02 | 2023-03-03 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-12-16 | 2022-03-18 |
 | [Hope](https://open.spotify.com/track/2QRGdW5I7M74y0URMgkfqn) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [The Pictures](https://open.spotify.com/album/1gd2DBDRgwMmrwvUC8sOX1) | 7:28 | 2021-12-16 | 2022-05-20 |
@@ -293,6 +294,7 @@
 | [WER, WENN NICHT WIR?](https://open.spotify.com/track/5v0oqncTY2wOweL6unFnbQ) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [WER, WENN NICHT WIR?](https://open.spotify.com/album/4fBtvg2ixMyybD5YB33gn5) | 2:05 | 2022-05-26 | 2022-07-15 |
 | [WEREWOLF](https://open.spotify.com/track/41dOSS3ZztCISuZQI3EiMR) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [WEREWOLF](https://open.spotify.com/album/7GzDjBFRcfbske2x9U5QA9) | 3:13 | 2023-08-24 | 2023-10-13 |
 | [What If the Dead Dream](https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [What If the Dead Dream](https://open.spotify.com/album/4DNxWrwCw1MeHxgDLNezGT) | 3:39 | 2021-12-16 | 2022-12-02 |
+| [wie du manchmal fehlst](https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [wie du manchmal fehlst](https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As) | 2:11 | 2024-05-23 |  |
 | [Wien](https://open.spotify.com/track/65caFJtNCC6xdSBUXZivw2) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [MINI](https://open.spotify.com/album/7w1GycA2X3co1x2JLj1G6e) | 2:16 | 2023-03-02 | 2023-09-15 |
 | [Wild Ones](https://open.spotify.com/track/2MH5KK60I00JOPigNOt4v8) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Wild Ones](https://open.spotify.com/album/2JSwcjpkanFKfT3ev3eDQr) | 3:26 | 2023-10-05 | 2024-02-16 |
 | [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 | 2024-03-14 |  |

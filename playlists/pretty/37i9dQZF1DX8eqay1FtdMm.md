@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet the best Korean vocalists who will melt your eardrums! \(Cover: Kim Kyung Ho\(김경호\)\) \(여러분의 고막을 녹여줄 한국 최고의 보컬들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,940 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,902 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,16 +54,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 44 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 45 | [I'll Always Be With You](https://open.spotify.com/track/0qXAC2U4E9XjF0FeGRsMh7) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.7](https://open.spotify.com/album/43U9K5sEFosiXaS9scEhFr) | 3:36 |
 | 46 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
-| 47 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
-| 48 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 |
+| 47 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 |
+| 48 | [Peach Tree](https://open.spotify.com/track/1BvWybrWuF4oMpGZC5SQ2L) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Captivating the King, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/22XVg0cCq12J8QT0vOdtDx) | 3:44 |
 | 49 | [Breath](https://open.spotify.com/track/3FduLmIal9YnzHZp2vTZKl) | [Kim Na Young](https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk) | [Alchemy of Souls, Pt\. 6 \(Original Television Soundtrack\)](https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa) | 4:27 |
 | 50 | [Soju Hanjan](https://open.spotify.com/track/10if3nqm7OS7qrV45v9GOg) | [Lim Changjung](https://open.spotify.com/artist/4dB2XmMpzPxsMRnt62TbF5) | [Bye](https://open.spotify.com/album/6IcBFF3yXklWuA44of4ATg) | 4:50 |
 | 51 | [Nights Into Days \(Prod\. by Naul\)](https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Naul <Ballad Pop City>](https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ) | 4:20 |
 | 52 | [나였으면](https://open.spotify.com/track/7sp5iTQjB7GHXX4TKrhOaO) | [Na Yoon Kwon](https://open.spotify.com/artist/49fyJl5wIzI5GtRuCKxKRw) | [중독](https://open.spotify.com/album/4MDKAWZP2Z4czla9K68CDK) | 4:22 |
 | 53 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
 | 54 | [haeyo \(2022\)](https://open.spotify.com/track/0M4EDkH7RpbKlWwrZ9o17N) | [An Nyeong](https://open.spotify.com/artist/4M9tATKeCZPhipaM6ge2VS) | [haeyo \(2022\)](https://open.spotify.com/album/2KgYaKN5C3h33TEgCrbfAo) | 3:58 |
-| 55 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
-| 56 | [너를 위해](https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Story Of Two Years](https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt) | 4:06 |
+| 55 | [너를 위해](https://open.spotify.com/track/2yY6cliPDD0lyXgebWzhrr) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Story Of Two Years](https://open.spotify.com/album/6jhAP6Gdtm8iTcH8OMkeVt) | 4:06 |
+| 56 | [Alley \(with SUNG SI KYUNG\)](https://open.spotify.com/track/2Qp3RHSP5f9csqFhhFgPrC) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Alley](https://open.spotify.com/album/1klgaObg00RhXIsKmVysk4) | 4:45 |
 | 57 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
 | 58 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
 | 59 | [Go Back](https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Go Back](https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE) | 3:54 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 84 | [Such a thing](https://open.spotify.com/track/4RJHDWdfgBwc1WXdL2aWaj) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Such a thing](https://open.spotify.com/album/6Il2iRzPVqDWuZNkNfPFka) | 4:26 |
 | 85 | [Drunken confession at night \(Prod\. 2soo\)](https://open.spotify.com/track/2Jvl8m0bAt7bS76pLsMeJk) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [Drunken confession at night](https://open.spotify.com/album/6ckoOynVQtEj04mbOAyGAh) | 4:06 |
 | 86 | [사랑보다 깊은 상처](https://open.spotify.com/track/0cnx6iVwTUVLLnaTJKsZy2) | [Lim Jae Beum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [그 사람, 그 사랑](https://open.spotify.com/album/3s0zdlcbovF0Yp2JJ3x1VA) | 4:30 |
-| 87 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 |
-| 88 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 |
+| 87 | [didn't know me](https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Wish & Wind](https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF) | 3:58 |
+| 88 | [중독된 사랑](https://open.spotify.com/track/5NtAjS4i0wEFK0lvvuSAVb) | [Cho Jang Hyuck](https://open.spotify.com/artist/7KbzPMRhUFtaSynZ4Oim5Q) | [Love](https://open.spotify.com/album/3OXMz0E7sNDCEtiB4xNNkf) | 4:26 |
 | 89 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 |
 | 90 | [Burn Like A Star](https://open.spotify.com/track/0eB4NVRmmtO99SKfvBU56O) | [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs), [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Burn Like A Star](https://open.spotify.com/album/36xIARKjnu1X4NijtbBpMQ) | 3:08 |
 | 91 | [Fall in Fall](https://open.spotify.com/track/5mwZ597mJSZ4MtO0EtxWBE) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Fall in Fall](https://open.spotify.com/album/41JYmSk66c8HtX3boieMWe) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,924 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,927 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 24 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 25 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 | 26 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 |
-| 27 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
-| 28 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 27 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 28 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 29 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 | 30 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
 | 31 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 42 | [New Fires](https://open.spotify.com/track/6I7nESv5d9zf9DcEA9I25u) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO), [Henry Green](https://open.spotify.com/artist/0VbDAlm2KUlKI5UhXRBKWp) | [New Fires](https://open.spotify.com/album/20brpiEt6JIbhmmHqF7Fjj) | 4:11 |
 | 43 | [Why Does My Heart](https://open.spotify.com/track/4PMb7HNX34bF1Y4i1pgvrR) | [LYOD](https://open.spotify.com/artist/2a97LenVl6Fez8pkVAcFuq) | [Why Does My Heart](https://open.spotify.com/album/3OT6KSIetaybJtSKP5tJkd) | 2:52 |
 | 44 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
-| 45 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
-| 46 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 |
+| 45 | [Verden](https://open.spotify.com/track/0an9zVn661Xhu94USWLmIj) | [MEUTE](https://open.spotify.com/artist/1z5xbcOeFRQXBVDpvRPh8H), [pølaroit](https://open.spotify.com/artist/3B1BQHf6ExWixwqy9zRDZm) | [Verden](https://open.spotify.com/album/3E7tB63oCaFKzaxJSlrLD2) | 5:44 |
+| 46 | [Sorry](https://open.spotify.com/track/3vkzxY2aRL7uhz2BIFzT0V) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Sorry](https://open.spotify.com/album/3QEx4nahZb3ewLKs8b87UV) | 2:42 |
 | 47 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 |
 | 48 | [Company](https://open.spotify.com/track/1XvOGEMfHaLZu5opqKqtEz) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Company](https://open.spotify.com/album/0Q8UbgnUCvUdvbGjMnYKkP) | 2:42 |
 | 49 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |

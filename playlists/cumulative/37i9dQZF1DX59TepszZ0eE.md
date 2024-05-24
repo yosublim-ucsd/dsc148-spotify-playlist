@@ -4,7 +4,7 @@
 
 > Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O?si=9ekddFvAQ16ZB\-bvtUzxLg>SbuNoah</a>
 
-278 songs - 1 day 4 hr 30 min
+279 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Esphambanweni](https://open.spotify.com/track/77DmEnGFpPvTDq6XHV2p3E) | [Kelly Khumalo](https://open.spotify.com/artist/2MhYuOM0iHfOwQ0HeLa0no), [Hlengiwe Mhlaba](https://open.spotify.com/artist/2TO6SX9weMc5ZT6FdJdpJI) | [Esphambanweni](https://open.spotify.com/album/5Giv7dJdtqayyyhAxTtEVC) | 6:23 | 2020-10-06 |  |
 | [Ewe Jesu \(feat\. Mfana Kah Gogo & Minero\)](https://open.spotify.com/track/2iCoygjcMM7kB05DKT5QcM) | [Fezeka Dlamini](https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7), [Mfana Kah Gogo](https://open.spotify.com/artist/0gGBj3AcYMHRa32eeikJg1), [Minero](https://open.spotify.com/artist/22cA9IPMcTMOtvo1YSYCoh) | [Ewe Jesu \(feat\. Mfana Kah Gogo & Minero\)](https://open.spotify.com/album/37P9FzOOF5A6ggWkCi8Jun) | 4:47 | 2023-03-17 | 2023-07-07 |
 | [Ewe Jesu \- Medley 1](https://open.spotify.com/track/3MRnsyexVvjPm6Kxti26wV) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3) | [Ewe Jesu \(Medley 1\)](https://open.spotify.com/album/0BCsmUWz3Trh4alJkQbvRN) | 5:46 | 2023-08-25 |  |
+| [Faithful](https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos) | [Bucie](https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG) | [Faithful](https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD) | 6:00 | 2024-05-24 |  |
 | [Fire](https://open.spotify.com/track/2acynY8oyA2XAG5FZJGIjb) | [Ab Central](https://open.spotify.com/artist/7e2fCmADEC45SvMhYJgEe0), [Obby Judah](https://open.spotify.com/artist/3dGdwJNjUkGQmkUIXHbRFo), [ScavoBeatz](https://open.spotify.com/artist/0xKFuIEdebc1XdIBdqJZuT) | [OF THE GOSPEL, HOUSE & AMAPIANO, Vol\. 2](https://open.spotify.com/album/3qh253mvt34CR4zSRUdXko) | 4:34 | 2024-03-22 |  |
 | [Forever](https://open.spotify.com/track/4r0UUdiQOF6alyduVuEvP6) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4), [Siba Mwerbi](https://open.spotify.com/artist/0MlzXjTiDWgeo6Q79xi1v9) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 4:03 | 2024-03-29 | 2024-04-05 |
 | [Gcobani \- Live](https://open.spotify.com/track/1fizmf573Xu3uC0bJwjVMO) | [Ncebakazi Msomi](https://open.spotify.com/artist/51g9htpUzFdCV8GhceWMpX) | [The 34th Psalm \(Live\)](https://open.spotify.com/album/6N7U50ki2ephKPd248gqer) | 3:22 | 2024-03-29 | 2024-04-05 |

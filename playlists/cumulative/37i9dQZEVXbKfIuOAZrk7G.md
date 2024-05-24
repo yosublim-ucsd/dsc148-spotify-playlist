@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-2,631 songs - 5 day 19 hr 39 min
+2,632 songs - 5 day 19 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -410,6 +410,7 @@
 | [Change My Wayz](https://open.spotify.com/track/0x8vQaiUn7BZ37Wpxd4Mms) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Change My Wayz](https://open.spotify.com/album/0TwgVRH8pQ5tN2j7b8M0eB) | 1:55 | 2023-12-12 | 2023-12-16 |
 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/41mclLjggl2nmbYpRisKrh) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:32 | 2022-06-07 | 2022-07-25 |
 | [Chauffeur](https://open.spotify.com/track/2L1OXzqVPpVxotHfLglUcB) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Chauffeur](https://open.spotify.com/album/0YelQwXuaXeL3nk23iOqwd) | 3:25 | 2022-05-10 | 2022-05-25 |
+| [Cheap Thrills](https://open.spotify.com/track/4dRYlZtS7kYfWxkYfMPTe7) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2016, Vol\. 2](https://open.spotify.com/album/10WHTghh38mVQRKNlk4rx8) | 3:27 | 2024-05-23 |  |
 | [Cheeseburger In Paradise](https://open.spotify.com/track/6VeZ970uI0Yi6sjBgyFBrp) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 2:56 | 2023-09-04 | 2023-09-11 |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-05-09 | 2023-05-17 |
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-06-13 | 2023-06-20 |
@@ -1294,7 +1295,7 @@
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-11 | 2023-04-20 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-03-07 | 2023-03-14 |
 | [LET ME SEE YA MOVE!](https://open.spotify.com/track/3WZQ5lbOdeXEcspmshc9YS) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LET ME SEE YA MOVE!](https://open.spotify.com/album/1qKJSTBYWQMuN4efzNuY2e) | 2:01 | 2023-07-11 | 2023-08-09 |
-| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-24 | 2024-05-23 |
+| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-24 |  |
 | [LET U GO](https://open.spotify.com/track/6VjCGXfgBACSWnH2MOdFGC) | [lifeinparis](https://open.spotify.com/artist/3WeyGyZ44HbSPiwbnhly7g) | [LET U GO](https://open.spotify.com/album/5X5I42zOl6WfT5sead5z9b) | 2:08 | 2023-02-01 | 2023-02-04 |
 | [Let U Go](https://open.spotify.com/track/29pUhY4WylF02TuUiPUYYV) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/4WzPhDgw6vO5Jq0m9VmN72) | 2:08 | 2023-02-17 | 2023-03-15 |
 | [Let U Go](https://open.spotify.com/track/3196FTomYwgmYSSwqsm0d1) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/79qWGbIjfQuzBPCMjUEsDl) | 2:08 | 2023-01-31 | 2023-02-16 |
@@ -1792,7 +1793,7 @@
 | [Pretend](https://open.spotify.com/track/7eKdGD7PCY5ScYeLOAlXw6) | [michi](https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk) | [Pretend](https://open.spotify.com/album/36RFUBnk29raCZA0s1WrYa) | 5:59 | 2023-07-10 | 2023-07-12 |
 | [Pretty Girl Era](https://open.spotify.com/track/3w6JB9UckmYZBn4Tsq2kpM) | [LU KALA](https://open.spotify.com/artist/5R1cUyk9ysrruOo4ErpGjg) | [Pretty Girl Era](https://open.spotify.com/album/6G32ymoo3YjIUKVMGIKJUY) | 2:35 | 2022-12-28 | 2023-01-11 |
 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 | 2023-01-28 | 2023-03-08 |
-| [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-05-07 |  |
+| [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-05-07 | 2024-05-24 |
 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 | 2023-04-11 | 2023-04-26 |
 | [PRICE OF FAME](https://open.spotify.com/track/4xKQtLZn8m2d2KJy13ZujE) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 6:19 | 2022-07-19 | 2022-07-22 |
 | [prince of egypt](https://open.spotify.com/track/44U5sw3AvxKI0Sy0tYakll) | [Mofe.](https://open.spotify.com/artist/1KM7CSGxtFgMF8NmNuRGXa) | [prince of egypt](https://open.spotify.com/album/1EHDh2uYW1hJkziTZywt2k) | 2:04 | 2024-03-30 | 2024-04-03 |
@@ -1907,7 +1908,7 @@
 | [Sahara](https://open.spotify.com/track/6nqdgUTiWt4JbABDurkxMI) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Sahara](https://open.spotify.com/album/3Q8XfnyXY1KUqnfjkyGwWa) | 2:51 | 2022-01-07 | 2022-02-11 |
 | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy) | [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Prashant Pandey](https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w) | [Sajni \(From "Laapataa Ladies"\)](https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6) | 2:50 | 2024-05-14 |  |
 | [Salamin, Salamin](https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Talaarawan](https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv) | 3:50 | 2024-04-25 | 2024-05-22 |
-| [Sangdi](https://open.spotify.com/track/5jAji2EwS45PaYukUNLBPa) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Sangdi](https://open.spotify.com/album/41524liInoLvZDoPISVp7F) | 2:27 | 2024-05-22 |  |
+| [Sangdi](https://open.spotify.com/track/5jAji2EwS45PaYukUNLBPa) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [Sangdi](https://open.spotify.com/album/41524liInoLvZDoPISVp7F) | 2:27 | 2024-05-22 | 2024-05-24 |
 | [Sans Soleil](https://open.spotify.com/track/2HxHylSuO7W9hLL2t1Dk3s) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/0mgXa4Wapb1oanh0KgVyPr) | 5:04 | 2022-06-26 | 2022-07-11 |
 | [Sans Soleil](https://open.spotify.com/track/3ad62e3Z95GAFSc2c6Bu1L) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Otherness](https://open.spotify.com/album/1lOdYaBrrvwcHtcMTXBagP) | 5:04 | 2022-06-25 | 2022-06-27 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-04-23 | 2024-05-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,854 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,852 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 16 | [Love](https://open.spotify.com/track/5dU3p2ia4wDvODpA04g50e) | [FACESOUL](https://open.spotify.com/artist/0OcOX42YhjTjFbbiMRHBUC) | [YSRA](https://open.spotify.com/album/17Cq84vHnwuiTdVUc5DBGg) | 2:48 |
 | 17 | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/track/6MNE9n9N3c48kO0BfQb6Fd) | [MORIAH](https://open.spotify.com/artist/1w0QYx2G0ywsCClH84FcAv) | [Known, Seen, Loved \(LIVE from the Quarry\)](https://open.spotify.com/album/1BiTSjhWFqiNpZPB1gvEOX) | 3:07 |
 | 18 | [Christ The Lord Is with Me \(with Amanda Cook & Wonder Grace Gretzinger\)](https://open.spotify.com/track/0VJc0VM2TJWp6wi4szBFaw) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Wonder Grace Gretzinger](https://open.spotify.com/artist/2Sh7QdDYLyKTR0SPofWKsD) | [Forever Amen](https://open.spotify.com/album/4INKppNLM2RZwGmggvpMvY) | 4:26 |
-| 19 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
+| 19 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 |
 | 20 | [Eternal Light](https://open.spotify.com/track/3fVy9ZwVwkJ3FRrgkyTJbU) | [Paul Zach](https://open.spotify.com/artist/6OXhFcIGqhYoum3CZBPF38), [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [Eternal Light](https://open.spotify.com/album/4Uu6h9lxpfhgqSoeLtieDg) | 4:07 |
-| 21 | [Jesus My Beloved](https://open.spotify.com/track/4EsYYFhkGUz9kxjQzMx1D3) | [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7), [Kindred Worship](https://open.spotify.com/artist/1oOjYMuuEgcp5h2bawP47T) | [Songs from Home](https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP) | 5:07 |
+| 21 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
 | 22 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 |
 | 23 | [Can’t Get Enough](https://open.spotify.com/track/6zp8BWzu4dzuygZTVf5H2H) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Can’t Get Enough](https://open.spotify.com/album/474MpKHvn3W8j2E9x3qEfu) | 2:11 |
 | 24 | [Belovedness](https://open.spotify.com/track/2pAyv8F5dFMahqD5of77ty) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Belovedness](https://open.spotify.com/album/4B5hr91ODZS3Pn1zLz142m) | 3:42 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 66 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 | 67 | [Kingdom of God](https://open.spotify.com/track/2jneHgyd1uUIfk7eVhqmDK) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Kingdom of God](https://open.spotify.com/album/6AjIsBDVmomaL3GeB3H7uJ) | 4:47 |
 | 68 | [Be Thou My Vision](https://open.spotify.com/track/1ygyed6ppQD1GRSKw5Bm21) | [Cherry Wee](https://open.spotify.com/artist/6s9lmiBnWMbiiUnuaTARaa) | [Be Thou My Vision](https://open.spotify.com/album/1dpxwkXjH3SkFEKoqG8NW7) | 3:36 |
-| 69 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
-| 70 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 |
+| 69 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 |
+| 70 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 |
 
 Snapshot ID: `ZIxbTgAAAADjBnNvamkuo23gYyoMHGUf`

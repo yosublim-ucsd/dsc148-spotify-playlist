@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,475 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,614 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UoY5WYA1QF.md) - [plain]
 | 11 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
 | 12 | [Tú Y Yo \- “Balada”](https://open.spotify.com/track/5Bh4DhWkJfcBjBCMiyGFZy) | [Maribel Guardia](https://open.spotify.com/artist/02ODJzOBsMPy8EfQ4EEmLF), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tú Y Yo](https://open.spotify.com/album/0W17CtjFoRUSGbhcoLYA9n) | 2:42 |
 | 13 | [Un Idiota](https://open.spotify.com/track/4hqcgS5XqaxtmXRib1UKJb) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 3:09 |
-| 14 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 |
-| 15 | [Adios y Bienvenida](https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:10 |
+| 14 | [Adios y Bienvenida](https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [¡ Ora pues !](https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA) | 3:10 |
+| 15 | [Bandido de Amores](https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Soy Como Quiero Ser \(Deluxe\)](https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe) | 3:03 |
 | 16 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 |
 | 17 | [Puede Que Sí](https://open.spotify.com/track/61j37qu0Yn1bXFynsFYXnC) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:10 |
 | 18 | [Desliz](https://open.spotify.com/track/1i9BszSRSFvCSLO03FdZsM) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:16 |

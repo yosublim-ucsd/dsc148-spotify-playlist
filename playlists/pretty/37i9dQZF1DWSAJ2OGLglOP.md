@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 
 > ドライブ用プレイリスト！渋滞も気にせず、ドライブが楽しくなる楽曲を毎週セレクト！
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,694 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,706 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,13 +27,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 17 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 |
 | 18 | [切望](https://open.spotify.com/track/7vjOo9fJElFH24nXraNRYK) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [音楽](https://open.spotify.com/album/2CBL0ep4HNPCrCkQGhWJ1M) | 4:25 |
 | 19 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
-| 20 | [Jesus Is Dead](https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:09 |
+| 20 | [Vision feat\. JESSE](https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [JESSE](https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef), [AWSM.](https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6) | [Vision feat\. JESSE](https://open.spotify.com/album/6dYtcdLBBO8Uj8SqkJw1DR) | 3:52 |
 | 21 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
 | 22 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
 | 23 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 |
 | 24 | [君のそば](https://open.spotify.com/track/3ENZ9t8yvPfD1fNK4T3Lli) | [東京、君がいない街](https://open.spotify.com/artist/2f6Qo8o3wF0ZEpHaMt6Cal) | [23春](https://open.spotify.com/album/1KGEUbiIrHnuN18SQ9LKOF) | 2:50 |
 | 25 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 |
-| 26 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 |
+| 26 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 |
 | 27 | [Do Ya Think I'm Sexy](https://open.spotify.com/track/2wUnbvxF5a25JuZp6Tzbpu) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(20th Anniversary\)](https://open.spotify.com/album/3pCVjmRGVZ2mYuJN2R1wi8) | 4:16 |
 | 28 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
 | 29 | [アイドル](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [アイドル](https://open.spotify.com/album/7yMkS4NCpG0FH6NoaH3F0a) | 3:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAJ2OGLglOP.md) - [plain]
 | 49 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 50 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 
-Snapshot ID: `Zhk/LwAAAACSqhXIHvvIiL03aYY4nDRH`
+Snapshot ID: `Zk9Z8AAAAADS1y/fwBWfZnjMDU/Lv1wb`

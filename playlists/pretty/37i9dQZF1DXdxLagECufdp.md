@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 
 > Fanfarrias y ritmos clown para gozar las tragicomedias de la vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,236 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,245 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxLagECufdp.md) - [plain]
 | 36 | [Karnaval](https://open.spotify.com/track/0QoKi5HQm7srBiovlTpTws) | [Fanko](https://open.spotify.com/artist/7FTVF3GI4iIuxErFlgYS2n), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Volver al Futuro \(Otro Futuro\)](https://open.spotify.com/album/184ZgYcvVQWNyvoDHBYtuE) | 4:22 |
 | 37 | [Crimen en el Paraíso](https://open.spotify.com/track/1vevBksiqjLNvrCCaVeSAq) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Crimen en el Paraíso](https://open.spotify.com/album/6hbngLUDo5Duzx1Yecsou3) | 3:32 |
 | 38 | [Just the Two of Us \- Borat Version](https://open.spotify.com/track/3vlX8DYLjmo7tzGeNBSVoG) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [It Wasn't Hard to Love You](https://open.spotify.com/album/2U1gmHeaRx1E8VaB7wO13R) | 2:56 |
-| 39 | [Lëkïxï Ëjts](https://open.spotify.com/track/5BQQ6iaZ16xhI46IvlBUVQ) | [LOS PREAM](https://open.spotify.com/artist/2YSwwTeuf7ytDyxsSEpylH) | [Lëkïxï Ëjts](https://open.spotify.com/album/36Rcp540rFEhN1QkTdmQv1) | 4:32 |
-| 40 | [Cantina Band](https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Bien Bonito](https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR) | 2:49 |
+| 39 | [Cantina Band](https://open.spotify.com/track/0SMP8lyL82dgrmahST61tc) | [Calacas Jazz Band](https://open.spotify.com/artist/2ouD4oXicYc0AOFRjm2hIr) | [Bien Bonito](https://open.spotify.com/album/1nKWJPzzuboXqkeG8jntbR) | 2:49 |
+| 40 | [Lëkïxï Ëjts](https://open.spotify.com/track/5BQQ6iaZ16xhI46IvlBUVQ) | [LOS PREAM](https://open.spotify.com/artist/2YSwwTeuf7ytDyxsSEpylH) | [Lëkïxï Ëjts](https://open.spotify.com/album/36Rcp540rFEhN1QkTdmQv1) | 4:32 |
 | 41 | [Pharoah's Dreams](https://open.spotify.com/track/3bfUusiINCCzv5YDfgtQEY) | [Hepcat](https://open.spotify.com/artist/79pQC5STz5lsGdkJ0NHmGp) | [Right On Time](https://open.spotify.com/album/5n7IeJHvlLtCo3HW5vgCqu) | 3:27 |
 | 42 | [The Revenge \- Juan Velázquez Dub Mix](https://open.spotify.com/track/1EQTAtzVmAtDyi2gCoUIuc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F), [Juan Velázquez Dub Mix](https://open.spotify.com/artist/5M5lqIObIGdQfb3yQvC3db) | [The Revenge](https://open.spotify.com/album/0E2eMtNlLia0cb1jVF7yIt) | 4:59 |
 | 43 | [Opa Tsupa](https://open.spotify.com/track/0un7jg786f0J1cp9wpmfq6) | [Bratsch](https://open.spotify.com/artist/6FZfkhy0yUI4DAkrN8wZrd) | [Sans Domicile Fixe](https://open.spotify.com/album/5spBXqMdI07H9f2yAqXETb) | 2:44 |
 | 44 | [Cruzando el Campo](https://open.spotify.com/track/7IEMXZrmEJXgZSfKaZMOJK) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg) | [Cruzando el Campo](https://open.spotify.com/album/0j515BtyhDDr3KKqvWNDjx) | 2:22 |
 | 45 | [Cumbia Klezmer](https://open.spotify.com/track/2bsNIf7cT3PYRriUSNcnck) | [La Mano Ajena](https://open.spotify.com/artist/611eLbdAybrp9seo2dr6eJ) | [Radio Galena](https://open.spotify.com/album/1Ra9M1mo2LU1TQRSYJ7Vjg) | 2:49 |
-| 46 | [Go](https://open.spotify.com/track/3ClMIPI0OAW6SgPAPG0lDB) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Steal the Light](https://open.spotify.com/album/7Blq3llvFZhKNAZvj6XwWg) | 3:25 |
-| 47 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
-| 48 | [Cuervos Main Theme](https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe) | [Benjamin Shwartz](https://open.spotify.com/artist/2GjgSEFTQRiOZDmqcmuKqC) | [Música Original Club de Cuervos](https://open.spotify.com/album/2GT8NnhshovgEod3XGOvE0) | 1:34 |
+| 46 | [El Lobo](https://open.spotify.com/track/3c0gASoWobykbZXSNrDAXM) | [La Familia de Ukeleles](https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs) | [El Lobo](https://open.spotify.com/album/0dfl6KXvh91ccYVZ3uExB0) | 3:40 |
+| 47 | [Cuervos Main Theme](https://open.spotify.com/track/6mYdLLjsJHVkvZnn5C3FZe) | [Benjamin Shwartz](https://open.spotify.com/artist/2GjgSEFTQRiOZDmqcmuKqC) | [Música Original Club de Cuervos](https://open.spotify.com/album/2GT8NnhshovgEod3XGOvE0) | 1:34 |
+| 48 | [Go](https://open.spotify.com/track/3ClMIPI0OAW6SgPAPG0lDB) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Steal the Light](https://open.spotify.com/album/7Blq3llvFZhKNAZvj6XwWg) | 3:25 |
 | 49 | [Constelación](https://open.spotify.com/track/58yXDaeNbIqbbAkFH8or6a) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Constelación](https://open.spotify.com/album/5hXsDY407wtAlm5W81aM1F) | 3:09 |
-| 50 | [Marajà \- 2018 Remaster](https://open.spotify.com/track/70EXIyETxgloAlVkRbO2H9) | [Vinicio Capossela](https://open.spotify.com/artist/6FlxhoUGATC40TALMesaFM) | [Canzoni a manovella \(2018 Remaster\)](https://open.spotify.com/album/7AYil3edcAVcb7nfyf0Tn7) | 3:25 |
+| 50 | [Gopher](https://open.spotify.com/track/01hqaLJ7lsOf5w0zTysbGD) | [Bombay Rickey](https://open.spotify.com/artist/25K3DdUbAxFXeydGHPoyPz) | [Electric Bhairavi](https://open.spotify.com/album/6h5WjOpelHPgjr1OjCm1tm) | 3:59 |
 
 Snapshot ID: `Zbx+TAAAAAAQ0T7TL3YVjxMYezLcNEXh`

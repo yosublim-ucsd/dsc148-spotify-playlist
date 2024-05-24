@@ -1,12 +1,12 @@
 {
   "description": "This Is Kenia OS. Los temas esenciales, todos en una lista.",
-  "num_followers": 6476,
+  "num_followers": 6487,
   "original_name": "This Is Kenia OS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAABJlmGAdy6cualOvuzHvgf",
+  "snapshot_id": "Zk01gAAAAAAekf85j7GBhO5Q9blL8Xs9",
   "tracks": [
     {
       "added_at": null,
@@ -87,18 +87,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cambios de Luna",
-        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
+        "name": "Siempre Que Lo Beso",
+        "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
       },
       "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        },
         {
           "name": "Kenia OS",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 143753,
-      "name": "Ll\u00e9vatelo",
-      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
+      "duration_ms": 153674,
+      "name": "Siempre Que Lo Beso",
+      "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
     },
     {
       "added_at": null,
@@ -135,22 +139,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Siempre Que Lo Beso",
-        "url": "https://open.spotify.com/album/6HZmLJi2vatI1IPmcJ6Y5s"
+        "name": "Cambios de Luna",
+        "url": "https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0"
       },
       "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        },
         {
           "name": "Kenia OS",
           "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
         }
       ],
-      "duration_ms": 153674,
-      "name": "Siempre Que Lo Beso",
-      "url": "https://open.spotify.com/track/7uxUSeO7fa3gVn0mNg2SyR"
+      "duration_ms": 143753,
+      "name": "Ll\u00e9vatelo",
+      "url": "https://open.spotify.com/track/53RLjHptrKflawOuGru1xM"
     },
     {
       "added_at": null,

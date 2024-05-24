@@ -1,12 +1,12 @@
 {
-  "description": "This is Kanye West. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 1278847,
+  "description": "This is Kanye West. The essential tracks, all in one playlist.",
+  "num_followers": 1279142,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAClo5NFQ4dKKtRf1CNhsm9z",
+  "snapshot_id": "Zk01gAAAAADJRZwP8/toAkRBUXj5aC+H",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
       },
@@ -811,22 +827,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The College Dropout",
         "url": "https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 316053,
       "name": "Slow Jamz",
       "url": "https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 374413,
+      "name": "No More Parties In LA",
+      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
     },
     {
       "added_at": null,
@@ -987,26 +1003,6 @@
       "duration_ms": 372113,
       "name": "Saint Pablo",
       "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "u made me a st4r",
-        "url": "https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 189867,
-      "name": "act iii: on god? (she like) (feat. Kanye West) - remix",
-      "url": "https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo"
     }
   ],
   "unique_name": "This Is Kanye West",

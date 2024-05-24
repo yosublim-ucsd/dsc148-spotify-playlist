@@ -1,6 +1,6 @@
 {
   "description": "Breathe in deep with arms wide open in worship. This is going to be epic!",
-  "num_followers": 310878,
+  "num_followers": 310971,
   "original_name": "epicPRAISE",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
+        "name": "Dancing On The Waves (Live)",
+        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
+      },
+      "artists": [
+        {
+          "name": "We The Kingdom",
+          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
+        }
+      ],
+      "duration_ms": 269040,
+      "name": "Dancing On The Waves - Live At The Wheelhouse",
+      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
         "name": "Live From New York",
         "url": "https://open.spotify.com/album/6td3dp0Q2whXxXpvG8vXvP"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 484200,
       "name": "Alleluia - Live",
       "url": "https://open.spotify.com/track/4FmpJYb8ng0grrLjzDhQBB"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
-        "name": "Dancing On The Waves (Live)",
-        "url": "https://open.spotify.com/album/6Y4TkUVERN9O7D1FTgV08r"
-      },
-      "artists": [
-        {
-          "name": "We The Kingdom",
-          "url": "https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest"
-        }
-      ],
-      "duration_ms": 269040,
-      "name": "Dancing On The Waves - Live At The Wheelhouse",
-      "url": "https://open.spotify.com/track/0vmjzHNn4onx9Jkod8xSs0"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Glory to Glory",
-        "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
-      },
-      "artists": [
-        {
-          "name": "Iron Bell Music",
-          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
-        }
-      ],
-      "duration_ms": 365257,
-      "name": "Glory to Glory",
-      "url": "https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw"
-    },
-    {
-      "added_at": "2020-06-26 04:02:00",
-      "album": {
         "name": "A Million Saints (Live)",
         "url": "https://open.spotify.com/album/6X85XloR1ljEvfnOIKs0Yv"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 208864,
       "name": "A Million Saints (Live)",
       "url": "https://open.spotify.com/track/4qD61pEn6BtS9Bo86jlUYt"
+    },
+    {
+      "added_at": "2020-06-26 04:02:00",
+      "album": {
+        "name": "Glory to Glory",
+        "url": "https://open.spotify.com/album/4QCMs9jcAhEa5zQXjL54YB"
+      },
+      "artists": [
+        {
+          "name": "Iron Bell Music",
+          "url": "https://open.spotify.com/artist/53D1D9DDZojMCL9XLsKCmK"
+        }
+      ],
+      "duration_ms": 365257,
+      "name": "Glory to Glory",
+      "url": "https://open.spotify.com/track/0SfGXg7vZmt5OGxET9lhRw"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1747,26 +1747,18 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Awe + Wonder (Live)",
-        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
+        "name": "Great Redeemer",
+        "url": "https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq"
       },
       "artists": [
         {
-          "name": "The Belonging Co",
-          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
-        },
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        },
-        {
-          "name": "Andrew Holt",
-          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
+          "name": "Lucy Grimble",
+          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
         }
       ],
-      "duration_ms": 326246,
-      "name": "Awe + Wonder - Live",
-      "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
+      "duration_ms": 305670,
+      "name": "Great Redeemer",
+      "url": "https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ"
     },
     {
       "added_at": "2020-06-26 04:02:00",
@@ -1787,18 +1779,26 @@
     {
       "added_at": "2020-06-26 04:02:00",
       "album": {
-        "name": "Great Redeemer",
-        "url": "https://open.spotify.com/album/0nX0WKiG9z8YqiKFqZaYiq"
+        "name": "Awe + Wonder (Live)",
+        "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
       "artists": [
         {
-          "name": "Lucy Grimble",
-          "url": "https://open.spotify.com/artist/0d0ICZg8jE6D2RkDHCTIVq"
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        },
+        {
+          "name": "Andrew Holt",
+          "url": "https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8"
         }
       ],
-      "duration_ms": 305670,
-      "name": "Great Redeemer",
-      "url": "https://open.spotify.com/track/2JoojhYT5czjfxQF9YLyuJ"
+      "duration_ms": 326246,
+      "name": "Awe + Wonder - Live",
+      "url": "https://open.spotify.com/track/6LIbc0JN4nvodJzln08lFo"
     },
     {
       "added_at": "2020-06-26 04:02:00",

@@ -4,7 +4,7 @@
 
 > The Hottest Christian and Gospel music from across the African continent\.  Cover:  <a href="https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH?si=d67b215f98f94063">Annatoria</a>
 
-422 songs - 1 day 12 hr 46 min
+423 songs - 1 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Love Is](https://open.spotify.com/track/3X0MU7pHpzFOTaUgve3EDS) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Love Is](https://open.spotify.com/album/3ctXeL6wDikVuT1TKdkydc) | 3:20 | 2023-04-14 | 2023-06-02 |
 | [Love My Home](https://open.spotify.com/track/1SyNzhVnaVz7bZjFn5LVrK) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Love My Home](https://open.spotify.com/album/1PjvBnYQv9XMS2CIlnuH89) | 5:47 | 2021-03-12 | 2023-04-01 |
 | [Love On The Cross](https://open.spotify.com/track/0PMWpJxA80NhC0SiGRAthQ) | [Dr Tumi](https://open.spotify.com/artist/40wyqBgeUtnE26B5P4ajSJ) | [Love On The Cross](https://open.spotify.com/album/1W7jtTkVnZOimPea1SQeBh) | 5:50 | 2019-11-06 | 2023-04-07 |
+| [Love practitioner](https://open.spotify.com/track/0D24y5Rs4Wl1yxqIUFvoc5) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Love practitioner](https://open.spotify.com/album/5FUBrAzEKeJXtVavRNpy7Y) | 2:35 | 2024-05-24 |  |
 | [Ma K'oja Mi Olugbala](https://open.spotify.com/track/0H5CRzT7bk1Ib5f5Lw5xEU) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Hymns: Songs of Worship](https://open.spotify.com/album/1febHiKvpndkCYiyA4LwSn) | 4:24 | 2018-10-01 | 2022-09-10 |
 | [Made Whole](https://open.spotify.com/track/0Nr91BKQvJE4usT6fKWY5t) | [CRC Music](https://open.spotify.com/artist/0NkzbJlvL3SLDCFnPmdSK7) | [Made Whole](https://open.spotify.com/album/33GubIN9pcunkmkg2A1j6U) | 4:19 | 2020-01-31 | 2023-04-14 |
 | [Majina Yote Jehovah](https://open.spotify.com/track/7L5JyeVQzmhpbjpZcoIDWn) | [Dedo Dieumerci](https://open.spotify.com/artist/4t8dpDtvEUucCvmEMLYUuR), [Naomi Mugiraneza](https://open.spotify.com/artist/4awEqX0MSvBqpwBfSMCiMm) | [Hymnos 2](https://open.spotify.com/album/4lQaSOEJAMWQf7ecxmj3RE) | 9:42 | 2023-06-23 |  |
@@ -347,7 +348,7 @@
 | [Take It](https://open.spotify.com/track/7uJcY8am7ZHYlBRjNmtwjl) | [O'Tobi](https://open.spotify.com/artist/1HYbCVkigoBdEuitGNANGW), [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Take It](https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ) | 2:35 | 2023-04-21 | 2023-06-16 |
 | [Taking care \- Live at Bliss Experience](https://open.spotify.com/track/4MY8Sn24Enjfi1e3tnxbBo) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Taking care \(Live at Bliss Experience\)](https://open.spotify.com/album/6VgacHLoO0aATC9DjJ135k) | 5:10 | 2022-02-03 | 2023-05-05 |
 | [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 | 2023-09-29 | 2023-11-25 |
-| [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-22 |  |
+| [Testimony](https://open.spotify.com/track/3KK4GZBIXOtgfeN04QZdx0) | [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Testimony](https://open.spotify.com/album/34uUjQomDNO14NZwPVgfyp) | 2:57 | 2024-03-22 | 2024-05-24 |
 | [Thank God](https://open.spotify.com/track/5QIykphDf5bz5UIdlFnDoa) | [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES) | [Thank God](https://open.spotify.com/album/4hjWLxMMEnYQumShwTWlzy) | 3:00 | 2023-03-31 | 2023-04-28 |
 | [That's My Name](https://open.spotify.com/track/4R8UFRB1atWLYEXcecOUfu) | [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J), [Angeloh](https://open.spotify.com/artist/16b0fWgIHXMM87ZaHe4ERg), [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [HEAVEN HAS COME](https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz) | 4:12 | 2023-06-09 | 2024-01-04 |
 | [Thath'Indawo \(Live\)](https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Mpumi Mtsweni](https://open.spotify.com/artist/2dvEcjYqeOiyOEq3VprQLJ) | [Spirit of Praise, Vol\. 8 \(Live\)](https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt) | 7:55 | 2023-06-23 |  |

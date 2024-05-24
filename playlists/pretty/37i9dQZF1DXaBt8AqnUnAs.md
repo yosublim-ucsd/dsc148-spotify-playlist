@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,755 likes - 84 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,765 likes - 84 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

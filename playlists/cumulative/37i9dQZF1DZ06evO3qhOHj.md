@@ -4,7 +4,7 @@
 
 > This is Mr\. Big\. The essential tracks, all in one playlist.
 
-54 songs - 3 hr 39 min
+55 songs - 3 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Electrified](https://open.spotify.com/track/4sRcPII8MiwTQGxptPdDVF) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:11 | 2023-12-13 |  |
 | [Forever and Back](https://open.spotify.com/track/3AdWEZiqAccgQlWfCoTIi2) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Defying Gravity](https://open.spotify.com/album/53l9k2aVCPJRzquRWwoexE) | 3:39 | 2023-12-13 | 2024-03-06 |
 | [Goin' Where the Wind Blows](https://open.spotify.com/track/7MvH3ZyA1l72z3XiTFUIEH) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Hey Man \[Expanded\]](https://open.spotify.com/album/2f5EZBoBDNDRFH6KfcFktJ) | 4:19 | 2023-12-13 |  |
+| [Good Luck Trying](https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Good Luck Trying](https://open.spotify.com/album/0pYvl3Eo9TEa4dO8nxjD3H) | 4:05 | 2024-05-24 |  |
 | [Green\-Tinted Sixties Mind \- 2021 Remastered](https://open.spotify.com/track/36zcRIdiJr94WIsWxbNMbU) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:30 | 2023-12-13 |  |
 | [How Can You Do What You Do \- 2023 Remastered](https://open.spotify.com/track/2Miw5vdPTOgIVrcHaUqmfL) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Mr\. Big \(2023 Remastered\)](https://open.spotify.com/album/5OtrlDneedFuFRBHrtNa42) | 3:55 | 2023-12-13 |  |
 | [How Does It Feel](https://open.spotify.com/track/4JDD3UYWUKvYX5j1UwSg5d) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Get Over It](https://open.spotify.com/album/49pbcb2iALtFnSAZDcdBDE) | 4:12 | 2023-12-14 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,186 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,250 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 34 | [Cool with You](https://open.spotify.com/track/5wv2XK6ms7KBBVDD1cOwlx) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 6:15 |
 | 35 | [at least i'm pretty](https://open.spotify.com/track/69BSm4vFLLo4L8nUulybMc) | [Harriette](https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa) | [at least i'm pretty](https://open.spotify.com/album/3HA6ZaA6AZt86W0hIWFetL) | 1:46 |
 | 36 | [Bedroom](https://open.spotify.com/track/2x1Up4aNJ9mpmiPFJ83MX3) | [Litany](https://open.spotify.com/artist/2z6JjrrJKNLilqlx8mlxcc) | [4 Track EP](https://open.spotify.com/album/1yjHsoV9fSDcYuz6F7RNfb) | 3:06 |
-| 37 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 |
-| 38 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
+| 37 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
+| 38 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 |
 | 39 | [Passion](https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Passion](https://open.spotify.com/album/6Y4jnyOjMD3iGs0aIvlvE0) | 2:18 |
 | 40 | [Flook](https://open.spotify.com/track/4uJygJrv9ZRqkxfDijPxod) | [Hector Gachan](https://open.spotify.com/artist/7JWTyY1F2DGO4WphbQo2yM) | [Untitled '91](https://open.spotify.com/album/17YZ462PRpLKH87XkxSZGu) | 1:27 |
 | 41 | [Rare](https://open.spotify.com/track/3FwSGFXzoODJ3igRA06DhV) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Moonlight/Rare](https://open.spotify.com/album/2Syg1EbtwFmYEkTN02Avbv) | 3:04 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 65 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 |
 | 66 | [Where Do I Go](https://open.spotify.com/track/0HvbFmfFlcsAJ6hydqflNk) | [MINOVA](https://open.spotify.com/artist/6mskRz8EwbqCXm39vtGStC) | [Where Do I Go](https://open.spotify.com/album/4nFKRPl8NBisqDFKIFZVqg) | 3:10 |
 | 67 | [Rainbow](https://open.spotify.com/track/4tpguuBe7cTThXmDCYSJZq) | [Jesse®](https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo) | [Joker & Rainbow](https://open.spotify.com/album/5LyejeCWgNbQYQBEUCBcpk) | 2:56 |
-| 68 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
-| 69 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
+| 68 | [honey](https://open.spotify.com/track/66SJQbiRXe6l8Fj7yi8tMt) | [url](https://open.spotify.com/artist/7vv006VlvTGA0JD2ybpvN2) | [honey](https://open.spotify.com/album/0o57RzFlG0Xn7tY4PEAizg) | 3:00 |
+| 69 | [MESS U MADE](https://open.spotify.com/track/7xW3rU5rzv4ghw0h8APxuH) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [MESS U MADE](https://open.spotify.com/album/4TAKHVBXzplL7jNu7HWkEP) | 2:48 |
 | 70 | [You Make Me Feel](https://open.spotify.com/track/34nlIUkkDybtZAyEnvcpLL) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [You Make Me Feel](https://open.spotify.com/album/5x6rupJeZv1BxbNGVcxNDL) | 3:06 |
 | 71 | [milk in the morning](https://open.spotify.com/track/0nsdJMaNiVrEA224ojPFaT) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Zaini](https://open.spotify.com/artist/1MF873qFvGywvDUQbldyMH), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [milk in the morning](https://open.spotify.com/album/6mh0NWiMbPjv22MWcE7exj) | 3:10 |
 | 72 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcxvFzl58uP7.md) - [plain]
 | 86 | [another day](https://open.spotify.com/track/3GiaKFUtnd9N6SMaP5wOK6) | [Takayoshi](https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo) | [another day](https://open.spotify.com/album/5uzyKEN1OSVCSAk1xTRcym) | 2:09 |
 | 87 | [amphetamine](https://open.spotify.com/track/6OxJsaqxD7yaR35qRuhyFa) | [boylife](https://open.spotify.com/artist/6P8DiegQ0Inxj1UF6a9lCb) | [amphetamine](https://open.spotify.com/album/7x0K5adxax0P3lHcYj7UfN) | 2:00 |
 | 88 | [moviestar](https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc) | [asumuh](https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO) | [moviestar](https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW) | 2:18 |
-| 89 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
-| 90 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
+| 89 | [In My Room](https://open.spotify.com/track/37mJhGOHG3oNeSmMVMRDBB) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [In My Room](https://open.spotify.com/album/5Pwqc8xiWDFHEe20GJYl7L) | 2:42 |
+| 90 | [Truth☆Truth](https://open.spotify.com/track/6vfJ8MiERPMLsI0g0LQfUt) | [EFÉ](https://open.spotify.com/artist/2v0XtEw3w12NCC0J20ke6C) | [Truth☆Truth](https://open.spotify.com/album/1jntHHi1HpBdfSPuwUtmwN) | 3:44 |
 | 91 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 |
 | 92 | [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 |
 | 93 | [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 |

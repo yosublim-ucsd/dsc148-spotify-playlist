@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207306,
       "name": "Borro Cassette",
       "url": "https://open.spotify.com/track/6DUdDIRgLqCGq1DwkNWQTN"
@@ -2492,6 +2492,24 @@
       "duration_ms": 243433,
       "name": "Bulevar",
       "url": "https://open.spotify.com/track/7hQi6VmEgGLG462YpieKDG"
+    },
+    {
+      "album": {
+        "name": "Lenguaje Universal",
+        "url": "https://open.spotify.com/album/1HXorJHIRNwFXQzV2GLC5k"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246046,
+      "name": "Busca Un Confidente",
+      "url": "https://open.spotify.com/track/63kq9VZGTYhBELP0jX3qsq"
     },
     {
       "album": {
@@ -3869,6 +3887,24 @@
     },
     {
       "album": {
+        "name": "Mas Vallenato",
+        "url": "https://open.spotify.com/album/6CWpkd6nAKm2P3IHHOe7zO"
+      },
+      "artists": [
+        {
+          "name": "Los Diablitos",
+          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282827,
+      "name": "Cuando Casi Te Olvidaba",
+      "url": "https://open.spotify.com/track/6Fn0YHHglTA5qBVXS8yOER"
+    },
+    {
+      "album": {
         "name": "Balas Perdidas",
         "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
@@ -3884,6 +3920,32 @@
       "duration_ms": 219586,
       "name": "Cuando Nadie Ve",
       "url": "https://open.spotify.com/track/71iAechwVKGu26pahzFL0k"
+    },
+    {
+      "album": {
+        "name": "Cuando Te Apareces",
+        "url": "https://open.spotify.com/album/3Txn1So9LkyxkKm3aU7yht"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Andree Galez",
+          "url": "https://open.spotify.com/artist/5Hj7J9oLM9djWgrtAwtb03"
+        },
+        {
+          "name": "Drogger",
+          "url": "https://open.spotify.com/artist/5Dpwx7TbdWY44NBnjZ89Eg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229473,
+      "name": "Cuando Te Apareces",
+      "url": "https://open.spotify.com/track/1jRBre4qUfdEXHrtPaj9GM"
     },
     {
       "album": {
@@ -4336,7 +4398,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 195723,
       "name": "DEJALO",
       "url": "https://open.spotify.com/track/53D7pcm0U1NmVYYRvgdEdD"
@@ -6344,7 +6406,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 220449,
       "name": "ENVIGADO",
       "url": "https://open.spotify.com/track/7rzzvtKLYsspPF8aUBghlF"
@@ -8952,7 +9014,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 176142,
       "name": "Jordan",
       "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
@@ -9896,7 +9958,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -10670,7 +10732,7 @@
       ],
       "date_added": "2022-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 228554,
       "name": "Llorar\u00e1s",
       "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
@@ -11654,6 +11716,32 @@
       "duration_ms": 156467,
       "name": "Mar\u00eda Teresa",
       "url": "https://open.spotify.com/track/6lWukOjF9fOuvP54733WbK"
+    },
+    {
+      "album": {
+        "name": "La Combinacion Vallenata Vol. 2",
+        "url": "https://open.spotify.com/album/4uPNCk5oi9NViVt6nic6cl"
+      },
+      "artists": [
+        {
+          "name": "La Combinaci\u00f3n Vallenata",
+          "url": "https://open.spotify.com/artist/2Rerw09apss0UagVOvRNya"
+        },
+        {
+          "name": "Miguel Morales",
+          "url": "https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri"
+        },
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256893,
+      "name": "Mas Amor Que Heridas",
+      "url": "https://open.spotify.com/track/2mWTwRFXGvmKY3HUDcWrt3"
     },
     {
       "album": {
@@ -13519,6 +13607,28 @@
     },
     {
       "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/56y4hyC7mn42oSvWxDWtqV"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Jean Carlos Centeno",
+          "url": "https://open.spotify.com/artist/2w1UJL5kYJJkvjo71fQjOB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267037,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/2UFZzt5n7mrbxFJdUmVCPW"
+    },
+    {
+      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -14570,6 +14680,24 @@
       "duration_ms": 233290,
       "name": "Parranda De Navidad",
       "url": "https://open.spotify.com/track/3nIpZR9wXpZIoOuDZd9p6f"
+    },
+    {
+      "album": {
+        "name": "Una Historia Cantada",
+        "url": "https://open.spotify.com/album/3JrcqQ5KM5aS5as2uTVuVQ"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260858,
+      "name": "Parrandeando Con Omar",
+      "url": "https://open.spotify.com/track/4RNMnIfkDkxyYl3uzmNmPw"
     },
     {
       "album": {
@@ -17916,7 +18044,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 204649,
       "name": "Sicaria",
       "url": "https://open.spotify.com/track/02AZnoKXGEeOrTI9xrtOsg"
@@ -20206,6 +20334,28 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "Una Hoja en Blanco",
+      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
     },
     {
       "album": {

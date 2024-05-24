@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cassö, Calvin Harris and more.
 
-847 songs - 1 day 20 hr 35 min
+848 songs - 1 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,6 +669,7 @@
 | [SNAP \- Luca Schreiner Remix](https://open.spotify.com/track/318aZ99vbKrMbjQwm6y2E3) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1), [Luca Schreiner](https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9) | [SNAP PACK](https://open.spotify.com/album/3LJFKnACoCkpSW39bMaovD) | 2:28 | 2022-09-09 | 2022-12-10 |
 | [So Alive](https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr) | [So Alive](https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra) | 5:22 | 2023-07-28 | 2023-12-14 |
 | [So Alive \- Donatachi Remix](https://open.spotify.com/track/4Ljq7JjMRxJjVqaxbG4o8f) | [Kult Kyss](https://open.spotify.com/artist/6UVDhXoU9ypbSPfqXMbRSO), [Donatachi](https://open.spotify.com/artist/1Ejb0qXc2xRtK7hphBeOHY) | [Ultra Sound \(Remixes\)](https://open.spotify.com/album/5TpcLSXA5KUo13tMAw7nyA) | 3:27 | 2022-04-29 | 2022-06-03 |
+| [So High \(feat\. MERYLL\)](https://open.spotify.com/track/6htKnclYIvSqD5Yki5ChMJ) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [So High \(feat\. MERYLL\) \[Kyle Meehan Remix\]](https://open.spotify.com/album/6P7flWkRmZbYS1gxwJRVvE) | 2:34 | 2024-05-24 |  |
 | [SOBER](https://open.spotify.com/track/6bZXWVV7hRjNKEqnWZVyBM) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [SOBER](https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT) | 2:50 | 2022-05-13 | 2022-06-10 |
 | [Solace](https://open.spotify.com/track/3y6JNuWNpIYoreESetl4xj) | [imugi 이무기](https://open.spotify.com/artist/2rQUmy9WBe1uoPy8y3Wsy8), [Drax Project](https://open.spotify.com/artist/6S0IvKlvPMX1RtAYtVpUV8) | [Solace](https://open.spotify.com/album/6RJqnygAEoIW9vF3zp8Imn) | 2:49 | 2022-11-11 | 2023-02-04 |
 | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/track/0IDU2CjK6ayag6xjarO3kh) | [Disciples](https://open.spotify.com/artist/5EehXjjMktLuJmbRsM7YfB), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ) | [Solid Gold \(feat\. bshp\)](https://open.spotify.com/album/59EfQjM7As9BfUSPcd8FKR) | 3:18 | 2021-03-19 | 2022-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos del Dembow. Portada: Jey One",
-  "num_followers": 474802,
+  "num_followers": 475480,
   "original_name": "Dembow Pegao",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zj0pEQAAAADr59Px8XJF7o231njnG5O9",
+  "snapshot_id": "Zk+iEQAAAADh8fzdvcpHWaI/apg6LTCt",
   "tracks": [
     {
       "added_at": "2024-04-11 23:04:36",
@@ -169,6 +169,26 @@
       "url": "https://open.spotify.com/track/6EKQWjiQPniG7zwJ9Hhc4y"
     },
     {
+      "added_at": "2024-05-23 20:07:45",
+      "album": {
+        "name": "Ma Buena",
+        "url": "https://open.spotify.com/album/5TBoLfHDZneDC1MqavM5s6"
+      },
+      "artists": [
+        {
+          "name": "Yaisel LM",
+          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
+        },
+        {
+          "name": "B One El Productor De Oro",
+          "url": "https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ"
+        }
+      ],
+      "duration_ms": 152653,
+      "name": "Ma Buena",
+      "url": "https://open.spotify.com/track/21HDTbRS49Oy3tWKg3JDAB"
+    },
+    {
       "added_at": "2024-01-18 22:36:41",
       "album": {
         "name": "Pitone",
@@ -255,6 +275,26 @@
       "duration_ms": 128571,
       "name": "Onana",
       "url": "https://open.spotify.com/track/5oVBCcGv1EX2foIs6X6GRw"
+    },
+    {
+      "added_at": "2024-05-23 20:07:45",
+      "album": {
+        "name": "A 30",
+        "url": "https://open.spotify.com/album/5axWGwuaUWpgDWbHMRVLXk"
+      },
+      "artists": [
+        {
+          "name": "Jezzy",
+          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
+        },
+        {
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+        }
+      ],
+      "duration_ms": 115432,
+      "name": "A 30",
+      "url": "https://open.spotify.com/track/2h2Kllyx5wpXvrYN3M8CG1"
     },
     {
       "added_at": "2023-11-07 16:25:12",
@@ -539,42 +579,6 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
-    },
-    {
-      "added_at": "2024-03-14 21:07:32",
-      "album": {
-        "name": "VUELATE",
-        "url": "https://open.spotify.com/album/7KTXi2pGfttCH05uuS2OPq"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 95142,
-      "name": "VUELATE",
-      "url": "https://open.spotify.com/track/1gMc5OzfVsmG0WUDlMQtp5"
-    },
-    {
-      "added_at": "2024-02-23 07:14:03",
-      "album": {
-        "name": "Pitoleo",
-        "url": "https://open.spotify.com/album/1Rcui07oTG9hhKgmJN5vQu"
-      },
-      "artists": [
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        },
-        {
-          "name": "Yaisel LM",
-          "url": "https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL"
-        }
-      ],
-      "duration_ms": 108081,
-      "name": "Pitoleo",
-      "url": "https://open.spotify.com/track/5zEElpWMDT4RddUueH27Hi"
     },
     {
       "added_at": "2023-12-13 22:43:07",

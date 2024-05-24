@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 
 > Keep your night easy and light with this acoustic mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,195 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,152 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 59 | [Polyester](https://open.spotify.com/track/7hfXWCR9YTkaD4TUk3y2ee) | [Clea](https://open.spotify.com/artist/5BMsuUeplpt928CfxMxHAl) | [Polyester](https://open.spotify.com/album/2tkakCOwJdh36GJYCFWAFl) | 3:28 |
 | 60 | [Resin](https://open.spotify.com/track/2uzItOYNxVizwKjXELbVdv) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Last Line](https://open.spotify.com/album/3WO6fZZkHAVj9F0kMfQ6SU) | 3:23 |
 | 61 | [I Wish I Knew](https://open.spotify.com/track/4s0mvp3ewGOiPt4Ie8wGBt) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [I Wish I Knew](https://open.spotify.com/album/55MEStsCnRChtFW0bCnz1N) | 3:49 |
-| 62 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
-| 63 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 62 | [I Should Live in Salt \- The National Cover \- Live from Spotify, London](https://open.spotify.com/track/1LF3VWJhOqD2VuuruLMSmu) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Spotify Live](https://open.spotify.com/album/315m5F9Xqwhfptakbs0fG8) | 4:12 |
+| 63 | [Sang About It](https://open.spotify.com/track/7r6SeYvJXds6JAxpeeISmg) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw) | [Sang About It](https://open.spotify.com/album/4mczmDqhr8dVQIQP8mdBJZ) | 2:13 |
 | 64 | [White Frost \(Acoustic\)](https://open.spotify.com/track/1EGYznVKJR5JB5gs6Axfie) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [White Frost \(Acoustic\)](https://open.spotify.com/album/1o0ZTBBqkC13llPDW53GXr) | 3:25 |
 | 65 | [The Wolves \(Reprise\)](https://open.spotify.com/track/4o9p6bikPh105sEZLM3OzK) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR) | 4:30 |
 | 66 | [I Can’t Hide](https://open.spotify.com/track/56wQ8oN1RxGkTDw1lV7RSM) | [Priscilla Ahn](https://open.spotify.com/artist/5oU0tZlItLctcLOQPS3mCy) | [Waiting](https://open.spotify.com/album/42PYcXkN5YS40eOmFFU2XW) | 2:57 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWBRiUaG3o5.md) - [plain]
 | 81 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 |
 | 82 | [I Will Be Blessed](https://open.spotify.com/track/6cBUCs1geaG9q6HQPzRyL0) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 5:31 |
 | 83 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 |
-| 84 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
-| 85 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
+| 84 | [Re: Stacks](https://open.spotify.com/track/2LthqyP0MLhGUBICwR1535) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 6:41 |
+| 85 | [Poison & Wine](https://open.spotify.com/track/3wsZYuHJrk3lssa7V7jvye) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:39 |
 | 86 | [I Knew This Would Be Love](https://open.spotify.com/track/6r44uyKRo3jKFRkThTZBXu) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [Fire Escape](https://open.spotify.com/album/0bY6NsCY29oavs7TUmKUvD) | 3:30 |
 | 87 | [Fortune \- Acoustic](https://open.spotify.com/track/5UcsxVPmXd974EkMtowmNV) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Acoustic Sessions](https://open.spotify.com/album/3A3SmcC6PqwOyELYxwqUkK) | 3:48 |
 | 88 | [The Rhine](https://open.spotify.com/track/0gaQPwSznFAihn0xInJUxR) | [Corey Kilgannon](https://open.spotify.com/artist/0XuYkyliNor6szd1B6oBKk) | [She Is Blue Sky, I'm the Gray](https://open.spotify.com/album/77Gum1zJBVkI3IvVYgaM6X) | 3:30 |

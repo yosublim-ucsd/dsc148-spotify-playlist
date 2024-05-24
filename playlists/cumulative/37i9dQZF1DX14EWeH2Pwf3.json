@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Salmo, Noyz Narcos, Lazza",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Geolier",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
@@ -158,7 +158,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 206896,
       "name": "15 Piani",
       "url": "https://open.spotify.com/track/05wb6MEyJeG2z1MVCIXxC8"
@@ -536,6 +536,28 @@
       "duration_ms": 183038,
       "name": "ADVICE",
       "url": "https://open.spotify.com/track/3gQkyNcw4YuyeUcFM5d9TB"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147366,
+      "name": "Al Limite (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
     },
     {
       "album": {
@@ -1576,7 +1598,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208506,
       "name": "Bling Bling (Oro)",
       "url": "https://open.spotify.com/track/11AXfsh0V6zCCU7Po6kQiY"
@@ -2080,7 +2102,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 155526,
       "name": "Cadillac (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/7IpsNYgP87QkLCSnctxSif"
@@ -3704,7 +3726,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178064,
       "name": "Ex Angelo (feat. Sfera Ebbasta)",
       "url": "https://open.spotify.com/track/1LcAwUvsiWJqTgV9vDs0oq"
@@ -4072,7 +4094,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 152000,
       "name": "Fortuna (feat. Artie 5ive)",
       "url": "https://open.spotify.com/track/5WYFOsQo5nupoNPX2fsMp0"
@@ -4282,6 +4304,32 @@
       "duration_ms": 181611,
       "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
+    },
+    {
+      "album": {
+        "name": "GIANDUIA",
+        "url": "https://open.spotify.com/album/5Af8LrBAFOqNpvHxHK5EKS"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        },
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159760,
+      "name": "GIANDUIA",
+      "url": "https://open.spotify.com/track/4UrLbcAZnCzhz8bUxmwMcT"
     },
     {
       "album": {
@@ -5328,6 +5376,40 @@
       "duration_ms": 135934,
       "name": "Italiano Anthem",
       "url": "https://open.spotify.com/track/0oMq1JmynUHMCOfH40k7B8"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        },
+        {
+          "name": "Izi",
+          "url": "https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F"
+        },
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Vaz T\u00e8",
+          "url": "https://open.spotify.com/artist/65ddsrNChT3wol9kEIJqKY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244281,
+      "name": "Jolly Roger (feat. Izi, Disme, Bresh & Vaz T\u00e8)",
+      "url": "https://open.spotify.com/track/5eV8XfvbR9bsFqG1jvvNmw"
     },
     {
       "album": {
@@ -6516,6 +6598,24 @@
       "duration_ms": 192000,
       "name": "Marciapiedi (feat. Gemitaiz)",
       "url": "https://open.spotify.com/track/2WXMOq2PNFW7qCHEkCyDpt"
+    },
+    {
+      "album": {
+        "name": "La Divina Commedia (Deluxe)",
+        "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
+      },
+      "artists": [
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147241,
+      "name": "Mare Calmo",
+      "url": "https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532"
     },
     {
       "album": {
@@ -8853,6 +8953,24 @@
     },
     {
       "album": {
+        "name": "Plenilunio",
+        "url": "https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy"
+      },
+      "artists": [
+        {
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211662,
+      "name": "Plenilunio",
+      "url": "https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo"
+    },
+    {
+      "album": {
         "name": "Pochi Pochi",
         "url": "https://open.spotify.com/album/1TsFStYVqJM83KkGYGfZjc"
       },
@@ -10594,7 +10712,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 236910,
       "name": "Straniero RMX (feat. Tedua & Neima Ezza)",
       "url": "https://open.spotify.com/track/1tGv0FsQ9E1huqo9l8gIBl"
@@ -11019,6 +11137,24 @@
     },
     {
       "album": {
+        "name": "TRISTE",
+        "url": "https://open.spotify.com/album/3w0gbh9blEDD9LDa7NOr8m"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146776,
+      "name": "TRISTE",
+      "url": "https://open.spotify.com/track/4ULKTtWRMJh5EnJgL2fXcL"
+    },
+    {
+      "album": {
         "name": "QUELLO VERO",
         "url": "https://open.spotify.com/album/5sKFWHoVyf9t65zdLmx6wg"
       },
@@ -11182,6 +11318,32 @@
       "duration_ms": 180904,
       "name": "T\u00caTE (feat. Medy & VillaBanks)",
       "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+    },
+    {
+      "album": {
+        "name": "\u00c8 LA (LOVE)",
+        "url": "https://open.spotify.com/album/3iG8beByY8fvwVYmeikUpI"
+      },
+      "artists": [
+        {
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
+        },
+        {
+          "name": "Blssd",
+          "url": "https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0"
+        },
+        {
+          "name": "Silent Bob",
+          "url": "https://open.spotify.com/artist/4oEO6Ud3efrjTNSR9SMleI"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215999,
+      "name": "UFFA (feat. Silent Bob)",
+      "url": "https://open.spotify.com/track/6pL8SPXS9WcSPVqnSXwVVC"
     },
     {
       "album": {

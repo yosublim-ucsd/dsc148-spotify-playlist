@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 449,830 likes - 337 songs - 18 hr 32 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 449,811 likes - 337 songs - 18 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -346,4 +346,4 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 336 | [Hard To Do](https://open.spotify.com/track/4kYDn0ADhXaxMRo1LcWGX1) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Hard To Do](https://open.spotify.com/album/3QUrDcoQoNEtR7Pb9zy2BI) | 4:05 |
 | 337 | [Who Told You \(feat\. Drake\)](https://open.spotify.com/track/40EXFgNMOIQRQOwJZ8mJkC) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Who Told You \(feat\. Drake\)](https://open.spotify.com/album/5AQdhXDCLTUZNHYH1hMIdF) | 3:28 |
 
-Snapshot ID: `AAAHa/PJH08JoiGM43y9hhAkdiR816Dr`
+Snapshot ID: `AAAHbci1nqBLIDhVuAC/YVCvefF/6yl4`

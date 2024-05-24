@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 
 > The biggest songs in Latin America in 2000\. Cover: Joan Sebastian
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,555 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,575 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV4u7VWM4nPt.md) - [plain]
 | 7 | [Cuídate](https://open.spotify.com/track/7gqIqyeCaV2xNtfZWxEphD) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [El Viaje de Copperpot](https://open.spotify.com/album/3HnSOodhuufrSTBnGZQ3fu) | 2:49 |
 | 8 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
 | 9 | [Entre tú y mil mares](https://open.spotify.com/track/3reCcj2BzaDnnrlnZ0aq2X) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Entre tú y mil mares](https://open.spotify.com/album/6YZ8BnXi5PavXdw8XmOmUj) | 3:48 |
-| 10 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
-| 11 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 10 | [Un Montón De Estrellas](https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4) | [Polo Montañez](https://open.spotify.com/artist/0NJbkbtOgSj2Q5bkUV3FPz) | [Guajiro Natural](https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh) | 6:04 |
+| 11 | [Aonde Quer Que Eu Vá](https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO) | [Os Paralamas Do Sucesso](https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70) | [Arquivo II 1991 \- 2000](https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6) | 4:17 |
 | 12 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 |
 | 13 | [Yo No Soy Esa Mujer](https://open.spotify.com/track/0JAGODD5w6MeYQzA9lV6Zm) | [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS) | [Paulina](https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB) | 3:44 |
 | 14 | [A Puro Dolor \- Balada](https://open.spotify.com/track/28upjDakWVnHAgW2anm273) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [Son By 4](https://open.spotify.com/album/6FaDCE5IxXXMXVn3etukKq) | 3:30 |

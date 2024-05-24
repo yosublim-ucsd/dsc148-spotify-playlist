@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 
 > Enjoy these songs while you eat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,325 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,324 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWk3H3alyUrW.md) - [plain]
 | 30 | [Suzidilara Peşrev](https://open.spotify.com/track/7kAcFcm9YU5Yg5dIR6hRxm) | [III\. Selim](https://open.spotify.com/artist/7r275IPKEFBgyTqHn4YPEx) | [Sultan Bestekarlar](https://open.spotify.com/album/6Tchr0YXUVBghNVyosUkHd) | 3:50 |
 | 31 | [Buselik Beste 'Her Gördüğü Periye Gönül Müptela Olur'](https://open.spotify.com/track/4Hwx1AaqcuwDjramuaGqXj) | [Ertan Tekin](https://open.spotify.com/artist/5nTswH6KXoL7iQjZXjQEj4), [Murat Aydemir](https://open.spotify.com/artist/47nQG3rv5MxcP21Ndvo4Qv), [Çağ Erçağ](https://open.spotify.com/artist/4yNFDeDkcHTH1H1mRQ475t) | [Itri & Bach](https://open.spotify.com/album/6r17TPLNFTrPtKOUCDpo9w) | 4:53 |
 | 32 | [Unutulmuş Ne Varsa](https://open.spotify.com/track/3LLs8Cisml6Oe26f2Jhi3C) | [Turgut Özüfler](https://open.spotify.com/artist/05g84ITA7SKNtR7HUtb4Bs), [Yıldıran Güz](https://open.spotify.com/artist/1BIiyYKngGrDIESG6g8UrK), [Çorlulu Savaş](https://open.spotify.com/artist/2tQaTSCwyoMTEQofuEqmwH), [İsmail Nar](https://open.spotify.com/artist/5k9pDFmgrENJOW2LWWHq4K), [Şener Yolal](https://open.spotify.com/artist/1KPKarMXdRPGbDLEKkFDG3) | [Alaturka İstanbul, Vol\. 2](https://open.spotify.com/album/5AUAj74jUxryODLsNyWaiN) | 2:40 |
-| 33 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
-| 34 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
+| 33 | [Pençgâh Peşrevi](https://open.spotify.com/track/6kVA5Ha1c9ir2gi8nPipyK) | [Necdet Yaşar](https://open.spotify.com/artist/1SYJnIEDYon1Nk3xQdB07s), [Niyazi Sayın](https://open.spotify.com/artist/5KwDPgNQIOxSfv2d3QOIfe) | [Niyazi Sayın & Necdet Yaşar](https://open.spotify.com/album/28f3gQDaZt1yCXPDjXM7sE) | 5:24 |
+| 34 | [Çargah Sirto](https://open.spotify.com/track/2q4aOzOjhGbBsRAgm3y1Kd) | [Ahmet Cennetoğlu](https://open.spotify.com/artist/6jGc5YUnqnjxiFPBeTUjv8) | [Kaftan \(Instrumental Palace of Songs\)](https://open.spotify.com/album/4JoB1ufXjKA9ZtdK0C51JW) | 1:20 |
 | 35 | [Hicazkar Peşrevi](https://open.spotify.com/track/4wMMqnw9FAJRIgWSIK1iYP) | [Ihsan Özgen](https://open.spotify.com/artist/41JqJkjqMDOAwE6YwTmgIM) | [Tanburi Cemil Bey \- Peşrev ve Saz Semaileri](https://open.spotify.com/album/1wRMA2enfYLR4kPhAyRQWP) | 2:22 |
 | 36 | [Huseyni Saz Semai](https://open.spotify.com/track/4bxsHSVu34gupDh8FURPUI) | [Kemani Tatyos Efendi](https://open.spotify.com/artist/5zC5D5MnFku3ZxgVKFLTsA) | [Works Of Kemani Tatyos Efendi \-\- Kudsi Erguner Ensemble](https://open.spotify.com/album/3pPQGts1DHyuVF1CoeMXp4) | 4:38 |
 | 37 | [Sazkar Peşrev](https://open.spotify.com/track/2fWkFDijycAeSC1iQmZLJn) | [Emirgan Ensemble](https://open.spotify.com/artist/73uzPWSImvq2Rt56zniCgb) | [Klasik Osmanlı Müziği](https://open.spotify.com/album/0bHtveNoSLgpCk68vb4pfy) | 5:34 |

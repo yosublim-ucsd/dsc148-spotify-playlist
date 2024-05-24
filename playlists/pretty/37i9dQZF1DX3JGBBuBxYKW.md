@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JGBBuBxYKW.md) - [plain]
 
 > Reinas de la cumbia, de hoy y de siempre\. <br/>Foto: Karina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,798 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,832 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

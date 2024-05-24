@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 
 > This is Rina Sawayama\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,468 likes - 37 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,474 likes - 37 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 17 | [Bad Friend](https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:28 |
 | 18 | [Imagining](https://open.spotify.com/track/6CXHTCR4vfCzMZlXZUiw1u) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:32 |
 | 19 | [Time Out \- Interlude](https://open.spotify.com/track/0jdI2PmzYM9neGpK4AtYkx) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 1:00 |
-| 20 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
+| 20 | [TORNADO](https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg) | [Melinda Ademi](https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TORNADO](https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L) | 2:46 |
 | 21 | [Tokyo Love Hotel](https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 4:27 |
 | 22 | [Your Age](https://open.spotify.com/track/1aajB6965HIc1sq40L5p0Z) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 2:54 |
 | 23 | [Cyber Stockholm Syndrome](https://open.spotify.com/track/7I9bSsqqIA0cV1nL0igGLm) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:41 |
-| 24 | [TORNADO](https://open.spotify.com/track/1zDVXeNWlq8Gvf1XgahLQg) | [Melinda Ademi](https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [TORNADO](https://open.spotify.com/album/0oPgQ81SV8i0UU7AOw1b0L) | 2:46 |
+| 24 | [Free Woman \- Rina Sawayama & Clarence Clarity Remix](https://open.spotify.com/track/1zF2enE35rzozF1Qu7rLKH) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [Clarence Clarity](https://open.spotify.com/artist/25u5QFxy3HVQsbcbxHOP62) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 3:53 |
 | 25 | [Dynasty](https://open.spotify.com/track/154gL4Xb5AsreMkcDlVFYS) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA](https://open.spotify.com/album/3stadz88XVpHcXnVYMHc4J) | 3:08 |
 | 26 | [Catch Me In The Air](https://open.spotify.com/track/6GAVS2iuybWCP2oxMKufp1) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 3:35 |
 | 27 | [Beg for You \(feat\. Rina Sawayama\) \- A\. G\. Cook & VERNON OF SEVENTEEN Remix](https://open.spotify.com/track/3teT4GffWtZUYQVmUwL14d) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [VERNON](https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(A\. G\. Cook & VERNON OF SEVENTEEN Remix\) \[feat\. Rina Sawayama\]](https://open.spotify.com/album/6snPKZGUbpydW2XJu9ievq) | 4:09 |
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AcHDy.md) - [plain]
 | 36 | [Take Me as I Am](https://open.spotify.com/track/1BIbxPcsSNOzXXDKawSwCi) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [RINA](https://open.spotify.com/album/0rYXZCRBEsRBc4ZyRo8Y6w) | 3:25 |
 | 37 | [Dance In The Dark \- Spotify Singles](https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Dance In The Dark \(Spotify Singles\)](https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX) | 3:45 |
 
-Snapshot ID: `ZkqSgAAAAABnoIIp+fITH5FpcEJvJYy6`
+Snapshot ID: `Zk01gAAAAAB4xhG4VZUJ+zcQR4rMZTFY`

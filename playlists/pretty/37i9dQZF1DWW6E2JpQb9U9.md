@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 
 > Rock en vivo de la A a la Z, de ayer, de hoy y de siempre..\. ¡Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,334 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,364 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6E2JpQb9U9.md) - [plain]
 | 76 | [Me envenenaste \- En directo Razzmatazz](https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Razzmatazz \(En directo\)](https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q) | 3:00 |
 | 77 | [Paraíso en Retro \- En Vivo](https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Huellas Digitales \(En Vivo\)](https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54) | 3:28 |
 | 78 | [Carretera Perdida \- En Vivo](https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT) | [Buitres](https://open.spotify.com/artist/04IlmuXVBYLASmLi18VqRl) | [Carretera Perdida \(En Vivo\)](https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3) | 4:50 |
-| 79 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
+| 79 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
 | 80 | [Túnel de la Vida \- Vivo en Obras 11/06/2022](https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [La Fuente \(Vivo en Obras 11/06/2022\)](https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp) | 4:11 |
-| 81 | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L) | [Los Caballeros De La Quema](https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Hasta Estallar \(En Vivo\)](https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd) | 4:40 |
+| 81 | [Música Del Alma \- En Vivo](https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Música del Alma \(En Vivo\)](https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X) | 4:11 |
 | 82 | [Ella Vendrá](https://open.spotify.com/track/6kz39g8jRUQlnOpCZG5LpU) | [Palo Pandolfo](https://open.spotify.com/artist/01wwxIe4Qgb0a4PCfzBjsf) | [El Vuelo del Dragón, Pt\. 3](https://open.spotify.com/album/1IyfurpAggpzBi4oDwgR6x) | 4:49 |
 | 83 | [Julieta \- Vivo Moscú](https://open.spotify.com/track/1fKns7yBA2gao1CGrGVSlx) | [RYAN](https://open.spotify.com/artist/3g7K56xAln97Nmy0G1hx8E) | [BABYROCK \(Vivo Moscú\)](https://open.spotify.com/album/3iWXsRv0pPb0OdcraHOjUh) | 3:45 |
 | 84 | [La Superacción \- En Vivo en el Metropólitan](https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [LOBEL](https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl) | [La Superacción \(En Vivo en el Metropólitan\)](https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO) | 5:17 |

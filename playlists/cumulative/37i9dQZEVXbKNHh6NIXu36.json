@@ -5366,7 +5366,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 298440,
       "name": "BITTERSUITE",
       "url": "https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU"
@@ -24636,7 +24636,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 238399,
       "name": "Midnight Adventures",
       "url": "https://open.spotify.com/track/02jy1478NteAFV1u9HCf2y"
@@ -39696,7 +39696,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222011,
       "name": "UR IN MY HEAD",
       "url": "https://open.spotify.com/track/1myktoEXB1nLGgAIJyOFis"
@@ -40098,6 +40098,36 @@
       "duration_ms": 183193,
       "name": "Versager",
       "url": "https://open.spotify.com/track/3iZuI8q4aTMACYxEoq0TaV"
+    },
+    {
+      "album": {
+        "name": "Verschwendete Zeit",
+        "url": "https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Gustav",
+          "url": "https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167311,
+      "name": "Verschwendete Zeit",
+      "url": "https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi"
     },
     {
       "album": {

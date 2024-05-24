@@ -650,7 +650,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178346,
       "name": "Amaid (Prod. Dynamicduo, Padi)",
       "url": "https://open.spotify.com/track/3VlGIOModL226RrY3wy393"
@@ -3613,6 +3613,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0FJRcswbQpaN4jHqqF44dF"
+      },
+      "artists": [
+        {
+          "name": "NCT 127",
+          "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193946,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/1e2XrDoGVuYjqKS4DJaLeE"
+    },
+    {
+      "album": {
         "name": "Come back to me",
         "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
       },
@@ -5405,6 +5423,24 @@
     },
     {
       "album": {
+        "name": "Bump Up Business\uff5e\u604b\u3059\u308b\u30d0\u30c3\u30af\u30b9\u30c6\u30fc\u30b8\uff5e \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/6qZYN19km6VvtmgfBXc8YU"
+      },
+      "artists": [
+        {
+          "name": "OnlyOneOf",
+          "url": "https://open.spotify.com/artist/0iQGSzpJ0G0lsugv8jsJHd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216266,
+      "name": "EVERGREEN",
+      "url": "https://open.spotify.com/track/2RT20Sn716uLt2xVIcZp42"
+    },
+    {
+      "album": {
         "name": "UNCHARTED DRIFT",
         "url": "https://open.spotify.com/album/61W392PxSk764yUZnI8eyR"
       },
@@ -6020,7 +6056,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 159693,
       "name": "Flower Rhythm",
       "url": "https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q"
@@ -6478,7 +6514,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 120693,
       "name": "Get Goin'",
       "url": "https://open.spotify.com/track/5nv5aUcSKCogR7xMX3q0od"
@@ -7990,7 +8026,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172226,
       "name": "I Like The Way",
       "url": "https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj"
@@ -9394,7 +9430,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 224866,
       "name": "Little Light",
       "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
@@ -9968,7 +10004,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165586,
       "name": "LUCKY BELL",
       "url": "https://open.spotify.com/track/2VoGeD6baYNu3L68jPOcgD"
@@ -10990,7 +11026,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 273290,
       "name": "NEURON (with Gaeko & YOON MIRAE)",
       "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
@@ -11270,6 +11306,32 @@
       "duration_ms": 244645,
       "name": "Nothing But You (Korean Ver.)",
       "url": "https://open.spotify.com/track/0f0hE8jWYBpJC2JEZEc2MV"
+    },
+    {
+      "album": {
+        "name": "Nu Boo (feat. SOMIN of KARD)",
+        "url": "https://open.spotify.com/album/317dY0NQqcIYgQT9ySk3gD"
+      },
+      "artists": [
+        {
+          "name": "APOKI",
+          "url": "https://open.spotify.com/artist/0JVB3oaSxGrbnhzIiKwiR9"
+        },
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        },
+        {
+          "name": "SOMIN",
+          "url": "https://open.spotify.com/artist/6awncfLx4nMbIIlud7mLrZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191010,
+      "name": "Nu Boo (feat. SOMIN of KARD)",
+      "url": "https://open.spotify.com/track/52MTEiHk6zIzA4vz9fje3P"
     },
     {
       "album": {
@@ -14072,7 +14134,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 215720,
       "name": "Shopper",
       "url": "https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF"
@@ -14326,7 +14388,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
@@ -15192,7 +15254,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173336,
       "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM)",
       "url": "https://open.spotify.com/track/60JZB9waHUPWJTGbYO6kDB"
@@ -17894,7 +17956,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 231093,
       "name": "What kind of future",
       "url": "https://open.spotify.com/track/1DXomndYd10iSX9uZSPv6e"

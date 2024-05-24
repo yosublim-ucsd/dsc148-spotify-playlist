@@ -4,7 +4,7 @@
 
 > Con el mismo sazón y amor que una sopita de fideo.
 
-250 songs - 14 hr 1 min
+251 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [Nada de tu amor](https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:53 | 2022-05-10 | 2024-04-19 |
 | [Nada de tu amor](https://open.spotify.com/track/5BqKcXsIhLKOoGsoERyNOE) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Amor es Latino](https://open.spotify.com/album/4D5ltT0pIkEirHj767Y2XG) | 2:53 | 2022-05-10 | 2022-11-13 |
 | [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/24iKOXOzrKpQjHPA7Rbu9z) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Lo Esencial](https://open.spotify.com/album/6P35diX5YBvJ8NqVwcyDxj) | 3:13 | 2022-05-10 | 2022-12-31 |
-| [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/4U4HYzNWCl3PljsIFId8YR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Pókar De Ases \-4 Grandes Favoritos De Argentina](https://open.spotify.com/album/7laIVs28MIpyeT80M4Nzkz) | 3:14 | 2022-05-10 |  |
+| [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/4U4HYzNWCl3PljsIFId8YR) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Pókar De Ases \-4 Grandes Favoritos De Argentina](https://open.spotify.com/album/7laIVs28MIpyeT80M4Nzkz) | 3:14 | 2022-05-10 | 2024-05-24 |
 | [Niña Qué Tienen Tus Ojos](https://open.spotify.com/track/47z5NWmoHrC5q7aKsXtCy4) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2) | [Niña Qué Tienen Tus Ojos / Qué Cosa Linda Mi Amor](https://open.spotify.com/album/2IgPfbDrKDdzEd9tnw4pR0) | 3:14 | 2023-06-23 | 2023-11-13 |
 | [No Llores](https://open.spotify.com/track/5hBkk52TBXZc4buUa7zYIt) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 2:42 | 2022-05-10 |  |
 | [No soy de aquí](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3) | [Alberto Cortez](https://open.spotify.com/artist/0Iww53p8UY2oYtQhfzsSY9) | [No soy de aquí](https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53) | 4:07 | 2022-12-30 |  |
@@ -214,6 +214,7 @@
 | [Señora](https://open.spotify.com/track/4H6RqawSBZ78Dmlb6Oc49W) | [Victor Yturbe "El Piruli"](https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB) | [La Música Que Inspiró La Serie Original De Netflix, La Casa De Las Flores \(Creada Por Manolo Caro\)](https://open.spotify.com/album/5oXSUte6OU8D1FplG0QTkH) | 3:07 | 2022-05-10 | 2022-12-31 |
 | [Si Quieres Verme Llorar](https://open.spotify.com/track/07yJLjgSez4kdmQEqYxtP7) | [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Si Quieres Verme Llorar](https://open.spotify.com/album/2P8oEuWa3QRF4zgU8dvmrD) | 3:10 | 2024-05-10 |  |
 | [Si Supieras](https://open.spotify.com/track/2c2m8IPUiQaMCjEABKJ1kx) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:17 | 2022-05-10 |  |
+| [Si Te Habla De Mí](https://open.spotify.com/track/5PoZoY3YgHkEWvVNIb29tr) | [Olga Maria Touzet Guillot](https://open.spotify.com/artist/4gcQ69P3NcrepAF1kI55xL) | [Si Te Habla De Mí](https://open.spotify.com/album/0nQaHnA9wYOsruVsssSQwI) | 2:25 | 2024-05-10 |  |
 | [Si tú no vuelves](https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Bajo El Signo De Caín](https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u) | 4:38 | 2022-05-10 |  |
 | [Silueta De Cristal](https://open.spotify.com/track/6Aimve3yqbs53npo902VvE) | [Los Brios](https://open.spotify.com/artist/7sTzOfwrd0viYUuUu26a2N) | [Recuerdos Y Algo Más \(De Colección\)](https://open.spotify.com/album/3FE9HECgHCfBxIvKb77GCz) | 3:41 | 2024-05-10 |  |
 | [Sin Él](https://open.spotify.com/track/4unMpCUMywcTYsYoXDm0rw) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [20 Éxitos Inmortales](https://open.spotify.com/album/3fTXTQtu5irKD3GpQnSuQc) | 3:31 | 2022-05-10 | 2022-11-14 |

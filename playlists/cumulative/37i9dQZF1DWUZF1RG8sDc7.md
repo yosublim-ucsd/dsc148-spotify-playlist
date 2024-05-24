@@ -4,7 +4,7 @@
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-132 songs - 10 hr 11 min
+133 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Me Vas A Extrañar](https://open.spotify.com/track/012cYVnGDH4YYAyKhSdIus) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Más Cerca De Ti](https://open.spotify.com/album/1n0IWcxgoJl33DyI41AtCI) | 4:47 | 2022-12-16 | 2024-03-18 |
 | [Me Vas A Extrañar](https://open.spotify.com/track/0pgnRjCupIUPCscgwTFTZ2) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Mas Cerca De Tí](https://open.spotify.com/album/7kKtbhe3YnMB4XyyE0fvtE) | 4:47 | 2024-03-28 | 2024-05-08 |
 | [Mi Celosa Hermosa](https://open.spotify.com/track/2qBYoUdefV0JufBpNCGor1) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Manuel Julián](https://open.spotify.com/artist/5N73Yokp47tjesghCSGnNC) | [Diferente](https://open.spotify.com/album/6GQZroG4H7wW0UrX12P3Kp) | 4:09 | 2022-12-16 |  |
-| [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 | 2024-03-28 |  |
+| [Mi Diosa Humana](https://open.spotify.com/track/42R1D09Q3wP8qBvHjd0xUy) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 | 2024-03-28 | 2024-05-24 |
 | [Mi Diosa Humana](https://open.spotify.com/track/1TdS58WrPL19Mtk8iOq529) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Avanzando](https://open.spotify.com/album/0CJV99FjO7LAPTLoYQ6U2O) | 4:46 | 2022-12-16 | 2024-04-19 |
 | [Mi Primer Amor](https://open.spotify.com/track/25BjqOwuQ1L7MOBfB6Ksm7) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Más Románticos](https://open.spotify.com/album/1VNHcyoehwXkC4f0KlfFh6) | 4:32 | 2022-12-16 |  |
 | [Mi Primera Cana](https://open.spotify.com/track/6PBsZe5YuE3r6dOmssmIFI) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG), [Juancho Rois](https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1) | [Titulo De Amor](https://open.spotify.com/album/0FemNl3cjskKpjCTUj3fne) | 4:17 | 2022-12-16 |  |
@@ -83,6 +83,7 @@
 | [No He Podido Ser Feliz](https://open.spotify.com/track/0VocaCjgzgnJII4KIX8hmJ) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Por Buen Camino](https://open.spotify.com/album/4OkoHGNKWvZHJTDTeEvwNG) | 5:06 | 2024-03-28 | 2024-05-04 |
 | [No Podrán Separarnos](https://open.spotify.com/track/2DlBKIc6XugYSmhP75h1BF) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Llévame En Tus Sueños](https://open.spotify.com/album/0U918JSG8hJ9kb3R3geWlA) | 5:18 | 2022-12-16 |  |
 | [No Pude Quitarte las Espinas](https://open.spotify.com/track/13DlPBOKn753WqIu4qgq4Y) | [Erick Escobar](https://open.spotify.com/artist/4WWNNgB0VUh7xYkldxV74W), [Nayo Quintero](https://open.spotify.com/artist/3VJqPtgfD62abRloZW1xWO) | [Mis Nuevos Cantares](https://open.spotify.com/album/4uToZOnwl3AWFrUrVxTFz9) | 3:55 | 2022-12-16 |  |
+| [No Te Detengas](https://open.spotify.com/track/06steha7z7DuxqiJrqm4Gu) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:46 | 2024-03-28 |  |
 | [No Te Detengas](https://open.spotify.com/track/294HmohCkFANQH6tm9jzfA) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri), [Juan David Herrera](https://open.spotify.com/artist/1hYXDj3QsJFjAXz53VIKTh) | [Gracias Mi Gente](https://open.spotify.com/album/42mGPazMoiDn6hWgitQYgX) | 4:46 | 2022-12-16 | 2024-04-19 |
 | [No Te Vayas](https://open.spotify.com/track/2FkdSU3LwrQwtyrKxYQHQN) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 4:06 | 2024-03-28 |  |
 | [No Te Vayas](https://open.spotify.com/track/1tSA4yV2AisiGnZiVz5uux) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Version Original](https://open.spotify.com/album/3bdzKN0XxINusa0DO7DRLo) | 4:56 | 2024-03-28 |  |

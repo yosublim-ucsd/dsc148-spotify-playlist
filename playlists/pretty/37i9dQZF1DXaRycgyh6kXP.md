@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,314 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,396 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 9 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |
 | 10 | [An Ending, a Beginning](https://open.spotify.com/track/321kAwKSTFjsQznjLpbfD9) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Other Lights](https://open.spotify.com/album/1Va8CigySsDYYoQiRneEwb) | 2:08 |
 | 11 | [Sais](https://open.spotify.com/track/5aTseUS5Gk4hnmllDliXBu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Shadows](https://open.spotify.com/album/3OwECAJvSnWASzC4HZpvHL) | 8:03 |
-| 12 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
+| 12 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 |
 | 13 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
-| 14 | [Ambre](https://open.spotify.com/track/25zykbJGBYXYjnq5VyhO3N) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Wintermusik](https://open.spotify.com/album/7wkQV8xvauPFBG2xC3pawK) | 3:47 |
+| 14 | [Flown](https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH) | [Kiasmos](https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Janus Rasmussen](https://open.spotify.com/artist/0F2fFVawIwHt6W9az6SPaA) | [Flown](https://open.spotify.com/album/6LYDYdOtWA4kkYUlAUAaWs) | 3:55 |
 | 15 | [Music on My Teeth](https://open.spotify.com/track/167USRtGXTBWIUX48Bho1p) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Knock Knock](https://open.spotify.com/album/0sT4nyNxsvGNQr1O8OR83O) | 4:16 |
 | 16 | [Honey](https://open.spotify.com/track/6G7OiVdHJAbsaNqx94ojqg) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Honey](https://open.spotify.com/album/3NplzSUKKDso3GRZPouLXb) | 4:22 |
 | 17 | [20:17](https://open.spotify.com/track/7vbCfkJf89i4s745KbELgr) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Trance Frendz](https://open.spotify.com/album/5yulSZK48ArdLPXWur0qik) | 5:54 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 76 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
 | 77 | [Immunity](https://open.spotify.com/track/1WOxGNutRwrbik8BA5f2AY) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Immunity](https://open.spotify.com/album/1rxWlYQcH945S3jpIMYR35) | 9:56 |
 | 78 | [lovers’ carvings](https://open.spotify.com/track/3JeT6Xcv6MlEHHylk8SKQ1) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/7ybrct8gCd1mWsHS32ID8w) | 3:58 |
-| 79 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
-| 80 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 81 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
+| 79 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 80 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
+| 81 | [aisatsana \[102\]](https://open.spotify.com/track/3ESsjKqrj3M79I8sSZieK3) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Syro](https://open.spotify.com/album/6oRuinkJdTge4hpTuClEF8) | 5:21 |
 | 82 | [Stay With Us](https://open.spotify.com/track/28jlJgtlrNJpEsn4rgoR11) | [Seoul](https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG) | [I Become A Shade](https://open.spotify.com/album/02VKrWqo3pRRDf0euot8En) | 3:57 |
 | 83 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 |
 | 84 | [♥](https://open.spotify.com/track/3PMyRSdnhCmXeP93bF89XG) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:17 |

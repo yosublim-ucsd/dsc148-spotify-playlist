@@ -1,6 +1,6 @@
 {
   "description": "Have a drink and relax to the Jazz played in the background in the bar.",
-  "num_followers": 103631,
+  "num_followers": 103755,
   "original_name": "Jazz Bar",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "All Or Nothing At All",
-        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
-      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "I Just Dropped By To Say Hello",
         "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 245200,
       "name": "I Just Dropped By To Say Hello",
       "url": "https://open.spotify.com/track/3zd5NKvdzT6HC6moiCI3Ol"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "All Or Nothing At All",
+        "url": "https://open.spotify.com/album/4euFXiaCTmBkwh9HXjagp9"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Do Nothin' Till You Hear From Me - 1956 Version",
+      "url": "https://open.spotify.com/track/7ueJIjtiVTKmYmDpvQokdG"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "I Just Dropped By To Say Hello",
-        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 250813,
-      "name": "Don't You Know I Care",
-      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Oscar Peterson Plays The George Gershwin Song Book",
         "url": "https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 168866,
       "name": "It Ain't Necessarily So",
       "url": "https://open.spotify.com/track/7HzNXTue6la8kfSC9cXnGa"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "I Just Dropped By To Say Hello",
+        "url": "https://open.spotify.com/album/0lGkDnvzRpaCFsjQ8kX20F"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 250813,
+      "name": "Don't You Know I Care",
+      "url": "https://open.spotify.com/track/7Ldtha80cQeZf2TjPJe1OC"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Ella Swings Lightly",
-        "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 154106,
-      "name": "Little White Lies",
-      "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Candy (Remastered)",
         "url": "https://open.spotify.com/album/4GfUYw8hn5RPQHkRCcU2aL"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 447173,
       "name": "All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster",
       "url": "https://open.spotify.com/track/5Vwv04kuzOG41a1v8RgZ8O"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Ella Swings Lightly",
+        "url": "https://open.spotify.com/album/3UC5JUy1CydJYU53KAtbdH"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 154106,
+      "name": "Little White Lies",
+      "url": "https://open.spotify.com/track/2LyNm94f8adOw3frDUHB5o"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Recital",
-        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
-      },
-      "artists": [
-        {
-          "name": "Billie Holiday",
-          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "How Deep Is The Ocean?",
-      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "All Through The Night: Julie London Sings The Choicest Of Cole Porter (Bonus Tracks)",
         "url": "https://open.spotify.com/album/6rE7shZVgh3JfpLrdoR1Zn"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 260240,
       "name": "Ev'ry Time We Say Goodbye",
       "url": "https://open.spotify.com/track/7mCcMSjdxm7I4zLnckj8nV"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Recital",
+        "url": "https://open.spotify.com/album/2YliGLupRmayvY7eC6Es7r"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "How Deep Is The Ocean?",
+      "url": "https://open.spotify.com/track/1yKDFWPxCzB2Kg3ic2bQ1k"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -831,26 +831,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
-        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
-      },
-      "artists": [
-        {
-          "name": "Dinah Shore",
-          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
-        },
-        {
-          "name": "Andr\u00e9 Previn",
-          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
-        }
-      ],
-      "duration_ms": 204866,
-      "name": "It Had To Be You",
-      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Blossom Dearie (Expanded Edition)",
         "url": "https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6"
       },
@@ -867,18 +847,22 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "After Midnight: The Complete Session",
-        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+        "name": "Great Ladies Of Song / Spotlight On Dinah Shore",
+        "url": "https://open.spotify.com/album/5ilLtUVtszxkepkVCrqECy"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Dinah Shore",
+          "url": "https://open.spotify.com/artist/73xrrv4ZrlpLi1q0Q34wiK"
+        },
+        {
+          "name": "Andr\u00e9 Previn",
+          "url": "https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Blame It On My Youth - Remastered 1999",
-      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+      "duration_ms": 204866,
+      "name": "It Had To Be You",
+      "url": "https://open.spotify.com/track/6nRX1T6aaqZLIA4KUldLTC"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
+        "name": "After Midnight: The Complete Session",
+        "url": "https://open.spotify.com/album/47jpunMpghKYwZPtXWVE81"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Blame It On My Youth - Remastered 1999",
+      "url": "https://open.spotify.com/track/3cAsVzIWFEnuVGe4H5IcoP"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
         "name": "Waiter, Make Mine The Blues",
         "url": "https://open.spotify.com/album/77FW8dZ0Jrg54fKNl8fxA7"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 200960,
       "name": "Waiter, Make Mine Blues",
       "url": "https://open.spotify.com/track/41mub0g6KnqXhOcmggtjWK"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
-        "name": "Stan Getz And The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 607573,
-      "name": "Ballad Medley",
-      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -951,18 +935,18 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "The Wonderful World Of Jazz",
-        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
+        "name": "Stan Getz And The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
       "artists": [
         {
-          "name": "John Lewis",
-          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 210973,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
+      "duration_ms": 607573,
+      "name": "Ballad Medley",
+      "url": "https://open.spotify.com/track/2sKBNj0ZnhjdoNabEHzCMp"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -983,6 +967,22 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
+        "name": "Jazz 'Round Midnight: Ballads",
+        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+      },
+      "artists": [
+        {
+          "name": "Arthur Prysock",
+          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "I'm Through With Love",
+      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
         "name": "Crazy And Mixed Up",
         "url": "https://open.spotify.com/album/5EVYcc70MKjg1w55PommMO"
       },
@@ -999,18 +999,18 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Jazz 'Round Midnight: Ballads",
-        "url": "https://open.spotify.com/album/7vFkvIbJVMmVx9sou1UXZY"
+        "name": "The Wonderful World Of Jazz",
+        "url": "https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh"
       },
       "artists": [
         {
-          "name": "Arthur Prysock",
-          "url": "https://open.spotify.com/artist/6yJZMmgqsTjH6ooVALu7oT"
+          "name": "John Lewis",
+          "url": "https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s"
         }
       ],
-      "duration_ms": 222666,
-      "name": "I'm Through With Love",
-      "url": "https://open.spotify.com/track/0GoXM92wupNu7ydgt826Oz"
+      "duration_ms": 210973,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/6HdtoTELqn8uyK5mnvhOcy"
     },
     {
       "added_at": "2024-03-20 08:35:16",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-03-20 08:35:16",
       "album": {
-        "name": "Give Him The Ooh-La-La (Expanded Edition)",
-        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 258093,
-      "name": "I Walk A Little Faster",
-      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
-    },
-    {
-      "added_at": "2024-03-20 08:35:16",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/5vVtjYoUtsC1Pp106Gnrec"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 436573,
       "name": "Mad About The Boy",
       "url": "https://open.spotify.com/track/3NkClracCPfY6IZohBqWuT"
+    },
+    {
+      "added_at": "2024-03-20 08:35:16",
+      "album": {
+        "name": "Give Him The Ooh-La-La (Expanded Edition)",
+        "url": "https://open.spotify.com/album/19wCBH6ZfQYXhGWBWVHSog"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 258093,
+      "name": "I Walk A Little Faster",
+      "url": "https://open.spotify.com/track/5vCzExjUGS0HfamtUzVivI"
     },
     {
       "added_at": "2024-03-20 08:35:16",

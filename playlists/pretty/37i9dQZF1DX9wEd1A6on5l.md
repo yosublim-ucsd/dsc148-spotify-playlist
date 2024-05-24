@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 
 > Get the party started with these Naija bangers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,094 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,146 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 35 | [Jinja](https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Unruly](https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M) | 2:35 |
 | 36 | [Only Me](https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Only Me](https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns) | 2:39 |
 | 37 | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [INTOXYCATED \(feat\. Dave\)](https://open.spotify.com/album/7ht2LkihRHKtZ5BiS60xCV) | 3:32 |
-| 38 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
-| 39 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
+| 38 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
+| 39 | [DND](https://open.spotify.com/track/0RPXUuLjVHolWYkaXCndXD) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [RAVAGE](https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9) | 2:46 |
 | 40 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 |
 | 41 | [Osadebe](https://open.spotify.com/track/4vcNkaBM2R70xWEUQDLLh5) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Osadebe](https://open.spotify.com/album/25TcBJVL2JqQnff5TxWvuZ) | 2:36 |
 | 42 | [Ojapiano](https://open.spotify.com/track/6WZVnqQ9OZRSGZmXyHHlV3) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Ojapiano](https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e) | 2:48 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wEd1A6on5l.md) - [plain]
 | 63 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 |
 | 64 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 65 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 |
-| 66 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
-| 67 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
+| 66 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
+| 67 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
 | 68 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 |
-| 69 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 |
+| 69 | [Dalilah II](https://open.spotify.com/track/3pU5thrIWedorXzDa3gOjb) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Dalilah II](https://open.spotify.com/album/1axrqyHSrmprv2iwLbClVb) | 2:58 |
 | 70 | [wo wo \- remix](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [wo wo \(remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
 | 71 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 |
 | 72 | [Jigga \(feat\. Khaid\)](https://open.spotify.com/track/2M3mZOLJc4rnosgHWbJhCE) | [TAR1Q](https://open.spotify.com/artist/33KPqwPnEKJY6Tm9WfJQKq), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Jigga \(feat\. Khaid\)](https://open.spotify.com/album/3OSxByQbloa6nXxRwaUBW1) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 > This is Damares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,279 likes - 46 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,281 likes - 46 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 3 | [Consolador](https://open.spotify.com/track/3Eyy7G8uhoZJ1xq5d2wBnZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 4:47 |
 | 4 | [A Promessa](https://open.spotify.com/track/1fRw17yPVFjRS6lPovRbrL) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 4:09 |
 | 5 | [A Dracma e o Seu Dono \(feat\. Thalles Roberto\)](https://open.spotify.com/track/3MURjjREqerGDrYPFt3XOX) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:19 |
-| 6 | [A Batalha do Arcanjo](https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:06 |
+| 6 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
 | 7 | [Sacrifício e Adoração](https://open.spotify.com/track/0oAksCragvUN6QRcAIMic9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 5:45 |
-| 8 | [Se O Mar Não Se Abrir / Citação: Firme Nas Promessas \(Ao Vivo\)](https://open.spotify.com/track/2hJwuuV6Q9Zd6iWWLgGD0B) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Se O Mar Não Se Abrir \(Ao Vivo\)](https://open.spotify.com/album/0TbWFxlGqVWTbdUkG75tz7) | 5:58 |
+| 8 | [A Batalha do Arcanjo](https://open.spotify.com/track/7Iy6r0TWdhMUPfSspCGRKY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:06 |
 | 9 | [Eu Quero Ver o Seu Milagre](https://open.spotify.com/track/5nEqDoo9cdpDwmrdsJGC6i) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:33 |
 | 10 | [Página Virada \- Ao Vivo](https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Página Virada \(Ao Vivo\)](https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD) | 7:03 |
 | 11 | [Um novo Vencedor](https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:10 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 22 | [Pode Ser Hoje](https://open.spotify.com/track/7LtVvoZ0XPO6KS2w3iFBEY) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [O Maior Troféu](https://open.spotify.com/album/4aUmdgVlZoV0lvPIHrqslu) | 5:40 |
 | 23 | [Diamante](https://open.spotify.com/track/6ER3frVW05ALc50ffXLRrv) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Diamante \(2010\)](https://open.spotify.com/album/3CJCx0ipcyVWZHUw64kL2R) | 6:11 |
 | 24 | [O Convidado](https://open.spotify.com/track/1LFsK6UZv04d0AlfWtB8GZ) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 5:43 |
-| 25 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
-| 26 | [Não Toque no Ungido](https://open.spotify.com/track/2w8E3RYl14JHRRFnNi1ae7) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 3:55 |
+| 25 | [Não Toque no Ungido](https://open.spotify.com/track/2w8E3RYl14JHRRFnNi1ae7) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 3:55 |
+| 26 | [Sou Eu](https://open.spotify.com/track/5HLtqc3vpXvE80swUPHRRn) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 5:12 |
 | 27 | [Sabor de Mel / Terremoto Santo / Deus dos Deuses / Minha Benção / A Mensagem da Cruz \- Ao vivo](https://open.spotify.com/track/1NwKNiyfbuCaMS3IZBcrCI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ), [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [100 Anos do Movimento Pentecostal](https://open.spotify.com/album/4Wo3iXk6J7vQ9PUYxpf2VU) | 13:55 |
 | 28 | [O Cuidar de Deus \(feat\. Lucas Roque e Gabriel\)](https://open.spotify.com/track/0jHl8W1L7LciXlyoI56Cwq) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka), [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Superação](https://open.spotify.com/album/1ql8DiJv3j7JuiQSdEcoQg) | 4:57 |
 | 29 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/2b9sOPTgLige26J50aINp9) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Damares \(Ao Vivo\)](https://open.spotify.com/album/4Petql4tkPmHlXKPXoX8bA) | 5:58 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 45 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
 | 46 | [És Maior](https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 
-Snapshot ID: `ZkqSgAAAAABWl90Mvq7oVvxISaEwSmnf`
+Snapshot ID: `Zk01gAAAAAD5gVB9G3lfztGSjuBdLQZ+`

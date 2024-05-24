@@ -1,12 +1,12 @@
 {
   "description": "This is Azzy. The essential tracks, all in one playlist.",
-  "num_followers": 7864,
+  "num_followers": 7865,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAASmgahpBc7Fkc70kpmdB38",
+  "snapshot_id": "Zk01gAAAAABUE4e2kqbu8CfmY5f30gQ7",
   "tracks": [
     {
       "added_at": null,
@@ -599,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faixa Rosa",
         "url": "https://open.spotify.com/album/5qAsZm3XpJWm99peC2JTDs"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 182923,
       "name": "Faixa Rosa",
       "url": "https://open.spotify.com/track/1DoaY4rjTCk5cUEUTU2pq3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -739,26 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
-        }
-      ],
-      "duration_ms": 206106,
-      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
-      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2 Minutos",
         "url": "https://open.spotify.com/album/5DPRUTrk79KG5HMKmsl6XQ"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 215520,
       "name": "2 Minutos",
       "url": "https://open.spotify.com/track/3bZZd8qlz5WhRkxXfKxsw2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+        "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "TUDO \u00c9 SOBRE M\u00daSICA",
+      "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
     },
     {
       "added_at": null,
@@ -1063,6 +1063,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coisa Fina",
+        "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "BocaDosBeats",
+          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
+        }
+      ],
+      "duration_ms": 176562,
+      "name": "Coisa Fina",
+      "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c1gua de Bala",
         "url": "https://open.spotify.com/album/0C2qo8plNXXuVfb68WdqOP"
       },
@@ -1087,22 +1107,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coisa Fina",
-        "url": "https://open.spotify.com/album/2l5TXHheBX9gjftT3TKqh7"
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "BocaDosBeats",
-          "url": "https://open.spotify.com/artist/08Jh4nbAgQK1ZcY9FpcBjw"
         }
       ],
-      "duration_ms": 176562,
-      "name": "Coisa Fina",
-      "url": "https://open.spotify.com/track/3Ywd83pjNBh3qVnWLFqk6s"
+      "duration_ms": 162616,
+      "name": "LOVEZY",
+      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
     },
     {
       "added_at": null,
@@ -1127,42 +1143,6 @@
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 162616,
-      "name": "LOVEZY",
-      "url": "https://open.spotify.com/track/2BHlvOVDfPYSbgpTf1a4XY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tifanny",
-        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Tlust",
-          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "Tifanny",
-      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
     },
     {
       "added_at": null,
@@ -1227,6 +1207,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tifanny",
+        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Tlust",
+          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
+        }
+      ],
+      "duration_ms": 160056,
+      "name": "Tifanny",
+      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1263,18 +1263,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+        "name": "Hora do Show",
+        "url": "https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2"
       },
       "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Ctrl Z",
-      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
+      "duration_ms": 220234,
+      "name": "Segue o Baile",
+      "url": "https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk"
     },
     {
       "added_at": null,
@@ -1299,42 +1303,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hora do Show",
-        "url": "https://open.spotify.com/album/2A5UWu3yNNrnfbAfICNnV2"
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
       },
       "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         }
       ],
-      "duration_ms": 220234,
-      "name": "Segue o Baile",
-      "url": "https://open.spotify.com/track/5vrT66H94IfI3DNaNqNUJk"
+      "duration_ms": 150266,
+      "name": "Ctrl Z",
+      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Eu",
-        "url": "https://open.spotify.com/album/7LzqynrUxF5hW2InDQJ2bG"
+        "name": "Mete Ficha",
+        "url": "https://open.spotify.com/album/1GdQdCeWKMV8uKxxcFWf8L"
       },
       "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Felp 22",
-          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+          "name": "tharealjuggboy",
+          "url": "https://open.spotify.com/artist/0xazmrsqv7px8U921RehiR"
+        },
+        {
+          "name": "Lc da 100",
+          "url": "https://open.spotify.com/artist/5NfKZ5L3TL1V22Xw5KJD25"
+        },
+        {
+          "name": "Drow Beats",
+          "url": "https://open.spotify.com/artist/63nBMbY97bsURu2s0MvRGt"
         }
       ],
-      "duration_ms": 183157,
-      "name": "S\u00f3 Eu",
-      "url": "https://open.spotify.com/track/6vkLqv8WDCCAqx9YHkBWZf"
+      "duration_ms": 139350,
+      "name": "Mete Ficha",
+      "url": "https://open.spotify.com/track/5RpEk0ucLSn4TlaFZ0TxuE"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT3qht9CfnL3.md) - [plain]
 
 > Canciones de despecho para cantarle a quien te rompió el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,351 likes - 96 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,385 likes - 96 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

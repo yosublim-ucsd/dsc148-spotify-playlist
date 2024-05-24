@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,122 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,120 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 49 | [Original Composition](https://open.spotify.com/track/7mEbePr6OXjPqFBKpwe1Yj) | [Obi Original](https://open.spotify.com/artist/1S5rzgpwdSbYfimpcOkICu), [The Black Atlantics](https://open.spotify.com/artist/7rotoTBUL2rftPeIwomIxR) | [Original Composition + Vitamin "D"](https://open.spotify.com/album/5o2kpxVAjN2SFdb7hzwiIf) | 3:13 |
 | 50 | [Fefe Ne Fefe](https://open.spotify.com/track/4RxqGYYDnx1R6JfQAfd7B9) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Fefe Ne Fefe](https://open.spotify.com/album/24ZhqMl3si2HuUPZC9IjZc) | 2:26 |
 
-Snapshot ID: `ZkaP8AAAAABVSVjCWi7J9/oTzlLT9qfw`
+Snapshot ID: `Zk/LYAAAAAAd1Bt7dZkqyoa2Uoy/SFzO`

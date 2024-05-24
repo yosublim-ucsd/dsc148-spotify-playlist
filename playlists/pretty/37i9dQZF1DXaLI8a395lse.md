@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: Cocteau Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,274,567 likes - 80 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,274,683 likes - 80 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 21 | [Hey Boy Hey Girl](https://open.spotify.com/track/7kXmJwrZGIhDaLT9sNo3ut) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [Surrender](https://open.spotify.com/album/1QJP73UumgERuzp3yJSXw3) | 4:50 |
 | 22 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 |
 | 23 | [Sour Times](https://open.spotify.com/track/6vTtCOimcPs5H1Jr9d0Aep) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 4:12 |
-| 24 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
-| 25 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
+| 24 | [Malibu](https://open.spotify.com/track/5bVOX6eyHsML2sB4aMlZEi) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:50 |
+| 25 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 26 | [Angel](https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X), [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [Mezzanine](https://open.spotify.com/album/49MNmJhZQewjt06rpwp6QR) | 6:19 |
 | 27 | [Beetlebum \- 2012 Remaster](https://open.spotify.com/track/4OHVCeQYPncEwZOtNAJZZx) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur \(Special Edition\)](https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q) | 5:05 |
 | 28 | [The Distance](https://open.spotify.com/track/0fsz7tJ7UKXT9hliLfO7aE) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 2:59 |

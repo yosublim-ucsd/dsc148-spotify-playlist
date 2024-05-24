@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance</a> hits from the 90s and 00s!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,573,709 likes - 120 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,573,996 likes - 120 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,10 +55,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8a1tdzq5tbM.md) - [plain]
 | 45 | [Somewhere \(feat\. Sarah Lynn\) \- Radio Edit](https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M) | [DJ Mog](https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF), [Sarah Lynn](https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K) | [Somewhere \(feat\. Sarah Lynn\)](https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH) | 3:55 |
 | 46 | [Love Don't Let Me Go \(Walking Away\) \(David Guetta vs\. The Egg\)](https://open.spotify.com/track/7BuynvoA4xIt9LIwqhLwRu) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [The Egg](https://open.spotify.com/artist/73nwTQUc9kA9vqGzGPsMkA) | [One More Love](https://open.spotify.com/album/5DJc5qCdB5pPrDO97LXjeW) | 3:11 |
 | 47 | [Find Yourself](https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l) | [John O'Callaghan](https://open.spotify.com/artist/6H2JQ8igAAa5UBr2u496mb), [Sarah Howells](https://open.spotify.com/artist/1tZ0IeTjOOVtRI0EKBsekw) | [Vocal Trance Hits \- The Anthems](https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m) | 2:31 |
-| 48 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
-| 49 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
-| 50 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
-| 51 | [Every Word \(feat\. Daniella\) \- Wendel Kos Radio Edit](https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X) | [Ercola](https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb), [Daniella](https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY) | [Every Word](https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV) | 3:33 |
+| 48 | [Step One Two](https://open.spotify.com/track/2b81QjZVYfa75vC5niRDac) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1) | [Strobelite Seduction](https://open.spotify.com/album/3HmqTzRg3Ccs5vUVIlwh3Y) | 3:20 |
+| 49 | [Feel Your Love](https://open.spotify.com/track/6r47b3t4zQO9tpwMUInP4s) | [Kim Sozzi](https://open.spotify.com/artist/6cShe1zppIq5AZM53qQTE6) | [Just One Day](https://open.spotify.com/album/2pUIzqhO05Hpfftl1QjN1A) | 3:20 |
+| 50 | [Every Word \(feat\. Daniella\) \- Wendel Kos Radio Edit](https://open.spotify.com/track/0X7ELV6fLyjynJ3MexWh4X) | [Ercola](https://open.spotify.com/artist/09okhKMLoUZYOM6OTzAbNb), [Daniella](https://open.spotify.com/artist/2TufAuLE4LXykfXEt76MqY) | [Every Word](https://open.spotify.com/album/5G2X4SimuBQsbdtv3vjpeV) | 3:33 |
+| 51 | [World, Hold On](https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Western Dream](https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq) | 6:41 |
 | 52 | [Army Of Two \- Radio Version](https://open.spotify.com/track/4HolTVfZ37wQTg0eO29J3k) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt), [Beltek](https://open.spotify.com/artist/6J8msLSTRXnKJofhAMkWXG) | [Army Of Two](https://open.spotify.com/album/7LAHZKS2aNyOaRSIv8DB5R) | 3:07 |
 | 53 | [Girlfriend \- 2008 Remix](https://open.spotify.com/track/04hY9ZE6jatvZjsu1Q9nPc) | [Robbie Rivera](https://open.spotify.com/artist/4bYwbb6k4ujHD2NXRxSwRP), [Keylime](https://open.spotify.com/artist/0Id47LmcZuneJKiCqlsSJA) | [Girlfriend \(2008 Remix\)](https://open.spotify.com/album/78ehClbvFAiT3iJjJrNml9) | 7:15 |
 | 54 | [Tracking Treasure Down](https://open.spotify.com/track/65UKBA32AVBzthOGP62D2U) | [Gabriel & Dresden](https://open.spotify.com/artist/64KfnYe81Wld2AkG4bkGIV), [Molly Bancroft](https://open.spotify.com/artist/63gq13UEULICfVjR1ynp0Q) | [50 Trance Tunes, Vol\. 28](https://open.spotify.com/album/4ooVWhCBr2esswUBS3eJcb) | 3:09 |

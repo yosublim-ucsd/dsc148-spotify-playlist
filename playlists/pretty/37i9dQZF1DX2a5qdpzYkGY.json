@@ -1,12 +1,12 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12170,
+  "num_followers": 12171,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zicm3wAAAAC9dLMWPNfrZQ6+fIzK3VYs",
+  "snapshot_id": "Zk/O8gAAAAAiwapnTfXTCigf3Z2lXdeZ",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
+      "added_at": "2024-05-23 23:19:14",
+      "album": {
+        "name": "Mid Spiral: Order",
+        "url": "https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 415372,
+      "name": "Playgroup",
+      "url": "https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Promises",
@@ -137,22 +153,6 @@
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "TNT",
-        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 284666,
-      "name": "Ten-Day Interval",
-      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
       "added_at": "2024-04-12 00:45:23",
       "album": {
         "name": "Something in the Room She Moves",
@@ -171,18 +171,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
+        "name": "TNT",
+        "url": "https://open.spotify.com/album/4JwjxPyISbFEUeh267bYbg"
       },
       "artists": [
         {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
         }
       ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
+      "duration_ms": 284666,
+      "name": "Ten-Day Interval",
+      "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
-      "added_at": "2022-05-18 00:18:47",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
       },
       "artists": [
         {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
         }
       ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2024-04-15 14:39:19",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2022-05-18 00:18:47",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
       },
       "artists": [
         {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
         }
       ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
       "added_at": "2024-04-18 20:16:24",
@@ -299,18 +299,18 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
       "artists": [
         {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
         }
       ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
     },
     {
       "added_at": "2022-09-03 03:50:05",
@@ -343,6 +343,22 @@
       "duration_ms": 67213,
       "name": "If You Could See Your Life In Reverse Pt.3",
       "url": "https://open.spotify.com/track/4bPOoJowB7VM7TkdP2Y5p2"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -413,22 +429,6 @@
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Millions Now Living Will Never Die",
-        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
-      },
-      "artists": [
-        {
-          "name": "Tortoise",
-          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
-        }
-      ],
-      "duration_ms": 327826,
-      "name": "Glass Museum",
-      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -443,6 +443,22 @@
       "duration_ms": 458693,
       "name": "Maximum Black",
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Millions Now Living Will Never Die",
+        "url": "https://open.spotify.com/album/3X20tXW0zsl5imVzETPhQh"
+      },
+      "artists": [
+        {
+          "name": "Tortoise",
+          "url": "https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ"
+        }
+      ],
+      "duration_ms": 327826,
+      "name": "Glass Museum",
+      "url": "https://open.spotify.com/track/4yQXy99u7RnPoGedBT2XB0"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -981,20 +997,20 @@
       "url": "https://open.spotify.com/track/4l9qE7OMktnSUGwvU7kLNU"
     },
     {
-      "added_at": "2022-03-16 01:05:35",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
+        "name": "Pyramid",
+        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
       },
       "artists": [
         {
-          "name": "Asaph S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
+          "name": "Jaga Jazzist",
+          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
         }
       ],
-      "duration_ms": 316285,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
+      "duration_ms": 488904,
+      "name": "Spiral Era",
+      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
     },
     {
       "added_at": "2022-02-15 01:09:46",
@@ -1013,20 +1029,20 @@
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2022-03-16 01:05:35",
       "album": {
-        "name": "Pyramid",
-        "url": "https://open.spotify.com/album/73o0SxXoACo7B8Ygivru9B"
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/5HVZHQ5JYhzGTEuD4xsrgT"
       },
       "artists": [
         {
-          "name": "Jaga Jazzist",
-          "url": "https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt"
+          "name": "Asaph S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI"
         }
       ],
-      "duration_ms": 488904,
-      "name": "Spiral Era",
-      "url": "https://open.spotify.com/track/0Izt53lFwp9luhhdvkbozM"
+      "duration_ms": 316285,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/3OTzXu6oTZNQbZmyU7podJ"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1057,22 +1073,6 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Mira",
@@ -1087,6 +1087,22 @@
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
+      },
+      "artists": [
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1197,22 +1213,6 @@
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
     },
     {
-      "added_at": "2023-03-07 03:32:27",
-      "album": {
-        "name": "Mirrored Solitude",
-        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
-      },
-      "artists": [
-        {
-          "name": "Kalia Vandever",
-          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
-        }
-      ],
-      "duration_ms": 206863,
-      "name": "Mirrored Solitude",
-      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
-    },
-    {
       "added_at": "2023-05-12 02:51:50",
       "album": {
         "name": "Do Make Say Think",
@@ -1227,6 +1227,22 @@
       "duration_ms": 629506,
       "name": "1978",
       "url": "https://open.spotify.com/track/6hqEwHPaSspW6qF1lL2lTQ"
+    },
+    {
+      "added_at": "2023-03-07 03:32:27",
+      "album": {
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
+      },
+      "artists": [
+        {
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
+        }
+      ],
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     },
     {
       "added_at": "2022-09-30 02:23:59",
@@ -1307,22 +1323,6 @@
       "duration_ms": 376306,
       "name": "III",
       "url": "https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw"
-    },
-    {
-      "added_at": "2022-03-30 05:06:40",
-      "album": {
-        "name": "Wires Turned Sideways In Time",
-        "url": "https://open.spotify.com/album/1fP3dyBEao39IZeLKC4pzw"
-      },
-      "artists": [
-        {
-          "name": "Duncan Marquiss",
-          "url": "https://open.spotify.com/artist/0HBHvIQvXpsiwrbyXKRlSE"
-        }
-      ],
-      "duration_ms": 343586,
-      "name": "Murmer Double",
-      "url": "https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11"
     }
   ],
   "unique_name": "transience",

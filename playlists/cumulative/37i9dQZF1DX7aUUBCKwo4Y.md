@@ -4,7 +4,7 @@
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-251 songs - 14 hr 1 min
+252 songs - 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 | 2021-12-29 | 2022-03-17 |
 | [Blindsided](https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Rolling Up the Welcome Mat](https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH) | 2:50 | 2023-03-01 | 2023-03-30 |
 | [Body Like A Back Road](https://open.spotify.com/track/7mldq42yDuxiUNn08nvzHO) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Body Like A Back Road](https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz) | 2:45 | 2021-12-29 | 2024-01-10 |
-| [Broken Halos](https://open.spotify.com/track/06gD2ZtK3Dzc1BYqWExQJJ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 | 2023-01-27 |  |
+| [Broken Halos](https://open.spotify.com/track/06gD2ZtK3Dzc1BYqWExQJJ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 | 2023-01-27 | 2024-05-24 |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-03-01 | 2024-03-07 |
 | [Burn, Burn, Burn](https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Burn, Burn, Burn](https://open.spotify.com/album/4popczz4SYRg2NPcgwKHsR) | 4:28 | 2022-09-22 | 2023-09-07 |
 | [Buy Dirt](https://open.spotify.com/track/69AIpwGNLxr4qS1X5ynx60) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI), [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Buy Dirt](https://open.spotify.com/album/2y9DFhTWC7QQJMvygK0TzO) | 2:47 | 2021-12-29 |  |
@@ -103,6 +103,7 @@
 | [Human](https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Human The Double Album](https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb) | 3:41 | 2023-05-19 | 2023-06-02 |
 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 | 2022-04-06 | 2022-04-14 |
 | [Hurricane](https://open.spotify.com/track/6xHI9KjUjYT0FPtGO8Mxa1) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [This One's for You](https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj) | 3:42 | 2021-12-29 | 2022-03-24 |
+| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-23 |  |
 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 | 2021-12-29 | 2022-07-07 |
 | [I Quit Drinking](https://open.spotify.com/track/6OcCk1dbAb7XNHsC098oEM) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [I Quit Drinking](https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J) | 2:51 | 2021-12-29 | 2022-05-19 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-06 |  |

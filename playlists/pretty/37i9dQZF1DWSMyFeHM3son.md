@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 
 > monochrome bliss\. Cover: Matty Healy in the "Robbers" music video from The 1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,623 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,665 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMyFeHM3son.md) - [plain]
 | 72 | [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 |
 | 73 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 |
 | 74 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
-| 75 | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/track/6TaqooOXAEcijL6G1AWS2K) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [All My Friends \(feat\. Tinashe & Chance the Rapper\)](https://open.spotify.com/album/5cOhR878H8hC3UsxYq5Xyv) | 3:49 |
+| 75 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 |
 
 Snapshot ID: `ZbF/nwAAAAByynMCugpVZuntB2ULhMAU`

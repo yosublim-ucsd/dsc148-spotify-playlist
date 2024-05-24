@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Esther Graf
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,085 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,087 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 3 | [Delulu](https://open.spotify.com/track/1KqYUtoOOq34KlgHhP1pSt) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Delulu](https://open.spotify.com/album/22HSiBwgz8V6M323doPvwd) | 1:59 |
 | 4 | [WASSEREIS](https://open.spotify.com/track/7GIHhuHDlRab6yKyjPARcX) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [WASSEREIS](https://open.spotify.com/album/6TgOuqH0y0ChR7PNFvLL2O) | 2:17 |
 | 5 | [Komm in meine Arme](https://open.spotify.com/track/2cJsBA3fbleMmnlveGVBlo) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Komm in meine Arme](https://open.spotify.com/album/4bYod5KtRSsv2UJ1kfYJfR) | 3:14 |
-| 6 | [Atemlos durch die Nacht \- 10 Year Anniversary Version](https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Atemlos durch die Nacht \(10 Year Anniversary Version\)](https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT) | 2:52 |
-| 7 | [Wenn Du mich lässt](https://open.spotify.com/track/3rIl1xa1Bzsp5zMkd0CT2Z) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 3:02 |
+| 6 | [Wenn Du mich lässt](https://open.spotify.com/track/3rIl1xa1Bzsp5zMkd0CT2Z) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Fluss](https://open.spotify.com/album/1F46k12341LHQGIFlMjop4) | 3:02 |
+| 7 | [Atemlos durch die Nacht \- 10 Year Anniversary Version](https://open.spotify.com/track/7B7X3R3d2qEIsJFgqICgNy) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W), [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [Atemlos durch die Nacht \(10 Year Anniversary Version\)](https://open.spotify.com/album/1keZlGDtJuO2luOCRRS0mT) | 2:52 |
 | 8 | [Ja sagen](https://open.spotify.com/track/4XgxsTII2KYZZMFt4JlnYU) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv) | [Kein Märchen](https://open.spotify.com/album/12LNGJS8OnQl542QAyn0T2) | 2:43 |
 | 9 | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/track/4UozTqtYZF22YTnCvloI2a) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [FRENCH NAILS \(feat\. badmómzjay\)](https://open.spotify.com/album/5wkRilmh3Wpy4RC0WpjUJO) | 2:51 |
 | 10 | [27](https://open.spotify.com/track/5uhqML0FUdcm8BQyAKAiH5) | [Loredana](https://open.spotify.com/artist/2Im8m4STDBosjfmb5hmP80) | [27](https://open.spotify.com/album/7qD7D5oMrJJq0rQnx5Mlqm) | 2:48 |

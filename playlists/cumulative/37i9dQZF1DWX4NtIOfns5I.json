@@ -4601,6 +4601,24 @@
     },
     {
       "album": {
+        "name": "SYML",
+        "url": "https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Where's My Love",
+      "url": "https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn"
+    },
+    {
+      "album": {
         "name": "Fleet Foxes",
         "url": "https://open.spotify.com/album/5GRnydamKvIeG46dycID6v"
       },

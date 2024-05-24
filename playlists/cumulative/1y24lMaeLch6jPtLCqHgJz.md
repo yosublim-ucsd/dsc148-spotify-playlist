@@ -4,7 +4,7 @@
 
 > Festival Music 2024 \- Tomorrowland 2024 \- Festival Songs \- EDM Music \- Electronic Music \- Rave Music \- EDM Songs \- best festival music \- best festival songs
 
-327 songs - 16 hr 38 min
+328 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Lose Your Mind](https://open.spotify.com/track/0XBpOxxdLc3xH6OjjnaWML) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [Lose Your Mind](https://open.spotify.com/album/4pO5ePc9H7RG2a3CSVdmm4) | 2:38 | 2023-11-08 |  |
 | [Losing Focus](https://open.spotify.com/track/0NiksN12Vqtj2XmOnFOFxz) | [Patrick Moreno](https://open.spotify.com/artist/1cgYwI8wy6MB26Mgtr4Ubx), [SOUNDCHECK](https://open.spotify.com/artist/4cJtXXdfujLT0wr1DY9pdl), [Replay M](https://open.spotify.com/artist/6XTVE58RFOIxPuDGSkXa4z), [Michael Zhonga](https://open.spotify.com/artist/1FeScSe5coyXzmJ8ATtj9O) | [Revealed Recordings presents ADE Sampler 2022](https://open.spotify.com/album/5CZASEqfAIx22yQEaiBKXi) | 2:49 | 2022-10-06 |  |
 | [Losing It](https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt) | [Losing It](https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv) | 4:08 | 2023-08-10 |  |
+| [Lost in Space](https://open.spotify.com/track/28vHfMXcgseUNd90zEL5U3) | [PADWN](https://open.spotify.com/artist/0IkR20PF6ydE7dyLUZw3LK), [Revealed Recordings](https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8) | [Lost In Space](https://open.spotify.com/album/0y9I02bUlJnVORYu1l9pAf) | 3:30 | 2024-05-23 |  |
 | [Lost Souls](https://open.spotify.com/track/5Vxu6H5I0j0R5HQrODozRq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr) | [Lost Souls](https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y) | 3:04 | 2023-04-13 |  |
 | [Louder](https://open.spotify.com/track/4vP7e9z9WyRngJN4jzdm1S) | [Adaptiv](https://open.spotify.com/artist/6IPc2gsAni4QtYNmv1U6nc) | [Louder](https://open.spotify.com/album/1o5bJELjp4AgP0zDK3H8XM) | 2:38 | 2024-04-18 |  |
 | [Love Tonight \(David Guetta Remix Edit\)](https://open.spotify.com/track/2prnn41CblB8B4yWACDljP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Love Tonight \(David Guetta Remix\)](https://open.spotify.com/album/2HYufzr6XUqSurRZdY0D9w) | 2:38 | 2023-06-02 | 2024-04-02 |

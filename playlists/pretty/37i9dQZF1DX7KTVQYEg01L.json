@@ -1,6 +1,6 @@
 {
   "description": "celebre seu dia no maior astral! ",
-  "num_followers": 1424891,
+  "num_followers": 1424876,
   "original_name": "Tenha um \u00d3timo Dia!",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -511,6 +495,22 @@
     {
       "added_at": "2024-04-26 03:00:00",
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
         "name": "Hot Pink",
         "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
@@ -523,26 +523,6 @@
       "duration_ms": 237893,
       "name": "Say So",
       "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": "2024-04-26 03:00:00",
-      "album": {
-        "name": "ily (i love you baby) (feat. Emilee)",
-        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Emilee",
-          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
-        }
-      ],
-      "duration_ms": 176546,
-      "name": "ily (i love you baby) (feat. Emilee)",
-      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2024-04-26 03:00:00",
@@ -575,6 +555,26 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
+    },
+    {
+      "added_at": "2024-04-26 03:00:00",
+      "album": {
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "duration_ms": 176546,
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
       "added_at": "2024-04-26 03:00:00",

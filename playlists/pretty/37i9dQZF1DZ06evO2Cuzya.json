@@ -1,12 +1,12 @@
 {
   "description": "This is Gracie Abrams. The essential tracks, all in one playlist.",
-  "num_followers": 74555,
+  "num_followers": 74654,
   "original_name": "This Is Gracie Abrams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACYjujkBQ7oUNhW8o/tj4Ww",
+  "snapshot_id": "Zk01gAAAAAA7jP2O14vzX24hRAL06WCg",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mess It Up",
+        "url": "https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Mess It Up",
+      "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF"
     },
     {
       "added_at": null,
@@ -111,8 +127,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "minor",
-        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
       },
       "artists": [
         {
@@ -120,9 +136,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 185172,
-      "name": "21",
-      "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX"
+      "duration_ms": 252850,
+      "name": "Cedar",
+      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
     },
     {
       "added_at": null,
@@ -136,25 +152,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 243599,
-      "name": "Where do we go now?",
-      "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Buccaneers: Season 1 (Apple TV+ Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0oYAtqsEaHuICtq1vwe8QZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 252850,
-      "name": "Cedar",
-      "url": "https://open.spotify.com/track/479UZI7rBJRJwqB0UZyZ57"
+      "duration_ms": 233499,
+      "name": "Best",
+      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
     },
     {
       "added_at": null,
@@ -191,22 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 233499,
-      "name": "Best",
-      "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mean It",
         "url": "https://open.spotify.com/album/0vBpaPYo5I3s90tEmgeacl"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 171138,
       "name": "Mean It",
       "url": "https://open.spotify.com/track/5IyuGEmlFsnp1TN1M9OSd8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 258948,
+      "name": "I should hate you",
+      "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
     },
     {
       "added_at": null,
@@ -255,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 258948,
-      "name": "I should hate you",
-      "url": "https://open.spotify.com/track/4iUt4PddTybyCrpQAMoJH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brush Fire",
         "url": "https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 190426,
       "name": "Brush Fire",
       "url": "https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 245610,
+      "name": "This is what the drugs are for",
+      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 245610,
-      "name": "This is what the drugs are for",
-      "url": "https://open.spotify.com/track/6oPDWUwxTIsGejcHd9tLdc"
+      "duration_ms": 230131,
+      "name": "Will you cry?",
+      "url": "https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH"
     },
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 170805,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+      "duration_ms": 180488,
+      "name": "The Bottom",
+      "url": "https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y"
     },
     {
       "added_at": null,
@@ -376,9 +376,41 @@
           "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 230131,
-      "name": "Will you cry?",
-      "url": "https://open.spotify.com/track/3UaaBFWIxrwDRc6pSisyuH"
+      "duration_ms": 259592,
+      "name": "Amelie",
+      "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 170805,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "minor",
+        "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "tehe",
+      "url": "https://open.spotify.com/track/2kp86yPhiPBTyoTYHB403F"
     },
     {
       "added_at": null,
@@ -395,22 +427,6 @@
       "duration_ms": 160561,
       "name": "Wishful Thinking",
       "url": "https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 125452,
-      "name": "Painkillers",
-      "url": "https://open.spotify.com/track/2DWuT8Xe7IeZK6feMqH7it"
     }
   ],
   "unique_name": "This Is Gracie Abrams",

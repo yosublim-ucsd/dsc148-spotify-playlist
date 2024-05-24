@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Xavi, Tony Aguirre. ",
+  "description": "\u00a1Las m\u00e1s placosas y llegadoras de nuestra m\u00fasica! Al mill\u00f3n con Gabito Ballesteros. ",
   "name": "La Reina: \u00c9xitos de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -24,6 +24,24 @@
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
+    },
+    {
+      "album": {
+        "name": "0 Sentimientos",
+        "url": "https://open.spotify.com/album/6Fa9qyvlQcFL1G8h96ZcTi"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195334,
+      "name": "0 Sentimientos",
+      "url": "https://open.spotify.com/track/3KFej6pGPI0yVV04oxRFf8"
     },
     {
       "album": {
@@ -914,7 +932,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 265045,
       "name": "BIPOLAR",
       "url": "https://open.spotify.com/track/3wlIAXSDtlD9iU8ysld06Z"
@@ -3800,7 +3818,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
@@ -4018,7 +4036,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131666,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv"
@@ -5150,6 +5168,32 @@
       "duration_ms": 188000,
       "name": "LOU LOU",
       "url": "https://open.spotify.com/track/3FvTHuefYV6TxE3Kseqno8"
+    },
+    {
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170901,
+      "name": "Lucky Charms",
+      "url": "https://open.spotify.com/track/6HPU2csiZAxNziZbW7jd6Y"
     },
     {
       "album": {
@@ -6585,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Ojitos Rojos",
+        "url": "https://open.spotify.com/album/6TYbBpHK1Tq0L7xcJl4YWU"
+      },
+      "artists": [
+        {
+          "name": "Julio Caesar",
+          "url": "https://open.spotify.com/artist/2Sr1WpVyOrlqgy294KkR6K"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181657,
+      "name": "Ojitos Rojos",
+      "url": "https://open.spotify.com/track/3laLiRlOtNA6HBKklPSE1E"
+    },
+    {
+      "album": {
         "name": "Ojos Cerrados",
         "url": "https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0"
       },
@@ -6938,7 +7000,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
@@ -8234,6 +8296,28 @@
       "duration_ms": 148573,
       "name": "Sin Tanto Royo",
       "url": "https://open.spotify.com/track/4AtRBtemYPsLbwdJRMj5rw"
+    },
+    {
+      "album": {
+        "name": "THE GB",
+        "url": "https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Sin Yolanda",
+      "url": "https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM"
     },
     {
       "album": {

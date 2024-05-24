@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3pxwKjnmDg4kwTc5nItYcx.md) - [plain]
 
 > Down\-tempo and easy listening music\. Cover: Teddy Swims
 
-[Topsify Australia](https://open.spotify.com/user/popmob) - 5,698 likes - 438 songs - 23 hr 31 min
+[Topsify Australia](https://open.spotify.com/user/popmob) - 5,697 likes - 438 songs - 23 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

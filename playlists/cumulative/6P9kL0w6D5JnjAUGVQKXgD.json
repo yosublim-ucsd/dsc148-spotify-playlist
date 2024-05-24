@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173548,
       "name": "All My Friends - Eden Prince Remix",
       "url": "https://open.spotify.com/track/5WaXMQMlQpq8pwIdaFP43L"
@@ -10641,6 +10641,32 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/4BujVvdktAA5TjMcs7jKyw"
+      },
+      "artists": [
+        {
+          "name": "Jack Fruit",
+          "url": "https://open.spotify.com/artist/3PKBUs6yX8imvyQp0E8ePe"
+        },
+        {
+          "name": "Valentina Star",
+          "url": "https://open.spotify.com/artist/2JDNtZp5FSjWeMK4C4hFFU"
+        },
+        {
+          "name": "Night Pulse",
+          "url": "https://open.spotify.com/artist/3Q6lq9qdwY3y1uYf5NIqrR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1wr89veeTymkZ5aj1iYd3u"
+    },
+    {
+      "album": {
         "name": "Forever Yours (Avicii Tribute)",
         "url": "https://open.spotify.com/album/63VE57Ol6fcAC0fb6kGx5y"
       },
@@ -11964,7 +11990,7 @@
       ],
       "date_added": "2021-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170510,
       "name": "Hands Up",
       "url": "https://open.spotify.com/track/25qhCdtNV7jCiAbcxFxZgx"
@@ -12510,7 +12536,7 @@
       ],
       "date_added": "2020-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192573,
       "name": "Heaven On My Mind (with Sigala)",
       "url": "https://open.spotify.com/track/7bIq1v8svANsAys7I694Up"
@@ -22183,6 +22209,28 @@
     },
     {
       "album": {
+        "name": "Oops",
+        "url": "https://open.spotify.com/album/4tlS687oUK0RCcm31RpY2h"
+      },
+      "artists": [
+        {
+          "name": "Devinity",
+          "url": "https://open.spotify.com/artist/1ZOibsTXm4B3YZP8STNkai"
+        },
+        {
+          "name": "Ra\u00efko",
+          "url": "https://open.spotify.com/artist/4EWRb8AQHri7uQ1douoFe4"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150520,
+      "name": "Oops",
+      "url": "https://open.spotify.com/track/5jLKiyce5UhfI0siP2uRoE"
+    },
+    {
+      "album": {
         "name": "Opa",
         "url": "https://open.spotify.com/album/6Ds82KME1uLRZBx1V2JI5E"
       },
@@ -26528,6 +26576,24 @@
       "duration_ms": 167946,
       "name": "Smoke Ring",
       "url": "https://open.spotify.com/track/2xvn2MzXmIwsF2KiwuyRpT"
+    },
+    {
+      "album": {
+        "name": "So Bad",
+        "url": "https://open.spotify.com/album/7IDqsWjCn6DGTr9k0Y3P1I"
+      },
+      "artists": [
+        {
+          "name": "YNKKX",
+          "url": "https://open.spotify.com/artist/7klhTKzoyunogGr1Gij4v3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179800,
+      "name": "So Bad",
+      "url": "https://open.spotify.com/track/4cLlOI9NR6J9VDpEPZeviH"
     },
     {
       "album": {

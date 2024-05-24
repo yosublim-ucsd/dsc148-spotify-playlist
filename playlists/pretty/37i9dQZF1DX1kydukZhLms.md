@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356,296 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356,634 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 16 | [Mama, I'm Coming Home](https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [No More Tears \(Expanded Edition\)](https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7) | 4:11 |
 | 17 | [So Far Away](https://open.spotify.com/track/6FOpPA0a80RuBqqgDozvja) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [14 Shades of Grey](https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR) | 4:03 |
 | 18 | [Wrong Side of Heaven](https://open.spotify.com/track/11Ojp7JniVvwd0gmgvyKkd) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:31 |
-| 19 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
-| 20 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
+| 19 | [Love Bites \- Remastered 2017](https://open.spotify.com/track/3Dfy8YIxq89i84t108TvMi) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 5:46 |
+| 20 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 21 | [So Far Away](https://open.spotify.com/track/7Hr1Ignop7cymbE3FbOtXa) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 5:26 |
 | 22 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 23 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 82 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
 | 83 | [4000 Rainy Nights \- Remastered 2016](https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Destiny \(Reissue 2016\)](https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7) | 5:59 |
 | 84 | [When the Crowds Are Gone](https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Gutter Ballet \(2011 Edition\)](https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF) | 5:46 |
-| 85 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
-| 86 | [The Magic of the Wizard's Dream \(English Version\)](https://open.spotify.com/track/1DH9pHPoBQ1YJRbzuFfnhV) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [The Magic of the Wizard's Dream \- EP \(feat\. Christopher Lee\)](https://open.spotify.com/album/6OfEfUiqbR84z7QwzRHVMO) | 3:42 |
+| 85 | [The Magic of the Wizard's Dream \(English Version\)](https://open.spotify.com/track/1DH9pHPoBQ1YJRbzuFfnhV) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [The Magic of the Wizard's Dream \- EP \(feat\. Christopher Lee\)](https://open.spotify.com/album/6OfEfUiqbR84z7QwzRHVMO) | 3:42 |
+| 86 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 87 | [Anybody Listening? \- Remastered 2003](https://open.spotify.com/track/6ObS155m8kMHPAnrAjlO2U) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 7:58 |
 | 88 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 |
 | 89 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 92 | [The Silent Man](https://open.spotify.com/track/2vzfV6LgfAWtv7JeSoEPFO) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Awake](https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7) | 3:47 |
 | 93 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
 | 94 | [Mourn](https://open.spotify.com/track/4KcNupwVIuM2AOoiKdgpRf) | [Sentenced](https://open.spotify.com/artist/5jQPKWBobu6cJwGSbbqgCk) | [Frozen](https://open.spotify.com/album/0xdSf6KFTkFciT8kK3gD2e) | 4:44 |
-| 95 | [Might As Well Be On Mars](https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 7:08 |
-| 96 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
+| 95 | [Believe in Nothing](https://open.spotify.com/track/3zdUWmaNcbTqv2V7ZYLXQ8) | [Nevermore](https://open.spotify.com/artist/1wUArE0NhHB8M1bU2WSplY) | [Dead Heart In a Dead World](https://open.spotify.com/album/1v1hdLXVBjFel9srMX8paD) | 4:21 |
+| 96 | [Might As Well Be On Mars](https://open.spotify.com/track/32Z3DgoryCdqcg9eaLTbnc) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Hey Stoopid](https://open.spotify.com/album/0lhICEAy0rRGbhvWzlP0Ke) | 7:08 |
 | 97 | [Believe](https://open.spotify.com/track/6jCA4rJ4caeRuyTxvf9UvA) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Streets \- A Rock Opera \(2011 Edition\)](https://open.spotify.com/album/5bMMMSrjV78gkbhxarBbWT) | 5:42 |
 | 98 | [Ghost of Freedom](https://open.spotify.com/track/2DUz22ncVE4Vw44sn3lvJa) | [Iced Earth](https://open.spotify.com/artist/3KEixcRfBS5K3E91Vn1Kdy) | [Horror Show](https://open.spotify.com/album/2LI1sWcLYsWeN1TwZ6VvNK) | 5:11 |
 | 99 | [Scarlet Rose](https://open.spotify.com/track/1I0oWAoXKhCp9VgLeuU9l0) | [Edguy](https://open.spotify.com/artist/3AGFqPP3gt5rMSvhR87Xxu) | [Vain Glory Opera](https://open.spotify.com/album/2T9uuvdso9EyHnHG0r3l4Z) | 5:11 |

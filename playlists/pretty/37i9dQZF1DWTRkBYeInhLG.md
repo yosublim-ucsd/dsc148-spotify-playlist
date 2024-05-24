@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,991 likes - 80 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 466,107 likes - 80 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 46 | [Air & Api](https://open.spotify.com/track/0Z3E3USDNRILRhQBwy0ljP) | [Naif](https://open.spotify.com/artist/57A85GCAJn0reNAez6Hswt) | [The Best](https://open.spotify.com/album/2kFxReqreHFoL6kvgXUAGE) | 3:17 |
 | 47 | [Sewindu](https://open.spotify.com/track/0nXXgjpcisM0bheuDZHAub) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Tulus](https://open.spotify.com/album/2dnIPDYfh7enZ6JqI9COsk) | 4:00 |
 | 48 | [Lapang Dada](https://open.spotify.com/track/1rpp0SvLCIaW9MLO4EP5Z4) | [Sheila On 7](https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT) | [Musim Yang Baik](https://open.spotify.com/album/55Rgrt92qQCdUgtDJhvsPG) | 3:36 |
-| 49 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 |
-| 50 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
+| 49 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
+| 50 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 |
 | 51 | [Percayalah](https://open.spotify.com/track/71ffTsV63O9RsoWJ1iJOet) | [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du), [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Percayalah](https://open.spotify.com/album/1ztUALyRDv0ZwDjoQIaWj0) | 4:26 |
 | 52 | [Yang Terdalam](https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Taman Langit](https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC) | 3:19 |
 | 53 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRkBYeInhLG.md) - [plain]
 | 75 | [Dia \- Hits Single](https://open.spotify.com/track/2ok6IGh97S4eIRse9K2sjg) | [Anji](https://open.spotify.com/artist/0b4XpbAVDPngjDTbcSWH8N) | [DIA](https://open.spotify.com/album/3jJo85yRqKTYdmAjzznRsq) | 3:27 |
 | 76 | [Harus Bahagia](https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Harus Bahagia](https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG) | 2:53 |
 | 77 | [Terdiam](https://open.spotify.com/track/4YvFq4n1eTD2wqYEHWxo1i) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 3:58 |
-| 78 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
-| 79 | [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 |
+| 78 | [Kasmaran](https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Kasmaran](https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu) | 4:02 |
+| 79 | [Sunggu Indah](https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B) | [Andy Ambarita](https://open.spotify.com/artist/3D9NDcZAyhtQdEuDdqsAx6) | [Sunggu Indah](https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP) | 5:38 |
 | 80 | [Buktikan](https://open.spotify.com/track/7JZof89ypHY0VybfJHAzOY) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [VIDI](https://open.spotify.com/artist/4crs55NFrnArSpE78rohLS) | [Buktikan](https://open.spotify.com/album/0yPE4iWQMwcE9RvY3umkLM) | 3:59 |
 
 Snapshot ID: `ZkRgEwAAAACqqB/StHjlo/CchXTP6ZyM`

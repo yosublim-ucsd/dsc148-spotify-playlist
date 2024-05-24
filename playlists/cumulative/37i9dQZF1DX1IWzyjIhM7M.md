@@ -4,13 +4,14 @@
 
 > Our editors' picks of best tracks of 2023 by independent, developing artists from around the world\. Cover: Searows
 
-123 songs - 6 hr 38 min
+124 songs - 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [22](https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD) | [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD) | [22](https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC) | 2:22 | 2024-01-10 |  |
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2024-01-10 |  |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2024-01-10 | 2024-01-17 |
+| [A la Carta](https://open.spotify.com/track/22a4UCHSOGzypj67zyOVEH) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH) | [A la Carta](https://open.spotify.com/album/7MOj5xWZV82U7TvBTW5kqH) | 2:53 | 2024-01-10 |  |
 | [Advantage](https://open.spotify.com/track/4vxPfYUYtMNn3pCIjsIMG0) | [MiLES.](https://open.spotify.com/artist/4Mt0UzpAedYJYAvDMNjx2I) | [Advantage](https://open.spotify.com/album/7A7pDwj28Ak57XiZeaUzPb) | 3:25 | 2024-01-10 |  |
 | [After The Day Party](https://open.spotify.com/track/2dYxccZjun7pzA4npfbKfb) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2) | [Outside](https://open.spotify.com/album/4pWieE77CDQHT2UKff0WEy) | 2:27 | 2024-01-10 |  |
 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 | 2024-01-10 |  |
@@ -109,7 +110,7 @@
 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 | 2024-01-10 |  |
 | [Stone Killer](https://open.spotify.com/track/0HTdp0zc8NELjhPTbEp7PR) | [26fix](https://open.spotify.com/artist/1HvnaxYOnYcLVvnOn2eb5e) | [Stone Killer](https://open.spotify.com/album/5g8JB0xHVPlp25BmuIci5L) | 3:28 | 2024-01-10 |  |
 | [styrofoam](https://open.spotify.com/track/1ZakuNLOHhoPOlMjCNG5w9) | [harper](https://open.spotify.com/artist/4N6xX91ZPlHR2YZ2RBOdPK) | [styrofoam](https://open.spotify.com/album/0gSptDCMS0E8RuYLGr7WML) | 3:04 | 2024-01-10 |  |
-| [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 | 2024-01-10 |  |
+| [sunset blvd](https://open.spotify.com/track/2XQFj0w1UIJpsUs0OO4013) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [tainted in our memories](https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T) | 1:46 | 2024-01-10 | 2024-05-24 |
 | [Talk of the Town \- acoustic](https://open.spotify.com/track/15XKG1dgXflgyD5QhgX8XU) | [Abbey Cone](https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct) | [Talk of the Town \(acoustic\)](https://open.spotify.com/album/3fdQxtSJHCwmliupnLFNlG) | 3:30 | 2024-01-10 | 2024-02-25 |
 | [Talk to Me](https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Talk to Me](https://open.spotify.com/album/05wLs4epCt9e5RKsmDJ8Zo) | 2:53 | 2024-01-10 |  |
 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 | 2024-01-10 |  |

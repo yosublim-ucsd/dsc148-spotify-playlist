@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Good Luck Trying",
+        "url": "https://open.spotify.com/album/0pYvl3Eo9TEa4dO8nxjD3H"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245771,
+      "name": "Good Luck Trying",
+      "url": "https://open.spotify.com/track/4JoPj8nwOmUR3Ih1gSNE25"
+    },
+    {
+      "album": {
         "name": "Lean Into It (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR"
       },

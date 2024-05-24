@@ -1,6 +1,6 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 172004,
+  "num_followers": 172062,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
@@ -991,6 +991,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Borracha De Amor",
+        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 219941,
+      "name": "Borracha De Amor",
+      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Rosas y Serpientes",
         "url": "https://open.spotify.com/album/5rJCBaZ3ceBV7VR01C8Y39"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 270769,
       "name": "Rosas y Serpientes",
       "url": "https://open.spotify.com/track/5TFKNrTQb6qxuKQnSzAabf"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "Borracha De Amor",
-        "url": "https://open.spotify.com/album/56YlKtQXcwuYq5562zFYIJ"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 219941,
-      "name": "Borracha De Amor",
-      "url": "https://open.spotify.com/track/2PeQ5QSleIKfW8GfIVsEmj"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "T\u00f3xico",
-        "url": "https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        },
-        {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
-        }
-      ],
-      "duration_ms": 145427,
-      "name": "T\u00f3xico",
-      "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
         "name": "Equivocado",
         "url": "https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI"
       },
@@ -1419,22 +1399,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Mil Escalas",
-        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
+        "name": "T\u00f3xico",
+        "url": "https://open.spotify.com/album/6SDbcVYvCEx7tBMzpMJLyf"
       },
       "artists": [
         {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         }
       ],
-      "duration_ms": 144629,
-      "name": "Mil Escalas",
-      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
+      "duration_ms": 145427,
+      "name": "T\u00f3xico",
+      "url": "https://open.spotify.com/track/6I8eZgiw5o84fI3eA0vqVG"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1451,6 +1431,26 @@
       "duration_ms": 276000,
       "name": "Confundido",
       "url": "https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
+        "name": "Mil Escalas",
+        "url": "https://open.spotify.com/album/0vM7MIZddwc4AskM0iaid6"
+      },
+      "artists": [
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 144629,
+      "name": "Mil Escalas",
+      "url": "https://open.spotify.com/track/6NjRybxD0tZ90fLwnPCkkp"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1539,6 +1539,26 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
+        "name": "Archivo Mudo",
+        "url": "https://open.spotify.com/album/6xAf2bmlcP5Wm885HiTEP9"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Tino El Ping\u00fcino",
+          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+        }
+      ],
+      "duration_ms": 228211,
+      "name": "Archivo Mudo",
+      "url": "https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b"
+    },
+    {
+      "added_at": "2024-05-10 06:00:00",
+      "album": {
         "name": "Bonita T\u00fa",
         "url": "https://open.spotify.com/album/7aRFALeZMpcUgCFU90mx7n"
       },
@@ -1579,22 +1599,22 @@
     {
       "added_at": "2024-05-10 06:00:00",
       "album": {
-        "name": "Archivo Mudo",
-        "url": "https://open.spotify.com/album/6xAf2bmlcP5Wm885HiTEP9"
+        "name": "A Solas",
+        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
         },
         {
-          "name": "Tino El Ping\u00fcino",
-          "url": "https://open.spotify.com/artist/3BbLQNj5OTxm4AZcwyREFF"
+          "name": "Inti Sigma",
+          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
         }
       ],
-      "duration_ms": 228211,
-      "name": "Archivo Mudo",
-      "url": "https://open.spotify.com/track/6xeCfbpfr1ZlAkNEVUf03b"
+      "duration_ms": 176170,
+      "name": "A Solas",
+      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-05-10 06:00:00",
@@ -1615,26 +1635,6 @@
       "duration_ms": 229717,
       "name": "Ella Es",
       "url": "https://open.spotify.com/track/4wNwmejbGQkgk8qIsqWRqy"
-    },
-    {
-      "added_at": "2024-05-10 06:00:00",
-      "album": {
-        "name": "A Solas",
-        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Inti Sigma",
-          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "A Solas",
-      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-05-10 06:00:00",

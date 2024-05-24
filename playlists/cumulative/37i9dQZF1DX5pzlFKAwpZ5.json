@@ -2135,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "hikari umi",
+        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "light seeing 3-3",
+      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
+    },
+    {
+      "album": {
         "name": "Crossloads",
         "url": "https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9"
       },

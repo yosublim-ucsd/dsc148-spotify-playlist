@@ -1,12 +1,12 @@
 {
   "description": "This is Billy Paul. The essential tracks, all in one playlist.",
-  "num_followers": 10427,
+  "num_followers": 10428,
   "original_name": "This Is Billy Paul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAwQ7A7auJVQAFbrhcdnye5",
+  "snapshot_id": "Zk01gAAAAAAKVgYAcwe9+WB8AEPl/Tsr",
   "tracks": [
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 253880,
-      "name": "I Trust You",
-      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
+      "duration_ms": 247693,
+      "name": "How Good Is Your Game",
+      "url": "https://open.spotify.com/track/22sOzufAavitHhMx12ZVrn"
     },
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 247693,
-      "name": "How Good Is Your Game",
-      "url": "https://open.spotify.com/track/22sOzufAavitHhMx12ZVrn"
+      "duration_ms": 253880,
+      "name": "I Trust You",
+      "url": "https://open.spotify.com/track/3tVh4RTBgccJae0eJXZdrU"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "War of the Gods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 605986,
-      "name": "War of the Gods",
-      "url": "https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -355,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going East",
-        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+        "name": "War of the Gods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5CdueuFXGE76rZLapqg3Cw"
       },
       "artists": [
         {
@@ -364,25 +348,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Love Buddies",
-      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Got My Head On Straight",
-        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
-      },
-      "artists": [
-        {
-          "name": "Billy Paul",
-          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "My Head's On Straight",
-      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
+      "duration_ms": 605986,
+      "name": "War of the Gods",
+      "url": "https://open.spotify.com/track/43DVOH2EmG4jX0UmUcr7W5"
     },
     {
       "added_at": null,
@@ -403,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Going East",
+        "url": "https://open.spotify.com/album/6NIYO2npCEA8MATIoAfnhf"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 219320,
+      "name": "Love Buddies",
+      "url": "https://open.spotify.com/track/39CtdFoNAUQbRfzEQ3bH9k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Only The Strong Survive",
         "url": "https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 196493,
       "name": "One Man's Junk",
       "url": "https://open.spotify.com/track/7ugJ3cdJ1MxBRHEKxFsHtu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Got My Head On Straight",
+        "url": "https://open.spotify.com/album/3bAsZV946TNKtdCti9jHZo"
+      },
+      "artists": [
+        {
+          "name": "Billy Paul",
+          "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "My Head's On Straight",
+      "url": "https://open.spotify.com/track/3bL3Q7RPzST59rgRLo7koY"
     },
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 260866,
-      "name": "What A Way To Love",
-      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
+      "duration_ms": 285800,
+      "name": "I Gotta Put This Life Down",
+      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 285800,
-      "name": "I Gotta Put This Life Down",
-      "url": "https://open.spotify.com/track/4RV0kGsdlYXqN9GcdhOSmd"
+      "duration_ms": 260866,
+      "name": "What A Way To Love",
+      "url": "https://open.spotify.com/track/5yir7jpd8N1iPyYgKO16nb"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 232186,
-      "name": "Ebony Woman",
-      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
+      "duration_ms": 230440,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
     },
     {
       "added_at": null,
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE"
         }
       ],
-      "duration_ms": 230440,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/2uXNAf7DPYZPgizWmlacBQ"
+      "duration_ms": 232186,
+      "name": "Ebony Woman",
+      "url": "https://open.spotify.com/track/1QjYM7bjbF0fwPDJMIs8z9"
     }
   ],
   "unique_name": "This Is Billy Paul",

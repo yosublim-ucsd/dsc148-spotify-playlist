@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-19",
-  "description": "This is Hozier. The essential tracks, all in one playlist.",
+  "description": "This is: Hozier. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Hozier",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 217480,
       "name": "Almost (Sweet Music)",
       "url": "https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv"
@@ -348,7 +348,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198026,
       "name": "Like Real People Do",
       "url": "https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9"
@@ -655,6 +655,24 @@
     },
     {
       "album": {
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323640,
+      "name": "To Be Alone",
+      "url": "https://open.spotify.com/track/1XJQ7xI6jzcZybuHemxsPP"
+    },
+    {
+      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -738,7 +756,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 266466,
       "name": "Wasteland, Baby!",
       "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"

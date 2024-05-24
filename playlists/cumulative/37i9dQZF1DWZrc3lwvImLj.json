@@ -5483,6 +5483,24 @@
     },
     {
       "album": {
+        "name": "Slow Solitude",
+        "url": "https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS"
+      },
+      "artists": [
+        {
+          "name": "From the Keys",
+          "url": "https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162795,
+      "name": "Slow Solitude",
+      "url": "https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31"
+    },
+    {
+      "album": {
         "name": "Slow Sorrow",
         "url": "https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx"
       },
@@ -6396,6 +6414,24 @@
       "duration_ms": 202232,
       "name": "Time of the Season",
       "url": "https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z"
+    },
+    {
+      "album": {
+        "name": "Tiny Feather",
+        "url": "https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca"
+      },
+      "artists": [
+        {
+          "name": "Steven Lombardo",
+          "url": "https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132943,
+      "name": "Tiny Feather",
+      "url": "https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV"
     },
     {
       "album": {

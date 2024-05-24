@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,714 likes - 273 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,715 likes - 273 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,15 +121,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 111 | [I Didn't Have Any Summer Romance](https://open.spotify.com/track/17F1e95eSGGcJq275iMNWQ) | [Simone White](https://open.spotify.com/artist/1qFOfghPhItJzIUt1iD1ty) | [I Am the Man](https://open.spotify.com/album/0bdgA41D4kZaO87Esq5wZU) | 3:26 |
 | 112 | [No One Ever Tells You](https://open.spotify.com/track/1Z4lNPJfSpbqN3V5j7YQEa) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Twist Uptown](https://open.spotify.com/album/1u6OEiAZAyZPCLE9frkKBZ) | 2:19 |
 | 113 | [Walk On In](https://open.spotify.com/track/3LoBQGP7Aq7Pj2y1dNkgsr) | [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Merry Clayton](https://open.spotify.com/album/7GpmPNM0lOE0i8bCvvTECX) | 2:44 |
-| 114 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
-| 115 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
+| 114 | [So Goes Love \(Unissued Single\) \- Remastered](https://open.spotify.com/track/5iDDDtMSRepWfHWkej90k3) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [All the Singles](https://open.spotify.com/album/2jZH2KFGsgqfRg1XmJlVUY) | 2:35 |
+| 115 | [One \(2018\)](https://open.spotify.com/track/2sHGdyw2CbhTdRfcw9vz2I) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [One \(2018\)](https://open.spotify.com/album/1Ofd1TE3WvCUZ3BOG4M3aw) | 2:43 |
 | 116 | [Big Mouth \( Going Through Changes\)](https://open.spotify.com/track/1D4vY3qrFTeYjg8wsErED5) | [TV Themes](https://open.spotify.com/artist/0clhXvKQeY8xOFIXwePnyR) | [Gogglebox \- The 80 Greatest TV Shows Of All Time](https://open.spotify.com/album/0uLk96XBFeFv6h0pnh2mbs) | 3:02 |
 | 117 | [There's A Space Between Us](https://open.spotify.com/track/6AebtnBPxHNDfsPE21Qhxr) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:19 |
 | 118 | [You Go Your Way, I'll Go Mine](https://open.spotify.com/track/3H62Xhas83DoIXeSMqV26y) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Wrap Around Joy](https://open.spotify.com/album/0u0ehiEE6XSZcWScJ9hVtz) | 3:32 |
 | 119 | [Weekdays](https://open.spotify.com/track/1THJmXtLRufpuVWBdG8Rul) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 2:44 |
-| 120 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 |
-| 121 | [Fantasy Beginning](https://open.spotify.com/track/0SPyg468DnNeAFV0uhwoKL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:02 |
-| 122 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 120 | [Under My Feet](https://open.spotify.com/track/5iiYDUrzuEe4wO6nOGrD4y) | [Selena Faider](https://open.spotify.com/artist/7ewdymCL6FW9BNPFXFuNgd) | [Under My Feet](https://open.spotify.com/album/1FinzhacrzKAqNUQBMix1o) | 2:54 |
+| 121 | [I Happen to Love You](https://open.spotify.com/track/5xXm5vwzXKIOdHt8fYXiBt) | [The Electric Prunes](https://open.spotify.com/artist/1kkpNi8Ii5MhBMxmUhN5g9) | [Underground](https://open.spotify.com/album/2mipvxkj3QDjpQjWaEdq7w) | 3:15 |
+| 122 | [Fantasy Beginning](https://open.spotify.com/track/0SPyg468DnNeAFV0uhwoKL) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Fantasy](https://open.spotify.com/album/3oBOHwgHLmI3HzN9nxaUZl) | 1:02 |
 | 123 | [Surely](https://open.spotify.com/track/76QndCpwsOKj5Wp8oNYVBm) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Music](https://open.spotify.com/album/6RWKpU7niokSEFMrrtAgBj) | 4:57 |
 | 124 | [High Out Of Time](https://open.spotify.com/track/1OG2IBegrMugiKf0QVjwRb) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:14 |
 | 125 | [Spaceship Races](https://open.spotify.com/track/2saV5owNXlCjz26RZ7R6pk) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Writer](https://open.spotify.com/album/6sy9uYbSfuhH1HCv2e6269) | 3:06 |
@@ -206,8 +206,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 196 | [I Need You](https://open.spotify.com/track/3aHyz5tqG7yDwwlPbC11Rl) | [The Walker Brothers](https://open.spotify.com/artist/49WlsIvcUYj7Awo93hDKgf) | [Take It Easy With The Walker Brothers \(Deluxe Edition\)](https://open.spotify.com/album/7hWOb0DJfQCoe6fgit6xhT) | 3:12 |
 | 197 | [Time Alone](https://open.spotify.com/track/1NafKB1PnWswTeIDhpBUv6) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Simple Things](https://open.spotify.com/album/5AJ4tMUKB5WOvIITI8JAZJ) | 2:37 |
 | 198 | [The Jag](https://open.spotify.com/track/3H1zLMU0FQ6G7rcyxmvSLN) | [The Micronauts](https://open.spotify.com/artist/119opyy80eY0fCemuyxg7v) | [The Jag](https://open.spotify.com/album/1db1N6pQ1qsUW74RjOQVfU) | 11:00 |
-| 199 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
-| 200 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
+| 199 | [Dancing](https://open.spotify.com/track/6wvnEX6pJP5HuVO5H8AGJt) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Speeding Time](https://open.spotify.com/album/6lKblzPniPSFL5LetqvyhZ) | 4:08 |
+| 200 | [Main Street Saturday Night](https://open.spotify.com/track/69Y2ZLjNJY3AUCuqVfMjWX) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Welcome Home](https://open.spotify.com/album/2JwpAbXZe3BAl8PObQMacv) | 5:44 |
 | 201 | [Move Lightly](https://open.spotify.com/track/28i8a4TY5EQbUWb8BwuR2a) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 4:57 |
 | 202 | [I Was Only Kidding](https://open.spotify.com/track/50Ry2wNgwEuduxu7s8Qfb3) | [Helen Shapiro](https://open.spotify.com/artist/05kB8yh0Bbxj73qH63Ob3C) | [Helen Shapiro](https://open.spotify.com/album/4D3i5fQz4JOYHndcmflSqz) | 2:20 |
 | 203 | [Dreamlike I Wander](https://open.spotify.com/track/75oO4mN21SVyLlQYwPMBvj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 3:53 |
@@ -257,8 +257,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 247 | [Du host an Freind](https://open.spotify.com/track/0WA3flY3EvqhxIPWrkitkt) | [Seer](https://open.spotify.com/artist/55PFCVxZdhFTclW84nNMIJ) | [Grundlsee](https://open.spotify.com/album/3vmcbqUdRBQszOxR2mFeXF) | 4:44 |
 | 248 | [Echoes](https://open.spotify.com/track/0wxVFIGfvpbkK1Q7TL8RL5) | [Teddy Randazzo](https://open.spotify.com/artist/7IAvIH8JtrxdwsydRKwh24) | [Presenting Teddy Randazzo](https://open.spotify.com/album/46cFy8s2CRTfIQkL6vnukg) | 2:48 |
 | 249 | [Blessed Is the Man](https://open.spotify.com/track/60OCAjSXxJCOKVsKhV9naE) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g) | [Rural Free Delivery](https://open.spotify.com/album/5ojLaEQWJ6Vwkw4CDiwmWn) | 3:43 |
-| 250 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
-| 251 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
+| 250 | [Stone Cold World](https://open.spotify.com/track/56aAxTCxS2c8ZzKvS1MUKJ) | [A.l.t.](https://open.spotify.com/artist/6vFKxAcVuWQhv5J6CO9dQz) | [Stone Cold World](https://open.spotify.com/album/6TpuGCW86cAyDhCqG6WE89) | 3:33 |
+| 251 | [They're Jealous of Me](https://open.spotify.com/track/187xOao5osxvhgVktYCEyC) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:54 |
 | 252 | [The Reunion \- Instrumental Interlude, Pt\. 1](https://open.spotify.com/track/03ZLYdHAN1IF9cFTwHrtZR) | [Blood, Sweat & Tears](https://open.spotify.com/artist/24GaH9tRBgZjlvOhpFuKi2) | [Rare, Rarer & Rarest](https://open.spotify.com/album/4jCUaQ3CEu82w3w0EYrELn) | 1:56 |
 | 253 | [The Slide](https://open.spotify.com/track/67Ae2TYDdJ3uymxLFynJmQ) | [Freddie Scott](https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT) | [Hey Girl](https://open.spotify.com/album/1NfKXGEGEAHmYSyAfVjdK9) | 2:04 |
 | 254 | [Randy](https://open.spotify.com/track/5S8fxFC40TaXOZGnax6Vzg) | [The Cookies](https://open.spotify.com/artist/1xbffduk2SYqON9nXu6jLt) | [Here come..\. The Cookies!](https://open.spotify.com/album/3BNDuPc2XRfeDMI6sCFBvG) | 2:13 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIRh12Xeaf6a.md) - [plain]
 | 272 | [He Who Laughs Last](https://open.spotify.com/track/0CHCBayT9d8c5VJFY8Rfhn) | [Freda Payne](https://open.spotify.com/artist/0701Axu6yvUIoctaKMbDIZ) | [That's a Pretty Good Love](https://open.spotify.com/album/1rYVaZD5cDiOyQhpDD7mjV) | 2:06 |
 | 273 | [So This Is How It Feels](https://open.spotify.com/track/67wjnFeLF2bsZbhDAf85wg) | [The Countrymen](https://open.spotify.com/artist/0C62w20FpxpOHiWM9UCObQ) | [One Fine Day: The Songs of Goffin & King](https://open.spotify.com/album/0j2kaxs6fKFcFYiCJ7uE96) | 1:49 |
 
-Snapshot ID: `AbSCwgAAAACbh290aH2SJntlVjB6R5U1`
+Snapshot ID: `AbSIbAAAAACvaue6XU2Kq4Oai5tHIc5z`

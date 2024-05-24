@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 
 > Rakkautta, mitä muuta ihminen tarvitsee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,941 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,947 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 50 | [We Belong Together](https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:21 |
 | 51 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 |
 | 52 | [Iris](https://open.spotify.com/track/6vrUTGn5p8IrfTZ0J6sIVM) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 4:49 |
-| 53 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
-| 54 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
+| 53 | [I Don't Want to Miss a Thing \- From "Armageddon" Soundtrack](https://open.spotify.com/track/225xvV8r1yKMHErSWivnow) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Armageddon \- The Album](https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890) | 4:58 |
+| 54 | [Save Tonight](https://open.spotify.com/track/0smyCrJiibi2uwCiq5R1vj) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/0zS5fFa2I679lrdhSPAyIe) | 4:02 |
 | 55 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 56 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 |
 | 57 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ9bL0U5HLS1.md) - [plain]
 | 61 | [Free Fallin' \- Live at the Nokia Theatre, Los Angeles, CA \- December 2007](https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Where the Light Is: John Mayer Live In Los Angeles](https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb) | 4:23 |
 | 62 | [Euphoria](https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal](https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl) | 3:34 |
 | 63 | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/track/1bhUWB0zJMIKr9yVPrkEuI) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Perfect Duet \(Ed Sheeran & Beyoncé\)](https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA) | 4:19 |
-| 64 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
-| 65 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
+| 64 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
+| 65 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
 | 66 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
 | 67 | [Out Of Reach](https://open.spotify.com/track/0HKD13PLq2WicViBBhSrOl) | [GABRIELLE](https://open.spotify.com/artist/7rftfGIYEeZ79sLb58ZBDi) | [Rise](https://open.spotify.com/album/2KOwfgyufhsAO3Qaycw7sX) | 3:16 |
 | 68 | [How Do I Live](https://open.spotify.com/track/7BD50ATrF3Vab5FQy7vtK8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/5GIEvyzVeUKAs6Uf2EeoqD) | 4:26 |

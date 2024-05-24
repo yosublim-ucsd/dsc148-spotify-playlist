@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Hilda Lizarazu
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,901 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,971 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0URqd6gYywe.md) - [plain]
 | 94 | [La Canción que Pegó en el Palo](https://open.spotify.com/track/22vZWcv2TDPn0qocJgbvVj) | [Antonio Birabent](https://open.spotify.com/artist/66DfDCITtbXcmQnQfOMPqZ) | [La Canción que Pegó en el Palo](https://open.spotify.com/album/3XzxczDjDX13dF9Jspa9OQ) | 3:05 |
 | 95 | [La Llama](https://open.spotify.com/track/6uT7AhIuuUnzNA3KUc2Vk4) | [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND), [La Filarmónica de Montevideo](https://open.spotify.com/artist/6vONTlMXIFtiVD0OHF04Zl) | [La Llama](https://open.spotify.com/album/20mTTEnxl8XxXYVplAdxMm) | 3:54 |
 | 96 | [Esa Estrella Era Mi Lujo](https://open.spotify.com/track/5exsngywf8qMS6f00gKVWY) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [¡Bang! ¡Bang!..\. Estás Liquidado](https://open.spotify.com/album/07hue2DRapyJHxGJBROTYb) | 2:56 |
-| 97 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/4vsmIkU6VJa9dXXqasvzx0) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/2yk0KfigUqjNZSY0cov92M) | 5:30 |
-| 98 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 |
+| 97 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 |
+| 98 | [Ando Ganas \(Llora Llora\)](https://open.spotify.com/track/4vsmIkU6VJa9dXXqasvzx0) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Ay Ay Ay](https://open.spotify.com/album/2yk0KfigUqjNZSY0cov92M) | 5:30 |
 | 99 | [Heroína](https://open.spotify.com/track/4B8RgJYRFMljcAkehZiWO9) | [Sumo](https://open.spotify.com/artist/10AzTrYMPVVmpKoBP5bX9W) | [Obras Cumbres](https://open.spotify.com/album/4PJLMwI0oUtDRTT8auZoaP) | 5:41 |
 | 100 | [Tan lejos](https://open.spotify.com/track/2Od0CgYgYgeCXFyZazD98g) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No te va gustar](https://open.spotify.com/album/3PxAIBUAZKdZj4Lt5APY9d) | 4:59 |
 

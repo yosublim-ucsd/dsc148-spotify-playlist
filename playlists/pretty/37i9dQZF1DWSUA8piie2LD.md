@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,803 likes - 75 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,882 likes - 75 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 34 | [Fields of Gold](https://open.spotify.com/track/0f8lc6QabkwdZ89O2qRXkp) | [Fourplay](https://open.spotify.com/artist/3PcMolaGsh2nryvBR2sQOS) | [Journey](https://open.spotify.com/album/3O6pouh9bYPTnzzpl1ssPI) | 5:40 |
 | 35 | [Sensuality](https://open.spotify.com/track/0TVibo6weBhjmRzg58r3o7) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [It's On Tonight](https://open.spotify.com/album/2gAu03wff5WwtTpGYR5vhK) | 6:32 |
 | 36 | [Night Rider](https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ) | [Paul Taylor](https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ) | [Steppin' Out](https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF) | 3:58 |
-| 37 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
-| 38 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 37 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 38 | [Nice And Easy](https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:23 |
 | 39 | [Nightfall](https://open.spotify.com/track/7fKo8Bl3VEm87tc70jx05r) | [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Full Stride](https://open.spotify.com/album/30r0DoPQxBqIz3RBoxpcSj) | 4:20 |
 | 40 | [Don't Let Me Be Lonely Tonight](https://open.spotify.com/track/1stVg1ixXQigAaehgcpH5h) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Livin' Large](https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU) | 2:58 |
 | 41 | [That's The Way Of The World](https://open.spotify.com/track/0wFUbc3DrWqqspYSh9CaVt) | [Kim Pensyl](https://open.spotify.com/artist/7sbq6t503omImbup1N0VSN) | [Under The Influence](https://open.spotify.com/album/0F9VmgpDS1p5JYnVhBWLJC) | 5:43 |
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSUA8piie2LD.md) - [plain]
 | 52 | [Island Life](https://open.spotify.com/track/2nvhYu33Fyn0dxrHCoL8JI) | [Ken Navarro](https://open.spotify.com/artist/6qA8zAyPYgmtPQtQz2G96a) | [Island Life](https://open.spotify.com/album/1P3vDwvnFDlSJJrBwEI7qb) | 4:48 |
 | 53 | [The Ride](https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH) | [Kim Waters](https://open.spotify.com/artist/6kgHtfY7ECO4JWbOpXOu4I) | [Someone To Love You](https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B) | 4:50 |
 | 54 | [I Just Can't Let Go](https://open.spotify.com/track/375aCphxz2nRUZziqUS3LB) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [For The Love](https://open.spotify.com/album/7rH0t9v68yG61kF8fuqRJp) | 4:40 |
-| 55 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
+| 55 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
 | 56 | [Without Your Love](https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw) | [Brian Culbertson](https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE) | [Nice & Slow](https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM) | 4:48 |
 | 57 | [Midnight In Manhattan](https://open.spotify.com/track/3HMDFevQzJFDInhHmP2sRM) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Perfect Moment](https://open.spotify.com/album/26mZwyn3GPRjgaRZmaCwhr) | 4:49 |
-| 58 | [Angel In Paris](https://open.spotify.com/track/1fUa03IMAd3cRKQvrVgEV1) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Flipside](https://open.spotify.com/album/5jJnmTSaatjd3tXpfXaEzd) | 5:12 |
+| 58 | [If Only For One Night](https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S) | [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Colors](https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW) | 4:36 |
 | 59 | [Lip Service](https://open.spotify.com/track/2fmT3fYkiWXFFZ6YKm7voS) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Lip Service](https://open.spotify.com/album/0XjSocr8jNCwaBZqxwJnEw) | 4:35 |
 | 60 | [Paradise](https://open.spotify.com/track/4iEcxF2XFAGquAOrQlXoBv) | [Norman Brown](https://open.spotify.com/artist/79kOOyVKcrCOKDnzcDHsia) | [Celebration](https://open.spotify.com/album/017sfmPLIwMa1r0hpgDnLy) | 4:25 |
 | 61 | [Anywhere Near You](https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb) | [Russ Freeman](https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO) | [Drive](https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ) | 4:45 |

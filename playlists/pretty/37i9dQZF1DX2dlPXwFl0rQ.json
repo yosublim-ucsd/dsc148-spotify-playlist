@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Ivonne Galaz en portada.",
-  "num_followers": 104588,
+  "num_followers": 104609,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Se Dice Facil",
         "url": "https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 155300,
       "name": "Se Dice Facil",
       "url": "https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Mariachi Y Tequila",
-        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Cuando Hablo De Ti",
-      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Aprendiz",
         "url": "https://open.spotify.com/album/7JLeFKD3oZnZ6VHmEn854y"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 223426,
       "name": "Aprendiz",
       "url": "https://open.spotify.com/track/0KI94DLbKBVnTKt9lEKPOy"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Mariachi Y Tequila",
+        "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Cuando Hablo De Ti",
+      "url": "https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Graciela Beltran 14 Super Exitos",
         "url": "https://open.spotify.com/album/2Yftqok3ZWYM1wu3ESWvaS"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 154000,
       "name": "Lo Dijiste Todo - En Vivo",
       "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Mujeres al Tiro",
-        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 145962,
-      "name": "Mujeres al Tiro",
-      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Dej\u00e9moslo As\u00ed",
         "url": "https://open.spotify.com/album/68uoaAVX3lfeKD2igm1SX1"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Mi Culpa",
-        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
+        "name": "Mujeres al Tiro",
+        "url": "https://open.spotify.com/album/577zkQIUhCOe1sNx2UT3Hg"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 268733,
-      "name": "Mi Culpa",
-      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+      "duration_ms": 145962,
+      "name": "Mujeres al Tiro",
+      "url": "https://open.spotify.com/track/5xQKTTsrltk1SBrWTGjzD8"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+        "name": "Mi Culpa",
+        "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
       },
       "artists": [
         {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 157306,
-      "name": "Fotos Y Recuerdos",
-      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+      "duration_ms": 268733,
+      "name": "Mi Culpa",
+      "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 157306,
+      "name": "Fotos Y Recuerdos",
+      "url": "https://open.spotify.com/track/0kQOWm8vYnQEb2gVWITaAA"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Corridos Empoderados",
         "url": "https://open.spotify.com/album/6r6JRi3rLCuIP0YVIGe43w"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 156765,
       "name": "El Tubo y la Blindada",
       "url": "https://open.spotify.com/track/5ZNYDmqWUMDWMSZHHrut9d"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Tu \"Nada Que Ver\"",
         "url": "https://open.spotify.com/album/1kb2qHM5RE5fgYloTnvHZR"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "DDC",
-        "url": "https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61"
-      },
-      "artists": [
-        {
-          "name": "DiDi R",
-          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
-        }
-      ],
-      "duration_ms": 186983,
-      "name": "DDC",
-      "url": "https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Mucha Mujer",
         "url": "https://open.spotify.com/album/0wcdDm599TVgIDv6TOpsgz"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 156067,
       "name": "Mucha Mujer",
       "url": "https://open.spotify.com/track/7nrs4Gq5GLgSnmwUlm7Mh2"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Ah\u00ed Les Encargo (En Vivo)",
+        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 171721,
+      "name": "Ah\u00ed Les Encargo (En Vivo)",
+      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Ah\u00ed Les Encargo (En Vivo)",
-        "url": "https://open.spotify.com/album/55mcVemF3Sri7RplGs6yje"
+        "name": "Inolvidable",
+        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "DiDi R",
+          "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 171721,
-      "name": "Ah\u00ed Les Encargo (En Vivo)",
-      "url": "https://open.spotify.com/track/32GacqqrxINuhWOuDGQI2R"
+      "duration_ms": 153665,
+      "name": "Inolvidable",
+      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Desde La Capital Del Corrido, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/6dxy3pwF7XdCqq6epojLsP"
+      },
+      "artists": [
+        {
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+        }
+      ],
+      "duration_ms": 164481,
+      "name": "El Sera Y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/5jLgewYLafUMtUrlw7sO5l"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "En Vivo: Irene del Rosario",
         "url": "https://open.spotify.com/album/6BbQay1OCtcxDV3HiqRHcN"
       },
@@ -1563,8 +1579,8 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Inolvidable",
-        "url": "https://open.spotify.com/album/0mH6NFmKHwFfnPah2zVwxB"
+        "name": "DDC",
+        "url": "https://open.spotify.com/album/73kfcjW3oBTvxHiY1X7p61"
       },
       "artists": [
         {
@@ -1572,25 +1588,9 @@
           "url": "https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM"
         }
       ],
-      "duration_ms": 153665,
-      "name": "Inolvidable",
-      "url": "https://open.spotify.com/track/2EfvlYuCAhPe9NnstnZJDx"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Desde La Capital Del Corrido, Vol. 2 (En Vivo)",
-        "url": "https://open.spotify.com/album/6dxy3pwF7XdCqq6epojLsP"
-      },
-      "artists": [
-        {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
-        }
-      ],
-      "duration_ms": 164481,
-      "name": "El Sera Y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/5jLgewYLafUMtUrlw7sO5l"
+      "duration_ms": 186983,
+      "name": "DDC",
+      "url": "https://open.spotify.com/track/4IaMG4UOgitE01E6pYN9ZE"
     },
     {
       "added_at": "2024-05-17 06:00:00",

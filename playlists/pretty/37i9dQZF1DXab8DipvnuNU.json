@@ -1,6 +1,6 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 28649,
+  "num_followers": 28673,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Just Fine",
-      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
-    },
-    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "Songs In The Key Of Life",
@@ -863,6 +847,22 @@
       "duration_ms": 428222,
       "name": "As",
       "url": "https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn"
+    },
+    {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "Just Fine",
+      "url": "https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2023-06-16 17:58:31",
       "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
         "name": "Rufus Featuring Chaka Khan",
         "url": "https://open.spotify.com/album/3iWfRfxjYYQFN2Kvh3GuYX"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 200146,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/0bqZnsPz4klg5TuWGcKb34"
-    },
-    {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2020-07-23 21:45:59",

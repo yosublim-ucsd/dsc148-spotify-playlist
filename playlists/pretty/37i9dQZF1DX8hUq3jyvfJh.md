@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Céu e mais mulheres no volume máximo! Co\-curadoria com Céu
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,197 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,207 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 14 | [Encantos Mil](https://open.spotify.com/track/58V27gOu67oPUHDFMKu28f) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Encantos Mil](https://open.spotify.com/album/2nXesv3OqUatWUViOpmSoq) | 2:48 |
 | 15 | [Golpe Baixo](https://open.spotify.com/track/1iNV0uXItYDRZjVLSj2zgO) | [Joyce Alane](https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG) | [Golpe Baixo](https://open.spotify.com/album/3hdf3xENSIWkNHox6Jr43K) | 2:38 |
 | 16 | [não sei dançar \(acústico\)](https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4) | [Maria Maud](https://open.spotify.com/artist/2cEDFopNYB1CRgT5P8t1bM) | [a trilha do carro dos meus pais \(acústico\)](https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM) | 2:24 |
-| 17 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
-| 18 | [BONITA](https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 2:42 |
+| 17 | [BONITA](https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl) | [Clarissa](https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK) | [AGRIDOCE \(PARTE 1\)](https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn) | 2:42 |
+| 18 | [Sonhos & Ilusões \- acoustic](https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE), [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [Sonhos & Ilusões \(acoustic\)](https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f) | 3:51 |
 | 19 | [Summertime](https://open.spotify.com/track/5zquV7va41xkZZNXWBA4Tw) | [Rosinha De Valença](https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B) | [Um Violão em Primeiro Plano](https://open.spotify.com/album/2gRu1FqkaEtzVrJprvpwSM) | 3:01 |
 | 20 | [Carinha De Problema](https://open.spotify.com/track/6vbMrA3aVBPRW1ywKVDEYa) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn), [CANETARIA](https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS) | [Carinha De Problema](https://open.spotify.com/album/1dABET9ANzLH053hXWtfoD) | 2:43 |
 | 21 | [Me Deixa Em Paz](https://open.spotify.com/track/2Pj7HeGeJTkka3l1m649YG) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Clube Da Esquina](https://open.spotify.com/album/5risYG7klZCSLMNxB9dZhf) | 3:05 |

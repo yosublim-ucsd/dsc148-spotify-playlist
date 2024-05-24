@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,435 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,575 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 61 | [Hold On Tight](https://open.spotify.com/track/1o844wI52S3TjXGBwvGcc7) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Hold On Tight](https://open.spotify.com/album/4bWGRs1SqNwFXaRDXRAANN) | 2:29 |
 | 62 | [Love Shot](https://open.spotify.com/track/0yB4jrSwN0bFtFRDR5vyMj) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [LOVE SHOT– The 5th Album Repackage](https://open.spotify.com/album/3r5m8utqRZYJnpep7xxVyq) | 3:20 |
 | 63 | [Love Me Like This](https://open.spotify.com/track/6P3CtlzTKLxcNYGOS3es8m) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/6GbCvETnCVvkpvK6qCqTYS) | 3:08 |
-| 64 | [Typa Girl](https://open.spotify.com/track/3BHR1mJOqn2UZyq98YKPgd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 2:59 |
-| 65 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
-| 66 | [Don't Go Insane](https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Don't Go Insane](https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1) | 3:24 |
-| 67 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 |
+| 64 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
+| 65 | [Typa Girl](https://open.spotify.com/track/3BHR1mJOqn2UZyq98YKPgd) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0S4pP8MBY9p7ngFWIZQAJv) | 2:59 |
+| 66 | [Shhh](https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [KISS OF LIFE](https://open.spotify.com/album/5k34rAvlw3WV7Kh6dAZnxG) | 3:02 |
+| 67 | [Don't Go Insane](https://open.spotify.com/track/5izX3yhDZHqQFi8p2m6RHi) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Don't Go Insane](https://open.spotify.com/album/4GLbvgylMSGQ87JZL0TER1) | 3:24 |
 | 68 | [Future Perfect \(Pass the MIC\)](https://open.spotify.com/track/6PRy17C5LiiN7VCLS6IA98) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [MANIFESTO : DAY 1](https://open.spotify.com/album/5J8MNLLViH5zqM6VoGErz8) | 3:00 |
 | 69 | [Rover](https://open.spotify.com/track/3WUyu94psXrYV6HZbXgcFA) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak) | [Rover \- The 3rd Mini Album](https://open.spotify.com/album/5gzd4IZ9KTwW6Hhgll1K7U) | 2:54 |
 | 70 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 83 | [Pretty Savage](https://open.spotify.com/track/28tufPkTcXmdNqTvi9hsoG) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/2gNPnKP1PDkB5SZz3IMKuX) | 3:19 |
 | 84 | [All Night \(feat\. Saweetie\)](https://open.spotify.com/track/1hkeifGMiDQjXlvAsIoDaa) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All Night \(feat\. Saweetie\)](https://open.spotify.com/album/3m4sanPtJZrKkYMxSbjRRP) | 3:17 |
 | 85 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 |
-| 86 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 |
-| 87 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 86 | [Beatbox](https://open.spotify.com/track/0CatzXH85XWyBqqdB6qPMB) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Beatbox \- The 2nd Album Repackage](https://open.spotify.com/album/4sM1qNxjzxOvoH6jeFHx3W) | 3:25 |
+| 87 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 |
 | 88 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 89 | [HIP](https://open.spotify.com/track/24nK8tW7Pt3Inh2utttuoG) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [reality in BLACK](https://open.spotify.com/album/7CucpzwxAZ6kHmctI9eo4X) | 3:15 |
 | 90 | [Likey](https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicetagram](https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y) | 3:27 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnRSDTCsoPk.md) - [plain]
 | 94 | [MOMMAE \(Feat\. Ugly Duck\)](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [WORLDWIDE](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 |
 | 95 | [Devil by the Window](https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 3:06 |
 | 96 | [Pretty U](https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 1ST ALBUM \[FIRST ‘LOVE&LETTER’\]](https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn) | 3:27 |
-| 97 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
+| 97 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
 | 98 | [Guerrilla](https://open.spotify.com/track/0tYZo2UhV1lrUez5CA0Iyw) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [THE WORLD EP.1 : MOVEMENT](https://open.spotify.com/album/3fgDrbflffzvV3H3plG9e6) | 3:27 |
-| 99 | [BANG BANG BANG](https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [MADE](https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY) | 3:40 |
+| 99 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
 | 100 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 
 Snapshot ID: `ZhdQBQAAAAAaI7szPIyBlf77d0xinRlv`

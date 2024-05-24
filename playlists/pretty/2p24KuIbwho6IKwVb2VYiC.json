@@ -1,12 +1,12 @@
 {
-  "description": "The best Dance and EDM tracks right now! Cover: MEDUZA, OneRepublic, Leony ",
-  "num_followers": 20417,
+  "description": "The best Dance and EDM tracks right now! Cover: Nelly Furtado, Tove Lo &amp; SG Lewis",
+  "num_followers": 20421,
   "original_name": "New Dance Hits 2024",
   "owner": {
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAeIWJED4A7GI4r+dGZv5t1RTSaiakO",
+  "snapshot_id": "AAAeI/p2kJznH7vxUVqsZmBE9h4hXmiK",
   "tracks": [
     {
       "added_at": "2024-05-22 19:35:05",
@@ -31,30 +31,6 @@
       "duration_ms": 167559,
       "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
       "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
-    },
-    {
-      "added_at": "2024-05-22 20:04:33",
-      "album": {
-        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
-        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
-        }
-      ],
-      "duration_ms": 216979,
-      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
-      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     },
     {
       "added_at": "2024-05-22 19:35:05",
@@ -2227,6 +2203,30 @@
       "duration_ms": 186046,
       "name": "COULD BE WRONG",
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
+    },
+    {
+      "added_at": "2024-05-22 20:04:33",
+      "album": {
+        "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+        "url": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 216979,
+      "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
+      "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
     }
   ],
   "unique_name": "New Dance Hits 2024",

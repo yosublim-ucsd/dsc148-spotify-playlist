@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 
 > 在音樂的懷抱裡，你想哭就哭。我們一起努力了那麼久，最後卻還是敗給不適合。
 
-[Spotify](https://open.spotify.com/user/spotify) - 185,624 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,628 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3IJ2kse1M3.md) - [plain]
 | 31 | [你还要我怎样](https://open.spotify.com/track/0kuKQQMx6L3efJuRVTgWQb) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [意外](https://open.spotify.com/album/6fdVEfGvTcT7TgipOorHD5) | 5:10 |
 | 32 | [記得](https://open.spotify.com/track/6bBs2Ws2YfdSlT3gNC2ZN0) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp), [Jerry Lin](https://open.spotify.com/artist/1XmumGa6Cu6YPXpPFkLNMm) | [真實](https://open.spotify.com/album/3hIxtGdXE0qPrSRGZwnPbw) | 4:46 |
 | 33 | [退後](https://open.spotify.com/track/5Dz3XIMSUiChhvmUIK38YS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/6D7H9eUkaMPJ1M3p6ioljZ) | 4:21 |
-| 34 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
-| 35 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
+| 34 | [匿名的好友](https://open.spotify.com/track/0o9XsvHqGY2L8E6LRztDv1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [雨愛](https://open.spotify.com/album/6SH07iXCRCVUTYtHW5k8y8) | 4:21 |
+| 35 | [有一種悲傷 \- 電影《比悲傷更悲傷的故事》主題曲](https://open.spotify.com/track/3ayrHkyorPEpeOBvZ76SwG) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [有一種悲傷 \(電影《比悲傷更悲傷的故事》主題曲\)](https://open.spotify.com/album/68NAOLFISOsBsyMLA2fUPf) | 3:57 |
 | 36 | [我愛的人](https://open.spotify.com/track/4OHaQq5eqpRgCqgVY3MpQY) | [Jordan Chan](https://open.spotify.com/artist/4EefQ1H6Qg9W5Gv7eVLC9U) | [抱一抱](https://open.spotify.com/album/5URZXsixxj3GDGZPeDDaXg) | 4:26 |
 | 37 | [地球上最浪漫的一首歌](https://open.spotify.com/track/5V3eOL0Zyb3OqhwOmFRvyO) | [Alien Huang](https://open.spotify.com/artist/4kVy1sDTGmCWzxmzY6soNZ) | [愛&英雄 LOVE HERO](https://open.spotify.com/album/2GjxUO3a9vqRChJcZSJ25U) | 4:41 |
 | 38 | [街角的祝福](https://open.spotify.com/track/1M5MN2PnMtf7YhnqukD4xa) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [Just Sing It](https://open.spotify.com/album/7Jx7AkjH18dy4gnaqCMNNz) | 4:08 |

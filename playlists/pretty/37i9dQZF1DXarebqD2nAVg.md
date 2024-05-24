@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 
 > Raw, sentimental feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,582 likes - 72 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,611 likes - 72 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 5 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
 | 6 | [stars](https://open.spotify.com/track/3ac8arqtWalbF7IOrgXzoi) | [Tooslo](https://open.spotify.com/artist/3CBEpst0ojgj2ZBmzDighK) | [stars](https://open.spotify.com/album/7zATELz7aEu6qqWkPt4f47) | 2:12 |
 | 7 | [Call It A Night](https://open.spotify.com/track/4T7oDgtpVj7mvGseuU7nyA) | [jon pm](https://open.spotify.com/artist/0hEvTw85lFywhlAfgEc8VH) | [Call It A Night](https://open.spotify.com/album/1Xr2BvONEbJF8jKapfbg8O) | 2:21 |
-| 8 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
-| 9 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
-| 10 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 8 | [kyoto dreams](https://open.spotify.com/track/7EzZ5GTsVwWApFLJyv6znP) | [WAIIFUU](https://open.spotify.com/artist/4HW4cjXaCVyNsbxUjyikIY) | [kyoto dreams](https://open.spotify.com/album/3msbu1P8p3H5umoFgmosLT) | 2:24 |
+| 9 | [buffering](https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [buffering](https://open.spotify.com/album/3syTXC5V5QHDPFMVIbdQ8L) | 2:05 |
+| 10 | [typewriter](https://open.spotify.com/track/0J7Fq0zoBOj4Sfcxy7kyg4) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [typewriter](https://open.spotify.com/album/3a0OsiJ0NMiqiy7W7T8Yfa) | 2:03 |
 | 11 | [no reply](https://open.spotify.com/track/3Ji8JYWfwb48AxDvlpLmtB) | [aUra Lu](https://open.spotify.com/artist/2KF0lKsVByoJPAnLjby9ag) | [no reply](https://open.spotify.com/album/0wBSKUgKu6jsZRE3NPBaPw) | 2:10 |
 | 12 | [fingerlock](https://open.spotify.com/track/3oRubNxLgB33gbB7OqfhNg) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [fingerlock](https://open.spotify.com/album/30gzL3AApuVLB10SZXooW2) | 2:06 |
 | 13 | [Disconnect](https://open.spotify.com/track/0wtiWVOOK5PJ4yP3VcnTui) | [A Space for Rent](https://open.spotify.com/artist/2KwuWKQTW1b7IAzs7eEEGX) | [Disconnect](https://open.spotify.com/album/3rhmOQwuwvh2YOevVyAcFQ) | 2:00 |
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 16 | [Fonnes](https://open.spotify.com/track/65UIzaDJ2rx4pITfzsBCp6) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Fonnes](https://open.spotify.com/album/04ImQ4X8Cf4mrs9jK4KOLB) | 2:14 |
 | 17 | [cabin in the woods](https://open.spotify.com/track/68Tr47vEwCpIwHfD71BfEY) | [L O K P I K](https://open.spotify.com/artist/5cBhqrr27KHAzJ5GyoApmh) | [cabin in the woods](https://open.spotify.com/album/7hIKQzPwgFFZCJ1Hn3JyE6) | 2:02 |
 | 18 | [perspective](https://open.spotify.com/track/3aLdjPCbmgvfAo3K0zDgRh) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [perspective](https://open.spotify.com/album/3q7cd1dOCKHaIsrovofGGk) | 1:57 |
-| 19 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
-| 20 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
-| 21 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
-| 22 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
-| 23 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
+| 19 | [trading places](https://open.spotify.com/track/3kNIeRg8ylrkCzZ28D28Rj) | [Mig Palmer](https://open.spotify.com/artist/71xp4bzwr88dkz3t8vTL3Y) | [trading places](https://open.spotify.com/album/6IHy6eRU3YJCEuEmkrfKdP) | 1:48 |
+| 20 | [Clouds](https://open.spotify.com/track/1KohJWIWwDDw7mBxs2wv90) | [Bill Snoozer](https://open.spotify.com/artist/20z7TXde6nPUsv561EMQZo) | [Clouds](https://open.spotify.com/album/3Qz7hcEsSRjN1akGaNuM4N) | 2:44 |
+| 21 | [Hydra](https://open.spotify.com/track/3rWFeNkAIxfHy0MvHdzvAj) | [Smith Village Beat Street](https://open.spotify.com/artist/40rTd7D3ud1Q9BB4Qop0WF) | [21st Trail](https://open.spotify.com/album/2TYiO5QeDiFYvPy0NzajDb) | 1:47 |
+| 22 | [Breakfast In Bed](https://open.spotify.com/track/55LPJYCwffJ7GYemDPQ47K) | [Springy Dustfield](https://open.spotify.com/artist/161rkKoqy3Q0aEBT1A3YPm) | [Breakfast In Bed](https://open.spotify.com/album/1mAPw9uF9teoADOpISmCTa) | 2:46 |
+| 23 | [Dreemin'](https://open.spotify.com/track/6L4ZXA6ROpbQCF8UlDqZ9A) | [\_tag](https://open.spotify.com/artist/0B3KPEKVLbLSOmCK0aTMMi) | [Dreemin'](https://open.spotify.com/album/44WEHjidINWRXTcjHP9mF0) | 2:11 |
 | 24 | [Blue Side](https://open.spotify.com/track/1PSbDjjGuMpfGeKaHZGiwh) | [Qommodity](https://open.spotify.com/artist/5Pts11yzPI5Qsl7PmTed5P) | [Blue Side](https://open.spotify.com/album/2PPei5ygMvZ0Zk1tDSIxZX) | 2:08 |
 | 25 | [lunar walk](https://open.spotify.com/track/6ZJjAycopbrK5ab4Q2YImx) | [laura ploy](https://open.spotify.com/artist/3pzECkhcxMJJSIsi1ZIAaD) | [lunar walk](https://open.spotify.com/album/155VVaMjlTDghYkltp5CUE) | 2:00 |
 | 26 | [superabundance](https://open.spotify.com/track/2DPG9HEimTlt2QNUuIvHw8) | [Mickey Jam](https://open.spotify.com/artist/0QeBXI6ruzIKKQ7EkrDBr9) | [superabundance](https://open.spotify.com/album/4yNUijpA7k9oEHau2G3AGC) | 2:19 |
-| 27 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
-| 28 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
+| 27 | [dream surfer](https://open.spotify.com/track/2Wj1sIJ6XxtR8R8aJwEKVt) | [loyCOY](https://open.spotify.com/artist/7pK6BN9GZMUosqH5DPKmC7) | [dream surfer](https://open.spotify.com/album/4uKVu6udzIh40UujqTfO97) | 2:24 |
+| 28 | [Cozy Nights](https://open.spotify.com/track/0xBVQOvIcIykazu03CZQkm) | [Weekly Bagel](https://open.spotify.com/artist/4sNuTGFAUTDkusl3fhpOgL) | [Cozy Nights](https://open.spotify.com/album/4POj4KRaWdw4zWdV7hLL3B) | 2:03 |
 | 29 | [soft plushies](https://open.spotify.com/track/0CxiIgeeY64oIFG0bbbYi1) | [Blue Noodles](https://open.spotify.com/artist/36CY2nngJsTx73EZyW6Ixq) | [soft plushies](https://open.spotify.com/album/6Yau9wpqAvrt9ahWvenwdu) | 2:24 |
 | 30 | [curled up](https://open.spotify.com/track/1eb0KT4XSTq2Gt9C1MCqHm) | [drawn animal](https://open.spotify.com/artist/1Y6lFDIG5QZMrt1AlvW89P) | [curled up](https://open.spotify.com/album/6TosV7bDaKCr39dqtzHTz8) | 2:12 |
 | 31 | [Through My Window](https://open.spotify.com/track/4Hyaog3Ppn1pDwLzUX7vFt) | [day zee](https://open.spotify.com/artist/5L5AI6T2F4T5F7EdAuqH4L) | [Through My Window](https://open.spotify.com/album/5SBe4fbhILYGomxqJaDZx3) | 2:30 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarebqD2nAVg.md) - [plain]
 | 46 | [Stay In Bed](https://open.spotify.com/track/1ZRiNz4OJFI1oJ8A5EBA7k) | [Zap Strap](https://open.spotify.com/artist/26um9QT84sVd1uLgI3K6lN) | [Stay In Bed](https://open.spotify.com/album/3US880QWOU3JqaIOguUilz) | 2:04 |
 | 47 | [Melatonin](https://open.spotify.com/track/6GgEUzd0UDtcCTFh5tmuXI) | [Laflov](https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH) | [Soft Life](https://open.spotify.com/album/6lddJ60eyGfolq2i9Y7HTV) | 2:12 |
 | 48 | [Timeless](https://open.spotify.com/track/0ggWXuDQjK8EoQAFWQkJHX) | [Floreyyyy](https://open.spotify.com/artist/2fMMmMEc0ZPVLNggWnomXv) | [Timeless](https://open.spotify.com/album/6myBiEX4iPLOWQpGOVqXZm) | 2:28 |
-| 49 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 |
-| 50 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
+| 49 | [Woozy](https://open.spotify.com/track/15yOoJ6KjB2945Nuzhdtey) | [Toonorth](https://open.spotify.com/artist/5cnRXRa8otbppSiXvfdmo3) | [Adomania](https://open.spotify.com/album/2MjfX0GYyRsVUdqHtGZP7D) | 1:30 |
+| 50 | [dreary](https://open.spotify.com/track/1vepEjDDLAY1bNyxupZ4Ae) | [Gnavis](https://open.spotify.com/artist/5GArPXRmy5WUjYkkc0KVbp) | [diary 2018](https://open.spotify.com/album/4G6jljdW4ExppmD5dxfGHA) | 2:04 |
 | 51 | [Memories Fade](https://open.spotify.com/track/25EgaBai9ozYbPtHVbsu8M) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [Memories Fade](https://open.spotify.com/album/2nR1dUZXdvlBkcYzkRuloW) | 2:27 |
 | 52 | [Gone](https://open.spotify.com/track/1s5sE20grtcHlIDOo0V883) | [jalowo](https://open.spotify.com/artist/2D78J8PPLKuEZqmArTFlQS) | [Cinemotional, Vol\. 2](https://open.spotify.com/album/46BBiaHMDLvG25ei4TUIdf) | 2:03 |
 | 53 | [Don't Give Up](https://open.spotify.com/track/4ng1XfVomFP5xGYna6FLpR) | [Madson Project.](https://open.spotify.com/artist/7dEFLdpxjmqhnv5ePvCTP7), [Jack Cates](https://open.spotify.com/artist/555ddcMCcd9HAWnP5HuklH) | [If You Want Me](https://open.spotify.com/album/6QCAulBTfwAfkXbJYkTf2D) | 2:51 |

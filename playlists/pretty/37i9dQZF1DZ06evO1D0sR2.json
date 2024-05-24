@@ -1,12 +1,12 @@
 {
-  "description": "This is JJ Hairston. De viktigaste l\u00e5tarna samlade i en spellista.",
+  "description": "This Is JJ Hairston. Los temas esenciales, todos en una lista.",
   "num_followers": 2608,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAD+xwOfxBNJeJSk/ftHVU1l",
+  "snapshot_id": "Zk01gAAAAABJuQtBDmB3ehfdHsufvOYb",
   "tracks": [
     {
       "added_at": null,
@@ -343,30 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Joy Is Here (Live)",
-        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Melvin Crispell III",
-          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
-        },
-        {
-          "name": "Gathering Place Worship Choir",
-          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
-        }
-      ],
-      "duration_ms": 499448,
-      "name": "We Adore You - Live",
-      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -407,6 +383,30 @@
       "duration_ms": 537350,
       "name": "Great Jehovah",
       "url": "https://open.spotify.com/track/10YvnsJrmC4DOCoPaUZBnW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joy Is Here (Live)",
+        "url": "https://open.spotify.com/album/4Dp2qmQr1rgBYujOEgDWFB"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Melvin Crispell III",
+          "url": "https://open.spotify.com/artist/6zSsJYBB1393jyFNRy7JrK"
+        },
+        {
+          "name": "Gathering Place Worship Choir",
+          "url": "https://open.spotify.com/artist/6vTaIeXilOtVSuBJJacRfm"
+        }
+      ],
+      "duration_ms": 499448,
+      "name": "We Adore You - Live",
+      "url": "https://open.spotify.com/track/6X0MR8zGMm0HkrY0bbuOI3"
     },
     {
       "added_at": null,
@@ -646,11 +646,15 @@
         {
           "name": "JJ Hairston",
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Travis Greene",
+          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
         }
       ],
-      "duration_ms": 330558,
-      "name": "Lord You're Mighty",
-      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+      "duration_ms": 465962,
+      "name": "We Serve (feat. Travis Greene)",
+      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
     },
     {
       "added_at": null,
@@ -667,90 +671,6 @@
       "duration_ms": 342773,
       "name": "He Reigns",
       "url": "https://open.spotify.com/track/4w67C9ICVsxgbPzMqVRNYS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I See Victory",
-        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Youthful Praise",
-          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
-        },
-        {
-          "name": "Karen Clark Sheard",
-          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
-        }
-      ],
-      "duration_ms": 402946,
-      "name": "Awe Of You",
-      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Not Holding Back",
-        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Chris House",
-          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
-        }
-      ],
-      "duration_ms": 552369,
-      "name": "I Am Thankful",
-      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You Deserve It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 465962,
-      "name": "We Serve (feat. Travis Greene)",
-      "url": "https://open.spotify.com/track/1XcmuuYKOrWmDebXxb6VgP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 460413,
-      "name": "Love Lifted Me",
-      "url": "https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO"
     },
     {
       "added_at": null,
@@ -792,6 +712,86 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
+          "name": "Chris House",
+          "url": "https://open.spotify.com/artist/6VnxEUi7BfcBs9u6YsfTsZ"
+        }
+      ],
+      "duration_ms": 552369,
+      "name": "I Am Thankful",
+      "url": "https://open.spotify.com/track/78e5Uq7w3JlVBwEoOVSmac"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Deserve It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 330558,
+      "name": "Lord You're Mighty",
+      "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Victory",
+        "url": "https://open.spotify.com/album/48zrTwziXCA85DJLJ8n0OR"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Youthful Praise",
+          "url": "https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0"
+        },
+        {
+          "name": "Karen Clark Sheard",
+          "url": "https://open.spotify.com/artist/76dDIM8amCY58U3uvr1Rw1"
+        }
+      ],
+      "duration_ms": 402946,
+      "name": "Awe Of You",
+      "url": "https://open.spotify.com/track/7Mef0xVylvlkTW8hB7l6fl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 460413,
+      "name": "Love Lifted Me",
+      "url": "https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Holding Back",
+        "url": "https://open.spotify.com/album/2seg4b0qgYJiVhbecjdHhk"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
           "name": "Naomi Raine",
           "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
         },
@@ -803,6 +803,26 @@
       "duration_ms": 737711,
       "name": "You're Everything",
       "url": "https://open.spotify.com/track/6eF1yPvD0BgmiXQlucDM8Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Kymberli Joye",
+          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
+        }
+      ],
+      "duration_ms": 534949,
+      "name": "Miracle is You (feat. Kymberli Joye)",
+      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
     },
     {
       "added_at": null,
@@ -827,26 +847,6 @@
       "duration_ms": 267626,
       "name": "It Pushed Me",
       "url": "https://open.spotify.com/track/7oRmWR7by9slm6nbGMovmR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Kymberli Joye",
-          "url": "https://open.spotify.com/artist/3ret0C6J9DmZnqtQuptnfy"
-        }
-      ],
-      "duration_ms": 534949,
-      "name": "Miracle is You (feat. Kymberli Joye)",
-      "url": "https://open.spotify.com/track/5YViKpZPqiF2UuBtdj2lxT"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
       },
       "artists": [
         {
@@ -924,13 +924,17 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
         }
       ],
-      "duration_ms": 372013,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
+      "duration_ms": 420083,
+      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
+      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
     },
     {
       "added_at": null,
@@ -979,8 +983,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
       },
       "artists": [
         {
@@ -988,17 +992,13 @@
           "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
         },
         {
-          "name": "Tamela Hairston",
-          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
         }
       ],
-      "duration_ms": 420083,
-      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
-      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
+      "duration_ms": 372013,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
     },
     {
       "added_at": null,

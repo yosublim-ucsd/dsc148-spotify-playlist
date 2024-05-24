@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Harmonize",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Phina",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1950,6 +1950,28 @@
     {
       "album": {
         "name": "Hello",
+        "url": "https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum"
+      },
+      "artists": [
+        {
+          "name": "Malha",
+          "url": "https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f"
+    },
+    {
+      "album": {
+        "name": "Hello",
         "url": "https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft"
       },
       "artists": [
@@ -3266,6 +3288,28 @@
       "duration_ms": 252857,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/5POWdKYIuBfd2KvSPUtwIK"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. Nandy)",
+        "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211067,
+      "name": "Lonely (feat. Nandy)",
+      "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
     },
     {
       "album": {
@@ -6347,6 +6391,28 @@
     },
     {
       "album": {
+        "name": "Siji (feat. Toss)",
+        "url": "https://open.spotify.com/album/1v6OzvzSuLMw7QAT5kpOaJ"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        },
+        {
+          "name": "TOSS",
+          "url": "https://open.spotify.com/artist/0JwjW1x56tK5hnHvlRSSw9"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219823,
+      "name": "Siji (feat. Toss)",
+      "url": "https://open.spotify.com/track/6ssUS1CxYhJdTW3ZjOYrfm"
+    },
+    {
+      "album": {
         "name": "Simuachi",
         "url": "https://open.spotify.com/album/0CWFq3CqpGfflKb174f7Z0"
       },
@@ -8078,6 +8144,42 @@
       "duration_ms": 164210,
       "name": "You - E.A Remix",
       "url": "https://open.spotify.com/track/19fK3nUPSN9vHNy63zPDR5"
+    },
+    {
+      "album": {
+        "name": "Your Style",
+        "url": "https://open.spotify.com/album/3c1y2CkpzEsVO6C6qEM3zC"
+      },
+      "artists": [
+        {
+          "name": "Navy Kenzo",
+          "url": "https://open.spotify.com/artist/7oHH7jM5KdlCLHjr3OshQx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Your Style",
+      "url": "https://open.spotify.com/track/5n8bHFkGQyklpOqb2Swqca"
+    },
+    {
+      "album": {
+        "name": "Yumba",
+        "url": "https://open.spotify.com/album/27jDgHcDHAZ5VFMOUkHeZk"
+      },
+      "artists": [
+        {
+          "name": "Phina",
+          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188923,
+      "name": "Yumba",
+      "url": "https://open.spotify.com/track/14Okrc9sDLqoh29iJvHBe2"
     },
     {
       "album": {

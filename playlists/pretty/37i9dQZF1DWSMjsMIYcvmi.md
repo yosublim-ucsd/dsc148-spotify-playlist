@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 
 > Hey \(office\) DJ, turn the music up! 👩‍💻
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,711 likes - 70 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,715 likes - 70 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjsMIYcvmi.md) - [plain]
 | 53 | [Ubomi Abumanga](https://open.spotify.com/track/1Eum24tziiY0sRBRx7hWBb) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Ubomi Abumanga](https://open.spotify.com/album/4G3ordhXIF250USyNtUusu) | 5:32 |
 | 54 | [Power](https://open.spotify.com/track/6smYfKpqsvpmqBXkLjYGJo) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Power](https://open.spotify.com/album/1X6by3LWYlECdYOiyk3S3j) | 3:11 |
 | 55 | [Frequency](https://open.spotify.com/track/6aZzE6efPCZNzd6eusRFcr) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [Frequency](https://open.spotify.com/album/5C7Ov0SDP6goKXrw3CySdQ) | 3:17 |
-| 56 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
-| 57 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
-| 58 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
-| 59 | [Mortal Man](https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Mortal Man](https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2) | 3:55 |
+| 56 | [We Were Young](https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [We Were Young](https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ) | 3:34 |
+| 57 | [Don't Answer](https://open.spotify.com/track/7r4ktpN7S9DORPXVoyXaBN) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Don't Answer](https://open.spotify.com/album/3t08Js8O3fPiiPBSba91z6) | 3:42 |
+| 58 | [Mortal Man](https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Mortal Man](https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2) | 3:55 |
+| 59 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 |
 | 60 | [Drive \- Radio Edit](https://open.spotify.com/track/4Wy0zyVqKmNaex0eCOca5Z) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [Drive](https://open.spotify.com/album/6iwvcBpw9bYdTFjDR5BHez) | 3:11 |
 | 61 | [Colours & Lights](https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [Colours & Lights](https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO) | 3:08 |
 | 62 | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/track/0Y0xENhvytKvGEgEVd82D4) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Better Days \- Mejores Días \(with KHEA\)](https://open.spotify.com/album/2oVCeLycUdkke9NNXyEoWk) | 2:24 |
 | 63 | [Little Things](https://open.spotify.com/track/6e9LfLjJyQvJdIAkNPPU8u) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Little Things](https://open.spotify.com/album/1ZKejl4URkEWj3I6f2ppsL) | 3:36 |
 | 64 | [If The World Was Ending \(feat\. Julia Michaels\) \- Original Demo](https://open.spotify.com/track/1WnKdiEPEvd1Meo3gUipPe) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If The World Was Ending \(feat\. Julia Michaels\) \[Original Demo\]](https://open.spotify.com/album/1YjKDpybD8SS9rSHCjhvFq) | 3:31 |
-| 65 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
-| 66 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
-| 67 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
-| 68 | [By The Way](https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Motheo Moleko](https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT) | [By The Way](https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A) | 3:42 |
+| 65 | [By The Way](https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [Motheo Moleko](https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT) | [By The Way](https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A) | 3:42 |
+| 66 | [So Cool](https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE) | [The Planetoids](https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm), [Tamara Dey](https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9) | [So Cool](https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx) | 3:27 |
+| 67 | [Memories](https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Memories](https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc) | 3:09 |
+| 68 | [Future](https://open.spotify.com/track/3rZ29lqgtrpuIIuCdZaxEA) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Everything's Blurred But You](https://open.spotify.com/album/3ZNxdIgd8wFuQcFj6WhF6O) | 3:29 |
 | 69 | [SAD](https://open.spotify.com/track/1OluxsldzYJXlilQKnPh5B) | [Jethro Tait](https://open.spotify.com/artist/1gNzhazbuffPQaf5nkUdcP) | [SAD](https://open.spotify.com/album/3G5FFHZjZrucRS5tQh68NF) | 3:14 |
 | 70 | [Fetch Your Life \- Edit](https://open.spotify.com/track/5TjU2caAGjHBiPDS1BVA4q) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Fetch Your Life](https://open.spotify.com/album/2ponaGskmq7luVWgK4Drw4) | 5:24 |
 
-Snapshot ID: `Zj2/kwAAAAD3HJmxgIbxolkhGIV1/lxa`
+Snapshot ID: `Zk/L0AAAAAAPf0VKJy8L4tbJ6sZ5SNud`

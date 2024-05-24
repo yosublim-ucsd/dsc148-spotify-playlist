@@ -1,6 +1,6 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o",
-  "num_followers": 135564,
+  "num_followers": 135612,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,30 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
-        "name": "Cyberpunk",
-        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
+        "name": "Pecado Capital",
+        "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
       },
       "artists": [
         {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         },
         {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+          "name": "Bagua Records",
+          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
         },
         {
-          "name": "Neckklace",
-          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
+          "name": "Neo Beats",
+          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
         }
       ],
-      "duration_ms": 112131,
-      "name": "Cyberpunk",
-      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
+      "duration_ms": 185310,
+      "name": "Lux\u00faria",
+      "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
     },
     {
       "added_at": "2024-05-20 15:16:56",
@@ -335,30 +339,26 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
-        "name": "Pecado Capital",
-        "url": "https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3"
+        "name": "Cyberpunk",
+        "url": "https://open.spotify.com/album/37tMfPWBrcGJFtzQ5U35Lq"
       },
       "artists": [
         {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
         },
         {
-          "name": "Bagua Records",
-          "url": "https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk"
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
         },
         {
-          "name": "Neo Beats",
-          "url": "https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+          "name": "Neckklace",
+          "url": "https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d"
         }
       ],
-      "duration_ms": 185310,
-      "name": "Lux\u00faria",
-      "url": "https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm"
+      "duration_ms": 112131,
+      "name": "Cyberpunk",
+      "url": "https://open.spotify.com/track/79kpDaVsQQUKRKYaLVsBbK"
     },
     {
       "added_at": "2024-05-20 15:16:56",
@@ -803,6 +803,34 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Leviano",
+          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
+        }
+      ],
+      "duration_ms": 245987,
+      "name": "INEF\u00c1VEL (feat. Leviano)",
+      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
+    },
+    {
+      "added_at": "2024-05-20 15:16:56",
+      "album": {
         "name": "Assault (Joias no Pulso)",
         "url": "https://open.spotify.com/album/1q9DqRFJxfluFR3iX9rIRs"
       },
@@ -831,34 +859,6 @@
       "duration_ms": 274015,
       "name": "Assault (Joias no Pulso)",
       "url": "https://open.spotify.com/track/0x4Hiy4evh6K0fkhIsEE9s"
-    },
-    {
-      "added_at": "2024-05-20 15:16:56",
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "Leviano",
-          "url": "https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ"
-        }
-      ],
-      "duration_ms": 245987,
-      "name": "INEF\u00c1VEL (feat. Leviano)",
-      "url": "https://open.spotify.com/track/6a6UEfhgIKfzrZu1hqRYup"
     },
     {
       "added_at": "2024-05-20 15:16:56",
@@ -911,38 +911,6 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
-        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
-      },
-      "artists": [
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        }
-      ],
-      "duration_ms": 300689,
-      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
-      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
-    },
-    {
-      "added_at": "2024-05-20 15:16:56",
-      "album": {
         "name": "THE BOX MEDLEY 5",
         "url": "https://open.spotify.com/album/6qqxoTPnsQM5yHapA7WF6u"
       },
@@ -971,6 +939,38 @@
       "duration_ms": 189658,
       "name": "THE BOX MEDLEY 5",
       "url": "https://open.spotify.com/track/35djHlD5VERjzdKzFknuUs"
+    },
+    {
+      "added_at": "2024-05-20 15:16:56",
+      "album": {
+        "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+        "url": "https://open.spotify.com/album/6oMk1qAJIZC9a02hgQ9Wsv"
+      },
+      "artists": [
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        }
+      ],
+      "duration_ms": 300689,
+      "name": "A Cara do Crime 3 (Brinde \u00e0 Liberdade)",
+      "url": "https://open.spotify.com/track/3fSxnkjdgPucRCskjmAlgx"
     },
     {
       "added_at": "2024-05-20 15:16:56",
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
-        "name": "Lista De Contato",
-        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
-      },
-      "artists": [
-        {
-          "name": "Dudu",
-          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 122826,
-      "name": "Lista De Contato",
-      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
-    },
-    {
-      "added_at": "2024-05-20 15:16:56",
-      "album": {
         "name": "O Menino do Cabelo Rosa",
         "url": "https://open.spotify.com/album/0zkILF7vLuScNU2SqLGr37"
       },
@@ -1351,6 +1327,30 @@
       "duration_ms": 224491,
       "name": "Esqueceu Seu Brinco",
       "url": "https://open.spotify.com/track/29s3cKc0N9nS08Kc6Zv06B"
+    },
+    {
+      "added_at": "2024-05-20 15:16:56",
+      "album": {
+        "name": "Lista De Contato",
+        "url": "https://open.spotify.com/album/03uQr7q1MyOiW7qOQ1atNG"
+      },
+      "artists": [
+        {
+          "name": "Dudu",
+          "url": "https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 122826,
+      "name": "Lista De Contato",
+      "url": "https://open.spotify.com/track/6HQG4Qek65p5TwbMalqN1M"
     },
     {
       "added_at": "2024-05-20 15:16:56",
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2024-05-20 15:16:56",
       "album": {
+        "name": "Real Underground",
+        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 130231,
+      "name": "Real Underground",
+      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
+    },
+    {
+      "added_at": "2024-05-20 15:16:56",
+      "album": {
         "name": "De Lala - Spotify Singles",
         "url": "https://open.spotify.com/album/3KFcPPHqFd0BhuLCl95zGX"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 160000,
       "name": "De Lala - Spotify Singles",
       "url": "https://open.spotify.com/track/7xLxkTNVdoe7MMO7DduPed"
-    },
-    {
-      "added_at": "2024-05-20 15:16:56",
-      "album": {
-        "name": "Real Underground",
-        "url": "https://open.spotify.com/album/0UCLKwhMlg3fUozSrV1kSj"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 130231,
-      "name": "Real Underground",
-      "url": "https://open.spotify.com/track/2GZ7KgPU32sH4DdHlvFxal"
     },
     {
       "added_at": "2024-05-20 15:16:56",

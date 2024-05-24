@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-712 songs - 1 day 14 hr 57 min
+713 songs - 1 day 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -358,6 +358,7 @@
 | [Let It Go](https://open.spotify.com/track/1OFEzFogOuGlrjZt6jdz6l) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:22 | 2023-02-10 |  |
 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 | 2024-04-26 |  |
 | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/track/2kOdSOu7imEWFLgeYcY7tq) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Let Me Feel Your Charm \- Spotify Singles](https://open.spotify.com/album/3LOouZQ6CUoH29m6MnY8qV) | 2:42 | 2024-02-17 |  |
+| [Let Me Know](https://open.spotify.com/track/6ThpQpPBewDQv65CJBmD0J) | [Carlos Abril](https://open.spotify.com/artist/3EZSFgcjMOuvt39vZQDo7L), [Amelia Rose](https://open.spotify.com/artist/3UU07M4msKfDqC4c9JCnDl), [9ICK](https://open.spotify.com/artist/6kHG4q4IIYCw3ijwWZs6Zx) | [Let Me Know](https://open.spotify.com/album/7KvAGVlZvGAB0qGYcjoazV) | 3:56 | 2023-03-10 |  |
 | [Let This Go](https://open.spotify.com/track/5AvT8QuysDMHiqKD9lDulK) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Let This Go](https://open.spotify.com/album/4JtkxBWC37gnLUi1oWid1V) | 2:57 | 2023-10-27 |  |
 | [Let's Go Get Stoned](https://open.spotify.com/track/1XCqGflyHjZAE1BnRqWUc9) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Doin' Our Thing](https://open.spotify.com/album/2OWQVMKNjSZeTaVXpfHPX5) | 2:54 | 2021-12-15 | 2023-04-15 |
 | [Let's Stay Together](https://open.spotify.com/track/3spYJ0xnfApOUDuV3dkf5n) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Let's Stay Together](https://open.spotify.com/album/3SXhmpjNlep1yKcBU8Wk6i) | 3:38 | 2023-06-23 |  |
@@ -621,7 +622,7 @@
 | [Tell Me Something](https://open.spotify.com/track/7cY0pFesD6XUCx0v0Spw4Z) | [Gareth Donkin](https://open.spotify.com/artist/05G52WX5mk1SgWBoMJDKbN) | [Tell Me Something](https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9) | 4:17 | 2023-07-28 | 2023-10-20 |
 | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/track/3t7ohmWgtPcE1yXesf9oQU) | [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2), [Spillage Village](https://open.spotify.com/artist/7izarc0fRIPbdZ8cVyChRf), [Will Juergens](https://open.spotify.com/artist/4Jz0bwESNeDnb8eo1tvpXX), [Cam Chambers](https://open.spotify.com/artist/6ljxfnGOuwFBz8Uw6C5gUj) | [Terms & Conditions \(feat\. Will Juergens & Cam Chambers\)](https://open.spotify.com/album/2EsAhFe68A3wSzwp2lMyxA) | 3:55 | 2023-09-29 | 2023-11-09 |
 | [that's how it goes](https://open.spotify.com/track/5qtk6yMO0JXqtEzwEAsREF) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [that's how it goes](https://open.spotify.com/album/70M43ZOMnWArjX8dsVx5Ap) | 3:59 | 2024-03-15 |  |
-| [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 |  |
+| [the evidence](https://open.spotify.com/track/4jeT6Z5VHsmx4EEG3kED7n) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [the evidence](https://open.spotify.com/album/1rzilWEI5SkyiVnD9sjEAM) | 2:40 | 2023-11-10 | 2024-05-24 |
 | [The Glade](https://open.spotify.com/track/4tEeJe0AS4TbihaokDG6hG) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [The Glade](https://open.spotify.com/album/4S7Tec2MGsAVBRvJGDLJQa) | 3:42 | 2023-06-23 |  |
 | [The Healer](https://open.spotify.com/track/7otmKWoMlpWkrMnnIQHXEg) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [New Amerykah Part One \(4th World War\)](https://open.spotify.com/album/2cimRuhfNJk2k8dmnwnh2d) | 3:59 | 2021-12-15 | 2022-04-08 |
 | [The Man Who Has Everything](https://open.spotify.com/track/3woRy7uxzl1lO2XO99oHsN) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Man Who Has Everything](https://open.spotify.com/album/3oa90TbTT5bJwCUJ5fDmvu) | 3:38 | 2021-12-15 | 2022-09-30 |

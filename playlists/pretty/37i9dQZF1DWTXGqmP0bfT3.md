@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > brutal breakdowns and riffs to amp you up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,973 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,366 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 61 | [Sweet True Lies](https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:26 |
 | 62 | [Lift Me Up \(feat\. Rob Halford of Judas Priest\)](https://open.spotify.com/track/1LHZMWefF9502NPfArRfvP) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [The Wrong Side Of Heaven And The Righteous Side Of Hell, Volume 1](https://open.spotify.com/album/6vMTdFzBPjyrBSFkCvjUh3) | 4:06 |
 | 63 | [Meet Your Maker](https://open.spotify.com/track/5qZMqZspIglsy4SJxtJt0S) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone](https://open.spotify.com/album/1IqQ6UX3hzJLVXtRmui4w3) | 3:57 |
-| 64 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
+| 64 | [Remember Me](https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 4:04 |
 | 65 | [Demons Are a Girl's Best Friend](https://open.spotify.com/track/1KCDsPKFISNM2YZFFAoI7s) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:38 |
-| 66 | [Remember Me](https://open.spotify.com/track/3zwdN4h7DNlGlm3w4KylOM) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [The Death We Seek](https://open.spotify.com/album/0llAadNufIDvVRzWfSxQxC) | 4:04 |
+| 66 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
 | 67 | [Blind And Frozen](https://open.spotify.com/track/7iOSeHfKU2EhSKcX7TbjKG) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Berserker](https://open.spotify.com/album/499iZ0iesrciB5jO9jSOWx) | 5:04 |
 | 68 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 69 | [Prophecy of Ragnarök](https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0) | 3:42 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 74 | [Sanctified with Dynamite](https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:25 |
 | 75 | [Please End Me](https://open.spotify.com/track/6TlZSSNZd397eYRzbu5SaT) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Please End Me](https://open.spotify.com/album/4IHL9ClOQoD6bT0IipDgPi) | 3:11 |
 | 76 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
-| 77 | [Tears Don't Fall](https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 5:48 |
-| 78 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
+| 77 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
+| 78 | [Tears Don't Fall](https://open.spotify.com/track/7ln7o4q6y9h8qEc6hGrtr1) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/42QVkdlfEk9uaG0NboeKpq) | 5:48 |
 | 79 | [I Stand Alone](https://open.spotify.com/track/6eYUbXmncekAKMYZcsSkyD) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Faceless](https://open.spotify.com/album/1iNAtkD0iP1wEE8ItzfjZk) | 4:06 |
 | 80 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
 | 81 | [Black Thunder \(feat\. Serj Tankian and DL of Bad Wolves\)](https://open.spotify.com/track/7nqgVLMje8RzKrmNH2D6dg) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc), [Serj Tankian](https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM), [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [Daniel Laskiewicz](https://open.spotify.com/artist/4mZxb8qEgT8nkvrNaQFiMQ) | [Rumble of Thunder \(Deluxe\)](https://open.spotify.com/album/1WmySyMyPGVPlCpKQGQaEp) | 4:28 |

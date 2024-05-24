@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,400 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,503 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 46 | [Fidelity](https://open.spotify.com/track/1J2WmkS1Z18AuDWZCgIC5K) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Begin to Hope](https://open.spotify.com/album/4L4tcx3itXbtx5kuchKhFE) | 3:46 |
 | 47 | [What Else Is There?](https://open.spotify.com/track/2cTOee6bTauDFK1QuDS1BD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Understanding](https://open.spotify.com/album/1HkKeOklBwC1auQJ5Huwcm) | 5:17 |
 | 48 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 |
-| 49 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
-| 50 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
+| 49 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
+| 50 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
 | 51 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 |
 | 52 | [The Rat](https://open.spotify.com/track/2YIOkqKgg3jZEFoL5qcEPT) | [The Walkmen](https://open.spotify.com/artist/6kFay2DQ5aZfeu5OsrF3Pw) | [Bows + Arrows](https://open.spotify.com/album/4QR9jaNP6Ifh7eqXjhAHw2) | 4:22 |
 | 53 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 73 | [On Call](https://open.spotify.com/track/33YXSNBTg2KvbGur2E1XUw) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Because Of The Times](https://open.spotify.com/album/5xA2glxPh2OjEvvKiZXbR8) | 3:21 |
 | 74 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
 | 75 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
-| 76 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
-| 77 | [Shark In The Water](https://open.spotify.com/track/0TcFqXBMga80dWkWbzIl7p) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/65NVbd6VHdUFzRKfgtmmVu) | 3:04 |
+| 76 | [Shark In The Water](https://open.spotify.com/track/0TcFqXBMga80dWkWbzIl7p) | [V V Brown](https://open.spotify.com/artist/39ZHUueufhIdbW4yu9uODG) | [Travelling Like The Light](https://open.spotify.com/album/65NVbd6VHdUFzRKfgtmmVu) | 3:04 |
+| 77 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 78 | [Lloyd, I'm Ready To Be Heartbroken](https://open.spotify.com/track/52PuLmsxTDOI2WAqpzYjoT) | [Camera Obscura](https://open.spotify.com/artist/5gInJ5P5gQnOKPM3SUEVFt) | [Let's Get Out Of This Country](https://open.spotify.com/album/3NcGNYXKiHeygdXXL7czL1) | 3:51 |
 | 79 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |
 | 80 | [Take Her Back](https://open.spotify.com/track/5wmVTGxvksXYV9Dz2V2YNi) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 3:17 |

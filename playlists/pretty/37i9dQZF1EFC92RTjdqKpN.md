@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1D1lDfaOy483s8BIQRjBSS">JHart</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991 likes - 176 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 992 likes - 176 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 26 | [Dive Into You](https://open.spotify.com/track/0z3ZZ2JKusRpapstADTxVf) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:12 |
 | 27 | [Love Back](https://open.spotify.com/track/7weX6syqklVQocpVVmDNwI) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Love Back](https://open.spotify.com/album/4WVPdkba5QybMBD8szrRwB) | 3:05 |
 | 28 | [Untouchable](https://open.spotify.com/track/05dL7chWJaVjMJnGO1YCKk) | [Tritonal](https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Untouchable](https://open.spotify.com/album/3SDHTZyc0Bc84ePaIzchrd) | 3:48 |
-| 29 | [Don't Change](https://open.spotify.com/track/5GGEJhZ5xjbU7UhSlipuoq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don't Change](https://open.spotify.com/album/5rlKJhkECAntycMYdPqe5v) | 2:56 |
-| 30 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
+| 29 | [Undress Rehearsal](https://open.spotify.com/track/1aPqexHVW20OTamBHdWWVL) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun \(Deluxe\)](https://open.spotify.com/album/28gqYvhSFXLr2VLCSsZHlY) | 3:34 |
+| 30 | [Don't Change](https://open.spotify.com/track/5GGEJhZ5xjbU7UhSlipuoq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Don't Change](https://open.spotify.com/album/5rlKJhkECAntycMYdPqe5v) | 2:56 |
 | 31 | [Permanent](https://open.spotify.com/track/2FrYyDemG5M15U4qFO0ezK) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:48 |
 | 32 | [Take You](https://open.spotify.com/track/4PXOSe2WbmFhmJDiqrDw6W) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:40 |
 | 33 | [Bad Omens](https://open.spotify.com/track/6QcOEPC0bX799hITIgj3vU) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [5SOS5](https://open.spotify.com/album/6aPyqaE53xagYyLIYZjB1e) | 3:35 |
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 115 | [Whisper](https://open.spotify.com/track/6cRSjJbZMr5AS8S2mV6Uk9) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Betty](https://open.spotify.com/album/1HZ53O7uBXyyYCaD7jY8I6) | 3:06 |
 | 116 | [Kill My Heart \(feat\. Parson James & Qveen Herby\)](https://open.spotify.com/track/5yHb2LWlU9XeoUxRhKYKvM) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Qveen Herby](https://open.spotify.com/artist/4o4tLTIJ3eWMFerz73atcT) | [There Will Be Tears](https://open.spotify.com/album/0Rq0YANjTxmxxq9nXVd64w) | 3:13 |
 | 117 | [Wir werden eins](https://open.spotify.com/track/3OFX3q0dbE9VnfoZ6Yll7W) | [Helene Fischer](https://open.spotify.com/artist/7MzHPIXAqIOCnvK0sVY72W) | [Rausch \(Deluxe\)](https://open.spotify.com/album/0TvURtXBkEyIElRHFcgJS3) | 3:17 |
-| 118 | [The Only One](https://open.spotify.com/track/5gkGnVQ1XAW0Ee2aZSAGkC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:20 |
-| 119 | [Psychic](https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Psychic](https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r) | 2:21 |
+| 118 | [Psychic](https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a) | [LAY](https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9) | [Psychic](https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r) | 2:21 |
+| 119 | [The Only One](https://open.spotify.com/track/5gkGnVQ1XAW0Ee2aZSAGkC) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/4FF4II3GGoTuYRW3zenamA) | 3:20 |
 | 120 | [Feel On Me](https://open.spotify.com/track/4kEM6BvhUtFry78gHUeDHh) | [Ghosted](https://open.spotify.com/artist/3TOyRHj6rptXMN5F97Fpuq), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [Feel On Me](https://open.spotify.com/album/6UZnxCo6vgmJG3ONVc6y8b) | 2:54 |
 | 121 | [Super Over](https://open.spotify.com/track/1H1aXt2S07OeZ0wDJo3KMz) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Super Over](https://open.spotify.com/album/0iOqQkGiycHp33vWKGdyqf) | 2:44 |
 | 122 | [Word Smith](https://open.spotify.com/track/0ycGgmtmbJWnMJRYiVsBcB) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Crystalline](https://open.spotify.com/album/1RAujeeZfUbofVGJUJ0qb8) | 2:58 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC92RTjdqKpN.md) - [plain]
 | 175 | [All My Life](https://open.spotify.com/track/15l0pOOpIL11xt2JoWKthY) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [With The Music I Die \(Deluxe\)](https://open.spotify.com/album/6lTavhbKfE9Fy582VHOCv4) | 3:36 |
 | 176 | [Tonight](https://open.spotify.com/track/16LDHU7Ir8BAEQs9j61qDE) | [Timati](https://open.spotify.com/artist/3oLccEy7y6zTe1gCFHxuWr), [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [SWAGG](https://open.spotify.com/album/02x1wspowX3eX0DBV63jjF) | 3:53 |
 
-Snapshot ID: `AbSCzAAAAADP04DvQ5Z2G7PUFzy18eq9`
+Snapshot ID: `AbSIbAAAAAAngS//p1w0upbUkHZdUTu7`

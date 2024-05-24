@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACh09wDswqD8LW84DBJyPMZ",
+  "snapshot_id": "AAAAAAAAAACpkfZ6Q+SyM7dkduT3uHU4",
   "tracks": [
     {
       "added_at": "2024-05-17 04:00:00",
@@ -35,22 +35,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Got Nothing To Say (Live)",
-        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 148715,
-      "name": "Youth Nabbed As Sniper - Live 1978",
-      "url": "https://open.spotify.com/track/2Hqaf8OvOna4Sq16KmzXiI"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "One (feat. James Hetfield & Robert Trujillo)",
         "url": "https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd"
       },
@@ -75,22 +59,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
-        "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
+        "name": "Got Nothing To Say (Live)",
+        "url": "https://open.spotify.com/album/0AnsrDv1dSyNKMVcd0Aqpc"
       },
       "artists": [
         {
-          "name": "Tarja",
-          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
-        },
-        {
-          "name": "Van Canto",
-          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
         }
       ],
-      "duration_ms": 251334,
-      "name": "Anteroom of Death - Edit Version",
-      "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
+      "duration_ms": 148715,
+      "name": "Youth Nabbed As Sniper - Live 1978",
+      "url": "https://open.spotify.com/track/2Hqaf8OvOna4Sq16KmzXiI"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -111,6 +91,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Best of: Living the Dream (Tarja's Personal Favourites)",
+        "url": "https://open.spotify.com/album/6Lwb4EAr96txRoYtTbp2ce"
+      },
+      "artists": [
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Van Canto",
+          "url": "https://open.spotify.com/artist/7cTq0bYGTIlPoXo9lFXJlL"
+        }
+      ],
+      "duration_ms": 251334,
+      "name": "Anteroom of Death - Edit Version",
+      "url": "https://open.spotify.com/track/1Im4cmAI1RgziR0Kohz5Cn"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Once",
         "url": "https://open.spotify.com/album/3gEo1R7IlW4A6q5S7UKzM8"
       },
@@ -123,22 +123,6 @@
       "duration_ms": 298133,
       "name": "Once",
       "url": "https://open.spotify.com/track/1y526sUKDGQNlxTHaNS1Qn"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mind Games (Evolution Documentary)",
-        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 360234,
-      "name": "Mind Games - Evolution Documentary",
-      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -171,6 +155,78 @@
       "duration_ms": 751797,
       "name": "Leave Me Alone - Live",
       "url": "https://open.spotify.com/track/7krYhM4oYH6D4NOwkT6VD4"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Mind Games (Evolution Documentary)",
+        "url": "https://open.spotify.com/album/1CCOTw8c9CawgrfkkCYOhH"
+      },
+      "artists": [
+        {
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
+        }
+      ],
+      "duration_ms": 360234,
+      "name": "Mind Games - Evolution Documentary",
+      "url": "https://open.spotify.com/track/0VoBWt11cnl7IKXeejkByE"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Everybody's Alone",
+        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "Crazy Horse",
+          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
+        }
+      ],
+      "duration_ms": 151600,
+      "name": "Everybody's Alone",
+      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) [Alternate Version]",
+        "url": "https://open.spotify.com/album/2fDySbrVTRqesjDrlgjzzo"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "duration_ms": 362908,
+      "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
+      "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Awful Dream feat. Iggy Pop",
+        "url": "https://open.spotify.com/album/1ZebWUR1DtqIiH96WtCmkR"
+      },
+      "artists": [
+        {
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "duration_ms": 332253,
+      "name": "Awful Dream feat. Iggy Pop",
+      "url": "https://open.spotify.com/track/3RiJyQYWyk8cGAl5xPMgDT"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -211,62 +267,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Awful Dream feat. Iggy Pop",
-        "url": "https://open.spotify.com/album/1ZebWUR1DtqIiH96WtCmkR"
-      },
-      "artists": [
-        {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Iggy Pop",
-          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
-        }
-      ],
-      "duration_ms": 332253,
-      "name": "Awful Dream feat. Iggy Pop",
-      "url": "https://open.spotify.com/track/3RiJyQYWyk8cGAl5xPMgDT"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) [Alternate Version]",
-        "url": "https://open.spotify.com/album/2fDySbrVTRqesjDrlgjzzo"
-      },
-      "artists": [
-        {
-          "name": "Yes",
-          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
-        }
-      ],
-      "duration_ms": 362908,
-      "name": "Long Distance Runaround/The Fish (Schindleria Praematurus) - Alternate Version",
-      "url": "https://open.spotify.com/track/2JzqrOfcAtNz7pUZnkzJAt"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Everybody's Alone",
-        "url": "https://open.spotify.com/album/2HVD3qQVOARv5XSqMnyldy"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        },
-        {
-          "name": "Crazy Horse",
-          "url": "https://open.spotify.com/artist/0oi7g8NUnlLh5tJvg2y5e3"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Everybody's Alone",
-      "url": "https://open.spotify.com/track/3ji4SvVhtxGX3sy5Tobkiz"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Kamal",
         "url": "https://open.spotify.com/album/40mydIFlgpVBK7gTSxLqB2"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 191982,
       "name": "Kamal",
       "url": "https://open.spotify.com/track/00T25CikedG8RZFkfgyPyJ"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Here To Eternity",
+        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
+      },
+      "artists": [
+        {
+          "name": "Collective Soul",
+          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
+        }
+      ],
+      "duration_ms": 294840,
+      "name": "Keep It On Track",
+      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -323,22 +339,6 @@
       "duration_ms": 313988,
       "name": "Circular - BVSMV Sunset Mix",
       "url": "https://open.spotify.com/track/3HF3PWNCMzpS0vkRrG1ZUc"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Here To Eternity",
-        "url": "https://open.spotify.com/album/4ZRomgX1r7Fam2zytYHwP6"
-      },
-      "artists": [
-        {
-          "name": "Collective Soul",
-          "url": "https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6"
-        }
-      ],
-      "duration_ms": 294840,
-      "name": "Keep It On Track",
-      "url": "https://open.spotify.com/track/13PYRY0Z8gek8xPKbhHqpb"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Totalmente Pose\u00eddos (Banda de Sonido Original de la Pel\u00edcula)",
+        "url": "https://open.spotify.com/album/2HfZeLhmkDzqPVT0wq6V0q"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 268211,
+      "name": "La Banquina de Alg\u00fan Lado",
+      "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Carnaval",
         "url": "https://open.spotify.com/album/61IkxYh1CPTSttGIpXaJb2"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Totalmente Pose\u00eddos (Banda de Sonido Original de la Pel\u00edcula)",
-        "url": "https://open.spotify.com/album/2HfZeLhmkDzqPVT0wq6V0q"
+        "name": "Morning View XXIII",
+        "url": "https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z"
       },
       "artists": [
         {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
         }
       ],
-      "duration_ms": 268211,
-      "name": "La Banquina de Alg\u00fan Lado",
-      "url": "https://open.spotify.com/track/5TtB4MPzZAbyY45qn7Vo5E"
+      "duration_ms": 212739,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -455,22 +471,6 @@
       "duration_ms": 229253,
       "name": "Being Boiled",
       "url": "https://open.spotify.com/track/2yMjKoqxWE5DLnaC9BUAdu"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Morning View XXIII",
-        "url": "https://open.spotify.com/album/7klngx9L0dt47tEgiNFY0Z"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 212739,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/3HogHsEJ32SRjGghQo5XIH"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -643,18 +643,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Unforgivable",
-        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
+        "name": "Portable Door",
+        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
       },
       "artists": [
         {
-          "name": "Dark Tranquillity",
-          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 224160,
-      "name": "Unforgivable",
-      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
+      "duration_ms": 228040,
+      "name": "Portable Door",
+      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Portable Door",
-        "url": "https://open.spotify.com/album/6qoTQ5Q1HvFMl9OkBw7tNe"
+        "name": "Unforgivable",
+        "url": "https://open.spotify.com/album/4u0jsjZ4GaenY919WeVdad"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Dark Tranquillity",
+          "url": "https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O"
         }
       ],
-      "duration_ms": 228040,
-      "name": "Portable Door",
-      "url": "https://open.spotify.com/track/6Mbp62WPHLo8oiRtKMSAsg"
+      "duration_ms": 224160,
+      "name": "Unforgivable",
+      "url": "https://open.spotify.com/track/1S8XK27huK2lRo6Isgve6h"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Crooked Boy",
+        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
+      },
+      "artists": [
+        {
+          "name": "Ringo Starr",
+          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "Gonna Need Someone",
+      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "The Pete Hammond Hi-NRG Remixes",
         "url": "https://open.spotify.com/album/03S6HcZLdd9IdKJOUfyX32"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 534091,
       "name": "I Don't Care About Your Heart - Pete Hammond Hi-NRG Remix",
       "url": "https://open.spotify.com/track/6zd5ReZh9qj0S8PYM8qAq3"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Crooked Boy",
-        "url": "https://open.spotify.com/album/72el7627Bwj1UTsu7RBRM2"
-      },
-      "artists": [
-        {
-          "name": "Ringo Starr",
-          "url": "https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "Gonna Need Someone",
-      "url": "https://open.spotify.com/track/6mBul4Vs17ZxW6vnO6Pj69"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -943,26 +943,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Be Ok (RMX)",
-        "url": "https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV"
+        "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+        "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
       },
       "artists": [
         {
-          "name": "Petti Hendrix",
-          "url": "https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ"
+          "name": "aurorawave",
+          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
         },
         {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         },
         {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+          "name": "Nathan Aurora",
+          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
         }
       ],
-      "duration_ms": 212853,
-      "name": "Be Ok - RMX",
-      "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
+      "duration_ms": 212571,
+      "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
+      "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1007,26 +1007,26 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
-        "url": "https://open.spotify.com/album/0TK3jIBmGHuZm4p30bCtmD"
+        "name": "Be Ok (RMX)",
+        "url": "https://open.spotify.com/album/3iHvJy9uyIj79BLz6g9efV"
       },
       "artists": [
         {
-          "name": "aurorawave",
-          "url": "https://open.spotify.com/artist/5ERzKZCMDsFeH15G80MFSS"
+          "name": "Petti Hendrix",
+          "url": "https://open.spotify.com/artist/5UH0futyctGehzyRRBWukQ"
         },
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
         },
         {
-          "name": "Nathan Aurora",
-          "url": "https://open.spotify.com/artist/6aAxZpCPuID3U1dLdobyns"
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
         }
       ],
-      "duration_ms": 212571,
-      "name": "INFERNO. (with Brandon Saller and Dan Jacobs of Atreyu)",
-      "url": "https://open.spotify.com/track/6ECzCw24wyrvWeyWRRBCXe"
+      "duration_ms": 212853,
+      "name": "Be Ok - RMX",
+      "url": "https://open.spotify.com/track/2a8qG0E7Ix3YgMvy64QdFf"
     },
     {
       "added_at": "2024-05-17 04:00:00",

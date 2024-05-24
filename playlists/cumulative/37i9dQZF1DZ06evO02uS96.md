@@ -2,7 +2,7 @@
 
 ### [This Is Aimer](https://open.spotify.com/playlist/37i9dQZF1DZ06evO02uS96)
 
-> This is Aimer\. The essential tracks, all in one playlist.
+> This is Aimer\. Track\-track unggulan, semuanya dalam satu playlist.
 
 85 songs - 6 hr 28 min
 

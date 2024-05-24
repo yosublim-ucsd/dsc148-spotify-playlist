@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 
 > Uplifting and uptempo indie folk and roots rock, guaranteed to open your stride.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,303,036 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,302,984 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 34 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
 | 35 | [Making Do](https://open.spotify.com/track/1ID7FIrnDFtAoRebVRBhlO) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:34 |
 | 36 | [Edge of Seventeen](https://open.spotify.com/track/42HGl10TZF0LLfLgMWNtfw) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Covers One](https://open.spotify.com/album/34WkSeCkKh4wMsz7AFtU0F) | 5:27 |
-| 37 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
-| 38 | [Lay It on Me](https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me](https://open.spotify.com/album/47NwFzyKpP2MlT7lRMt0kY) | 3:34 |
+| 37 | [Lay It on Me](https://open.spotify.com/track/7MUNNBJKYo3cdokp06wEOB) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me](https://open.spotify.com/album/47NwFzyKpP2MlT7lRMt0kY) | 3:34 |
+| 38 | [Own Alone](https://open.spotify.com/track/2wSJmOCCeO3Nvq1eRqJuTD) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:15 |
 | 39 | [Grace](https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:13 |
 | 40 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
 | 41 | [Fire & Fury](https://open.spotify.com/track/0R1DETYaiMMobDi2TkQmlj) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:45 |
@@ -58,14 +58,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 48 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
 | 49 | [How Low](https://open.spotify.com/track/0WLJjIjP8YBCyLZIClsmKW) | [Heartless Bastards](https://open.spotify.com/artist/2wwMTLM2da1sa2JcJslf8W) | [A Beautiful Life](https://open.spotify.com/album/0F2pKTWsWxkd0RfW59EV49) | 4:04 |
 | 50 | [Radio \[Feat\. Sharon Van Etten\]](https://open.spotify.com/track/0J4TuecWdkdRAPbTZXxy62) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 2:49 |
-| 51 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
-| 52 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |
+| 51 | [Gone](https://open.spotify.com/track/5xZV3jkOFbKLH7ywEqGORA) | [The Show Ponies](https://open.spotify.com/artist/0N12PNPrehNU9PVsJMfdzi) | [We're Not Lost](https://open.spotify.com/album/3uoPG7wceVYCXEYg426Hjb) | 2:38 |
+| 52 | [Strange Girl](https://open.spotify.com/track/5cK0wREGoDqNKECNlw8xzx) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:21 |
 | 53 | [Girlfriend](https://open.spotify.com/track/0usJbmjMMRdC89y8sUsldR) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 2:53 |
 | 54 | [Fighter](https://open.spotify.com/track/2rCp1guc98g6pxqWELfh2b) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:41 |
 | 55 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 56 | [Who Are You Now](https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:17 |
-| 57 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 |
-| 58 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
+| 57 | [Young Man's Game](https://open.spotify.com/track/5xGt18Bb0D0DvYwytFDuhD) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 3:11 |
+| 58 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 |
 | 59 | [Make a Sound](https://open.spotify.com/track/1Ap29R9m0UyLBH2uJHpcTy) | [Bruce Peninsula](https://open.spotify.com/artist/2Iua0nuwiUuEpXR4qOS4xe) | [No Earthly Sound](https://open.spotify.com/album/5eVVVY0zVykT1hePDZFVMI) | 3:21 |
 | 60 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 61 | [Good Luck, Kid](https://open.spotify.com/track/0i0iBG0kAj9P6xo4yycA2O) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 2:36 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35oM5SPECmN.md) - [plain]
 | 63 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
 | 64 | [Tried to Tell You](https://open.spotify.com/track/78Vj1c5mgrddm7aQN0A3fs) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Tried to Tell You](https://open.spotify.com/album/0xB1XJxNIddjYUrelC1Vm4) | 3:38 |
 | 65 | [Heroes](https://open.spotify.com/track/1FudW4lBMbxG1BVP7Ko1DT) | [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw) | [Heroes](https://open.spotify.com/album/7817F6Nn9C1XdQmENndiks) | 3:13 |
-| 66 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
-| 67 | [Sunbathers](https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:39 |
+| 66 | [Sunbathers](https://open.spotify.com/track/5HKDtUThXMU5XWQLOjfyCo) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [In Heaven](https://open.spotify.com/album/76pQf98XjjF5RZIniiev2d) | 3:39 |
+| 67 | [Roots And Wings](https://open.spotify.com/track/6p2ptJ8ZTeN7Qi7I64oG74) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Exit Wounds](https://open.spotify.com/album/53XIkqGsvjR2WayoVSvz6l) | 3:54 |
 | 68 | [Options Open](https://open.spotify.com/track/4v9GgfhZAlC3cx2zjKtr51) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 3:48 |
 | 69 | [Not My Lover](https://open.spotify.com/track/0hLujwznOwnliyfzmsIcEp) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Trouble With Fever](https://open.spotify.com/album/6RBwxi0etDSpfqrRo45phN) | 3:10 |
 | 70 | [Highway Queen](https://open.spotify.com/track/1HSK85Escjg7ClgwgnMI0G) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Highway Queen](https://open.spotify.com/album/0tYgeDm3xRF6AV19UwDXXW) | 3:51 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 
 > Some of the most mesmerizing voices and masterful musicians of indie\. Cover: Waxahatchee
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,040 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,028 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 28 | [The greatest](https://open.spotify.com/track/6ERZ30cRjVWGtVLhczX9aL) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:00 |
 | 29 | [Softly](https://open.spotify.com/track/4PvbbMYL4fkToni5BLaYRb) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:05 |
 | 30 | [Free](https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Dance Fever](https://open.spotify.com/album/4ohh1zQ4yybSK9FS7LLyDE) | 3:54 |
-| 31 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
-| 32 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
+| 31 | [I'm Your Man](https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:29 |
+| 32 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
 | 33 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 34 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 35 | [Roads](https://open.spotify.com/track/2sW8fmnISifQTRgnRrQTYW) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:03 |
@@ -64,12 +64,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 54 | [The Only Heartbreaker](https://open.spotify.com/track/4VYNZbmI3ixv9mlTTd9NKc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:04 |
 | 55 | [Oh No](https://open.spotify.com/track/5OplD6jkrUT7XJFFIM6mph) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Oh No / Liahr](https://open.spotify.com/album/1w2W9vCxa8rEZQc13qjE3f) | 2:44 |
 | 56 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
-| 57 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
+| 57 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 |
 | 58 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 59 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 |
-| 60 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
-| 61 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
-| 62 | [North](https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:33 |
+| 60 | [Heads Will Roll](https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [It's Blitz!](https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj) | 3:41 |
+| 61 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 |
+| 62 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 63 | [Natural](https://open.spotify.com/track/6VLjdregMReJhKp2r32IWo) | [Shelly](https://open.spotify.com/artist/4z1P9QhvHGEJzPhQAjXYPE) | [Shelly](https://open.spotify.com/album/6FarB45iYtZTAuzzqGcAU3) | 2:43 |
 | 64 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 |
 | 65 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91UQmVbQYyN.md) - [plain]
 | 77 | [my mind \(now\)](https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [my mind \(now\)](https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg) | 2:56 |
 | 78 | [Fly To You \(feat\. Grimes and Dido\)](https://open.spotify.com/track/0RVn3A5FHQ8OgiIxuRkepW) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:05 |
 | 79 | [King](https://open.spotify.com/track/1VSngtLdJhrlfHkLxTyOXK) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [King](https://open.spotify.com/album/1kGXtKuYw5WuWUsMKKsTOE) | 4:40 |
-| 80 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 81 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
+| 80 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 |
+| 81 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
 | 82 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
 | 83 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 | 84 | [circle the drain](https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:40 |

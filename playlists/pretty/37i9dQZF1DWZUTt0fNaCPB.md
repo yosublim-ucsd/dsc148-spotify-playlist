@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,054,185 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,054,254 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 37 | [You Spin Me Round \(Like A Record\)](https://open.spotify.com/track/0Hxty2K8F2DrrCXQyQVpBo) | [Dope](https://open.spotify.com/artist/7fWgqc4HJi3pcHhK8hKg2p) | [Felons and Revolutionaries](https://open.spotify.com/album/70qlX6W0tE04QAwKQuv1db) | 2:43 |
 | 38 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
 | 39 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
-| 40 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
-| 41 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
+| 40 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
+| 41 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 42 | [From Hell With Love](https://open.spotify.com/track/3iKSyNDGzJ3FcjXoDKqehS) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:55 |
 | 43 | [Ten Thousand Fists](https://open.spotify.com/track/5hkgrWxkobGtg30I7DsfVu) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Ten Thousand Fists](https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6) | 3:32 |
 | 44 | [Gunfight](https://open.spotify.com/track/0is4yL58CcQ4Gv4WgTGr9N) | [Sick Puppies](https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk) | [Connect](https://open.spotify.com/album/6rL7tAqRqT4DL4I1bcADTi) | 2:55 |

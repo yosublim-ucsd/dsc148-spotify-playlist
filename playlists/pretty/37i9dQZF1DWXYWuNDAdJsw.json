@@ -1,6 +1,6 @@
 {
   "description": "el nombre lo dice todo.",
-  "num_followers": 1037544,
+  "num_followers": 1037490,
   "original_name": "Perrear y Llorar",
   "owner": {
     "name": "Spotify",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2024-05-06 16:35:31",
       "album": {
-        "name": "Navegando",
-        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 181845,
-      "name": "Detente",
-      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
-    },
-    {
-      "added_at": "2024-05-06 16:35:31",
-      "album": {
         "name": "Sigues Con El",
         "url": "https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 226532,
       "name": "Sigues Con El",
       "url": "https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3"
+    },
+    {
+      "added_at": "2024-05-06 16:35:31",
+      "album": {
+        "name": "Navegando",
+        "url": "https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 181845,
+      "name": "Detente",
+      "url": "https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX"
     },
     {
       "added_at": "2024-05-06 16:35:31",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2024-05-06 16:35:31",
       "album": {
-        "name": "1000CANCIONES",
-        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
+        "name": "Mi Debilidad",
+        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Sen Senra",
-          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 246600,
-      "name": "1000CANCIONES",
-      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
+      "duration_ms": 165957,
+      "name": "Mi Debilidad",
+      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
     },
     {
       "added_at": "2024-05-06 16:35:31",
@@ -1447,18 +1443,22 @@
     {
       "added_at": "2024-05-06 16:35:31",
       "album": {
-        "name": "Mi Debilidad",
-        "url": "https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz"
+        "name": "1000CANCIONES",
+        "url": "https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl"
       },
       "artists": [
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Sen Senra",
+          "url": "https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq"
         }
       ],
-      "duration_ms": 165957,
-      "name": "Mi Debilidad",
-      "url": "https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch"
+      "duration_ms": 246600,
+      "name": "1000CANCIONES",
+      "url": "https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW"
     },
     {
       "added_at": "2024-05-06 16:35:31",

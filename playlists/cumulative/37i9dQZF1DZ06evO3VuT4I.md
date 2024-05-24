@@ -2,13 +2,13 @@
 
 ### [This Is Suzanne Ciani](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3VuT4I)
 
-> This is Suzanne Ciani\. The essential tracks, all in one playlist.
+> This Is Suzanne Ciani\. Los temas esenciales, todos en una lista.
 
 112 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 | 2024-05-22 |
+| ['til Time and Times Are Done](https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 3:54 | 2022-06-02 |  |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/1z4wE7bLDQrf5B5CJKHXjv) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:49 | 2022-07-24 | 2022-09-07 |
 | [4 O'Clock in the Morning](https://open.spotify.com/track/5YD8OCHpW8W6i30FOA3KRF) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Meditations for Dreams, Relaxation, and Sleep](https://open.spotify.com/album/6A4Xbylny9BB49hJVbXE0i) | 3:52 | 2022-06-22 | 2022-06-24 |
 | [432 \- Suzanne Ciani Rework](https://open.spotify.com/track/1ApcdqaszE4EpOp50FinUy) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Conatus](https://open.spotify.com/album/3qPX9UNS4kdWpouc7c5FCa) | 4:29 | 2022-06-11 | 2024-04-19 |
@@ -49,7 +49,7 @@
 | [Golden Apples Of The Sun](https://open.spotify.com/track/08f0QMRnzTRdH7XdMamzGT) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K) | 4:33 | 2023-11-10 |  |
 | [Golden Apples Of The Sun](https://open.spotify.com/track/099oDIAistqagX3RuQsUzJ) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr), [Jonathan Fitoussi](https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b) | [Golden Apples of the Sun](https://open.spotify.com/album/0ebjgkPTgQG8dhY4qOewiy) | 4:33 | 2023-06-18 | 2023-11-11 |
 | [History Of My Heart](https://open.spotify.com/track/7HywLdWwU2nkyTwIsnI5Qs) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [The Velocity Of Love](https://open.spotify.com/album/0j07ux1zZw12yRPXycIjgp) | 9:46 | 2022-05-29 | 2023-03-25 |
-| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 |  |
+| [Hotel Luna](https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo II](https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h) | 2:54 | 2022-05-29 | 2024-05-24 |
 | [I Believe in Love](https://open.spotify.com/track/6DJr81XitsgZRIs7lrufav) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 3:52 | 2024-01-08 | 2024-01-21 |
 | [I Believe In Love](https://open.spotify.com/track/2a7jVjRzqSSWG3HbylzHrY) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Turning](https://open.spotify.com/album/3069ogaIdXqfzkhbkGNxaK) | 4:03 | 2022-06-01 | 2023-09-16 |
 | [If I Could](https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx) | [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Pianissimo III](https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW) | 4:14 | 2022-05-31 |  |

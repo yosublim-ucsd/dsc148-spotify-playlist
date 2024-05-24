@@ -4,11 +4,12 @@
 
 > A calm, instrumental reading playlist.
 
-428 songs - 18 hr 11 min
+429 songs - 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [85mm](https://open.spotify.com/track/0QXXalGnUnollbhAscrpy3) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [85mm](https://open.spotify.com/album/2WBVYJgZDu0sU46CakgquV) | 2:59 | 2023-02-28 |  |
+| [A Brighter Future](https://open.spotify.com/track/02mGLexrQiaZGpg9oV737j) | [Celesete Cooper](https://open.spotify.com/artist/6jmxsGLj7q0TnovfN32GUT) | [A Brighter Future](https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc) | 2:08 | 2024-05-23 |  |
 | [A Dream of Tomorrow](https://open.spotify.com/track/4nZCJzRoJqcItuc81ZnCBj) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [A Dream of Tomorrow](https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly) | 2:13 | 2023-02-28 |  |
 | [A French Film](https://open.spotify.com/track/72eFRpAOIUP4W5LF9pBydT) | [Linior](https://open.spotify.com/artist/6IBrNzuYAMMWiTAg3xJRgw) | [A French Film](https://open.spotify.com/album/2JmiWAL0pcAGTBatnbPcp4) | 2:19 | 2023-12-12 |  |
 | [A Gentle Place](https://open.spotify.com/track/2kgwWNOn9IUCoQuJIReVUH) | [Macan Moreira](https://open.spotify.com/artist/276FUXyDM4cBBPU0LbgZrZ) | [A Gentle Place](https://open.spotify.com/album/2m1Abw0Fac9M57oaStSyaw) | 2:13 | 2023-08-22 |  |

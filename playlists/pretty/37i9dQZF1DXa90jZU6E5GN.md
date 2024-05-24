@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,791 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,871 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 47 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 48 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
 | 49 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
-| 50 | [Everything She Ain’t](https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I) | [Everything She Ain’t](https://open.spotify.com/album/761yinsOXW3p74dFBge4c7) | 2:31 |
+| 50 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 
 Snapshot ID: `ZkJ/OQAAAAAec/D7G34GtyGTLbX5v7Ld`

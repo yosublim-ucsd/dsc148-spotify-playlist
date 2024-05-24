@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 9796,
+  "num_followers": 9794,
   "original_name": "\uc378 (Something)",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Love.zip",
-        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 188013,
-      "name": "FRIEND THE END",
-      "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "San E, Raina Project Single 'A midsummer night's sweetness'",
         "url": "https://open.spotify.com/album/1srZhGQymoN6YQksduox2J"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 233456,
       "name": "A midsummer night's sweetness",
       "url": "https://open.spotify.com/track/3gug38ZhXQWJbwN7sh0YRR"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Love.zip",
+        "url": "https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 188013,
+      "name": "FRIEND THE END",
+      "url": "https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Before the Petals Fall",
-        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
-      },
-      "artists": [
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Before the Petals Fall",
-      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "Someday (feat. Ha Hyun Sang)",
         "url": "https://open.spotify.com/album/5I3ukJ3aeVcoVy2Q6OWGPW"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 181666,
       "name": "Someday (feat. Ha Hyun Sang)",
       "url": "https://open.spotify.com/track/3G4TbgDHUyMnt1RT3lZM66"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Before the Petals Fall",
+        "url": "https://open.spotify.com/album/168wOyzeKZdYSmSQu0Fkq3"
+      },
+      "artists": [
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Before the Petals Fall",
+      "url": "https://open.spotify.com/track/3IgT7VsDxWZsg90OrqK90t"
     },
     {
       "added_at": "2024-05-14 13:50:25",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-14 13:50:25",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
-    },
-    {
-      "added_at": "2024-05-14 13:50:25",
-      "album": {
         "name": "Love Diary (Back to You X Lee MinHyuk)",
         "url": "https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 230853,
       "name": "Love Diary (Back to You X Lee MinHyuk)",
       "url": "https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88"
+    },
+    {
+      "added_at": "2024-05-14 13:50:25",
+      "album": {
+        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 209866,
+      "name": "Something Precious",
+      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
     },
     {
       "added_at": "2024-05-14 13:50:25",

@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
@@ -630,7 +630,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
@@ -1413,6 +1413,24 @@
     },
     {
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/1Y2i1JvNR7mXb2mAxpth65"
+      },
+      "artists": [
+        {
+          "name": "Ringgo 5",
+          "url": "https://open.spotify.com/artist/73kWDkoIKhN58ALBh7cF3t"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190994,
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/6inMymbAB1obAUtUPVeWjU"
+    },
+    {
+      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -1540,6 +1558,24 @@
       "duration_ms": 190626,
       "name": "Going Kokomo",
       "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+    },
+    {
+      "album": {
+        "name": "Golden Harbor",
+        "url": "https://open.spotify.com/album/3gxT6F1LrpWqiG6X6m7ggT"
+      },
+      "artists": [
+        {
+          "name": "Macseal",
+          "url": "https://open.spotify.com/artist/1b1pwTnc2DJVXGy8pniShT"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156973,
+      "name": "Golden Harbor",
+      "url": "https://open.spotify.com/track/4nz2wBxuWeRJ802fKQqjbp"
     },
     {
       "album": {
@@ -2150,6 +2186,24 @@
       "duration_ms": 299506,
       "name": "In the Meantime",
       "url": "https://open.spotify.com/track/02lTDOxHeXTHsdwXoz6lpC"
+    },
+    {
+      "album": {
+        "name": "Innocence",
+        "url": "https://open.spotify.com/album/3wrTNC0PZKsWuHXNSNInKz"
+      },
+      "artists": [
+        {
+          "name": "The Family Rain",
+          "url": "https://open.spotify.com/artist/60HxU5pfO88nduyocuUuYE"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192074,
+      "name": "Innocence",
+      "url": "https://open.spotify.com/track/0nrxddmtdudVjXB93UUman"
     },
     {
       "album": {
@@ -2860,7 +2914,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 272293,
       "name": "Mr. Jones",
       "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -3358,6 +3412,24 @@
       "duration_ms": 226330,
       "name": "Sad Song (feat. Elena Coats)",
       "url": "https://open.spotify.com/track/05CrK6Q5VGtfPDtyQFJ4Kf"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG"
     },
     {
       "album": {
@@ -3906,7 +3978,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 241666,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,785 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,831 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 56 | [Pressure](https://open.spotify.com/track/2wjUXJaPHgzBaCMnSzOjwH) | [Rosenfeld](https://open.spotify.com/artist/3p2pMpzDerhMR4w2xZyHWg) | [Pressure](https://open.spotify.com/album/6HileZpU7Zc2ybr3fLX8Xg) | 2:18 |
 | 57 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
 | 58 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
-| 59 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
-| 60 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
+| 59 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
+| 60 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 61 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 62 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
 | 63 | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/track/5VsZwt7AyePLXFrlHhMvoI) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Freefall \(feat\. Oliver Tree\)](https://open.spotify.com/album/2IBBJbVcT3jBmbkf1HChaU) | 2:35 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 71 | [Miracle, Baby](https://open.spotify.com/track/3Iu1P9opSIz1wmm98SG2qb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Miracle, Baby](https://open.spotify.com/album/4OEXo5dPHC8m3h3um07mL0) | 3:40 |
 | 72 | [New Friends](https://open.spotify.com/track/6bHFFcOvpc1pKrT4YL1K83) | [ENVYYOU](https://open.spotify.com/artist/3V8sGWr3KUanz1VJyaCngm) | [New Friends](https://open.spotify.com/album/3CqLMnA4ivtuBuGPV4h4Ky) | 2:56 |
 | 73 | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu), [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [Sound the Alarm \(feat\. Rivers Cuomo of Weezer & Royal & the Serpent\)](https://open.spotify.com/album/42gv0kQ4WESuPbScRE2CRK) | 2:51 |
-| 74 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
-| 75 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
+| 74 | [Speeding Fast](https://open.spotify.com/track/3QTK0aSjMeCsja2oxkPGxp) | [dapurr](https://open.spotify.com/artist/3Dn91YO242mHAywGp5Tptt) | [1](https://open.spotify.com/album/2yfYHs5lPBh6YJbwXF4rOg) | 3:23 |
+| 75 | [come around](https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ) | [Omri](https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio) | [come around](https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs) | 3:39 |
 | 76 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 77 | [Upgrade](https://open.spotify.com/track/0kr277qNoo4QBUDjzPiSe2) | [TWIN XL](https://open.spotify.com/artist/4OkceeWNJehKqXINqtVeX1), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Upgrade](https://open.spotify.com/album/3VgubxrPPu5lXCPJzXLFp7) | 2:41 |
 | 78 | [Back In My Head Again](https://open.spotify.com/track/5etJs8H5GcjCboXNw6Rrg0) | [Levi Evans](https://open.spotify.com/artist/3iaO242P43HXGQesDYkubX) | [Back In My Head Again](https://open.spotify.com/album/0nH41ZLIbjlXlExaoo4kge) | 2:54 |

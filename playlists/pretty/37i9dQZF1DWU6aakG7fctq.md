@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: Girl Ultra
 
-[Spotify](https://open.spotify.com/user/spotify) - 483,477 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,485 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

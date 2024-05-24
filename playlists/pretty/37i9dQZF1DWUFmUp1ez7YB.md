@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 728,527 likes - 90 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,229 likes - 90 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 42 | [Cara de Niño](https://open.spotify.com/track/4qsrxXxk4GCGih80VGmaAl) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis 30 Mejores Canciones](https://open.spotify.com/album/6fuOt44vgqDnAnZguOJecP) | 4:55 |
 | 43 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 44 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
-| 45 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
-| 46 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
+| 45 | [Un verano en Nueva York](https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Numero 7](https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS) | 4:58 |
+| 46 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
 | 47 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 48 | [Apiádate de Mi](https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:04 |
 | 49 | [Mi Mayor Venganza](https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Pura Salsa](https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm) | 5:13 |

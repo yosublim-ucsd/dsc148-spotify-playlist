@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Montse",
-  "num_followers": 121891,
+  "num_followers": 121889,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Hace 10 A\u00f1os",
-        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 184250,
-      "name": "Hace 10 A\u00f1os",
-      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "\u00cdndigo",
         "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 229740,
       "name": "Pasos de Gigantes",
       "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Hace 10 A\u00f1os",
+        "url": "https://open.spotify.com/album/71f277kinxputEU6wff8To"
+      },
+      "artists": [
+        {
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
+        }
+      ],
+      "duration_ms": 184250,
+      "name": "Hace 10 A\u00f1os",
+      "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1147,26 +1147,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Mira Ni\u00f1ita",
-        "url": "https://open.spotify.com/album/3jMY4GKxq8ufQfkliNYhru"
-      },
-      "artists": [
-        {
-          "name": "Aisles",
-          "url": "https://open.spotify.com/artist/1aHj1tpKsDAUDDOMZXcjQg"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 257685,
-      "name": "Mira Ni\u00f1ita",
-      "url": "https://open.spotify.com/track/6u8XBkFbItMk8i9cBypl9M"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Detonaci\u00f3n (Remix)",
         "url": "https://open.spotify.com/album/5cFYndbz33WMXaEeE3JFGx"
       },
@@ -1187,18 +1167,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Qu\u00e9 piensas hacer sin mi amor?",
-        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+        "name": "Mira Ni\u00f1ita",
+        "url": "https://open.spotify.com/album/3jMY4GKxq8ufQfkliNYhru"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Aisles",
+          "url": "https://open.spotify.com/artist/1aHj1tpKsDAUDDOMZXcjQg"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 248121,
-      "name": "Qu\u00e9 piensas hacer sin mi amor?",
-      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+      "duration_ms": 257685,
+      "name": "Mira Ni\u00f1ita",
+      "url": "https://open.spotify.com/track/6u8XBkFbItMk8i9cBypl9M"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1219,6 +1203,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Qu\u00e9 piensas hacer sin mi amor?",
+        "url": "https://open.spotify.com/album/34szsLNF2Nr5i9E2j9v40h"
+      },
+      "artists": [
+        {
+          "name": "Alex Anwandter",
+          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+        }
+      ],
+      "duration_ms": 248121,
+      "name": "Qu\u00e9 piensas hacer sin mi amor?",
+      "url": "https://open.spotify.com/track/7DmiI9NJnb00JVMMpMkz52"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Le\u00f3n de Arena",
         "url": "https://open.spotify.com/album/7k8gLYZwVYGCqdtZTtWHB2"
       },
@@ -1231,6 +1231,26 @@
       "duration_ms": 198887,
       "name": "Le\u00f3n de Arena",
       "url": "https://open.spotify.com/track/2iukXDVfZDfokLZ6fxqDSu"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Herida (Deluxe)",
+        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 187554,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1263,26 +1283,6 @@
       "duration_ms": 222257,
       "name": "Polvo",
       "url": "https://open.spotify.com/track/4p9iPAQ5q3twlJJ0x8HInz"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Herida (Deluxe)",
-        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 187554,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1323,6 +1323,30 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Abducida (Remix)",
+        "url": "https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX"
+      },
+      "artists": [
+        {
+          "name": "quediostesalve",
+          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        },
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 174313,
+      "name": "Abducida - Remix",
+      "url": "https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "La Torpeza",
         "url": "https://open.spotify.com/album/1GolTdQ2ho0x06r8UYQid8"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 255268,
       "name": "Antes que el sol nos queme",
       "url": "https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Abducida (Remix)",
-        "url": "https://open.spotify.com/album/0Cg2PqBsAUtcMFHKph7TvX"
-      },
-      "artists": [
-        {
-          "name": "quediostesalve",
-          "url": "https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        },
-        {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
-        }
-      ],
-      "duration_ms": 174313,
-      "name": "Abducida - Remix",
-      "url": "https://open.spotify.com/track/3KzUfFElM7qGGC7HP56Yef"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
-      },
-      "artists": [
-        {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
-        },
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Brisa",
         "url": "https://open.spotify.com/album/1lWGtQTbxNWC3dSQzcYqZe"
       },
@@ -1611,6 +1591,26 @@
       "duration_ms": 221620,
       "name": "Bailar en la Cuerda Floja",
       "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+      },
+      "artists": [
+        {
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+        },
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "\u00c9pica",
-        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 194756,
-      "name": "Sin Fama ni Fortuna",
-      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "como antes :(",
         "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
       },
@@ -1719,18 +1703,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Me Hace Bien Amarte",
-        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+        "name": "Abrazo Fantasma",
+        "url": "https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn"
       },
       "artists": [
         {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
         }
       ],
-      "duration_ms": 168714,
-      "name": "Me Hace Bien Amarte",
-      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
+      "duration_ms": 124403,
+      "name": "El Efecto",
+      "url": "https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1751,18 +1735,34 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Abrazo Fantasma",
-        "url": "https://open.spotify.com/album/4c6ZcnNFBHrsTtv3oXKwyn"
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
       "artists": [
         {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
         }
       ],
-      "duration_ms": 124403,
-      "name": "El Efecto",
-      "url": "https://open.spotify.com/track/2arFzyifrmAqgxnmQQ0SyD"
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Me Hace Bien Amarte",
+        "url": "https://open.spotify.com/album/7MllTlZeTUSLYWKL6IvYrh"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 168714,
+      "name": "Me Hace Bien Amarte",
+      "url": "https://open.spotify.com/track/3Ef1CBavoZnZ2v6Mjfq6Xg"
     }
   ],
   "unique_name": "Indie Chile",

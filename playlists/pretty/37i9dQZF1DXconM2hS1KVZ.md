@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 
 > Sommer für immer!
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,797 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,800 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXconM2hS1KVZ.md) - [plain]
 | 40 | [Gangnam Style \(강남스타일\)](https://open.spotify.com/track/03UrZgTINDqvnUMbbIMhql) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [Gangnam Style \(강남스타일\)](https://open.spotify.com/album/0ZjxizLeMyFEjR27JIvD99) | 3:39 |
 | 41 | [Échame La Culpa](https://open.spotify.com/track/0mlAOSILGRys2IbvyOT5VJ) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 2:53 |
 | 42 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r) | 3:47 |
-| 43 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
-| 44 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
+| 43 | [Follow Me](https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc) | [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [Double Wide](https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ) | 3:38 |
+| 44 | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c) | [Jawsh 685](https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Savage Love \(Laxed \- Siren Beat\)](https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw) | 2:51 |
 | 45 | [Sofia](https://open.spotify.com/track/5vj59ONIVbyhcrI8ZSwoRo) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe) | [Eterno Agosto](https://open.spotify.com/album/5jJXDZo4k8z4eMWB9ZxjDX) | 3:30 |
 | 46 | [SUBEME LA RADIO](https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [SUBEME LA RADIO \(feat\. Descemer Bueno & Zion & Lennox\)](https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG) | 3:27 |
 | 47 | [Takeaway](https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [World War Joy](https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD) | 3:29 |

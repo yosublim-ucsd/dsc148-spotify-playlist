@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,175 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,256 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 36 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
 | 37 | [Exit Us](https://open.spotify.com/track/3lKfNyhGrF2z6peiXtUx1m) | [James Paek](https://open.spotify.com/artist/2TSvKiWhpJaQ6m2zhhA7rz) | [Exit Us](https://open.spotify.com/album/2gFAJD4Qf3Y1IW5INr1f7V) | 3:37 |
 | 38 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
-| 39 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
-| 40 | [Mosaic](https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Mosaic](https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G) | 3:22 |
-| 41 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
-| 42 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
+| 39 | [Mosaic](https://open.spotify.com/track/0X6TnTL38BfDHGgZUWfRfo) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Mosaic](https://open.spotify.com/album/6GrkIwOfxUre3FUx2VxC9G) | 3:22 |
+| 40 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
+| 41 | [The God Who Stays](https://open.spotify.com/track/0YHWj5wYTjbENOi7cWGSpK) | [Matthew West](https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj) | [Brand New](https://open.spotify.com/album/6nPwC5S0XRCvhvnsinAOoi) | 3:56 |
+| 42 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
 | 43 | [In The House](https://open.spotify.com/track/1brFXt3k8dja9jXkiAY4ky) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Milk & Honey](https://open.spotify.com/album/44e1KWenGKSOldpOFS0OmD) | 2:59 |
 | 44 | [Haven't Seen It Yet](https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:04 |
 | 45 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |

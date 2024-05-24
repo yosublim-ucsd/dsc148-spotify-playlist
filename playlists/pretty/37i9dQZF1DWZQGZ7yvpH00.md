@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Yahritza y Su Esencia, Michelle Maciel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,740 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 850,111 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 
 > Discover this set of songs that define modern hymns for and beyond the church\.  Cover artist: Phil Wickham
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,673 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,673 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 36 | [He Will Hold Me Fast](https://open.spotify.com/track/1Mp90z16Mneiqthtf7fOf9) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 |
 | 37 | [How Great Thou Art](https://open.spotify.com/track/2YtsgFOv3e2oAPvGg5iLBb) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:53 |
 | 38 | [Jesus, Thank You](https://open.spotify.com/track/59pRxzutrxwmP6CNL2eHbU) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y), [Brook Hills Music](https://open.spotify.com/artist/4CaYbhVqFR3fTbGHd3k4Zr) | [30: Three Decades of Songs for the Church](https://open.spotify.com/album/6GmqHkUvT9NWRxD17vBFJm) | 4:52 |
-| 39 | [Tremble](https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Tremble](https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz) | 3:58 |
-| 40 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
+| 39 | [Shepherd of My Soul](https://open.spotify.com/track/5JNhtYiyGpQQ6pDFtfpLLz) | [Rivers & Robots](https://open.spotify.com/artist/41yDmxekjnWShKi6nRmzZ4) | [All Things New](https://open.spotify.com/album/3jXUhc7v2rGvSJss6cxt6a) | 5:46 |
+| 40 | [Tremble](https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Tremble](https://open.spotify.com/album/666rMVpgsHjVdU4OMbstAz) | 3:58 |
 | 41 | [Hidden \(Live\) \[feat\. Will Reagan\]](https://open.spotify.com/track/3ChZ1DsvihNTayyK6BbfEC) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Will Reagan](https://open.spotify.com/artist/3P9Tb34QQEWyjm1pYdPfOP) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 6:34 |
 | 42 | [Great Is Thy Faithfulness](https://open.spotify.com/track/73ZGW3v5caUFBsHSkQQfpX) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 6](https://open.spotify.com/album/5EXvIcWFtIjQOIe4aWd6Vw) | 4:31 |
 | 43 | [There Came a Light](https://open.spotify.com/track/4qBzmRgakEiYxjLBCFE6Mr) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 4:42 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 60 | [Blessed Assurance](https://open.spotify.com/track/41iTybeZlSGdEKUaEYz8Ye) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Only King Forever](https://open.spotify.com/album/6ojPMWx8YMfdd2idb8rM9h) | 7:18 |
 | 61 | [Great Is Thy Faithfulness](https://open.spotify.com/track/3JfK0CVrKXDwXHYX7lZ6b8) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:41 |
 | 62 | [Though You Slay Me](https://open.spotify.com/track/2Ujuq5IFtnJJ7b63okoUo6) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Bring Your Nothing](https://open.spotify.com/album/2NsOkopEDusRSAYfXClwBa) | 4:38 |
-| 63 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
+| 63 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
 | 64 | [Let It Happen \(Live\) \[feat\. Andrea Marie\]](https://open.spotify.com/track/1MCxM27lS1cDA7py53mqRt) | [United Pursuit](https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo), [Andrea Marie](https://open.spotify.com/artist/5J59mmHP5QFfepuvMgL2gS) | [Simple Gospel \(Live\)](https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp) | 8:10 |
-| 65 | [Belly of the Deepest Love](https://open.spotify.com/track/4bYRPHqa4EhjaEGuR4ZFrn) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Tow'rs](https://open.spotify.com/album/4Np45ltBrVtuxHzYlIBwl8) | 6:21 |
+| 65 | [As The Deer](https://open.spotify.com/track/0XwVqr3oNiLpuQI3NkzQgf) | [Maranatha! Music](https://open.spotify.com/artist/67OFzndMlzj7cDF2BqnwYe) | [Praise 8 \- As The Deer](https://open.spotify.com/album/5W8FCrbWLKeeltQ0NBEdUG) | 4:09 |
 | 66 | [Rain](https://open.spotify.com/track/3nuCQCHTJfoJP6Ws2FczPS) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [The Beauty Between](https://open.spotify.com/album/22dJNerbGPZtrsoAjyTy9y) | 3:37 |
 | 67 | [My Hope Is Built / The Solid Rock](https://open.spotify.com/track/7el80wCuyU2ByLix3o7b78) | [Norton Hall Band](https://open.spotify.com/artist/7lYCHQLcDqNrJjIgKAEkje) | [My Hope and Stay: Hymns Project, Vol\. II](https://open.spotify.com/album/5ji5EiVJLACqVSezLxHmZO) | 3:44 |
 | 68 | [It Is Well With My Soul](https://open.spotify.com/track/3VBqIpJOTtauueKPLl20wn) | [Chris Rice](https://open.spotify.com/artist/0vD3f3r69jBB1bL6VWnGM2) | [Peace Like A River: The Hymns Project](https://open.spotify.com/album/2y1UXNsN8wA3AhXGeIcgpE) | 4:39 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ZaylsK87YU.md) - [plain]
 | 97 | [doxology](https://open.spotify.com/track/2PMzoMvHUh8SRcSkx2E51K) | [My Epic](https://open.spotify.com/artist/0HowPCaKsP1sJL2T2eMEoe) | [Broken Voice](https://open.spotify.com/album/2YrNDHsk3sdrG1273AqlPy) | 3:10 |
 | 98 | [What Wondrous Love Is This \(Live from Mayne Island\)](https://open.spotify.com/track/1zyEnquNOscqlJwO672XJ7) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8), [Mason Jar Music](https://open.spotify.com/artist/5fDdnBEEvrNr9dnXSmBxUG) | [The Sea in Between \(Soundtrack\)](https://open.spotify.com/album/0Ao2w5SU5pRoHJKrwg2D1Z) | 2:00 |
 | 99 | [Little Things With Great Love \(Live\) \[feat\. Madison Cunningham\]](https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Work Songs: The Porter's Gate Worship Project Vol 1](https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI) | 5:07 |
-| 100 | [Were You There](https://open.spotify.com/track/59NpCm0lOMObumSe0soohI) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Two Coasts for Comfort](https://open.spotify.com/album/2DwXkxKGEMsebxJbrtzYUi) | 3:25 |
+| 100 | [On Jordan's Stormy Banks \(Live\)](https://open.spotify.com/track/0zllW9HG3BQ1QHNNxEORCS) | [Indelible Grace Music](https://open.spotify.com/artist/0HoHU8SXe0g9jJGOfL8rDq) | [The Hymn Sing \(Live in Nashville\)](https://open.spotify.com/album/1DjEafJtRkGyO1VEAdn65y) | 5:27 |
 
 Snapshot ID: `ZIxb5wAAAAAaHcGwR7DUg+xT178WxaFD`

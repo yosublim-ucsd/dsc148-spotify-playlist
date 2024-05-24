@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The UK's biggest rock playlist. Cover: Jake Bugg",
+  "description": "The UK's biggest rock playlist. Cover: Bring Me The Horizon",
   "name": "The Rock List",
   "tracks": [
     {
@@ -618,7 +618,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 212630,
       "name": "ALL OF U",
       "url": "https://open.spotify.com/track/4ealCIKR5aAYaKYuxVWJ0J"
@@ -1804,7 +1804,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150005,
       "name": "Call",
       "url": "https://open.spotify.com/track/1nNqKHLoMMzpQNhsZihMgC"
@@ -1992,7 +1992,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 260133,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/0EeqdkR4Wec3YlSaupYv6X"
@@ -2086,7 +2086,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 243881,
       "name": "Collide",
       "url": "https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK"
@@ -2147,6 +2147,24 @@
     },
     {
       "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -2158,7 +2176,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180134,
       "name": "Curse",
       "url": "https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn"
@@ -4003,6 +4021,24 @@
     },
     {
       "album": {
+        "name": "HEAT ME UP",
+        "url": "https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "HEAT ME UP",
+      "url": "https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l"
+    },
+    {
+      "album": {
         "name": "Heaven Surrounds Us Like a Hood",
         "url": "https://open.spotify.com/album/5t7N8dFT1XvMnDekrjfHkb"
       },
@@ -4747,7 +4783,7 @@
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 145826,
+      "duration_ms": 146440,
       "name": "Iconic",
       "url": "https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw"
     },
@@ -6035,6 +6071,24 @@
     },
     {
       "album": {
+        "name": "MEDZ",
+        "url": "https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165868,
+      "name": "MEDZ",
+      "url": "https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ"
+    },
+    {
+      "album": {
         "name": "Meet You There 2.0",
         "url": "https://open.spotify.com/album/0jKCIVawS2LS6yUl24YNdb"
       },
@@ -6446,7 +6500,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222616,
       "name": "My Thoughts Go",
       "url": "https://open.spotify.com/track/0HgiTjbuOBalJw2QgDlR0H"
@@ -8099,6 +8153,24 @@
     },
     {
       "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/74ru0U9zgqGD7p6zQEW5Vh"
+      },
+      "artists": [
+        {
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/0tY6cjuSG8vLZBfO7NSdKG"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/65VaYUp0OcM5me4nEsWet0"
       },
@@ -8510,7 +8582,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 176707,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
@@ -9779,6 +9851,24 @@
     },
     {
       "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "album": {
         "name": "Cream",
         "url": "https://open.spotify.com/album/2QhlzKJweHYmtFZByf51qc"
       },
@@ -9848,6 +9938,24 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
+    },
+    {
+      "album": {
+        "name": "U Should Not Be Doing That / Facts",
+        "url": "https://open.spotify.com/album/7JAP54qpfq60TE8jgkujCs"
+      },
+      "artists": [
+        {
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206659,
+      "name": "U Should Not Be Doing That",
+      "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"
     },
     {
       "album": {
@@ -10786,6 +10894,24 @@
       "duration_ms": 224913,
       "name": "Young In America",
       "url": "https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242662,
+      "name": "YOUtopia",
+      "url": "https://open.spotify.com/track/24l3mfIPWVa645a9LEwSHx"
     },
     {
       "album": {

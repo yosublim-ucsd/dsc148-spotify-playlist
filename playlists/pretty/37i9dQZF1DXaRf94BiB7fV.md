@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Fiddlecraft, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,566 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,584 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 20 | [Ye Safar](https://open.spotify.com/track/5L2jOBhaa9CEzm22OwLRRq) | [The Sleeping Satellite](https://open.spotify.com/artist/6gXG2Ufhff8vq6ptmY7w26) | [Ye Safar](https://open.spotify.com/album/5rBB0xGWXohRAjdMpWA52i) | 3:20 |
 | 21 | [Dhaage](https://open.spotify.com/track/0ADoxUgt2B1WnWHPWmd5DR) | [Nikhil Pawar Music](https://open.spotify.com/artist/1wZDI0EEb9RnZBkn8s1fck), [Antaraa Bhataacharya](https://open.spotify.com/artist/0ZssWexyE6l7emmKmsUeCL) | [Dhaage](https://open.spotify.com/album/4EVKmVWhRYyP94GsXVNyss) | 3:14 |
 | 22 | [Khazaana](https://open.spotify.com/track/7iLyAideT0t1y5diQgy4EX) | [Abhishek Redwal](https://open.spotify.com/artist/74ZWWXiuWvsJChbncxO1NK) | [Khazaana](https://open.spotify.com/album/2DIPMRywu16N2chIgAJM6X) | 4:28 |
-| 23 | [Baatien](https://open.spotify.com/track/1nEaT071zg8IMNtEgYgzhi) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Hetal Dave](https://open.spotify.com/artist/2PS1dgaWIDngNeBGH6JCar) | [Baatien](https://open.spotify.com/album/2AkcLlGMoAJmT9iYMIQmSz) | 3:27 |
+| 23 | [Baatien](https://open.spotify.com/track/1nEaT071zg8IMNtEgYgzhi) | [Arhaan Hussain](https://open.spotify.com/artist/4pxfXcQuZLeqfukbO0oUXa), [Hetal Dave](https://open.spotify.com/artist/3D4EbkdLgNGIG30gza0YW5) | [Baatien](https://open.spotify.com/album/2AkcLlGMoAJmT9iYMIQmSz) | 3:27 |
 | 24 | [Dooriyan](https://open.spotify.com/track/77Gwkk9NxZbaZ5s9u1rXSN) | [Pranjal Sahu](https://open.spotify.com/artist/0jNETbZi2W1629lNUlvChz), [Dikshyant](https://open.spotify.com/artist/2yqpqCw2H3bRLQnPZtpuOy), [SPANDAN](https://open.spotify.com/artist/1jonFvLAWp9KcPamGKp6Xe), [Yati Pandey](https://open.spotify.com/artist/1ibBwxhpzQeUVXhUXAbaM3) | [Dooriyan](https://open.spotify.com/album/4PUMe6JIOm84GnF5Zbhb3l) | 2:47 |
 | 25 | [Khwahishein](https://open.spotify.com/track/4LdSJClxcRdYfeUrrNKozl) | [Ronnie Sinha](https://open.spotify.com/artist/18ie7a4xuNeUPxRU6CkUbF), [Biyas Sarkar](https://open.spotify.com/artist/2WCEJe0EyzzXUmsqejOcGt) | [Khwahishein](https://open.spotify.com/album/5fEnVhlWlG6L8qDrgNepNR) | 4:38 |
 | 26 | [Khamakha](https://open.spotify.com/track/35b48SUGOHMYuAqgBOTmwF) | [Rahul Pandey](https://open.spotify.com/artist/6nZs8OAaiWEGqNJsKTK7Vq) | [Khamakha](https://open.spotify.com/album/6xKFgClDDOsizTKczyqUGY) | 3:03 |

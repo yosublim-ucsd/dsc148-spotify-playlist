@@ -1,12 +1,12 @@
 {
   "description": "This is Aventura. The essential tracks, all in one playlist.",
-  "num_followers": 549234,
+  "num_followers": 550835,
   "original_name": "This Is Aventura",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAZ5ZIZTdP8vyTXF8TmQfbi",
+  "snapshot_id": "Zk01gAAAAABFi95oWtSVfkSk57bIVAVl",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brindo Con Agua",
-        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 281082,
-      "name": "Brindo Con Agua",
-      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love & Hate",
         "url": "https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 273920,
       "name": "Mi Ni\u00f1a Cambi\u00f3",
       "url": "https://open.spotify.com/track/3ORQsL0g4APGsXoqD5tkpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brindo Con Agua",
+        "url": "https://open.spotify.com/album/5HkRQub6vVhqIFDOKEFVZO"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 281082,
+      "name": "Brindo Con Agua",
+      "url": "https://open.spotify.com/track/0VazBorrrrE0vlacDVRQCx"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 225746,
-      "name": "L\u00e1grimas",
-      "url": "https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love & Hate",
         "url": "https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7"
       },
@@ -527,6 +511,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2KAFZKOzlkk0wOI1XdoO0q"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 225746,
+      "name": "L\u00e1grimas",
+      "url": "https://open.spotify.com/track/4qo9CljCI7Nn9VmRxC0246"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Generation Next",
         "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
       },
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 217880,
-      "name": "Amor Bonito (Novela 2)",
-      "url": "https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX"
+      "duration_ms": 245040,
+      "name": "Alexandra",
+      "url": "https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
       "duration_ms": 264040,
       "name": "Nueve y Quince - 9: 15",
       "url": "https://open.spotify.com/track/1LitgN2tFmNVEtLY6qh5SZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love & Hate",
+        "url": "https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 264133,
+      "name": "Defa V\u00fa",
+      "url": "https://open.spotify.com/track/1x27vVrC2P7WPlW2tCsjGu"
     },
     {
       "added_at": null,
@@ -579,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love & Hate",
-        "url": "https://open.spotify.com/album/2Z9tU5T5Xad6u4rTGjZIy7"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 264133,
-      "name": "Defa V\u00fa",
-      "url": "https://open.spotify.com/track/1x27vVrC2P7WPlW2tCsjGu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Generation Next",
         "url": "https://open.spotify.com/album/7odOEHZzb4ROtmS6wBkYtp"
       },
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Alexandra",
-      "url": "https://open.spotify.com/track/5KGRgP2TIoQy5JGi5MFm7Z"
+      "duration_ms": 217880,
+      "name": "Amor Bonito (Novela 2)",
+      "url": "https://open.spotify.com/track/6vw2D0AeWBSJhJi0OrnudX"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 536690,
+  "num_followers": 536568,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
@@ -807,22 +807,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Amanecemos",
-        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
+        "name": "Colocao",
+        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
       },
       "artists": [
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 198183,
-      "name": "Amanecemos",
-      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
+      "duration_ms": 179966,
+      "name": "Colocao",
+      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -863,18 +859,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Colocao",
-        "url": "https://open.spotify.com/album/3VH9BRaAzvy7n9X5DNdHxm"
+        "name": "Amanecemos",
+        "url": "https://open.spotify.com/album/3ybnP0l2GS9XlLOIoYGvPg"
       },
       "artists": [
         {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
-      "duration_ms": 179966,
-      "name": "Colocao",
-      "url": "https://open.spotify.com/track/7MCFjPDImfjQv7GynHgVrR"
+      "duration_ms": 198183,
+      "name": "Amanecemos",
+      "url": "https://open.spotify.com/track/4L6PEEISI0EWoKh8Wwtvuh"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -935,26 +935,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Esto Reci\u00e9n Empieza",
-        "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 172352,
-      "name": "Esto Reci\u00e9n Empieza",
-      "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 172621,
       "name": "te pongo mal(prendelo)",
       "url": "https://open.spotify.com/track/36Qi2bHMzLMQIHApHFytgv"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Esto Reci\u00e9n Empieza",
+        "url": "https://open.spotify.com/album/4uByxcE4UmzHo553LlwymU"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 172352,
+      "name": "Esto Reci\u00e9n Empieza",
+      "url": "https://open.spotify.com/track/0ZLkb9lDDlTPwYZPvuGnHB"
     }
   ],
   "unique_name": "Con B de Bichota",

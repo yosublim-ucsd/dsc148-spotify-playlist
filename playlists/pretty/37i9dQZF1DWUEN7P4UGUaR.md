@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joe Mettle
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,399 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,424 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 15 | [Ghana Chant](https://open.spotify.com/track/6SDSUyyEbsjFHEccLh0Mw4) | [Team Eternity Ghana](https://open.spotify.com/artist/5bq3JNFcE1ZojRIlPtldoz) | [Testimony](https://open.spotify.com/album/3bWaysoTLDOIuvVh9JxR69) | 13:21 |
 | 16 | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/track/59SyXvjKYAQeafSnnwcwIL) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Niiella](https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou) | [Unconditional Love \(feat\. Niiella\)](https://open.spotify.com/album/5AhUfsYA3kwKSEWt8kMvVM) | 3:46 |
 | 17 | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/track/2vPxKFymTxOgHhYszvBtJ8) | [Siisi Baidoo](https://open.spotify.com/artist/1x9IbDcuMszbQzU8tposjZ) | [Onyame Tumfo \(The Prayer Song\)](https://open.spotify.com/album/1dFyQ59czNRy78NVZnXcN4) | 9:44 |
-| 18 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 18 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
 | 19 | [Guide Me](https://open.spotify.com/track/3MW8vukTtZUkSQi4s9rpDb) | [KODA](https://open.spotify.com/artist/5nCnnoitr6BO4g5sEIEDkB) | [Guide Me](https://open.spotify.com/album/0bOTT9Wp4ulzqMViuy9n2Y) | 3:47 |
 | 20 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 |
-| 21 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
-| 22 | [Amen \- Live](https://open.spotify.com/track/5vVMTcdrdemhDKYsUeDq3m) | [FRA!](https://open.spotify.com/artist/07Bkdyq0lzTh2ayKwd40HN) | [Amen \(Live\)](https://open.spotify.com/album/5jfl39rUw28zJbmYNf3BjA) | 3:20 |
+| 21 | [Something New](https://open.spotify.com/track/6Lq74XHSPBqMmoWQoqtVZa) | [Kofi Karikari](https://open.spotify.com/artist/0xhT4axNpehsv6iBReJgAE) | [Lifted High](https://open.spotify.com/album/5jUhgQlpgBvDGjW8GnLKLF) | 3:23 |
+| 22 | [W'asem](https://open.spotify.com/track/2P1734fFFj2AG4oekoXtHz) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Grace](https://open.spotify.com/album/6vHojEWIva0bbhJIDS5YTC) | 3:39 |
 | 23 | [Nyame Tumfo \(Live\)](https://open.spotify.com/track/30uN5hIhQLOjJTlXC8RKPn) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Live in Kumasi](https://open.spotify.com/album/4Cjdnmhpz6b8gbBhqRKCaz) | 4:40 |
 | 24 | [W' asue Me](https://open.spotify.com/track/38TUsRvKzntzSTQGiCTEyk) | [Obaapa Christy](https://open.spotify.com/artist/1S3KAAsxnbkkrwlil4LMMk) | [W'agye Me \(He Has Saved Me\)](https://open.spotify.com/album/2WWBMpv4jMlHegBbp40ot5) | 5:24 |
 | 25 | [Ote Me Mu](https://open.spotify.com/track/1AKRHTiYjgX3hyXFSQYXvf) | [Ohemaa Mercy](https://open.spotify.com/artist/0UZvkysizI1xwBTkcAPD8s), [MOG](https://open.spotify.com/artist/4DgItVDLDv8tnIxB0pnsVf) | [Ote Me Mu](https://open.spotify.com/album/3MJ0HeDAjRJrQtlUVV308N) | 4:35 |

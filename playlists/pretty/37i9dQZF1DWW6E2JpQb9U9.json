@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 111334,
+  "num_followers": 111364,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "M\u00fasica del Alma (En Vivo)",
-        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
+        "name": "Hasta Estallar (En Vivo)",
+        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
       "artists": [
         {
-          "name": "Charly Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 251296,
-      "name": "M\u00fasica Del Alma - En Vivo",
-      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
+      "duration_ms": 280810,
+      "name": "Hasta Estallar (En Vivo)",
+      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1363,22 +1367,18 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Hasta Estallar (En Vivo)",
-        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
+        "name": "M\u00fasica del Alma (En Vivo)",
+        "url": "https://open.spotify.com/album/0cMlhfS9ybqoQf8o463m5X"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
         }
       ],
-      "duration_ms": 280810,
-      "name": "Hasta Estallar (En Vivo)",
-      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+      "duration_ms": 251296,
+      "name": "M\u00fasica Del Alma - En Vivo",
+      "url": "https://open.spotify.com/track/5lN4LRhNSCnYtfj8R8Guce"
     },
     {
       "added_at": "2024-04-18 21:14:50",

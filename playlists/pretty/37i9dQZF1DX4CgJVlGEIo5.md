@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,851 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,913 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 17 | [Fast Car \(feat\. Tall Heights\)](https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ) | [Ryan Montbleau](https://open.spotify.com/artist/5Q2ZtOZ0vOdtcjGDOq6ZQc), [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [All or Nothing / Fast Car](https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV) | 4:32 |
 | 18 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 19 | [Dyan](https://open.spotify.com/track/24VL42SyykfEQGYIdyAg1H) | [Le Ren](https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF) | [Dyan](https://open.spotify.com/album/5rgmHYbqXbu6pJsQp1uRlv) | 2:38 |
-| 20 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 21 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
+| 20 | [Yellow Eyes](https://open.spotify.com/track/3HOXNIj8NjlgjQiBd3YVIi) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:50 |
+| 21 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 22 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
 | 23 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 |
 | 24 | [Issues \- Acoustic](https://open.spotify.com/track/4TqiKcUUvK7y6x6JG5NpJX) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Issues \(Acoustic\)](https://open.spotify.com/album/3VJx9QYw43oSfSBaHCUXYC) | 2:55 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 38 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
 | 39 | [Beat of My Heart](https://open.spotify.com/track/44fTa1co7zmof732liprRg) | [Cujo Moon](https://open.spotify.com/artist/28PfPnmxT8rQJiLEByR81N) | [Tides](https://open.spotify.com/album/0Bf1RY3TNvIrvsKlTZYJjk) | 3:35 |
 | 40 | [Lost On You](https://open.spotify.com/track/5hn1VvnTKDUne8wGB4UfXB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Lost On You](https://open.spotify.com/album/6VeuZSACPAwrb13vLHNEyY) | 3:15 |
-| 41 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
-| 42 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
+| 41 | [95](https://open.spotify.com/track/38U9MNddSnOBKEhV6g94gw) | [Picture This](https://open.spotify.com/artist/7jLSEPYCYQ5ssWU3BICqrW) | [Picture This](https://open.spotify.com/album/5RvSeWeeZHU1blLJqcOgnu) | 3:54 |
+| 42 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 43 | [Rubber](https://open.spotify.com/track/3dsZCq57TheazHh1GVAJwO) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Rubber](https://open.spotify.com/album/6Q5lfwMABVKmk5sv6uS1mV) | 3:18 |
 | 44 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 45 | [Full Circle](https://open.spotify.com/track/2DtYtc9nMEdyjtJsT1ARqt) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Prospect](https://open.spotify.com/album/5FqtBnZLBb2q6GImNtrD2d) | 3:54 |

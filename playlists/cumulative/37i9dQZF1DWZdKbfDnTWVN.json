@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=HZkN5B1KStCZHEbI87xDLA\"> Wakadinali </a> ",
+  "description": "The best of bars, beats & rhymes from the 254. Cover: <a href=\"https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T?si=TOnkyatjTSKGElEk-KyE7w\"> Elsy Wameyo </a> ",
   "name": "254 Flow",
   "tracks": [
     {
@@ -253,6 +253,24 @@
     },
     {
       "album": {
+        "name": "Baddest Ever",
+        "url": "https://open.spotify.com/album/4BhPEacIUL3ct2wMvGteaS"
+      },
+      "artists": [
+        {
+          "name": "Breeder LW",
+          "url": "https://open.spotify.com/artist/627ZPdDfhsaXctdPneB5Sy"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194716,
+      "name": "Baddest Ever",
+      "url": "https://open.spotify.com/track/3CqNl6iaUVpsAzXsl6mj7N"
+    },
+    {
+      "album": {
         "name": "Balaclava Lover",
         "url": "https://open.spotify.com/album/7e5RSVHDI5xnEwhYy0I4RR"
       },
@@ -354,7 +372,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 221572,
       "name": "Between Us",
       "url": "https://open.spotify.com/track/2zXgGlV2o8hhhD16IXoWzh"
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 320940,
       "name": "Bongo Favour",
       "url": "https://open.spotify.com/track/02VNjA5HsgGYYcTGgbuw4m"
@@ -794,7 +812,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 145000,
       "name": "Commercial",
       "url": "https://open.spotify.com/track/7qScVhjvF1FyIBJFFrXaqP"
@@ -1635,6 +1653,32 @@
     },
     {
       "album": {
+        "name": "Hustle Figure",
+        "url": "https://open.spotify.com/album/6alcBRUSvyt5ozw98gD5is"
+      },
+      "artists": [
+        {
+          "name": "Double Trouble",
+          "url": "https://open.spotify.com/artist/16bv2xG6TA7IgSjLJFPRCa"
+        },
+        {
+          "name": "AshRough",
+          "url": "https://open.spotify.com/artist/3S5G8Jm88WUAdwgvZCtuvV"
+        },
+        {
+          "name": "Stunna TNG",
+          "url": "https://open.spotify.com/artist/3YI0gln186OWxuOAzkScJq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161632,
+      "name": "Hustle Figure",
+      "url": "https://open.spotify.com/track/04jbJq2AuE35VuAe55gVuI"
+    },
+    {
+      "album": {
         "name": "Reborn",
         "url": "https://open.spotify.com/album/5l2X20T2eUOcnqTe0QjiNV"
       },
@@ -2115,6 +2159,32 @@
     },
     {
       "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/6lYbhvnxGcwRnCVGJkUspX"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Prznt",
+          "url": "https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w"
+        },
+        {
+          "name": "Adrian Chafer",
+          "url": "https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/1ErW8aGbAd4QK8NSnFQf1c"
+    },
+    {
+      "album": {
         "name": "MaABC",
         "url": "https://open.spotify.com/album/0y2jpUTJTX9rGK4nZTff2r"
       },
@@ -2252,7 +2322,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 155897,
       "name": "Maji",
       "url": "https://open.spotify.com/track/6Z43doEGCuDgTaNtJHXRFn"
@@ -3134,7 +3204,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131016,
       "name": "Problems",
       "url": "https://open.spotify.com/track/11JTSUxWm8c8tFywaTEboq"
@@ -3432,6 +3502,24 @@
       "duration_ms": 145641,
       "name": "Sawa",
       "url": "https://open.spotify.com/track/0wJmCGVg0JTGE3iyHUqyWK"
+    },
+    {
+      "album": {
+        "name": "Scar Mkadinali (\"Supu Ya Pweza\")",
+        "url": "https://open.spotify.com/album/4Tw6TrxsalzhHPAUQggYo9"
+      },
+      "artists": [
+        {
+          "name": "Wakadinali",
+          "url": "https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198461,
+      "name": "Scar Mkadinali (\"Supu Ya Pweza\")",
+      "url": "https://open.spotify.com/track/0SYClqfSfxRprFIdY6Eugy"
     },
     {
       "album": {
@@ -4424,6 +4512,24 @@
       "duration_ms": 267441,
       "name": "Umoroto",
       "url": "https://open.spotify.com/track/5wjD5yBTFfmSzfFdxfNAki"
+    },
+    {
+      "album": {
+        "name": "Umva",
+        "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203611,
+      "name": "Umva",
+      "url": "https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN"
     },
     {
       "album": {

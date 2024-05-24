@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,777 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,851 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

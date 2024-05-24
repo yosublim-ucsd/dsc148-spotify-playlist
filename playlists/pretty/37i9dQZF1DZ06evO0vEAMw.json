@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 75632,
+  "num_followers": 75684,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAvgCj/Q/sf4kPvRX/nrq2B",
+  "snapshot_id": "Zk01gAAAAABz16p8/eyAvWvm/IchR0wz",
   "tracks": [
     {
       "added_at": null,
@@ -38,11 +38,15 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "FAVE",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 154512,
-      "name": "FEEL",
-      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
+      "duration_ms": 194040,
+      "name": "KANTE (feat. Fave)",
+      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
     },
     {
       "added_at": null,
@@ -118,15 +122,11 @@
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "FAVE",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 194040,
-      "name": "KANTE (feat. Fave)",
-      "url": "https://open.spotify.com/track/7vKXc90NT5WBm3UTT4iTVG"
+      "duration_ms": 154512,
+      "name": "FEEL",
+      "url": "https://open.spotify.com/track/1mk8ZC9OeTZMr8Wy31LqRj"
     },
     {
       "added_at": null,
@@ -259,18 +259,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+        "name": "wap",
+        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
       },
       "artists": [
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+      "duration_ms": 168000,
+      "name": "wap",
+      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "added_at": null,
@@ -287,6 +291,22 @@
       "duration_ms": 153684,
       "name": "AWAY",
       "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": null,
@@ -323,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 198801,
+      "name": "OVER DEM",
+      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drift (Remix)",
         "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
       },
@@ -339,22 +375,6 @@
       "duration_ms": 201583,
       "name": "Drift (Remix)",
       "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 198801,
-      "name": "OVER DEM",
-      "url": "https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3"
     },
     {
       "added_at": null,
@@ -379,26 +399,6 @@
       "duration_ms": 150545,
       "name": "Like (feat. Kizz Daniel)",
       "url": "https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "wap",
-        "url": "https://open.spotify.com/album/5Jbh653OLOZOtFazI7Hk7A"
-      },
-      "artists": [
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "wap",
-      "url": "https://open.spotify.com/track/0clDhQSahgP1U8vZUfblWS"
     },
     {
       "added_at": null,
@@ -431,6 +431,34 @@
       "duration_ms": 147021,
       "name": "FOR THE ROAD",
       "url": "https://open.spotify.com/track/0SGea6cYbJWWz0MW1MYWlD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
+        "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
+      },
+      "artists": [
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Aisha",
+          "url": "https://open.spotify.com/artist/0S85VL5RtkqXSh22xB8Je5"
+        },
+        {
+          "name": "FIFA Sound",
+          "url": "https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH"
+        }
+      ],
+      "duration_ms": 206069,
+      "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
+      "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
     },
     {
       "added_at": null,
@@ -475,6 +503,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "La La (feat. Ckay)",
+      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
       },
@@ -507,26 +555,6 @@
       "duration_ms": 237983,
       "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 - from GRAN TURISMO 7",
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "La La (feat. Ckay)",
-      "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
     },
     {
       "added_at": null,
@@ -575,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FIA",
-        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 214205,
-      "name": "FIA",
-      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -607,6 +619,22 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FIA",
+        "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 214205,
+      "name": "FIA",
+      "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
     },
     {
       "added_at": null,
@@ -643,26 +671,6 @@
       "duration_ms": 270315,
       "name": "Risky",
       "url": "https://open.spotify.com/track/56HnJIjgi41kpjh6L3Y1Ca"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Nobody Has To Know (feat. Davido)",
-      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
     },
     {
       "added_at": null,
@@ -771,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Money",
         "url": "https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU"
       },
@@ -787,22 +811,6 @@
       "duration_ms": 221596,
       "name": "The Money",
       "url": "https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7"
     },
     {
       "added_at": null,
@@ -855,30 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sad Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
+        "name": "Nwa Baby",
+        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
-        },
-        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 305941,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
-      "url": "https://open.spotify.com/track/5Ju2kTyHQmPHQbg0qD8pm1"
+      "duration_ms": 222327,
+      "name": "Nwa Baby",
+      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
     },
     {
       "added_at": null,
@@ -919,18 +915,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nwa Baby",
-        "url": "https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn"
+        "name": "Sad Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
       "artists": [
         {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 222327,
-      "name": "Nwa Baby",
-      "url": "https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m"
+      "duration_ms": 305941,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
+      "url": "https://open.spotify.com/track/5Ju2kTyHQmPHQbg0qD8pm1"
     },
     {
       "added_at": null,

@@ -6,275 +6,131 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAqgwSYmcuaju0MZW8favLIqlPaJJrU",
+  "snapshot_id": "AAAqhpzHPq6V4hf1+1fg4sSnJpR1ZB/w",
   "tracks": [
     {
-      "added_at": "2024-05-16 23:35:50",
+      "added_at": "2024-05-23 22:24:12",
       "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/1h91E7DWJbcg7YVuCmXReC"
+        "name": "Get Busy (Odd Mob Club Mix)",
+        "url": "https://open.spotify.com/album/7BPFEggYyxdKc33fjXFCxy"
       },
       "artists": [
         {
-          "name": "Liu",
-          "url": "https://open.spotify.com/artist/3DnNQH13SfSOjZDsVEa0ht"
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
-          "name": "Alex O'Clock",
-          "url": "https://open.spotify.com/artist/2K91we4sYTdu2m0nRdO940"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
         }
       ],
-      "duration_ms": 136874,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/0JPcvd0v324wxse9XhvT7a"
+      "duration_ms": 165909,
+      "name": "Get Busy - Odd Mob Club Mix",
+      "url": "https://open.spotify.com/track/76UVi3tz2rpTOPtvstIoK2"
     },
     {
-      "added_at": "2024-05-16 23:35:50",
+      "added_at": "2024-05-23 22:24:12",
       "album": {
-        "name": "Stumblin' In (Wilson & Smokin' Jack Hill Remix)",
-        "url": "https://open.spotify.com/album/4ZNwTa7FDDaK11sm2iXSzh"
+        "name": "Don\u2019t Let The Rain",
+        "url": "https://open.spotify.com/album/6I9XyeLDvgJ0y1Qn6YQMXq"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Darius & Finlay",
+          "url": "https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke"
         },
         {
-          "name": "Smokin' Jack Hill",
-          "url": "https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm"
+          "name": "Lotus",
+          "url": "https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b"
+        }
+      ],
+      "duration_ms": 169087,
+      "name": "Don\u2019t Let The Rain",
+      "url": "https://open.spotify.com/track/3JySlQB4F2htZrQ0hnEf4H"
+    },
+    {
+      "added_at": "2024-05-23 22:24:12",
+      "album": {
+        "name": "Take Me Away (feat. 4 Strings)",
+        "url": "https://open.spotify.com/album/3vOYtOP8y4n972n5YFZL0O"
+      },
+      "artists": [
+        {
+          "name": "Toneshifterz",
+          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
         },
         {
-          "name": "Wilson",
-          "url": "https://open.spotify.com/artist/5jHgwbuuTlQe69rYvxCXw1"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Stumblin' In (Wilson & Smokin' Jack Hill Remix)",
-      "url": "https://open.spotify.com/track/0VugF8gMa0BZpsS4LmM6Dg"
-    },
-    {
-      "added_at": "2024-05-16 23:35:50",
-      "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/2TDDTSE6n30E0ZYgBGeIRL"
-      },
-      "artists": [
-        {
-          "name": "VASSY",
-          "url": "https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF"
-        }
-      ],
-      "duration_ms": 172898,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0WlbKq1FQCKTpP82jSc37u"
-    },
-    {
-      "added_at": "2024-05-16 23:35:50",
-      "album": {
-        "name": "My City",
-        "url": "https://open.spotify.com/album/3xNEWVkFaNdnAPmC0M5J0c"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Dr Phunk",
+          "url": "https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk"
         },
         {
-          "name": "Prophecy",
-          "url": "https://open.spotify.com/artist/03O6WINYmDJRCE2EUFaykv"
+          "name": "4 Strings",
+          "url": "https://open.spotify.com/artist/2a0fbijQhcaj1hOFp5b3id"
         }
       ],
-      "duration_ms": 151874,
-      "name": "My City",
-      "url": "https://open.spotify.com/track/3G8UpeZbzVGRMJQD5Zn3mB"
+      "duration_ms": 182709,
+      "name": "Take Me Away (feat. 4 Strings)",
+      "url": "https://open.spotify.com/track/6uwZTxW1wBkWNSAqd1noW8"
     },
     {
-      "added_at": "2024-05-16 23:35:50",
+      "added_at": "2024-05-23 22:24:12",
       "album": {
-        "name": "Fade Till Sunrise",
-        "url": "https://open.spotify.com/album/114hIeSkPIDGlfjB1zN6w7"
+        "name": "Make It Loud",
+        "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
       },
       "artists": [
         {
-          "name": "Kryder",
-          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
         }
       ],
-      "duration_ms": 181897,
-      "name": "Fade Till Sunrise",
-      "url": "https://open.spotify.com/track/3SveeQXLlX4ilxJOqoCHYY"
+      "duration_ms": 236129,
+      "name": "Make It Loud",
+      "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
     },
     {
-      "added_at": "2024-05-16 23:35:50",
+      "added_at": "2024-05-23 22:24:12",
       "album": {
-        "name": "Shake It",
-        "url": "https://open.spotify.com/album/6gp0nJjztF78rwtevKwrIO"
+        "name": "VIKINGS (Hey Ho)",
+        "url": "https://open.spotify.com/album/40d9SJ6rMFbupMyYq2Rx4W"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
         }
       ],
-      "duration_ms": 131520,
-      "name": "Shake It",
-      "url": "https://open.spotify.com/track/5N0p6vaK1JC1C6T6raVb8w"
+      "duration_ms": 195768,
+      "name": "VIKINGS (Hey Ho)",
+      "url": "https://open.spotify.com/track/6IT0imWqG8TkVQhyMZEVm7"
     },
     {
-      "added_at": "2024-05-16 23:35:50",
+      "added_at": "2024-05-23 22:24:12",
       "album": {
-        "name": "Don't Get Lazy",
-        "url": "https://open.spotify.com/album/65eU6goKpy3PwvAQgPKFuw"
+        "name": "33 Max Verstappen (Dj Ren\u00e9 Abrego Mexico Remix)",
+        "url": "https://open.spotify.com/album/6UhUDsU5r1OvZUOGsM700D"
       },
       "artists": [
         {
-          "name": "Oomloud",
-          "url": "https://open.spotify.com/artist/18iAsmcXmXggoa4g4IBa0P"
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
         },
         {
-          "name": "Alannys Weber",
-          "url": "https://open.spotify.com/artist/5vj4CW7CNhPrHbD7zc8SAu"
-        }
-      ],
-      "duration_ms": 151277,
-      "name": "Don't Get Lazy",
-      "url": "https://open.spotify.com/track/5otmd1vyOCxDtcvYRrJQ3u"
-    },
-    {
-      "added_at": "2024-05-16 23:35:50",
-      "album": {
-        "name": "SKELETON",
-        "url": "https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk"
-      },
-      "artists": [
-        {
-          "name": "Matt Hawk",
-          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "SKELETON",
-      "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
-    },
-    {
-      "added_at": "2024-05-16 23:35:50",
-      "album": {
-        "name": "Get Silly",
-        "url": "https://open.spotify.com/album/342ESIqWtB7Mi8CpW1WcyN"
-      },
-      "artists": [
-        {
-          "name": "Pickle",
-          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
-        }
-      ],
-      "duration_ms": 177857,
-      "name": "Get Silly",
-      "url": "https://open.spotify.com/track/7que6KGImzpzFfW6jWARLF"
-    },
-    {
-      "added_at": "2024-05-16 23:35:50",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/3ocRwxucX3212g29vOg7je"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        }
-      ],
-      "duration_ms": 213230,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/7wSEDWlXFMqBhDHyB9Ojw6"
-    },
-    {
-      "added_at": "2024-05-17 14:37:22",
-      "album": {
-        "name": "Make U Hot (feat. Movada)",
-        "url": "https://open.spotify.com/album/4P4ubB506bj9dklmUTEVhg"
-      },
-      "artists": [
-        {
-          "name": "Jae Depz",
-          "url": "https://open.spotify.com/artist/5xWgP0ZcYlUCk7NcYmt6Am"
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
         },
         {
-          "name": "Movada",
-          "url": "https://open.spotify.com/artist/6DDphNWazbGLtmw2ARnqMp"
+          "name": "Dj Ren\u00e9 Abrego",
+          "url": "https://open.spotify.com/artist/6xA9nblh3vWgH8D593Jhkz"
+        },
+        {
+          "name": "QOTAX",
+          "url": "https://open.spotify.com/artist/1IgsSgFTsbBmxBGZoNK0Hw"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Make U Hot (feat. Movada)",
-      "url": "https://open.spotify.com/track/5LHFtRi5mnh2utyqPxfHJ5"
-    },
-    {
-      "added_at": "2024-05-17 14:44:39",
-      "album": {
-        "name": "Go Back (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/1X6nBOWHHVwjWCcMgm2vdk"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 220538,
-      "name": "Go Back (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/68R0zVUeMJ2C852Ov6d2Mh"
-    },
-    {
-      "added_at": "2024-05-17 15:02:23",
-      "album": {
-        "name": "Northern Rhythm",
-        "url": "https://open.spotify.com/album/2YXgma0zulEI2l8BGlfCZe"
-      },
-      "artists": [
-        {
-          "name": "Patrick Topping",
-          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
-        },
-        {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
-        }
-      ],
-      "duration_ms": 207515,
-      "name": "Northern Rhythm",
-      "url": "https://open.spotify.com/track/2IgNL5Q4nA3bBENrY8FKKK"
-    },
-    {
-      "added_at": "2024-05-17 15:05:34",
-      "album": {
-        "name": "Sad Love (feat. JAIKO)",
-        "url": "https://open.spotify.com/album/6AXjoYZ10gYz5Dax6KwR03"
-      },
-      "artists": [
-        {
-          "name": "Kayote",
-          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
-        },
-        {
-          "name": "Bastyan",
-          "url": "https://open.spotify.com/artist/3BJgrhhTMNGZn3ORwAlK9g"
-        },
-        {
-          "name": "JAIKO",
-          "url": "https://open.spotify.com/artist/0Z18DUpbXTOfz077PDtmhT"
-        }
-      ],
-      "duration_ms": 161803,
-      "name": "Sad Love (feat. JAIKO)",
-      "url": "https://open.spotify.com/track/7ClzJE519FxZeSp2UoTZvt"
+      "duration_ms": 163189,
+      "name": "33 Max Verstappen (Dj Ren\u00e9 Abrego Mexico Remix)",
+      "url": "https://open.spotify.com/track/0ZM7l1RhuyjeXgi8D5qJBd"
     },
     {
       "added_at": "2024-05-22 16:31:47",

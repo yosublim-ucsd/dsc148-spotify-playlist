@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-732 songs - 1 day 18 hr 10 min
+733 songs - 1 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,7 @@
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |
 | [Someone To Forget \- BUSTED by Herobust](https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Together As One \(Remixes\)](https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3) | 4:41 | 2024-04-22 |  |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |
-| [sound therapy](https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [sound therapy](https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk) | 4:10 | 2024-03-05 |  |
+| [sound therapy](https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [sound therapy](https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk) | 4:10 | 2024-03-05 | 2024-05-24 |
 | [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 | 2022-11-24 |
 | [Space](https://open.spotify.com/track/67zWylZHTu4lLgfoPbV71r) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [ill\-esha](https://open.spotify.com/artist/2sTLQWYys1f2QqpIZ3EOeU) | [Space](https://open.spotify.com/album/3BbB94zXzS6ywAXg90w63y) | 3:46 | 2022-11-22 | 2023-02-17 |
 | [Space Boy](https://open.spotify.com/track/15fhccPHabcXcrmIxKFHum) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Veela](https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR) | [Space Boy](https://open.spotify.com/album/577vK0xFStmdlV3ggukLmZ) | 3:27 | 2022-03-17 | 2022-05-28 |
@@ -619,6 +619,7 @@
 | [Take It Back](https://open.spotify.com/track/0JJCoj51pn4Hywk8aXujAr) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Take It Back](https://open.spotify.com/album/3jYN8ZuvgXap2QtNQgl4Td) | 3:31 | 2024-01-26 | 2024-04-17 |
 | [Take Me](https://open.spotify.com/track/3bhhWM9zuWeUDyR4ODiaaD) | [Elypsis](https://open.spotify.com/artist/6ECqUbMiv22cNYmeBIOoPL) | [Fine Lines](https://open.spotify.com/album/13YQu9MLG4xy8vBI4OrSnA) | 3:16 | 2022-11-25 | 2022-11-29 |
 | [Take Me Away](https://open.spotify.com/track/3AqelM2KUTUGUOgqPIpegG) | [Eminence](https://open.spotify.com/artist/1hHhlYmo4C03IoCJ7RnpS2), [Weston & Teston](https://open.spotify.com/artist/29Ao31axAkL4n3L5OEbFpA), [Meredith Bull](https://open.spotify.com/artist/7qZdPKLV8xVaqsV98Dz9or) | [Take Me Away](https://open.spotify.com/album/5w1SO7iTkO8XjBhwUOi68j) | 3:37 | 2022-06-29 | 2022-09-10 |
+| [Take Me Away](https://open.spotify.com/track/1j4nN1aIkNkZ0YkX25fjc2) | [Hollywood Principle](https://open.spotify.com/artist/6ldZGvFDjs6KafLouTBHJ9), [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me Away](https://open.spotify.com/album/0fCsGnGCJnWfY3BWur6JS9) | 3:30 | 2024-05-23 |  |
 | [Take Me Higher](https://open.spotify.com/track/7x6WyCtfWVMSzY7BtvSlbs) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Take Me Higher](https://open.spotify.com/album/4liRBcZA8VxmCO17uCpwhC) | 2:34 | 2024-01-17 | 2024-04-09 |
 | [Take Me Into Space](https://open.spotify.com/track/7fyOoDZjardzxtHszeAtz3) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9), [DEXTER KING](https://open.spotify.com/artist/1cTcLDR0Y5LuXv7VlOQKmO) | [Take Me Into Space](https://open.spotify.com/album/3gep8PSYHoNtjx05xWCN6N) | 3:01 | 2023-01-17 | 2023-03-31 |
 | [Talk To Me](https://open.spotify.com/track/1HTAiaEhm1ASBdfku96IUF) | [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Talk To Me](https://open.spotify.com/album/4lXG5SZAxBlwZGD13ePprM) | 4:07 | 2022-09-21 | 2022-11-23 |

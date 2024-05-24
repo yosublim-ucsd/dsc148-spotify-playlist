@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como Bunbury con Arde Bogotá.
 
-401 songs - 1 day 2 hr 3 min
+402 songs - 1 day 2 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Aunque estemos muertos](https://open.spotify.com/track/3uO3mTwDGHrarie8K4tNMu) | [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV) | [Aunque estemos muertos](https://open.spotify.com/album/2dBTJbTVyoXU0SbJHbd9ZR) | 4:42 | 2023-09-14 | 2023-09-22 |
 | [Aviones Plateados \- En Directo](https://open.spotify.com/track/2fqKBa80qJ7yhucBwLXZF5) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Historia de una Banda \(En Directo\)](https://open.spotify.com/album/5yxWQnpSWZdXeiZ6YPOOlu) | 3:50 | 2022-05-19 |  |
 | [Aviones plateados \- Versión 2023](https://open.spotify.com/track/3je2TX1tt9e7iXiGByeeie) | [El Último De La Fila](https://open.spotify.com/artist/2jMYTBTCSNYaCYy54mLc6I) | [Aviones plateados \(Versión 2023\)](https://open.spotify.com/album/1rau5ASyQWSDnATZkjLsAM) | 3:59 | 2023-11-30 | 2023-12-08 |
-| [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 |  |
+| [Ay Que Gustito Pa' Mis Orejas](https://open.spotify.com/track/6olopCEGYHL8U7jMRWBnJJ) | [Raimundo Amador](https://open.spotify.com/artist/3skUHmTNpFUxTZaVxgvhF7) | [Mundo Amador](https://open.spotify.com/album/3datOykBe0V1Yaqk3hnhPy) | 3:31 | 2022-05-26 | 2024-05-24 |
 | [Bailaré sobre tu tumba](https://open.spotify.com/track/36PL1fiYUnX7pJQRY1qwVw) | [Siniestro Total](https://open.spotify.com/artist/3baxdZ69449O6BMd7yuYXv) | [Bailaré sobre tu tumba](https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw) | 3:05 | 2023-08-17 |  |
 | [Bailemos \- On The Road](https://open.spotify.com/track/0VuqnABiEQSLzVY1N3sm4v) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC) | [Entre las dudas y el azar](https://open.spotify.com/album/5expex0cGvBl9uKBs5ZFF3) | 4:12 | 2022-12-08 | 2023-02-03 |
 | [Balada para un violín \- Sin violín](https://open.spotify.com/track/1xv0RT8Ml0XE8EWnHAtSaK) | [Elefantes](https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn) | [Cinco Miradas](https://open.spotify.com/album/0mT8VfC1lklBIHRwLM4hJI) | 2:48 | 2023-05-04 | 2023-05-12 |
@@ -368,6 +368,7 @@
 | [Te sigo soñando \(feat\. Luz Casal\) \- En Directo en Madrid 2020](https://open.spotify.com/track/5DgIZi4ncTDzryzl1Q6IHl) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Antes de que anochezca \(En Directo en Madrid\)](https://open.spotify.com/album/3z02xWkMowT7rEVwWdM8V5) | 5:13 | 2022-06-02 | 2022-07-01 |
 | [Tenemos Algo Que Solucionar](https://open.spotify.com/track/46H6sHclq3EOI1MSOGdi69) | [Alejo](https://open.spotify.com/artist/4pNlsYEjhnTIVPNZRlRx1h) | [Tenemos Algo Que Solucionar](https://open.spotify.com/album/1z141GDxf23yAs43ORmjLs) | 4:37 | 2023-06-22 | 2023-06-30 |
 | [Tiramisú](https://open.spotify.com/track/62IZgrsHNs2qkyrk1f9Od8) | [Playa Cuberris](https://open.spotify.com/artist/0xIzpUzi2uZQiZGjDx8ZP1) | [Tiramisú](https://open.spotify.com/album/3ghYFW0xHG3hlGy4NAUEvc) | 3:28 | 2024-05-02 | 2024-05-10 |
+| [Tirar de recuerdos](https://open.spotify.com/track/64cO1QQmMWrmmjD6Yw9WV3) | [Invisibles](https://open.spotify.com/artist/04CiVXelzq7gOxUHvPt6GO) | [Rarezas y ReZetas](https://open.spotify.com/album/5oB4UddprAZscA2P1R1o4Y) | 5:13 | 2024-05-23 |  |
 | [TODA UNA VIDA](https://open.spotify.com/track/2CYgqnfgtdFYQdXM8UhcQD) | [Combo Paradiso](https://open.spotify.com/artist/3dCv4VhKSBmWrXGmgz67hz) | [TODA UNA VIDA](https://open.spotify.com/album/0GGRvzOMTG84001sk249EO) | 2:54 | 2024-03-07 | 2024-03-22 |
 | [Todo es luz](https://open.spotify.com/track/7yMLSIgpvHky9QLMEIKgGS) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Todo es luz](https://open.spotify.com/album/0UdsXrjvdnD7CTx1JNmMpu) | 2:52 | 2023-10-12 | 2023-10-20 |
 | [Todo lo que soy](https://open.spotify.com/track/1RNa9QJIxFvr0QJZ4zmXCq) | [Mägo de Oz](https://open.spotify.com/artist/5ZNxiPcbKgaNcBrERMpqeu) | [Love and Oz, Vol\. 2](https://open.spotify.com/album/0oNrwS3eNmjchGEpNzK7Ds) | 4:17 | 2022-10-20 | 2022-11-18 |

@@ -2,9 +2,9 @@
 
 ### [This Is PARTYNEXTDOOR](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1yvnUc)
 
-> This is PARTYNEXTDOOR\. The essential tracks, all in one playlist.
+> This Is PARTYNEXTDOOR\. Los temas esenciales, todos en una lista.
 
-71 songs - 4 hr 14 min
+72 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/6cEguiQecbXrFlsnMi2ysr) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 3:55 | 2023-06-29 |  |
 | [Damage](https://open.spotify.com/track/0GYSkimHYYaiL2AE9dz9Dl) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Seven Days](https://open.spotify.com/album/5hGC6Zuhu4JaC0YXb8iejw) | 3:33 | 2023-06-29 | 2023-09-03 |
 | [Don't Run](https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 3 \(P3\)](https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ) | 4:03 | 2023-06-29 |  |
-| [Excitement](https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5) | 4:43 | 2023-11-10 | 2024-05-22 |
+| [Excitement](https://open.spotify.com/track/66w7lK0t98OPgvYjXp39IP) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/0so2JtZLW2acBWStzut0W5) | 4:43 | 2023-11-10 |  |
 | [Excitement \(feat\. PARTYNEXTDOOR\)](https://open.spotify.com/track/7FullO2NDkyvxLuxYVKINa) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Pegasus](https://open.spotify.com/album/2vMi9So8GxXiqaT2zJXbQG) | 4:43 | 2023-06-29 | 2023-11-11 |
 | [F o r C e r t a i n](https://open.spotify.com/track/54N8YQb53fKmVCNmbwoSVi) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:39 | 2024-05-01 |  |
 | [FREAK IN YOU](https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 4:32 | 2023-06-29 |  |
@@ -52,11 +52,12 @@
 | [PEACE OF MIND](https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [COLOURS](https://open.spotify.com/album/0318GAH0AN431KMF6jhFdz) | 5:03 | 2023-06-29 |  |
 | [PERSIAN RUGS](https://open.spotify.com/track/2SWbnWSe1onmbllRAU46uo) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYPACK](https://open.spotify.com/album/1ZJpGFHYQSTDTIk6bzo5sh) | 2:54 | 2023-06-29 |  |
 | [Preach](https://open.spotify.com/track/1OHoBC4icbuNhpSxP400sv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:56 | 2023-06-29 |  |
-| [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-16 |  |
+| [R e a l W o m a n](https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e a l W o m a n](https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE) | 3:14 | 2024-03-16 | 2024-05-24 |
+| [R e a l W o m a n](https://open.spotify.com/track/7FzUJj4UzBlswK4EmF6BDK) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:14 | 2024-05-24 |  |
 | [R e s e n t m e n t](https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [R e s e n t m e n t](https://open.spotify.com/album/6mHQX0imf1GfctUD5cQEWi) | 3:44 | 2023-07-08 |  |
 | [Recognize \(feat\. Drake\)](https://open.spotify.com/track/1DMYEiuAgz1OKvANXiNFrN) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 5:11 | 2023-06-29 |  |
 | [Run Up \(feat\. PARTYNEXTDOOR & Nicki Minaj\)](https://open.spotify.com/track/49zMj9UjQ0IGksOO2VuhZX) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Major Lazer Essentials](https://open.spotify.com/album/16vOvSLYIZO8xZOpBBQnBZ) | 3:23 | 2023-06-29 | 2024-04-28 |
-| [S o r r y, B u t I’ m O u t s i d e](https://open.spotify.com/track/4UL6S1pHHKqmsNOfsPJqgW) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:59 | 2024-05-05 |  |
+| [S o r r y, B u t I’ m O u t s i d e](https://open.spotify.com/track/4UL6S1pHHKqmsNOfsPJqgW) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 3:59 | 2024-05-05 | 2024-05-24 |
 | [S t u c k I n M y W a y s](https://open.spotify.com/track/1S6d4cV78ODCv3IRtl07us) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:59 | 2024-04-28 |  |
 | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/track/33RTe6MAxEno83JSdpObQr) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Sex In The Porsche \(and PARTYNEXTDOOR\)](https://open.spotify.com/album/0uHHoKJvLxf4gGRhyTUpjy) | 3:33 | 2023-06-29 | 2023-12-14 |
 | [Sex on the Beach](https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR TWO](https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ) | 3:49 | 2023-06-29 |  |

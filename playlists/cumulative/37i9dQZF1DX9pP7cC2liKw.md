@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-334 songs - 23 hr 12 min
+335 songs - 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@
 | [PELÍCULA](https://open.spotify.com/track/1GBg3mPc3XBFkaUkKPTAja) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [Libre](https://open.spotify.com/album/4YJT9XTAjyRPWjFXFlEN2m) | 4:12 | 2023-11-23 | 2023-11-26 |
 | [PELÍCULA](https://open.spotify.com/track/619Ig2JkDUlKVDs5PrjVxe) | [Reno Rojas](https://open.spotify.com/artist/4mGO2uRAEuv4onp3PYNZ0l) | [Libre](https://open.spotify.com/album/0raBEOIefnhSVfZTXoEwdc) | 4:12 | 2023-11-23 | 2024-01-09 |
 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 | 2022-11-12 | 2023-03-27 |
-| [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 | 2022-04-08 |  |
+| [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 | 2022-04-08 | 2024-05-24 |
 | [Poco a Poco \- Remix](https://open.spotify.com/track/08qHgtCajTGcNWFbn0HQXT) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Poco a Poco \(Remix\)](https://open.spotify.com/album/4A0tvOTSvKJtMCt5T16KAW) | 2:57 | 2023-05-09 | 2023-08-21 |
 | [Polvo](https://open.spotify.com/track/669dmvIOFG2YfUKayX55JA) | [Mon de León](https://open.spotify.com/artist/5NejWF2yqY4C5ZWlfIGOcG) | [Polvo](https://open.spotify.com/album/3mg9Kt07tnjoAV2ZxbByXy) | 3:42 | 2022-11-15 | 2023-01-03 |
 | [Pool Party](https://open.spotify.com/track/5smJ1WgnvqNJruXcPPGf32) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Skin and Bones](https://open.spotify.com/album/7iB7ZAFFdjsVDWjCTBZjJi) | 3:58 | 2022-06-15 | 2024-04-19 |
@@ -286,6 +286,7 @@
 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-22 |  |
 | [Sol](https://open.spotify.com/track/5IGeqVfb7d2qCd4PYDuMfg) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Visums](https://open.spotify.com/album/4svMVJAISadSiQaFJUTt3I) | 3:22 | 2022-05-06 | 2022-07-23 |
 | [Sol Clap](https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 3:50 | 2022-06-15 |  |
+| [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 |  |
 | [Sonido Amazonico](https://open.spotify.com/track/30XzPuJXYZrPF2jx89SQG1) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Sonido Amazonico](https://open.spotify.com/album/0p5Iiuaj58qCxzMYqgP7B1) | 4:17 | 2022-06-15 |  |
 | [Sono Come Sono](https://open.spotify.com/track/1F3tfdSF72hS1X3PSrwC5X) | [Chiara Civello](https://open.spotify.com/artist/4kVBW3oggjJ8epz4NWIGfk) | [Sono Come Sono](https://open.spotify.com/album/63VoYQPDzymodlgLyn3SWq) | 3:46 | 2022-10-01 | 2022-10-18 |
 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 | 2023-03-16 |  |

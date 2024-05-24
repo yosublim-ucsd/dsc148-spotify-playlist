@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 
 > music to get fly to ft\. Teyana Taylor
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,228 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,185 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 46 | [Angel](https://open.spotify.com/track/4pGxnHLyli1TLkRFHyBxo0) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [NO THANK YOU](https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm) | 5:52 |
 | 47 | [Juice](https://open.spotify.com/track/4J2s7nWDdA7i92sojYX8RJ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap \(10th Anniversary \- Complete Edition\)](https://open.spotify.com/album/3rYMmOfNQlWXYrbd8yXqJ1) | 3:35 |
 | 48 | [Afterglow](https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:18 |
-| 49 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 |
-| 50 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
+| 49 | [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 |
+| 50 | [VIRGINIA CREEPER](https://open.spotify.com/track/7GfNOvMCTRh2WR1n6gUt0A) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [VIRGINIA CREEPER](https://open.spotify.com/album/4nVCzSg3wGOVSFSyKHBBgf) | 2:52 |
 | 51 | [Toronto Funhouse](https://open.spotify.com/track/2u1ioR9wjR4FqSPLPoeQvb) | [TyriqueOrDie](https://open.spotify.com/artist/6IyH7Och2DBHZAEBH9t9dE) | [Toronto Funhouse](https://open.spotify.com/album/4HFfB5ovi0fmCt4LrHRzAV) | 2:00 |
 | 52 | [Flaunt It/Cheap](https://open.spotify.com/track/7bxegQfGfIc9ybrQafVtf8) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sremm 4 Life](https://open.spotify.com/album/4tFqnaGkCBUjraLUw07Q67) | 4:00 |
 | 53 | [60 Seconds](https://open.spotify.com/track/1NNwTBL6vDgSw14UDGWOte) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Coven Music Session, Vol\. 1](https://open.spotify.com/album/5eXvrU5hvCyxZmOdVDVRSc) | 0:58 |
 | 54 | [Star Girl](https://open.spotify.com/track/15iOxEc0Zvnn0wMbK2uhPc) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [Star Girl](https://open.spotify.com/album/3njJmSyA76HMuYzDRBOYYW) | 3:00 |
 | 55 | [Millionaire \(feat\. André 3000\)](https://open.spotify.com/track/1mVTQSGoFchL3VVrIa0MeH) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Tasty](https://open.spotify.com/album/5YXBnZzECnOFgssE5q43go) | 3:44 |
-| 56 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
-| 57 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
-| 58 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
-| 59 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 56 | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Fkn Around \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6bA7nkjTgFlVk25zvD8oep) | 4:04 |
+| 57 | [All My Girls Like To Fight](https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [All My Girls Like To Fight](https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl) | 3:52 |
+| 58 | [hmu](https://open.spotify.com/track/4fC8mW8ZFQanmSHq30mgWz) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [EXTC](https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1) | 3:55 |
+| 59 | [Indeed](https://open.spotify.com/track/1jASJWOio1y6HX9noE7FWi) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Dog Daze](https://open.spotify.com/album/0APqibgHREHUQyPXOqVzBa) | 2:28 |
 | 60 | [easy going down](https://open.spotify.com/track/3aSKxB6ahFfhYydO6bU2QE) | [lil hero](https://open.spotify.com/artist/2imvddeWiv58tUPKh8q3kO) | [pawwwfect!](https://open.spotify.com/album/7EMoYQ7QghVnHSsdNLWv5P) | 2:26 |
 | 61 | [If You Won't](https://open.spotify.com/track/7omQcQTiUCS1ZTRriyBqBA) | [Rayana Jay](https://open.spotify.com/artist/1kh0AypxF3CxMMzmQyif2S) | [Love Me Like](https://open.spotify.com/album/4ASozZrX3WMIJplKcfRJYf) | 3:10 |
 | 62 | [VAN GOGH](https://open.spotify.com/track/7yip9pscRYhAwbZ4wfwQJx) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [VAN GOGH](https://open.spotify.com/album/28DRLMbdGuKlxDa5nVQeSV) | 3:17 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dvMSwf27JO.md) - [plain]
 | 66 | [Pharaohs](https://open.spotify.com/track/3G9DXOdZHws7eFslJrJvKY) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:38 |
 | 67 | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/track/78ByURsaVK39jjwTaerCAk) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [girls like me don't cry \(remix\) ft\. MIN](https://open.spotify.com/album/6MmW9GNxUJ7rDoGs5xEbOf) | 3:33 |
 | 68 | [Far Rockaway](https://open.spotify.com/track/2AcEZtXsn6en6Dh9CptAtQ) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [Far Rockaway](https://open.spotify.com/album/75lW5iDCy7Cr8IMRCHq7L0) | 2:22 |
-| 69 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
-| 70 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
+| 69 | [M79](https://open.spotify.com/track/3PYTEgSf4opLzuUiPecUqS) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 4:15 |
+| 70 | [11:30](https://open.spotify.com/track/4wMdqBMvVKpNPpRFiBRiXO) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [Chrome Bull](https://open.spotify.com/album/3IJE33ruLyvq3yCiJubw4g) | 3:01 |
 | 71 | [NICE OUT](https://open.spotify.com/track/47k1Ox90yk7EicCAd3QDhc) | [Kilo Kish](https://open.spotify.com/artist/7lsnwlX6puQ7lcpSEpJbZE) | [NICE OUT](https://open.spotify.com/album/2UevF4zIN6rYNEk9I0l8zJ) | 4:06 |
 | 72 | [Family Tree](https://open.spotify.com/track/695L0B06tMVsy8RiwC7dHc) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [LOUIE](https://open.spotify.com/album/3SKVtzmihlnGFylW5nC5kj) | 2:13 |
 | 73 | [BACKWARDS](https://open.spotify.com/track/7zuSn410s3z8Ki7iuO6ZSO) | [RUNNER BOY](https://open.spotify.com/artist/3ZymIpT2ZdBAUCaDncvdBv), [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [BACKWARDS](https://open.spotify.com/album/51WjoBBCY3wZ8Cbqy8TDrQ) | 1:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 > el amor es <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,285 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,315 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 28 | [Como Tú](https://open.spotify.com/track/7BuDf00x8RNcMTlNaxE70f) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [ECOS](https://open.spotify.com/album/49Qd6nYCgc2ra4E3TJHEty) | 3:13 |
 | 29 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 |
 | 30 | [Una Vez Más](https://open.spotify.com/track/2chfSxiJbU8B8jpEHyuNm2) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Una Vez Más](https://open.spotify.com/album/1mri8yUsQmnnkyKDAYA9pC) | 4:05 |
-| 31 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 |
-| 32 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 |
+| 31 | [Fin Del Mundo \(with Bratty\)](https://open.spotify.com/track/4bWKxHYB7QGYobbiQawHXQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 2:54 |
+| 32 | [Permanente](https://open.spotify.com/track/3lDXncCCsimJ17cHYodtRl) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Permanente](https://open.spotify.com/album/5CCwwqcE6HCHSBYgRNS4zz) | 3:55 |
 | 33 | [Torpe](https://open.spotify.com/track/7K1fAw9P8R73Sc6CpgIgJH) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Torpe](https://open.spotify.com/album/0V3VrTi9ioSHgy4kM9aRf4) | 4:12 |
 | 34 | [Florecer](https://open.spotify.com/track/0uEwlYeHAiVNUCcXbx6ntR) | [valeria dávila](https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj) | [Florecer](https://open.spotify.com/album/3KvbOKpjZB95IwRwnW0TZk) | 3:34 |
 | 35 | [Timidez \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/6JMp6i9OZ70VwsC2MbgX5n) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [ULYSE](https://open.spotify.com/album/6vIeyrxfW5aoC4mRhB95VD) | 3:34 |

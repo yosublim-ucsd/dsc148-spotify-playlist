@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,400 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,407 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 14 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 15 | [Wake Me Up](https://open.spotify.com/track/3mSZz9k6TzRpin74YEipgV) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:49 |
 | 16 | [No Tomorrow](https://open.spotify.com/track/1Jkhd7PGnybdLLVRYgVWZN) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:14 |
-| 17 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 |
-| 18 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
+| 17 | [You Don’t Know Anything About Me](https://open.spotify.com/track/1bc17U8UM8DDQUHywxghnm) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 2:44 |
+| 18 | [Call Your Friends](https://open.spotify.com/track/33O6ClxE0Fmz149l7HiZcp) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:07 |
 | 19 | [Playmate of the Year](https://open.spotify.com/track/1m3wdcuORJ0NFChz9hYSk7) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/5ffVf5BfBj4Lv9sGDdNaNF) | 2:57 |
 | 20 | [Licking on a Knife for Fun](https://open.spotify.com/track/3lH0OjrhajPZdHNHMVfIBt) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:01 |
 | 21 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 |
 | 22 | [Postcards From Hell](https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 2:45 |
 | 23 | [Alone](https://open.spotify.com/track/011wkMN5pR9lKrX6Y0e4zk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 2:15 |
 | 24 | [Evil Anonymous](https://open.spotify.com/track/4vt2Y1VRZjol872Jni7C2C) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:56 |
-| 25 | [Blackout](https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Get Nice!](https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl) | 3:45 |
+| 25 | [Homesick for Hope](https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 2:53 |
 | 26 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 |
-| 27 | [Homesick for Hope](https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III](https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx) | 2:53 |
+| 27 | [Blackout](https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Get Nice!](https://open.spotify.com/album/3R9HDU9QfKoCggoOGZTOVl) | 3:45 |
 | 28 | [Middle Seat Blues](https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 3:10 |
 | 29 | [If Your Looking for Your Knife...I Think My Back Found It](https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders \(Deluxe Edition\)](https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h) | 3:20 |
 | 30 | [The Walking Dead](https://open.spotify.com/track/3ZmxRRvfwhZTz1ABpe9pNw) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:09 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO441VhO.md) - [plain]
 | 36 | [So What](https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:56 |
 | 37 | [Lay Me to Rest](https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Lay Me to Rest](https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO) | 3:39 |
 | 38 | [Out of Time](https://open.spotify.com/track/0OM9ZTTdf2DAitov20CZ5l) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [III.II.](https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ) | 2:48 |
-| 39 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 |
+| 39 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
 | 40 | [Who Brings a Knife to a Gunfight?](https://open.spotify.com/track/4HU3mq85Y1j30CpZcojsLM) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:51 |
-| 41 | [Now or Never](https://open.spotify.com/track/4rH6H12XBmCpUDBb9Kuxo0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Playmate Of The Year](https://open.spotify.com/album/2dtK7GDQ3xO6r8TYq1cJ0g) | 2:59 |
+| 41 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
 | 42 | [Mental Health](https://open.spotify.com/track/732fs63uFgMhF2JZDByDAq) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:13 |
-| 43 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 |
+| 43 | [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 |
 | 44 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 |
-| 45 | [Devil on My Shoulder \(feat\. Jean Ken Johnny\)](https://open.spotify.com/track/7rTyQP1gwGW15NTUawp3WI) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [The Early Years \- Revisited](https://open.spotify.com/album/7Jss3QVea2jKy9X7FgsU7I) | 3:03 |
+| 45 | [Public Enemy Number One](https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:30 |
 | 46 | [Just The Tip](https://open.spotify.com/track/0Jc21Wm0Ssr3AJJyzoz9Ji) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:16 |
-| 47 | [Public Enemy Number One](https://open.spotify.com/track/2rlLzrOvZpnjJcERPojtWE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:30 |
+| 47 | [Devil on My Shoulder \(feat\. Jean Ken Johnny\)](https://open.spotify.com/track/7rTyQP1gwGW15NTUawp3WI) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl), [Jean\-Ken Johnny](https://open.spotify.com/artist/1Bk56nx76xE4nP01ZhDsPE) | [The Early Years \- Revisited](https://open.spotify.com/album/7Jss3QVea2jKy9X7FgsU7I) | 3:03 |
 | 48 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 |
 | 49 | [Down Without a Fight](https://open.spotify.com/track/0oXKsquvboVD6qFut5U9YU) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [The Bonus Brothers \(Japan Only Bonus Tracks\)](https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs) | 3:36 |
-| 50 | [Is It Hot in Here?](https://open.spotify.com/track/2JoMYA6pq2ZWhRLDZqA5aP) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Wanna Sell Your Soul? \- EP](https://open.spotify.com/album/0WRr0WoJcCyzU6XECYEakr) | 2:17 |
+| 50 | [Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole](https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:37 |
 
-Snapshot ID: `ZkqSgAAAAACU6d5eRlYj+jlvMXwIbjhH`
+Snapshot ID: `Zk01gAAAAACzCRmRGYpz1uvb31egsux6`

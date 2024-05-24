@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-06",
-  "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
+  "description": "New & best K-Electronic music is here. (Cover: uju(\uc6b0\uc8fc))",
   "name": "Electronii'K",
   "tracks": [
     {
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 120000,
       "name": "Keep On Jumpin'",
       "url": "https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE"
@@ -1850,6 +1850,24 @@
       "duration_ms": 206500,
       "name": "Pinnacle - Pure 100% Remix",
       "url": "https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw"
+    },
+    {
+      "album": {
+        "name": "City.exe",
+        "url": "https://open.spotify.com/album/4wPSM9SgbqAdpPznBK7kur"
+      },
+      "artists": [
+        {
+          "name": "uju",
+          "url": "https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226440,
+      "name": "Please Be My Light",
+      "url": "https://open.spotify.com/track/2CagK8wBXVpc1Z3CQoEUFc"
     },
     {
       "album": {

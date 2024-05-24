@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Tucanes De Tijuana. Los temas esenciales, todos en una lista.",
-  "num_followers": 300834,
+  "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
+  "num_followers": 300935,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABgw7BXTznVIQ5PwoCXyCsa",
+  "snapshot_id": "Zk01gAAAAACpIolCmsKTXqvz2wsi2ZsH",
   "tracks": [
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comandante 09",
-        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 236342,
-      "name": "Comandante 09",
-      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tucanes De Plata ... Tucanazos Censurados",
         "url": "https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 164320,
       "name": "El Doctor Del Pueblo",
       "url": "https://open.spotify.com/track/2pNbROUHRAHIFT7srabCzo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Comandante 09",
+        "url": "https://open.spotify.com/album/7rtZbELF943xf6Q9pTkzSf"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 236342,
+      "name": "Comandante 09",
+      "url": "https://open.spotify.com/track/2lZsJdASV0DPyhx6kaDdyE"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
-        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 173417,
-      "name": "La Captura III",
-      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mas Buscados",
         "url": "https://open.spotify.com/album/64dZEFpVrF6TkL6G5nmYWh"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 156493,
       "name": "El Agricultor",
       "url": "https://open.spotify.com/track/7C3bObRIUeOGPDWlhSKEvw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos Time \u2013 Season Three \"Comandante En Jefe\"",
+        "url": "https://open.spotify.com/album/6SKPul83B5nz0Q3nRDi1Qb"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 173417,
+      "name": "La Captura III",
+      "url": "https://open.spotify.com/track/1K0oylCNTT52iBWl42iyYD"
     },
     {
       "added_at": null,

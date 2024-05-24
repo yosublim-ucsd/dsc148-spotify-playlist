@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Portugal.
 
-1,253 songs - 2 day 22 hr 4 min
+1,254 songs - 2 day 22 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -716,7 +716,7 @@
 | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/track/2BITQ360Knh6qNAOqR7Dyq) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Miss The Rage \(feat\. Playboi Carti\)](https://open.spotify.com/album/1FsFHXroF1ILBdVyBRMt3A) | 3:56 | 2021-05-12 | 2021-05-16 |
 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-15 | 2022-12-03 |
 | [Mistletoe](https://open.spotify.com/track/7xapw9Oy21WpfEcib2ErSA) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:02 | 2021-12-03 | 2023-12-30 |
-| [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 | 2023-10-22 |  |
+| [Mo Boy](https://open.spotify.com/track/4zww0H1u0yYvyBGixrRCb9) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [Reflexo](https://open.spotify.com/album/7zr66qWybr1mAMSUVVosKU) | 3:52 | 2023-10-22 | 2024-05-24 |
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-11-10 | 2023-02-06 |
 | [MODERN JAM](https://open.spotify.com/track/3KCNiDi9Pza6ZD8FggNoaw) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:15 | 2023-07-29 | 2023-08-01 |
 | [MODO TURBO](https://open.spotify.com/track/0YqTL3nSL36OFdHwHoqCag) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [MODO TURBO](https://open.spotify.com/album/07PF9SyKuu6hstifHc0nEt) | 2:30 | 2021-03-27\* | 2021-04-21 |
@@ -951,6 +951,7 @@
 | [Sai Da Frente](https://open.spotify.com/track/3OirlIOGwFgwcQgVru6IUG) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec) | [Ciclone](https://open.spotify.com/album/4IWuMtqZOCu5or3RXZQ26v) | 2:47 | 2023-08-26 | 2024-01-24 |
 | [Saia Da Carolina](https://open.spotify.com/track/66NAKSCAYmbl7yjdpuR6LE) | [Carolina Deslandes](https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU) | [CAOS](https://open.spotify.com/album/4vP9UVGvo8F1417pxIibGF) | 2:37 | 2023-03-17 | 2023-03-19 |
 | [Samba de Malandro](https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae) | [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC), [Mc Piedro](https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg), [Dj GM](https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy) | [Samba de Malandro](https://open.spotify.com/album/45IHFpwPgHPvjQHsZHURSu) | 5:00 | 2024-03-22 |  |
+| [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-05-23 |  |
 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 | 2021-12-25 | 2021-12-27 |
 | [Santa Baby \(with Henri René & His Orchestra\)](https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC), [Henri René and His Orchestra](https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV) | [Heavenly Eartha](https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd) | 3:26 | 2023-12-25 | 2023-12-27 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2022-12-25 | 2022-12-28 |

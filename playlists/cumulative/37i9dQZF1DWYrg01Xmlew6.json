@@ -96,7 +96,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 162838,
       "name": "2007",
       "url": "https://open.spotify.com/track/7sSICWhxNqMGtuUYGW0TyR"
@@ -6206,6 +6206,24 @@
       "duration_ms": 171893,
       "name": "Tip Tap",
       "url": "https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88"
+    },
+    {
+      "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6EpgmYMlgURL6CmQrVjZye"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145604,
+      "name": "Top",
+      "url": "https://open.spotify.com/track/3wqoCPK5S7NpUavgvqo4HL"
     },
     {
       "album": {

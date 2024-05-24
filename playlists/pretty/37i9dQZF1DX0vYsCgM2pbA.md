@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,101 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,107 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 48 | [Sirena Deep](https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW) | [Chaos In The CBD](https://open.spotify.com/artist/0QOQc6jEsPX5Y45TV0hXQy), [Nathan Haines](https://open.spotify.com/artist/0nswuaAPTwnY9EBFPExHYy) | [Sirena Deep](https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl) | 5:41 |
 | 49 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 |
 | 50 | [Supersonic](https://open.spotify.com/track/3i7mQW4Z7sYnnDzt23KniJ) | [Tom Budin](https://open.spotify.com/artist/1kwRrQDCpXpVliMDntpxCt), [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Supersonic](https://open.spotify.com/album/2hSEg1ZqwBdqY5dpTy8SrY) | 2:49 |
-| 51 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
-| 52 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 |
-| 53 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
-| 54 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 |
+| 51 | [The World](https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [A.M](https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK) | 3:29 |
+| 52 | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/track/53XWeDWh7v0BxpHcnZVeJf) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Gimme Some More \(feat\. Shungudzo\)](https://open.spotify.com/album/7aAXhHWwZALLDrsgI3PC6I) | 3:45 |
+| 53 | [Beggin' You](https://open.spotify.com/track/110XNKlluGKyNDKlBle2XD) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst) | [Beggin' You](https://open.spotify.com/album/12LYEydJLy7i3TlDLamRRC) | 3:35 |
+| 54 | [Brain Freeze](https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1) | [Northeast Party House](https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje) | [Brain Freeze](https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3) | 2:02 |
 | 55 | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Frauds \(Mall Grab Remix\)](https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1) | 3:36 |
 | 56 | [Miles Away](https://open.spotify.com/track/1OREiVG8WlWMHNvGsLlHQ7) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Miles Away](https://open.spotify.com/album/7yzn2vH1JLMwx0uTwiQpxa) | 4:28 |
 | 57 | [Bad For Me](https://open.spotify.com/track/7oAD6PCPiKu02kLqagi9Up) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Bad For Me](https://open.spotify.com/album/6Y4P6gHvQIxLvOkpeEV9Vz) | 2:57 |

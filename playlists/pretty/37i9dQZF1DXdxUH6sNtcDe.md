@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > We're celebrating the 25th anniversary of SHeDAISY's hit album "The Whole SheBang" on 2000s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 821,841 likes - 125 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 822,132 likes - 125 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 20 | [What Was I Thinkin'](https://open.spotify.com/track/0r8iDf65NHgFgZOGLwj5r8) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Dierks Bentley](https://open.spotify.com/album/2yeODPn8igz9qQiitOZRyJ) | 4:20 |
 | 21 | [Can't Fight The Moonlight](https://open.spotify.com/track/2AogRMqARWyUP7VQ3gmSoY) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:35 |
 | 22 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
-| 23 | [People Are Crazy](https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Little Bit Of Everything](https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ) | 3:51 |
-| 24 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
+| 23 | [Watching You](https://open.spotify.com/track/5OusUgzHz6Ulb3GZT7WUo5) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:55 |
+| 24 | [People Are Crazy](https://open.spotify.com/track/5JnLiuMgRAWoHYOhatFP3s) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Little Bit Of Everything](https://open.spotify.com/album/3H119N8NtcjSUxOhimk2FQ) | 3:51 |
 | 25 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 26 | [Courtesy Of The Red, White And Blue \(The Angry American\)](https://open.spotify.com/track/0M7mWKqwTIaVjYyxfZmtTa) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Unleashed](https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY) | 3:15 |
 | 27 | [Live Like You Were Dying](https://open.spotify.com/track/7B1QliUMZv7gSTUGAfMRRD) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Live Like You Were Dying](https://open.spotify.com/album/0os1Gz3XMM6dduZSMxVuXs) | 5:00 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 56 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 | 57 | [Mississippi Girl](https://open.spotify.com/track/79YeQbd1p7MsuT7wHQLRYY) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Fireflies](https://open.spotify.com/album/7dtjpzbhRH1dc2gM0FLrqh) | 3:52 |
 | 58 | [She's Everything](https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Time Well Wasted](https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr) | 4:26 |
-| 59 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
-| 60 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
+| 59 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
+| 60 | [My Wish](https://open.spotify.com/track/6Gfmj0HbpvxTdW0sdlzTDU) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:08 |
 | 61 | [I Wanna Talk About Me](https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Pull My Chain](https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG) | 3:03 |
 | 62 | [Travelin' Soldier](https://open.spotify.com/track/0AkZjWYCMJ8wWiNex7LmkY) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Home](https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt) | 5:43 |
 | 63 | [American Honey](https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Need You Now](https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA) | 3:44 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 75 | [Nothin' To Lose](https://open.spotify.com/track/7oiCqfE8Wjk8wf0pFTgL2H) | [Josh Gracin](https://open.spotify.com/artist/1456WwI15Lm9CktCzkLZvm) | [Josh Gracin](https://open.spotify.com/album/1V4qP0BJJBZsY2LOkcfwE0) | 2:36 |
 | 76 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 | 77 | [Our Song](https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:21 |
-| 78 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
-| 79 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
+| 78 | [Boots On](https://open.spotify.com/track/7K4VxvIXXbDbaVn6ARbch1) | [Randy Houser](https://open.spotify.com/artist/56x8mYvS3cyDGAi8N2FxbB) | [Anything Goes](https://open.spotify.com/album/4xw2DKqtMyAde8WoF80WiQ) | 2:50 |
+| 79 | [Pickin' Wildflowers](https://open.spotify.com/track/2GgIDaPLsowybB3WgxLWUj) | [Keith Anderson](https://open.spotify.com/artist/4AgQTHagFdBq8VL791lSXz) | [Three Chord Country and American Rock & Roll](https://open.spotify.com/album/3r8vRtmMzWdLYUQCgMk12y) | 3:05 |
 | 80 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 81 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 82 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |

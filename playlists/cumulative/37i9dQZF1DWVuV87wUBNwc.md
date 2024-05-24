@@ -2,9 +2,9 @@
 
 ### [Hits du Moment](https://open.spotify.com/playlist/37i9dQZF1DWVuV87wUBNwc)
 
-> Slimane au sommet de la première playlist de France.
+> Carbonne au sommet de la première playlist de France.
 
-179 songs - 9 hr 11 min
+180 songs - 9 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Eyes Closed](https://open.spotify.com/track/07bsRv0pcpbG4zJeLsUs1p) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed](https://open.spotify.com/album/43qfLpwe6sEOEqxVmOHRu0) | 3:14 | 2023-07-27 | 2023-08-04 |
 | [Eyes Closed](https://open.spotify.com/track/3p7XQpdt8Dr6oMXSvRZ9bg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:14 | 2023-08-03 | 2023-08-18 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-18 |  |
-| [FLASHBACK](https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:56 | 2023-11-16 |  |
+| [FLASHBACK](https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [IL LE FALLAIT](https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S) | 2:56 | 2023-11-16 | 2024-05-24 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-07-27 | 2023-08-04 |
 | [Flowers](https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 3:20 | 2023-08-03 | 2023-08-18 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-05-02 |  |
@@ -151,6 +151,7 @@
 | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/track/0sZEwII5Qe3r7izOgdOvLT) | [Jogga](https://open.spotify.com/artist/6kByPyGr60aeCsb8TGOWav), [wilsko](https://open.spotify.com/artist/1d38UPGn8PJ9XekumcIBha), [7ia](https://open.spotify.com/artist/7736wQOIPocKi5hEg7l3hG) | [SKEU SKEU \(feat\. wilsko & 7ia\)](https://open.spotify.com/album/5RA05MgWTevAIscvEmiiww) | 3:01 | 2023-10-19 | 2024-02-02 |
 | [Sola](https://open.spotify.com/track/4GMWmVcQDMrwCKDviAoA1O) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E) | [Sola](https://open.spotify.com/album/5aIqERPJ7rBLvfyqiF7Yzf) | 3:32 | 2023-08-17 | 2023-09-08 |
 | [Some Kind Of Kiss](https://open.spotify.com/track/2xsRIYRAC0mXttKR4sZscl) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [Some Kind Of Kiss](https://open.spotify.com/album/5rb5FtGstxBVv9xdFCDKSg) | 2:28 | 2023-07-27 | 2023-08-25 |
+| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-23 |  |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2024-01-25 | 2024-02-23 |
 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 | 2023-11-23 | 2023-12-15 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-14 | 2024-03-01 |

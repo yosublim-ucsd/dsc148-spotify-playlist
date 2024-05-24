@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 180563,
+  "num_followers": 180551,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+        "name": "Being Funny In A Foreign Language",
+        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
       },
       "artists": [
         {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+      "duration_ms": 165457,
+      "name": "Wintering",
+      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -123,18 +123,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Being Funny In A Foreign Language",
-        "url": "https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M"
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Wintering",
-      "url": "https://open.spotify.com/track/4FxeY2UZeP3kpdBPbpGggN"
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Home To You (This Christmas)",
-        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
-      },
-      "artists": [
-        {
-          "name": "Sigrid",
-          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
-        }
-      ],
-      "duration_ms": 225817,
-      "name": "Home To You (This Christmas)",
-      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "When Christmas Comes Again",
         "url": "https://open.spotify.com/album/1Vw3Muq7BgvhYF5eLL5fjD"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 197787,
       "name": "When Christmas Comes Again",
       "url": "https://open.spotify.com/track/19Gx7n7xkTJ29rA8990QKx"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Home To You (This Christmas)",
+        "url": "https://open.spotify.com/album/3yqzTFvOGOsoruu0G4KjNV"
+      },
+      "artists": [
+        {
+          "name": "Sigrid",
+          "url": "https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ"
+        }
+      ],
+      "duration_ms": 225817,
+      "name": "Home To You (This Christmas)",
+      "url": "https://open.spotify.com/track/1SBo8LdLGOieucdStHz6iV"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "This Year For Christmas",
+        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
+      },
+      "artists": [
+        {
+          "name": "Sjowgren",
+          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
+        }
+      ],
+      "duration_ms": 112361,
+      "name": "This Year For Christmas",
+      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "We Should Be Together",
         "url": "https://open.spotify.com/album/2Gs5dXDWwUC8MayKa0gYQ2"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 211946,
       "name": "We Should Be Together",
       "url": "https://open.spotify.com/track/3g1IxL6vroDetpftnWWHwZ"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "This Year For Christmas",
-        "url": "https://open.spotify.com/album/7otWkigGHFHhUwS1kkXSUo"
-      },
-      "artists": [
-        {
-          "name": "Sjowgren",
-          "url": "https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y"
-        }
-      ],
-      "duration_ms": 112361,
-      "name": "This Year For Christmas",
-      "url": "https://open.spotify.com/track/14obvglkz3Fzx46YAcYYwl"
     },
     {
       "added_at": "2024-01-03 20:06:55",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "A Very Laufey Holiday",
-        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 167666,
-      "name": "The Christmas Waltz",
-      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "baby jesus is nobody's baby now",
         "url": "https://open.spotify.com/album/54ech4ihgHD7emD0ucycog"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 215065,
       "name": "baby jesus is nobody's baby now",
       "url": "https://open.spotify.com/track/2jIl85mZ8SfSh5INnOPXfv"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "A Very Laufey Holiday",
+        "url": "https://open.spotify.com/album/0NXOmjbsRluHO8QLpZFEBd"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 167666,
+      "name": "The Christmas Waltz",
+      "url": "https://open.spotify.com/track/3vpW9dkAZFi8Sg0onz4wvR"
     },
     {
       "added_at": "2023-12-08 17:43:39",
@@ -1013,6 +1013,22 @@
       "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
     },
     {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Tinsel Dresses",
+        "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
+      },
+      "artists": [
+        {
+          "name": "Charlie Bennett",
+          "url": "https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG"
+        }
+      ],
+      "duration_ms": 124406,
+      "name": "Tinsel Dresses",
+      "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
+    },
+    {
       "added_at": "2023-12-08 17:43:39",
       "album": {
         "name": "Christmas in Prison (feat. John Prine)",
@@ -1031,22 +1047,6 @@
       "duration_ms": 297973,
       "name": "Christmas in Prison (feat. John Prine)",
       "url": "https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Tinsel Dresses",
-        "url": "https://open.spotify.com/album/4wuwHm3hBokarHxJSlYk12"
-      },
-      "artists": [
-        {
-          "name": "Charlie Bennett",
-          "url": "https://open.spotify.com/artist/0tvXkCpAjbDBWXXnYBE9wG"
-        }
-      ],
-      "duration_ms": 124406,
-      "name": "Tinsel Dresses",
-      "url": "https://open.spotify.com/track/7lR2IX1qlDpfGZFmW6c4WZ"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "Auld Lang Syne",
+        "url": "https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
         }
       ],
-      "duration_ms": 272266,
+      "duration_ms": 192440,
       "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "url": "https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW"
     }
   ],
   "unique_name": "Indie Christmas",

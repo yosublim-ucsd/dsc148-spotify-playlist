@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 
 > Talented, brilliant, incredible, amazing, show\-stopping… See also: <a href="spotify:playlist:37i9dQZF1DX7YE2tQ4q86h">OBSESSED</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,950 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,011 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 18 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 |
 | 19 | [Dance To This \(feat\. Ariana Grande\)](https://open.spotify.com/track/2NjO87HyT80fsgejd3PLYW) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:51 |
 | 20 | [U + Ur Hand](https://open.spotify.com/track/1iOJQhxKSJ7dg3Dk03yPnl) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [I'm Not Dead](https://open.spotify.com/album/5rK6h49Qd6gSxxbQGMrWfq) | 3:34 |
-| 21 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
-| 22 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 |
+| 21 | [Plastic Hearts](https://open.spotify.com/track/6qCsKKS7Ol63SJW3LOIX5R) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:25 |
+| 22 | [Evacuate The Dancefloor \- Radio Edit](https://open.spotify.com/track/360ZhWvMnyXKYFG9Mqsm89) | [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Evacuate The Dancefloor](https://open.spotify.com/album/0ETokTQHIe79SG4xAFmKRo) | 3:25 |
 | 23 | [Untouched](https://open.spotify.com/track/0KlahhzNb98zyN83Vwae0l) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Hook Me Up](https://open.spotify.com/album/6aL2SwYj5kSEvIcYORHP37) | 4:15 |
 | 24 | [Good Girls Go Bad \(feat\. Leighton Meester\)](https://open.spotify.com/track/7kMfu3KUydmrFVGEAhjtyl) | [Cobra Starship](https://open.spotify.com/artist/2aYJ5LAta2ScCdfLhKgZOY), [Leighton Meester](https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn) | [Hot Mess](https://open.spotify.com/album/41TUivD915ztiKgyu99H9T) | 3:16 |
 | 25 | [Moi..\. Lolita](https://open.spotify.com/track/6e0LjNPkRqxIAlmmdjWSV8) | [Alizée](https://open.spotify.com/artist/53deL58uye6fCqRK4COtR4) | [Gourmandises](https://open.spotify.com/album/27GazU6l1uTiP8WW4sw5vy) | 4:24 |
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SbnWqcjJBz.md) - [plain]
 | 40 | [All Cried Out \(feat\. Alex Newell\) \- Radio Edit](https://open.spotify.com/track/6n7rJUcwmQDestMYXoSoZF) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out \(feat\. Alex Newell\) \[Radio Edit\]](https://open.spotify.com/album/4glrp7UJjimZral416kQ1d) | 2:50 |
 | 41 | [Alice](https://open.spotify.com/track/41A89rj3GoMG6ktN37L7PG) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 2:57 |
 | 42 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
-| 43 | [Strangers](https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:41 |
-| 44 | [Damaged](https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:04 |
-| 45 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
+| 43 | [Damaged](https://open.spotify.com/track/4yHFxB8kzzeuNvoouR8N0N) | [Danity Kane](https://open.spotify.com/artist/3FD9VAd0ppjmKbfxF4LzUh) | [Welcome to the Dollhouse](https://open.spotify.com/album/3NSb7dq7re8pssO2ukY1ta) | 4:04 |
+| 44 | [Hush Hush; Hush Hush / I Will Survive \- Medley](https://open.spotify.com/track/2H9CKpZiLDF223BbwehpDF) | [The Pussycat Dolls](https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ) | [Hush Hush; Hush Hush](https://open.spotify.com/album/760FDehnzYHkDsDqfE1KkU) | 4:12 |
+| 45 | [Strangers](https://open.spotify.com/track/11EDhDAVDtGPoSar6ootYA) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:41 |
 | 46 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 47 | [Perfect Day](https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw) | [Hoku](https://open.spotify.com/artist/7ftZLBtMuNBXnnDFKbAblK) | [Perfect Day Single](https://open.spotify.com/album/5puXns5fNjj1XEnbufYHRJ) | 3:28 |
 | 48 | [Break the Rules](https://open.spotify.com/track/38tKqQuqodiUYOsw6HWyeQ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Break the Rules](https://open.spotify.com/album/6xgUHOu8WA2mEtJqYDQrjs) | 3:23 |

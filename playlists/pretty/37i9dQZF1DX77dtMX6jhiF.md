@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/damsonidris/">Damson Idris</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,256 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,266 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX77dtMX6jhiF.md) - [plain]
 | 23 | [4pm in Calabasas](https://open.spotify.com/track/6C9SwoZ5OrxcvkntgA5t8s) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Care Package](https://open.spotify.com/album/7dqpveMVcWgbzqYrOdkFTD) | 4:00 |
 | 24 | [The Birds Pt\. 2](https://open.spotify.com/track/51LmI5GE3tHKISLNZMjDPC) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Trilogy](https://open.spotify.com/album/5EbpxRwbbpCJUepbqVTZ1U) | 5:50 |
 | 25 | [Jezebel](https://open.spotify.com/track/0mMyCFOqotvTPf8esrLM7K) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Promise](https://open.spotify.com/album/4wCvCNsMJJvyeX5mGO40ae) | 5:29 |
-| 26 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
-| 27 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
+| 26 | [What's Free \(feat\. Rick Ross & Jay Z\)](https://open.spotify.com/track/4iQ5gmTAzWfK8JyFC2LBox) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 6:02 |
+| 27 | [Wetin Man Go Do](https://open.spotify.com/track/2xXRKDCqZYmbbwwIUerigW) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 28 | [Strange Fruit](https://open.spotify.com/track/2eKwjJkBUaeaGq5GA1wTwc) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Pastel Blues](https://open.spotify.com/album/31pd81sWDaK2pP3ok5892z) | 3:28 |
 | 29 | [A.P.I.D.T.A.](https://open.spotify.com/track/5wJC8qlivbwAx29bnTecSn) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 5:28 |
 | 30 | [Bare Wit Me](https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a) | [The Album](https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR) | 2:08 |

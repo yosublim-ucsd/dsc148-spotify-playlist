@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 167036,
+  "num_followers": 167076,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADMsZDJr5IXWbphEXlp6lZz",
+  "snapshot_id": "Zk01gAAAAAAWUsNnsz3ZdhRbAv8kXC4/",
   "tracks": [
     {
       "added_at": null,
@@ -95,22 +95,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mamasota",
-        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
+        "name": "La Melodia de la Calle (Remastered)",
+        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 216424,
-      "name": "Mamasota",
-      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
+      "duration_ms": 184506,
+      "name": "Permitame (feat. Yandel)",
+      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
     },
     {
       "added_at": null,
@@ -135,22 +135,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Melodia de la Calle (Remastered)",
-        "url": "https://open.spotify.com/album/3gvDroaxVajs2EDUABP3C7"
+        "name": "Mamasota",
+        "url": "https://open.spotify.com/album/4QVQv92wU7pvi5zTOStXel"
       },
       "artists": [
         {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         },
         {
           "name": "Yandel",
           "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         }
       ],
-      "duration_ms": 184506,
-      "name": "Permitame (feat. Yandel)",
-      "url": "https://open.spotify.com/track/2Dbq5moIguMsbRZa9SB7gD"
+      "duration_ms": 216424,
+      "name": "Mamasota",
+      "url": "https://open.spotify.com/track/2X8PYX9YX49hA0YeFnWTGZ"
     },
     {
       "added_at": null,
@@ -315,26 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mr. W",
-        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 204633,
-      "name": "Perreo 101",
-      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Criatura",
         "url": "https://open.spotify.com/album/3C2Y8YZGNyGqXZLPHPUMj3"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 217093,
       "name": "B\u00e1ilame - Remix",
       "url": "https://open.spotify.com/track/4l3xGFwoTinvYxsePytOOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mr. W",
+        "url": "https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "Perreo 101",
+      "url": "https://open.spotify.com/track/6uJDbR4EMdgMUDcm5UX9Eh"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) [Remix]",
         "url": "https://open.spotify.com/album/7szreH35LFWOfHayYZoE5v"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 318259,
       "name": "Arena y Sal (feat. Yandel, Saiko, FMK, LIT killah & Tunvao) - Remix",
       "url": "https://open.spotify.com/track/3MhpTdIHlgg5uxNPXSfFOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
       "added_at": null,
@@ -847,6 +847,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Puedo Controlarme",
+        "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
+      },
+      "artists": [
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "duration_ms": 189437,
+      "name": "NO PUEDO CONTROLARME",
+      "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Quien Contra Mi",
         "url": "https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE"
       },
@@ -895,38 +927,6 @@
       "duration_ms": 161000,
       "name": "Karma",
       "url": "https://open.spotify.com/track/49l4Lh25VxAf5RQMaiRnoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Puedo Controlarme",
-        "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
-      },
-      "artists": [
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Dei V",
-          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
-        }
-      ],
-      "duration_ms": 189437,
-      "name": "NO PUEDO CONTROLARME",
-      "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pierdo la Cabeza (Remix)",
+        "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 287080,
+      "name": "Pierdo la Cabeza - Remix",
+      "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
       },
@@ -1083,30 +1107,6 @@
       "duration_ms": 216293,
       "name": "Unica - Remix",
       "url": "https://open.spotify.com/track/5Sv1rKKMX1yl9kfJ2HTluk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pierdo la Cabeza (Remix)",
-        "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 287080,
-      "name": "Pierdo la Cabeza - Remix",
-      "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
     },
     {
       "added_at": null,

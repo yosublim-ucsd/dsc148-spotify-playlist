@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,870 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,917 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 76 | [Prune, You Talk Funny](https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Prune, You Talk Funny](https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo) | 3:32 |
 | 77 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 |
 | 78 | [Tuesday](https://open.spotify.com/track/5LjKOTy2cNgmcmXVVMWGZe) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [Tuesday](https://open.spotify.com/album/60WYgmEkFT4MpbjOovAkSG) | 3:11 |
-| 79 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
-| 80 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 79 | [Prism](https://open.spotify.com/track/0tpaVCA6VnQOUAI0EpFZpk) | [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [Prism](https://open.spotify.com/album/7FYVjCHeJAhgDi2zFmDV3n) | 3:52 |
+| 80 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0zXhiHHnUzhCYd3ehnZEe5) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/27zEODZr1lHmrtaapO6r8r) | 4:32 |
 | 81 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 | 82 | [Take Care](https://open.spotify.com/track/1igtKwX3EHjN95HanbkHNg) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Teen Dream](https://open.spotify.com/album/51AxfjN2gEt5qeJqPY5w0e) | 5:48 |
 | 83 | [Moment](https://open.spotify.com/track/4CpqVGd8GCTFQqEifhgsTz) | [Johnny Yukon](https://open.spotify.com/artist/4fLF7NyMYLaMxUmZCSp5ex) | [MOVIES! WORLDWIDE: PART I](https://open.spotify.com/album/7hXTfD7rkqM78jsnBMT0md) | 2:12 |

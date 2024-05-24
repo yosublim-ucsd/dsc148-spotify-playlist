@@ -2,7 +2,7 @@
 
 ### [This Is Aline Barros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1eByu0)
 
-> This is Aline Barros\. Todos os maiores hits em uma só playlist.
+> This is Aline Barros\. The essential tracks, all in one playlist.
 
 75 songs - 5 hr 53 min
 
@@ -26,7 +26,7 @@
 | [Criança de Jesus](https://open.spotify.com/track/6FsX4uGYBj8gjqH245iUWD) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 2:33 | 2024-02-22 | 2024-04-06 |
 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 | 2023-07-09 |  |
 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 | 2023-07-09 |  |
-| [Declaro a Cristo](https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Declaro a Cristo](https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8) | 4:48 | 2024-03-29 |  |
+| [Declaro a Cristo](https://open.spotify.com/track/5dp8lTqs3tWZfw2sNhRuDi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Declaro a Cristo](https://open.spotify.com/album/1wabXlRB0gUcvgy4ZAPJz8) | 4:48 | 2024-03-29 | 2024-05-24 |
 | [Deus do Impossível](https://open.spotify.com/track/3JAYiqcXj2jdN1yV3ge07T) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível](https://open.spotify.com/album/2GApIH2ulfM7LM4L8byYuM) | 3:29 | 2024-04-20 |  |
 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 | 2023-07-09 | 2024-04-20 |
 | [Diante da Cruz \(At the Cross\)](https://open.spotify.com/track/6Eys2kpYf4z9PlRJ48Ql8C) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Caminho de Milagres](https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u) | 5:55 | 2023-07-09 |  |
@@ -81,7 +81,7 @@
 | [Vento do Espírito](https://open.spotify.com/track/68bMEiYsaVqdO35XLWEz5z) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 5:08 | 2024-03-09 | 2024-03-18 |
 | [Vitória no Deserto](https://open.spotify.com/track/442A0IdJTDkRP0M4CM0pPb) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Extraordinário Amor de Deus](https://open.spotify.com/album/56MthXvN6LcBPwd7zbEgt6) | 3:45 | 2023-07-09 |  |
 | [Yo Sé Quien Soy](https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Yo Sé Quien Soy](https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd) | 3:59 | 2023-11-10 |  |
-| [Águas do Trono](https://open.spotify.com/track/2lI2uOhSYZION2FRW7JVBX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 4:47 | 2024-05-05 | 2024-05-07 |
+| [Águas do Trono](https://open.spotify.com/track/2lI2uOhSYZION2FRW7JVBX) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Som de Adoradores](https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9) | 4:47 | 2024-05-05 |  |
 | [Único Deus](https://open.spotify.com/track/3nkwtUdNS8uEXwCZag7BAR) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ÚNICO DEUS](https://open.spotify.com/album/3z0PmaUmQzaAgU8IZkqgE8) | 4:00 | 2024-03-09 | 2024-04-27 |
 
 \*This playlist was first scraped on 2023-07-10. Prior content cannot be recovered.

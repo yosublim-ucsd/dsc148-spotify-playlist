@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1385912,
+  "num_followers": 1386021,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAC2BWIP571zxlJ++nISOPLy",
+  "snapshot_id": "Zk01gAAAAACFCa2v8wQhbkBTWd714Tra",
   "tracks": [
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 177921,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -119,22 +103,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/3Xz1Bcn4YP9bdqlsstMfuJ"
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z"
       },
       "artists": [
         {
           "name": "Sia",
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         }
       ],
-      "duration_ms": 224813,
-      "name": "Cheap Thrills (feat. Sean Paul)",
-      "url": "https://open.spotify.com/track/378iszndTZAR4dH8kwsLC6"
+      "duration_ms": 177921,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": null,
@@ -163,6 +163,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Acting",
+        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Cheap Thrills",
+      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -187,38 +203,6 @@
       "duration_ms": 213706,
       "name": "Genius (feat. Sia, Diplo, and Labrinth)",
       "url": "https://open.spotify.com/track/4xigPf2sigSPmuFH3qCelB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 257200,
-      "name": "Elastic Heart",
-      "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Acting",
-        "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Cheap Thrills",
-      "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
     },
     {
       "added_at": null,
@@ -323,22 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fifty Shades Darker (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5VML6S956h4YfoYPooqLEi"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 252320,
-      "name": "Helium",
-      "url": "https://open.spotify.com/track/4S6fv0puLCsfYjyBTPDb9k"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -407,6 +375,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 198920,
+      "name": "Little Wing",
+      "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
         "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
       },
@@ -423,22 +407,6 @@
       "duration_ms": 199688,
       "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
       "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 198920,
-      "name": "Little Wing",
-      "url": "https://open.spotify.com/track/4ZK786lHXz8nZ8NwODGc6L"
     },
     {
       "added_at": null,
@@ -479,22 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1000 Forms Of Fear (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Elastic Heart - Piano Version",
-      "url": "https://open.spotify.com/track/0udoMICxzaUbNUT8EVRq8B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Colour The Small One",
         "url": "https://open.spotify.com/album/5HRQFmLEuzQP8e12o8DzB5"
       },
@@ -531,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 196408,
-      "name": "Nowhere To Be",
-      "url": "https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -563,6 +499,22 @@
       "duration_ms": 222500,
       "name": "She Wolf (Falling to Pieces) [feat. Sia]",
       "url": "https://open.spotify.com/track/1SgdUjvppHnIp6L7DZSnwc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 196408,
+      "name": "Nowhere To Be",
+      "url": "https://open.spotify.com/track/0MBw7KEU6wxhhRTD3j4qpv"
     },
     {
       "added_at": null,
@@ -611,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 167911,
-      "name": "Towards The Sun",
-      "url": "https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Angel By The Wings",
         "url": "https://open.spotify.com/album/1diZXhFKWvBHJg6YMEZ74b"
       },
@@ -639,6 +575,22 @@
       "duration_ms": 319200,
       "name": "Angel By The Wings",
       "url": "https://open.spotify.com/track/4OLVK3kktkdLPp8dDgoCtb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 167911,
+      "name": "Towards The Sun",
+      "url": "https://open.spotify.com/track/56Jm8UQS5PD86xfKjanI3r"
     },
     {
       "added_at": null,
@@ -691,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "San Andreas (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 216146,
+      "name": "California Dreamin'",
+      "url": "https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -707,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "San Andreas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2dI9CqM7hsrg2g8HbrnAES"
+        "name": "Together",
+        "url": "https://open.spotify.com/album/4TM7wmWEakp4xk1ZffVkL8"
       },
       "artists": [
         {
@@ -716,9 +684,9 @@
           "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 216146,
-      "name": "California Dreamin'",
-      "url": "https://open.spotify.com/track/1QzIPFcpaapCryW5wRsgU4"
+      "duration_ms": 205207,
+      "name": "Together",
+      "url": "https://open.spotify.com/track/5id3Rqn7SPj1LX4FfY4nGz"
     },
     {
       "added_at": null,
@@ -775,6 +743,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drinking From The Sun",
+        "url": "https://open.spotify.com/album/5iGxWJQNXmqcdx5IYN23XK"
+      },
+      "artists": [
+        {
+          "name": "Hilltop Hoods",
+          "url": "https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 226413,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/30MIMYaX8C3BMvL3Zhs6KO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1000 Forms Of Fear",
         "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
       },
@@ -811,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Reasonable Woman",
+        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 178591,
+      "name": "One Night",
+      "url": "https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
@@ -827,22 +831,6 @@
       "duration_ms": 213026,
       "name": "Je te pardonne (feat. Sia) - Pilule bleue",
       "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reasonable Woman",
-        "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 178591,
-      "name": "One Night",
-      "url": "https://open.spotify.com/track/5Ztiajtvy8IJ7ZJMGYCZXn"
     },
     {
       "added_at": null,
@@ -979,6 +967,22 @@
       "duration_ms": 193333,
       "name": "Bang My Head (feat. Sia & Fetty Wap)",
       "url": "https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Annie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6SHWGGZJPmwfOLInPMEUFW"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "You're Never Fully Dressed Without a Smile (2014 Film Version)",
+      "url": "https://open.spotify.com/track/6x0v6SaLC9E4XY39efEeCs"
     }
   ],
   "unique_name": "This Is Sia",

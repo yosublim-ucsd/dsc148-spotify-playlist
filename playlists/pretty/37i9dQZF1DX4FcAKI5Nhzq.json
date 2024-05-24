@@ -1,13 +1,49 @@
 {
   "description": "Future K-Pop hits! Cover: NEXZ",
-  "num_followers": 807223,
+  "num_followers": 807304,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zkxe7gAAAADf5Tx50f0cuo8cAakd9DTc",
+  "snapshot_id": "Zk75wwAAAABshQASo9EEYXHh0zZCMAfw",
   "tracks": [
+    {
+      "added_at": "2024-05-21 08:44:30",
+      "album": {
+        "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
+      },
+      "artists": [
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 201595,
+      "name": "Spring Snow",
+      "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
+    },
+    {
+      "added_at": "2024-05-23 08:09:39",
+      "album": {
+        "name": "Debugging",
+        "url": "https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz"
+      },
+      "artists": [
+        {
+          "name": "BLAS\u00c9",
+          "url": "https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0"
+        },
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "Turtle (Feat. CHUNG HA)",
+      "url": "https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ"
+    },
     {
       "added_at": "2024-05-20 09:00:00",
       "album": {
@@ -23,6 +59,98 @@
       "duration_ms": 172444,
       "name": "Ride the Vibe",
       "url": "https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg"
+    },
+    {
+      "added_at": "2024-05-23 08:09:39",
+      "album": {
+        "name": "Tasty",
+        "url": "https://open.spotify.com/album/2vM9UGFDKGVtBujM4i280d"
+      },
+      "artists": [
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 131240,
+      "name": "Tasty",
+      "url": "https://open.spotify.com/track/7CRxtUYdaNwgUICPi2iScL"
+    },
+    {
+      "added_at": "2024-05-20 09:00:00",
+      "album": {
+        "name": "<ASSEMBLE24>",
+        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "duration_ms": 187920,
+      "name": "Girls Never Die",
+      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
+    },
+    {
+      "added_at": "2024-05-23 08:09:39",
+      "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/7qx75T9tAxkomFYsmFADV1"
+      },
+      "artists": [
+        {
+          "name": "SUHO",
+          "url": "https://open.spotify.com/artist/5zkf2Na8DKKJmtWX5Xrx3m"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/6x5mCFqbpUfjAq6Egyjl2c"
+    },
+    {
+      "added_at": "2024-05-20 09:00:00",
+      "album": {
+        "name": "Play With Me",
+        "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
+      },
+      "artists": [
+        {
+          "name": "Pagaehun",
+          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
+        },
+        {
+          "name": "KKANBYEONGZ",
+          "url": "https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt"
+        }
+      ],
+      "duration_ms": 169999,
+      "name": "Play With Me",
+      "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
+    },
+    {
+      "added_at": "2024-05-23 08:09:39",
+      "album": {
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/0KyciVZWjNOZkzvFpnHqb5"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        },
+        {
+          "name": "Levent Geiger",
+          "url": "https://open.spotify.com/artist/7JSBgXyCDzX24iZCHJofIG"
+        }
+      ],
+      "duration_ms": 142213,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/1EV5az9KISodiYS8CmfRY0"
     },
     {
       "added_at": "2024-05-20 09:00:00",
@@ -91,58 +219,6 @@
       "duration_ms": 233386,
       "name": "Where are you",
       "url": "https://open.spotify.com/track/39pmnVY7Cw93kGBEBtTyjh"
-    },
-    {
-      "added_at": "2024-05-21 08:44:30",
-      "album": {
-        "name": "Lovely Runner, Pt. 8 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/69sGrzymuW18usgEvLnvU1"
-      },
-      "artists": [
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 201595,
-      "name": "Spring Snow",
-      "url": "https://open.spotify.com/track/0tCr7DoUBSdtdSl0rxZmct"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
-        "name": "Play With Me",
-        "url": "https://open.spotify.com/album/7k0GD6BShlOxIz7pnFLjAd"
-      },
-      "artists": [
-        {
-          "name": "Pagaehun",
-          "url": "https://open.spotify.com/artist/4nbj2vNChfEusXKNYz7Ow7"
-        },
-        {
-          "name": "KKANBYEONGZ",
-          "url": "https://open.spotify.com/artist/5RUKj25Ytovoun2IlCE7Zt"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "Play With Me",
-      "url": "https://open.spotify.com/track/0Q7K7Eel3R3xZDn1otHPif"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
-        "name": "<ASSEMBLE24>",
-        "url": "https://open.spotify.com/album/1FEdDqMaOL8oZYzI4n27GM"
-      },
-      "artists": [
-        {
-          "name": "tripleS",
-          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
-        }
-      ],
-      "duration_ms": 187920,
-      "name": "Girls Never Die",
-      "url": "https://open.spotify.com/track/45OflED18VsURGw2z0Y6Cv"
     },
     {
       "added_at": "2024-05-20 09:00:00",
@@ -631,38 +707,6 @@
     {
       "added_at": "2024-05-20 09:00:00",
       "album": {
-        "name": "Wish You Hell - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/4TqtE79sLslimmr8XujDAD"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "His Car Isn\u2019t Yours",
-      "url": "https://open.spotify.com/track/6i5SuCCAmy2wx6SDhsyCP5"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
-        "name": "Killin' It",
-        "url": "https://open.spotify.com/album/7FbyxnCCfB4t8N8qwHrHi6"
-      },
-      "artists": [
-        {
-          "name": "P1Harmony",
-          "url": "https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU"
-        }
-      ],
-      "duration_ms": 176133,
-      "name": "Killin' It",
-      "url": "https://open.spotify.com/track/2E7qG81LXdZEfobhcrVm06"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
         "name": "Back To Me / Alive",
         "url": "https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo"
       },
@@ -707,42 +751,6 @@
       "duration_ms": 179240,
       "name": "ICKY",
       "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
-        "name": "HOPE ON THE STREET VOL.1",
-        "url": "https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4"
-      },
-      "artists": [
-        {
-          "name": "j-hope",
-          "url": "https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy"
-        },
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 183149,
-      "name": "i don't know (with HUH YUNJIN of LE SSERAFIM)",
-      "url": "https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ"
-    },
-    {
-      "added_at": "2024-05-20 09:00:00",
-      "album": {
-        "name": "Really Like You",
-        "url": "https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu"
-      },
-      "artists": [
-        {
-          "name": "Gyubin",
-          "url": "https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS"
-        }
-      ],
-      "duration_ms": 178133,
-      "name": "Really Like You",
-      "url": "https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox"
     },
     {
       "added_at": "2024-05-20 09:00:00",

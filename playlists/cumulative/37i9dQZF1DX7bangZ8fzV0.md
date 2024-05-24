@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx?si=RH\_VK2OfT8KLNPkaZlukuA">Bernice West</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=1qDS4\-9uR2iR7QLsfpQc6A">Danny Smoke</a>
 
-217 songs - 12 hr 7 min
+218 songs - 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,10 +176,11 @@
 | [Skildery \(Remix\)](https://open.spotify.com/track/4Sy3SykXit0psixwPq0KtO) | [Zandri](https://open.spotify.com/artist/2d4saNK84qEsfaPw26tjPq), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Skildery \(Remix\)](https://open.spotify.com/album/4kHqoFMstt9NCU6WJfejDn) | 4:52 | 2022-09-29 | 2022-10-14 |
 | [Skobbejak](https://open.spotify.com/track/1PoFAgfEa11NdWylrd8sCc) | [Reën](https://open.spotify.com/artist/7tIsf2CtmTtj0UGJshHIyB), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Weer](https://open.spotify.com/album/4YPFlgvGCWtK0bKrN6qIkz) | 3:32 | 2022-08-25 |  |
 | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/track/0N0aty9herXHmfNEzasQT1) | [Snotkop](https://open.spotify.com/artist/0F0l2JFPA3u6cBpaqKCm6J) | [Skrik Vir Niks \(Van Die Snotkop Movie: Skrik Vir Niks\)](https://open.spotify.com/album/1qwFb54zWa4KS1W0swu093) | 3:19 | 2022-12-01 | 2023-06-30 |
-| [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 | 2023-11-09 |  |
+| [Slukkie Inspirasie](https://open.spotify.com/track/6RUiu6xeHqpsxbXJoZeu7s) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [OASE](https://open.spotify.com/album/45L3PeEzR30opQd0fDapgf) | 3:13 | 2023-11-09 | 2024-05-24 |
 | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/track/7k7ZQJ375LWnwr27fodysE) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx), [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [Soen My Op My Mond \(Uit Die Gelofte Musiekblyspel\)](https://open.spotify.com/album/1tNfmhPmCAvg0Myyyhl5fa) | 3:13 | 2022-05-05 | 2023-01-27 |
 | [Soen Soos Wat Jy Dans](https://open.spotify.com/track/4yCS6Pqvpg9EaLQcvOPz40) | [Brendan Peyper](https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v) | [Soen Soos Wat Jy Dans](https://open.spotify.com/album/2td5HHRkCc3bcSvN9YO3IB) | 3:35 | 2024-02-01 |  |
 | [Sonop\-Blom](https://open.spotify.com/track/7xeOloDznov24h4JCtmn3p) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Sonop\-Blom](https://open.spotify.com/album/2ni5omeo7ALatZxwUy180p) | 3:07 | 2023-03-09 |  |
+| [Stadig](https://open.spotify.com/track/3qdqbjYUNv3QYIBchTSaUq) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Stadig](https://open.spotify.com/album/2ndEeWY99a4o2lHtx61nGP) | 3:34 | 2024-05-23 |  |
 | [Standbeelde](https://open.spotify.com/track/5iq0M2V0jJRu7IJYYxJ4vl) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx), [Matthew John Duncan](https://open.spotify.com/artist/5UKMBy6AbIo4xMA9krrPIY) | [Standbeelde](https://open.spotify.com/album/5eIwfDG5foI8Tbd92BE26C) | 3:16 | 2022-10-06 | 2022-10-21 |
 | [Sterre](https://open.spotify.com/track/388hZyeYDEtgKB0j65TIv0) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Sterre](https://open.spotify.com/album/6bNPqe6llpwr7vrLc7vJ1D) | 3:33 | 2024-04-26 |  |
 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 | 2024-03-28 |  |

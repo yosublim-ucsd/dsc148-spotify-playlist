@@ -4,7 +4,7 @@
 
 > Sitting in a cozy café studying while the rain is pouring down outside.
 
-125 songs - 7 hr 15 min
+126 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Come Away With Me](https://open.spotify.com/track/6W36Hqqh0VueDlZMT5iyjn) | [Maurice Windham](https://open.spotify.com/artist/1BqkyvviBNHzqXWxfCOYtL) | [Come Away With Me](https://open.spotify.com/album/4LnkT3vGIc1iifgGnblsc2) | 2:12 | 2023-04-27 |  |
 | [Danny´s Dream \- Rain](https://open.spotify.com/track/1vEImeGWLWDYCxRPQJeDhy) | [Eddie Harper](https://open.spotify.com/artist/7297VsEKnQhcbuXvB3GJ68) | [Danny´s Dream \- Rain](https://open.spotify.com/album/6V4FZFYpLpfLCk1qJWatur) | 3:34 | 2023-04-27 |  |
 | [Desire](https://open.spotify.com/track/09ppY0JbUbFgaNkU7YgVmD) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [Rainy Days Jazz](https://open.spotify.com/album/5rfKCLIjhCsotHx4wbWDIV) | 4:01 | 2023-04-27 |  |
+| [Desperately](https://open.spotify.com/track/5K6EkvFc8WgbP4bi65TrbE) | [Mandy](https://open.spotify.com/artist/2BMXntfoLrLiBk4CH5IOzi) | [Desperately](https://open.spotify.com/album/4FGLUio2gkeaEyyBvbySkR) | 2:55 | 2024-05-23 |  |
 | [Detour Ahead \(Rain\)](https://open.spotify.com/track/7f8cCtFCSEVOU5c8WDX5Iw) | [Akio](https://open.spotify.com/artist/1Pee2ETMZW5ZH3mVgdrf4A) | [Detour Ahead \(Rain\)](https://open.spotify.com/album/4YYid3LXG2UbfvXCJOVhe3) | 3:45 | 2023-04-27 |  |
 | [Downfall](https://open.spotify.com/track/2dv3ZXTz70qDYe5OpMouWP) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Downfall](https://open.spotify.com/album/6Yl1lhoCj9VAsuNSgxV13i) | 2:52 | 2024-02-02 |  |
 | [Drizzle](https://open.spotify.com/track/7xAsNYcd0c2TRtX29Le7Ul) | [Eric Merlino](https://open.spotify.com/artist/1vL7K80AJZnr8Y10olI96q) | [Drizzle](https://open.spotify.com/album/660BSmyiAOlSjmSTX080Za) | 3:44 | 2023-06-08 |  |

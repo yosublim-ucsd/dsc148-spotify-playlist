@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-26",
-  "description": "The UK's biggest playlist. Cover: Post Malone & Morgan Wallen ",
+  "description": "The UK's biggest playlist. Cover: Billie Eilish",
   "name": "Hot Hits UK",
   "tracks": [
     {
@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "ATM",
+        "url": "https://open.spotify.com/album/0td44kOi6nnLKRfC8m46IS"
+      },
+      "artists": [
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "ATM",
+      "url": "https://open.spotify.com/track/5hO3XBO6W6GwyBJOAtivCf"
+    },
+    {
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
       },
@@ -359,6 +377,28 @@
     },
     {
       "album": {
+        "name": "BAND4BAND (feat. Lil Baby)",
+        "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140733,
+      "name": "BAND4BAND (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
+    },
+    {
+      "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
@@ -392,7 +432,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
@@ -432,6 +472,24 @@
       "duration_ms": 133548,
       "name": "Birds In The Sky",
       "url": "https://open.spotify.com/track/50SxWFCvmZCYcpKWPZECES"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
       "album": {
@@ -787,6 +845,28 @@
     },
     {
       "album": {
+        "name": "Favourite Girl",
+        "url": "https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh"
+      },
+      "artists": [
+        {
+          "name": "Darkoo",
+          "url": "https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR"
+        },
+        {
+          "name": "Dess Dior",
+          "url": "https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Favourite Girl",
+      "url": "https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC"
+    },
+    {
+      "album": {
         "name": "emails i can\u2019t send fwd:",
         "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
       },
@@ -860,6 +940,24 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
+        "name": "GANG",
+        "url": "https://open.spotify.com/album/1c02VhJeolcV3l94hdBnUU"
+      },
+      "artists": [
+        {
+          "name": "Kairo Keyz",
+          "url": "https://open.spotify.com/artist/16WiaItNjYShr5vFzzg7nQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "GANG",
+      "url": "https://open.spotify.com/track/00Srvq2BtgG9afXY9kzB1V"
     },
     {
       "album": {
@@ -1500,7 +1598,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
@@ -1646,7 +1744,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160650,
       "name": "Lovers In A Past Life (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/6v4ABPB255HDSWyIj3S9Wn"
@@ -2216,7 +2314,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -3064,7 +3162,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 246813,
       "name": "Worth It.",
       "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"

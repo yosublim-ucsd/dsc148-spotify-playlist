@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: SUPERJAZZCLUB
 
-66 songs - 3 hr 14 min
+68 songs - 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Give It Back](https://open.spotify.com/track/0GamHHdEZTOeKl6fSCY0I3) | [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Chief Kellz](https://open.spotify.com/artist/4eHWOufqo0n5FnfpEl25Ly) | [Tsotsoo](https://open.spotify.com/album/57y1bzHoBIHFlMEz5APeCc) | 3:43 | 2024-05-10 |  |
 | [Godzilla \(feat\. Darkovibes, KiddBlack\)](https://open.spotify.com/track/5uKodxytjsjSl9yiOHnbJG) | [La Même Gang](https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH) | [La Même Tape](https://open.spotify.com/album/6rTmz2G8NKu9GkrAA5Yumv) | 3:21 | 2024-05-10 |  |
 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 | 2024-05-10 | 2024-05-17 |
-| [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2024-05-10 |  |
+| [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 | 2024-05-10 |  |
 | [JADED \(TO THE GAME\)](https://open.spotify.com/track/5dDGxh8NGe19NF1JlWnkVe) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [JADED \(TO THE GAME\)](https://open.spotify.com/album/6T9OSmFVLMUDvjS1b8hYX1) | 2:35 | 2024-05-17 |  |
 | [Jolie](https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Jolie](https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP) | 2:45 | 2024-05-10 | 2024-05-17 |
@@ -46,7 +46,8 @@
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
 | [No Love](https://open.spotify.com/track/60Jmu3k25uJpIstSpiNAfM) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [NO LOVE](https://open.spotify.com/album/1HzsPYXeUzTBJHz3NAxrbY) | 2:44 | 2024-05-17 |  |
-| [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 |  |
+| [Not Yet](https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK) | [Ari Rei](https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo) | [Not Yet](https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD) | 2:41 | 2024-05-24 |  |
+| [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [Okay](https://open.spotify.com/track/4sGtnz2R0QTfSpf0z4FQBx) | [Paapa Versa](https://open.spotify.com/artist/6XaCmBX8v8w1okWhKzzQ41) | [Okay](https://open.spotify.com/album/1UGLQEvDpRqnyxgL33rOmt) | 2:32 | 2024-05-10 | 2024-05-17 |
 | [OUTSIDE](https://open.spotify.com/track/3fI2SGd3AFrftekvzcCNsj) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [OUTSIDE](https://open.spotify.com/album/2cx1ovrveOy0Av1WTMfek1) | 2:26 | 2024-05-10 |  |
 | [Pain and Pleasure](https://open.spotify.com/track/1YNcsikMzn7VnhVQCXhx2o) | [Iyke Parker](https://open.spotify.com/artist/05CCsFubGf9UpnbXp0iAWr), [LeonardoDDJ](https://open.spotify.com/artist/25Q3IQWJ78bRWV15GOQyYV), [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg) | [Pain and Pleasure](https://open.spotify.com/album/17tb3wkAv9Kqbu5VLWgIcJ) | 2:34 | 2024-05-17 |  |
@@ -61,6 +62,7 @@
 | [Rhythms and Blues](https://open.spotify.com/track/0a3rLv5MLUxKJjSWPsYYIy) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Rhythms and Blues](https://open.spotify.com/album/5gQtma9p0VO3ZShVsT9tj3) | 2:12 | 2024-05-17 |  |
 | [Sexy Depression](https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu) | [Susan Augustt](https://open.spotify.com/artist/1vx6qCxNhUH57xPZrBddo5) | [Sexy Depression](https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l) | 2:56 | 2024-05-10 |  |
 | [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 | 2024-05-10 |  |
+| [Soft Vibez \- Acoustic](https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W) | [Soft Vibez \(Acoustic\)](https://open.spotify.com/album/6NWc7JXrrOaxQevjWNGUAd) | 4:21 | 2024-05-24 |  |
 | [Special Ting](https://open.spotify.com/track/0ffu2K1gzPsyQGxUwy0OPZ) | [Harma Boy](https://open.spotify.com/artist/0dBu3FtAi8txcbF1dc5Z0e) | [Special Ting](https://open.spotify.com/album/2pHulfIkZVxByik17VzIiZ) | 2:01 | 2024-05-10 |  |
 | [SUJIE](https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:55 | 2024-05-10 |  |
 | [Sunshine](https://open.spotify.com/track/5ApfOFw9J5DZ2XLKQFL8Hm) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek) | [Sunshine](https://open.spotify.com/album/4OdvBnXcegSXUJmw3Vewhl) | 2:51 | 2024-05-10 |  |

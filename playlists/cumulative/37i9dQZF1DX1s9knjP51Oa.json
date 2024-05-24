@@ -1359,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "Beauty",
+        "url": "https://open.spotify.com/album/52dxoUpamcBI8YkS3Ce3iC"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166222,
+      "name": "Beauty",
+      "url": "https://open.spotify.com/track/6LUWbk3Zc6571RYApFYoSl"
+    },
+    {
+      "album": {
         "name": "Beauty Of You",
         "url": "https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x"
       },

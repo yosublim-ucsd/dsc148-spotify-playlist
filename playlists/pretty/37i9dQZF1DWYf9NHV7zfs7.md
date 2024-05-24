@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 
 > y nada más que pop ✨✨✨<br/>📷 Nahuel Pennisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,075 likes - 85 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,097 likes - 85 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,10 +74,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYf9NHV7zfs7.md) - [plain]
 | 64 | [Pensando en Ti](https://open.spotify.com/track/56oRryxhnnkwWbARsyBuaM) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Pensando en Ti](https://open.spotify.com/album/0DsdrB2awxK94OuFpBl3cH) | 2:53 |
 | 65 | [4 Paredes](https://open.spotify.com/track/5NdS1ssGwkTP2lAkb79HT2) | [Vanesa Martín](https://open.spotify.com/artist/5kSJMVPcTITrSZxTrHllVN), [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [4 Paredes](https://open.spotify.com/album/4FgQmBHpbdaLUukZNwDpRt) | 2:52 |
 | 66 | [Tarde o Temprano](https://open.spotify.com/track/7CJbGTWfMlNYkhk2MgBfde) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Tarde o Temprano](https://open.spotify.com/album/5MVlQJ6WnmXjzje3ruMLvS) | 3:33 |
-| 67 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
+| 67 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
 | 68 | [Para Siempre](https://open.spotify.com/track/6kJLEzJ4kc9mS5buZz7STw) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Para Siempre](https://open.spotify.com/album/3p6SxLQhEAcJn9nrb8fZl1) | 3:28 |
-| 69 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 |
-| 70 | [Me Diste la Espalda](https://open.spotify.com/track/2yWqxlPpiXTk48aZpfFfhu) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Me Diste la Espalda](https://open.spotify.com/album/5wN6XsAHgwnlnHVps4Oqu0) | 3:22 |
+| 69 | [LA FORMA DE TUS HUESOS](https://open.spotify.com/track/020DdY7OHn2cAA0YLCeGTn) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [LA FORMA DE TUS HUESOS](https://open.spotify.com/album/7yrAWLchX3RIrXiry3qge3) | 3:32 |
+| 70 | [Mecha](https://open.spotify.com/track/346Xh2wHnDIByr5ZDeS7Cl) | [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [El Camino](https://open.spotify.com/album/77EpBCmlc6ym8lGcORQyel) | 3:09 |
 | 71 | [Años Luz](https://open.spotify.com/track/0BNtpLD6zsXJGroRtcixOE) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Recuerdos](https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu) | 3:13 |
 | 72 | [un día](https://open.spotify.com/track/2znDyj4JlYJL1DayuV4j14) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [100PRE YORO](https://open.spotify.com/album/6xOaHqhD9jaJtR3xmFHrzP) | 3:42 |
 | 73 | [La Fuerza del Engaño](https://open.spotify.com/track/2KrzUHEX4tL0zZOKHFQmqG) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 3:27 |

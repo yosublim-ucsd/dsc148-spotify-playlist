@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 
 > Kick back and enjoy these classic summer songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,368 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,699 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 29 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 |
 | 30 | [Cecilia](https://open.spotify.com/track/6QhXQOpyYvbpdbyjgAqKdY) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bridge Over Troubled Water](https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV) | 2:54 |
 | 31 | [Hold On, I'm Comin'](https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [Hold On, I'm Comin'](https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO) | 2:35 |
-| 32 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
-| 33 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
+| 32 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
+| 33 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 34 | [American Girl](https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Tom Petty & The Heartbreakers](https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi) | 3:34 |
 | 35 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
 | 36 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9fZ7amiNVu6.md) - [plain]
 | 67 | [All I Have to Do Is Dream](https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:23 |
 | 68 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 69 | [Summertime](https://open.spotify.com/track/2gNjmvuQiEd2z9SqyYi8HH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 4:58 |
-| 70 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
-| 71 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
+| 70 | [Monday, Monday \- Single Version](https://open.spotify.com/track/3EFb1qDgIqf9MegIryKtDj) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [If You Can Believe Your Eyes & Ears](https://open.spotify.com/album/76oMr4Y2pOtcrvZLc2ZikF) | 3:28 |
+| 71 | [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/34zWZOSpU2V1ab0PiZCcv4) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Uptown Top Ranking](https://open.spotify.com/album/1FWimRgPFwDVyVlHe9EEnP) | 3:49 |
 | 72 | [Sunshine Of Your Love](https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 4:10 |
 | 73 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 |
 | 74 | [Saturday in the Park \- 2002 Remaster](https://open.spotify.com/track/4OJFkrRQqol4FsPesF8eu4) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago V \(Expanded & Remastered\)](https://open.spotify.com/album/2oSXXINsWGuEsc4udgWxh8) | 3:55 |

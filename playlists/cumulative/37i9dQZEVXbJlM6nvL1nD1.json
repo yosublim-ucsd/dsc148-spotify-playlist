@@ -3960,6 +3960,24 @@
     {
       "album": {
         "name": "The Last",
+        "url": "https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228773,
+      "name": "Dile al Amor",
+      "url": "https://open.spotify.com/track/6lFM8kkmpffm0aq2gzEtEK"
+    },
+    {
+      "album": {
+        "name": "The Last",
         "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
@@ -4625,6 +4643,24 @@
     },
     {
       "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/5kUva4uwVPMIyo8VX7pjBI"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6ofZxXoNV32YxXezZS1o8y"
+    },
+    {
+      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -4906,6 +4942,28 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "album": {
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267786,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3"
     },
     {
       "album": {
@@ -5222,7 +5280,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 250693,
       "name": "Es Por Ti",
       "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
@@ -5486,7 +5544,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167760,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG"
@@ -8970,10 +9028,28 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 214735,
       "name": "LOS DOS",
       "url": "https://open.spotify.com/track/4vT124ymmEAfre47gVCcRI"
+    },
+    {
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "album": {
@@ -9280,7 +9356,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 137933,
       "name": "MAMI 100PRE SABE (INTERLUDE)",
       "url": "https://open.spotify.com/track/62n1ZpeGX7aM7hqC4NcBsJ"

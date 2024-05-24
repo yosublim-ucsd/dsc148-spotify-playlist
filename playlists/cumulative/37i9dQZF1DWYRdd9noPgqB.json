@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207800,
       "name": "Always",
       "url": "https://open.spotify.com/track/2XOb3RMjvQeKlPawQR66Id"
@@ -334,6 +334,24 @@
       "duration_ms": 161360,
       "name": "BETTER PLACE",
       "url": "https://open.spotify.com/track/59vMIi4rwjO9LRIDU5TrtG"
+    },
+    {
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240254,
+      "name": "BODYGUARD",
+      "url": "https://open.spotify.com/track/6Y4rniIxibegzsg8cdWAWV"
     },
     {
       "album": {
@@ -1031,6 +1049,32 @@
     },
     {
       "album": {
+        "name": "Down the Line",
+        "url": "https://open.spotify.com/album/2aUQUtNhw2UQjnPhI07eFS"
+      },
+      "artists": [
+        {
+          "name": "Tonique & Man",
+          "url": "https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq"
+        },
+        {
+          "name": "Jean Tonique",
+          "url": "https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI"
+        },
+        {
+          "name": "Mi Man",
+          "url": "https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193053,
+      "name": "Down the Line",
+      "url": "https://open.spotify.com/track/0CCa34HlzzqL4IbV4G7uTl"
+    },
+    {
+      "album": {
         "name": "Blame My Ex",
         "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
       },
@@ -1072,6 +1116,24 @@
       "duration_ms": 252835,
       "name": "Every Bullet so Far",
       "url": "https://open.spotify.com/track/6qugUDiEBLgFFrhCa40RS5"
+    },
+    {
+      "album": {
+        "name": "Every Little Thing I Say I Do",
+        "url": "https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180209,
+      "name": "Every Little Thing I Say I Do",
+      "url": "https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w"
     },
     {
       "album": {
@@ -3152,7 +3214,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160808,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/4cHl5lAbgUja4k0qrpMVx7"
@@ -3206,7 +3268,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 153723,
       "name": "Sweet Love",
       "url": "https://open.spotify.com/track/1vbVS8vpaFQNjketow7tse"
@@ -3246,6 +3308,24 @@
       "duration_ms": 124636,
       "name": "Sweet Tooth",
       "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
+    },
+    {
+      "album": {
+        "name": "Take A Bite",
+        "url": "https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158866,
+      "name": "Take A Bite",
+      "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
     },
     {
       "album": {
@@ -3434,7 +3514,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"

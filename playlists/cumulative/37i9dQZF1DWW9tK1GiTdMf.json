@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Cover: Finley",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0)\u256f\ufe35 \u253b\u2501\u253b Cover: EMMA",
   "name": "sanguegiovane \ud83e\ude78",
   "tracks": [
     {
@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 183887,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/6hc9Y6TWNiyNJe1VSf9w90"
@@ -1408,7 +1408,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156610,
       "name": "Angelo Custode",
       "url": "https://open.spotify.com/track/4ArazHVoCAt3FP5GqV2dWd"
@@ -1976,6 +1976,28 @@
       "duration_ms": 164000,
       "name": "Bambino",
       "url": "https://open.spotify.com/track/5PN45xdNO9aTq1zhMaSS1H"
+    },
+    {
+      "album": {
+        "name": "bambino indaco",
+        "url": "https://open.spotify.com/album/249fX46iQbvE9U8Z4fazKG"
+      },
+      "artists": [
+        {
+          "name": "Narcolessia",
+          "url": "https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS"
+        },
+        {
+          "name": "EnimraK",
+          "url": "https://open.spotify.com/artist/5aBezG2V4TZr1YpJxeTfYf"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146722,
+      "name": "bambino indaco",
+      "url": "https://open.spotify.com/track/2FHOKuLthNXgQTxnGW3irZ"
     },
     {
       "album": {
@@ -2662,7 +2684,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175959,
       "name": "Burn The Witch",
       "url": "https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y"
@@ -3954,7 +3976,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 169563,
       "name": "Country Life",
       "url": "https://open.spotify.com/track/7gA14X85BNudI5efLBr4vj"
@@ -7434,7 +7456,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 139300,
       "name": "GTFO",
       "url": "https://open.spotify.com/track/5qQNkNjOThKsb2JYfXms9V"
@@ -8219,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "IL MONDO DEI BACi",
+        "url": "https://open.spotify.com/album/3B9hBYNxVTD1GAHmOHFzo3"
+      },
+      "artists": [
+        {
+          "name": "EMMA",
+          "url": "https://open.spotify.com/artist/7LmO2BJsbObtMqCPcpjjhq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223427,
+      "name": "IL MONDO DEI BACi",
+      "url": "https://open.spotify.com/track/6ISrOSvLz0VQ2zEJjMj3GF"
+    },
+    {
+      "album": {
         "name": "IL PEGGIO",
         "url": "https://open.spotify.com/album/3KpL7mKRQqJyjPe75hfVBz"
       },
@@ -8842,6 +8882,24 @@
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "album": {
+        "name": "KUNAI",
+        "url": "https://open.spotify.com/album/3kqLxqMW0WA9MQwRvzEqKP"
+      },
+      "artists": [
+        {
+          "name": "LVCRIME",
+          "url": "https://open.spotify.com/artist/7hDsXbBLPQU2T0R3TZU6ez"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "KUNAI",
+      "url": "https://open.spotify.com/track/7DXE98mVWeIaq3MeJEMi2l"
     },
     {
       "album": {
@@ -10043,6 +10101,24 @@
     },
     {
       "album": {
+        "name": "PER IL MIO BENE",
+        "url": "https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182849,
+      "name": "luna di miele",
+      "url": "https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI"
+    },
+    {
+      "album": {
         "name": "LUNA STORTA",
         "url": "https://open.spotify.com/album/3xHS8uv6WMP4YHHPDLwnis"
       },
@@ -10983,6 +11059,32 @@
     },
     {
       "album": {
+        "name": "musica col computer",
+        "url": "https://open.spotify.com/album/2xCv85lAAeFBPGRhRRvkGZ"
+      },
+      "artists": [
+        {
+          "name": "Pseudospettri",
+          "url": "https://open.spotify.com/artist/144fSE2ruLaRNyMQ2UiTsE"
+        },
+        {
+          "name": "Lanyard",
+          "url": "https://open.spotify.com/artist/6mWyG0mxArpvfGVLOx4qm1"
+        },
+        {
+          "name": "b.estye",
+          "url": "https://open.spotify.com/artist/2YaXROXiWeqPA4fG5od6bU"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150573,
+      "name": "musica col computer",
+      "url": "https://open.spotify.com/track/2Fgh9deb1vLIFKI7hOtyHV"
+    },
+    {
+      "album": {
         "name": "Musica dal Morto - MARTINI",
         "url": "https://open.spotify.com/album/1uLOH4euRLrajyAufWleGE"
       },
@@ -11130,7 +11232,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164444,
       "name": "NEON",
       "url": "https://open.spotify.com/track/5mxvimD3oUGQdsxyTAF8mc"
@@ -13166,7 +13268,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 159428,
       "name": "Polaroid",
       "url": "https://open.spotify.com/track/6MG9SSOTmchQsJYr2Pfx7g"
@@ -14320,7 +14422,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188680,
       "name": "run!",
       "url": "https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y"
@@ -15202,6 +15304,24 @@
       "duration_ms": 167062,
       "name": "Silvia (Sally)",
       "url": "https://open.spotify.com/track/6sPqXjGIOkWvHG7rnkMHvh"
+    },
+    {
+      "album": {
+        "name": "Simpatico",
+        "url": "https://open.spotify.com/album/4JjEOAWLEYEY0Ct1uxIsDU"
+      },
+      "artists": [
+        {
+          "name": "Sami River",
+          "url": "https://open.spotify.com/artist/5PUv5cQdVd7LmHvBj2r4c6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172193,
+      "name": "Simpatico",
+      "url": "https://open.spotify.com/track/2PmjEdqOMqcHmqHx7pGZbe"
     },
     {
       "album": {
@@ -17719,6 +17839,32 @@
     },
     {
       "album": {
+        "name": "Amore Splatter (red side)",
+        "url": "https://open.spotify.com/album/4tGUqk9Fv4bVkVQS2C04Ak"
+      },
+      "artists": [
+        {
+          "name": "\u00cbgo",
+          "url": "https://open.spotify.com/artist/0UzEWU7bayHtdSV0pi2aQd"
+        },
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        },
+        {
+          "name": "Holy Francisco",
+          "url": "https://open.spotify.com/artist/5WChj7aRvGYS5DGf8gKu3I"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182385,
+      "name": "U Love Me",
+      "url": "https://open.spotify.com/track/6TLXOgtW0uEmOzRw0A5k97"
+    },
+    {
+      "album": {
         "name": "u turn me on (but u give me depression)",
         "url": "https://open.spotify.com/album/7tAEvWFVlVMoPWwyVcwKx8"
       },
@@ -18644,6 +18790,24 @@
       "duration_ms": 183983,
       "name": "WALE RMX (feat. Dari)",
       "url": "https://open.spotify.com/track/40CHbHBXQRiwE3fSHAFEbD"
+    },
+    {
+      "album": {
+        "name": "Wandervogel",
+        "url": "https://open.spotify.com/album/4hcE4y0a8mOyjPXoqInVrG"
+      },
+      "artists": [
+        {
+          "name": "Visconti",
+          "url": "https://open.spotify.com/artist/6HrFzZGMT53Ei6mHcheH4P"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177200,
+      "name": "Wandervogel",
+      "url": "https://open.spotify.com/track/3eMGmtjbJhJR3Fy1zMpuge"
     },
     {
       "album": {

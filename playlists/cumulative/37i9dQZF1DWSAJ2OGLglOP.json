@@ -822,7 +822,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 189919,
       "name": "Jesus Is Dead",
       "url": "https://open.spotify.com/track/3os2J85M4MsaQtUrGACNgp"
@@ -902,6 +902,24 @@
       "duration_ms": 187703,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2"
+    },
+    {
+      "album": {
+        "name": "Living Proof",
+        "url": "https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219346,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV"
     },
     {
       "album": {
@@ -1248,7 +1266,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201047,
       "name": "poi",
       "url": "https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd"
@@ -1756,6 +1774,32 @@
       "duration_ms": 203894,
       "name": "TOO MUCH",
       "url": "https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t"
+    },
+    {
+      "album": {
+        "name": "Vision feat. JESSE",
+        "url": "https://open.spotify.com/album/6dYtcdLBBO8Uj8SqkJw1DR"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        },
+        {
+          "name": "AWSM.",
+          "url": "https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232578,
+      "name": "Vision feat. JESSE",
+      "url": "https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2"
     },
     {
       "album": {

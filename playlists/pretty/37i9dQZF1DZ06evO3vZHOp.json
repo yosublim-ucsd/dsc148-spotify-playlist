@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
-  "num_followers": 330847,
+  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
+  "num_followers": 331006,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABpG7HroSU4riWnZSHtucQH",
+  "snapshot_id": "Zk01gAAAAAACaFLMGy4SurMMp1fKKv6D",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "Henny Mood",
-      "url": "https://open.spotify.com/track/29r9oYmyt4rEEbeHaoAGJ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sol Mar\u00eda",
         "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 209655,
       "name": "El Malo",
       "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 166956,
+      "name": "Henny Mood",
+      "url": "https://open.spotify.com/track/29r9oYmyt4rEEbeHaoAGJ8"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sauce Boyz 2",
         "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 232560,
       "name": "No Te Deseo el Mal",
       "url": "https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "RKO",
-      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
     },
     {
       "added_at": null,
@@ -695,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Porque Puedo",
-        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
+        "name": "SEN2 KBRN VOL. 1",
+        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
       },
       "artists": [
         {
@@ -704,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 157340,
-      "name": "Susanoo",
-      "url": "https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk"
+      "duration_ms": 151500,
+      "name": "Paz Mental",
+      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEN2 KBRN VOL. 1",
-        "url": "https://open.spotify.com/album/7rzr5GOIXMfA41aIkzGtvo"
+        "name": "Porque Puedo",
+        "url": "https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Paz Mental",
-      "url": "https://open.spotify.com/track/7vhIpemqMF1mcNWdTNDfjF"
+      "duration_ms": 157340,
+      "name": "Susanoo",
+      "url": "https://open.spotify.com/track/7JzXQByRyTjgtYzDaymfvk"
     },
     {
       "added_at": null,
@@ -799,6 +799,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sauce Boyz 2",
+        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 253500,
+      "name": "Socio",
+      "url": "https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salgo a Buscarte",
         "url": "https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 201225,
       "name": "Salgo a Buscarte",
       "url": "https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sauce Boyz 2",
-        "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 253500,
-      "name": "Socio",
-      "url": "https://open.spotify.com/track/2H4SvdfK9ret8B4cjNvrum"
     },
     {
       "added_at": null,

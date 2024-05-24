@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 69243,
+  "num_followers": 69291,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkcmigAAAACte3SJ1oDmp2wXzlPhdd3A",
+  "snapshot_id": "Zk/YvAAAAACzGmunoKgwkiulSyhalbko",
   "tracks": [
     {
       "added_at": "2023-12-15 00:01:00",
@@ -49,28 +49,24 @@
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2024-05-24 00:01:00",
       "album": {
-        "name": "Kumama",
-        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
+        "name": "Cover me",
+        "url": "https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs"
       },
       "artists": [
         {
-          "name": "Grace Lokwa",
-          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
         },
         {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
         }
       ],
-      "duration_ms": 260064,
-      "name": "Kumama Papa",
-      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+      "duration_ms": 157309,
+      "name": "Cover me",
+      "url": "https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -89,24 +85,20 @@
       "url": "https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU"
     },
     {
-      "added_at": "2024-05-14 16:40:09",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Making Me",
-        "url": "https://open.spotify.com/album/4Lwj9GfrvpYFAlrXYnhj9O"
+        "name": "I Believe It (The Life of Jesus)",
+        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
       },
       "artists": [
         {
-          "name": "Tee Supreme",
-          "url": "https://open.spotify.com/artist/6RqXGNrD0Sob28HXBsjqTk"
-        },
-        {
-          "name": "Reblah",
-          "url": "https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 167967,
-      "name": "Making Me",
-      "url": "https://open.spotify.com/track/1dzDNpfxZs4uunBbSfrhP7"
+      "duration_ms": 225941,
+      "name": "I Believe It (The Life of Jesus)",
+      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -175,22 +167,6 @@
       "duration_ms": 190000,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/09Tu5558FHLKxR4BVUQmlW"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "I Believe It (The Life of Jesus)",
-        "url": "https://open.spotify.com/album/1kn3HEmaNTYMt4ZGUa23sj"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 225941,
-      "name": "I Believe It (The Life of Jesus)",
-      "url": "https://open.spotify.com/track/2iym3PPUfaR5285b8iLfbq"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -301,6 +277,30 @@
       "url": "https://open.spotify.com/track/34XwFfq1XGOF0HHyVQl1nx"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Kumama",
+        "url": "https://open.spotify.com/album/4VWqQy7daz2lmZVLZakGjb"
+      },
+      "artists": [
+        {
+          "name": "Grace Lokwa",
+          "url": "https://open.spotify.com/artist/1ShPOU9aA4b68tOHBSz7sW"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 260064,
+      "name": "Kumama Papa",
+      "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
+    },
+    {
       "added_at": "2024-03-01 00:01:00",
       "album": {
         "name": "Find Me Here (Blessings Find Me)",
@@ -341,26 +341,6 @@
       "url": "https://open.spotify.com/track/05o0RoSQ1pQFvHe54uFUZf"
     },
     {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
-        "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Annatoria",
-          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
-        }
-      ],
-      "duration_ms": 239036,
-      "name": "In The Room (feat. Annatoria) - Afro Beat Version",
-      "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Too Faithful",
@@ -391,6 +371,26 @@
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "In The Room (feat. Annatoria) [Afro Beat Version]",
+        "url": "https://open.spotify.com/album/0SfELcnowsKzozIy31NqXn"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Annatoria",
+          "url": "https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH"
+        }
+      ],
+      "duration_ms": 239036,
+      "name": "In The Room (feat. Annatoria) - Afro Beat Version",
+      "url": "https://open.spotify.com/track/55l4kRbjk7dl87kmdUAzp8"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -441,6 +441,26 @@
       "url": "https://open.spotify.com/track/0w39hcmQv902JMN5ZL862C"
     },
     {
+      "added_at": "2024-05-10 00:01:00",
+      "album": {
+        "name": "Somebody's Child",
+        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 204121,
+      "name": "Somebody's Child",
+      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "Fragrance (feat. GGTQ All Stars)",
@@ -459,6 +479,86 @@
       "duration_ms": 267337,
       "name": "Fragrance (feat. GGTQ All Stars)",
       "url": "https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO"
+    },
+    {
+      "added_at": "2024-01-19 00:01:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 648235,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Grace (Live/Deluxe)",
+        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 406440,
+      "name": "For Your Glory - Live",
+      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Old Church Basement",
+        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "duration_ms": 402803,
+      "name": "Old Church Basement (feat. Dante Bowe)",
+      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -491,106 +591,6 @@
       "duration_ms": 350194,
       "name": "YET (feat. Ashley Hess & the King will come)",
       "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
-    },
-    {
-      "added_at": "2024-05-10 00:01:00",
-      "album": {
-        "name": "Somebody's Child",
-        "url": "https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 204121,
-      "name": "Somebody's Child",
-      "url": "https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP"
-    },
-    {
-      "added_at": "2024-01-19 00:01:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 648235,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Old Church Basement",
-        "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        }
-      ],
-      "duration_ms": 402803,
-      "name": "Old Church Basement (feat. Dante Bowe)",
-      "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Grace (Live/Deluxe)",
-        "url": "https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 406440,
-      "name": "For Your Glory - Live",
-      "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Elijah Level (with Limoblaze)",
-        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
-      },
-      "artists": [
-        {
-          "name": "Gaise Baba",
-          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
-        },
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 173262,
-      "name": "Elijah Level (with Limoblaze)",
-      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "HEAVEN HAS COME",
         "url": "https://open.spotify.com/album/6NxdOsigezOUD537lSYTDz"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 379207,
       "name": "He Fights For Me",
       "url": "https://open.spotify.com/track/5vQM35aV3Q7tXdITJgc8wi"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elijah Level (with Limoblaze)",
+        "url": "https://open.spotify.com/album/6FT3RodFpDNE4R4cAhb5O9"
+      },
+      "artists": [
+        {
+          "name": "Gaise Baba",
+          "url": "https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo"
+        },
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 173262,
+      "name": "Elijah Level (with Limoblaze)",
+      "url": "https://open.spotify.com/track/1yEuEyMs30kbMfyEWlEk8h"
     },
     {
       "added_at": "2024-04-12 00:01:00",
@@ -1383,42 +1383,6 @@
     {
       "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
-    },
-    {
-      "added_at": "2024-05-03 00:01:00",
-      "album": {
-        "name": "What the Lord Has Done",
-        "url": "https://open.spotify.com/album/5qjmj4ORlNrBKjRvlYdILX"
-      },
-      "artists": [
-        {
-          "name": "EJ Newton",
-          "url": "https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4"
-        },
-        {
-          "name": "Great Grace Music",
-          "url": "https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN"
-        }
-      ],
-      "duration_ms": 503380,
-      "name": "What the Lord Has Done",
-      "url": "https://open.spotify.com/track/0uBrewYuraJdPVVla0kaSP"
-    },
-    {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC"
       },
@@ -1479,6 +1443,22 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
+        "name": "Blessing Now",
+        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
+      },
+      "artists": [
+        {
+          "name": "Mike Abdul",
+          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
+        }
+      ],
+      "duration_ms": 208588,
+      "name": "Blessing Now",
+      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
         "name": "Yesu (Jesus)",
         "url": "https://open.spotify.com/album/74jptpKQgDOKwRdNTMXToI"
       },
@@ -1503,22 +1483,6 @@
       "duration_ms": 235559,
       "name": "Yesu (Jesus)",
       "url": "https://open.spotify.com/track/2IpySTjDhjdnTEhDza1aYD"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Blessing Now",
-        "url": "https://open.spotify.com/album/35MTNaxRMVobzjAS4TCfFM"
-      },
-      "artists": [
-        {
-          "name": "Mike Abdul",
-          "url": "https://open.spotify.com/artist/2xsK8uSdgTzy65SicS3LzK"
-        }
-      ],
-      "duration_ms": 208588,
-      "name": "Blessing Now",
-      "url": "https://open.spotify.com/track/5ldoIxIWnStijVhTNLJu8x"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -1591,6 +1555,50 @@
       "duration_ms": 382499,
       "name": "Prophetic Chant (Live)",
       "url": "https://open.spotify.com/track/3rEvSuwWdtfvievLk5ITaD"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Watching All over Me",
+        "url": "https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Watching All over Me",
+      "url": "https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "God Turned It Around",
+        "url": "https://open.spotify.com/album/3yVqDAJkQZVwitTH6zDUtz"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        },
+        {
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
+        }
+      ],
+      "duration_ms": 619333,
+      "name": "God Turned It Around",
+      "url": "https://open.spotify.com/track/5DGDEsOU9MovPuq0QRnbUG"
     }
   ],
   "unique_name": "Be Lifted ",

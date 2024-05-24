@@ -2,7 +2,7 @@
 
 ### [This Is Selena](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3YdXS8)
 
-> This is Selena\. The essential tracks, all in one playlist.
+> This Is Selena\. Los temas esenciales, todos en una lista.
 
 86 songs - 5 hr 17 min
 
@@ -12,7 +12,7 @@
 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 | 2022-06-01 | 2024-02-24 |
 | [Amor Prohibido](https://open.spotify.com/track/2cjiRQZu9V17rJZkvMuT1J) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/3o1L0Wn7yVk7r0J1yxaRqA) | 2:52 | 2024-03-08 |  |
 | [Amor Prohibido](https://open.spotify.com/track/1eKvXRg5ntWvQoHZnGCKh3) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 2:55 | 2024-02-24 | 2024-03-09 |
-| [Amor Prohibido \- Live](https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 2:05 | 2022-06-01 | 2024-05-22 |
+| [Amor Prohibido \- Live](https://open.spotify.com/track/11cpWQAHmjzrwA5OgYHtvw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 2:05 | 2022-06-01 |  |
 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 | 2022-06-01 |  |
 | [Besitos](https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Mejores Canciones: 17 Super Exitos](https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95) | 2:24 | 2022-06-01 |  |
 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 | 2022-06-01 |  |
@@ -34,7 +34,7 @@
 | [Corazoncito \- Regional Mexican Version](https://open.spotify.com/track/1NtLJWyxSzbu0HcKg6rCGG) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 2:21 | 2022-08-30 |  |
 | [Costumbres](https://open.spotify.com/track/4T2lNtytcsuIa3FipR37Wu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Mejores Canciones: 17 Super Exitos](https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95) | 3:48 | 2022-06-01 |  |
 | [Cumbia Medley \- Live](https://open.spotify.com/track/1ukUDShP9cx9uk9YC7FIBW) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Movie Soundtrack](https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO) | 8:38 | 2022-06-01 |  |
-| [Dame Tu Amor \- Regional Mexican Version](https://open.spotify.com/track/3ySQuo1CjjXsnfkOOnJiad) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:19 | 2022-08-27 |  |
+| [Dame Tu Amor \- Regional Mexican Version](https://open.spotify.com/track/3ySQuo1CjjXsnfkOOnJiad) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [MOONCHILD MIXES](https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC) | 3:19 | 2022-08-27 | 2024-05-24 |
 | [Disco Medley \- Live From Astrodome](https://open.spotify.com/track/1WQul0oQcE4hUTW40G1gWu) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Live\-The Last Concert](https://open.spotify.com/album/4wSvpY9bfD8UuhUPFz3Mpt) | 7:43 | 2022-06-01 |  |
 | [Dreaming Of You](https://open.spotify.com/track/5EL8hqM8YQJHKKnzGdahly) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Dreaming Of You](https://open.spotify.com/album/2IevUWpkZ9KUcr6ZhtklE0) | 5:14 | 2022-06-01 |  |
 | [Dulce Amor](https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Mis Primeros Éxitos](https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU) | 3:37 | 2022-06-01 |  |

@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-754 songs - 1 day 8 hr 51 min
+756 songs - 1 day 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-04-21 | 2022-07-21 |
 | [Behind Open Doors](https://open.spotify.com/track/1NYtyXeOhqTPxt4IkseYYb) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Behind Open Doors](https://open.spotify.com/album/7jAOuwbX648oq5PhT88Ww3) | 3:30 | 2022-04-21 | 2022-08-10 |
 | [Berceuse](https://open.spotify.com/track/04JrzZqZTMeY5gRY3IH7Pr) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Berceuse](https://open.spotify.com/album/71ey9Q6ZMIjIbkQV76nqIr) | 3:04 | 2024-02-27 |  |
+| [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 | 2024-05-23 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2022-04-21 | 2023-01-21 |
 | [Big Sur](https://open.spotify.com/track/3biK7UciGCvvdSodatIrD1) | [Marisa Madsen](https://open.spotify.com/artist/6vdBFtunfJQ1TWNrUdTxMF) | [Big Sur](https://open.spotify.com/album/0BODazxjB45xhwVjPYv0hf) | 2:38 | 2022-04-21 | 2024-04-10 |
 | [Bisous](https://open.spotify.com/track/7JbggX922kddEmCuDiPWP2) | [Pauline Blanchet](https://open.spotify.com/artist/2YzRF5Z1h7dL8Hq1BmE9Q2) | [Bisous](https://open.spotify.com/album/0I4JXUV2ck18CJ5RoX090x) | 2:07 | 2022-04-21 | 2022-09-24 |
@@ -447,6 +448,7 @@
 | [Once when I was young](https://open.spotify.com/track/4FRPWTwl40uOHMslTL7fGa) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Once when I was young](https://open.spotify.com/album/4EpZkFkz3jGxSFAq7exAeH) | 2:01 | 2022-04-21 | 2023-10-11 |
 | [One Step After Another](https://open.spotify.com/track/1zMF82eiy28XdnIpQeZc5t) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [One Step After Another](https://open.spotify.com/album/2UNtxSpZBHe97fM79W5QzG) | 2:06 | 2022-04-21 | 2024-02-03 |
 | [Op Die Fiets](https://open.spotify.com/track/7lkkpBe13UFrPIe9Ffn2cb) | [Margaretha van Baarle](https://open.spotify.com/artist/1I6amUXyzWrPtpPsLmYHp1) | [Op Die Fiets](https://open.spotify.com/album/7uyWIPr7QyFjo1bdSeQKls) | 2:21 | 2022-07-20 | 2022-09-24 |
+| [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 | 2024-05-23 |  |
 | [Opening Up](https://open.spotify.com/track/3qROrX6c2jW9lArTRnAKGf) | [Gideon Lewis](https://open.spotify.com/artist/1zvwcVO4fIwapze8BZl7nH) | [Opening Up](https://open.spotify.com/album/4tgCcjOjG3NsPnndyqrdLP) | 2:27 | 2022-04-21 | 2022-09-24 |
 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 | 2022-04-21 |  |
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2022-04-21 | 2022-08-10 |

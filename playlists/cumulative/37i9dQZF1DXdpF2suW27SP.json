@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Instinto 26, Ivandro entram na zona. ",
+  "description": "Plutonio entra na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -516,6 +516,24 @@
       "duration_ms": 215454,
       "name": "Acorda \u00d2 Z\u00e9",
       "url": "https://open.spotify.com/track/139lGHAO6XTJboUSJMhRin"
+    },
+    {
+      "album": {
+        "name": "Acordar",
+        "url": "https://open.spotify.com/album/1tWREZzrDTdmy0ADiiI18b"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197862,
+      "name": "Acordar",
+      "url": "https://open.spotify.com/track/1M7pnSHpd4i5xFE2nUGq2W"
     },
     {
       "album": {
@@ -3662,7 +3680,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165957,
       "name": "Eu Sei #6",
       "url": "https://open.spotify.com/track/14iGjeiHaM9xTqjNYqANNL"
@@ -5106,7 +5124,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 217127,
       "name": "Jardim",
       "url": "https://open.spotify.com/track/68CR5JoZqvAz1Tx9ieQFlo"
@@ -5559,6 +5577,24 @@
     },
     {
       "album": {
+        "name": "LILA",
+        "url": "https://open.spotify.com/album/0Tr7yQ00Dtq9LBqVxh4IEZ"
+      },
+      "artists": [
+        {
+          "name": "LEO2745",
+          "url": "https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170287,
+      "name": "LILA",
+      "url": "https://open.spotify.com/track/5fCEbVpIbPYrbqq66k6aLS"
+    },
+    {
+      "album": {
         "name": "Lingerie",
         "url": "https://open.spotify.com/album/2SopLfpjAF0IespcnP6LG0"
       },
@@ -5668,7 +5704,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 216017,
       "name": "Low-key",
       "url": "https://open.spotify.com/track/271O0C5lAqQPyC6mW7tU4B"
@@ -9363,6 +9399,32 @@
     },
     {
       "album": {
+        "name": "Sente Essa Vibe",
+        "url": "https://open.spotify.com/album/4Pglji7oR1BsWrjFbzLcxP"
+      },
+      "artists": [
+        {
+          "name": "Atlas",
+          "url": "https://open.spotify.com/artist/3tgwJ3YqzYI5jc4XxgCHRk"
+        },
+        {
+          "name": "Junior Lord",
+          "url": "https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP"
+        },
+        {
+          "name": "Rafa G",
+          "url": "https://open.spotify.com/artist/0soQA1h9MhiA0NphWUecWi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184490,
+      "name": "Sente Essa Vibe",
+      "url": "https://open.spotify.com/track/11SAfdfhTG6nxqZJhALqcv"
+    },
+    {
+      "album": {
         "name": "Senti Tanto",
         "url": "https://open.spotify.com/album/0SexRbV9z4iuJJeoDmTJp3"
       },
@@ -10106,7 +10168,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178823,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5h2XeQ309ZqodPEOBAyUFm"
@@ -10883,6 +10945,28 @@
     },
     {
       "album": {
+        "name": "Vida Ocupada",
+        "url": "https://open.spotify.com/album/3a8beQqJbPx7HKijpede8p"
+      },
+      "artists": [
+        {
+          "name": "PARD\u00d8",
+          "url": "https://open.spotify.com/artist/3JaVBT46sUI7pynSmm398D"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Vida Ocupada",
+      "url": "https://open.spotify.com/track/54ffrYT7tXvAITRiS3ae4Y"
+    },
+    {
+      "album": {
         "name": "Sonhos & Ins\u00f3nias",
         "url": "https://open.spotify.com/album/6MdSiXKQQZU2CUsAx8h8qI"
       },
@@ -11202,6 +11286,10 @@
         {
           "name": "Zara G",
           "url": "https://open.spotify.com/artist/7gem2HsdUnIMlGuhZT22Sb"
+        },
+        {
+          "name": "SUAVEYOUKNOW",
+          "url": "https://open.spotify.com/artist/6AEbLpzV2RnxVZeWjP01no"
         }
       ],
       "date_added": "2024-05-16",

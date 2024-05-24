@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 
 > Brighten your day with a mix of folksy mood boosters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,927,066 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,927,050 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 27 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
 | 28 | [Tom Barrett](https://open.spotify.com/track/6YbQXUNroKs9qofA8gttor) | [Ian Noe](https://open.spotify.com/artist/2TEpPi5SFalflhpcQHq3lB) | [River Fools & Mountain Saints](https://open.spotify.com/album/6OsF7JfA48kcvWcV4auWIl) | 3:13 |
 | 29 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
-| 30 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
-| 31 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
-| 32 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 30 | [5 Years Time](https://open.spotify.com/track/1KlDcHrlDPUJJPmMup3tUp) | [Noah And The Whale](https://open.spotify.com/artist/0aeLcja6hKzb7Uz2ou7ulP) | [Peaceful, The World Lays Me Down](https://open.spotify.com/album/4bzNinbJcnth182w03fSL2) | 3:34 |
+| 31 | [Believe](https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Believe](https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo) | 3:15 |
+| 32 | [Belong Together](https://open.spotify.com/track/4JGtRHnWyaNq7FIOZoBdPe) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/1RaDxuGnsIuuGR3lHukOPI) | 2:28 |
 | 33 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh) | 3:12 |
 | 34 | [Ophelia](https://open.spotify.com/track/3qhobDAfBcVoOWZP8Ck8R2) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Ophelia](https://open.spotify.com/album/6lyCWslIfNEmAWe6ps2KNh) | 2:40 |
 | 35 | [Sugar in the Creek](https://open.spotify.com/track/0Ppp8AhUasTiQxp4RHwyj5) | [Bendigo Fletcher](https://open.spotify.com/artist/6O8lpJl2nITlA3dJfT95pM) | [Fits Of Laughter](https://open.spotify.com/album/1SuYWmzfeZOnStKfSfnJ0D) | 4:11 |
@@ -74,11 +74,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 64 | [People Need A Melody](https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [People Need a Melody](https://open.spotify.com/album/344VAXCsawRmlsrHtcc4pQ) | 4:12 |
 | 65 | [Hideaway](https://open.spotify.com/track/3bAgQ4fNuTVf98RtiVgKRv) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 4:10 |
 | 66 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
-| 67 | [Get Down](https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 2:31 |
-| 68 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 67 | [Shakedown](https://open.spotify.com/track/6vyVxWBHLIqNdhy4IGz1LN) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 2:46 |
+| 68 | [Get Down](https://open.spotify.com/track/1uWp3OTBE1pryDJ4igGD1q) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [Time in the Sun](https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn) | 2:31 |
 | 69 | [Half Your Love \(with The Secret Sisters\)](https://open.spotify.com/track/0g4u514UEj6kGOAanCaD2d) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [Half Your Love](https://open.spotify.com/album/6k8jU0hWDAPJTSZybkUTC4) | 2:23 |
-| 70 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
-| 71 | [Where Love Goes](https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Where Love Goes](https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c) | 4:13 |
+| 70 | [Where Love Goes](https://open.spotify.com/track/6e0TEaeQcwhS8ktu5q0AYX) | [Kai Mata](https://open.spotify.com/artist/0RlMEX4BhqLPcZFg1SHRny) | [Where Love Goes](https://open.spotify.com/album/0opuNXDys3y4G5Dw0pLk9c) | 4:13 |
+| 71 | [My Home Is You](https://open.spotify.com/track/25tf3JcjG8097N3jEPgVAL) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [My Home Is You](https://open.spotify.com/album/3gxvQCTnw0tl5h6sgAnfnb) | 3:23 |
 | 72 | [Hey Julia](https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Hey Julia](https://open.spotify.com/album/161llzgJp98MoWom3IJOJp) | 1:59 |
 | 73 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
 | 74 | [All We Ever Knew \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 3:48 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 76 | [Smile](https://open.spotify.com/track/5MOHiX0uAj555wbYJyBnDy) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:30 |
 | 77 | [Tangled](https://open.spotify.com/track/4LbzdtRMTssvtEiGaf1lnS) | [Ceramic Animal](https://open.spotify.com/artist/42PLkpL4mM4Szp7fiyj15X) | [Sweet Unknown](https://open.spotify.com/album/6wnl46UovNWpw56ZBQKYPR) | 3:47 |
 | 78 | [Hold Me](https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hold Me](https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS) | 2:52 |
-| 79 | [Mighty Soul](https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 1:57 |
-| 80 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
-| 81 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
+| 79 | [honey!](https://open.spotify.com/track/29E0o3uJirAFyRyZGOaSgo) | [Mike Duhaime](https://open.spotify.com/artist/3To2Iew23BImwC0d8jUIPq) | [honey!](https://open.spotify.com/album/6bQ6Dj8nbLaJJG0hV7oBQE) | 3:54 |
+| 80 | [Boris](https://open.spotify.com/track/5XAHYcSWSHmcdZxpQ6pIzS) | [Jaguar Sun](https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC) | [Boris](https://open.spotify.com/album/6o4fJMbggSAE836wK0xAz1) | 4:06 |
+| 81 | [Mighty Soul](https://open.spotify.com/track/1beRzsjfMsFtrXkw0I4OPZ) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Strawberry Mansion \- Side A](https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR) | 1:57 |
 | 82 | [if you got a problem](https://open.spotify.com/track/5811AoaSuIRKBy7X438LsJ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness \(complete\)](https://open.spotify.com/album/7yemOBr0RNb26tsE0lKaDB) | 3:06 |
 | 83 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 84 | [Sparrow and the Wolf](https://open.spotify.com/track/3SB5JGFnQxB4P8Gh46wMzy) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:39 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkMjlBZAZ07.md) - [plain]
 | 96 | [Diamonds In The Snow](https://open.spotify.com/track/45FWmYpboXilptta3D9fxD) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 4:10 |
 | 97 | [hello my son](https://open.spotify.com/track/33mBsoLbgFfsYymsofr0cZ) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [hello my son](https://open.spotify.com/album/2lvHquPHf4NB0ImOWuC8k9) | 3:24 |
 | 98 | [Bad Blood](https://open.spotify.com/track/0TDji9s4SDqN0CldK1bBU1) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Bad Blood](https://open.spotify.com/album/1UGw8OmeHw7FbiOEekbGlz) | 2:45 |
-| 99 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
-| 100 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
+| 99 | [Mountain Man](https://open.spotify.com/track/63YnmHKlutFFkgfFB0OcPU) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Mountain Man](https://open.spotify.com/album/69Vry8bfaTqkz88FDDEbNG) | 3:58 |
+| 100 | [Fast Like a Match](https://open.spotify.com/track/2gBwZy7BxggimItOwLXfMc) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Fast Like a Match](https://open.spotify.com/album/1zrWTOu2HMP9tdXfFgXNN6) | 2:41 |
 
 Snapshot ID: `ZkbWQAAAAABm8J4MHl7vYc7w4aiWwpQn`

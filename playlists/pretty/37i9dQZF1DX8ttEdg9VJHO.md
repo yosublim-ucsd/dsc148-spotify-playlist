@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 
 > Für ein bisschen mehr Leichtigkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,943 likes - 70 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,964 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 18 | [All I Know So Far](https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [All I Know So Far](https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH) | 4:37 |
 | 19 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 |
 | 20 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 |
-| 21 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
-| 22 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
-| 23 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
+| 21 | [Walk](https://open.spotify.com/track/6tHISnh1biy5luSS9cvaNc) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Foot In Front Of The Other](https://open.spotify.com/album/6CR4ozv4yOdaA3f6PPQepA) | 2:32 |
+| 22 | [Our Song](https://open.spotify.com/track/5zqObw7wjBgL9TDiAymxPn) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Our Song](https://open.spotify.com/album/0zocAVUSizQ74Cn8nCsN3a) | 2:43 |
+| 23 | [If Anything's Left](https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [If Anything's Left](https://open.spotify.com/album/6A49EyetnYOdFfM8IWKCqY) | 2:54 |
 | 24 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
 | 25 | [Over](https://open.spotify.com/track/0OtftDTXLb5Ziq4Goq0nJS) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Over](https://open.spotify.com/album/2VQy0vBC1uPz4HRncOjUV2) | 2:49 |
 | 26 | [Habit](https://open.spotify.com/track/4bnutybG1itDcpyoQo2Uoc) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Habit](https://open.spotify.com/album/05PVq1QoHWw83WCANc0psq) | 3:00 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ttEdg9VJHO.md) - [plain]
 | 62 | [Year of the Young](https://open.spotify.com/track/6J7U49QGecWb3WqIqfSYc0) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Year of the Young](https://open.spotify.com/album/0WNXPe1PeWAhFMfsXj1iPi) | 2:44 |
 | 63 | [Sweethoneylove](https://open.spotify.com/track/7b2POkPyH8bNtbb4I66Nrt) | [Baba Blakes](https://open.spotify.com/artist/55sIdXMuyRafLJo665SJlq) | [Sweethoneylove](https://open.spotify.com/album/79HdCrzbPStOTw648gYTuQ) | 2:30 |
 | 64 | [Home](https://open.spotify.com/track/1deVnQLp53JBTW2fBUthT2) | [ISAAK](https://open.spotify.com/artist/4EsPdQD7LDT8meZpX0MX4p) | [Home](https://open.spotify.com/album/3gjXbWIVRiAEkWCwNQuDLa) | 2:46 |
-| 65 | [Nur die Musik](https://open.spotify.com/track/4zbjLM7jut3CaojmphTOdG) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Nur die Musik](https://open.spotify.com/album/5ITjgHGsWQodT6FeVUq036) | 3:34 |
-| 66 | [She dance](https://open.spotify.com/track/7e3OWxJIayp8RUFmmI8Qiw) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [She dance](https://open.spotify.com/album/4SGeCmelsh6NWTngijcCnE) | 2:34 |
-| 67 | [You Make Me Happy](https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn) | [My Sun and Stars](https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR) | [You Make Me Happy](https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj) | 3:21 |
-| 68 | [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 |
-| 69 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 |
-| 70 | [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 |
+| 65 | [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 |
+| 66 | [Nur die Musik](https://open.spotify.com/track/4zbjLM7jut3CaojmphTOdG) | [JORIS](https://open.spotify.com/artist/7BKePXVmQRgnkbGcrFX1G4) | [Nur die Musik](https://open.spotify.com/album/5ITjgHGsWQodT6FeVUq036) | 3:34 |
+| 67 | [She dance](https://open.spotify.com/track/7e3OWxJIayp8RUFmmI8Qiw) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [She dance](https://open.spotify.com/album/4SGeCmelsh6NWTngijcCnE) | 2:34 |
+| 68 | [You Make Me Happy](https://open.spotify.com/track/68pmau9FpqIwRjryGd2dDn) | [My Sun and Stars](https://open.spotify.com/artist/6ZzQtFgvmqdNtmB3pvh6UR) | [You Make Me Happy](https://open.spotify.com/album/7bpDg2iX5pdMWvUapiLVmj) | 3:21 |
+| 69 | [Keep It Low](https://open.spotify.com/track/1lvLAlvWIuE6UinQffsWVb) | [Martis](https://open.spotify.com/artist/4IlwiL1INGzXlZLcXM5dRI) | [Keep It Low](https://open.spotify.com/album/44X8n4NJte0z53s6ENScsA) | 2:52 |
+| 70 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 |
 
-Snapshot ID: `Zj3kvAAAAADa49ZAKQqzj501523mRWqP`
+Snapshot ID: `Zk7ucAAAAAA0AMDCexxyTUlcD1zw0MiO`

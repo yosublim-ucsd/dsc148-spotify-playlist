@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcBWIGoYBM5M.md) - [plain]
 
 > Billie Eilish is on top of the Hottest 50!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,539,279 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,544,162 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

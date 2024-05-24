@@ -1,6 +1,6 @@
 {
   "description": "Explore the dazzling sound of Japanese City Pop from the \u201880s./ \u90fd\u4f1a\u306e\u591c\u3092\u30af\u30eb\u30fc\u30b8\u30f3\u30b0\u3001\u9031\u672b\u306f\u6d77\u8fba\u3067\u30ea\u30be\u30fc\u30c8\u6c17\u5206\u3002\u714c\u3081\u304d\u306b\u6e80\u3061\u305f\u6bce\u65e5\u3092\u5f69\u3063\u305f\u3001\u9ec4\u91d1\u671f\u306e\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u3002",
-  "num_followers": 149201,
+  "num_followers": 149251,
   "original_name": "City Pop '80s",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-03-21 15:00:00",
       "album": {
-        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
-        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
-      },
-      "artists": [
-        {
-          "name": "S. Kiyotaka & Omega Tribe",
-          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-        }
-      ],
-      "duration_ms": 241253,
-      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
-      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
-    },
-    {
-      "added_at": "2023-03-21 15:00:00",
-      "album": {
         "name": "Pacific Breeze 2 EP: Japanese City Pop, AOR & Boogie 1983-1986",
         "url": "https://open.spotify.com/album/3gZZsx3idZzkBSMJZTCBs5"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 242163,
       "name": "Blind Curve",
       "url": "https://open.spotify.com/track/6UU3qMXteOLTo49eoyo4dp"
+    },
+    {
+      "added_at": "2023-03-21 15:00:00",
+      "album": {
+        "name": "\u30b4\u30fc\u30eb\u30c7\u30f3\u2606\u30d9\u30b9\u30c8",
+        "url": "https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6"
+      },
+      "artists": [
+        {
+          "name": "S. Kiyotaka & Omega Tribe",
+          "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
+        }
+      ],
+      "duration_ms": 241253,
+      "name": "\u3075\u305f\u308a\u306e\u590f\u7269\u8a9e NEVER ENDING SUMMER",
+      "url": "https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4"
     },
     {
       "added_at": "2023-03-21 15:00:00",

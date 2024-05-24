@@ -1,12 +1,12 @@
 {
   "description": "This is Vilma Palma e Vampiros. The essential tracks, all in one playlist.",
-  "num_followers": 66782,
+  "num_followers": 66809,
   "original_name": "This Is Vilma Palma e Vampiros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACYhXAT263wQIUzRF1A6wey",
+  "snapshot_id": "Zk01gAAAAAAASGbW+xtpVL4YgV6NAfY+",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Siento Loco",
+        "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 243185,
+      "name": "Me Siento Loco",
+      "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -447,8 +463,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Siento Loco",
-        "url": "https://open.spotify.com/album/3ROyBUPRhkhFWjiFPIfD6b"
+        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
+        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
       },
       "artists": [
         {
@@ -456,9 +472,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 243185,
-      "name": "Me Siento Loco",
-      "url": "https://open.spotify.com/track/4VzSXSEjrjdO7hWoJyE5Pm"
+      "duration_ms": 251013,
+      "name": "Todo Por un Sue\u00f1o - En Vivo",
+      "url": "https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR"
     },
     {
       "added_at": null,
@@ -479,22 +495,6 @@
       "duration_ms": 162285,
       "name": "Bailalo",
       "url": "https://open.spotify.com/track/79gJbOIC4eUBfvWPiUPQcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivo Grandes Exitos en Buenos Aires (En Vivo)",
-        "url": "https://open.spotify.com/album/6q8m6YNaaxufhr012VZ4bi"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 251013,
-      "name": "Todo Por un Sue\u00f1o - En Vivo",
-      "url": "https://open.spotify.com/track/1bRzDCtPEodKoVaqaOmDMR"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Psic\u00f3tico",
+        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
+      },
+      "artists": [
+        {
+          "name": "EL\u00cdAS",
+          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
+        },
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 201596,
+      "name": "Psic\u00f3tico",
+      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Histeria",
         "url": "https://open.spotify.com/album/7J1w8Xh73iGF5SxiDmNZ6G"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 246333,
       "name": "Son tus ojos",
       "url": "https://open.spotify.com/track/4I8H3JhKwTFTG8I3vzVkUy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Psic\u00f3tico",
-        "url": "https://open.spotify.com/album/5Nb3kbLr4Y6I7SX25Xwzkc"
-      },
-      "artists": [
-        {
-          "name": "EL\u00cdAS",
-          "url": "https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys"
-        },
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 201596,
-      "name": "Psic\u00f3tico",
-      "url": "https://open.spotify.com/track/6PuU2HHnLqiaUf1bKUMuHT"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fondo Profundo",
+        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 362920,
+      "name": "Toque de Queda",
+      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Carm\u00edn",
         "url": "https://open.spotify.com/album/3prrhABxqvWUQ0WG80Fqyh"
       },
@@ -699,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fondo Profundo",
-        "url": "https://open.spotify.com/album/5pWGHHRgwAoZqBL2zsm7OT"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 362920,
-      "name": "Toque de Queda",
-      "url": "https://open.spotify.com/track/2k3SYulMPRrbKIMy1RQAZW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boomerang",
         "url": "https://open.spotify.com/album/7ceZgHQI7VWGueZkhjY8BD"
       },
@@ -727,22 +727,6 @@
       "duration_ms": 192800,
       "name": "Carcaman",
       "url": "https://open.spotify.com/track/6T8pTk5m8wdoilKIIyDAyU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
-      },
-      "artists": [
-        {
-          "name": "Vilma Palma e Vampiros",
-          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
-        }
-      ],
-      "duration_ms": 180706,
-      "name": "Animales Sueltos",
-      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
     },
     {
       "added_at": null,
@@ -775,6 +759,22 @@
       "duration_ms": 257438,
       "name": "Si Eso Te Pone Mejor",
       "url": "https://open.spotify.com/track/1qVTpnGqccuRquqfGyvvBo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Agarrate Fuerte",
+        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "duration_ms": 180706,
+      "name": "Animales Sueltos",
+      "url": "https://open.spotify.com/track/65uSLDV4MyXnumIlLGSauj"
     },
     {
       "added_at": null,
@@ -815,8 +815,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Agarrate Fuerte",
-        "url": "https://open.spotify.com/album/7z4q6L1G8IFwyavj5aKQr7"
+        "name": "Vuelve a Comenzar",
+        "url": "https://open.spotify.com/album/3PB32BKUbvyyQ2WmhrAzad"
       },
       "artists": [
         {
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
         }
       ],
-      "duration_ms": 202613,
-      "name": "Sabor Par\u00eds",
-      "url": "https://open.spotify.com/track/1VQXrnAbrYDBDoyezjUi4S"
+      "duration_ms": 256906,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/7fWsCyuE2j5qAcBqcqaeZp"
     }
   ],
   "unique_name": "This Is Vilma Palma e Vampiros",

@@ -1,12 +1,12 @@
 {
   "description": "No es cumbia, tampoco reggaet\u00f3n. Foto: elaggume.",
-  "num_followers": 205319,
+  "num_followers": 205606,
   "original_name": "RKT  & Turreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkbIMAAAAACWXfoQm5PFTEI3Q9HBX/i5",
+  "snapshot_id": "Zk8qBQAAAACXUqEUEQ4yQAUrIArpaqIf",
   "tracks": [
     {
       "added_at": "2024-05-17 03:00:00",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "SAN TURRONA",
-        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 124689,
-      "name": "SAN TURRONA",
-      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Tumba",
         "url": "https://open.spotify.com/album/3QTNjyEdEAt9Fa6Ix39Res"
       },
@@ -87,6 +71,90 @@
       "duration_ms": 180543,
       "name": "Tumba",
       "url": "https://open.spotify.com/track/5Ywg69AnG1CLLGEXne1MVy"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "SUELTA",
+      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Para el Tiktok",
+        "url": "https://open.spotify.com/album/6N92O2oINCkzp5qwKLSIWt"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 119387,
+      "name": "Para el Tiktok",
+      "url": "https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Cierre Rkt",
+        "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
+      },
+      "artists": [
+        {
+          "name": "Eze Remix",
+          "url": "https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT"
+        },
+        {
+          "name": "Matt Sebastian",
+          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
+        }
+      ],
+      "duration_ms": 120018,
+      "name": "Cierre Rkt",
+      "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Pusieron RKT Punky (Remix)",
+        "url": "https://open.spotify.com/album/2MeZsLoru0w1mzsI2Tyfz2"
+      },
+      "artists": [
+        {
+          "name": "Tomy DJ",
+          "url": "https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "El Kaio",
+          "url": "https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y"
+        }
+      ],
+      "duration_ms": 141176,
+      "name": "Pusieron RKT Punky - Remix",
+      "url": "https://open.spotify.com/track/2SMOc3XFpuhUOAJReX4qKX"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -139,114 +207,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "SUELTA",
-      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Al Sopi",
-        "url": "https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU"
-      },
-      "artists": [
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 169474,
-      "name": "Al Sopi",
-      "url": "https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Para el Tiktok",
-        "url": "https://open.spotify.com/album/6N92O2oINCkzp5qwKLSIWt"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 119387,
-      "name": "Para el Tiktok",
-      "url": "https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Pusieron RKT Punky (Remix)",
-        "url": "https://open.spotify.com/album/2MeZsLoru0w1mzsI2Tyfz2"
-      },
-      "artists": [
-        {
-          "name": "Tomy DJ",
-          "url": "https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z"
-        },
-        {
-          "name": "DJ Pirata",
-          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
-        },
-        {
-          "name": "El Kaio",
-          "url": "https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y"
-        }
-      ],
-      "duration_ms": 141176,
-      "name": "Pusieron RKT Punky - Remix",
-      "url": "https://open.spotify.com/track/2SMOc3XFpuhUOAJReX4qKX"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Cierre Rkt",
-        "url": "https://open.spotify.com/album/5ZFFrfRXB0esjxL87DTqWd"
-      },
-      "artists": [
-        {
-          "name": "Eze Remix",
-          "url": "https://open.spotify.com/artist/3rYTay1spPOr6LYSAdQ9AT"
-        },
-        {
-          "name": "Matt Sebastian",
-          "url": "https://open.spotify.com/artist/47LeSViBakxCTkCjQ1NYdt"
-        }
-      ],
-      "duration_ms": 120018,
-      "name": "Cierre Rkt",
-      "url": "https://open.spotify.com/track/1NVBLZ63QLBjBoh5Tf0pKj"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "La Chispa Es Una",
         "url": "https://open.spotify.com/album/1NJUBPeIi31tnYEOBtsSnr"
       },
@@ -271,134 +231,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "DOBLE P | DJ TAO Turreo Sessions #21",
-        "url": "https://open.spotify.com/album/7gCrEPu4QmI8SNV5D0sdtU"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        }
-      ],
-      "duration_ms": 113560,
-      "name": "DOBLE P | DJ TAO Turreo Sessions #21",
-      "url": "https://open.spotify.com/track/4dWzA1JJ0QOTUNBrYv8K9N"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Ubicaci\u00f3n 7 - Los Wachos Crecen",
-        "url": "https://open.spotify.com/album/7vmoIFoXGXmZaDwUaeKvZX"
-      },
-      "artists": [
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        },
-        {
-          "name": "Gonzalo Nawel",
-          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
-        }
-      ],
-      "duration_ms": 162889,
-      "name": "Ubicaci\u00f3n 7 - Los Wachos Crecen",
-      "url": "https://open.spotify.com/track/6i4rGY3NxSB2BD4Z53FGBy"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "GAFITA Y CHOMBA",
-        "url": "https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB"
-      },
-      "artists": [
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "GAFITA Y CHOMBA",
-      "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
-        "url": "https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY"
-      },
-      "artists": [
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
-      "url": "https://open.spotify.com/track/08809bzGs69SfjOFdeyssu"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "FIESTA PUNKY",
-        "url": "https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8"
-      },
-      "artists": [
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        },
-        {
-          "name": "Pereiraremix",
-          "url": "https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0"
-        },
-        {
-          "name": "VERNAZ",
-          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
-        }
-      ],
-      "duration_ms": 144600,
-      "name": "FIESTA PUNKY",
-      "url": "https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "30 Grados",
-        "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
-      },
-      "artists": [
-        {
-          "name": "El Turko",
-          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
-        },
-        {
-          "name": "Mandale Flow",
-          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
-        }
-      ],
-      "duration_ms": 151441,
-      "name": "30 GRADOS",
-      "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Peipper | Mission 11",
         "url": "https://open.spotify.com/album/5OIK0OmBzjnYVS0geBsSRM"
       },
@@ -415,22 +247,6 @@
       "duration_ms": 138000,
       "name": "Peipper | Mission 11",
       "url": "https://open.spotify.com/track/3RHh5CYBVN1XP0MS3cg1Bz"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Pa Que Rompa el Piso",
-        "url": "https://open.spotify.com/album/4xwQ4SW3oF8WPbNQDXCFEa"
-      },
-      "artists": [
-        {
-          "name": "Tirri La Roca",
-          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
-        }
-      ],
-      "duration_ms": 152941,
-      "name": "Pa Que Rompa el Piso",
-      "url": "https://open.spotify.com/track/18It6OBJJDmhF10ZCiHno1"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -455,26 +271,6 @@
       "duration_ms": 165312,
       "name": "PONTE SATA",
       "url": "https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Un Besito M\u00e1s",
-        "url": "https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        },
-        {
-          "name": "Diel Paris",
-          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
-        }
-      ],
-      "duration_ms": 160750,
-      "name": "Un Besito M\u00e1s",
-      "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -511,72 +307,48 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Ubicacion 5 Saquense la Ropa",
-        "url": "https://open.spotify.com/album/15oeQdBMy60Hc8ho85eLhG"
+        "name": "DOBLE P | DJ TAO Turreo Sessions #21",
+        "url": "https://open.spotify.com/album/7gCrEPu4QmI8SNV5D0sdtU"
       },
       "artists": [
         {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "elaggume",
-          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
         }
       ],
-      "duration_ms": 153850,
-      "name": "Ubicacion 5 Saquense la Ropa",
-      "url": "https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1"
+      "duration_ms": 113560,
+      "name": "DOBLE P | DJ TAO Turreo Sessions #21",
+      "url": "https://open.spotify.com/track/4dWzA1JJ0QOTUNBrYv8K9N"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tirando Corte",
-        "url": "https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY"
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/1gH4rdxJyj8q8fakRAvQHg"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
         },
         {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
         }
       ],
-      "duration_ms": 152709,
-      "name": "Tirando Corte",
-      "url": "https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x"
+      "duration_ms": 151441,
+      "name": "30 GRADOS",
+      "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "3 En 1",
-        "url": "https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP"
-      },
-      "artists": [
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "3 En 1",
-      "url": "https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "DISCULPE OFICIAL",
-        "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
+        "name": "FIESTA PUNKY",
+        "url": "https://open.spotify.com/album/6aBm0V95IJMMUQvWGrM4b8"
       },
       "artists": [
         {
@@ -584,13 +356,73 @@
           "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
         },
         {
-          "name": "PACOREMIX",
-          "url": "https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju"
+          "name": "Pereiraremix",
+          "url": "https://open.spotify.com/artist/0sE8WmITfzXJwYGdtbo8B0"
+        },
+        {
+          "name": "VERNAZ",
+          "url": "https://open.spotify.com/artist/1CbPE1OSRQZheK22pe5T57"
         }
       ],
-      "duration_ms": 122455,
-      "name": "DISCULPE OFICIAL",
-      "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
+      "duration_ms": 144600,
+      "name": "FIESTA PUNKY",
+      "url": "https://open.spotify.com/track/4uf8Ts4gpz1s9Q4FVdgrMT"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
+        "url": "https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY"
+      },
+      "artists": [
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
+      "url": "https://open.spotify.com/track/08809bzGs69SfjOFdeyssu"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "GAFITA Y CHOMBA",
+        "url": "https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "GAFITA Y CHOMBA",
+      "url": "https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Rompe",
+        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
+      },
+      "artists": [
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        }
+      ],
+      "duration_ms": 141954,
+      "name": "Rompe",
+      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -623,34 +455,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Rompe",
-        "url": "https://open.spotify.com/album/5ybMTJVzd04KY78eELDC8X"
+        "name": "Mega Peipper (Rkt)",
+        "url": "https://open.spotify.com/album/242pSpLK27SN2zCYQ16GhG"
       },
       "artists": [
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        }
-      ],
-      "duration_ms": 141954,
-      "name": "Rompe",
-      "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "SOLARI RKT",
-        "url": "https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y"
-      },
-      "artists": [
+          "name": "Agus Maidana",
+          "url": "https://open.spotify.com/artist/2S9abAtDPBgJcqxI7CREsE"
+        },
         {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+          "name": "FerroDJ",
+          "url": "https://open.spotify.com/artist/0BN9DPLGmnCFUZES2AdvfL"
+        },
+        {
+          "name": "Nico Manriquez",
+          "url": "https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh"
         }
       ],
-      "duration_ms": 147914,
-      "name": "SOLARI RKT",
-      "url": "https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW"
+      "duration_ms": 241846,
+      "name": "Mega Peipper - Rkt",
+      "url": "https://open.spotify.com/track/2Vnm2rbybj9Q31hczgIn1e"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -679,17 +503,49 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "CUERNU",
-        "url": "https://open.spotify.com/album/3TM87zF5SD4ThqHEahBLeo"
+        "name": "SOLARI RKT",
+        "url": "https://open.spotify.com/album/4lF3xEmbkVG2pdODv14I4y"
       },
       "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 147914,
+      "name": "SOLARI RKT",
+      "url": "https://open.spotify.com/track/19fJwQGQavo2e7z7X3Y6NW"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "3 En 1",
+        "url": "https://open.spotify.com/album/4TNhFTPaETNcoxCEeqvcoP"
+      },
+      "artists": [
         {
           "name": "Alejo Isakk",
           "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "3 En 1",
+      "url": "https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Ubicacion 5 Saquense la Ropa",
+        "url": "https://open.spotify.com/album/15oeQdBMy60Hc8ho85eLhG"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
         },
         {
           "name": "Lolo OG",
@@ -700,205 +556,89 @@
           "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
         }
       ],
-      "duration_ms": 172800,
-      "name": "CUERNU",
-      "url": "https://open.spotify.com/track/5OnIsAuSlx5JwMkr6Weclo"
+      "duration_ms": 153850,
+      "name": "Ubicacion 5 Saquense la Ropa",
+      "url": "https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Mega Peipper (Rkt)",
-        "url": "https://open.spotify.com/album/242pSpLK27SN2zCYQ16GhG"
+        "name": "Un Besito M\u00e1s",
+        "url": "https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs"
       },
       "artists": [
         {
-          "name": "Agus Maidana",
-          "url": "https://open.spotify.com/artist/2S9abAtDPBgJcqxI7CREsE"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         },
         {
-          "name": "FerroDJ",
-          "url": "https://open.spotify.com/artist/0BN9DPLGmnCFUZES2AdvfL"
-        },
-        {
-          "name": "Nico Manriquez",
-          "url": "https://open.spotify.com/artist/2ZPsXaS21IxNDnpe6JoBNh"
+          "name": "Diel Paris",
+          "url": "https://open.spotify.com/artist/2sp0CxickfFJun08JtXgiA"
         }
       ],
-      "duration_ms": 241846,
-      "name": "Mega Peipper - Rkt",
-      "url": "https://open.spotify.com/track/2Vnm2rbybj9Q31hczgIn1e"
+      "duration_ms": 160750,
+      "name": "Un Besito M\u00e1s",
+      "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
-        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+        "name": "Al Sopi",
+        "url": "https://open.spotify.com/album/2iuDEoXeGAPviZH8Ef7EnU"
       },
       "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
         },
         {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
         },
         {
           "name": "L-Gante",
           "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         }
       ],
-      "duration_ms": 229426,
-      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
-      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+      "duration_ms": 169474,
+      "name": "Al Sopi",
+      "url": "https://open.spotify.com/track/6QGNvPtmNoPDpnzdw45FTS"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "De Bardo RKT",
-        "url": "https://open.spotify.com/album/6GiHdRC7AivjIr4dDfINEd"
+        "name": "SAN TURRONA",
+        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
       },
       "artists": [
         {
-          "name": "Cotto Rng",
-          "url": "https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
         }
       ],
-      "duration_ms": 144911,
-      "name": "De Bardo RKT",
-      "url": "https://open.spotify.com/track/5ZsXk83PWV4UqUQHQUwkx9"
+      "duration_ms": 124689,
+      "name": "SAN TURRONA",
+      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "MESITA | Mission 05",
-        "url": "https://open.spotify.com/album/4qEsa8G94vXAr6IFwgPkk8"
+        "name": "Tirando Corte",
+        "url": "https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY"
       },
       "artists": [
         {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
         },
         {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
         }
       ],
-      "duration_ms": 136144,
-      "name": "MESITA | Mission 05",
-      "url": "https://open.spotify.com/track/4WaopyDgvKQP6T852K9boe"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 163259,
-      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
-      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Rubia o Morocha",
-        "url": "https://open.spotify.com/album/1AwH6SPsNwL0TLojydqu9p"
-      },
-      "artists": [
-        {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rubia o Morocha",
-      "url": "https://open.spotify.com/track/1ZDC2BKJ64JYZYhW3vGzs2"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "El Motorcito (Remix)",
-        "url": "https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "DobleP",
-          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "El Motorcito - Remix",
-      "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Fua Mi Amor",
-        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "Fua Mi Amor",
-      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "DIABLITA",
-        "url": "https://open.spotify.com/album/31KlDN6jIolY6Z366gVv70"
-      },
-      "artists": [
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 139310,
-      "name": "DIABLITA",
-      "url": "https://open.spotify.com/track/5YwjEX9b8nwMYlLe2eYiC6"
+      "duration_ms": 152709,
+      "name": "Tirando Corte",
+      "url": "https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -951,6 +691,90 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "MESITA | Mission 05",
+        "url": "https://open.spotify.com/album/4qEsa8G94vXAr6IFwgPkk8"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 136144,
+      "name": "MESITA | Mission 05",
+      "url": "https://open.spotify.com/track/4WaopyDgvKQP6T852K9boe"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "DISCULPE OFICIAL",
+        "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "PACOREMIX",
+          "url": "https://open.spotify.com/artist/2EyZ2vRJWwVCAtR2VrL4Ju"
+        }
+      ],
+      "duration_ms": 122455,
+      "name": "DISCULPE OFICIAL",
+      "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Rubia o Morocha",
+        "url": "https://open.spotify.com/album/1AwH6SPsNwL0TLojydqu9p"
+      },
+      "artists": [
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Rubia o Morocha",
+      "url": "https://open.spotify.com/track/1ZDC2BKJ64JYZYhW3vGzs2"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Pa Tra Rkt",
+        "url": "https://open.spotify.com/album/51C7H8yHGV88GdxGtipO04"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Pusho DJ",
+          "url": "https://open.spotify.com/artist/2ZrxREKeIiJA6aQxa44ZzB"
+        }
+      ],
+      "duration_ms": 191124,
+      "name": "Pa Tra Rkt",
+      "url": "https://open.spotify.com/track/1CpRJLarXSUho5AopXxNQj"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Le doy perreo",
         "url": "https://open.spotify.com/album/0VJzJRpkszNHrVcPnkzSRn"
       },
@@ -963,6 +787,126 @@
       "duration_ms": 138979,
       "name": "Le doy perreo",
       "url": "https://open.spotify.com/track/1DTmxMoV47mkuTrSY2xkyl"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "DIABLITA",
+        "url": "https://open.spotify.com/album/31KlDN6jIolY6Z366gVv70"
+      },
+      "artists": [
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 139310,
+      "name": "DIABLITA",
+      "url": "https://open.spotify.com/track/5YwjEX9b8nwMYlLe2eYiC6"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Fua Mi Amor",
+        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Fua Mi Amor",
+      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "El Motorcito (Remix)",
+        "url": "https://open.spotify.com/album/4lgaeGyz7wyvarPqNKp4Kk"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "El Motorcito - Remix",
+      "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) [Remix]",
+        "url": "https://open.spotify.com/album/4Pg9HfkoILc1bvEUSUfv1J"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 229426,
+      "name": "\u00bfY pa la Wacha Loca? (con Salastkbron) - Remix",
+      "url": "https://open.spotify.com/track/4IkSOwB9JRhq7oScl4pCW9"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "CUERNU",
+        "url": "https://open.spotify.com/album/3TM87zF5SD4ThqHEahBLeo"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "CUERNU",
+      "url": "https://open.spotify.com/track/5OnIsAuSlx5JwMkr6Weclo"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -983,6 +927,62 @@
       "duration_ms": 136291,
       "name": "Pal Party",
       "url": "https://open.spotify.com/track/3sWXB7x9mwNkrHD2lFtept"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Sesi\u00f3n - 6",
+        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 150315,
+      "name": "Sesi\u00f3n - 6",
+      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "TITAN",
+        "url": "https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 122723,
+      "name": "TITAN",
+      "url": "https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Session en el Barrio #4",
+        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
+      },
+      "artists": [
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 152176,
+      "name": "Session en el Barrio #4",
+      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1011,34 +1011,110 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Turro Diferente (feat. Omar Varela, Preciau)",
-        "url": "https://open.spotify.com/album/0r2F17LMHbJ53C68PvzsiN"
+        "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+        "url": "https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup"
       },
       "artists": [
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 163259,
+      "name": "CALLEJERO FINO | DJ TAO Turreo Sessions #723",
+      "url": "https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Tal Para Cual",
+        "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
+      },
+      "artists": [
         {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Preciau",
-          "url": "https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3"
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
         },
         {
           "name": "Omar Varela",
           "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 169055,
-      "name": "Turro Diferente (feat. Omar Varela, Preciau)",
-      "url": "https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S"
+      "duration_ms": 151224,
+      "name": "Tal Para Cual",
+      "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Combi Nueva",
+        "url": "https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        },
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Combi Nueva",
+      "url": "https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "CALLEJERO FINO | Mission 10",
+        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 168994,
+      "name": "CALLEJERO FINO | Mission 10",
+      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Peipper | DJ TAO Turreo Sessions #15",
+        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
+      },
+      "artists": [
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 133607,
+      "name": "Peipper | DJ TAO Turreo Sessions #15",
+      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1067,28 +1143,120 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Pa Tra Rkt",
-        "url": "https://open.spotify.com/album/51C7H8yHGV88GdxGtipO04"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR"
       },
       "artists": [
+        {
+          "name": "Los Nota Lokos",
+          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Ando RKT (Remix)",
+        "url": "https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt"
+      },
+      "artists": [
+        {
+          "name": "Lautaro DDJ",
+          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+        },
+        {
+          "name": "Keko DJ",
+          "url": "https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i"
+        }
+      ],
+      "duration_ms": 150820,
+      "name": "Ando RKT - Remix",
+      "url": "https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "LOLLIRKT (Remix)",
+        "url": "https://open.spotify.com/album/2ZqpX5dbeXy1un8dSmgEfn"
+      },
+      "artists": [
+        {
+          "name": "Lautaro DDJ",
+          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+        }
+      ],
+      "duration_ms": 144697,
+      "name": "LOLLIRKT - Remix",
+      "url": "https://open.spotify.com/track/22U4FIsGk7yguu7RAuC6mq"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "M.A (Remix)",
+        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
+      },
+      "artists": [
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
         {
           "name": "Callejero Fino",
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         },
         {
-          "name": "Pusho DJ",
-          "url": "https://open.spotify.com/artist/2ZrxREKeIiJA6aQxa44ZzB"
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 191124,
-      "name": "Pa Tra Rkt",
-      "url": "https://open.spotify.com/track/1CpRJLarXSUho5AopXxNQj"
+      "duration_ms": 272727,
+      "name": "M.A - Remix",
+      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Session en el Barrio #4",
-        "url": "https://open.spotify.com/album/2XNGEtOnfHv98X3Hf83nQO"
+        "name": "Rkteando (Remix)",
+        "url": "https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2"
+      },
+      "artists": [
+        {
+          "name": "E.C.V",
+          "url": "https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR"
+        },
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Mauri Mansilla",
+          "url": "https://open.spotify.com/artist/5zdbvniDOPPX4mlmmimzvE"
+        }
+      ],
+      "duration_ms": 170812,
+      "name": "Rkteando - Remix",
+      "url": "https://open.spotify.com/track/0EBblLqWUMgOo0LPLnszAg"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Gusty DJ | Ecko - Session en el Barrio #7",
+        "url": "https://open.spotify.com/album/6QZ3eTMUjgfyJdK7ukXGid"
       },
       "artists": [
         {
@@ -1096,39 +1264,43 @@
           "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         }
       ],
-      "duration_ms": 152176,
-      "name": "Session en el Barrio #4",
-      "url": "https://open.spotify.com/track/1YvhaUhTLCXsVuOiEbVFgq"
+      "duration_ms": 164536,
+      "name": "Gusty DJ | Ecko - Session en el Barrio #7",
+      "url": "https://open.spotify.com/track/2ALRaYszX1wDifP6HrcdqS"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Peipper | DJ TAO Turreo Sessions #15",
-        "url": "https://open.spotify.com/album/5gQXupkao8XDSevgJCCZhc"
+        "name": "BANDIDA",
+        "url": "https://open.spotify.com/album/1lkFfIhXjrOrhleRHAuqyM"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
         },
         {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Iamnazag",
+          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         }
       ],
-      "duration_ms": 133607,
-      "name": "Peipper | DJ TAO Turreo Sessions #15",
-      "url": "https://open.spotify.com/track/52tKOYrwES8h7CIv7KjJd8"
+      "duration_ms": 166618,
+      "name": "BANDIDA",
+      "url": "https://open.spotify.com/track/3y8Hj0ss52tpry5lHyMtkA"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Tus Dulces Abrazos",
-        "url": "https://open.spotify.com/album/3pT3T6TkQtLuqKpAB8PR0q"
+        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
       },
       "artists": [
         {
@@ -1136,41 +1308,13 @@
           "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Tus Dulces Abrazos",
-      "url": "https://open.spotify.com/track/0jhdK4k5NwGxnj2DX0SJTc"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Auto Al Piso",
-        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "El negro tecla",
-          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
-        },
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        }
-      ],
-      "duration_ms": 174580,
-      "name": "Auto Al Piso",
-      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+      "duration_ms": 165605,
+      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
+      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1211,340 +1355,56 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "CALLEJERO FINO | Mission 10",
-        "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
+        "name": "Turro Diferente (feat. Omar Varela, Preciau)",
+        "url": "https://open.spotify.com/album/0r2F17LMHbJ53C68PvzsiN"
       },
       "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        }
-      ],
-      "duration_ms": 168994,
-      "name": "CALLEJERO FINO | Mission 10",
-      "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Quitenme el Telefono Rkt",
-        "url": "https://open.spotify.com/album/6b71RGqtCLWJchCU1yKTlu"
-      },
-      "artists": [
-        {
-          "name": "BRIIAN DJ",
-          "url": "https://open.spotify.com/artist/7aFGaDTh36aO1lIkCEwuQK"
-        },
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        }
-      ],
-      "duration_ms": 181323,
-      "name": "Quitenme el Telefono Rkt",
-      "url": "https://open.spotify.com/track/6TDMkzecs8z2P3JD4Ho5hV"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Combi Nueva",
-        "url": "https://open.spotify.com/album/6XPF6XwJkxIZTRM3jdAzeM"
-      },
-      "artists": [
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        },
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Combi Nueva",
-      "url": "https://open.spotify.com/track/25YMD8Bf1CiQvAsYz5Bq0p"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "TITAN",
-        "url": "https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 122723,
-      "name": "TITAN",
-      "url": "https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Sesi\u00f3n - 6",
-        "url": "https://open.spotify.com/album/3qa4N8Y6qDAuBGUJHtCgei"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
-        }
-      ],
-      "duration_ms": 150315,
-      "name": "Sesi\u00f3n - 6",
-      "url": "https://open.spotify.com/track/5sMcmy7UVizJoSm9YNZFyZ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-        "url": "https://open.spotify.com/album/4jeXKUAhhCVQm5qefqqjfT"
-      },
-      "artists": [
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 165605,
-      "name": "GUSTY DJ I Alejo Isakk Session en el Barrio #5",
-      "url": "https://open.spotify.com/track/3EuhCgpwvuxzpVRKerf9UN"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "BANDIDA",
-        "url": "https://open.spotify.com/album/1lkFfIhXjrOrhleRHAuqyM"
-      },
-      "artists": [
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        },
-        {
-          "name": "Iamnazag",
-          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        }
-      ],
-      "duration_ms": 166618,
-      "name": "BANDIDA",
-      "url": "https://open.spotify.com/track/3y8Hj0ss52tpry5lHyMtkA"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
-        "url": "https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI"
-      },
-      "artists": [
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Javiielo",
-          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
-        },
-        {
-          "name": "Julianno Sosa",
-          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
-        }
-      ],
-      "duration_ms": 187252,
-      "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
-      "url": "https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Vo' Quien Sos (Remix)",
-        "url": "https://open.spotify.com/album/5PLEblgHccixPZJOSULfpR"
-      },
-      "artists": [
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        },
-        {
-          "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
-        },
         {
           "name": "ECKO",
           "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
         },
         {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 192554,
-      "name": "Vo' Quien Sos - Remix",
-      "url": "https://open.spotify.com/track/5QPKZelbZL45Ng57SHIfTK"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Capaz No Vuelvo",
-        "url": "https://open.spotify.com/album/46pMDXRGQ426sS69tms8QH"
-      },
-      "artists": [
-        {
-          "name": "Dj Plaga",
-          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
         },
-        {
-          "name": "HDR",
-          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
-        }
-      ],
-      "duration_ms": 123845,
-      "name": "Capaz No Vuelvo",
-      "url": "https://open.spotify.com/track/5GG8A3wZF3U26f14MqnWf3"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Gusty DJ | Ecko - Session en el Barrio #7",
-        "url": "https://open.spotify.com/album/6QZ3eTMUjgfyJdK7ukXGid"
-      },
-      "artists": [
         {
           "name": "Gusty dj",
           "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        }
-      ],
-      "duration_ms": 164536,
-      "name": "Gusty DJ | Ecko - Session en el Barrio #7",
-      "url": "https://open.spotify.com/track/2ALRaYszX1wDifP6HrcdqS"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Rkteando (Remix)",
-        "url": "https://open.spotify.com/album/0LoqDW1bluEMJkmbIwIgi2"
-      },
-      "artists": [
-        {
-          "name": "E.C.V",
-          "url": "https://open.spotify.com/artist/3bz89tGLK59YTBYV8577IR"
-        },
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        },
-        {
-          "name": "Mauri Mansilla",
-          "url": "https://open.spotify.com/artist/5zdbvniDOPPX4mlmmimzvE"
-        }
-      ],
-      "duration_ms": 170812,
-      "name": "Rkteando - Remix",
-      "url": "https://open.spotify.com/track/0EBblLqWUMgOo0LPLnszAg"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Tal Para Cual",
-        "url": "https://open.spotify.com/album/2rqHSa1Lohs3fTDDFeFnBy"
-      },
-      "artists": [
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+          "name": "Preciau",
+          "url": "https://open.spotify.com/artist/7x1Qa3ZOKaQ1XwSqFkGcC3"
         },
         {
           "name": "Omar Varela",
           "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
         }
       ],
-      "duration_ms": 151224,
-      "name": "Tal Para Cual",
-      "url": "https://open.spotify.com/track/0mJRX0WnqWlu8Boe7gpQ1P"
+      "duration_ms": 169055,
+      "name": "Turro Diferente (feat. Omar Varela, Preciau)",
+      "url": "https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "ROZE | DJ TAO Turreo Sessions #22",
-        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
+        "name": "De Bardo RKT",
+        "url": "https://open.spotify.com/album/6GiHdRC7AivjIr4dDfINEd"
       },
       "artists": [
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Roze Oficial",
-          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
+          "name": "Cotto Rng",
+          "url": "https://open.spotify.com/artist/1zBDgn3DfQ8GhgXL1z7ege"
         }
       ],
-      "duration_ms": 155291,
-      "name": "ROZE | DJ TAO Turreo Sessions #22",
-      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
+      "duration_ms": 144911,
+      "name": "De Bardo RKT",
+      "url": "https://open.spotify.com/track/5ZsXk83PWV4UqUQHQUwkx9"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Sesi\u00f3n - 7",
-        "url": "https://open.spotify.com/album/2QEShF7300XPtFTvh96nLh"
-      },
-      "artists": [
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        },
-        {
-          "name": "Salastkbron",
-          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
-        }
-      ],
-      "duration_ms": 138630,
-      "name": "Sesi\u00f3n - 7",
-      "url": "https://open.spotify.com/track/6kq09nzEHEuXt1svtB0CVz"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "M.A (Remix)",
-        "url": "https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR"
+        "name": "Ven Mami",
+        "url": "https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D"
       },
       "artists": [
         {
@@ -1552,37 +1412,49 @@
           "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
         }
       ],
-      "duration_ms": 272727,
-      "name": "M.A - Remix",
-      "url": "https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ"
+      "duration_ms": 171818,
+      "name": "Ven Mami",
+      "url": "https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "El Peligro Rkt",
-        "url": "https://open.spotify.com/album/6dvQ20XYjVaC2DbrCUYsNY"
+        "name": "HAGAN CA$O",
+        "url": "https://open.spotify.com/album/1FIqI4zRtPjMwr20TQWu9P"
       },
       "artists": [
         {
-          "name": "Eme Sarav",
-          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         }
       ],
-      "duration_ms": 149050,
-      "name": "El Peligro Rkt",
-      "url": "https://open.spotify.com/track/56V4fId4S6zKMt12DkYsbq"
+      "duration_ms": 138839,
+      "name": "EN LA CHATA",
+      "url": "https://open.spotify.com/track/0fsq9CpvKoVNDPwfwjvtSL"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Hasta Abajo Rkt",
+        "url": "https://open.spotify.com/album/6uvVLYBtamYrIQm27hCAOl"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 172029,
+      "name": "Hasta Abajo Rkt",
+      "url": "https://open.spotify.com/track/0dRiTyuCsHr9RiGkzrUE9Y"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1615,24 +1487,236 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "LOLLIRKT (Remix)",
-        "url": "https://open.spotify.com/album/2ZqpX5dbeXy1un8dSmgEfn"
+        "name": "ROZE | DJ TAO Turreo Sessions #22",
+        "url": "https://open.spotify.com/album/5jpQWN1yr0LVt6ksILGFIP"
       },
       "artists": [
         {
-          "name": "Lautaro DDJ",
-          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Roze Oficial",
+          "url": "https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN"
         }
       ],
-      "duration_ms": 144697,
-      "name": "LOLLIRKT - Remix",
-      "url": "https://open.spotify.com/track/22U4FIsGk7yguu7RAuC6mq"
+      "duration_ms": 155291,
+      "name": "ROZE | DJ TAO Turreo Sessions #22",
+      "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Hasta Abajo Rkt",
-        "url": "https://open.spotify.com/album/6uvVLYBtamYrIQm27hCAOl"
+        "name": "Vo' Quien Sos (Remix)",
+        "url": "https://open.spotify.com/album/5PLEblgHccixPZJOSULfpR"
+      },
+      "artists": [
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 192554,
+      "name": "Vo' Quien Sos - Remix",
+      "url": "https://open.spotify.com/track/5QPKZelbZL45Ng57SHIfTK"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
+        "url": "https://open.spotify.com/album/3MsigXOlPVWg1Csy7xzPrI"
+      },
+      "artists": [
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Javiielo",
+          "url": "https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5"
+        },
+        {
+          "name": "Julianno Sosa",
+          "url": "https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL"
+        }
+      ],
+      "duration_ms": 187252,
+      "name": "M\u00edo No Tuyo (feat. Julianno Sosa)",
+      "url": "https://open.spotify.com/track/2y7M3BNqkUGY0eJ9oAL55R"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Auto Al Piso",
+        "url": "https://open.spotify.com/album/3wCxXHDzoxH1XS6Z8u8Uuy"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        }
+      ],
+      "duration_ms": 174580,
+      "name": "Auto Al Piso",
+      "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Pa Que Rompa el Piso",
+        "url": "https://open.spotify.com/album/4xwQ4SW3oF8WPbNQDXCFEa"
+      },
+      "artists": [
+        {
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
+        }
+      ],
+      "duration_ms": 152941,
+      "name": "Pa Que Rompa el Piso",
+      "url": "https://open.spotify.com/track/18It6OBJJDmhF10ZCiHno1"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Perreo Medinas (Remix)",
+        "url": "https://open.spotify.com/album/34xbT3PngxFIVPXsIbJTtl"
+      },
+      "artists": [
+        {
+          "name": "MEDINAS",
+          "url": "https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "R Jota",
+          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+        },
+        {
+          "name": "Rodrii Ortiz",
+          "url": "https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2"
+        },
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        }
+      ],
+      "duration_ms": 171924,
+      "name": "Perreo Medinas - Remix",
+      "url": "https://open.spotify.com/track/1Mdb9pSm4lQ5TtCblFX66N"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Capaz No Vuelvo",
+        "url": "https://open.spotify.com/album/46pMDXRGQ426sS69tms8QH"
+      },
+      "artists": [
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        },
+        {
+          "name": "HDR",
+          "url": "https://open.spotify.com/artist/17c1cvfb2tkpih3xZKd50M"
+        }
+      ],
+      "duration_ms": 123845,
+      "name": "Capaz No Vuelvo",
+      "url": "https://open.spotify.com/track/5GG8A3wZF3U26f14MqnWf3"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Ubicaci\u00f3n 7 - Los Wachos Crecen",
+        "url": "https://open.spotify.com/album/7vmoIFoXGXmZaDwUaeKvZX"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Gonzalo Nawel",
+          "url": "https://open.spotify.com/artist/6SHszElyg65TSgaP3YsAZ5"
+        }
+      ],
+      "duration_ms": 162889,
+      "name": "Ubicaci\u00f3n 7 - Los Wachos Crecen",
+      "url": "https://open.spotify.com/track/6i4rGY3NxSB2BD4Z53FGBy"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Linda (Remix)",
+        "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
+      },
+      "artists": [
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        }
+      ],
+      "duration_ms": 234105,
+      "name": "Linda - Remix",
+      "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "TIT\u00c1N RMX",
+        "url": "https://open.spotify.com/album/2j4F4W3z0k2E0kx1gsQ1Fr"
       },
       "artists": [
         {
@@ -1640,33 +1724,389 @@
           "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
         },
         {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Alan Gomez",
+          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
         }
       ],
-      "duration_ms": 172029,
-      "name": "Hasta Abajo Rkt",
-      "url": "https://open.spotify.com/track/0dRiTyuCsHr9RiGkzrUE9Y"
+      "duration_ms": 269662,
+      "name": "TIT\u00c1N RMX",
+      "url": "https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Ando RKT (Remix)",
-        "url": "https://open.spotify.com/album/5QT3g50WifrBbhYDPnTdWt"
+        "name": "BM | DJ TAO Turreo Sessions #17",
+        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
       },
       "artists": [
         {
-          "name": "Lautaro DDJ",
-          "url": "https://open.spotify.com/artist/1Zlzp7ckJ06DiPg5G5WjUC"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         },
         {
-          "name": "Keko DJ",
-          "url": "https://open.spotify.com/artist/4WdCXFK2IQe0E1VgZX5g2i"
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
         }
       ],
-      "duration_ms": 150820,
-      "name": "Ando RKT - Remix",
-      "url": "https://open.spotify.com/track/5IlGH7Tn7HNVI8lKUci06n"
+      "duration_ms": 176144,
+      "name": "BM | DJ TAO Turreo Sessions #17",
+      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "MDQ (REMIX OFICIAL)",
+        "url": "https://open.spotify.com/album/40Lldn1SgXPKNXM2JeaQCV"
+      },
+      "artists": [
+        {
+          "name": "RYH",
+          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
+        },
+        {
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
+        },
+        {
+          "name": "John C",
+          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "MDQ - REMIX OFICIAL",
+      "url": "https://open.spotify.com/track/1ACploEfZLPleQxgFQuNKU"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Dog's Life",
+        "url": "https://open.spotify.com/album/584o1hubq0s06fXd7vyokX"
+      },
+      "artists": [
+        {
+          "name": "Blunted Vato",
+          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
+        },
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "Freakitona",
+      "url": "https://open.spotify.com/track/0OsOZCt48fvEZB7JQsr3ZI"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "La Jarra",
+        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        }
+      ],
+      "duration_ms": 137150,
+      "name": "La Jarra",
+      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Vamos A Amanecer (Remix)",
+        "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
+      },
+      "artists": [
+        {
+          "name": "Papichamp",
+          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
+        },
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "Vamos A Amanecer - Remix",
+      "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Te Escapas De Mis Brazos (Remix)",
+        "url": "https://open.spotify.com/album/2qwDoRmOoiueskiEQuAL4a"
+      },
+      "artists": [
+        {
+          "name": "ECKO",
+          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Te Escapas De Mis Brazos - Remix",
+      "url": "https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/492Py6vAHVmIJmrwYgd6lK"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
+        }
+      ],
+      "duration_ms": 160909,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/2zWbjhfs4DoDJ3Lwl5GJ1n"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Sesi\u00f3n - 7",
+        "url": "https://open.spotify.com/album/2QEShF7300XPtFTvh96nLh"
+      },
+      "artists": [
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        },
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        }
+      ],
+      "duration_ms": 138630,
+      "name": "Sesi\u00f3n - 7",
+      "url": "https://open.spotify.com/track/6kq09nzEHEuXt1svtB0CVz"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Quitenme el Telefono Rkt",
+        "url": "https://open.spotify.com/album/6b71RGqtCLWJchCU1yKTlu"
+      },
+      "artists": [
+        {
+          "name": "BRIIAN DJ",
+          "url": "https://open.spotify.com/artist/7aFGaDTh36aO1lIkCEwuQK"
+        },
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        }
+      ],
+      "duration_ms": 181323,
+      "name": "Quitenme el Telefono Rkt",
+      "url": "https://open.spotify.com/track/6TDMkzecs8z2P3JD4Ho5hV"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Cari\u00f1oso",
+        "url": "https://open.spotify.com/album/3ZnRCl3QQCFplYUrE5A494"
+      },
+      "artists": [
+        {
+          "name": "Lolo OG",
+          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 125933,
+      "name": "Cari\u00f1oso",
+      "url": "https://open.spotify.com/track/5u3RFXhMZOfWDTjpgio16p"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Una Foto Remix (feat. Emilia)",
+        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 243898,
+      "name": "Una Foto Remix (feat. Emilia)",
+      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Mega Salas (Rkt)",
+        "url": "https://open.spotify.com/album/0rxQC0lH1ccSYLeRD4Uu1R"
+      },
+      "artists": [
+        {
+          "name": "Agus Maidana",
+          "url": "https://open.spotify.com/artist/2S9abAtDPBgJcqxI7CREsE"
+        },
+        {
+          "name": "DJSNOWS",
+          "url": "https://open.spotify.com/artist/7mU23JBpApYUGLkB2GlwET"
+        },
+        {
+          "name": "FerroDJ",
+          "url": "https://open.spotify.com/artist/0BN9DPLGmnCFUZES2AdvfL"
+        }
+      ],
+      "duration_ms": 232793,
+      "name": "Mega Salas - Rkt",
+      "url": "https://open.spotify.com/track/4uTZdVB3tnbz8UFJ5CwADi"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Una Foto",
+        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Una Foto",
+      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "De cachorro",
+        "url": "https://open.spotify.com/album/2Kx2gPJ7fgidWLzaZkxXkU"
+      },
+      "artists": [
+        {
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Simpatica",
+      "url": "https://open.spotify.com/track/34OGfTs5cj4gOXHkvndPOy"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Nobajoniconpasta",
+        "url": "https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3"
+      },
+      "artists": [
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        }
+      ],
+      "duration_ms": 151370,
+      "name": "Nobajoniconpasta",
+      "url": "https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Pa Ke Te Enamores",
+        "url": "https://open.spotify.com/album/6Pg1JJaHh3pTbezg6Pp6rB"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Iamnazag",
+          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
+        },
+        {
+          "name": "Tuti DJ",
+          "url": "https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        }
+      ],
+      "duration_ms": 148302,
+      "name": "Pa Ke Te Enamores",
+      "url": "https://open.spotify.com/track/3xzl4zZAXvUIkexPOzmC2o"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Mueve los Cachetes",
+        "url": "https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 203278,
+      "name": "Mueve los Cachetes",
+      "url": "https://open.spotify.com/track/4up6VDTUFiHNkwYC7MLVj3"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1727,370 +2167,42 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "HAGAN CA$O",
-        "url": "https://open.spotify.com/album/1FIqI4zRtPjMwr20TQWu9P"
+        "name": "El Peligro Rkt",
+        "url": "https://open.spotify.com/album/6dvQ20XYjVaC2DbrCUYsNY"
       },
       "artists": [
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
         }
       ],
-      "duration_ms": 138839,
-      "name": "EN LA CHATA",
-      "url": "https://open.spotify.com/track/0fsq9CpvKoVNDPwfwjvtSL"
+      "duration_ms": 149050,
+      "name": "El Peligro Rkt",
+      "url": "https://open.spotify.com/track/56V4fId4S6zKMt12DkYsbq"
     },
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/1gaCJAKGUtZ4zVPn4dI4KR"
+        "name": "Tus Dulces Abrazos",
+        "url": "https://open.spotify.com/album/3pT3T6TkQtLuqKpAB8PR0q"
       },
       "artists": [
         {
-          "name": "Los Nota Lokos",
-          "url": "https://open.spotify.com/artist/76iFMHDqONZusQlTu2ckKQ"
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         },
         {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "El negro tecla",
+          "url": "https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75"
+        },
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/2BDJWePEkczB34ZoDliNSr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Ven Mami",
-        "url": "https://open.spotify.com/album/7vc0kLosxs4uXJlnxuaN4D"
-      },
-      "artists": [
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Phontana",
-          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
-        }
-      ],
-      "duration_ms": 171818,
-      "name": "Ven Mami",
-      "url": "https://open.spotify.com/track/7mMmRGHCrxF8T3opGtrpHh"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Mueve los Cachetes",
-        "url": "https://open.spotify.com/album/0nvSc0w1MQtzvfoTOApU9M"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 203278,
-      "name": "Mueve los Cachetes",
-      "url": "https://open.spotify.com/track/4up6VDTUFiHNkwYC7MLVj3"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "En la Disco Te Vi",
-        "url": "https://open.spotify.com/album/1BTaq31x644Lu5k6nt9YZs"
-      },
-      "artists": [
-        {
-          "name": "Tirri La Roca",
-          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "En la Disco Te Vi",
-      "url": "https://open.spotify.com/track/6NZU2yoQcqNsOWk4fGTe9I"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Pa Ke Te Enamores",
-        "url": "https://open.spotify.com/album/6Pg1JJaHh3pTbezg6Pp6rB"
-      },
-      "artists": [
-        {
-          "name": "elaggume",
-          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
-        },
-        {
-          "name": "Iamnazag",
-          "url": "https://open.spotify.com/artist/7LxxNXsdBfBrCLbvL2FA3T"
-        },
-        {
-          "name": "Tuti DJ",
-          "url": "https://open.spotify.com/artist/5Zk54wioCsUtq5ggUWXqlK"
-        },
-        {
-          "name": "Fauna Music",
-          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
-        }
-      ],
-      "duration_ms": 148302,
-      "name": "Pa Ke Te Enamores",
-      "url": "https://open.spotify.com/track/3xzl4zZAXvUIkexPOzmC2o"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/492Py6vAHVmIJmrwYgd6lK"
-      },
-      "artists": [
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "Dj Plaga",
-          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/2zWbjhfs4DoDJ3Lwl5GJ1n"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Te Escapas De Mis Brazos (Remix)",
-        "url": "https://open.spotify.com/album/2qwDoRmOoiueskiEQuAL4a"
-      },
-      "artists": [
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Te Escapas De Mis Brazos - Remix",
-      "url": "https://open.spotify.com/track/3ZACqxHGSK9WQsuwhBNART"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Nobajoniconpasta",
-        "url": "https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3"
-      },
-      "artists": [
-        {
-          "name": "Locura Mix",
-          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
-        },
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        }
-      ],
-      "duration_ms": 151370,
-      "name": "Nobajoniconpasta",
-      "url": "https://open.spotify.com/track/0iipHsVxTAx6kFqPTrfjLr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "De cachorro",
-        "url": "https://open.spotify.com/album/2Kx2gPJ7fgidWLzaZkxXkU"
-      },
-      "artists": [
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Simpatica",
-      "url": "https://open.spotify.com/track/34OGfTs5cj4gOXHkvndPOy"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Perreo Medinas (Remix)",
-        "url": "https://open.spotify.com/album/34xbT3PngxFIVPXsIbJTtl"
-      },
-      "artists": [
-        {
-          "name": "MEDINAS",
-          "url": "https://open.spotify.com/artist/1bqz6MNvjWHhtP8Lvilwoi"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
-        },
-        {
-          "name": "Rodrii Ortiz",
-          "url": "https://open.spotify.com/artist/3KeiJ1oVHnSpj8O2Qwp3r2"
-        },
-        {
-          "name": "Dj Plaga",
-          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
-        }
-      ],
-      "duration_ms": 171924,
-      "name": "Perreo Medinas - Remix",
-      "url": "https://open.spotify.com/track/1Mdb9pSm4lQ5TtCblFX66N"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Una Foto",
-        "url": "https://open.spotify.com/album/68oJKya0ABvKQkx5Zx0KXi"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Una Foto",
-      "url": "https://open.spotify.com/track/4sl3IoHskl2Kbdy27gZ4yn"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Vamos A Amanecer (Remix)",
-        "url": "https://open.spotify.com/album/5xcEXfGJCm9aqLqUGqh8bs"
-      },
-      "artists": [
-        {
-          "name": "Papichamp",
-          "url": "https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW"
-        },
-        {
-          "name": "ECKO",
-          "url": "https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF"
-        },
-        {
-          "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "Vamos A Amanecer - Remix",
-      "url": "https://open.spotify.com/track/0nk7pbLOJEGRlzSdN1erGe"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "La Jarra",
-        "url": "https://open.spotify.com/album/0B8TLAqcDkiV1LsIXpmJhT"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        }
-      ],
-      "duration_ms": 137150,
-      "name": "La Jarra",
-      "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Dog's Life",
-        "url": "https://open.spotify.com/album/584o1hubq0s06fXd7vyokX"
-      },
-      "artists": [
-        {
-          "name": "Blunted Vato",
-          "url": "https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR"
-        },
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        }
-      ],
-      "duration_ms": 154666,
-      "name": "Freakitona",
-      "url": "https://open.spotify.com/track/0OsOZCt48fvEZB7JQsr3ZI"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "MDQ (REMIX OFICIAL)",
-        "url": "https://open.spotify.com/album/40Lldn1SgXPKNXM2JeaQCV"
-      },
-      "artists": [
-        {
-          "name": "RYH",
-          "url": "https://open.spotify.com/artist/51zgwqGYELQ4W7SobIyv8R"
-        },
-        {
-          "name": "Big Apple",
-          "url": "https://open.spotify.com/artist/5suUyNwJ1hw1M45oqdw8zE"
-        },
-        {
-          "name": "John C",
-          "url": "https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "MDQ - REMIX OFICIAL",
-      "url": "https://open.spotify.com/track/1ACploEfZLPleQxgFQuNKU"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Vida Mala",
-        "url": "https://open.spotify.com/album/7DW4OzXc6GacV5WBzhuzgO"
-      },
-      "artists": [
-        {
-          "name": "Diamante Ayala",
-          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
-        },
-        {
-          "name": "Ponte Perro",
-          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
-        },
-        {
-          "name": "Dj Plaga",
-          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Vida Mala",
-      "url": "https://open.spotify.com/track/3JyFEEnWFLTtTwDLgvQcr3"
+      "duration_ms": 195333,
+      "name": "Tus Dulces Abrazos",
+      "url": "https://open.spotify.com/track/0jhdK4k5NwGxnj2DX0SJTc"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -2123,102 +2235,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Mega Salas (Rkt)",
-        "url": "https://open.spotify.com/album/0rxQC0lH1ccSYLeRD4Uu1R"
+        "name": "En la Disco Te Vi",
+        "url": "https://open.spotify.com/album/1BTaq31x644Lu5k6nt9YZs"
       },
       "artists": [
         {
-          "name": "Agus Maidana",
-          "url": "https://open.spotify.com/artist/2S9abAtDPBgJcqxI7CREsE"
-        },
-        {
-          "name": "DJSNOWS",
-          "url": "https://open.spotify.com/artist/7mU23JBpApYUGLkB2GlwET"
-        },
-        {
-          "name": "FerroDJ",
-          "url": "https://open.spotify.com/artist/0BN9DPLGmnCFUZES2AdvfL"
+          "name": "Tirri La Roca",
+          "url": "https://open.spotify.com/artist/3fUItdzxV5l9jupo5FkFwB"
         }
       ],
-      "duration_ms": 232793,
-      "name": "Mega Salas - Rkt",
-      "url": "https://open.spotify.com/track/4uTZdVB3tnbz8UFJ5CwADi"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "BM | DJ TAO Turreo Sessions #17",
-        "url": "https://open.spotify.com/album/7IRENolKvEF0bCjNp6TTrZ"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 176144,
-      "name": "BM | DJ TAO Turreo Sessions #17",
-      "url": "https://open.spotify.com/track/0zIA89ERtLoWZF8zMYgWoL"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Una Foto Remix (feat. Emilia)",
-        "url": "https://open.spotify.com/album/4f47mbk3DOWJ16DXLnviMw"
-      },
-      "artists": [
-        {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 243898,
-      "name": "Una Foto Remix (feat. Emilia)",
-      "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "TIT\u00c1N RMX",
-        "url": "https://open.spotify.com/album/2j4F4W3z0k2E0kx1gsQ1Fr"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Alan Gomez",
-          "url": "https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni"
-        }
-      ],
-      "duration_ms": 269662,
-      "name": "TIT\u00c1N RMX",
-      "url": "https://open.spotify.com/track/7uFaga9WKgJ9Mrkhyybbut"
+      "duration_ms": 182500,
+      "name": "En la Disco Te Vi",
+      "url": "https://open.spotify.com/track/6NZU2yoQcqNsOWk4fGTe9I"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -2239,54 +2267,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Linda (Remix)",
-        "url": "https://open.spotify.com/album/31O1cXWZUf4yRC28MwJ1wb"
+        "name": "Vida Mala",
+        "url": "https://open.spotify.com/album/7DW4OzXc6GacV5WBzhuzgO"
       },
       "artists": [
         {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+          "name": "Diamante Ayala",
+          "url": "https://open.spotify.com/artist/2a3t7z8U1cpR0PEq1WB68d"
         },
         {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+          "name": "Ponte Perro",
+          "url": "https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5"
         },
         {
-          "name": "Lauty Gram",
-          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
-        },
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Peipper",
-          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+          "name": "Dj Plaga",
+          "url": "https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr"
         }
       ],
-      "duration_ms": 234105,
-      "name": "Linda - Remix",
-      "url": "https://open.spotify.com/track/7HrgGbnNKZKhBL70aFKpXk"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Cari\u00f1oso",
-        "url": "https://open.spotify.com/album/3ZnRCl3QQCFplYUrE5A494"
-      },
-      "artists": [
-        {
-          "name": "Lolo OG",
-          "url": "https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 125933,
-      "name": "Cari\u00f1oso",
-      "url": "https://open.spotify.com/track/5u3RFXhMZOfWDTjpgio16p"
+      "duration_ms": 156631,
+      "name": "Vida Mala",
+      "url": "https://open.spotify.com/track/3JyFEEnWFLTtTwDLgvQcr3"
     }
   ],
   "unique_name": "RKT  & Turreo",

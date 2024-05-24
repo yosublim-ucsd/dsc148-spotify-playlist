@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 
 > Max out your sugar content with these pure and aegyo tracks from our favorite ladies\. Cover: ALICE\(앨리스\) \(상큼하고 발랄, 청순한 여아이돌의 세계에 빠져보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,003 likes - 57 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,028 likes - 57 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 19 | [Cookie](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:55 |
 | 20 | [After School](https://open.spotify.com/track/52CBUrIdyf8tbZaUY9iawE) | [Weeekly](https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m) | [We play](https://open.spotify.com/album/4kU6DFVgZKoDYQPZk1OZp9) | 3:25 |
 | 21 | [Midnight Fiction](https://open.spotify.com/track/6QqrxJe1iQxwLY6he6FLFo) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:48 |
-| 22 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
-| 23 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
+| 22 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
+| 23 | [Love Me Back](https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Love Me Back \(From "Operation: True Love"\)](https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9) | 3:06 |
 | 24 | [BBoom BBoom](https://open.spotify.com/track/3BPoSr2pO34Aan6alFfVto) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [GREAT!](https://open.spotify.com/album/5vt2sEP5J0VNbYXoA7h2k4) | 3:28 |
 | 25 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 |
 | 26 | [ASAP](https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [STAYDOM](https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS) | 3:14 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTHy0vndijk.md) - [plain]
 | 46 | [\#menow](https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [Unlock My World](https://open.spotify.com/album/48DcB4A9LV3DugLTILN1D9) | 2:49 |
 | 47 | [Could It Be](https://open.spotify.com/track/5EP0eADsE1wRAbnET9k5u8) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [Could It Be](https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI) | 3:09 |
 | 48 | [Girls of the Year](https://open.spotify.com/track/03grA043a1uECo5Kyw28a0) | [VCHA](https://open.spotify.com/artist/3k6TH9knHgthYJiEVDUC2s) | [Girls of the Year](https://open.spotify.com/album/3Tu6BRfDeKAgdCDqeEXYRG) | 2:58 |
-| 49 | [Air](https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 4 : Air>](https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf) | 2:27 |
-| 50 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |
+| 49 | [BAAM](https://open.spotify.com/track/4Is1b37KJY9XVCgzp81FBW) | [MOMOLAND](https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx) | [Fun to The World](https://open.spotify.com/album/75dkh8s39e7txjNe9cODH3) | 3:28 |
+| 50 | [Air](https://open.spotify.com/track/0E2NCsPqw2jMpBuui126Uo) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 4 : Air>](https://open.spotify.com/album/6LuU1ePuYgNV6Rltq4OAcf) | 2:27 |
 | 51 | [RUN2U](https://open.spotify.com/track/3gFcGnU4kTdMYLXDjH1TK8) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [YOUNG\-LUV.COM](https://open.spotify.com/album/2xPdgNkM4yIQmP7axJ1T1o) | 3:33 |
 | 52 | [Catallena](https://open.spotify.com/track/5fWKr5p15BTazjflJ6HX5j) | [Orange Caramel](https://open.spotify.com/artist/2QHTtUsN6Q13w3QHdfRqsK) | [THE THIRD SINGLE CATALLENA](https://open.spotify.com/album/3FeATTUjZWvmXW2kP9CHWY) | 3:13 |
 | 53 | [Life's Too Short \(English Version\)](https://open.spotify.com/track/2mgzUVvDpb1zMSB4glLQ6T) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Life's Too Short](https://open.spotify.com/album/11lLYKMkFheiV7ObD7WCnx) | 2:58 |

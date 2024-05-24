@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Leila AD",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Low Jay x Leto",
   "name": "R&Bae",
   "tracks": [
     {
@@ -1540,6 +1540,24 @@
       "duration_ms": 177860,
       "name": "D\u00e9chirer",
       "url": "https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q"
+    },
+    {
+      "album": {
+        "name": "D\u00e9j\u00e0",
+        "url": "https://open.spotify.com/album/0J9AOtJdDswtRkk7RWMhfV"
+      },
+      "artists": [
+        {
+          "name": "Warren Saada",
+          "url": "https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172600,
+      "name": "D\u00e9j\u00e0",
+      "url": "https://open.spotify.com/track/4HnNEJntnJXu3T6Z3jk4Tt"
     },
     {
       "album": {
@@ -3360,7 +3378,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190413,
       "name": "Merci \u00e0 mon ex",
       "url": "https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt"

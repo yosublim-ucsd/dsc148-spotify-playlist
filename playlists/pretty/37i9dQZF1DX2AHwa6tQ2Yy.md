@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 
 > Let the music flow through you...
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,687 likes - 70 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,696 likes - 70 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,10 +41,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 31 | [Us Without Me](https://open.spotify.com/track/7fEI29hmaWcCMPi8VJf33C) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Us Without Me](https://open.spotify.com/album/7rQcfmaOYzHKmAlyeuwdTt) | 3:20 |
 | 32 | [I Won't Let You Down](https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3) | [I Won't Let You Down](https://open.spotify.com/album/0MTBD4WKIES8BkS8rfSKnp) | 4:04 |
 | 33 | [Eating out](https://open.spotify.com/track/3HPJLLqf4qdKm6xbXiW979) | [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR), [Rae Khalil](https://open.spotify.com/artist/7cIx4IDh0zLqXBxuNSqFNq) | [Eating out](https://open.spotify.com/album/3biafmyFPcKBz7DY2hfKys) | 2:53 |
-| 34 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
-| 35 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
-| 36 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
-| 37 | [Express](https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Express](https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo) | 2:36 |
+| 34 | [No One But You](https://open.spotify.com/track/7LSypGB8lN2LbdizzUzzgL) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [No One But You](https://open.spotify.com/album/4DlUVB5ZqzYYB11YoHonsR) | 3:33 |
+| 35 | [chasing the bus](https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [chasing the bus](https://open.spotify.com/album/1YT9NhBcdQG2dlWouHhaSp) | 3:08 |
+| 36 | [Express](https://open.spotify.com/track/4HzmXpT5If3OD9cvEwXZUX) | [Reiki Ruawai](https://open.spotify.com/artist/0ZdwAoh3jV19yuDwht8ig3) | [Express](https://open.spotify.com/album/33Iy4OnV5ZEqTKQG2Xbplo) | 2:36 |
+| 37 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 |
 | 38 | [You Never Visit Me \- Single Version](https://open.spotify.com/track/04nzvWWsX2TDl0mjpBVeWd) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [You Never Visit Me](https://open.spotify.com/album/31B0I1DLGYsV7RF2Dszunr) | 3:50 |
 | 39 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 |
 | 40 | [I'm Leaving](https://open.spotify.com/track/33mKFTO1V2QNyhuUBneHDZ) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [The Winding Way](https://open.spotify.com/album/4JvUEoioE4Am9JKyoQrlXH) | 4:21 |
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2AHwa6tQ2Yy.md) - [plain]
 | 51 | [No Need 2 Be Sorry, Call Me? \(ft\. Maverick Sabre\)](https://open.spotify.com/track/1DpjVHeNTz2UIXkAd4CBF8) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Maverick Sabre](https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 3:27 |
 | 52 | [Only Wanna Be With You](https://open.spotify.com/track/7ivEZyVKpHlqCKFFUqOYX1) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Only Wanna Be With You](https://open.spotify.com/album/5MEXy3BoHRig5xBgxdzegm) | 3:00 |
 | 53 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 |
-| 54 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
-| 55 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
+| 54 | [Better Things](https://open.spotify.com/track/4S0TVBmZlqQWjoaFthRlbE) | [Kee'ahn](https://open.spotify.com/artist/6kpchs42F1L1TwlfLT1XoL) | [Better Things](https://open.spotify.com/album/10WziHwO8dTEYnMGsWXQ2C) | 3:42 |
+| 55 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 |
 | 56 | [exodus the north star](https://open.spotify.com/track/6P1X3qgDqlkjf8XmJS9Xiw) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [exodus the north star](https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr) | 3:25 |
-| 57 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
-| 58 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
+| 57 | [Oil & Water](https://open.spotify.com/track/62lq6SYb2Q0BP1nYpFXlby) | [TEEKS](https://open.spotify.com/artist/4ofg0wyo4TjuNtWQ5XxZhJ) | [Something To Feel](https://open.spotify.com/album/39MCSCwQlqT6xm28UpGz39) | 3:12 |
+| 58 | [Unapologetically](https://open.spotify.com/track/3wkvyzXpZBiQklz1xAOKgZ) | [Sharin Attamimi](https://open.spotify.com/artist/5ReCKzVrajz0b10RsNPkLX) | [Unapologetically](https://open.spotify.com/album/1yxfuHYFqvjeTnBTk2RmwU) | 3:00 |
 | 59 | [Find My Way](https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Find My Way](https://open.spotify.com/album/6NWwBZ308qTBXufqWAboMe) | 3:42 |
 | 60 | [Falling](https://open.spotify.com/track/1HXdD31DZc3RI4HpkcTccZ) | [Dean Brady](https://open.spotify.com/artist/02wmBVA2acqB6HLQdRfUwN) | [Falling](https://open.spotify.com/album/5QpKwmnzXq00f9W43yeAhY) | 3:30 |
 | 61 | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/track/2jbbvH4frU7xVXf8Ow5cyU) | [Hamo Dell](https://open.spotify.com/artist/1AIFPaBYtvqWylIbQXjZv2), [Sammy Johnson](https://open.spotify.com/artist/0vMGGYcvLOnwg7t4kl33BA) | [Little Fun \(feat\. Sammy Johnson\)](https://open.spotify.com/album/4aX9Ss1NK4hI1U2YXJbhC9) | 2:50 |

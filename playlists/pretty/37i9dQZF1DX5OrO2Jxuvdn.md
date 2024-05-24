@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 
 > Sweat it out with your favorite country workout songs\. Cover: Lainey Wilson
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,034 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,037 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OrO2Jxuvdn.md) - [plain]
 | 92 | [Angel Eyes](https://open.spotify.com/track/63w0QA1wiV7QhF9jeiHETF) | [Love and Theft](https://open.spotify.com/artist/03a5eVjzFyQlR4XyVSwt4t) | [Love and Theft](https://open.spotify.com/album/6mdbwD2OEFexB0lPXoRofQ) | 3:06 |
 | 93 | [I Was On a Boat That Day](https://open.spotify.com/track/1nnsiuuYlvPF9gxXIiyAr8) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [I Was On a Boat That Day](https://open.spotify.com/album/5l1k8aONEjrNP0SFdcrL6J) | 2:58 |
 | 94 | [Almost Maybes](https://open.spotify.com/track/14JFKtBSqefxfMiKhq6JT8) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Almost Maybes](https://open.spotify.com/album/6GZSdWjroJCuofwkDsCGMD) | 2:59 |
-| 95 | [Sideways](https://open.spotify.com/track/19DnL1HnJiijuEfaiS0Eus) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:04 |
-| 96 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 |
+| 95 | [Love Ain't](https://open.spotify.com/track/6uVzeU47Qzg0rrMneP5BNg) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Love Ain't](https://open.spotify.com/album/5EINVVHmix3Yvu6ruZC1L0) | 3:06 |
+| 96 | [Sideways](https://open.spotify.com/track/19DnL1HnJiijuEfaiS0Eus) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Feel That Fire](https://open.spotify.com/album/0uZtZvLB7YtZnkJ6e1wXa2) | 3:04 |
 | 97 | [Downtown](https://open.spotify.com/track/4kY7rYtE4OQkJNq22OIYRI) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Golden](https://open.spotify.com/album/254bcFt3AV1O2B121GFD9S) | 3:15 |
 | 98 | [Alone Together](https://open.spotify.com/track/3ZsLuJ8uU0lE6rGTkDaqEg) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:51 |
 | 99 | [Girl In A Country Song](https://open.spotify.com/track/1GRiBe0kNCNYpjwCHIyynI) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Start Here](https://open.spotify.com/album/3MpmJPwKgMQ6hkGVlRwOpj) | 3:37 |

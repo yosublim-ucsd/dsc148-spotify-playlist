@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,241 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,286 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,15 +39,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdJqnaw1s7iq.md) - [plain]
 | 29 | [New Theory](https://open.spotify.com/track/230SHXjjyWkT7Zorx6hsiy) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 2:48 |
 | 30 | [Inspector Norse](https://open.spotify.com/track/1NHd4UVxT5d5EGYzlDq17T) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's the Arps](https://open.spotify.com/album/07HuAQQEbH1ShP4b9SsNwp) | 6:40 |
 | 31 | [Down](https://open.spotify.com/track/5eCkuGPZNl4mISFNPgr3Dd) | [Marian Hill](https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5) | [ACT ONE](https://open.spotify.com/album/5laClXclOn3sCQOWKqFohJ) | 3:17 |
-| 32 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
-| 33 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
-| 34 | [Kingdom](https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:10 |
-| 35 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
+| 32 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
+| 33 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
+| 34 | [A Walk](https://open.spotify.com/track/0sQNqu37YQQSI3K0ueswyA) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:16 |
+| 35 | [Kingdom](https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:10 |
 | 36 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 37 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
-| 38 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
-| 39 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 |
-| 40 | [Hey Mami](https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 3:20 |
+| 37 | [1998](https://open.spotify.com/track/47MROyFG8jq21LcLQ1LBJK) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om), [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [1998](https://open.spotify.com/album/41ljfNmEQXIAbILyuedp4i) | 3:44 |
+| 38 | [Howling \- Âme Remix](https://open.spotify.com/track/78jIj6Ph2364zg1ZVIvbIN) | [Howling](https://open.spotify.com/artist/3WTWOrIS77vY3hkCFqTyIw), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Frank Wiedemann](https://open.spotify.com/artist/1gbnoyNZEf6K9HytIv1D94) | [Howling \(Âme Remix\)](https://open.spotify.com/album/3qHg26OrsZMxmd2Y8X6WW5) | 8:05 |
+| 39 | [Hey Mami](https://open.spotify.com/track/7bp7QInQ5uIMzYjJqTtjVA) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sylvan Esso](https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL) | 3:20 |
+| 40 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 |
 | 41 | [Seconds](https://open.spotify.com/track/7603o589huckPbiELnUKgu) | [Ghost Loft](https://open.spotify.com/artist/4fQHCuys7JZvaQzRvB1kPR) | [Seconds](https://open.spotify.com/album/1NZfXehwnpGrl6kpDMdozz) | 2:52 |
 | 42 | [Gimme Some](https://open.spotify.com/track/6170lJSBtiM5trzOtHtdD2) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Easier](https://open.spotify.com/album/1Rmqz6ZTlsRqQup2cGEZ1B) | 5:08 |
 | 43 | [Get Away](https://open.spotify.com/track/10SUWedx0zohs8M3OJpnA7) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:28 |

@@ -10918,7 +10918,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 353920,
       "name": "Defying Gravity - From \"Wicked\" Original Broadway Cast Recording/2003",
       "url": "https://open.spotify.com/track/1bpnYrDCforv9ctJMzJRV8"
@@ -15262,7 +15262,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 219710,
       "name": "Femininomenon",
       "url": "https://open.spotify.com/track/53IRnAWx13PYmoVYtemUBS"
@@ -21330,7 +21330,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -28271,6 +28271,24 @@
     },
     {
       "album": {
+        "name": "Magic Johnson",
+        "url": "https://open.spotify.com/album/3d8rcFcvwLEeYJdDWbMAle"
+      },
+      "artists": [
+        {
+          "name": "dxvidaway",
+          "url": "https://open.spotify.com/artist/4pna49BNJ3HTYwNI9FO9kn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115073,
+      "name": "Magic Johnson",
+      "url": "https://open.spotify.com/track/7KYRr5RqRcQHadabU8zfrU"
+    },
+    {
+      "album": {
         "name": "RAMONA PARK BROKE MY HEART",
         "url": "https://open.spotify.com/album/2G549zeda2XNICgLmU0pNW"
       },
@@ -28894,6 +28912,24 @@
       "duration_ms": 245964,
       "name": "Matilda",
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O"
+    },
+    {
+      "album": {
+        "name": "Maxed Out",
+        "url": "https://open.spotify.com/album/1SX8oq1sameXhpTKtZ3gOt"
+      },
+      "artists": [
+        {
+          "name": "Bayker Blankenship",
+          "url": "https://open.spotify.com/artist/1iP8yKbscxGv4Yzysz7XLr"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172607,
+      "name": "Maxed Out",
+      "url": "https://open.spotify.com/track/3DnsQ5O4uJw3MlYgvBJSCq"
     },
     {
       "album": {
@@ -31780,7 +31816,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"

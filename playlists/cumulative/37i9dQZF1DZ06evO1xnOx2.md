@@ -2,13 +2,13 @@
 
 ### [This Is Hozier](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1xnOx2)
 
-> This is Hozier\. The essential tracks, all in one playlist.
+> This is: Hozier\. Alle wichtigen Tracks in einer Playlist.
 
-44 songs - 2 hr 54 min
+45 songs - 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2024-03-18 |  |
+| [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 | 2024-03-18 | 2024-05-24 |
 | [Angel of Small Death and the Codeine Scene](https://open.spotify.com/track/6JmSfynzr6E0QllQZNEXEb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:39 | 2024-03-18 |  |
 | [Arsonist's Lullabye](https://open.spotify.com/track/1UWhx0pFZccP4jdCIZsj7U) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 4:26 | 2024-03-18 |  |
 | [Be \- Acoustic](https://open.spotify.com/track/6qHRE7BuCC1SarVEmS7pLa) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Be \(Acoustic\)](https://open.spotify.com/album/1HkykM5BnuW8KLN3QVoZ2f) | 3:55 | 2024-03-18 |  |
@@ -26,7 +26,7 @@
 | [I, Carrion \(Icarian\)](https://open.spotify.com/track/3EN1l4uUvFBOy3pD9we2jf) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 3:16 | 2024-03-18 |  |
 | [It Will Come Back](https://open.spotify.com/track/1iugFsBigGHtRwvFVDG9oo) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 4:37 | 2024-03-21 |  |
 | [Jackie and Wilson](https://open.spotify.com/track/4JpazKcfOhbwqZrsYhzHee) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:43 | 2024-03-18 |  |
-| [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 | 2024-03-18 |  |
+| [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 | 2024-03-18 | 2024-05-24 |
 | [Moment's Silence \(Common Tongue\)](https://open.spotify.com/track/6F980QL4axcqjJDMaV7Ew8) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:14 | 2024-03-18 |  |
 | [Movement](https://open.spotify.com/track/1djzKW3eYLyzjjHXazEWWh) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:57 | 2024-03-18 |  |
 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 | 2024-03-18 |  |
@@ -43,11 +43,12 @@
 | [Tell It To My Heart](https://open.spotify.com/track/46nvQpUDsxpS08UTFOeKTA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Tell It To My Heart](https://open.spotify.com/album/27rVuwJ0g0eKRpnvEhQl3G) | 2:45 | 2024-03-18 | 2024-05-21 |
 | [The Bones \- with Hozier](https://open.spotify.com/track/1yTTMcUhL7rtz08Dsgb7Qb) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [The Bones \(with Hozier\)](https://open.spotify.com/album/6HzebUNgGlzC1AMBwHGIkH) | 3:17 | 2024-03-18 |  |
 | [Through Me \(The Flood\)](https://open.spotify.com/track/7KPx2ijBup2MQHMrz6EVSV) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 3:47 | 2024-03-18 |  |
+| [To Be Alone](https://open.spotify.com/track/1XJQ7xI6jzcZybuHemxsPP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 5:23 | 2024-05-24 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-03-23 | 2024-04-21 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-04-21 | 2024-04-27 |
 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-27 |  |
 | [Unknown / Nth](https://open.spotify.com/track/1ptwL6lZNLc654XAaHqcHb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:40 | 2024-03-18 |  |
-| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2024-03-18 | 2024-05-22 |
+| [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 | 2024-03-18 |  |
 | [Why Would You Be Loved](https://open.spotify.com/track/378Ufdm9Bq9SjWRQ6d4jn1) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby! \(Special Edition\)](https://open.spotify.com/album/4qpvDzPCm5PLNLNINaEWM5) | 4:08 | 2024-05-04 |  |
 | [Wildflower and Barley \(feat\. Allison Russell\)](https://open.spotify.com/track/1q1WpDkeFN3y9FlwZ1f440) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 3:42 | 2024-03-23 |  |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2024-03-18 |  |

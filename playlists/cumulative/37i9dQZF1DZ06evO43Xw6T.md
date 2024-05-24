@@ -2,9 +2,9 @@
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
+> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-60 songs - 2 hr 59 min
+61 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Abeja Reina](https://open.spotify.com/track/7C0xpS2Dt5pRVPmGjaZout) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:53 | 2024-01-29 |  |
 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 | 2024-01-29 |  |
 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 | 2024-01-29 |  |
-| [Arriba Las Manos](https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Arriba Las Manos](https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8) | 2:15 | 2024-03-23 |  |
+| [Arriba Las Manos](https://open.spotify.com/track/3mcXM4NI0gkRDKWcSwGCp5) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Arriba Las Manos](https://open.spotify.com/album/2SdiLZLXiB5vsRiQKn06T8) | 2:15 | 2024-03-23 | 2024-05-24 |
+| [Arriba Las Manos](https://open.spotify.com/track/6XJIs2gL8FwY2qmhd8YIgx) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [XX](https://open.spotify.com/album/5NDAZXmSAgG7g9oeysYAZJ) | 2:16 | 2024-05-24 |  |
 | [Así Es El Amor](https://open.spotify.com/track/2MQILdxJy3XTuC4yxDaovi) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [SS23](https://open.spotify.com/album/3lHvL6z4Xy7QNiRFfCMK6S) | 3:37 | 2024-02-13 | 2024-02-25 |
 | [Belico Enamorado](https://open.spotify.com/track/4nTEQjAcv6x4FtOcKoNqvB) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Belico Enamorado](https://open.spotify.com/album/2j7te8MvvK7zJvMd1JmG6U) | 3:08 | 2024-01-29 |  |
 | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/track/2PH9kPW7kcduUlMf1Tve36) | [Tito Torbellino Jr](https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Cosas Claras, Cosas Buenas \(En Vivo\)](https://open.spotify.com/album/15WfvkbK6C6h6zIw18XWf1) | 3:12 | 2024-01-29 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The home for heavy music. Cover: BLACKGOLD",
+  "description": "The home for heavy music. Cover: Boston Manor",
   "name": "The Pit",
   "tracks": [
     {
@@ -34,10 +34,32 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 183404,
       "name": "(i)",
       "url": "https://open.spotify.com/track/3Ve1TJKgbzNBBk3cTZN0Hv"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260625,
+      "name": "a bulleT w/ my namE On (feat. Underoath)",
+      "url": "https://open.spotify.com/track/2tWhiQJQSTa5WE3eiByOf1"
     },
     {
       "album": {
@@ -106,7 +128,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160615,
       "name": "Abortion",
       "url": "https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq"
@@ -208,7 +230,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 189552,
       "name": "AmEN! (feat. Lil Uzi Vert and Daryl Palumbo of Glassjaw)",
       "url": "https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN"
@@ -540,10 +562,28 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198346,
       "name": "Bleeding",
       "url": "https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM"
+    },
+    {
+      "album": {
+        "name": "Blinding Faith",
+        "url": "https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171090,
+      "name": "Blinding Faith",
+      "url": "https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4"
     },
     {
       "album": {
@@ -1153,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "crying",
+        "url": "https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187234,
+      "name": "crying",
+      "url": "https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0"
+    },
+    {
+      "album": {
         "name": "Curse",
         "url": "https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe"
       },
@@ -1516,7 +1574,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
@@ -1863,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+    },
+    {
+      "album": {
         "name": "Finger",
         "url": "https://open.spotify.com/album/6wXWZXiqdnCgEI7NzjG9hC"
       },
@@ -2185,6 +2261,24 @@
     },
     {
       "album": {
+        "name": "GIRL'S TALK",
+        "url": "https://open.spotify.com/album/6YS7fQQXkdusaHhZGrEjpO"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174767,
+      "name": "GIRL'S TALK",
+      "url": "https://open.spotify.com/track/4D3WFAXjpPEBnRpDMN6TF5"
+    },
+    {
+      "album": {
         "name": "Go Tobann",
         "url": "https://open.spotify.com/album/2VzBhtUDC03lxZRA9Ol0bN"
       },
@@ -2214,7 +2308,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222758,
       "name": "GOD COMPLEX",
       "url": "https://open.spotify.com/track/0HXjcTc7gA4LFIDEex06cm"
@@ -2446,6 +2540,24 @@
       "duration_ms": 221200,
       "name": "Hate Me (feat. Loveless)",
       "url": "https://open.spotify.com/track/70RYhIYRYeL1YNJcAIBjjm"
+    },
+    {
+      "album": {
+        "name": "HEAT ME UP",
+        "url": "https://open.spotify.com/album/71aOtUp6xHip01jrsaYLCt"
+      },
+      "artists": [
+        {
+          "name": "Boston Manor",
+          "url": "https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "HEAT ME UP",
+      "url": "https://open.spotify.com/track/0ZI1XuZlawgTXIvo9nle6l"
     },
     {
       "album": {
@@ -2980,7 +3092,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 228470,
       "name": "Kool-Aid",
       "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
@@ -3398,7 +3510,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 251460,
       "name": "Memento",
       "url": "https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y"
@@ -3662,6 +3774,24 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200236,
+      "name": "n/A",
+      "url": "https://open.spotify.com/track/0lKUFDN6EFpbg5bnUfkkrl"
     },
     {
       "album": {
@@ -4038,7 +4168,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172653,
       "name": "Poison",
       "url": "https://open.spotify.com/track/19Rr3ODfVAbleAlXhnNG3Z"
@@ -4416,7 +4546,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 215426,
       "name": "Scapegoat",
       "url": "https://open.spotify.com/track/31RMzF3l0IK5KZH4hImxZP"
@@ -5171,6 +5301,32 @@
     },
     {
       "album": {
+        "name": "The Echoes of Disparity",
+        "url": "https://open.spotify.com/album/4y30LkmFu4kDlppNHlMOeI"
+      },
+      "artists": [
+        {
+          "name": "Future Palace",
+          "url": "https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21"
+        },
+        {
+          "name": "Charlie Rolfe",
+          "url": "https://open.spotify.com/artist/61LUcApo9W4qxM7PjbO6gV"
+        },
+        {
+          "name": "As Everything Unfolds",
+          "url": "https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231708,
+      "name": "The Echoes of Disparity",
+      "url": "https://open.spotify.com/track/15cliM4IVHGvwbK9O36xcV"
+    },
+    {
+      "album": {
         "name": "The General",
         "url": "https://open.spotify.com/album/1n3udjedXeuxUh8vU46giM"
       },
@@ -5222,6 +5378,24 @@
       "duration_ms": 263320,
       "name": "The Love You Want",
       "url": "https://open.spotify.com/track/4lVVewXw4g8hB7sldQyJiL"
+    },
+    {
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/7bwYqda70nBp9i4n3R0Vuj"
+      },
+      "artists": [
+        {
+          "name": "Zetra",
+          "url": "https://open.spotify.com/artist/19OKi91yhqwfQqFyROn06f"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181726,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/0635umlrKge8mAyC3bhDh4"
     },
     {
       "album": {
@@ -5537,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "TOMBSTONE",
+        "url": "https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr"
+      },
+      "artists": [
+        {
+          "name": "Wage War",
+          "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178400,
+      "name": "TOMBSTONE",
+      "url": "https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07"
+    },
+    {
+      "album": {
         "name": "The Fear of Fear",
         "url": "https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk"
       },
@@ -5588,6 +5780,24 @@
       "duration_ms": 273693,
       "name": "Too Far Gone?",
       "url": "https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW"
+    },
+    {
+      "album": {
+        "name": "POST HUMAN: NeX GEn",
+        "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240590,
+      "name": "Top 10 staTues tHat CriEd bloOd",
+      "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
     },
     {
       "album": {
@@ -5754,7 +5964,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199040,
       "name": "VICTIM",
       "url": "https://open.spotify.com/track/4o0xjeZ8K9OViCUbMirwcg"
@@ -5880,7 +6090,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 182449,
       "name": "We Are The Rest",
       "url": "https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0"
@@ -6180,6 +6390,28 @@
       "duration_ms": 120149,
       "name": "YOU NEEDED A HIT//",
       "url": "https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z"
+    },
+    {
+      "album": {
+        "name": "You Will Never Get Me",
+        "url": "https://open.spotify.com/album/3YXZGlXuZHRdttyYShJRGn"
+      },
+      "artists": [
+        {
+          "name": "CANDY",
+          "url": "https://open.spotify.com/artist/4oWlenweHbPcDXKvyNUbBl"
+        },
+        {
+          "name": "Justice Tripp",
+          "url": "https://open.spotify.com/artist/008UbL8nKPVp5qTOVzG6S2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139240,
+      "name": "You Will Never Get Me",
+      "url": "https://open.spotify.com/track/42MMJB5rgQu5X0P4nA8W6a"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-174 songs - 7 hr 17 min
+177 songs - 7 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Del Mar](https://open.spotify.com/track/4v2042FzylQz6ysJlMjAY4) | [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Del Mar](https://open.spotify.com/album/2IYjVks9RJ8lVKMp1FCvsQ) | 2:40 | 2023-08-01 |  |
 | [Diaphanous](https://open.spotify.com/track/3xdDoLDyvsMgyl1BwVaZ5E) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Diaphanous](https://open.spotify.com/album/11WJw1yb4yuNMtrwqU8FHS) | 2:53 | 2023-11-13 |  |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-04 |  |
+| [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 | 2024-05-23 |  |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-05 |  |
 | [Dulcian](https://open.spotify.com/track/3QqwaqJI54yCVhSHX94sQo) | [Anders Schill Paulsen](https://open.spotify.com/artist/7tQfGq1cmYQtZwNKs6Cq8b) | [Dulcian](https://open.spotify.com/album/5xADNZ9czbbHhHPg5aJueT) | 2:17 | 2023-05-09 |  |
 | [Echidna](https://open.spotify.com/track/66IOe8PcQPacJ3D3MtGLMS) | [Northern Dreams](https://open.spotify.com/artist/35BDCenbwCVaUQUxqoAYym) | [Echidna](https://open.spotify.com/album/28l69Lzo3apBK4Os1PDh7Y) | 2:24 | 2024-04-03 |  |
@@ -67,6 +68,7 @@
 | [Forgive Them](https://open.spotify.com/track/5ygpixsIV7ess0ZwLGJ5Nn) | [Brock Hewitt: Stories in Sound](https://open.spotify.com/artist/1PWCCcjCmwzjYb48VWpGcm), [The David Roy Collective](https://open.spotify.com/artist/3rQj5XISunNkD97E1PGSrt), [MajorLink](https://open.spotify.com/artist/56M0OscfqROb5IPl7jGnyS) | [Forgive Them](https://open.spotify.com/album/78orR2kosXcnldCpBF24Cf) | 4:34 | 2023-05-09 | 2024-02-14 |
 | [Før](https://open.spotify.com/track/6Gr6nfOHrGnnK1rGerb0eb) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Før](https://open.spotify.com/album/7emneKjgmNyhsAUGbPv40d) | 2:37 | 2023-05-09 |  |
 | [Get To Know You](https://open.spotify.com/track/7LEiXyKzCgKoyC886AWpZL) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Get To Know You](https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz) | 2:22 | 2023-05-09 |  |
+| [Give Me Love](https://open.spotify.com/track/4iQvog1874l8QQsOuzPMW6) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Give Me Love](https://open.spotify.com/album/0zSP1ER1taYJi00AMyD9S1) | 2:21 | 2024-05-23 |  |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2023-05-09 | 2024-02-14 |
 | [Hearts of Desire](https://open.spotify.com/track/6CWzmoxDJJdIJ5GImw0RHv) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Hearts of Desire](https://open.spotify.com/album/3Wt4j3Ro26gcIOYvmp3DLb) | 2:19 | 2023-11-07 |  |
 | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/track/13MvoF7XbeyuvUkYFdcTsR) | [Oscar Johansson](https://open.spotify.com/artist/23tMk4k83BihntN9bkQ2K1) | [Hemma Är Där Hjärtat Bor](https://open.spotify.com/album/1g8Cg2tX8F6vuflRgaGL1o) | 1:56 | 2023-05-09 | 2024-02-03 |
@@ -103,6 +105,7 @@
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-05-09 |  |
 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Longing](https://open.spotify.com/track/7jL00x2jA5kyTuaqqf8PYq) | [Dan Lambert](https://open.spotify.com/artist/4Z9sG8VEIAR6v4wlMncoNI) | [Echoes of Home](https://open.spotify.com/album/7yCqK5TU8KBZM4MeyHqydu) | 2:22 | 2023-12-12 |  |
+| [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-23 |  |
 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 | 2024-04-22 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2023-05-09 |  |
 | [Meditabundus](https://open.spotify.com/track/5e5tJl04Fp74oHxpsrC7Tk) | [Kellen Chase](https://open.spotify.com/artist/3gDDFYy7iC2h6cr4wOSV5t) | [Meditabundus](https://open.spotify.com/album/0lvz7MO3PlK8QDxvvc35pN) | 2:30 | 2023-05-09 |  |

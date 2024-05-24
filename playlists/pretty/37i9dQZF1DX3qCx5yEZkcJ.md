@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,481,560 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,481,599 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 36 | [Rock](https://open.spotify.com/track/0YexmBFxPG2pLlSTBmiTvW) | [DisHand](https://open.spotify.com/artist/0fWugqSess3tlDdzjPu1gy), [tillDawn](https://open.spotify.com/artist/0LqQ7Y65LM0zomhoexwyzV) | [Rock](https://open.spotify.com/album/4ErwjOzz1tTmm8vVNBCMaO) | 2:03 |
 | 37 | [A Tribute To First Love](https://open.spotify.com/track/4qdhBJOBh4wVPsiTBp8tGx) | [Bajune Tobeta](https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7) | [A Tribute to First Love](https://open.spotify.com/album/5uAYIbzCtrDl31Wzw2xloM) | 4:13 |
 | 38 | [night sky](https://open.spotify.com/track/5lMjVg7lcKqXey9vKAzgl4) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Kanzas\-City](https://open.spotify.com/artist/49Z5vwf8nQWwSkOt6BUSZD) | [night sky](https://open.spotify.com/album/516345pBZ5P5mVE99OPnLf) | 1:46 |
-| 39 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 |
-| 40 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
+| 39 | [Its Rainy](https://open.spotify.com/track/3IH4y5nbL6mb9KR3QhgsfI) | [Eric Lau](https://open.spotify.com/artist/68P6JiHWJsv5VqfLPchS1n) | [Examples](https://open.spotify.com/album/28SBlJC9xoNxZzxcBtHeOD) | 2:08 |
+| 40 | [SMiLE](https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY) | [DOMi & JD BECK](https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U) | [SMiLE](https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk) | 3:11 |
 | 41 | [White Tea](https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ) | [Styn](https://open.spotify.com/artist/0vTPGCQGp2pkRUCXF8gEXd), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [White Tea](https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ) | 1:28 |
 | 42 | [ADAM & EVE \- Instrumental](https://open.spotify.com/track/3zSLn3yfCLqlcVibx9zqwv) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [DIAMONDS & FREAKS \(Instrumentals\)](https://open.spotify.com/album/3UMOiCQYUwXsjmHwTjbgP2) | 4:29 |
 | 43 | [Quiet in the Garden](https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8) | [Justnormal](https://open.spotify.com/artist/2YCz7aHoRoAZ435UDLOKOs) | [Just a Lullaby](https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd) | 2:20 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 63 | [Smoke Rings](https://open.spotify.com/track/5XquEMLviSzVmnt8fzZqVu) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [smwhere, smtime](https://open.spotify.com/album/2kw2r9j47LTz8dFt7KBJh8) | 1:56 |
 | 64 | [Only Way 2 Go \(Instrumental\)](https://open.spotify.com/track/78e0culZ0CKdTNf4aUzOc8) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [The Diam Piece Instrumentals](https://open.spotify.com/album/0ixOltqf2ad9LU7hVPOcPa) | 2:33 |
 | 65 | [City Strollin'](https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nocatchphraze](https://open.spotify.com/artist/4efXbuujGTBlH1mfRkvnpJ), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [City Strollin'](https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4) | 3:18 |
-| 66 | [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 |
-| 67 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 |
+| 66 | [Lofi Loyal Café Customer](https://open.spotify.com/track/3Ogkpd8w9mr1zK10U1TjPX) | [Single Friend](https://open.spotify.com/artist/5R18HPWho6b4BMhMlKHETL), [Lo'fi Boy](https://open.spotify.com/artist/30zqizQHom62N4hV28E1Hz) | [Lofi Loyal Café Customer](https://open.spotify.com/album/6LWEslIGErcBYOhQS6Hiwu) | 2:48 |
+| 67 | [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 |
 | 68 | [5k](https://open.spotify.com/track/4sOKXbVMDiqWSj9uojOcfp) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [JPRK](https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH) | [edbl & friends \- JPRK](https://open.spotify.com/album/61TTiDwK1dT9CDWczbcg8G) | 2:41 |
 | 69 | [Riverside](https://open.spotify.com/track/2SkheMmym933XZaCNukLkm) | [Karmawin](https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK) | [Riverside](https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn) | 3:18 |
 | 70 | [afternoon shower](https://open.spotify.com/track/6Fgzh26G7ZRawCdHBG7BNq) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [afternoon shower](https://open.spotify.com/album/4RJjmfGyLb7wlUxcqtc9y1) | 2:07 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qCx5yEZkcJ.md) - [plain]
 | 73 | [Meditations on Guitar](https://open.spotify.com/track/2vzAM5zjTyfH4Gfqo3p5Vv) | [Ra Ra Raj](https://open.spotify.com/artist/5tSUCupABpVmFu1rMt25Sn) | [Wonga Park](https://open.spotify.com/album/3ZfNzg2HRuMEpfs3IRA8WU) | 1:46 |
 | 74 | [EVOKE](https://open.spotify.com/track/0TwK1i7La2lfEOUCcH1g9t) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [EVOKE](https://open.spotify.com/album/75loSbBYSXtaRofHhpBL6d) | 3:54 |
 | 75 | [Algebreak](https://open.spotify.com/track/24zpLtGPVHOFQ6xyvi95hj) | [Allmos](https://open.spotify.com/artist/4caJwBnZ75geSKhAhqFXDE) | [Mostly Instrumentals LP](https://open.spotify.com/album/5IofXcZhek4Whxlo4r7wuk) | 2:05 |
-| 76 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 |
-| 77 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
+| 76 | [SICK](https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY) | [Robert de Boron](https://open.spotify.com/artist/18GAxEc3IY2wGmy2QhnrGD) | [SICK](https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ) | 3:21 |
+| 77 | [Talloires](https://open.spotify.com/track/5yn48C8nxwoYU31pOt6FuR) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA) | [Talloires](https://open.spotify.com/album/2h5zrNlyCNh15Nr3KgcpO3) | 1:53 |
 | 78 | [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 |
 | 79 | [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 |
 | 80 | [Smiling World](https://open.spotify.com/track/4Taz7DRjSTrAO3PXPdhFgN) | [Mujo](https://open.spotify.com/artist/0vg08N1z9G9LrGLkG1nNDS), [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Smiling World](https://open.spotify.com/album/03YLbgauiRKjap4IUesBNS) | 2:06 |
 
-Snapshot ID: `ZkavHwAAAADkc/36+6ePDAeoxrx0hfPw`
+Snapshot ID: `Zk9Z8AAAAABEh1WgOB/arUgTQlC0a38C`

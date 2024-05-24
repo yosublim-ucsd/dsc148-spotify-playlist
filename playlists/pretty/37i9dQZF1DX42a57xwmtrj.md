@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,409 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,502 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 39 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
 | 40 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
 | 41 | [Historia de un Minuto](https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Rock Sin Visa, Vol\. 2](https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL) | 3:07 |
-| 42 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
-| 43 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
+| 42 | [La chica banda](https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:48 |
+| 43 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 44 | [El Chamuco](https://open.spotify.com/track/5RGPch9I7US0JeQK8KAnSg) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Valedores Juveniles](https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN) | 2:59 |
 | 45 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |
 | 46 | [Me Llamas](https://open.spotify.com/track/2vurarFFGibcMG7Bdx7WDH) | [Jessie Blues](https://open.spotify.com/artist/4MlV4s55GdlnJTnHl81Cbk) | [Entre Ángeles y Poetas](https://open.spotify.com/album/20GZvLSomrpPTQwUPQv5bi) | 4:13 |

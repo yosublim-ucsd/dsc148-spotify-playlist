@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Bluay",
-  "num_followers": 45623,
+  "num_followers": 45635,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -515,22 +515,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 260571,
       "name": "Fica",
       "url": "https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "Essa Saia",
         "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 209069,
       "name": "Essa Saia",
       "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -771,18 +771,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Pontos Finais",
-        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
+        "name": "Quem Tu Mereces",
+        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
       },
       "artists": [
         {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
         }
       ],
-      "duration_ms": 194039,
-      "name": "Pontos Finais",
-      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
+      "duration_ms": 212331,
+      "name": "Quem Tu Mereces",
+      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Quem Tu Mereces",
-        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
+        "name": "Pontos Finais",
+        "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
       "artists": [
         {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        },
-        {
-          "name": "Kuptz",
-          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
         }
       ],
-      "duration_ms": 212331,
-      "name": "Quem Tu Mereces",
-      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
+      "duration_ms": 194039,
+      "name": "Pontos Finais",
+      "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -907,18 +907,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "Lugar Favorito",
-        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+        "name": "\u00c0 Tua Porta",
+        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
       },
       "artists": [
         {
-          "name": "Arag\u00e3o",
-          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
         }
       ],
-      "duration_ms": 197333,
-      "name": "Lugar Favorito",
-      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
+      "duration_ms": 211636,
+      "name": "\u00c0 Tua Porta",
+      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -947,26 +951,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "\u00c0 Tua Porta",
-        "url": "https://open.spotify.com/album/7gYGEPMjrZIad5Lk6mous8"
-      },
-      "artists": [
-        {
-          "name": "Van Zee",
-          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
-        },
-        {
-          "name": "Carolina Deslandes",
-          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
-        }
-      ],
-      "duration_ms": 211636,
-      "name": "\u00c0 Tua Porta",
-      "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "That's Me",
         "url": "https://open.spotify.com/album/3Pv2DAxh8Fql8dPafV4I7u"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Lugar Favorito",
+        "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
+      },
+      "artists": [
+        {
+          "name": "Arag\u00e3o",
+          "url": "https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Lugar Favorito",
+      "url": "https://open.spotify.com/track/52gj1McTFcNmZRlIq3EpO3"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
-      },
-      "artists": [
-        {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
         "name": "Volkswagen Antigo",
         "url": "https://open.spotify.com/album/2lzsexEm86rVe29aDzJBWu"
       },
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-05-16 23:00:00",
       "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
         "name": "O Que N\u00f3s Fomos",
         "url": "https://open.spotify.com/album/5ry5DvQrHsTy6K1rblmtWJ"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 158081,
       "name": "O Que N\u00f3s Fomos",
       "url": "https://open.spotify.com/track/1t7wZZ9tR4E25OHBnQxCgf"
+    },
+    {
+      "added_at": "2024-05-16 23:00:00",
+      "album": {
+        "name": "Qu\u00edmica",
+        "url": "https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab"
+      },
+      "artists": [
+        {
+          "name": "MDO (Menino de Ouro)",
+          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
+        }
+      ],
+      "duration_ms": 152255,
+      "name": "Qu\u00edmica",
+      "url": "https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6"
     },
     {
       "added_at": "2024-05-16 23:00:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 223100,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/2dWbucCC3cVXQWi6JaL7js"
-    },
-    {
-      "added_at": "2024-05-16 23:00:00",
-      "album": {
-        "name": "Qu\u00edmica",
-        "url": "https://open.spotify.com/album/5SArc0nP1ExSLHburSbLab"
-      },
-      "artists": [
-        {
-          "name": "MDO (Menino de Ouro)",
-          "url": "https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1"
-        }
-      ],
-      "duration_ms": 152255,
-      "name": "Qu\u00edmica",
-      "url": "https://open.spotify.com/track/6HhCHim3sSAWiamanjMkv6"
     },
     {
       "added_at": "2024-05-16 23:00:00",

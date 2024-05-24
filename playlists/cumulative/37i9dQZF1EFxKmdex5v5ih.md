@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-422 songs - 23 hr 17 min
+423 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,7 +207,8 @@
 | [king of the world, pt\. 1](https://open.spotify.com/track/3gKYW1rcm3jgAtDPSUChEl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:06 | 2023-06-22 |  |
 | [king of the world, pt\. 3](https://open.spotify.com/track/6fh9K3SyISdYR5DSs0BGwc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:30 | 2023-06-22 | 2023-12-14 |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 | 2024-03-25 |
-| [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 |  |
+| [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 | 2024-05-24 |
+| [Lead Me On](https://open.spotify.com/track/4Rp2SBHnd68nEBvpKX8sTA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:53 | 2024-05-23 |  |
 | [Leave Me Alone](https://open.spotify.com/track/2ZJapIiYXKyTiy82xCn6x0) | [Without Shelter](https://open.spotify.com/artist/2HNpxWTZNdh0lkSTquhmie) | [Leave Me Alone](https://open.spotify.com/album/7CtqQG5hfqtjh1MjF81WV5) | 3:32 | 2022-07-09 |  |
 | [leave my mind](https://open.spotify.com/track/1Z5nR7epPPmldWTOcUF8Iz) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 3:18 | 2021-12-27 |  |
 | [Let Me Down Slowly](https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 2:49 | 2021-12-27 |  |

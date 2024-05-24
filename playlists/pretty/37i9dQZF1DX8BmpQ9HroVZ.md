@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan featuring AUR, Anuv Jain, Shubh and more\. Cover: Kaavish, Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,258 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,326 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

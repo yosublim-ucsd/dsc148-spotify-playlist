@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 
 > Music from "Love Live! Superstar!!" 「ラブライブ！スーパースター!!」の楽曲を1つのプレイリストで。©2022 プロジェクトラブライブ！スーパースター!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,354 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,356 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 14 | [Flyer's High](https://open.spotify.com/track/48ytoosfx8XQFWBRsWOXSS) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
 | 15 | [Starry Prayer](https://open.spotify.com/track/7cGH6rmdQga1CpehVY8HwS) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 4:08 |
 | 16 | [ビギナーズRock!!](https://open.spotify.com/track/0rTV99hC01MZ0hw2NaqNhu) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:14 |
-| 17 | [Free Flight](https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:30 |
+| 17 | [青空を待ってる](https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:39 |
 | 18 | [ミッドナイトラプソディ](https://open.spotify.com/track/0VVOwXxpiB4Uzvszq02L9H) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:50 |
 | 19 | [星屑クルージング](https://open.spotify.com/track/20DDILVNtFMfzEjYWCgZDZ) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:54 |
 | 20 | [LIVE with a smile!](https://open.spotify.com/track/2ADhseHRNiaV6NOjP6qZ2X) | [Aqours](https://open.spotify.com/artist/6zxQda06WxXX8GmCeYstwV), [Nijigasaki High School Idol Club](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1), [Liella!](https://open.spotify.com/artist/2U3Vgx19saFDI9ZH4KzEIn) | [LIVE with a smile!](https://open.spotify.com/album/440iaSHnfUVbHAu9m6Qtz8) | 5:13 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01OLCojLDti.md) - [plain]
 | 24 | [パレードはいつも \- 若菜四季 Ver.](https://open.spotify.com/track/6U3718dDUjqpbWzkW0NxQF) | [若菜四季 \(CV.大熊和奏\)](https://open.spotify.com/artist/5dQJ5gnjrA2MQEmPRzvt4O) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:38 |
 | 25 | [みてろ！](https://open.spotify.com/track/0uRiiumJpHbTCFmCPsYVJ1) | [平安名すみれ \(CV.ペイトン尚未\)](https://open.spotify.com/artist/4Du7haj4stBA22g5jfb9Mp) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 3:35 |
 | 26 | [エンドレスサーキット \- 唐 可可 Ver.](https://open.spotify.com/track/5v8NI6etnhsmj6MmzkbBpm) | [唐 可可 \(CV.Liyuu\)](https://open.spotify.com/artist/5ox19lYzPV4s1N3mTkNLRI) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 2:35 |
-| 27 | [青空を待ってる](https://open.spotify.com/track/4kUI2w8uU0KmDb6pdvXPgC) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [What a Wonderful Dream!!](https://open.spotify.com/album/2zzWtgloCBJXKTilI5ioJ1) | 4:39 |
+| 27 | [Free Flight](https://open.spotify.com/track/2AZuJhYwI8eALfuCsri0IP) | [澁谷かのん \(CV.伊達さゆり\)](https://open.spotify.com/artist/2KO3nQQqN4LJAKQebedEHF) | [Second Sparkle](https://open.spotify.com/album/174XCy9uPbeni6paFwenJP) | 3:30 |
 | 28 | [迷宮讃歌 \- 葉月 恋 Ver.](https://open.spotify.com/track/47KDLm74BUrouKPQLr8bhi) | [葉月 恋 \(CV.青山なぎさ\)](https://open.spotify.com/artist/0VWeMWIDKNxCARCogBoyyD) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:31 |
 | 29 | [駆けるメリーゴーランド \- 嵐 千砂都 Ver.](https://open.spotify.com/track/3o8J9VsfhIDpsJlRRu8VBW) | [嵐 千砂都 \(CV.岬 なこ\)](https://open.spotify.com/artist/44iPyW0GCQm1Qk5e5UPT8H) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:41 |
 | 30 | [Dreamer Coaster \- 桜小路きな子 Ver.](https://open.spotify.com/track/5Mo1Rl1U1n2WTruqGDtAYB) | [桜小路きな子 \(CV.鈴原希実\)](https://open.spotify.com/artist/6CsJiRhS9wVBUwzqfmhFwD) | [リエラのうた2](https://open.spotify.com/album/4uALKWcmsB7CZX4ZtUqEhB) | 3:33 |

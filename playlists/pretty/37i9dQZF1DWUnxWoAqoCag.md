@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 
 > 歌詞を見ながら、ヒット曲を歌い尽くそう ！
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,625 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,642 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 53 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 54 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
 | 55 | [美しい鰭](https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [ひみつスタジオ](https://open.spotify.com/album/5u95y591xPiCFY3UI5gHqY) | 3:31 |
-| 56 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
-| 57 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
+| 56 | [Subtitle](https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Subtitle](https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy) | 5:05 |
+| 57 | [花](https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [花](https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw) | 4:06 |
 | 58 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 59 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 |
 | 60 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 65 | [First Love](https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [First Love](https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6) | 4:17 |
 | 66 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 67 | [サクラキミワタシ](https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [サクラキミワタシ](https://open.spotify.com/album/4gOlBkqSeyF4uZPey6aZAd) | 3:22 |
-| 68 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
-| 69 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 68 | [アンビバレント](https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [アンビバレント](https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs) | 4:02 |
+| 69 | [全方向美少女](https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [全方向美少女](https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl) | 2:07 |
 | 70 | [点描の唄](https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9), [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [青と夏](https://open.spotify.com/album/5enxwo7c4D5mhXp5f56OLy) | 5:07 |
 | 71 | [残響散歌](https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [残響散歌](https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6) | 3:04 |
 | 72 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUnxWoAqoCag.md) - [plain]
 | 86 | [ドライフラワー](https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 4:46 |
 | 87 | [愛の花](https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [愛の花](https://open.spotify.com/album/34svnrcYhteBFCSQMLnfYZ) | 4:02 |
 | 88 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
-| 89 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
+| 89 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
 | 90 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
-| 91 | [PUPPET SHOW](https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DNA](https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj) | 3:19 |
+| 91 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 |
 | 92 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 |
 | 93 | [レオ](https://open.spotify.com/track/3eg3igrhEhzk8bqqRz6XCt) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:58 |
 | 94 | [SOULSOUP](https://open.spotify.com/track/7r23DlIJauiYbGYojLgarV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [SOULSOUP](https://open.spotify.com/album/7HgPSKEcCguaAzen1GIgka) | 5:14 |
 | 95 | [酔いどれ知らず](https://open.spotify.com/track/4oPCfEDVIKnPJ6UPkhJPCa) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [酔いどれ知らず](https://open.spotify.com/album/4mLK5FpqwN0OwbDw3tToit) | 2:14 |
-| 96 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
-| 97 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 |
-| 98 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
-| 99 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 96 | [アイラブユー](https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 3:55 |
+| 97 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
+| 98 | [NEW DANCE](https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [NEW DANCE](https://open.spotify.com/album/5iBG5tDegPYWxpzmgYs4KK) | 3:18 |
+| 99 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
 | 100 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 |
 
 Snapshot ID: `Zk4IcAAAAADmPRx49yIF77LBmb8qXH+D`

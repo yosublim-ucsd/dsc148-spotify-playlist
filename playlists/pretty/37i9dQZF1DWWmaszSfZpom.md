@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 
 > O batidão dos funks mais bombados pra agitar a pista do seu baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,395 likes - 93 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 962,344 likes - 93 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaszSfZpom.md) - [plain]
 | 54 | [Finalidade Era Ficar em Casa](https://open.spotify.com/track/2Y73798F4zbbbvKT02fbtE) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ) | [Finalidade Era Ficar em Casa](https://open.spotify.com/album/2Fm7ad2tXYu5LHKePgBLcP) | 3:05 |
 | 55 | [FICA À VONTADE](https://open.spotify.com/track/0h1mVA8gOPR71lxSeY67uT) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [FICA À VONTADE](https://open.spotify.com/album/0m912C2hGRDD6GlpHqN3VY) | 2:20 |
 | 56 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
-| 57 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
-| 58 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
+| 57 | [Talarica](https://open.spotify.com/track/4VUcZNeuit8e7zmSAI4GbL) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [MC 2jhow](https://open.spotify.com/artist/14jVHWj9dqpLhs8hHEMnyJ) | [Talarica](https://open.spotify.com/album/2DWrdCrdqBLbK83AfvcAEP) | 2:42 |
+| 58 | [Papum](https://open.spotify.com/track/0meYgE9n532T2GxRIQ4FFg) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi) | [Papum](https://open.spotify.com/album/3tFMDqGswZfRy3RX4Ek1bQ) | 2:19 |
 | 59 | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/track/1Wsyt5It2PYnht0aDYcNyR) | [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0) | [Tá Tranquilo, Tá Favorável](https://open.spotify.com/album/570Y9gjImTqqZ3tnwcmo5N) | 4:11 |
 | 60 | [Sapequinha](https://open.spotify.com/track/7LPR6AdkOQR9WpEixCGNCk) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [MC Lan](https://open.spotify.com/artist/4mb1xtQVGSK5dh8AbtwBiR) | [Sapequinha](https://open.spotify.com/album/0flHUcoTFiyujvz0JpfBja) | 2:14 |
 | 61 | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/track/78Q2gghkt8iLJ7J0Uc4QYb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Doguinha](https://open.spotify.com/artist/6GX3y0u61X0EHZZogsQFbL), [MC Pupio](https://open.spotify.com/artist/0n9VWli2NkR8OqJS4dXTqw) | [Din Din Din \(Participação especial de MC Pupio e MC Doguinha\)](https://open.spotify.com/album/6laRHX70QNe2Wt3iWkc8wK) | 3:04 |

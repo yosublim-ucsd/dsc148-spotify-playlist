@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,709 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,707 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 18 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 19 | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/track/4gOx9XctmKHQ42ytfKNbiC) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [sleepless nights \(My Sweden Laundry \#1\)](https://open.spotify.com/album/4U33ucPMfJMmaMo0SA6kqd) | 3:40 |
 | 20 | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 |
-| 21 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
-| 22 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 21 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 22 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 23 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 24 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
 | 25 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 38 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 39 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 |
 | 40 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 |
-| 41 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
-| 42 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
-| 43 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 41 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 42 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
+| 43 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
 | 44 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 45 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
 | 46 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
 | 47 | [Back Then \(Feat\. Sue Museum\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [soo](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 |
 | 48 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 | 49 | [Losing Myself](https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX) | [Gogang](https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU) | [Losing Myself](https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH) | 2:56 |
-| 50 | [Our little island](https://open.spotify.com/track/2UnkJKUrqHGUGHlaK9pM7Z) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [Our little island](https://open.spotify.com/album/2KirwVBpp2neOPnRv3GjJT) | 3:42 |
+| 50 | [I’ll just smile](https://open.spotify.com/track/3yQDvoUWr6e3cY5R1dBzzG) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 2:30 |
 
 Snapshot ID: `ZjzpJQAAAAC6YNb6j0hHNukrnG9syIkH`

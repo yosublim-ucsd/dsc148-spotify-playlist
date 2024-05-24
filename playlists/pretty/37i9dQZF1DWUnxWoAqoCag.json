@@ -1,6 +1,6 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 189625,
+  "num_followers": 189642,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "\u82b1",
-        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
-      },
-      "artists": [
-        {
-          "name": "Fujii Kaze",
-          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
-        }
-      ],
-      "duration_ms": 246699,
-      "name": "\u82b1",
-      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
-    },
-    {
-      "added_at": "2024-05-22 15:00:00",
-      "album": {
         "name": "Subtitle",
         "url": "https://open.spotify.com/album/1v9BX6TLVaStze2oJkb3Jy"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 305509,
       "name": "Subtitle",
       "url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf"
+    },
+    {
+      "added_at": "2024-05-22 15:00:00",
+      "album": {
+        "name": "\u82b1",
+        "url": "https://open.spotify.com/album/5ZV6rLgTmKi9xVJxLEPKcw"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "duration_ms": 246699,
+      "name": "\u82b1",
+      "url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon"
     },
     {
       "added_at": "2024-05-22 15:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
-      },
-      "artists": [
-        {
-          "name": "\u4e43\u7d2b",
-          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
-        }
-      ],
-      "duration_ms": 127925,
-      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
-      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
-    },
-    {
-      "added_at": "2024-05-22 15:00:00",
-      "album": {
         "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
         "url": "https://open.spotify.com/album/4RGVp4RZ9QKQGZrbMEJUKs"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
+    },
+    {
+      "added_at": "2024-05-22 15:00:00",
+      "album": {
+        "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+        "url": "https://open.spotify.com/album/20UD7L2sDC6sWOwYPBPnJl"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "duration_ms": 127925,
+      "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
+      "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
     },
     {
       "added_at": "2024-05-22 15:00:00",
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "Nagisa",
-        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
+        "name": "NEW DNA",
+        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
       "artists": [
         {
-          "name": "imase",
-          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
         }
       ],
-      "duration_ms": 226489,
-      "name": "Nagisa",
-      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
+      "duration_ms": 199960,
+      "name": "PUPPET SHOW",
+      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
     },
     {
       "added_at": "2024-05-22 15:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "NEW DNA",
-        "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
+        "name": "Nagisa",
+        "url": "https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK"
       },
       "artists": [
         {
-          "name": "XG",
-          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
         }
       ],
-      "duration_ms": 199960,
-      "name": "PUPPET SHOW",
-      "url": "https://open.spotify.com/track/7sDkXyDikXhpRz715MdiEp"
+      "duration_ms": 226489,
+      "name": "Nagisa",
+      "url": "https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW"
     },
     {
       "added_at": "2024-05-22 15:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "12 hugs (like butterflies)",
-        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
-    },
-    {
-      "added_at": "2024-05-22 15:00:00",
-      "album": {
         "name": "\u30e6\u30fc\u30e2\u30a2",
         "url": "https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2024-05-22 15:00:00",
       "album": {
-        "name": "Comedy",
-        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+        "name": "12 hugs (like butterflies)",
+        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
         }
       ],
-      "duration_ms": 230666,
-      "name": "Comedy",
-      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
+      "duration_ms": 289173,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
     },
     {
       "added_at": "2024-05-22 15:00:00",
@@ -1615,6 +1599,22 @@
       "duration_ms": 198520,
       "name": "NEW DANCE",
       "url": "https://open.spotify.com/track/6Pjzy9avwlVr4UAbxkQQmh"
+    },
+    {
+      "added_at": "2024-05-22 15:00:00",
+      "album": {
+        "name": "Comedy",
+        "url": "https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn"
+      },
+      "artists": [
+        {
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+        }
+      ],
+      "duration_ms": 230666,
+      "name": "Comedy",
+      "url": "https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV"
     },
     {
       "added_at": "2024-05-22 15:00:00",

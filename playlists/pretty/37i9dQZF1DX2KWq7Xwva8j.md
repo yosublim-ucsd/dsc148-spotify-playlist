@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Luis Cortés
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,408 likes - 38 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,409 likes - 38 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 8 | [En Sueños](https://open.spotify.com/track/3YFfdub6AUsrzdcBTeWIQL) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ), [Zaira](https://open.spotify.com/artist/2Tr0LY0zF1a6wvOYP42zg5) | [En Sueños](https://open.spotify.com/album/3KcJkq3hVSWymkMUKMkv97) | 3:12 |
 | 9 | [Mala Vida](https://open.spotify.com/track/3IT1XT70SguZjuUiKiUu89) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mala Vida](https://open.spotify.com/album/6CFyn8eC91dy858L9aYFY7) | 2:49 |
 | 10 | [Me da igual](https://open.spotify.com/track/1KzO88hc8I7InCz4IM0u3J) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Me da igual](https://open.spotify.com/album/0bQhmz2Ii5ju99yHsbKdZ8) | 2:51 |
-| 11 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
+| 11 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
 | 12 | [Otra Vida](https://open.spotify.com/track/3YPC9AqtPc28og6HGczvZ3) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Otra Vida](https://open.spotify.com/album/3zPvKGXs9G0lJHMvvUIxbj) | 3:38 |
 | 13 | [No m'estima +](https://open.spotify.com/track/78NzYFBsYY78qeazgKZCoc) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [No m'estima +](https://open.spotify.com/album/3QMWRLCENQpW7sGHhUPxy1) | 3:12 |
-| 14 | [Tirando Balas](https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tirando Balas](https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P) | 2:53 |
+| 14 | [Corazón Quemado](https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Corazón Quemado](https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev) | 3:05 |
 | 15 | [Sin Ti, Sin Mí](https://open.spotify.com/track/2GiY5fsQimLmInOH2QTOQg) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Sin Ti, Sin Mí](https://open.spotify.com/album/28MsRRmYoPUmcI9sYSxEom) | 3:12 |
 | 16 | [Tiro Al Aire](https://open.spotify.com/track/1GTqOaoThQ64CQyk4MfiWy) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Tiro Al Aire](https://open.spotify.com/album/0EDo43ixdWe188OqliIIVk) | 3:20 |
 | 17 | [Lo que nunca te dije](https://open.spotify.com/track/2usK8iQmaHhP8xK4MDEiGY) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Lo que nunca te dije](https://open.spotify.com/album/4DeVzia799oFvKCOLdwKID) | 2:40 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 25 | [qué voy a hacer](https://open.spotify.com/track/30DkvLu9N0LFqnW30cSSgi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 3:05 |
 | 26 | [steak tar tar](https://open.spotify.com/track/1VMkIjiscNSY0fuzJDI0bi) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33), [DRUMMIE](https://open.spotify.com/artist/569eg6JD5GgpfbGJ1b81b5) | [SUERTE, CHICA](https://open.spotify.com/album/7wEZoRihqkS2JgKsvAewnQ) | 2:26 |
 | 27 | [habibi](https://open.spotify.com/track/2jd8SrFiK2arEPZHxlE0ys) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:40 |
-| 28 | [Lamento](https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:09 |
-| 29 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
+| 28 | [Mandela Place](https://open.spotify.com/track/1d3LnbVCbpcAZGdOCw7PlQ) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 3:33 |
+| 29 | [Lamento](https://open.spotify.com/track/6Srz6ZXOvkajc0c0o6BTMk) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [pablopablo](https://open.spotify.com/album/38EtfKgkkMlr936UGUKadp) | 1:09 |
 | 30 | [Señal de Respeto](https://open.spotify.com/track/55xmgELotq2YjHpSi57fIT) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Greta](https://open.spotify.com/artist/7C8xmnXbVIZDL0OSu79ZKm), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 3:03 |
 | 31 | [Mama](https://open.spotify.com/track/7nvrvtHojMocJiGVwoaZHs) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Mama](https://open.spotify.com/album/15hzdim2ConPEvRyrNLeh3) | 3:06 |
 | 32 | [Esa Morena](https://open.spotify.com/track/2iDhzS8tG2M5fpTmoyqWqQ) | [Luis Cortés](https://open.spotify.com/artist/49wxwtIqjRKbj0d3eHDMRJ) | [Esa Morena](https://open.spotify.com/album/1FI37FQkUvFzEMA3u59hNc) | 2:52 |
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 34 | [Adrenalina](https://open.spotify.com/track/6AS6lW8vAo27DGEcbRT2Oj) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Adrenalina](https://open.spotify.com/album/6MtdNWXRI8bYzFq4UX4GSg) | 3:12 |
 | 35 | [Semanas](https://open.spotify.com/track/0ICi6PF2OFhz0NZ9POMNj8) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [Semanas](https://open.spotify.com/album/3iAAgL24uLxSTzihPfmzao) | 2:56 |
 | 36 | [La Última](https://open.spotify.com/track/2jGTk6Id9zdIonBH9H18rW) | [Charlie USG](https://open.spotify.com/artist/6SQxxV1mB4oLifst53eQpw) | [La Última](https://open.spotify.com/album/0dnIzmTItQnjqmG4CNpbuU) | 3:23 |
-| 37 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 |
-| 38 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 |
+| 37 | [Fuego \- A COLORS SHOW](https://open.spotify.com/track/5AzS25cbfhnWra3nQduYlB) | [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Fuego \- A COLORS SHOW](https://open.spotify.com/album/6hRJWC3lrfRfaXfChbhm6k) | 3:19 |
+| 38 | [El Disfraz](https://open.spotify.com/track/0bp6nK8rHiJ1nqcjiRDRe2) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [SexySensible](https://open.spotify.com/album/4GNiikXX4KQZ3lSm0cdgm1) | 2:44 |
 
-Snapshot ID: `ZirSnAAAAABjDnAJxXXqzaBGLIqNHQy5`
+Snapshot ID: `Zk71+AAAAADliI6dP5+dva28R/6PdY6p`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Avery Anna
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,242 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 596,493 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 24 | [Pray All The Way Home](https://open.spotify.com/track/7mhe8marcC1uyu17L5oxyF) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Pray All The Way Home](https://open.spotify.com/album/55BEOWkidLBWuSVaavBmRn) | 2:24 |
 | 25 | [In Between](https://open.spotify.com/track/3vA24UtKMDGaK5KkzsulYD) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Have A Nice Day](https://open.spotify.com/album/2xXY6j7QVSz6rpqEU9q1Ha) | 3:40 |
 | 26 | [In My Head Again](https://open.spotify.com/track/4zgrxZPjYlIpvvZYY3xnO5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [In My Head Again](https://open.spotify.com/album/43YBR5WHLqimx95qVDXquE) | 4:12 |
-| 27 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 |
+| 27 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 |
 | 28 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 |
-| 29 | [Sin So Sweet](https://open.spotify.com/track/4N3mpuGDYO39LYh4XepwbO) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Sin So Sweet](https://open.spotify.com/album/45GYmPkrKlJKNoEumS726f) | 3:21 |
+| 29 | [Better Off](https://open.spotify.com/track/5KcBudCONtFGSI4c9YAH5u) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Better Off](https://open.spotify.com/album/2roA5wl3liKHgs7kVGrgL6) | 3:18 |
 | 30 | [Poor Everybody Else](https://open.spotify.com/track/5EdBMq8ChkcIhegMPzVWCT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:45 |
 | 31 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
 | 32 | [Change](https://open.spotify.com/track/5GqFHxvAVUmZPdAFj6THjD) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Change](https://open.spotify.com/album/5jmp7q0hmtB7vlacGfTdAB) | 3:08 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 49 | [Cowboys Did Cocaine](https://open.spotify.com/track/5O4tIsYwXRPhGIbZhj71UE) | [Riley Thomas](https://open.spotify.com/artist/5eBOFT8dGahqsNY97nwuJB) | [Cowboys Did Cocaine](https://open.spotify.com/album/33nXOb10RUIl1gqVQgRaj6) | 3:52 |
 | 50 | [Homeboy](https://open.spotify.com/track/29aSfWddeZJCfnrcMb20sy) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 3:47 |
 | 51 | [In Love With My Problems \(feat\. Jon Pardi\)](https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Stack of Records](https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW) | 3:03 |
-| 52 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
-| 53 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 |
+| 52 | [ALL GAS](https://open.spotify.com/track/2THiSfWbMGD9l2g2Ircxga) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [ALL GAS](https://open.spotify.com/album/1seio61icD3MnJLTyeX3Cv) | 2:49 |
+| 53 | [Hit Different](https://open.spotify.com/track/5utQCXbXEQmOdIp9vE3rOD) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Hit Different](https://open.spotify.com/album/4wMy9xe7Ob8pFG7lrBiXFB) | 3:13 |
 | 54 | [Wrecking Ball](https://open.spotify.com/track/1Fl4vSE3PegDGtkNL7JXNl) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Wrecking Ball](https://open.spotify.com/album/6ckYZ5KfxoZisFywOMThYd) | 3:55 |
 | 55 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 |
 | 56 | [Creeps](https://open.spotify.com/track/0zOert4KpMDEf332FVRuxb) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Creeps](https://open.spotify.com/album/2lUDd3HMuFnMgK3KfniBGB) | 3:46 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 90 | [Wake Up Without Me](https://open.spotify.com/track/0eseAsEdgDdUYaVL0Duikp) | [Eddie And The Getaway](https://open.spotify.com/artist/7oTkfyZOcKQuCUFnSVLB3j) | [Wake Up Without Me](https://open.spotify.com/album/4W92R9tdOKea59NHW0MaS2) | 2:53 |
 | 91 | [The Wolf](https://open.spotify.com/track/0cIrXiEPOLClwGcc2q64Qv) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [The Wolf](https://open.spotify.com/album/6YBw7OskPoG9FOdDlrrvuR) | 5:37 |
 | 92 | [April Showers](https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [April Showers](https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX) | 3:02 |
-| 93 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
-| 94 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
+| 93 | [5AM](https://open.spotify.com/track/0VujSPpF82QdEJFFG9U8Ac) | [Pecos & the Rooftops](https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU) | [5AM](https://open.spotify.com/album/2FB6kHSCZ9cfzEnqThq7gu) | 3:07 |
+| 94 | [Midnight Dancer](https://open.spotify.com/track/0elQzshbDFMIxoiyAqn7Hf) | [Aaron McBee](https://open.spotify.com/artist/2tjfjMlrGuA2b7cPCAEswA) | [If I Know You](https://open.spotify.com/album/2ddk7BE735IdAAM7308yOr) | 2:43 |
 | 95 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 96 | [Break Before I Bend](https://open.spotify.com/track/71Q2un1xXRayfGf0YIHH6j) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [Break Before I Bend](https://open.spotify.com/album/1k1abToaZr3uklkrmgvmnu) | 3:09 |
 | 97 | [Dragging Me Down](https://open.spotify.com/track/3jiccoy5e5npYDj8yVr5g1) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh), [Kendall Tucker](https://open.spotify.com/artist/37FPXnVFHhkzmJPfym2ZOK), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Dragging Me Down](https://open.spotify.com/album/3mrWh51A1iKLqyELCC0NUr) | 3:18 |
 | 98 | [She's No Good for Me](https://open.spotify.com/track/4dmNC1afkVZKr5RfHkaj0E) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [She's No Good for Me](https://open.spotify.com/album/0guJBJw9wfICcXsEBgyHyu) | 3:25 |
-| 99 | [See Me in a Suit](https://open.spotify.com/track/4KlJvbtCMGApjOIEoujmOu) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [See Me in a Suit](https://open.spotify.com/album/2JamMbPcyPx2RkwTRRIM43) | 3:01 |
-| 100 | [Running Away](https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Running Away](https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg) | 3:14 |
+| 99 | [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 |
+| 100 | [Wrong Turns](https://open.spotify.com/track/74uXfGRDayyx7UIV1irrhK) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Meat and Candy](https://open.spotify.com/album/1G4WDlYjm0VqgyEymNJRcf) | 3:28 |
 
 Snapshot ID: `ZkbWfAAAAADPEIgF7RylJ+/uMBsc+r5+`

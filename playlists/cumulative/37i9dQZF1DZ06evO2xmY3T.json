@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This is Cardi B. The essential tracks, all in one playlist.",
+  "description": "This is: Cardi B. Alle wichtigen Tracks in einer Playlist.",
   "name": "This Is Cardi B",
   "tracks": [
     {
@@ -84,7 +84,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 224284,
       "name": "Bartier Cardi (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa"
@@ -454,7 +454,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 211649,
       "name": "Hot Shit (feat. Ye & Lil Durk)",
       "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 276214,
       "name": "No Love (with SZA & Cardi B) - Extended Version",
       "url": "https://open.spotify.com/track/0IMUFRaM2W3wKNM1CSQ4Zm"
@@ -838,7 +838,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 143791,
       "name": "Press",
       "url": "https://open.spotify.com/track/6dPyzkyZwoj9LqjQXOFdVv"
@@ -926,7 +926,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 177139,
       "name": "Ring (feat. Kehlani)",
       "url": "https://open.spotify.com/track/5DfWF0jqMgZDCiu9zJENTA"
@@ -1262,7 +1262,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 187541,
       "name": "WAP (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 206186,
       "name": "YES",
       "url": "https://open.spotify.com/track/49npsHkkRrF42IxwU10Egt"

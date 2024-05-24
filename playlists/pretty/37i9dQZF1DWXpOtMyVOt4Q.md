@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Chill tunes to soundtrack your gaming session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,927 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,954 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 27 | [I'm Fine](https://open.spotify.com/track/5YtcQQJOSf0a785PTaai7Y) | [Hentaidesu](https://open.spotify.com/artist/4PElVVeU3CyivgTuY8i0bK) | [Futari](https://open.spotify.com/album/3LcqhYy1gPJflovJt9Fdi5) | 1:06 |
 | 28 | [Far Away](https://open.spotify.com/track/2JkeLbjmFANt3dc8BkkdSU) | [Antent](https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW), [Nectry](https://open.spotify.com/artist/5WWf3jqI33Bwufm8vHBqGG) | [Far Away](https://open.spotify.com/album/3XZrGL2liR5HeZorqFolGy) | 1:52 |
 | 29 | [Star Shopping \- Slowed + Reverb](https://open.spotify.com/track/1s7TkhVLDMl9e9kQz0KFOU) | [Megami](https://open.spotify.com/artist/2nirHAhWySBkvccqqmZeRP) | [Star Shopping](https://open.spotify.com/album/72x0OE3u601R32vRdXBdDs) | 1:21 |
-| 30 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
-| 31 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
+| 30 | [Lost in the Mail](https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Lost in the Mail](https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV) | 2:22 |
+| 31 | [Reminiscence](https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:51 |
 | 32 | [sleepless](https://open.spotify.com/track/2l3IMrkVUCUYLhSRGapTqu) | [Ødyzon](https://open.spotify.com/artist/0okIfQPBF07agcxdQM7WG9) | [sleepless](https://open.spotify.com/album/6PRpxN0aYV7kHmSOAaGWRr) | 2:29 |
 | 33 | [Pueblo Man](https://open.spotify.com/track/6Hbnhac6poCnife9O5aCeZ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 2:48 |
 | 34 | [Past, Present & Future \- Intro](https://open.spotify.com/track/254QTqbIfInFIF38D2N48W) | [Vanilla](https://open.spotify.com/artist/7pnSUizGuS2tAW2yCAhafn) | [Origin](https://open.spotify.com/album/72j49pGy439dhNFAIUTUjy) | 1:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 46 | [Organ Variation](https://open.spotify.com/track/6dkJvNZ7DJWzTFXv3KHmoT) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 4:51 |
 | 47 | [Equinox](https://open.spotify.com/track/78MK55UVcSHXWpNuT0I1bC) | [admo](https://open.spotify.com/artist/6azdwGecDNGbIpCpOOdWsG) | [Stratford Ct\. \| Sonus Auri](https://open.spotify.com/album/2OheibbdAadKBRKiCAv0M9) | 2:42 |
 | 48 | [black roses](https://open.spotify.com/track/1nR2dLSV4UXr9r8UFBECqQ) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [letting go](https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I) | 1:53 |
-| 49 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
-| 50 | [walk](https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9) | [james king](https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli) | [hollow](https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG) | 1:54 |
+| 49 | [fallinginlove.](https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [daydream.](https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR) | 1:37 |
+| 50 | [NYC](https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [SOFLUX](https://open.spotify.com/artist/2aV3s66tX4LZoBOzOsebZQ) | [NYC](https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw) | 1:51 |
 
 Snapshot ID: `Zk170AAAAABuT7W9B9HuD9j0rUP2pDNO`

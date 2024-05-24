@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80 likes - 214 songs - 12 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 81 likes - 214 songs - 12 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 32 | [Nothing Works](https://open.spotify.com/track/0AdQEPTVO8F7QAu1eDIpll) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 4:12 |
 | 33 | [IDC](https://open.spotify.com/track/0GRrL3cbw4TiZTtTU1xaXd) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 3:45 |
 | 34 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
-| 35 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
-| 36 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 |
+| 35 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 |
+| 36 | [The Fool](https://open.spotify.com/track/5QFAetd8rpzNuHuTGK0Rde) | [Overcoats](https://open.spotify.com/artist/2pst3pDewxsl4kJERuDZpp) | [The Fight](https://open.spotify.com/album/0ArmKxlIjju4bog52Q33ZE) | 3:09 |
 | 37 | [So Long](https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 2:23 |
 | 38 | [For Violet](https://open.spotify.com/track/2T8OC0ciyqQWxvrHShD6iT) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:32 |
 | 39 | [Baby](https://open.spotify.com/track/2TSl9k48kkiAWYosgEMb3s) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:19 |
@@ -135,8 +135,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 125 | [Who Do You Love?!](https://open.spotify.com/track/755IXb7BtCjg75SdrMRor7) | [COSIMA](https://open.spotify.com/artist/2BccVcXzmwMB2b2mDEPuQH) | [Who Do You Love?! // Insecure](https://open.spotify.com/album/5F61DPyTgH4BYALUawqUVD) | 3:31 |
 | 126 | [Happy New Year](https://open.spotify.com/track/0TkUwdRLk2cDqFNYZnFdl5) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 4:08 |
 | 127 | [Late](https://open.spotify.com/track/5HdUkEux2rUBknvnaAZdCO) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:57 |
-| 128 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
-| 129 | [Signs](https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Signs](https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn) | 1:50 |
+| 128 | [Signs](https://open.spotify.com/track/46WV8PRXuffo5wdjUyBK9m) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Halima](https://open.spotify.com/artist/3bSZmhmZ0bWMkMl37DK5ap) | [Signs](https://open.spotify.com/album/34m0cr4M2wEZrD17TdNnPn) | 1:50 |
+| 129 | [Charlie](https://open.spotify.com/track/7fkPjpfCAMudsbluRgWXXG) | [Sam Valdez](https://open.spotify.com/artist/4mZgWEC08B8iiFbrugixkq) | [Charlie](https://open.spotify.com/album/6VqHNOtp3CJlj9ZBDTN9ZU) | 3:40 |
 | 130 | [Dawn](https://open.spotify.com/track/3CdLGLS43fjWVGjZhipOz7) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:42 |
 | 131 | [How'd It Get So Real?](https://open.spotify.com/track/4uMLXkEuzsRTcHd4JjwaqX) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:46 |
 | 132 | [See Through](https://open.spotify.com/track/1CwIS81AZJxLQW5ELMKMxS) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [See Through](https://open.spotify.com/album/0MfQcq73bpBV2SxxlKBfnl) | 3:45 |
@@ -173,16 +173,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 163 | [fine](https://open.spotify.com/track/0XLmGgWdu0bA9hmBFMhh6b) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [spark\_\_space](https://open.spotify.com/album/6zHZnhADGVRQigmy7NP4mS) | 2:03 |
 | 164 | [wraith](https://open.spotify.com/track/6AqOu3JIw2gbA3YPb0QFRY) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [crawl\_\_space](https://open.spotify.com/album/49Ci8AbHDggwLpVWLrluXm) | 2:45 |
 | 165 | [Out of Touch](https://open.spotify.com/track/4wVU2w2ec3vpmOXcxLbeGT) | [IYVES](https://open.spotify.com/artist/1TowXwlitIcnb3Sm2pdg3t) | [Out of Touch](https://open.spotify.com/album/5yqd6fxZGkwg0MpPm3WTQD) | 3:19 |
-| 166 | [Time Glows](https://open.spotify.com/track/2uZ2Od68eVgL0FnuHgXyyD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:59 |
-| 167 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
+| 166 | [I Don't Want To See You Like That](https://open.spotify.com/track/5sz5CknwFGpttn1Lfb1hiI) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:41 |
+| 167 | [Time Glows](https://open.spotify.com/track/2uZ2Od68eVgL0FnuHgXyyD) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:59 |
 | 168 | [<shine>](https://open.spotify.com/track/5CwjYBkkOkhxGIrA6KrTpS) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:33 |
 | 169 | [Reputation](https://open.spotify.com/track/6XMTNaQQlk7LRxhNJu6jSy) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 2:57 |
 | 170 | [I Get Too High](https://open.spotify.com/track/03MROZ5GH5mGHKarlKAFyf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 4:29 |
 | 171 | [Desire, Momentum](https://open.spotify.com/track/4P0EFpzUBgpbZDUHE0dnsf) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:33 |
 | 172 | [Flights](https://open.spotify.com/track/2MMOlxNXHlTescNEAlRGRH) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [London Safari](https://open.spotify.com/album/3wwCsZvjI8VrdS21n5HPdQ) | 3:14 |
 | 173 | [</shine>](https://open.spotify.com/track/2bDhSTvWdrdly3soXgfo9M) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 0:36 |
-| 174 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
-| 175 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
+| 174 | [This Light](https://open.spotify.com/track/5aeqo0Hg287WAoUvG6eTr1) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 4:11 |
+| 175 | [Shoot Me to the Moon](https://open.spotify.com/track/6bGrym3frP517DvJys2gXy) | [Fake A Smile](https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm) | [Shoot Me to the Moon](https://open.spotify.com/album/66OLG8ePE75kGDxCCQIPHD) | 3:15 |
 | 176 | [A Wish](https://open.spotify.com/track/03xEUiZCkvWTnDTn737HQ8) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 3:27 |
 | 177 | [Change Your Mind](https://open.spotify.com/track/5kytpT5jLg0DNCmYKrtcuA) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 5:31 |
 | 178 | [Follows You Around](https://open.spotify.com/track/0CJVD3yGgXH5bJu3C51lZX) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [I](https://open.spotify.com/album/7dPuO1tzvLVw0WA9kwDnyQ) | 3:48 |
@@ -207,8 +207,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 197 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
 | 198 | [Temptation](https://open.spotify.com/track/3hwo0FI3ZX7HuI1i1va9hL) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 5:29 |
 | 199 | [Jenny](https://open.spotify.com/track/3U0cXbHSxCG6M6RboTsIk1) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a) | [Voici](https://open.spotify.com/album/3xyBcVogDkkgrWDK5pZvTj) | 2:38 |
-| 200 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
-| 201 | [Right Here](https://open.spotify.com/track/2jHhED4R4Kwqdu1Ya9xeRW) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:03 |
+| 200 | [Right Here](https://open.spotify.com/track/2jHhED4R4Kwqdu1Ya9xeRW) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [FJ Law](https://open.spotify.com/artist/5aQanH4qoE1dG9qscoBjpj) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:03 |
+| 201 | [Facade](https://open.spotify.com/track/3SyN9yQx2FHkKJd9hEG9X8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 2:02 |
 | 202 | [Some Kind of Dream](https://open.spotify.com/track/4z99ELIgLtz9xO6nIDaWez) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:47 |
 | 203 | [Lipstick](https://open.spotify.com/track/3R6uEtU6Y91xYkgtEWyVg8) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Lipstick](https://open.spotify.com/album/0Ighxhne5ofrXNsK1594FE) | 3:44 |
 | 204 | [You Messed up](https://open.spotify.com/track/01QKVIO6BxAdVSkMcp53ze) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 3:25 |
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 213 | [L35af](https://open.spotify.com/track/4CBVNHEJSOsBEMFDcufcro) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/3NYkp0ZDr042IOtYqkYewm) | 4:07 |
 | 214 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbSC9AAAAABs7usHYzdXzXdGT0qLdZHT`
+Snapshot ID: `AbSIWAAAAADtAD90N5JFg4VG8Cc52xim`

@@ -1,6 +1,6 @@
 {
   "description": "Because a quiet Sunday every now and again doesn't hurt anybody.",
-  "num_followers": 346182,
+  "num_followers": 346158,
   "original_name": "Lazy Sunday",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 239560,
-      "name": "cardigan",
-      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 229226,
       "name": "traitor",
       "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "folklore",
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 239560,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "This One's for You",
         "url": "https://open.spotify.com/album/1lhNch5NkOONvFhRPh8qaj"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 240760,
       "name": "When It Rains It Pours",
       "url": "https://open.spotify.com/track/1mMLMZYXkMueg65jRRWG1l"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "This One's for You Too (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Beautiful Crazy",
+      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "Songs About Jane: 10th Anniversary Edition",
         "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 291796,
       "name": "i love you",
       "url": "https://open.spotify.com/track/6CcJMwBtXByIz4zQLzFkKc"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "This One's for You Too (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/53Oa5Bu0UTU8o8qCTaHKoz"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Beautiful Crazy",
-      "url": "https://open.spotify.com/track/2rxQMGVafnNaRaXlRMWPde"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "1989 (Deluxe)",
-        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Everything I Know About Love",
         "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "1989 (Deluxe)",
+        "url": "https://open.spotify.com/album/1yGbNOtRIgdIiGHOEBaZWf"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "SOUR",
         "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 163586,
       "name": "1 step forward, 3 steps back",
       "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "The Beatles (Remastered)",
+        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 138386,
+      "name": "Blackbird - Remastered 2009",
+      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "folklore",
         "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 285634,
       "name": "exile (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "The Beatles (Remastered)",
-        "url": "https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 138386,
-      "name": "Blackbird - Remastered 2009",
-      "url": "https://open.spotify.com/track/5jgFfDIR6FR0gvlA56Nakr"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
-        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 205483,
-      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
-      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Lungs (Deluxe Version)",
         "url": "https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 168666,
       "name": "You've Got The Love",
       "url": "https://open.spotify.com/track/244AvzGQ4Ksa5637JQu5Gy"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Can\u2019t Catch Me Now (from The Hunger Games: The Ballad of Songbirds & Snakes)",
+        "url": "https://open.spotify.com/album/07J7Q3Z7V00LvCxqzVqj9s"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 205483,
+      "name": "Can\u2019t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes",
+      "url": "https://open.spotify.com/track/56xHMIfQPoe0prrSi3BGhf"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
+        "name": "Rumours (Super Deluxe)",
+        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Never Going Back Again - 2004 Remaster",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Never Going Back Again - 2004 Remaster",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd"
     },
     {
       "added_at": "2024-03-28 13:00:00",

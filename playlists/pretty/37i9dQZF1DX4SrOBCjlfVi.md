@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring A Boogie Wit da Hoodie, Childish Gambino, Saweetie and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,597 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,705 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

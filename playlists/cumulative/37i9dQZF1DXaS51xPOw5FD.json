@@ -340,7 +340,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 218830,
       "name": "Believer",
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
@@ -1160,7 +1160,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175517,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1VqlpAwvOW192Th24eXenX"
@@ -1806,7 +1806,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 320271,
       "name": "If We Ever",
       "url": "https://open.spotify.com/track/33LQ2hkSecs8ax6Bz2t9D8"
@@ -2217,6 +2217,28 @@
     },
     {
       "album": {
+        "name": "Makes Me Feel Alive",
+        "url": "https://open.spotify.com/album/6YSf2vzReWTwWRqIyVE4G2"
+      },
+      "artists": [
+        {
+          "name": "BCee",
+          "url": "https://open.spotify.com/artist/3wdwWQXJbqpJJbMdp7KfEJ"
+        },
+        {
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209041,
+      "name": "Makes Me Feel Alive",
+      "url": "https://open.spotify.com/track/14w8W3LfenVfz7CaEzaGY8"
+    },
+    {
+      "album": {
         "name": "Mash up the Dance",
         "url": "https://open.spotify.com/album/6lmntnCO9G6CK3zdSEb2fv"
       },
@@ -2320,6 +2342,28 @@
       "duration_ms": 224946,
       "name": "Mixed Emotions",
       "url": "https://open.spotify.com/track/0q6ppTEMn4KiqpHJbutH4V"
+    },
+    {
+      "album": {
+        "name": "More Time",
+        "url": "https://open.spotify.com/album/2wHsJhnP4ss5XXh8KenlHh"
+      },
+      "artists": [
+        {
+          "name": "Crate Classics",
+          "url": "https://open.spotify.com/artist/6Pkxj2NAUsoETNsVLA0DUx"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163246,
+      "name": "More Time",
+      "url": "https://open.spotify.com/track/6WdEUkiTCnXXeSyHJuOekf"
     },
     {
       "album": {
@@ -3188,6 +3232,24 @@
       "duration_ms": 155056,
       "name": "Spray Tan",
       "url": "https://open.spotify.com/track/7jFMzLAxBsAJhvHXsdV91Z"
+    },
+    {
+      "album": {
+        "name": "Stick Around",
+        "url": "https://open.spotify.com/album/6Q7TozLPNkSJFfMH1GawgN"
+      },
+      "artists": [
+        {
+          "name": "SOLAH",
+          "url": "https://open.spotify.com/artist/4jrJBSg0c2qx8SMGa7ququ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190444,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/6qXb2XLxORRLTXIBa30nHZ"
     },
     {
       "album": {

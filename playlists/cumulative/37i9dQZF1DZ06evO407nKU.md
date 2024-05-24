@@ -4,7 +4,7 @@
 
 > This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-111 songs - 6 hr 19 min
+112 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Porque Te Amo](https://open.spotify.com/track/2HNbR9kQlVV6GZNpK8fdvh) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Los Bisnietos](https://open.spotify.com/artist/2czRyfozcZnSOYR3tF8vE7) | [Porque Te Amo](https://open.spotify.com/album/4iX8wQOf7j8lD6fYLaSIqg) | 3:06 | 2022-06-01 |  |
 | [Queda Restringido](https://open.spotify.com/track/3ipC7qMwC2TN4zNucgJYTB) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 4:07 | 2022-06-01 |  |
 | [Quisiera](https://open.spotify.com/track/42DrhflA3gehVFXXJwi4sG) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Quisiera](https://open.spotify.com/album/6SVYhGiUoRHJHujVXuaEuZ) | 2:09 | 2022-06-01 |  |
-| [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 | 2022-10-16 |  |
+| [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 | 2022-10-16 | 2024-05-24 |
 | [Santa Llegara](https://open.spotify.com/track/0TTTxVBINwKVx5GeGtFTDR) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Santa Llegara](https://open.spotify.com/album/44iqHRKHQQOkXl56kTC2cu) | 2:50 | 2023-12-21 | 2024-01-11 |
 | [Se Me Acabó El Tequila](https://open.spotify.com/track/6rFV17L3bx4ER3Q4epyDgz) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Se Me Acabó El Tequila](https://open.spotify.com/album/3ZRpDk7M14JJf6OaLW70Ig) | 3:02 | 2022-09-08 | 2023-03-10 |
 | [Se Supone](https://open.spotify.com/track/37q02Zyig7z2kjkzfO9O3P) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:57 | 2022-06-08 | 2022-10-13 |
@@ -98,6 +98,7 @@
 | [Sigo de pie](https://open.spotify.com/track/67VgUmWzx04XMSXTf9CZqn) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [El Yaki](https://open.spotify.com/artist/4toIblSAfEe7buSwNPRmaF) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:40 | 2022-06-01 | 2022-10-07 |
 | [Soy Un Chino \(En Vivo\)](https://open.spotify.com/track/2U7mduMbGpHQV0vYeagNdU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [Dariel Party, Vol\. 1](https://open.spotify.com/album/7q7VCZFD7JAVKztbMysdk3) | 3:00 | 2022-12-26 | 2022-12-28 |
 | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/track/43wBR1U2zFiH4bUqmumrOV) | [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Anda Doliendo \(En Vivo\)](https://open.spotify.com/album/5n5hyfD2bMiVfui6mDFrOI) | 4:05 | 2022-10-12 | 2023-11-11 |
+| [Te Necesito](https://open.spotify.com/track/6eokMJWQ6ndrLUfHGJQ0Vf) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Te Necesito](https://open.spotify.com/album/00XEWfKhMquiyTWMVdBl7p) | 2:18 | 2024-05-24 |  |
 | [Te Quiero Mas](https://open.spotify.com/track/2xtF3xLpLI63iJjjzWTQVC) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Realeza De Sinaloa](https://open.spotify.com/artist/30sr4nTSGWsW4EfrhKi3yc) | [Te Quiero Mas](https://open.spotify.com/album/78kKkTlY1cnGwa933wkxNV) | 3:22 | 2024-04-27 |  |
 | [Te soñé](https://open.spotify.com/track/3T3EadqiRyyD093zct9HGV) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9) | [Duetos Del Rancho Para El Mundo](https://open.spotify.com/album/4uSjeugGREYKbTB5Z5Elg0) | 3:55 | 2022-06-01 | 2022-07-19 |
 | [Te Soñé](https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Banda La Perdida](https://open.spotify.com/artist/2usEE7xArdgZAt0UbIcWnl) | [Te Soñé](https://open.spotify.com/album/1MxOELHpth8E33rUByRI37) | 3:55 | 2022-07-18 |  |

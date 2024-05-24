@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 87 | [Xtasy](https://open.spotify.com/track/0jqJNqmrdryU1nnctIzu9n) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [HYPNOS](https://open.spotify.com/album/5Y4hUd0FPvCed5lu7loMXZ) | 2:58 |
 | 88 | [All We Do](https://open.spotify.com/track/3ruOq5Gd9iZAdU1UP2nDJR) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [Kaytra to Do](https://open.spotify.com/album/14RQlFzqaTt8nB8u3SXBRN) | 4:12 |
 | 89 | [A Lite](https://open.spotify.com/track/3CeI4Ri97C26GxShl4sbdY) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 3:31 |
-| 90 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
-| 91 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 90 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 91 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
 | 92 | [Guillotine](https://open.spotify.com/track/1Wh8GeXvt7lANMGHubpaQn) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:58 |
 | 93 | [Ghost](https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ghost](https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu) | 3:29 |
 | 94 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 134 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 135 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `AbSC9AAAAAByyaB97nfJLn3EI2VpXVBu`
+Snapshot ID: `AbSIWAAAAADgOsVNLnzigjD1YUZD+/hX`

@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/2peJPuYDQJMsmEpjqMALnl.md) - cumulative - [plain](/playlists/plain/2peJPuYDQJMsmEpjqMALnl) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/2peJPuYDQJMsmEpjqMALnl)
 
-### [80s Classic Hits \| Top 100 Hits](https://open.spotify.com/playlist/2peJPuYDQJMsmEpjqMALnl)
+### [80s Classic Hits \| The Best of the 80s](https://open.spotify.com/playlist/2peJPuYDQJMsmEpjqMALnl)
 
 > A classic playlist full of favorites of the 80s! Featuring hits from Queen, Tears For Fears, The Go\-Go's and many many more!
 

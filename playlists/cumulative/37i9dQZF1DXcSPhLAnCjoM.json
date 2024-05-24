@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Recommence-moi\" de SANTA est le Grand Hit de la semaine.",
+  "description": "\"Le chant est libre\" de Patrick Fiori est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -595,6 +595,32 @@
     },
     {
       "album": {
+        "name": "Derniers humains",
+        "url": "https://open.spotify.com/album/7evFIy8Cj5iyiow2xrFZg1"
+      },
+      "artists": [
+        {
+          "name": "Christophe Mali",
+          "url": "https://open.spotify.com/artist/5rpAfk1bTwhl9lXqxW6OGa"
+        },
+        {
+          "name": "Lucie Lebrun",
+          "url": "https://open.spotify.com/artist/35BETn8HHfVHitMw8TTtJp"
+        },
+        {
+          "name": "Tryo",
+          "url": "https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164154,
+      "name": "Derniers humains",
+      "url": "https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx"
+    },
+    {
+      "album": {
         "name": "Les autres c\u2019est nous",
         "url": "https://open.spotify.com/album/1DO9NnnNHJHstVla096ryH"
       },
@@ -758,6 +784,28 @@
       "duration_ms": 172394,
       "name": "D\u00e9pass\u00e9",
       "url": "https://open.spotify.com/track/5bOWPM362XpMa8zn6UR9te"
+    },
+    {
+      "album": {
+        "name": "Nos futurs",
+        "url": "https://open.spotify.com/album/22DAZq1OtiMY3TtH4hSW4T"
+      },
+      "artists": [
+        {
+          "name": "Ycare",
+          "url": "https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB"
+        },
+        {
+          "name": "Claudio Cap\u00e9o",
+          "url": "https://open.spotify.com/artist/5KBbs98MK59UNMF1VTwMmz"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177440,
+      "name": "Eau de javel",
+      "url": "https://open.spotify.com/track/64DuaIW3blopxUIUsM2eNQ"
     },
     {
       "album": {
@@ -1338,7 +1386,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 226726,
       "name": "Je suis fou",
       "url": "https://open.spotify.com/track/2u6z1c1TruNQeNVv0xw1HT"
@@ -1892,7 +1940,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 194666,
       "name": "LOVE'n'TENDRESSE",
       "url": "https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S"
@@ -1928,7 +1976,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 181388,
       "name": "Ma ch\u00e9rie",
       "url": "https://open.spotify.com/track/6HP89eE4a0PQv0emwrstu2"
@@ -2065,6 +2113,24 @@
     },
     {
       "album": {
+        "name": "Nous on sait",
+        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182546,
+      "name": "Nous on sait",
+      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+    },
+    {
+      "album": {
         "name": "Ol\u00e9 Ol\u00e9",
         "url": "https://open.spotify.com/album/3evFSKuVUPwT9X3GtnD9hd"
       },
@@ -2192,7 +2258,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 144922,
       "name": "Piano Piano",
       "url": "https://open.spotify.com/track/1SUiLWeJFzuDYo7VzendQV"
@@ -2604,6 +2670,24 @@
       "duration_ms": 200200,
       "name": "Tout ce que l'on dit mais qu'on ne fait pas",
       "url": "https://open.spotify.com/track/3RKi6R7lFvPjLgIkdCGLiU"
+    },
+    {
+      "album": {
+        "name": "CRASH C\u0152UR",
+        "url": "https://open.spotify.com/album/37b90qQXuhhAzmxQlQLWOK"
+      },
+      "artists": [
+        {
+          "name": "Eddy de Pretto",
+          "url": "https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177880,
+      "name": "urgences 911",
+      "url": "https://open.spotify.com/track/6oPdINOiUOUMn6InuqFrXa"
     },
     {
       "album": {

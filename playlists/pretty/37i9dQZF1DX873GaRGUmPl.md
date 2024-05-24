@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 
 > The best alternative songs of the decade\. Cover: Glass Animals
 
-[Spotify](https://open.spotify.com/user/spotify) - 905,010 likes - 80 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 904,995 likes - 80 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX873GaRGUmPl.md) - [plain]
 | 42 | [Shades Of Cool](https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Ultraviolence \(Deluxe\)](https://open.spotify.com/album/1ORxRsK3MrSLvh7VQTF01F) | 5:42 |
 | 43 | [Paradise](https://open.spotify.com/track/38zwkK6TtTjIW9tpYBfZ3D) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Staying at Tamara's](https://open.spotify.com/album/2NaulYO6lGXTyIzWTJvRJj) | 3:42 |
 | 44 | [Good Grief](https://open.spotify.com/track/6IGA5YrFiEr5ANrMqKkR6H) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World](https://open.spotify.com/album/5NfeW0DqFVT3Su3kHBgTf4) | 3:26 |
-| 45 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
-| 46 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
+| 45 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
+| 46 | [Home Again](https://open.spotify.com/track/5yGVHzJ2Se8pDzR7FIYUlU) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 3:29 |
 | 47 | [Final Song](https://open.spotify.com/track/4qqArAiTPueDxIp7cf87h7) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Final Song](https://open.spotify.com/album/2gcqSlK5xTxcpuLZ1iik3Z) | 3:55 |
 | 48 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
 | 49 | [Stylo \(feat\. Mos Def and Bobby Womack\)](https://open.spotify.com/track/6LUfuyLgvgqrykiTE6sJHY) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bobby Womack](https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 4:30 |

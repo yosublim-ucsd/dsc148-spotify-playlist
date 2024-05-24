@@ -941,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Biassono",
+        "url": "https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9"
+      },
+      "artists": [
+        {
+          "name": "Joviano Carrera",
+          "url": "https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151923,
+      "name": "Biassono",
+      "url": "https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ"
+    },
+    {
+      "album": {
         "name": "Biblioth\u00e8que",
         "url": "https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530"
       },
@@ -4265,6 +4283,24 @@
     },
     {
       "album": {
+        "name": "Looking Back",
+        "url": "https://open.spotify.com/album/75nj6yEzrjQchmvTZicmZQ"
+      },
+      "artists": [
+        {
+          "name": "Alfons Daiminger",
+          "url": "https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177008,
+      "name": "Looking Back",
+      "url": "https://open.spotify.com/track/5jTKSxQ4uS4xDZYNG8xzJw"
+    },
+    {
+      "album": {
         "name": "Los Viejos Tiempos",
         "url": "https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA"
       },
@@ -5274,6 +5310,24 @@
       "duration_ms": 187004,
       "name": "Once Upon A Time",
       "url": "https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf"
+    },
+    {
+      "album": {
+        "name": "Open",
+        "url": "https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r"
+      },
+      "artists": [
+        {
+          "name": "Gjermund",
+          "url": "https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157574,
+      "name": "Open",
+      "url": "https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3"
     },
     {
       "album": {
@@ -6424,6 +6478,24 @@
       "duration_ms": 159473,
       "name": "Sinking",
       "url": "https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT"
+    },
+    {
+      "album": {
+        "name": "Slow Solitude",
+        "url": "https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS"
+      },
+      "artists": [
+        {
+          "name": "From the Keys",
+          "url": "https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162795,
+      "name": "Slow Solitude",
+      "url": "https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31"
     },
     {
       "album": {

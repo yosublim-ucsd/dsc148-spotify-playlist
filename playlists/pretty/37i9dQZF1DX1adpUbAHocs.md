@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 
 > hop in and take the long way.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,945 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,938 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 24 | [Drop Stop Roll](https://open.spotify.com/track/1y3NV3N99VoSP4crdkbog7) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Drop Stop Roll](https://open.spotify.com/album/7C45E727Jyq6UrMyLYD2Ab) | 2:50 |
 | 25 | [Rhiannon](https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 4:12 |
 | 26 | [Orange Juice](https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 4:57 |
-| 27 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
-| 28 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
-| 29 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 30 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
+| 27 | [House Of My Soul \(You Light The Rooms\)](https://open.spotify.com/track/7JA24QmrS7YbSRuyU2E8LV) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Lost At Last Vol\. 1](https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd) | 2:53 |
+| 28 | [Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [A Deeper Understanding](https://open.spotify.com/album/4TkmrrpjlPoCPpGyDN3rkF) | 5:30 |
+| 29 | [Chemicals](https://open.spotify.com/track/6Eyt039etvBOx2V612yu4y) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 3:19 |
+| 30 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 31 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 32 | [to Perth, before the border closes](https://open.spotify.com/track/6AqFR4UHMbdlMPcJGrynXV) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [to Perth, before the border closes](https://open.spotify.com/album/4gblLDiEXc4UOwTWlF3UZS) | 2:56 |
 | 33 | [Breakers Roar](https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [A Sailor's Guide to Earth](https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4) | 3:32 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 35 | [Signal Sender](https://open.spotify.com/track/1XHTJ2n4ajw9dDzuPGY4Rm) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [Signal Sender](https://open.spotify.com/album/4ILDW93NPJE8kEJSrUXuIy) | 3:20 |
 | 36 | [Highwomen](https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [The Highwomen](https://open.spotify.com/album/7sGTt1N5XMIQPCYHAnO1Pl) | 3:32 |
 | 37 | [Can't Fight](https://open.spotify.com/track/2gnvh9HRH5fCo5iDQXMvQN) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 3:10 |
-| 38 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
-| 39 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
+| 38 | [The Barrel](https://open.spotify.com/track/06lw2dBFqdXhAErz7Xz9Zs) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Designer](https://open.spotify.com/album/39CMyhmaEk6JMlqYUXQNOI) | 4:59 |
+| 39 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 40 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 41 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 |
 | 42 | [Away From The Mire](https://open.spotify.com/track/6oPDKGwBri4OLQX5IYu02T) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Home](https://open.spotify.com/album/6Wpawdx7fSuBAKY0t793fx) | 7:43 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1adpUbAHocs.md) - [plain]
 | 95 | [Road Trippin'](https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Road Trippin'](https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys) | 5:18 |
 | 96 | [Barbaro](https://open.spotify.com/track/3ftFR3uG7hCJJ7kQOlSAlg) | [Barbaro](https://open.spotify.com/artist/56xyoM0kp95h5kVkAjoOMq) | [Dressed in Roses](https://open.spotify.com/album/0qdMxhmhBONYgZJEbQiYjG) | 3:26 |
 | 97 | [Better Angels](https://open.spotify.com/track/1WckQ5AxU2e4lvZ5aR845A) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/2PVuzlWu3Z7Af2y9O2Gppk) | 3:25 |
-| 98 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
-| 99 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
-| 100 | [Frightened By The Sound](https://open.spotify.com/track/3fp778baYgJ5gDcXtZgGm5) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [The Saint Of Lost Causes](https://open.spotify.com/album/2u56gjSmnJzoZOcUO84Lrw) | 3:45 |
+| 98 | [leave flowers](https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph) | [Sam Nelson](https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [why does everything make me cry?](https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm) | 3:01 |
+| 99 | [Bride](https://open.spotify.com/track/258ONJcunOE7KA225pLP2x) | [San Fermin](https://open.spotify.com/artist/7fSnislKgW9Mz0YIqWQmGt) | [Belong](https://open.spotify.com/album/22sKyWyE7QGrAtfPHDboXV) | 3:49 |
+| 100 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 |
 
 Snapshot ID: `ZYxYJQAAAAAz1/2S9LQ0fT6fw9q/83HG`

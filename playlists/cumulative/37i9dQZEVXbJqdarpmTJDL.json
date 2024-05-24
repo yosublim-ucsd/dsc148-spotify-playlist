@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201397,
       "name": "Ah THALASSA",
       "url": "https://open.spotify.com/track/26y4aj2ggWCXEKNqDU3MZQ"
@@ -13864,7 +13864,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -16802,7 +16802,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 189124,
       "name": "la noia",
       "url": "https://open.spotify.com/track/49R1F3rIdSzuPk7AcHi6d1"
@@ -21955,6 +21955,24 @@
     },
     {
       "album": {
+        "name": "MYKONOS",
+        "url": "https://open.spotify.com/album/3Y9mR0pM4tqO4QdRs3twm8"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151573,
+      "name": "MYKONOS",
+      "url": "https://open.spotify.com/track/4pFoAd8J9FpN7TADclqL3d"
+    },
+    {
+      "album": {
         "name": "MYSTIKA",
         "url": "https://open.spotify.com/album/0wIaS437a0pKj0Niy3PHqz"
       },
@@ -22950,7 +22968,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 274192,
       "name": "Not Like Us",
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
@@ -34482,7 +34500,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-12",
+      "date_removed": null,
       "duration_ms": 182909,
       "name": "XRONO",
       "url": "https://open.spotify.com/track/1hTF7jt7eb1G7oMi10Tvwr"

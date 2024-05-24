@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 
 > All the biggest hits from the biggest boybands!  Cover: \*NSYNC
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,032 likes - 75 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,147 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17dmzi8A5FV.md) - [plain]
 | 58 | [Let's Get Married](https://open.spotify.com/track/1PmHkalaUHhh0fz23SBHDL) | [Jagged Edge](https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp) | [J.E\. Heartbreak](https://open.spotify.com/album/4tIkdOt2ohTHJ1VptEwNu3) | 4:23 |
 | 59 | [Pop](https://open.spotify.com/track/0Jc8qF1mUPo1A96HE9QxZz) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 3:58 |
 | 60 | [Never Forget \- Single Version](https://open.spotify.com/track/1WK7eLVsD0zH4UWm9ob3z6) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Never Forget: The Ultimate Collection](https://open.spotify.com/album/7jzGCK8GdjuWEAe1lZ71xI) | 6:24 |
-| 61 | [Everybody in Love](https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:15 |
+| 61 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
 | 62 | [Like a Rose](https://open.spotify.com/track/2jvrUFdJTjcgs94427PqHx) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Here We Come](https://open.spotify.com/album/0YipK1zDiAU6gqdZ31Frnp) | 4:11 |
 | 63 | [Everybody Get Up \- Radio Edit](https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG) | [Let's Dance](https://open.spotify.com/album/2aSR4RrZ5uCNZSmwqgparc) | 3:03 |
 | 64 | [Candy Girl](https://open.spotify.com/track/72OrfuJ9RxfLCoqAMeKHCZ) | [New Edition](https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb) | [Candy Girl](https://open.spotify.com/album/62OvMX7ymbmxO6TKiXDE4v) | 3:55 |
 | 65 | [Five Colours In Her Hair](https://open.spotify.com/track/26QkYH0dmzPQBprter9Jsw) | [McFly](https://open.spotify.com/artist/47izDDvtOxxz3FzHYuUptd) | [Room On The 3rd Floor](https://open.spotify.com/album/2WMApBk2Flz1G3urFsEUuv) | 2:57 |
-| 66 | [Beat Again \- Radio Edit](https://open.spotify.com/track/426vBhxw4upEf11BqBBgs0) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:19 |
+| 66 | [Everybody in Love](https://open.spotify.com/track/2iLN22AngD3PTsbvBu5ypL) | [JLS](https://open.spotify.com/artist/5xi3SZpllRPAkoPVbjB6nc) | [JLS](https://open.spotify.com/album/37ocVmUr58CZsunyOapI3m) | 3:15 |
 | 67 | [Girl On TV](https://open.spotify.com/track/4DJwdQDai9DLYBL9TNrEDo) | [LFO](https://open.spotify.com/artist/1FizW0swe8ODtXvEOHXbHX) | [LFO](https://open.spotify.com/album/6DZdRerOCdaQyBLwntH2cX) | 4:07 |
 | 68 | [Gone](https://open.spotify.com/track/4CCUjYJPbSXLL23BFeBVbI) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [Celebrity](https://open.spotify.com/album/7zBue2Vuzg4Z3ncRXaIkJg) | 4:52 |
 | 69 | [Caught in the Middle](https://open.spotify.com/track/4UE8T2GKceEaNhn5ORTkyo) | [A1](https://open.spotify.com/artist/5lPsVvHVDr6R5mDxRUXdOs) | [Make It Good](https://open.spotify.com/album/7aMMpyDflUCZzDFp6LNul0) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1294971,
+  "num_followers": 1295235,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
@@ -943,6 +943,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU"
+      },
+      "artists": [
+        {
+          "name": "Dual Damage",
+          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
+        }
+      ],
+      "duration_ms": 217503,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Devastation",
         "url": "https://open.spotify.com/album/59y5puJ5lKe23mXOGd5AbC"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 163500,
       "name": "Devastation",
       "url": "https://open.spotify.com/track/6zl6FaXnnUPkQvZoIvK0jc"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/1IJlUWOEIvjfweNgnGDlmU"
-      },
-      "artists": [
-        {
-          "name": "Dual Damage",
-          "url": "https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX"
-        }
-      ],
-      "duration_ms": 217503,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/58vvcs6zKY0a5YLOI2ARrE"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "How Far Can You Go",
-        "url": "https://open.spotify.com/album/6QQ9fTIQWHmnwqER7TeWWA"
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/0oatD5dZBP91DHu6bgtMnK"
       },
       "artists": [
         {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Final Day",
-          "url": "https://open.spotify.com/artist/5ADZt1NEbf0ImRvacK9kDl"
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
         }
       ],
-      "duration_ms": 210577,
-      "name": "How Far Can You Go",
-      "url": "https://open.spotify.com/track/4tlvXAbJi9rEZfbtjevLn5"
+      "duration_ms": 244800,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/7mc5jjo6PkhbMF9vQzUK3Q"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1119,22 +1115,6 @@
       "duration_ms": 182168,
       "name": "Trip To Mars (Astronauts)",
       "url": "https://open.spotify.com/track/7zXW8qC4ZFmA542eEHppke"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Victorious",
-        "url": "https://open.spotify.com/album/0oatD5dZBP91DHu6bgtMnK"
-      },
-      "artists": [
-        {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
-        }
-      ],
-      "duration_ms": 244800,
-      "name": "Victorious",
-      "url": "https://open.spotify.com/track/7mc5jjo6PkhbMF9vQzUK3Q"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1163,6 +1143,26 @@
       "duration_ms": 204906,
       "name": "Surrender - Hixxy Remix",
       "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "How Far Can You Go",
+        "url": "https://open.spotify.com/album/6QQ9fTIQWHmnwqER7TeWWA"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Final Day",
+          "url": "https://open.spotify.com/artist/5ADZt1NEbf0ImRvacK9kDl"
+        }
+      ],
+      "duration_ms": 210577,
+      "name": "How Far Can You Go",
+      "url": "https://open.spotify.com/track/4tlvXAbJi9rEZfbtjevLn5"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1423,22 +1423,26 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Return Of The Return",
-        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
+        "name": "Boom Boom Boom",
+        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
         },
         {
-          "name": "Rooler",
-          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 175874,
-      "name": "Return Of The Return",
-      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
+      "duration_ms": 196576,
+      "name": "Boom Boom Boom",
+      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1483,26 +1487,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Boom Boom Boom",
-        "url": "https://open.spotify.com/album/33WtsR6WXWcs4XlHojn8K8"
+        "name": "Return Of The Return",
+        "url": "https://open.spotify.com/album/06XWEMumYCHGHEaFEV2Hl4"
       },
       "artists": [
         {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Rooler",
+          "url": "https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi"
         }
       ],
-      "duration_ms": 196576,
-      "name": "Boom Boom Boom",
-      "url": "https://open.spotify.com/track/1WbQ96o7shECYjvEsRhvUV"
+      "duration_ms": 175874,
+      "name": "Return Of The Return",
+      "url": "https://open.spotify.com/track/43Bu2RvrKaEkQL36OLrDzA"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1891,22 +1891,18 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Rave From The Grave",
-        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
+        "name": "Together As One (feat. Sam LeMay)",
+        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
       },
       "artists": [
         {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        },
-        {
-          "name": "Carola",
-          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
         }
       ],
-      "duration_ms": 177016,
-      "name": "Rave From The Grave",
-      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
+      "duration_ms": 186424,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1931,34 +1927,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Together As One (feat. Sam LeMay)",
-        "url": "https://open.spotify.com/album/166fClZDJCV4TkLbY1LknN"
+        "name": "Rave From The Grave",
+        "url": "https://open.spotify.com/album/7BJ7QAzzef1Bsydy4gajiW"
       },
       "artists": [
         {
-          "name": "The Pitcher",
-          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
-        }
-      ],
-      "duration_ms": 186424,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/22bQ4WJUJeRRZIV1y571Vt"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Chase The Sun (Hardstyle Mix)",
-        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
-      },
-      "artists": [
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
         {
-          "name": "Psyko Punkz",
-          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp"
         }
       ],
-      "duration_ms": 135967,
-      "name": "Chase The Sun (Hardstyle Mix)",
-      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
+      "duration_ms": 177016,
+      "name": "Rave From The Grave",
+      "url": "https://open.spotify.com/track/5hnmpL3XJwHP9McJ0RSkxl"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -1979,6 +1963,22 @@
       "duration_ms": 180002,
       "name": "Bitter Sweet Symphony (Hardstyle Mix)",
       "url": "https://open.spotify.com/track/675uQstqHDJVNwUpMHMY4S"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Chase The Sun (Hardstyle Mix)",
+        "url": "https://open.spotify.com/album/6Rl1i6qi16I6EOo8rea4Q6"
+      },
+      "artists": [
+        {
+          "name": "Psyko Punkz",
+          "url": "https://open.spotify.com/artist/18pYFSeMi7sOL6nGMICHtS"
+        }
+      ],
+      "duration_ms": 135967,
+      "name": "Chase The Sun (Hardstyle Mix)",
+      "url": "https://open.spotify.com/track/4Ujj3fBXpQZOChxAmsEzlL"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Sky Fall",
+        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 215225,
+      "name": "Sky Fall",
+      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Kriss Kross",
         "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 156705,
       "name": "Kriss Kross",
       "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Sky Fall",
-        "url": "https://open.spotify.com/album/5jtPNpTgbhoDusNUlRKpsP"
-      },
-      "artists": [
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 215225,
-      "name": "Sky Fall",
-      "url": "https://open.spotify.com/track/1T5vk1tmGkK8cSCSQFOWcD"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2543,30 +2543,18 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "This Deejay",
-        "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
+        "name": "Music Of The Mind",
+        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
-        },
-        {
-          "name": "TNT",
-          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
-        },
-        {
-          "name": "Technoboy",
-          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
-        },
-        {
-          "name": "Tuneboy",
-          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
+          "name": "Envine",
+          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
         }
       ],
-      "duration_ms": 195698,
-      "name": "This Deejay",
-      "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
+      "duration_ms": 183945,
+      "name": "Music Of The Mind",
+      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2595,18 +2583,30 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Music Of The Mind",
-        "url": "https://open.spotify.com/album/1GbybeTHGXQxIdpUsDco8i"
+        "name": "This Deejay",
+        "url": "https://open.spotify.com/album/5Ee5i1mH1oGgm2NmfaYH9O"
       },
       "artists": [
         {
-          "name": "Envine",
-          "url": "https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+        },
+        {
+          "name": "TNT",
+          "url": "https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs"
+        },
+        {
+          "name": "Technoboy",
+          "url": "https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C"
+        },
+        {
+          "name": "Tuneboy",
+          "url": "https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr"
         }
       ],
-      "duration_ms": 183945,
-      "name": "Music Of The Mind",
-      "url": "https://open.spotify.com/track/0KoIrrbZr8rMXhFQK8T5Eg"
+      "duration_ms": 195698,
+      "name": "This Deejay",
+      "url": "https://open.spotify.com/track/7ae1RGOiNP5KaBBU5V4yUG"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2703,26 +2703,6 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Bass Modulators",
-          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
-        }
-      ],
-      "duration_ms": 208383,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
         "name": "Meine Droge",
         "url": "https://open.spotify.com/album/3xlsaWASj6MxqlOGSc6vRZ"
       },
@@ -2739,6 +2719,26 @@
       "duration_ms": 166153,
       "name": "Meine Droge",
       "url": "https://open.spotify.com/track/0lVT7OTMU8nNQubxsKMYr8"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4ZWWKBBQZp4Gu9tWP6PeQz"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Bass Modulators",
+          "url": "https://open.spotify.com/artist/1Uk4IDpF1OIuTzANugS5JC"
+        }
+      ],
+      "duration_ms": 208383,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/4Y8o07UHVsGFBCWXB2MGRM"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -2839,6 +2839,30 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
+        "name": "Morgenlicht",
+        "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Teknoclash",
+          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
+        },
+        {
+          "name": "Lost Identity",
+          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
+        }
+      ],
+      "duration_ms": 173499,
+      "name": "Morgenlicht",
+      "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
+    },
+    {
+      "added_at": "2024-04-18 18:52:36",
+      "album": {
         "name": "Happy Place (feat. Cathrine Lassen) [Remixes]",
         "url": "https://open.spotify.com/album/6V40Z5TgW5oQTOLcVjB9ev"
       },
@@ -2875,30 +2899,6 @@
       "duration_ms": 241548,
       "name": "No Paradise",
       "url": "https://open.spotify.com/track/0N4QGYBSaeRwmo4pxuEG0x"
-    },
-    {
-      "added_at": "2024-04-18 18:52:36",
-      "album": {
-        "name": "Morgenlicht",
-        "url": "https://open.spotify.com/album/2z4DqDWBwV9DE4wCG45Cax"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Teknoclash",
-          "url": "https://open.spotify.com/artist/0Q900eSnku7mrRFfi1Eoyb"
-        },
-        {
-          "name": "Lost Identity",
-          "url": "https://open.spotify.com/artist/5jZCC6U5CO2Ta3JHZIgh8h"
-        }
-      ],
-      "duration_ms": 173499,
-      "name": "Morgenlicht",
-      "url": "https://open.spotify.com/track/7dWbcOsfWgjjM4PIsCBl1D"
     },
     {
       "added_at": "2024-04-18 18:52:36",
@@ -3003,22 +3003,22 @@
     {
       "added_at": "2024-04-18 18:52:36",
       "album": {
-        "name": "Techno Syndrome (Mortal Kombat)",
-        "url": "https://open.spotify.com/album/5ojvfc6g78q7i7VgZdwGBn"
+        "name": "Eternal Flame",
+        "url": "https://open.spotify.com/album/42wbAGw7UTNRHpNTPdg9li"
       },
       "artists": [
         {
-          "name": "Toneshifterz",
-          "url": "https://open.spotify.com/artist/4LBa6kTLaQHiONCfTfTaXV"
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
         },
         {
-          "name": "Dimatik",
-          "url": "https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz"
+          "name": "Aversion",
+          "url": "https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Techno Syndrome (Mortal Kombat)",
-      "url": "https://open.spotify.com/track/6oxX7IUFlUGTB3FIcF2ZlL"
+      "duration_ms": 177384,
+      "name": "Eternal Flame",
+      "url": "https://open.spotify.com/track/6hJOslrB3jquQksSqUTJ7Y"
     }
   ],
   "unique_name": "Hardstyle Bangers",

@@ -2,25 +2,25 @@
 
 ### [This Is Teddy Swims](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1LvmfL)
 
-> This is Teddy Swims\. The essential tracks, all in one playlist.
+> This is: Teddy Swims\. Alle wichtigen Tracks in einer Playlist.
 
 51 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 | 2024-01-10 | 2024-05-21 |
+| [2 Moods](https://open.spotify.com/track/4NP7m0lFf4JXa2yp9RfqKq) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:24 | 2024-01-10 |  |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2024-01-10 |  |
 | [All That Really Matters](https://open.spotify.com/track/6cLrGfKIIRHYQw7S0mCDhA) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 4:04 | 2024-01-10 |  |
 | [Amazing](https://open.spotify.com/track/1UlaB17A3XYcsObZaXqUjF) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:55 | 2024-01-10 |  |
 | [Apple Juice](https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:02 | 2024-04-29 |  |
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/0mHk41X0RRc6pqrcq1gQAr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:33 | 2024-01-10 |  |
-| [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2024-01-10 | 2024-05-22 |
+| [Bed on Fire](https://open.spotify.com/track/5O5ExR5u69CclV8lb24WmV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bed on Fire](https://open.spotify.com/album/6wSN7NkylN8rRm6Z4QqFTg) | 3:48 | 2024-01-10 |  |
 | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/track/0739yB1rNxAQeLda9pOrEP) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Bed on Fire \(with Ingrid Andress\)](https://open.spotify.com/album/1tOEXqqFrTxoyHTXhvb8E5) | 3:48 | 2024-01-10 |  |
 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 | 2024-01-10 |  |
 | [Blinding Lights](https://open.spotify.com/track/66aMnwdhkEc1V0AAnyYchX) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Blinding Lights](https://open.spotify.com/album/4vh9LW3igRT6NayBnmb8fZ) | 3:34 | 2024-01-10 |  |
 | [Blowin’ Smoke](https://open.spotify.com/track/5iYtyxrDC2apJoQUpoN7J7) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Unlearning](https://open.spotify.com/album/6UgNw0NOw3Ixs0kAWl7RGr) | 3:21 | 2024-01-10 |  |
 | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/track/1etcoCl2mkHpMHkMVco8iz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Broke \(feat\. Thomas Rhett\)](https://open.spotify.com/album/6G1IliLfJTzCkHBvj5idiS) | 2:40 | 2024-01-10 |  |
-| [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 | 2024-01-10 | 2024-05-18 |
+| [Devil in a Dress](https://open.spotify.com/track/3YeBXUEWIjCtcsv0tULpz8) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 2:55 | 2024-01-10 |  |
 | [Don't Stop Believin'](https://open.spotify.com/track/3sQzp18PlsOAQKZxW7EbEK) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Don't Stop Believin'](https://open.spotify.com/album/5WzjpQ9cLRxTzK4AMn7Ipr) | 4:08 | 2024-01-10 |  |
 | [dose](https://open.spotify.com/track/26ETsbVhx34daSYeBGmvgl) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Sleep is Exhausting](https://open.spotify.com/album/0fc1W53T3llTmKSzRgaj3s) | 3:00 | 2024-01-10 |  |
 | [Easy To Love](https://open.spotify.com/track/0BLxPjFEOG8G1q8AKLuz3V) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:31 | 2024-01-10 |  |

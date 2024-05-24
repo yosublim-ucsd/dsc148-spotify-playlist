@@ -2,7 +2,7 @@
 
 ### [This Is Gerardo Ortiz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2LPGy4)
 
-> This Is Gerardo Ortiz\. Los temas esenciales, todos en una lista.
+> This is Gerardo Ortiz\. The essential tracks, all in one playlist.
 
 70 songs - 3 hr 18 min
 
@@ -24,10 +24,10 @@
 | [Coquio Castro \- En Vivo](https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Coquio Castro \(En Vivo\)](https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH) | 3:11 | 2023-08-08 | 2023-11-11 |
 | [Destapando Botellitas](https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Destapando Botellitas](https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm) | 2:19 | 2023-08-08 | 2023-11-11 |
 | [Dámaso](https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Primer Ministro](https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC) | 2:39 | 2023-08-08 |  |
-| [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 | 2024-05-11 |  |
+| [Déjate de Cosas](https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Déjate de Cosas](https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz) | 2:49 | 2024-05-11 | 2024-05-24 |
 | [Egoísta](https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:54 | 2023-08-08 |  |
 | [El Aroma de Tu Piel](https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Comeré Callado, Vol\. 2](https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR) | 2:52 | 2023-08-08 |  |
-| [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 | 2024-02-05 | 2024-04-28 |
+| [El Cartel de la Rana](https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto) | [Jorge Santacruz Y Su Grupo Quinto Elemento Feat\. Gerardo Ortiz](https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [La Supremacía](https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW) | 3:00 | 2024-02-05 |  |
 | [El Cholo](https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Hoy Más Fuerte](https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46) | 2:13 | 2023-08-08 |  |
 | [El Coach \(En Vivo\)](https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [El Coach \(En Vivo\)](https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe) | 3:31 | 2023-08-08 | 2024-03-21 |
 | [El Comando del Diablo](https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb) | [Noel Torres](https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Al Frente y de Frente](https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c) | 2:30 | 2023-08-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: Karina.",
-  "num_followers": 219257,
+  "num_followers": 219305,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
-      },
-      "artists": [
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 284214,
-      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
-      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Si Esta Casa Hablara",
         "url": "https://open.spotify.com/album/7JTFZ8I4RPHodlhmX2faiP"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 200575,
       "name": "Si Esta Casa Hablara",
       "url": "https://open.spotify.com/track/2F3j0BgLcRjuAd7gAvrlQp"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/3CtG7vSvFhZqFPryWeuZ0N"
+      },
+      "artists": [
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 284214,
+      "name": "Lo Que Me Duele / Y Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/7vL8ZEvLOXXW9SiL9ulZRZ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Si Te Vas (Vivo)",
+        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        },
+        {
+          "name": "El Mago Y La Nueva",
+          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
+        }
+      ],
+      "duration_ms": 275375,
+      "name": "Si Te Vas - Vivo",
+      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Sin Valent\u00edn",
         "url": "https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 161874,
       "name": "Sin Valent\u00edn",
       "url": "https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Si Te Vas (Vivo)",
-        "url": "https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        },
-        {
-          "name": "El Mago Y La Nueva",
-          "url": "https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU"
-        }
-      ],
-      "duration_ms": 275375,
-      "name": "Si Te Vas - Vivo",
-      "url": "https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Anochecemos",
-        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 204145,
-      "name": "Anochecemos",
-      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Sigo Mi Camino",
         "url": "https://open.spotify.com/album/7DC0OZgj13TFToSFMa01Sw"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 164022,
       "name": "Yo Te Esperare",
       "url": "https://open.spotify.com/track/6WUr8ftmKH0HPAzwsehGXQ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Anochecemos",
+        "url": "https://open.spotify.com/album/4dlrWntcibuDtUW2jOE6lj"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 204145,
+      "name": "Anochecemos",
+      "url": "https://open.spotify.com/track/2o5kxY2w24kZWrzPSJFquu"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Te Sigo Queriendo",
-        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
-      },
-      "artists": [
-        {
-          "name": "Volcan",
-          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "Esa Malvada",
-      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Si Regresas",
         "url": "https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "No Me Digas Adios",
-        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+        "name": "Te Sigo Queriendo",
+        "url": "https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK"
       },
       "artists": [
         {
-          "name": "Commanche",
-          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+          "name": "Volcan",
+          "url": "https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk"
         }
       ],
-      "duration_ms": 152666,
-      "name": "Como Te Lo Digo",
-      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
+      "duration_ms": 177533,
+      "name": "Esa Malvada",
+      "url": "https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1503,6 +1487,22 @@
       "duration_ms": 323334,
       "name": "Te Hubieras Ido Antes",
       "url": "https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "No Me Digas Adios",
+        "url": "https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J"
+      },
+      "artists": [
+        {
+          "name": "Commanche",
+          "url": "https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Como Te Lo Digo",
+      "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1559,30 +1559,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "LADRONA - con Mario Luis",
-        "url": "https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93"
+        "name": "Paso la Vida Pensando",
+        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
       },
       "artists": [
         {
-          "name": "Emanero",
-          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+          "name": "18 Kilates",
+          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
         },
         {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        },
-        {
-          "name": "Onda Sabanera",
-          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
-        },
-        {
-          "name": "Mario Luis",
-          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
         }
       ],
-      "duration_ms": 177994,
-      "name": "LADRONA - con Mario Luis",
-      "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
+      "duration_ms": 242277,
+      "name": "Paso la Vida Pensando",
+      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1607,26 +1599,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Paso la Vida Pensando",
-        "url": "https://open.spotify.com/album/5ALqv0I3fIIzZxzLjst4JG"
-      },
-      "artists": [
-        {
-          "name": "18 Kilates",
-          "url": "https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC"
-        },
-        {
-          "name": "Lucas Sugo",
-          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
-        }
-      ],
-      "duration_ms": 242277,
-      "name": "Paso la Vida Pensando",
-      "url": "https://open.spotify.com/track/5o3DaEe3T1JeHZVK4hlZYj"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -1639,6 +1611,34 @@
       "duration_ms": 225293,
       "name": "Cosas Del Amor",
       "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "LADRONA - con Mario Luis",
+        "url": "https://open.spotify.com/album/4YosCnSnhwNbaHthn1bk93"
+      },
+      "artists": [
+        {
+          "name": "Emanero",
+          "url": "https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        },
+        {
+          "name": "Onda Sabanera",
+          "url": "https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P"
+        },
+        {
+          "name": "Mario Luis",
+          "url": "https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx"
+        }
+      ],
+      "duration_ms": 177994,
+      "name": "LADRONA - con Mario Luis",
+      "url": "https://open.spotify.com/track/1D48FEMp0AvOBfiveK8M4R"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1787,18 +1787,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "La Virgencita",
-        "url": "https://open.spotify.com/album/2YMoB5FujTGKuNVYNnbzed"
+        "name": "Ser\u00e1",
+        "url": "https://open.spotify.com/album/6zUJ9NMTQ9mGThgPH6lF4f"
       },
       "artists": [
         {
-          "name": "Daniel Agostini",
-          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+          "name": "Peipper",
+          "url": "https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs"
+        },
+        {
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
         }
       ],
-      "duration_ms": 260424,
-      "name": "La Virgencita",
-      "url": "https://open.spotify.com/track/7v8ctlF8xN0uFVJFTgEhG5"
+      "duration_ms": 157058,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/3ivQpS9JxcZ9wewc0aXoDH"
     }
   ],
   "unique_name": "Cumbia y Romance",

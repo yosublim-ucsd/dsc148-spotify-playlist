@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-[Spotify](https://open.spotify.com/user/spotify) - 331,894 likes - 95 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,899 likes - 95 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 68 | [You](https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [You](https://open.spotify.com/album/6cWawCk4DohREQA42eEOe1) | 3:53 |
 | 69 | [Can't Tame Her](https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Can't Tame Her](https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7) | 3:16 |
 | 70 | [Someday](https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:07 |
-| 71 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
+| 71 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 |
 | 72 | [Without You](https://open.spotify.com/track/1tnfPfTc733IBccOamdcjM) | [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L) | [Without You](https://open.spotify.com/album/0e6bVPjT166kgo3NWfDOmv) | 3:07 |
-| 73 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 |
+| 73 | [Makeba](https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0) | [Zanaka \(Deluxe\)](https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k) | 4:08 |
 | 74 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 |
 | 75 | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/track/0vR2rIVORmgeKiGIgNT0fV) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [By Your Side \(feat\. Tom Grennan\)](https://open.spotify.com/album/6Z6QdCXb3IBonAUSwLP4iB) | 3:09 |
 | 76 | [Anyone](https://open.spotify.com/track/31qCy5ZaophVA81wtlwLc4) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Anyone](https://open.spotify.com/album/51kijm0sjZz0yOa3kVBPUU) | 3:10 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 79 | [Wouldn't It Be Nice](https://open.spotify.com/track/2Gy7qnDwt8Z3MNxqat4CsK) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:33 |
 | 80 | [It Is What It Is](https://open.spotify.com/track/2kHcMUgIqU3t87wjoGhrd6) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Broken Memories](https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys) | 2:05 |
 | 81 | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Tick Tock \(feat\. 24kGoldn\)](https://open.spotify.com/album/3tuAs968COA2vxKjiLvmxr) | 2:58 |
-| 82 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 |
-| 83 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
+| 82 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 |
+| 83 | [New Shoes](https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [These Streets](https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl) | 3:23 |
 | 84 | [Hold On](https://open.spotify.com/track/4u4NyuceXP7Uzh7XFJKCr1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Hold On](https://open.spotify.com/album/1btu3XEwHsImFreF8dVV6J) | 2:50 |
 | 85 | [Homesick](https://open.spotify.com/track/4xJJc0HHDDSRb202uqDbsc) | [Kállay Saunders](https://open.spotify.com/artist/7DJiupNnzTkhLPygjCaVKj) | [Homesick](https://open.spotify.com/album/6fFU7FRsq7htaCfTsHAkCn) | 2:44 |
 | 86 | [Waffle House](https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Waffle House](https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99) | 2:25 |

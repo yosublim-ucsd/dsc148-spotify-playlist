@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: BÉBE YANA\)
+> New & best K\-Electronic music is here\. \(Cover: uju\(우주\)\)
 
-115 songs - 6 hr 46 min
+116 songs - 6 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [INVU \- Moon Kyoo Remix](https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 4:11 | 2024-04-18 |  |
 | [INVU \- ZHU Remix](https://open.spotify.com/track/483n1AQ8X3rT3ILd2tp9Y7) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [iScreaM Vol.15 : INVU Remixes](https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw) | 3:39 | 2024-04-05 | 2024-04-19 |
 | [It Couldn’t Be Better](https://open.spotify.com/track/3KPsZ9xEvbdIloQb0OjwPI) | [SakaZan](https://open.spotify.com/artist/5ZEC18QwaPf2CCOJIC7paM) | [It Couldn’t Be Better](https://open.spotify.com/album/1iGNYCVo1OAoX7UjJZ72r2) | 3:14 | 2024-04-05 |  |
-| [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 |  |
+| [Keep On Jumpin'](https://open.spotify.com/track/0CbT1KxkgntAeNGYy5jwQE) | [Worvan](https://open.spotify.com/artist/2xPNzJaAiVobXqliW6ZXvC), [Juyong](https://open.spotify.com/artist/0ALnsDV3w3tXL6abvFJkP2) | [Keep On Jumpin'](https://open.spotify.com/album/1JXc3MPb9LFPiWuM5qe18Z) | 2:00 | 2024-04-05 | 2024-05-24 |
 | [Kick It \- Hitchhiker Remix](https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Hitchhiker](https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:10 | 2024-04-05 |  |
 | [Kick It \- Valentino Khan Remix](https://open.spotify.com/track/7sJICRUS1spg6HO7v59vZo) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [iScreaM Vol.1 : Kick It Remixes](https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5) | 3:09 | 2024-04-05 |  |
 | [Lift Me Up](https://open.spotify.com/track/2lahORylPr5NKed4le9ODg) | [DUE](https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m) | [Lift Me Up](https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A) | 2:01 | 2024-04-05 |  |
@@ -94,6 +94,7 @@
 | [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 |  |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 |  |
 | [Pinnacle \- Pure 100% Remix](https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Pinnacle \(Remixes\)](https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog) | 3:26 | 2024-05-09 |  |
+| [Please Be My Light](https://open.spotify.com/track/2CagK8wBXVpc1Z3CQoEUFc) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [City.exe](https://open.spotify.com/album/4wPSM9SgbqAdpPznBK7kur) | 3:46 | 2024-05-23 |  |
 | [Power \- Dash Berlin Remix](https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 5:00 | 2024-04-05 |  |
 | [Power \- IMLAY Remix](https://open.spotify.com/track/3swlav6jHllgTqg04ViBB1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:18 | 2024-04-18 |  |
 | [Power \- R3HAB Remix](https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Power \(Remixes\)](https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51) | 3:21 | 2024-04-05 |  |

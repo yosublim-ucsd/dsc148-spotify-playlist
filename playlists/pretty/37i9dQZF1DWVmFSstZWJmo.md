@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. M.I.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,154 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,271 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 38 | [The Bay](https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [The English Riviera](https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK) | 4:50 |
 | 39 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
 | 40 | [Feel It All Around](https://open.spotify.com/track/4V0x90QcMh4ZxwHzEWOdtK) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Life of Leisure](https://open.spotify.com/album/1jMTPWTHJhsZev04IbmyCC) | 3:12 |
-| 41 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
-| 42 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
-| 43 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
-| 44 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
+| 41 | [Helena Beat](https://open.spotify.com/track/4VbDJMkAX3dWNBdn3KH6Wx) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 4:36 |
+| 42 | [Golden Skans](https://open.spotify.com/track/6BqWhxll86CGGE6WxgdRqG) | [Klaxons](https://open.spotify.com/artist/2qlAMLpUyBjZgnzuFXXZXI) | [Myths Of The Near Future](https://open.spotify.com/album/6NfykVXaIiJG0JkkNI3Ubg) | 2:45 |
+| 43 | [Lets Go Surfing](https://open.spotify.com/track/49skdn8Truaufvcz8BXmtT) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [The Drums](https://open.spotify.com/album/7EbEJzUEiXGbyrifEm2IN4) | 2:54 |
+| 44 | [Obstacle 1](https://open.spotify.com/track/1ZBqJilDGBVYktvlCEo9jC) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:11 |
 | 45 | [Where's Your Head At](https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b) | [Basement Jaxx](https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ) | [Rooty](https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP) | 4:45 |
 | 46 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 47 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 80 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 |
 | 81 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
 | 82 | [I'm Not Gonna Teach Your Boyfriend How to Dance with You](https://open.spotify.com/track/46BMGjAnLVVR1gZcayw93j) | [Black Kids](https://open.spotify.com/artist/1oJolWh3meHLWUcyIijst7) | [Partie Traumatic](https://open.spotify.com/album/4bWa4HwoyMWq5E25TKewbt) | 3:37 |
-| 83 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
-| 84 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
+| 83 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
+| 84 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
 | 85 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 |
 | 86 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 |
 | 87 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |

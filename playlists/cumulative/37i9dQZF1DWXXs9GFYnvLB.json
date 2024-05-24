@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
+    },
+    {
+      "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
       },
@@ -122,6 +140,24 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "album": {
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "album": {
@@ -1656,7 +1692,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157485,
       "name": "Home",
       "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
@@ -1983,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -2306,7 +2360,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -2346,7 +2400,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
@@ -2440,7 +2494,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180872,
       "name": "Murder on the Dance Floor - triple j Like A Version",
       "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
@@ -3088,6 +3142,24 @@
       "duration_ms": 319191,
       "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
+    },
+    {
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
     },
     {
       "album": {

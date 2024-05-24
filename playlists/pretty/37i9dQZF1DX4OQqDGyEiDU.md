@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,193 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,204 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 30 | [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 |
 | 31 | [QUEEN](https://open.spotify.com/track/4KXEPamxxfzDLG7Qv1eS4j) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [QUEEN](https://open.spotify.com/album/2AmHDRUOPKyrmVNZY8hyNq) | 2:21 |
 | 32 | [エゴロック \- long ver.](https://open.spotify.com/track/2FRMwFXODegegRrfLAeVwx) | [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [エゴロック \(long ver.\)](https://open.spotify.com/album/3jFaq0Sz9TBllBvn8Mu8GQ) | 2:49 |
-| 33 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 |
+| 33 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
 | 34 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
-| 35 | [リレイアウター](https://open.spotify.com/track/1hc0G2VMFmkqI0JnW5Zbjh) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [リレイアウター](https://open.spotify.com/album/6SfUQIirquTrp4VYBCCcQV) | 3:09 |
+| 35 | [可愛いあの子が気にゐらない](https://open.spotify.com/track/2cljEZhP1PZcYHsitlCyW5) | [なるみや](https://open.spotify.com/artist/7DkhW1MaKKLwJTSC5TtVW3) | [可愛いあの子が気にゐらない](https://open.spotify.com/album/0VT7LIPGfvANx4jh5s11Ui) | 3:18 |
 | 36 | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [鏡音リン・レン](https://open.spotify.com/artist/46cTNwyKdzoPIoEgLa8XS1) | [劣等上等 feat\. 鏡音リン・レン](https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0) | 3:55 |
 | 37 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 38 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |

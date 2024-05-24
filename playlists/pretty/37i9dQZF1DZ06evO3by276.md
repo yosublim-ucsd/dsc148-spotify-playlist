@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 
 > This is Rihanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,053,826 likes - 48 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,054,159 likes - 48 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 26 | [Loveeeeeee Song](https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:16 |
 | 27 | [Hate That I Love You](https://open.spotify.com/track/7iu0WYLdo4yksKf3seaxzI) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:38 |
 | 28 | [Where Have You Been](https://open.spotify.com/track/5WQQIDU3HRaMyPkob8mpFb) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Talk That Talk](https://open.spotify.com/album/2g1EakEaW7fPTZC6vBmBCn) | 4:02 |
-| 29 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
-| 30 | [What's My Name?](https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:23 |
+| 29 | [What's My Name?](https://open.spotify.com/track/6DkXLzBQT7cwXmTyzAB1DJ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Loud \(Japan Version\)](https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38) | 4:23 |
+| 30 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 |
 | 31 | [Take Care](https://open.spotify.com/track/124NFj84ppZ5pAxTuVQYCQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Take Care \(Deluxe\)](https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q) | 4:37 |
 | 32 | [Too Good](https://open.spotify.com/track/3BtuIIrQlkujKPuWF2B85z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:23 |
 | 33 | [Consideration](https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 2:41 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3by276.md) - [plain]
 | 47 | [Nobody's Business](https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 3:36 |
 | 48 | [We Ride](https://open.spotify.com/track/0EIsxWGPSte4cAHZw5aXr4) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [A Girl Like Me](https://open.spotify.com/album/2JdjS6jjOml7nt7Yjo0nnh) | 3:56 |
 
-Snapshot ID: `ZkqSgAAAAABC1r84qrvQkGCmQOzqdg0x`
+Snapshot ID: `Zk01gAAAAAAZvjZr8JEHW3OZhZMyD+8U`

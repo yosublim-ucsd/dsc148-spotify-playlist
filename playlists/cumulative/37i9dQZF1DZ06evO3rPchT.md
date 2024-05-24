@@ -2,7 +2,7 @@
 
 ### [This Is HARDY](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rPchT)
 
-> This Is HARDY\. Los temas esenciales, todos en una lista.
+> This is: HARDY\. Alle wichtigen Tracks in einer Playlist.
 
 64 songs - 3 hr 33 min
 

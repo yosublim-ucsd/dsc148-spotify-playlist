@@ -38,7 +38,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 161875,
       "name": "After Church",
       "url": "https://open.spotify.com/track/3dRrAAugBdsRSiBqkUxWbe"
@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 436024,
       "name": "Hakuna Wa Kufanana Na Yeye",
       "url": "https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 168000,
       "name": "Mema",
       "url": "https://open.spotify.com/track/0oOQmt04tGucSnvij5jfbW"
@@ -1502,7 +1502,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 196800,
       "name": "Mungu Ni Upendo (feat. Pitson)",
       "url": "https://open.spotify.com/track/0BPriVJeWjmo3ugIVkN2vw"
@@ -1852,10 +1852,28 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 212532,
       "name": "Nimefichwa",
       "url": "https://open.spotify.com/track/1itH2yw2j8YpoqyVodTC2s"
+    },
+    {
+      "album": {
+        "name": "Nimeketishwa Juu",
+        "url": "https://open.spotify.com/album/6GZQqpX0QZf079Cd3YPytb"
+      },
+      "artists": [
+        {
+          "name": "Mathias Walichupa",
+          "url": "https://open.spotify.com/artist/5aHMqmtdMTb2ssh94G6lVU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Nimeketishwa Juu",
+      "url": "https://open.spotify.com/track/3KIlNPhA6C5zKiGFKNCAzl"
     },
     {
       "album": {
@@ -2192,7 +2210,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 341284,
       "name": "Pombe",
       "url": "https://open.spotify.com/track/4W3Bm7G15aXGEFd9oNaJJu"
@@ -2650,7 +2668,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 290821,
       "name": "SON RISE (Soldier)",
       "url": "https://open.spotify.com/track/0C02e42RiZPw7JEfMeBF1w"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 365000,
       "name": "Ubatili",
       "url": "https://open.spotify.com/track/3421nmVXwNgUUOlHoE1ZQO"
@@ -2858,7 +2876,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 371707,
       "name": "ULINIJUA - Radio Edit",
       "url": "https://open.spotify.com/track/314xMaImh9biPpmK0pnrs2"
@@ -2956,7 +2974,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 598047,
       "name": "Umezungushwa Na Sifa",
       "url": "https://open.spotify.com/track/28W0lPWcA0mhpqlNJglxKF"
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160121,
       "name": "Wema Wako",
       "url": "https://open.spotify.com/track/1fsTN4b4eo1rF7TZN66nu1"

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Brighter Future",
+        "url": "https://open.spotify.com/album/6mFYBZojwGTAiauZGEvHDc"
+      },
+      "artists": [
+        {
+          "name": "Celesete Cooper",
+          "url": "https://open.spotify.com/artist/6jmxsGLj7q0TnovfN32GUT"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128445,
+      "name": "A Brighter Future",
+      "url": "https://open.spotify.com/track/02mGLexrQiaZGpg9oV737j"
+    },
+    {
+      "album": {
         "name": "A Dream of Tomorrow",
         "url": "https://open.spotify.com/album/3Qojrn9xWLkfIbwL9Shrly"
       },

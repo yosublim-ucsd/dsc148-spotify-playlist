@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Switzerland.
 
-2,507 songs - 5 day 10 hr 40 min
+2,508 songs - 5 day 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1541,7 +1541,7 @@
 | [MVP](https://open.spotify.com/track/1MaHA5ObykZAOLz4dqVTv6) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [MVP](https://open.spotify.com/album/69c6CHPxcKpp1ItJasytWj) | 1:54 | 2022-02-19 | 2022-02-24 |
 | [MW2](https://open.spotify.com/track/2sMxeHjS9rQh9gB92rcRF9) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 4:47 | 2023-09-12 | 2023-09-22 |
 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 | 2024-02-25 | 2024-04-19 |
-| [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 | 2024-04-18 |  |
+| [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 | 2024-04-18 | 2024-05-24 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 3:23 | 2024-04-20 | 2024-04-22 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:23 | 2024-04-21 | 2024-04-28 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2024-02-11 |
@@ -1901,6 +1901,7 @@
 | [Sanduhr](https://open.spotify.com/track/0nw16t4oMO94LFlZfQd6jC) | [KC Rebell](https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE), [Mathea](https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n) | [Sanduhr](https://open.spotify.com/album/1eJeQlWTt3jymEz1s1Kric) | 2:58 | 2021-12-18 | 2021-12-19 |
 | [Sans effet](https://open.spotify.com/track/3vmz5p8yz0M8R2rPP8dsSN) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Fleur froide \- Second état : la cristallisation](https://open.spotify.com/album/1Z660Pt8QbyPBmJUjuHS34) | 2:40 | 2022-05-07 | 2022-05-15 |
 | [Santa](https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia) | 3:13 | 2024-04-27 | 2024-05-19 |
+| [Santa](https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Santa](https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W) | 3:13 | 2024-05-23 |  |
 | [Santa Baby](https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Kylie Christmas](https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W) | 3:21 | 2021-11-30 | 2022-12-28 |
 | [Santa Baby \(with Henri René & His Orchestra\)](https://open.spotify.com/track/1foCxQtxBweJtZmdxhEHVO) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC), [Henri René and His Orchestra](https://open.spotify.com/artist/0oK8UXKZbQezeRhE0KeBAV) | [Heavenly Eartha](https://open.spotify.com/album/6gOVmmV26wBBgxUtbF8YZd) | 3:26 | 2023-12-18 | 2023-12-30 |
 | [Santa Claus Is Comin' to Town \- Live at C.W\. Post College, Greenvale, NY \- December 1975](https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Santa Claus Is Comin' to Town \(Live at C.W\. Post College, Greenvale, NY \- December 1975\)](https://open.spotify.com/album/6SEtGOi92yZM5TyAGlXlpZ) | 4:27 | 2021-12-25 | 2023-12-30 |

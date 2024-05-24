@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,144 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,141 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 18 | [High On Love](https://open.spotify.com/track/6KxM8MGmfCJRVps6jCFvfs) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [High On Love](https://open.spotify.com/album/00HcaQwzlsOUWzUJjWKoEo) | 3:01 |
 | 19 | [Paro\(noia\)](https://open.spotify.com/track/3K7mXKhaan7cLsHUg4VL2I) | [DC](https://open.spotify.com/artist/6nhbYvnZfjS4KpuO0ZoZYD) | [In The Loop](https://open.spotify.com/album/1ailFDm9fOYJ1gXTZf9fZS) | 3:15 |
 | 20 | [Better With You Than On My Own](https://open.spotify.com/track/32M9aAAuuhybp33wiLWtes) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Better With You Than On My Own](https://open.spotify.com/album/7L5a0opz3RoRKg7e3683D7) | 2:20 |
-| 21 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
+| 21 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
 | 22 | [Dreaming](https://open.spotify.com/track/13WoCHEfQiMV9o8AKvaTeR) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [Dreaming](https://open.spotify.com/album/3OXQmpMXwATX3i6cbJ6A8s) | 1:50 |
-| 23 | [mate in five](https://open.spotify.com/track/5OmN19NRa8PM9lTO5zaWOZ) | [Joe James](https://open.spotify.com/artist/2CMGIUxJXzUIEGt2jLpM5z) | [Jöetry](https://open.spotify.com/album/3WEc4KMSqyorc1yExBwB5N) | 4:04 |
+| 23 | [Next Up \- S3\-E47, Pt.1](https://open.spotify.com/track/3TWFT3Z8CXHuPqNmNa1heK) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [Next Up \- S3\-E47](https://open.spotify.com/album/7sJztsK2IXWXzhpqiXSqBA) | 2:21 |
 | 24 | [SS Interlude](https://open.spotify.com/track/0L0sXaqVYGpvXWcikG6zlk) | [Unknown T](https://open.spotify.com/artist/3iAhNz3e31lBuXYOsqGsf3) | [Rise Above Hate](https://open.spotify.com/album/1ayupZtO3Z583NZ4HNPRmg) | 1:52 |
 | 25 | [Just 4 Me](https://open.spotify.com/track/280IIfDu4nwz2yrZNUYw0Y) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 3:02 |
-| 26 | [DSLM?](https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [DSLM?](https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP) | 3:09 |
-| 27 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
-| 28 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
+| 26 | [Champions League](https://open.spotify.com/track/2AqwxWjRr1H5ZoPLHLCVFX) | [Gbnga](https://open.spotify.com/artist/1ZbrCYB8p8VyeTxH5YnEqZ) | [In my head](https://open.spotify.com/album/3bt2qFTBQtl5wYzBPNrIk4) | 2:35 |
+| 27 | [Alone](https://open.spotify.com/track/0AtyNYZ0kygG1AW1japLyX) | [Emzorearner](https://open.spotify.com/artist/5YDAIFvlyY1X1w4NCRa48A) | [Alone](https://open.spotify.com/album/34WR40SRw2MnKwjuQPYa27) | 2:32 |
+| 28 | [DSLM?](https://open.spotify.com/track/5tZsq6ChyWytdmtwBuvcsx) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [DSLM?](https://open.spotify.com/album/4YcQIKvYtKagM8EokiEEAP) | 3:09 |
 | 29 | [On My Mind](https://open.spotify.com/track/1eqIZ2Aki8uty86Qy4bk4N) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3) | [On My Mind](https://open.spotify.com/album/2hMB4Uz4vN84A8Za27VX4k) | 1:20 |
 | 30 | [Love Letter](https://open.spotify.com/track/2pjj71OIEpgLzr0V6cYkTp) | [Noaah](https://open.spotify.com/artist/3Og0HlgdW9l89ref8rY5DX) | [Love Letter](https://open.spotify.com/album/6CRjn3UOO9i9zqGE0Kxwp3) | 2:32 |
 | 31 | [Drunk and Confused 2.0](https://open.spotify.com/track/2Pdp4X0xs1p217g6oheu89) | [JS x YD](https://open.spotify.com/artist/6DtDZIxHODPr4sZTNLQbL7), [A92](https://open.spotify.com/artist/5uWT1NONby2BqNCu42fdDc), [A9Dbo Fundz](https://open.spotify.com/artist/0re1rxUsmmsr5u6qbXvl8z), [A9Ksav](https://open.spotify.com/artist/2EAWn2cHuKWwhJjCGcXMPR) | [Drunk and Confused 2.0](https://open.spotify.com/album/0m9iszemZo7KWFGuUWDTQO) | 3:47 |

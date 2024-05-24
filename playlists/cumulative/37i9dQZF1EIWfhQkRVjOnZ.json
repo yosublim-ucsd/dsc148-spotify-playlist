@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 244680,
       "name": "1984",
       "url": "https://open.spotify.com/track/7uxiZMCFC2F4LBcI9DF8iX"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 239866,
       "name": "A Moment Suspended In Time",
       "url": "https://open.spotify.com/track/1SBceOn4txhXq6Uan8EMPt"
@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "The Union of Crowns",
+        "url": "https://open.spotify.com/album/5Gevx9epKInDurmIs308XV"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239373,
+      "name": "An Honourable Reign",
+      "url": "https://open.spotify.com/track/4537kerrZrPCs8HeJ59BiJ"
+    },
+    {
+      "album": {
         "name": "An Ocean Between Us",
         "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
@@ -272,6 +290,24 @@
       "duration_ms": 274866,
       "name": "Anodyne Sea",
       "url": "https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk"
+    },
+    {
+      "album": {
+        "name": "The Darker Shades Of White",
+        "url": "https://open.spotify.com/album/78F8FoDXoxFVhyfpior32O"
+      },
+      "artists": [
+        {
+          "name": "Corpus Christi",
+          "url": "https://open.spotify.com/artist/66jyCx26AB2Yqeu8GY8skR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290000,
+      "name": "Baptized In Fire",
+      "url": "https://open.spotify.com/track/279oUTTQzoqmNBPbPuNm3d"
     },
     {
       "album": {
@@ -340,7 +376,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 202097,
       "name": "Break of Dawn",
       "url": "https://open.spotify.com/track/3HRHYe46bYZ75TdlQErLKC"
@@ -376,7 +412,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 228600,
       "name": "Broken Hands",
       "url": "https://open.spotify.com/track/45WrPEJtSAaC3UIecmg4ES"
@@ -412,7 +448,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 187853,
       "name": "Chewing The Stitch",
       "url": "https://open.spotify.com/track/4H5kTrbHiFVxltIRGSxfUC"
@@ -430,7 +466,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 209040,
       "name": "Children Of Fire",
       "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
@@ -592,7 +628,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 207573,
       "name": "Desperate Times, Desperate Measures",
       "url": "https://open.spotify.com/track/4TLK7Umh2d9UO3ZajvE6AV"
@@ -664,7 +700,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -754,7 +790,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 268880,
       "name": "Hush Yael",
       "url": "https://open.spotify.com/track/6YdznQRWvWTAHGv5hDGkA8"
@@ -826,7 +862,7 @@
       ],
       "date_added": "2024-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 189560,
       "name": "In The Wake Of Pigs",
       "url": "https://open.spotify.com/track/7xXLYzzhg4JXtAaMc8Vviz"
@@ -880,7 +916,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 194293,
       "name": "It Dwells In Me",
       "url": "https://open.spotify.com/track/2zkTehkNBWVQIGda4y729C"
@@ -970,7 +1006,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 192626,
       "name": "Meaning in Tragedy",
       "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
@@ -988,7 +1024,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 188723,
       "name": "Moths and Rust",
       "url": "https://open.spotify.com/track/7nVVmhmkcpGGaPfIZzJqNm"
@@ -1078,7 +1114,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 191625,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
@@ -1258,7 +1294,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 252973,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/1HinPKX8MxzZjN9hHNupzc"
@@ -1366,7 +1402,7 @@
       ],
       "date_added": "2024-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 205426,
       "name": "Son Of The Morning",
       "url": "https://open.spotify.com/track/5ZsMbyYP6xOX3tmG10GlT7"
@@ -1474,7 +1510,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 231826,
       "name": "The Darkest Nights",
       "url": "https://open.spotify.com/track/5URJEznfi3XiVHQCyC3sII"
@@ -1492,7 +1528,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 185200,
       "name": "The Finisher",
       "url": "https://open.spotify.com/track/2IrBOsPFanKlio8U55XUxc"
@@ -1528,7 +1564,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 176053,
       "name": "The Marriage Of Steel And Skin",
       "url": "https://open.spotify.com/track/3sDJ4E593mzxMIxPYe30zi"
@@ -1564,7 +1600,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 228133,
       "name": "The New Breed",
       "url": "https://open.spotify.com/track/6XduH1ZBD6sQUB9inVjulh"
@@ -1586,6 +1622,42 @@
       "duration_ms": 215693,
       "name": "There Can Be No Hesitation",
       "url": "https://open.spotify.com/track/35A0XPN0zoaQQHPvTOcemg"
+    },
+    {
+      "album": {
+        "name": "Bury Me Alive",
+        "url": "https://open.spotify.com/album/1Qsbs4c7I7UC2MjWgKVOWy"
+      },
+      "artists": [
+        {
+          "name": "Inhale Exhale",
+          "url": "https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123080,
+      "name": "Thin Black Lines",
+      "url": "https://open.spotify.com/track/5BkhnNgh3uyVrHrDw023Xp"
+    },
+    {
+      "album": {
+        "name": "Beloved (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/28B5fkCs91LYxB61sBHCHV"
+      },
+      "artists": [
+        {
+          "name": "I Killed The Prom Queen",
+          "url": "https://open.spotify.com/artist/3DY26PgCL4tKVUPQBtBWei"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205006,
+      "name": "Thirty One & Sevens",
+      "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
     },
     {
       "album": {
@@ -1744,7 +1816,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 258933,
       "name": "Vices Like Vipers",
       "url": "https://open.spotify.com/track/0Y5vHtaGw8vneadk6fYyPm"
@@ -1762,7 +1834,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 227106,
       "name": "We Stand",
       "url": "https://open.spotify.com/track/1QAz671ewHPs31WxBBVkKG"
@@ -1834,7 +1906,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-16",
+      "date_removed": null,
       "duration_ms": 262173,
       "name": "With A Thousand Words To Say But One",
       "url": "https://open.spotify.com/track/1iYgMGAiHn6GaoGXxFCT42"
@@ -1888,7 +1960,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 145813,
       "name": "World Without A Sun",
       "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,546 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,619 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 27 | [Leyenda M1](https://open.spotify.com/track/2I1IVGBwp88bjvY0LrAtAg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 2:50 |
 | 28 | [Soy de Parral \- En Vivo](https://open.spotify.com/track/6uYfaTJYYC0WCCLu9N3hCg) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Soy de Parral \(En Vivo\)](https://open.spotify.com/album/1sltaXWX0l13mpRxgm6MPy) | 3:14 |
 | 29 | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/track/6AEgZEVqpOPVR3IVBNoc87) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido De Everardo \(En Vivo\)](https://open.spotify.com/album/39Ft3zOrGLKqScuPTGVjYP) | 3:31 |
-| 30 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 |
-| 31 | [Abusamos Del Alcohol](https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:50 |
+| 30 | [Abusamos Del Alcohol](https://open.spotify.com/track/5nLlnNeNJtTkum4E0iXOYi) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Belico](https://open.spotify.com/album/7ugXiQHIHbREwSZUyS8iuY) | 3:50 |
+| 31 | [El Katch](https://open.spotify.com/track/6IB7Ma6l2RXm8qzSCh3J6r) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Katch](https://open.spotify.com/album/1Kgxdvii3WXGb805Sk6PjM) | 2:13 |
 | 32 | [El Corrido del Viejon](https://open.spotify.com/track/6NExyM5EiZaBcfKa0F9toD) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:17 |
 | 33 | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/track/4YHlqCBMgcSi3ZBBMGZ8Uc) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Ocupa La Banda Pa’ Bailar Mi Cuaco](https://open.spotify.com/album/2oDscjIVA5YERidGVVlzVT) | 2:33 |
 | 34 | [Soy de Rancho](https://open.spotify.com/track/0FwUglqH6FtXpI41kBLTfI) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Cazador](https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD) | 3:15 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 40 | [Una Noche En Culiacán](https://open.spotify.com/track/6RxVAo6JVd6MsGYjni0Zto) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Una Noche En Culiacán](https://open.spotify.com/album/06TRhrubPOJpmivI7ufR9s) | 2:53 |
 | 41 | [Le Pasé a la Plebe](https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:00 |
 | 42 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
-| 43 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 |
-| 44 | [Prohibida](https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Romanticas](https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V) | 3:27 |
+| 43 | [Prohibida](https://open.spotify.com/track/5eTZAT5QRihrI2EPmm7dXb) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Romanticas](https://open.spotify.com/album/5ixxiCbErSeF4akRmEVM6V) | 3:27 |
+| 44 | [El Golden Boy](https://open.spotify.com/track/0tYlsfCH5OIHZ9okoNSHKB) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Golden Boy](https://open.spotify.com/album/0qETY0e5zbP39E29FlLLtS) | 2:40 |
 | 45 | [Mujer Enamorada](https://open.spotify.com/track/3l00I1zbhGd2gRwdTQL89b) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Mujer Enamorada](https://open.spotify.com/album/2SZLFyJMjzZgJPNJx2RabY) | 2:20 |
 | 46 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
-| 47 | [Te Prometo](https://open.spotify.com/track/31FxFYyBcvxzVutkNEN5EE) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Te Prometo](https://open.spotify.com/album/6kMD14RKjB8REhBztHzxBg) | 2:15 |
-| 48 | [El Ratón](https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ratón](https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr) | 3:19 |
+| 47 | [El Ratón](https://open.spotify.com/track/1Y98KIXwNLbkxxCVp23Nqs) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Ratón](https://open.spotify.com/album/22Ksg2wzl7xXZ8rnq8x4qr) | 3:19 |
+| 48 | [Te Prometo](https://open.spotify.com/track/31FxFYyBcvxzVutkNEN5EE) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Te Prometo](https://open.spotify.com/album/6kMD14RKjB8REhBztHzxBg) | 2:15 |
 | 49 | [Me Gustas Mucho \(En Vivo\)](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 |
 | 50 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 |
-| 51 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
+| 51 | [Tumbate El Rollo feat\. Larry Hernandez \(Bonus Track\)](https://open.spotify.com/track/3AYMIIqDatBnSYCKqCk6wq) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde El Nokia](https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK) | 2:43 |
 
-Snapshot ID: `ZkqSgAAAAACkFQMq0+/yVqnoAVd4UnIS`
+Snapshot ID: `Zk01gAAAAAB5T9Rgwxkh4QiCBRX6ICwo`

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,166 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,172 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Love Me Again](https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m) | 3:02 |
 | 2 | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/track/3ISOK4T54v6O1g1AB8FiEK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [INVITATION \(Feat\. Gaeko\)](https://open.spotify.com/album/4WxRKPVsrzIaQ7ExLMvJ1u) | 3:11 |
-| 3 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 |
-| 4 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
+| 3 | [Jasmine](https://open.spotify.com/track/2IgbYlOlFpiSFYnsqB39lM) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Jasmine](https://open.spotify.com/album/2J4lOWOjWUYBRJoShrhAGk) | 3:21 |
+| 4 | [28 Reasons](https://open.spotify.com/track/1dfsPqH09vnzUWEOsN98Ex) | [SEULGI](https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq) | [28 Reasons \- The 1st Mini Album](https://open.spotify.com/album/1t5a29WYbJj83iy3RNICHw) | 3:09 |
 | 5 | [Cry For Love](https://open.spotify.com/track/4QqROKO0RtV5CvxE7g90uw) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Bambi \- The 3rd Mini Album](https://open.spotify.com/album/5xOx4mWABbTj0qWyZC4q1p) | 3:30 |
 | 6 | [For Us](https://open.spotify.com/track/4HAOgAnILvXCbSODMoRnmD) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 2:51 |
 | 7 | [풀어](https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:31 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 43 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
 | 44 | [Extraordinary \(feat\. Yescoba\)](https://open.spotify.com/track/0y4qgb9SmTnyBPAqaEztJN) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 3:52 |
 | 45 | [White Snow \(feat\. prettyhappy\)](https://open.spotify.com/track/40Qme85r9hwf0NaHUU6wu6) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [prettyhappy](https://open.spotify.com/artist/3doCkojWogBLg7PlYwaiG5) | [White Snow](https://open.spotify.com/album/30nfsEtFfMujcgxWL2ifEV) | 3:04 |
-| 46 | [Two Pills](https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [STILL YOUNG BOY L](https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q) | 2:57 |
-| 47 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
+| 46 | [Remained scent](https://open.spotify.com/track/7CLEVioXRrdbAhK82emGEf) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Remained scent](https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu) | 3:06 |
+| 47 | [Two Pills](https://open.spotify.com/track/6dLpWqTE8JM10tDOTB17Y3) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [STILL YOUNG BOY L](https://open.spotify.com/album/0x9dXa3HhLBstlkyarka7Q) | 2:57 |
 | 48 | [DADDY](https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:21 |
 | 49 | [Coffee](https://open.spotify.com/track/22jxHUUAI8nqbNOZRDj0uR) | [TAEWOO](https://open.spotify.com/artist/5aPl0S4RS3C1l05l4RU04x) | [Coffee](https://open.spotify.com/album/1U1Eablns7H5xPBtSSW7sz) | 2:28 |
 | 50 | [LSD \(Feat\. JUNNY\)](https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s) | [vangdale](https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [mojo](https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE) | 2:31 |

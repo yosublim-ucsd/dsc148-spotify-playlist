@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTwzVdyRpXm1.md) - [plain]
 
 > Best of South Asian Music\. Cover: Shubh
 
-[Spotify](https://open.spotify.com/user/spotify) - 811,068 likes - 92 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 811,328 likes - 92 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

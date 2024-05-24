@@ -2,7 +2,7 @@
 
 ### [This Is Libido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4zOsk6)
 
-> This is Libido\. The essential tracks, all in one playlist.
+> This Is Libido\. Les titres incontournables, réunis dans une seule et même playlist.
 
 50 songs - 2 hr 55 min
 
@@ -14,7 +14,7 @@
 | [Cuelgo el Teléfono](https://open.spotify.com/track/4LsSBw9Jey4ZW7F0LXb9WF) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Cuelgo el Teléfono](https://open.spotify.com/album/3btzsxko2imX9tsWIdBE5r) | 3:25 | 2023-08-25 |  |
 | [Culpable](https://open.spotify.com/track/79tGltolVrUMbxy7NUdq2J) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Lo Último Que Hablé Ayer](https://open.spotify.com/album/5vFyCCzJ7ciDElxZisN3vs) | 2:37 | 2023-08-25 |  |
 | [Cómo estás \(En vivo\)](https://open.spotify.com/track/1fHlONl6pMBC9zc4Qh76XQ) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Acústico en el Gran Teatro Nacional \(En vivo\)](https://open.spotify.com/album/4GhkQaLNEGLF22fxsn8kFV) | 4:27 | 2023-08-25 |  |
-| [Debí decir que no](https://open.spotify.com/track/6MFp3LAgfCKFKmpNllLI3K) | [Jet Rodeo](https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM), [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Debí decir que no](https://open.spotify.com/album/5o9IDJby9JX093elzIItHT) | 3:41 | 2024-05-19 |  |
+| [Debí decir que no](https://open.spotify.com/track/6MFp3LAgfCKFKmpNllLI3K) | [Jet Rodeo](https://open.spotify.com/artist/1itxF65N0tWoPtKPWhTjBM), [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Debí decir que no](https://open.spotify.com/album/5o9IDJby9JX093elzIItHT) | 3:41 | 2024-05-19 | 2024-05-24 |
 | [Disparar](https://open.spotify.com/track/5h21CIvNQTXy2Xh91hwVY6) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Un Día Nuevo](https://open.spotify.com/album/5cEeV7MdJVVfr20xKUCuYY) | 2:42 | 2023-08-25 |  |
 | [En Esta Habitación](https://open.spotify.com/track/1gAB76RAMN8sZl0PjKyqXA) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Hembra](https://open.spotify.com/album/1A9njpmy2SE4Ft9JqiDPmh) | 4:32 | 2023-08-25 |  |
 | [Esther Fe](https://open.spotify.com/track/6hBBssHaBL1h1bmUkkfECc) | [Libido](https://open.spotify.com/artist/7J7btQloI9KSJg0o4e9Fno) | [Pop\*Porn](https://open.spotify.com/album/2fm4FpVJ0XWXCior2ZX0Kb) | 3:52 | 2023-08-25 |  |

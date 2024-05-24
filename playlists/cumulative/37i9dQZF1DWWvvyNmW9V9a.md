@@ -4,7 +4,7 @@
 
 > try and come for her job
 
-1,523 songs - 3 day 7 hr 55 min
+1,526 songs - 3 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -586,6 +586,7 @@
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-02-03 | 2023-09-16 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2022-10-28 | 2023-06-02 |
 | [Here’s To Us](https://open.spotify.com/track/2zpYiHY3ecQFn8V7jEd5u1) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Here’s To Us](https://open.spotify.com/album/4tSC3VDDSQetWw8s4GcreS) | 3:14 | 2024-01-19 | 2024-02-09 |
+| [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 | 2024-05-23 |  |
 | [Hey Kids](https://open.spotify.com/track/5poS8LyxohSACjuIZ61EyS) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [Late Verlane](https://open.spotify.com/artist/6P4APuruGUYRvwnzboQir3) | [Hey Kids](https://open.spotify.com/album/2w5lbvxycNKqfGSrWgmDpI) | 3:53 | 2022-03-18 | 2022-05-07 |
 | [Hey, Mickey!](https://open.spotify.com/track/3RKjTYlQrtLXCq5ncswBPp) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hey, Mickey!](https://open.spotify.com/album/1kKF2bWhCvSNNmWFqQVFei) | 1:55 | 2023-01-27 | 2023-09-16 |
 | [HEYA](https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:09 | 2024-04-29 | 2024-05-11 |
@@ -691,6 +692,7 @@
 | [if you ask me to](https://open.spotify.com/track/63XZMpI9z3Grrd5YH5sl5L) | [charli d'amelio](https://open.spotify.com/artist/7yURu3gRxmCReoYCg8m5M9) | [if you ask me to](https://open.spotify.com/album/4jF92ciZwl1apnJCvn3giR) | 3:12 | 2022-10-26 | 2023-02-04 |
 | [if you only knew](https://open.spotify.com/track/2w5iEdgKsFms9vAFq2n3Yy) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [if you only knew](https://open.spotify.com/album/4b2PgBQEZbvwkKwNPlqrBy) | 2:42 | 2023-12-08 | 2024-04-05 |
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 | 2024-04-13 |
+| [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-05-23 |  |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-11 | 2023-07-22 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-02-06 | 2023-07-29 |
 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 | 2024-04-19 | 2024-05-18 |
@@ -1484,6 +1486,7 @@
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2023-10-16 | 2023-11-11 |
 | [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 | 2023-08-25 | 2023-09-30 |
 | [Winter Wonderland \- Spotify Singles Holiday](https://open.spotify.com/track/1LmkdWSxjCV7wKTPsCvYWN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Spotify Singles Holiday](https://open.spotify.com/album/1Ph9nV8cNv7Gq7yHOlmbgh) | 2:12 | 2023-12-01 | 2023-12-30 |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 |  |
 | [World Burn](https://open.spotify.com/track/12t8ncJH9PC4P9SxvEEySH) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 3:35 | 2024-01-08 | 2024-02-17 |
 | [World Burn](https://open.spotify.com/track/41G077moVwIPkFSO4Bt00L) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [World Burn](https://open.spotify.com/album/7pISfAjwsGSIO6NLhoFWMN) | 3:35 | 2024-01-08 | 2024-01-25 |
 | [World Burn](https://open.spotify.com/track/3iISGrl3JKqPQ4GLqPjVkt) | [Taylor Louderman](https://open.spotify.com/artist/1f0vGTFXE64SLuypBV8zB0), [Original Broadway Cast of Mean Girls](https://open.spotify.com/artist/6B1foTh2pK3K4MKQzYaKRu) | [Mean Girls \(Original Broadway Cast Recording\)](https://open.spotify.com/album/6m7n9JuAOMcy8X3ntO0Ktf) | 3:23 | 2023-10-19 | 2023-11-11 |

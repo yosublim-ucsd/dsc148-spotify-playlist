@@ -2,9 +2,9 @@
 
 ### [La Crème](https://open.spotify.com/playlist/37i9dQZF1DX8f2x5zbH0oM)
 
-> La playlist au\-delà des genres\. Photo : Childish Gambino
+> La playlist au\-delà des genres\. Photo : BILLIE EILISH
 
-127 songs - 7 hr 13 min
+130 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [Canopy](https://open.spotify.com/track/59YWoPxE5fFp1nS3yy4hFf) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Canopy](https://open.spotify.com/album/1lgJ4fZkUjGyUuMfve9QgV) | 2:31 | 2024-04-11 |  |
 | [Cards On The Table](https://open.spotify.com/track/56NeC5RB6XA4ctZ8FctwG4) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Cards On The Table](https://open.spotify.com/album/3QOKfNss8qymLZprTy2jox) | 2:56 | 2024-04-11 |  |
 | [Caroline](https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Slow Burn](https://open.spotify.com/album/4OMrX6ldbZ3gvb0oXytTHb) | 4:06 | 2024-04-11 |  |
+| [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-05-23 |  |
+| [Could I Stay](https://open.spotify.com/track/1vSAziaAR7YvpjGVw8Lu1p) | [boz](https://open.spotify.com/artist/72aBgi0AvMNat8qPOReQJu), [Betty](https://open.spotify.com/artist/4dzpD5GedidkVBhvGGEpGs) | [Could I Stay](https://open.spotify.com/album/2OCBppEHFQV2lP8yNGFA1e) | 2:58 | 2024-05-23 |  |
 | [Cowboys Are Frequently Secretly Fond Of Each Other](https://open.spotify.com/track/3QQGro8PgB6AIRz5R8D2nt) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 3:38 | 2024-05-11 |  |
 | [Deer Teeth](https://open.spotify.com/track/5kw1a9O11qBlFkLAQnwb5U) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Deer Teeth](https://open.spotify.com/album/4VVZS87dI8rFiePJzsjQAm) | 3:51 | 2024-02-09 | 2024-04-05 |
 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 | 2024-04-04 |  |
@@ -63,7 +65,7 @@
 | [Imaan](https://open.spotify.com/track/1ydE5C1KehuCQI8EM3qXrQ) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/671HQwwWo7sivjgFb4Qf1P) | 3:34 | 2024-03-08 | 2024-04-12 |
 | [Imaan](https://open.spotify.com/track/5xvYNmS5yLJr5Z18P25DYR) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Imaan](https://open.spotify.com/album/4365MmEKX6ImuvRiWtqagj) | 3:34 | 2024-04-11 | 2024-04-19 |
 | [Jamais Vu Le Jour](https://open.spotify.com/track/0mfnpM7sfNqmmPlHUC0RAg) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Way Back Home](https://open.spotify.com/album/5AKKlCP3dxZP9AAZTiE1R2) | 3:03 | 2024-01-26 | 2024-04-19 |
-| [Jamais Vu Le Jour](https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Jamais Vu Le Jour](https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM) | 3:03 | 2024-01-26 |  |
+| [Jamais Vu Le Jour](https://open.spotify.com/track/47rWS9nS6QNjBtjsjfEoyV) | [Saint DX](https://open.spotify.com/artist/4AHuSBzDte0ospEtW9rL18) | [Jamais Vu Le Jour](https://open.spotify.com/album/2yE9so7yFDcCAWG7vuMVxM) | 3:03 | 2024-01-26 | 2024-05-24 |
 | [KASSESSA](https://open.spotify.com/track/4RBwf8OYCEpQZBBd2UzDDS) | [Ichon](https://open.spotify.com/artist/5MJkroCz5vy8h3LeDsN1vu) | [KASSESSA](https://open.spotify.com/album/57NpDY78jxfdTb3vUdy8rW) | 4:45 | 2023-12-07 | 2024-03-09 |
 | [Lego Ring](https://open.spotify.com/track/3bGMtDPWFXqPM7QecjVHlG) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Lego Ring](https://open.spotify.com/album/61ZY4FMQgChUDCXRJ4C4lz) | 2:43 | 2024-01-12 | 2024-03-23 |
 | [Lethal Weapon](https://open.spotify.com/track/6dm4Ip02h98f6eko5A647f) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Pinball](https://open.spotify.com/album/5gHqM8u3IclJ1ZV6q309OW) | 1:26 | 2024-04-04 |  |
@@ -74,7 +76,7 @@
 | [Lover’s Rock](https://open.spotify.com/track/7eLIyJ632oXGozoLiGB1Ik) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Lover’s Rock](https://open.spotify.com/album/7oeGRapHeKODWlsNGdOZ8Z) | 2:28 | 2024-04-04 |  |
 | [MADE 4 U](https://open.spotify.com/track/5yetn3rXSPBP8fl5d5zExV) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [MADE 4 U](https://open.spotify.com/album/0WlcKSVRN8XsTDN4yXsMWZ) | 4:09 | 2023-12-22 | 2024-03-23 |
 | [Mbenda](https://open.spotify.com/track/7r9mtzhwnN1sUDx0BeBFch) | [Blick Bassy](https://open.spotify.com/artist/0QnqZZKkxzvl9bnSJnoV8E), [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Mádibá Ni Mbondi](https://open.spotify.com/album/0oVmAp4WYpsXFvmR7I8v6n) | 3:22 | 2024-05-17 |  |
-| [Me Myself and I](https://open.spotify.com/track/2SOzoXrQ0r8RXzaSXAnxx5) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Me Myself and I](https://open.spotify.com/album/1yUFwiHCSBCNuoa21PltAI) | 2:33 | 2023-12-07 |  |
+| [Me Myself and I](https://open.spotify.com/track/2SOzoXrQ0r8RXzaSXAnxx5) | [Clay and Friends](https://open.spotify.com/artist/0lF1vCOKBjs21HtxkGmWIm) | [Me Myself and I](https://open.spotify.com/album/1yUFwiHCSBCNuoa21PltAI) | 2:33 | 2023-12-07 | 2024-05-24 |
 | [Milk Town / Mr\. Carter](https://open.spotify.com/track/1sXeTMn9R8JlyG5JWVtZFQ) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Milk Town / Mr\. Carter](https://open.spotify.com/album/3yWm9a3y2UxbjInLPhDU4D) | 1:17 | 2024-04-04 | 2024-05-03 |
 | [Moments Die](https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Moments Die](https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1) | 4:06 | 2024-04-22 |  |
 | [Mood Swings](https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 2:20 | 2024-02-09 | 2024-03-23 |
@@ -107,8 +109,9 @@
 | [Slug](https://open.spotify.com/track/0BnQ1jQWb6Th7e0jMQhB3F) | [Matt Champion](https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm) | [Slug](https://open.spotify.com/album/1KtfoFXpZEzixT8iPzCmmK) | 3:00 | 2024-04-04 | 2024-05-12 |
 | [So Long](https://open.spotify.com/track/60hF90c4Fgdxf1b8mWyQzN) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [So Long](https://open.spotify.com/album/4tf5l0vmtSgkJEKAjOwP0Y) | 3:31 | 2024-04-04 | 2024-05-18 |
 | [Something to Rap About \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/5OkYfk72CNL8XLqa3gp9q7) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Alfredo](https://open.spotify.com/album/3znl1qe13kyjQv7KcR685N) | 4:42 | 2023-12-07 | 2024-04-05 |
-| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-23 |  |
+| [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0BpAmsdYjaf08yE9y2YgoF) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/2LytSeOYiM6yUcEArt9hxn) | 3:53 | 2024-02-23 | 2024-05-24 |
 | [Spring Is Coming With A Strawberry In The Mouth](https://open.spotify.com/track/0I49aN2b9qfw1UWtctmNtr) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You: Everasking Edition](https://open.spotify.com/album/25ktFe8igqIwv9aRbkdnTS) | 3:53 | 2024-02-23 | 2024-04-19 |
+| [Stuck Up](https://open.spotify.com/track/16q24WOiHPeEhuuCDw45ZR) | [Romy Mars](https://open.spotify.com/artist/6cJxlOHcaXLNUUKYkSecTd) | [Stuck Up](https://open.spotify.com/album/5mvwo5vHABNejQeADXkTeI) | 2:35 | 2024-05-23 |  |
 | [Suspended](https://open.spotify.com/track/1maIZ0gsjVbdANLvl4v0ao) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:05 | 2023-12-07 | 2024-03-09 |
 | [Sweater Club](https://open.spotify.com/track/4nEoYjvVzrEz0IVDru6xRc) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Sweater Club](https://open.spotify.com/album/0uLHEY4gk0YYp1DHNr7Qgm) | 2:56 | 2024-04-04 | 2024-05-12 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-11 |  |

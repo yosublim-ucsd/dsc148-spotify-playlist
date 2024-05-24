@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,469,261 likes - 125 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,469,288 likes - 125 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 53 | [My Arms Were Always Around You](https://open.spotify.com/track/53iFMaNUXn6Oj8hUIKSO5a) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [A Face Like Mine](https://open.spotify.com/album/5swCwkecIl1ZafeyxJYbYk) | 3:20 |
 | 54 | [Love on the Weekend](https://open.spotify.com/track/0j2WBxWZnWti5TpSxjJvPb) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Love on the Weekend](https://open.spotify.com/album/5uBT48jKnO59Oylf08pJJA) | 3:32 |
 | 55 | [Wild Love \- Acoustic](https://open.spotify.com/track/4zDQS1OCghoOKkjw6hf2qT) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Wild Love \(Acoustic\)](https://open.spotify.com/album/07NunjdVGPXs07aqNDiVVk) | 3:09 |
-| 56 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
-| 57 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
+| 56 | [What Do You Mean? \- Acoustic](https://open.spotify.com/track/5YNf9s8WE3iF33YaFNrgpa) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:23 |
+| 57 | [Long Blue Light](https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Long Blue Light](https://open.spotify.com/album/44nEv2ygRogxTn2EQUUVei) | 3:20 |
 | 58 | [This Town](https://open.spotify.com/track/5dTJMpqiELczVuHJP3OAEu) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/02TJBSiAtYZK35RaoOkvpG) | 3:52 |
 | 59 | [Skinny Love](https://open.spotify.com/track/2hRMHB4ZEYrCBM0d0vVEdq) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/7j7ykLBxerILBLBc8AICJS) | 3:21 |
 | 60 | [Bright](https://open.spotify.com/track/3WKg25vrbjJlkhsgl2W4p3) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:40 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 70 | [Happier \- Acoustic](https://open.spotify.com/track/5weKCP07IGA1565wfI3cZ1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Happier \(Acoustic\)](https://open.spotify.com/album/2m5WUxYqXkJc2gdP805IKm) | 3:26 |
 | 71 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 |
 | 72 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 |
-| 73 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
-| 74 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 73 | [The Trouble with Wanting](https://open.spotify.com/track/5ZUObJNpVt2l9GogUSfALc) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:55 |
+| 74 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 |
 | 75 | [Wouldn't Come Back](https://open.spotify.com/track/1zeQjPT367QcGrkpIXYjuW) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [Wouldn't Come Back](https://open.spotify.com/album/2X0Oi2vkyzqYWPy2dSdim1) | 3:39 |
 | 76 | [Tee Shirt \- Soundtrack Version](https://open.spotify.com/track/3C5in0EVdoGepp5bA6lhlE) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Tee Shirt](https://open.spotify.com/album/30xBAnEjl3nSDzp0qoiBUD) | 2:39 |
 | 77 | [Love is Pain](https://open.spotify.com/track/2tJUcBxiQEYSCzC3BdIOk8) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:44 |
@@ -109,10 +109,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 99 | [I'll Follow \- Acoustic Version](https://open.spotify.com/track/7rzCPEXWAhEaTcr3ajFNuC) | [Fancy Cars](https://open.spotify.com/artist/6qDAseNQcBQiKVv35eitem), [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C) | [I'll Follow \(Acoustic Version\)](https://open.spotify.com/album/19QzmVXnHqFeomV8EMHir0) | 3:18 |
 | 100 | [Elastic Heart \- Live from The Village](https://open.spotify.com/track/0wHRZwbNWH2TcSBIhyMT1i) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Spotify Sessions](https://open.spotify.com/album/2fBKreCrztEPXW5bUIgBTf) | 4:26 |
 | 101 | [Sapling](https://open.spotify.com/track/6E40D1iwXILbSs8GNSs5Bh) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 4:17 |
-| 102 | [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 |
+| 102 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
 | 103 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 |
-| 104 | [Blindside \- Acoustic](https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside \(Acoustic\)](https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY) | 3:53 |
-| 105 | [Change of Mind \- Acoustic](https://open.spotify.com/track/4yBAsLe5P3cEWOFmIeUaRb) | [New Portals](https://open.spotify.com/artist/6qZCSqm5fzXmxBTDwStpQ1) | [Change of Mind \(Acoustic\)](https://open.spotify.com/album/1b7nLbuxWlMmGBEbBIX6hq) | 3:03 |
+| 104 | [Forget About Us](https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Forget About Us](https://open.spotify.com/album/3da8kVluRdfiDuS2XP4E8i) | 3:16 |
+| 105 | [Blindside \- Acoustic](https://open.spotify.com/track/3r5x5Y6xj4WQ8b6ig63VvS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Blindside \(Acoustic\)](https://open.spotify.com/album/2T1VAV84jseAzOnK6l48PY) | 3:53 |
 | 106 | [Higher Power \- Acoustic Version](https://open.spotify.com/track/6pEoxM3fluEh1Cbh6ODkWH) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power \(Acoustic Version\)](https://open.spotify.com/album/4VsMbx69vl5FmhkosEa9By) | 3:34 |
 | 107 | [I Don't Love You \(I'm Just Lonely\) \- Acoustic](https://open.spotify.com/track/02WH2lgCCZg8xmwmlbDAa8) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD) | [I Don't Love You \(I'm Just Lonely\) \[Acoustic\]](https://open.spotify.com/album/6Aoidehbk7Xx8bbKXrSq5e) | 3:03 |
 | 108 | [IOWA](https://open.spotify.com/track/3c9srkZXPYH5969NYxVXZS) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [IOWA](https://open.spotify.com/album/4jLnoqNXzY7DquELf6mz46) | 4:35 |
@@ -131,7 +131,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VvfRBFClxm.md) - [plain]
 | 121 | [Nana](https://open.spotify.com/track/1JmLA5HZ7Wp7L8DNctLpUW) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:56 |
 | 122 | [Chemicals \- Acoustic](https://open.spotify.com/track/6VwJchlkgjGbjU1SMyvwBN) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:54 |
 | 123 | [Anaheim](https://open.spotify.com/track/0JhILyKbyQnhAo6FHSSIRA) | [Nicole Zefanya](https://open.spotify.com/artist/6Un2wMkT5JajGnF1hBLacG) | [Anaheim](https://open.spotify.com/album/0p6vQipvqvb85ghNzo7Mdp) | 4:18 |
-| 124 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
-| 125 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
+| 124 | [Craving \- Acoustic Version](https://open.spotify.com/track/6l9EToqnhtadmJ6qX9DDUl) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Craving \(Acoustic\)](https://open.spotify.com/album/2rwrRF2UmgeoXn6kKlp7pO) | 3:46 |
+| 125 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 
 Snapshot ID: `ZTs1wAAAAADC4e52k6GqHMeiRy8hb1JL`

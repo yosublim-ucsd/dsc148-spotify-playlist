@@ -2,7 +2,7 @@
 
 ### [All Out 60s](https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj)
 
-> The biggest songs of the 1960s\. Cover: The Beatles
+> The biggest songs of the 1960s\. Cover: The Beach Boys
 
 845 songs - 1 day 20 hr 18 min
 

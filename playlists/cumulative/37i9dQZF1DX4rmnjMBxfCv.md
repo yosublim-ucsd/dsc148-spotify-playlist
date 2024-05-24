@@ -4,7 +4,7 @@
 
 > The best dance and electronic songs in the MENA region\. Cover: Zerb, Sofiya Nzau
 
-216 songs - 14 hr 35 min
+217 songs - 14 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [7elm B3eed](https://open.spotify.com/track/4t3BgID893bIAXxcCdux4y) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [7elm B3eed](https://open.spotify.com/album/5itc02N01J4NlNf6NNxzSH) | 5:16 | 2022-03-30 | 2022-11-26 |
 | [Abu Simbel](https://open.spotify.com/track/1Y3yJHrBkkfj3GZKv1MVhF) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8) | [Abu Simbel](https://open.spotify.com/album/3HVXzuVnuaWJyflpsF8MWj) | 3:46 | 2023-06-23 | 2023-08-17 |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-03-29 |  |
+| [Ah W Noss \- Salvatore Ganacci MDLBEAST Remix](https://open.spotify.com/track/5hAtZeuyLbwsJVm3p5j3zr) | [Nancy Ajram](https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE), [Salvatore Ganacci](https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F) | [Ah W Noss \(Salvatore Ganacci MDLBEAST Remix\)](https://open.spotify.com/album/014xqPgX8p91efzk0S4nG4) | 5:13 | 2024-05-24 |  |
 | [Ahebak](https://open.spotify.com/track/4GLX8N95KtElLmZTp79os3) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Joya](https://open.spotify.com/artist/1eR8UBKIijXBZhfnQMTq8r) | [Ahebak](https://open.spotify.com/album/1pInYMdKG9Nnt1QOluCcpG) | 5:22 | 2024-04-01 |  |
 | [Ahla El Nas](https://open.spotify.com/track/0c2nyNf2jerD605LfOCqE6) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Mn Alby Baghani](https://open.spotify.com/album/7f4sCptaAR6iTh3ZnY1ZR7) | 4:45 | 2022-03-30 | 2022-08-23 |
 | [Ahwak \(Deeper Remix\)](https://open.spotify.com/track/7czCBbKR2qXJRkf5pwml1V) | [Jad Halal](https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j) | [Ahwak \(Deeper Remix\)](https://open.spotify.com/album/5GDwXSsWyY5h7nFTT9UJ90) | 5:00 | 2023-08-16 |  |

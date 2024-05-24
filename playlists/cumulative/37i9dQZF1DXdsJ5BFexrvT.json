@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Alluvial",
+        "url": "https://open.spotify.com/album/7hGQkINy88oomqyYo4mWYX"
+      },
+      "artists": [
+        {
+          "name": "Cosmologica",
+          "url": "https://open.spotify.com/artist/3mtKH7qKSckjQ2tx3CaGCY"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218644,
+      "name": "Alluvial",
+      "url": "https://open.spotify.com/track/20DqGufkwM3Zy7l05GqtTO"
+    },
+    {
+      "album": {
         "name": "Alpha Dreams",
         "url": "https://open.spotify.com/album/6U8fBuy5ltxivJRegBo86P"
       },
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Centered",
+        "url": "https://open.spotify.com/album/4B8W32tfhj8fkNSa9N1hlx"
+      },
+      "artists": [
+        {
+          "name": "A\u00b4leroi",
+          "url": "https://open.spotify.com/artist/6ucS6hImkhRYqVGEnwcJ1I"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166218,
+      "name": "Centered",
+      "url": "https://open.spotify.com/track/4xXFAr8ir0aQLqxXBGFQ4n"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/3CV53NBLvCuGuGUN75RupY"
       },
@@ -862,7 +898,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170400,
       "name": "conscience explode",
       "url": "https://open.spotify.com/track/4SmdbOMZ4xlznR2lAb9mSd"
@@ -1067,6 +1103,24 @@
     },
     {
       "album": {
+        "name": "Embraced",
+        "url": "https://open.spotify.com/album/1cm3AakOoDrn2dYaphUgNe"
+      },
+      "artists": [
+        {
+          "name": "Matt Ullman",
+          "url": "https://open.spotify.com/artist/3xSQWEeYHabo0FngiA3V4f"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "Embraced",
+      "url": "https://open.spotify.com/track/0N6hrwzFK8jpb8slS526ne"
+    },
+    {
+      "album": {
         "name": "Ensorceler",
         "url": "https://open.spotify.com/album/28mJ0ga3VfdBq3pXlCNYub"
       },
@@ -1114,7 +1168,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 214278,
       "name": "Equality",
       "url": "https://open.spotify.com/track/4dayrfoJdkbYc4DrfOhXga"
@@ -1463,6 +1517,24 @@
     },
     {
       "album": {
+        "name": "Glacier",
+        "url": "https://open.spotify.com/album/6JpIe64nHeX4yHr2qxspAa"
+      },
+      "artists": [
+        {
+          "name": "Constellationes",
+          "url": "https://open.spotify.com/artist/12R2nJ1KzSG6ZbnaZ1l72h"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242959,
+      "name": "Glacier",
+      "url": "https://open.spotify.com/track/7FNjSThORckWUhxLh9bzLy"
+    },
+    {
+      "album": {
         "name": "Glemt Perle",
         "url": "https://open.spotify.com/album/0kvas4Yr3F5qoEaJNIBjMZ"
       },
@@ -1733,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Imagination",
+        "url": "https://open.spotify.com/album/73S2vjYmPD67aHdc0LohTd"
+      },
+      "artists": [
+        {
+          "name": "Sleepscape Symphony",
+          "url": "https://open.spotify.com/artist/57tR56LFbxldGWF23lI3YM"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181846,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/0g7ZjaAeHZqoYQ86Q2qBnq"
+    },
+    {
+      "album": {
         "name": "The Deep Blue",
         "url": "https://open.spotify.com/album/2v3A2xyIhcjed6SeROftkB"
       },
@@ -1910,7 +2000,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201000,
       "name": "juu",
       "url": "https://open.spotify.com/track/55nogKh6Ns5mO0PaEpZPrv"
@@ -2126,7 +2216,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175500,
       "name": "Meteor 5",
       "url": "https://open.spotify.com/track/4x6vhZrC3BNxMtYYb0xa7z"
@@ -2648,7 +2738,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 176441,
       "name": "Resolvation",
       "url": "https://open.spotify.com/track/6QsiRBMCsArD9PdKHGy2xJ"
@@ -2670,6 +2760,24 @@
       "duration_ms": 171197,
       "name": "Resonant Reflections",
       "url": "https://open.spotify.com/track/1IujpOdQYzlwdEl7WnqjhS"
+    },
+    {
+      "album": {
+        "name": "Restful Resonance",
+        "url": "https://open.spotify.com/album/5mAMOJTonYzkE6iD1hw4tJ"
+      },
+      "artists": [
+        {
+          "name": "Polar Silence",
+          "url": "https://open.spotify.com/artist/7JAfQaP7joxA4i16FCxKIS"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "Restful Resonance",
+      "url": "https://open.spotify.com/track/7FraSL2VkEYsiuHEklliFW"
     },
     {
       "album": {
@@ -2954,7 +3062,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 136022,
       "name": "Softly",
       "url": "https://open.spotify.com/track/21qtqBROcwDDNJD8ppAuwB"
@@ -3080,7 +3188,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 147530,
       "name": "Spiritus",
       "url": "https://open.spotify.com/track/2CZtUi10ysWgxKIcTqWOti"
@@ -3434,6 +3542,24 @@
       "duration_ms": 177600,
       "name": "Tranquil Tides",
       "url": "https://open.spotify.com/track/1xPIxuVVQPLsgIsLdnyMVa"
+    },
+    {
+      "album": {
+        "name": "Tranquil Twilight",
+        "url": "https://open.spotify.com/album/1YoFs6VGUuqM6hc1AU0Ufd"
+      },
+      "artists": [
+        {
+          "name": "Luminous Dreamer",
+          "url": "https://open.spotify.com/artist/3uq69LjzFbJ2hoM4ZQ6X4U"
+        }
+      ],
+      "date_added": "2024-05-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187200,
+      "name": "Tranquil Twilight",
+      "url": "https://open.spotify.com/track/1r2H27I3r0rqCi4l2osIjc"
     },
     {
       "album": {

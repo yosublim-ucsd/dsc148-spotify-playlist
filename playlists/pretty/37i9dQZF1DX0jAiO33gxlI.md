@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,007 likes - 74 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,013 likes - 74 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 44 | [LARARÁ](https://open.spotify.com/track/1e8HlCspDNf04JKn2Y1PkO) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Ciro Daniel](https://open.spotify.com/artist/3Rso0khSv7X2ENbc0OsjxJ) | [LARARÁ](https://open.spotify.com/album/4ldhzypS6POi4buhoZC2iS) | 3:15 |
 | 45 | [Mais Um Voo](https://open.spotify.com/track/39uMV1Ix79vlMNssVxACuU) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mais Um Voo](https://open.spotify.com/album/27ZKtXmfYS7OXGb1aKoI7U) | 3:14 |
 | 46 | [Pode Se Envolver](https://open.spotify.com/track/5bIStDozcJatCWbsbh6a8d) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp) | [Pode Se Envolver](https://open.spotify.com/album/1YyPwoPQ5TIxUBSWB0O0Sc) | 2:10 |
-| 47 | [90 Com Dolly](https://open.spotify.com/track/6eHIGgOWmFATMaTxdXJKR9) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Toepper](https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF) | [Cabra](https://open.spotify.com/album/51Qzu6VHdTydpqVqpjDpH4) | 3:48 |
+| 47 | [90 Com Dolly](https://open.spotify.com/track/6eHIGgOWmFATMaTxdXJKR9) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Predella](https://open.spotify.com/artist/3lMQtpA4i6FrIe6DmDfDVa), [Gioprod](https://open.spotify.com/artist/7wSJDGjIeffNmJg8pge4fH), [Toepper](https://open.spotify.com/artist/2GF7qsjsk8GXGYezCljjNF), [DJ Kokay](https://open.spotify.com/artist/070UjNPLQMKhFldoeEf25L) | [Cabra](https://open.spotify.com/album/51Qzu6VHdTydpqVqpjDpH4) | 3:48 |
 | 48 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
 | 49 | [Jogo de Cintura](https://open.spotify.com/track/6SI7M5mlH4xYaheDZjJowY) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo) | [Jogo de Cintura](https://open.spotify.com/album/3upWt8VNgoozTEi2hQ5LjH) | 2:43 |
 | 50 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |

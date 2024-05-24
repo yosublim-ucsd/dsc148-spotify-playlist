@@ -1179,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
+    },
+    {
+      "album": {
         "name": "Certified Freak",
         "url": "https://open.spotify.com/album/7eVTgWPJ8GOrgMNAo5knsP"
       },
@@ -1394,6 +1412,24 @@
       "duration_ms": 157200,
       "name": "Commas",
       "url": "https://open.spotify.com/track/3JozQbIWMHBTKIghXKehVy"
+    },
+    {
+      "album": {
+        "name": "BARE CHAT",
+        "url": "https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/3pQKpXKVx2VUpt62QIdTQZ"
     },
     {
       "album": {
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 169310,
       "name": "Impatient",
       "url": "https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE"
@@ -4483,6 +4519,28 @@
     },
     {
       "album": {
+        "name": "Lover/Friend",
+        "url": "https://open.spotify.com/album/0NvlaQeUqClEL7vMdYyUO7"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259204,
+      "name": "Lover/Friend",
+      "url": "https://open.spotify.com/track/3u18lRpQFZYALlVjn0fL1y"
+    },
+    {
+      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/4mjWtLPXnxZAihOkBJNtvf"
       },
@@ -4674,6 +4732,28 @@
       "duration_ms": 202375,
       "name": "Make It Up To You",
       "url": "https://open.spotify.com/track/6zZU70goOWBGPWTThgP4IW"
+    },
+    {
+      "album": {
+        "name": "Make Myself Happy (feat. Floyd Fuji)",
+        "url": "https://open.spotify.com/album/6g6yhytUFFQ2vshNfEoC8y"
+      },
+      "artists": [
+        {
+          "name": "FELIVAND",
+          "url": "https://open.spotify.com/artist/6QCstr3yhEVSZPQyDvvYjK"
+        },
+        {
+          "name": "Floyd Fuji",
+          "url": "https://open.spotify.com/artist/0glUNuyGWUn70JhLMARseD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177570,
+      "name": "Make Myself Happy",
+      "url": "https://open.spotify.com/track/7INoWmYc2paIoyjqgNYqfo"
     },
     {
       "album": {
@@ -6422,7 +6502,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 149833,
       "name": "Ridin'",
       "url": "https://open.spotify.com/track/3Iw8FnJbKKDBl7uIj0BYWX"
@@ -6543,6 +6623,28 @@
     },
     {
       "album": {
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
+    },
+    {
+      "album": {
         "name": "Roller Coaster",
         "url": "https://open.spotify.com/album/30Igugtlr2EieiG5Ug24PP"
       },
@@ -6610,6 +6712,32 @@
       "duration_ms": 207339,
       "name": "Run Away (feat. Bryson Tiller)",
       "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
+    },
+    {
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
     },
     {
       "album": {

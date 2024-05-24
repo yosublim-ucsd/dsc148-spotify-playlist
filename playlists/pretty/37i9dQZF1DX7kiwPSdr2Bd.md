@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Bruna Olly
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,869 likes - 80 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,931 likes - 80 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 31 | [Quem é Como Nosso Deus?](https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Quem é Como Nosso Deus?](https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni) | 8:09 |
 | 32 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 | 33 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
-| 34 | [El Shaday \(Ao Vivo\)](https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [El Shaday \(Ao Vivo\)](https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB) | 5:23 |
-| 35 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 34 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 35 | [El Shaday \(Ao Vivo\)](https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [El Shaday \(Ao Vivo\)](https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB) | 5:23 |
 | 36 | [Deus Proverá \- Ao Vivo](https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Proverá \(Ao Vivo\)](https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6) | 5:32 |
 | 37 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 |
 | 38 | [Fiel A Mim](https://open.spotify.com/track/6KaAso80jTdwTYXO4B0IJk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Gratidão \- Parte 2](https://open.spotify.com/album/2cEwxyamnwfvEHrembSYvs) | 3:59 |

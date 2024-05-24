@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 
 ### [This Is Grupo Los de la O](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GFndC)
 
-> This Is Grupo Los de la O\. Los temas esenciales, todos en una lista.
+> This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,581 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,611 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 17 | [El Challenger Negro](https://open.spotify.com/track/7sCyOI2qAttPkAXSDYHmpr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:17 |
 | 18 | [La Lealtad](https://open.spotify.com/track/163KLwvYqUElKJA27ygSoa) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 3:55 |
 | 19 | [En la Ciudad](https://open.spotify.com/track/0iDBiUWfjxXi3BAiAuxaeH) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [En la Ciudad](https://open.spotify.com/album/6fK7NyDOCaORkcEV6ravOd) | 3:06 |
-| 20 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 |
+| 20 | [Buenas Vibras](https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:11 |
 | 21 | [El Pop](https://open.spotify.com/track/398SNFwt3tJRVk2JVxt7El) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:03 |
-| 22 | [Buenas Vibras](https://open.spotify.com/track/14ZjoQB3VZFISRZTjrVGhj) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Proyecto A](https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ) | 3:11 |
+| 22 | [Noruega](https://open.spotify.com/track/2tmFNOYiBXllSBmfdm6OF5) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Noruega](https://open.spotify.com/album/728gIavs2Kutq5E8FuiPCC) | 2:35 |
 | 23 | [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 |
 | 24 | [El Señor de la a 2](https://open.spotify.com/track/1qRSFUbzlyL72x1cVAV47i) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:42 |
 | 25 | [Criminales de Verdad \- En Vivo](https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:07 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 29 | [Alucinado](https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 |
 | 30 | [Miran Mi Brillo](https://open.spotify.com/track/3Y3aXFZit9oCIt0Hk3wFVb) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Kilos De Oro](https://open.spotify.com/album/74HlrlKwzkzH7s0dyTgVjY) | 3:40 |
 | 31 | [Caravana de Carros](https://open.spotify.com/track/6O3Wb4IuCALnVzcs63aoEZ) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Caravana de Carros](https://open.spotify.com/album/5EuUYNWx0jmsGyWkMV3MP2) | 3:40 |
-| 32 | [Tras las Rejas](https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:14 |
-| 33 | [El Huevon \- En Vivo](https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Huevón \(En Vivo\)](https://open.spotify.com/album/1ua5SCBZRX5JdAZIxqjybu) | 2:52 |
+| 32 | [El Huevon \- En Vivo](https://open.spotify.com/track/0XND7esAJ9J4BXubCsdhem) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Huevón \(En Vivo\)](https://open.spotify.com/album/1ua5SCBZRX5JdAZIxqjybu) | 2:52 |
+| 33 | [Tras las Rejas](https://open.spotify.com/track/2Tgp4BW9S6xSRg4qL8a4vo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 3:14 |
 | 34 | [Mi Círculo Vicioso](https://open.spotify.com/track/5OAaWOy7nfXBCy4VRQ6tmS) | [Los Minis de Caborca](https://open.spotify.com/artist/09Hzsy5bgnADJzIVlYUoQ3), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Mi Círculo Vicioso](https://open.spotify.com/album/6IgXzPjWIIBWJHCjRqGBiw) | 3:39 |
 | 35 | [Diez Mandamientos](https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Diez Mandamientos](https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn) | 3:27 |
 | 36 | [El Tirabalas](https://open.spotify.com/track/6oLRVlSHXfxPIJDsZivxaG) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [El Tirabalas](https://open.spotify.com/album/0wDrkVCojZJgw3t4h61PIt) | 2:46 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0GFndC.md) - [plain]
 | 44 | [Problemas Mentales](https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Tras las Rejas](https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN) | 2:51 |
 | 45 | [El Justiciero \- En Vivo](https://open.spotify.com/track/34kAodQ7ShXtIVRYLeznzj) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ) | [El Justiciero \(En Vivo\)](https://open.spotify.com/album/0Fz4H4i8qYb1bEsn6yTQ8P) | 2:51 |
 | 46 | [En las Calles Aprendi \- En Vivo](https://open.spotify.com/track/05qxEdJG2iRHDP20f4pMpc) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita](https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V) | 3:05 |
-| 47 | [Entre Las Balas](https://open.spotify.com/track/5QeHachXsc77E7HZspJp3t) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Entre las Balas](https://open.spotify.com/album/5ZMOBcadEpMUZLbEninuVZ) | 2:35 |
-| 48 | [Yo Fui el R5](https://open.spotify.com/track/6kOxnJK91x47sQhZik7twr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Yo Fui el R5](https://open.spotify.com/album/1amLh6bTYCDl0eVMO4buDh) | 2:38 |
+| 47 | [Yo Fui el R5](https://open.spotify.com/track/6kOxnJK91x47sQhZik7twr) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Yo Fui el R5](https://open.spotify.com/album/1amLh6bTYCDl0eVMO4buDh) | 2:38 |
+| 48 | [Entre Las Balas](https://open.spotify.com/track/5QeHachXsc77E7HZspJp3t) | [Elias Valenzuela](https://open.spotify.com/artist/0Oo8g934qrJAJb9eig3dbN), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Entre las Balas](https://open.spotify.com/album/5ZMOBcadEpMUZLbEninuVZ) | 2:35 |
 | 49 | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/track/6Xk6bL6cFglnkYBnm8GUkL) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Chalito Mentado \(En Vivo\)](https://open.spotify.com/album/4kjcEccNzd2Ytem9hKHlct) | 2:40 |
 | 50 | [Nivel 6](https://open.spotify.com/track/4IT93xOoYImvzF5k4wDRJU) | [Hybert Daniel](https://open.spotify.com/artist/4XUmhvUbf4A6lrEZtYhjIZ), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Nivel 6](https://open.spotify.com/album/2SkfwiVgHZmE4s0iA0YQp6) | 2:23 |
 
-Snapshot ID: `ZkqSgAAAAADOTDKn7Qi/lJGp6GOsAJ5+`
+Snapshot ID: `Zk01gAAAAADiK2iMF/15hSrd/G7/yKM2`

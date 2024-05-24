@@ -1,13 +1,29 @@
 {
-  "description": "The biggest songs of the 1960s. Cover: The Beatles\n",
-  "num_followers": 3099438,
+  "description": "The biggest songs of the 1960s. Cover: The Beach Boys\n",
+  "num_followers": 3100244,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zg6yswAAAAC7Urz15GcREID4tHX7oQPa",
+  "snapshot_id": "Zk+eUAAAAADt0wHgZvkgZ8zy+MNP1J7O",
   "tracks": [
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 134386,
+      "name": "I Get Around (Mono)",
+      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
@@ -43,22 +59,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Oh, Pretty Woman",
         "url": "https://open.spotify.com/album/2jTbcSPVTBRAoc3mHU6hy0"
       },
@@ -71,6 +71,22 @@
       "duration_ms": 178933,
       "name": "Oh, Pretty Woman",
       "url": "https://open.spotify.com/track/48i055G1OT5KxGGftwFxWy"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -175,22 +191,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Wednesday Morning, 3 A.M.",
-        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 185413,
-      "name": "The Sound of Silence - Acoustic Version",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Tell Mama",
         "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
@@ -203,6 +203,22 @@
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Wednesday Morning, 3 A.M.",
+        "url": "https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 185413,
+      "name": "The Sound of Silence - Acoustic Version",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "At Folsom Prison",
-        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 162653,
-      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
-      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -619,6 +619,22 @@
       "duration_ms": 170813,
       "name": "Purple Haze",
       "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "At Folsom Prison",
+        "url": "https://open.spotify.com/album/4TJIdlY9hGSSTO1kUs1neh"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 162653,
+      "name": "Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968",
+      "url": "https://open.spotify.com/track/2fDHuS1PTkHBbCWWZF1ph9"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -735,6 +751,38 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 154733,
+      "name": "Put Your Head On My Shoulder",
+      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Hey Joe",
+      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -763,38 +811,6 @@
       "duration_ms": 166266,
       "name": "Good Times Bad Times - 1993 Remaster",
       "url": "https://open.spotify.com/track/0QwZfbw26QeUoIy82Z2jYp"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Hey Joe",
-      "url": "https://open.spotify.com/track/0NWPxcsf5vdjdiFUI8NgkP"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 154733,
-      "name": "Put Your Head On My Shoulder",
-      "url": "https://open.spotify.com/track/2DpJ9T2RVRanZcYFHKOAfA"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1125,22 +1141,6 @@
       "url": "https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9"
     },
     {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 134386,
-      "name": "I Get Around (Mono)",
-      "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
-    },
-    {
       "added_at": "2023-12-21 14:48:21",
       "album": {
         "name": "Between The Buttons",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Sings Lonely and Blue",
-        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
-      },
-      "artists": [
-        {
-          "name": "Roy Orbison",
-          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
-        }
-      ],
-      "duration_ms": 145533,
-      "name": "Only the Lonely",
-      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "This Time I'm Swingin'",
         "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Sings Lonely and Blue",
+        "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
+      },
+      "artists": [
+        {
+          "name": "Roy Orbison",
+          "url": "https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS"
+        }
+      ],
+      "duration_ms": 145533,
+      "name": "Only the Lonely",
+      "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Turn! Turn! Turn!",
-        "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
-      },
-      "artists": [
-        {
-          "name": "The Byrds",
-          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
-        }
-      ],
-      "duration_ms": 229360,
-      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
-      "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "Hey! Baby (Deluxe Edition Remastered)",
         "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 143627,
       "name": "Hey! Baby - Remastered",
       "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Turn! Turn! Turn!",
+        "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
+      },
+      "artists": [
+        {
+          "name": "The Byrds",
+          "url": "https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc"
+        }
+      ],
+      "duration_ms": 229360,
+      "name": "Turn! Turn! Turn! (To Everything There Is a Season)",
+      "url": "https://open.spotify.com/track/5qBqBdfTEIWJwAS0Jm2F5R"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "Album 1700",
-        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
-      },
-      "artists": [
-        {
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
-        }
-      ],
-      "duration_ms": 207240,
-      "name": "Leaving on a Jet Plane",
-      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 200906,
       "name": "La-La Means I Love You",
       "url": "https://open.spotify.com/track/58CUIzSxNpQUFvTCd8tntH"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "Album 1700",
+        "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
+      },
+      "artists": [
+        {
+          "name": "Peter, Paul and Mary",
+          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+        }
+      ],
+      "duration_ms": 207240,
+      "name": "Leaving on a Jet Plane",
+      "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2143,22 +2143,18 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        },
-        {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 145800,
-      "name": "Ain't That A Kick In The Head",
-      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+      "duration_ms": 160000,
+      "name": "Another Saturday Night",
+      "url": "https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2179,6 +2175,26 @@
     {
       "added_at": "2022-08-12 11:06:50",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/6bpCpvLc2xHLN1Qnx6rzaI"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        },
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "duration_ms": 145800,
+      "name": "Ain't That A Kick In The Head",
+      "url": "https://open.spotify.com/track/3ZpTyU4mF3PR9jLpFA3AAC"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
         "name": "Good Vibrations 40th Anniversary",
         "url": "https://open.spotify.com/album/2kgmLqUim1JdglABNIc5zn"
       },
@@ -2191,22 +2207,6 @@
       "duration_ms": 217746,
       "name": "Good Vibrations - Remastered 2001",
       "url": "https://open.spotify.com/track/2oF7FZHIJbzjeEXZ3D0Ku4"
-    },
-    {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Another Saturday Night",
-      "url": "https://open.spotify.com/track/5z8DiKSG4EwxmO6gUi12rZ"
     },
     {
       "added_at": "2022-08-12 11:06:50",
@@ -2241,22 +2241,6 @@
       "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
-      "added_at": "2022-08-12 11:06:50",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
-    },
-    {
       "added_at": "2023-12-21 14:48:21",
       "album": {
         "name": "The Band",
@@ -2271,6 +2255,22 @@
       "duration_ms": 270293,
       "name": "Up On Cripple Creek",
       "url": "https://open.spotify.com/track/7aTCCNpHJD2Jgv0LLVJb8Y"
+    },
+    {
+      "added_at": "2022-08-12 11:06:50",
+      "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2022-08-12 11:06:50",

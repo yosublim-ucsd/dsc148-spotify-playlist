@@ -4,14 +4,14 @@
 
 > Scopa, paletta e musica!
 
-311 songs - 20 hr 41 min
+312 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['74\-'75](https://open.spotify.com/track/75nu2LuAjnU5Tu1ArAx1fP) | [The Connells](https://open.spotify.com/artist/3zAhmxuw1F3HmulPuy1RAb) | [Ring](https://open.spotify.com/album/5Cn3sU0yIKJ0HiJQCLsVRx) | 4:38 | 2021-07-19 | 2022-07-29 |
 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 | 2021-07-19 | 2022-07-27 |
 | [1973](https://open.spotify.com/track/1BV0m40U0M4t1SLIsDnwZl) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 4:40 | 2021-07-19 | 2022-07-29 |
-| [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2021-07-19 |  |
+| [2002](https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 3:06 | 2021-07-19 | 2024-05-24 |
 | [7 rings](https://open.spotify.com/track/6ocbgoVGwYJhOv1GgI9NsF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 2:58 | 2021-07-19 | 2024-04-19 |
 | [7 Seconds \(feat\. Neneh Cherry\)](https://open.spotify.com/track/76D5nfZbYzZYfUZKGy73jy) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD) | [7 Seconds: The Best Of Youssou N'Dour](https://open.spotify.com/album/6Smydx3R0VZPoIdBeOmbFI) | 5:05 | 2021-07-19 | 2022-07-29 |
 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 | 2021-07-19 |  |
@@ -219,6 +219,7 @@
 | [Put Your Records On](https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Corinne Bailey Rae](https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg) | 3:35 | 2023-07-14 |  |
 | [R U Mine?](https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:21 | 2021-07-19 |  |
 | [Rehab](https://open.spotify.com/track/1L5tZi0izXsi5Kk5OJf4W0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 3:33 | 2021-07-19 | 2022-07-25 |
+| [Reptilia](https://open.spotify.com/track/57Xjny5yNzAcsxnusKmAfA) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 3:39 | 2023-07-14 |  |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2021-07-19 |  |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2021-07-19 | 2024-04-19 |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2023-07-14 |  |

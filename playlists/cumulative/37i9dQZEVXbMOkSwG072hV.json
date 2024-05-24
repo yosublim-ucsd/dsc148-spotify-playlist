@@ -30571,6 +30571,24 @@
     },
     {
       "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176027,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -51116,7 +51134,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 254117,
       "name": "\u00daltima Vez",
       "url": "https://open.spotify.com/track/2SkLXwEqAH7WZ5MKNPuyB1"

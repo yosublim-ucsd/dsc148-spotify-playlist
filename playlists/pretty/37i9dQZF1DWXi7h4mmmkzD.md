@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 
 > Nighttime is the right time for these party hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,639 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,758 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 56 | [Cold As You](https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:06 |
 | 57 | [God's Country](https://open.spotify.com/track/1dyxS3YzBbL0t8rEVwVQ1K) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [God's Country](https://open.spotify.com/album/5b92Q0wcU49AnhBmu3IxOx) | 3:25 |
 | 58 | [Memory Lane](https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw) | 2:52 |
-| 59 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
-| 60 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 59 | [Boondocks](https://open.spotify.com/track/3duP6mBVDsHM8ioN7o7dAK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Road To Here](https://open.spotify.com/album/54vjTimZqQsDgXYVJFDJqm) | 4:32 |
+| 60 | [Talladega](https://open.spotify.com/track/1TKlBK9cSrM5u4CiL4SETS) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [The Outsiders](https://open.spotify.com/album/7Ad3sRoSJmRcjtd5Ce27Oj) | 4:22 |
 | 61 | [When the Sun Goes Down](https://open.spotify.com/track/5vLonpxn4VN0A8GtQOBSG0) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Uncle Kracker](https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:50 |
 | 62 | [I Hope You’re Happy Now](https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Carly Pearce](https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc) | 3:18 |
 | 63 | [Even If It Breaks Your Heart](https://open.spotify.com/track/0Nu9WA8kEbBWEsay2s8Q0U) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [Life At Best](https://open.spotify.com/album/7DYy5TiODoqnZbZ2o6KcmV) | 3:40 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXi7h4mmmkzD.md) - [plain]
 | 85 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 |
 | 86 | [Every Little Thing](https://open.spotify.com/track/3kgCJPXDlnL5bl1HFesHUi) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Yours](https://open.spotify.com/album/6NxQDh433Rl4EQXT6QiQCE) | 3:10 |
 | 87 | [Knockin' Boots](https://open.spotify.com/track/6ERR6e7h6wCqGoz1TjiUJb) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Knockin' Boots](https://open.spotify.com/album/4Q9RAjO1YjXgn5ErqvoNnS) | 3:19 |
-| 88 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 |
-| 89 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
+| 88 | [Famous Friends](https://open.spotify.com/track/4iXDn9pu5Q9sxv45vE8Lak) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Famous Friends](https://open.spotify.com/album/0CIbEKfFhnHbwJwVHb4KE1) | 2:45 |
+| 89 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 |
 | 90 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 |
 | 91 | [Long Hot Summer](https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:33 |
 | 92 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |

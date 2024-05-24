@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 113 songs - 6 hr 9 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 121 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,5 +121,13 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 111 | [To Be Honest](https://open.spotify.com/track/2OmElPC8H23YsekF58fSbm) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Rich Slave](https://open.spotify.com/album/5LURLNXIyqBHpe5vvRTKHY) | 2:39 |
 | 112 | [Self](https://open.spotify.com/track/2wUnFLr2k5491Pv4cUYd83) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Room 25](https://open.spotify.com/album/7oHM3Sj0l2nXAzGAxW0KOt) | 1:34 |
 | 113 | [Shame On The Devil](https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND) | [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Shame On The Devil](https://open.spotify.com/album/4uQDzFAaXpBDBIkwhJQo8T) | 3:25 |
+| 114 | [Walk On By](https://open.spotify.com/track/6fkL9CjWmjeV6vfDxTp9OZ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Drunk](https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM) | 3:19 |
+| 115 | [Numbers On The Boards](https://open.spotify.com/track/4XkXgUNDVBMj3oJoE8yspZ) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 2:43 |
+| 116 | [Nosetalgia](https://open.spotify.com/track/7aK5rlTVxSgcqShPMI1TTH) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [My Name Is My Name](https://open.spotify.com/album/42oQv8fbI5CbeuAasf2ILC) | 3:36 |
+| 117 | [Extortion \(feat\. Method Man\)](https://open.spotify.com/track/04EXj02fD1HNyxnINHrolZ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:31 |
+| 118 | [Man Down \(feat\. Big Noyd\)](https://open.spotify.com/track/37Pu8DAHAtReIr4SAqqDxV) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Big Noyd](https://open.spotify.com/artist/4bwxkkA3AAwyymVwXjxz0F) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:02 |
+| 119 | [Animal Instinct \(feat\. Ty Nitty & Gambino\)](https://open.spotify.com/track/2AeVg9Nf6dAHweYkDowG1J) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap), [Ty Nitty](https://open.spotify.com/artist/1kyDI05lYZzpa3jr7ZorlJ), [Gambino](https://open.spotify.com/artist/7fjyYTTFsOknoLNTRTYdeR) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 3:29 |
+| 120 | [Drop A Gem On 'Em](https://open.spotify.com/track/4gXFUhyu4fzOgmV28BiJ9s) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 4:17 |
+| 121 | [G.O.D., Pt\. III](https://open.spotify.com/track/7AY6pRA83f75jEbP6YvUbJ) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [Hell On Earth](https://open.spotify.com/album/6BWf3fxsgSDhES4Cm4oyy5) | 5:16 |
 
-Snapshot ID: `AAAcoeLDX0ml1xRaOWnEv/lhsNhWNCwe`
+Snapshot ID: `AAAcqUbtFqYUDVbrKz8aa4f1eUY7M6nO`

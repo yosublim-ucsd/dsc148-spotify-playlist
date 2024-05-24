@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Hardrock
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,558 likes - 55 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,560 likes - 55 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

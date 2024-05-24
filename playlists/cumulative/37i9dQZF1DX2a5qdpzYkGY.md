@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-265 songs - 21 hr 40 min
+266 songs - 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Mirrored Solitude](https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT) | [Kalia Vandever](https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL) | [Mirrored Solitude](https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB) | 3:26 | 2023-03-07 |  |
 | [Moabit](https://open.spotify.com/track/4hCRPlRaCcEbeNLZoxnZV1) | [Freestyle Man](https://open.spotify.com/artist/0J16SQxQ3aevs1yt0LUwv5), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Jimi Tenor](https://open.spotify.com/artist/5KhHCVgWsq6rHocHATBwdZ) | [Moabit](https://open.spotify.com/album/0UIMMz9GGrgRDseMZHPXLO) | 8:29 | 2022-07-15 | 2022-09-28 |
 | [Movement 6](https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L), [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Promises](https://open.spotify.com/album/3ShtO5VCYa3ctlR5uzLWBa) | 8:50 | 2021-10-06 |  |
-| [Murmer Double](https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11) | [Duncan Marquiss](https://open.spotify.com/artist/0HBHvIQvXpsiwrbyXKRlSE) | [Wires Turned Sideways In Time](https://open.spotify.com/album/1fP3dyBEao39IZeLKC4pzw) | 5:43 | 2022-03-30 |  |
+| [Murmer Double](https://open.spotify.com/track/7kj7ZqCPVeAl103iUrOi11) | [Duncan Marquiss](https://open.spotify.com/artist/0HBHvIQvXpsiwrbyXKRlSE) | [Wires Turned Sideways In Time](https://open.spotify.com/album/1fP3dyBEao39IZeLKC4pzw) | 5:43 | 2022-03-30 | 2024-05-24 |
 | [Murmuration](https://open.spotify.com/track/1r8kRDtkDZPhHvP0dwaYDd) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [v2.0](https://open.spotify.com/album/0ZvyleSEIlDbklGZ995APl) | 4:12 | 2021-10-06 | 2022-07-29 |
 | [Murmuration](https://open.spotify.com/track/6DNWsuWuAXAlpmsad1sGfz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [v2.0 \(Deluxe Edition\)](https://open.spotify.com/album/7rXrjbrYcXG8EkqXpt0weK) | 4:12 | 2021-10-06 | 2024-04-19 |
 | [Mute \- Jan Wagner Remix](https://open.spotify.com/track/5XyKeJ3QkPsffeTxmdmoFx) | [We Will Kaleid](https://open.spotify.com/artist/78OWdfuMGjDVa6Zc63crhR), [Jan Wagner](https://open.spotify.com/artist/2SoZ45FJ4E7EP43kPdtPxX) | [Mute \(Jan Wagner Remix\)](https://open.spotify.com/album/1eToRFeyF5mrTo205VYDAp) | 3:45 | 2021-10-06 | 2022-07-29 |
@@ -187,6 +187,7 @@
 | [Passing Lights \- Cinematic Version](https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Reflections 02](https://open.spotify.com/album/33CSkPGUlGsQ6a4pBFfRL2) | 2:36 | 2022-09-03 |  |
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2021-10-06 |  |
 | [Penelope](https://open.spotify.com/track/5MyIVAoJDJUBe3m4Gl02Kg) | [Quiet is the new Loud](https://open.spotify.com/artist/6rFDSz52ueWFSmTjFnCEvn) | [Penelope](https://open.spotify.com/album/1BILeLPHCszFcvpDjse2k7) | 4:00 | 2021-10-06 | 2022-07-28 |
+| [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 | 2024-05-23 |  |
 | [PMA](https://open.spotify.com/track/6XpsLtaW35rrpeOyJN7O5b) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [PMA](https://open.spotify.com/album/41AtCfNn8gpQlgZ6OqO9ZX) | 2:13 | 2023-01-04 | 2024-01-11 |
 | [Presence \- Little Dragon Remix](https://open.spotify.com/track/5elG5vjHRMwZ2RLIEKUys2) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5FwiNeZyBHQXH1ppbXqxe0) | 4:46 | 2021-10-06 | 2022-10-11 |
 | [Presence \- Little Dragon Remix](https://open.spotify.com/track/5vuzTY4d3HK0fw5zZd48NC) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Jaime \(Reimagined\)](https://open.spotify.com/album/5t6vcw4W6caYhYfsDvaGLx) | 4:46 | 2021-10-06 | 2022-07-28 |

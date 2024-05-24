@@ -4,7 +4,7 @@
 
 > Lagu\-lagu Pop untuk teman bersantai.
 
-176 songs - 11 hr 39 min
+177 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Kali Kedua](https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Handmade](https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY) | 4:17 | 2022-12-14 | 2024-04-19 |
 | [Kamulah Satu \- Satunya](https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The Best of Dewa 19](https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS) | 4:01 | 2022-12-14 |  |
 | [Kangen](https://open.spotify.com/track/3ZyMRe0jlSqffPBMeHUZFX) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d) | [The 2000's Greatest](https://open.spotify.com/album/2hwNRtZyqmEcCzV47OUAlN) | 5:00 | 2022-12-14 | 2024-04-19 |
+| [Kasmaran](https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf) | [Jaz](https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm) | [Kasmaran](https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu) | 4:02 | 2024-05-15 |  |
 | [Kau Adalah \(feat\. Rayi Putra\)](https://open.spotify.com/track/2WoRw2nWZoj5ty0rOQP4FQ) | [Isyana Sarasvati](https://open.spotify.com/artist/05CRzFTp7TouOXPuH6Tapu), [Rayi Putra](https://open.spotify.com/artist/3FduEXHFSq8Hboekc8JMUR) | [EXPLORE!](https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba) | 4:02 | 2024-03-05 | 2024-05-06 |
 | [Kau Rumahku](https://open.spotify.com/track/7nQoDLkzCcoIpKPQt3eCdN) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Kau Rumahku](https://open.spotify.com/album/7vPQboGZn7eLlwwyOeCTQO) | 4:35 | 2022-12-14 |  |
 | [Keabadian](https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn) | [Reza Artamevia](https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF) | [Keabadian](https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym) | 4:07 | 2022-12-14 |  |
@@ -135,7 +136,7 @@
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-12-14 |  |
 | [say you're done with me](https://open.spotify.com/track/3M3CQFX5Q9dEaauR5dMtku) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [say you're done with me](https://open.spotify.com/album/4fbZtfYUFeESZmfaifPXE0) | 3:49 | 2022-12-14 | 2023-05-02 |
 | [Seamin Tak Seiman](https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun) | [Mahen](https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh) | [Seamin Tak Seiman](https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m) | 3:36 | 2022-12-14 |  |
-| [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2024-03-05 |  |
+| [Sedang Sayang Sayangnya](https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Sedang Sayang Sayangnya](https://open.spotify.com/album/4ZKpExW4zWApID8pudhNE9) | 4:21 | 2024-03-05 | 2024-05-24 |
 | [see you in jakarta?](https://open.spotify.com/track/3UL4guoCQEfrO0lb3v6wNv) | [Rama Davis](https://open.spotify.com/artist/3gJlTdWX9gXe9YFY3qju8L), [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [see you in jakarta?](https://open.spotify.com/album/2J5Rhcq4QOsozrxIuDo6ut) | 3:53 | 2022-12-14 | 2023-02-24 |
 | [Selaras](https://open.spotify.com/track/61GiPHiUWi2f8mhN2AdBf0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1qmWJzKCVXjkznYtZeG8jK) | 4:33 | 2022-12-14 | 2023-01-11 |
 | [Selaras](https://open.spotify.com/track/7kZ4uU7cO2Y36XWmuwEOW0) | [Kunto Aji](https://open.spotify.com/artist/7dfFM5cBUOBmOH08sGNDcy), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Selaras](https://open.spotify.com/album/1b1QRGjDS4CHogOBBCLWOg) | 4:33 | 2023-03-22 | 2024-04-19 |

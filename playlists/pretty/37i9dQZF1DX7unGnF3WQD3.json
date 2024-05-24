@@ -1,6 +1,6 @@
 {
   "description": "t\u00edrate un paso y saca los prohibidos",
-  "num_followers": 76528,
+  "num_followers": 76583,
   "original_name": "los prohibidos",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Ojos Verdes",
+        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 142410,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "El Merengue",
         "url": "https://open.spotify.com/album/6sU751LOdNBPvVErW1GunP"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/51FvjPEGKq2zByeeEQ43V9"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Ojos Verdes",
-        "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 142410,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -259,26 +259,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        },
-        {
-          "name": "Carlos Santana",
-          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
-        }
-      ],
-      "duration_ms": 264266,
-      "name": "Necio (feat. Carlos Santana)",
-      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -295,18 +275,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Trovando El Son",
-        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
-          "name": "Fresto Music",
-          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
         }
       ],
-      "duration_ms": 300791,
-      "name": "Me Hace Da\u00f1o Verte",
-      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+      "duration_ms": 264266,
+      "name": "Necio (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3DKWF8is9hzp84aSxnhlag"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -331,6 +315,22 @@
       "duration_ms": 204000,
       "name": "Brinca - Spotify Singles",
       "url": "https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "Trovando El Son",
+        "url": "https://open.spotify.com/album/0fSaofDMk7H5ZUJ98SH5Uu"
+      },
+      "artists": [
+        {
+          "name": "Fresto Music",
+          "url": "https://open.spotify.com/artist/66q6iqbR9rh3jJNlGEnQvB"
+        }
+      ],
+      "duration_ms": 300791,
+      "name": "Me Hace Da\u00f1o Verte",
+      "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -747,22 +747,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Marbella",
-        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
+        "name": "Llorar Por Ella",
+        "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         },
         {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 153506,
-      "name": "Marbella",
-      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
+      "duration_ms": 168203,
+      "name": "Llorar Por Ella",
+      "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -783,22 +783,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Llorar Por Ella",
-        "url": "https://open.spotify.com/album/5jNPRmMkTcajQi97ZmGWeV"
+        "name": "Marbella",
+        "url": "https://open.spotify.com/album/5rvK3RAW4zTo0h8ZTFF6Rq"
       },
       "artists": [
         {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
         },
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
         }
       ],
-      "duration_ms": 168203,
-      "name": "Llorar Por Ella",
-      "url": "https://open.spotify.com/track/4Z5CT2uGwEffzdjbxp7pGC"
+      "duration_ms": 153506,
+      "name": "Marbella",
+      "url": "https://open.spotify.com/track/0nbCZLgGT6kCGzDYYAdhW6"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
+        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 350760,
+      "name": "Amor de Madre",
+      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "Lleg\u00f3 Pap\u00e1",
         "url": "https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 205333,
       "name": "Guallando",
       "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Todav\u00eda Me Amas: Lo Mejor de Aventura",
-        "url": "https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 350760,
-      "name": "Amor de Madre",
-      "url": "https://open.spotify.com/track/57hbwt9CYmaVjjUG8KRgQ4"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Serie Fiesta",
+        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
+      },
+      "artists": [
+        {
+          "name": "Grupo Mojado",
+          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "Tonta",
+      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 210955,
       "name": "La Cumbia Triste",
       "url": "https://open.spotify.com/track/2sAFBZ8a7uTT7tsAsjoUzo"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Serie Fiesta",
-        "url": "https://open.spotify.com/album/3DshPsOHjY7OQa1PFRrtKq"
-      },
-      "artists": [
-        {
-          "name": "Grupo Mojado",
-          "url": "https://open.spotify.com/artist/28NFZuZbEm7yzMpv1q1Rb7"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "Tonta",
-      "url": "https://open.spotify.com/track/46MuirMMSyr2aqbCdnPyBh"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "EL CANTANTE DEL GHETTO",
         "url": "https://open.spotify.com/album/1N0LBYdEsIC9NLdXyZXkIi"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 205714,
       "name": "EL CANTANTE DEL GHETTO",
       "url": "https://open.spotify.com/track/50EDwjxJALuDmkRAreUQga"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
+        "name": "Cuando Nadie Ve",
+        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
+      },
+      "artists": [
+        {
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
+        }
+      ],
+      "duration_ms": 232533,
+      "name": "Cuando Nadie Ve",
+      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
         "name": "\u00c1ngel de Amor",
         "url": "https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 157666,
       "name": "\u00c1ngel de Amor",
       "url": "https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
-        "name": "Cuando Nadie Ve",
-        "url": "https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 232533,
-      "name": "Cuando Nadie Ve",
-      "url": "https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z"
     },
     {
       "added_at": "2024-05-14 17:26:42",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-05-14 17:26:42",
       "album": {
-        "name": "Un Monton De Estrellas",
-        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ju-Juy",
-          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
-        }
-      ],
-      "duration_ms": 283678,
-      "name": "La Triste Despedida",
-      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
-    },
-    {
-      "added_at": "2024-05-14 17:26:42",
-      "album": {
         "name": "Los Reyes de la Cumbia Playera (Versi\u00f3n 2015)",
         "url": "https://open.spotify.com/album/0D4KjknzTsf7HgAPSqFhdS"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 302680,
       "name": "Arrem\u00e1ngala Arremp\u00fajala",
       "url": "https://open.spotify.com/track/1eiEHx5HeyTB3cjVxvFwUO"
+    },
+    {
+      "added_at": "2024-05-14 17:26:42",
+      "album": {
+        "name": "Un Monton De Estrellas",
+        "url": "https://open.spotify.com/album/42oEsxcnZj483G6zXYWpcH"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ju-Juy",
+          "url": "https://open.spotify.com/artist/1pTAkO3OrwVOKUh3bfGv5m"
+        }
+      ],
+      "duration_ms": 283678,
+      "name": "La Triste Despedida",
+      "url": "https://open.spotify.com/track/6mfl8ppmtBBtmv2sSPVkif"
     },
     {
       "added_at": "2024-05-14 17:26:42",

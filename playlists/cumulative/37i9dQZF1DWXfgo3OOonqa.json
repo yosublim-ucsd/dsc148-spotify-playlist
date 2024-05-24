@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 128582,
       "name": "BAD BUNNY",
       "url": "https://open.spotify.com/track/79cfPnMo7tvoKbRiNQgzTg"
@@ -3604,7 +3604,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 138808,
       "name": "BETONGEN (feat. 23)",
       "url": "https://open.spotify.com/track/1kQxuSynVq0OtpmnVjuf0g"
@@ -5160,7 +5160,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 123230,
       "name": "Canelo",
       "url": "https://open.spotify.com/track/1eaX4YyBMZCHMqz5kZvzBh"
@@ -5446,6 +5446,28 @@
       "duration_ms": 183000,
       "name": "Chanser",
       "url": "https://open.spotify.com/track/4jNU1qP5ZRLIWTMZ3j2u2E"
+    },
+    {
+      "album": {
+        "name": "CHICANO",
+        "url": "https://open.spotify.com/album/5pAM6Ft7kGCj4wyWAIpQTU"
+      },
+      "artists": [
+        {
+          "name": "Ricky Rich",
+          "url": "https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151207,
+      "name": "CHICANO",
+      "url": "https://open.spotify.com/track/3jE8a467SmeFRnkK176hAQ"
     },
     {
       "album": {
@@ -7363,6 +7385,28 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/02FOs5JKp1S08NEjCW64Eo"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        },
+        {
+          "name": "Shenzi Beats",
+          "url": "https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145531,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/5gRlTvWBTrm5DpF6RgxQBM"
+    },
+    {
+      "album": {
         "name": "M.O.B",
         "url": "https://open.spotify.com/album/3OayJHDFHtATwvDVJ8ccuT"
       },
@@ -7950,7 +7994,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156000,
       "name": "Efter Regn",
       "url": "https://open.spotify.com/track/59Av14pC7RFAyHDCtmpJcq"
@@ -8994,6 +9038,28 @@
       "duration_ms": 141230,
       "name": "Feelar - Remix",
       "url": "https://open.spotify.com/track/3PlZHzd7NGLJvW7dKsnq1j"
+    },
+    {
+      "album": {
+        "name": "FEELING",
+        "url": "https://open.spotify.com/album/20LALgJrWP56Y7SfUz2yqn"
+      },
+      "artists": [
+        {
+          "name": "1.Cuz",
+          "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "VC Barre",
+          "url": "https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "FEELING",
+      "url": "https://open.spotify.com/track/4RxR3ZXHpcsMSgYXDIKdSm"
     },
     {
       "album": {
@@ -11627,6 +11693,24 @@
     },
     {
       "album": {
+        "name": "Henne",
+        "url": "https://open.spotify.com/album/5dVJJNPl0kZD75Jfz3LUCE"
+      },
+      "artists": [
+        {
+          "name": "Roman",
+          "url": "https://open.spotify.com/artist/6nSyvCv3zRnxU9Q3QUNBrZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156947,
+      "name": "Henne",
+      "url": "https://open.spotify.com/track/1oUbgHP0SIH4iNgStOWNJ7"
+    },
+    {
+      "album": {
         "name": "Henny",
         "url": "https://open.spotify.com/album/2W6LKDFrnIL3mhEk6XJiW3"
       },
@@ -11928,7 +12012,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158035,
       "name": "Holy Father",
       "url": "https://open.spotify.com/track/5L3rVVMUlgJgDRaXc4V3wt"
@@ -12530,7 +12614,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 113543,
       "name": "Ibland",
       "url": "https://open.spotify.com/track/2nCUngjXIMCYHhHKARDHyo"
@@ -12914,7 +12998,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 118698,
       "name": "INGEN ANNAN",
       "url": "https://open.spotify.com/track/08MbwpTIhRmikedfJ4iyGI"
@@ -16166,6 +16250,24 @@
       "duration_ms": 153786,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6EAJ2CD93KYEbEeC3XrKOy"
+    },
+    {
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/36F9rdQ9TZxNyQqxvzYwXj"
+      },
+      "artists": [
+        {
+          "name": "Romeo",
+          "url": "https://open.spotify.com/artist/3TSLK8NFrFC8KqFwZlM58D"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123884,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/39PJOPBai7z0ugs7y3tjxM"
     },
     {
       "album": {
@@ -20253,6 +20355,28 @@
     },
     {
       "album": {
+        "name": "OUTSIDE",
+        "url": "https://open.spotify.com/album/6zMwudWhuAcG51ZkHxZQLC"
+      },
+      "artists": [
+        {
+          "name": "LKay",
+          "url": "https://open.spotify.com/artist/0ao2HCPhWbdBSA6Sa94xTa"
+        },
+        {
+          "name": "Luc1ano",
+          "url": "https://open.spotify.com/artist/5FrvaIrf2vik2rktPWOrsN"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134885,
+      "name": "OUTSIDE",
+      "url": "https://open.spotify.com/track/1n7QjDjOEMJ2FvRYKnlFPA"
+    },
+    {
+      "album": {
         "name": "Overseas",
         "url": "https://open.spotify.com/album/61vVdu7kFrzSNXSo1swX5W"
       },
@@ -20514,7 +20638,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170753,
       "name": "PAPAPA",
       "url": "https://open.spotify.com/track/6A0Wfspn6zvSBOfRYUPWbE"
@@ -22052,7 +22176,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 130800,
       "name": "Riktiga bars",
       "url": "https://open.spotify.com/track/3Rz9hA5i0A0Br7LjsGC0fU"
@@ -22362,6 +22486,24 @@
       "duration_ms": 142921,
       "name": "SAFARI",
       "url": "https://open.spotify.com/track/3TJm53n5DqltPYnn8UYquo"
+    },
+    {
+      "album": {
+        "name": "SAFE",
+        "url": "https://open.spotify.com/album/0jlY8MTWzz24lFBv2SsvHT"
+      },
+      "artists": [
+        {
+          "name": "MIGI",
+          "url": "https://open.spotify.com/artist/6SQ1V0fuKnQGrLYE37Q1n3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135777,
+      "name": "SAFE",
+      "url": "https://open.spotify.com/track/4pyDLSK0uGCf7TAdGRb43N"
     },
     {
       "album": {
@@ -22870,6 +23012,24 @@
       "duration_ms": 138331,
       "name": "SEVILLA (feat. Nimo & Summer Cem) - Remix",
       "url": "https://open.spotify.com/track/1Iit6nngiymUoQ7M2Ru9mM"
+    },
+    {
+      "album": {
+        "name": "Sex Bomb",
+        "url": "https://open.spotify.com/album/66PYvdbDdIXva5PgyPk1PP"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146920,
+      "name": "Sex Bomb",
+      "url": "https://open.spotify.com/track/4IFouZr6hep9cHuk3Gw3lI"
     },
     {
       "album": {
@@ -25012,7 +25172,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 135000,
       "name": "S\u00e4g Mig",
       "url": "https://open.spotify.com/track/6QcM5ODX1XpjBKIMQuWmdE"
@@ -28570,7 +28730,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164788,
       "name": "Wildin\u2019",
       "url": "https://open.spotify.com/track/1IVy6mEDQqOTZlqWOJ0jsQ"

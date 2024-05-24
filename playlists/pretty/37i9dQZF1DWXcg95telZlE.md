@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 358,910 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,047 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 27 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
 | 28 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
 | 29 | [They Can't Take That Away From Me](https://open.spotify.com/track/1V4NaFlrUCK49MXcdOcVeS) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Complete Ella And Louis On Verve](https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn) | 4:40 |
-| 30 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
+| 30 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
 | 31 | [Mr\. Blue](https://open.spotify.com/track/6bnFjTW3EnMG4BwreDnSHK) | [The Fleetwoods](https://open.spotify.com/artist/673J686eeEXMYJorgQ70lX) | [Come Softly To Me: The Very Best Of The Fleetwoods](https://open.spotify.com/album/53Z6bXyBJ7tlRtMettF6Uq) | 2:25 |
-| 32 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
+| 32 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
 | 33 | [You Mean Everything to Me](https://open.spotify.com/track/18YPNs20cBfgqkY8YCJlOH) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:37 |
 | 34 | [You Belong To Me](https://open.spotify.com/track/3xZe0jFAwc3akvChOrPS7u) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw) | [The Magic Of Jo Stafford](https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka) | 3:12 |
 | 35 | [You're Gonna Miss Me](https://open.spotify.com/track/1yLsZ8fuQJqk2cm1VDWTGb) | [Connie Francis](https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q) | [Gold](https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9) | 2:44 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 56 | [A Certain Smile \- From the 20th Century Fox Film "A Certain Smile"](https://open.spotify.com/track/76eNJQoJmN4mfsUW0q8HPv) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [The Essential Johnny Mathis](https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv) | 2:48 |
 | 57 | [April Love](https://open.spotify.com/track/5ax1MN2MGW0ZJXquCkpuLM) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:41 |
 | 58 | [Prisoner Of Love](https://open.spotify.com/track/44i1lqENyhAqAi9IDJI0j4) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [Remember When?](https://open.spotify.com/album/3hf24dCfmmDihusVyBLliZ) | 3:04 |
-| 59 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
-| 60 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
+| 59 | [I've Got A Crush On You](https://open.spotify.com/track/6f4Zazr4tHJ8iekdSwbBpT) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 4:06 |
+| 60 | [Hold My Hand](https://open.spotify.com/track/5DqtlVbnKtI9m2btve7nR9) | [Don Cornell](https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS) | [Presenting Don Cornell](https://open.spotify.com/album/3w8PulMSQH97DjIQldA2ja) | 2:49 |
 | 61 | [Why Do I Love You So](https://open.spotify.com/track/406RedcyUEOwpVQSM1cpsh) | [Johnny Tillotson](https://open.spotify.com/artist/36msvw9B10rxW90NSQ2794) | [Johnny Tillotson's Best](https://open.spotify.com/album/6GLTTJoBUOBz34zOYq0MjA) | 2:05 |
 | 62 | [River of No Return](https://open.spotify.com/track/1JQdEwIjo3lzhaMWUvrIzV) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Saga All Stars: Heat Wave / Selected Film Tracks 1950\-1957](https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ) | 2:15 |
 | 63 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |

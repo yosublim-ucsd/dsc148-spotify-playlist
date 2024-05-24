@@ -4,14 +4,14 @@
 
 > Le son des chichas !
 
-70 songs - 3 hr 38 min
+71 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,2,3 Soleil](https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW) | [NAZAKEBLACK](https://open.spotify.com/artist/5H9EtsRc980WZMj0m0nwqa), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [1,2,3 Soleil](https://open.spotify.com/album/5VB6SGacsS2ie9E5Go8thw) | 2:53 | 2024-04-12 |  |
 | [200 KM/H](https://open.spotify.com/track/7DfBKw4PYAar1FXOFLqMFE) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Ronisia \(Version Deluxe\)](https://open.spotify.com/album/6n3BM7djoly8rX6AG9dnFW) | 2:45 | 2023-12-01 | 2024-02-16 |
 | [Acolyte \(feat\. Dadju & Ninho\)](https://open.spotify.com/track/3dAmEncotdt2zdvAJBSbCy) | [Gianni](https://open.spotify.com/artist/5W9ShLREoRMuXqSSYMeHqk), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [MRTHN](https://open.spotify.com/album/1NDrCoEwYxndcqfRJ3vQ8g) | 2:49 | 2023-09-29 | 2024-01-06 |
-| [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 |  |
+| [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-18 | 2024-05-24 |
 | [Alicante](https://open.spotify.com/track/1xV89fEoj4JNCrbMq5rA7G) | [Gambino](https://open.spotify.com/artist/5Wf0eeUkR6rRAre6L7H7jW) | [Alicante](https://open.spotify.com/album/6uKVQzzmUEFuc6GjWy1IQw) | 3:13 | 2023-12-01 |  |
 | [Attentat](https://open.spotify.com/track/5ioieZofgvXQK70RFhVohl) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:14 | 2023-08-08 | 2023-12-02 |
 | [Autobahn](https://open.spotify.com/track/03o8WSqd2K5rkGvn9IsLy2) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 2:50 | 2023-08-08 |  |
@@ -28,6 +28,7 @@
 | [Carolina](https://open.spotify.com/track/22IP2WKjuGYQ19JAz5GpAv) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [REDVOLUTION](https://open.spotify.com/artist/4hzO4p4VzL72ZFXF0YFYBn) | [Carolina](https://open.spotify.com/album/4VsXxNxkWjYV6nlPPt6A64) | 3:15 | 2023-12-01 | 2024-02-16 |
 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 | 2024-03-07 |  |
 | [Coeur De Pirate](https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Coeur De Pirate](https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY) | 3:00 | 2023-08-08 | 2023-12-02 |
+| [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 | 2024-05-23 |  |
 | [Criminel](https://open.spotify.com/track/6JAezQjLfd5CopZ5klhzHu) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Losa](https://open.spotify.com/album/1teNie7q2r9ik9SHyPkHJn) | 3:16 | 2023-12-01 | 2024-03-08 |
 | [Doudou](https://open.spotify.com/track/4npOigvIBuT6ui5gwjGdhf) | [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Doudou](https://open.spotify.com/album/2cvLIYkOuAl59n7kRtY8i6) | 3:01 | 2023-08-08 | 2023-09-30 |
 | [Dybala](https://open.spotify.com/track/4Nfak8iMF4kQfQ6Pa8Z79m) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Les derniers salopards](https://open.spotify.com/album/5jzZ6P5fwaHQ3RWCaxN3IP) | 3:31 | 2024-01-05 |  |

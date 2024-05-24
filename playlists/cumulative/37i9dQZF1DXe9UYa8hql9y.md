@@ -4,7 +4,7 @@
 
 > ¡Fiesta y más fiesta hasta que sala el sol!
 
-507 songs - 1 day 3 hr 59 min
+509 songs - 1 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Peaches \(feat\. Daniel Caesar & Giveon\)](https://open.spotify.com/track/4iJyoBOLtHqaGxP12qzhQI) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 3:18 | 2022-03-28 | 2023-12-14 |
 | [Pepas](https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 4:47 | 2022-01-07 | 2022-07-23 |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-12-12 | 2024-01-30 |
+| [Perdonarte, ¿Para Qué?](https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Perdonarte, ¿Para Qué?](https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol) | 3:13 | 2024-05-22 |  |
 | [Perfecta](https://open.spotify.com/track/6VOb0Kkrd45Bp5RHYSla2J) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Perfecta](https://open.spotify.com/album/5ON2micjtMSXspIHMxh5gc) | 2:54 | 2022-01-07 | 2022-07-29 |
 | [Permission to Dance](https://open.spotify.com/track/3XYRV7ZSHqIRDG87DKTtry) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Permission to Dance](https://open.spotify.com/album/5ExDI42RCtISkQXAgv8dtZ) | 3:07 | 2022-03-28 | 2023-07-08 |
 | [Perreo Sayayin](https://open.spotify.com/track/70UWCayDDTHobS9NbRrvMA) | [Go Golden Junk](https://open.spotify.com/artist/2tU377oBzcCBbRNeVve8FC), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb) | [Perreo Sayayin](https://open.spotify.com/album/1qrH5OQu539WRe9dRVTyeX) | 1:50 | 2024-02-09 | 2024-02-24 |
@@ -426,6 +427,7 @@
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2024-01-29 |  |
 | [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2024-01-29 | 2024-04-19 |
 | [Sin Pijama](https://open.spotify.com/track/2ijef6ni2amuunRoKTlgww) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Sin Pijama](https://open.spotify.com/album/6hAxqfWO3xDGzjs8yad1pB) | 3:08 | 2022-03-28 | 2022-05-08 |
+| [Sin Yolanda](https://open.spotify.com/track/21NvSNOb9eqlRwFeqreHmM) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [THE GB](https://open.spotify.com/album/1O51JYs5jdmREsm45dyeGc) | 3:10 | 2024-05-22 |  |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2022-01-07 | 2023-09-15 |
 | [Solo Quédate en Silencio](https://open.spotify.com/track/5tHlx87NpprW9FXF1jweH5) | [Rebelde la Serie](https://open.spotify.com/artist/0Hz6D1XGiSH9nOPjUlDWrj), [Giovanna Grigio](https://open.spotify.com/artist/3xp09DOSzWRRJlxzWzomrh), [Alejandro Puente](https://open.spotify.com/artist/2ekFBWXVFLI1uzH9AMj3Lg) | [Rebelde la Serie \(Official Soundtrack\)](https://open.spotify.com/album/0D6P1mugyeO1RGyeCEzabS) | 3:22 | 2022-01-22 | 2022-06-30 |
 | [Sooner Or Later](https://open.spotify.com/track/2QLdrqojYq2yRKHqv6tXh1) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Sooner Or Later](https://open.spotify.com/album/6bMgJgiQFBxVamHwAd6VYt) | 3:20 | 2022-03-28 | 2022-04-21 |

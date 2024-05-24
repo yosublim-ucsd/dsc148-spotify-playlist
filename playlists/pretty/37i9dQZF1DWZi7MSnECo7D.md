@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > indiezices e alternatividades\. Foto: PLUMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 825,022 likes - 65 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,964 likes - 65 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 45 | [PÁSSARO](https://open.spotify.com/track/6Od98yE86PzSkRKOCpmXqx) | [Malu Maria](https://open.spotify.com/artist/7o2VDcKMqBIc304KCwEBBt) | [PÁSSARO](https://open.spotify.com/album/4xHfV8Dv2RANqu7bc0hcJT) | 10:40 |
 | 46 | [144](https://open.spotify.com/track/2UrTBYA7g5uQDeE1refIs6) | [Raça](https://open.spotify.com/artist/7LC3Unc4kVkoX7yLCZbyg5) | [144](https://open.spotify.com/album/6EGMD8lu6cqhdbd0UcnKoo) | 2:19 |
 | 47 | [II](https://open.spotify.com/track/1VLwGoFZVg1GblE37sBVmg) | [a terra vai se tornar um planeta inabitável](https://open.spotify.com/artist/3vRKfW74O7fGagZCDPOqKQ), [magnólia](https://open.spotify.com/artist/1UeVL6kabga2Gxp6TfoyUs) | [o fim é um começo](https://open.spotify.com/album/0gzmYbVouBACqA8uEiXm4g) | 2:30 |
-| 48 | [pois bem \- PP sessions \- Ao Vivo](https://open.spotify.com/track/4jAgdIeBtsTFXApCOqKxUH) | [Capim\-Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [Capim\-Limão \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/11wK1LoU9LToldMOGky4dZ) | 3:02 |
+| 48 | [pois bem \- PP sessions \- Ao Vivo](https://open.spotify.com/track/4jAgdIeBtsTFXApCOqKxUH) | [Capim Limão](https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [Capim\-Limão \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/11wK1LoU9LToldMOGky4dZ) | 3:02 |
 | 49 | [Certo Talvez](https://open.spotify.com/track/5XL3hMURY44CVBF39pJdQJ) | [Eu Galhardo](https://open.spotify.com/artist/0FfXfnCSSCVti3eUImKMFV) | [Certo Talvez](https://open.spotify.com/album/2zo56Zgm9xlHtl7piUnpCg) | 3:52 |
 | 50 | [Algaravia](https://open.spotify.com/track/5PTDpsgOqEoG5P5BllvfHZ) | [Walfredo em Busca da Simbiose](https://open.spotify.com/artist/6PzQC3kTcWcJcH8p4d7yJl), [César Lacerda](https://open.spotify.com/artist/5l962QqiKtDWXYqjbpJ3qZ) | [Algaravia](https://open.spotify.com/album/546EYepiaiSjIsGtL0WToy) | 3:31 |
 | 51 | [Dona da Minha Cabeça](https://open.spotify.com/track/0a5bmaUCdiDzYMlebzehDV) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj), [Luê](https://open.spotify.com/artist/38i2aXHzKEjmiKRH20Wlgj) | [Dona da Minha Cabeça](https://open.spotify.com/album/1yFXVOVzl7frsvybze8Zil) | 3:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,310 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,323 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 46 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 47 | [Madres](https://open.spotify.com/track/3oZOhcGFBx5AdxDmpp209k) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/72c0drLnTHGgihMXP0TXU5) | 3:56 |
 | 48 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |
-| 49 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
-| 50 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
+| 49 | [Scars](https://open.spotify.com/track/3LzXNblYTky3isOztnWqcz) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Guy](https://open.spotify.com/album/1yGK2fGDPhaZ3O9AhGrkRS) | 2:58 |
+| 50 | [The One](https://open.spotify.com/track/1HEAdiEtqfNwRiWLBflKgn) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [The One](https://open.spotify.com/album/2L9IJGseRrMNGLg8eqzAzv) | 5:01 |
 | 51 | [Time Machine](https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey) | [Time Machine](https://open.spotify.com/album/4N3tw2C89vya0RGo6P7g84) | 4:31 |
-| 52 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
-| 53 | [The Ghost](https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [The Ghost](https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd) | 5:25 |
+| 52 | [The Ghost](https://open.spotify.com/track/2gNFYdcnFnpnaNZCeyBUxA) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [The Ghost](https://open.spotify.com/album/5DsSCWbjlNjIDoVgKcyyxd) | 5:25 |
+| 53 | [Pleasure Peak](https://open.spotify.com/track/0p4gPitg46gAPG3IdJvW5d) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU) | [Pleasure Peak](https://open.spotify.com/album/3myfX09GyHOpYaDN0AlHFY) | 3:20 |
 | 54 | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/track/3dvInTU2QDIGjIDGrfV4N0) | [Sam Girling](https://open.spotify.com/artist/3zQO5XxE5WRRWqk58vt0dS) | [Ankerklause \(Is The Feeling Only Strong\)](https://open.spotify.com/album/1AcmrdgJxvJkwZoKJ9s8ww) | 3:09 |
 | 55 | [Everything I Do](https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Everything I Do](https://open.spotify.com/album/7DWDzLGhYO99yvQzk5kSJc) | 3:14 |
 | 56 | [Aria](https://open.spotify.com/track/3M1r9ilL53PLcrLdIuyZ4J) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Omnya](https://open.spotify.com/artist/4zPg2ECAB9rHtMAx8faWfc) | [Aria](https://open.spotify.com/album/1Oi3PgQhL4WOKe1aoPCpqe) | 3:56 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 61 | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/track/25D1IY6rHJhm8PZHN9DNev) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [KAM\-BU](https://open.spotify.com/artist/2FIE0at8itKGQVx1vfQ7JF), [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Evening Time \(feat\. KAM\-BU & BXKS\)](https://open.spotify.com/album/5V9hEnW2hEWOK7SR8p8PgF) | 3:16 |
 | 62 | [Likshot](https://open.spotify.com/track/6GY4eHl6UjFLpqFAPEG6QQ) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Likshot](https://open.spotify.com/album/2ePWaT9H5e7D9TF42S5WpF) | 5:32 |
 | 63 | [Golden Door](https://open.spotify.com/track/5CssKUX7YWpZVJp3jYC4ri) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Golden Door](https://open.spotify.com/album/153hNVE9Gd8KEaRUH72vgP) | 7:37 |
-| 64 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 |
-| 65 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 |
+| 64 | [Hands \- Edit](https://open.spotify.com/track/4vA3jtFk9acFhLHdcuGrGK) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Hands \(DJ\-Kicks\)](https://open.spotify.com/album/7cdtA63N0AxdTjubtX6h38) | 4:01 |
+| 65 | [Venera](https://open.spotify.com/track/6U9rAS28uOHyf5NZCYyt0J) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Venera](https://open.spotify.com/album/73tJXZqhpawO8j29HGtqA9) | 3:47 |
 | 66 | [Candidasa](https://open.spotify.com/track/2UdB4mqfNI5M01Vpfta2tU) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Candidasa EP](https://open.spotify.com/album/6WXn29FqzQK2dW4M8DNPC4) | 10:21 |
 | 67 | [Turn The Lights](https://open.spotify.com/track/05A1R1JoG0v5L9hhsoPXtZ) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Turn The Lights](https://open.spotify.com/album/2Lhit0rt6mpp7bKzXGf2b5) | 4:07 |
 | 68 | [U Want It](https://open.spotify.com/track/1RVsWMx4Te72rPSUhhKCr8) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [U Want It](https://open.spotify.com/album/7gtGbIQmB1stRBblGss9B3) | 3:16 |

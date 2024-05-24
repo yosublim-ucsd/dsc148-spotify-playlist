@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,842 likes - 80 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,873 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 77 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 |
 | 78 | [Come and Be a Winner](https://open.spotify.com/track/6oobvM9iZY1OF18kC36llz) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Soul of a Woman](https://open.spotify.com/album/6dQ4PANge8QXfOywlHNd2J) | 2:56 |
 | 79 | [Starry Eyes](https://open.spotify.com/track/58xH2AxeyFjJ1o7vWKqUrt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:18 |
-| 80 | [Things We Do for Love](https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:28 |
+| 80 | [Don’t You Know](https://open.spotify.com/track/242UAWExQDujCkiQtLQvcu) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [American Love Call](https://open.spotify.com/album/4ZCrk8P8S1iSsEXZjimtPY) | 3:20 |
 
 Snapshot ID: `ZesX3QAAAACAMvxI+ItMlHy9LPOaRiEw`

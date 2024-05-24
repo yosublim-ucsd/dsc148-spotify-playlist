@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 
 > Slacker jams\. Cover: Bnny
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,667 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 489,846 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 54 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 |
 | 55 | [mr\. rager](https://open.spotify.com/track/0Pt2JTtqrgNPecmrOwVmaP) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [mr\. rager](https://open.spotify.com/album/6LMb3HyxEExqGc6rpg38QP) | 3:40 |
 | 56 | [running to find you](https://open.spotify.com/track/2FEf9b0UGPt3jsEQ3VGGTS) | [Mind’s Eye](https://open.spotify.com/artist/4o6dCIkmONTJL0ByDDUNYd) | [Long Nights and Wasted Affairs](https://open.spotify.com/album/2YKrT7Izbd8U5muoR0ZNaL) | 3:42 |
-| 57 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
-| 58 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
-| 59 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
+| 57 | [I Want To Be With You](https://open.spotify.com/track/2bYTSTwiAPXDj322o1wKu2) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [I Want To Be With You](https://open.spotify.com/album/4KDSiUvJGqsrLkHcCFNmxv) | 2:59 |
+| 58 | [That's What They Wanted](https://open.spotify.com/track/61hQMSDPEyMduIoZ6BwkO2) | [canless valley](https://open.spotify.com/artist/4Px3YntOJS8Ba8uxa0ppIj) | [That's What They Wanted](https://open.spotify.com/album/6ixZ1mCoJtFwwSMqufEfZC) | 1:56 |
+| 59 | [girl](https://open.spotify.com/track/0riQ5biFBQYCclYUACchr0) | [salvia palth](https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo) | [melanchole](https://open.spotify.com/album/23KJrzHF1IBfjzpRgTtaJx) | 2:37 |
 | 60 | [Not Alone](https://open.spotify.com/track/1PXYKrVSpw0hJg6mbr4XEV) | [peach tinted](https://open.spotify.com/artist/0jAu9Z9QrpYwY1vBenZs9Y) | [Peach Tinted](https://open.spotify.com/album/6bzfjfh16uVdxA00EpqUau) | 3:11 |
 | 61 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 |
 | 62 | [Escape From The Killer 2008](https://open.spotify.com/track/0E3C9ry5VM5YqCZLdcE0Fj) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Escape From The Killer](https://open.spotify.com/album/3f8J1FJdPioQfUEG3FL2PG) | 3:26 |
@@ -75,10 +75,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 65 | [Take It Off](https://open.spotify.com/track/5xtSnYsevveWRiYmKTnxWS) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Year Of The Rat](https://open.spotify.com/album/2wqVGl7R2cfwaZecFLTGIm) | 3:11 |
 | 66 | [3:45/buslane](https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY) | [3:45/buslane](https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ) | 2:08 |
 | 67 | [Seaface](https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [The Gaping Mouth](https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU) | 3:39 |
-| 68 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
-| 69 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
+| 68 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
+| 69 | [Runner](https://open.spotify.com/track/2G4z1KRQ0g6ndWr40zudDM) | [Mind Shrine](https://open.spotify.com/artist/48UczULz1QAoYIE1bsYWgM) | [Runner](https://open.spotify.com/album/0CfRDKp8BD7IsSGbiUUO5V) | 2:42 |
 | 70 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
-| 71 | [Maybe the Problem Is Me](https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Maybe the Problem Is Me](https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB) | 2:13 |
+| 71 | [i don't need to understand](https://open.spotify.com/track/55Z8UeiGPWq7m5DXxi1uPm) | [Uly](https://open.spotify.com/artist/1i5DopntEK7C4VKpD5F6zg) | [i don't need to understand](https://open.spotify.com/album/40VtthuGOFcTw8Lc1JGJJ3) | 2:26 |
 | 72 | [Reality](https://open.spotify.com/track/5B02jOseRaYIi63DMl7p4v) | [Em Glasser](https://open.spotify.com/artist/1svGpQYwY9pttfVCqvHNW5), [Maatz](https://open.spotify.com/artist/0OVrgxT9uZm6vfv51u6Twr) | [Reality](https://open.spotify.com/album/0elhRXrRVilA5wFZxGeUpO) | 3:39 |
 | 73 | [PIERCED ARROWS](https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 4:02 |
 | 74 | [Start Somewhere](https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 2:11 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CIO5EOSHeD.md) - [plain]
 | 96 | [upside down](https://open.spotify.com/track/0wjI06L5MKsO928VbZ3MLw) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [i wish things were different](https://open.spotify.com/album/4DgNlvFRyReBcM9c3aGXgB) | 2:02 |
 | 97 | [heat waves \- lofi version](https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [heat waves \- lofi version](https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82) | 1:36 |
 | 98 | [Natty Wine](https://open.spotify.com/track/0FAhaygL5ZMx4YuhHxmsqa) | [Brad stank](https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl) | [Natty Wine](https://open.spotify.com/album/71pS7RazfqZLRfpoID4Vqz) | 3:16 |
-| 99 | [Flowers](https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Flowers](https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM) | 2:28 |
-| 100 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 99 | [Reason](https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Reason](https://open.spotify.com/album/7ld5mYxqaguckkRX9bW7Vs) | 3:40 |
+| 100 | [Flowers](https://open.spotify.com/track/3oL1stuPW3PaZ304QT5ok0) | [Julian Skiboat](https://open.spotify.com/artist/62okAGBMx05wl2Oh7JLbUi) | [Flowers](https://open.spotify.com/album/7thBT0lQIZdoJIzaEY0yLM) | 2:28 |
 
 Snapshot ID: `ZkOE8QAAAADHSKg8hRoHX6k5qCbMnPYu`

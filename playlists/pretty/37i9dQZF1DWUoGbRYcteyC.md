@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,992,105 likes - 65 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,992,081 likes - 65 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 61 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 |
 | 62 | [Carolina](https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Carolina](https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k) | 2:47 |
 | 63 | [de mi pa ti](https://open.spotify.com/track/5VUiGfYomtEI1dP8wDdQSW) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [de mi pa ti](https://open.spotify.com/album/7gq4G8BuMxSeLAePv3r30l) | 3:26 |
-| 64 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 |
-| 65 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
+| 64 | [Paracaídas](https://open.spotify.com/track/0xAgxTy0wAKlP1fULdIfao) | [Oliver Kid](https://open.spotify.com/artist/2GAntPIbrC47uOoCNVnDPG), [SHEISA](https://open.spotify.com/artist/6VQ16ALjrbpX923Nif5wW8) | [Paracaídas](https://open.spotify.com/album/0ordq0iFB7VYOYhdl8ElTZ) | 2:35 |
+| 65 | [rimas del verbo amar](https://open.spotify.com/track/4uJErcTeJUb93hu5Ud2kIX) | [BORJA](https://open.spotify.com/artist/3n3mizV0nZXD1pKzRGoBGw) | [rimas del verbo amar](https://open.spotify.com/album/7Dbf6NKWAFQu991Qm1MROn) | 4:10 |
 
 Snapshot ID: `Zj5KvQAAAAAnmNhfrgTKuh/JSNsCGM7o`

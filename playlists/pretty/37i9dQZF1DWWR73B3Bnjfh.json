@@ -1,6 +1,6 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 180816,
+  "num_followers": 180944,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "ZfrNAAAAAABPkEkMc36trx8pK1Zo+RuQ",
   "tracks": [
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
-        "name": "See You At The Fair",
-        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy"
-    },
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
@@ -47,6 +31,22 @@
       "duration_ms": 287613,
       "name": "I Know Why (And So Do You)",
       "url": "https://open.spotify.com/track/3DsIu9DB0AZufrQHR4yJKL"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
+        "name": "See You At The Fair",
+        "url": "https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -119,22 +119,6 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "King Of The Tenors",
-        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 181826,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
         "name": "Somethin' Else (Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om"
       },
@@ -183,6 +167,22 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
+        "name": "King Of The Tenors",
+        "url": "https://open.spotify.com/album/2Lqk81OEcLDPxcY5ZGmB4v"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 181826,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4GexggWZGdd0ER5wBAtuwF"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
         "name": "Night Dreamer",
         "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
@@ -211,6 +211,22 @@
       "duration_ms": 338733,
       "name": "Danny's Dream",
       "url": "https://open.spotify.com/track/13hLjPatKentvawsFceF9a"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
+        "name": "Baker's Holiday",
+        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 197426,
+      "name": "That Ole Devil Called Love",
+      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -259,22 +275,6 @@
       "duration_ms": 395560,
       "name": "Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
-        "name": "Baker's Holiday",
-        "url": "https://open.spotify.com/album/1YpSrox7LYGq9HVxDY49SR"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 197426,
-      "name": "That Ole Devil Called Love",
-      "url": "https://open.spotify.com/track/4gOLhCjZJdhmCrrkkd9jSG"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 256706,
-      "name": "Ernie's Tune",
-      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
         "name": "Cannonball Takes Charge",
         "url": "https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 334626,
       "name": "I Guess I'll Hang My Tears Out To Dry",
       "url": "https://open.spotify.com/track/3uPR8dQXnM4DhBFfiBEDmh"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 256706,
+      "name": "Ernie's Tune",
+      "url": "https://open.spotify.com/track/0vJsWMcRo37FLq9QGzY2yV"
     },
     {
       "added_at": "2024-03-20 11:48:16",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-03-20 11:48:16",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 292573,
-      "name": "Stella By Starlight",
-      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
-    },
-    {
-      "added_at": "2024-03-20 11:48:16",
-      "album": {
         "name": "Gettin' Around",
         "url": "https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 316400,
       "name": "Who Can I Turn To (When Nobody Needs Me)",
       "url": "https://open.spotify.com/track/57ZrEEk6UCFiMx2nrgE1kf"
+    },
+    {
+      "added_at": "2024-03-20 11:48:16",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 292573,
+      "name": "Stella By Starlight",
+      "url": "https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG"
     },
     {
       "added_at": "2024-03-20 11:48:16",

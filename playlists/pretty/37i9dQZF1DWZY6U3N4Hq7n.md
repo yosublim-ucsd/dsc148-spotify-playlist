@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 
 > Grab your leg warmers and spandex: let's get physical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,331 likes - 80 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,478 likes - 80 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 24 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 |
 | 25 | [I'm Coming Out](https://open.spotify.com/track/3SnGymj6ijE2iuUfWxLo1q) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Diana](https://open.spotify.com/album/3zgDLoVcpVGfFbDZJf3uHI) | 5:23 |
 | 26 | [Venus](https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [True Confessions \(Collector's Edition\)](https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h) | 3:49 |
-| 27 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
-| 28 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 27 | [It's My Life \- 1997 Remaster](https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 3:52 |
+| 28 | [Video Killed The Radio Star](https://open.spotify.com/track/7o7E1nrHWncYY7PY94gCiX) | [The Buggles](https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal) | [The Age Of Plastic](https://open.spotify.com/album/2fgCz9kQCDy0miERCy0sCJ) | 4:12 |
 | 29 | [When Doves Cry](https://open.spotify.com/track/51H2y6YrNNXcy3dfc3qSbA) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 5:52 |
 | 30 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 31 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZY6U3N4Hq7n.md) - [plain]
 | 61 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 |
 | 62 | [Thriller](https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Michael Jackson's This Is It](https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm) | 5:57 |
 | 63 | [Let's Hear It for the Boy \- From "Footloose" Soundtrack](https://open.spotify.com/track/5kaF88lat4fWUiDXP6G48M) | [Deniece Williams](https://open.spotify.com/artist/5jNGQ7VOU87x5402JjhTtd) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 4:21 |
-| 64 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
-| 65 | [When I Think Of You](https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 3:55 |
+| 64 | [When I Think Of You](https://open.spotify.com/track/3mJ6pNcFM2CkykCYSREdKT) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [Control](https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y) | 3:55 |
+| 65 | [Conga!](https://open.spotify.com/track/0KxTWgl64TNOQXiGFJYc6t) | [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [The Very Best Of Gloria Estefan \(English Version\)](https://open.spotify.com/album/1Hx9JuA0e9dAm5z6f0oNE6) | 4:12 |
 | 66 | [Obsession](https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3) | [Animotion](https://open.spotify.com/artist/6eQHjJJa52LUGjBKP5UPos) | [Obsession: The Best Of Animotion](https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC) | 5:37 |
 | 67 | [Atomic Dog](https://open.spotify.com/track/4cgodXjv4TfrooNQxvlO4O) | [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA) | [Computer Games](https://open.spotify.com/album/36FlhEnhgkDwk371cG8nav) | 4:47 |
 | 68 | [Tell It to My Heart](https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Platinum & Gold Collection](https://open.spotify.com/album/5sZeWcdXYHq9MbNDSOMqCP) | 3:40 |

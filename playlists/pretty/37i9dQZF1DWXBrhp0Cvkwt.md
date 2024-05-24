@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 
 > soundtracking your ex calling/nothing's working/existential crisis
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,657 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,807 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 50 | [bitches broken hearts](https://open.spotify.com/track/5t3Vk8bRKylx4fjj7qlbib) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [bitches broken hearts](https://open.spotify.com/album/1Z0XtKcevvITZ5ydimkYcx) | 2:56 |
 | 51 | [Reckless](https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Reckless](https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7) | 3:23 |
 | 52 | [Peppers \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2Rlso2ZNV0PaWwUYeeBYxx) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:08 |
-| 53 | [Bad At Love](https://open.spotify.com/track/7y9iMe8SOB6z3NoHE2OfXl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:01 |
-| 54 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
+| 53 | [The Cut That Always Bleeds](https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:51 |
+| 54 | [Bad At Love](https://open.spotify.com/track/7y9iMe8SOB6z3NoHE2OfXl) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [hopeless fountain kingdom \(Deluxe\)](https://open.spotify.com/album/7GjG91tyHQNGEHzKJaqOi0) | 3:01 |
 | 55 | [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:07 |
 | 56 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
 | 57 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBrhp0Cvkwt.md) - [plain]
 | 74 | [Waiting For Never](https://open.spotify.com/track/753lkDSNs2u188xbl8Vrnx) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Twelve Carat Toothache \(Deluxe\)](https://open.spotify.com/album/50MzJhO0pMjTsfpeOmZ1so) | 3:16 |
 | 75 | [And I Love Her](https://open.spotify.com/track/7x4b0UccXSKBWxWmjcrG2T) | [Kurt Cobain](https://open.spotify.com/artist/6pAuTi6FXi6qFQJ1dzMXQs) | [Montage Of Heck: The Home Recordings](https://open.spotify.com/album/5UlRowLBWdNDdO17os804M) | 2:04 |
 | 76 | [Been Like This](https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:57 |
-| 77 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
-| 78 | [Sleep Thru Ur Alarms](https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Surrender \(2014 \- 2017\)](https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z) | 1:52 |
+| 77 | [Sleep Thru Ur Alarms](https://open.spotify.com/track/3Mmt4wAMtWRmObAxbejpPe) | [Lontalius](https://open.spotify.com/artist/6v6tycmzJDLrgOXTj7mbT9) | [Surrender \(2014 \- 2017\)](https://open.spotify.com/album/78RlalVILUrWdkRSHiNT2z) | 1:52 |
+| 78 | [chance with you](https://open.spotify.com/track/7qFtcljd0PZ5kJZos70YjT) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [SKY ON FIRE](https://open.spotify.com/album/78pXYuIlTIUBQhtQTH8gTP) | 3:35 |
 | 79 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 80 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 

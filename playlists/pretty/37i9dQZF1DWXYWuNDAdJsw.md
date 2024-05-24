@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 
 > el nombre lo dice todo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,544 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,490 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 52 | [Hawái](https://open.spotify.com/track/4uoR6qeWeuL4Qeu2qJzkuG) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Hawái](https://open.spotify.com/album/3GrNH56DyfyEvBAZ3Otptm) | 3:20 |
 | 53 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |
 | 54 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
-| 55 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
-| 56 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
+| 55 | [Sigues Con El](https://open.spotify.com/track/7sQKy5vlPQllr0k9IjYJv3) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Sigues Con El](https://open.spotify.com/album/1y0pdsLO6cixGzAv7Sf8rf) | 3:46 |
+| 56 | [Detente](https://open.spotify.com/track/0x1k6gSTSxaLxe0F2IThaX) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 3:01 |
 | 57 | [Cuando Te Besé](https://open.spotify.com/track/2XXMDz7SPZ4mSFN1PXfHUy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Cuando Te Besé](https://open.spotify.com/album/1rNj1DvnXIH5irucrzT4zo) | 4:14 |
 | 58 | [Adan y Eva](https://open.spotify.com/track/6FyRXC8tJUh863JCkyWqtk) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Adan y Eva](https://open.spotify.com/album/1XBTyV1if5X9sU4IhpfH5R) | 4:18 |
 | 59 | [Ibiza](https://open.spotify.com/track/1h9P5WJwyvK8OB7O2YiXgp) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:20 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXYWuNDAdJsw.md) - [plain]
 | 67 | [Tal Vez](https://open.spotify.com/track/46lvmzK8wxAy66tjzXXSh0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Tal Vez](https://open.spotify.com/album/039RvHRSbMCfQLsYcg70BQ) | 4:24 |
 | 68 | [Devuelveme](https://open.spotify.com/track/5uvucCRBTkxv7VxIDLOqe7) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Aura](https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR) | 3:08 |
 | 69 | [Weeknd<3](https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw) | [legallyrxx](https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3) | [LQMGDT](https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb) | 3:27 |
-| 70 | [1000CANCIONES](https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [1000CANCIONES](https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl) | 4:06 |
+| 70 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 |
 | 71 | [Colorín Colorado](https://open.spotify.com/track/2YZDh5CecWx0qlFiTvqVQ9) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [La Última Promesa](https://open.spotify.com/album/4AHHM76jyqUiC1HRd37ZQQ) | 3:14 |
-| 72 | [Mi Debilidad](https://open.spotify.com/track/70LLyzO7jT6DsQvCwwHDch) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Mi Debilidad](https://open.spotify.com/album/5hYYAmDCghG1kmcHT5rScz) | 2:45 |
+| 72 | [1000CANCIONES](https://open.spotify.com/track/2i1lLSfz4rmQiYyDBvOWkW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [1000CANCIONES](https://open.spotify.com/album/5cPuXlesp3D0mV5SOKGkjl) | 4:06 |
 | 73 | [Desnudarte](https://open.spotify.com/track/3wrBFPDRyIGyGXxGSc970M) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Desnudarte](https://open.spotify.com/album/0E1bECp8OZdUNAiw4i50EV) | 4:22 |
 | 74 | [911](https://open.spotify.com/track/2TksvaRivgAEj780DgRB73) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [911](https://open.spotify.com/album/4G5Vks8Uru6hWVdZba0fP1) | 3:35 |
 | 75 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 |

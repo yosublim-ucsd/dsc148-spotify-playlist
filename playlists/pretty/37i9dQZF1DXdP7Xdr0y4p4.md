@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,967 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,978 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 25 | [The Spirit and the Bride](https://open.spotify.com/track/6QVdPyhG84xBkum4UOUy7M) | [The Wilbanks](https://open.spotify.com/artist/59iNl6j8dYKneqZ1U4012r) | [My Name Is Victory](https://open.spotify.com/album/5mOIV9KyRZNFEHi3Hi4Ftl) | 3:22 |
 | 26 | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/track/4mjXGn3CoT6vmA24S8p8Pm) | [Tommy Walker](https://open.spotify.com/artist/67Bvv2wUyCph0smNq72LrK), [Bethesda Music](https://open.spotify.com/artist/0vBaWnUnT7SHDxPKutCETY) | [Power In The Blood \(We Give Thanks For The Blood\)](https://open.spotify.com/album/7aRlda7JrI3BvBzNWE3rU8) | 5:50 |
 | 27 | [Future Glory](https://open.spotify.com/track/7GQc1aEfq2S1OLeDKsUPKr) | [Karen Peck & New River](https://open.spotify.com/artist/7F1556VoxW6M06EOc2AnA5) | [2: 22](https://open.spotify.com/album/1ZNaOaKQont8Mh7nIZlDN7) | 3:14 |
-| 28 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 |
-| 29 | [Shut Him Up](https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Shut Him Up](https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU) | 3:10 |
-| 30 | [Give Me Jesus](https://open.spotify.com/track/41fDllXABcR51KZivo6uTx) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Give Me Jesus](https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB) | 3:40 |
-| 31 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 |
-| 32 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
+| 28 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 |
+| 29 | [Give Me Jesus](https://open.spotify.com/track/41fDllXABcR51KZivo6uTx) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Give Me Jesus](https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB) | 3:40 |
+| 30 | [Reckless Love](https://open.spotify.com/track/6LiW0vJVVrycjGFteSG7qm) | [Gaither Vocal Band](https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o) | [Reckless Love](https://open.spotify.com/album/3jiITw0HxtYaZAOAuEOQ93) | 5:16 |
+| 31 | [Believe For It](https://open.spotify.com/track/63R7v5So5B4NwnSg5D83Kb) | [The Hoppers](https://open.spotify.com/artist/76De3CbnkyCKbNg5vDSqI7) | [Believe](https://open.spotify.com/album/3Z6G191LKtBlbPwxJtOgEl) | 4:01 |
+| 32 | [Shut Him Up](https://open.spotify.com/track/0aOUfA7at6UetkDDn75fdz) | [Lauren Talley](https://open.spotify.com/artist/3jbm4F4B8joagW1U4xiLRg) | [Shut Him Up](https://open.spotify.com/album/5jGJlGqQP8CNZhzx4ddMqU) | 3:10 |
 | 33 | [Bring That Giant Down](https://open.spotify.com/track/1yQKThtFLWSoDv902wHktC) | [11th Hour](https://open.spotify.com/artist/1HtIwustFdmwPcgO3IuShY) | [Bring That Giant Down](https://open.spotify.com/album/05MoI6gUdmGsyNIWuVK1qE) | 3:28 |
 | 34 | [Thief in the Night](https://open.spotify.com/track/4oScvPoK3ryJ1uzpt4Giw7) | [Joseph Habedank](https://open.spotify.com/artist/1E5fXe9FugDtjPJXLjc3be) | [Thief In The Night](https://open.spotify.com/album/7AfTSlpi35PwEvxGY0otef) | 4:07 |
 | 35 | [On Jordan's Stormy Banks](https://open.spotify.com/track/44R3QiC8sInYTpFB9TZegW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx) | [On Jordan's Stormy Banks](https://open.spotify.com/album/02nN1t9aMsxqJEa0ZJ4B8E) | 4:36 |

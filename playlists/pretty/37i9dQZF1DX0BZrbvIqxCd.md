@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 
 > A mix of punk rock to get you through your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,807 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,815 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 60 | [When Both Sides Suck, We're All Winners](https://open.spotify.com/track/6gWWwvoKdulgFX4I1wMQLQ) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
 | 61 | [Motorcycle, No Motor?](https://open.spotify.com/track/26eAx27PRm8VpzpJxDSbYA) | [Free Throw](https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc) | [Swig](https://open.spotify.com/album/44rTjYzn34A7DC3aXahGM9) | 2:30 |
 | 62 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
-| 63 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 |
-| 64 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 63 | [The Lighthouse](https://open.spotify.com/track/5rnWJiqTb5mN5Cr3sKtxeU) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL), [Mark Hoppus](https://open.spotify.com/artist/0FOYGJujASE1pCw5WNHf0g) | [Heartwork](https://open.spotify.com/album/7nuTopxM42gzBYG7iPbAGp) | 2:51 |
+| 64 | [If You Say So](https://open.spotify.com/track/4hxA5dS3eIAm4jkOLVfQDZ) | [The Dead Love](https://open.spotify.com/artist/0G2ShWwCGT5aGubowNDk2N) | [If You Say So](https://open.spotify.com/album/5Fs69JI3j01ENByVg2Oego) | 2:31 |
 | 65 | [Fascist Bob](https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Fascist Bob](https://open.spotify.com/album/4itKJqCFMtCrwI4N1veVYL) | 1:56 |
 | 66 | [Serotonin](https://open.spotify.com/track/7JeIpiCXappsI31Mg4BcWz) | [In Her Own Words](https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI) | [Steady Glow](https://open.spotify.com/album/7xXGabh3KEE6qt7pk9iro3) | 3:30 |
 | 67 | [Kids](https://open.spotify.com/track/6DS51W3CvxpUO3Z8XXfKok) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [Morbid Stuff](https://open.spotify.com/album/0819j23RlVKRJLnXM8ZQI3) | 3:30 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0BZrbvIqxCd.md) - [plain]
 | 95 | [A New Way Home](https://open.spotify.com/track/4bIZ9j4SHomHdcTjh2rfhc) | [Sleep On It](https://open.spotify.com/artist/5FmgqLlJ8MJ9A8zmOPFxK2) | [Overexposed](https://open.spotify.com/album/6p6S6vJY9V2Rd22BO9VZFn) | 3:19 |
 | 96 | [Pleasures](https://open.spotify.com/track/2LL5HEIRSIS2W6zMa4jrQI) | [Seaway](https://open.spotify.com/artist/0JXDwBs1sEp6UKoAP58UdF) | [Fresh Produce](https://open.spotify.com/album/1TvvUBfgFDs6RWsAG7rsmG) | 3:32 |
 | 97 | [Self Defeated](https://open.spotify.com/track/2oh897TvP4jf38T4P94Nlt) | [Like Pacific](https://open.spotify.com/artist/5VKmfBc2pR80IxYoC1gHyH) | [In Spite of Me](https://open.spotify.com/album/7ge6k6ARpyvXqOmMlc0pjS) | 2:57 |
-| 98 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
-| 99 | [Daggers](https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Songs of Armor and Devotion](https://open.spotify.com/album/5OMrKFXc0bOdWuHIYBG3bN) | 4:06 |
-| 100 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
+| 98 | [Burn It Down](https://open.spotify.com/track/7zziAaDRIHcKWSBC4DTAZZ) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Caleb Shomo](https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD) | [A Beautiful Place To Drown](https://open.spotify.com/album/2mEJTFHUOCEv4QFNTQv2Rg) | 3:10 |
+| 99 | [Precariat](https://open.spotify.com/track/2FQ2BRgoK6pFhleP1b73MZ) | [Good Riddance](https://open.spotify.com/artist/1Yunxnwa5znrQ9Ha7dZeHO) | [Thoughts and Prayers](https://open.spotify.com/album/6Zib3U8PQ6ddOwj0N7aOiW) | 2:29 |
+| 100 | [Daggers](https://open.spotify.com/track/2a3GKu8pQZrcDN5q4mCgNh) | [Strung Out](https://open.spotify.com/artist/07ATE522e8aDsEb0JVLYqg) | [Songs of Armor and Devotion](https://open.spotify.com/album/5OMrKFXc0bOdWuHIYBG3bN) | 4:06 |
 
 Snapshot ID: `ZiFzUAAAAACcw0f7tZ4kKBDbw27HCjkr`

@@ -4,7 +4,7 @@
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 乃紫
 
-1,320 songs - 3 day 10 hr 9 min
+1,320 songs - 3 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1038,7 +1038,7 @@
 | [人間ごっこ](https://open.spotify.com/track/1x8BxQZ7JpGLPfqiP0H6WC) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [人間ごっこ](https://open.spotify.com/album/5DXwoxFKb3HqP1oPlrgem5) | 4:17 | 2022-07-24 | 2022-07-29 |
 | [人間として](https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [人間として](https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V) | 3:14 | 2024-04-23 | 2024-05-22 |
 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 | 2024-01-21 | 2024-01-29 |
-| [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:12 | 2024-04-30 |  |
+| [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 | 2024-04-30 |  |
 | [何色でもない花](https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [何色でもない花](https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk) | 4:03 | 2024-02-11 | 2024-04-17 |
 | [修羅の巷](https://open.spotify.com/track/5wnmQXqaj5JOOHN4xGUJRy) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [修羅の巷](https://open.spotify.com/album/4uG1jBH6NEIvVur6Ioajsz) | 3:31 | 2023-05-07 | 2023-06-05 |
 | [値千金](https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [値千金](https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2) | 4:46 | 2023-12-31 | 2024-01-22 |

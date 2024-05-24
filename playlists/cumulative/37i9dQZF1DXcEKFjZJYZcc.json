@@ -1043,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Dance Of Hope",
+        "url": "https://open.spotify.com/album/6Em5rHLNzl14Mn2nK4Y3Vc"
+      },
+      "artists": [
+        {
+          "name": "Phoenix Myers",
+          "url": "https://open.spotify.com/artist/0LFUcO8NvFmHjZkDvFhieq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156108,
+      "name": "Dance Of Hope",
+      "url": "https://open.spotify.com/track/2oQGqjrkIm4lcg8Jh3JZOh"
+    },
+    {
+      "album": {
         "name": "Dancing Fairies",
         "url": "https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn"
       },

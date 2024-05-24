@@ -1,13 +1,29 @@
 {
   "description": "Chase. Ride. Survive. Listen to the music from Twister and Twisters, coming soon to theaters. ",
-  "num_followers": 205,
+  "num_followers": 218,
   "original_name": "Twisters Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkeRwgAAAAC0o7PPZIm9V043mq+zI27n",
+  "snapshot_id": "Zk6/QAAAAACzLwqlHo1h7QS1Q6bOXPMY",
   "tracks": [
+    {
+      "added_at": "2024-05-23 04:00:00",
+      "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
+    },
     {
       "added_at": "2024-05-16 04:00:00",
       "album": {

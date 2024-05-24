@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 273,937 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,022 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 15 | [Tu Orgullo](https://open.spotify.com/track/0dUoMXtgCcfZt2py8iXROK) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Tu Orgullo](https://open.spotify.com/album/267SO0IVvJF735vzJNB5zV) | 3:32 |
 | 16 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 17 | [Dias Nublados](https://open.spotify.com/track/7xQrt5TkFBBmlTEPJvXTH8) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [MUSICA <3](https://open.spotify.com/album/1wAx2wnAA7F1SRrznW2GcH) | 3:41 |
-| 18 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 |
+| 18 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
 | 19 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 |
-| 20 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 |
+| 20 | [Bye](https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Bye](https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB) | 3:32 |
 | 21 | [HASTA LA MUERTE](https://open.spotify.com/track/3qAJAUr7yc9bPDx4ESt6ND) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:29 |
 | 22 | [Ojitos de Miel](https://open.spotify.com/track/3V1jBnDI3zCn25ONFiqwN8) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:59 |
 | 23 | [Amor Fugaz](https://open.spotify.com/track/4O2bxKTnK9En7OPw8kGDDF) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [The Life in Your Eyes](https://open.spotify.com/album/7hnH4pDgMDP4veSuZ7Uxlz) | 2:55 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 55 | [Solo Tu Podras](https://open.spotify.com/track/4n8zQAFzSi3jH3JQGsbI86) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Solo Tu Podras](https://open.spotify.com/album/6xUOmWbItiEJrE2bAU3p9W) | 3:26 |
 | 56 | [Inseparables](https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Inseparables](https://open.spotify.com/album/31DfpAhFnPyIXUZFWdu32y) | 2:51 |
 | 57 | [Hablemos](https://open.spotify.com/track/049wfFS3kAsdmGOH8ktYJ3) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [Hablemos](https://open.spotify.com/album/4g5NzMdGbeRjCDEJK4uwiu) | 3:04 |
-| 58 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
-| 59 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
-| 60 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
+| 58 | [CRIES IN SPANISH](https://open.spotify.com/track/6eL3Q0m0VJkbCyKAmvYTEy) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:06 |
+| 59 | [Entre La Maleza](https://open.spotify.com/track/5ARulwrK2qPpERvwvyvsKf) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Entre La Maleza](https://open.spotify.com/album/226HOM7ZLpyqqwC3tprFct) | 3:35 |
+| 60 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
 | 61 | [Una Mentirosa](https://open.spotify.com/track/7pl6uuLAW8W0y5qmrpn2P4) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Una Mentirosa](https://open.spotify.com/album/7Ax5vWCPWDcMqa2gkxATNs) | 3:02 |
 | 62 | [Platicame De Ti](https://open.spotify.com/track/2e7vV4s0ex45qsLcmXcnP4) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:55 |
 | 63 | [Mi Despedida](https://open.spotify.com/track/6Svlf7ToRwf8VFaHWpdN9O) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Mi Despedida](https://open.spotify.com/album/23INaDzOxYRJqQOm5X2Twv) | 3:16 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 69 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 |
 | 70 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 |
 | 71 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
-| 72 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 |
-| 73 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 |
-| 74 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
+| 72 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 |
+| 73 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
+| 74 | [Modelo](https://open.spotify.com/track/6OjCTg9h09B7bv7lIZnBLJ) | [Delilah](https://open.spotify.com/artist/5O2rJN2gJncIfM5iNSNiYR) | [Modelo](https://open.spotify.com/album/52nBpElr412dXlW6NU4aEV) | 4:25 |
 | 75 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
 | 76 | [PATRAS \(with Yahritza Y Su Esencia\)](https://open.spotify.com/track/07vIX6wlThl9fY6Zvcm9T9) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:51 |
 | 77 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 95 | [Tony](https://open.spotify.com/track/1X3oULnfRY6dvZxRQLftaE) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Cactus](https://open.spotify.com/album/696y1nHhaHmvlaMSugs8eQ) | 3:40 |
 | 96 | [Superando](https://open.spotify.com/track/1WvLjHq7whnxGrKLjijevB) | [Angel Arevalo](https://open.spotify.com/artist/5M89S2BaLeDuU8URGIdDWV) | [Superando...y Mas](https://open.spotify.com/album/3cCdWCPNIsGDvuAT5pp0D7) | 4:20 |
 | 97 | [Que Me Fallo](https://open.spotify.com/track/1Np9UBGF8Mjhr6UqdhxMLX) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Que Me Fallo](https://open.spotify.com/album/3mIMczwXK7jgzsCTUhmUi0) | 4:02 |
-| 98 | [Que Envidia](https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:23 |
-| 99 | [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 |
+| 98 | [Es Evidente](https://open.spotify.com/track/5rHZ4n6XYINvM87eXuYnQr) | [whathedgar](https://open.spotify.com/artist/5tO4Hf0EVv8MRtvJHgANcB), [Mauro](https://open.spotify.com/artist/2GjHwhLqCj0peZbuBgZrUD) | [Es Evidente](https://open.spotify.com/album/1H61Sr61REYNpldH81EUaY) | 3:02 |
+| 99 | [Que Envidia](https://open.spotify.com/track/3JZs9g9JBaCZfaUVbZatS9) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:23 |
 | 100 | [La Neta](https://open.spotify.com/track/6KLCHorfObfTNApurEUdAq) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [La Neta](https://open.spotify.com/album/1TQtXw5mgUBjaYx73KXSap) | 2:17 |
 
 Snapshot ID: `ZkbvKwAAAACrOriWlK5w3Fm/siqAmVTi`

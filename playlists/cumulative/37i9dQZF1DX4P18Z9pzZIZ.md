@@ -4,7 +4,7 @@
 
 > hop on board, nonstop bops only!!
 
-229 songs - 11 hr 16 min
+230 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 | 2023-06-12 | 2023-10-21 |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-01-12 | 2023-04-18 |
 | [365](https://open.spotify.com/track/7eVAA9ikV898NbgVvAiDRI) | [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [365](https://open.spotify.com/album/186DZjn5F0GLzttFamNjQq) | 2:23 | 2024-04-12 |  |
+| [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/track/4hGLX2kT2Ayrw0Uh2oQp0J) | [Flex \(UK\)](https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [6 In the Morning \(feat\. Nate Dogg\)](https://open.spotify.com/album/1UYXqmZmTj9HA98fJpEwTs) | 2:48 | 2024-05-23 |  |
 | [A Little Closer](https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV) | [A Little Closer](https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU) | 2:55 | 2024-05-17 |  |
 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 | 2024-05-03 |  |
 | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [MORGAN](https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI) | [Adrenaline Rush \(feat\. MORGAN\)](https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c) | 3:04 | 2023-06-19 | 2024-03-21 |
@@ -120,7 +121,7 @@
 | [Know Me Better](https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Know Me Better](https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u) | 2:56 | 2024-05-03 |  |
 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 | 2024-01-04 |  |
 | [Lie To Me](https://open.spotify.com/track/29eZbFN9Egz4BRRZDYrg8o) | [John Gibbons](https://open.spotify.com/artist/72luDUYRlE8N8lPSgyhiwo) | [Lie To Me](https://open.spotify.com/album/09nnIvFGbJZ4WTfCiXv4rc) | 2:37 | 2024-04-12 |  |
-| [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 | 2024-01-04 |  |
+| [Life Lesson](https://open.spotify.com/track/6uhB0cuM92oSetkMGvRiyr) | [Belters Only](https://open.spotify.com/artist/1H1sDUWSlytzifZTDpKgUA), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Life Lesson](https://open.spotify.com/album/0zrcEy45YCYxctOZ0YAjNQ) | 3:36 | 2024-01-04 | 2024-05-24 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-29 |  |
 | [Lift You Up](https://open.spotify.com/track/65ErFNLwMKFmFHZwWaDzPd) | [Ryan Blyth](https://open.spotify.com/artist/2bno8n7e57sY3zRQw03YoV), [Tally](https://open.spotify.com/artist/1BGmvURhdsSvMFEmQkL71k) | [Lift You Up](https://open.spotify.com/album/1iCSrbvD3J1q7EltN6oTHk) | 2:15 | 2024-03-06 |  |
 | [Lights](https://open.spotify.com/track/4frxBwtRANvjsmv5cSTXeY) | [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Lights](https://open.spotify.com/album/0BZSPB9vIbTgG55ZztiADc) | 2:53 | 2023-10-18 | 2024-04-13 |

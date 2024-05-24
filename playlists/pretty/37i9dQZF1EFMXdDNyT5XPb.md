@@ -87,12 +87,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMXdDNyT5XPb.md) - [plain]
 | 77 | [One Last Time](https://open.spotify.com/track/3V3J6ObCYR8nx1Sk2LqKBp) | [Scouting For Girls](https://open.spotify.com/artist/2wpJOPmf1TIOzrB9mzHifd) | [B\-Sides & Rarities](https://open.spotify.com/album/3vwxBq57O0bRKBqHIRVI4a) | 3:01 |
 | 78 | [Being with You](https://open.spotify.com/track/3vup8i9EeA4bdyKa47dTKu) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:57 |
 | 79 | [Lay With Me](https://open.spotify.com/track/5E3IZVtPnAMKJ5jC177L2M) | [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Lay With Me](https://open.spotify.com/album/4MfKhq3j9MqPdicPW31B6o) | 2:51 |
-| 80 | [Given up, Giving Up](https://open.spotify.com/track/0boftIU5ryywsX1teSAcsl) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:51 |
-| 81 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
+| 80 | [The Writing's On The Wall](https://open.spotify.com/track/0TBNJLc19JEr5PXwbyaWfX) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [The Writing's On The Wall](https://open.spotify.com/album/6Ed2yhkWOGoGog1QTSch0j) | 2:39 |
+| 81 | [Given up, Giving Up](https://open.spotify.com/track/0boftIU5ryywsX1teSAcsl) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:51 |
 | 82 | [Falling out of Love](https://open.spotify.com/track/5dXgMYzwp3o19lLgSL3hdG) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:04 |
 | 83 | [Mercedes](https://open.spotify.com/track/0kfY0oZBLuvIZz5ccq8khh) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [WALK OF MY LIFE](https://open.spotify.com/album/74m4nnIEJqwiBD3Lv6f4Xt) | 2:54 |
 | 84 | [Like It Like That](https://open.spotify.com/track/0UG7iUrCSlhZvQK8zpu3gZ) | [Si Cranstoun](https://open.spotify.com/artist/7csp7TiZwQF5Yn9Mt2Us2w) | [Modern Life](https://open.spotify.com/album/5DjyYDHHwbfG2v03F5ZXf0) | 2:47 |
 | 85 | [All I Care About Is You](https://open.spotify.com/track/1rcEuqhEEc8GPbfNpxujBL) | [Lilygreen & Maguire](https://open.spotify.com/artist/4TpXSJQCJhJynucuQQcgwB) | [Have a Good Time All the Time](https://open.spotify.com/album/3XxiTHnlXW5uWW4I6P3D90) | 3:02 |
 | 86 | [Still Breathing](https://open.spotify.com/track/45Vv22j4BeBa7mmKiWSNoM) | [Jenn Bostic](https://open.spotify.com/artist/0TK1H3VeQnZEczCCdzAvap) | [Faithful](https://open.spotify.com/album/087LvnihJ9pst9AzEn0Iz0) | 3:23 |
 
-Snapshot ID: `AbSC9QAAAAArvUhK9Md2xhiAXIS6BhB0`
+Snapshot ID: `AbSIWAAAAADvmagYJeLY/BvUcG1Id7d0`

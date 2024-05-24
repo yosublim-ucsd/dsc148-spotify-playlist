@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-545 songs - 1 day 12 hr 44 min
+546 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Any Dreams?](https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z) | [Saint Sister](https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14) | [Where I Should End](https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v) | 5:18 | 2023-01-17 |  |
 | [Army Of Me \- Spotify Single](https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:49 | 2023-06-07 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/1geq0EI4AJRDQIkJZbkAC1) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [The Practice of Love](https://open.spotify.com/album/29Chk1LOPq2ZZZGs2th7f1) | 4:15 | 2023-01-17 | 2024-01-12 |
+| [Ashes to Ashes](https://open.spotify.com/track/4Zukdn6jguBDio8x3ILzqF) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Ashes to Ashes](https://open.spotify.com/album/6diOnRFM1wJlqTjJxaePhq) | 4:15 | 2023-01-17 |  |
 | [Ashes to Ashes](https://open.spotify.com/track/323zAiM19cVLQY0pFlwyb7) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Ashes to Ashes](https://open.spotify.com/album/5xlYLpqPAkDeWRPzphG894) | 5:10 | 2023-01-17 | 2024-04-19 |
 | [Ashore of the Cosmic Sea](https://open.spotify.com/track/0YRdlcBnQibaFqzVRpe2tR) | [Gloria de Oliveira](https://open.spotify.com/artist/3v9hkdHUrX788NVKB8sijb), [Dean Hurley](https://open.spotify.com/artist/4gfOoXI9MWCyREzvqNv38D) | [Oceans of Time](https://open.spotify.com/album/0imX1W8lzMviLxmv4PtCjy) | 3:20 | 2023-01-17 |  |
 | [At last 6 falls](https://open.spotify.com/track/6iWFo5Tm8vPttw4B0XSSaJ) | [Black Boboi](https://open.spotify.com/artist/1d0tqPDaL5aLB0Ep2Zjcgn) | [SILK](https://open.spotify.com/album/33Zc6DviWdhw8yFGui98cU) | 3:20 | 2023-01-17 |  |
@@ -172,7 +173,7 @@
 | [Full Mood](https://open.spotify.com/track/6o6S5TRNSKNV2RpKAOG5gP) | [Sarah Mary Chadwick](https://open.spotify.com/artist/1UDmSmzxcGZxP3IYpafgpn) | [Me and Ennui Are Friends, Baby](https://open.spotify.com/album/4pNa3AVRsruf6p26rIpFl0) | 4:14 | 2023-01-17 |  |
 | [Galapagos](https://open.spotify.com/track/6Z6TA5YhapGGxc5BETHwVc) | [Lower Dens](https://open.spotify.com/artist/5uTJLo3c4ZHpH8oEwGxYUN) | [Galapagos](https://open.spotify.com/album/20onzDlGi2SlmFhnn5aRkE) | 4:20 | 2023-01-17 |  |
 | [Garden Song](https://open.spotify.com/track/5bIgzvxvlefRUCQK9JPocF) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 3:39 | 2023-01-17 | 2024-04-19 |
-| [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2023-01-17 |  |
+| [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 | 2023-01-17 | 2024-05-24 |
 | [Gem](https://open.spotify.com/track/0dcQhubzum2ZEqQfkKXG7S) | [Daughter of Swords](https://open.spotify.com/artist/4PAN1zWvarcHxfPhJOAHMg) | [Dawnbreaker](https://open.spotify.com/album/44wumRa2cbldLimmZdHbow) | 3:57 | 2023-01-17 |  |
 | [Ghostride](https://open.spotify.com/track/0R3TWpoxAhT3HDXM7tpRzS) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Jinx](https://open.spotify.com/album/6DxidEI7EhF8md8ev83iNY) | 2:06 | 2023-01-17 | 2024-04-19 |
 | [Gilly](https://open.spotify.com/track/0ELuLIjUihj8SlRwzEHhgY) | [Kate Teague](https://open.spotify.com/artist/5yNcIZz69fYkSRhiGoFx8T) | [Gilly](https://open.spotify.com/album/69VLDmXvicpvJqTCrZ9NhL) | 3:17 | 2023-01-17 |  |

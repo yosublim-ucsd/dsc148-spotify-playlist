@@ -2,13 +2,13 @@
 
 ### [This Is Kanye West](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3nMr04)
 
-> This is Kanye West\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Kanye West\. The essential tracks, all in one playlist.
 
 89 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [act iii: on god? \(she like\) \(feat\. Kanye West\) \- remix](https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 3:09 | 2024-05-22 |  |
+| [act iii: on god? \(she like\) \(feat\. Kanye West\) \- remix](https://open.spotify.com/track/1CayJq3tFfNMRv7HihVFlo) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [u made me a st4r](https://open.spotify.com/album/49JXgb1wGpDCdhnHglwpqr) | 3:09 | 2024-05-22 | 2024-05-24 |
 | [All Falls Down](https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Syleena Johnson](https://open.spotify.com/artist/1lE6SEy8f84Zhjvp7r8yTD) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 3:43 | 2023-06-07 |  |
 | [All Mine](https://open.spotify.com/track/3U21A07gAloCc4P7J8rxcn) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [ye](https://open.spotify.com/album/2Ek1q2haOnxVqhvVKqMvJe) | 2:25 | 2023-06-07 |  |
 | [All Of The Lights](https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:59 | 2023-06-07 |  |
@@ -28,7 +28,7 @@
 | [DO IT](https://open.spotify.com/track/2iGvsJuc2mC4mDVOVMNAP6) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:45 | 2024-02-26 |  |
 | [E.T.](https://open.spotify.com/track/36ux3YuUsGTWPT8fXclS45) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:49 | 2023-06-07 | 2023-11-11 |
 | [Erase Me \- Main](https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Man On The Moon II: The Legend Of Mr\. Rager](https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud) | 3:12 | 2023-06-07 |  |
-| [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 | 2023-06-08 | 2024-05-22 |
+| [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 | 2023-06-08 |  |
 | [Father Stretch My Hands Pt\. 1](https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 2:15 | 2023-06-07 |  |
 | [Flashing Lights](https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dwele](https://open.spotify.com/artist/7u6LfVyYpEzMpHLL7jTyvU) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:57 | 2023-06-07 |  |
 | [Follow God](https://open.spotify.com/track/2QpGZOhTCHHiKmpSO9FW4h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 1:44 | 2023-06-07 |  |

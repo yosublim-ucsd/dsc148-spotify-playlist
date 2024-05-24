@@ -2,9 +2,9 @@
 
 ### [Made in Colombia](https://open.spotify.com/playlist/37i9dQZF1DX5UTavgI6ivn)
 
-> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Ryan Castro
+> Made pa' perrear, pa' cantar y pa' brindar\. Made pa' acá y pa' allá\. Made in Colombia\. Foto: Camilo
 
-297 songs - 16 hr 49 min
+299 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Justicia](https://open.spotify.com/track/6ipp8Dhs33KinlF4BStgca) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Justicia](https://open.spotify.com/album/1D0VxL4e9Ut4bY5LLMXG9H) | 3:29 | 2022-01-12 | 2024-02-27 |
 | [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 | 2024-02-26 | 2024-03-02 |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-27 |  |
+| [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 | 2024-05-24 |  |
 | [La Camisa Negra](https://open.spotify.com/track/2EM9zpAc7PVeoAydmbfVIL) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:36 | 2023-05-25 | 2023-06-07 |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2024-02-26 |  |
 | [La Cantina \- Remix](https://open.spotify.com/track/1BLceHxSV6Wx1MRC4gkt3f) | [Hernan Gómez](https://open.spotify.com/artist/0l7EOx40o81pCVpGwizH9I), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [La Cantina \(Remix\)](https://open.spotify.com/album/5b6smqZoLVbL7loTzYddRp) | 3:37 | 2024-02-26 | 2024-04-09 |
@@ -255,7 +256,7 @@
 | [Simples Corazones](https://open.spotify.com/track/6SVEw266UzbkAKfCLeBPGy) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Simples Corazones](https://open.spotify.com/album/4nrV5Id8yrr3f8ZvyCgFkG) | 4:01 | 2022-01-12 | 2022-07-29 |
 | [Simples Corazones \(feat\. Melendi\)](https://open.spotify.com/track/57AHAfiyk3gR8OBRf3s03U) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Agustín](https://open.spotify.com/album/0b06tYwwHqxWucHN4296YW) | 4:03 | 2022-07-08 | 2024-02-27 |
 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 | 2023-05-25 | 2023-06-07 |
-| [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2024-04-04 |  |
+| [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 | 2024-04-04 | 2024-05-24 |
 | [Sirena](https://open.spotify.com/track/1juHIWqgFiDFAKuEBP24Lt) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Sirena](https://open.spotify.com/album/66gJE320Be12GcqN7BKFk0) | 3:25 | 2022-01-12 | 2024-02-27 |
 | [Solita](https://open.spotify.com/track/6oEs0qf6YpUD83rmjzm7Uh) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy), [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Solita](https://open.spotify.com/album/4EW2dho3P6ZhmhDVxNVtOp) | 3:31 | 2022-01-12 | 2022-03-05 |
 | [Solo](https://open.spotify.com/track/0shi1zFuDEXZS8FZcICyxd) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Solo](https://open.spotify.com/album/1ceDfxGH0jLRBQnpx6tlz3) | 2:56 | 2022-04-27 | 2022-05-29 |
@@ -285,12 +286,13 @@
 | [Tú o Yo](https://open.spotify.com/track/6kALmpYx3aGYLQhcsXlKaz) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Tú o Yo](https://open.spotify.com/album/3Uu0DhWrr2GiqDf9wPE8I2) | 2:43 | 2024-05-10 |  |
 | [Una Aventura](https://open.spotify.com/track/26ucR33snMkRD6JExhoD6I) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:16 | 2023-05-25 | 2023-06-07 |
 | [Una Lady Como Tú](https://open.spotify.com/track/7MHN1aCFtLXjownGhvEQlF) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Una Lady Como Tú](https://open.spotify.com/album/75maIus9xRaEQzPXOSOTew) | 3:33 | 2022-01-12 | 2024-02-27 |
+| [Una Vida Pasada](https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Vida Pasada](https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd) | 3:38 | 2024-05-24 |  |
 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 | 2023-07-25 |  |
 | [Vaina Bacana](https://open.spotify.com/track/52lsbUjkcHF9Y32LdrKwvC) | [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Vaina Bacana](https://open.spotify.com/album/2RCiOHsEbw1AbpvNOgffP5) | 2:55 | 2022-11-18 | 2023-02-25 |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-19 | 2023-07-20 |
 | [VENTE CONMIGO](https://open.spotify.com/track/4zzyCocu8LZVqctOGSfVKz) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VENTE CONMIGO](https://open.spotify.com/album/5SULZpveqjEFxoMoZjudDB) | 3:06 | 2023-08-11 | 2024-01-20 |
 | [Verano En NY](https://open.spotify.com/track/0kRsOLSelm2Sxq0mbtshdJ) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Verano En NY](https://open.spotify.com/album/4Z7PRGpL2aO3a8PAcMdiCD) | 3:06 | 2023-10-30 | 2024-01-20 |
-| [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2022-01-12 |  |
+| [Vida de Rico](https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:04 | 2022-01-12 | 2024-05-24 |
 | [Vivir Bailando](https://open.spotify.com/track/7gL0eIncXB5ELO8BFMR3Uv) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivir Bailando](https://open.spotify.com/album/6uSCXro7r0QMTSgMLnSAbP) | 3:34 | 2022-01-12 | 2024-02-27 |
 | [Vivo en el limbo](https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz) | [Kaleth Morales](https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH), [Andres Herrera](https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU) | [La Hora de la Verdad](https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA) | 6:16 | 2023-05-25 | 2023-06-07 |
 | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/track/0H7cz1bR7w9PulJL7Na774) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Vivo Pensando En Ti \(feat\. Maluma\)](https://open.spotify.com/album/22GyzVcUc0jsXtnH6TqAyu) | 3:52 | 2022-01-12 | 2024-02-27 |

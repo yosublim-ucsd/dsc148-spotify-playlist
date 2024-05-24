@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: Curtisy",
+  "description": "New tunes from Ireland for your discovery. Cover: Nell Mescal",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 211437,
       "name": "501s",
       "url": "https://open.spotify.com/track/6feJvH2JJNmrsXiAeUDAZb"
@@ -619,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/7p22ll5NRESGc4I7B6m2ZI"
+      },
+      "artists": [
+        {
+          "name": "HAWKE THE BAND",
+          "url": "https://open.spotify.com/artist/4J60NlrfKz5XOOG2qi2jGY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181735,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/4y3huzGv2hwDcEinxfAAwm"
+    },
+    {
+      "album": {
         "name": "Don't Feel Myself",
         "url": "https://open.spotify.com/album/4ur1YH9AzohGPLzjFbViS2"
       },
@@ -727,6 +745,24 @@
     },
     {
       "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/3jsynQWVNaEqVzA4TkulJY"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242823,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3PNuir14XpWgxkqsiQBdKG"
+    },
+    {
+      "album": {
         "name": "elegy",
         "url": "https://open.spotify.com/album/5Xy2nSptvYN8FODDFXiJFZ"
       },
@@ -814,6 +850,24 @@
       "duration_ms": 239602,
       "name": "Follow Me",
       "url": "https://open.spotify.com/track/5g5lGBblSV6M0XMveLlGRn"
+    },
+    {
+      "album": {
+        "name": "Fool",
+        "url": "https://open.spotify.com/album/5HX1EOQKbgbYytFDJ5qN6e"
+      },
+      "artists": [
+        {
+          "name": "RVE",
+          "url": "https://open.spotify.com/artist/4xXhVe5E4Vtd9qV47tQomY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191312,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/0X0vu5vvTz3hmiXY6aiVLl"
     },
     {
       "album": {
@@ -1120,7 +1174,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 191736,
       "name": "intertwined",
       "url": "https://open.spotify.com/track/4M4DHOpufNAUyZEQItTM5A"
@@ -1568,6 +1622,28 @@
       "duration_ms": 257853,
       "name": "Naive",
       "url": "https://open.spotify.com/track/09m9mc9HLJ83WGFhIyaXth"
+    },
+    {
+      "album": {
+        "name": "Naked and Swimming",
+        "url": "https://open.spotify.com/album/7dieZIMr6DED0H3xzfBxJ2"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        },
+        {
+          "name": "Morgana",
+          "url": "https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179226,
+      "name": "Naked and Swimming",
+      "url": "https://open.spotify.com/track/7C1dpmbEhX8cYizMeq9stl"
     },
     {
       "album": {
@@ -2166,7 +2242,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 187003,
       "name": "situation blues",
       "url": "https://open.spotify.com/track/0M8fNSuSDNC9m0opdAs1xW"
@@ -2184,7 +2260,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 262240,
       "name": "Sleeping with Ghosts",
       "url": "https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc"
@@ -2220,7 +2296,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 202009,
       "name": "Smoke & Mirrors",
       "url": "https://open.spotify.com/track/3Y8JD0yfiETnw5u5H6zF9E"
@@ -2336,6 +2412,28 @@
       "duration_ms": 184111,
       "name": "straight out the oven !",
       "url": "https://open.spotify.com/track/4RNFQj2OhHlaeQK6S3hKac"
+    },
+    {
+      "album": {
+        "name": "Suckin' Diesel",
+        "url": "https://open.spotify.com/album/7Ibox7424GD7CEfa2w3mBe"
+      },
+      "artists": [
+        {
+          "name": "KhakiKid",
+          "url": "https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180561,
+      "name": "Suckin' Diesel",
+      "url": "https://open.spotify.com/track/6HPaunOafqqGRcFserdAdx"
     },
     {
       "album": {

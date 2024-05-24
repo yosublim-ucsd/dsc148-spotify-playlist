@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,676 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,691 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 46 | [Di Atas Meja](https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Ruang Tunggu](https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX) | 5:29 |
 | 47 | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX) | [Banda Neira](https://open.spotify.com/artist/3f49JTIdjQTVVx2Y6ifVLc) | [Yang Patah Tumbuh, Yang Hilang Berganti](https://open.spotify.com/album/1e1NmOduCFHp1z29cSzyMa) | 6:33 |
 | 48 | [Sayap Pelindungmu](https://open.spotify.com/track/3LhUsgwtftfxHIPgViaYxB) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk) | [Selamanya](https://open.spotify.com/album/2xVaK1p7ooIIywF6YCSEh5) | 3:42 |
-| 49 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
-| 50 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 |
-| 51 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
+| 49 | [Tolong](https://open.spotify.com/track/5X5Vj8FcxyoLzq9qxAa45U) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Tolong](https://open.spotify.com/album/0Qfjl4xAivyvuIEhJ1Mo47) | 4:10 |
+| 50 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
+| 51 | [Kita usahakan rumah itu](https://open.spotify.com/track/1x9jnpPOAMSrr7DuIG5jMl) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH](https://open.spotify.com/album/6pEUguV7EoReCpbQQE6QrE) | 3:31 |
 | 52 | [Untitled](https://open.spotify.com/track/1i9iliTpiPLizleapSg37I) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [1st \(Special Edition\)](https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK) | 4:05 |
 | 53 | [happy](https://open.spotify.com/track/6YTmsdqH5LZzCGIY0lqloD) | [Skinnyfabs](https://open.spotify.com/artist/3f0GZTXzBCmd5IBiMfsh1H) | [happy](https://open.spotify.com/album/0pVXyvbdicfbAhqKaxsnkd) | 2:53 |
 | 54 | [Pegang Tanganku](https://open.spotify.com/track/6xHRfpo0kMRNuZ3v1e3xYF) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co) | [Perspektif Bodoh, Vol\. 2](https://open.spotify.com/album/3HsbseyB7O4YOrvsSnryS1) | 5:08 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 64 | [Menuju Senja](https://open.spotify.com/track/6ctfCjsLBJfadmBH41SFkl) | [Payung Teduh](https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ) | [Dunia Batas](https://open.spotify.com/album/26FxxaKDiIGxEm549dRtaZ) | 5:06 |
 | 65 | [Semoga, Ya](https://open.spotify.com/track/6wHnwqvtNdQicSPTTkYRQN) | [Nosstress](https://open.spotify.com/artist/4XnnBdCt9Cg5W2wBgtD7co), [Dadang Sh Pranoto](https://open.spotify.com/artist/7cN32kelGKr663CVytGvc3), [Deny Surya](https://open.spotify.com/artist/1zffTcVmBMb4L4s060WBXf) | [Ini Bukan Nosstress](https://open.spotify.com/album/5VDBGrroiUxwcjyd8fqKvy) | 3:33 |
 | 66 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 |
-| 67 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
-| 68 | [Apa Mungkin \- Demo Version](https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin \(Demo Version\)](https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf) | 2:11 |
+| 67 | [Apa Mungkin \- Demo Version](https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin \(Demo Version\)](https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf) | 2:11 |
+| 68 | [Menghitung Hari 2](https://open.spotify.com/track/1svU65QddvvLA0YY9mdiqF) | [Anda Perdana](https://open.spotify.com/artist/7AggXHwAyjLBeywQt6NONp) | [Heart](https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9) | 3:39 |
 | 69 | [cigarettes of ours](https://open.spotify.com/track/77SiKnkNEnRw0uoPE4wuEp) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [a letter to my 17 year old](https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h) | 3:42 |
 | 70 | [Gajah](https://open.spotify.com/track/7vZTvo2aJ6wHKCGjwjdWIf) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Gajah](https://open.spotify.com/album/0d5mFusjnb62TQWBft3zc6) | 3:59 |
 | 71 | [Bicara \(feat\. Monita Tahalea\)](https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Monita Tahalea](https://open.spotify.com/artist/1xQXTnhREkLm14Wvrogo1g) | [Memory Lane](https://open.spotify.com/album/4kGiYX3VXOTPJPqCgphG0C) | 3:56 |

@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary Blues label.",
-  "num_followers": 23206,
+  "num_followers": 23224,
   "original_name": "Legendary Labels: Alligator",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Let's Buzz",
+        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
+      },
+      "artists": [
+        {
+          "name": "The Paladins",
+          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "Keep On Lovin' Me Baby",
+      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Harp Attack!",
         "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Let's Buzz",
-        "url": "https://open.spotify.com/album/3ECx5ku37cBY69C594AJEz"
-      },
-      "artists": [
-        {
-          "name": "The Paladins",
-          "url": "https://open.spotify.com/artist/5ecJGNE48l8ut59qMbP7ZF"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "Keep On Lovin' Me Baby",
-      "url": "https://open.spotify.com/track/3jtaWKCISJEDBNl83CV9pw"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -431,22 +431,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Roots And Branches - The Songs Of Little Walter",
-        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
       },
       "artists": [
         {
-          "name": "Billy Branch",
-          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         },
         {
-          "name": "Billy Branch & The Sons of Blues",
-          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Nobody But You",
-      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -467,22 +467,22 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Roots And Branches - The Songs Of Little Walter",
+        "url": "https://open.spotify.com/album/3MHdul04DePzuVe9iW9vBz"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Billy Branch",
+          "url": "https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t"
         },
         {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+          "name": "Billy Branch & The Sons of Blues",
+          "url": "https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y"
         }
       ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+      "duration_ms": 187186,
+      "name": "Nobody But You",
+      "url": "https://open.spotify.com/track/4ASjWJnPks6GVzNH41Z37Y"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -523,6 +523,26 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Gregg Allman",
+          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+        }
+      ],
+      "duration_ms": 209013,
+      "name": "Midnight Train",
+      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
         "name": "Elvin Bishop's Big Fun Trio",
         "url": "https://open.spotify.com/album/1JeZBxuDWHDFcF4ZsrIu1J"
       },
@@ -535,22 +555,6 @@
       "duration_ms": 131893,
       "name": "It's You, Baby",
       "url": "https://open.spotify.com/track/5VTgqXioNW6GJIRr1YQYla"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Natural Boogie (Remastered)",
-        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 256946,
-      "name": "Sitting At Home Alone - Remastered",
-      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -603,22 +607,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+        "name": "Natural Boogie (Remastered)",
+        "url": "https://open.spotify.com/album/6dI5D8AfYTzmzhjkb66m3X"
       },
       "artists": [
         {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Gregg Allman",
-          "url": "https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I"
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
         }
       ],
-      "duration_ms": 209013,
-      "name": "Midnight Train",
-      "url": "https://open.spotify.com/track/628wnZp93g4bnDnOFUyzMl"
+      "duration_ms": 256946,
+      "name": "Sitting At Home Alone - Remastered",
+      "url": "https://open.spotify.com/track/4XYISKrDmNiPLCrMHbVQqi"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -655,18 +655,18 @@
     {
       "added_at": "2023-05-17 15:52:13",
       "album": {
-        "name": "Alligator Records 45th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
+        "name": "Live From Chicago - Mr. Superharp Himself!",
+        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
       },
       "artists": [
         {
-          "name": "Tommy Castro",
-          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 254080,
-      "name": "Common Ground",
-      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
+      "duration_ms": 186826,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -699,6 +699,22 @@
       "duration_ms": 377960,
       "name": "My Time After A While",
       "url": "https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi"
+    },
+    {
+      "added_at": "2023-05-17 15:52:13",
+      "album": {
+        "name": "Alligator Records 45th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B"
+      },
+      "artists": [
+        {
+          "name": "Tommy Castro",
+          "url": "https://open.spotify.com/artist/3qcmjQYtotraA2JrvN8165"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Common Ground",
+      "url": "https://open.spotify.com/track/5mYTMvpelyTc6U87xtzQDh"
     },
     {
       "added_at": "2023-05-17 15:52:13",
@@ -751,22 +767,6 @@
       "duration_ms": 291840,
       "name": "Sound Of A Broken Man",
       "url": "https://open.spotify.com/track/1aYCoLkMLlZZ7OYt67i6DS"
-    },
-    {
-      "added_at": "2023-05-17 15:52:13",
-      "album": {
-        "name": "Live From Chicago - Mr. Superharp Himself!",
-        "url": "https://open.spotify.com/album/4yM4z52eGLBQiO62J4iCRv"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 186826,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/0lpcT3fUjEqzArcsR2mf4d"
     },
     {
       "added_at": "2023-05-17 15:52:13",

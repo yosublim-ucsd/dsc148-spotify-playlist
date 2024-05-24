@@ -2192,7 +2192,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
@@ -4782,6 +4782,28 @@
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
+    },
+    {
+      "album": {
+        "name": "Nace Del Alma",
+        "url": "https://open.spotify.com/album/7CL4FmomsC1pPNHNs1mXjW"
+      },
+      "artists": [
+        {
+          "name": "Omar Geles",
+          "url": "https://open.spotify.com/artist/19ufHMEaPSvoM3iIVk8sTR"
+        },
+        {
+          "name": "Esmeralda",
+          "url": "https://open.spotify.com/artist/58yU6MSNwlAbu5NRnLOzFu"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284421,
+      "name": "Una Hoja en Blanco",
+      "url": "https://open.spotify.com/track/3G5OfJVzos5wI0L09oyTOW"
     },
     {
       "album": {

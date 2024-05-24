@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABXvdKKJsnIyPiZQeYbyxE3",
+  "snapshot_id": "Zk01gAAAAABGEaVKmEm+6aYD0KOuippm",
   "tracks": [
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 230322,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
+      "duration_ms": 75707,
+      "name": "Psychopomp",
+      "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 226981,
-      "name": "Skinny Love - Spotify Singles",
-      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nobody Sees Me Like You Do",
         "url": "https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P"
       },
@@ -419,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 226981,
+      "name": "Skinny Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psychopomp",
         "url": "https://open.spotify.com/album/3CeBfyjSIfbWyf0RTNbq1G"
       },
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 75707,
-      "name": "Psychopomp",
-      "url": "https://open.spotify.com/track/1VeVcMCuC8f6rvsyVsi7Pj"
+      "duration_ms": 230322,
+      "name": "In Heaven",
+      "url": "https://open.spotify.com/track/33HK3AInjJCqMrCHN2Kg5g"
     },
     {
       "added_at": null,

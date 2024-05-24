@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
+    },
+    {
+      "album": {
         "name": "Music From The Motion Picture Twister-The Dark Side Of Nature",
         "url": "https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb"
       },

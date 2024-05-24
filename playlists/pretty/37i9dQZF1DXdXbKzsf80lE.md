@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 
 > Queeeima paredão! Pra forrozeiro sofrer dançando e dançar sofrendo, bora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,693 likes - 100 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,754 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXbKzsf80lE.md) - [plain]
 | 42 | [Quem Me Dera](https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Quem Me Dera](https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7) | 2:27 |
 | 43 | [Agora Estou Sofrendo](https://open.spotify.com/track/18EfjSH1r9Jf6vx52eby5c) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Agora Estou Sofrendo \(Ao Vivo\)](https://open.spotify.com/album/2cjxqUYoTchRHLYeoWGJW8) | 4:18 |
 | 44 | [Mó Viagem](https://open.spotify.com/track/3PXgzJ6ixRKkjokWjVOnoR) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Mó Viagem](https://open.spotify.com/album/4VngkaHZ61v5wbjEsNAY3W) | 3:17 |
-| 45 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
-| 46 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
-| 47 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
-| 48 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
+| 45 | [Amor ou o Litrão](https://open.spotify.com/track/7qmnP8Woc47dLSrMD5MxL1) | [Petter Ferraz](https://open.spotify.com/artist/6gGJH7joTDx9M3xREiAq9U), [Menor Nico](https://open.spotify.com/artist/0xTWPVQfXgaj6Je1inSRKw) | [Amor ou o Litrão](https://open.spotify.com/album/0qNwJrFHuC0nQt9J4UwEqn) | 2:53 |
+| 46 | [Volta Vai \- Ao Vivo](https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Bar Das Coleguinhas \(Ao Vivo\)](https://open.spotify.com/album/3yiHl6ciNPllk5qKMPkqtw) | 4:36 |
+| 47 | [Coração Piriguete](https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1) | [Kevi Jonny](https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg) | [Coração Piriguete](https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB) | 2:48 |
+| 48 | [Trip do Boyzinho](https://open.spotify.com/track/41GMwa6sCB3iA2aS5T30iE) | [Boyzinho o Rei da Bregadeira](https://open.spotify.com/artist/3JlDzWcj1jl5fVSJ7YyHgK) | [Trip do Boyzinho](https://open.spotify.com/album/6JU1sx4sZfbO2gsicBwuxx) | 2:49 |
 | 49 | [Amor de Rapariga](https://open.spotify.com/track/1FM9CNCjobC3LSNEEKuPkd) | [Raí Saia Rodada](https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz), [Tony Guerra & Forró Sacode](https://open.spotify.com/artist/1usT5Rtr5iz4gWLdkxIUhV) | [Saudade Braba](https://open.spotify.com/album/58S6gDoCmBJHIhsAhjE75x) | 2:48 |
 | 50 | [Casal Raiz \- Ao Vivo](https://open.spotify.com/track/37Xnka0c1qea5wagV91UIl) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:29 |
 | 51 | [Um Degrau na Escada \- Ao Vivo](https://open.spotify.com/track/49h9lUseWMnzyU0W8E40mP) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [CP 25 Anos, Pt\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2aBcsCLnWCf002QuBJok53) | 4:11 |

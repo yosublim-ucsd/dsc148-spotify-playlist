@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-304 songs - 14 hr 43 min
+305 songs - 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/track/1Dv11RV1ipS7R4VDgsYSX0) | [Friendzone](https://open.spotify.com/artist/71wgN1CedM2DoHelVrI87x), [LÚTHIEN](https://open.spotify.com/artist/28J7jxbAyCfpC1R5XAgeq5) | [Fallout \(feat\. LÚTHIEN\)](https://open.spotify.com/album/4WwmyhFwXRrP65YpxyWQRT) | 3:36 | 2023-08-09 |  |
 | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/track/6Hy4gmcrhzcMlnWMBU877r) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Jaxxtone](https://open.spotify.com/artist/3ASDNZT1AaVuC0bqu60oaY), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [False Alarm \(feat\. Alessia Labate\)](https://open.spotify.com/album/2VKwfsPMEOTceeAk8Orp0o) | 2:44 | 2023-11-22 |  |
 | [Favors](https://open.spotify.com/track/3CkdtRM7B1cY9zk1Fkrbvo) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy) | [Favors](https://open.spotify.com/album/5QdDpNbkp0NYCzVsIHVtnY) | 2:10 | 2023-03-10 | 2023-05-21 |
+| [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/track/1qrp1bnCoZR6Gh8B1CLvn0) | [Axel Knox](https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm), [Conor McLoughlin](https://open.spotify.com/artist/4RXraxMiBQjbq7hiy8F2aw) | [Feel The Sun \(feat\. Conor McLoughlin\)](https://open.spotify.com/album/3oDTaFDokKXBrEo3cMFSWv) | 2:26 | 2024-05-23 |  |
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 | 2022-12-10 |
 | [Fight \(Show Me Who You Are\)](https://open.spotify.com/track/64z1dWUjWiW0sRjsAhtNTD) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Fight \(Show Me Who You Are\)](https://open.spotify.com/album/1c6CkJzI9bVOH1RZyA9Snl) | 3:37 | 2023-11-22 |  |
 | [Find Me](https://open.spotify.com/track/1ByFlaAaOkFzzIDhhBf3ox) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [3DI](https://open.spotify.com/artist/5lLpc0Fm6VJEcJxai3Fq4G) | [Find Me](https://open.spotify.com/album/0UmkkEWHquA9fVy8MjNMsB) | 3:09 | 2023-01-20 | 2023-04-09 |

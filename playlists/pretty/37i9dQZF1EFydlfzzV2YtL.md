@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,292 likes - 158 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294 likes - 158 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 118 | [Into The Blue](https://open.spotify.com/track/2xYZtNV1Mn9pPc6nYSzg1Z) | [Rationale](https://open.spotify.com/artist/2IQDM5URYGYfSMmwhTCmyy) | [Rationale](https://open.spotify.com/album/6H9qymov6q3LpGwjhaSLsn) | 3:21 |
 | 119 | [Baram X 3](https://open.spotify.com/track/0DdbiN1gW1t4MU7tQ91eTW) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Something New \- The 3rd Mini Album](https://open.spotify.com/album/0xYQcPVyEEegJlTXLttWUx) | 3:28 |
 | 120 | [Pass the Love Around](https://open.spotify.com/track/4CgWKazo7xiS2DYURJt3Cg) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm) | 3:18 |
-| 121 | [Leave It Beautiful](https://open.spotify.com/track/466pvheuy2AO0SFEFgTpZ9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful](https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X) | 3:04 |
-| 122 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
+| 121 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
+| 122 | [Leave It Beautiful](https://open.spotify.com/track/466pvheuy2AO0SFEFgTpZ9) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful](https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X) | 3:04 |
 | 123 | [Symmetry](https://open.spotify.com/track/6ARrdbSTFuwxE6meFUFUtI) | [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Symmetry](https://open.spotify.com/album/5B6eeJRAFwN03R9sUNat3r) | 3:18 |
 | 124 | [Never Be The One](https://open.spotify.com/track/6JF0rThWWZ1KDOAA2GC0T8) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Never Be The One](https://open.spotify.com/album/3SRCDfQSwLNwCoBcYznuNg) | 3:21 |
 | 125 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
@@ -167,4 +167,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 157 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 158 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `AbSCwgAAAADXm4PxZMaXNcyZRgrQaxLT`
+Snapshot ID: `AbSIYwAAAAD44srs5PRMc8jvHyKIHLA2`

@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 212884,
       "name": "Al Ghayeb",
       "url": "https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF"
@@ -1134,7 +1134,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 174402,
       "name": "Bara Jarhik",
       "url": "https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk"
@@ -3150,6 +3150,24 @@
       "duration_ms": 150845,
       "name": "Min Taht",
       "url": "https://open.spotify.com/track/3bHSpc1Aq5K9NFYLeKAIPX"
+    },
+    {
+      "album": {
+        "name": "Mithl Alqamar",
+        "url": "https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b"
+      },
+      "artists": [
+        {
+          "name": "KADEJAH MOAATH",
+          "url": "https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237381,
+      "name": "Mithl Alqamar",
+      "url": "https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth"
     },
     {
       "album": {
@@ -5466,6 +5484,24 @@
       "duration_ms": 274155,
       "name": "\u0632\u064a\u0646\u0643 \u062f\u0645\u0627\u0631",
       "url": "https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC"
+    },
+    {
+      "album": {
+        "name": "\u062f\u064a\u0627\u0631 \u0644\u064a\u0644\u0649",
+        "url": "https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l"
+      },
+      "artists": [
+        {
+          "name": "Omar Al Abdalaat",
+          "url": "https://open.spotify.com/artist/7wNZDaQ21Dh0ggn4Vj1bdi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196354,
+      "name": "\u0633\u0628\u0639 \u0648\u062b\u0645\u0627\u0646",
+      "url": "https://open.spotify.com/track/3UTORktaYB1E8YWp5DuTSF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,490 likes - 100 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,492 likes - 100 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 15 | [Kissing You](https://open.spotify.com/track/18fWwTkrIxojEC2gmVyoxS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Girls' Generation](https://open.spotify.com/album/2U1BPwhkzHt05OFugiSB3g) | 3:19 |
 | 16 | [보고싶다](https://open.spotify.com/track/4i39vkBJzBnYvBMua65Rwi) | [KIM BUMSOO](https://open.spotify.com/artist/20K5puLWHL28ckI4LjieDt) | [천국의 계단 OST](https://open.spotify.com/album/5uZtiEhZmVROQk8dsiOrwq) | 4:04 |
 | 17 | [Hot Issue](https://open.spotify.com/track/1QqaaKVZxu9ExhYjKGgI4N) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Hot Issue](https://open.spotify.com/album/1k8eHb3VP5FhHFVtap8T62) | 3:28 |
-| 18 | [I Guess I Loved You](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
-| 19 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
+| 18 | [벌써 일년](https://open.spotify.com/track/373fb3tsAbcShtD2RZ8edv) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:27 |
+| 19 | [I Guess I Loved You](https://open.spotify.com/track/1w2hClDL1xH4FPZIipZ1FJ) | [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Difference](https://open.spotify.com/album/36HKeRjDoczel62iwy3z75) | 3:58 |
 | 20 | [헤어지지 못하는 여자, 떠나가지 못하는 남자 Can't Breakup Girl, Can't Breakaway Boy \(feat\. 정인 Jung In\)](https://open.spotify.com/track/3Gpdzw72aBVJSrm5J1leVK) | [Leessang](https://open.spotify.com/artist/0JGN9XIqm3vfg7hhPHjExI), [Jung In](https://open.spotify.com/artist/0CO7rEbHBtpqgY9QPYJgPM) | [Hexagonal](https://open.spotify.com/album/1J3p9Wwgh06N7nq0Ds2ZZS) | 4:44 |
 | 21 | [우산 \(feat\. 윤하\)](https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Pieces, Part One](https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO) | 5:01 |
 | 22 | [A Little Girl](https://open.spotify.com/track/1N9TrsZZXX8GQvOvD3PV23) | [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6KKR9GZN6wnhQmBCFvoTMM) | 3:46 |
@@ -75,19 +75,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 65 | [I drink again](https://open.spotify.com/track/68SpcwzDfyFYaM6dMSEtRk) | [VIBE](https://open.spotify.com/artist/68ym0sOo7MazZxScbm1wtI) | [Re \- Feel](https://open.spotify.com/album/027uEuNqUt0SUZ5GKfiW3w) | 4:05 |
 | 66 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
 | 67 | [LOVE](https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [With L.O.V.E Brown Eyed Girls](https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl) | 3:37 |
-| 68 | [I LOVE YOU](https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [포지션 스페셜 I LOVE YOU](https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv) | 5:29 |
+| 68 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
 | 69 | [With Coffee…](https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Brown Eyes](https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA) | 3:35 |
-| 70 | [잠시만 안녕](https://open.spotify.com/track/7fyEwJts3Fv2D4MIt5I1M9) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [M.C The Max! Vol.1](https://open.spotify.com/album/0FPzOi7YqDtrJAqnfq3O4T) | 6:48 |
+| 70 | [I LOVE YOU](https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9) | [Position](https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo) | [포지션 스페셜 I LOVE YOU](https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv) | 5:29 |
 | 71 | [감사](https://open.spotify.com/track/6vL9tLXg2XnsYXndqpIUQS) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [기억속의 멜로디](https://open.spotify.com/album/3bQEUGF2WB3YyIucl9rGKi) | 4:45 |
-| 72 | [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 |
-| 73 | [눈의 꽃](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
-| 74 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
+| 72 | [Wild Eyes](https://open.spotify.com/track/5uvNlHJPu9mOcYT64rxRbl) | [SHINHWA](https://open.spotify.com/artist/0jVvkFPa6YbFXQ3Qmhita0) | [HEY, COME ON! \- The 4th Album](https://open.spotify.com/album/7dmeb1HMweJy5bvrTQPmul) | 3:21 |
+| 73 | [My Name](https://open.spotify.com/track/15wqZsAVQLMEqqUCIbz6Fp) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [My Name \- The 4th Album](https://open.spotify.com/album/3VoUpjkRS6bVaGOjSZgZyy) | 3:13 |
+| 74 | [눈의 꽃](https://open.spotify.com/track/6feQC1GrcSwO5WqYQqncIW) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [Neo Classicism](https://open.spotify.com/album/2O7fmlpysRtW6rjIqSJsul) | 5:42 |
 | 75 | [Touch love](https://open.spotify.com/track/64QBbRIToyFzgOlejdAAFv) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST](https://open.spotify.com/album/1zQSvCqSkL5GFmThuxoyX4) | 4:04 |
-| 76 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
-| 77 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 |
-| 78 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
-| 79 | [Partner for Life](https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [The 3rd Masterpiece](https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV) | 4:58 |
-| 80 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
+| 76 | [행복하지말아요](https://open.spotify.com/track/5XyvfAC8S62CHQL2Z3BVYP) | [M.C the Max](https://open.spotify.com/artist/3MaRWfwKpbYnkYHC5gRKYo) | [Mc The Max \- Solitude Love…](https://open.spotify.com/album/07h13PO2OlSAnrYYPRb133) | 5:58 |
+| 77 | [All For You](https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 4:15 |
+| 78 | [Missing you](https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Longing](https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva) | 3:52 |
+| 79 | [Fly \(feat\. Amin\. J\)](https://open.spotify.com/track/3N17JQ2yJjQTUOt706Uj6h) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Amin\. J](https://open.spotify.com/artist/5xs4WKD1qLTJNSRnX0O4d2) | [Swan Songs](https://open.spotify.com/album/2r893IZjz94r7mmqxNz4A6) | 3:21 |
+| 80 | [Partner for Life](https://open.spotify.com/track/1Ud6TKFPVyWIs0dmQhg5iL) | [SG Wannabe](https://open.spotify.com/artist/2c3IakpImjWyeXNvyyGsdn) | [The 3rd Masterpiece](https://open.spotify.com/album/78hxnlQlbAaIsaQxG3RonV) | 4:58 |
 | 81 | [To My Boyfriend](https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD) | [Fin.K.L](https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS) | [Fine Killing Liberty : Blue Rain](https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe) | 3:58 |
 | 82 | [VALENTI](https://open.spotify.com/track/1GaP1ryepyxPvnYiu5xhEa) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [MIRACLE \- The 2.5th Album](https://open.spotify.com/album/1heezU7dth0Eo6nJqlq67w) | 3:32 |
 | 83 | [날 그만 잊어요](https://open.spotify.com/track/48019yKa8kJowllkqICDIi) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [It's Different](https://open.spotify.com/album/3MLXvMDzIjsWFzUFHP0Qzf) | 4:31 |

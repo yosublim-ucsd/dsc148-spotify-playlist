@@ -2902,7 +2902,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-27",
+      "date_removed": null,
       "duration_ms": 161428,
       "name": "Chrome",
       "url": "https://open.spotify.com/track/1MwOIwpxfqZtsnaBx9tswz"
@@ -3798,7 +3798,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 186309,
       "name": "Dirty Vibe",
       "url": "https://open.spotify.com/track/4xrgVt6mIKlYdQbK1ceAko"
@@ -3936,7 +3936,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 147157,
       "name": "Don't Need U",
       "url": "https://open.spotify.com/track/0M334leIc51SErTtCd7SG0"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150923,
       "name": "LET\u2019S GET ILL",
       "url": "https://open.spotify.com/track/0knXaujOspiLITwXr2929i"
@@ -11178,7 +11178,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192879,
       "name": "Real Girls",
       "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
@@ -12370,6 +12370,24 @@
       "duration_ms": 151634,
       "name": "Skank and Rave",
       "url": "https://open.spotify.com/track/5RxHbiXTa9mwjYDQ6mjhSM"
+    },
+    {
+      "album": {
+        "name": "SKELETON",
+        "url": "https://open.spotify.com/album/6mkdOyHLglhEaj50QbGmRk"
+      },
+      "artists": [
+        {
+          "name": "Matt Hawk",
+          "url": "https://open.spotify.com/artist/0lGQjr3FTxAwGLlpce0jMg"
+        }
+      ],
+      "date_added": "2024-05-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "SKELETON",
+      "url": "https://open.spotify.com/track/7Id3dL8SN0JIZ0kelI5JcA"
     },
     {
       "album": {

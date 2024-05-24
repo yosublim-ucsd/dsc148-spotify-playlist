@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/1jelEUwXFe9YeEjdAR3aC8.md) - cumulative - [plain](/playlists/plain/1jelEUwXFe9YeEjdAR3aC8) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/1jelEUwXFe9YeEjdAR3aC8)
 
-### [Chill the F\*\*\* out](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
+### [Chill the F\*\*\* out \- Relaxing Vibes](https://open.spotify.com/playlist/1jelEUwXFe9YeEjdAR3aC8)
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 

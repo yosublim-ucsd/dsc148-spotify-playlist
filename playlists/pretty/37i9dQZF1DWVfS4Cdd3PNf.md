@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 
 > Masterpieces from the world of opera.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,921 likes - 64 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,135 likes - 64 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfS4Cdd3PNf.md) - [plain]
 | 63 | [Idomeneo, K\. 366, Atto II Scena 2: No\. 11, Aria "Se il padre perdei" \(Ilia\)](https://open.spotify.com/track/2Z088O7SZC87DBKZvChCFi) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Sunhae Im](https://open.spotify.com/artist/4LbXwXeeGL3rsFjmDGbgma), [René Jacobs](https://open.spotify.com/artist/3hwPQDlJr99FzncxqZD2SU), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Mozart: Idomeneo](https://open.spotify.com/album/59Hf5d60yBOOCW1wAYdUYf) | 4:53 |
 | 64 | [Betrothal in a Monastery, Op\. 86, Act I, Tableau 1, Scene 8: "Друзья, уходите"](https://open.spotify.com/track/4gSReSG7whtyRzI2pEHNeE) | [Sergei Prokofiev](https://open.spotify.com/artist/4kHtgiRnpmFIV5Tm4BIs8l), [Mira Mendelson\-Prokofieva](https://open.spotify.com/artist/307ubugm9ICFuz0r0XkvHN), [Richard Brinsley Sheridan](https://open.spotify.com/artist/6N6pRTuf0D7TkVkE3g9m64), [Anatoly Mishchevsky](https://open.spotify.com/artist/3xqxSstnKs8RLZb2FIkOXp), [Kemal Abdullayev](https://open.spotify.com/artist/0Dy2FZWDvZAwNollbgHpxD), [Orchestra of the Stanislavski and Nemirovich\-Danchenko Music Theatre](https://open.spotify.com/artist/1dYnXQBvvsneGYJ1USaNHm) | [Prokofiev: Betrothal in a Monastery](https://open.spotify.com/album/3UAQoJ37E7jtmMfVX1h9dx) | 3:19 |
 
-Snapshot ID: `ZhkLWwAAAABmeHdpQqTRdpg2mkgX6oQ0`
+Snapshot ID: `Zk6/QAAAAADwF4KBB7DPOeRCV7paQjV6`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,070,948 likes - 50 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,070,996 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 14 | [Sueños \(with Julieta Venegas\) \- MTV Unplugged](https://open.spotify.com/track/1NuWMB7R2FHid46XQYkFUV) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [MTV Unplugged](https://open.spotify.com/album/3xB3SzIEkry77YmregfUHZ) | 4:35 |
 | 15 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
 | 16 | [Because the Night \- Live Unplugged](https://open.spotify.com/track/5VzvK7YiwWbRePA2JOzhYq) | [10,000 Maniacs](https://open.spotify.com/artist/0MBIKH9DjtBkv8O3nS6szj) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/4Z8B7aRCB34COXcjCDPgzg) | 3:43 |
-| 17 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
-| 18 | [Se Me Olvidó Otra Vez \- Unplugged](https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 3:42 |
+| 17 | [Se Me Olvidó Otra Vez \- Unplugged](https://open.spotify.com/track/6k2AsDKvvip54F59DIn1Mv) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [MTV Unplugged](https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2) | 3:42 |
+| 18 | [Rolling In The Deep \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2VprRdTmbgyjXnDzHIcfNl) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Spotify Singles](https://open.spotify.com/album/7brFrlSSH6jF8LA1HRI6EP) | 3:57 |
 | 19 | [En la Ciudad de la Furia \- MTV Unplugged](https://open.spotify.com/track/2p4FOWHHd2A6TBmTkdt1G0) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Comfort Y Musica Para Volar](https://open.spotify.com/album/5RJLKN7ucuVaRAUzNKtKB8) | 8:42 |
 | 20 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 21 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 44 | [La Camisa Negra \- MTV Unplugged](https://open.spotify.com/track/6dHy6CvAKt5JBslhjDhlaF) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Tr3s Presents Juanes MTV Unplugged](https://open.spotify.com/album/6Zy2wrvOOW0sxTWy7nF9BH) | 3:45 |
 | 45 | [Pasos de cero \- Live from Spotify NYC](https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alborán Spotify Sessions](https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe) | 4:26 |
 | 46 | [Irresponsables \- En Vivo](https://open.spotify.com/track/17ZUhkTEK46wyeWm4A71Ja) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Desde Adentro \- Impuesto de Fe \(En Vivo\)](https://open.spotify.com/album/6eWrCdzfRUvNMDYWGHIExi) | 2:43 |
-| 47 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
-| 48 | [El baile y el salon \- Unplugged](https://open.spotify.com/track/3k64ZLozksTCtXL4JtD80L) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 6:54 |
+| 47 | [María \- Unplugged](https://open.spotify.com/track/4KDHQ9jwEg03Ex7TG6tdm8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [MTV Unplugged](https://open.spotify.com/album/0fO8mzViUoz12iCHrPppE9) | 4:15 |
+| 48 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
 | 49 | [Ciega, Sordomuda \- En Vivo](https://open.spotify.com/track/1qlWPsawt6eo7L4wvzwRBv) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 4:09 |
 | 50 | [Linger](https://open.spotify.com/track/1P6p83zUu3kQoOktOcMpfh) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Live 2010 \- Zenith Paris, 22.03.10](https://open.spotify.com/album/4rDXelyOv9EN1Zz1spMhP2) | 4:55 |
 

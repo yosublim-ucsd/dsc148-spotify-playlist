@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 
 > This is Sexyy Red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,457 likes - 49 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,529 likes - 49 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,14 +48,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO271ive.md) - [plain]
 | 38 | [Throwin' It](https://open.spotify.com/track/1EC19TqO0rHpqwMHJrzOgk) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throwin' It](https://open.spotify.com/album/4YR9YTU8b8PmQqDDkh9HKN) | 2:29 |
 | 39 | [Tired \(feat\. Rob49\)](https://open.spotify.com/track/2ayYyt1AKc5eFIVbzieG6y) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Tired \(feat\. Rob49\)](https://open.spotify.com/album/7DX362BKElkVx87g476jeA) | 2:40 |
 | 40 | [Push Start](https://open.spotify.com/track/0iwW0dxjJk0sA08HNyDscr) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Push Start](https://open.spotify.com/album/7xuDlK70JLIameLE27289x) | 2:48 |
-| 41 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/3k56wuGvKg3l9g1t61C9jW) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:00 |
+| 41 | [Sticky Icky \(Roll Det\)](https://open.spotify.com/track/7iffUVxZHOBwl2zUjyqRP0) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:00 |
 | 42 | [Perc & Sex](https://open.spotify.com/track/7wbNu1P1ZokAM4gTJSImzu) | [YN Jay](https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Perc & Sex](https://open.spotify.com/album/5KYoGpsbHXoX6Oo0h08fAh) | 4:18 |
 | 43 | [My Twin](https://open.spotify.com/track/5JCAgHsPy24l0ZV78knOFl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [My Twin](https://open.spotify.com/album/7bHnK6ophizURvIWgEKUyE) | 2:48 |
 | 44 | [No Panties \(with Sexyy Red\) \- From Rap Sh!t S2: The Mixtape](https://open.spotify.com/track/0nFCMtJecNIJ7ArO8qBwba) | [Raedio](https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [No Panties \(with Sexyy Red\) \[From Rap Sh!t S2: The Mixtape\]](https://open.spotify.com/album/1nhOy9oUdLf97cebjpBlap) | 2:05 |
 | 45 | [Area Codes \(314 Remix\) \[feat\. Sexyy Red\]](https://open.spotify.com/track/36pwNmujPFvx0IwdR2GYqU) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Area Codes: The Remixes](https://open.spotify.com/album/4rOzFoHxBS1O7H4Rv0Xbk8) | 2:17 |
 | 46 | [Throw That Mf](https://open.spotify.com/track/7sWUDFmphDkMZI5GboXscb) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Throw That Mf](https://open.spotify.com/album/0cHwkVrWatS1hHHfDzewJ2) | 2:07 |
-| 47 | [Hood Bitch](https://open.spotify.com/track/3zBwBkR18TfwaZTQ5fOIWl) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 2:37 |
+| 47 | [Hood Bitch](https://open.spotify.com/track/6ExguHzcEThPS1PC4wah38) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 2:37 |
 | 48 | [Don't Get Beat](https://open.spotify.com/track/5pcTiNM6KXYjvOEgmKxIXH) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Don't Get Beat](https://open.spotify.com/album/5zfiG2ja4Nh4OBph2QAOMK) | 2:21 |
-| 49 | [Sexyy](https://open.spotify.com/track/0MeW6WVJH6ogfpVxKg61CG) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/1Np99lkXyvQXneF0m5zTOy) | 3:17 |
+| 49 | [Sexyy](https://open.spotify.com/track/3OwfTHRwPTZrll2TlgwzDd) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Ghetto Superstar](https://open.spotify.com/album/6lbPCqEJgVNcsxjwFZKwtc) | 3:17 |
 
-Snapshot ID: `ZkqSgAAAAADifEfHPdFUnmrFdYLWfTRs`
+Snapshot ID: `Zk01gAAAAAC8Gkb61x4jDOh8+B1VVQIJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 
 > Stripped back recordings like nothing you’ve heard before\.  Cover: FINNEAS.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,784 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,809 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 52 | [Like A Stone \(feat\. Tom Morello\) \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/6bbEWtu7bQtl5a5cZStE0z) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Spotify Singles](https://open.spotify.com/album/6XI7j88Hmfye0TXQgp0DcU) | 4:19 |
 | 53 | [Burning \- Recorded At RAK Studios, London](https://open.spotify.com/track/5sP1WPrKKjx3MArEVZMLil) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Spotify Singles](https://open.spotify.com/album/0SRFjDXW0BUtk5yChaT7xn) | 3:51 |
 | 54 | [\(You Make Me Feel Like\) a Natural Woman \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/252Js3mNvVOHzeiStTUTNM) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Spotify Singles](https://open.spotify.com/album/3BtaYjFyAb4GmZ6qJxtiTr) | 3:02 |
-| 55 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 |
-| 56 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
+| 55 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 |
+| 56 | [Hold Your Head Up High \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1e57DutOjV5KXlNjqWOC61) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Spotify Singles](https://open.spotify.com/album/5Mb2EPhxaSUhtsx2IGvvkD) | 3:34 |
 | 57 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 | 58 | [Silver Lining \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7kqnoZSZUifYDyR5jzJN6v) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Spotify Singles](https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ) | 3:29 |
 | 59 | [Lucid Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0wvfD7NmJ73vdBdFgPBEy6) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Spotify Singles](https://open.spotify.com/album/5Hh5BX1UpNACzemVSz78Y1) | 2:45 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdFhiq9L31be.md) - [plain]
 | 79 | [Feels \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3ZQ7nkVPz3DcFMpsp47e8m) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Spotify Singles](https://open.spotify.com/album/7CDrEUJdfoW3l4Ic7Rv05t) | 1:35 |
 | 80 | [Out Of Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4Zjy63iyu5vYQk8AwDyxmI) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Spotify Singles](https://open.spotify.com/album/4e1KPKRbxwbrHnysHvve8j) | 3:52 |
 | 81 | [Simple Man \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4v5VnidREtwYVOTF7wXY87) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Spotify Singles](https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y) | 2:18 |
-| 82 | [No One \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 4:00 |
-| 83 | [All Love \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:24 |
+| 82 | [All Love \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/2DLFwe8no6XgJfhrPJJzkf) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Spotify Singles](https://open.spotify.com/album/29FXbpvWD8WQ6jiKLdhAz6) | 3:24 |
+| 83 | [No One \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2slPSwOa6A605bhQkrcSdi) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Spotify Singles](https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa) | 4:00 |
 | 84 | [Shout Out to My Ex \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XXnAhYqQuhrj4AOkft3Q5) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Spotify Singles](https://open.spotify.com/album/3cDwvU7X1BPyCz3kiukZNj) | 2:43 |
 | 85 | [U Got It Bad \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 4:28 |
 | 86 | [A Change Is Gonna Come \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Spotify Singles](https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65) | 4:15 |

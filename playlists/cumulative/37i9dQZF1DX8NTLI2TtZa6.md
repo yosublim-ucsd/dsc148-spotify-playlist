@@ -4,11 +4,11 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-512 songs - 21 hr 55 min
+513 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Defining Moment](https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [A Defining Moment](https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os) | 2:22 | 2022-12-22 |  |
+| [A Defining Moment](https://open.spotify.com/track/0NxO070mkE8Fpaa2AWbWod) | [Cuarto Silencioso](https://open.spotify.com/artist/04LmdQOsJRkyf8l75OvA2i) | [A Defining Moment](https://open.spotify.com/album/4Ch67yephLqv1uPsT5G6os) | 2:22 | 2022-12-22 | 2024-05-24 |
 | [A Hidden Ace](https://open.spotify.com/track/71XGDwLwvcTmxRtxQBYqri) | [Léon Branche](https://open.spotify.com/artist/5kRWLaylwvVkBjDurxlnIm) | [A Hidden Ace](https://open.spotify.com/album/44VG2s4Iem5ChGSzZDNquu) | 2:41 | 2021-12-07 | 2022-03-02 |
 | [A Moment to Ponder](https://open.spotify.com/track/6i3GB9JYHvYD2cH3EIDa3e) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [A Moment to Ponder](https://open.spotify.com/album/2mTcWwHdIJePrAkiou8HRo) | 1:54 | 2021-12-07 | 2023-07-26 |
 | [a new love](https://open.spotify.com/track/4DOUtqXfuYKR6RqZ3O6TIi) | [Albrecht Valiery](https://open.spotify.com/artist/3GyopzakL0G5uqjcv56M9h) | [a new love](https://open.spotify.com/album/1OCzduP701HjAIhRhGaBts) | 3:02 | 2021-12-07 |  |
@@ -183,7 +183,7 @@
 | [Her](https://open.spotify.com/track/7z9zhEtAOSL3DeQgORiFnH) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Her](https://open.spotify.com/album/6jpSamLHeNpMZX6IUeWTr5) | 2:34 | 2021-12-07 | 2022-07-29 |
 | [Herald](https://open.spotify.com/track/5DmCoazpQN9id60LYIFqCj) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Herald](https://open.spotify.com/album/5l1LblT9yXaajjWm80L68J) | 2:43 | 2023-10-23 |  |
 | [Heritage](https://open.spotify.com/track/1T5PUpmbV63BiM1Fnjgr3T) | [Alda Monaldo](https://open.spotify.com/artist/35AQ5hrVSijxYArSXRJOaA) | [Heritage](https://open.spotify.com/album/0OQEmpVFAKhgTjnrHFksfE) | 2:50 | 2023-11-06 |  |
-| [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-02-14 |  |
+| [Heugstatt](https://open.spotify.com/track/4xPcKCcKH9ioUiOxLloJOa) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Old Friend](https://open.spotify.com/album/0gVxVIhQ0IcZ6ommP2ypx9) | 3:05 | 2023-02-14 | 2024-05-24 |
 | [Hidcote Garden](https://open.spotify.com/track/0sh3udsRO3AesM270ctQZR) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Bathtub Chill](https://open.spotify.com/album/7syBT7D7kHTJEvzterZLVJ) | 2:42 | 2022-10-14 | 2022-11-13 |
 | [Hidcote Garden](https://open.spotify.com/track/0thmCXqsXhImtEUtGwy14R) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/2fYza5rMfZ9tAG7NOcfNJq) | 2:42 | 2021-12-07 | 2022-07-29 |
 | [Hidcote Garden](https://open.spotify.com/track/3eKpha3kgGpAhzZ9vtXBnK) | [Moments](https://open.spotify.com/artist/4QPfkcbTCSAMUOdVCHyPCS) | [Moments](https://open.spotify.com/album/0N7UrdCKbkJeGJyDGSV8fc) | 2:42 | 2022-07-19 | 2023-10-05 |
@@ -202,7 +202,7 @@
 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 | 2021-12-07 |  |
 | [I Promise You This](https://open.spotify.com/track/3q0OFkCGpCB8XND1BKnnkL) | [Jenifer Tremblay](https://open.spotify.com/artist/0VnIScjCdDU0cmMZTTEnrf) | [I Promise You This](https://open.spotify.com/album/22fgElZ2UTCJHLkol5HfW4) | 2:09 | 2021-12-07 | 2022-02-16 |
 | [I'll Be Around](https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [I'll Be Around](https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf) | 3:10 | 2023-09-11 |  |
-| [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 |  |
+| [Im Garten nebenan](https://open.spotify.com/track/0WejQfspUvVEOQO9iRBwMJ) | [Julian Friedrich](https://open.spotify.com/artist/2XO8vo43M9GoHmXZelYzEH) | [Oetztal](https://open.spotify.com/album/1zlu9qu9ly6elFZPROt9CX) | 2:42 | 2021-12-07 | 2024-05-24 |
 | [Immersion](https://open.spotify.com/track/2n07NKEPbQ1ABTvhTGJcYj) | [Ellie\-May Robertson](https://open.spotify.com/artist/7Ce1uDyyat0uJpzu7CDaEI) | [Immersion](https://open.spotify.com/album/2PitqdH877qhO9IIpPrKXi) | 2:24 | 2021-12-07 |  |
 | [In Between](https://open.spotify.com/track/1MkGNJtjgOH98OV1P2xt9M) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [In Between](https://open.spotify.com/album/6I8xdZRKAvp3iwHyNPLIa5) | 2:40 | 2022-07-19 | 2022-10-02 |
 | [In Between](https://open.spotify.com/track/20jCNFEkg7GZo64KKfgmY2) | [Frozen Silence](https://open.spotify.com/artist/2zYmFMkDco03qam6Nx4uir) | [In Between](https://open.spotify.com/album/7tSsRXhw5g5rNivZED6uil) | 2:40 | 2021-12-07 | 2022-07-29 |
@@ -328,6 +328,7 @@
 | [Ocean](https://open.spotify.com/track/5Sr5Tz8xszf0Wpk12w4117) | [Matti Bye](https://open.spotify.com/artist/5qUOOLH8pTCB9XZrzj5jag) | [Ocean](https://open.spotify.com/album/23bNIKhaP1ggWvYroajgWk) | 2:16 | 2021-12-07 | 2023-10-05 |
 | [Ocean Mind](https://open.spotify.com/track/0yke2mzO01rTHhBpBLnYwh) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Ocean Mind](https://open.spotify.com/album/3YpBO1Twz1VUCgEUvhAgr2) | 2:22 | 2022-05-27 |  |
 | [Oceá](https://open.spotify.com/track/4OQ4Ua0SulicmSHpgBXCvs) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Oceá](https://open.spotify.com/album/1YlinmQ13IX8DlaPOtcX2f) | 2:38 | 2021-12-07 |  |
+| [Odaliscas](https://open.spotify.com/track/1syOXyySAdciYUkTPGJYMg) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Odaliscas](https://open.spotify.com/album/4tkhkLrVgK8KS21nQbdZaN) | 2:38 | 2024-05-23 |  |
 | [Ojalá](https://open.spotify.com/track/73Cydqs0F5L35I3Qowtluk) | [Naia Lambert](https://open.spotify.com/artist/0zo7bpOTP4vsR9ar1yoNgb) | [Ojalá](https://open.spotify.com/album/5PiftqbGdgKeIhH1liJ3iM) | 2:32 | 2021-12-07 | 2022-06-08 |
 | [Old Lustre](https://open.spotify.com/track/4n4DD7oUknpI50eCFQ8r0w) | [Thomas Klak](https://open.spotify.com/artist/7ofbQA5JDWflBqWWilSxdE) | [Old Lustre](https://open.spotify.com/album/62FdSSW3Z4cwgVRT6T8rER) | 2:37 | 2023-05-03 |  |
 | [Old Stone Bridge](https://open.spotify.com/track/1payARNJlTgll5TuvgvkEG) | [Polly Carter](https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp) | [Old Stone Bridge](https://open.spotify.com/album/6nb3lxLhKiVV7jqy3mv4ht) | 2:09 | 2023-08-21 |  |
@@ -470,7 +471,7 @@
 | [The wind](https://open.spotify.com/track/7FKB0MIXYg8Umwa1UWt2ur) | [Sean Oban](https://open.spotify.com/artist/32LreS7UHEG3COCJzy826n) | [The wind](https://open.spotify.com/album/4veQnMsuik4JKs5msFYX94) | 2:06 | 2023-10-23 |  |
 | [The Woods](https://open.spotify.com/track/6BwJD1phxzTu9Fg3U87whB) | [Andre Aubertin](https://open.spotify.com/artist/2LfIzuLWCzDYMYUeRwBtMu) | [The Woods](https://open.spotify.com/album/0tZIHoDNVMl1HiB2nbuyci) | 2:03 | 2022-06-07 | 2023-10-05 |
 | [Timid Scripts](https://open.spotify.com/track/3zahvGDaE79KRUr447Jrzw) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Timid Scripts](https://open.spotify.com/album/0kmd10LA2U5C6jnXE8WcBn) | 2:24 | 2022-10-14 |  |
-| [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 |  |
+| [Toivoa](https://open.spotify.com/track/3lbo5NWbt8k2xqncCsMB7q) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Toivoa](https://open.spotify.com/album/0hMgtsmdSuDVDsk3W5Q2ug) | 2:01 | 2022-12-22 | 2024-05-24 |
 | [Tomorrow](https://open.spotify.com/track/1uoWQRwh5Oa6XP7Sbgo933) | [HILLEVI](https://open.spotify.com/artist/7602awgZjH5sJDrf8qlwZ6) | [Shooting star](https://open.spotify.com/album/6cHrmMSz6fxBy4SUShsxCK) | 2:45 | 2022-12-22 |  |
 | [Traces](https://open.spotify.com/track/5F9n6BJytzN6kqEQR2wv05) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Traces](https://open.spotify.com/album/06LJIRUxKqN78v72GCeEuW) | 2:01 | 2021-12-07 | 2022-04-22 |
 | [Traces](https://open.spotify.com/track/0JdJYYA2fjAGplb5VLYL07) | [Leyland Moore](https://open.spotify.com/artist/6B68z24fHjW2BFiwzthkzO) | [Traces](https://open.spotify.com/album/4lzXcaZXKBzk0aaX6fFzlE) | 3:13 | 2021-12-07 | 2022-04-02 |

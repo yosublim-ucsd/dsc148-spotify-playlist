@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-287 songs - 23 hr 27 min
+289 songs - 23 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [BAKKI BAKI](https://open.spotify.com/track/5S7qQI8RiZU4LvnACoOUip) | [Tenors In Chaos](https://open.spotify.com/artist/2dPi2IGldPZJEjY3Aj4UzT) | [Chaos](https://open.spotify.com/album/0lsnWYZZxrgwRhdFzdfu7c) | 4:42 | 2023-11-29 | 2024-04-03 |
 | [Baum](https://open.spotify.com/track/0b8l7Ztw9mIJ4a0Ux7f6Xg) | [UHHO UHHO UHHO](https://open.spotify.com/artist/2Deww3VSIaAANtnUSpYLZ1) | [Baum](https://open.spotify.com/album/3vsv6V67g4nSAqwaZmAXIO) | 4:12 | 2023-01-24 | 2023-02-22 |
 | [Be Like Snow](https://open.spotify.com/track/2qDXwIRRJcHoLZHZTr4gkw) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I) | [Be Like Snow](https://open.spotify.com/album/3urXm5EQ1m6R8sSOtmnyKr) | 4:48 | 2023-03-28 | 2023-04-25 |
-| [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 | 2023-12-19 |  |
+| [Beyond the Redemption](https://open.spotify.com/track/0NzOmzRINNMlZsIs2a7zni) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A STORY ABOUT YOU](https://open.spotify.com/album/6YB2R3p6K2X6Slkiq1w4t2) | 4:52 | 2023-12-19 | 2024-05-24 |
 | [Bird Of Beauty](https://open.spotify.com/track/5OmSzWSzMLHpTK1tp4zm95) | [石川紅奈](https://open.spotify.com/artist/3UPdKdHrWLHKDMWIMVk5kz) | [Bird Of Beauty](https://open.spotify.com/album/0qvKH6LujY8DPBZXRzeVAI) | 6:02 | 2023-03-07 | 2023-04-03 |
 | [Birth](https://open.spotify.com/track/0hUEm1BwD8R4Z1BebTKjOM) | [寺久保伶矢](https://open.spotify.com/artist/5p9vfpKQ32WYNdtyt6oSlE) | [Birth](https://open.spotify.com/album/3f7Hyu4Ll25UKKb3NkdHuh) | 7:30 | 2023-03-07 | 2023-04-05 |
 | [Black Nile](https://open.spotify.com/track/7jM01vnA3IbskNLZF23lyV) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Black Nile](https://open.spotify.com/album/6xaT3uAYw8VBtcI3hshU5V) | 3:33 | 2023-08-08 | 2023-10-25 |
@@ -111,7 +111,7 @@
 | [ILa](https://open.spotify.com/track/5A3fkdwjAYasROx3YE9RMo) | [SAI](https://open.spotify.com/artist/3qV6tSZj71FW9cKKD4hrHG) | [ILa](https://open.spotify.com/album/7d3Ac0gUjLFBlZjz4BBKSX) | 3:11 | 2023-10-17 | 2023-11-22 |
 | [ILa](https://open.spotify.com/track/4rfNk6NKqmof6v3MvSm2JL) | [賽](https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b) | [ILa](https://open.spotify.com/album/1fgM8l7SrpH7f9qG6iK6kk) | 3:11 | 2023-10-17 | 2023-10-19 |
 | [Ishonsho Abe](https://open.spotify.com/track/7tPh9tj8JNZITMuEN8iDOK) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Ishonsho Abe](https://open.spotify.com/album/62Io1sWPF4COlD4jBApYk5) | 5:48 | 2022-09-06 | 2023-01-25 |
-| [Isolated](https://open.spotify.com/track/2Cd00qspnUW0t7DK19AG66) | [布施音人トリオ](https://open.spotify.com/artist/2fwMv8yFogzE3Pec8DZgYI), [布施音人](https://open.spotify.com/artist/6LHpTLMRsV5W1UKXtscSOw) | [Isolated](https://open.spotify.com/album/1ww22Nw6kl7TtMIUpr5HX9) | 5:28 | 2024-03-12 |  |
+| [Isolated](https://open.spotify.com/track/2Cd00qspnUW0t7DK19AG66) | [布施音人トリオ](https://open.spotify.com/artist/2fwMv8yFogzE3Pec8DZgYI), [布施音人](https://open.spotify.com/artist/6LHpTLMRsV5W1UKXtscSOw) | [Isolated](https://open.spotify.com/album/1ww22Nw6kl7TtMIUpr5HX9) | 5:28 | 2024-03-12 | 2024-05-24 |
 | [It's just love](https://open.spotify.com/track/4yqpJakTlgryUCYpgkl8qv) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 5:50 | 2022-09-06 | 2024-04-04 |
 | [Itoshi no Butterfly](https://open.spotify.com/track/41u98WRbYwgUcVtwxCzMC6) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [Itoshi no Butterfly](https://open.spotify.com/album/5TTh7b99JHNjfB5Wh0Q6uN) | 5:24 | 2023-07-25 | 2023-08-07 |
 | [Itoshi no Butterfly](https://open.spotify.com/track/6TpQEldvEISv2ldHK93Nao) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [JiLL\-Decoy association 10 \-Double\-](https://open.spotify.com/album/1gyUhmViC36wfc04CICOb2) | 5:24 | 2023-08-01 | 2023-08-16 |
@@ -160,6 +160,7 @@
 | [Piece of cake](https://open.spotify.com/track/14vYoxigOkrEKcobVsKSvg) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/38Wranl2WGyCw2pfYnSGEi) | 2:50 | 2023-01-03 | 2023-01-05 |
 | [Piece of cake](https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA) | 2:50 | 2023-01-03 | 2023-02-05 |
 | [Plasma](https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Plasma](https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh) | 2:59 | 2024-04-02 | 2024-04-24 |
+| [Praying Mantis](https://open.spotify.com/track/0GkRRk1lsoXOSfb3veSbNu) | [Alter Ego](https://open.spotify.com/artist/3fh440O6YUksZVM7BfS1jj), [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [庸蔵](https://open.spotify.com/artist/55k1fTNHRJcW8oCDUTETjx) | [Praying Mantis](https://open.spotify.com/album/3Eej3clX6pUi5TvKfSvhWr) | 4:51 | 2024-05-23 |  |
 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 | 2024-01-30 | 2024-04-03 |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 | 2024-04-19 |
@@ -211,6 +212,7 @@
 | [Thanks For Emily](https://open.spotify.com/track/5pXuqemHKZqtHMTAbFRVFK) | [Fumika Asari](https://open.spotify.com/artist/0XhLhf8Kv1Ox6l7Y2l9gtK) | [Thanks For Emily](https://open.spotify.com/album/6SnmxEiNhgy8qvJGOsUOb8) | 5:39 | 2023-04-18 | 2023-05-17 |
 | [The Great U's Train](https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v) | [桑原あい](https://open.spotify.com/artist/6ATrUDyyYVTcuJPnlafenR), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Dear Family](https://open.spotify.com/album/49xd23XOYzPdJkPdZWUHwz) | 2:12 | 2022-10-25 |  |
 | [THE REASON](https://open.spotify.com/track/5xfX9hGoqTrtf8CKRooKDJ) | [fox capture plan](https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo) | [THE REASON](https://open.spotify.com/album/4B2QFm17k16m1nokbJbieB) | 4:50 | 2023-02-28 | 2023-03-29 |
+| [The reasoning \- Session 03](https://open.spotify.com/track/4fm26UJ7Bufev5ZMmFFX7c) | [Yield Painting Further](https://open.spotify.com/artist/49FgSxPahFQMVJPAuJl6LB), [Tabu Zombie](https://open.spotify.com/artist/3Vp0jjkPKrwvBWfYCXyDRC) | [1617](https://open.spotify.com/album/4BKC37GM2VDp9fDFtopqTE) | 4:07 | 2024-05-23 |  |
 | [The Star\-Crossed Lovers](https://open.spotify.com/track/1rb5DXtKEEj1RBYIqif0iA) | [Mao Sone](https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG) | [The Star\-Crossed Lovers](https://open.spotify.com/album/4ztShkBEvgeWnP6yTgDxHn) | 3:17 | 2022-11-15 | 2022-12-21 |
 | [The Unknown](https://open.spotify.com/track/3b4t9KTy40eagXOvLavU1U) | [Hiromuトリオ](https://open.spotify.com/artist/3fzQgygmoz4JfqJXQT6NPN) | [The Unknown](https://open.spotify.com/album/5HDcwGJboLB2BG1qAtYRaq) | 7:54 | 2022-09-06 | 2023-01-18 |
 | [THEME FROM LUPIN Ⅲ '78 \- 2002 version](https://open.spotify.com/track/2Kllncs9hx6CbYTnqwbqHi) | [Yuji Ohno](https://open.spotify.com/artist/7xIfi0ePXzLGlYO5lFjnvu), [You & Explosion Band](https://open.spotify.com/artist/2AL16NaD1ssiRt8jIkwA5N) | [LUPIN THE THIRD JAZZ ー Another "JAZZ"](https://open.spotify.com/album/2ahWAZuzCZ8MCs2BWqwGup) | 3:59 | 2023-12-26 | 2024-04-19 |

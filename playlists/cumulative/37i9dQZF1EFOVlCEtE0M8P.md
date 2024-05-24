@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-229 songs - 13 hr 24 min
+230 songs - 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,7 +217,8 @@
 | [Tongue Tied](https://open.spotify.com/track/0PpYaJXaLa7CWeOWuz06bZ) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [tongue tied \(at the dmv\)](https://open.spotify.com/album/2OvUzoi1blGPg0aAD1DWZY) | 3:31 | 2024-03-07 |  |
 | [Trigger](https://open.spotify.com/track/7CY0vzv0DNBawyD5tYhK4e) | [Maluca Mala](https://open.spotify.com/artist/5mCtokdEP8IHkj5Zr01hQC) | [Trigger](https://open.spotify.com/album/0QHJMfV0dFYz5rukvZI3aP) | 3:11 | 2024-03-07 |  |
 | [Truth or Dare](https://open.spotify.com/track/5cyjpbzo1hv5HecXZCmRZD) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Little Daylight](https://open.spotify.com/artist/63aFY9yQyFDJtGkInMUris) | [Trouble](https://open.spotify.com/album/6XT2WI977FCKvwdfFXerkh) | 2:30 | 2024-03-07 |  |
-| [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 | 2024-03-24 |  |
+| [Two Things Can Be True](https://open.spotify.com/track/0hWD4quyea8bHiRp9EjRKH) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:45 | 2024-05-23 |  |
+| [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 | 2024-03-24 | 2024-05-24 |
 | [u hurt me hurts u](https://open.spotify.com/track/7cWy95kMrBH5ho6GAzpEBB) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Feeling For My Life](https://open.spotify.com/album/5iABQiExFiKUfLj2LKH59m) | 2:57 | 2024-03-07 |  |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2024-03-07 |  |
 | [Utopia](https://open.spotify.com/track/41zk1nBv8kt0Sj9nZYosBN) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 3: the band\-aid](https://open.spotify.com/album/4DFytu8dXeGdPVdCDvKLWd) | 3:17 | 2024-03-07 |  |

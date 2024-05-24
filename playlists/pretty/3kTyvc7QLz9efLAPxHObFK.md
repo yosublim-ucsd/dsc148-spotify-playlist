@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,397 songs - 3 day 4 hr 38 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,402 songs - 3 day 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1405,5 +1405,10 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1395 | [Houseparty](https://open.spotify.com/track/02ScUhpBxHx0I3HFQI5FPC) | [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3), [Tomsku](https://open.spotify.com/artist/4gN2g4l2TwblFjd3o3FDuF) | [Houseparty](https://open.spotify.com/album/2vCJCf7TCDnrP1xMWEZShO) | 1:59 |
 | 1396 | [Can you feel it](https://open.spotify.com/track/7jsyzjSEtReYLuuAcargSY) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:00 |
 | 1397 | [Let's go](https://open.spotify.com/track/4KQfv7fDJnqkMsqR6MZQq2) | [Raw System](https://open.spotify.com/artist/2ZcuDcMygQ3GLAPNl76To4), [Heaven's Demon](https://open.spotify.com/artist/3q44TsjKfwQZjkqIVJjSLa) | [Can you feel it EP](https://open.spotify.com/album/30BWqw4BKd5cB7UTlhTaeA) | 3:17 |
+| 1398 | [TAKE ME AWAY](https://open.spotify.com/track/66exMOdOYDvytfS9RQXiXq) | [Rooler](https://open.spotify.com/artist/2lpFs8QJyIeVDb2Sq4vZYi), [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW), [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [TAKE ME AWAY](https://open.spotify.com/album/7MPTCVqNTcRJYgfErXWGUe) | 3:20 |
+| 1399 | [Live The Moment](https://open.spotify.com/track/6wW9Sz9hfwUrtYYajlAiIY) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa), [K1](https://open.spotify.com/artist/6A0q6Iz2xN3PiaLdCIPDAI) | [EDC Mexico 2022](https://open.spotify.com/album/3FjjyfYkyYoTD6o9JBk4YM) | 2:28 |
+| 1400 | [Party Till We Die](https://open.spotify.com/track/5hWex38oqFdZLodrPVepVu) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:42 |
+| 1401 | [ElektraWave](https://open.spotify.com/track/3JhzSXcPe9EH76bENsBsYC) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:19 |
+| 1402 | [Hide & Seek](https://open.spotify.com/track/7nfmoPd39J8Xc7kve8CmT3) | [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [ElektraWave](https://open.spotify.com/album/29I2xhfBPyvI5lAM6sPOZs) | 2:36 |
 
-Snapshot ID: `AAAFoS1bXaXxvqR8VyMOVt3KUl+EHW3P`
+Snapshot ID: `AAAFptcsujSOkJbdxU9uogbWXqJHUHKY`

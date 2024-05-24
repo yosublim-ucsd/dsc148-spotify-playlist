@@ -64,7 +64,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 226000,
       "name": "A Million Stars",
       "url": "https://open.spotify.com/track/4kSScdjHrzFKJsSL0O3cVo"
@@ -130,6 +130,24 @@
       "duration_ms": 230356,
       "name": "Aidono",
       "url": "https://open.spotify.com/track/6QusYd55DBtsTH2Q2xSehg"
+    },
+    {
+      "album": {
+        "name": "Airplane Window",
+        "url": "https://open.spotify.com/album/4xcIkAc289a8QfqVYRmlrP"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183528,
+      "name": "Airplane Window",
+      "url": "https://open.spotify.com/track/1d6sisPRhkmyqqZydPUIwy"
     },
     {
       "album": {
@@ -300,7 +318,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-26",
+      "date_removed": null,
       "duration_ms": 261922,
       "name": "august",
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
@@ -397,6 +415,28 @@
     },
     {
       "album": {
+        "name": "\u00c9tincelle",
+        "url": "https://open.spotify.com/album/78Cu2KeqqaycVpNHto9qPX"
+      },
+      "artists": [
+        {
+          "name": "Waxx",
+          "url": "https://open.spotify.com/artist/1sJDvsoQ9X10dibPnSSlsV"
+        },
+        {
+          "name": "Aliocha Schneider",
+          "url": "https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189960,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/3qObcFmsVgBYlPBC0PEKuI"
+    },
+    {
+      "album": {
         "name": "Big Brown Eyes",
         "url": "https://open.spotify.com/album/5ask9dytPUPJzdi4J5bZfz"
       },
@@ -470,6 +510,24 @@
       "duration_ms": 209733,
       "name": "Bird's Eye View",
       "url": "https://open.spotify.com/track/4Yby465fLOnliPWCTKce6x"
+    },
+    {
+      "album": {
+        "name": "Black Lion Lane",
+        "url": "https://open.spotify.com/album/3Zo1SF29Bxj0qKOBrd4Wff"
+      },
+      "artists": [
+        {
+          "name": "Emil\u00edana Torrini",
+          "url": "https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197367,
+      "name": "Black Lion Lane",
+      "url": "https://open.spotify.com/track/3QTQRHqSTHk8fXMHhHHNFa"
     },
     {
       "album": {
@@ -2124,7 +2182,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175013,
       "name": "Juste toi et moi",
       "url": "https://open.spotify.com/track/2LsigtUd0PhjrtVIibZOQB"
@@ -2178,7 +2236,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190266,
       "name": "Know the Night",
       "url": "https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8"
@@ -2200,7 +2258,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 223000,
       "name": "L'avventura",
       "url": "https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi"
@@ -3008,7 +3066,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 183716,
       "name": "Pixie Dust",
       "url": "https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j"
@@ -3846,6 +3904,24 @@
       "duration_ms": 177310,
       "name": "Sweet Craving",
       "url": "https://open.spotify.com/track/6ORy3dG0eRQgfprk0MjjGp"
+    },
+    {
+      "album": {
+        "name": "Second Guess",
+        "url": "https://open.spotify.com/album/45uB4wf1JEzNmD7QZd6FAi"
+      },
+      "artists": [
+        {
+          "name": "Dan Croll",
+          "url": "https://open.spotify.com/artist/5Rr15NSbi1Xjno1AEP9u21"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217773,
+      "name": "Talk To You",
+      "url": "https://open.spotify.com/track/464MDDbfUXvqVdeibpG5Lg"
     },
     {
       "album": {

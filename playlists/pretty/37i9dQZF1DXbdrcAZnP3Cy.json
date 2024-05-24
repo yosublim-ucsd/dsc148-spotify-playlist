@@ -1,6 +1,6 @@
 {
   "description": "Your favorite Mexican anthems to get the party started! Cover: Vicente Fern\u00e1ndez",
-  "num_followers": 166469,
+  "num_followers": 166504,
   "original_name": "Mexican Party Anthems",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Destilando Amor",
         "url": "https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 247893,
       "name": "Todo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2023-05-01 21:44:18",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-05-01 21:44:18",
       "album": {
-        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
-        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 271320,
-      "name": "Me Vale",
-      "url": "https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB"
-    },
-    {
-      "added_at": "2023-05-01 21:44:18",
-      "album": {
         "name": "Zool\u00f3gico Tropical",
         "url": "https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 198613,
       "name": "Cumbia De La Cobra",
       "url": "https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH"
+    },
+    {
+      "added_at": "2023-05-01 21:44:18",
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 271320,
+      "name": "Me Vale",
+      "url": "https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB"
     },
     {
       "added_at": "2023-05-01 21:44:18",

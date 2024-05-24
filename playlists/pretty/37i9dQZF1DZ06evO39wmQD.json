@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAB1QbNa564Gs/cOanYBvn7Q",
+  "snapshot_id": "Zk01gAAAAABdZf9i4O6GqvOkX2qvNZGB",
   "tracks": [
     {
       "added_at": null,
@@ -88,29 +88,29 @@
       },
       "artists": [
         {
-          "name": "Christopher Jackson",
-          "url": "https://open.spotify.com/artist/6sLwRSXSUF5JTUnQaFenyj"
-        },
-        {
-          "name": "Rachel House",
-          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
-        },
-        {
-          "name": "Nicole Scherzinger",
-          "url": "https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP"
-        },
-        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
         },
         {
-          "name": "Louise Bush",
-          "url": "https://open.spotify.com/artist/6pItJ6ijL7bMCneuwqRreN"
+          "name": "Vai Mahina",
+          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
+        },
+        {
+          "name": "Olivia Foa'i",
+          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
+        },
+        {
+          "name": "Opetaia Foa'i",
+          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
+        },
+        {
+          "name": "Matthew Ineleo",
+          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
         }
       ],
-      "duration_ms": 210320,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/2bwSCIuNtVrQPVddCi8sOW"
+      "duration_ms": 72626,
+      "name": "Know Who You Are",
+      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
     },
     {
       "added_at": null,
@@ -176,29 +176,17 @@
       },
       "artists": [
         {
+          "name": "Rachel House",
+          "url": "https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU"
+        },
+        {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Vai Mahina",
-          "url": "https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9"
-        },
-        {
-          "name": "Olivia Foa'i",
-          "url": "https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50"
-        },
-        {
-          "name": "Opetaia Foa'i",
-          "url": "https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH"
-        },
-        {
-          "name": "Matthew Ineleo",
-          "url": "https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD"
         }
       ],
-      "duration_ms": 72626,
-      "name": "Know Who You Are",
-      "url": "https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj"
+      "duration_ms": 162826,
+      "name": "I Am Moana (Song of the Ancestors)",
+      "url": "https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8"
     },
     {
       "added_at": null,
@@ -407,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whispering (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
+        "name": "The Word Of Your Body (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
       },
       "artists": [
         {
@@ -418,11 +406,15 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
+        },
+        {
+          "name": "Damon J. Gillespie",
+          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Whispering - Rise Cast Version",
-      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
+      "duration_ms": 174226,
+      "name": "The Word Of Your Body - Rise Cast Version",
+      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
     },
     {
       "added_at": null,
@@ -447,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Word Of Your Body (Rise Cast Version)",
-        "url": "https://open.spotify.com/album/14dy8AG9WMAcW3jQ5DNTdw"
+        "name": "Whispering (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/3Y2tzDHGFKiEjgMJdB0eqA"
       },
       "artists": [
         {
@@ -458,15 +450,11 @@
         {
           "name": "Auli'i Cravalho",
           "url": "https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe"
-        },
-        {
-          "name": "Damon J. Gillespie",
-          "url": "https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I"
         }
       ],
-      "duration_ms": 174226,
-      "name": "The Word Of Your Body - Rise Cast Version",
-      "url": "https://open.spotify.com/track/4fausC7Tp5DndZbBomzqgo"
+      "duration_ms": 211013,
+      "name": "Whispering - Rise Cast Version",
+      "url": "https://open.spotify.com/track/2ccNGJuNDBjyUF1Hm2Rbv2"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-518 songs - 1 day 7 hr 48 min
+519 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Akhir Tak Bahagia](https://open.spotify.com/track/0BYoWATcndOBcsCfKdTKRx) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Akhir Tak Bahagia](https://open.spotify.com/album/7zv0LcKjGlAUiTXQJzqhSY) | 3:05 | 2021-05-15 | 2022-01-12 |
 | [Aku Bukan Jodohnya](https://open.spotify.com/track/4YuzrUzwpTR8aRqLqepiFo) | [Tri Suaka](https://open.spotify.com/artist/4rLkBI8sdayXhNaGmfW3nC) | [Aku Bukan Jodohnya](https://open.spotify.com/album/4QOfOq221iUZ9m9q24zuY5) | 4:04 | 2021-11-21 | 2022-03-06 |
 | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/track/2KCikMsmJSBEgfOOskQ87P) | [Kezia](https://open.spotify.com/artist/2CcuEDxpgMLXTjNf1sci2b) | [AKU MASIH MEMIKIRKANMU](https://open.spotify.com/album/7L4EwSoKKigcjc4I4xDn6d) | 4:07 | 2022-05-07 | 2022-08-14 |
+| [Aku Yang Jatuh Cinta](https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Aku Yang Jatuh Cinta](https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX) | 3:16 | 2024-05-23 |  |
 | [Aku Yang Salah](https://open.spotify.com/track/0OgwkVbQ4jVfsZJO4Xs9hC) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Aku Yang Salah](https://open.spotify.com/album/3H5eQDyoOyoOy9yYXnyTPh) | 4:10 | 2021-05-30 | 2021-11-27 |
 | [Alcohol\-Free](https://open.spotify.com/track/3iPbmpKBMflYd7UjdYftoj) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Alcohol\-Free](https://open.spotify.com/album/55KZPPx9Ep8QrYqdBcn8aE) | 3:30 | 2021-06-12 | 2021-07-18 |
 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 | 2023-04-01 | 2023-04-03 |
@@ -100,7 +101,7 @@
 | [Cuek](https://open.spotify.com/track/4sCabvmZpbmfoCNcoCSKEX) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Cuek](https://open.spotify.com/album/1I3AMmkJVFgDKYeGkVw4IV) | 4:01 | 2021-03-27\* | 2021-04-14 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-25 | 2023-04-03 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-04-02 | 2023-09-03 |
-| [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-04-26 |  |
+| [Dandelions](https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:53 | 2021-04-26 | 2024-05-24 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-16 | 2022-07-05 |
 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 | 2021-05-23 | 2021-09-20 |
 | [deja vu](https://open.spotify.com/track/61KpQadow081I2AsbeLcsb) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [deja vu](https://open.spotify.com/album/3lwHyR4joA1xB7Nun21EP6) | 3:35 | 2021-04-17 | 2021-05-23 |

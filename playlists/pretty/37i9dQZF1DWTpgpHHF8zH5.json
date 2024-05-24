@@ -1,6 +1,6 @@
 {
   "description": "Musica per sorridere, darti la carica e affrontare la giornata!",
-  "num_followers": 331894,
+  "num_followers": 331899,
   "original_name": "Operazione Buonumore!",
   "owner": {
     "name": "Spotify",
@@ -1255,18 +1255,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Zanaka (Deluxe)",
-        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
+        "name": "What's Love Got to Do with It",
+        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
       },
       "artists": [
         {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
         }
       ],
-      "duration_ms": 248986,
-      "name": "Makeba",
-      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
+      "duration_ms": 208156,
+      "name": "What's Love Got to Do with It",
+      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1287,22 +1291,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "What's Love Got to Do with It",
-        "url": "https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno"
+        "name": "Zanaka (Deluxe)",
+        "url": "https://open.spotify.com/album/2rb6C1wUwk7hFOVmfgt19k"
       },
       "artists": [
         {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Tina Turner",
-          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
         }
       ],
-      "duration_ms": 208156,
-      "name": "What's Love Got to Do with It",
-      "url": "https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW"
+      "duration_ms": 248986,
+      "name": "Makeba",
+      "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2024-05-22 11:01:00",

@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "Doe Maar",
+        "url": "https://open.spotify.com/album/0jw6ieOuuks0vMYStBr1yY"
+      },
+      "artists": [
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150674,
+      "name": "Doe Maar",
+      "url": "https://open.spotify.com/track/2oCFzEd9T5Tz9PWsINhaQ5"
+    },
+    {
+      "album": {
         "name": "Beste Zangers 2023 (Aflevering 8- Duetten)",
         "url": "https://open.spotify.com/album/0H0YZXJcL3FUaBpLy9HFwb"
       },
@@ -1324,6 +1342,24 @@
       "duration_ms": 151923,
       "name": "Echte Mannen",
       "url": "https://open.spotify.com/track/4o9157hDlVkI3yB6VlftO2"
+    },
+    {
+      "album": {
+        "name": "Achtentwintig (Deluxe)",
+        "url": "https://open.spotify.com/album/1PbjgkZJbYSo6x9XrSQ6kq"
+      },
+      "artists": [
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190043,
+      "name": "Een Beatle & Een Stone",
+      "url": "https://open.spotify.com/track/2oe1IjjNltSGysJfyC6hAu"
     },
     {
       "album": {
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 283361,
       "name": "Liefde Van Later",
       "url": "https://open.spotify.com/track/2x7ltK4hyYsRUALOqlKFk7"
@@ -3418,7 +3454,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172062,
       "name": "Re\u00fcnie",
       "url": "https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ"
@@ -3816,6 +3852,24 @@
       "duration_ms": 220946,
       "name": "Sterrenstof",
       "url": "https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh"
+    },
+    {
+      "album": {
+        "name": "De Lachende Derde",
+        "url": "https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4"
+      },
+      "artists": [
+        {
+          "name": "De Jeugd Van Tegenwoordig",
+          "url": "https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220946,
+      "name": "Sterrenstof",
+      "url": "https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF"
     },
     {
       "album": {
@@ -4256,7 +4310,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170048,
       "name": "Venus (ft. Noor)",
       "url": "https://open.spotify.com/track/5ImaYkWsroSsnfa0mD7vpD"

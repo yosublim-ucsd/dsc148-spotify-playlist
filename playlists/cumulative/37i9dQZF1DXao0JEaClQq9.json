@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Modern heavenly sounds. Cover: A.G. Cook",
+  "description": "Modern heavenly sounds. Cover: Youth Lagoon",
   "name": "Ethereal",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 279170,
       "name": "A Dream Goes On Forever",
       "url": "https://open.spotify.com/track/5OY32VyyPJDPBf2C2RTX9v"
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 148533,
       "name": "All A Dream",
       "url": "https://open.spotify.com/track/10RWFqvHZ9eMZFkLo0fbvW"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-17",
+      "date_removed": null,
       "duration_ms": 266721,
       "name": "Another Lover",
       "url": "https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 275506,
       "name": "Attention",
       "url": "https://open.spotify.com/track/56uOalQCSny79UjPrefkHy"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180973,
       "name": "Drown",
       "url": "https://open.spotify.com/track/6ADSuQulZwCVcffLD1Q2cL"
@@ -3564,9 +3564,9 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-15",
+      "date_removed": null,
       "duration_ms": 353021,
-      "name": "foolish thinking",
+      "name": "Foolish Thinking",
       "url": "https://open.spotify.com/track/5lvnhOrJy27bEhcfqIodjv"
     },
     {
@@ -3582,7 +3582,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 204507,
       "name": "Football",
       "url": "https://open.spotify.com/track/3rnMROSxN8mkZebMW5PpBb"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 239828,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4RPs3OeGwQFwUm3fuMbhgI"
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-21",
+      "date_removed": null,
       "duration_ms": 222021,
       "name": "Hold It Together",
       "url": "https://open.spotify.com/track/6gJ2H930mAD1zRqmoFiE4W"
@@ -6153,6 +6153,24 @@
     },
     {
       "album": {
+        "name": "Lucy Takes a Picture",
+        "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259131,
+      "name": "Lucy Takes a Picture",
+      "url": "https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN"
+    },
+    {
+      "album": {
         "name": "Janky Star",
         "url": "https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl"
       },
@@ -6280,7 +6298,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 266026,
       "name": "Mary Boone",
       "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
@@ -6944,6 +6962,24 @@
       "duration_ms": 168311,
       "name": "nice to know you",
       "url": "https://open.spotify.com/track/1Ox33f3cIVsAzhXpC6fYIp"
+    },
+    {
+      "album": {
+        "name": "Nightvisions",
+        "url": "https://open.spotify.com/album/4CJd6OKhNRsFfkmZoCGjZt"
+      },
+      "artists": [
+        {
+          "name": "Liana Flores",
+          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
+        }
+      ],
+      "date_added": "2024-05-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236320,
+      "name": "Nightvisions",
+      "url": "https://open.spotify.com/track/4BXmSAgyCYg39PTjFVWF5a"
     },
     {
       "album": {
@@ -8544,7 +8580,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 168810,
       "name": "sex money feelings die - slowed version",
       "url": "https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI"
@@ -8762,7 +8798,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-29",
+      "date_removed": null,
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
@@ -9008,7 +9044,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 234804,
       "name": "Soulbreaker",
       "url": "https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF"
@@ -11120,7 +11156,7 @@
       ],
       "date_added": "2021-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-19",
+      "date_removed": null,
       "duration_ms": 435080,
       "name": "yellow is the color of her eyes",
       "url": "https://open.spotify.com/track/5EDBVVqd2ogoG89XVQOvsn"

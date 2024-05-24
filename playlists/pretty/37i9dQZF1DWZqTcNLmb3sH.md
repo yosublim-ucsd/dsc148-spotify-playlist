@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Kotee
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,508 likes - 77 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,511 likes - 77 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,224 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,284 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 46 | [For My Family](https://open.spotify.com/track/7Dj01umonxmUOIHKdusZi7) | [Agnostic Front](https://open.spotify.com/artist/3zDvanHxaETiHltPkKKYhT) | [Warriors](https://open.spotify.com/album/1qO1e2RuxLTOODoAofQmVK) | 2:22 |
 | 47 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
 | 48 | [Blistered](https://open.spotify.com/track/0qFcZFSH5P6gT5FnPvCQ7X) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 2:27 |
-| 49 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
+| 49 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
 | 50 | [Always a Friend for Life](https://open.spotify.com/track/07jyJOIEqrz3sYofOLZBs5) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [The Victory Years](https://open.spotify.com/album/0k2JyzHuoT8gyidouFzMhj) | 2:15 |
 
 Snapshot ID: `ZcOw8AAAAACjkZdfXAQ4C5EioZb9Pa4b`

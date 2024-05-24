@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 
 > Apaga a luz e deixa rolar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,712 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,721 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 17 | [Do jeito que tu gosta](https://open.spotify.com/track/34D0w6kVzuQ35vyHIFrWTC) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [ImPKvel](https://open.spotify.com/album/42ptYCyz94D7b2Z2uadVBS) | 2:23 |
 | 18 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 |
 | 19 | [Primeira Vez](https://open.spotify.com/track/1AlHn9GTOYVrY21RaHGyDG) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ) | [Primeira Vez](https://open.spotify.com/album/3TwEiVQN9lxBZ98rCdnpt6) | 3:13 |
-| 20 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
-| 21 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
+| 20 | [Você Tem](https://open.spotify.com/track/6MMeHHFx8H30NoxkfAD5Bn) | [Dreicon](https://open.spotify.com/artist/2LISPU6eTTWHZeJmkElmMv), [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Você Tem](https://open.spotify.com/album/1HlIJFkzruHJ0LsgVth2tX) | 2:44 |
+| 21 | [Clichê](https://open.spotify.com/track/4eK0Z2KoqIvsyg0gbuZOvg) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Day](https://open.spotify.com/album/1H9uCuBYQzu2n5j0i728YF) | 2:41 |
 | 22 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 23 | [Grupo bom](https://open.spotify.com/track/7jlGVKeRzOz7fGk6pSiPlb) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2), [Luan Otten](https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq) | [Grupo bom](https://open.spotify.com/album/18d9vGhP809nhvWbrTLOeD) | 3:00 |
 | 24 | [Não Tenho Tempo](https://open.spotify.com/track/42Lqgo4o80uHEKKtaGOkj1) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR) | [Não Tenho Tempo](https://open.spotify.com/album/0DU5qPWKr1bR86WsRjiiPP) | 2:05 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadBoQSapxCg.md) - [plain]
 | 29 | [Vício](https://open.spotify.com/track/0ZajFsbQ6fZ4LMT2elOFuB) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Confundindo Sábios](https://open.spotify.com/album/73vP5dotg2gtDXVl1VoLYU) | 3:55 |
 | 30 | [Gold Coast](https://open.spotify.com/track/27hudnRUnesKNOZoiuLPVs) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Viver \(Mais leve que o ar\)](https://open.spotify.com/album/2TSwxXVstj31Js9PAgJ55u) | 4:19 |
 | 31 | [Também Quero](https://open.spotify.com/track/3bIVh3GF7hNqPpJYxzCcxU) | [Clau](https://open.spotify.com/artist/13A9x5VINTOaVnYxK4rbNQ), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm) | [Também Quero](https://open.spotify.com/album/6kW0t87Zimh1JKs91xnc2J) | 3:36 |
-| 32 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
-| 33 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 |
+| 32 | [Someway Somehow](https://open.spotify.com/track/480qefaDykyATTF4NGPtFb) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Someway Somehow](https://open.spotify.com/album/4GKSES7C3yzMLHiI1ETfSl) | 3:32 |
+| 33 | [Cê Tá Bem](https://open.spotify.com/track/0LdNETSAKTnzZ64JoOSMiv) | [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl) | [Cê Tá Bem](https://open.spotify.com/album/6I7wRp9Ic9oVpYNvRIS4A8) | 3:20 |
 | 34 | [100 por Hora](https://open.spotify.com/track/6UKVh2rVOOTcMI9Hsh8jX2) | [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [CMK](https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src) | [100 por Hora](https://open.spotify.com/album/60ipg4FiWce9Deo68OWZsA) | 3:16 |
 | 35 | [Tenho Você](https://open.spotify.com/track/2FJrDD1ZvsUg9klCy4LjCj) | [Davi Sabbag](https://open.spotify.com/artist/5XqH779LPE3MY0wFSg9JY8) | [Tenho Você](https://open.spotify.com/album/29PFiWp9zAiwoiIx4gyApm) | 3:05 |
 | 36 | [Jogo Sujo](https://open.spotify.com/track/5VoMWPTG7cAXonm2A3XcAq) | [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Nicoby](https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Jogo Sujo](https://open.spotify.com/album/5qy9homkyTypqh7ibHcDqY) | 3:25 |

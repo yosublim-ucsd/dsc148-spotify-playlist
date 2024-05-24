@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,753 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,807 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 24 | [Call It What You Want](https://open.spotify.com/track/3u1Er1rkjn1oSz1xdZH3ZD) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:58 |
 | 25 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 | 26 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
-| 27 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
-| 28 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 27 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 28 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 29 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 30 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
 | 31 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
 | 32 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
-| 33 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
-| 34 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
+| 33 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
+| 34 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 35 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
 | 36 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
 | 37 | [I Can Talk](https://open.spotify.com/track/4N90LxX3kWhJucPQ484Qy9) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 2:55 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 55 | [Pop Boy \(feat\. Aitch\)](https://open.spotify.com/track/3KcSwX6pyUnfJ0YZlcJE7d) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Heavy Is The Head](https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c) | 2:31 |
 | 56 | [Monster](https://open.spotify.com/track/6s3kEvE18DIURckoh0mWTZ) | [The Automatic](https://open.spotify.com/artist/7IZcg74X6CKzf0SfRliRrB) | [Not Accepted Anywhere](https://open.spotify.com/album/4GAjTcDqAzIvjarKA715I7) | 3:39 |
 | 57 | [Morrow](https://open.spotify.com/track/3sIoWQZbJqUKj5iELz8eTA) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 4:06 |
-| 58 | [Conqueror](https://open.spotify.com/track/3qBn2YAFbX16coGmScr7Y5) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:27 |
-| 59 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 |
+| 58 | [Fallin' Apart](https://open.spotify.com/track/2qKmnm0cEXnvD82C6Sr2hs) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [Fallin' Apart](https://open.spotify.com/album/7LK33wpZ5LmLwWkCMxDXdp) | 2:04 |
+| 59 | [Conqueror](https://open.spotify.com/track/3qBn2YAFbX16coGmScr7Y5) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 3:27 |
 | 60 | [Paddling Out](https://open.spotify.com/track/2egGsu9X7zdNJxU9Kftq6l) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Happy To You](https://open.spotify.com/album/1ypgE8LXmgSdpBWCa5gTOF) | 3:37 |
 | 61 | [Come Alive](https://open.spotify.com/track/0oZj6Xl6JJrr15jn05fcAe) | [FMLYBND](https://open.spotify.com/artist/6PwZP9O9dvJCMALhgjygnh) | [Come Alive](https://open.spotify.com/album/6ju6GANi9RGSl1ThPMtQj4) | 3:12 |
 | 62 | [Scatter](https://open.spotify.com/track/0s3ZpsAaVCbWxDhLq2B2wh) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 2:44 |

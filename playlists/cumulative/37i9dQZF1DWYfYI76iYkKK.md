@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-408 songs - 1 day 2 hr 55 min
+409 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Room Lights](https://open.spotify.com/track/3ijhojRPDW6JMuUrsWy7Jf) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [Room Lights](https://open.spotify.com/album/6iCeV2G9w63xGB0k365xGg) | 3:32 | 2022-06-16 | 2022-06-23 |
 | [Roselia](https://open.spotify.com/track/4xMVyWjK7rvXNkUAVXCd3S) | [Ruth Kueo](https://open.spotify.com/artist/0SueX3F8oyrlVY4i8JB6Lb) | [Roselia](https://open.spotify.com/album/21hUr3pkaozv93pAovUwBN) | 3:55 | 2023-08-03 | 2023-09-15 |
 | [Sent](https://open.spotify.com/track/5AoKmB6j3YcYqo33AdNUaM) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Sent](https://open.spotify.com/album/41wLtMsBB3697P5K2KtZsR) | 4:01 | 2023-10-05 | 2023-10-20 |
-| [so what.](https://open.spotify.com/track/7kp5jX3NL5xWene9JTwW3i) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [so what.](https://open.spotify.com/album/5cHG1xWu7hm4CbwPGTo1O2) | 2:31 | 2024-05-16 |  |
+| [so what.](https://open.spotify.com/track/7kp5jX3NL5xWene9JTwW3i) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq) | [so what.](https://open.spotify.com/album/5cHG1xWu7hm4CbwPGTo1O2) | 2:31 | 2024-05-16 | 2024-05-24 |
 | [Softer Than Starlight（柔多比星）](https://open.spotify.com/track/6g4wGpxgBgFscfxDZiKHyN) | [冉明阳](https://open.spotify.com/artist/7gn8b6PSGLSivahI4fq0Cl) | [Catecholamines](https://open.spotify.com/album/0acJ2NKXBasslauGuQp6Q5) | 5:14 | 2023-11-09 | 2023-11-24 |
 | [Sunshine \- Chinese Version](https://open.spotify.com/track/7Dy67OOwBZR61wV979AW8s) | [Sophia Kao](https://open.spotify.com/artist/6MeJZNLqjXuJ0fJ2yPlimo) | [Sunshine \(Chinese Version\)](https://open.spotify.com/album/0Tdt30UplFjakHhsvNMl5o) | 2:21 | 2023-08-03 | 2023-08-18 |
 | [Tattoo \- "REBORN" Movie Ending Song](https://open.spotify.com/track/0H7sm4ptv8fFTkbHDRZoP1) | [F.I.R.](https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu) | [Tattoos \("Reborn" Movie Ending Song\)](https://open.spotify.com/album/7DWUnMnAtkQaU5vYRtE7Gr) | 4:29 | 2022-06-30 | 2022-07-27 |
@@ -199,6 +199,7 @@
 | [当全世界忘了我](https://open.spotify.com/track/19FOWxZzrcErmF5P95vPqu) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [希忘Hope](https://open.spotify.com/album/3UEMDGalqaizcZmVkLdV51) | 5:22 | 2023-01-26 | 2023-02-03 |
 | [当全世界忘了我](https://open.spotify.com/track/2wvoqZC0fvJV4L7rLkAFLp) | [Hua Chen Yu](https://open.spotify.com/artist/7v7bP8NfcMYh4sDADEAy6Z) | [当全世界忘了我](https://open.spotify.com/album/2rMck4VJ3rxG5g9XtkXZeu) | 5:22 | 2023-01-19 | 2023-02-01 |
 | [待在我身边](https://open.spotify.com/track/3neQDftDB6rG2LBnNtUMyv) | [Stephie慧仪](https://open.spotify.com/artist/78N8pwmz1BMP2tUbnT433O) | [待在我身边](https://open.spotify.com/album/25yKpcPq9SlaiPiwsGuOgK) | 3:56 | 2023-03-02 | 2023-03-18 |
+| [後視鏡](https://open.spotify.com/track/32oTT0te8RGfNuATgUCccI) | [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [我的雷雨季電台](https://open.spotify.com/album/1attG5PJNgR3NbWsVRAHF1) | 2:42 | 2024-05-23 |  |
 | [微笑分手](https://open.spotify.com/track/0bwSgYnYeDKu5fhJ7y63rg) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy) | [微笑分手](https://open.spotify.com/album/0vDcTUTmDEY8ryGNVKJlsi) | 4:21 | 2022-06-30 | 2022-07-11 |
 | [心的一天](https://open.spotify.com/track/5lEX3SmF9PW55qLo9GjbPw) | [Valencia 胡雪瑜](https://open.spotify.com/artist/4yMIDvM4wXmxuvE3IGrbf1) | [心的一天](https://open.spotify.com/album/4VlmvI6V4TnVOn81n8MiBu) | 3:22 | 2023-11-09 | 2023-11-24 |
 | [忘了說，你已經很好了](https://open.spotify.com/track/5TzZwL4gU69qHiKKAkCXNo) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [BITE BACK](https://open.spotify.com/album/3X1sMupgW7KQJQsk0QXAdM) | 3:58 | 2023-10-12 | 2023-12-02 |

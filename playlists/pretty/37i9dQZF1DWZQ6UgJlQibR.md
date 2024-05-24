@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 
 > Where music and emotions meet\. Cover: <a href="spotify:artist:7Ddov9nbJDbpgzvBVb7cU1">George Wassouf</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,518 likes - 38 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,579 likes - 38 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 19 | [El Zakah](https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t) | [Latifa](https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe) | [El Zakah](https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc) | 1:59 |
 | 20 | [Meen Habeebee Ana \(Duet Nawal Al Zoghbi\)](https://open.spotify.com/track/5Ht5pDYfnyxp8SuEndKDQF) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Kfoury Classic](https://open.spotify.com/album/1ICamuikY1Ye2nRiSUXN8x) | 5:42 |
 | 21 | [Mali \- Live](https://open.spotify.com/track/6jmz2f0MQGvQMbFoWejFtH) | [Fadel Chaker](https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs) | [Sahra \(Live Rare Concert Recording\)](https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl) | 3:54 |
-| 22 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
+| 22 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
 | 23 | [Helwit El Helwat](https://open.spotify.com/track/140SsIEUuQkdJl5nMe6OuY) | [Wadih Mrad](https://open.spotify.com/artist/3pQqjrraV2G4bFczsJjMT2) | [Helwit El Helwat](https://open.spotify.com/album/1YjN9eAsvTRTr4jlxDVMJ6) | 5:14 |
 | 24 | [Hal El Garih](https://open.spotify.com/track/2PxhxoJgeJIgPerBhjLrzQ) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1) | [Hal El Garih](https://open.spotify.com/album/3Bl6meUuub4jAvIEJyyAIl) | 3:21 |
 | 25 | [Kellon Aannik Sa'alouni \- Live](https://open.spotify.com/track/4ll3vZTlOKEYzpQ3OjBnza) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Osset Helem \(Live\)](https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW) | 6:05 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ6UgJlQibR.md) - [plain]
 | 27 | [Allaylou ya Layla](https://open.spotify.com/track/6cfPLNdptZyDvDD6ugWCro) | [Wadie Essafi](https://open.spotify.com/artist/1Y1kbL4LA0JzApNPox6TrH) | [Noujoum aghani zamane](https://open.spotify.com/album/1qwsdN250QIB3s13ibi16U) | 6:03 |
 | 28 | [Sallem Aaleha](https://open.spotify.com/track/0fV5cFZhetebJVSe4HCIiO) | [Melhem Barakat](https://open.spotify.com/artist/5fv3EVYW9U0DYDaAInC4fS) | [Melhem Barakat](https://open.spotify.com/album/5NV5n0I5B6MxYYWV9cd3vK) | 5:25 |
 | 29 | [Beateriflik](https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [Beateriflik](https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI) | 9:02 |
-| 30 | [Ibaati Gawab](https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 7:29 |
+| 30 | [Al\-Hobbi Koullou](https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly) | [Nour Mehanna](https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF) | [Greatest Hits](https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD) | 6:29 |
 | 31 | [Debna Aa Ghiyabak \- Live](https://open.spotify.com/track/2RitpqrakB9vc8qvLgZnDH) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Osset Helem \(Live\)](https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW) | 5:03 |
 | 32 | [Maliket Gamal El Rouh](https://open.spotify.com/track/4q1dJXzkpdTe7WJStVmTS9) | [George Wassouf](https://open.spotify.com/artist/7Ddov9nbJDbpgzvBVb7cU1), [Toni Haddad](https://open.spotify.com/artist/7gt64IxYh3W4hkqffJ1qAa) | [Maliket Gamal El Rouh](https://open.spotify.com/album/0fvTIEDvIQ7ZzIj7a5rsP8) | 3:47 |
 | 33 | [Ma Tehun](https://open.spotify.com/track/39ohufVtqCn9ySNSL0800B) | [Yara](https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e) | [Ma Tehun](https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr) | 4:57 |

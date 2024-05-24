@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Don Pero in cover.",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. 8blevrai in cover.",
   "name": "Raptopia",
   "tracks": [
     {
@@ -354,7 +354,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 161850,
       "name": "2 THE TOP (feat. Justinowusu)",
       "url": "https://open.spotify.com/track/25EfgHjpWSf7Y30p8gUdvM"
@@ -1075,6 +1075,28 @@
     },
     {
       "album": {
+        "name": "AFFIDAMENTO",
+        "url": "https://open.spotify.com/album/7giGjwm5mpuKSr4YLCYWqK"
+      },
+      "artists": [
+        {
+          "name": "Skinny",
+          "url": "https://open.spotify.com/artist/1NHdROm8HLgfbar8uCIZGk"
+        },
+        {
+          "name": "Enzo Benz",
+          "url": "https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141950,
+      "name": "AFFIDAMENTO",
+      "url": "https://open.spotify.com/track/1cyToyIoI0Nr1iSfQWXtzV"
+    },
+    {
+      "album": {
         "name": "Again 'N' Again",
         "url": "https://open.spotify.com/album/1GaHmqWHW21a4RHPpCqsqY"
       },
@@ -1754,7 +1776,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 171555,
       "name": "AVEVO RAGIONE",
       "url": "https://open.spotify.com/track/1iGgK8BRLotvfNETSl1B9r"
@@ -1896,7 +1918,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 110571,
       "name": "Bad & Boujee",
       "url": "https://open.spotify.com/track/7wb3XAsfYonlLGYT8lRAZi"
@@ -2294,7 +2316,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 151037,
       "name": "BASTA SESSION N\u00b03 (feat. Altea, Silent Bob, Alessio Dal Checco, Martina Campi)",
       "url": "https://open.spotify.com/track/2S2S3UIJ7XfgtXGVPCSKyI"
@@ -3008,6 +3030,28 @@
       "duration_ms": 137684,
       "name": "BLA",
       "url": "https://open.spotify.com/track/08z50YKD3TdfDQbrflFc8n"
+    },
+    {
+      "album": {
+        "name": "BlaBlaBoy",
+        "url": "https://open.spotify.com/album/6GDtHXq1aVtov7oc1i9n6r"
+      },
+      "artists": [
+        {
+          "name": "Sisco",
+          "url": "https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE"
+        },
+        {
+          "name": "DiglieloMosi",
+          "url": "https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101312,
+      "name": "BlaBlaBoy",
+      "url": "https://open.spotify.com/track/6XjVX7wO3hWj5zmvwFVZrr"
     },
     {
       "album": {
@@ -4452,7 +4496,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193827,
       "name": "Chiamavi Me",
       "url": "https://open.spotify.com/track/1CFsefv7JaJjTg1f7iApUA"
@@ -4672,7 +4716,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 137872,
       "name": "CLAP",
       "url": "https://open.spotify.com/track/69fSWmNpHYANjhjIAzuVuS"
@@ -4832,6 +4876,28 @@
       "duration_ms": 150500,
       "name": "Cocaina & Squirting (feat. Nerissima Serpe & TwentyTwo)",
       "url": "https://open.spotify.com/track/31S4RfP6Y02fJDBLbc8f7y"
+    },
+    {
+      "album": {
+        "name": "Cocaina (feat. Don Pero)",
+        "url": "https://open.spotify.com/album/534APhNqtPZDcua3ALuqPt"
+      },
+      "artists": [
+        {
+          "name": "Il Ghost",
+          "url": "https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX"
+        },
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154355,
+      "name": "Cocaina (feat. Don Pero)",
+      "url": "https://open.spotify.com/track/72raywHOW3sBZkcoXHuHkC"
     },
     {
       "album": {
@@ -6568,6 +6634,24 @@
       "duration_ms": 185500,
       "name": "E Io Gioco A Hockey",
       "url": "https://open.spotify.com/track/58sLGcshW6p5uzZSPVMLZb"
+    },
+    {
+      "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/65WuA2IVCyigfJX5blpDq3"
+      },
+      "artists": [
+        {
+          "name": "Faneto",
+          "url": "https://open.spotify.com/artist/51101YZl9bczaDPDfVHCB4"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159529,
+      "name": "Eddie",
+      "url": "https://open.spotify.com/track/3wKQdlOJXFZmOW75urInNK"
     },
     {
       "album": {
@@ -10503,6 +10587,24 @@
     },
     {
       "album": {
+        "name": "KILL AU MIC",
+        "url": "https://open.spotify.com/album/4TOPISag2zNvXTVN0voCoo"
+      },
+      "artists": [
+        {
+          "name": "Nabi",
+          "url": "https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155323,
+      "name": "KILL AU MIC",
+      "url": "https://open.spotify.com/track/6QqG5u7yw2wHVWpiqJVmLm"
+    },
+    {
+      "album": {
         "name": "Killshot",
         "url": "https://open.spotify.com/album/4oLnUt41zlJjNA3wRJzX8n"
       },
@@ -13780,7 +13882,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 155200,
       "name": "MON BAE",
       "url": "https://open.spotify.com/track/4iFdrfGByFjbdUqgnvKcDd"
@@ -13820,6 +13922,24 @@
       "duration_ms": 147298,
       "name": "MONCLER",
       "url": "https://open.spotify.com/track/1TXyie8C4lvN2s2c49kuKX"
+    },
+    {
+      "album": {
+        "name": "Money Moves",
+        "url": "https://open.spotify.com/album/2U6uOBlcEf55rtidCVLHGt"
+      },
+      "artists": [
+        {
+          "name": "Don Said",
+          "url": "https://open.spotify.com/artist/2I5bwg7ZUD8JiM12xMMGYO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Money Moves",
+      "url": "https://open.spotify.com/track/05rP42yfVJUHWxb1hUL08o"
     },
     {
       "album": {
@@ -15057,6 +15177,24 @@
     },
     {
       "album": {
+        "name": "Non sono JT",
+        "url": "https://open.spotify.com/album/3eQTN8O6HLUSv4OqG3g04R"
+      },
+      "artists": [
+        {
+          "name": "Enny P",
+          "url": "https://open.spotify.com/artist/6BiW9C6z0jgaJee9d0btwj"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120662,
+      "name": "Non sono JT",
+      "url": "https://open.spotify.com/track/7fZP0S5SBO2WNqKBqe3k9V"
+    },
+    {
+      "album": {
         "name": "NON SORRIDO",
         "url": "https://open.spotify.com/album/6dIcAn8cSQpURPZjstB7LP"
       },
@@ -15643,6 +15781,36 @@
     },
     {
       "album": {
+        "name": "Opera (feat. Rosa Chemical)",
+        "url": "https://open.spotify.com/album/5YYqzDuldow1G4ZTT8XNYM"
+      },
+      "artists": [
+        {
+          "name": "Diss Gacha",
+          "url": "https://open.spotify.com/artist/4TKF8KSK6bgHgszFxu5xzu"
+        },
+        {
+          "name": "Sala",
+          "url": "https://open.spotify.com/artist/3JgYm8oVvcrFpJBUNIonqM"
+        },
+        {
+          "name": "Rosa Chemical",
+          "url": "https://open.spotify.com/artist/5gYADZXuZoaJwrwfAPbKuH"
+        },
+        {
+          "name": "Greg Willen",
+          "url": "https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162406,
+      "name": "Opera (feat. Rosa Chemical)",
+      "url": "https://open.spotify.com/track/3Qtj3JgmPqykqclbYIGsYe"
+    },
+    {
+      "album": {
         "name": "ORMAI",
         "url": "https://open.spotify.com/album/2T5LTATAl3rPJIJins2Gws"
       },
@@ -15838,7 +16006,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 123333,
       "name": "Pakistan",
       "url": "https://open.spotify.com/track/6SIFe55msdOm9iwjPITEN8"
@@ -16442,7 +16610,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 124629,
       "name": "PETTINATO (feat. Side Baby)",
       "url": "https://open.spotify.com/track/440qvNmOk5Doccg3MIFzGg"
@@ -16468,7 +16636,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 148250,
       "name": "Pezzi Che Cadono (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/3ck23O4wJjSdl1q7WpFWmk"
@@ -16736,7 +16904,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 104905,
       "name": "PLEASE",
       "url": "https://open.spotify.com/track/73TyCjXga0Qs7C4NzBNrJU"
@@ -19877,6 +20045,32 @@
     },
     {
       "album": {
+        "name": "SOUNDCLOUD",
+        "url": "https://open.spotify.com/album/4r6INgOpU0nhjNkBEbu59y"
+      },
+      "artists": [
+        {
+          "name": "Raspyy",
+          "url": "https://open.spotify.com/artist/06aQxTBpi11b8LTWNw4yCd"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "Maska",
+          "url": "https://open.spotify.com/artist/6SiEcWAwt9JaK8RwV3AFk7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158190,
+      "name": "SOUNDCLOUD",
+      "url": "https://open.spotify.com/track/4Dsv1tNl0N5G2zFEXb6CWR"
+    },
+    {
+      "album": {
         "name": "Sparami",
         "url": "https://open.spotify.com/album/2ixzbvOnqYcM9w8ycaucAc"
       },
@@ -21233,6 +21427,24 @@
     },
     {
       "album": {
+        "name": "Top",
+        "url": "https://open.spotify.com/album/6EpgmYMlgURL6CmQrVjZye"
+      },
+      "artists": [
+        {
+          "name": "Lefar",
+          "url": "https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145604,
+      "name": "Top",
+      "url": "https://open.spotify.com/track/3wqoCPK5S7NpUavgvqo4HL"
+    },
+    {
+      "album": {
         "name": "Top Boy",
         "url": "https://open.spotify.com/album/6bsDeN3YlLDok3kefnmSZF"
       },
@@ -22489,6 +22701,32 @@
     },
     {
       "album": {
+        "name": "Vis a Vis",
+        "url": "https://open.spotify.com/album/5VTWZuEhrfP2mDwkn5ApSz"
+      },
+      "artists": [
+        {
+          "name": "8blevrai",
+          "url": "https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "wherestheplug",
+          "url": "https://open.spotify.com/artist/1GnHdsagr2KE4NG74AUI0K"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147187,
+      "name": "Vis a Vis",
+      "url": "https://open.spotify.com/track/6LiIq6x7MS67eCY7pzB2A1"
+    },
+    {
+      "album": {
         "name": "Visione",
         "url": "https://open.spotify.com/album/7acgsEtQqnV35d9R10e7ij"
       },
@@ -23296,7 +23534,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165971,
       "name": "Yemen",
       "url": "https://open.spotify.com/track/0JvnqGDhi3yUZ9aMleCkHN"

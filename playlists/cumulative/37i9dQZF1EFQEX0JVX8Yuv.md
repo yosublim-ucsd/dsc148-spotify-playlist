@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6z0YyO7RUp5t7ZwkGKApUK">Kim Petras</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-110 songs - 5 hr 21 min
+111 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [They Wanna Fuck](https://open.spotify.com/track/27mMvmKRyrsz7i2cfTMgSQ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:30 | 2023-12-30 |  |
 | [Thousand Pieces](https://open.spotify.com/track/5BD7pe4kVItwJ71ZXcZnKa) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Feed The Beast](https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA) | 2:23 | 2023-12-30 |  |
 | [Throat Goat](https://open.spotify.com/track/2eKFa10K8Hu1VCTLm3DUkO) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:20 | 2023-12-30 |  |
+| [tqum \(feat\. Kim Petras\) \- Remix](https://open.spotify.com/track/4XkGvXQm7GKZDZkQ6CgMDN) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [tqum \(feat\. Kim Petras\) \[Remix\]](https://open.spotify.com/album/3AkqnUN42HjnrhzjDOA8IS) | 2:29 | 2024-05-23 |  |
 | [TRANSylvania](https://open.spotify.com/track/32VchQeK273DRQDHPoG6RZ) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [TURN OFF THE LIGHT, VOL\. 1](https://open.spotify.com/album/06dIF5QLVJ4YLAHqhvn88H) | 2:59 | 2023-12-30 |  |
 | [Treat Me Like A Ho](https://open.spotify.com/track/5b67O08sN2itkQPsNmafPx) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Problématique](https://open.spotify.com/album/4jNUzWbnKjO05E4VtLCHth) | 1:55 | 2024-01-03 |  |
 | [Treat Me Like A Slut](https://open.spotify.com/track/0dlP9SnqQa5k1A9mReybFb) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 1:58 | 2023-12-30 |  |

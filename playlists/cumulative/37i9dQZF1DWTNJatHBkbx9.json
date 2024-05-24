@@ -532,7 +532,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188478,
       "name": "Here I Stand",
       "url": "https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4"
@@ -761,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Not Yet",
+        "url": "https://open.spotify.com/album/6SDFshZ7AQfrahxEFaaxeD"
+      },
+      "artists": [
+        {
+          "name": "Ari Rei",
+          "url": "https://open.spotify.com/artist/1UjKYaSaIIABUpkOVxvcPo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161927,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/2r6byHfJyDmY7COr5cHLbK"
+    },
+    {
+      "album": {
         "name": "OFF",
         "url": "https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY"
       },
@@ -772,7 +790,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188000,
       "name": "OFF",
       "url": "https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D"
@@ -1068,6 +1086,24 @@
       "duration_ms": 171685,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo"
+    },
+    {
+      "album": {
+        "name": "Soft Vibez (Acoustic)",
+        "url": "https://open.spotify.com/album/6NWc7JXrrOaxQevjWNGUAd"
+      },
+      "artists": [
+        {
+          "name": "Mishasha",
+          "url": "https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261048,
+      "name": "Soft Vibez - Acoustic",
+      "url": "https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz"
     },
     {
       "album": {

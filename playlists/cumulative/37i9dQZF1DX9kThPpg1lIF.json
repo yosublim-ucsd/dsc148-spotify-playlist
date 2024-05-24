@@ -777,6 +777,24 @@
     },
     {
       "album": {
+        "name": "Way Out Here",
+        "url": "https://open.spotify.com/album/1iv2nD5tn753NFkDY79Tb7"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220558,
+      "name": "Worst Way",
+      "url": "https://open.spotify.com/track/1osfLqL6L2iQsirRf83ded"
+    },
+    {
+      "album": {
         "name": "Rearview Town",
         "url": "https://open.spotify.com/album/0m3ZCK4dSvyq6KUzEWdMhE"
       },

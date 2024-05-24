@@ -2,9 +2,9 @@
 
 ### [Esenciales](https://open.spotify.com/playlist/37i9dQZF1DX3omIq8ziEt6)
 
-> Timeless Latin hits\. Éxitos icónicos e inolvidables, con Selena en portada.
+> Timeless Latin hits\. Son 5 años de 'Homerun', el álbum debut de Paulo Londra.
 
-552 songs - 1 day 11 hr 12 min
+553 songs - 1 day 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [A Que No Me Dejas](https://open.spotify.com/track/4s5D7IM9z6xDVwOg9r8Hqp) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Que No Me Dejas](https://open.spotify.com/album/1RBxYmkmyQrYUZ84ifjotd) | 5:21 | 2021-12-09 | 2022-07-23 |
 | [A quien tú decidiste amar](https://open.spotify.com/track/3lJwIAfeWtnNRbJXWbIHKD) | [Sandoval](https://open.spotify.com/artist/4FG27h3EzTkxI1YDnHhuRW) | [Lo Que Siempre Soñamos Ser](https://open.spotify.com/album/0zk9uwiVhuRfUs6XnE2wsx) | 3:49 | 2021-12-09 | 2023-06-20 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2021-12-09 |  |
+| [Adan y Eva](https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 4:16 | 2024-05-23 |  |
 | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/track/3jbT1Y5MoPwEIpZndDDwVq) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Adicto \(with Anuel AA & Ozuna\)](https://open.spotify.com/album/7nqA49hzXJWPH4cnM8nk6x) | 4:30 | 2022-06-27 | 2024-04-23 |
 | [Afuera](https://open.spotify.com/track/3pJfnBjO3kjudEchcPEDxS) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Nervio Del Volcan](https://open.spotify.com/album/2mPZNQNgW1zrkIPyL9XJcf) | 4:48 | 2022-06-27 |  |
 | [Ahora Te Puedes Marchar](https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Soy Como Quiero Ser](https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z) | 3:11 | 2021-12-09 |  |
@@ -359,7 +360,7 @@
 | [No Se Me Quita \(feat\. Ricky Martin\)](https://open.spotify.com/track/1GBLO0NFODuL31A5fgw0uR) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [11:11](https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND) | 3:39 | 2022-01-01 | 2022-05-08 |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2024-04-22 |  |
 | [No soy una de esas \(feat\. Alejandro Sanz\)](https://open.spotify.com/track/3QjkcFDVHOB4Z43esP5A8N) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR), [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Un Besito Más](https://open.spotify.com/album/6pmTwCb5SeTjV9wdnkbDo3) | 3:30 | 2022-06-03 | 2022-06-05 |
-| [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2024-04-22 |  |
+| [No Sé Tú](https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:49 | 2024-04-22 | 2024-05-24 |
 | [No te apartes de mí](https://open.spotify.com/track/5Q4URpD128FS493nL7LibV) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Recuerdos](https://open.spotify.com/album/3OJpU93zbJQlSPVH2Fp9pm) | 4:05 | 2021-12-09 | 2022-07-29 |
 | [No Te Cambiaría](https://open.spotify.com/track/0ZJfYmIBAflP0r1NQnVgh2) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [No Te Cambiaría](https://open.spotify.com/album/1aDBLZwvSPhmBQhqSTEYrJ) | 3:49 | 2022-06-03 | 2022-06-25 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-09-12 | 2024-04-23 |
@@ -391,7 +392,7 @@
 | [Por Amarte](https://open.spotify.com/track/4AQZNgdG73f2ZdC6VUZqBL) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Enrique Iglesias](https://open.spotify.com/album/2NwF2C2Z9sSgePRArAA5cl) | 4:01 | 2021-12-09 | 2022-07-29 |
 | [Por Amarte Así](https://open.spotify.com/track/2bvO1KXbUd4vySCWGNqIIa) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Mi Vida Sin Tu Amor](https://open.spotify.com/album/4b7x5wHqzZETVAPcGIG5nl) | 4:32 | 2021-12-09 |  |
 | [Por Besarte](https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL) | [LU](https://open.spotify.com/artist/1G4QsyR9Fj6k8JJK233X8C) | [Lu](https://open.spotify.com/album/0FDD3Y5vJ0chGNLtJju6nq) | 3:37 | 2022-02-03 | 2022-07-25 |
-| [Por Debajo De La Mesa](https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:04 | 2021-12-09 | 2024-05-23 |
+| [Por Debajo De La Mesa](https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU) | 3:04 | 2021-12-09 |  |
 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 | 2024-01-16 | 2024-04-23 |
 | [Por Fin Te Encontré](https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Por Fin Te Encontré](https://open.spotify.com/album/6waZU5OJmLrEJqUvy4Zytm) | 4:10 | 2022-06-27 |  |
 | [Por Lo Que Reste de Vida](https://open.spotify.com/track/7qDkY9Y9v9eFV53AalBcSd) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Amore Mio \(Deluxe Edition\)](https://open.spotify.com/album/1c02pV8A4VtKLRB5G1SLyV) | 3:38 | 2021-12-09 | 2022-07-28 |
@@ -431,7 +432,7 @@
 | [Rompe](https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino En Directo](https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy) | 3:08 | 2024-05-07 |  |
 | [Rosa Pastel](https://open.spotify.com/track/3mU0DbuWtUX5KCaovOQZVK) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Dulce Beat](https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK) | 3:05 | 2022-06-27 | 2024-04-23 |
 | [Rosas](https://open.spotify.com/track/4waqcUQWdj0yH26STWl2Rq) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Lo Que Te Conte Mientras Te Hacias La Dormida](https://open.spotify.com/album/1Atbkyir7YdfpFYWCnRTFp) | 3:56 | 2021-12-09 | 2024-04-23 |
-| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-05-07 |  |
+| [Rosas](https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [París](https://open.spotify.com/album/0QM5DL8C9uOYI2hGKbLUq8) | 3:57 | 2024-05-07 | 2024-05-24 |
 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 | 2021-12-09 | 2022-12-25 |
 | [Safaera](https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [YHLQMDLG](https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1) | 4:55 | 2023-01-19 | 2023-05-11 |
 | [Saturno](https://open.spotify.com/track/2f0Ft2XdvNSMSY5TUlZgEz) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Prometo](https://open.spotify.com/album/4qtl6sl6iwC37wRM9lbssD) | 4:13 | 2024-04-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=KSw0R-1dRNmhVaqTzh-ZxA\">Tito M</a>, <a href=\"https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=FUQtT2lMSDKowOkSCw5fQQ\">Burna Boy</a>, <a href=\"https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=oM6IBWHoQLylpGQBv-IJIA\">Yuppe</a>",
+  "description": "\nThe biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd?si=gVq2P2H-QYewoh9F2CRyzA\">ShaunMusiq & Ftears</a>, <a href=\"https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN?si=OdzGr6WJSAGe_7KNZdLf5Q\">Myztro</a>, <a href=\"https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS?si=UM0D_2jgQP-b3iOniLwRGA\">Scotts Maphuma</a>",
   "name": "AMAPIANO grooves",
   "tracks": [
     {
@@ -5407,6 +5407,32 @@
     },
     {
       "album": {
+        "name": "Cishe Nga Posta",
+        "url": "https://open.spotify.com/album/0aSWwyOt1FNJhNTBn8ja77"
+      },
+      "artists": [
+        {
+          "name": "ShaunMusiq & Ftears",
+          "url": "https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd"
+        },
+        {
+          "name": "Myztro",
+          "url": "https://open.spotify.com/artist/6egY1uh8HjHy6TrD0qmQNN"
+        },
+        {
+          "name": "Scotts Maphuma",
+          "url": "https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345597,
+      "name": "Cishe Nga Posta",
+      "url": "https://open.spotify.com/track/32BO8PBNFVDWh2Fwzs4izZ"
+    },
+    {
+      "album": {
         "name": "MGUZUGUZU",
         "url": "https://open.spotify.com/album/00dyrFrMiMjk16sYwMvSRl"
       },
@@ -10756,6 +10782,44 @@
       "duration_ms": 380011,
       "name": "iJ\u00e4ger",
       "url": "https://open.spotify.com/track/6mbrmqcEnrBitKyrXlAzMu"
+    },
+    {
+      "album": {
+        "name": "iJ\u00e4ger (feat. Nation Deep, DeeStar & Givem Tyler Litch)",
+        "url": "https://open.spotify.com/album/6nixw6nw7Gd9ohd4yWKxyj"
+      },
+      "artists": [
+        {
+          "name": "Nandipha808",
+          "url": "https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW"
+        },
+        {
+          "name": "Philharmonic",
+          "url": "https://open.spotify.com/artist/5OLi7K8O3aYSV3GQRXdYmb"
+        },
+        {
+          "name": "LeeMcKrazy",
+          "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "Nation Deep",
+          "url": "https://open.spotify.com/artist/1q2d9E5Lp9a8p0YbJwSh9T"
+        },
+        {
+          "name": "DeeStar",
+          "url": "https://open.spotify.com/artist/2oKOeIaXuNoElWViZeM9g1"
+        },
+        {
+          "name": "Givem Tyler Litch",
+          "url": "https://open.spotify.com/artist/2G3igL8UdBrdTKqwWGs9W2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402938,
+      "name": "iJ\u00e4ger (feat. Nation Deep, DeeStar & Givem Tyler Litch)",
+      "url": "https://open.spotify.com/track/3uHq8OUSeI6JGjo63FOt73"
     },
     {
       "album": {
@@ -16419,6 +16483,32 @@
     },
     {
       "album": {
+        "name": "Magents (Khululu)",
+        "url": "https://open.spotify.com/album/4CqntmDXUQkYkfJYroFAs0"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Robot Boii",
+          "url": "https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 420033,
+      "name": "Magents (Khululu)",
+      "url": "https://open.spotify.com/track/6lQTHlyhOsQ0FSSWRNepce"
+    },
+    {
+      "album": {
         "name": "Majo",
         "url": "https://open.spotify.com/album/62I8Iq14u5T618srVJm3pd"
       },
@@ -19960,7 +20050,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 427909,
       "name": "Ngino Mona",
       "url": "https://open.spotify.com/track/5WxQ6SP8DGg0LMAmoVtbRI"
@@ -22118,7 +22208,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237857,
       "name": "Pressure (feat. Thama Tee)",
       "url": "https://open.spotify.com/track/5Z4GEEF7ePjdUzPY6CKOoI"
@@ -24428,7 +24518,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 351000,
       "name": "Skontiri",
       "url": "https://open.spotify.com/track/4po57qphS5dHDitAV2JSML"
@@ -25136,6 +25226,36 @@
       "duration_ms": 347402,
       "name": "Space Wave",
       "url": "https://open.spotify.com/track/0ZDLljKk7QWR4TpKmiYfpS"
+    },
+    {
+      "album": {
+        "name": "Sparapara",
+        "url": "https://open.spotify.com/album/1K6L7LEuzFOsJ3lSlDDPBE"
+      },
+      "artists": [
+        {
+          "name": "Vigro Deep",
+          "url": "https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH"
+        },
+        {
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+        },
+        {
+          "name": "Ch'cco",
+          "url": "https://open.spotify.com/artist/2j4WQI5RTNgyEd7wbDTRe1"
+        },
+        {
+          "name": "M.J",
+          "url": "https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412494,
+      "name": "Sparapara",
+      "url": "https://open.spotify.com/track/1GAR1diw0oYXaAOAL63qFU"
     },
     {
       "album": {
@@ -28642,7 +28762,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 410792,
       "name": "Ubuwazi (feat. Xduppy & Eemoh)",
       "url": "https://open.spotify.com/track/7GsCckIbKZnmuy0Tw9pAgD"

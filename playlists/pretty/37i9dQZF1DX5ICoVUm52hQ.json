@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 148866,
+  "num_followers": 148897,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 205413,
+      "name": "Lim\u00f3n y Sal",
+      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -539,18 +539,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 205413,
-      "name": "Lim\u00f3n y Sal",
-      "url": "https://open.spotify.com/track/7dITAq1YP5e0kTcaDq4YWI"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "El Que Busca Encuentra",
+        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
+      },
+      "artists": [
+        {
+          "name": "Elefante",
+          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
+        }
+      ],
+      "duration_ms": 310146,
+      "name": "As\u00ed Es la Vida",
+      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Amor a Primera Vista",
         "url": "https://open.spotify.com/album/6FSP9t3yTTFO6hOBkIxOIY"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "El Que Busca Encuentra",
-        "url": "https://open.spotify.com/album/0fuY5UnmF59L4xKeRSZFbm"
-      },
-      "artists": [
-        {
-          "name": "Elefante",
-          "url": "https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb"
-        }
-      ],
-      "duration_ms": 310146,
-      "name": "As\u00ed Es la Vida",
-      "url": "https://open.spotify.com/track/3q2aVABxuztNi3iS6h6qdB"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Mon Laferte (Vol. 1)",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Palabra De Honor",
-        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 180239,
-      "name": "La Chica Del Bikini Azul",
-      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Rocanlover",
         "url": "https://open.spotify.com/album/45fpjQkEMNvYJn5SGPcCSX"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 203626,
       "name": "Love",
       "url": "https://open.spotify.com/track/5tyznRXlcIx0XlQ7S8iCMW"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Palabra De Honor",
+        "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 180239,
+      "name": "La Chica Del Bikini Azul",
+      "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -875,22 +875,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "En Total Plenitud",
-        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Sol\u00eds",
-          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
-        }
-      ],
-      "duration_ms": 228920,
-      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
-      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 238133,
       "name": "Fotograf\u00eda",
       "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "En Total Plenitud",
+        "url": "https://open.spotify.com/album/6RXfdbB8YWgmE6LjXs6RHg"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "\u00bfA D\u00f3nde Vamos A Parar?",
+      "url": "https://open.spotify.com/track/1Agu4u8a8Qm28zq5JtwaVv"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Sus 16 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
-      },
-      "artists": [
-        {
-          "name": "Roc\u00edo D\u00farcal",
-          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
-        }
-      ],
-      "duration_ms": 219106,
-      "name": "La Gata Bajo la Lluvia",
-      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/3B7djG7pr1PycUJiWW6NQL"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 307866,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/3OK8WgNRmp4F3ahXe6XX6l"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Sus 16 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i"
+      },
+      "artists": [
+        {
+          "name": "Roc\u00edo D\u00farcal",
+          "url": "https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB"
+        }
+      ],
+      "duration_ms": 219106,
+      "name": "La Gata Bajo la Lluvia",
+      "url": "https://open.spotify.com/track/2kfSFdq2h0xLXq01em1zc7"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Jose Jose (1)",
-        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
+        "name": "Bajo El Signo De Ca\u00edn",
+        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         }
       ],
-      "duration_ms": 253000,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
+      "duration_ms": 278293,
+      "name": "Si t\u00fa no vuelves",
+      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Bajo El Signo De Ca\u00edn",
-        "url": "https://open.spotify.com/album/3TNVefBL4j3T9Cr7XU232u"
+        "name": "Jose Jose (1)",
+        "url": "https://open.spotify.com/album/7wZCFbWRkh5mneWJfAK2LD"
       },
       "artists": [
         {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Si t\u00fa no vuelves",
-      "url": "https://open.spotify.com/track/1YFBO31kSEYo1DVkjSj8LG"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "Pimpinela",
-        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
-      },
-      "artists": [
-        {
-          "name": "Pimpinela",
-          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Olv\u00eddame y Pega la Vuelta",
-      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
+      "duration_ms": 253000,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/0aTMBEfPCCkKkneU6gLmDD"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1199,6 +1183,22 @@
       "duration_ms": 236160,
       "name": "La Calle De Las Sirenas",
       "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
+        "name": "Pimpinela",
+        "url": "https://open.spotify.com/album/2NYXeeATmC1K9FUhKlP0id"
+      },
+      "artists": [
+        {
+          "name": "Pimpinela",
+          "url": "https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Olv\u00eddame y Pega la Vuelta",
+      "url": "https://open.spotify.com/track/4FdwRmlzP5KGM7OewGBYiu"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
+        "name": "SINO",
+        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Quiero Ver",
+      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
+    },
+    {
+      "added_at": "2020-10-24 04:53:42",
+      "album": {
         "name": "Canta A Juan Gabriel",
         "url": "https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 222760,
       "name": "D\u00e9jame Vivir (with Juan Gabriel)",
       "url": "https://open.spotify.com/track/3ic95qCcp0njJNb3mJTZaP"
-    },
-    {
-      "added_at": "2020-10-24 04:53:42",
-      "album": {
-        "name": "SINO",
-        "url": "https://open.spotify.com/album/4yLlkceQbuq64zdFnxdCYB"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Quiero Ver",
-      "url": "https://open.spotify.com/track/7s41ZGjQB5Ur8T0fQlk5uM"
     },
     {
       "added_at": "2020-10-24 04:53:42",

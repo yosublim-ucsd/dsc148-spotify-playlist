@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Kaitlin Butts
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,833 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,829 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 69 | [Desperate Company](https://open.spotify.com/track/0sNRNcFz7qGtBCyotVjy8Z) | [Red Shahan](https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ) | [Desperate Company](https://open.spotify.com/album/19Bp8pSJzPssr1QqC3dY7G) | 4:03 |
 | 70 | [Bottom of It](https://open.spotify.com/track/7Hlt8sBheuJXbBU4aFOGcp) | [Don Louis](https://open.spotify.com/artist/5LICWu7uFLkdJVcEiTnRBX) | [Bottom of It](https://open.spotify.com/album/634fjrf1xw9BpyDx83lomm) | 3:12 |
 | 71 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
-| 72 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
-| 73 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
+| 72 | [State You Left Me In](https://open.spotify.com/track/4wU7mkrYRl8FJe0zsDhS2W) | [Jake Worthington](https://open.spotify.com/artist/40v31oiMOaz7dorFhevJRp) | [State You Left Me In](https://open.spotify.com/album/3FWfYCQli8A63gkKDs0wNd) | 5:25 |
+| 73 | [Honky Tonk Halo](https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4) | [Mikayla Lane](https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl) | [Honky Tonk Halo](https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ) | 3:57 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
 | 75 | [Till You](https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6) | [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Till You](https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR) | 3:26 |
 | 76 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |

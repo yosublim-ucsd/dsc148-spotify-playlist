@@ -2,9 +2,9 @@
 
 ### [R&Bae](https://open.spotify.com/playlist/37i9dQZF1DX2LoIIQLAhdb)
 
-> Le R&B français, nouvelle ère\. Photo : Leila AD
+> Le R&B français, nouvelle ère\. Photo : Low Jay x Leto
 
-302 songs - 14 hr 29 min
+303 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Drunk & Luv](https://open.spotify.com/track/0BI4i1Cj46datq4HLf7g7b) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Drunk & Luv](https://open.spotify.com/album/58kXDhxfQUF3Yv132I96Zx) | 2:31 | 2024-04-04 | 2024-05-17 |
 | [Déchirer](https://open.spotify.com/track/58n3lagQzx7m6oUYdlhaqz) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/7EjSTlxv8BlPWR8hoUhfAL) | 2:57 | 2023-02-23 | 2023-03-18 |
 | [Déchirer](https://open.spotify.com/track/74tVwfr4Hb5Ca6pQQHjg5q) | [Iliana](https://open.spotify.com/artist/7kjWIGGBS3AigeN2Ppkr83) | [Déchirer](https://open.spotify.com/album/0CjzyYuYPb82BKKFHGlSIj) | 2:57 | 2023-01-19 | 2023-02-28 |
+| [Déjà](https://open.spotify.com/track/4HnNEJntnJXu3T6Z3jk4Tt) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Déjà](https://open.spotify.com/album/0J9AOtJdDswtRkk7RWMhfV) | 2:52 | 2024-05-23 |  |
 | [Délire \(feat\. Tiakola\)](https://open.spotify.com/track/5JzxQS6OW4GEruKqShvUo8) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Délire \(feat\. Tiakola\)](https://open.spotify.com/album/459LQDfdX2DMzsymKkRRfP) | 3:26 | 2023-05-25 | 2024-02-09 |
 | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/track/61eXlvoIlXXuO64Nal87VO) | [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [DÉSOLÉ POURQUOI ?](https://open.spotify.com/album/6bBPLPUc1eRmCJQ8nHpMIc) | 2:18 | 2023-11-23 | 2023-12-30 |
 | [Encore](https://open.spotify.com/track/6VCJY8e0hyDFclsuWWN764) | [Squidji](https://open.spotify.com/artist/15LZyW96TXq91lUBjMHQok) | [Encore](https://open.spotify.com/album/2vN8NilAhMUK3hW508tdXq) | 2:20 | 2023-09-28 | 2023-11-17 |
@@ -182,7 +183,7 @@
 | [Mauvais garçon](https://open.spotify.com/track/46N4tFPQSCIjEohElQWrJC) | [Wensly](https://open.spotify.com/artist/3w01B4w7nqtWsIX5ShvHSV) | [Mauvais garçon](https://open.spotify.com/album/1ZA1hPGaEm7bbUVt6oDOYQ) | 2:01 | 2023-11-30 | 2023-12-15 |
 | [Maux de tête](https://open.spotify.com/track/13D5HrejdIzNzPnaQjnx0N) | [Heaven](https://open.spotify.com/artist/3JHcjQW200sbrGQeWPeRnG) | [Maux de tête](https://open.spotify.com/album/6OC9Rbnw6pu2hfPgSzls7Y) | 2:50 | 2022-11-24 | 2022-12-16 |
 | [Mayday](https://open.spotify.com/track/50SWP0R1mLdWfCwPaZP8JB) | [Eva](https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO) | [Page blanche](https://open.spotify.com/album/4Fpuf2WoRF5vw65QQL1JlN) | 2:51 | 2024-05-02 |  |
-| [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 |  |
+| [Merci à mon ex](https://open.spotify.com/track/62oV66GdctcTKgq0QfyCRt) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [GOUMIN TERMINÉ](https://open.spotify.com/album/4Mg5umCU5pSuHhPcQL3p5f) | 3:10 | 2024-04-11 | 2024-05-24 |
 | [Mi amor](https://open.spotify.com/track/6hxhsDAQbz2ZH3KBVpprFj) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [PERLE NOIRE](https://open.spotify.com/album/1y1BsdMYyrV1uEJBG4TQ6h) | 2:33 | 2022-11-24 | 2023-01-20 |
 | [Million](https://open.spotify.com/track/21RVxDOoKFOW9txnVZrNfh) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Drama](https://open.spotify.com/album/34UNcJ8FrAvdViz1AzSvyE) | 2:50 | 2022-11-24 | 2022-12-16 |
 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 | 2023-06-22 | 2024-05-03 |

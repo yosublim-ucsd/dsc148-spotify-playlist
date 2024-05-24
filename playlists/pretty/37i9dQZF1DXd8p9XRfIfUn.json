@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Picus",
-  "num_followers": 74490,
+  "num_followers": 74546,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "YAYA",
+        "url": "https://open.spotify.com/album/6XZ8fePjMV12m8mfsiospu"
+      },
+      "artists": [
+        {
+          "name": "D\u00cdMELO CORI",
+          "url": "https://open.spotify.com/artist/627KF7g5NPEI9yPHBVrRq1"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "YAYA",
+      "url": "https://open.spotify.com/track/4i7y0dm58PDFNgiXtASg6J"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -827,26 +847,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "YAYA",
-        "url": "https://open.spotify.com/album/6XZ8fePjMV12m8mfsiospu"
-      },
-      "artists": [
-        {
-          "name": "D\u00cdMELO CORI",
-          "url": "https://open.spotify.com/artist/627KF7g5NPEI9yPHBVrRq1"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "YAYA",
-      "url": "https://open.spotify.com/track/4i7y0dm58PDFNgiXtASg6J"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Baby Schai (Remix)",
         "url": "https://open.spotify.com/album/0Pl5KLfzpUigC6phneZEK7"
       },
@@ -915,6 +915,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Chakalicious",
+        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
+      },
+      "artists": [
+        {
+          "name": "Eme MalaFe",
+          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Chakalicious",
+      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Bendici\u00f3n",
         "url": "https://open.spotify.com/album/1ngKwKbpwwd5twNds3LN8N"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 185988,
       "name": "Bendici\u00f3n",
       "url": "https://open.spotify.com/track/54LxLkCDvShuYKRtTUQ2G4"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Chakalicious",
-        "url": "https://open.spotify.com/album/23M59Bax2fKS7zAjnfGrYC"
-      },
-      "artists": [
-        {
-          "name": "Eme MalaFe",
-          "url": "https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Chakalicious",
-      "url": "https://open.spotify.com/track/7nVWFGzVmdwfLqJeptkfda"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
-        "name": "Uy k raro",
-        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 127264,
-      "name": "Uy k raro",
-      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
         "name": "Pal' Otro A\u00f1o",
         "url": "https://open.spotify.com/album/3mMjUoysR3SkxtKieFVmf9"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 150894,
       "name": "Pal' Otro A\u00f1o",
       "url": "https://open.spotify.com/track/68IONBceV20r5OOr6961PQ"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
+        "name": "Uy k raro",
+        "url": "https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 127264,
+      "name": "Uy k raro",
+      "url": "https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-05-03 06:00:00",
       "album": {
+        "name": "Traje Tusi",
+        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 182421,
+      "name": "Traje Tusi",
+      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
+    },
+    {
+      "added_at": "2024-05-03 06:00:00",
+      "album": {
         "name": "Palmas",
         "url": "https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 171089,
       "name": "Palmas",
       "url": "https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd"
-    },
-    {
-      "added_at": "2024-05-03 06:00:00",
-      "album": {
-        "name": "Traje Tusi",
-        "url": "https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 182421,
-      "name": "Traje Tusi",
-      "url": "https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG"
     },
     {
       "added_at": "2024-05-03 06:00:00",

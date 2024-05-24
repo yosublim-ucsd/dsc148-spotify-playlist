@@ -1,6 +1,6 @@
 {
   "description": "D vitaminin.",
-  "num_followers": 25860,
+  "num_followers": 25859,
   "original_name": "G\u00fcnl\u00fck G\u00fcne\u015flik",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,26 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
+        "name": "Summer Feelings (feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
+      },
+      "artists": [
+        {
+          "name": "Lennon Stella",
+          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 160289,
+      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
+      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
         "name": "Looking for Me",
         "url": "https://open.spotify.com/album/55QDKKenyNcudrsy1Svd3o"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 211452,
       "name": "Looking for Me",
       "url": "https://open.spotify.com/track/17bGtGqqaXOgVnhnfx5NlE"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
-        "name": "Summer Feelings (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/4D9M4nzQ9kvchgxyQyymtW"
-      },
-      "artists": [
-        {
-          "name": "Lennon Stella",
-          "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 160289,
-      "name": "Summer Feelings (feat. Charlie Puth) - From 'SCOOB!' The Album",
-      "url": "https://open.spotify.com/track/49dFIRQCQxPWgoH0m38XQ5"
     },
     {
       "added_at": "2024-03-01 13:18:16",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2024-03-01 13:18:16",
       "album": {
-        "name": "Late Night Feelings (feat. Lykke Li)",
-        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
-        },
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 251028,
-      "name": "Late Night Feelings (feat. Lykke Li)",
-      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
-    },
-    {
-      "added_at": "2024-03-01 13:18:16",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit"
       },
@@ -1351,6 +1331,26 @@
       "duration_ms": 172933,
       "name": "Let It Be Me (feat. Ava Max)",
       "url": "https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc"
+    },
+    {
+      "added_at": "2024-03-01 13:18:16",
+      "album": {
+        "name": "Late Night Feelings (feat. Lykke Li)",
+        "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 251028,
+      "name": "Late Night Feelings (feat. Lykke Li)",
+      "url": "https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0"
     },
     {
       "added_at": "2024-03-01 13:18:16",

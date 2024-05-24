@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 663317,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 663487,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABxERA/jgN92rDfrp4acZgd",
+  "snapshot_id": "Zk01gAAAAAA/utiKSObQFFvvLHXBPAUo",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 238893,
-      "name": "Amantes Suicidas",
-      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 231320,
       "name": "Qu\u00edmica Mayor",
       "url": "https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 238893,
+      "name": "Amantes Suicidas",
+      "url": "https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Pornocracia",
-      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1940 Carmen",
         "url": "https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 211666,
       "name": "No Soy Para Ti",
       "url": "https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
     },
     {
       "added_at": null,

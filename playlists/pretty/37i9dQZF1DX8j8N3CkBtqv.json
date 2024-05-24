@@ -1,13 +1,153 @@
 {
-  "description": "Naye Indie gaano ka khazana! Cover- Peter Cat Recording Co.",
-  "num_followers": 70178,
+  "description": "Naye Indie gaano ka khazana! Cover- Akanksha Sethi",
+  "num_followers": 70192,
   "original_name": "Naya Indiestan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zkc5eAAAAACSnDaxVwDzkwsVQBBR3ryh",
+  "snapshot_id": "Zk9vCAAAAAB8vD3Tg2DLb0r2oKhaliS2",
   "tracks": [
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Majra",
+        "url": "https://open.spotify.com/album/2IIZJ9vxOBazePIqSMLZTd"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "duration_ms": 190884,
+      "name": "Majra",
+      "url": "https://open.spotify.com/track/6J9AlYf248g5a0rzw0dnO1"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Raaton Ki",
+        "url": "https://open.spotify.com/album/7cLUFQnUJ97yfsygBI7BaG"
+      },
+      "artists": [
+        {
+          "name": "Khwaab",
+          "url": "https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx"
+        },
+        {
+          "name": "Divyam Sodhi",
+          "url": "https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5"
+        }
+      ],
+      "duration_ms": 215217,
+      "name": "Raaton Ki",
+      "url": "https://open.spotify.com/track/5nh4AHjPg9kqruzdR2vHrq"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Jaadugari",
+        "url": "https://open.spotify.com/album/5sPUfdDzhZ6CC4umEbHJD8"
+      },
+      "artists": [
+        {
+          "name": "maahi",
+          "url": "https://open.spotify.com/artist/59cXfBldx8F2Fpq86R4MVV"
+        }
+      ],
+      "duration_ms": 153882,
+      "name": "Jaadugari",
+      "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "That Feeling When",
+        "url": "https://open.spotify.com/album/2kh708vFNPf1kvlTpYwxqp"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "Ratiyan",
+      "url": "https://open.spotify.com/track/4fm6n0P4tW56eA8zHwX0T2"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Uljhan",
+        "url": "https://open.spotify.com/album/1N6znw1ODAjLIanv1DYYBh"
+      },
+      "artists": [
+        {
+          "name": "Pina Colada Blues",
+          "url": "https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE"
+        },
+        {
+          "name": "Mitika Kanwar",
+          "url": "https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Uljhan",
+      "url": "https://open.spotify.com/track/6iHFYrR8IKRMfjXYJCNjA1"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Silsile",
+        "url": "https://open.spotify.com/album/02UchzFlHWHE3LZTOUGjqQ"
+      },
+      "artists": [
+        {
+          "name": "Vasu Kainth",
+          "url": "https://open.spotify.com/artist/4ABmINOwfRxQr5SDuEsoCp"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Bahane",
+      "url": "https://open.spotify.com/track/29BjRUeGcNMyNrNjd8sFWB"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "I Blew It!",
+        "url": "https://open.spotify.com/album/1s9C8rJXcs5ddGa2BXhFls"
+      },
+      "artists": [
+        {
+          "name": "Kamakshi Khanna",
+          "url": "https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq"
+        }
+      ],
+      "duration_ms": 191586,
+      "name": "I Blew It!",
+      "url": "https://open.spotify.com/track/4oCjAPvthe32TJH2gnEiYz"
+    },
+    {
+      "added_at": "2024-05-23 16:30:00",
+      "album": {
+        "name": "Bas Mere Hi Ho",
+        "url": "https://open.spotify.com/album/6vvbuPEi9rEIPR0kwvF1r0"
+      },
+      "artists": [
+        {
+          "name": "Last Minute India",
+          "url": "https://open.spotify.com/artist/6yi4BexeHDzQeuiDzXqTcg"
+        }
+      ],
+      "duration_ms": 145435,
+      "name": "Bas Mere Hi Ho",
+      "url": "https://open.spotify.com/track/7wr7OxPh8c3wfOhP8QZzWb"
+    },
     {
       "added_at": "2024-05-17 11:03:20",
       "album": {
@@ -743,22 +883,6 @@
     {
       "added_at": "2024-05-17 11:03:20",
       "album": {
-        "name": "Sun Bachhe",
-        "url": "https://open.spotify.com/album/31gJq0ZwKNl1GYcZmKBlq3"
-      },
-      "artists": [
-        {
-          "name": "Rahgir",
-          "url": "https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER"
-        }
-      ],
-      "duration_ms": 187543,
-      "name": "Sun Bachhe",
-      "url": "https://open.spotify.com/track/0lNQgj1M5WZ1Zc6taFvQVh"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
         "name": "Ibtida",
         "url": "https://open.spotify.com/album/2SjIj866OuIv8qB0fPXGYW"
       },
@@ -795,22 +919,6 @@
       "duration_ms": 182000,
       "name": "Zindagi Meri",
       "url": "https://open.spotify.com/track/1xlSWJqfdHp0vZm1kLEZ59"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Baag Bageeche",
-        "url": "https://open.spotify.com/album/68GIAZ1IV9pv3NKL9Z6uTI"
-      },
-      "artists": [
-        {
-          "name": "Aishwarya Bhandari",
-          "url": "https://open.spotify.com/artist/1eymZReguIMWssA0Skxa68"
-        }
-      ],
-      "duration_ms": 169285,
-      "name": "Baag Bageeche",
-      "url": "https://open.spotify.com/track/391yVKTFVBqS1bqYQCrHPv"
     },
     {
       "added_at": "2024-05-17 11:03:20",
@@ -935,42 +1043,6 @@
     {
       "added_at": "2024-05-17 11:03:20",
       "album": {
-        "name": "Baat Takat Hun",
-        "url": "https://open.spotify.com/album/6Yp6GFWJLfvcOZcuPI2WhB"
-      },
-      "artists": [
-        {
-          "name": "Priyasi",
-          "url": "https://open.spotify.com/artist/2DOqWohzAkzacGdn1CIpdp"
-        },
-        {
-          "name": "Prateek Gandhi",
-          "url": "https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w"
-        }
-      ],
-      "duration_ms": 172101,
-      "name": "Baat Takat Hun",
-      "url": "https://open.spotify.com/track/2fQOhddanyytkxnmTE8Cjo"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Jollypop",
-        "url": "https://open.spotify.com/album/7gAWqQEs19WD8iepu3g51v"
-      },
-      "artists": [
-        {
-          "name": "NAALAYAK",
-          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
-        }
-      ],
-      "duration_ms": 120333,
-      "name": "Door",
-      "url": "https://open.spotify.com/track/5RH7D4HIQmAVcuni4fwsHu"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
         "name": "Aaghaaz",
         "url": "https://open.spotify.com/album/5hKk5gTfnrNlCs9LQUkbfQ"
       },
@@ -1007,26 +1079,6 @@
       "duration_ms": 156256,
       "name": "Intezaar",
       "url": "https://open.spotify.com/track/4rin9gU1VxcCESXSGDWF7C"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Galti (feat. MxRZI)",
-        "url": "https://open.spotify.com/album/6xKcG6vHS4MJjNFEpqYdKs"
-      },
-      "artists": [
-        {
-          "name": "W.i.S.H.",
-          "url": "https://open.spotify.com/artist/2vLEmJVZps65484RfPMM1k"
-        },
-        {
-          "name": "MxRZI",
-          "url": "https://open.spotify.com/artist/5xtJsbtEJXs2VpRBShJa1E"
-        }
-      ],
-      "duration_ms": 211962,
-      "name": "Galti (feat. MxRZI)",
-      "url": "https://open.spotify.com/track/6x4XXWgys2J3FmuguwVyPP"
     },
     {
       "added_at": "2024-05-17 11:03:20",
@@ -1079,66 +1131,6 @@
     {
       "added_at": "2024-05-17 11:03:20",
       "album": {
-        "name": "Kyun?",
-        "url": "https://open.spotify.com/album/5oGe0Synfxpxuw9f5WrRht"
-      },
-      "artists": [
-        {
-          "name": "Shreya Jain",
-          "url": "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
-        }
-      ],
-      "duration_ms": 144666,
-      "name": "Kyun?",
-      "url": "https://open.spotify.com/track/0Hjdq4jBfYonPpmuWZ6R5u"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Baithe Raho",
-        "url": "https://open.spotify.com/album/1WNZD6MM8iscCVCt0tNLPr"
-      },
-      "artists": [
-        {
-          "name": "Shubham Srivastava",
-          "url": "https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc"
-        },
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
-        }
-      ],
-      "duration_ms": 204868,
-      "name": "Baithe Raho",
-      "url": "https://open.spotify.com/track/6Mol1TAaxvqUbVNntNHoo7"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Tu Hi Wajah",
-        "url": "https://open.spotify.com/album/07DK8yVmNKVoXBjAvcUaFv"
-      },
-      "artists": [
-        {
-          "name": "Akshath",
-          "url": "https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo"
-        },
-        {
-          "name": "Soham Mukherji",
-          "url": "https://open.spotify.com/artist/0IwBTR3mDRKVXdUonhC0X6"
-        },
-        {
-          "name": "Rajan Batra",
-          "url": "https://open.spotify.com/artist/5rNkckFmIKVHEdke5cNx5c"
-        }
-      ],
-      "duration_ms": 153230,
-      "name": "Tu Hi Wajah",
-      "url": "https://open.spotify.com/track/10FQmDMezz77rIqeedLsiw"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
         "name": "Paaro",
         "url": "https://open.spotify.com/album/0PCzppXRIq0vcx2eDw8PdD"
       },
@@ -1151,22 +1143,6 @@
       "duration_ms": 153214,
       "name": "Paaro",
       "url": "https://open.spotify.com/track/5ByLpy1feHoHXoM4IC4BvW"
-    },
-    {
-      "added_at": "2024-05-17 11:03:20",
-      "album": {
-        "name": "Keh Do Na",
-        "url": "https://open.spotify.com/album/5wgVnVCdnL1jREw2cqF2re"
-      },
-      "artists": [
-        {
-          "name": "Khayaal",
-          "url": "https://open.spotify.com/artist/5Kfjxy64QteoXxlMjjNU48"
-        }
-      ],
-      "duration_ms": 176207,
-      "name": "Keh Do Na",
-      "url": "https://open.spotify.com/track/4omVbcvxhrZC3W3vHsk7n2"
     },
     {
       "added_at": "2024-05-17 11:03:20",

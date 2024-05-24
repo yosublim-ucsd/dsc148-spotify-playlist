@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,824 likes - 125 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,924 likes - 125 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 15 | [Eso Y Más](https://open.spotify.com/track/7HW5tUjaKxBUamSi7nnzPt) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:39 |
 | 16 | [Ice Cream](https://open.spotify.com/track/6wprSQTo6JpzI2bGiWVThv) | [Los mismos De La M](https://open.spotify.com/artist/2OtwuHrORYlzWWIKGxfLR8), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Ice Cream](https://open.spotify.com/album/4YqJEdh2QTYfxj8pFzVEuW) | 2:11 |
 | 17 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
-| 18 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
-| 19 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
+| 18 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
+| 19 | [Tu Perfume](https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Tu Perfume](https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM) | 2:54 |
 | 20 | [Se Murió De Amor](https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Enséñame](https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK) | 3:06 |
 | 21 | [A Mí, ¿Qué Me Quedó?](https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Vuelvo Contigo](https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU) | 2:41 |
 | 22 | [La Nena](https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [COSME TADEO](https://open.spotify.com/artist/5QdiBib4DcTwhC2ayhRyK6) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 2:55 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3s5RJAUX1SI.md) - [plain]
 | 82 | [Fantasia](https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu) | [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Fantasia](https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm) | 2:35 |
 | 83 | [Qué No Daría](https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:49 |
 | 84 | [Busca Otro Amor \(1968\)](https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO) | [Las Jilguerillas](https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV) | [45 Anos De Exitos](https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE) | 3:15 |
-| 85 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
-| 86 | [Cortinas Guindas](https://open.spotify.com/track/6KBMoO8Ku4ZAFJ4lT9qAQI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sinaloense Hecho Y Derecho](https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK) | 3:42 |
+| 85 | [Cortinas Guindas](https://open.spotify.com/track/6KBMoO8Ku4ZAFJ4lT9qAQI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Sinaloense Hecho Y Derecho](https://open.spotify.com/album/7M2i31TZWIiqZeZs7rXWTK) | 3:42 |
+| 86 | [Libro Abierto](https://open.spotify.com/track/6squwxmGYNEgrk3Ai0piCi) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:08 |
 | 87 | [Te Busqué \(feat\. Brian Sandoval\)](https://open.spotify.com/track/603bEyofTyOeqhFtDLqvdH) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX), [Brian Sandoval](https://open.spotify.com/artist/7zp7fD3ZBt3cDPNIbeW2DL) | [¿Cómo Me Ves?](https://open.spotify.com/album/1kE9qUu5Etm1bhdp86rwI3) | 3:51 |
 | 88 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/2wHcALEBx39LP7ziwlHkSQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Me Rindo](https://open.spotify.com/album/5Jeg7MzgKFXenbJAcD64Hj) | 3:09 |
 | 89 | [Una Vez Más](https://open.spotify.com/track/626PlV22AI5wy01vG0JjZO) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 2:39 |

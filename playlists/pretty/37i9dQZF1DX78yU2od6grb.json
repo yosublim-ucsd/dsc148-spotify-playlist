@@ -1,6 +1,6 @@
 {
   "description": "Quer fazer aquele exerc\u00edcio empolgante e sem estresse? Fizemos uma playlist com o som certo para voc\u00ea alcan\u00e7ar novas metas.",
-  "num_followers": 555393,
+  "num_followers": 555375,
   "original_name": "Corra numa Boa",
   "owner": {
     "name": "Spotify",
@@ -695,30 +695,6 @@
     {
       "added_at": "2022-11-25 03:00:00",
       "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
-      },
-      "artists": [
-        {
-          "name": "Surf Mesa",
-          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
-        },
-        {
-          "name": "Joshua Golden",
-          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
-        },
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 162954,
-      "name": "Another Life (feat. FLETCHER & Josh Golden)",
-      "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
         "name": "CRASH",
         "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
       },
@@ -751,6 +727,30 @@
       "duration_ms": 159077,
       "name": "Believers",
       "url": "https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr"
+      },
+      "artists": [
+        {
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "name": "Joshua Golden",
+          "url": "https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda"
+        },
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "duration_ms": 162954,
+      "name": "Another Life (feat. FLETCHER & Josh Golden)",
+      "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -843,6 +843,26 @@
       "duration_ms": 179456,
       "name": "All The Lies",
       "url": "https://open.spotify.com/track/6PqUdUGS4h5aGY7YyEGXr8"
+    },
+    {
+      "added_at": "2022-11-25 03:00:00",
+      "album": {
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "Heading Home",
+      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": "2022-11-25 03:00:00",
@@ -963,26 +983,6 @@
       "duration_ms": 156781,
       "name": "Big (feat. Gunna)",
       "url": "https://open.spotify.com/track/78oZ26xvmtCfarveRXs3dq"
-    },
-    {
-      "added_at": "2022-11-25 03:00:00",
-      "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "Heading Home",
-      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": "2022-11-25 03:00:00",

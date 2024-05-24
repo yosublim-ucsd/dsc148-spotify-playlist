@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "This is Manuel Medrano. The essential tracks, all in one playlist.",
+  "description": "This Is Manuel Medrano. Los temas esenciales, todos en una lista.",
   "name": "This Is Manuel Medrano",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 229405,
       "name": "Afuera Del Planeta",
       "url": "https://open.spotify.com/track/71t9GoojGIMZLySI6imKFY"
@@ -118,7 +118,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 183422,
       "name": "Cielo (feat. Nile Rodgers)",
       "url": "https://open.spotify.com/track/5qH4I7qIkrhxir8UfLG0IY"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 224999,
       "name": "La Primera Vez",
       "url": "https://open.spotify.com/track/3AS2NiyobOcS454xthOByC"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 221606,
       "name": "Sin Saber Por Qu\u00e9",
       "url": "https://open.spotify.com/track/6BnRwKaF2bRuA3bbrPjBJg"

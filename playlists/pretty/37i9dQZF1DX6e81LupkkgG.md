@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 
 > Músicas aconchegantes para aquecer a alma nos dias frios.
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,527 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,521 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 55 | [Put A Little Love On Me](https://open.spotify.com/track/1hCTxutVVYvggAQcUUUZAT) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Put A Little Love On Me](https://open.spotify.com/album/7dUgmUMDNnQAejhNLeIQWz) | 3:44 |
 | 56 | [YOU & I \(feat\. Khalid\)](https://open.spotify.com/track/3ynJS2jbfoxkDPVrs6wPvJ) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [UNHEALTHY \(Deluxe\)](https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr) | 3:25 |
 | 57 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 |
-| 58 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 |
-| 59 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
+| 58 | [3 Boys](https://open.spotify.com/track/31Wlc9ZnraX3JxrvMg9e8H) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [3 Boys](https://open.spotify.com/album/1Iw32lOJC5lfInKyA7Zzt1) | 3:29 |
+| 59 | [Unloving You](https://open.spotify.com/track/2w9nvs1ByWUGkED4M0ug34) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Unloving You](https://open.spotify.com/album/0eljMEeLbmyj77sh2fzo4j) | 2:33 |
 | 60 | [Swan Upon Leda](https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Swan Upon Leda](https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk) | 3:42 |
 | 61 | [The Best Is Yet to Come](https://open.spotify.com/track/36jMu03qVcjYAccvQLmAMR) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [The Best Is Yet to Come](https://open.spotify.com/album/58Tu4rnGgjxLd7skg3JHBS) | 2:46 |
 | 62 | [Heartbeat](https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Heartbeat](https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d) | 3:51 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 64 | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/5pcjystBtalYeqaiXCcgEY) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [You All Over Me \(feat\. Maren Morris\) \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/album/5xd9LleY1wqsgKVTwLoXYI) | 3:40 |
 | 65 | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/track/779UN3kabApm2zfqX549vf) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [when was it over? \(feat\. Sam Hunt\)](https://open.spotify.com/album/3AgZTDS1wwPkLMs2HAcWjG) | 3:38 |
 | 66 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
-| 67 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
-| 68 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
+| 67 | [DEPOIS DO UNIVERSO](https://open.spotify.com/track/6T5TyMUmqcg8ZIvTDYaJ1o) | [GIULIA BE](https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6) | [DEPOIS DO UNIVERSO](https://open.spotify.com/album/4jsJ7WsXvoyiwYFx16MlqG) | 3:04 |
+| 68 | [Somewhere Only We Know](https://open.spotify.com/track/3DDGhkxq3FeUorZppSgeLE) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Somewhere Only We Know](https://open.spotify.com/album/2BWTPrj9yBBC79fCByZ2Tv) | 3:28 |
 | 69 | [A Gente Só Conhece Quando Termina](https://open.spotify.com/track/7aO80i4s9TvBg59Z7QwedH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [A Gente Só Conhece Quando Termina](https://open.spotify.com/album/57G8gYnOCrQnBPWTdsCKYT) | 2:36 |
 | 70 | [Doesn’t Do Me Any Good](https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Angel Face](https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg) | 3:52 |
 | 71 | [Finally // beautiful stranger](https://open.spotify.com/track/5YvcUK2eXJ2OllqDuEg18S) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Finally // beautiful stranger](https://open.spotify.com/album/30MFzDqEWHe5v0XUsGGUJF) | 3:41 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6e81LupkkgG.md) - [plain]
 | 95 | [would you love me now?](https://open.spotify.com/track/2PKKGrBkNB8bV8Vv4hwB2j) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [would you love me now?](https://open.spotify.com/album/7FhtEvJcaDWM92vlsJUrkw) | 3:25 |
 | 96 | [With You](https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:43 |
 | 97 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 |
-| 98 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
-| 99 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 98 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
+| 99 | [Answer Phone](https://open.spotify.com/track/0vYNMCubrGX6XHpX0KrGOe) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Answer Phone](https://open.spotify.com/album/64J78r5rx9qs9ZJZ4xSkBt) | 2:40 |
 | 100 | [London Is Lonely](https://open.spotify.com/track/5dXiKFepHXZktud7z5635H) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:54 |
 
 Snapshot ID: `ZirY7wAAAACJIJSIIz1E+tnzWXddw3dt`

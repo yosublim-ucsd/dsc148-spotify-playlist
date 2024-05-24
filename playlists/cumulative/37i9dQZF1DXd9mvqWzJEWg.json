@@ -3875,6 +3875,36 @@
     },
     {
       "album": {
+        "name": "Umqhumo Wethu",
+        "url": "https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx"
+      },
+      "artists": [
+        {
+          "name": "Omagoqa",
+          "url": "https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy"
+        },
+        {
+          "name": "ZVRI",
+          "url": "https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn"
+        },
+        {
+          "name": "The Ascension",
+          "url": "https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF"
+        },
+        {
+          "name": "DemiMa",
+          "url": "https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325176,
+      "name": "uZosala",
+      "url": "https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf"
+    },
+    {
+      "album": {
         "name": "Vanger",
         "url": "https://open.spotify.com/album/02zuKG6AQHvMECJLxC3Xl6"
       },

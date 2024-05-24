@@ -4,7 +4,7 @@
 
 > Music to help you concentrate during your homework.
 
-147 songs - 6 hr 50 min
+148 songs - 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [As The Crow Flies](https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp) | [Jonas Holmes](https://open.spotify.com/artist/1ktaC9yb8R0mC5KSPjENLl) | [Ripples on a Pond](https://open.spotify.com/album/2VNrWdvo3fG7HcQPOk5ZmX) | 1:36 | 2023-03-12 | 2024-02-24 |
 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 | 2023-01-26 |  |
 | [Azure \- Piano Version](https://open.spotify.com/track/5b3i1A9Frf3c0UFffMtoXA) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny), [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Azure \(Piano Version\)](https://open.spotify.com/album/4lT2JzD3ZAEfjRx5crCbA5) | 3:42 | 2023-01-26 | 2024-02-03 |
-| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2023-01-26 |  |
+| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2023-01-26 | 2024-05-24 |
 | [Beloved](https://open.spotify.com/track/3OLeQWqsXLKFbboNufjc8Z) | [Mark Mintuny](https://open.spotify.com/artist/3gegJAyl43HbhzEFT1Dp8s) | [Beloved](https://open.spotify.com/album/6i5SVdY8ISwT3o3TVyAXF9) | 2:13 | 2023-01-26 |  |
 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 | 2023-01-26 |  |
 | [Bienveillant](https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73) | [Edie Chastain](https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk) | [Bienveillant](https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr) | 1:57 | 2023-01-26 | 2023-09-24 |
@@ -57,6 +57,7 @@
 | [For the Love of Love](https://open.spotify.com/track/7KWhxUrK9ofPTn3ItWceR5) | [Novo Talos](https://open.spotify.com/artist/09D82jKcSb3omGk0kInAea) | [For the Love of Love](https://open.spotify.com/album/5ZND5oHPinIv1XkKQb4lsX) | 2:23 | 2023-01-26 |  |
 | [Forêt Profonde](https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Forêt Profonde](https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA) | 3:07 | 2023-01-26 |  |
 | [Gelsomino](https://open.spotify.com/track/6wdkw4U5RYbYGShrrJ8P9k) | [Darrell Vitagliano](https://open.spotify.com/artist/6NlWjzoEit79rWPMDscYKO) | [Gelsomino](https://open.spotify.com/album/4rYaSW4Rfvdhf9F0vg5ns6) | 1:58 | 2023-03-12 | 2023-09-26 |
+| [Gently](https://open.spotify.com/track/2O6Iydf5216CgF3v0jTN95) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Gently](https://open.spotify.com/album/5W8DqZ91qSx6HlRDaorcaN) | 2:07 | 2023-03-12 |  |
 | [Glow](https://open.spotify.com/track/7ooM6rULm5upVZNOKwux3B) | [Geir Gudmundson](https://open.spotify.com/artist/6Y1fkM0GSMtbOYT8iNjup5) | [Lifeline](https://open.spotify.com/album/55v3rGDCfSfwDpOI46Cs45) | 4:14 | 2023-01-26 |  |
 | [Goldberg Variations, BWV 988: Aria](https://open.spotify.com/track/5bu9A6uphPWg39RC3ZKeku) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Glenn Gould](https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP) | [Bach: The Goldberg Variations, BWV 988 \(1981 Gould Remaster\)](https://open.spotify.com/album/1aCpHSQE5ghxibsQ5gkBe0) | 3:04 | 2023-01-26 |  |
 | [Gone](https://open.spotify.com/track/4FWHZMgkRqos4JD0Y9UUDb) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Gone](https://open.spotify.com/album/061BZmW8qfNCy5a1VkqRMr) | 1:54 | 2023-01-26 | 2023-09-11 |

@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-440 songs - 23 hr 6 min
+441 songs - 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 | 2023-11-30 | 2024-01-12 |
 | [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 | 2023-07-27 | 2024-05-17 |
 | [Cantus](https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cantus](https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF) | 3:04 | 2023-12-20 |  |
-| [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 | 2023-06-08 |  |
+| [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 | 2023-06-08 | 2024-05-24 |
 | [Caution](https://open.spotify.com/track/3kb6CrEAEFXQhv4F0fzJ0W) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI), [AndyG](https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3) | [Caution](https://open.spotify.com/album/41PHDKzQZhm5mi1yZXTLd3) | 2:36 | 2022-12-27 | 2023-01-03 |
 | [Chupa](https://open.spotify.com/track/0sWfLC7FNwIbVfWUB6iYG6) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [Chupa](https://open.spotify.com/album/1mHhNM1fbo5qdlY037kqH6) | 2:31 | 2022-04-14 | 2022-10-23 |
 | [Clap](https://open.spotify.com/track/2HXWW3EM1SkQGMI2XvAZLW) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Clap](https://open.spotify.com/album/4zbaOZTwAytXImiLDbsWCX) | 2:30 | 2022-08-25 | 2023-04-21 |
@@ -291,6 +291,7 @@
 | [Paralyzed](https://open.spotify.com/track/3LPtsTvGpHtVgwja5VZFRb) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Paralyzed](https://open.spotify.com/album/4zulq5cIRvTXUZRsaFXdlz) | 3:01 | 2022-04-14 | 2022-09-16 |
 | [Party Everyday](https://open.spotify.com/track/2PVnAqyfcnCfYJFxULjOPA) | [AXMO](https://open.spotify.com/artist/5QWt56OIzFSPRpD7VeRkbc) | [Party Everyday](https://open.spotify.com/album/5dmTMnwiRqi6r4bsPwlus6) | 2:52 | 2023-12-20 | 2024-05-16 |
 | [Party With The Cops \(feat\. Haley Maze\)](https://open.spotify.com/track/0y0nhyZlrRGJ4qWKAwCbNI) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL), [Haley Maze](https://open.spotify.com/artist/5PlcCzule32PNZ0ZzXD6Ug) | [Party With The Cops \(feat\. Haley Maze\)](https://open.spotify.com/album/2oNJnWH2GV6OYNKrk7d9QB) | 2:38 | 2023-11-16 |  |
+| [Pedro \- W&W Remix](https://open.spotify.com/track/0gYuvKWHb91DODhZaERQ0a) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Pedro \(feat\. Raffaella Carrà\) \[W&W Remix\]](https://open.spotify.com/album/0huIo0to4wsfiIKSCD9q3A) | 2:39 | 2024-05-23 |  |
 | [Persona \- Original Mix](https://open.spotify.com/track/1fxuPhzgzb6xrCojKKSq7A) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Persona EP](https://open.spotify.com/album/4rg1uFJcRIXmghBDmhWGj9) | 3:59 | 2022-12-27 | 2023-01-03 |
 | [Peru](https://open.spotify.com/track/5GTboKbndutgM0oJOMpzTC) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/76fUJrrJWxbtURfKeTHbVV) | 2:27 | 2022-04-14 | 2022-07-04 |
 | [Peru](https://open.spotify.com/track/7t3cEJpYDi8tzNmBtxeHUj) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Peru](https://open.spotify.com/album/1wGjhakHpFEE3uPqGViTgI) | 2:27 | 2022-07-28 | 2022-09-30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 
 > Run to this collection of rock jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,862 likes - 70 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,877 likes - 70 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hWmn8d5pRe.md) - [plain]
 | 62 | [Unskinny Bop](https://open.spotify.com/track/1Z6lKdYhwp8WYoBqGCKxlM) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 3:48 |
 | 63 | [Minority](https://open.spotify.com/track/4qjfQnccStTR8zNsb6Mizo) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Warning](https://open.spotify.com/album/3ifIxGNsG1XmLdoanRRIWB) | 2:48 |
 | 64 | [The Fixer](https://open.spotify.com/track/4J9qfNgyYFAkUK8oIOohN1) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Backspacer](https://open.spotify.com/album/4DCwNXpnKEBYbls0T4LQzN) | 2:57 |
-| 65 | [Any Way You Want It](https://open.spotify.com/track/2DyHhPyCZgZzNXn1IrtsTu) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 3:21 |
-| 66 | [Lola Montez](https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:27 |
+| 65 | [Lola Montez](https://open.spotify.com/track/1wnq9TwifJ9ipLUFsm8vKx) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:27 |
+| 66 | [Any Way You Want It](https://open.spotify.com/track/2DyHhPyCZgZzNXn1IrtsTu) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [The Essential Journey](https://open.spotify.com/album/5pfpXvoJtSIFrbPIoBEv3R) | 3:21 |
 | 67 | [Fire](https://open.spotify.com/track/5LI7PoHEolR8plrf3I16sq) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Are You Experienced](https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9) | 2:43 |
 | 68 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 |
 | 69 | [Poison](https://open.spotify.com/track/1iQpStZpzBb5TOuTDKJKdj) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Alice Cooper Classicks](https://open.spotify.com/album/0ztezUxR9YMkIP1SFRSnV1) | 4:29 |

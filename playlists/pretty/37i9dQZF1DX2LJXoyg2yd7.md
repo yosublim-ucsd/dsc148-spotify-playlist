@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 
 > The sweet sounds of Yemen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,513 likes - 40 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,526 likes - 40 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 5 | [Ya Saher Aleainain](https://open.spotify.com/track/569GHmdXGxgsAgvqZFx4jF) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 6:46 |
 | 6 | [Allah Jabak](https://open.spotify.com/track/0FaifCfCBMpumWUWF0jwSi) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Allah Jabak](https://open.spotify.com/album/6ykPwvsdl7Yzrzq2HFt0ur) | 4:08 |
 | 7 | [يا بنات اليمن](https://open.spotify.com/track/0RGaeMrWP2ounpiQwEMXdf) | [Khaled Al Dhabry](https://open.spotify.com/artist/3KuRxM5CLQd8eX6YAJhSwM) | [زفة 2002](https://open.spotify.com/album/3l80ii05quIHR1eINTKMZu) | 4:05 |
-| 8 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
-| 9 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
+| 8 | [ياورد ياكاذي](https://open.spotify.com/track/2Q7LfXzspve6Iza70Itbak) | [Fouad Al Kabsy](https://open.spotify.com/artist/6FSA4cbJcVlF2rDwEdNmYJ) | [حفلة نجران](https://open.spotify.com/album/0Q6xLBvxom21S1iQ44yWD7) | 9:42 |
+| 9 | [عاده صغير](https://open.spotify.com/track/6QJLJ7LhunlxbwkobbjJBx) | [Faysal Alawi](https://open.spotify.com/artist/4PRa5qwOK0FRxd0JnutD8x) | [يا بدر يا غصن](https://open.spotify.com/album/63qgOooIYqQ8bLuK4Xw4td) | 9:00 |
 | 10 | [Ana Malathak](https://open.spotify.com/track/7DgjgPW8yxcqJ9YXNP5VxR) | [Aiman Qusailah](https://open.spotify.com/artist/5rhRBRSACiwECuHLhk5b8D) | [Ana Malathak](https://open.spotify.com/album/25fV87SYlAReis51OpLnXB) | 3:52 |
 | 11 | [Sirr Hobbi](https://open.spotify.com/track/1wwznXiE8586TWHuSFk3GO) | [Abu Baker Salim](https://open.spotify.com/artist/4vbzGXyNwi5mMWvPqHDHib) | [Sirr Hobbi](https://open.spotify.com/album/3VntSLELrNgNlPiJbTnB0W) | 13:54 |
 | 12 | [Habibti](https://open.spotify.com/track/3ZK3sfXR0qal1vdu30AMcw) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Habibti](https://open.spotify.com/album/6rWsWm2XEgvvZens32Bl2C) | 4:44 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LJXoyg2yd7.md) - [plain]
 | 34 | [سهران ليلي طويل](https://open.spotify.com/track/5JznYp6lPkay71CMMlioYN) | [Yousef Al Badgi](https://open.spotify.com/artist/3VNIVCXWZ65vQQvNwM5YvQ) | [يستر عليك](https://open.spotify.com/album/0OGrM2ovZPZb11Lrws7Mqq) | 5:29 |
 | 35 | [الف انا الف](https://open.spotify.com/track/1z04QcrdC5719bRiTbB1RV) | [Mohamed Hammoud Al Harthy](https://open.spotify.com/artist/6z9RD3uY6YRNvnkMcecYek) | [الف انا الف](https://open.spotify.com/album/430Xh2jplLQRh4xOmFlK8a) | 9:06 |
 | 36 | [يا مهاجر](https://open.spotify.com/track/3bBj0z4e5PSRKq9uIB8LGD) | [احمد العطاس](https://open.spotify.com/artist/6l0FoPSmxMITuwCK5GEQo1) | [يا مهاجر](https://open.spotify.com/album/1AhnOD0kXo4Nc3B0oMl7eJ) | 7:07 |
-| 37 | [جاء يدلع](https://open.spotify.com/track/1NQpWc80PagHGzfpuSvyJN) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:03 |
-| 38 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
+| 37 | [لي قلب اضناني](https://open.spotify.com/track/6b1ZwfUyHlNN1dBTSdFlvy) | [Sheikh Ahmed Al Hobaishi](https://open.spotify.com/artist/1DuhcPKBk1ulZQkWiN5smR) | [انا وقلبي](https://open.spotify.com/album/6kbIHqXGsQgrWzYsvKvKOJ) | 6:36 |
+| 38 | [جاء يدلع](https://open.spotify.com/track/1NQpWc80PagHGzfpuSvyJN) | [Sharaf Al Qaady](https://open.spotify.com/artist/1IdxbAEwj8rBjjtfxWUKLx) | [ليالي الانس, Vol\. 2](https://open.spotify.com/album/0FxgMbi7dnrzIsZtdu2Yzq) | 6:03 |
 | 39 | [يا هزلي](https://open.spotify.com/track/4BVdXOwGUoSkO9HmEUwueR) | [صدام الحاج](https://open.spotify.com/artist/319JmnE2iYxjJ7t9eQNTTs) | [زفة](https://open.spotify.com/album/7jg5sVfoMzGCzRRomCC0yX) | 6:26 |
 | 40 | [Habibti](https://open.spotify.com/track/1Cc4Zi2qrKNNLca6YYTCis) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Habibti](https://open.spotify.com/album/61WR3VmiCSYL65MipDJ0rK) | 3:24 |
 

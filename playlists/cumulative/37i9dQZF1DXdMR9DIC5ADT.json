@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Cage The Elephant",
+  "description": "\u30d5\u30a7\u30b9\u95a2\u4fc2\u8005\u306e\u7686\u69d8\u3001Let's book them! \u3044\u307e\u8074\u304d\u305f\u3044\u3001\u6ce8\u76ee\u306e\u6d0b\u697d\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\uff01 cover: Ginger Root",
   "name": "The WISHLIST: \u6ce8\u76ee\u306e\u6d0b\u697d\u7279\u96c6",
   "tracks": [
     {
@@ -267,6 +267,24 @@
     },
     {
       "album": {
+        "name": "Airplane Window",
+        "url": "https://open.spotify.com/album/32L9r0Yv3oZLVjhelsUSFL"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183528,
+      "name": "Airplane Window",
+      "url": "https://open.spotify.com/track/0pK5OAxCEVYhvO9EZ10tjj"
+    },
+    {
+      "album": {
         "name": "everything is alive",
         "url": "https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0"
       },
@@ -398,6 +416,24 @@
       "duration_ms": 277043,
       "name": "Attention",
       "url": "https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219537,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX"
     },
     {
       "album": {
@@ -552,6 +588,24 @@
       "duration_ms": 189713,
       "name": "Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)",
       "url": "https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf"
+    },
+    {
+      "album": {
+        "name": "Beckham",
+        "url": "https://open.spotify.com/album/5ZYLn7QTjqaKzpAg1fEXRT"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207430,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e"
     },
     {
       "album": {
@@ -740,7 +794,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131013,
       "name": "Boy's a liar Pt. 2",
       "url": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
@@ -1018,6 +1072,24 @@
       "duration_ms": 161366,
       "name": "Cardboard Box",
       "url": "https://open.spotify.com/track/2rf9i0Enr8cw1JRME8Rsvq"
+    },
+    {
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/4rG8urpRqy180HcCWO1mML"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230795,
+      "name": "Caught Up",
+      "url": "https://open.spotify.com/track/4XmQYIwiP6wveSj9bBGCyQ"
     },
     {
       "album": {
@@ -1877,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Stop Thinking Start Feeling",
+        "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162807,
+      "name": "Eating Heartache (feat. spill tab)",
+      "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -2064,7 +2158,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
@@ -2494,7 +2588,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 233456,
       "name": "Glimpse of Us",
       "url": "https://open.spotify.com/track/4ewazQLXFTDC8XvCbhvtXs"
@@ -3088,7 +3182,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167538,
       "name": "I miss you, I\u2019m sorry",
       "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx"
@@ -3436,7 +3530,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 255296,
       "name": "Kind Of Man",
       "url": "https://open.spotify.com/track/3JMc2rsrzFkhEyma8c56Xc"
@@ -3588,7 +3682,7 @@
       ],
       "date_added": "2023-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -3642,7 +3736,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
@@ -3834,6 +3928,32 @@
       "duration_ms": 204826,
       "name": "Lucky",
       "url": "https://open.spotify.com/track/0MuGa3SwwVYIeOpOzTOxzj"
+    },
+    {
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2g1y7o6N9KobCmJdt5P6AR"
+      },
+      "artists": [
+        {
+          "name": "Nulbarich",
+          "url": "https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD"
+        },
+        {
+          "name": "Sunny",
+          "url": "https://open.spotify.com/artist/48vcm2gHOmAYMCt7RDHcKJ"
+        },
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/5NCL8tzDw56FyB6ip8TVz5"
     },
     {
       "album": {
@@ -4391,6 +4511,24 @@
     },
     {
       "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224888,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
+    },
+    {
+      "album": {
         "name": "the record",
         "url": "https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI"
       },
@@ -4786,7 +4924,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 162338,
       "name": "Oysters In My Pocket",
       "url": "https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux"
@@ -5300,6 +5438,24 @@
       "duration_ms": 184400,
       "name": "Seven (feat. Latto)",
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "album": {
@@ -6066,7 +6222,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158866,
       "name": "Take A Bite",
       "url": "https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH"
@@ -6656,6 +6812,24 @@
       "duration_ms": 586506,
       "name": "Turbines/Pigs - Live at Bush Hall",
       "url": "https://open.spotify.com/track/626DiLKaEAoQfJ7YLdjcaF"
+    },
+    {
+      "album": {
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
     },
     {
       "album": {

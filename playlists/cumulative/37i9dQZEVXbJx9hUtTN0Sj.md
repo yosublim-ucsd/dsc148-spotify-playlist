@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-436 songs - 22 hr 40 min
+437 songs - 22 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Lekker Ding, Dit Is Je Verjaardag](https://open.spotify.com/track/6gnSMiZPMa0uEyn6nEfOH0) | [Cadeautje voor jou](https://open.spotify.com/artist/4QTEKQOOvUwm9JvTTNPbBJ) | [Dit Is Je Verjaardag \(Troetelnamen\)](https://open.spotify.com/album/6ClEJOlyQFv7jQu8ldgyrN) | 3:12 | 2024-03-30 | 2024-04-17 |
 | [LESGOOOOO](https://open.spotify.com/track/54ru9pCmIrv0uZtbRzIuRr) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [LESGOOOOO](https://open.spotify.com/album/335djMVbbc7xov8VFX38na) | 3:03 | 2024-03-26 | 2024-04-03 |
 | [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-27 | 2024-05-22 |
-| [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-10 |  |
+| [Liar](https://open.spotify.com/track/1ssBrm3EZb20Kb19roQIcy) | [Silia Kapsis](https://open.spotify.com/artist/3tTnh7pp782ZdZADjqPOvC) | [Liar](https://open.spotify.com/album/5iZ22MQ93D5oS0YGxPpw4p) | 2:58 | 2024-05-10 | 2024-05-24 |
 | [Lief Klein Kind](https://open.spotify.com/track/3pzS8CGYploYXMb40fbsqW) | [Maria Iskariot](https://open.spotify.com/artist/52bmYWkd3OMgudChRWmEYj) | [Lief Klein Kind](https://open.spotify.com/album/0feAqvoagOXzCJwHlBWujV) | 2:31 | 2024-05-05 | 2024-05-08 |
 | [Liefde Gegeven \- uit Liefde Voor Muziek](https://open.spotify.com/track/6usQjtiAPQ0bxDJfCemFVg) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Liefde Voor Muziek 2024](https://open.spotify.com/album/0nSQlRG1CdsOQsveZwylnp) | 3:31 | 2024-04-09 | 2024-04-20 |
 | [Lifetime](https://open.spotify.com/track/1oH6oeK8iKeRL9VTQY5w2r) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Lifetime](https://open.spotify.com/album/0CjVrbnz8839PBl5E6b17H) | 2:38 | 2024-01-30 | 2024-03-27 |
@@ -309,7 +309,7 @@
 | [Prinzessin](https://open.spotify.com/track/0Q1PL9xAcw9clycu7f8YGw) | [Höhner](https://open.spotify.com/artist/6A9b0JlSJF0KxCddzOTGiA) | [Prinzessin](https://open.spotify.com/album/3pNfKNPABB9UMd305QW224) | 3:11 | 2024-02-12 | 2024-02-16 |
 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-05-07 | 2024-05-11 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-03-05 | 2024-03-15 |
-| [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-04-16 | 2024-05-22 |
+| [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-04-16 |  |
 | [Recommence\-moi](https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Recommence\-moi](https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y) | 3:16 | 2024-04-18 | 2024-04-24 |
 | [Red Wine Supernova](https://open.spotify.com/track/7FOgcfdz9Nx5V9lCNXdBYv) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [The Rise and Fall of a Midwest Princess](https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ) | 3:12 | 2024-04-15 | 2024-04-24 |
 | [redrum](https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 4:30 | 2024-01-30 | 2024-02-20 |
@@ -319,6 +319,7 @@
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-03-02 |  |
 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 | 2024-04-30 | 2024-05-06 |
 | [Rome](https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Rome](https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST) | 2:41 | 2024-01-29 | 2024-03-08 |
+| [Rosa](https://open.spotify.com/track/4l7sRKSzKybhohKwe0LUXA) | [Fabi Hernandez](https://open.spotify.com/artist/62x0OBGqCIXKBSbFZVn0np), [Mathieu Ruz](https://open.spotify.com/artist/3ZGI3NmbFQIhEDMiYekU08) | [Rosa](https://open.spotify.com/album/22AkqXY0AgBCsTo1eEQyFa) | 3:25 | 2024-05-23 |  |
 | [Sadness As A Gift](https://open.spotify.com/track/1UpXhetX1s5OXTY5fRjWvu) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Bright Future](https://open.spotify.com/album/2Y8WS7iDIZkvzB5GUeLvku) | 4:19 | 2024-03-27 | 2024-04-03 |
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-24 | 2024-03-26 |
 | [SAND](https://open.spotify.com/track/79feeOJI7Rk8xwDdrOFsDO) | [SABA](https://open.spotify.com/artist/2pyK1mU65l7VNGw2BZIjsW) | [SAND](https://open.spotify.com/album/4qvil8kYuHLOnW327paleO) | 3:00 | 2024-03-05 | 2024-05-17 |
@@ -441,7 +442,7 @@
 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 | 2024-03-26 | 2024-05-17 |
 | [Ze Smelten De Paashaas](https://open.spotify.com/track/57sWSYjm5nv35AHyKBSEux) | [Heideroosjes](https://open.spotify.com/artist/3gmW7lOonf6IfBxEE1VBBJ) | [Noisy Fairytales \(Remastered 2018\)](https://open.spotify.com/album/7rRtPifyrlU1S1FXJNTunX) | 4:23 | 2024-04-01 | 2024-04-09 |
 | [Ze Weet Wat Ze Wil](https://open.spotify.com/track/7e51m54UzeX1hrkNOjo1Qo) | [Maria Iskariot](https://open.spotify.com/artist/52bmYWkd3OMgudChRWmEYj) | [Ze Weet Wat Ze Wil](https://open.spotify.com/album/1toxtM0TIY4U6276PkPzMP) | 3:01 | 2024-05-05 | 2024-05-07 |
-| [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-03-02 |  |
+| [ZORRA](https://open.spotify.com/track/4ypCNolz6aRYZPO3UOGp8Z) | [Nebulossa](https://open.spotify.com/artist/58M2tktuW3ZTnZGTddqejF) | [ZORRA](https://open.spotify.com/album/5DyJyPd1uYQrE0iWTkhmRf) | 3:03 | 2024-03-02 | 2024-05-24 |
 | [ЗАВОД](https://open.spotify.com/track/0JCG4FU6reipiFnJ0sGloH) | [ZAPRAVKA](https://open.spotify.com/artist/4oCaLmRVMM4Ck4VGrmh4VC) | [ЗАВОД](https://open.spotify.com/album/3BT92x77jU94cOAqg92Ijw) | 2:03 | 2024-01-29 | 2024-01-31 |
 | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/track/4hjRjhLvBIMUUhRjb7DACd) | [vyrval](https://open.spotify.com/artist/4hJrxZPQydibSnMMq7PpB9) | [✻H+3+ЯД✻7luCJIo0T6...](https://open.spotify.com/album/3joHEvqURxvBwrT5JZS3Sn) | 3:10 | 2024-02-28 | 2024-04-11 |
 

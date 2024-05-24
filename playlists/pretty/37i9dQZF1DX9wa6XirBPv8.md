@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: Taking Back Sunday
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,699,759 likes - 125 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,700,170 likes - 125 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 53 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 |
 | 54 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 55 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
-| 56 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
-| 57 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
-| 58 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
+| 56 | [The Feel Good Drag](https://open.spotify.com/track/5sTVykpRs4eiZKn96bZogj) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Never Take Friendship Personal](https://open.spotify.com/album/7F1dp39OljDwaJes2ruO0w) | 3:27 |
+| 57 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
+| 58 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
 | 59 | [Buried Myself Alive](https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [The Used](https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv) | 4:02 |
 | 60 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
 | 61 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
@@ -109,8 +109,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 99 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/0ObyshwXoUY4NTib9v2eji) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(20th Anniversary Edition\)](https://open.spotify.com/album/5vXgzBXFBLdsE22WvrkmjG) | 3:31 |
 | 100 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
 | 101 | [War All The Time](https://open.spotify.com/track/43CG5O08Tj6ODmSWQ9pfvF) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 4:32 |
-| 102 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
-| 103 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
+| 102 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2Jz3jX0HX2MhJM9yjYofdZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/7mEAwKVcYuMOKOCFQI6kfi) | 4:29 |
+| 103 | [New Medicines](https://open.spotify.com/track/2UMuVwCwPUdTmAYYgd88Fg) | [Dead Poetic](https://open.spotify.com/artist/14NIQxiBiZtbmZMXUwS6KD) | [New Medicines](https://open.spotify.com/album/3D4LoGIjzALWhaYBp4brMh) | 4:02 |
 | 104 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
 | 105 | [Shake It Out](https://open.spotify.com/track/4oS1UEAjl1Fs2nCpOAbp9Q) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [Mean Everything To Nothing](https://open.spotify.com/album/5piFSrg34mjWz2mprT1a4s) | 5:11 |
 | 106 | [Fucked up Kids](https://open.spotify.com/track/0X0Sce0TWkuYnT8PdNgcB1) | [Hit The Lights](https://open.spotify.com/artist/5fyHpJg1xW8OZqPyzmQv2C) | [Summer Bones](https://open.spotify.com/album/6ZTAETZwzG1FSerf0xY0gh) | 2:31 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 112 | [Give It Up](https://open.spotify.com/track/15VojnPQuAQleWQCBkcS5i) | [Midtown](https://open.spotify.com/artist/5dePEjHD5QEEKixOHXuRRA) | [Forget What You Know](https://open.spotify.com/album/0kzHDUWg9XKx5ianlRedvu) | 3:39 |
 | 113 | [I Want To Hear You Sad](https://open.spotify.com/track/1pheXhVRP3TVjjf9PeYuOU) | [The Early November](https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi) | [For All Of This](https://open.spotify.com/album/1XHeuN3lfBcSdW0u766VUk) | 3:30 |
 | 114 | [In A Sweater Poorly Knit](https://open.spotify.com/track/2v4kQsvlTPEYOIyJkytzGH) | [mewithoutYou](https://open.spotify.com/artist/3D4qYDvoPn5cQxtBm4oseo) | [Brother, Sister](https://open.spotify.com/album/4yItCYzksCSiB8RcUsAdSg) | 5:26 |
-| 115 | [We're At The Top Of The World](https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:17 |
-| 116 | [Promise](https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:16 |
+| 115 | [Promise](https://open.spotify.com/track/10aghLtnLvtlD3d0BoaPyY) | [Matchbook Romance](https://open.spotify.com/artist/5cCgzhFyRJVydeO23BqgLG) | [Stories And Alibis](https://open.spotify.com/album/3noNYURcHV9wsBSHJE0kiL) | 4:16 |
+| 116 | [We're At The Top Of The World](https://open.spotify.com/track/4BejqreqjhlN3FcR2irbKg) | [The Juliana Theory](https://open.spotify.com/artist/7obdmuirClkgU94pcUy05m) | [Emotion Is Dead](https://open.spotify.com/album/6BfOCDtxUy6ixkS68vZSll) | 3:17 |
 | 117 | [Rookie Of The Year](https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Casually Dressed & Deep In Conversation](https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA) | 3:00 |
 | 118 | [Do You Feel](https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl) | [The Rocket Summer](https://open.spotify.com/artist/3Uqc6c1DUPkyUQSeatexYU) | [Do You Feel](https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J) | 2:40 |
 | 119 | [Absinthe Party At The Fly Honey Warehouse](https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Highly Refined Pirates](https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w) | 5:24 |

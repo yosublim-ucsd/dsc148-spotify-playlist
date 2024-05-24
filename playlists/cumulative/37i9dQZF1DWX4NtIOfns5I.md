@@ -4,7 +4,7 @@
 
 > where folk flowers bloom\. cover: Lily Meola
 
-262 songs - 15 hr 26 min
+263 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,6 +258,7 @@
 | [Voyager](https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:48 | 2023-10-17 | 2023-12-16 |
 | [Where Did I Go Wrong](https://open.spotify.com/track/13VtzJP8HQuK6jQRJrP6xL) | [Crowe Boys](https://open.spotify.com/artist/5k7X7qq43uKpB09FSYS5id) | [Where Did I Go Wrong](https://open.spotify.com/album/3zBmaB2rxw5YjX2kqUsgTa) | 2:59 | 2024-03-01 |  |
 | [Where'd The Time Go?](https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Where'd The Time Go?](https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM) | 1:45 | 2023-10-20 | 2024-02-14 |
+| [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2024-05-23 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2023-12-22 | 2024-04-06 |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 | 2024-03-13 |
 | [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 | 2024-04-22 |  |

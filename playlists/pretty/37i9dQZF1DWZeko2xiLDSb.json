@@ -1,6 +1,6 @@
 {
   "description": "soundtrack those long, dark days with warm indie favourites",
-  "num_followers": 21184,
+  "num_followers": 21177,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-05-22 15:16:02",
       "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 266466,
-      "name": "Wasteland, Baby!",
-      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
-    },
-    {
-      "added_at": "2024-05-22 15:16:02",
-      "album": {
         "name": "Trouble Will Find Me",
         "url": "https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 245240,
       "name": "I Need My Girl",
       "url": "https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI"
+    },
+    {
+      "added_at": "2024-05-22 15:16:02",
+      "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 266466,
+      "name": "Wasteland, Baby!",
+      "url": "https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH"
     },
     {
       "added_at": "2024-05-22 15:16:02",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-22 15:16:02",
       "album": {
-        "name": "MASSEDUCTION",
-        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 154960,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
-    },
-    {
-      "added_at": "2024-05-22 15:16:02",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2024-05-22 15:16:02",
+      "album": {
+        "name": "MASSEDUCTION",
+        "url": "https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 154960,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj"
     },
     {
       "added_at": "2024-05-22 15:16:02",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-05-22 15:16:02",
       "album": {
-        "name": "Duvet Day Songs",
-        "url": "https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO"
-      },
-      "artists": [
-        {
-          "name": "Joni Mitchell",
-          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
-        }
-      ],
-      "duration_ms": 263480,
-      "name": "A Case of You",
-      "url": "https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er"
-    },
-    {
-      "added_at": "2024-05-22 15:16:02",
-      "album": {
         "name": "Permanent Damage",
         "url": "https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 247645,
       "name": "Just Come Home with Me Tonight",
       "url": "https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt"
+    },
+    {
+      "added_at": "2024-05-22 15:16:02",
+      "album": {
+        "name": "Duvet Day Songs",
+        "url": "https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "duration_ms": 263480,
+      "name": "A Case of You",
+      "url": "https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er"
     },
     {
       "added_at": "2024-05-22 15:16:02",

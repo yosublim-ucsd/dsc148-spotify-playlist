@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-250 songs - 11 hr 2 min
+252 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Displacement](https://open.spotify.com/track/2nUvXZC2yPa7tv9lfwNgDm) | [Maximilian Power](https://open.spotify.com/artist/58F0bW6KZx2P6sXbPvn2i6) | [Displacement](https://open.spotify.com/album/3BPVaQ5np2VwXbTxGYiE2S) | 2:26 | 2023-06-28 |  |
 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 | 2024-01-05 |  |
 | [Don't Ever Say Goodbye](https://open.spotify.com/track/0y35Vf7XEzB9wZUhDXrmR5) | [Jane Andreassen](https://open.spotify.com/artist/2UxhGySCjRJKfBuEW3CdMJ) | [Don't Ever Say Goodbye](https://open.spotify.com/album/2SKbUJ83VZve2rKPWRhNeO) | 2:47 | 2022-05-27 | 2024-04-04 |
+| [Douce Èmeraude](https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Douce Èmeraude](https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx) | 2:45 | 2024-05-23 |  |
 | [Doucement](https://open.spotify.com/track/3GwiRKRo65MohJVQ0U3HLG) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Doucement](https://open.spotify.com/album/4w9ZGct1aV16nmB0SjyJeV) | 2:06 | 2022-09-15 |  |
 | [Dream In Color](https://open.spotify.com/track/6Jl2hMsoSdY0RsfJZuGt9P) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Dream In Color](https://open.spotify.com/album/48i0tcVHtsvSeeZAFkNsPU) | 2:39 | 2022-05-27 |  |
 | [Dream in Eb](https://open.spotify.com/track/14g7oKsfbokvFDtDtP77Ir) | [Rand Aldo](https://open.spotify.com/artist/28COj84KB3mitRVXZkNW4N) | [Dreams](https://open.spotify.com/album/4nVkpMo4vu96mvzWXtQt1t) | 2:25 | 2022-05-27 | 2022-07-28 |
@@ -135,6 +136,7 @@
 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 | 2024-04-09 |  |
 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 | 2024-03-05 |  |
 | [Lonely Hearts](https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Summer Memories](https://open.spotify.com/album/1qf7trVq03K5jA7hCiy1Vi) | 2:45 | 2022-05-27 | 2024-03-26 |
+| [Longitude](https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9) | [Frederiq](https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1) | [Longitude](https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ) | 2:34 | 2024-05-23 |  |
 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 | 2022-05-27 |  |
 | [Luminous Sky](https://open.spotify.com/track/3fpMkw955AzfpSKMrbRZ0T) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [Highlands](https://open.spotify.com/album/1KPOY59AEk9XcuiZVLH231) | 2:28 | 2022-05-27 | 2022-07-28 |
 | [Lyra](https://open.spotify.com/track/1PUHoY8bhuKlkmM4xTecpP) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Lyra](https://open.spotify.com/album/4rVRCdKYBx7PdNsEaOJevw) | 2:45 | 2022-05-27 | 2022-07-29 |

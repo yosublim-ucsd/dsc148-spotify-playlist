@@ -198,7 +198,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 235244,
       "name": "Acerta",
       "url": "https://open.spotify.com/track/6qhwWPfW7AqhWoJPEjyylb"
@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193045,
       "name": "Do Teu Jeito",
       "url": "https://open.spotify.com/track/5CF09RgWw4dzYqCpiWljea"
@@ -1820,6 +1820,32 @@
       "duration_ms": 296000,
       "name": "Don't Judge Me (Saxo-Kizomba)",
       "url": "https://open.spotify.com/track/4kfiS4tlucOjdcBXT29cVY"
+    },
+    {
+      "album": {
+        "name": "Do Meu Jeito",
+        "url": "https://open.spotify.com/album/5Nim65uiW7V0L2BRAwmAas"
+      },
+      "artists": [
+        {
+          "name": "Kidy Wime",
+          "url": "https://open.spotify.com/artist/2QtrhVR4nIagsw8ybScbxB"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Florito",
+          "url": "https://open.spotify.com/artist/6ktGTLhw33T6F08my0ZRQH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Don't You See",
+      "url": "https://open.spotify.com/track/7Dk86YxunkaoHYzAcPg3fs"
     },
     {
       "album": {
@@ -2566,6 +2592,24 @@
       "duration_ms": 205714,
       "name": "Heartbeats",
       "url": "https://open.spotify.com/track/1lTCCK1d6IZLCbDPBaWhC7"
+    },
+    {
+      "album": {
+        "name": "Hey Odja",
+        "url": "https://open.spotify.com/album/7HKI7EfF4p7zD5sUyfi6SU"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167180,
+      "name": "Hey Odja",
+      "url": "https://open.spotify.com/track/1QhtXQu9c9HJsGUmuJf4yd"
     },
     {
       "album": {
@@ -4587,6 +4631,32 @@
     },
     {
       "album": {
+        "name": "O Lamento",
+        "url": "https://open.spotify.com/album/46dkBV8nfGFL1YB2hzq7h1"
+      },
+      "artists": [
+        {
+          "name": "Soarito",
+          "url": "https://open.spotify.com/artist/4Gbn1gCF4FzZ08ST13lesv"
+        },
+        {
+          "name": "C4 Pedro",
+          "url": "https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao"
+        },
+        {
+          "name": "Shalom Beatz",
+          "url": "https://open.spotify.com/artist/6u7nHw6ucOBFUxpTr5LmWI"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "O Lamento",
+      "url": "https://open.spotify.com/track/0dpqMHwFssBIFfpkUu6Fvi"
+    },
+    {
+      "album": {
         "name": "O Nosso Amor",
         "url": "https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU"
       },
@@ -5812,7 +5882,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192702,
       "name": "Sentimento",
       "url": "https://open.spotify.com/track/17oWF2oYVYeowqlELXrXMy"

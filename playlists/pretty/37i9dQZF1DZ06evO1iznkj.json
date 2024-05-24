@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 144472,
+  "num_followers": 144556,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAD4qQ5NUKr57bGkJV2BagPL",
+  "snapshot_id": "Zk01gAAAAADk8VgnBMttwseoYjbN79a7",
   "tracks": [
     {
       "added_at": null,
@@ -83,6 +83,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 145542,
+      "name": "Drip Too Hard (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "prada dem (feat. Offset)",
         "url": "https://open.spotify.com/album/2hTlK2bJqMK4LrFvzcxPKY"
       },
@@ -103,6 +123,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "hakuna matata",
+      "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -119,22 +155,6 @@
       "duration_ms": 203266,
       "name": "Space Cadet (feat. Gunna)",
       "url": "https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "hakuna matata",
-      "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ"
     },
     {
       "added_at": null,
@@ -191,6 +211,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 155080,
+      "name": "neck on a yacht",
+      "url": "https://open.spotify.com/track/5zXTskPR6ybGjMoZfJnJ6O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -215,6 +267,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "P power (feat. Drake)",
+      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -224,9 +296,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 155080,
-      "name": "neck on a yacht",
-      "url": "https://open.spotify.com/track/5zXTskPR6ybGjMoZfJnJ6O"
+      "duration_ms": 147720,
+      "name": "collage",
+      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
     },
     {
       "added_at": null,
@@ -247,26 +319,6 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "P power (feat. Drake)",
-      "url": "https://open.spotify.com/track/0lEjxUUlKqjqXrVlIHFduD"
     },
     {
       "added_at": null,
@@ -295,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "collage",
-      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -323,6 +359,22 @@
       "duration_ms": 193333,
       "name": "back to the moon",
       "url": "https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 148240,
+      "name": "whatsapp (wassam)",
+      "url": "https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8"
     },
     {
       "added_at": null,
@@ -367,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 148240,
-      "name": "whatsapp (wassam)",
-      "url": "https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip or Drown 2",
         "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
@@ -395,6 +431,22 @@
       "duration_ms": 151539,
       "name": "Who You Foolin",
       "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 116360,
+      "name": "trio",
+      "url": "https://open.spotify.com/track/7fQ1PCR4pZC3SyNSZHDQtT"
     },
     {
       "added_at": null,
@@ -430,55 +482,11 @@
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 136266,
-      "name": "pushin P (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 116360,
-      "name": "trio",
-      "url": "https://open.spotify.com/track/7fQ1PCR4pZC3SyNSZHDQtT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sold Out Dates (feat. Lil Baby)",
-        "url": "https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 166368,
-      "name": "Sold Out Dates (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g"
+      "duration_ms": 122693,
+      "name": "south to west",
+      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
     },
     {
       "added_at": null,
@@ -503,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "WUNNA",
+        "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
       "artists": [
         {
@@ -512,25 +520,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 122693,
-      "name": "south to west",
-      "url": "https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Banking On Me",
-        "url": "https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Banking On Me",
-      "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+      "duration_ms": 149133,
+      "name": "MET GALA",
+      "url": "https://open.spotify.com/track/4loM16743hROPC6uIJG6wM"
     },
     {
       "added_at": null,
@@ -607,34 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slime Language 2",
-        "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
-      },
-      "artists": [
-        {
-          "name": "Young Stoner Life",
-          "url": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Solid (feat. Drake)",
-      "url": "https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THIS YEAR (Blessings) [Remix]",
         "url": "https://open.spotify.com/album/4TZI8LgMjrmTlOhy7nFa2U"
       },
@@ -675,26 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bachelor",
-        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Bachelor",
-      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Slime Language 2",
         "url": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
       },
@@ -719,38 +663,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "2 Aliv\u00eb",
-        "url": "https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u"
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
       },
       "artists": [
         {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
         },
         {
           "name": "Gunna",
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 181440,
-      "name": "Rackz got m\u00eb (feat. Gunna)",
-      "url": "https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "go crazy",
-      "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
       "added_at": null,
@@ -775,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "go crazy",
+      "url": "https://open.spotify.com/track/6YD8EpsddOfEwAhaymGu0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good Intentions",
         "url": "https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS"
       },
@@ -795,6 +739,26 @@
       "duration_ms": 161319,
       "name": "Turks (with Gunna & ft. Travis Scott)",
       "url": "https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158691,
+      "name": "Start Wit Me (feat. Gunna)",
+      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
     },
     {
       "added_at": null,
@@ -831,26 +795,6 @@
       "duration_ms": 176946,
       "name": "rodeo dr",
       "url": "https://open.spotify.com/track/2rjv9fXzpZDbB6lEeIoB3l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158691,
-      "name": "Start Wit Me (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
     },
     {
       "added_at": null,
@@ -903,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "DS4EVER",
+        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 167840,
+      "name": "thought i was playing",
+      "url": "https://open.spotify.com/track/5dqeWGM9sqLd5bZhyBikrZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
@@ -935,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "REPEAT IT",
-        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 190344,
-      "name": "REPEAT IT (with Gunna)",
-      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -971,6 +915,26 @@
       "duration_ms": 169906,
       "name": "TOP FLOOR (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "REPEAT IT",
+        "url": "https://open.spotify.com/album/0hTvuLmKKMWoBWgPPrpUKF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 190344,
+      "name": "REPEAT IT (with Gunna)",
+      "url": "https://open.spotify.com/track/21AJQhGZpujjZQXByZAXpr"
     },
     {
       "added_at": null,
@@ -1043,6 +1007,22 @@
       "duration_ms": 188563,
       "name": "Numbers (feat. Roddy Ricch, Gunna and London On Da Track)",
       "url": "https://open.spotify.com/track/733c1CWmIGymoQXdp7Us88"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip Season 3 (Deluxe)",
+        "url": "https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 145796,
+      "name": "Helluva Price",
+      "url": "https://open.spotify.com/track/5bFym95c4l7Q7cVIYArOzC"
     }
   ],
   "unique_name": "This Is Gunna",

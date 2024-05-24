@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 
 > Explore the dazzling sound of Japanese City Pop from the ‘80s./ 都会の夜をクルージング、週末は海辺でリゾート気分。煌めきに満ちた毎日を彩った、黄金期のシティポップ 。
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,201 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,251 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW28hvtiO3j9.md) - [plain]
 | 36 | [雨のウェンズデイ](https://open.spotify.com/track/05cPxtumQhtpLhPBnnCf3x) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [A LONG VACATION](https://open.spotify.com/album/3eUV7xEoXqQb43ek7Db04H) | 4:26 |
 | 37 | [スノッブな夜へ](https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2) | [Yurie Kokubu](https://open.spotify.com/artist/1TnNKsMdzxwBiHkde10tPX) | [Relief 72 hours](https://open.spotify.com/album/6Flte85iZhB31faD8mWRl5) | 4:51 |
 | 38 | [感じるままに](https://open.spotify.com/track/5XPeE6Nf7Lt5onFGhqeRci) | [Kei Ishiguro](https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM) | [Purple Road](https://open.spotify.com/album/1dq8sevP6SbYfaSlhh18Zu) | 3:09 |
-| 39 | [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 |
-| 40 | [Blind Curve](https://open.spotify.com/track/6UU3qMXteOLTo49eoyo4dp) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Pacific Breeze 2 EP: Japanese City Pop, AOR & Boogie 1983\-1986](https://open.spotify.com/album/3gZZsx3idZzkBSMJZTCBs5) | 4:02 |
+| 39 | [Blind Curve](https://open.spotify.com/track/6UU3qMXteOLTo49eoyo4dp) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [Pacific Breeze 2 EP: Japanese City Pop, AOR & Boogie 1983\-1986](https://open.spotify.com/album/3gZZsx3idZzkBSMJZTCBs5) | 4:02 |
+| 40 | [ふたりの夏物語 NEVER ENDING SUMMER](https://open.spotify.com/track/1HDqBV6gWeqFStJHLmPjh4) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [ゴールデン☆ベスト](https://open.spotify.com/album/3Vq6k1RTSR7NydAR6AoDw6) | 4:01 |
 | 41 | [雨のケンネル通り](https://open.spotify.com/track/34fPafuMThpNjUuJ3DW8dj) | [EPO](https://open.spotify.com/artist/0KigzYQAy5EpdIc9g7szPv) | [GOODIES](https://open.spotify.com/album/60OpUEpnNiPjvMM8ibV3Ur) | 4:34 |
 | 42 | [フロントガラス越しに](https://open.spotify.com/track/76Jpo5U45kAhTl79JHtHUh) | [Kaoru Sudo](https://open.spotify.com/artist/5TSmLuqTfjcvcZVWMtomI3) | [PLANETARIUM](https://open.spotify.com/album/78tEeRZHI4y3RqdhtqGgoh) | 4:49 |
 | 43 | [ようこそ輝く時間へ](https://open.spotify.com/track/359IiO08eIz2kcwoS74EkD) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [PEARL PIERCE](https://open.spotify.com/album/2KftKQGKx6r6zREGJq1cLa) | 4:39 |

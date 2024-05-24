@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 
 > Les meilleurs airs d'autoroute.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,641 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,694 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 51 | [Monde Nouveau](https://open.spotify.com/track/0s5gtv1tHwd89TdRYpzfDd) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [Palais d'argile](https://open.spotify.com/album/5CeSn89NE60Az4dCtkqfWi) | 3:34 |
 | 52 | [Non non non \(Ecouter Barbara\)](https://open.spotify.com/track/6M6jVoM0ULQ2P12iQg1BOc) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Camelia Jordana](https://open.spotify.com/album/1WrPo6fzTlwJHaB1qOAwJT) | 2:46 |
 | 53 | [Lalalove You](https://open.spotify.com/track/5JB4QJJQMltOaX1UbzPjGh) | [BB Brunes](https://open.spotify.com/artist/4tHeypFR25Cnx83nuHhrud) | [Nico Teen Love](https://open.spotify.com/album/3CaWeqpBhLWPyFU0sALf8k) | 3:00 |
-| 54 | [Dusty Men \- French Version](https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Géant](https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7) | 3:25 |
-| 55 | [Rue de la Paix](https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [La Zizanie](https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60) | 4:16 |
+| 54 | [Rue de la Paix](https://open.spotify.com/track/78js60sgt5lq9zEnlHg9WB) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [La Zizanie](https://open.spotify.com/album/2MmtycxmuZrVlHoo70uX60) | 4:16 |
+| 55 | [Dusty Men \- French Version](https://open.spotify.com/track/2rcmXKCGWQ8ohlQVjaeXuK) | [Saule](https://open.spotify.com/artist/2n2CmLay2NP2Iolah62W34), [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3) | [Géant](https://open.spotify.com/album/1WLReZZ7tD9YUtpwLFrwT7) | 3:25 |
 | 56 | [Bonne idée](https://open.spotify.com/track/4GP7DvuweWXuqTNAdUmnEa) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 3:27 |
 | 57 | [Le lion est mort ce soir](https://open.spotify.com/track/0hUMKXGkWnvv7VP25otgMM) | [Pow Wow](https://open.spotify.com/artist/3dUQY50ORRByIgHFZHrxJZ) | [Regagner Les Plaines](https://open.spotify.com/album/0fVZHjs0eok4mX37u85MlN) | 2:58 |
 | 58 | [Seul](https://open.spotify.com/track/7MRyru6giOwdtFYL5KQEVq) | [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Seul](https://open.spotify.com/album/6t0eIKq8adhPxIWP6TWhgP) | 4:41 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWo4kzWesMJm.md) - [plain]
 | 71 | [Osez Joséphine](https://open.spotify.com/track/3XJG4svqKswsr2ixWNgjg1) | [Alain Bashung](https://open.spotify.com/artist/6y1aZyP40077De3neGJD2b) | [Osez Josephine](https://open.spotify.com/album/0653WmIcH7ZSTas8txIZgM) | 2:58 |
 | 72 | [Tout savoir](https://open.spotify.com/track/5hquKiRUsOh0079PvO7EJN) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Tout savoir](https://open.spotify.com/album/3KqSaDCCk1NIj4s4adfFTa) | 3:16 |
 | 73 | [Le Premier jour \(Du reste de ta vie\)](https://open.spotify.com/track/7ycDyrJEPBwzy2uAvtTZyh) | [Étienne Daho](https://open.spotify.com/artist/5aDKJuLDczfmHfRSOmHCJk) | [Le Premier Jour](https://open.spotify.com/album/3MPQylPQwIPtyLJRNBc44w) | 4:10 |
-| 74 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
-| 75 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 74 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 75 | [Serre\-moi](https://open.spotify.com/track/2uxTJ3a5PfQK4YuWOXPwFm) | [Tryo](https://open.spotify.com/artist/4ZP3CHz28XWVLGiaVVWuLj) | [Grain de sable](https://open.spotify.com/album/7GMBb8Rly9ZSCIBMlN8Jhw) | 3:49 |
 | 76 | [Aux arbres citoyens](https://open.spotify.com/track/2poOtKwdjc39DRNmY6wRV2) | [Yannick Noah](https://open.spotify.com/artist/0BCkVcs4QEgfHlvZ7rjSNv) | [Charango](https://open.spotify.com/album/6poeQP5Vsy8V8cRdqLbn8c) | 3:15 |
 | 77 | [L'autre finistère](https://open.spotify.com/track/0peab24FczqEtFcVhOnYmj) | [Les Innocents](https://open.spotify.com/artist/4yBNT94b6M3yRNVLIy8RhP) | [Meilleurs souvenirs \- Best Of](https://open.spotify.com/album/1qFDWiMazz2BuePnBmQbqg) | 4:09 |
 | 78 | [Voyage en Italie](https://open.spotify.com/track/5FmknnkNLdiGeDndWfuxON) | [Lilicub](https://open.spotify.com/artist/4qb1iMTG9N0RulBWuV621J) | [Lilicub](https://open.spotify.com/album/54kmwLOLsXJQxGG1GwAUOj) | 3:55 |
 | 79 | [Vanina \(Runaway\)](https://open.spotify.com/track/3HkJ0MJ8FZh8YNF4yf2kJc) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:12 |
 | 80 | [Laissons entrer le soleil](https://open.spotify.com/track/1jRoXThsV21LQeNdT3tcUn) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Inédits 1968\-1998](https://open.spotify.com/album/1MlpnvY0WaNqf3fzEoklGj) | 3:44 |
 
-Snapshot ID: `Ze7WlwAAAABntFdkEtvmkUgNNiuJIded`
+Snapshot ID: `Zk+8YAAAAAAw7WUurwzEyt2tdrVdY8a9`

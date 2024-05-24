@@ -1,6 +1,6 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 106737,
+  "num_followers": 106743,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
@@ -616,22 +616,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
-      },
-      "artists": [
-        {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zKfApbjSv6TcWCvWtJf2q"
       },
       "artists": [
@@ -643,6 +627,22 @@
       "duration_ms": 274968,
       "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
       "url": "https://open.spotify.com/track/4ya6kBUnCe27g0hZM57L1n"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4OUg8wmqAxUfSN05i4um9Y"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 228586,
+      "name": "All We Ever Knew - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0PHm9MrfZdEUasfd1XC0n2"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -792,22 +792,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 236644,
-      "name": "Feeling Like I Do - Spotify Singles",
-      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
       "artists": [
@@ -819,6 +803,22 @@
       "duration_ms": 192870,
       "name": "La Tirana - Spotify Singles",
       "url": "https://open.spotify.com/track/5UzRLiSBXVQh3rrxWUmBhc"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 236644,
+      "name": "Feeling Like I Do - Spotify Singles",
+      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -949,6 +949,38 @@
       "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
     },
     {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 268207,
+      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
+    },
+    {
       "added_at": "2023-11-07 19:15:28",
       "album": {
         "name": "Spotify Singles",
@@ -979,38 +1011,6 @@
       "duration_ms": 310400,
       "name": "When the Night is Over - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 268207,
-      "name": "U Got It Bad - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4Dg5moVCTqxAb7Wr8Dq2T5"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        },
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 181828,
-      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
-      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2Wfg6b6tD069N2cxqRlQ0e"
       },
@@ -1427,18 +1407,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
+        "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+        "url": "https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8"
       },
       "artists": [
         {
-          "name": "Ella Vos",
-          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        },
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 168043,
-      "name": "White Noise - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
+      "duration_ms": 181828,
+      "name": "f*ck everything! - Spotify Singles (feat. The Drums)",
+      "url": "https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1455,6 +1439,22 @@
       "duration_ms": 210355,
       "name": "El Rey de la Popola - Spotify Singles",
       "url": "https://open.spotify.com/track/2kMYjwRj5E9Th5QgXoj8Mj"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7eIpt9EravnZoiZFzFJbli"
+      },
+      "artists": [
+        {
+          "name": "Ella Vos",
+          "url": "https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6"
+        }
+      ],
+      "duration_ms": 168043,
+      "name": "White Noise - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/01LXrAtadc5KLDmINlg1yt"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1672,22 +1672,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
-      },
-      "artists": [
-        {
-          "name": "St. Vincent",
-          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
-        }
-      ],
-      "duration_ms": 253514,
-      "name": "Los Ageless - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6bcZYFHfdRSeiHxYlKGUOa"
       },
       "artists": [
@@ -1699,6 +1683,22 @@
       "duration_ms": 214823,
       "name": "Love Is Mystical - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Q35tqm635VYFT8G9gcBkO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1BVo8R3bj8Ct0XVt40Penq"
+      },
+      "artists": [
+        {
+          "name": "St. Vincent",
+          "url": "https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6"
+        }
+      ],
+      "duration_ms": 253514,
+      "name": "Los Ageless - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1N7JaLzEnYLee0DUxoMrei"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1720,22 +1720,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
-      },
-      "artists": [
-        {
-          "name": "Christine and the Queens",
-          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
-        }
-      ],
-      "duration_ms": 248743,
-      "name": "The walker \u2013 Recorded at RAK Studios, London",
-      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2LRvMxrP2MbJATWGkCJ3Y2"
       },
       "artists": [
@@ -1747,6 +1731,22 @@
       "duration_ms": 212728,
       "name": "Strangers - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2OODSSTxWK2i6LQvQJD557"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7czziv0pFx9h7WbXdcVixR"
+      },
+      "artists": [
+        {
+          "name": "Christine and the Queens",
+          "url": "https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT"
+        }
+      ],
+      "duration_ms": 248743,
+      "name": "The walker \u2013 Recorded at RAK Studios, London",
+      "url": "https://open.spotify.com/track/27xSaNgubCeJLl5Ymh54R6"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1944,22 +1944,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
-      },
-      "artists": [
-        {
-          "name": "Grizzly Bear",
-          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
-        }
-      ],
-      "duration_ms": 316108,
-      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf"
       },
       "artists": [
@@ -1971,6 +1955,22 @@
       "duration_ms": 344666,
       "name": "tonite - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d"
+      },
+      "artists": [
+        {
+          "name": "Grizzly Bear",
+          "url": "https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4"
+        }
+      ],
+      "duration_ms": 316108,
+      "name": "Mourning Sound - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV"
     },
     {
       "added_at": "2023-01-11 22:54:33",

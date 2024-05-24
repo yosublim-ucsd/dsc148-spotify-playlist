@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,712 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,896 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 51 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
 | 52 | [Even Louder](https://open.spotify.com/track/3H8M5OvYVupSFCOOcAwi5l) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Even Louder](https://open.spotify.com/album/3UASecPGoYN3VoDwSWlUJx) | 3:29 |
 | 53 | [Oasis](https://open.spotify.com/track/2ubtdfFrRUtIteaj5aHyWo) | [kalley](https://open.spotify.com/artist/1VfUR2Su5Ags5Im3mZGnPo) | [Faultlines Vol\. I](https://open.spotify.com/album/2xfrjrhWCJszsRlrBUsYWC) | 2:52 |
-| 54 | [Testify](https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Testify](https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb) | 3:39 |
-| 55 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
+| 54 | [Impossible](https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Dark Is The Way, Light Is A Place](https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv) | 4:03 |
+| 55 | [Testify](https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Testify](https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb) | 3:39 |
 | 56 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
 | 57 | [So Alive](https://open.spotify.com/track/2aQZSSRvTDuUJS3Dv6zAOn) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [So Alive](https://open.spotify.com/album/2ZyM9mfB6vZRS7KEQX39mm) | 2:58 |
 | 58 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |

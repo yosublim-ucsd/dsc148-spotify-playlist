@@ -121,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Albino",
+        "url": "https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR"
+      },
+      "artists": [
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Tice",
+          "url": "https://open.spotify.com/artist/0VF99ihK36GXSlQs0mzL0S"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212177,
+      "name": "Albino",
+      "url": "https://open.spotify.com/track/7xVssMegpAxQ8GuFa84V31"
+    },
+    {
+      "album": {
         "name": "Amathole",
         "url": "https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp"
       },
@@ -962,7 +984,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 217372,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/2xZIqRUEViI9FC6X8KikaT"
@@ -1956,7 +1978,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178965,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
@@ -2840,7 +2862,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 93650,
       "name": "MASHA ULTRAFUNK",
       "url": "https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW"

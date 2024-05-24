@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 225623,
       "name": "Awake My Soul",
       "url": "https://open.spotify.com/track/1HkXH8anJdvM3zjouj4E9k"
@@ -176,7 +176,7 @@
       ],
       "date_added": "2023-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 249106,
       "name": "Dove's Eyes",
       "url": "https://open.spotify.com/track/4f8lj0jCAZER8viV2tBOUj"
@@ -292,7 +292,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 406440,
       "name": "For Your Glory - Live",
       "url": "https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ"
@@ -354,7 +354,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131333,
       "name": "God's About To Do It - Live",
       "url": "https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 464809,
       "name": "Holy Water - Church Sessions",
       "url": "https://open.spotify.com/track/2wkiIDEXYJUels0HbBkpvl"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 346765,
       "name": "In Spite Of Me",
       "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
@@ -848,7 +848,7 @@
       ],
       "date_added": "2022-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
@@ -1243,6 +1243,40 @@
     },
     {
       "album": {
+        "name": "One Hallelujah",
+        "url": "https://open.spotify.com/album/6PC1CBTlJ7WaV6YC62jVbn"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        },
+        {
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345179,
+      "name": "One Hallelujah",
+      "url": "https://open.spotify.com/track/1nJYjT357z2vQAMAbuoTno"
+    },
+    {
+      "album": {
         "name": "One Place Live",
         "url": "https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb"
       },
@@ -1432,7 +1466,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 462320,
       "name": "Rushing In - Live",
       "url": "https://open.spotify.com/track/02VfD2SkTugthTpKzDw8Zp"
@@ -1502,7 +1536,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 347746,
       "name": "Smile - Live",
       "url": "https://open.spotify.com/track/5XFYRxSFLFnxJOCFqXRLc9"
@@ -1602,7 +1636,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 167040,
       "name": "The Blood Hymns Medley - Live",
       "url": "https://open.spotify.com/track/0Oc8IsqGoqf6b5KDeIAmSK"
@@ -1674,7 +1708,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 301066,
       "name": "The River Of The Lord",
       "url": "https://open.spotify.com/track/4AWM3wvYUY7n0HgscOSHAw"
@@ -1692,7 +1726,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 445586,
       "name": "This Is A Move - Live",
       "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
@@ -1770,7 +1804,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
@@ -1792,7 +1826,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-20",
+      "date_removed": null,
       "duration_ms": 409506,
       "name": "Wonderful Grace",
       "url": "https://open.spotify.com/track/2USmhOGKSID1Zs7f13hwWC"
@@ -1902,7 +1936,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 471573,
       "name": "Your Spirit",
       "url": "https://open.spotify.com/track/7qqfOOpaznhA6ufItfYovr"

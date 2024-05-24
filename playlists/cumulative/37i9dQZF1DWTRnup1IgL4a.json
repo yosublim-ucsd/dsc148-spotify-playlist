@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 168275,
       "name": "A Quiet Moment",
       "url": "https://open.spotify.com/track/3X8JVsDjjOCh40bJzon4pF"
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "April Snow",
+        "url": "https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl"
+      },
+      "artists": [
+        {
+          "name": "Leo Ek",
+          "url": "https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "April Snow",
+      "url": "https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO"
+    },
+    {
+      "album": {
         "name": "Arrow Point Port",
         "url": "https://open.spotify.com/album/69rrbdsxBJmEegJZLc63Zz"
       },
@@ -412,7 +430,7 @@
       ],
       "date_added": "2022-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150970,
       "name": "Bordeaux",
       "url": "https://open.spotify.com/track/7i0COnt9ofcnJ1bDF8TqMu"
@@ -718,7 +736,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166643,
       "name": "Dois Mundos",
       "url": "https://open.spotify.com/track/4Ls25DZAykE5rhatYaFivp"
@@ -758,6 +776,24 @@
       "duration_ms": 190958,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/64t8q2udrOR4Myb6i83SaC"
+    },
+    {
+      "album": {
+        "name": "Dreaming of You",
+        "url": "https://open.spotify.com/album/7jCgSYBykgShmN0fqPq5K6"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225833,
+      "name": "Dreaming of You",
+      "url": "https://open.spotify.com/track/2Kc5cRMOGRwUHmUWCK6dtp"
     },
     {
       "album": {
@@ -1024,7 +1060,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160124,
       "name": "Ewigkeit",
       "url": "https://open.spotify.com/track/5fIrdZt2rk3TSmvogAo8vj"
@@ -1139,6 +1175,24 @@
     },
     {
       "album": {
+        "name": "Fly Up",
+        "url": "https://open.spotify.com/album/0p97Dwfkvjf0CxcmYaGRp9"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel Fischer",
+          "url": "https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Fly Up",
+      "url": "https://open.spotify.com/track/0qzkoEYtEm3HZYUErVqk2E"
+    },
+    {
+      "album": {
         "name": "Foggy Morning",
         "url": "https://open.spotify.com/album/1jU1CLNqseQ1mT8UFUdbfj"
       },
@@ -1190,6 +1244,24 @@
       "duration_ms": 122000,
       "name": "Fragments of Euphoria",
       "url": "https://open.spotify.com/track/5OD8nTv8JgpKgoynKK0uKX"
+    },
+    {
+      "album": {
+        "name": "French Town",
+        "url": "https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142865,
+      "name": "French Town",
+      "url": "https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm"
     },
     {
       "album": {
@@ -1640,6 +1712,24 @@
       "duration_ms": 127154,
       "name": "Ianthe",
       "url": "https://open.spotify.com/track/2ceHVcgNFK0mOTobgkfcKq"
+    },
+    {
+      "album": {
+        "name": "Imagined Narrative",
+        "url": "https://open.spotify.com/album/3RjnFeFcUqTj6I0afE0aQ9"
+      },
+      "artists": [
+        {
+          "name": "Still Tides",
+          "url": "https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153409,
+      "name": "Imagined Narrative",
+      "url": "https://open.spotify.com/track/0tZ2tSsFkABoh2pUSAiJmq"
     },
     {
       "album": {
@@ -2198,7 +2288,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 349560,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7zYpeRiOyWinklmP0wcd9p"
@@ -2360,7 +2450,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164478,
       "name": "Moinhos de Vento",
       "url": "https://open.spotify.com/track/52614dZTEBCtg0SKV3Z45z"
@@ -2778,7 +2868,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 184515,
       "name": "Plaisir",
       "url": "https://open.spotify.com/track/5st9nAlvjp9bd7MUq9tidJ"
@@ -2922,7 +3012,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 246750,
       "name": "Rio De La Plata",
       "url": "https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt"
@@ -3012,7 +3102,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156152,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK"
@@ -3084,7 +3174,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 206125,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/2TZcnrqs9xAdcIcByIHDC2"
@@ -3163,6 +3253,24 @@
     },
     {
       "album": {
+        "name": "Sighs in the Night",
+        "url": "https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc"
+      },
+      "artists": [
+        {
+          "name": "Caylee Luna",
+          "url": "https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Sighs in the Night",
+      "url": "https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy"
+    },
+    {
+      "album": {
         "name": "Signum",
         "url": "https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB"
       },
@@ -3214,6 +3322,24 @@
       "duration_ms": 147511,
       "name": "Slaap Niet Meer",
       "url": "https://open.spotify.com/track/17zkvQZwuaKdZkSyR1MmV3"
+    },
+    {
+      "album": {
+        "name": "Sleeping Petals",
+        "url": "https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141175,
+      "name": "Sleeping Petals",
+      "url": "https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61"
     },
     {
       "album": {
@@ -4042,7 +4168,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 135500,
       "name": "Vacilando",
       "url": "https://open.spotify.com/track/3OL9Y9QbBE1WZPI5ft3yzz"

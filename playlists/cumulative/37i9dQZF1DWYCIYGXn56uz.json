@@ -922,7 +922,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193190,
       "name": "Berlino",
       "url": "https://open.spotify.com/track/1Bu55iIHZgYNy1vx6lughQ"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 120875,
       "name": "Bugiarda Vera",
       "url": "https://open.spotify.com/track/6pEqnTgOlfY8D1etxnii0Y"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157894,
       "name": "Dal Tuo Lato",
       "url": "https://open.spotify.com/track/5HyMqF3V8XFLermeTRFITZ"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 155031,
       "name": "Estate disperata",
       "url": "https://open.spotify.com/track/0AiKTREjmL2msn3KaFMmHr"
@@ -2438,7 +2438,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 159000,
       "name": "FERISCIMI",
       "url": "https://open.spotify.com/track/2QrMO3uVjFAleJWPDXYZAS"
@@ -3080,7 +3080,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 174770,
       "name": "I colori dell'alba",
       "url": "https://open.spotify.com/track/2vDF8vtgjK2PRbeea9QAYS"
@@ -3921,6 +3921,24 @@
     },
     {
       "album": {
+        "name": "PER IL MIO BENE",
+        "url": "https://open.spotify.com/album/6BftqBLM4fJ7alFzUhGuOw"
+      },
+      "artists": [
+        {
+          "name": "Chakra",
+          "url": "https://open.spotify.com/artist/78tkEnghpGYk8stmKlkxbv"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182849,
+      "name": "luna di miele",
+      "url": "https://open.spotify.com/track/4Imr6mUIXASXBSFrw1FCfI"
+    },
+    {
+      "album": {
         "name": "LUNATICA",
         "url": "https://open.spotify.com/album/4v4ZPUnw9s9MWZjTVHtPo5"
       },
@@ -4178,6 +4196,24 @@
       "duration_ms": 204486,
       "name": "MARE DI GUAI",
       "url": "https://open.spotify.com/track/5coGRpcrHdoLBuTLAeKGxu"
+    },
+    {
+      "album": {
+        "name": "melodrama",
+        "url": "https://open.spotify.com/album/2yUO5bImUNrlDTunDO7QDd"
+      },
+      "artists": [
+        {
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147053,
+      "name": "melodrama",
+      "url": "https://open.spotify.com/track/6EB9gbY9xIU2aCGpKZUm9C"
     },
     {
       "album": {
@@ -4618,7 +4654,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 148039,
       "name": "non ce la faccio pi\u00f9",
       "url": "https://open.spotify.com/track/156ef7hqu2bt0yxsIPZI6h"
@@ -5168,6 +5204,24 @@
       "duration_ms": 150769,
       "name": "ORO ORO ORO",
       "url": "https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr"
+    },
+    {
+      "album": {
+        "name": "JOSEPH",
+        "url": "https://open.spotify.com/album/2bGQIcZXN3a4OwqLtIfCiW"
+      },
+      "artists": [
+        {
+          "name": "Holden",
+          "url": "https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166950,
+      "name": "OSSIDIANA",
+      "url": "https://open.spotify.com/track/2ll9xrio2Xg0xoyDqDj8zX"
     },
     {
       "album": {
@@ -7020,7 +7074,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166725,
       "name": "TORNA DA ME",
       "url": "https://open.spotify.com/track/5UtkpmA9E1DzIGfGC0lWH1"

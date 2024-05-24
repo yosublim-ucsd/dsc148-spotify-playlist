@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Kailane Frauches",
-  "num_followers": 128164,
+  "num_followers": 128310,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "Planos",
-        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
-      },
-      "artists": [
-        {
-          "name": "Can\u00e7\u00e3o & Louvor",
-          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
-        }
-      ],
-      "duration_ms": 313674,
-      "name": "Planos",
-      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
-    },
-    {
-      "added_at": "2024-04-26 03:43:54",
-      "album": {
         "name": "Vai Remando",
         "url": "https://open.spotify.com/album/18VzHuGUCwAROJwXE7VDnF"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 299692,
       "name": "Vai Remando",
       "url": "https://open.spotify.com/track/6uh4TPpwdxOSiLyGkxE5L6"
+    },
+    {
+      "added_at": "2024-04-26 03:43:54",
+      "album": {
+        "name": "Planos",
+        "url": "https://open.spotify.com/album/5Jh704XbYJZnYTUsonTJDl"
+      },
+      "artists": [
+        {
+          "name": "Can\u00e7\u00e3o & Louvor",
+          "url": "https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu"
+        }
+      ],
+      "duration_ms": 313674,
+      "name": "Planos",
+      "url": "https://open.spotify.com/track/4JkMKwZbNiHHB3MIsaqfms"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "Cheiro de Guerra",
-        "url": "https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK"
+        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
       },
       "artists": [
         {
-          "name": "Eurice Diniz",
-          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
+          "name": "Suellen Brum",
+          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
         }
       ],
-      "duration_ms": 327499,
-      "name": "Cheiro de Guerra",
-      "url": "https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0"
+      "duration_ms": 408796,
+      "name": "Que Deus \u00c9 Esse - Ao Vivo",
+      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -743,24 +743,24 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "Que Deus \u00c9 Esse (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x1XcGLGKXkfffLJpUdlYa"
+        "name": "Cheiro de Guerra",
+        "url": "https://open.spotify.com/album/02jpKdZsl0VvdbwIrBUcVK"
       },
       "artists": [
         {
-          "name": "Suellen Brum",
-          "url": "https://open.spotify.com/artist/69JNsAi4crxqz9IjhQXvqX"
+          "name": "Eurice Diniz",
+          "url": "https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF"
         }
       ],
-      "duration_ms": 408796,
-      "name": "Que Deus \u00c9 Esse - Ao Vivo",
-      "url": "https://open.spotify.com/track/1tdOK69lGjAECXITM0kgFB"
+      "duration_ms": 327499,
+      "name": "Cheiro de Guerra",
+      "url": "https://open.spotify.com/track/1a8F9EWgr8k4sINiqpstr0"
     },
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "Terceiro C\u00e9u",
-        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
+        "name": "P\u00e1gina Virada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 388196,
-      "name": "Terceiro C\u00e9u",
-      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
+      "duration_ms": 423916,
+      "name": "P\u00e1gina Virada - Ao Vivo",
+      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -791,26 +791,6 @@
       "duration_ms": 369635,
       "name": "Vendavais - Ao Vivo",
       "url": "https://open.spotify.com/track/0qdZ1ORxeOMSFMBhi8MikJ"
-    },
-    {
-      "added_at": "2024-04-26 03:43:54",
-      "album": {
-        "name": "Eu N\u00e3o Era Nada",
-        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
-      },
-      "artists": [
-        {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 343799,
-      "name": "Eu N\u00e3o Era Nada",
-      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -851,6 +831,26 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
+        "name": "Eu N\u00e3o Era Nada",
+        "url": "https://open.spotify.com/album/31ptNMzkQSqJAx1W1ir9c9"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 343799,
+      "name": "Eu N\u00e3o Era Nada",
+      "url": "https://open.spotify.com/track/1Lu0YNiGF9bfc9GLfXYDDm"
+    },
+    {
+      "added_at": "2024-04-26 03:43:54",
+      "album": {
         "name": "Deus Vai Agir (Ao Vivo)",
         "url": "https://open.spotify.com/album/7yARppxr1hG93yPKWIfgsA"
       },
@@ -887,8 +887,8 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "P\u00e1gina Virada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1cbheUr3xNDKRmSiFV5CzD"
+        "name": "Terceiro C\u00e9u",
+        "url": "https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
         }
       ],
-      "duration_ms": 423916,
-      "name": "P\u00e1gina Virada - Ao Vivo",
-      "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
+      "duration_ms": 388196,
+      "name": "Terceiro C\u00e9u",
+      "url": "https://open.spotify.com/track/4Zs7ZtrLeVsxDNxrCqfk2I"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -959,6 +959,26 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
+        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
+      },
+      "artists": [
+        {
+          "name": "Esther Fiaux",
+          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 487456,
+      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
+      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
+    },
+    {
+      "added_at": "2024-04-26 03:43:54",
+      "album": {
         "name": "Minha B\u00ean\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/67XXl8qaJkOLA2UpIx2iHN"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 345416,
       "name": "Deus Realiza Sonhos",
       "url": "https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW"
-    },
-    {
-      "added_at": "2024-04-26 03:43:54",
-      "album": {
-        "name": "Tua Gra\u00e7a Me Basta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/61uch0I53YX2d3eifc15D7"
-      },
-      "artists": [
-        {
-          "name": "Esther Fiaux",
-          "url": "https://open.spotify.com/artist/5PywE2A2fAv0seRcwWC0YY"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 487456,
-      "name": "Tua Gra\u00e7a Me Basta - Ao Vivo",
-      "url": "https://open.spotify.com/track/4xWBgNSXmSjV9TZb9ESvAv"
     },
     {
       "added_at": "2024-04-26 03:43:54",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-26 03:43:54",
       "album": {
-        "name": "Foi Livramento",
-        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
-      },
-      "artists": [
-        {
-          "name": "Eula Cris",
-          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Foi Livramento",
-      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
-    },
-    {
-      "added_at": "2024-04-26 03:43:54",
-      "album": {
         "name": "Eu Sei Quem Sou",
         "url": "https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 281106,
       "name": "Eu Sei Quem Sou",
       "url": "https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4"
+    },
+    {
+      "added_at": "2024-04-26 03:43:54",
+      "album": {
+        "name": "Foi Livramento",
+        "url": "https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq"
+      },
+      "artists": [
+        {
+          "name": "Eula Cris",
+          "url": "https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Foi Livramento",
+      "url": "https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi"
     },
     {
       "added_at": "2024-04-26 03:43:54",

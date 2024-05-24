@@ -1,6 +1,6 @@
 {
   "description": "Perfect music for perfect food.",
-  "num_followers": 140636,
+  "num_followers": 140637,
   "original_name": "Soul Cuisine",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Every Great Motown Hit Of Marvin Gaye",
-        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Got To Give It Up - Pt. 1",
-      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Flamingo Serenade",
         "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 202773,
       "name": "I Only Have Eyes for You",
       "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Every Great Motown Hit Of Marvin Gaye",
+        "url": "https://open.spotify.com/album/4JdEAA9aYadM2pZ96VHKNL"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Got To Give It Up - Pt. 1",
+      "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Irma Thomas Collection: 1961-1966",
-        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
-      },
-      "artists": [
-        {
-          "name": "Irma Thomas",
-          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
-        }
-      ],
-      "duration_ms": 159733,
-      "name": "Ruler Of My Heart",
-      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "It's Your Night",
         "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 254880,
       "name": "How Do You Keep The Music Playing",
       "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Irma Thomas Collection: 1961-1966",
+        "url": "https://open.spotify.com/album/3MhMYjRhAkiZ9F4GDkcpuy"
+      },
+      "artists": [
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 159733,
+      "name": "Ruler Of My Heart",
+      "url": "https://open.spotify.com/track/2W9cyvOHeC26mSy96802Kk"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Loving on the Flipside",
-        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
+        "name": "The Art Of Tea",
+        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
       },
       "artists": [
         {
-          "name": "Eunice Collins",
-          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
+          "name": "Michael Franks",
+          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
         }
       ],
-      "duration_ms": 208533,
-      "name": "At the Hotel",
-      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
+      "duration_ms": 215293,
+      "name": "Monkey See-Monkey Do",
+      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1671,18 +1671,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "The Art Of Tea",
-        "url": "https://open.spotify.com/album/1Xp1azh2HHaCJu6CYReBPg"
+        "name": "Loving on the Flipside",
+        "url": "https://open.spotify.com/album/2PtqMUT1wupaBBZqnQmnzQ"
       },
       "artists": [
         {
-          "name": "Michael Franks",
-          "url": "https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om"
+          "name": "Eunice Collins",
+          "url": "https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN"
         }
       ],
-      "duration_ms": 215293,
-      "name": "Monkey See-Monkey Do",
-      "url": "https://open.spotify.com/track/65LeJBEMVBGJ8u68Cw8LXZ"
+      "duration_ms": 208533,
+      "name": "At the Hotel",
+      "url": "https://open.spotify.com/track/4sjycYDj539aqcvb2jjDnj"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Tellin' It",
-        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+        "name": "Fulfillingness' First Finale",
+        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
       },
       "artists": [
         {
-          "name": "Ann Peebles",
-          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
         }
       ],
-      "duration_ms": 178280,
-      "name": "Come to Mama",
-      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
+      "duration_ms": 208097,
+      "name": "Smile Please",
+      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Fulfillingness' First Finale",
-        "url": "https://open.spotify.com/album/1kda4McF274Jl5x3aOAmPJ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 208097,
-      "name": "Smile Please",
-      "url": "https://open.spotify.com/track/1ICQvlzjWbQkVcjEsEsHc3"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "Family Dinner - Vol. 1",
         "url": "https://open.spotify.com/album/7uveEcuLgfEecFLxABRKnO"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 455640,
       "name": "Something",
       "url": "https://open.spotify.com/track/2U52Hp8zYnG2kvt2de0M2L"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
+        "name": "Tellin' It",
+        "url": "https://open.spotify.com/album/2YIPkqK0TbyK8F2TFHlsIQ"
+      },
+      "artists": [
+        {
+          "name": "Ann Peebles",
+          "url": "https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "Come to Mama",
+      "url": "https://open.spotify.com/track/1VqtcL6HZpGhotRh2ODceP"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
-        "name": "Baltimore",
-        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "The Family",
-      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
-    },
-    {
-      "added_at": "2024-04-16 09:12:16",
-      "album": {
         "name": "I'll Come Running Back (Mr Scruff Edit) - Single",
         "url": "https://open.spotify.com/album/2EKyIHpA6cuVTY3ORE3azl"
       },
@@ -2171,6 +2155,22 @@
     {
       "added_at": "2024-04-16 09:12:16",
       "album": {
+        "name": "Baltimore",
+        "url": "https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "The Family",
+      "url": "https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT"
+    },
+    {
+      "added_at": "2024-04-16 09:12:16",
+      "album": {
         "name": "No Beginning No End",
         "url": "https://open.spotify.com/album/5sO5lVzpbxNYIN3si8JNdW"
       },
@@ -2180,9 +2180,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 329254,
-      "name": "It's All Over Your Body",
-      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
+      "duration_ms": 278855,
+      "name": "Come To My Door - Acoustic Version",
+      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
     },
     {
       "added_at": "2024-04-16 09:12:16",
@@ -2312,9 +2312,9 @@
           "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
         }
       ],
-      "duration_ms": 278855,
-      "name": "Come To My Door - Acoustic Version",
-      "url": "https://open.spotify.com/track/41MjJj7Kosc7ykXU9DGH8N"
+      "duration_ms": 329254,
+      "name": "It's All Over Your Body",
+      "url": "https://open.spotify.com/track/4CxtiOaM0QyPxWQQ7cQtCz"
     },
     {
       "added_at": "2024-04-16 09:12:16",

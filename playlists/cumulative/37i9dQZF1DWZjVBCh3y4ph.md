@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : LÉA CHURROS x Kim
+> Les hits zouk du moment\. Photo : LÉA CHURROS
 
-115 songs - 6 hr 9 min
+116 songs - 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/track/3MgDEWy7SXqSftFvovNOnv) | [King Serenity](https://open.spotify.com/artist/2olAiF4WinkdELTgU2Rllu), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Bam Bam \(Ma Jolie\)](https://open.spotify.com/album/3XdVsdE1LETgzTufgIpvnP) | 2:23 | 2024-01-25 | 2024-03-08 |
 | [BB Attends](https://open.spotify.com/track/6P7BE1eaTQItkv8EJ0ciGd) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs) | [BB Attends](https://open.spotify.com/album/3td3goCEmojjxjA7p45X6a) | 2:40 | 2023-11-23 | 2024-03-01 |
 | [Blesser](https://open.spotify.com/track/5mlP39pwHpY1MjS3FFqXPq) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ), [Klowdy](https://open.spotify.com/artist/4Jxoi0KEOB0qGbpIleASuY) | [Blesser](https://open.spotify.com/album/3ibvXKgaNmkFWxHOsT1bdG) | 3:11 | 2023-09-28 | 2023-12-22 |
-| [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 | 2023-12-21 |  |
+| [Bobo](https://open.spotify.com/track/4KGKnSCyp6XlbYtroVMBia) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Bobo](https://open.spotify.com/album/11fWEJUTNotTd01ZHOca08) | 3:53 | 2023-12-21 | 2024-05-24 |
 | [Cadence](https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cadence](https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4) | 3:07 | 2023-09-28 |  |
 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 | 2024-01-04 |  |
 | [Coeur Noir](https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Coeur Noir](https://open.spotify.com/album/334Q8mA07Ahjjj9nrj2TPF) | 3:39 | 2023-09-28 | 2023-10-06 |
@@ -27,6 +27,7 @@
 | [CORDIALEMENT](https://open.spotify.com/track/4tXLj5UVpzdva0qTANUrER) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [CORDIALEMENT](https://open.spotify.com/album/1C178QIX4FbI7gQfzSnotD) | 3:29 | 2023-09-28 |  |
 | [Coup de vent](https://open.spotify.com/track/7EjDwEYLXG7p4LskwoWdjJ) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9), [Young Chang MC](https://open.spotify.com/artist/0Y4XPAlixU89K3Z6oRziZ1) | [Siwo](https://open.spotify.com/album/0xpfEtfYK8t7p4fAkMqxsb) | 2:49 | 2024-03-28 | 2024-05-17 |
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 |  |
+| [Dehors il fait froid](https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Dehors il fait froid](https://open.spotify.com/album/2WI9NoVkIVvyRikSin6Csx) | 2:20 | 2024-05-23 |  |
 | [Dimension \- Radio edit](https://open.spotify.com/track/7FR3FUSLOLHtN8RjFs6kQY) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Dimension](https://open.spotify.com/album/67C9O2mvhwm5IzinjXT3ns) | 3:38 | 2023-09-28 | 2023-12-08 |
 | [Dis\-moi](https://open.spotify.com/track/4NxvcmdBmR04g4nsfrhMsO) | [Kueena](https://open.spotify.com/artist/2N8ozOg61bquXNTapBfdm7), [Nayane](https://open.spotify.com/artist/2fphOBIhmkJp2O5Gqxlj4t) | [Dis\-moi](https://open.spotify.com/album/77QQGSVPna5U1nwnARigxr) | 3:28 | 2024-01-25 | 2024-04-12 |
 | [Distance](https://open.spotify.com/track/7nsSPDkAfMev9eH1vjcknr) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6), [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Oniro](https://open.spotify.com/album/4aUmWbfmvQRvY5dq7Kwol8) | 3:13 | 2023-09-28 | 2023-10-20 |

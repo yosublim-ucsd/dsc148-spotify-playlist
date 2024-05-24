@@ -1,6 +1,6 @@
 {
   "description": "Have a fantastic road trip with upbeat songs from your favorite Christian artists!",
-  "num_followers": 164712,
+  "num_followers": 164896,
   "original_name": "Christian Road Trip",
   "owner": {
     "name": "Spotify",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-02-07 17:43:16",
       "album": {
+        "name": "Dark Is The Way, Light Is A Place",
+        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
+      },
+      "artists": [
+        {
+          "name": "Anberlin",
+          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
+        }
+      ],
+      "duration_ms": 243573,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
+    },
+    {
+      "added_at": "2023-02-07 17:43:16",
+      "album": {
         "name": "Testify",
         "url": "https://open.spotify.com/album/2LBn7bIz3oPrCz05IWuvPb"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 219013,
       "name": "Testify",
       "url": "https://open.spotify.com/track/7LfFUe93bFKb8f8DF1dZCB"
-    },
-    {
-      "added_at": "2023-02-07 17:43:16",
-      "album": {
-        "name": "Dark Is The Way, Light Is A Place",
-        "url": "https://open.spotify.com/album/0aJvU0peEjLVYTOhaPVLXv"
-      },
-      "artists": [
-        {
-          "name": "Anberlin",
-          "url": "https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp"
-        }
-      ],
-      "duration_ms": 243573,
-      "name": "Impossible",
-      "url": "https://open.spotify.com/track/4LmVyajDL2aJrii88rncNr"
     },
     {
       "added_at": "2023-02-07 17:43:16",

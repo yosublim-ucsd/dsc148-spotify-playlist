@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 416,298 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 416,676 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 28 | [Jazz Méditerranée](https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Chambre avec vue](https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH) | 3:23 |
 | 29 | [La chanson d'Orphée \(Manha Do Carnaval\)](https://open.spotify.com/track/4fx4Ubr7JJVh6pwumqU4tf) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 3:06 |
 | 30 | [Comme s'il en pleuvait](https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Navega](https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu) | 3:42 |
-| 31 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
-| 32 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
+| 31 | [On N'a Pas Besoin](https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B) | [Paris Combo](https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G) | [Paris Combo](https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb) | 4:07 |
+| 32 | [Assedic](https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA) | [LES ESCROCS](https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4) | [Faites vous des amis](https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu) | 4:25 |
 | 33 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
 | 34 | [Plus Je T'embrasse](https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Whisper For You](https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7) | 2:29 |
 | 35 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 58 | [Chez Moi](https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 3:06 |
 | 59 | [Quand on s'balade](https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H) | [Yves Montand](https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP) | [10 chansons pour l'été](https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9) | 2:49 |
 | 60 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Leo Marjane](https://open.spotify.com/artist/2nw3LsDBHTWySl4Jr7e7wH) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
-| 61 | [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 |
+| 61 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
 | 62 | [Où veux\-tu aller ?](https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:31 |
-| 63 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
+| 63 | [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 |
 | 64 | [Si tu vas à Paris \- Remasterisé en 2017](https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Chansons sans époques: 1964 \- 1968 \(Remasterisé en 2017\)](https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3) | 3:13 |
 | 65 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
 | 66 | [Dans mon île](https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Ses plus grandes chansons](https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq) | 3:20 |
 | 67 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |
 | 68 | [Tu t'laissez aller](https://open.spotify.com/track/5zh3ERfWfCHNEVM9y4mbvX) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [L'Orchestre Paul Mauriat](https://open.spotify.com/artist/48wFUnl7K9Gzc6eeZVsXmy) | [Le monde de la chanson, Vol\. 27: Charles Aznavour, Vol\. 2 "O toi la vie!"](https://open.spotify.com/album/2jEjCqQw7AHAgv9NTyedwk) | 3:39 |
 | 69 | [Le soleil](https://open.spotify.com/track/1ddDudbgEXIFqMJQzHxidQ) | [Brigitte Bardot](https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy) | [B Bardot \- CD Story](https://open.spotify.com/album/0moSn0vXjIrzWZH0weiFif) | 3:16 |
-| 70 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
-| 71 | [Les jeux sont faits](https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:37 |
+| 70 | [Les jeux sont faits](https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:37 |
+| 71 | [Brigitte dit vrai](https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3) | [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Dans la peau](https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG) | 2:12 |
 | 72 | [Nuages \- Studio recording](https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM) | [Raquel Bitton](https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X) | [Paris Blues](https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY) | 3:42 |
 | 73 | [C'est le printemps](https://open.spotify.com/track/4FpziZDBquIx4pkYxDTwdz) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 5:02 |
 | 74 | [Mon Amie La Rose](https://open.spotify.com/track/7xlRz7HedGgf9G03OiOkj5) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [Mon Amie La Rose](https://open.spotify.com/album/7qD826VmWYbcFhqQe7Mfzf) | 2:03 |

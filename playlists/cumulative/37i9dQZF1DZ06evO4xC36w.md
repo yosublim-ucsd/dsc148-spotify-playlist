@@ -2,7 +2,7 @@
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 
-> This Is Joan Sebastian\. Los temas esenciales, todos en una lista.
+> This is Joan Sebastian\. The essential tracks, all in one playlist.
 
 60 songs - 3 hr 5 min
 
@@ -12,7 +12,7 @@
 | [Amor Limosnero](https://open.spotify.com/track/4vRYHPaBsfsgpvtgyzKVaB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 3:40 | 2023-08-08 |  |
 | [Amorcito Mío](https://open.spotify.com/track/07synGEtMdfRfwY3wNmedn) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 2:57 | 2023-08-08 |  |
 | [Así Te Quiero](https://open.spotify.com/track/4u6zS8iQZ7Y6LgW7WXwaLb) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ) | 3:18 | 2023-08-08 |  |
-| [Aunque Ya Tengas Marido](https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:38 | 2023-08-31 |  |
+| [Aunque Ya Tengas Marido](https://open.spotify.com/track/1modDYKBVY7mi6wo3vd6P4) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:38 | 2023-08-31 | 2024-05-24 |
 | [Bandido De Amores](https://open.spotify.com/track/5gbThduFQLh53m500xE54t) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 2:58 | 2023-08-08 |  |
 | [Carrera A Muerte](https://open.spotify.com/track/2rJBndq82AOiGEEE84im02) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 3:39 | 2023-08-08 |  |
 | [Como Perro Con Rabia](https://open.spotify.com/track/3bJeZJk8Qq53D0jQWi1mZO) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Rey Del Jaripeo](https://open.spotify.com/album/3tKrubckAUPn0L1tBlzapY) | 3:14 | 2023-08-08 | 2023-12-16 |
@@ -54,7 +54,7 @@
 | [Ojitos De Golondrina](https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:19 | 2023-08-08 |  |
 | [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-08-08 |  |
 | [Qué No Te Asombre](https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:41 | 2023-08-08 |  |
-| [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2023-08-08 | 2024-05-22 |
+| [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2023-08-08 |  |
 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-12-13 |  |
 | [Sangoloteadito](https://open.spotify.com/track/6X0EfHtuMNjZXFma8x7uv1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Bandido de Amores](https://open.spotify.com/album/02hrAwGoK0AxRiQcl4oOST) | 3:02 | 2023-08-08 | 2023-12-14 |
 | [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 | 2023-08-08 |  |

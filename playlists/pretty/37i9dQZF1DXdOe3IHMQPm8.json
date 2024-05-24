@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Pa perrear y carretear non stop!",
-  "num_followers": 146407,
+  "num_followers": 146400,
   "original_name": "Carrete",
   "owner": {
     "name": "Spotify",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
         "name": "La Familia B Sides",
         "url": "https://open.spotify.com/album/4loQMkHOAbqVdyb59KBbsp"
       },
@@ -1027,34 +1043,6 @@
       "duration_ms": 226413,
       "name": "Ay Vamos",
       "url": "https://open.spotify.com/track/6Ges5C2IE738iJh4HyQizQ"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
-        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
-        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
-      },
-      "artists": [
-        {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        }
-      ],
-      "duration_ms": 254920,
-      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1091,18 +1079,30 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Chris Jedi",
+          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 263899,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+      "duration_ms": 254920,
+      "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 263899,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5jW3rF4URMdK7tO2xjS5EI"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
         "name": "Colores",
         "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
       },
@@ -1155,26 +1171,6 @@
       "duration_ms": 150720,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
-        "name": "Motivan2",
-        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 209453,
-      "name": "Otra vez (feat. J Balvin)",
-      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+        "name": "Motivan2",
+        "url": "https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb"
       },
       "artists": [
         {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 256971,
-      "name": "Adan y Eva",
-      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
+      "duration_ms": 209453,
+      "name": "Otra vez (feat. J Balvin)",
+      "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "SEJODIOTO",
-        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "SEJODIOTO",
-      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
         "name": "Real Hasta la Muerte",
         "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 192000,
       "name": "Hip\u00f3crita",
       "url": "https://open.spotify.com/track/4CbANooTL2aTHzJZqQ0Uvk"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
+        "name": "SEJODIOTO",
+        "url": "https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "SEJODIOTO",
+      "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1463,6 +1463,30 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
+        "name": "ENOC",
+        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Una Locura",
+      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
         "name": "Carte Blanche",
         "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
       },
@@ -1487,30 +1511,6 @@
       "duration_ms": 212500,
       "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
       "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
-        "name": "ENOC",
-        "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Una Locura",
-      "url": "https://open.spotify.com/track/5y7DaS3jAc9eZzcSOoUIwU"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
+        "name": "Nibiru",
+        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "Baila Baila Baila",
+      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
         "name": "Hola (Remix)",
         "url": "https://open.spotify.com/album/65Pp2tO1Ul66KcCmmkRGWZ"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 204563,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/56f5qnyAlZdlz8wrUDA50h"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
-        "name": "Nibiru",
-        "url": "https://open.spotify.com/album/7f6r6ijWtMJ0QYydwuCYvH"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "Baila Baila Baila",
-      "url": "https://open.spotify.com/track/5PXsZaT8cOxb4mXrA20PMQ"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "L3tra",
-        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
-      },
-      "artists": [
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 141340,
-      "name": "Caile",
-      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
         "name": "Algo M\u00e1gico",
         "url": "https://open.spotify.com/album/3wsTXNRun4T7fhNoSAG0dP"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 261603,
       "name": "Algo M\u00e1gico",
       "url": "https://open.spotify.com/track/0zlnHTHiBQ68ZCAmTw5ozm"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
+        "name": "L3tra",
+        "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
+      },
+      "artists": [
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 141340,
+      "name": "Caile",
+      "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -1883,30 +1883,6 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2024-01-25 15:19:21",
-      "album": {
         "name": "Inolvidable",
         "url": "https://open.spotify.com/album/3MdsEVhC9AMtDTXB8n2yXI"
       },
@@ -2003,6 +1979,30 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+    },
+    {
+      "added_at": "2024-01-25 15:19:21",
+      "album": {
         "name": "Versions of Me",
         "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
       },
@@ -2035,30 +2035,22 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
+        "name": "Historias de un Capricornio",
+        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         },
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 197721,
-      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
-      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
+      "duration_ms": 221103,
+      "name": "Infeliz",
+      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
     },
     {
       "added_at": "2024-01-25 15:19:21",
@@ -2095,22 +2087,30 @@
     {
       "added_at": "2024-01-25 15:19:21",
       "album": {
-        "name": "Historias de un Capricornio",
-        "url": "https://open.spotify.com/album/0CPLMVp7rMi3BkzAMve96K"
+        "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+        "url": "https://open.spotify.com/album/3j6ouZdjTVyddYH2XkMjYb"
       },
       "artists": [
         {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
         }
       ],
-      "duration_ms": 221103,
-      "name": "Infeliz",
-      "url": "https://open.spotify.com/track/4z6wo6PJG4Fve45OXK6D9m"
+      "duration_ms": 197721,
+      "name": "Eleg\u00ed (feat. D\u00edmelo Flow)",
+      "url": "https://open.spotify.com/track/50ZC4PM7hywH27RcCfViau"
     }
   ],
   "unique_name": "Carrete",

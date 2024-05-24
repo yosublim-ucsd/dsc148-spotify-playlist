@@ -4,11 +4,13 @@
 
 > Listen to the soundtracks of the Frankly Speaking\. \(비밀은 없어의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-29 songs - 1 hr 29 min
+31 songs - 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Real Man](https://open.spotify.com/track/7E2zRN1q4C0hN3ldjiDaEj) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [MAN](https://open.spotify.com/album/68jEx6JgTi7la2zvPCUenu) | 3:11 | 2024-05-13 |  |
+| [Asteroid](https://open.spotify.com/track/5LNhOvs9MCjOm6KX7SUCNZ) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/1UZv8TljWIMOMh1pgO3Bf5) | 3:14 | 2024-05-23 |  |
+| [Asteroid \- Instrumental](https://open.spotify.com/track/1BrgUZjmpxe0aOXGk70BrK) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/1UZv8TljWIMOMh1pgO3Bf5) | 3:14 | 2024-05-23 |  |
 | [Audrey](https://open.spotify.com/track/4a3NQxkOngZHj3b3zwMa1I) | [Yeri Kang](https://open.spotify.com/artist/0dO41bAMVabROIYUSbbhL9) | [Audrey](https://open.spotify.com/album/5HTXudQOdLtmZvDNawqwMW) | 3:06 | 2024-05-13 |  |
 | [Butterfly](https://open.spotify.com/track/49TMhR9I3DgsKdXcxFHi5w) | [JEON MI DO](https://open.spotify.com/artist/0MGh57fT1dstT9ulzXNauX) | [HOSPITAL PLAYLIST Season2, Pt\. 12 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ccx1JczFVcaC4hyOST3jD) | 3:28 | 2024-05-13 |  |
 | [Cliffhanger](https://open.spotify.com/track/3wk7lkm71e9MyrRsv6Y4kY) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [Frankly Speaking \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/4jbVKnctBEAvF3yuJdfU5s) | 3:02 | 2024-05-13 |  |

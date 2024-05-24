@@ -1,6 +1,6 @@
 {
   "description": "Flow sudamericano con Gino Mella, Sayian Jimmy, LIT killah, Jun, Jairo Vera & Dani Flow.",
-  "num_followers": 331608,
+  "num_followers": 331615,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
@@ -395,42 +395,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "PRIMER AVISO",
-        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "PRIMER AVISO",
-      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "HACE TIEMPO",
-        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
-      },
-      "artists": [
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "HACE TIEMPO",
-      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Controlando el Ki",
         "url": "https://open.spotify.com/album/1wcO3kN9gjHVzrB2wRbK9I"
       },
@@ -451,6 +415,42 @@
       "duration_ms": 159101,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/6PMapQ7YSxkhAgNOvvoiWs"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "HACE TIEMPO",
+        "url": "https://open.spotify.com/album/3ALXlo0RXiPye7s97r6ycE"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "HACE TIEMPO",
+      "url": "https://open.spotify.com/track/7m641CKXqrdZU1iRE9WdLQ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "PRIMER AVISO",
+        "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 182891,
+      "name": "PRIMER AVISO",
+      "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "P\u00e9gate",
+        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        }
+      ],
+      "duration_ms": 186096,
+      "name": "P\u00e9gate",
+      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "MA DIAMANTE",
         "url": "https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 148602,
       "name": "MA DIAMANTE",
       "url": "https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "P\u00e9gate",
-        "url": "https://open.spotify.com/album/1jf9BeWRyKwxDmFN8Xzc8g"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        }
-      ],
-      "duration_ms": 186096,
-      "name": "P\u00e9gate",
-      "url": "https://open.spotify.com/track/3E8xyYdIPpiH2wNEozE68I"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -827,8 +827,8 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "TRANKY FUNKY",
-        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
+        "name": "No Cap - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 158325,
-      "name": "TRANKY FUNKY",
-      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
+      "duration_ms": 130069,
+      "name": "No Cap - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -891,6 +891,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Av\u00edsame",
+        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Ness",
+          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
+        }
+      ],
+      "duration_ms": 163971,
+      "name": "Av\u00edsame",
+      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "MORNING",
         "url": "https://open.spotify.com/album/4BTbG5SHgE030stLkqx48q"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Av\u00edsame",
-        "url": "https://open.spotify.com/album/0DDsewH4eZDjasZLoPgWkn"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Ness",
-          "url": "https://open.spotify.com/artist/6r20N9knjoQP5oIgs0wtxe"
-        }
-      ],
-      "duration_ms": 163971,
-      "name": "Av\u00edsame",
-      "url": "https://open.spotify.com/track/55eG1F2xukyOGAkaNAG4MQ"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "No Cap - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/0n54S0AXVz8kQkYL06hQiN"
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
       },
       "artists": [
         {
@@ -1040,9 +1040,29 @@
           "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 130069,
-      "name": "No Cap - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/1h8rqVZnl80iJzZCMeCc8G"
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Pensandote",
+        "url": "https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "El BAI",
+          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
+        }
+      ],
+      "duration_ms": 193043,
+      "name": "Pensandote",
+      "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1067,26 +1087,6 @@
       "duration_ms": 204003,
       "name": "TUUUYO",
       "url": "https://open.spotify.com/track/57WroSoheS9bWCtALlXA1t"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Pensandote",
-        "url": "https://open.spotify.com/album/4DUR6SSSfdxqBbekrfKsDE"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "El BAI",
-          "url": "https://open.spotify.com/artist/2vnaEm73LHWfchNiQccNBa"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Pensandote",
-      "url": "https://open.spotify.com/track/0km3c8Qiwi9kicTSTt9Ld1"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1199,42 +1199,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "DANCE CRIP",
-        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 165019,
-      "name": "DANCE CRIP",
-      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Enam\u00f3rate",
-        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 147785,
-      "name": "Enam\u00f3rate",
-      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "YSYSMO",
         "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
       },
@@ -1259,6 +1223,22 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "DANCE CRIP",
+        "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 165019,
+      "name": "DANCE CRIP",
+      "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Antes de Perderte",
         "url": "https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7"
       },
@@ -1271,6 +1251,42 @@
       "duration_ms": 176727,
       "name": "Antes de Perderte",
       "url": "https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "Enam\u00f3rate",
+        "url": "https://open.spotify.com/album/17FLF5NkLfUNkEYjQkaO32"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 147785,
+      "name": "Enam\u00f3rate",
+      "url": "https://open.spotify.com/track/332fAqelC3Uik91QPxPcB8"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "QUICKIE",
+        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 185454,
+      "name": "QUICKIE",
+      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1319,22 +1335,6 @@
       "duration_ms": 218536,
       "name": "EL DON",
       "url": "https://open.spotify.com/track/5o7hlGB1tciX7pk7DXEo74"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "QUICKIE",
-        "url": "https://open.spotify.com/album/19xHT83DlUuEB4QwJfQJig"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 185454,
-      "name": "QUICKIE",
-      "url": "https://open.spotify.com/track/2chjKRTw1KKrIRHGf6K52T"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "AUTOM\u00c1TICO",
-        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 175317,
-      "name": "AUTOM\u00c1TICO",
-      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "RADIO CLUB HITS",
         "url": "https://open.spotify.com/album/1qJCu54S0zWtGvdQq50OFq"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 130409,
       "name": "YA NI YO ME ENTIENDO",
       "url": "https://open.spotify.com/track/3lqs3nTdYAbX4iQV6JBehz"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "AUTOM\u00c1TICO",
+        "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 175317,
+      "name": "AUTOM\u00c1TICO",
+      "url": "https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1591,18 +1591,26 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "CALL ME MAYBE",
-        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
+        "name": "Si Quieren Frontear",
+        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
       },
       "artists": [
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 222401,
-      "name": "CALL ME MAYBE",
-      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
+      "duration_ms": 200337,
+      "name": "Si Quieren Frontear",
+      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1707,26 +1715,18 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "Si Quieren Frontear",
-        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
+        "name": "CALL ME MAYBE",
+        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
       },
       "artists": [
         {
           "name": "Duki",
           "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 200337,
-      "name": "Si Quieren Frontear",
-      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+      "duration_ms": 222401,
+      "name": "CALL ME MAYBE",
+      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
-        "name": "DE LA P*TA",
-        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
-      },
-      "artists": [
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Jairo Vera",
-          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
-        }
-      ],
-      "duration_ms": 188572,
-      "name": "DE LA P*TA",
-      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
         "name": "Toda Guapa",
         "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 155275,
       "name": "Toda Guapa",
       "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
+        "name": "DE LA P*TA",
+        "url": "https://open.spotify.com/album/4EQQS0BePhv05UCnGivIFt"
+      },
+      "artists": [
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        }
+      ],
+      "duration_ms": 188572,
+      "name": "DE LA P*TA",
+      "url": "https://open.spotify.com/track/6hcCUm6ZQSVtKhpMBT3CNm"
     },
     {
       "added_at": "2024-05-17 03:00:00",
@@ -1995,6 +1995,30 @@
     {
       "added_at": "2024-05-17 03:00:00",
       "album": {
+        "name": "Me Veo Rico",
+        "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "duration_ms": 164724,
+      "name": "Me Veo Rico",
+      "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
+    },
+    {
+      "added_at": "2024-05-17 03:00:00",
+      "album": {
         "name": "Parte de M\u00ed",
         "url": "https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP"
       },
@@ -2059,30 +2083,6 @@
       "duration_ms": 140767,
       "name": "mi \u00faltimo peso",
       "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
-    },
-    {
-      "added_at": "2024-05-17 03:00:00",
-      "album": {
-        "name": "Me Veo Rico",
-        "url": "https://open.spotify.com/album/3BmMCU5KM1F53Y8v6JGT2G"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Gino Mella",
-          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
-        },
-        {
-          "name": "Valdi",
-          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
-        }
-      ],
-      "duration_ms": 164724,
-      "name": "Me Veo Rico",
-      "url": "https://open.spotify.com/track/7D3Be8tkPLMzWKohmi63hb"
     },
     {
       "added_at": "2024-05-17 03:00:00",

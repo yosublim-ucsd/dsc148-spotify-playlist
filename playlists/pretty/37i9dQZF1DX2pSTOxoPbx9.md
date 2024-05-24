@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 
 > Beautifully dark, dramatic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 820,056 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 820,175 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 34 | [Rescue My Heart](https://open.spotify.com/track/4mdmOqTv0ZBeHNjT2Pf63n) | [Liz Longley](https://open.spotify.com/artist/1qImAIy1ZVCgR5KD88QXkr) | [Rescue My Heart](https://open.spotify.com/album/20e1QTMEzNi9JGP4mmB3Rs) | 3:25 |
 | 35 | [Don't You Cry For Me](https://open.spotify.com/track/6fhEYtnORqxaEoxSrMH2bx) | [Cobi](https://open.spotify.com/artist/4fuZypKGg7klMEF10KTuAN) | [Don't You Cry For Me](https://open.spotify.com/album/4TjQW7GIImS6INJyhjuANs) | 4:16 |
 | 36 | [Take The Journey](https://open.spotify.com/track/3cGblMVSNAG6UgIsro3kQ0) | [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [When You're Ready](https://open.spotify.com/album/1w0K4edsnTTxo2p6ZCErUV) | 2:42 |
-| 37 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
-| 38 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
+| 37 | [Lost It All](https://open.spotify.com/track/0HrhMgGtRk6wOxUUCqvf4i) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Lost It All](https://open.spotify.com/album/26TDhagwH7yap92e04ObFu) | 3:43 |
+| 38 | [Volcano](https://open.spotify.com/track/3AkxSspcYOvhWTkaMvqyaD) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 4:38 |
 | 39 | [Milk & Honey \- Alt Version](https://open.spotify.com/track/35ZHHlrMKr7CijbD239b0g) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 4:48 |
 | 40 | [Esmerelda](https://open.spotify.com/track/5kFTqniUPljjMVCP37xRyd) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [The Burgh Island EP](https://open.spotify.com/album/0SudjNaf3DuVpZzM7bGNZ5) | 4:44 |
 | 41 | [The Place I Left Behind](https://open.spotify.com/track/7BbAqle8lyB3S56Q9MPTZB) | [The Deep Dark Woods](https://open.spotify.com/artist/4ug92W02N1YsgX0t5wuXSl) | [The Place I Left Behind](https://open.spotify.com/album/7sdf7F7WFPdCZt20wHR9rU) | 4:04 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 53 | [Distrust](https://open.spotify.com/track/4oxBuMPLQxQYVPYOdCOG77) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:33 |
 | 54 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
 | 55 | [Bones](https://open.spotify.com/track/1p3YBrdHnDTEZqm6TCfuP3) | [Josh Record](https://open.spotify.com/artist/6SX3hY3ksMNOUCvF7OI1nl) | [Pillars](https://open.spotify.com/album/4HUnfqen6kJ6tDaQPwmeNY) | 4:49 |
-| 56 | [Hunger of the Pine](https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hunger of the Pine](https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW) | 4:58 |
-| 57 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
+| 56 | [House Of Saint Give Me](https://open.spotify.com/track/7qf5OcXb7UC6FHKWNxzxbJ) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Fever To The Form](https://open.spotify.com/album/13U33DEomTwUMn7t2jYHTj) | 4:12 |
+| 57 | [Hunger of the Pine](https://open.spotify.com/track/57gf8TTzlk1BE5R4C7gfz6) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Hunger of the Pine](https://open.spotify.com/album/3DtuLo5Z9bQRaPv2qIBxXW) | 4:58 |
 | 58 | [Coming of Age \(demo\)](https://open.spotify.com/track/03HonCy9ZfHnYmc7NzFTLN) | [Maddie Medley](https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3) | [Coming of Age \(demo\)](https://open.spotify.com/album/4qutgZBLGeXDmNOu67mUQz) | 4:11 |
 | 59 | [Swell](https://open.spotify.com/track/4zr2ewFFA1mS5nAzeYAoEp) | [Twin Caverns](https://open.spotify.com/artist/58B535wBcC3ua5A6a6tOCa) | [Glass Balloon](https://open.spotify.com/album/78ZJZblAEgZYy44OsT9xN8) | 4:03 |
 | 60 | [Stop Your Tears](https://open.spotify.com/track/2zWAa5XkVa1yg756YauQHF) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Aldous Harding](https://open.spotify.com/album/3qNcM4FzzR7pT4JRNDqfyi) | 5:38 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pSTOxoPbx9.md) - [plain]
 | 89 | [Devil Like Me](https://open.spotify.com/track/0HsGh7cboYz6cVMIyFrQ8j) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Seven + Mary](https://open.spotify.com/album/4lGNpgFI67TUq5BMfnPe3Z) | 3:08 |
 | 90 | [Houston TX](https://open.spotify.com/track/6EaQXxdO9diXNDrO2vmMtJ) | [Aidan Knight](https://open.spotify.com/artist/2CRrtAFY6WonETiQktbRe9) | [Aidan Knight](https://open.spotify.com/album/2IsJvOVAVDq7aHN8sRhGni) | 5:16 |
 | 91 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 92 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
-| 93 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
+| 92 | [Sausalito](https://open.spotify.com/track/3l2wMTBa64PBV7aCPwYkEf) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Sausalito](https://open.spotify.com/album/3AYWgbF5x1Op6yY4MGYDgj) | 3:42 |
+| 93 | [Riverside](https://open.spotify.com/track/7kaub3iYrvVz5gaPVemsWE) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Philharmonics](https://open.spotify.com/album/7oTWCoBLYtzURvGTFysNf1) | 3:50 |
 | 94 | [The Swimmer \(To Be an Old Man\)](https://open.spotify.com/track/7LEGwwvRtilCPvNrHxxRGw) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Bravado](https://open.spotify.com/album/6HG6bnPHDDW3R6RBlJBFGq) | 4:07 |
 | 95 | [Garden Song](https://open.spotify.com/track/5uQRmdIqyMmKPWJcot4UmV) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:39 |
-| 96 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
-| 97 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
-| 98 | [Boris](https://open.spotify.com/track/1XJFmxQTm4cOQrXEhArm6Q) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/66BEZ127VgaQbxxRJijFZg) | 3:37 |
-| 99 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 |
-| 100 | [Stars](https://open.spotify.com/track/7sqMo5ZnWfr1IdGoiwzm9Y) | [Sam Airey](https://open.spotify.com/artist/1VTqcwo2gWop75nRqyCGJw) | [Station Approach](https://open.spotify.com/album/2b6Y3r5sNPS5nNHrMF5KHL) | 5:21 |
+| 96 | [Loving, Loving](https://open.spotify.com/track/1QIzSLVBQA2GBrF2IDBSPK) | [Vera Sola](https://open.spotify.com/artist/6QZsje9QjfKHObQDmX6k0y) | [Shades](https://open.spotify.com/album/4ImXMfAqGuVbbRtEoQAIAP) | 3:20 |
+| 97 | [Crush \- Stripped](https://open.spotify.com/track/0pvUUXfn0avFTZYOFVjPX4) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush \(Stripped\)](https://open.spotify.com/album/1Z4jaVCQECJE5qeOafvWsw) | 3:49 |
+| 98 | [Stakes](https://open.spotify.com/track/0MrCHY7OM8VjnsfwT3DSsw) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Winter](https://open.spotify.com/album/71K84GjeSWMtFT3sKv3Poz) | 5:11 |
+| 99 | [Boris](https://open.spotify.com/track/1XJFmxQTm4cOQrXEhArm6Q) | [Lo\-Fang](https://open.spotify.com/artist/5EDkJDlRNcMs3ewliB24QA) | [Blue Film](https://open.spotify.com/album/66BEZ127VgaQbxxRJijFZg) | 3:37 |
+| 100 | [Depraved](https://open.spotify.com/track/0yxnp7SJtce7IeyKP53dsE) | [Mammals](https://open.spotify.com/artist/2uFH2L4YKTo0fFZT67bkx3) | [Animalia](https://open.spotify.com/album/2lrQzGKTFCTK9QY7B1JNS8) | 3:53 |
 
 Snapshot ID: `Zf0CQAAAAAAbTvhTA+AAHq7DAWb4FM04`

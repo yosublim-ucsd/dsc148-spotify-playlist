@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 
 > For those who like to party hard!
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,096 likes - 90 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,330 likes - 90 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 39 | [Redneck](https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Sacrament](https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw) | 3:40 |
 | 40 | [The Metal](https://open.spotify.com/track/3pYKJaLiixRcDFfcNhxZKK) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [The Pick Of Destiny](https://open.spotify.com/album/3tYcwViLCWsT1ssa5p7V7A) | 2:45 |
 | 41 | [Angel Of Death](https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Reign In Blood \(Expanded\)](https://open.spotify.com/album/5v5BfkxWDAKTkzrXl3H0mU) | 4:51 |
-| 42 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 43 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
+| 42 | [My Own Grave](https://open.spotify.com/track/0CcqWuAEJC93K8cBMbAjgI) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 4:13 |
+| 43 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
 | 44 | [Party in My Head](https://open.spotify.com/track/0iqJIE15UsLphh2BdZ3aoh) | [PAIN](https://open.spotify.com/artist/0hGpZy6ws8FofByMkt0CV1) | [Party in My Head](https://open.spotify.com/album/7yiMd6l7NvEbDwgjfImxUp) | 3:08 |
 | 45 | [Protect The Land](https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Protect The Land / Genocidal Humanoidz](https://open.spotify.com/album/00OQIrRjQgZmacSnjK8L7M) | 5:07 |
 | 46 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV67mFOgnpbl.md) - [plain]
 | 69 | [Creeping Death \- Remastered](https://open.spotify.com/track/6YHB0Fvp1QfSmR5os8jexq) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
 | 70 | [Only](https://open.spotify.com/track/6Aq0Lm7wQRRFYzBQz7pukW) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Sound of White Noise \- Expanded Edition](https://open.spotify.com/album/0d2JYDKMatUzGPSKo62hza) | 4:56 |
 | 71 | [Viva La Victoria](https://open.spotify.com/track/0TpukZ7KJGyxYGFe6AgtOD) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Viva La Victoria](https://open.spotify.com/album/22VcmOjOj8Dx7GBcYmFu8A) | 3:11 |
-| 72 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
-| 73 | [Children of the Next Level](https://open.spotify.com/track/5qC1Ly7Ec3fVxVbdpsLh7H) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:13 |
+| 72 | [Children of the Next Level](https://open.spotify.com/track/5qC1Ly7Ec3fVxVbdpsLh7H) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Titans of Creation](https://open.spotify.com/album/63dZKnLfVsHItoygbM7IJK) | 6:13 |
+| 73 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 | 74 | [Anti\-Everything](https://open.spotify.com/track/2JKNnH7OFhyPNLF90PoEDB) | [DED](https://open.spotify.com/artist/312CXoyqdQ0p6ZJ67NJoVa) | [Mis\-An\-Thrope](https://open.spotify.com/album/6h7D8BubMPDllyAla1jJQ1) | 3:14 |
 | 75 | [Th1rt3en or Nothing](https://open.spotify.com/track/2XfjJf7EpHlYdWd8OnjAtO) | [Backyard Babies](https://open.spotify.com/artist/4ASJkb9HOe3Vz5ZaXOjnfN) | [Four by Four](https://open.spotify.com/album/14AFtH2Uz9inwnJpuJtdlK) | 3:45 |
 | 76 | [Fleur de lis](https://open.spotify.com/track/4uTEG0XN5AF7aZdSAuVkLX) | [The Raven Age](https://open.spotify.com/artist/1Ia5iTYHMBsMQfi7Fbcbuw) | [Conspiracy](https://open.spotify.com/album/6HhxlpaqZix2VU3G3UscTH) | 4:13 |

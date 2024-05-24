@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 43411,
+  "num_followers": 43415,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "La Llorona",
-        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
-      },
-      "artists": [
-        {
-          "name": "Lhasa De Sela",
-          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
-        }
-      ],
-      "duration_ms": 250360,
-      "name": "Floricanto",
-      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Tropid\u00e9lico",
         "url": "https://open.spotify.com/album/173jCDoA1pArfdouxi1kZ8"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 257786,
       "name": "Regi Bugal\u00fa",
       "url": "https://open.spotify.com/track/6d6HIp4JZDSSgd3u2ilHqy"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/7J8k8Y7zfCFKMPWzUPGVuP"
+      },
+      "artists": [
+        {
+          "name": "Lhasa De Sela",
+          "url": "https://open.spotify.com/artist/3IbqRfvnvj5C22pHD38KXI"
+        }
+      ],
+      "duration_ms": 250360,
+      "name": "Floricanto",
+      "url": "https://open.spotify.com/track/0E1jfqTSwFlGFskSYqn3ZM"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -367,22 +367,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Soul Of The Drums",
-        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
-      },
-      "artists": [
-        {
-          "name": "Les Baxter",
-          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
-        }
-      ],
-      "duration_ms": 135946,
-      "name": "Coffee Bean / Calabash Annie",
-      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Tijuana Sessions Vol. 3",
         "url": "https://open.spotify.com/album/1mzRcscMBM7SRphpWA6g8T"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 224133,
       "name": "Tengo La Voz",
       "url": "https://open.spotify.com/track/3MVUADKwucn7BoLq73cbE6"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Soul Of The Drums",
+        "url": "https://open.spotify.com/album/5lJ4DgN4VRUi7IUeeGgub0"
+      },
+      "artists": [
+        {
+          "name": "Les Baxter",
+          "url": "https://open.spotify.com/artist/35pV6EUbherudlvAftoueR"
+        }
+      ],
+      "duration_ms": 135946,
+      "name": "Coffee Bean / Calabash Annie",
+      "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
-        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 545467,
-      "name": "Luna Negra - Live",
-      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Latin Soul Syndicate",
@@ -787,6 +771,22 @@
       "duration_ms": 239760,
       "name": "Frida Kahlo aka Mamasita",
       "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
+        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 545467,
+      "name": "Luna Negra - Live",
+      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/49iGo9gTn4rTtj504zQbHr"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Mujeres con Cajones",
-        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "Fina Estampa",
-      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "El Brown Recluse",
@@ -919,6 +903,22 @@
       "duration_ms": 283746,
       "name": "Pulque",
       "url": "https://open.spotify.com/track/3rZpBdMoAhoOGuduKZfDmW"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Mujeres con Cajones",
+        "url": "https://open.spotify.com/album/50lzMlXqpRzP1qcdZJ7KGz"
+      },
+      "artists": [
+        {
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
+        }
+      ],
+      "duration_ms": 171813,
+      "name": "Fina Estampa",
+      "url": "https://open.spotify.com/track/108bZCxgGxeHFQb14rJC1H"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Concierto en Vivo (Vienna, Austria)",
-        "url": "https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll"
-      },
-      "artists": [
-        {
-          "name": "Son De Madera",
-          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
-        }
-      ],
-      "duration_ms": 305906,
-      "name": "El P\u00e1jaro C\u00fa - Live",
-      "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "El Brown Recluse",
@@ -1035,6 +1019,22 @@
       "duration_ms": 259746,
       "name": "Cumbia Pa Modernos",
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Concierto en Vivo (Vienna, Austria)",
+        "url": "https://open.spotify.com/album/3d1bOU7YIj8UwvDRFI7qll"
+      },
+      "artists": [
+        {
+          "name": "Son De Madera",
+          "url": "https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme"
+        }
+      ],
+      "duration_ms": 305906,
+      "name": "El P\u00e1jaro C\u00fa - Live",
+      "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
-        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9rez Prado",
-          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Mar\u00eda Cristina - Remastered",
-      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Maremagnum",
         "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259013,
       "name": "Los Sabores Del Porro",
       "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Los 22 Grandes \u00c9xitos de P\u00e9rez Prado (Remastered)",
+        "url": "https://open.spotify.com/album/4NT0vaw4EP7hApFQCXqmoo"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9rez Prado",
+          "url": "https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Mar\u00eda Cristina - Remastered",
+      "url": "https://open.spotify.com/track/5zimrebZIVCXRfcFuVbSqd"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "The Best of Chicha: Cumbias, Vol. 5 (Spicy Tropical Sounds from Per\u00fa)",
-        "url": "https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn"
-      },
-      "artists": [
-        {
-          "name": "Manzanita y su Conjunto",
-          "url": "https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc"
-        }
-      ],
-      "duration_ms": 193027,
-      "name": "Paga la Cuenta Sinverg\u00fcenza",
-      "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Tastes Like L.A.",
         "url": "https://open.spotify.com/album/5SHxpx9zusBX63FOcIo45w"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 153613,
       "name": "Hot Tamales (Los Tamalitos De Olga)",
       "url": "https://open.spotify.com/track/3zZHmISLTaGk3wbYu3Ct0o"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "The Best of Chicha: Cumbias, Vol. 5 (Spicy Tropical Sounds from Per\u00fa)",
+        "url": "https://open.spotify.com/album/5MXDE3BEHOpUoROq53KGnn"
+      },
+      "artists": [
+        {
+          "name": "Manzanita y su Conjunto",
+          "url": "https://open.spotify.com/artist/5ybBgREkVrODhrtj94QBkc"
+        }
+      ],
+      "duration_ms": 193027,
+      "name": "Paga la Cuenta Sinverg\u00fcenza",
+      "url": "https://open.spotify.com/track/2qSwLZX8vdTsox4IPbQLB8"
     },
     {
       "added_at": "2020-05-28 20:45:13",

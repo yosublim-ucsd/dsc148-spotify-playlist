@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-727 songs - 1 day 8 hr 45 min
+728 songs - 1 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Cheongshin](https://open.spotify.com/track/2NyFugrzJAyMDLJ2TDDYAx) | [Hakone](https://open.spotify.com/artist/7CWzXEtz9IgGotcYUQuixF) | [Cheongshin](https://open.spotify.com/album/5764vWIW5PEoi0IA81Lz6n) | 1:16 | 2021-12-23 | 2022-07-10 |
 | [chidori](https://open.spotify.com/track/3riZQ5Vi2XUbWrCSE4YRYQ) | [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [UNITED EAST ASIA](https://open.spotify.com/album/1bak3p7f7K3RTcqHZXnvzH) | 1:56 | 2022-01-13 | 2022-06-06 |
 | [chill oil](https://open.spotify.com/track/3zitR68UQPvSJXhj0VhVKB) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/1EBszIXQGrExYYVJl0UaYV) | 2:35 | 2023-03-09 | 2024-04-19 |
-| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 |  |
+| [chill oil](https://open.spotify.com/track/7hLSrLW8vJvg51JQMTIueR) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Jr.TEA](https://open.spotify.com/artist/6LzvdyO4rk5hMzyRhlrt4e) | [chill oil](https://open.spotify.com/album/58iP6i6bIiuqaaVF06sfK6) | 2:35 | 2023-03-09 | 2024-05-24 |
 | [China Town](https://open.spotify.com/track/701Pk1KCm0fvaaIvDOyxa9) | [Storkes](https://open.spotify.com/artist/3UTdFWlJlDUIdrUz8LSKom) | [China Town](https://open.spotify.com/album/4ntLlHvS9lEOx3KS2Dz9cR) | 2:32 | 2021-12-23 | 2023-03-23 |
 | [CHOP SUMMER](https://open.spotify.com/track/28EVgaOqYync8V1kOi63ds) | [Tha Omedetaz](https://open.spotify.com/artist/3tYjCmnVPzQP8lzbZzJfzL) | [YAZZY BEATS 暑中見舞](https://open.spotify.com/album/58aQfV4UZbPw8KDsUWAGkW) | 2:10 | 2021-12-23 |  |
 | [choppy](https://open.spotify.com/track/6NqmlKB9tFfCIPof1uVcbk) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [choppy](https://open.spotify.com/album/1GQkAyBiePE7ZJ5N8HAAPh) | 2:13 | 2023-08-24 | 2023-09-29 |
@@ -476,6 +476,7 @@
 | [ode to N](https://open.spotify.com/track/3kKypbU1yMlHWc33em5aIO) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [ode to N](https://open.spotify.com/album/0Og7hHFQfX0OW028kjJelF) | 2:14 | 2022-09-22 | 2022-09-24 |
 | [On Golden Pond](https://open.spotify.com/track/0w2qPXThCA5AxbolFra2Ap) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [On Golden Pond](https://open.spotify.com/album/62q6SGct1PhpQ9beHT38zw) | 3:16 | 2023-04-27 | 2023-12-30 |
 | [On My Way Home](https://open.spotify.com/track/3UwKfXx1SdJSxnzG2gYkgc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [On My Way Home](https://open.spotify.com/album/6bO5QKKe9OAyMHQ2RryMou) | 3:14 | 2021-12-23 |  |
+| [On My Way Home \- Blue Lab Beats Remix](https://open.spotify.com/track/7ysDqM3kH3U6YleSSIhWRc) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9), [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [On My Way Home \(Blue Lab Beats Remix\)](https://open.spotify.com/album/5o3VQdQ5Mp8TZzKKDkZ1fI) | 3:48 | 2024-05-23 |  |
 | [on the way home](https://open.spotify.com/track/1JkQR9Mzg3LsJL9RVCcWHx) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/1h5gtqYpoaqnVm85KyYQJW) | 2:48 | 2022-07-28 | 2022-12-24 |
 | [on the way home](https://open.spotify.com/track/43cXj7oRb5TsLh4AqEO1OF) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa), [Y\-2](https://open.spotify.com/artist/3Tn5cTqDZdc03G1TfqpnbE) | [on the way home](https://open.spotify.com/album/5EqWe1anZt6ZdshaRuW4Hq) | 2:48 | 2022-05-12 | 2022-07-26 |
 | [One Life](https://open.spotify.com/track/2p6i1rr0GeZrMHmqfnkRvJ) | [NOBB\-D](https://open.spotify.com/artist/0oaDlNGcoCNlw4gCqWFYz2) | [One Life](https://open.spotify.com/album/03w2optnYiOIx9BAolMDKh) | 2:44 | 2021-12-23 | 2022-07-25 |

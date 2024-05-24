@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "hit rap og andet i den vibe \ud83d\udea8 Merro8 har forsiden",
+  "description": "<a href=\"spotify:artist:1YwMnnHvnG64fJxYSVwmN6\">Branco</a> takker af med kronen p\u00e5 v\u00e6rket \ud83c\udfc6 <a href=\"spotify:album:16y1M4Dnrqiodnk8KvRhLf\">BABA BUISNESS 3</a> \ud83c\udfc6 kig med i story \ud83d\udc40",
   "name": "100 DK",
   "tracks": [
+    {
+      "album": {
+        "name": "Bl\u00e5regn / 10/10",
+        "url": "https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh"
+      },
+      "artists": [
+        {
+          "name": "Lord Siva",
+          "url": "https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "10/10",
+      "url": "https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv"
+    },
     {
       "album": {
         "name": "2 Kanoner",
@@ -604,6 +622,24 @@
       "duration_ms": 163416,
       "name": "De Forbudte Trin (feat. Benny Jamz)",
       "url": "https://open.spotify.com/track/3TPqw77JJK9CEa3ZVuMEIO"
+    },
+    {
+      "album": {
+        "name": "De Her Dage",
+        "url": "https://open.spotify.com/album/2EIIOmUv0bPhm5M8VkFN5i"
+      },
+      "artists": [
+        {
+          "name": "Marcus Gordon",
+          "url": "https://open.spotify.com/artist/6n3apCkzT2FIvh9U3rlggn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159212,
+      "name": "De Her Dage",
+      "url": "https://open.spotify.com/track/1vW1acckwBOO7Smn4lWHyt"
     },
     {
       "album": {
@@ -1777,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "KOM HERHEN",
+        "url": "https://open.spotify.com/album/2GpJnXX38497OokE7BBxkS"
+      },
+      "artists": [
+        {
+          "name": "RH",
+          "url": "https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144539,
+      "name": "KOM HERHEN",
+      "url": "https://open.spotify.com/track/7ig9hPxbAJ6do2HRqwJhoA"
+    },
+    {
+      "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
       },
@@ -1928,6 +1982,28 @@
       "duration_ms": 140781,
       "name": "Livet Er Kort",
       "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
+    },
+    {
+      "album": {
+        "name": "BABA BUSINESS 3",
+        "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Bl\u00e6st",
+          "url": "https://open.spotify.com/artist/3elCsuJ1JjDeAd8mjlRRX5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163560,
+      "name": "MAGIC AIRLINES",
+      "url": "https://open.spotify.com/track/2BwK0nlKXl065pfHhbEoCy"
     },
     {
       "album": {
@@ -2502,6 +2578,32 @@
       "duration_ms": 125957,
       "name": "Safebox (feat. Branco)",
       "url": "https://open.spotify.com/track/2zu2gViGH8vMhNMuSx6n1h"
+    },
+    {
+      "album": {
+        "name": "BABA BUSINESS 3",
+        "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Barbara Moleko",
+          "url": "https://open.spotify.com/artist/5G6LaA5I0P51M49dzJV5k3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164683,
+      "name": "SAMME VEJ (feat. Artigeardit & Barbara Moleko)",
+      "url": "https://open.spotify.com/track/18pY9lRsEigm9yDWpfp56z"
     },
     {
       "album": {
@@ -3158,6 +3260,24 @@
       "duration_ms": 181549,
       "name": "Varm",
       "url": "https://open.spotify.com/track/01iuQsDEahOHtTikuFbTJ2"
+    },
+    {
+      "album": {
+        "name": "BABA BUSINESS 3",
+        "url": "https://open.spotify.com/album/16y1M4Dnrqiodnk8KvRhLf"
+      },
+      "artists": [
+        {
+          "name": "Branco",
+          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143711,
+      "name": "VERDEN RUNDT",
+      "url": "https://open.spotify.com/track/62Du6R05e0d5nZ4IUVBaqf"
     },
     {
       "album": {

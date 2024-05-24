@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 
 > Home is where you park it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,253 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 777,259 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 13 | [Losers](https://open.spotify.com/track/6otUjBoNrp27EubqsoYGQx) | [Balthazar](https://open.spotify.com/artist/4oMBP1OWXtmxyDhAj2aRyQ) | [Sand](https://open.spotify.com/album/0aYwzFnbFur2SEyJKKS0LD) | 3:25 |
 | 14 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 15 | [Only For A Moment](https://open.spotify.com/track/5M306C6g4kpkzDXGfzjUgC) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Only For A Moment](https://open.spotify.com/album/471pH6iOglOu5GlePOeUqV) | 2:47 |
-| 16 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
-| 17 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 16 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 17 | [Running in Circles](https://open.spotify.com/track/44jry7JVnikOOBNjzi91Wg) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Running in Circles](https://open.spotify.com/album/0nW3TMoHy0cT7e7JtuWPCe) | 3:11 |
 | 18 | [One Evening](https://open.spotify.com/track/09dYenMs0WXWh0pAAtd9Zd) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/12bMKICVsvDdRlGzpSEKpB) | 3:36 |
 | 19 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 |
 | 20 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 |
@@ -73,24 +73,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ogDiL6nZJr.md) - [plain]
 | 63 | [Golden](https://open.spotify.com/track/7afkCVFaZhO64ycp8zVkwF) | [GABRIEL VITEL](https://open.spotify.com/artist/1cdGFmm7cm0yvD7mA40R8x) | [Golden](https://open.spotify.com/album/7E3TL1iPzSadbgt8uN5xNL) | 3:14 |
 | 64 | [Hello Sunshine](https://open.spotify.com/track/26fA2nehuPzIVzfWwKg9MA) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY), [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Hello Sunshine](https://open.spotify.com/album/5YeVhDtsgPOBSo0e4qIxRb) | 2:33 |
 | 65 | [Young & Free](https://open.spotify.com/track/0GMYdEuNaZtcEW014gbv9L) | [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [Young & Free](https://open.spotify.com/album/1B3U0viHf0iGTpmEogZNie) | 3:50 |
-| 66 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 |
-| 67 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
+| 66 | [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 |
+| 67 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 |
 | 68 | [You Might](https://open.spotify.com/track/6KGCgcXf60keh5Zu48ch1K) | [MarkMoon](https://open.spotify.com/artist/3ihkk6803aRrmiHduMZ7hQ) | [You Might](https://open.spotify.com/album/7otKscInqHObpSN9hIWjte) | 1:59 |
 | 69 | [California](https://open.spotify.com/track/0fsrLRhjX5nkVPlHW0pkt8) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [California](https://open.spotify.com/album/7dQnf1RF1MmvZhxwSHtJ4Z) | 3:13 |
 | 70 | [Drifting](https://open.spotify.com/track/6n2PXbKEHKLlBLRGhXPRSN) | [Cassia](https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX) | [Drifting](https://open.spotify.com/album/1QYBpkjNZN1APv6PPezcwn) | 3:44 |
-| 71 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
+| 71 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
 | 72 | [Somewhere in Chicago](https://open.spotify.com/track/3BsrEIMaUPq97jPCwF7cn0) | [Strand of Oaks](https://open.spotify.com/artist/0t4oHObO3FImWvIhMimaSL) | [Somewhere in Chicago](https://open.spotify.com/album/37mNFjjiRfZRCwfGflAsrM) | 3:05 |
-| 73 | [Roccastrada](https://open.spotify.com/track/7DC4yCiRU4trcdZaUWBXDT) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Roccastrada](https://open.spotify.com/album/5vycnPJlfLSv6KI8QsgMQ2) | 4:32 |
+| 73 | [That Golden Time](https://open.spotify.com/track/4ibEdioMP3DAJpOxxY1n60) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [That Golden Time](https://open.spotify.com/album/0B03CUw8Fjc55sStCn7ZM6) | 4:50 |
 | 74 | [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 |
-| 75 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
-| 76 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
+| 75 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 |
+| 76 | [Echoes](https://open.spotify.com/track/7sAbAmaZjEF9gaBW1cTtqX) | [Georg Levin](https://open.spotify.com/artist/5irzRcjrMrXFfQqCoDkuW5) | [Echoes](https://open.spotify.com/album/6hTFPXyo3ZFr1zyuPBV1H2) | 3:55 |
 | 77 | [The Beauty & The Pain](https://open.spotify.com/track/7vWab560TZxP2mtOHq7Tc3) | [Kids of Adelaide](https://open.spotify.com/artist/1n4X5jW8nSlsTGqk6rAZF2) | [The Beauty & The Pain](https://open.spotify.com/album/0UGhyu6woshbDtYGfuaYcc) | 4:02 |
 | 78 | [Rich Man](https://open.spotify.com/track/34batHUDkMhFuUjkxAUmfH) | [KEØMA](https://open.spotify.com/artist/79iWNhmr65X2gvuPl5jB0U) | [Rich Man](https://open.spotify.com/album/6SWwS2mmFaQIU1vE3mEEh1) | 3:56 |
 | 79 | [Where the Grass Grows High](https://open.spotify.com/track/7KBvYUxW8zgK5bQE5U1edR) | [Flora Falls](https://open.spotify.com/artist/2lgTnaXO0b6ufPyEmbZJO9) | [Where the Grass Grows High](https://open.spotify.com/album/5zRkDPYfYzo5DTyg2BD6UP) | 3:35 |
 | 80 | [Ten Is a Number](https://open.spotify.com/track/2PrvcL7D0MehTsVxEPhF4p) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [M Field](https://open.spotify.com/album/4eDYq0TO7o6a6q65zbOHFg) | 3:13 |
 | 81 | [Everything You Do](https://open.spotify.com/track/1jEPBhVgcI6RNdEORZcd6k) | [Lila Dupont](https://open.spotify.com/artist/2pr1PCMOLhwSz1Lr0ovB32) | [Everything You Do](https://open.spotify.com/album/2Mnf0FUlISsu3280EzVtfB) | 3:29 |
-| 82 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
-| 83 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
+| 82 | [Wide Awake](https://open.spotify.com/track/0BgEkiedrF5W0tjkvhAUVw) | [Luke Noa](https://open.spotify.com/artist/6I0GEFnsmFxBdyolt4KlJe) | [Wide Awake](https://open.spotify.com/album/4XjE4JTb2fp7C7ZITLZOwW) | 3:23 |
+| 83 | [Youth](https://open.spotify.com/track/040biVya1wdxHojlYhlcpK) | [Menke](https://open.spotify.com/artist/56fiEsX7uP1maw2NajHZXJ) | [Echo of Youth](https://open.spotify.com/album/2arypATxnVXJDLa10gaBT9) | 3:15 |
 | 84 | [Cars](https://open.spotify.com/track/1tc5X4yxo5W9Y2mwnWig8Q) | [A Tale of Golden Keys](https://open.spotify.com/artist/0i4t71X76r7XeeDN9iGqTY) | [The Only Thing That's Real](https://open.spotify.com/album/6t7VVjUGmFJklgrg4BzqJn) | 3:17 |
 | 85 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 |
 | 86 | [Flood](https://open.spotify.com/track/2wYj2hjlnGNZcXHpk8R5yj) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Flood](https://open.spotify.com/album/3eHCDyFaj2k5aK40Z5idSW) | 4:07 |

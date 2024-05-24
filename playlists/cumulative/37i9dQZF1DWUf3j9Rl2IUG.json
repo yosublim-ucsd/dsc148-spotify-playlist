@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Minz and Davido ",
+  "description": "Afrobeats' hottest singles. Cover: Keys the Prince & Mayorkun",
   "name": "Gbedu",
   "tracks": [
     {
@@ -282,7 +282,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 171000,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/3D9bfMv1mFaYZngz2kFmOn"
@@ -3198,7 +3198,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 136719,
       "name": "If I Be You",
       "url": "https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni"
@@ -3776,6 +3776,28 @@
       "duration_ms": 141711,
       "name": "LEADER!",
       "url": "https://open.spotify.com/track/60VJ0CZ1bV5Ln2n3H1Xo1F"
+    },
+    {
+      "album": {
+        "name": "Left Right (Remix)",
+        "url": "https://open.spotify.com/album/5P6aFTTB6cvh6AlFWCMycR"
+      },
+      "artists": [
+        {
+          "name": "Keys the Prince",
+          "url": "https://open.spotify.com/artist/5nCeWRjxptrgFwtvLlHsj1"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166430,
+      "name": "Left Right - Remix",
+      "url": "https://open.spotify.com/track/3qVrEW61X44OTkV4WtG722"
     },
     {
       "album": {
@@ -6499,6 +6521,24 @@
     },
     {
       "album": {
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
+    },
+    {
+      "album": {
         "name": "Boy Alone",
         "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
@@ -6697,6 +6737,24 @@
     },
     {
       "album": {
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+    },
+    {
+      "album": {
         "name": "Young Preacher",
         "url": "https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2"
       },
@@ -6822,7 +6880,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 225450,
       "name": "wo wo - remix",
       "url": "https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX"

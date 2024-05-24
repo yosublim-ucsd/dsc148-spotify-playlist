@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 
 > Los temas legendarios de la escena de rap nacional: Control Machete en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,962 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,027 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eaesGGB9eJ.md) - [plain]
 | 5 | [Ella Se Fue](https://open.spotify.com/track/02LnwwnaanFpM5dZNArPBb) | [Kinto Sol](https://open.spotify.com/artist/0nOyxRsVicKeiBbB6zdIMu) | [La Sangre Nunca Muere](https://open.spotify.com/album/2K0WaWHHDVv7o6x6ZpokCZ) | 4:47 |
 | 6 | [Un Par De Balas](https://open.spotify.com/track/3f04ysVYLQoaKFHLHjezws) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Clasificacion C Vol.1](https://open.spotify.com/album/6vPMTvNEFkY9V7nxFgxjHZ) | 3:48 |
 | 7 | [Sirve Mi Café Temprano](https://open.spotify.com/track/7j4P6of6eyZDe49HUYSU2h) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Sirve Mi Café Temprano](https://open.spotify.com/album/0I7niYRGKf1mfAjVdrkogE) | 3:59 |
-| 8 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
-| 9 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
+| 8 | [Mr\. P\-Mosh](https://open.spotify.com/track/12Q3hN5YwbjZ0jkcHmuABo) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 4:22 |
+| 9 | [Serenata Rap](https://open.spotify.com/track/2RhZI0Ljg8nnouhwPIOHWc) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:27 |
 | 10 | [Tres Delinquentes \- Radio Version](https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Hip Hop 100 Hits \- Urban rap & R n B anthems inc\. Jay Z, A$ap Rocky, Wu\-Tang Clan & Nas](https://open.spotify.com/album/1tIioq32KjWlt5vvk5rhqX) | 4:15 |
 | 11 | [Mañanero](https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ) | [Remik Gonzalez](https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [High Con Class XIII](https://open.spotify.com/album/5PZxScqkkCa4bjdZcq9fuh) | 3:29 |
 | 12 | [Vato Sencillo](https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Vol\. 4](https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe) | 3:03 |

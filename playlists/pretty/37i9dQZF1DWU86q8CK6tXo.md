@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Emei
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,044 likes - 38 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,049 likes - 38 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

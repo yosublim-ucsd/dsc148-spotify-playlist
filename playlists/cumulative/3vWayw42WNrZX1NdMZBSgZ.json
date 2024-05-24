@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &quot;Misi\u00f3n Imposible,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: DARUMAS",
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Camilo",
   "name": "Pop Latin Hits",
   "tracks": [
     {
@@ -710,6 +710,24 @@
       "duration_ms": 227480,
       "name": "Amigos Con Derechos",
       "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
+    },
+    {
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150397,
+      "name": "Amor de Extranjeros",
+      "url": "https://open.spotify.com/track/1uIGbHPc5HdarDGzhxK0YB"
     },
     {
       "album": {
@@ -10533,6 +10551,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147795,
+      "name": "OHH BABY",
+      "url": "https://open.spotify.com/track/11pjpFy9m7CQqVBC0A5EPG"
+    },
+    {
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY"
       },
@@ -12177,6 +12213,24 @@
     },
     {
       "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145342,
+      "name": "REAL GANGSTA LOVE",
+      "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "album": {
         "name": "Refugio",
         "url": "https://open.spotify.com/album/0USsWJfpUn9FLFTy4TaImn"
       },
@@ -13195,6 +13249,32 @@
     },
     {
       "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214566,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/2gD0YaqSIN08kCloPjwaUK"
+    },
+    {
+      "album": {
         "name": "INTRUSO",
         "url": "https://open.spotify.com/album/4K5N6FoZm9Oki26KjmLrRw"
       },
@@ -13977,6 +14057,24 @@
     },
     {
       "album": {
+        "name": "Touching The Sky",
+        "url": "https://open.spotify.com/album/5WLJs3zhRQGPTOpMhFnJqa"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187517,
+      "name": "Touching The Sky",
+      "url": "https://open.spotify.com/track/2SaRD7OpQ2A9ZeCOntar0g"
+    },
+    {
+      "album": {
         "name": "Toy a Mil",
         "url": "https://open.spotify.com/album/6DVdkW05LIZ7xjIeu6291k"
       },
@@ -14032,6 +14130,24 @@
       "duration_ms": 236200,
       "name": "traguito",
       "url": "https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH"
+    },
+    {
+      "album": {
+        "name": "EL \u00daLTIMO BAILE",
+        "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157319,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/5XOz9c4Enw0fzyIFZRHds8"
     },
     {
       "album": {
@@ -14667,6 +14783,24 @@
     },
     {
       "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170301,
+      "name": "Una Canci\u00f3n de Amor Para la Pulga",
+      "url": "https://open.spotify.com/track/773PYkiPCYQOYIXeaROEyv"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -14752,6 +14886,28 @@
       "duration_ms": 188708,
       "name": "Una Vez M\u00e1s",
       "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
+    },
+    {
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/2mLTxNa0bwZX8eNBsuODLX"
     },
     {
       "album": {

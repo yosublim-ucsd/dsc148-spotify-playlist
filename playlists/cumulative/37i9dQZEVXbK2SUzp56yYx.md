@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belarus.
 
-420 songs - 19 hr 4 min
+421 songs - 19 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [12 AM](https://open.spotify.com/track/19nHiUGLy5beRnTTDKVljs) | [DooMee](https://open.spotify.com/artist/0Rb1j4P056IYg6ncXqslRr), [LOVV66](https://open.spotify.com/artist/5A9NWhs9ydYZPGgvcWI8Ms) | [12 AM](https://open.spotify.com/album/6mKN8JQ2EYqHaYqGWkbZgq) | 2:38 | 2024-03-19 | 2024-03-21 |
 | [2 тюльпана](https://open.spotify.com/track/6bsy0WLzGif9SBUwyyTVfb) | [timblat](https://open.spotify.com/artist/5MGXJpqpDRASuc6EFxr5z8) | [2 тюльпана](https://open.spotify.com/album/3dGNsEAUKuGMpzJdILHlpJ) | 2:34 | 2024-04-21 | 2024-05-03 |
 | [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-05-09 |  |
+| [Albino](https://open.spotify.com/track/7xVssMegpAxQ8GuFa84V31) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Tice](https://open.spotify.com/artist/0VF99ihK36GXSlQs0mzL0S) | [Albino](https://open.spotify.com/album/2X87EHKVeyoKrjMfaGpJfR) | 3:32 | 2024-05-23 |  |
 | [Amathole](https://open.spotify.com/track/6p3YWWfPWB9LlB9zLNHNh2) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/6rCjjn8ZAWEgWFFGZLMQIp) | 8:07 | 2024-03-02 | 2024-03-23 |
 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2024-02-16 | 2024-03-03 |
 | [Amplify this Melodie](https://open.spotify.com/track/7yUMKYbDKjHblw06hsfYck) | [Brawl Stars](https://open.spotify.com/artist/6uqbI01HHuIVZ2LcZoDGlG) | [Amplify this Melodie](https://open.spotify.com/album/6QUnZcikQOJOsfJww35Lwn) | 1:40 | 2024-04-16 | 2024-04-27 |
@@ -55,7 +56,7 @@
 | [Dove \- Doll Ver](https://open.spotify.com/track/2NHHKv9F4mYLSMfMl0jayB) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver\)](https://open.spotify.com/album/3iNri5JDR2qHc5XqXdu6T7) | 2:15 | 2024-05-06 | 2024-05-09 |
 | [Dove \- Doll Ver.](https://open.spotify.com/track/3f37c6bbxasKuyxDiPYHiQ) | [antihoney](https://open.spotify.com/artist/5JAa9e6UwxxYbZfyUBZcU3) | [Dove \(Doll Ver.\)](https://open.spotify.com/album/1yV6LuYwWFq6kiDSTwPa1H) | 2:16 | 2024-04-30 | 2024-05-02 |
 | [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 | 2024-05-17 |  |
-| [Drugs](https://open.spotify.com/track/2xZIqRUEViI9FC6X8KikaT) | [Sonic Mine](https://open.spotify.com/artist/4J6pkrgsk24N50oIM2fpdw) | [Pump This Party](https://open.spotify.com/album/72qGHxPgwr5D1Gi0UMsj1j) | 3:37 | 2024-05-03 |  |
+| [Drugs](https://open.spotify.com/track/2xZIqRUEViI9FC6X8KikaT) | [Sonic Mine](https://open.spotify.com/artist/4J6pkrgsk24N50oIM2fpdw) | [Pump This Party](https://open.spotify.com/album/72qGHxPgwr5D1Gi0UMsj1j) | 3:37 | 2024-05-03 | 2024-05-24 |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-03-07 | 2024-03-18 |
 | [ee nado x\)](https://open.spotify.com/track/10bkbTXJZpOP5r9ZNeRwDw) | [dj trippie flameboy](https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k) | [ee nado x\)](https://open.spotify.com/album/3xDbqXe7XB6jiCNUxNTaqa) | 1:44 | 2024-01-29 | 2024-02-21 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-19 | 2024-04-30 |
@@ -104,7 +105,7 @@
 | [Hide \- CS01 Version](https://open.spotify.com/track/1WZGaNYzreZrvteuUEfp8X) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Hide \(CS01 Version\)](https://open.spotify.com/album/245oQswZLETcE6V7aEdNWG) | 3:01 | 2024-05-01 | 2024-05-18 |
 | [High](https://open.spotify.com/track/70p9DWXn03qMcC6PPgJPay) | [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C) | [З4ПРАВК4 КИД](https://open.spotify.com/album/4il76IU7nxK7XwLDn5ta3T) | 2:25 | 2024-05-21 |  |
 | [Home](https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl) | 2:37 | 2024-02-26 | 2024-03-03 |
-| [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-14 |  |
+| [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 | 2024-05-14 | 2024-05-24 |
 | [I Don't Wanna Be Me](https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Life Is Killing Me](https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC) | 5:08 | 2024-01-29 | 2024-02-09 |
 | [I Like The Way You Kiss Me](https://open.spotify.com/track/6rxyf2FhA2GC3QaEYTX3O6) | [ERØS](https://open.spotify.com/artist/7vei9BJQWL0wRLE5oV1J6c) | [I Like The Way You Kiss Me](https://open.spotify.com/album/28ozpv9bKg5prrYdJv6yC5) | 4:02 | 2024-04-16 | 2024-04-26 |
 | [i like the way you kiss me](https://open.spotify.com/track/0BfqNd034HDk5kHqxsZ4HK) | [Mckyyy](https://open.spotify.com/artist/1Y5AYn8VTrTR3f8HXQQQug) | [i like the way you kiss me](https://open.spotify.com/album/51z3oirSgcuaJTgJFR2gKt) | 2:22 | 2024-04-16 | 2024-05-02 |
@@ -148,7 +149,7 @@
 | [MAKE UP \(FBL\)](https://open.spotify.com/track/6KYhmIY3N11aSweAZdZwDs) | [Japssii](https://open.spotify.com/artist/4kHVe9fcXovUpsi5qeTm8Q) | [MAKE UP \(FBL\)](https://open.spotify.com/album/5WPQSiRMmFpe1A19A8SqI8) | 1:14 | 2024-02-03 | 2024-04-28 |
 | [Make You Mine](https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Make You Mine](https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC) | 3:41 | 2024-03-05 | 2024-04-10 |
 | [MASHA ULTRAFUNK](https://open.spotify.com/track/0vQiLlpJ49PqYbUZ7jppB5) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/5R8agyduxGMXN8isC3acV4) | 1:33 | 2024-03-26 | 2024-03-29 |
-| [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-03-29 | 2024-05-23 |
+| [MASHA ULTRAFUNK](https://open.spotify.com/track/5VZ0soW5syQfefCUj603DW) | [HISTED](https://open.spotify.com/artist/5Z56BMrvQB2rBAa5kffTPD), [TXVSTERPLAYA](https://open.spotify.com/artist/4Rd0aHKGS9BdLYSXVvFjv5) | [MASHA ULTRAFUNK](https://open.spotify.com/album/43DSGSYCywacjEkdeSv4DC) | 1:33 | 2024-03-29 |  |
 | [Me Papa Que É Pop \(Slowed\)](https://open.spotify.com/track/33PD9UXe0pfkXQtg3Ily5y) | [Dj Brunin XM](https://open.spotify.com/artist/6MSMZkBlZT4vhQmjO5Ynv3), [Mc Lullu](https://open.spotify.com/artist/62NFUnRQI3ctTgZdCquSHD) | [Me Papa Que É Pop \(Slowed\)](https://open.spotify.com/album/5m6leIrd8cHgr3sRI4yUfX) | 2:21 | 2024-03-16 | 2024-03-18 |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-04-24 | 2024-05-02 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz) | 2:35 | 2024-05-14 |  |

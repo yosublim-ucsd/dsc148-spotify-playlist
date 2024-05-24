@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 224246,
       "name": "Adakah Kau Pasti",
       "url": "https://open.spotify.com/track/6rufD5k8CBP4LYs3sjfQl9"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222176,
       "name": "Bawa Hatiku Bersama Kamu",
       "url": "https://open.spotify.com/track/6TeY4w3Ew5mjXZzBD2XMyv"
@@ -431,6 +431,24 @@
     },
     {
       "album": {
+        "name": "Cahaya",
+        "url": "https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185382,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV"
+    },
+    {
+      "album": {
         "name": "Cinta Indah Buat Kanda (From \"The Experts\")",
         "url": "https://open.spotify.com/album/6C577UJbbUObnXLu1D9zyk"
       },
@@ -442,7 +460,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170847,
       "name": "Cinta Indah Buat Kanda - From \"The Experts\"",
       "url": "https://open.spotify.com/track/40jA5HPLdlTVVoi6NFPzoO"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-21",
+      "date_removed": null,
       "duration_ms": 189416,
       "name": "Denting",
       "url": "https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0"
@@ -742,7 +760,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 184736,
       "name": "Hadiah Tuhan Paling Jelita",
       "url": "https://open.spotify.com/track/6CxuqjOBNxn8W5WAsb3KIs"
@@ -948,6 +966,42 @@
       "duration_ms": 220575,
       "name": "Jauh - From \"Malang Si Puteri\"",
       "url": "https://open.spotify.com/track/0bmR1XPsuMXJ1snTrVjx7B"
+    },
+    {
+      "album": {
+        "name": "Jika Nanti",
+        "url": "https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Jika Nanti",
+      "url": "https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W"
+    },
+    {
+      "album": {
+        "name": "Jiwa",
+        "url": "https://open.spotify.com/album/3Hp27Z0y8M7rMSve5obsG9"
+      },
+      "artists": [
+        {
+          "name": "Daniesh Suffian",
+          "url": "https://open.spotify.com/artist/0lvy5lqKIOZlOe8YrDgQRw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239386,
+      "name": "Jiwa",
+      "url": "https://open.spotify.com/track/5MevLDo0PwOqMEHxa0Ba3z"
     },
     {
       "album": {
@@ -1320,7 +1374,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 200222,
       "name": "Masih Ku Sayang",
       "url": "https://open.spotify.com/track/5G9afAQLqId5heLtc3Ra6I"
@@ -1342,6 +1396,28 @@
       "duration_ms": 202154,
       "name": "Masihkah Ada Rasa Itu? - From \"Wanita Syurga\"",
       "url": "https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW"
+    },
+    {
+      "album": {
+        "name": "Masing Masing (Versi Tradisional)",
+        "url": "https://open.spotify.com/album/5Tk0ZamZCMizy4Rr9Q11Gz"
+      },
+      "artists": [
+        {
+          "name": "Ernie Zakri",
+          "url": "https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp"
+        },
+        {
+          "name": "Ade Govinda",
+          "url": "https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224584,
+      "name": "Masing Masing - Versi Tradisional",
+      "url": "https://open.spotify.com/track/3I9hSGcDdf7F2epUAcCu4C"
     },
     {
       "album": {
@@ -1392,7 +1468,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 250716,
       "name": "Melepaskanmu",
       "url": "https://open.spotify.com/track/3pDLRCinNlo3prsxLAcE2B"
@@ -1522,7 +1598,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 277498,
       "name": "Mengenangmu",
       "url": "https://open.spotify.com/track/6l9L0ssWzD5XI1aJgVFpaS"
@@ -1646,7 +1722,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 231103,
       "name": "Padam Api Dalam Lantera",
       "url": "https://open.spotify.com/track/5K3YoXc2ZoNcqu4rLtVk5Z"
@@ -1682,7 +1758,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 234177,
       "name": "Pandai Bicara",
       "url": "https://open.spotify.com/track/6RCVSl65W3uAsEZTyJI4PX"
@@ -1899,6 +1975,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235269,
+      "name": "Sampai Mati Kan Ku Kejar",
+      "url": "https://open.spotify.com/track/4TveE7nbH7XNSdlQEo123z"
+    },
+    {
+      "album": {
         "name": "Sampainya Hati",
         "url": "https://open.spotify.com/album/3MnOKh8nMY8NKQrO9zFXMs"
       },
@@ -2062,6 +2156,24 @@
       "duration_ms": 215748,
       "name": "Selamat Ulang Tahun Sayang - Acoustic",
       "url": "https://open.spotify.com/track/4P69sE4FMw4ZLLnLYzlt7q"
+    },
+    {
+      "album": {
+        "name": "Semangat Wira",
+        "url": "https://open.spotify.com/album/3Nbl6VxFMTxa0AaGlhcFoJ"
+      },
+      "artists": [
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228004,
+      "name": "Semangat Wira",
+      "url": "https://open.spotify.com/track/18wkRaVoEO5Fg4RCyvh5Cx"
     },
     {
       "album": {

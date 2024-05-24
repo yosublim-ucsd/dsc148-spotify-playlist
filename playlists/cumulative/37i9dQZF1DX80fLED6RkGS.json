@@ -812,7 +812,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172800,
       "name": "Bigi Bigi Heavy Heavy",
       "url": "https://open.spotify.com/track/3AUAjCbT8K7wzgGW5bqSCP"
@@ -1602,6 +1602,32 @@
       "duration_ms": 170612,
       "name": "Confirmed",
       "url": "https://open.spotify.com/track/7bVpf6S7Uxd0khRwYnUkbu"
+    },
+    {
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/0pVacuOMcpWhweCZuQeDJ1"
+      },
+      "artists": [
+        {
+          "name": "Unspoken Salaton",
+          "url": "https://open.spotify.com/artist/3FmMDBIQ6C4mEsgPVcVugY"
+        },
+        {
+          "name": "Jay Alpha",
+          "url": "https://open.spotify.com/artist/6Mz44EIJ0SPySHqMCtGgXc"
+        },
+        {
+          "name": "Cjay Slim",
+          "url": "https://open.spotify.com/artist/2EfRDaQe9gzEbOg4wC1HsW"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217991,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/1keIeiHj7HpEDqsRy1prLs"
     },
     {
       "album": {
@@ -2992,7 +3018,7 @@
       ],
       "date_added": "2022-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 152999,
       "name": "Kamkora",
       "url": "https://open.spotify.com/track/3Dvxpka8fCFTidzANF4Xpm"
@@ -3046,7 +3072,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 196129,
       "name": "Kanashikia Wapi",
       "url": "https://open.spotify.com/track/2zBh5l14db5LdrB5mxNVSp"

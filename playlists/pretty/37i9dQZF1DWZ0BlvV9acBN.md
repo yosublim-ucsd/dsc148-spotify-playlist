@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Oficina G3
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,603 likes - 70 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,626 likes - 70 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 24 | [Derrama Fogo \- Ao Vivo](https://open.spotify.com/track/7gZmrRAb9RfP8SBnUaWqU0) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Atitud Ao Vivo, Vol\. 2](https://open.spotify.com/album/2mWAAKPLWjHeuo3n8N5UHp) | 5:37 |
 | 25 | [O Meu Lugar](https://open.spotify.com/track/1qMRGu2SiEU0u9Lz1KXYP1) | [Judas O Outro](https://open.spotify.com/artist/0nxZKBNhQHUCsMFNoTZPpT), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [O Meu Lugar](https://open.spotify.com/album/7DKFhuhRDNz2BeLF1NvJH2) | 4:05 |
 | 26 | [ATEU](https://open.spotify.com/track/0hz6L1XvtmDUgb5Z0zP0ua) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [ATEU](https://open.spotify.com/album/2C9WkmNAfnnFciTun3JAsb) | 4:05 |
-| 27 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
-| 28 | [Nosso Deus É Grande \- Ao Vivo](https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Nosso Deus É Grande \(Ao Vivo\)](https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW) | 4:14 |
-| 29 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
+| 27 | [Rookmaaker \- Ao Vivo](https://open.spotify.com/track/3pnxplHFEuyGnGEHVoKkPo) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 4\)](https://open.spotify.com/album/0zrjFPCQhd5XKGuQXEKswE) | 5:22 |
+| 28 | [Sou Teu](https://open.spotify.com/track/73Ut3bFGmzXZbaf5LvEPlJ) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Sou Teu](https://open.spotify.com/album/47i2kk0tnCyY6VdjE3ZPZC) | 5:50 |
+| 29 | [Nosso Deus É Grande \- Ao Vivo](https://open.spotify.com/track/3z3b7WjjcJ2Jp2yfIXkOjE) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Nosso Deus É Grande \(Ao Vivo\)](https://open.spotify.com/album/2JF2opWknYA7UFAHKrIOdW) | 4:14 |
 | 30 | [Santo \- Ao Vivo](https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Santo \(Ao Vivo\)](https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP) | 8:56 |
 | 31 | [As Sepulturas Se Abrirão \- Ao Vivo](https://open.spotify.com/track/2RE0vtoTP7U55ore8UUeTy) | [Palankin](https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ), [Ana Rock](https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U) | [Na Terra Parte 2/3 \(Ao Vivo\)](https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d) | 4:48 |
 | 32 | [ELE É EXALTADO](https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [ELE É EXALTADO](https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ) | 4:58 |
 | 33 | [HΣRΞGE](https://open.spotify.com/track/22A0UO4bYvuGiMcp0ozML2) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [MAURØ \- FØRMA \(Ao Vivo Hard Rock Cafe\)](https://open.spotify.com/album/0yIvMq3tBHnVwuyfvamUpe) | 6:37 |
 | 34 | [Castelo Forte \- Ao Vivo](https://open.spotify.com/track/5ZEYjMZz5grx0I0EWJjOO1) | [AtituD](https://open.spotify.com/artist/7Ee6ZsG5CPerynOMJ4fu9p) | [Castelo Forte \(Ao Vivo\)](https://open.spotify.com/album/56P5YZIPLleJ4Go7mMS91q) | 3:43 |
-| 35 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
-| 36 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 |
+| 35 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 |
+| 36 | [Palavra Antiga \- Ao Vivo](https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH) | [Palavrantiga](https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j) | [Palavrantiga Ao Vivo \(Pt\. 3\)](https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH) | 4:10 |
 | 37 | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/track/2HLKpvgRATKtf1KA9lrcGg) | [Arianne](https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Me Fez Vivo \(feat\. Fernandinho\)](https://open.spotify.com/album/5Yn06GwEq0Hw94wgPG0U8f) | 4:01 |
 | 38 | [A Estátua](https://open.spotify.com/track/5dV1WilekeFKNrDVqmgo0s) | [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd), [Diego Rox](https://open.spotify.com/artist/1wrVWFQTN7fUh9cR0pUvJg) | [A Estátua](https://open.spotify.com/album/19cl5wWgzJsRjsPdyOBwpK) | 3:27 |
 | 39 | [NAVES IMPERIAIS](https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Walter Lopes](https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV) | [NAVES IMPERIAIS](https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy) | 5:14 |

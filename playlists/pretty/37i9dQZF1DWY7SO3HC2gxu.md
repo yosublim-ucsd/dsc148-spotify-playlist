@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 
 > Best blends of Electronic music Across East Africa
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,516 likes - 80 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,525 likes - 80 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7SO3HC2gxu.md) - [plain]
 | 9 | [Es Vedra](https://open.spotify.com/track/6K6UHR9tV2S43WK5GWpI80) | [Aytiwan](https://open.spotify.com/artist/1uL2FZKW1ImI6oHVJ5gnn3), [Kaudron](https://open.spotify.com/artist/0LNyTVpLzeoQeWkLoxIl6h), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Es Vedra](https://open.spotify.com/album/5SyxPG9RgHncKLldTRVoHV) | 5:20 |
 | 10 | [Forever \- &Lez Remix](https://open.spotify.com/track/3TFhBDI23s6lCFOvtu6o5b) | [Vanco](https://open.spotify.com/artist/2KShewLkb92FKEZ6N4cVP9), [H\_art the Band](https://open.spotify.com/artist/0m6SCIzf7kP9iylizWmIp1), [&lez](https://open.spotify.com/artist/2qYXvmcOMvQOnCBcvh8erq) | [Forever \(&Lez Remix\)](https://open.spotify.com/album/4uhoVqDV7IFDbwgs2U2EvZ) | 7:33 |
 | 11 | [To You](https://open.spotify.com/track/4Lbk3hfElBVH4lTybSGGWo) | [Ally Fresh](https://open.spotify.com/artist/24M2bc8mgxvQdYvMZJFDPh), [Dj Mura K.E](https://open.spotify.com/artist/2QQDQ1r4skfMjgwSA1C3kP), [Aymos](https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL), [Labdi](https://open.spotify.com/artist/310NKKgwvfe3k3nf9ug5TZ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Nyumbani](https://open.spotify.com/album/1bijg6TZQo6cw9HXJA9B2x) | 3:01 |
-| 12 | [Walking On Water \- SOS Mix \[Radio Edit\]](https://open.spotify.com/track/3DXvzaN6SNiNzqGcyLmxVG) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Walking On Water \(SOS Mix\)](https://open.spotify.com/album/6vw9GBOSuxChEBBi2Vo0Ya) | 4:02 |
+| 12 | [Walking On Water \- SOS Mix \[Radio Edit\]](https://open.spotify.com/track/3DXvzaN6SNiNzqGcyLmxVG) | [UPZ](https://open.spotify.com/artist/06FvvzAQBhG5bfiMHwmvyE), [Salvador](https://open.spotify.com/artist/2FUmeo84bwi3tKKlkLf9C0) | [Walking On Water \(SOS Mix\)](https://open.spotify.com/album/6vw9GBOSuxChEBBi2Vo0Ya) | 4:02 |
 | 13 | [Kenya](https://open.spotify.com/track/1xcbr90XR1lt6OXrOP50q6) | [El Porto](https://open.spotify.com/artist/4n6Lv5uPvYNUNvaQuXCXdh), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Kenya](https://open.spotify.com/album/1DFe8MGmH1GTtS8aR4SV9z) | 3:08 |
 | 14 | [Jibambe \- Radio Edit](https://open.spotify.com/track/1KyPWkT6IccS8XebxjDMdV) | [Aaron Sevilla](https://open.spotify.com/artist/2lbgi5Ssxb8kmw66GsFEYX), [Mijangos](https://open.spotify.com/artist/55Y97uxwaGhvalkzZbxyzf), [Ricardo Criollo House](https://open.spotify.com/artist/3AtHoqwYxlqqGsrzOUGxYu), [Nes Mburu](https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd) | [Jibambe feat Nes Mburu](https://open.spotify.com/album/6lng1AYqDyNCP2lxtS1w2H) | 3:01 |
 | 15 | [Umenitosha](https://open.spotify.com/track/7t1y3tsgDKQnIGp7jw10Po) | [Prince Kaybee](https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C), [Polaris Pauline](https://open.spotify.com/artist/04JfU1Q9ESK7m4yLUOR6lA) | [The 4th Republic](https://open.spotify.com/album/2XDjGP9eHn0YjnzS6AG19k) | 5:32 |

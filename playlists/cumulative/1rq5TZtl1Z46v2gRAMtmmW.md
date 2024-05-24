@@ -4,7 +4,7 @@
 
 > 
 
-272 songs - 18 hr 20 min
+273 songs - 18 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Fables](https://open.spotify.com/track/3I49KOk2e2Fxoh6IlSiTKX) | [Rahill](https://open.spotify.com/artist/0a0L1YLGhMT64hsSh9M9aM), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Fables](https://open.spotify.com/album/5H2wrctr9Ft7PL6pn8UE81) | 4:51 | 2023-03-29 | 2023-10-21 |
 | [Fader \- Edit](https://open.spotify.com/track/4oR9onkuU2xWQL3E5apApP) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [Fader](https://open.spotify.com/album/2WKucBnirwfJwNMtcxxD1U) | 2:24 | 2023-06-20 | 2023-10-13 |
 | [Faint of Hearts](https://open.spotify.com/track/0CaOlIGjs5oZH8V7zzTEIb) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Human and Kind](https://open.spotify.com/album/6NVZcL5hrDcO3QlEC6Wy40) | 3:29 | 2022-03-25 | 2022-07-29 |
+| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-23 |  |
 | [Feels Just Like It](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 | 2023-05-15 | 2023-08-10 |
 | [FIRST AMONG MISFITS](https://open.spotify.com/track/4qU0iUlDnrb3b5X1XevRFP) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd), [THE NARRATOR](https://open.spotify.com/artist/5ZuBADpZTPnjQxxNYIgAD1) | [FIRST AMONG MISFITS](https://open.spotify.com/album/6MKpLfMW9tt0D9HitvVvTt) | 4:28 | 2023-07-25 | 2023-08-18 |
 | [Flite](https://open.spotify.com/track/4pDoFHC8UKRXix1lwng6YO) | [The Cinematic Orchestra](https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB) | [Every Day \(20th Anniversary Edition\)](https://open.spotify.com/album/0FoPSDUnpwirDsVx8GjSDD) | 6:35 | 2023-04-14 | 2023-11-11 |
@@ -108,7 +109,7 @@
 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 | 2023-08-17 | 2023-09-06 |
 | [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2024-04-24 |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-08 | 2023-02-04 |
-| [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 | 2023-06-27 |  |
+| [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 | 2023-06-27 | 2024-05-24 |
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-19 | 2022-10-15 |
 | [Hey Baby \- Edit](https://open.spotify.com/track/7MndqEJo8v79ZzT0dfkVdE) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Hey Baby](https://open.spotify.com/album/5SFR0BM59foRYgSloVXkWI) | 3:20 | 2022-08-24 | 2023-05-31 |
 | [Hidden Angel](https://open.spotify.com/track/6txbToi4pugOMA8zro3Ma9) | [James Heather](https://open.spotify.com/artist/7GMpkbegUlL4UvUe5w47zu) | [Hidden Angel](https://open.spotify.com/album/48m80PFbxDUrWQreHMgIXZ) | 3:48 | 2022-04-05 | 2022-07-08 |

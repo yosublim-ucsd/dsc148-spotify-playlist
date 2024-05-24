@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 19815,
+  "num_followers": 19825,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACs+LJVYJ/UL7BghzhQXl6d",
+  "snapshot_id": "Zk01gAAAAABKXJX5EA0OgAcHbME2Rt7l",
   "tracks": [
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+      "duration_ms": 256853,
+      "name": "Yer Bounda Fara",
+      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Yer Bounda Fara",
-      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
       "duration_ms": 239266,
       "name": "I Go Ka",
       "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 312840,
+      "name": "Sambadio (Acoustic)",
+      "url": "https://open.spotify.com/track/1buE2NraJ2ck6cllJv7ywt"
     }
   ],
   "unique_name": "This Is Ali Farka Tour\u00e9",

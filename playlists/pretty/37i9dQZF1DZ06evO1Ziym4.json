@@ -1,12 +1,12 @@
 {
   "description": "This is Guns N' Roses. The essential tracks, all in one playlist.",
-  "num_followers": 1465387,
+  "num_followers": 1465577,
   "original_name": "This Is Guns N' Roses",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABAIOnM1xt9vK99gxtxIHYc",
+  "snapshot_id": "Zk01gAAAAAAE3Ev67UrmpOTDqfv6180J",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 196226,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
+      "duration_ms": 462093,
+      "name": "Civil War",
+      "url": "https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 462093,
-      "name": "Civil War",
-      "url": "https://open.spotify.com/track/6i4Qi1mJxXjqNIL9HfJhRs"
+      "duration_ms": 196226,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/11VGhd5i7deLL0YB0ayicY"
     },
     {
       "added_at": null,

@@ -4,13 +4,14 @@
 
 > Chase\. Ride\. Survive\. Listen to the music from Twister and Twisters, coming soon to theaters.
 
-15 songs - 1 hr 2 min
+16 songs - 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Ain't No Love In Oklahoma \(From Twisters: The Album\)](https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx) | 3:30 | 2024-05-16 |  |
 | [Broken](https://open.spotify.com/track/7BrL1RQ15niOHFCprkh58C) | [Belly](https://open.spotify.com/artist/3h1HOgVmvPlhqjz8o3LglL) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:02 | 2024-05-16 |  |
 | [Darling Pretty](https://open.spotify.com/track/5o9uGs39GioJkpX43E9amG) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 4:31 | 2024-05-16 |  |
+| [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Hell or High Water \(From Twisters: The Album\)](https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE) | 3:14 | 2024-05-23 |  |
 | [How](https://open.spotify.com/track/10mjM1I2TqaaeZJFuLqAww) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:51 | 2024-05-16 |  |
 | [Humans Being](https://open.spotify.com/track/312bASljljiGqQkT3NLNSp) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 5:07 | 2024-05-16 |  |
 | [Long Way Down \- Remix](https://open.spotify.com/track/64fe1l8criCPmkk9tGPCaJ) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Music From The Motion Picture Twister\-The Dark Side Of Nature](https://open.spotify.com/album/6nhPA9JUFlmBiFASeD3Esb) | 3:28 | 2024-05-16 |  |

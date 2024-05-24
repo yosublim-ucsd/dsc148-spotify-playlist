@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 
 > The biggest Christmas songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,591,099 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,590,522 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Yxoavh5qJV.md) - [plain]
 | 50 | [Have Yourself A Merry Little Christmas \- Remastered 1999](https://open.spotify.com/track/2FPfeYlrbSBR8PwCU0zaqq) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [A Jolly Christmas From Frank Sinatra](https://open.spotify.com/album/0ny6mZMBrYSO0s8HAKbcVq) | 3:26 |
 | 51 | [Holly Jolly Christmas](https://open.spotify.com/track/5PuKlCjfEVIXl0ZBp5ZW9g) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/7uVimUILdzSZG4KKKWToq0) | 1:59 |
 | 52 | [I Saw Mommy Kissing Santa Claus](https://open.spotify.com/track/15sxLiiChE5dCW3Y756oas) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Christmas Album](https://open.spotify.com/album/5M8U1qYKvRQHJJVHmPY7QD) | 3:01 |
-| 53 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
-| 54 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 53 | [2000 Miles \- 2007 Remaster](https://open.spotify.com/track/5wTM2Bm8phDwHAuOsfBwhU) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Learning to Crawl \(Expanded & Remastered\)](https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3) | 3:40 |
+| 54 | [One More Sleep](https://open.spotify.com/track/78pn8k7RogKo2oxl0DyX6d) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Christmas, With Love](https://open.spotify.com/album/4HRXnpdnLJGTkHSRk4roEs) | 3:59 |
 | 55 | [Do You Hear What I Hear? \- Remastered 2006](https://open.spotify.com/track/5aDoUmxBsbdpS16alksb5Z) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Bing Crosby \- Christmas Classics](https://open.spotify.com/album/3My4DXwRjAS5HXontsJx1A) | 2:45 |
 | 56 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 |
 | 57 | [Jingle Bell Rock \- Daryl's Version](https://open.spotify.com/track/6pVW5LRWgeLaHudxauOTJU) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Jingle Bell Rock](https://open.spotify.com/album/46RzcdoDpVi5UcRLML218R) | 2:06 |

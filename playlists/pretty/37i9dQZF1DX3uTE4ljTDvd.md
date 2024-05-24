@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Bea Rodrigues
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,358 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,382 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 36 | [Dê Mais uma Chance para o Mundo](https://open.spotify.com/track/1ynxYbJ0Ok79hrPMHpfq8R) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1) | [Estações](https://open.spotify.com/album/76288hlVhG5AxKmWjOanMQ) | 3:00 |
 | 37 | [Eterno](https://open.spotify.com/track/7MjddsjB17WD68jd2wiMpr) | [Casa Aberta](https://open.spotify.com/artist/6tJ8AInnNZMwSDy1BAu8me) | [Eterno](https://open.spotify.com/album/1jHh5nD1NQp3yxQjti4vlZ) | 3:29 |
 | 38 | [Quando o Eterno For Real](https://open.spotify.com/track/78lt1qOfZEjpZPv7JVfunA) | [Vitória Costa](https://open.spotify.com/artist/4ivt5LCWnYvngo0oxkDQHW) | [Quando o Eterno For Real](https://open.spotify.com/album/2XYkDU6G3HdRguQctcHmBk) | 4:50 |
-| 39 | [Basta Uma Palavra](https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Basta Uma Palavra](https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N) | 4:22 |
-| 40 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
+| 39 | [Em Nome de Jesus](https://open.spotify.com/track/6bruHygWw6BLa8hJpkvqLy) | [Matheus França](https://open.spotify.com/artist/1JuV0g5Q2wjlF6gXmk3pGh) | [Em Nome de Jesus](https://open.spotify.com/album/4ObShvodTt4OCF1wlp22pe) | 5:07 |
+| 40 | [Basta Uma Palavra](https://open.spotify.com/track/28WSh5HaGtFA6OnoygL5mx) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Basta Uma Palavra](https://open.spotify.com/album/2nW44xh4BxcNaKHcISWf8N) | 4:22 |
 | 41 | [Daqui Não Saio](https://open.spotify.com/track/0TYzmTenPv6YlD5a2g4gqe) | [Gabriell Júnior](https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH) | [Daqui Não Saio](https://open.spotify.com/album/23eNhDRQb2QRbegXM1tH6O) | 9:18 |
 | 42 | [Quanto Amor](https://open.spotify.com/track/4Uc9lQEOm6KnNtES53jDfB) | [Gabriel Bulian](https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0) | [Quanto Amor](https://open.spotify.com/album/4K7OG0Y812Xl9UlpyNjJbj) | 3:44 |
 | 43 | [Tu És Real](https://open.spotify.com/track/7nzBmdLOPtGOmwsWTyNBwq) | [Tamires Sabotage](https://open.spotify.com/artist/0eYjKbGoRo60kmsjZlgAAy) | [Tu És Real](https://open.spotify.com/album/4NoPJEE6kCMWwFutabtrzj) | 5:02 |
@@ -55,18 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 | 45 | [Vestígios](https://open.spotify.com/track/79Z04QnTNET7qnhoEISAue) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [Vestígios](https://open.spotify.com/album/1RveXXBB7UI55bCSeibbrh) | 4:51 |
 | 46 | [Eu Vou Mergulhar](https://open.spotify.com/track/75H1JdNy5JIndenoockhB3) | [Idma Brito](https://open.spotify.com/artist/7enWqH5HtoEQJckRpx3ut2) | [Eu Vou Mergulhar](https://open.spotify.com/album/6rOWiP8QX8iub0JIU0pSFO) | 4:51 |
 | 47 | [Quem Disse? \- Ao Vivo](https://open.spotify.com/track/7h2a4Orc7fLALeC0dfQDFG) | [Julliana Silva](https://open.spotify.com/artist/3TMlmzPsCt9e16XSMctNgI) | [Quem Disse? \(Ao Vivo\)](https://open.spotify.com/album/0QzEudiqJ8MQiAYuhaCfqO) | 5:30 |
-| 48 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
-| 49 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
-| 50 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
-| 51 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
-| 52 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 48 | [Pedaços](https://open.spotify.com/track/4AMynmRZe5KROmgA6pq9I4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Pedaços](https://open.spotify.com/album/0FQ8Nc7qIXL2iLMM8semJg) | 4:19 |
+| 49 | [Tu Me Fascinas \- Ao Vivo](https://open.spotify.com/track/41NibAItjNsql9NScvLcon) | [Mariana Vieira](https://open.spotify.com/artist/2uUm1FW0PANuzL0hiSH9o2) | [Tu Me Fascinas \(Ao Vivo\)](https://open.spotify.com/album/7n6nvrL341R9qArB6Avkd7) | 4:43 |
+| 50 | [Acredito na Promessa](https://open.spotify.com/track/3c4Z5YuxHIGPTfK6EAksS0) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO) | [Acredito na Promessa](https://open.spotify.com/album/2a6FlJJyoRTszOuwtIWtuH) | 4:05 |
+| 51 | [Sua Vida Em Mim](https://open.spotify.com/track/7bqj4zl27TCCaK1OfHy6KS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF) | [Sua Vida Em Mim](https://open.spotify.com/album/1GOisgQrktuIKWKblkvo6p) | 5:30 |
+| 52 | [Minha canção](https://open.spotify.com/track/6TrNb815VT7lPf8uc1axDS) | [ThreeSis](https://open.spotify.com/artist/5iAuHGnqVA3BzRoNPiORPQ) | [Minha canção](https://open.spotify.com/album/5cfgPb1pRNoWJ7UMPVyAWO) | 4:33 |
 | 53 | [Não Serei o Mesmo \- Ao Vivo](https://open.spotify.com/track/69gwv2KxdlG7cEJnBLtYf6) | [Renata Reis](https://open.spotify.com/artist/5N1xm9Ct1wWvR5AfcVZMDS) | [Não Serei o Mesmo](https://open.spotify.com/album/3mnTNZd1y937CHweU2nMDN) | 6:37 |
 | 54 | [Graça](https://open.spotify.com/track/0OLq6ePXSrz4bOgF2xqWT3) | [Tamara Pyller](https://open.spotify.com/artist/20vcBBOWdZLyUo297CcBGO) | [Graça](https://open.spotify.com/album/55Z5QH9ieP02mhRkkj2h14) | 4:11 |
 | 55 | [Não Adoro por Sinais](https://open.spotify.com/track/24UODoYUdKOl2EunyuJSee) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Não Adoro por Sinais](https://open.spotify.com/album/6ZFS81BoItJ2Dyp3vKLqyu) | 3:23 |
 | 56 | [Não Temo Ondas \- Ao Vivo](https://open.spotify.com/track/4HxPBJWXTan8LXzCevA7Nf) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/7LYjCBa1qtaru5vHG0u9hD) | [Não Temo Ondas \(Ao Vivo\)](https://open.spotify.com/album/4Y8VJS0JADsGJCdINbfMaH) | 7:40 |
 | 57 | [Andar Sobre as Águas](https://open.spotify.com/track/2omEDUMJcG9Pb1GmWh4LK5) | [Bia Monteiro](https://open.spotify.com/artist/7FYYgll3NQzD9ZcwcdRpB6) | [Andar Sobre as Águas](https://open.spotify.com/album/6HQuxLO1rsxml6pIOfl3kA) | 4:23 |
-| 58 | [anotando pensamentos](https://open.spotify.com/track/0h2SvOZaLFMz9zXqZWbsCV) | [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg), [Hellen Camargo](https://open.spotify.com/artist/2ZHTlAJiLrRBpTfkjUMiEA) | [anotando pensamentos](https://open.spotify.com/album/5VAXssXVjE5k669CQXrirE) | 4:31 |
-| 59 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 |
+| 58 | [Coração Cansado de Partir](https://open.spotify.com/track/4HnZ4YwXkGFMour3ANraz4) | [Matheus Ferreira](https://open.spotify.com/artist/22qVBbq872oJZLTDHqLxIh) | [Coração Cansado de Partir](https://open.spotify.com/album/1Ox3RacCzycf2OfYIrSfXc) | 4:51 |
+| 59 | [anotando pensamentos](https://open.spotify.com/track/0h2SvOZaLFMz9zXqZWbsCV) | [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg), [Hellen Camargo](https://open.spotify.com/artist/2ZHTlAJiLrRBpTfkjUMiEA) | [anotando pensamentos](https://open.spotify.com/album/5VAXssXVjE5k669CQXrirE) | 4:31 |
 | 60 | [Em uma Só Voz](https://open.spotify.com/track/2vEgmzy4XwoQIvey9Gt39d) | [Kethelen Baittinger](https://open.spotify.com/artist/5LG8UU5L7I1QGFDGVH7MnA) | [Em uma Só Voz](https://open.spotify.com/album/7zxAOAWKhTRXq7ArWl61fc) | 6:06 |
 
 Snapshot ID: `ZiPgaQAAAAC8Lz075MuY5WYi3lGv3KyS`

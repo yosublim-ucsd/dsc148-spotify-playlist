@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 2140,
+  "num_followers": 2156,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "New Ways",
-        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "Hot Tears",
-      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "So Intense",
         "url": "https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 193654,
       "name": "The Neighborhood",
       "url": "https://open.spotify.com/track/3gphm4tCS3HywYloyg0N3x"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "New Ways",
+        "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Hot Tears",
+      "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Find Me A Cloud",
-        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
-      },
-      "artists": [
-        {
-          "name": "The Grogans",
-          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
-        }
-      ],
-      "duration_ms": 146812,
-      "name": "I'm Not Sure",
-      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "when the poems do what they do",
         "url": "https://open.spotify.com/album/1O2ncFadkTaORxF29AMrMk"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 277283,
       "name": "why my love?",
       "url": "https://open.spotify.com/track/4qKQGEus6IEWqZYSqqhBqZ"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Find Me A Cloud",
+        "url": "https://open.spotify.com/album/2NCFSe9Fl6kaso0babK0BS"
+      },
+      "artists": [
+        {
+          "name": "The Grogans",
+          "url": "https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv"
+        }
+      ],
+      "duration_ms": 146812,
+      "name": "I'm Not Sure",
+      "url": "https://open.spotify.com/track/33hzHkyoWuIdk8x7cdiTJx"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Precipice",
-        "url": "https://open.spotify.com/album/5XJM3GJwgesWDpSW0ZBQzg"
-      },
-      "artists": [
-        {
-          "name": "Ill Considered",
-          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
-        }
-      ],
-      "duration_ms": 140293,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Ready When You Are",
         "url": "https://open.spotify.com/album/4yok1v8vTWpvPZS7RgcevU"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 169411,
       "name": "QUIET ON THE SET",
       "url": "https://open.spotify.com/track/5xWvCOX5UAgOljuv2QAFtG"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Precipice",
+        "url": "https://open.spotify.com/album/5XJM3GJwgesWDpSW0ZBQzg"
+      },
+      "artists": [
+        {
+          "name": "Ill Considered",
+          "url": "https://open.spotify.com/artist/2nSY0EIzz3eM6Y6Pc7VXkO"
+        }
+      ],
+      "duration_ms": 140293,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/5Y3LPCsFsh9XbgS0iV0xyu"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "In These Times",
-        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 192937,
-      "name": "Dream Another",
-      "url": "https://open.spotify.com/track/7vrUr4ik4xw8ukdGdQ1v9Q"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
         "name": "Agadez",
         "url": "https://open.spotify.com/album/3rTt2Gu71ktKEzfDumvuYG"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 274771,
       "name": "Adounia",
       "url": "https://open.spotify.com/track/0oF0943hvTFkA9oNyjedeV"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "In These Times",
+        "url": "https://open.spotify.com/album/1HZw70A6Y71aDRIkPtW7e0"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 192937,
+      "name": "Dream Another",
+      "url": "https://open.spotify.com/track/7vrUr4ik4xw8ukdGdQ1v9Q"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Ma d\u00e9lire - Songs of love, lost & found",
+        "url": "https://open.spotify.com/album/71hMv08jX4qp96OFiCyyWd"
+      },
+      "artists": [
+        {
+          "name": "Myriam Gendron",
+          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
+        }
+      ],
+      "duration_ms": 255880,
+      "name": "Go Away From My Window",
+      "url": "https://open.spotify.com/track/6ZE66j7R0MujkfdDllrIRO"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "Diagnosis",
         "url": "https://open.spotify.com/album/5fHr8JbVLdLHNJa91q9EUd"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/23hRw3yUAIPLzVKfDZeXTq"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Ma d\u00e9lire - Songs of love, lost & found",
-        "url": "https://open.spotify.com/album/71hMv08jX4qp96OFiCyyWd"
-      },
-      "artists": [
-        {
-          "name": "Myriam Gendron",
-          "url": "https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU"
-        }
-      ],
-      "duration_ms": 255880,
-      "name": "Go Away From My Window",
-      "url": "https://open.spotify.com/track/6ZE66j7R0MujkfdDllrIRO"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2455,6 +2455,30 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
+        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
+        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
+      },
+      "artists": [
+        {
+          "name": "Marianne Trudel",
+          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
+        },
+        {
+          "name": "John Hollenbeck",
+          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
+        },
+        {
+          "name": "R\u00e9mi-Jean Leblanc",
+          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
+        }
+      ],
+      "duration_ms": 429943,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
         "name": "When Is Ancient?",
         "url": "https://open.spotify.com/album/0x9bYUWfnORI1D42LdND94"
       },
@@ -2495,26 +2519,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
-        "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
+        "name": "Walking Man",
+        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
       },
       "artists": [
         {
-          "name": "Marianne Trudel",
-          "url": "https://open.spotify.com/artist/3ZjyAwXvUuU6JtYjI6XeZb"
-        },
-        {
-          "name": "John Hollenbeck",
-          "url": "https://open.spotify.com/artist/59tdGIxFYXNsHrRMOn2Wr8"
-        },
-        {
-          "name": "R\u00e9mi-Jean Leblanc",
-          "url": "https://open.spotify.com/artist/1v5jtskP3izbwtQMFBJnis"
+          "name": "YAMA//SATO",
+          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
         }
       ],
-      "duration_ms": 429943,
-      "name": "Les vagues",
-      "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
+      "duration_ms": 184620,
+      "name": "Walking Man",
+      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2587,34 +2603,22 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Walking Man",
-        "url": "https://open.spotify.com/album/0sfOXaDJPN2aymUH1rd4Qd"
+        "name": "Ukubonga Gratitude",
+        "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
       },
       "artists": [
         {
-          "name": "YAMA//SATO",
-          "url": "https://open.spotify.com/artist/3XsjrMLKDG2A0f4wW0u3H1"
-        }
-      ],
-      "duration_ms": 184620,
-      "name": "Walking Man",
-      "url": "https://open.spotify.com/track/5BryFJi37XVvgsGTuohuk4"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Memory Blues",
-        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
-      },
-      "artists": [
+          "name": "Lorraine Klaasen",
+          "url": "https://open.spotify.com/artist/19FewxNz8UZtyQTYxVqDCC"
+        },
         {
-          "name": "Endrick & the Sandwiches",
-          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
+          "name": "Mongezi Ntaka",
+          "url": "https://open.spotify.com/artist/0nvtCXgZCvP1utelhFqsfg"
         }
       ],
-      "duration_ms": 214903,
-      "name": "Memory Blues",
-      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
+      "duration_ms": 376720,
+      "name": "Ilanga Selishonile",
+      "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2655,38 +2659,18 @@
     {
       "added_at": "2024-04-24 15:03:49",
       "album": {
-        "name": "Ukubonga Gratitude",
-        "url": "https://open.spotify.com/album/4fVRmnxsA4BvkBs7Da4vKR"
+        "name": "Memory Blues",
+        "url": "https://open.spotify.com/album/0JIbnpVwUaTgzTlkfJENLn"
       },
       "artists": [
         {
-          "name": "Lorraine Klaasen",
-          "url": "https://open.spotify.com/artist/19FewxNz8UZtyQTYxVqDCC"
-        },
-        {
-          "name": "Mongezi Ntaka",
-          "url": "https://open.spotify.com/artist/0nvtCXgZCvP1utelhFqsfg"
+          "name": "Endrick & the Sandwiches",
+          "url": "https://open.spotify.com/artist/4iPZUbFxqVcceMw9uIMjD5"
         }
       ],
-      "duration_ms": 376720,
-      "name": "Ilanga Selishonile",
-      "url": "https://open.spotify.com/track/4ykTT0e3nJBeLEygPaHcMp"
-    },
-    {
-      "added_at": "2024-04-24 15:03:49",
-      "album": {
-        "name": "Prevent the Future",
-        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
-      },
-      "artists": [
-        {
-          "name": "Lex French Quartet with James Muller",
-          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "Austerity",
-      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
+      "duration_ms": 214903,
+      "name": "Memory Blues",
+      "url": "https://open.spotify.com/track/5hdRg5sJusPb6TXKwjWDdo"
     },
     {
       "added_at": "2024-04-24 15:03:49",
@@ -2703,6 +2687,22 @@
       "duration_ms": 233893,
       "name": "Tired of Crying",
       "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
+    },
+    {
+      "added_at": "2024-04-24 15:03:49",
+      "album": {
+        "name": "Prevent the Future",
+        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
+      },
+      "artists": [
+        {
+          "name": "Lex French Quartet with James Muller",
+          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "Austerity",
+      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
     },
     {
       "added_at": "2024-04-24 15:03:49",

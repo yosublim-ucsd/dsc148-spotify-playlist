@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️ Lana Del Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,400 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,411 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 22 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
 | 23 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 24 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |
-| 25 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
+| 25 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
 | 26 | [Spikeroog](https://open.spotify.com/track/3Hb9YjZLYBLikxJ1kd4BMa) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 3:05 |
-| 27 | [When the Sun Hits](https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 4:45 |
+| 27 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 |
 | 28 | [Like Real People Do](https://open.spotify.com/track/57V4uc2b2diZ4RPHXWecb9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:18 |
 | 29 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
 | 30 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 65 | [Hey, Who Really Cares](https://open.spotify.com/track/1EY7zEIE32twYy7zL05WG2) | [Linda Perhacs](https://open.spotify.com/artist/1giPBWN0VDXGhXEIROGhvM) | [Parallelograms](https://open.spotify.com/album/53cxrg7kbFQxDizY0kcDQo) | 2:37 |
 | 66 | [Music Under the Mountain](https://open.spotify.com/track/6XgsKSk9ez4vWUNjJ8Z4ty) | [Kelsey Woods](https://open.spotify.com/artist/0561irRxpOH0x1qJi6C80Y) | [Music Under the Mountain](https://open.spotify.com/album/0ZlUNNuBAM8wOpJU7OkIYZ) | 3:35 |
 | 67 | [Souvlaki Space Station](https://open.spotify.com/track/76JhicgPtW4zbN72tpnMyA) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Souvlaki](https://open.spotify.com/album/53eHm1f3sFiSzWMaKOl98Z) | 5:57 |
-| 68 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
-| 69 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
-| 70 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
-| 71 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:54 |
+| 68 | [Falling](https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5) | [Julee Cruise](https://open.spotify.com/artist/4Pt1HZtuJwrQB8l0ES5iTX) | [Floating Into The Night](https://open.spotify.com/album/3N6VPyK0YsRTccqoRQjkVx) | 5:21 |
+| 69 | [Cornflower Blue](https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp) | [Flower Face](https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz) | [The Shark in Your Water](https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7) | 3:08 |
+| 70 | [Suzanne](https://open.spotify.com/track/0K9iwmos5IKhO7kK4sQJwl) | [Hope Sandoval & The Warm Inventions](https://open.spotify.com/artist/38u18VoGaIwVeSyVoA0eU5) | [Bavarian Fruit Bread](https://open.spotify.com/album/7JAh6mfXLsGojvj9a4fnDT) | 4:54 |
+| 71 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
 | 72 | [Ready Now](https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [MOOMINVALLEY \(Official Soundtrack\)](https://open.spotify.com/album/3vNC5t3sZSkCi4A2l8ZPCF) | 3:01 |
-| 73 | [Dust It Off](https://open.spotify.com/track/34eeJ4JoXWqe6wmOHmgsCe) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Both Ways Open Jaws](https://open.spotify.com/album/49MmHVGK4koPoJYz64Roja) | 3:42 |
-| 74 | [Spring](https://open.spotify.com/track/3HjyXmT0PyqVFGHR97VnKu) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:23 |
+| 73 | [Spring](https://open.spotify.com/track/3HjyXmT0PyqVFGHR97VnKu) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/7t7tfXDhXiQpAV2uNfYWWG) | 3:23 |
+| 74 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
 | 75 | [Airy\-Fairy Heart](https://open.spotify.com/track/6YYv6hemXnF3GCYtMv8Gkh) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Slow Day](https://open.spotify.com/album/0yNQyK4joAmwj8XNawKaQo) | 3:29 |
 
 Snapshot ID: `Zjl5xwAAAADoo8f9UeKBVwjEOZerS712`

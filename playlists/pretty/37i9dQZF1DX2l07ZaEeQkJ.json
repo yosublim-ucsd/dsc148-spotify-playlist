@@ -1,6 +1,6 @@
 {
   "description": "trakas hdsptm \ud83d\udc7f\ud83d\udc79\ud83c\udf7b\ud83c\udf7e\ud83e\udee1\ud83d\udcb8",
-  "num_followers": 77295,
+  "num_followers": 77641,
   "original_name": "traka",
   "owner": {
     "name": "Spotify",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-05-09 00:00:00",
       "album": {
-        "name": "O Me Voy O Te Vas",
-        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "O Me Voy O Te Vas",
-      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
-    },
-    {
-      "added_at": "2024-05-09 00:00:00",
-      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 153269,
       "name": "GTA",
       "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-05-09 00:00:00",
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "added_at": "2024-05-09 00:00:00",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-05-09 00:00:00",
       "album": {
-        "name": "Por Dentro",
-        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        },
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 165981,
-      "name": "Por Dentro",
-      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
-    },
-    {
-      "added_at": "2024-05-09 00:00:00",
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 230795,
       "name": "Porque Te Vas",
       "url": "https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z"
+    },
+    {
+      "added_at": "2024-05-09 00:00:00",
+      "album": {
+        "name": "Por Dentro",
+        "url": "https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        },
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 165981,
+      "name": "Por Dentro",
+      "url": "https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8"
     },
     {
       "added_at": "2024-05-09 00:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-05-09 00:00:00",
       "album": {
+        "name": "Derecho y Chueco",
+        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
+      },
+      "artists": [
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 157364,
+      "name": "Derecho y Chueco",
+      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
+    },
+    {
+      "added_at": "2024-05-09 00:00:00",
+      "album": {
         "name": "Si La Mami",
         "url": "https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 176326,
       "name": "Si La Mami",
       "url": "https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg"
-    },
-    {
-      "added_at": "2024-05-09 00:00:00",
-      "album": {
-        "name": "Derecho y Chueco",
-        "url": "https://open.spotify.com/album/3H5SrSng3ifF6Yd7664mNm"
-      },
-      "artists": [
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 157364,
-      "name": "Derecho y Chueco",
-      "url": "https://open.spotify.com/track/0DBs6MtftX1ywn0wYVtQ5S"
     },
     {
       "added_at": "2024-05-09 00:00:00",

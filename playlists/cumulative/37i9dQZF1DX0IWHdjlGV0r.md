@@ -2,9 +2,9 @@
 
 ### [Arsenico ](https://open.spotify.com/playlist/37i9dQZF1DX0IWHdjlGV0r)
 
-> Alcuni amori bruciano più di altri\. Cover: Tedua
+> Alcuni amori bruciano più di altri\. Cover: Lazza
 
-168 songs - 8 hr 42 min
+169 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [BALENCIAGA \(feat\. Rose Villain\)](https://open.spotify.com/track/3CkSjcLg06YdhYniyVin62) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:42 | 2024-03-15 | 2024-04-05 |
 | [Bang Bang](https://open.spotify.com/track/7kktKNHgINrBczPUGoG38p) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Sfera Ebbasta](https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc) | 2:29 | 2022-05-03 |  |
 | [Barcellona](https://open.spotify.com/track/51zuoAf9f1DNTVmBJHVErg) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [DNA](https://open.spotify.com/album/5XC9aklfsZpII3ybewZb2l) | 2:56 | 2022-05-03 | 2023-02-02 |
+| [Beatrice \(feat\. Annalisa\)](https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 3:03 | 2024-05-23 |  |
 | [Bella](https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Come Uccidere Un Usignolo](https://open.spotify.com/album/2MEJwoXq5hRxCU2vzOhwIp) | 3:26 | 2022-05-03 |  |
 | [Bella](https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM) | [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK), [Dystopic](https://open.spotify.com/artist/0bHol2ItTHAlLsW89chAQj) | [Bella](https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP) | 3:01 | 2023-06-27 |  |
 | [BLUE CHEESE \(feat\. Lazza\)](https://open.spotify.com/track/40NmOAMiiuqFSKJnUxHovo) | [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [TRENCHES BABY](https://open.spotify.com/album/2hR7F1mFXBaSuGE9dL1B7i) | 3:11 | 2023-02-01 | 2023-03-22 |

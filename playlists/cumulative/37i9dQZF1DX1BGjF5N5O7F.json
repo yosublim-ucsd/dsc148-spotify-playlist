@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "5AM (Expanded Edition)",
+        "url": "https://open.spotify.com/album/05WTBdwkHAqk5Mg68ugD7L"
+      },
+      "artists": [
+        {
+          "name": "Amber Run",
+          "url": "https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273000,
+      "name": "I Found",
+      "url": "https://open.spotify.com/track/5zT5cMnMKoyruPj13TQXGx"
+    },
+    {
+      "album": {
         "name": "Joan Shelley",
         "url": "https://open.spotify.com/album/4XAQKwnvGWlFTorhU1ENqk"
       },
@@ -2098,7 +2116,7 @@
       ],
       "date_added": "2021-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 357773,
       "name": "Too Repressed - Explicit",
       "url": "https://open.spotify.com/track/1AWEQLm9bwhEMj2sxpeSJx"

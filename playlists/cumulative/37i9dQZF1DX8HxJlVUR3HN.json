@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Silmarils",
+  "description": "Les meilleures nouveaut\u00e9s de la sc\u00e8ne rock fran\u00e7aise. Photo : Last Train",
   "name": "Volume France",
   "tracks": [
     {
@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Downcast",
+        "url": "https://open.spotify.com/album/57awDgLzQYvC60Rzw9CpRE"
+      },
+      "artists": [
+        {
+          "name": "Rendez Vous",
+          "url": "https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244296,
+      "name": "Downcast",
+      "url": "https://open.spotify.com/track/2u87z2dIbSA5PNIik6bLM5"
+    },
+    {
+      "album": {
         "name": "NOT GOOD ENOUGH",
         "url": "https://open.spotify.com/album/0I0h76V3meSOgQPLklwvR9"
       },
@@ -978,7 +996,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208706,
       "name": "EGO BOX",
       "url": "https://open.spotify.com/track/0AXZUu9lcYqafrC73HIXp7"
@@ -1036,6 +1054,24 @@
       "duration_ms": 209173,
       "name": "Event Horizon - Fuzz Edit",
       "url": "https://open.spotify.com/track/4z4xDLd0zqQ7cOmcQypJAI"
+    },
+    {
+      "album": {
+        "name": "Everybody Dies",
+        "url": "https://open.spotify.com/album/7JVlIzxeoHtMy2LeSQMI9p"
+      },
+      "artists": [
+        {
+          "name": "mirabelle.",
+          "url": "https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175709,
+      "name": "Everybody Dies",
+      "url": "https://open.spotify.com/track/7ca1yQEIH2MRkxy1QM0GiY"
     },
     {
       "album": {
@@ -1886,7 +1922,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-03",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "Liminal Status",
       "url": "https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk"
@@ -1922,7 +1958,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 143627,
       "name": "Ma pi\u00e8ce",
       "url": "https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA"
@@ -2192,7 +2228,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 578600,
       "name": "Nimh",
       "url": "https://open.spotify.com/track/075VP0RTD4nsbMV7EhJD8O"
@@ -2678,7 +2714,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190910,
       "name": "SDF",
       "url": "https://open.spotify.com/track/0ydZv3UFUX0IvluLpxFqt4"
@@ -3092,7 +3128,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 245312,
       "name": "Sugar Rush",
       "url": "https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP"
@@ -3244,6 +3280,24 @@
       "duration_ms": 180883,
       "name": "The Clocks Are Bleeding",
       "url": "https://open.spotify.com/track/2WX9OLhzayGFjKk75r4zII"
+    },
+    {
+      "album": {
+        "name": "The Devil",
+        "url": "https://open.spotify.com/album/0hW82VfQ9gwcdqR2PHs0cW"
+      },
+      "artists": [
+        {
+          "name": "Birdstone",
+          "url": "https://open.spotify.com/artist/10s9vPaMhzDYMqjwmxNr1t"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311186,
+      "name": "The Devil",
+      "url": "https://open.spotify.com/track/56gDz0ZtrlcBqWSZhi0mUJ"
     },
     {
       "album": {
@@ -3720,6 +3774,24 @@
       "duration_ms": 169354,
       "name": "Waves",
       "url": "https://open.spotify.com/track/4WpUZBuBcn0hH030KXCiwC"
+    },
+    {
+      "album": {
+        "name": "Way Out",
+        "url": "https://open.spotify.com/album/6ZdRCRrFYUPx5mVc5FtLpW"
+      },
+      "artists": [
+        {
+          "name": "Hype Lights",
+          "url": "https://open.spotify.com/artist/2npU68D7kt0LE5zdDZYFJo"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243751,
+      "name": "Way Out",
+      "url": "https://open.spotify.com/track/4cXCGpq7YnBvu1bvhfXml2"
     },
     {
       "album": {

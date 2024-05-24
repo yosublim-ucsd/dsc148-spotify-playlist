@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Dania\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,714 likes - 47 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,729 likes - 47 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 46 | [الحقيقة](https://open.spotify.com/track/3R3kbAiHl5Ir08AIWkmoAb) | [Connan](https://open.spotify.com/artist/2rwkjlKZ4WoJXfkqUt3L45) | [الحقيقة](https://open.spotify.com/album/6BfJKMdN2X8QIDODtHWLIE) | 2:06 |
 | 47 | [DAMEER!](https://open.spotify.com/track/5FP2wHFoWlA80LNTFNEdRU) | [BrownMusic](https://open.spotify.com/artist/0xlWlbRoRzS4ePUg34Qhsw) | [DAMEER!](https://open.spotify.com/album/7KGjRjpARm8HMm87LgdXJ6) | 2:12 |
 
-Snapshot ID: `Zk3eQAAAAAB1hixMQyh+AixAkYJU+89H`
+Snapshot ID: `Zk/QjAAAAAA2MFe7CGANYFWOsGO/GT5i`

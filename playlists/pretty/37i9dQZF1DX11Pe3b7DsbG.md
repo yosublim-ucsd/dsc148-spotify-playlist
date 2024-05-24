@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 
 > Um bom sambinha para acompanhar cada gole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,019 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,016 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Pe3b7DsbG.md) - [plain]
 | 19 | [Prudente \- Ao Vivo](https://open.spotify.com/track/5OkQbATpomh2u5D0YT2j63) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1) | [VIBE \(Ao Vivo\)](https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3) | 2:49 |
 | 20 | [Foi Um Rio Que Passou Em Minha Vida](https://open.spotify.com/track/7mkvi46DO25BAkcD9OWrpz) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Eu Sou O Samba](https://open.spotify.com/album/5F3t6SwYT1S8RITt8lvHd6) | 2:35 |
 | 21 | [Feijoada Completa](https://open.spotify.com/track/7MxVCTR3xD55xikxKiGCrv) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico Buarque](https://open.spotify.com/album/4K3E5bhJb92E7eyeIJ16QR) | 2:51 |
-| 22 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
+| 22 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
 | 23 | [Canto Das Três Raças](https://open.spotify.com/track/06Q1W3dLvNk5Gawy7piDu3) | [Clara Nunes](https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown) | [Retratos](https://open.spotify.com/album/1zIUnMFn76fpxrrTtAZ4rX) | 4:21 |
-| 24 | [Quando Eu Me Chamar Saudade](https://open.spotify.com/track/5rcwVk85FLHsELX96A1AJF) | [Nelson Cavaquinho](https://open.spotify.com/artist/5VfKi2uYyP2DCi1JXQ2fX5) | [Série Documento \- Nelson Cavaquinho](https://open.spotify.com/album/59dgRspqKxqsTOGveMpY7k) | 3:27 |
+| 24 | [Caciqueando \- Ao Vivo](https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT) | [Grupo Fundo De Quintal](https://open.spotify.com/artist/1WkZvxuA4zCcFF9GChK6Vr), [Péricles](https://open.spotify.com/artist/1MZbqhtvsnD5ik9BofnTow) | [Roda de Samba do Fundo de Quintal no Cacique de Ramos \(Ao Vivo\)](https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5) | 2:26 |
 | 25 | [Festa Da Vinda](https://open.spotify.com/track/5KfWGOC0Ql9ATrCVw3w3ky) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Cartola \(1974\)](https://open.spotify.com/album/0z2cTD6XcPLajQbL5EMisU) | 1:59 |
 | 26 | [Gostoso Veneno](https://open.spotify.com/track/2gfSAH2Cim8mwv4VPsqvId) | [Alcione](https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo) | [Gostoso Veneno](https://open.spotify.com/album/3GVTWsxdNM3yBnjS6r5wbO) | 3:15 |
 | 27 | [Argumento](https://open.spotify.com/track/5SK175I291bHHcroTHUwQn) | [Paulinho Da Viola](https://open.spotify.com/artist/0t2xdTxRXnffsmpMamH8Ls) | [Argumento](https://open.spotify.com/album/2583ZBimIH39KBAGBzmc53) | 3:12 |

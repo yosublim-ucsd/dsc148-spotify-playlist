@@ -2,9 +2,9 @@
 
 ### [Altar](https://open.spotify.com/playlist/37i9dQZF1DXa71eg5j9dKZ)
 
-> The home for alternative electronic music\. Cover: Jasper Tygner
+> The home for alternative electronic music\. Cover: LP Giobbi
 
-980 songs - 2 day 20 hr 28 min
+982 songs - 2 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Deadbeat Gospel](https://open.spotify.com/track/3pSkRsuZv57a1yCxJPiBiT) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl), [somedeadbeat](https://open.spotify.com/artist/3ZNGHjHAtesA1czp8QKYK6) | [Deadbeat Gospel](https://open.spotify.com/album/2idTKvVf3bPURpVdZ8k6ZH) | 4:14 | 2023-09-28 | 2024-03-15 |
 | [Deep End](https://open.spotify.com/track/2m5EUOqv1XjDW4yP0TZFKN) | [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Deep End](https://open.spotify.com/album/2WuNuLoaj2LFVqTlGnVDIn) | 3:25 | 2023-05-04 | 2023-10-20 |
 | [Deep Sea \- DJ\-Kicks](https://open.spotify.com/track/5BmgjLP1lYHEndkzJyaA7d) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [DJ\-Kicks: Disclosure](https://open.spotify.com/album/7F0dkkAqwrmclRH8KP2QmW) | 4:25 | 2021-11-24\* | 2021-12-10 |
-| [Deewana Deewana](https://open.spotify.com/track/58daZksNVvIO6X9977fAo7) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Deewana Deewana](https://open.spotify.com/album/4qULPYu7nqpBLcJMoEUYAY) | 5:42 | 2024-01-19 |  |
+| [Deewana Deewana](https://open.spotify.com/track/58daZksNVvIO6X9977fAo7) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Deewana Deewana](https://open.spotify.com/album/4qULPYu7nqpBLcJMoEUYAY) | 5:42 | 2024-01-19 | 2024-05-24 |
 | [Defender](https://open.spotify.com/track/4x9l3fDzgvzg9t7Csbufrn) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Defender](https://open.spotify.com/album/76up5uRogXO3CPwA2OO6Wy) | 6:14 | 2022-10-20 | 2023-02-04 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/0Ftrkz2waaHcjKb4qYvLmz) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Delilah \(pull me out of this\)](https://open.spotify.com/album/24GbGX038jKJdzZ0KGAIxW) | 4:10 | 2022-10-20 | 2023-03-31 |
 | [Delilah \(pull me out of this\)](https://open.spotify.com/track/67uX1e9gIoumz0U8ayaOiO) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life 3 \(January 1 \- September 9 2022\)](https://open.spotify.com/album/6vN8o7jyIAJvFPqC0vxxmm) | 4:10 | 2022-10-28 | 2022-11-04 |
@@ -288,6 +288,7 @@
 | [Fall In Love](https://open.spotify.com/track/39MX1i8UtVwYa99k1VfZsp) | [Jennifer Loveless](https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c) | [Fall In Love](https://open.spotify.com/album/5iup1pzVHKxaIArnwIAYiV) | 5:49 | 2022-08-26 | 2022-11-18 |
 | [Fantasy](https://open.spotify.com/track/0oMLuN4cldfEiqwIY8dI7K) | [Cameo Blush](https://open.spotify.com/artist/2Lx2CAHHQ2IC1iXjS6Y70v) | [Silkworm](https://open.spotify.com/album/5OHnpPZroept4tmsAdwfQP) | 4:18 | 2022-11-25 | 2023-04-14 |
 | [Feedback](https://open.spotify.com/track/4Io7rS6x4YWYK99UdnBFkc) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Feedback](https://open.spotify.com/album/4HBmxwMuOrLBuyQjrS9FxB) | 5:58 | 2024-01-26 |  |
+| [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-24 |  |
 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 | 2022-06-09 | 2022-09-23 |
 | [Feel It](https://open.spotify.com/track/00B3cITDbSBY9GeKZvxw9M) | [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [Feel It](https://open.spotify.com/album/5ozui0519aka32Jj8vFp8D) | 3:12 | 2023-01-20 | 2023-06-23 |
 | [Feels Like](https://open.spotify.com/track/6tiK5mxdY4c8AFMhypVgG7) | [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Feels Like](https://open.spotify.com/album/4tXty4RLKNyDH0ltilC9jJ) | 3:23 | 2022-06-16 | 2023-02-11 |
@@ -676,6 +677,7 @@
 | [Proud \- Dance System Remix](https://open.spotify.com/track/7miCWmqkll2P2MLiG58sUk) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [Proud \(Dance System Remix\)](https://open.spotify.com/album/0jhQ97Dc7WvwGHXkvtkVFJ) | 3:13 | 2021-12-10 | 2022-02-12 |
 | [PURE/HONEY](https://open.spotify.com/track/4DByEumlGTZKSzuVEZ35eo) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:48 | 2022-08-01 | 2022-12-10 |
 | [Purple Jelly Disc](https://open.spotify.com/track/2jXCwhlQELijGObzRJQtS2) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Obi Franky](https://open.spotify.com/artist/7wcA5gBY4GRUDwcfyoj0p0) | [Purple Jelly Disc](https://open.spotify.com/album/1gwAs0QYbz44hiDNWEBjGi) | 6:12 | 2022-04-01 | 2022-05-27 |
+| [Push](https://open.spotify.com/track/29OFLlrrfKIEVwbVMTjBYe) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg), [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Contra](https://open.spotify.com/artist/73BAwJ65pT6RvwR7JEkfEv), [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Push](https://open.spotify.com/album/3GSEVlHrbrQbKSP4ozWzx8) | 3:05 | 2024-05-24 |  |
 | [Quicksand](https://open.spotify.com/track/5hr4dhOQYioCYyXVtdvmWi) | [Me & George](https://open.spotify.com/artist/4VYA3yEmxcU2ElaVRPHGFv) | [Quicksand](https://open.spotify.com/album/2j8ZGhgH3HdQf2mLi5SK4f) | 3:44 | 2023-09-08 | 2024-02-16 |
 | [Quiet Corners Of My Mind](https://open.spotify.com/track/10G4nVNI2Jyvi7bLrbZBEK) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Quiet Corners Of My Mind](https://open.spotify.com/album/5vvhB33PqaRiwyAyuUWqjM) | 4:28 | 2022-07-14 | 2022-09-30 |
 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 | 2023-01-09 | 2023-09-01 |
@@ -837,7 +839,7 @@
 | [Teeth](https://open.spotify.com/track/4APFA0QISiN2MwQzpUQgRq) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Teeth](https://open.spotify.com/album/1dUJq0Ut5RmlPwdodLuMrI) | 4:32 | 2022-09-29 | 2022-11-11 |
 | [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-09-08 | 2024-01-19 |
 | [Tell Me](https://open.spotify.com/track/7uAa5O6x6wDF79xHLloBHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Tell Me](https://open.spotify.com/album/6vyF5kNaivtBwzZWCIlMXq) | 5:00 | 2023-09-08 | 2023-09-09 |
-| [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-01-19 |  |
+| [tell me](https://open.spotify.com/track/29hQU0F1P9mxjAallGIZ4J) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [tell me](https://open.spotify.com/album/0JScyUkeeX2YaQXUQT9e09) | 2:43 | 2024-01-19 | 2024-05-24 |
 | [Tell You What It Is](https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is](https://open.spotify.com/album/6DSU3tmrRd6nymUrEaapbu) | 3:07 | 2022-05-13 | 2022-07-15 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2023-10-13 | 2024-03-01 |
 | [That's Too Slow](https://open.spotify.com/track/7AtNHY2plqqo6WrY239YUd) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Eyes Open EP](https://open.spotify.com/album/13Ua4Sd4A8WhG3CgaNOKT0) | 4:21 | 2021-11-24\* | 2022-01-14 |

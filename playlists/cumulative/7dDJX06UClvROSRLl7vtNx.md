@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-364 songs - 15 hr 58 min
+365 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Until The End Of Time](https://open.spotify.com/track/0Zv5hSYT7LD7GFRO8Ip0oU) | [Lost Coconut](https://open.spotify.com/artist/6tZYWVDKrYd9S0ez1L0vou) | [Until The End Of Time](https://open.spotify.com/album/6ncZ16w9NoA8EXiTRAXAj1) | 3:14 | 2024-01-06 | 2024-05-13 |
 | [Vision](https://open.spotify.com/track/1IW0NLlWr9y9UmwovDkusx) | [Eneko Artola](https://open.spotify.com/artist/3Q3pmaIKRKXh2e0g4A4Xpc) | [Vision](https://open.spotify.com/album/3AYdlrrBvgLcdg60bxWaZl) | 2:16 | 2023-09-22 | 2023-12-18 |
 | [Wait For You](https://open.spotify.com/track/1zIIS0hBZbCNtxzf4DMVEX) | [Lost In Reveries](https://open.spotify.com/artist/1Elez1o6G0sxPQaG9t4fOT), [Summer Vibes](https://open.spotify.com/artist/2BCjzlKkYOwpNS5WZqX7Bm) | [Wait For You](https://open.spotify.com/album/14mj4pvvf0dfROmnUFy0zk) | 2:58 | 2023-12-17 | 2023-12-30 |
+| [Wait For You](https://open.spotify.com/track/6FpR4RVPTLP7BHVca9Lkve) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Wait For You](https://open.spotify.com/album/31bcOcIkb2tQAXCkMGMn2R) | 2:38 | 2024-05-23 |  |
 | [Waiting For A Better Day](https://open.spotify.com/track/7FYeUV7zqjm7nFNC32g6BY) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Waiting For A Better Day](https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO) | 2:37 | 2023-09-22 |  |
 | [Walking On A Dream](https://open.spotify.com/track/6GqARMalvyeKe5m53HnUEo) | [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Walking On A Dream](https://open.spotify.com/album/1SPJfmyfAGNPSuA7ODwzw5) | 1:59 | 2024-03-29 |  |
 | [Walking On a Dream](https://open.spotify.com/track/46pBXAlzxOnEqnssIaDwHf) | [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Walking On a Dream](https://open.spotify.com/album/1vjLjA9LB8lyKyTuiW9Y8s) | 2:49 | 2023-09-22 | 2024-03-30 |

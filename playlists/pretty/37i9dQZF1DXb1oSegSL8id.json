@@ -1,6 +1,6 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 828596,
+  "num_followers": 828660,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Tijol\u00e3o (ao Vivo)",
         "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 175219,
       "name": "Tijol\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Numanice #2",
+        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 164141,
+      "name": "Maldivas",
+      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
       },
       "artists": [
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Contatinho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
-      },
-      "artists": [
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 173229,
-      "name": "Contatinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Acabei de Terminar (Ao Vivo)",
         "url": "https://open.spotify.com/album/0jliIkYIynexQBf1Oj9KPo"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 223489,
       "name": "Acabei de Terminar - Ao Vivo",
       "url": "https://open.spotify.com/track/3jPp5Aukksz9Ir0gZy6lZM"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Contatinho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4sH660Ggu0Xd9yShQntlmA"
+      },
+      "artists": [
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 173229,
+      "name": "Contatinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/4RC2nzqaQygxoVQOVv3XlT"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
+        "name": "Bebe e Vem Me Procurar",
+        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 154291,
+      "name": "Bebe e Vem Me Procurar",
+      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
         "name": "SORRIA",
         "url": "https://open.spotify.com/album/2zGGywHWKqNShqjjpbA3fs"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 181122,
       "name": "SORRIA",
       "url": "https://open.spotify.com/track/4cKn3YjlRNowwNQi5LuZkk"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
-        "name": "Bebe e Vem Me Procurar",
-        "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 154291,
-      "name": "Bebe e Vem Me Procurar",
-      "url": "https://open.spotify.com/track/3tu0GkIZwwkmILoD4HemBq"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Maxximum - S\u00f3 Pra Contrariar",
-        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3 Pra Contrariar",
-          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
-        }
-      ],
-      "duration_ms": 240533,
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Figurinha (Ao Vivo)",
         "url": "https://open.spotify.com/album/4hZvfrSWXppMJ5oXjKbxt8"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 206001,
       "name": "Figurinha - Ao Vivo",
       "url": "https://open.spotify.com/track/3vWiMpsy2VMkKqQCtN5mr4"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "Maxximum - S\u00f3 Pra Contrariar",
+        "url": "https://open.spotify.com/album/6Nm5DiOuT2rp5b8ahF5Yz4"
+      },
+      "artists": [
+        {
+          "name": "S\u00f3 Pra Contrariar",
+          "url": "https://open.spotify.com/artist/2B8HcBRTizIsSPryM46Sb1"
+        }
+      ],
+      "duration_ms": 240533,
+      "name": "Que Se Chama Amor",
+      "url": "https://open.spotify.com/track/3q8U4Q7zDxLPSsx8upRq1Z"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "Chaaama",
-        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
+        "name": "\u00daltimo Beijo",
+        "url": "https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "name": "Bruno & Marrone",
+          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         }
       ],
-      "duration_ms": 139528,
-      "name": "Vamo Tomar Uma",
-      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
+      "duration_ms": 181279,
+      "name": "\u00daltimo Beijo",
+      "url": "https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1183,22 +1187,18 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "\u00daltimo Beijo",
-        "url": "https://open.spotify.com/album/6AW51ww4T6cgKSxfj9PybR"
+        "name": "Chaaama",
+        "url": "https://open.spotify.com/album/32Db0Wp1YHCpQW7GBqQbRU"
       },
       "artists": [
         {
-          "name": "Bruno & Marrone",
-          "url": "https://open.spotify.com/artist/5JXhkyafynxCvxtov7C1PV"
-        },
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 181279,
-      "name": "\u00daltimo Beijo",
-      "url": "https://open.spotify.com/track/2pBEAodCImE4LgbKAG4bfz"
+      "duration_ms": 139528,
+      "name": "Vamo Tomar Uma",
+      "url": "https://open.spotify.com/track/1YiO0AdZz9HNoJZr8nkaDR"
     },
     {
       "added_at": "2023-11-17 03:01:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-11-17 03:01:00",
       "album": {
-        "name": "T\u00f4 Achando Que \u00c9 Amor | Ep. 3",
-        "url": "https://open.spotify.com/album/5nHhClkNG3oL9aIJKgzwgx"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 205446,
-      "name": "Pupila",
-      "url": "https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T"
-    },
-    {
-      "added_at": "2023-11-17 03:01:00",
-      "album": {
         "name": "Beijo Doce / Brilho de Cristal (Ao Vivo)",
         "url": "https://open.spotify.com/album/6yaax26e6Q88p0dG3PdmCk"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 191750,
       "name": "Beijo Doce / Brilho de Cristal - Ao Vivo",
       "url": "https://open.spotify.com/track/11VYX2ahtiOE3ql9xcZxiC"
+    },
+    {
+      "added_at": "2023-11-17 03:01:00",
+      "album": {
+        "name": "T\u00f4 Achando Que \u00c9 Amor | Ep. 3",
+        "url": "https://open.spotify.com/album/5nHhClkNG3oL9aIJKgzwgx"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 205446,
+      "name": "Pupila",
+      "url": "https://open.spotify.com/track/1DaAutoHzKChLZarAMfk2T"
     },
     {
       "added_at": "2023-11-17 03:01:00",

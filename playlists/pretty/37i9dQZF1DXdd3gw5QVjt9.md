@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 
 > Rise with a relaxing blend of folk and acoustic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,120 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,104 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 42 | [Strawberry](https://open.spotify.com/track/0VB2DbuUCBkDuD5ZMJxPJN) | [Andrew Montana](https://open.spotify.com/artist/05MbxRG8XyYmFhv7ZUMylc) | [Strawberry](https://open.spotify.com/album/2YnTYD0KOo8XrAQJTjnyQy) | 3:09 |
 | 43 | [Hang On, Hang On](https://open.spotify.com/track/3qWwTmMRsMHxGeLeqmJy7u) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Hang On, Hang On](https://open.spotify.com/album/1fvg7ucgCFurG305YEh5W6) | 4:10 |
 | 44 | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Moonflowers \(Binaural Acoustic Version\)](https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I) | 3:03 |
-| 45 | [Morning Is Made](https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Morning Is Made](https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti) | 2:55 |
-| 46 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
+| 45 | [So Are We](https://open.spotify.com/track/5moyneo3TMp2wdc0TG8O8U) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Matinée](https://open.spotify.com/album/2mbcZLhAJUvgZoSyH7tHwl) | 4:12 |
+| 46 | [Morning Is Made](https://open.spotify.com/track/5njv7WRM11r6Xlul5wAy2T) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Morning Is Made](https://open.spotify.com/album/6pVhP4yZaSMv6tmy9MY7ti) | 2:55 |
 | 47 | [Summer Somewhere](https://open.spotify.com/track/0O6t5iea0DrY9mDmohS94t) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Summer Somewhere](https://open.spotify.com/album/7tFFrfykBAkvVW4VX638U3) | 3:03 |
 | 48 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 49 | [Precious Days](https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68) | [Forest Sun](https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf) | [Precious Days](https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC) | 2:45 |
@@ -69,15 +69,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdd3gw5QVjt9.md) - [plain]
 | 59 | [Asylum](https://open.spotify.com/track/736Jy0aC33icgo4VWXgnU6) | [Chloe Foy](https://open.spotify.com/artist/3KSEcvpvbR40uwA4eiSJUa) | [Asylum](https://open.spotify.com/album/72lIVHTGWdypCkAqXuaZI3) | 3:51 |
 | 60 | [New Wall](https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs) | [Tori Forsyth](https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w) | [New Wall](https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2) | 2:38 |
 | 61 | [Planet With Water](https://open.spotify.com/track/5ScvUK3JuwyxH3i1HMVqKp) | [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Nervous At Night](https://open.spotify.com/album/76lspWvk0J4LpjHt63a1Cg) | 3:07 |
-| 62 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
-| 63 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 |
-| 64 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
+| 62 | [Orange Tree](https://open.spotify.com/track/46wdJgqQWFTFRcLSBzSSB8) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Orange Tree](https://open.spotify.com/album/7EaE1uo0K2t9uy6qrmVOCc) | 3:12 |
+| 63 | [Don’t Give Up](https://open.spotify.com/track/0VMArnkTGXu901bqlKmJJY) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [Don’t Give Up](https://open.spotify.com/album/6RRhcCl75f2mEGzxk0Y9qz) | 5:07 |
+| 64 | [The Spur](https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB) | [Joan Shelley](https://open.spotify.com/artist/4eR9k3I0YKCQUvvP2ojptw) | [The Spur](https://open.spotify.com/album/5zjQU3GjKhWFVHG5pHLqwI) | 3:52 |
 | 65 | [Southern Facing Room](https://open.spotify.com/track/0a51TqOwVbNwVrz0lz99WP) | [Tow'rs](https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql) | [Joy Alchemy](https://open.spotify.com/album/3ZripiatHQNoRWZNW6fysJ) | 3:45 |
 | 66 | [Northern Winds \- Live at the Elmwood Hall](https://open.spotify.com/track/0Prb5h6luP4VKhudkrMPFy) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Northern Winds \(Live at the Elmwood Hall\)](https://open.spotify.com/album/62xX4MkPWcOc0bNTtutJLZ) | 5:09 |
-| 67 | [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 |
-| 68 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
-| 69 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |
-| 70 | [Pocket Full of Rain](https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:50 |
+| 67 | [Persephone](https://open.spotify.com/track/2icih9ttMWVZCIJRHmdUA0) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Persephone](https://open.spotify.com/album/6YefG0DventwCUhX8PgzP9) | 4:22 |
+| 68 | [Note to Self](https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note to Self](https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR) | 3:15 |
+| 69 | [Pocket Full of Rain](https://open.spotify.com/track/7bUbLYm0GJoTF7ct92WnXm) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/65MKJshn1AdDBvt99IRTSu) | 3:50 |
+| 70 | [Find Our Way](https://open.spotify.com/track/2OLab4G373tu39KBrJ50sg) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [Find Our Way](https://open.spotify.com/album/28MsBuhgOd6FMJvf8N3glq) | 3:31 |
 | 71 | [Jealous Sun](https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:38 |
 | 72 | [Mourning in America](https://open.spotify.com/track/5Apnwmk2Zzh3gGZD6OzQjN) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [All the Things That I Did and All the Things That I Didn't Do](https://open.spotify.com/album/1BpQ1yTs26aKJg0aWqnzEq) | 3:04 |
 | 73 | [baby, get your ticket](https://open.spotify.com/track/5QDC5EuXkPT6EsX6Fe8EqG) | [Tarune](https://open.spotify.com/artist/2tIerRKCwa3Zz1oVBDOUlq) | [baby, get your ticket](https://open.spotify.com/album/5HOXrzxrJveyr7QTR4xqDs) | 2:35 |

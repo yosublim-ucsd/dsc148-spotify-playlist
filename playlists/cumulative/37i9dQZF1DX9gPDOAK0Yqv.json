@@ -195,6 +195,36 @@
     },
     {
       "album": {
+        "name": "ADDICTED: REFRESHED",
+        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        },
+        {
+          "name": "Drove",
+          "url": "https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Addicted - Drove Remix",
+      "url": "https://open.spotify.com/track/5irKbb9het0b6B7pUoxlZ1"
+    },
+    {
+      "album": {
         "name": "Encounter",
         "url": "https://open.spotify.com/album/7KYsXYxYko9FpBfG8jF0XH"
       },
@@ -726,7 +756,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 211381,
       "name": "Aylyak",
       "url": "https://open.spotify.com/track/0iofhe3HgUtzq8yiPDKp1Z"
@@ -2454,7 +2484,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198870,
       "name": "Enter Machina - widerberg Remix",
       "url": "https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z"
@@ -3725,6 +3755,28 @@
     },
     {
       "album": {
+        "name": "Hey Boy Hey Girl (ARTBAT Remix)",
+        "url": "https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192380,
+      "name": "Hey Boy Hey Girl - ARTBAT Remix",
+      "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
+    },
+    {
+      "album": {
         "name": "Hidden Rumors",
         "url": "https://open.spotify.com/album/1eNRuJWsx6mm9tLaPppOU7"
       },
@@ -4294,7 +4346,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 238095,
       "name": "Inception",
       "url": "https://open.spotify.com/track/5zaIHozEuaidkeysMFuKNu"
@@ -7962,6 +8014,32 @@
       "duration_ms": 227555,
       "name": "Shiva",
       "url": "https://open.spotify.com/track/6Dfu2Fp8vVV9DFRQHnXe5c"
+    },
+    {
+      "album": {
+        "name": "Shiver (Cassian Remix)",
+        "url": "https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        },
+        {
+          "name": "Cassian",
+          "url": "https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245669,
+      "name": "Shiver - Cassian Remix",
+      "url": "https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7"
     },
     {
       "album": {

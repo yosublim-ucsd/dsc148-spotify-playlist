@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,021 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,050 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 39 | [The Color of Love \- Reese Deep Mix](https://open.spotify.com/track/1Qg29ZSo2roSr6ghY08jhn) | [The Reese Project](https://open.spotify.com/artist/0BshoWL6YCwwdSTLXETd6d) | [Faith, Hope & Clarity](https://open.spotify.com/album/1kPIn4PuSmvGDsXDCxVDB7) | 5:46 |
 | 40 | [SoundwaveZ](https://open.spotify.com/track/6aPjtXcpw51zPzpxAqnyLg) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [ZebrA OctobrA](https://open.spotify.com/artist/3vly3a9FHPXxpfiTDUiWdd) | [We All Move Together](https://open.spotify.com/album/6H0EcJF033CuU5TsJqzoid) | 3:08 |
 | 41 | [I Can't Believe \- Extended Mix](https://open.spotify.com/track/6fj1GG580y5T60iCJ85anz) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [I Can't Believe](https://open.spotify.com/album/34rEmZ1C0e7HQjZHNcENUW) | 6:09 |
-| 42 | [Strings Of Life](https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:02 |
+| 42 | [Andreaen Sand Dunes](https://open.spotify.com/track/4r0YHR3zvwXER5yrZuKDfP) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptunes Lair](https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz) | 6:16 |
 | 43 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
 | 44 | [Make Me Laugh](https://open.spotify.com/track/4Xq068QQqtTiuPpiGVfsyA) | [K\-Hand](https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G) | [Sounds](https://open.spotify.com/album/6639iZ8oPeMPXZqgh8Vd0V) | 4:33 |
-| 45 | [Maintain](https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/6DebFF03htFDbSBppriyyM) | 4:56 |
-| 46 | [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 |
-| 47 | [The Bearer feat\. Karina Mia \- Brother’s Burden PT1](https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [The Bearer feat\. Karina Mia](https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl) | 6:00 |
+| 45 | [Strings Of Life](https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc) | [Derrick May](https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51) | [Innovator](https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY) | 6:02 |
+| 46 | [Maintain](https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/6DebFF03htFDbSBppriyyM) | 4:56 |
+| 47 | [When We Used To Play \- Original Extended Mix](https://open.spotify.com/track/3N5usV7I51Fj9WMiWQbBYJ) | [Blake Baxter](https://open.spotify.com/artist/3ZKUeqiV2UX5sKhOipqw1h) | [When We Used To Play](https://open.spotify.com/album/6pIUwQ9AJrFCIeEoo1H2nC) | 8:20 |
 | 48 | [One Nation](https://open.spotify.com/track/7ygTdMWOt9OrP6dFHbBuEc) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [One Nation](https://open.spotify.com/album/4ueHBbYbDGOpRTdKBbBoFm) | 3:22 |
-| 49 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
-| 50 | [Lightyears](https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk) | 6:07 |
+| 49 | [The Bearer feat\. Karina Mia \- Brother’s Burden PT1](https://open.spotify.com/track/7EqpojUDYIb2twBls8vwZk) | [Octave One](https://open.spotify.com/artist/0CRfAs5qmkRgw9x9etNGqH) | [The Bearer feat\. Karina Mia](https://open.spotify.com/album/6Vi4pTyNkgkxWrRviIodTl) | 6:00 |
+| 50 | [Tedra](https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/3KsHkbdeGg3rnuYVRxWv53) | 5:41 |
 
 Snapshot ID: `ZTrO6gAAAADglqRXUBL3y1dwUHLSWffu`

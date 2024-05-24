@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 
 > Uma seleção de hits pra te acompanhar no home office.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,913 likes - 100 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,921 likes - 100 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 13 | [Starman \- 2012 Remaster](https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [The Rise and Fall of Ziggy Stardust and the Spiders from Mars \(2012 Remaster\)](https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56) | 4:14 |
 | 14 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 |
 | 15 | [Always](https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:53 |
-| 16 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
-| 17 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
+| 16 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
+| 17 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 18 | [Thank You](https://open.spotify.com/track/3yUcJwYu7fXAfqMj9krY6l) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/7ydMeYrv8bFFRkkHepoJM4) | 3:38 |
 | 19 | [Wonderful Tonight](https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Slowhand 35th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP) | 3:45 |
 | 20 | [Black](https://open.spotify.com/track/5Xak5fmy089t0FYmh3VJiY) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 5:42 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 46 | [Frozen](https://open.spotify.com/track/2II03llydk4YnkBBvoYB3B) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 6:07 |
 | 47 | [Vapor barato](https://open.spotify.com/track/2FHHmwpksVebKcquX3QMdF) | [O Rappa](https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f) | [Rappa\-Mundi](https://open.spotify.com/album/49Wb8WyRUtoyKKO01HkRzI) | 4:23 |
 | 48 | [If It Makes You Happy](https://open.spotify.com/track/0lfPPoWG4b3OmhieJ2YDF0) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3FiplT4vIgWCRwLZSn0EDd) | 5:24 |
-| 49 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
-| 50 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
+| 49 | [Plush \- Acoustic](https://open.spotify.com/track/3ftHrCjsTUPLgI48m67byk) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Thank You](https://open.spotify.com/album/1fyLNx6wxgDA59wFInnyup) | 3:50 |
+| 50 | [God Only Knows \- Mono](https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Pet Sounds \(Original Mono & Stereo Mix\)](https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8) | 2:53 |
 | 51 | [Roulette](https://open.spotify.com/track/4sM7v7wyRAuV6ZTO2dvnCA) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Steal This Album!](https://open.spotify.com/album/6lA1sGw7eCv27bcpd5E0wT) | 3:21 |
 | 52 | [The Killing Moon](https://open.spotify.com/track/35E2eKIEXXnP5q9L51iOAk) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain \(Expanded; 2007 Remaster\)](https://open.spotify.com/album/3V4j1tMdQqpq8nwW02UOiW) | 5:48 |
 | 53 | [Time Of The Season](https://open.spotify.com/track/3vMfr8H7hGbOLoddLdCQU4) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey & Oracle\_ 30th Anniversary Edition](https://open.spotify.com/album/4f1WyuUDKJsfFMjUytsbA3) | 3:34 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhBG1ELU1nr.md) - [plain]
 | 84 | [Open Your Eyes](https://open.spotify.com/track/55fg1bDXyNUsY2KaSMNFpA) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 5:41 |
 | 85 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
 | 86 | [Here Comes The Sun \- Remastered](https://open.spotify.com/track/45yEy5WJywhJ3sDI28ajTm) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Abbey Road \(Remastered\)](https://open.spotify.com/album/2Pqkn9Dq2DFtdfkKAeqgMd) | 3:05 |
-| 87 | [Wish You Were Here \- 2011 Remastered Version](https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(2011 Remastered Version\)](https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8) | 5:34 |
-| 88 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
+| 87 | [Listen To Your Heart](https://open.spotify.com/track/78TnMTAFmWUWWCgNXR7D3K) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Look Sharp! \(2009 Version\)](https://open.spotify.com/album/1iI5YZkqNUV7VmrEi4uOP9) | 5:28 |
+| 88 | [Wish You Were Here \- 2011 Remastered Version](https://open.spotify.com/track/5MVrZa7cDtnAoMvCgRAMqb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(2011 Remastered Version\)](https://open.spotify.com/album/6qNJATpLgC004oSMhU3tC8) | 5:34 |
 | 89 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
 | 90 | [Our House](https://open.spotify.com/track/3UBJRltEU6MFv7DkLs13Z1) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/7l3Yo2X2XX2A7AYyDESULC) | 3:01 |
 | 91 | [With Or Without You \- Remastered](https://open.spotify.com/track/4kAJawkLZj4Q7N5521ofP6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Deluxe Edition Remastered\)](https://open.spotify.com/album/2qKmY7yt0kXdzSQxYAu9eZ) | 4:55 |

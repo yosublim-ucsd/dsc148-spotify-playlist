@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/5jNrphFqELVsvxDR3ZwSAx.md) - cumulative - [plain](/playlists/plain/5jNrphFqELVsvxDR3ZwSAx) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/5jNrphFqELVsvxDR3ZwSAx)
 
-### [As Heard on TV](https://open.spotify.com/playlist/5jNrphFqELVsvxDR3ZwSAx)
+### [As Heard on TV 🎥 Movie Soundtracks ](https://open.spotify.com/playlist/5jNrphFqELVsvxDR3ZwSAx)
 
-> Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney +
+> Listen here for the ultimate list of original and synced songs from TV and Film\. TV Soundtrack \- Movie Soundtrack \- Hollywood Hits \- Film Score \- Movie \- TV \- Film \- Netflix \- Amazon Prime \- Disney +
 
-158 songs - 10 hr 27 min
+159 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [My Generation \- Mono Version](https://open.spotify.com/track/45s88Xopo6KvHc0PQ05aGg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sings My Generation \(U.S\. Version\)](https://open.spotify.com/album/4upv5ZjkKMIUBjFNthFQih) | 3:18 | 2022-05-18 | 2024-05-02 |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2024-05-01 |  |
 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 | 2024-05-01 |  |
+| [my tears ricochet](https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:15 | 2024-05-23 |  |
 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 | 2024-05-01 |  |
 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 | 2024-05-01 |  |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/1NW32mer4GFgDvDZ0idTUt) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Nothing But A Good Time](https://open.spotify.com/album/41zwJpZ2Xw6o5P0OHHGE5t) | 3:43 | 2022-05-18 | 2024-05-02 |

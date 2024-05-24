@@ -4,7 +4,7 @@
 
 > This is Nightwish\. The essential tracks, all in one playlist.
 
-98 songs - 8 hr 29 min
+99 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Come Cover Me](https://open.spotify.com/track/1RSKK7hj4emItvmh45crcX) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:34 | 2023-05-22 |  |
 | [Crownless](https://open.spotify.com/track/1nQznCg50JgVR0uQKqtddV) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:25 | 2022-10-07 | 2022-10-09 |
 | [Dark Chest of Wonders](https://open.spotify.com/track/4QCGfqoCLZ3x9iMgtzUMD9) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:28 | 2022-09-08 |  |
-| [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 | 2022-09-08 |  |
+| [Dead Gardens \- Remastered](https://open.spotify.com/track/6BjgGSC0hfQAHUztG6N23M) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once \(Remastered\)](https://open.spotify.com/album/6qqKoGukMfzw9aYa2qaJOb) | 4:28 | 2022-09-08 | 2024-05-24 |
 | [Dead To The World](https://open.spotify.com/track/3lY7foOrKVtDoYKUJXmkML) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/2fmfAN3tCHMIU8WZuG35ZK) | 4:19 | 2023-05-22 |  |
 | [Dead To The World](https://open.spotify.com/track/53f1Zi9zTs0nw5DwzR0mQx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Century Child](https://open.spotify.com/album/4FFDudC4xBVF6MYJUynRsN) | 4:19 | 2022-09-08 | 2023-05-23 |
 | [Deep Silent Complete](https://open.spotify.com/track/3Fba4XIaDBLFfKrOcsBjsY) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 3:57 | 2023-05-20 |  |
@@ -64,12 +64,13 @@
 | [Over The Hills And Far Away](https://open.spotify.com/track/4004xnMLj5QGxWvu6JPcJ7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/4sPRDVFW50ZnrKDlg9SwIG) | 5:02 | 2022-09-08 | 2023-05-21 |
 | [Over The Hills And Far Away](https://open.spotify.com/track/7xgQ0KuuTmKu3pQ4Tn85p7) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Over The Hills And Far Away](https://open.spotify.com/album/6j4E355c5CbrduKa4rGGLj) | 5:02 | 2023-05-20 |  |
 | [Pan](https://open.spotify.com/track/1XcTT3XqNalzJMamAiIqOW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:18 | 2022-09-08 |  |
+| [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:11 | 2024-05-24 |  |
 | [Planet Hell](https://open.spotify.com/track/4aOUcByFqMhdnMWZqUkogv) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Once](https://open.spotify.com/album/2wM6svkNOCsYP8sr9gP2zc) | 4:38 | 2022-09-08 |  |
 | [Procession](https://open.spotify.com/track/7aIxfEHjebCNbs6bpKv9Go) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:31 | 2022-09-15 | 2022-09-25 |
 | [Rest Calm](https://open.spotify.com/track/7zki7ndhBSNAK9hKrhWUYn) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Imaginaerum](https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK) | 6:59 | 2024-03-14 | 2024-04-10 |
 | [Romanticide \- Live, at Wacken, 2013](https://open.spotify.com/track/7gKZSUpLRgX9wP4IhEVJhA) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Showtime, Storytime \(Live, at Wacken, 2013\)](https://open.spotify.com/album/2EIvvMqgrCHORCpQBmJDjm) | 5:39 | 2022-09-08 | 2022-11-01 |
 | [Sacrament Of Wilderness](https://open.spotify.com/track/6MNfIYJglkFfhDt8Lmye8d) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Oceanborn](https://open.spotify.com/album/1lv3jeWOa1sKHdns4gAt3q) | 4:12 | 2023-05-31 |  |
-| [She Is My Sin](https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:46 | 2023-05-20 | 2024-05-22 |
+| [She Is My Sin](https://open.spotify.com/track/1Tct7I9Mwb2BUhFW5xsEy6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/2St6O6fVAYqzKN4cCpFzuV) | 4:46 | 2023-05-20 |  |
 | [She Is My Sin](https://open.spotify.com/track/7FMS5A5YzxUOMIzTCT6KkW) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wishmaster](https://open.spotify.com/album/4u5Ik7NMYl3EITJngbMS4V) | 4:46 | 2022-09-08 | 2023-05-21 |
 | [Shoemaker](https://open.spotify.com/track/5xITcnqoMdILDBNCwHGr5v) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [HUMAN\. :II: NATURE.](https://open.spotify.com/album/1iSsdlURK7CGUVlcz4M5Li) | 5:19 | 2022-09-08 |  |
 | [Shudder Before the Beautiful](https://open.spotify.com/track/50CJMURkzURQwlp4Ht5tp6) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Endless Forms Most Beautiful \(Deluxe Version\)](https://open.spotify.com/album/1tVEWlyn2nsAke3Lp7HoZ0) | 6:29 | 2022-09-08 |  |

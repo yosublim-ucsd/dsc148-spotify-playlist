@@ -1,6 +1,6 @@
 {
   "description": "\uad6d\ub0b4\ub97c \uac15\ud0c0 \ud588\ub358 R&B\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 13476,
+  "num_followers": 13471,
   "original_name": "\uad6d\ub0b4 R&B \uba54\uac00 \ud788\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -223,42 +223,6 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Every letter I sent you.",
-        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 261762,
-      "name": "Square (2017)",
-      "url": "https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 194596,
-      "name": "NO ONE",
-      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
-    },
-    {
-      "added_at": "2024-04-04 20:09:20",
-      "album": {
         "name": "EVERYWHERE",
         "url": "https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7"
       },
@@ -283,18 +247,22 @@
     {
       "added_at": "2024-04-04 20:09:20",
       "album": {
-        "name": "Reason 4 breathing?",
-        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 211520,
-      "name": "\uc810\uc810",
-      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+      "duration_ms": 194596,
+      "name": "NO ONE",
+      "url": "https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6"
     },
     {
       "added_at": "2024-04-04 20:09:20",
@@ -315,6 +283,38 @@
       "duration_ms": 199281,
       "name": "Shut Up & Groove",
       "url": "https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Reason 4 breathing?",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 211520,
+      "name": "\uc810\uc810",
+      "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
+    },
+    {
+      "added_at": "2024-04-04 20:09:20",
+      "album": {
+        "name": "Every letter I sent you.",
+        "url": "https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 261762,
+      "name": "Square (2017)",
+      "url": "https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t"
     },
     {
       "added_at": "2024-04-04 20:09:20",

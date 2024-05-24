@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,523 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,527 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO150czC.md) - [plain]
 | 39 | [500 Graus \- Drive In](https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [500 Graus \- Drive In](https://open.spotify.com/album/34KRM6LTSSwgjZv6q5aC8t) | 7:09 |
 | 40 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 |
 | 41 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 |
-| 42 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
-| 43 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 |
-| 44 | [Irresistível Glória](https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Irresistível Glória](https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw) | 4:35 |
+| 42 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
+| 43 | [Irresistível Glória](https://open.spotify.com/track/3jLKuXZnHUH033SGy4B212) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Irresistível Glória](https://open.spotify.com/album/74pDWxumSyeuZox1bZNXBw) | 4:35 |
+| 44 | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/track/57gcsPS1Mu1sVzFV6YzsZv) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sinto o Teu Poder \(Ao Vivo\)](https://open.spotify.com/album/1Usw0QkOqkadByMwjlr26Y) | 4:31 |
 | 45 | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/track/2wcrkFGIDMyHJlcxh5ShXy) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Igreja Vem / Porque Ele Vive \- Drive In](https://open.spotify.com/album/0d10hWdSyBQ3JGCd822QNH) | 9:41 |
-| 46 | [Tá Chorando Por Quê? \(Ao Vivo\)](https://open.spotify.com/track/4Po0RWVCcrtbjio8ORNM9W) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Rayssa Barros](https://open.spotify.com/artist/2xtVXXqM0TxYXIUVN42Hce) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:32 |
+| 46 | [Lugar Seguro \(Ao Vivo\)](https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 4:34 |
 | 47 | [Desperta](https://open.spotify.com/track/6GFYD6UtdBDBhhqK9L3SlO) | [Cleyde Jane](https://open.spotify.com/artist/6Tp0qQ4PfVV02uKeoVXY8T), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Desperta](https://open.spotify.com/album/7wBBkqiGGGZYVlUuKlixa1) | 3:48 |
 | 48 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 |
 | 49 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 |
 | 50 | [Vida aos Sepulcros \(Ao Vivo\)](https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:02 |
 
-Snapshot ID: `ZkqSgAAAAAA8xqQEN7z4x3uHHe6LPLIM`
+Snapshot ID: `Zk01gAAAAAD7urDeBZRzCvE+n1mUS1A6`

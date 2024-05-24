@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Welcome to the universe of complex rhythms and mesmerizing loops\. Cover: LITE
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,335 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,424 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,17 +34,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 24 | [Aftermath](https://open.spotify.com/track/60qzUWBoLLARs9B82yD346) | [Rolo Tomassi](https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI) | [Time Will Die and Love Will Bury It](https://open.spotify.com/album/6VZQ25XyT12V0wH7oai4cG) | 3:52 |
 | 25 | [Fire Back About Your New Baby's Sex](https://open.spotify.com/track/01VhYbUIdJABCY4Ceupxbn) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [American Don](https://open.spotify.com/album/3y1aPtqR1BkUXAaOUoDCRo) | 4:43 |
 | 26 | [Baboon](https://open.spotify.com/track/4mgS9q5U0a8sh42tp3UgMy) | [TTNG](https://open.spotify.com/artist/5TUa95aB5Vu2CzwCnZd6t0) | [Animals](https://open.spotify.com/album/7n8f4VpR5BAC9IiLiiIWKl) | 3:26 |
-| 27 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 |
-| 28 | [Tony Hawk of Ghana](https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [I Hate My Village](https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9) | 2:53 |
+| 27 | [Tony Hawk of Ghana](https://open.spotify.com/track/4U0AlhWv6AQF9PHiwfaLdH) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [I Hate My Village](https://open.spotify.com/album/1X848nQC1P3Lk0UqoOuKI9) | 2:53 |
+| 28 | [Name](https://open.spotify.com/track/0rHUXjS5ZBKq5ni1QNmhRj) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Seiji Kameda](https://open.spotify.com/artist/4gxF6fznAjW2jjDzjZrOka) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:16 |
 | 29 | [Pineapple](https://open.spotify.com/track/2lyO4Da4ZPbK8cpC2eo3CQ) | [standards](https://open.spotify.com/artist/2CBsUDeW88bcOdccmTodCe) | [Friends](https://open.spotify.com/album/57bo48KRDqNLZv0Yycsjj1) | 2:55 |
 | 30 | [Weird Circles](https://open.spotify.com/track/7nID1npv2tn9TNcoCxhSjz) | [Tera Melos](https://open.spotify.com/artist/3K4vimkwmCyjD4g1hEMPjZ) | [X'ed Out](https://open.spotify.com/album/4lIHKIHcnZsAWupf7yqrxA) | 3:05 |
 | 31 | [Cartus](https://open.spotify.com/track/2Hv4izofAjPpHD4CtdemPP) | [Kjjjjjjjjj](https://open.spotify.com/artist/41H3nsLvw0N1Z8FBov2Jgd) | [Centro De Dispersión](https://open.spotify.com/album/2cBhV03l2xuxYP072bNNde) | 3:04 |
 | 32 | [Harvester](https://open.spotify.com/track/3ES9lq8vJ9FxheGU4yIHU4) | [Monobody](https://open.spotify.com/artist/4jaeGVfIwCDJh18eP1rciA) | [Comma](https://open.spotify.com/album/1IGmIS1wTwiz0JgXnM7QHd) | 3:53 |
-| 33 | [Little Bubble, Where You Going?](https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx) | [Piglet](https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU) | [Lava Land](https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM) | 4:57 |
-| 34 | [Railroad Cancellation](https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [World Class Listening Problem](https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk) | 5:16 |
-| 35 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
-| 36 | [If It Hadn't Ended Then, It Would've Ended Now \- 2023](https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x) | [The Year End](https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR) | [If It Hadn't Ended Then, It Would've Ended Now \(2023\)](https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3) | 4:26 |
-| 37 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
+| 33 | [Italiapaura](https://open.spotify.com/track/7826YRWUOz9m7DZAY9jbFu) | [I Hate My Village](https://open.spotify.com/artist/7eXKbj6KaS8vlLeF0IVgX7) | [Nevermind The Tempo](https://open.spotify.com/album/3vUSOJ2jK3wB3iqDuI6WSr) | 2:28 |
+| 34 | [Little Bubble, Where You Going?](https://open.spotify.com/track/5P9nqVXwUUMQeUCJJuCXAx) | [Piglet](https://open.spotify.com/artist/7eMopflZIkcPF4refj6MNU) | [Lava Land](https://open.spotify.com/album/4ascPqnfGL1QlRlnu9gvzM) | 4:57 |
+| 35 | [Railroad Cancellation](https://open.spotify.com/track/4wXUhfW8mXFbvga8KVcozJ) | [Don Caballero](https://open.spotify.com/artist/30h1cDhDvSG9RZlfBHmt9C) | [World Class Listening Problem](https://open.spotify.com/album/6NQ2rof0OEKvQklJ4GO1Xk) | 5:16 |
+| 36 | [minet](https://open.spotify.com/track/4Nr7WCcqcvFkvm0cv9LAlv) | [archipiélagos](https://open.spotify.com/artist/2PRjdrnN3crdykcsLu1S6d) | [split](https://open.spotify.com/album/27Omp1v6xsiOdN6nKi20jN) | 3:45 |
+| 37 | [If It Hadn't Ended Then, It Would've Ended Now \- 2023](https://open.spotify.com/track/6VRllAKog8Hlnv4IG7iW1x) | [The Year End](https://open.spotify.com/artist/3TAbCYRVx4d1HX3BNfK4KR) | [If It Hadn't Ended Then, It Would've Ended Now \(2023\)](https://open.spotify.com/album/4Ft3QViqXzQtEi7pScuGg3) | 4:26 |
 | 38 | [When the Catholic Girls Go Camping, the Nicotine Vampires Rule Supreme.](https://open.spotify.com/track/6svSukdIhpKDFaFJNrblJ4) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [More Skin With Milk\-Mouth](https://open.spotify.com/album/0HIEyJpHJIusZPC9V6BEhV) | 3:52 |
 | 39 | [Futura](https://open.spotify.com/track/19I9rURZV4nIGyutPTyaNL) | [Battles](https://open.spotify.com/artist/3EMSpwRtkvUTxfB4aS5xnA) | [Gloss Drop](https://open.spotify.com/album/4oX4lpSnDyqQ2oadKTlcaR) | 6:17 |
 | 40 | [Los Bajos Fondos](https://open.spotify.com/track/4LX270g9HEBkA0qYtGAel8) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 2:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 58 | [Espejos Dorados](https://open.spotify.com/track/08dEcUg90k8QDBpwNxHwjQ) | [tortuganónima](https://open.spotify.com/artist/0jsPe8wkYOMs1yd3zd2aRR) | [Imago](https://open.spotify.com/album/6wkTq5B02oGnBnx7X1bWBt) | 4:18 |
 | 59 | [Infinite Spice](https://open.spotify.com/track/40hF24KMxg9LpglA9We3As) | [Via Luna](https://open.spotify.com/artist/3qu0nHytyZet7JFUe2Afow) | [Muted Earth](https://open.spotify.com/album/6jw9yrfHNn1Yigjnlunk0L) | 4:11 |
 | 60 | [Mimi Ashi](https://open.spotify.com/track/1gFr9j7lS0HIgRiJUQWTMm) | [Oh No! Yoko](https://open.spotify.com/artist/1PegkW9qkeu5tDVletMpjr) | [Sorrow EP](https://open.spotify.com/album/1O55VrSOG9wwOHgD4F7XRY) | 2:18 |
-| 61 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
-| 62 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 61 | [Valerio Benustelli](https://open.spotify.com/track/3E5cNqPeDlVFaxRkhE5oil) | [Jean Loup](https://open.spotify.com/artist/5u1Kdzzcl9FcgY7ty8Du0U) | [Valerio Benustelli](https://open.spotify.com/album/3ycc6AzUEeovj9wuiVNhGc) | 3:26 |
+| 62 | [GRVD](https://open.spotify.com/track/7dKs6gN3niTRTFkoJWc3JJ) | [LEÑA](https://open.spotify.com/artist/3A3FoilKOXzYIkHm948iBS) | [Ni Hablar](https://open.spotify.com/album/25VaZh2ORGoNWwdNSn5H1s) | 3:41 |
 | 63 | [Solace](https://open.spotify.com/track/5rBHLH0hvxaX2oVQqBUWdb) | [Heavy Ocean](https://open.spotify.com/artist/6rq67hJkJ6vGBYFzFYznhX) | [H/O](https://open.spotify.com/album/79CuH08z17MxOuRrg5tcnm) | 7:35 |
 | 64 | [Crucemos los Puentes...](https://open.spotify.com/track/0a8K9xaZzEmjoE7LemJUjE) | [Helices](https://open.spotify.com/artist/1eyGv5vUAQZ85vT3rR4t28) | [Puentes](https://open.spotify.com/album/6W6g0kxcsUSQMBoWX4PenA) | 3:46 |
 | 65 | [It's Not](https://open.spotify.com/track/0Vc8PrEdHTwwzSGxkEDFdI) | [Mylets](https://open.spotify.com/artist/5Uj49eezx8ebHJTtdqv2lR) | [M\. Rueff](https://open.spotify.com/album/6BoKVtNv1fwNjKv0zQfkPH) | 2:43 |

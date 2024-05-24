@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-244 songs - 14 hr 49 min
+245 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 | 2022-02-04 |  |
 | [Borboleta Efeito](https://open.spotify.com/track/6oqV9zAqT9vea7nXIBIkyc) | [Leo Middea](https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG), [Mallu Magalhães](https://open.spotify.com/artist/1m00QT2CkW6rHi4dly8rVN) | [Borboleta Efeito](https://open.spotify.com/album/7x6SlBDCpyx8aTKRymsWR9) | 3:05 | 2023-03-17 | 2023-07-04 |
 | [Bota Pra Tocar Tim Maia](https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4) | [Diogo Nogueira](https://open.spotify.com/artist/57xRtfFlssbpntpRQOBodd) | [Bota Pra Tocar Tim Maia](https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs) | 3:42 | 2022-02-04 |  |
-| [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 | 2022-03-22 |  |
+| [Brother, Father, Sister And Mother](https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Tim Maia](https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER) | 3:19 | 2022-03-22 | 2024-05-24 |
 | [Bédi Beat](https://open.spotify.com/track/4u1GfVTNwHmHx6DAD50ZL1) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/1gU6xYQZFJH4ClJcpS1W4w) | 3:20 | 2022-04-01 | 2022-04-20 |
 | [Bédi Beat](https://open.spotify.com/track/7qaYhfTkekBcIm8q9Mewjd) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 3:20 | 2022-07-22 | 2023-01-14 |
 | [Cafuné](https://open.spotify.com/track/2nWJnSQDPD3ZnzgZ7rdQM4) | [Igor Liberato](https://open.spotify.com/artist/55HEu5rWRxthkFWt05pi2d) | [Gato](https://open.spotify.com/album/6MPbNNSaRG040qbYEXxIGC) | 3:23 | 2022-02-04 | 2022-07-29 |
@@ -190,6 +190,7 @@
 | [Pra Melhorar](https://open.spotify.com/track/7oPB5rRWan5SeijxL94Qmz) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Flor](https://open.spotify.com/artist/3CdTias43b3Oic66fadZWY) | [Portas](https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A) | 4:16 | 2022-07-22 | 2024-04-19 |
 | [Pra Pensar](https://open.spotify.com/track/3cbO2LZluJv0BTMESwqZUI) | [Tom Rezende](https://open.spotify.com/artist/3325IUJ2U4q70EegSnunmI), [Henri Mac](https://open.spotify.com/artist/4DjYOv7Jpbs6ohi6Cmbe27) | [Pra Pensar](https://open.spotify.com/album/6yVlVkaqIvKV5jNNgT7svQ) | 2:36 | 2022-02-04 | 2022-07-15 |
 | [Pra todas as mulheres](https://open.spotify.com/track/1ixHR8sknQnSFD9lR6Pn6K) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Pra todas as mulheres](https://open.spotify.com/album/4OiLzpWqd2LTlqxOHOtjXQ) | 2:48 | 2022-02-04 |  |
+| [Pra Vida](https://open.spotify.com/track/7z9ygQkhE50EGYMuZfbEFq) | [Rogê](https://open.spotify.com/artist/2qLU3VUpp3uV2Oyf786FC3) | [Curyman](https://open.spotify.com/album/05NiQkAFwyas6XwckmzsJ8) | 3:32 | 2023-12-26 |  |
 | [Pérola de Espuma](https://open.spotify.com/track/7a9kD8LKp6ts1r0dlePx55) | [Rommel](https://open.spotify.com/artist/7umdEQLmAvnJsKZLZmzM10) | [Pérola de Espuma](https://open.spotify.com/album/3NdnrEtvtoNGN1v3l498Qb) | 3:50 | 2022-02-04 | 2022-07-29 |
 | [Qual É A Sua?](https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Para Dias Ruins](https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT) | 3:10 | 2022-02-04 |  |
 | [Que Céu Que Tá](https://open.spotify.com/track/13fKljiL4Vp7DCUXWyY58x) | [Fabinho K](https://open.spotify.com/artist/7q2HAGnWhT2b2C8BYZG2XT), [Giba E A Raça](https://open.spotify.com/artist/7xpM9q9QwOqHm1s4MSPYIi) | [Que Céu Que Tá](https://open.spotify.com/album/6AxcpdiPAqhtNNBlYklsVq) | 2:50 | 2022-02-04 | 2022-07-27 |

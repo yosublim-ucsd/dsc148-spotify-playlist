@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: fhop music
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,036,230 likes - 75 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,036,537 likes - 75 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 
 > This is Cassiane\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,711 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,723 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 17 | [O Segredo \(Ao Vivo\)](https://open.spotify.com/track/6p5TC1tF7kFAdWqw8s3rZO) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [O Segredo \(Ao Vivo\)](https://open.spotify.com/album/5ThXMFiKFU63eaOK8nLDpd) | 5:06 |
 | 18 | [Basta Uma Palavra](https://open.spotify.com/track/2ayGHwGSw6y3Nvcmvy5MG5) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Com Muito Louvor](https://open.spotify.com/album/3kwPUDGxWWkP5cntHX2Ekw) | 3:35 |
 | 19 | [Imagine](https://open.spotify.com/track/7sfSpQPesW7pNS7gaPnE7j) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sem Palavras](https://open.spotify.com/album/5l3C8WhPoluyf3FqslYyNd) | 4:49 |
-| 20 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 |
+| 20 | [Uma Flor Gloriosa](https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:12 |
 | 21 | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/track/5CMsJa45lcaRyXORxodImT) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Eu Não Mudo \(Ao Vivo\)](https://open.spotify.com/album/7koLVQPec7CXl0dDJa9p9d) | 4:41 |
 | 22 | [Mergulhe](https://open.spotify.com/track/0aToQvWg4KfOKuHvsKcDkg) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:36 |
 | 23 | [Esconderijo do Altíssimo](https://open.spotify.com/track/5OMBzeUf0tBfjzoCskU75d) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 4:49 |
-| 24 | [Uma Flor Gloriosa](https://open.spotify.com/track/6PGwjMKF0fzzj9EPwTh8Ok) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:12 |
+| 24 | [Sobre as Ondas do Mar](https://open.spotify.com/track/4bGhk5w5sooEC6zOpNGtbu) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 4:20 |
 | 25 | [Medley \(A Carta / Mergulhe / Todo Poderoso / Não Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vitória / Erguer as Mãos\) \(Ao Vivo\)](https://open.spotify.com/track/49Fd9wpK7X5ZXxIWFrAgKh) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Medley \(A Carta / Mergulhe / Todo Poderoso / Não Vou Desistir / Tem Que Ser Pequeno / Cheiro de Vitória / Erguer as Mãos\) \(Ao Vivo\)](https://open.spotify.com/album/0RwLXsqlcWiiVEYCn773sj) | 8:13 |
 | 26 | [Ele Tem Poder](https://open.spotify.com/track/0fzmCMwvPCJKLWK7oyvJuY) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 3:57 |
 | 27 | [Sementes da Fé](https://open.spotify.com/track/3w53peQOx3fcgcLRQrJjdc) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Sementes da Fé](https://open.spotify.com/album/0UOBWc8dG9coIpFx4HVTmp) | 6:04 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 39 | [Escolhidas](https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw), [Hellen Miranda](https://open.spotify.com/artist/7psKiyrH4yV89bgVhAxD9r) | [Escolhidas](https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC) | 4:07 |
 | 40 | [Erguer as Mãos](https://open.spotify.com/track/0kN2odUJ2oOnptGa1DwUkI) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 4:34 |
 | 41 | [Fala Jesus Querido](https://open.spotify.com/track/5hGUUFuZ4OfGTbpVJrYE1o) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Harpa Vol.1](https://open.spotify.com/album/5EFTTHq9iRh3zCkQDRTmNc) | 7:13 |
-| 42 | [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 |
-| 43 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
+| 42 | [Tremendo e Santo](https://open.spotify.com/track/1uFqwxYga7H8rpUba6bsya) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [A Cura](https://open.spotify.com/album/5EZolEeOn7mlVal992C5hP) | 5:25 |
+| 43 | [Não Negue a Jesus / Com Cristo é Vencer / Contigo Está](https://open.spotify.com/track/592T41GMbnMvSVb9XpeEGe) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 4:17 |
 | 44 | [O Fogo de Deus](https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Faça Diferença](https://open.spotify.com/album/1JfQy19ekweNXDjqYRggws) | 5:11 |
 | 45 | [Dia Inesquecível](https://open.spotify.com/track/0t8RFvYHiLd5AEVPS5Iobp) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Recompensa](https://open.spotify.com/album/2EgV9J6mwKm2zsSVvimYNP) | 5:40 |
 | 46 | [Transformada](https://open.spotify.com/track/2XpvAWqrRKkgg3pf0Xn1zw) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40KrGE.md) - [plain]
 | 49 | [Medley Ouve, Senhor \- Ao Vivo](https://open.spotify.com/track/0f3USV8YwTafD09QCi9p46) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75), [Ana Paula Valadão](https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW), [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Memórias do Coração \- Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/67vcrkrTm7ttX6WVDcGPjw) | 8:35 |
 | 50 | [Medley \- Para Sempre / Força Imensa / Onde Jesus Mora](https://open.spotify.com/track/431TwlEMTRWnK5yzs7Pl98) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [25 Anos de Muito Louvor](https://open.spotify.com/album/1SRXsewpf8tTMGhBtv5U0A) | 5:35 |
 
-Snapshot ID: `ZkqSgAAAAADbYecF17mt4frxhKWp0u+Q`
+Snapshot ID: `Zk01gAAAAACXBCitbBR/7j88pWeryn/b`

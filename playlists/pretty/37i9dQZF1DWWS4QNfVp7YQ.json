@@ -1,6 +1,6 @@
 {
   "description": "\u00c9chate un zapateo al ritmo del tribal.",
-  "num_followers": 75355,
+  "num_followers": 75394,
   "original_name": "Fiesta Tribal",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Dale Candela Dale Sabor",
-        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
-      },
-      "artists": [
-        {
-          "name": "Alan Mendoza DJ",
-          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
-        }
-      ],
-      "duration_ms": 155599,
-      "name": "Dale Candela Dale Sabor",
-      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "La Guarachita",
         "url": "https://open.spotify.com/album/2C2H8OBZcdDZGOMxpg6jXG"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 179261,
       "name": "La Guarachita",
       "url": "https://open.spotify.com/track/2r7YwMHKoc3vYcspMqZSii"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
+        "name": "Dale Candela Dale Sabor",
+        "url": "https://open.spotify.com/album/3sBeRZjVozTei92FLqbNcG"
+      },
+      "artists": [
+        {
+          "name": "Alan Mendoza DJ",
+          "url": "https://open.spotify.com/artist/2KiXlsHpWEoy2xbsy6rFEa"
+        }
+      ],
+      "duration_ms": 155599,
+      "name": "Dale Candela Dale Sabor",
+      "url": "https://open.spotify.com/track/07lZyLkRDNiReTw4auv0fO"
     },
     {
       "added_at": "2024-05-14 23:51:16",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "DIABLA VS SALTANDO TRIBAL",
-        "url": "https://open.spotify.com/album/3lMY8jkSEY1cE1ZNBUKs75"
-      },
-      "artists": [
-        {
-          "name": "DJ Erandes",
-          "url": "https://open.spotify.com/artist/2ei2Mrr1GJnHhxF8pLZCeZ"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "DIABLA VS SALTANDO TRIBAL",
-      "url": "https://open.spotify.com/track/1qBaGLAqI5RbSNP6Yau5fU"
-    },
-    {
-      "added_at": "2024-05-14 23:51:16",
-      "album": {
         "name": "Tribal Evolution",
         "url": "https://open.spotify.com/album/0jIJ8Io1ZLZHlHoNDYFm4b"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 158240,
       "name": "World 2014 - Original Mix",
       "url": "https://open.spotify.com/track/0PKkZ8g0jX0Us85KGWER9A"
+    },
+    {
+      "added_at": "2024-05-14 23:51:16",
+      "album": {
+        "name": "DIABLA VS SALTANDO TRIBAL",
+        "url": "https://open.spotify.com/album/3lMY8jkSEY1cE1ZNBUKs75"
+      },
+      "artists": [
+        {
+          "name": "DJ Erandes",
+          "url": "https://open.spotify.com/artist/2ei2Mrr1GJnHhxF8pLZCeZ"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "DIABLA VS SALTANDO TRIBAL",
+      "url": "https://open.spotify.com/track/1qBaGLAqI5RbSNP6Yau5fU"
     },
     {
       "added_at": "2024-05-14 23:51:16",
@@ -923,18 +923,18 @@
     {
       "added_at": "2024-05-14 23:51:16",
       "album": {
-        "name": "Club Negro",
-        "url": "https://open.spotify.com/album/3SC6yvVHh95pPHOCvST5pJ"
+        "name": "\u00c1frica",
+        "url": "https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq"
       },
       "artists": [
         {
-          "name": "Mar\u00eda y Jos\u00e9",
-          "url": "https://open.spotify.com/artist/6DsIWcjlRh4a01ig2mutYX"
+          "name": "Clap Freckles",
+          "url": "https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD"
         }
       ],
-      "duration_ms": 212097,
-      "name": "Rey de Reyes",
-      "url": "https://open.spotify.com/track/1V5YTw9TVDAqebL0COO7A2"
+      "duration_ms": 191115,
+      "name": "\u00c1frica",
+      "url": "https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7"
     }
   ],
   "unique_name": "Fiesta Tribal",

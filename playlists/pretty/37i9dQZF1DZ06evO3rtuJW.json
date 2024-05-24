@@ -1,12 +1,12 @@
 {
-  "description": "This is G Herbo. En \u00f6nemli par\u00e7alar, hepsi tek bir \u00e7alma listesinde.",
-  "num_followers": 32538,
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
+  "num_followers": 32543,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAiE7pMe2sY1kKE5iQF7i/0",
+  "snapshot_id": "Zk01gAAAAAAg4nzsFOsrpIXqagktQvXC",
   "tracks": [
     {
       "added_at": null,
@@ -83,30 +83,6 @@
       "duration_ms": 149263,
       "name": "My City",
       "url": "https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shiesty Season - Spring Deluxe",
-        "url": "https://open.spotify.com/album/4Dn7V8EU84yPMe03MsefyU"
-      },
-      "artists": [
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "No More Heroes",
-          "url": "https://open.spotify.com/artist/6TsHQClbheVZTyc97g5Nc4"
-        }
-      ],
-      "duration_ms": 168648,
-      "name": "Switch it Up (feat. G Herbo, No More Heroes)",
-      "url": "https://open.spotify.com/track/06BY7fb0Ztz7f7JPRWSBZ3"
     },
     {
       "added_at": null,
@@ -391,6 +367,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "25",
+        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 221815,
+      "name": "Cry No More",
+      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FAST X (Sped Up / Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7nWrdoW9h7NJhk2Bt2rMPO"
       },
@@ -419,50 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7AvdSuKYkwzJA8upKuW6zz"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 221815,
-      "name": "Cry No More",
-      "url": "https://open.spotify.com/track/1TwQ0XtQfCgcstxhpOSg7t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stress Relief (with G Herbo)",
-        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
-      },
-      "artists": [
-        {
-          "name": "Ann Marie",
-          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
-        },
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 160145,
-      "name": "Stress Relief (with G Herbo)",
-      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sick of Myself",
         "url": "https://open.spotify.com/album/1erUgFySoDRYMidU9UkK9j"
       },
@@ -483,6 +439,26 @@
       "duration_ms": 223045,
       "name": "One in the Head",
       "url": "https://open.spotify.com/track/0M18rB4N0BGYPBXY5Rv98K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stress Relief (with G Herbo)",
+        "url": "https://open.spotify.com/album/0Ghj6XiK4n9JPvZO61NHaq"
+      },
+      "artists": [
+        {
+          "name": "Ann Marie",
+          "url": "https://open.spotify.com/artist/3feB1IF85It42sebtWSqws"
+        },
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 160145,
+      "name": "Stress Relief (with G Herbo)",
+      "url": "https://open.spotify.com/track/7GsiWWr0TlgnehdkgAg3Yq"
     },
     {
       "added_at": null,
@@ -571,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strictly 4 My Fans",
-        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        }
-      ],
-      "duration_ms": 208422,
-      "name": "Pull Up",
-      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Swervo",
         "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
       },
@@ -607,6 +567,22 @@
       "duration_ms": 214344,
       "name": "Honestly (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strictly 4 My Fans",
+        "url": "https://open.spotify.com/album/5XLw4dnwqajOACwT2MN2d0"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "duration_ms": 208422,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/4QgtGpNXs1v2UFz1VuCvWB"
     },
     {
       "added_at": null,
@@ -1055,6 +1031,26 @@
       "duration_ms": 164992,
       "name": "Letter to My Love",
       "url": "https://open.spotify.com/track/5G5iMk561afCKl3Di8rWAq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Survivor\u2019s Remorse: A Side",
+        "url": "https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 176588,
+      "name": "Shordie (with Gunna)",
+      "url": "https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI"
     }
   ],
   "unique_name": "This Is G Herbo",

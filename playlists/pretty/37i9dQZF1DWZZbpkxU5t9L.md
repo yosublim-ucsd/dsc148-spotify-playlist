@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZbpkxU5t9L.md) - [plain]
 
 > いま話題の曲を週末にまとめてチェック。Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,377 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,407 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [初恋キラー](https://open.spotify.com/track/6AvwRrfNtvWMG4w3MfKEoi) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [初恋キラー](https://open.spotify.com/album/2pUxSIXaFG9Pm3jXeYa93e) | 2:12 |
 | 2 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 3 | [I wonder](https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [I wonder](https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je) | 2:37 |
-| 4 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:12 |
+| 4 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 5 | [Pointless 5](https://open.spotify.com/track/2zn7qeTEsYFjVd9s9Uhrze) | [SCHA DARA PARR](https://open.spotify.com/artist/43hK0a9mmIS2ROhc0ukG7X), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pointless 5](https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX) | 4:18 |
 | 6 | [Lose My Breath](https://open.spotify.com/track/1eB1JymprhH8QTLA8m1AsB) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lose My Breath](https://open.spotify.com/album/4sVlv4qektcY4zi9Osspbl) | 2:46 |
 | 7 | [GOLDENWEEK](https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk) | [MILLENNIUM PARADE](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [GOLDENWEEK](https://open.spotify.com/album/1S6e6usL4vviKyushy0N10) | 3:20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 
 > This is The Black Keys\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,631 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,672 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,12 +15,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 5 | [Gold on the Ceiling](https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 3:44 |
 | 6 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 7 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
-| 8 | [Don't Let Me Go](https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:34 |
+| 8 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
 | 9 | [Little Black Submarines](https://open.spotify.com/track/1PXsUXSM3LF2XNSkmIldPb) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [El Camino](https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm) | 4:11 |
 | 10 | [I'll Be Your Man](https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:20 |
-| 11 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
-| 12 | [This Is Nowhere](https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 3:44 |
-| 13 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
+| 11 | [Everlasting Light](https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:23 |
+| 12 | [Don't Let Me Go](https://open.spotify.com/track/1zCNzZTRsou6TFpe8nsmnK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:34 |
+| 13 | [Your Touch](https://open.spotify.com/track/5lJUXSjRjevVy7I3P87wuK) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Magic Potion](https://open.spotify.com/album/4jFfuHyKmhGeipjRmKIh8O) | 2:42 |
 | 14 | [Heavy Soul](https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [The Big Come Up](https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh) | 2:08 |
 | 15 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 |
 | 16 | [On The Game](https://open.spotify.com/track/4c7iXNRiy72rMXfRTR9V0V) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 4:02 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4m87u0.md) - [plain]
 | 42 | [Thickfreakness](https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Thickfreakness](https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa) | 3:48 |
 | 43 | [She's Long Gone](https://open.spotify.com/track/26ZnmGlPGXaOzPDydAP9D5) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:06 |
 | 44 | [For the Love of Money](https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:31 |
-| 45 | [Strange Times](https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:10 |
-| 46 | [Too Afraid to Love You](https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
-| 47 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
+| 45 | [Going Down South](https://open.spotify.com/track/3PeDt4Q8YIFDRph5UhxAaA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:48 |
+| 46 | [Strange Times](https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Attack & Release](https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi) | 3:10 |
+| 47 | [Too Afraid to Love You](https://open.spotify.com/track/2LhnW02jJHTYgtBpk9BVrs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:25 |
 | 48 | [Your Team Is Looking Good](https://open.spotify.com/track/50J9zbu0UzOFnUVSjvecl7) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:05 |
 | 49 | [Next Girl](https://open.spotify.com/track/2UE4m8egf0aREmOi47sDOk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:18 |
-| 50 | [The Only One](https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 5:00 |
+| 50 | [Poor Boy a Long Way From Home](https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 4:08 |
 
-Snapshot ID: `ZkqSgAAAAAChFuqnweWjBfcA2d5qXBut`
+Snapshot ID: `Zk01gAAAAAAO30BOtL/iw09YjbUQcwAm`

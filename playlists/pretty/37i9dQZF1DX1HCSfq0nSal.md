@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Gonzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,445 likes - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,568 likes - 41 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

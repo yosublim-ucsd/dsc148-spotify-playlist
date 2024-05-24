@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 
 > This is Nívea Soares\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,457 likes - 51 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,468 likes - 51 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 30 | [Vem \- Ao Vivo](https://open.spotify.com/track/5IW9WRaLxJblCkVXhC1vye) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Vem \(Ao Vivo\)](https://open.spotify.com/album/2Issr9syuEqaUOfFRFXBms) | 9:31 |
 | 31 | [O Que Tua Glória Fez Comigo \- Ao Vivo](https://open.spotify.com/track/1eZ6MiWjHmwbbcGpAetCiO) | [Leo Fonseca](https://open.spotify.com/artist/34iSGCakITd5m0nZgIjkio), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [O Que Tua Glória Fez Comigo \(Ao Vivo\)](https://open.spotify.com/album/5J0V7iimGhQGcBWIXV6t7w) | 8:58 |
 | 32 | [Só Existe Um Lugar \- Ao Vivo](https://open.spotify.com/track/3oVtUUirowVa9DEtjazJVq) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Só Existe Um Lugar \(Ao Vivo\)](https://open.spotify.com/album/468Y9pHDkKf8u6oLHWrimN) | 7:07 |
-| 33 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
-| 34 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
+| 33 | [Meu Universo \- Acústico](https://open.spotify.com/track/1z1VXBSMZzbQF4pvJwDjga) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Música e Palavra \(Acústico\)](https://open.spotify.com/album/1526KV4Bw2ehCYTuP6YZe4) | 4:27 |
+| 34 | [Jesus \- Ao Vivo](https://open.spotify.com/track/1tLprGViXjMjX1mwvncJc7) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Jesus \(Ao Vivo\)](https://open.spotify.com/album/6mf39m0DBS39bfATCHwNM5) | 7:17 |
 | 35 | [Ousado Amor](https://open.spotify.com/track/7sXiDUR1TCstXHlqfyAHOB) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ousado Amor](https://open.spotify.com/album/3KuWof0g5DAfFT931oMXCE) | 13:46 |
 | 36 | [Eu Cantarei](https://open.spotify.com/track/6wirmUJ6XncGeFjSyIMGwx) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ao Rei](https://open.spotify.com/album/4Oy8ojNQkl0Q1Q6FWTlFnO) | 4:04 |
 | 37 | [Dependo de Ti \(feat\. Nívea Soares\)](https://open.spotify.com/track/7bqeh0EIv7fDvYu4zMhBBI) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Entre](https://open.spotify.com/album/6gWnEyxGbCL9WuTyyyCWDh) | 4:39 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xMHov.md) - [plain]
 | 50 | [Nenhum Deus Como Tu](https://open.spotify.com/track/4mEZLwnqOe3FsSZDW2GPoR) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Rio](https://open.spotify.com/album/2kNPup6bYnOFd74IvvrG8F) | 6:01 |
 | 51 | [Nosso General \- Ao Vivo](https://open.spotify.com/track/7zgTca2zHEWFWnkXf4USLv) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Nosso General \(Ao Vivo\)](https://open.spotify.com/album/3DkQt1f7twyMO3DW1dHYH8) | 3:08 |
 
-Snapshot ID: `ZkqSgAAAAAAAgRZRzkNPIBa7CD6LQz00`
+Snapshot ID: `Zk01gAAAAAAu1Bb7hQBGVAADV9Ivt7Zz`

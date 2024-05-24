@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 
 > riff\-heavy, fuzzed\-out numbers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 540,442 likes - 100 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 540,452 likes - 100 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,28 +74,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpVGstUksUC.md) - [plain]
 | 64 | [There is Nothing New Under the Sun](https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [There is Nothing New Under the Sun](https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts) | 3:57 |
 | 65 | [Parsonz Curse](https://open.spotify.com/track/4lB8DlkAdlHyjHpvSwv7az) | [Royal Thunder](https://open.spotify.com/artist/3Gkit5uLARc6bv3AyYrh5Q) | [CVI](https://open.spotify.com/album/7m68iZmhsTYgIVFrVs6Dnp) | 6:57 |
 | 66 | [So High, So Low](https://open.spotify.com/track/0AxthAxmqrWe4OYd3KR0zq) | [Mondo Generator](https://open.spotify.com/artist/5Ug0EkTXplXiip0C2OzVi7) | [A Drug Problem That Never Existed](https://open.spotify.com/album/4WrxSGxM0V4ZnxPTQzmtJo) | 2:35 |
-| 67 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
-| 68 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
+| 67 | [Black Lilly](https://open.spotify.com/track/0JHW6P8sKS9GdN11fuGN1G) | [Colour Haze](https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8) | [In Her Garden](https://open.spotify.com/album/4Rna96AH3yctoFy4GWla4G) | 6:48 |
+| 68 | [41](https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Nothing as the Ideal](https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd) | 5:20 |
 | 69 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 |
 | 70 | [Diablerie](https://open.spotify.com/track/6tn5XqPVJnmZt1rA4kBgJh) | [Windhand](https://open.spotify.com/artist/6wE3e84Zg41JF04Z39i5wv) | [Diablerie](https://open.spotify.com/album/1m4kG1WRaSUeay5rEUOPB5) | 5:20 |
-| 71 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
-| 72 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
+| 71 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 |
+| 72 | [Desert Cold](https://open.spotify.com/track/6wEShs17sQIlaaWfeJylLE) | [Snowy Dunes](https://open.spotify.com/artist/10do1FRShQdKPJ4RuIY4LX) | [Desert Cold](https://open.spotify.com/album/57zrgsfZAV7Y7TZOZxBJJY) | 6:13 |
 | 73 | [Cosmic Ride Of The Crystal Skull](https://open.spotify.com/track/42uc5A9WH0jy0AYHFnw5ZB) | [Black Rainbows](https://open.spotify.com/artist/6VNmsa4FPNunveA9ktg0Nb) | [Superskull](https://open.spotify.com/album/37Hmm2L5DZxf7BNWtAAit1) | 3:49 |
-| 74 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 |
-| 75 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
+| 74 | [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 |
+| 75 | [Shifting Winds](https://open.spotify.com/track/2uSJ9sR3R3beiktlY8ZZtj) | [Lightning Born](https://open.spotify.com/artist/0fmgWMDXvcR5OMYgJLSate) | [Lightning Born](https://open.spotify.com/album/5YhcMNf4XiXfsDWpXpyPhG) | 4:35 |
 | 76 | [Thornwyck Hymn](https://open.spotify.com/track/6niB9R5q0KV6pVTKfZEdje) | [My Dying Bride](https://open.spotify.com/artist/7iMWWdRNiCJwGOGEIYr02z) | [Thornwyck Hymn](https://open.spotify.com/album/2cIflrgAlkTOuh0SsJaQ3k) | 6:47 |
 | 77 | [Staving off Truth](https://open.spotify.com/track/1NUWMbdZLYixwU5HIDVM7T) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [Reflections of a Floating World](https://open.spotify.com/album/3KHAbIF4DHori5AW2nWdUA) | 10:18 |
 | 78 | [Get What You Deserve](https://open.spotify.com/track/7yJLpY537kdnfqW1lAerP3) | [Stoned Jesus](https://open.spotify.com/artist/23lyMLxYNPS15hpVvFNptR) | [Get What You Deserve](https://open.spotify.com/album/7EYbyvtr4Bxu2JaNr3gI9f) | 9:10 |
-| 79 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
-| 80 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
+| 79 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 |
+| 80 | [Neptune's Convoy](https://open.spotify.com/track/7xHGadsZ5bDQGejhO20dAc) | [Fu Manchu](https://open.spotify.com/artist/1TKaUU8ooBgSW9TlyKsw6k) | [In Search Of](https://open.spotify.com/album/0deN3iVx64asyGoRt3CdLL) | 5:06 |
 | 81 | [All My Friends Move Like The Night](https://open.spotify.com/track/51zsxlFDynOCGjue3AQEpR) | [Devil Electric](https://open.spotify.com/artist/3utQcH2w7TpPvkv2mOusjA) | [All My Friends Move Like The Night](https://open.spotify.com/album/5AUcuKVvfLcwrdNWffeQNK) | 2:53 |
 | 82 | [Gold](https://open.spotify.com/track/07BVvXzxEW7rVevyzMGoRY) | [All The Saints](https://open.spotify.com/artist/1PZosGVPUJsUutzmjdWwSZ) | [Gold](https://open.spotify.com/album/3fLLE6oA9YHm1NsZwrKvpF) | 5:11 |
 | 83 | [Unemployment Office](https://open.spotify.com/track/4D1lsLazP8nXS36QdwYQ4l) | [Goat](https://open.spotify.com/artist/6jP9Z7o6WlbYvKUOeO5SbP) | [Unemployment Office](https://open.spotify.com/album/3pPCeH1QA2JtRdbd0ggwLk) | 3:24 |
 | 84 | [Riding Shotgun](https://open.spotify.com/track/4h4k0Si2wh2mCxfyo1jiNm) | [Lowrider](https://open.spotify.com/artist/2ofc2suzjVzbu2EVToSKHW) | [Ode To IO](https://open.spotify.com/album/0pu7grkQZ9rCK1ftl2DcYj) | 6:06 |
 | 85 | [Heavy Feather](https://open.spotify.com/track/2xNNlMrmDEYzrr09jTzjOb) | [Acrimony](https://open.spotify.com/artist/2pxnGBHxpXFIujVn8oRg37) | [Tumuli Schroomaroom](https://open.spotify.com/album/12XvsurHh60DXJCz2heaLz) | 9:59 |
 | 86 | [Arise](https://open.spotify.com/track/6Sq8Tkk3piqcxTzkrWiZao) | [Hippie Death Cult](https://open.spotify.com/artist/4IZavjyt6nf7m5fq31pjXl) | [Arise](https://open.spotify.com/album/2aXbEHQTfNI4xQ4jLoMy4d) | 6:02 |
-| 87 | [Kiss Away](https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Saved by Magic](https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD) | 5:34 |
-| 88 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
+| 87 | [CLDZ](https://open.spotify.com/track/44BjQLjy1ShaviwGBobWi1) | [Gozu](https://open.spotify.com/artist/3CcEVa0kc113lQDnVTyIBg) | [CLDZ](https://open.spotify.com/album/1TQbXepj5CEXWpxz2HZQ34) | 6:56 |
+| 88 | [Kiss Away](https://open.spotify.com/track/35OoYjqJdg27FpA2zD9IYQ) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Saved by Magic](https://open.spotify.com/album/1ZMIcvk2Mxow7HI9VUKBWD) | 5:34 |
 | 89 | [Run Run Run Run Run](https://open.spotify.com/track/4eq2k7bPZRxdFjSVEPzWWw) | [Ghost Pipe](https://open.spotify.com/artist/3KZfBmHz2w9poyei71SRu0) | [Run Run Run Run Run](https://open.spotify.com/album/5edqqFdJcdqWplVNg0owfZ) | 5:29 |
 | 90 | [Tested By Death](https://open.spotify.com/track/0m6wZIKsMjBfReiuCTkaYz) | [Wizard Master](https://open.spotify.com/artist/6X1zEmVicCUxyjqKVxOGNH) | [Tested By Death](https://open.spotify.com/album/0GZ3kOIZdziDYGg585OUBb) | 8:32 |
 | 91 | [Rockin' Course](https://open.spotify.com/track/6zpn0NmeEhm6n4qpmNtKFY) | [Thumlock](https://open.spotify.com/artist/5Ub4KBLHbznhFUc3b5t9Ha) | [Emerald Liquid Odyssey](https://open.spotify.com/album/0oHLdnN5Wcpo4bBC3WUb5O) | 3:09 |

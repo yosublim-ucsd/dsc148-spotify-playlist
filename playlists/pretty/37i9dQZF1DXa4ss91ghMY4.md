@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 
 > Chegou a hora de sair da cama e deixar seu dia mais pop! LEVANTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 579,569 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 579,615 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa4ss91ghMY4.md) - [plain]
 | 13 | [Golden](https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:28 |
 | 14 | [In Your Eyes](https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:57 |
 | 15 | [34+35](https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions](https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd) | 2:53 |
-| 16 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
+| 16 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
 | 17 | [All Too Well \(10 Minute Version\) \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 10:13 |
-| 18 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 |
+| 18 | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/track/748mdHapucXQri7IAO8yFK) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kiss Me More \(feat\. SZA\)](https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt) | 3:28 |
 | 19 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 |
 | 20 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
 | 21 | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/track/4w8niZpiMy6qz1mntFA5uM) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Taki Taki \(with Selena Gomez, Ozuna & Cardi B\)](https://open.spotify.com/album/0ZHyvPke0EcVt6rYA8Ins3) | 3:32 |

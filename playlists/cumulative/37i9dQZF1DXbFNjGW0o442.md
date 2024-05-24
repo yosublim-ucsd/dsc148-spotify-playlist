@@ -4,13 +4,13 @@
 
 > Guerreras del rock latinoamericano\. Foto: Barbi Recanati
 
-276 songs - 16 hr 24 min
+277 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#3](https://open.spotify.com/track/1uRihlRJsDwZDua2HzUTMs) | [Caro Luisa](https://open.spotify.com/artist/5jpYEIn8PiFl8HmZ0sFpOb) | [\#3](https://open.spotify.com/album/2ngqOCSgr6VREfGkEsmm3m) | 3:45 | 2022-01-20 | 2022-07-28 |
 | [02:51](https://open.spotify.com/track/6ZxMFRBxRW0jLWiVs9RKFB) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [02:51](https://open.spotify.com/album/38Uuksmr3lpYuUQGbH2YIl) | 4:11 | 2023-05-12 | 2023-09-22 |
-| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 |  |
+| [14:14](https://open.spotify.com/track/6By9CmyvJ1LHf5vxMQPMho) | [MOY](https://open.spotify.com/artist/2yTkC3PLhJN8QHqNIz8w1V) | [14:14](https://open.spotify.com/album/3687TLG5RfZ7BT8bFBYZhk) | 3:11 | 2022-01-20 | 2024-05-24 |
 | [2 Espinas](https://open.spotify.com/track/4WlGBEqRSW6lRGatGMB4h0) | [Jessy Bulbo](https://open.spotify.com/artist/2icB5yGi569VGjYogZtSvT) | [2 Espinas](https://open.spotify.com/album/79pU5sxVgLMHTRG4gbMzvV) | 3:31 | 2022-01-20 | 2024-05-01 |
 | [420](https://open.spotify.com/track/3YwPUBBP5zKXqnsmpbOKka) | [Boconas](https://open.spotify.com/artist/5QUMXH6cu4OHbGqT4uQRJI) | [420](https://open.spotify.com/album/5TWt1ln4nz4OxObp3QJPqW) | 2:36 | 2022-01-20 | 2022-07-17 |
 | [A 1200 Km](https://open.spotify.com/track/4zdEcOj9IEAE1cWG7zzYxB) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 3:49 | 2022-01-20 | 2024-04-19 |
@@ -46,6 +46,7 @@
 | [Camping](https://open.spotify.com/track/6gWPba7W9RrpZn6r6Y90Yg) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Camping](https://open.spotify.com/album/1vXA2w1smHlu6TRNzQfNUu) | 3:07 | 2022-01-20 | 2022-07-29 |
 | [Cancion Del Pinar](https://open.spotify.com/track/4YPLZxPs21yQQ1noPsLWNo) | [Silvina Garre](https://open.spotify.com/artist/6q9n20PmMRLtZc1xCgq0r3) | [La Mañana Siguiente](https://open.spotify.com/album/3FiojM8DKWg6Jo4fYbc4qg) | 3:41 | 2022-01-20 |  |
 | [Carapazón](https://open.spotify.com/track/0mjtqNKNsTyEugEbZ6aXji) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:25 | 2022-01-20 |  |
+| [Casa para armar](https://open.spotify.com/track/7gKotkNnngkPkbozHAJDNj) | [Lula Meulén](https://open.spotify.com/artist/4BXlJ75aDTXmxTh0kBNhEE) | [Radiante Micelio](https://open.spotify.com/album/6PpaJcekbkECOiCzo4Czlm) | 3:22 | 2024-05-09 |  |
 | [Change Your Mind](https://open.spotify.com/track/5yqgKyX1TOG41LBSosE1X8) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Change Your Mind](https://open.spotify.com/album/4DmQXKj0chk1Prwe0rbkhe) | 2:27 | 2023-08-25 |  |
 | [Chica Rutera](https://open.spotify.com/track/7mULoTsK56Nfyf7o50LKk3) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Poseidotica](https://open.spotify.com/artist/35c7I7m05XIsgtiCq1o99U) | [Chica Rutera](https://open.spotify.com/album/677rkyQAwxStGoAqiRiLiy) | 5:08 | 2022-01-20 | 2024-02-21 |
 | [Chica Violeta](https://open.spotify.com/track/33LXQJNNaKTHEZitBkU6w4) | [Catalina Ammaturo](https://open.spotify.com/artist/2qDGiovKpP5yS5jD2WfH7a) | [Chica Violeta](https://open.spotify.com/album/6kyBU0La8C9ulnPamJzcD7) | 6:26 | 2023-09-01 |  |

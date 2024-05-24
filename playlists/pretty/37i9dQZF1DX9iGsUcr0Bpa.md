@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 
 > Classics from trailblazing women in hip\-hop\. Cover: Ms\. Lauryn Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,973 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,024 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9iGsUcr0Bpa.md) - [plain]
 | 44 | [Candy](https://open.spotify.com/track/77jEqaW8UgLiiBNEhjtAFW) | [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Broken Silence](https://open.spotify.com/album/0V5LKel3fj8JvCNeYHWCuU) | 3:43 |
 | 45 | [Cold Rock a Party \(feat\. Missy Misdemeanor Elliott\) \- Bad Boy Remix](https://open.spotify.com/track/0hfNQm7gmjbIFlKiHoiACx) | [MC Lyte](https://open.spotify.com/artist/2ZbWlThDW0qSbI3hinpl0w), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Bad Boy](https://open.spotify.com/artist/30YAm5k11pWaOvbHcNhi08) | [Bad As I Wanna B](https://open.spotify.com/album/1E3ssiuLLWw9OqRYQ59UjK) | 4:37 |
 | 46 | [Just Another Day...](https://open.spotify.com/track/48FC4RXepyOHJFTyFuQkm0) | [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt) | [Black Reign](https://open.spotify.com/album/7fSY44jcjgt6jGzSQdZZjJ) | 4:28 |
-| 47 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
+| 47 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
 | 48 | [Da Baddest Bitch](https://open.spotify.com/track/1rBittbf1aWwzeW28dI7Lv) | [Trina](https://open.spotify.com/artist/4PrinKSrmILmo0kERG0Ogn) | [Da Baddest Bitch](https://open.spotify.com/album/5tXpmutwVnXITJLptIssVU) | 3:15 |
 | 49 | [Where Dem Dollas At \(feat\. DJ Paul & Juicy J\)](https://open.spotify.com/track/7foHBs2UUa9YX4UWQlOfiC) | [Gangsta Boo](https://open.spotify.com/artist/3ppZNqihWOzuH4A0f4KmeP), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [Enquiring Minds](https://open.spotify.com/album/5NO9yCV2HynW4xBxIKrEYp) | 4:29 |
-| 50 | [True Honey Buns \(Dat Freak Shit\)](https://open.spotify.com/track/5zhA0hcJGQmiFkGtx19eOT) | [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Kollage](https://open.spotify.com/album/4ioG1W3KU4WBhYlwEBp7BA) | 3:41 |
+| 50 | [You Can't Play with My Yo\-Yo \(feat\. Ice Cube\)](https://open.spotify.com/track/7yFVwzeawvaoysd2fyCR8t) | [Yo\-Yo](https://open.spotify.com/artist/6kL8ioxe4mWK945hvcHLkS), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Make Way For The Motherlode](https://open.spotify.com/album/0mSz5kMqndsfPQ0i0XoKEl) | 5:04 |
 
 Snapshot ID: `Zj6U+AAAAAAWEiX77/PPCI1OuPNY1Y9B`

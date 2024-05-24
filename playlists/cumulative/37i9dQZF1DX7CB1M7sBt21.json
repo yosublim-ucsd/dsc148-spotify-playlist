@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172536,
       "name": "Electric",
       "url": "https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ"
@@ -2796,6 +2796,36 @@
       "duration_ms": 140078,
       "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
       "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+    },
+    {
+      "album": {
+        "name": "Kids (feat. Julia Hallasen)",
+        "url": "https://open.spotify.com/album/0tBDmVJt4U9BLiSt5DoPW8"
+      },
+      "artists": [
+        {
+          "name": "Amero",
+          "url": "https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf"
+        },
+        {
+          "name": "DLAY",
+          "url": "https://open.spotify.com/artist/6DkYYBzjkkFZeVJqvZFHLT"
+        },
+        {
+          "name": "Hallasen",
+          "url": "https://open.spotify.com/artist/0stEc1T1y9bWD4BKxyqd1C"
+        },
+        {
+          "name": "Julia Hallasen",
+          "url": "https://open.spotify.com/artist/31Izzl2gwnqQ3G4LKCyEup"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124166,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/7hYgZZqNjZJfep8MYYfHIW"
     },
     {
       "album": {
@@ -5222,6 +5252,28 @@
       "duration_ms": 208555,
       "name": "Straight From the Heart (feat. N\u00f8rskov)",
       "url": "https://open.spotify.com/track/4AqyqhDduUCYzwXcFIrhWL"
+    },
+    {
+      "album": {
+        "name": "Summer Dreaming",
+        "url": "https://open.spotify.com/album/1utYmp79N55k5BY0X3tv4R"
+      },
+      "artists": [
+        {
+          "name": "Bingo Players",
+          "url": "https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK"
+        },
+        {
+          "name": "Pure Shores",
+          "url": "https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182867,
+      "name": "Summer Dreaming",
+      "url": "https://open.spotify.com/track/5tJjs0KFkVzMWCXZGu10G8"
     },
     {
       "album": {

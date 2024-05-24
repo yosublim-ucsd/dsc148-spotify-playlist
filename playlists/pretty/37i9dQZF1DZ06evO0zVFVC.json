@@ -1,12 +1,12 @@
 {
-  "description": "This is Parkway Drive. The essential tracks, all in one playlist.",
-  "num_followers": 96030,
+  "description": "This is: Parkway Drive. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 96045,
   "original_name": "This Is Parkway Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABedy3oIeMH5AqBoQ8gk/nc",
+  "snapshot_id": "Zk01gAAAAAAsdco2mpvX0tJNFuJWWpqV",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Horizons (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Boneyards",
+      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ire (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 240631,
       "name": "A Deathless Song",
       "url": "https://open.spotify.com/track/6V68CLsCg05KRTX1MgTC2V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Horizons (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4GnybptVxP8FoxVfnSjMqM"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Boneyards",
-      "url": "https://open.spotify.com/track/0TIef4jRYHONrw4BVvDGT0"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ire (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
+        "name": "Killing With A Smile",
+        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 210012,
-      "name": "Into the Dark",
-      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
+      "duration_ms": 220346,
+      "name": "Smoke 'Em If You Got 'Em",
+      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
     },
     {
       "added_at": null,
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 220346,
-      "name": "Smoke 'Em If You Got 'Em",
-      "url": "https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5"
+      "duration_ms": 211393,
+      "name": "Anasasis (Xenophontis)",
+      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viva The Underdogs",
-        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
+        "name": "Ire (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2TecLVINEJwpDnWepQuMXr"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 233700,
-      "name": "Die Leere",
-      "url": "https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD"
+      "duration_ms": 210012,
+      "name": "Into the Dark",
+      "url": "https://open.spotify.com/track/46ZYSOvGGQRFC5cbEHUNKi"
     },
     {
       "added_at": null,
@@ -700,9 +700,25 @@
           "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
         }
       ],
-      "duration_ms": 211393,
-      "name": "Anasasis (Xenophontis)",
-      "url": "https://open.spotify.com/track/7h43QeYBcQIWb2OFcspoPb"
+      "duration_ms": 256829,
+      "name": "It's So Hard To Speak Without A Tongue",
+      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Viva The Underdogs",
+        "url": "https://open.spotify.com/album/5wLd53vzbBM0TIa0NmwxGb"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 233700,
+      "name": "Die Leere",
+      "url": "https://open.spotify.com/track/1c4c8iipyUGlCbpwDvomRD"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
       "duration_ms": 248506,
       "name": "Dream Run",
       "url": "https://open.spotify.com/track/5TeolAk3EbSPxafusAbL3S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Killing With A Smile",
-        "url": "https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 256829,
-      "name": "It's So Hard To Speak Without A Tongue",
-      "url": "https://open.spotify.com/track/5B1LaPTAASab9ObgycVmLl"
     },
     {
       "added_at": null,

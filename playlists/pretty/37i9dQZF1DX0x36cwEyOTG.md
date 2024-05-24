@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,193 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,192 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 38 | [Come and See](https://open.spotify.com/track/30dcEOSx5y5KNInniobGoc) | [Lean Year](https://open.spotify.com/artist/5DNcrT0ZrO00AsUqLrUjmR) | [Lean Year](https://open.spotify.com/album/0hamxL9J3GEDVn9ePVsQeo) | 3:39 |
 | 39 | [Hours](https://open.spotify.com/track/7us2Yx4bZw5x1sYic7XXyw) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 4:07 |
 | 40 | [Alone](https://open.spotify.com/track/4CztNwbrYUjnmjNKi5etEn) | [Logan and Isabel](https://open.spotify.com/artist/14P8mkOjjBxwgUgAO5sbAQ) | [Alone](https://open.spotify.com/album/6NLPPOovFxmrlmTMAZS6d4) | 3:02 |
-| 41 | [Stay](https://open.spotify.com/track/2Ux24Mdegm7ZP6dfOm6cFc) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 4:08 |
-| 42 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |
+| 41 | [Summer](https://open.spotify.com/track/7rY9qTVYJziRT87gI8KPra) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Home](https://open.spotify.com/album/1iWIdNirSM5jBeSUl6R5JE) | 5:22 |
+| 42 | [Stay](https://open.spotify.com/track/2Ux24Mdegm7ZP6dfOm6cFc) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Better in the Shade](https://open.spotify.com/album/2PC061YFMYlzg68TvDeCEG) | 4:08 |
 | 43 | [A Single Roof](https://open.spotify.com/track/0YCAnZ2CVi7NVu0iXrlSG6) | [From The Mouth of The Sun](https://open.spotify.com/artist/6UpouK3jks1yWvXxjDFB5S) | [A Broken House](https://open.spotify.com/album/4GeOn3aGUAyZ5yT5kapePX) | 2:15 |
 | 44 | [Interlude I \(The End\)](https://open.spotify.com/track/1bApBBq8aa3GYHOX8Mdsp9) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 1:14 |
 | 45 | [January 31, 2018: Super Blue Blood Moon](https://open.spotify.com/track/0Wr8Y0YistxIYJ0JiGiYRQ) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Astronomy, Vol\. 1](https://open.spotify.com/album/5wsaSNJTS4x2XhO30SD3NL) | 2:22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Snuggling in for the evening with a nice soundtrack
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,409 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,501 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,12 +42,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 32 | [New Year’s Day](https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [reputation](https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv) | 3:55 |
 | 33 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
 | 34 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 |
-| 35 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
-| 36 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
+| 35 | [Fallin' All In You](https://open.spotify.com/track/5EYBryPOgIEPB7r5QIy6eG) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:55 |
+| 36 | [Now And Then](https://open.spotify.com/track/4vziJcnB2Qyi9o4nIRUeN7) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Now And Then](https://open.spotify.com/album/2qQP2NgOoH6HqknnbpJmIk) | 4:08 |
 | 37 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
 | 38 | [Out Of Love](https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [The Pains Of Growing](https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt) | 3:47 |
-| 39 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
-| 40 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
+| 39 | [We're Going to Be Friends](https://open.spotify.com/track/13lZDbwonGhOflQLQIfdtZ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [White Blood Cells](https://open.spotify.com/album/6Xvc1TfpVEhDeHhmTQEtp0) | 2:20 |
+| 40 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 | 41 | [Boyfriends](https://open.spotify.com/track/6qj02zSeEJGWZ4c0dn5QzJ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:14 |
 | 42 | [Put A Little Love On Me](https://open.spotify.com/track/7LyBwug9tJgbaEzRCqtY78) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Heartbreak Weather](https://open.spotify.com/album/5gdoRB1AUsGnScCuZ8gmPp) | 3:44 |
 | 43 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 67 | [All I Need To Hear](https://open.spotify.com/track/42Q00bTTgyQhPE2FVWaoJE) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [All I Need To Hear](https://open.spotify.com/album/13ztfgangyOF3Mxt5VbE1s) | 3:30 |
 | 68 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
 | 69 | [Wicked Game \- Recorded at Electric Lady Studios, NYC \(feat\. Chris Isaak\)](https://open.spotify.com/track/7rSSVVqC2sqDhmt1LfWm3J) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Spotify Singles](https://open.spotify.com/album/3CtjXkvmvOyiSld7yBZkJ2) | 4:51 |
-| 70 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
-| 71 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 70 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 71 | [Distance](https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Distance](https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC) | 4:15 |
 | 72 | [birthday cake \- duet](https://open.spotify.com/track/3Tp79U6sWi6yRywJI3BBsP) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30), [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [birthday cake \(duet\)](https://open.spotify.com/album/78CzILlKk9yPskjMLtHTPs) | 3:25 |
 | 73 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
 | 74 | [Regardless](https://open.spotify.com/track/1lkG393ntU03g6Y2pNKTj6) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Regardless](https://open.spotify.com/album/3kf4QtJyUo1YGs9eNJLOD7) | 3:09 |

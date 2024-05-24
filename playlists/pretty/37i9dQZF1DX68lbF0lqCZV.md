@@ -4,25 +4,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68lbF0lqCZV.md) - [plain]
 
 > Con mucho corazón 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,899 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,940 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Una y Otra Vez](https://open.spotify.com/track/0bK3jxkbq5cDKWr68KtO8G) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Manuel Medrano](https://open.spotify.com/album/3XeEBV0owMhwHmyLfaMxwg) | 3:10 |
-| 2 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
-| 3 | [Porfa no te vayas](https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Porfa no te vayas](https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s) | 3:29 |
-| 4 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 |
-| 5 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
-| 6 | [Una Lady Como Tú](https://open.spotify.com/track/5jf0PmPCHefQ78uAzqIqbj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:33 |
-| 7 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
-| 8 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
-| 9 | [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 |
-| 10 | [Tú](https://open.spotify.com/track/7f78dONLuMhM5WRM6S8G2m) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Tú](https://open.spotify.com/album/2UkSswdvKoJrnb2syl9Eae) | 3:37 |
-| 11 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
-| 12 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
-| 13 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
-| 14 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
-| 15 | [21 de septiembre](https://open.spotify.com/track/6oTDC7wBYS5pURSQEMEcBz) | [Greccia](https://open.spotify.com/artist/7Kt1VI4cn5dO0jv8SzzV6K) | [21 de septiembre](https://open.spotify.com/album/3a1GwfJPTWJjSwh4KwxTko) | 2:07 |
+| 2 | [Confieso](https://open.spotify.com/track/6EgQ0qOpwA83iRDSFBNtUc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Confieso](https://open.spotify.com/album/3py5UQNoZMecvronNEQp41) | 2:58 |
+| 3 | [Una Lady Como Tú](https://open.spotify.com/track/5jf0PmPCHefQ78uAzqIqbj) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ADN](https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi) | 3:33 |
+| 4 | [La Boda](https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [cuatro](https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7) | 4:09 |
+| 5 | [Te Amo](https://open.spotify.com/track/2RVrdr062uLFxXwIxwdXPH) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Te Amo](https://open.spotify.com/album/0sF2dhoiBLVMvuv6qRIpYI) | 3:21 |
+| 6 | [Soy un HP](https://open.spotify.com/track/70GjuOgd1NuiPTs82JBIUn) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Soy un HP](https://open.spotify.com/album/6tg2yjTAqpo2o8uInNcS4R) | 2:26 |
+| 7 | [Porfa no te vayas](https://open.spotify.com/track/4J2HLNTxiVxxs6kWgTIN43) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Porfa no te vayas](https://open.spotify.com/album/5m71js7NkNRQNtS1wmfH7s) | 3:29 |
+| 8 | [The One \(Pero No Como Yo\)](https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [The One \(Pero No Como Yo\)](https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX) | 2:56 |
+| 9 | [Kapun](https://open.spotify.com/track/0Ga0XkazLanxpcBHHJYTqM) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Kapun](https://open.spotify.com/album/5Eotsaakg0bfG9AM9UROwW) | 3:03 |
+| 10 | [PLIS](https://open.spotify.com/track/3n09XAEgP8s2gPXmdoUe2Z) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [PLIS](https://open.spotify.com/album/1Zbxfjz8ovbTb2mMX5kYCX) | 3:42 |
+| 11 | [Tarde](https://open.spotify.com/track/2TjbYeDUbfTK9xTdj6oyuR) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Antes De Que Amanezca](https://open.spotify.com/album/2gg7wgRW4yK27ex7rNvWuW) | 2:42 |
+| 12 | [Tú](https://open.spotify.com/track/7f78dONLuMhM5WRM6S8G2m) | [Gian Marco](https://open.spotify.com/artist/2gDqGAadPIPiA7LtmNn74g), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Tú](https://open.spotify.com/album/2UkSswdvKoJrnb2syl9Eae) | 3:37 |
+| 13 | [AMOR](https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [AMOR](https://open.spotify.com/album/0fX4euR7RfVsuoa9wewXyj) | 3:00 |
+| 14 | [Ella](https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [ÁNGEL](https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N) | 3:07 |
+| 15 | [Morena](https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Morena](https://open.spotify.com/album/4WRcqPJRVwjF0n6ZFwaD83) | 3:08 |
 | 16 | [Solamente tú](https://open.spotify.com/track/7sRXhReWmJF5pqyg3uUTES) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Pablo Alboran \(Deluxe\)](https://open.spotify.com/album/1PfEXmG8ioEwsj7qDaCQXc) | 4:07 |
 | 17 | [SINCERAMENTE](https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [LOS MUCHACHOS](https://open.spotify.com/album/79TZva6XBzzPDcQggKgGaa) | 3:19 |
 | 18 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68lbF0lqCZV.md) - [plain]
 | 49 | [KESI \- Remix](https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [KESI \(Remix\)](https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3) | 2:56 |
 | 50 | [Amantes](https://open.spotify.com/track/3IyPnNX142pvWx6D5CiimD) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Amantes](https://open.spotify.com/album/4tkqeWRaQHPzPRQFX8o9Vi) | 3:55 |
 
-Snapshot ID: `ZeFglAAAAACU4P78gNB+2Rx7NYL3HD7d`
+Snapshot ID: `Zk/YvAAAAACcgvir59s9NePYk4NVC0gQ`

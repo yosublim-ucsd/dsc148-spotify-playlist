@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 18985,
+  "num_followers": 18989,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Tesoros De Coleccion - Libertad Lamarque",
-        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
+        "name": "Martingala",
+        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
       },
       "artists": [
         {
-          "name": "Libertad Lamarque",
-          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
         }
       ],
-      "duration_ms": 178706,
-      "name": "Tango Negro",
-      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
+      "duration_ms": 183177,
+      "name": "Villa Crespo",
+      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
-        "name": "Martingala",
-        "url": "https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc"
+        "name": "Tesoros De Coleccion - Libertad Lamarque",
+        "url": "https://open.spotify.com/album/5MOU8QeUpJ7vCBfVi5sM1p"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Libertad Lamarque",
+          "url": "https://open.spotify.com/artist/4obTALkglm8PARkVVik9KZ"
         }
       ],
-      "duration_ms": 183177,
-      "name": "Villa Crespo",
-      "url": "https://open.spotify.com/track/2Wy6jMql4zbkK13xG5XD59"
+      "duration_ms": 178706,
+      "name": "Tango Negro",
+      "url": "https://open.spotify.com/track/4uW2GXaccUXFxCcBzLaxtE"
     },
     {
       "added_at": "2024-05-17 14:18:57",
@@ -883,6 +883,26 @@
     {
       "added_at": "2024-05-17 14:18:57",
       "album": {
+        "name": "Iluminame, por Favor",
+        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
+      },
+      "artists": [
+        {
+          "name": "Chifladas Tango",
+          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
+        },
+        {
+          "name": "Suarez&Torres",
+          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
+        }
+      ],
+      "duration_ms": 221633,
+      "name": "Iluminame, por Favor",
+      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
+    },
+    {
+      "added_at": "2024-05-17 14:18:57",
+      "album": {
         "name": "Pobre Flor (Primera Ilusi\u00f3n)",
         "url": "https://open.spotify.com/album/4AzE3DULdR9WjtXG8UwqGu"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 133000,
       "name": "Malena",
       "url": "https://open.spotify.com/track/1U0UYJWWUzmrJ0mhj9wwRw"
-    },
-    {
-      "added_at": "2024-05-17 14:18:57",
-      "album": {
-        "name": "Iluminame, por Favor",
-        "url": "https://open.spotify.com/album/5Gx8hAOqxeUOpk4gfbHdrs"
-      },
-      "artists": [
-        {
-          "name": "Chifladas Tango",
-          "url": "https://open.spotify.com/artist/6ECEEja2Mu2I8UxShoTgfB"
-        },
-        {
-          "name": "Suarez&Torres",
-          "url": "https://open.spotify.com/artist/3iSir4AjnV4yakBYqKQfti"
-        }
-      ],
-      "duration_ms": 221633,
-      "name": "Iluminame, por Favor",
-      "url": "https://open.spotify.com/track/4yrVod77eUOgvpBkLwHIgn"
     },
     {
       "added_at": "2024-05-17 14:18:57",

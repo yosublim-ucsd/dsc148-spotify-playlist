@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 
 > 2016 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,896 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,936 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 14 | [Broken Bones](https://open.spotify.com/track/0lwUIYJfWGB8qUEAJtYfb6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 4:05 |
 | 15 | [Youth](https://open.spotify.com/track/1LPGwuFgIzbJoShfDdw7MY) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 3:50 |
 | 16 | [7](https://open.spotify.com/track/5ykbOijJEfRhuo2Td1m0Qd) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:16 |
-| 17 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
-| 18 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
+| 17 | [All We Ever Knew](https://open.spotify.com/track/72zmwnbXjx9fMUjw3mbDSs) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Signs of Light](https://open.spotify.com/album/0EFitK3T7hqin7iGMbpltM) | 3:45 |
+| 18 | [Sweet Dreams, TN](https://open.spotify.com/track/1W0OCrMsRP1SLTEdw3JwEz) | [The Last Shadow Puppets](https://open.spotify.com/artist/2Z7UcsdweVlRbAk5wH5fsf) | [Everything You've Come To Expect \(Deluxe Edition\)](https://open.spotify.com/album/6q1ZuWCnYTQb7KhXHZo947) | 3:56 |
 | 19 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
 | 20 | [Charlemagne](https://open.spotify.com/track/7H5WVBQdSnJ1zmu8JoD6pg) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Blossoms](https://open.spotify.com/album/7wCgsWaxfGis7NAHYn8JFk) | 2:46 |
 | 21 | [The Sound](https://open.spotify.com/track/7h6lpVuSGPW6RNjDXKpYDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:08 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 36 | [For Elise](https://open.spotify.com/track/6i40XRqEwHAnSxwZWasMRp) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [saintmotelevision](https://open.spotify.com/album/43URJ507cdoIRy3GJdfxjs) | 3:23 |
 | 37 | [Decks Dark](https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:41 |
 | 38 | [Season 2 Episode 3](https://open.spotify.com/track/4vcoNCrTtunmJ9q8srpVly) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [How To Be A Human Being](https://open.spotify.com/album/6qb9MDR0lfsN9a2pw77uJy) | 4:03 |
-| 39 | [Real Love Baby](https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa) | 3:09 |
-| 40 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 39 | [Silvertongue](https://open.spotify.com/track/0yTJtxZJ5VLfBEHhiNUNeY) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Home of the Strange](https://open.spotify.com/album/3PYk8e7eo2t5CA1Y3AvhaG) | 3:17 |
+| 40 | [Real Love Baby](https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Real Love Baby](https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa) | 3:09 |
 | 41 | [Soundcheck](https://open.spotify.com/track/60W7Co2AoP5VVG5Gwu6p5P) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 4:21 |
 | 42 | [2 / 14](https://open.spotify.com/track/2QwpEi3eNToZCCMMRcOj0u) | [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [My Thoughts On You](https://open.spotify.com/album/6itEtMM5U5hc5klRxnDvBx) | 2:43 |
 | 43 | [Burn the Witch](https://open.spotify.com/track/3DpuYpzkvUWXbmzCm6pfzR) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 3:40 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 73 | [Someone That Loves You](https://open.spotify.com/track/2a5Ml671R56tzRB0WMaCfC) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Izzy Bizu](https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ) | [Warm on a Cold Night \(Deluxe\)](https://open.spotify.com/album/6hmakfMxhTWYmSUed1HPFA) | 4:04 |
 | 74 | [Bad Decisions](https://open.spotify.com/track/6NoVGd3nTHsmBV1yduWRta) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Gameshow \(Deluxe Edition\)](https://open.spotify.com/album/6PmuEq2op3EMw1ZhCjjucB) | 4:57 |
 | 75 | [Worry](https://open.spotify.com/track/5mLcaGVV89H58FWJ677E6K) | [Jack Garratt](https://open.spotify.com/artist/1Zp054Jc86WVKCxKEqZGOA) | [Phase \(Deluxe\)](https://open.spotify.com/album/5NvSqYFMTXEkp2jAc3tFYR) | 4:02 |
-| 76 | [Angela](https://open.spotify.com/track/6Zz5CiVpQk2Fz2nV8m3YQm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
-| 77 | [Aloha](https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Aloha](https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ) | 3:38 |
+| 76 | [Aloha](https://open.spotify.com/track/4uNDs2TBsv2KX9b4LIxfdt) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [Merryn Jeann](https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT) | [Aloha](https://open.spotify.com/album/0N7Gsf3ENH7bPbUZDRCYOQ) | 3:38 |
+| 77 | [Angela](https://open.spotify.com/track/6Zz5CiVpQk2Fz2nV8m3YQm) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/5y1YWb4OONEGbxZQLRNUwO) | 3:21 |
 | 78 | [Bum Bum Bum](https://open.spotify.com/track/5Ob2Wt2IifgoFrSFrBnRZJ) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:59 |
 | 79 | [Fire](https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA) | [Diskopunk](https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp) | [Fire](https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz) | 3:17 |
 | 80 | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/track/0b8mGZFzNge8J9PsgGdudT) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [WHERE THE HELL ARE MY FRIENDS](https://open.spotify.com/album/64xUD4qC1fHeidCNlv2UGC) | 3:36 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XnW5YpwS0o.md) - [plain]
 | 92 | [Dark Days](https://open.spotify.com/track/7j24QT8Ic9jezjH0s4Lg5B) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2wLujLyrTLBSeU1UrtDd9e) | 3:01 |
 | 93 | [Not Allowed](https://open.spotify.com/track/0jA4h2SD50Oak4C3Vn905a) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Who Really Cares](https://open.spotify.com/album/5tm1XKTwxHAL80b1yoPQ5U) | 2:47 |
 | 94 | [Lover Is a Day](https://open.spotify.com/track/76tGvMdmFKuiMew33ZNNA9) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [wannabewithu](https://open.spotify.com/album/6dpQfnFTwIXPJ864jeldWW) | 7:36 |
-| 95 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 |
-| 96 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 |
-| 97 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |
+| 95 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 |
+| 96 | [Somebody Else](https://open.spotify.com/track/34i4yxPrHWquuR4kjiivFO) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [Somebody Else](https://open.spotify.com/album/3Q4yhhyFA2cpZq2FGOgMwU) | 3:53 |
+| 97 | [Easier](https://open.spotify.com/track/6VfLQ8dYSnnY13DpDSMfuq) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Shadowboxer](https://open.spotify.com/album/4pZrPnENK2NSEaBBo6rr8q) | 4:32 |
 | 98 | [29 \#Strafford APTS](https://open.spotify.com/track/4VZM71F8XAoLRuNyNLxwWS) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [22, A Million](https://open.spotify.com/album/1PgfRdl3lPyACfUGH4pquG) | 4:05 |
-| 99 | [Work](https://open.spotify.com/track/5T1xKMA4xA7MDX4EiB8Cup) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Work](https://open.spotify.com/album/1OzNHYZsbugdZIvC4cv1IT) | 3:44 |
-| 100 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 |
+| 99 | [Petals](https://open.spotify.com/track/1TVd8FHpeg1Afa92kaO0kR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:32 |
+| 100 | [No Woman](https://open.spotify.com/track/1CLmFKW99S8eJrebO3GB04) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Light Upon the Lake](https://open.spotify.com/album/5yMCA6HdFAeL1aqUjxO3MO) | 3:57 |
 
 Snapshot ID: `ZfhBBAAAAABYy2seEdO9sLsnpH9IDD2E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > Fjäderboa, dansgolv, allsång och tonartshöjningar \- nu är det mellofest! 🪩✨💜
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,950 likes - 52 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,949 likes - 52 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 14 | [Run To The Hills](https://open.spotify.com/track/6k4e5H3MbDzhEX3qJSWwpd) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Run To The Hills](https://open.spotify.com/album/2JWYQBemvSb20WykqdApO0) | 2:55 |
 | 15 | [Voices](https://open.spotify.com/track/5zxZ7M4RgWZUHlMEwac8vt) | [Tusse](https://open.spotify.com/artist/1BwDWgdDJe3TJXLZkBkpsI) | [Voices](https://open.spotify.com/album/55w4D3r62g4hmMVvpnVkSV) | 3:04 |
 | 16 | [Mer av dig](https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Mer av dig](https://open.spotify.com/album/3waGWjneO6tOSEAzfHusNp) | 2:44 |
-| 17 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
-| 18 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
+| 17 | [När vindarna viskar mitt namn](https://open.spotify.com/track/1nSyBcZr8IS9wZcFyvqqE7) | [Roger Pontare](https://open.spotify.com/artist/2eo54qMMNjVgFIxwhKfijG) | [När vindarna viskar mitt namn \- Single](https://open.spotify.com/album/7oSqWiKS8F3GGIh6ihn50H) | 3:04 |
+| 18 | [Where You Are \(Sávežan\)](https://open.spotify.com/track/4zPqv04ddAFwk2Pgz3jC9U) | [Arc North](https://open.spotify.com/artist/2kgvaYV2tbNyOonFI3YlfH), [Jon Henrik Fjällgren](https://open.spotify.com/artist/65lCLhmmyUwnPBD2Bq7FQx), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Where You Are \(Sávežan\)](https://open.spotify.com/album/249haOgXpuQsUSQelQ5OoE) | 2:56 |
 | 19 | [Vem e som oss](https://open.spotify.com/track/20052FYa2SF5Lkp9VZTLJX) | [Anis Don Demina](https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P) | [Vem e som oss](https://open.spotify.com/album/2KX1IGf0NJMA3p1wh57Ccb) | 2:55 |
 | 20 | [Främling](https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Främling 25 år](https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv) | 2:57 |
 | 21 | [Jag ljuger så bra](https://open.spotify.com/track/4IV8dOSLi26stONnuQg8Kf) | [Linda Bengtzing](https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV) | [Ingenting att förlora](https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l) | 3:04 |
-| 22 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
-| 23 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
+| 22 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 |
+| 23 | [On My Way](https://open.spotify.com/track/710xi8haZ3Os0wip67GcmY) | [Panetoz](https://open.spotify.com/artist/7DXjp1eSv6Xf759gmCiApa) | [On My Way](https://open.spotify.com/album/0a2HYm0GJXfRRk2DsSWTVc) | 3:05 |
 | 24 | [Cara mia](https://open.spotify.com/track/4vxn2p4GbiFhnVsIASACrf) | [Måns Zelmerlöw](https://open.spotify.com/artist/1IxP1g9VrPzJqXFCsuyHKe) | [Stand By For...](https://open.spotify.com/album/0Bt2FMVJpBg0g0fFiQjqoV) | 3:04 |
 | 25 | [Amazing](https://open.spotify.com/track/33qw98yPnShEQMoF72ORUa) | [Danny Saucedo](https://open.spotify.com/artist/5tVyieWwN9j09jXUovK2zN) | [Amazing](https://open.spotify.com/album/1B0mVsLzCERctx9aZDC5yN) | 3:01 |
 | 26 | [Manboy](https://open.spotify.com/track/4ut7uc5pTPixey8zomS5Ah) | [Eric Saade](https://open.spotify.com/artist/4zGH6gaO4NohcfCXZ31bQG) | [Masquerade](https://open.spotify.com/album/29npkCplHvsX4VZ6POOwMp) | 3:00 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 35 | [Never Give Up](https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4) | [Maria Sur](https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA) | [Never Give Up](https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP) | 2:59 |
 | 36 | [Bailá Bailá](https://open.spotify.com/track/3MMJuk00QLVAjS6vwBZ67V) | [Alvaro Estrella](https://open.spotify.com/artist/6RYT3r4anXD8WAGOw6T8El) | [Bailá Bailá](https://open.spotify.com/album/3bcMrj2XzJl776OdDXmrnF) | 2:53 |
 | 37 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
-| 38 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
-| 39 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
+| 38 | [As I Lay Me Down](https://open.spotify.com/track/5VIZcrKXPd9wL4hqE4YN8z) | [Wiktoria](https://open.spotify.com/artist/3gbaHBYDy62irTs0ZsHNmi) | [As I Lay Me Down](https://open.spotify.com/album/6PaokH8pvKEe116al1OyCT) | 3:09 |
+| 39 | [Evighet](https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt) | [Från nu till evighet](https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH) | 3:01 |
 | 40 | [In i dimman](https://open.spotify.com/track/5v5cNnwvtntSGSDR3BSVwq) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [In i dimman](https://open.spotify.com/album/6S7FvJ1tWSh7rqo8wey1Tm) | 2:53 |
 | 41 | [Växeln hallå](https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy) | [Janne Lucas](https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx) | [The Best Of](https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe) | 2:54 |
 | 42 | [Kizunguzungu](https://open.spotify.com/track/54xN08hKKJvg6p5vSXM26g) | [SaRaha](https://open.spotify.com/artist/5So3Ot8FgnAlkz4v02elso) | [Kizunguzungu](https://open.spotify.com/album/5p95oQuomBWw9kZqWFsQXj) | 3:04 |

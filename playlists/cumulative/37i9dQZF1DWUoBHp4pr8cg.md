@@ -2,9 +2,9 @@
 
 ### [Hip Hop Circle](https://open.spotify.com/playlist/37i9dQZF1DWUoBHp4pr8cg)
 
-> Only the hottest Hip Hop from Ricky Tyler \(pictured\) K.O & Maglera Doe Boy, Kendrick Lamar, and more...
+> Only the hottest Hip Hop from  Stogie T \(pictured\), Gunna, Kendrick Lamar, and more...
 
-281 songs - 15 hr 18 min
+284 songs - 15 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [No Regrets](https://open.spotify.com/track/1Bi8XmQs9vNPPkMQ3wyOux) | [Blackway](https://open.spotify.com/artist/1QvK8bFc2WREH4LDlJcJbi), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [No Regrets](https://open.spotify.com/album/7nmxATrQKN8u04O0IASv0b) | 2:25 | 2024-01-04 |  |
 | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/track/4MUlNqSrMeFAHA6VpJKMo8) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [No Time Wasted \(feat\. Future\)](https://open.spotify.com/album/2QHf3w0Kft5kqqEXBaHBDm) | 2:59 | 2023-03-06 | 2023-05-06 |
 | [Nomathemba](https://open.spotify.com/track/7tn8BQrBebUSW1AIES8svd) | [Duncan](https://open.spotify.com/artist/6ly70lDRQATSZLN2ptpEbL), [MusiholiQ](https://open.spotify.com/artist/7J8TsAqwQVAIOlloWCuW60), [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Nomathemba](https://open.spotify.com/album/6kHIXB4tDBmMyBHzgBnqet) | 3:07 | 2022-09-19 | 2022-11-11 |
+| [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-05-23 |  |
 | [Nothing Changed](https://open.spotify.com/track/48qgXl0CQUVYJVn6xv0rsP) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Nothing Changed](https://open.spotify.com/album/4Lo6GJMW4ctfhtuCqMkn1O) | 3:19 | 2022-09-29 | 2022-12-13 |
 | [Ntja'ka](https://open.spotify.com/track/4dk2L1zuiTfTLMLTQdyceb) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras) | [DUST](https://open.spotify.com/album/4Nmv2l2b9UUIeENMqIU3Ru) | 4:21 | 2024-02-08 |  |
 | [Oh U Went \(feat\. Drake\)](https://open.spotify.com/track/7qLr3HMApUbyDkUvgIvHnB) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 3:05 | 2023-06-23 |  |
@@ -268,6 +269,7 @@
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/0WNfQxDGaPTl0yogcMR5v1) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Anyways, Life’s Great…](https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC) | 3:29 | 2023-01-23 | 2023-03-07 |
 | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/track/7KXVIAuw3m2hxZanrpSXS3) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Tomorrow 2 \(with Cardi B\)](https://open.spotify.com/album/5o1xUBd8aM7qFhjlBXiIpb) | 3:29 | 2022-09-22 | 2023-02-24 |
 | [Tony Fontana III](https://open.spotify.com/track/4AaHIZNMciJU34kFU0v90x) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Tony Fontana III](https://open.spotify.com/album/1P1hGKDVh1HloPnyM4XKZ0) | 3:04 | 2022-10-13 | 2022-11-04 |
+| [Too Late for Mama](https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr) | [Stogie T](https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs), [BONJ](https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL) | [Shallow](https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S) | 3:32 | 2024-05-23 |  |
 | [Trance \(with Travis Scott & Young Thug\)](https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 3:14 | 2023-05-05 | 2024-02-09 |
 | [Treesha](https://open.spotify.com/track/2mzlyJ8Gb8cFMJvfENKnJQ) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Treesha](https://open.spotify.com/album/2AvGq63YVyGVyU0YqMecCy) | 1:45 | 2022-09-15 | 2022-10-14 |
 | [Truth](https://open.spotify.com/track/667Z6mId3zPL0Eg9oWkkTy) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Truth](https://open.spotify.com/album/2QRgLpkAKI9YvmBGrI4A1w) | 2:23 | 2022-10-06 | 2022-11-04 |
@@ -288,6 +290,7 @@
 | [We Run The Road](https://open.spotify.com/track/29zDAYgVf05ipZ8mndZzmJ) | [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [We Run The Road](https://open.spotify.com/album/74DfDzN8aWJRVVfRKSSBIG) | 3:41 | 2022-09-01 | 2022-11-04 |
 | [werrkk](https://open.spotify.com/track/7e9JRNhecXg0DMkjmk3Vlp) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Mench](https://open.spotify.com/artist/7zSLmuJsSUxBN1QS9Mz93L) | [THE4MULA](https://open.spotify.com/album/2BkyteWXQ5grWLtwoE7ezX) | 1:42 | 2022-10-27 | 2023-05-06 |
 | [Wet Dreamz](https://open.spotify.com/track/4tqcoej1zPvwePZCzuAjJd) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 3:59 | 2023-05-05 | 2023-09-23 |
+| [WOKE UP](https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [WOKE UP](https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw) | 3:08 | 2024-05-23 |  |
 | [Yeern 101](https://open.spotify.com/track/3K5yjMCFHN4TRWKj1zdKIQ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Yeern 101](https://open.spotify.com/album/1G1kvp5sKVBposBjP4xUy2) | 2:20 | 2024-02-16 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

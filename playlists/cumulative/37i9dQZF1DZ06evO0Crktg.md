@@ -4,7 +4,7 @@
 
 > This is Jelly Roll\. The essential tracks, all in one playlist.
 
-56 songs - 3 hr 8 min
+57 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Almost Home](https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Enlisted](https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed) | 4:40 | 2023-12-18 |  |
 | [Backslide](https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Ballads of the Broken](https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL) | 3:03 | 2023-12-13 |  |
 | [Band Plays On](https://open.spotify.com/track/62x93blgkWEz6Huop8eSQA) | [Lil Wyte](https://open.spotify.com/artist/21O7WwRkik43ErKppxDKJq), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [No Filter](https://open.spotify.com/album/0dE86L3lCP52MRnPjUOTtf) | 3:41 | 2023-12-13 |  |
-| [Best For Me](https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Best For Me](https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44) | 3:58 | 2024-03-20 |  |
+| [Best For Me](https://open.spotify.com/track/3rZgLwQOX9N2up8JQhKi61) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Best For Me](https://open.spotify.com/album/5XhWXulYKeVMBHXLxGZN44) | 3:58 | 2024-03-20 | 2024-05-24 |
+| [Best For Me](https://open.spotify.com/track/5t5tLsfuyOyyuXF96M4g2a) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:58 | 2024-05-24 |  |
 | [Blame Us \(feat\. Merkules & Jelly Roll\)](https://open.spotify.com/track/1Z0rdmLAw7VJ9WCIT3TkiC) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn), [Merkules](https://open.spotify.com/artist/4oYZcPoj3q3DneXomtQBzg), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Mud to Gold](https://open.spotify.com/album/2C9n12izeGNvEJ0FlSUTxX) | 3:31 | 2023-12-13 |  |
 | [Bottle and Mary Jane](https://open.spotify.com/track/5MbtltJOrf5hTldbvaEqdV) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [A Beautiful Disaster](https://open.spotify.com/album/5NaOVfywXItXB2KMRj8aMZ) | 2:52 | 2023-12-13 |  |
 | [Chevrolet \(feat\. Jelly Roll\)](https://open.spotify.com/track/7FKAVg9SA7QYLxdVRLnKjd) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [Killed The Cowboy](https://open.spotify.com/album/7qOcM822LYEaTksCBUImpb) | 3:04 | 2023-12-13 |  |

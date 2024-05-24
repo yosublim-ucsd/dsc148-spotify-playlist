@@ -1,6 +1,6 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 379769,
+  "num_followers": 379911,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Ya Me Entere (En Vivo)",
         "url": "https://open.spotify.com/album/0P74VgufHFNWnZrrn9Xhpe"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 222680,
       "name": "Ya Me Entere - En Vivo",
       "url": "https://open.spotify.com/track/4FjYDIaDlu3xf8JQrfgTBW"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -879,18 +879,18 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+        "name": "Necesito M\u00e1s De Ti",
+        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
         }
       ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+      "duration_ms": 183653,
+      "name": "Sentimientos De Cart\u00f3n",
+      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -911,18 +911,18 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Necesito M\u00e1s De Ti",
-        "url": "https://open.spotify.com/album/2nRHIdZqsgd9ONSzrTKsf9"
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
       "artists": [
         {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 183653,
-      "name": "Sentimientos De Cart\u00f3n",
-      "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1007,6 +1007,26 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "Di Que Si",
+        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 190553,
+      "name": "Di Que Si",
+      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Boleros de Hoy",
         "url": "https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Di Que Si",
-        "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 190553,
-      "name": "Di Que Si",
-      "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Las N\u00famero 1...",
         "url": "https://open.spotify.com/album/4L2iloO5OzK3bY8gqpnsrl"
       },
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "Calidad",
-        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 170053,
-      "name": "Calidad",
-      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "Siempre Imitado, Jamas Igualado",
         "url": "https://open.spotify.com/album/35f4w9AcjnUdfJ174fgOz5"
       },
@@ -1107,6 +1087,22 @@
       "duration_ms": 165733,
       "name": "Voy A Llorar Por Ti",
       "url": "https://open.spotify.com/track/20qd1CUZCdgbOYN8vDt8Se"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1131,18 +1127,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+        "name": "Calidad",
+        "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
       "artists": [
         {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
         }
       ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+      "duration_ms": 170053,
+      "name": "Calidad",
+      "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 226093,
-      "name": "A Ella",
-      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
         "name": "El Indio Enamorado",
         "url": "https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2023-12-20 19:43:27",
       "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 226093,
+      "name": "A Ella",
+      "url": "https://open.spotify.com/track/6xIiVGZs194HCa9wTVHRys"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
         "name": "Pideme (En Vivo)",
         "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 256170,
       "name": "Pideme - En Vivo",
       "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
-    },
-    {
-      "added_at": "2023-12-20 19:43:27",
-      "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-12-20 19:43:27",
@@ -1311,6 +1295,22 @@
       "duration_ms": 175160,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/5N6l5fBKD1XcbayM3Q8K3c"
+    },
+    {
+      "added_at": "2023-12-20 19:43:27",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2023-12-20 19:43:27",

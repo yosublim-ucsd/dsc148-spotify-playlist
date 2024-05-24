@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 2 | [Beautiful Things](https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 3:00 |
+| 2 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 |
 | 3 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 4 | [Pink + White](https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 3:04 |
 | 5 | [Shut up My Moms Calling](https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [Shut up My Moms Calling](https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 |
 | 50 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 |
 
-Snapshot ID: `AAAAAAAAAAASq0u5bQp3UYUqKN9xxbVa`
+Snapshot ID: `AAAAAAAAAABqIYeS7ci7YdgYMex+K0IH`

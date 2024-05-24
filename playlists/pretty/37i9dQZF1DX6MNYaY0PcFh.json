@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 77469,
+  "num_followers": 77492,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2024-05-10 14:58:01",
       "album": {
-        "name": "Lost2TheSound",
-        "url": "https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi"
-      },
-      "artists": [
-        {
-          "name": "Joe Hertz",
-          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
-        },
-        {
-          "name": "Manny Noir",
-          "url": "https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas"
-        }
-      ],
-      "duration_ms": 200029,
-      "name": "Lost2TheSound",
-      "url": "https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad"
-    },
-    {
-      "added_at": "2024-05-10 14:58:01",
-      "album": {
         "name": "Bloom",
         "url": "https://open.spotify.com/album/11mDSGxGocTqdiPgYqYfRh"
       },
@@ -1095,6 +1075,26 @@
       "duration_ms": 214782,
       "name": "Dream Theme",
       "url": "https://open.spotify.com/track/2rJDMsj2932cAAQsMFa3uB"
+    },
+    {
+      "added_at": "2024-05-10 14:58:01",
+      "album": {
+        "name": "Lost2TheSound",
+        "url": "https://open.spotify.com/album/0dzEElBKQIeLCMMkmRrVSi"
+      },
+      "artists": [
+        {
+          "name": "Joe Hertz",
+          "url": "https://open.spotify.com/artist/76QHVIjgqlkWB9LNGliman"
+        },
+        {
+          "name": "Manny Noir",
+          "url": "https://open.spotify.com/artist/3YAdlYloykgwECqb1Mtpas"
+        }
+      ],
+      "duration_ms": 200029,
+      "name": "Lost2TheSound",
+      "url": "https://open.spotify.com/track/1xooD0EkUnwr1yRL8yK5ad"
     },
     {
       "added_at": "2024-05-10 14:58:01",

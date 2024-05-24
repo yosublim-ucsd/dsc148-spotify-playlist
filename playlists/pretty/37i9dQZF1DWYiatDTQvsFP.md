@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> you just had to be there\. cover: Lauryn Hill
+> the golden era of r&b and hip\-hop\. cover: Lauryn Hill
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,419 likes - 75 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,323 likes - 75 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiatDTQvsFP.md) - [plain]
 | 74 | [Just Friends \(Sunny\)](https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Aijuswanaseing](https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c) | 4:11 |
 | 75 | [Touch Me Tease Me](https://open.spotify.com/track/4xrBjUq18fvXK68DJEi5XM) | [Case](https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy), [Foxy Brown](https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Case](https://open.spotify.com/album/26zgq8Yop0g9V9We6seQID) | 3:47 |
 
-Snapshot ID: `Zk42iwAAAAC00fCuROClhpDaDBZE1E6u`
+Snapshot ID: `Zk9AWwAAAAALq1Ol6kvHA192r83YQBi/`

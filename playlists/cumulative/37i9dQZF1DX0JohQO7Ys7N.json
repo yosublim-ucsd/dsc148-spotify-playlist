@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Karun, GR! & Hook",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Xenia Manasseh",
   "name": "NairoBae",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
@@ -1950,7 +1950,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193500,
       "name": "M\u00far\u00edo Wa Wendo",
       "url": "https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo"
@@ -2406,6 +2406,24 @@
       "duration_ms": 187000,
       "name": "Pen & Paper",
       "url": "https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6"
+    },
+    {
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
     },
     {
       "album": {

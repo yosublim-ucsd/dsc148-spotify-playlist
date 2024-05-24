@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Kini",
+        "url": "https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB"
+      },
+      "artists": [
+        {
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Kini",
+      "url": "https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl"
+    },
+    {
+      "album": {
         "name": "Kisah Sempurna",
         "url": "https://open.spotify.com/album/39fz0raJs02USfEzd71c8b"
       },
@@ -1414,7 +1432,7 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 264939,
       "name": "Muak",
       "url": "https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C"

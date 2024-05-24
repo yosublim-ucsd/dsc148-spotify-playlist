@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-186 songs - 9 hr 53 min
+187 songs - 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 | 2022-02-11 | 2023-02-04 |
 | [Heartbreak Song](https://open.spotify.com/track/5EDdDNPEijkgv5ghNQK3Nl) | [Hildah Watiri](https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM), [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heartbreak Song](https://open.spotify.com/album/4s6PcuPpXiHS5XOcZduQJa) | 3:27 | 2024-05-10 |  |
 | [Heartburn \(Sooibrand\)](https://open.spotify.com/track/1rne9Xm5ZvMPpPFAL4uloN) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Torn Tapestries](https://open.spotify.com/album/5SsFVmvUK3BIib8Grc6ay1) | 2:42 | 2022-08-18 | 2023-02-11 |
-| [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2022-10-28 |  |
+| [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 | 2022-10-28 | 2024-05-24 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-02-11 | 2022-11-25 |
 | [I Want You Back](https://open.spotify.com/track/05vvj3SjXQd3eseXNgOAU7) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Original](https://open.spotify.com/album/4yFA6Gmc7juhuJzPCTgeIS) | 2:11 | 2023-01-20 | 2023-03-31 |
 | [I Wish It Was Me](https://open.spotify.com/track/3ghmdRTijueJLRzswc779P) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Some Nights I Dream of Doors](https://open.spotify.com/album/4b5bbOFp8eUd5QxQJ6jFs3) | 3:23 | 2022-05-12 | 2023-04-21 |
@@ -189,6 +189,7 @@
 | [Why](https://open.spotify.com/track/5RQqckPXO7WHwKN3I2tYla) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Station](https://open.spotify.com/album/1fOg8C9IgkSOjJgLq7SGn9) | 2:33 | 2022-11-18 | 2023-11-21 |
 | [Why?](https://open.spotify.com/track/0znm2JL9roSYKV6e4CUo87) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Why?](https://open.spotify.com/album/0fgWT4cXG1JsVF9suHlU0M) | 3:04 | 2023-08-17 | 2024-01-09 |
 | [Wicked Somebody](https://open.spotify.com/track/7C4B2HESrQL1qXYouNs3qh) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Imperfect](https://open.spotify.com/album/3hqB59kl4O50ywV4jbqggt) | 3:33 | 2022-02-11 | 2022-08-19 |
+| [X](https://open.spotify.com/track/4evzUQNNDpgP8mnlV2OVkf) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62) | [X](https://open.spotify.com/album/2IuH6EgGRGkFNmEmaLMdrt) | 1:33 | 2024-05-24 |  |
 | [Yesterday](https://open.spotify.com/track/2lw3bvokPAzxFWsfsWYoOH) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Site 15](https://open.spotify.com/album/4uI60dVqyZ6pVU36oUb0j2) | 3:23 | 2022-02-11 | 2022-09-20 |
 | [Yoruba Demon](https://open.spotify.com/track/24XUKCOaMqHJbVm350wGDD) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [Yoruba Demon](https://open.spotify.com/album/4hJAQ68RUNCu6pb3mrWYc0) | 2:13 | 2022-09-19 | 2023-02-11 |
 | [you cheated, i cheated too](https://open.spotify.com/track/59WglUODah5Gaby1bqGCft) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:15 | 2024-04-19 | 2024-05-09 |

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Sof\u00eda Reyes. Los temas esenciales, todos en una lista.",
-  "num_followers": 41558,
+  "description": "This is Sof\u00eda Reyes. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 41570,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkvkAAAAAABEIgxnBIm6ogEMrA6lXNls",
+  "snapshot_id": "Zk01gAAAAAAmJet7mFQ8rtmGX9L2aWcw",
   "tracks": [
     {
       "added_at": null,
@@ -71,6 +71,26 @@
       "duration_ms": 201526,
       "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 188333,
+      "name": "Mal de Amores",
+      "url": "https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5"
     },
     {
       "added_at": null,
@@ -327,6 +347,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "R.I.P. (feat. Rita Ora & Anitta)",
+        "url": "https://open.spotify.com/album/2yN1kxrx1Z1CHO5VMdO2Yk"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "R.I.P. (feat. Rita Ora & Anitta)",
+      "url": "https://open.spotify.com/track/6JqpFboOH2bq9pzaYbkKBn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Uebe",
         "url": "https://open.spotify.com/album/6ZWT9vaRmBayZ6wpm7c5Un"
       },
@@ -363,22 +407,6 @@
       "duration_ms": 231796,
       "name": "yo tuya, t\u00fa m\u00edo",
       "url": "https://open.spotify.com/track/6rqalHH9LASV0IMcDl77uY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/37tfBtXO5spIXdNe2Gxwuf"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 148700,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/5XmAauYsJ9KctEO70myiRJ"
     },
     {
       "added_at": null,
@@ -431,6 +459,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "~how i'm feeling~",
+        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 191426,
+      "name": "El Tejano",
+      "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -459,26 +507,6 @@
       "duration_ms": 136015,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/6vsajTbLWyrVPHtYvbX35J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "~how i'm feeling~",
-        "url": "https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 191426,
-      "name": "El Tejano",
-      "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
     },
     {
       "added_at": null,
@@ -583,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IDIOTA",
+        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "IDIOTA",
+      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -599,22 +643,6 @@
       "duration_ms": 164789,
       "name": "Gaia",
       "url": "https://open.spotify.com/track/43pdManuxxQh80XyU51ybY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDIOTA",
-        "url": "https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "IDIOTA",
-      "url": "https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ"
     },
     {
       "added_at": null,
@@ -687,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "coRaZ\u00d3n fR\u00edO",
+        "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 204633,
+      "name": "coRaZ\u00d3n fR\u00edO",
+      "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muevelo Remix (feat. Maffio)",
         "url": "https://open.spotify.com/album/1brKeNEP21Tz4vIc1mOrPH"
       },
@@ -727,30 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 221320,
-      "name": "Highway",
-      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mal De Amores",
         "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
       },
@@ -771,6 +795,30 @@
       "duration_ms": 163872,
       "name": "Amigos",
       "url": "https://open.spotify.com/track/3Aztz5WADJSB6G94A1Zi96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/2DtVhE1RH6odEmwtywYqdQ"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 221320,
+      "name": "Highway",
+      "url": "https://open.spotify.com/track/4rhdtzBmrrDxYi35yQDpzF"
     },
     {
       "added_at": null,
@@ -811,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 166747,
+      "name": "Pregunta Loca",
+      "url": "https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solo Yo",
         "url": "https://open.spotify.com/album/6XSA5pD1TQwmQP1KP2Ke7Z"
       },
@@ -827,22 +891,6 @@
       "duration_ms": 248000,
       "name": "Solo Yo",
       "url": "https://open.spotify.com/track/2k713E1Dl1RX05s4BQ39Rg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 166747,
-      "name": "Pregunta Loca",
-      "url": "https://open.spotify.com/track/4bzHBKmb1SoJCXTQnCfa9u"
     },
     {
       "added_at": null,
@@ -931,22 +979,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
         },
         {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
         }
       ],
-      "duration_ms": 176197,
-      "name": "Limones",
-      "url": "https://open.spotify.com/track/32jT4VCmaCugsi2DxaAcrI"
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,
@@ -971,22 +1019,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+        "name": "\u00c9chalo Pa' Ca",
+        "url": "https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk"
       },
       "artists": [
         {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
         }
       ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
+      "duration_ms": 222911,
+      "name": "\u00c9chalo Pa' Ca",
+      "url": "https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz"
     },
     {
       "added_at": null,
@@ -1011,30 +1063,6 @@
       "duration_ms": 171082,
       "name": "TICK TOCK",
       "url": "https://open.spotify.com/track/6v9dLKmPBQYOAeoHuwu8wa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00c9chalo Pa' Ca",
-        "url": "https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 222911,
-      "name": "\u00c9chalo Pa' Ca",
-      "url": "https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz"
     },
     {
       "added_at": null,
@@ -1075,26 +1103,6 @@
       "duration_ms": 189093,
       "name": "Treehouse",
       "url": "https://open.spotify.com/track/0Zrxq7AxjJQrVg013MYgU2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AM Gold",
-        "url": "https://open.spotify.com/album/6mcsJ2NLsnTt6MnvXiDpjI"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 200973,
-      "name": "Cleopatra",
-      "url": "https://open.spotify.com/track/4w83xAlenB5W4OHm4qqBrR"
     }
   ],
   "unique_name": "This Is Sof\u00eda Reyes",

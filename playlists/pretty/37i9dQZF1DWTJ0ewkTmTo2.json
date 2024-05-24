@@ -1,6 +1,6 @@
 {
   "description": "Get ready to sing your hearts out with these family friendly road trip classics.",
-  "num_followers": 664070,
+  "num_followers": 664243,
   "original_name": "Family Road Trip",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-11-07 00:05:38",
       "album": {
-        "name": "Katrina & The Waves",
-        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
-      },
-      "artists": [
-        {
-          "name": "Katrina & The Waves",
-          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
-        }
-      ],
-      "duration_ms": 238733,
-      "name": "Walking On Sunshine",
-      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
-    },
-    {
-      "added_at": "2023-11-07 00:05:38",
-      "album": {
         "name": "Full Moon Fever",
         "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 256000,
       "name": "Free Fallin'",
       "url": "https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv"
+    },
+    {
+      "added_at": "2023-11-07 00:05:38",
+      "album": {
+        "name": "Katrina & The Waves",
+        "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
+      },
+      "artists": [
+        {
+          "name": "Katrina & The Waves",
+          "url": "https://open.spotify.com/artist/2TzHIUhVpeeDxyJPpQfnV3"
+        }
+      ],
+      "duration_ms": 238733,
+      "name": "Walking On Sunshine",
+      "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
     },
     {
       "added_at": "2023-11-07 00:05:38",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-11-07 00:05:38",
       "album": {
-        "name": "Maybe You've Been Brainwashed Too",
-        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
-      },
-      "artists": [
-        {
-          "name": "New Radicals",
-          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
-        }
-      ],
-      "duration_ms": 300773,
-      "name": "You Get What You Give",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
-    },
-    {
-      "added_at": "2023-11-07 00:05:38",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-11-07 00:05:38",
       "album": {
-        "name": "Sunshine on Leith",
-        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+        "name": "Maybe You've Been Brainwashed Too",
+        "url": "https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR"
       },
       "artists": [
         {
-          "name": "The Proclaimers",
-          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+          "name": "New Radicals",
+          "url": "https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd"
         }
       ],
-      "duration_ms": 219466,
-      "name": "I'm Gonna Be (500 Miles)",
-      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
+      "duration_ms": 300773,
+      "name": "You Get What You Give",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF"
     },
     {
       "added_at": "2023-11-07 00:05:38",
@@ -507,6 +491,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2023-11-07 00:05:38",
+      "album": {
+        "name": "Sunshine on Leith",
+        "url": "https://open.spotify.com/album/5sK78apv4yOoXjxRL4kOdJ"
+      },
+      "artists": [
+        {
+          "name": "The Proclaimers",
+          "url": "https://open.spotify.com/artist/1A92IAcd7A6npCA33oGM5i"
+        }
+      ],
+      "duration_ms": 219466,
+      "name": "I'm Gonna Be (500 Miles)",
+      "url": "https://open.spotify.com/track/67iAlVNDDdddxqSD2EZhFs"
     },
     {
       "added_at": "2023-11-07 00:05:38",

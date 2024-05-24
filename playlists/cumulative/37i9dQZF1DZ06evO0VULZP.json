@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "Enjoy",
+        "url": "https://open.spotify.com/album/2eMsYq46TeVMRuxzsUbHQA"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183898,
+      "name": "Cheer",
+      "url": "https://open.spotify.com/track/60PehYqowykS4BzqhE8UEi"
+    },
+    {
+      "album": {
         "name": "Enjoy!",
         "url": "https://open.spotify.com/album/2Yltds9OVHc9cd020ojrWg"
       },

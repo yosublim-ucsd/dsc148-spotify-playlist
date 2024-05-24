@@ -1261,6 +1261,24 @@
     },
     {
       "album": {
+        "name": "Espacio Infinito",
+        "url": "https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror"
+      },
+      "artists": [
+        {
+          "name": "Paola Meza",
+          "url": "https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Espacio Infinito",
+      "url": "https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa"
+    },
+    {
+      "album": {
         "name": "Every Day's A Lesson In Humility",
         "url": "https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V"
       },
@@ -3196,7 +3214,7 @@
       ],
       "date_added": "2021-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 187389,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm"
@@ -4473,6 +4491,24 @@
     },
     {
       "album": {
+        "name": "The Best Sea",
+        "url": "https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1"
+      },
+      "artists": [
+        {
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141897,
+      "name": "The Best Sea",
+      "url": "https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1"
+    },
+    {
+      "album": {
         "name": "The Day I Left Hanoi",
         "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
       },
@@ -4520,7 +4556,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 209070,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t"

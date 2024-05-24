@@ -1,6 +1,6 @@
 {
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
-  "num_followers": 403833,
+  "num_followers": 403837,
   "original_name": "Fiesta de Barrio",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,30 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "B de Bellako",
+        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+        },
+        {
+          "name": "Dj Rockwel Mx",
+          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "B de Bellako",
+      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "KLK",
         "url": "https://open.spotify.com/album/12OCyIviCYgQF87NHlb5Qi"
       },
@@ -267,30 +291,6 @@
       "duration_ms": 225789,
       "name": "KLK",
       "url": "https://open.spotify.com/track/1J2oUHUEhtReLHOuzFIKCO"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "B de Bellako",
-        "url": "https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
-        },
-        {
-          "name": "Dj Rockwel Mx",
-          "url": "https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "B de Bellako",
-      "url": "https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
+      },
+      "artists": [
+        {
+          "name": "Lalo Rodriguez",
+          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
+        }
+      ],
+      "duration_ms": 311400,
+      "name": "Ven Dev\u00f3rame Otra Vez",
+      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 190553,
       "name": "Di Que Si",
       "url": "https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS"
-      },
-      "artists": [
-        {
-          "name": "Lalo Rodriguez",
-          "url": "https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U"
-        }
-      ],
-      "duration_ms": 311400,
-      "name": "Ven Dev\u00f3rame Otra Vez",
-      "url": "https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
+        "name": "El Botecito",
+        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos Del Pueblo",
+          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
+        }
+      ],
+      "duration_ms": 150360,
+      "name": "El Botecito",
+      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
-        "name": "El Botecito",
-        "url": "https://open.spotify.com/album/3F17x1qqSjZBxMCwxbnupP"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos Del Pueblo",
-          "url": "https://open.spotify.com/artist/35hWST2f8cTTFbGzQZzGTZ"
-        }
-      ],
-      "duration_ms": 150360,
-      "name": "El Botecito",
-      "url": "https://open.spotify.com/track/2DzLlUtscN7QECJ6E3yvHE"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 164120,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
-    },
-    {
-      "added_at": "2024-03-01 06:00:00",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 252000,
       "name": "El Negro Jos\u00e9",
       "url": "https://open.spotify.com/track/3uGL5ejR483pQ9W1qVW8e2"
+    },
+    {
+      "added_at": "2024-03-01 06:00:00",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 164120,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/7ii1YH0rOmpoRfH9HyY8To"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Ea Ea La Cumbia Buena",
-        "url": "https://open.spotify.com/album/3rJDCQyJydiROr7TWP4Qvz"
+        "name": "Tan Bella y Tan Presumida",
+        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
       },
       "artists": [
         {
-          "name": "Mister Cumbia",
-          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
+          "name": "Secretto",
+          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
         }
       ],
-      "duration_ms": 193366,
-      "name": "Ea Ea La Cumbia Buena",
-      "url": "https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY"
+      "duration_ms": 181264,
+      "name": "Tan Bella y Tan Presumida",
+      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
     },
     {
       "added_at": "2024-03-01 06:00:00",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-03-01 06:00:00",
       "album": {
-        "name": "Tan Bella y Tan Presumida",
-        "url": "https://open.spotify.com/album/52pEVRQMA45DSmfmNc8ici"
+        "name": "Ea Ea La Cumbia Buena",
+        "url": "https://open.spotify.com/album/3rJDCQyJydiROr7TWP4Qvz"
       },
       "artists": [
         {
-          "name": "Secretto",
-          "url": "https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ"
+          "name": "Mister Cumbia",
+          "url": "https://open.spotify.com/artist/243ZU3XTOdbbBrqoIYXhz9"
         }
       ],
-      "duration_ms": 181264,
-      "name": "Tan Bella y Tan Presumida",
-      "url": "https://open.spotify.com/track/2fKPwiW1FJLH3JbB1DmR0K"
+      "duration_ms": 193366,
+      "name": "Ea Ea La Cumbia Buena",
+      "url": "https://open.spotify.com/track/0IbvznAfkM5itFW2fX6NdY"
     },
     {
       "added_at": "2024-03-01 06:00:00",

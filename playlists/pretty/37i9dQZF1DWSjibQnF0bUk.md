@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 
 > Definitive African party starters, perfect for any jollof jam or braai! "Spray" money to these hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,566 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,767 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjibQnF0bUk.md) - [plain]
 | 36 | [Overloading \(OVERDOSE\)](https://open.spotify.com/track/4lVEVXrlQlXPdYWMGTwrFe) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Overloading \(OVERDOSE\)](https://open.spotify.com/album/0PhRHHW803w4pHDJR4AUw8) | 3:25 |
 | 37 | [Sharpally](https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Sharpally](https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg) | 2:43 |
 | 38 | [It's Plenty](https://open.spotify.com/track/3PEkfP69a7aMMb8yI7PD88) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:36 |
-| 39 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
-| 40 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
+| 39 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
+| 40 | [Tour](https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 2:52 |
 | 41 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
 | 42 | [wo wo \- remix](https://open.spotify.com/track/7v6HbQggLsB2UUCqABkJoX) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [wo wo \(remix\)](https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi) | 3:45 |
 | 43 | [Komasava \(Comment Ça Va\)](https://open.spotify.com/track/5mjxSIPHAMNk40q0nON5Cb) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Khalil Harrison](https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Komasava \(Comment Ça Va\)](https://open.spotify.com/album/5YRLBQNbjDXky1IwaUDHgk) | 4:36 |

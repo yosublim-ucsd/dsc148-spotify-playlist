@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Thalia ",
-  "num_followers": 487823,
+  "num_followers": 487860,
   "original_name": "Las Chacalosas",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,18 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "BBYKTAL",
-        "url": "https://open.spotify.com/album/3gimlSSjfk3bKeMQOW2XEl"
+        "name": "No Me Lamentare",
+        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
-        },
-        {
-          "name": "Deny K",
-          "url": "https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw"
+          "name": "Cheli Madrid",
+          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
         }
       ],
-      "duration_ms": 147263,
-      "name": "BBYKTAL",
-      "url": "https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI"
+      "duration_ms": 135806,
+      "name": "No Me Lamentare",
+      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -823,22 +819,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "No Me Lamentare",
-        "url": "https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O"
-      },
-      "artists": [
-        {
-          "name": "Cheli Madrid",
-          "url": "https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu"
-        }
-      ],
-      "duration_ms": 135806,
-      "name": "No Me Lamentare",
-      "url": "https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "BBYKTAL",
+        "url": "https://open.spotify.com/album/3gimlSSjfk3bKeMQOW2XEl"
+      },
+      "artists": [
+        {
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+        },
+        {
+          "name": "Deny K",
+          "url": "https://open.spotify.com/artist/14l5S8E3j7RgPY5Q6Nlnbw"
+        }
+      ],
+      "duration_ms": 147263,
+      "name": "BBYKTAL",
+      "url": "https://open.spotify.com/track/3pJFmgY5LJtR1Z8OyHM7MI"
     },
     {
       "added_at": "2024-04-26 04:00:00",
@@ -1035,6 +1035,46 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
+        "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+        "url": "https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy"
+      },
+      "artists": [
+        {
+          "name": "El Mes\u00eda",
+          "url": "https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh"
+        },
+        {
+          "name": "Conexi\u00f3n Divina",
+          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
+        },
+        {
+          "name": "Palm Street Music",
+          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
+        }
+      ],
+      "duration_ms": 175453,
+      "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
+      "url": "https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Me Vas A Llorar",
+        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Me Vas A Llorar",
+      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -1067,62 +1107,6 @@
     {
       "added_at": "2024-04-26 04:00:00",
       "album": {
-        "name": "Me Vas A Llorar",
-        "url": "https://open.spotify.com/album/0yzGGAC5CZLqUHLge7iG9U"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 191040,
-      "name": "Me Vas A Llorar",
-      "url": "https://open.spotify.com/track/1VIph3fB2xdpCT7q9XTQY4"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
-        "url": "https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy"
-      },
-      "artists": [
-        {
-          "name": "El Mes\u00eda",
-          "url": "https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh"
-        },
-        {
-          "name": "Conexi\u00f3n Divina",
-          "url": "https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy"
-        },
-        {
-          "name": "Palm Street Music",
-          "url": "https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c"
-        }
-      ],
-      "duration_ms": 175453,
-      "name": "\u00bfQu\u00e9 Pas\u00f3 Ayer?",
-      "url": "https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
-        "name": "Aqu\u00ed Nom\u00e1s",
-        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
-      },
-      "artists": [
-        {
-          "name": "ROSUL",
-          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
-        }
-      ],
-      "duration_ms": 182309,
-      "name": "El R\u00e1pido",
-      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
-    },
-    {
-      "added_at": "2024-04-26 04:00:00",
-      "album": {
         "name": "Lo Dijiste Todo (En Vivo)",
         "url": "https://open.spotify.com/album/5jixjiAZPDfJx893OhWZyW"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 154000,
       "name": "Lo Dijiste Todo - En Vivo",
       "url": "https://open.spotify.com/track/6x431KgZOM8WOq4w37CpPe"
+    },
+    {
+      "added_at": "2024-04-26 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Nom\u00e1s",
+        "url": "https://open.spotify.com/album/40mTqjnDaQZ2STmM76RfpV"
+      },
+      "artists": [
+        {
+          "name": "ROSUL",
+          "url": "https://open.spotify.com/artist/0Y5tdiaE3s1E1AishqnolD"
+        }
+      ],
+      "duration_ms": 182309,
+      "name": "El R\u00e1pido",
+      "url": "https://open.spotify.com/track/1jQD11D6t4f1OlPjY8XEL2"
     },
     {
       "added_at": "2024-04-26 04:00:00",

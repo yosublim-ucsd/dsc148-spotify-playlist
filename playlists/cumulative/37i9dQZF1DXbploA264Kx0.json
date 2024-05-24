@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LIU KOI",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: June Pan",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 136614,
       "name": "Alexis",
       "url": "https://open.spotify.com/track/5P5Xe5Mgv9jCSKE8ZBWoBi"
@@ -392,7 +392,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 195200,
       "name": "Carousel",
       "url": "https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34"
@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "Fortune Cookie",
+        "url": "https://open.spotify.com/album/67s3sGE3Z0kKvQBNuVv7J4"
+      },
+      "artists": [
+        {
+          "name": "June Pan",
+          "url": "https://open.spotify.com/artist/0p5LfbnKvdqRqZ9u5Nk0S3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253095,
+      "name": "Fortune Cookie",
+      "url": "https://open.spotify.com/track/2DEcavRxaAOuEgVcgcNaJ0"
+    },
+    {
+      "album": {
         "name": "frozen in time",
         "url": "https://open.spotify.com/album/6bXW0qAirQQSNJmN5WkiNe"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 218973,
       "name": "Goodbye Spring",
       "url": "https://open.spotify.com/track/19E1CDouZUhkPWgQYApi1g"
@@ -991,7 +1009,7 @@
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 143283,
+      "duration_ms": 143025,
       "name": "ICE AND FIRE - \u300c\u51b0\u7bb1\u6253\u5f00\u65f6\u300d\u97f3\u4e50\u7279\u522b\u4f01\u5212",
       "url": "https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg"
     },
@@ -2007,6 +2025,28 @@
     },
     {
       "album": {
+        "name": "S\u00f8ul\u043ca\u0442e (Remix)",
+        "url": "https://open.spotify.com/album/4QQ0DDdSKDh5D0vwdQbMjc"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        },
+        {
+          "name": "Tsudio Studio",
+          "url": "https://open.spotify.com/artist/1iMVMds476cuexLdHbKivE"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259648,
+      "name": "S\u00f8ul\u043ca\u0442e - Remix",
+      "url": "https://open.spotify.com/track/6iw67Qocm9GfffN5vgdiSO"
+    },
+    {
+      "album": {
         "name": "9m88 Radio",
         "url": "https://open.spotify.com/album/0ltKqyXZYTB5RPF0KvkmPQ"
       },
@@ -2224,6 +2264,24 @@
       "duration_ms": 154672,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/3i5JPUScbykbkAOCLfk7Wo"
+    },
+    {
+      "album": {
+        "name": "to the strangers",
+        "url": "https://open.spotify.com/album/58Te5JD7fqUwZSsCeAtjTu"
+      },
+      "artists": [
+        {
+          "name": "\u5f35\u7267\u55ac",
+          "url": "https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139374,
+      "name": "to the strangers",
+      "url": "https://open.spotify.com/track/0byFCzJ9P20i8xJxL6fPQc"
     },
     {
       "album": {

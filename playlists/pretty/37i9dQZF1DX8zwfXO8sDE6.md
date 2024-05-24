@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,857 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,866 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 13 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
 | 14 | [CLOSE YOUR EYES](https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 4:54 |
 | 15 | [ピンク・シャドウ](https://open.spotify.com/track/1lnWb1e7XWFBnwiKmBq9ZS) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [SUMMER KNOWS](https://open.spotify.com/album/2gjQ3FxHHiYyjzn634Si1c) | 4:41 |
-| 16 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
+| 16 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
 | 17 | [THE TOKYO TASTE](https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:46 |
-| 18 | [LETTER TO NEW YORK](https://open.spotify.com/track/7zCIXu0Ekri6cVDEzbFysM) | [Jun Fukamachi](https://open.spotify.com/artist/488oRgvtKkBufay6VMpULR) | [オン・ザ・ムーヴ](https://open.spotify.com/album/4AZTW2PtZazbRpUtt1owwz) | 4:59 |
+| 18 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
 | 19 | [星くず](https://open.spotify.com/track/61hZsSHXCRgjhxBl6bKL8Q) | [Makoto Kubota](https://open.spotify.com/artist/5QlBWlYKw2R1O2NUAV6rnA), [夕焼け楽団](https://open.spotify.com/artist/08qtgUVDVKMQq8lOFcRJnH) | [デキシー・フィーバー](https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur) | 4:01 |
 | 20 | [レインボー・シー・ライン](https://open.spotify.com/track/3o5gsI6dHV01KzGQrFzp9d) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [MINAKO](https://open.spotify.com/album/2c8zqoBf7oFJWKFqSbEjn8) | 3:57 |
 | 21 | [ON THE SEASHORE](https://open.spotify.com/track/17Zqy3ZiZLPDO11OcfoS1b) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 6:11 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 25 | [こぬか雨](https://open.spotify.com/track/17eMW7XloVIo9Z5z4h02I0) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 5:54 |
 | 26 | [Summer Connection](https://open.spotify.com/track/4MghcTKk0rLdBuiEOuY77j) | [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [SUNSHOWER](https://open.spotify.com/album/1tirkouCp0ofWI1IADUvy2) | 4:30 |
 | 27 | [I SAY WHO](https://open.spotify.com/track/1Ehd4X1eWAm2IP43xqPV2x) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:13 |
-| 28 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
-| 29 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
+| 28 | [ソバカスのある少女](https://open.spotify.com/track/76ZN3sUxFdm1DS4HWmR0Tx) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 3:29 |
+| 29 | [HEART to HEART](https://open.spotify.com/track/7dWNiL1K3nzwGG2kwDK5KD) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 4:48 |
 | 30 | [てぃーんず　ぶるーす](https://open.spotify.com/track/2yz2pO5xGSfOetZUX8y6u7) | [Shinji Harada](https://open.spotify.com/artist/5Lo7ke2VQqfAyNhWGBg2t1) | [Feel Happy 2007 ～Debut 30th Anniversary～](https://open.spotify.com/album/6bGCv2abpf9hLDrHrZ7wzB) | 3:47 |
 | 31 | [ボンボヤージ波止場](https://open.spotify.com/track/2GzdAmcK3Kq3MnCkahwqWa) | [Chu Kosaka](https://open.spotify.com/artist/4czBLtKKNzTc6E4cXDYJuA) | [モーニング](https://open.spotify.com/album/5NFbf4KyFXu6bKjzBFnHBZ) | 4:02 |
 | 32 | [風になれるなら \- Single Version](https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f) | [Ginji Ito](https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY) | [デッドリイ・ドライブ \(40周年記念デラックス・エディション\)](https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ) | 3:36 |

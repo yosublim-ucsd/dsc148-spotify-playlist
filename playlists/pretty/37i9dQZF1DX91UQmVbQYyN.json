@@ -1,6 +1,6 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Waxahatchee ",
-  "num_followers": 589040,
+  "num_followers": 589028,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "12 hugs (like butterflies)",
-        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 289173,
-      "name": "more than words",
-      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 209533,
       "name": "I'm Your Man",
       "url": "https://open.spotify.com/track/6YO2dalWyZSobXSY3UUPv9"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "12 hugs (like butterflies)",
+        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 289173,
+      "name": "more than words",
+      "url": "https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "It's Blitz!",
-        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
       "artists": [
         {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Heads Will Roll",
-      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+      "duration_ms": 213253,
+      "name": "North",
+      "url": "https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "It's Blitz!",
+        "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Heads Will Roll",
+      "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 210266,
       "name": "Ritual Union",
       "url": "https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 213253,
-      "name": "North",
-      "url": "https://open.spotify.com/track/0zzz9l8ZX5vDBJmNHnWOom"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "shrines",
-        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
-      },
-      "artists": [
-        {
-          "name": "Purity Ring",
-          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "fineshrine",
-      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Heard It In A Past Life",
         "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 213173,
       "name": "Burning",
       "url": "https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "shrines",
+        "url": "https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8"
+      },
+      "artists": [
+        {
+          "name": "Purity Ring",
+          "url": "https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "fineshrine",
+      "url": "https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS"
     },
     {
       "added_at": "2024-03-08 05:00:00",

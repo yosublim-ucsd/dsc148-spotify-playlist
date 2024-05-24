@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-421 songs - 18 hr 27 min
+423 songs - 18 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2021-12-14 |  |
 | [Singularities](https://open.spotify.com/track/0Tkj0zVric1PWv2NVauxdi) | [Constance Lucas](https://open.spotify.com/artist/3xe11Jl7vdO7Py3udTGzWq) | [Singularities](https://open.spotify.com/album/6S4hCHy5zVfBy0Ceauipg9) | 2:29 | 2022-08-03 |  |
 | [Slow Retrieve](https://open.spotify.com/track/2Fw8qNX783GsOjRGPF4Diq) | [Joseph Stanley](https://open.spotify.com/artist/1qW4m07516Q5lMSerc7mr9) | [Slow Retrieve](https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl) | 4:03 | 2021-12-14 | 2022-05-21 |
+| [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 | 2024-05-23 |  |
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-14 | 2023-11-16 |
 | [So Serene](https://open.spotify.com/track/0zadc4zL5oA8naLMEPcdsv) | [Katinka Overman](https://open.spotify.com/artist/774hf31XZL9jyrwZMpLRiU) | [So Serene](https://open.spotify.com/album/75cidIbNTEIRMg7yMeaWpQ) | 2:43 | 2022-01-05 |  |
 | [Sol 42](https://open.spotify.com/track/1JlqsLiK8l29lI1nvITHpz) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Sol 42](https://open.spotify.com/album/0w9o0ErIr3XtG3X6OhJvaj) | 3:09 | 2021-12-14 | 2023-11-16 |
@@ -361,6 +362,7 @@
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-12-14 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-14 | 2023-08-08 |
 | [Time of the Season](https://open.spotify.com/track/1pQkECzXZXYef46QwzKU8z) | [Hannah Sugar](https://open.spotify.com/artist/1thgqqFzyPG6ZOqSPKAlRB) | [Stand By Me](https://open.spotify.com/album/0VFco39u9Q1HnS5adiknEP) | 3:22 | 2022-07-06 | 2022-08-04 |
+| [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 | 2024-05-23 |  |
 | [Tonals](https://open.spotify.com/track/6wvCRq82UNSugRl6mE8ZyL) | [Mischa](https://open.spotify.com/artist/0uoxi1rtrDUZIJLU64n9Y1) | [Tonals](https://open.spotify.com/album/2lxt90H9hmuEuFLetT9Dvp) | 2:16 | 2023-01-27 | 2023-02-07 |
 | [Tout Doucement](https://open.spotify.com/track/3q3LCzKr47um4mipbkIplC) | [Marianna Zsuska](https://open.spotify.com/artist/3xUOva5IZhjyBHYJrgM8wJ) | [Tout Doucement](https://open.spotify.com/album/7rUlpRcwrhFkCWUotNDn6a) | 2:22 | 2022-03-30 | 2022-07-29 |
 | [Tranquility](https://open.spotify.com/track/5zZuBsxhHTddDtotFUZ0Nw) | [Cove Hollis](https://open.spotify.com/artist/7ritXO0gCWbfK4D4Qstvh6) | [Tranquility](https://open.spotify.com/album/1LeYfcGfsjrhHClQVB3bYz) | 3:02 | 2023-11-14 |  |

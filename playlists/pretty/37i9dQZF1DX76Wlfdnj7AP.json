@@ -1,6 +1,6 @@
 {
   "description": "Get your beast mode on!",
-  "num_followers": 10648647,
+  "num_followers": 10649503,
   "original_name": "Beast Mode",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lovin On Me",
         "url": "https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 150942,
-      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
-      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 197142,
       "name": "Derni\u00e8re danse - Techno Mix",
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+        "url": "https://open.spotify.com/album/1X1uDkDDs2BQiKlghA0gVQ"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 150942,
+      "name": "Are You Going to See the Rose in the Vase, or the Dust on the Table",
+      "url": "https://open.spotify.com/track/78RdTKcI2CediltTnGLIqr"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
       },
@@ -1355,26 +1375,6 @@
       "duration_ms": 201145,
       "name": "REACT",
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1863,6 +1863,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "family ties (with Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 252069,
+      "name": "family ties (with Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "stayinit",
         "url": "https://open.spotify.com/album/0DeGmYq33W6Svw1eTgnxDF"
       },
@@ -1883,26 +1903,6 @@
       "duration_ms": 274925,
       "name": "stayinit",
       "url": "https://open.spotify.com/track/6WS2TcsMEGOFtveWbtbuwZ"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "family ties (with Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 252069,
-      "name": "family ties (with Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "RIZZ",
+        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "duration_ms": 200787,
+      "name": "RIZZ",
+      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "LOKERA",
         "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 197101,
       "name": "LOKERA",
       "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "RIZZ",
-        "url": "https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc"
-      },
-      "artists": [
-        {
-          "name": "AYYBO",
-          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
-        }
-      ],
-      "duration_ms": 200787,
-      "name": "RIZZ",
-      "url": "https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2139,6 +2139,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Throw Some Ass",
+        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        }
+      ],
+      "duration_ms": 182423,
+      "name": "Throw Some Ass",
+      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "In The Yuma (feat. Aatig)",
         "url": "https://open.spotify.com/album/0JjZ7kWBexlcQJMCpZ2MZF"
       },
@@ -2159,22 +2175,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Throw Some Ass",
-        "url": "https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        }
-      ],
-      "duration_ms": 182423,
-      "name": "Throw Some Ass",
-      "url": "https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Lionheart (Fearless)",
         "url": "https://open.spotify.com/album/68U7caniDmdQHifJdnlYFT"
       },
@@ -2191,6 +2191,26 @@
       "duration_ms": 186689,
       "name": "Lionheart (Fearless)",
       "url": "https://open.spotify.com/track/5vlzH0ps6WDyb158oFTAb3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "i like the way you kiss me (remixes)",
+        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 137986,
+      "name": "i like the way you kiss me - southstar remix",
+      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2231,26 +2251,6 @@
       "duration_ms": 267946,
       "name": "Turn On The Lights again.. (feat. Future)",
       "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "i like the way you kiss me (remixes)",
-        "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 137986,
-      "name": "i like the way you kiss me - southstar remix",
-      "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -2403,6 +2403,26 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -2423,26 +2443,6 @@
       "duration_ms": 319963,
       "name": "Baby again..",
       "url": "https://open.spotify.com/track/4zlbKky2yA657Sk5rekZoR"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
     },
     {
       "added_at": "2024-05-22 11:00:00",

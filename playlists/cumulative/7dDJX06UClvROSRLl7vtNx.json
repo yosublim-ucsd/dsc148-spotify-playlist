@@ -7509,6 +7509,24 @@
     },
     {
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/31bcOcIkb2tQAXCkMGMn2R"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158571,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6FpR4RVPTLP7BHVca9Lkve"
+    },
+    {
+      "album": {
         "name": "Waiting For A Better Day",
         "url": "https://open.spotify.com/album/0ulaHvKhk79OWZ12gmZDtO"
       },

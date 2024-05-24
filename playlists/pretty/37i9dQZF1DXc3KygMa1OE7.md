@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,547,772 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,547,790 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Babehoven",
-  "num_followers": 96817,
+  "num_followers": 96894,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
-      },
-      "artists": [
-        {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Sierra Vista",
         "url": "https://open.spotify.com/album/5hmhuNvmtuWJXfGeT6Qbcr"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 155000,
       "name": "Sierra Vista",
       "url": "https://open.spotify.com/track/14P8LhjbdysoOL12T5gAOe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "my mind (now)",
-        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
+        "name": "Sling",
+        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 176418,
-      "name": "my mind (now)",
-      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
+      "duration_ms": 195376,
+      "name": "Blouse",
+      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Sling",
-        "url": "https://open.spotify.com/album/32ium7Cxb1Xwp2MLzH2459"
+        "name": "my mind (now)",
+        "url": "https://open.spotify.com/album/1yQyzl5X4EmhevIuaMRJhg"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
         }
       ],
-      "duration_ms": 195376,
-      "name": "Blouse",
-      "url": "https://open.spotify.com/track/7brBeAX3RT0CMh3qbTBrIP"
+      "duration_ms": 176418,
+      "name": "my mind (now)",
+      "url": "https://open.spotify.com/track/3ECkGETHF9WCdlRJmVdo7F"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -509,6 +509,26 @@
       "url": "https://open.spotify.com/track/6bqB7idfAnJVisSMQA1mZQ"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Maria Taylor",
+          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
+        }
+      ],
+      "duration_ms": 234079,
+      "name": "Summer's End - Spotify Singles",
+      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
+    },
+    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "With Balance",
@@ -531,26 +551,6 @@
       "duration_ms": 178380,
       "name": "With Balance",
       "url": "https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Maria Taylor",
-          "url": "https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m"
-        }
-      ],
-      "duration_ms": 234079,
-      "name": "Summer's End - Spotify Singles",
-      "url": "https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "unposted letters",
-        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 205230,
-      "name": "unposted letters",
-      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Rare Feeling",
         "url": "https://open.spotify.com/album/0Xmjmy6aocV2jiDiPvV0rt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 245849,
       "name": "Dear Mexico (Thank You for Joyce)",
       "url": "https://open.spotify.com/track/43ntHxVNix1dsWLUoV5y3H"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "unposted letters",
+        "url": "https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG"
+      },
+      "artists": [
+        {
+          "name": "Liang Lawrence",
+          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
+        }
+      ],
+      "duration_ms": 205230,
+      "name": "unposted letters",
+      "url": "https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Popped Heart",
-        "url": "https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 232847,
-      "name": "Say!",
-      "url": "https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Winona",
@@ -1119,6 +1103,22 @@
       "duration_ms": 275560,
       "name": "Winona",
       "url": "https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Popped Heart",
+        "url": "https://open.spotify.com/album/7789tm9Qro5oSNkVgIUSQS"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 232847,
+      "name": "Say!",
+      "url": "https://open.spotify.com/track/0MfBaD7MFIECNxDP7uPnc9"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Set Me Free, I'm an Animal",
-        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Set Me Free, I\u2019m an Animal",
-      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Shell",
         "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+        "name": "Set Me Free, I'm an Animal",
+        "url": "https://open.spotify.com/album/3qMQ2uQGoDllUYlW4jGV2h"
       },
       "artists": [
         {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
         }
       ],
-      "duration_ms": 208440,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+      "duration_ms": 216250,
+      "name": "Set Me Free, I\u2019m an Animal",
+      "url": "https://open.spotify.com/track/7pgFijqqgOgTiTsy64oCZm"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/3PETlpfp2dwPJlESwbpjnt"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64QEDKqiHt6bSU6zHNwKsv"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "A Little Older",
         "url": "https://open.spotify.com/album/0HFPYiYnX5HgnfEO5TAUDR"
       },
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/6XilwiQW59LeUbn6mGxhkg"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Nutshell",
-        "url": "https://open.spotify.com/album/35XLFJy9hpu0UNA4x4GDnH"
-      },
-      "artists": [
-        {
-          "name": "Carlie Hanson",
-          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
-        }
-      ],
-      "duration_ms": 248790,
-      "name": "Nutshell",
-      "url": "https://open.spotify.com/track/0EUjfn3w3kX9RR28BTfTIf"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Salt Circle",
@@ -1479,6 +1463,22 @@
       "duration_ms": 260721,
       "name": "Salt Circle",
       "url": "https://open.spotify.com/track/1gLr4m3IJ79hvD3rd6YBju"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Nutshell",
+        "url": "https://open.spotify.com/album/35XLFJy9hpu0UNA4x4GDnH"
+      },
+      "artists": [
+        {
+          "name": "Carlie Hanson",
+          "url": "https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR"
+        }
+      ],
+      "duration_ms": 248790,
+      "name": "Nutshell",
+      "url": "https://open.spotify.com/track/0EUjfn3w3kX9RR28BTfTIf"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "tap",
-        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
       },
       "artists": [
         {
-          "name": "Tomberlin",
-          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 271869,
-      "name": "tap",
-      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
+      "duration_ms": 209826,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/1NzOdSkSNmBhhg72KlNcsE"
+        "name": "tap",
+        "url": "https://open.spotify.com/album/468E2PVbe91tliuaxzT2Np"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
         }
       ],
-      "duration_ms": 209826,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/7M5ASYUkhK0iac9WiKyPA3"
+      "duration_ms": 271869,
+      "name": "tap",
+      "url": "https://open.spotify.com/track/6Pec0Im6sFC4g6EKs45bwa"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Garment Bag",
-        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
-      },
-      "artists": [
-        {
-          "name": "Adam Melchor",
-          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
-        }
-      ],
-      "duration_ms": 145308,
-      "name": "Garment Bag",
-      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Granny Music",
         "url": "https://open.spotify.com/album/725p6TJKBuQ5CPK6pT9S2Q"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 214013,
       "name": "Millionaire",
       "url": "https://open.spotify.com/track/3NTgl4lHbIJw8p3bDanEa0"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Garment Bag",
+        "url": "https://open.spotify.com/album/0yBv9eIKJa3kBX9Er90UFN"
+      },
+      "artists": [
+        {
+          "name": "Adam Melchor",
+          "url": "https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB"
+        }
+      ],
+      "duration_ms": 145308,
+      "name": "Garment Bag",
+      "url": "https://open.spotify.com/track/7ah4PtjaIDkRdY0Eb3Sxgq"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "bc i love you",
-        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
-      },
-      "artists": [
-        {
-          "name": "Harriette",
-          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
-        }
-      ],
-      "duration_ms": 237052,
-      "name": "bc i love you",
-      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "slow dance",
         "url": "https://open.spotify.com/album/0DOMUTVrIkagqiNBGf88J0"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 170586,
       "name": "slow dance",
       "url": "https://open.spotify.com/track/0iVV2jMVF2FF2V3waC0r1S"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "bc i love you",
+        "url": "https://open.spotify.com/album/0ljb5hKxb4fPvbGP2v2ZfF"
+      },
+      "artists": [
+        {
+          "name": "Harriette",
+          "url": "https://open.spotify.com/artist/4pvvhffb5CTrWsrTCf3tMa"
+        }
+      ],
+      "duration_ms": 237052,
+      "name": "bc i love you",
+      "url": "https://open.spotify.com/track/5e9rdslPa2td9w8vUFAKuM"
     },
     {
       "added_at": "2024-03-29 04:00:00",

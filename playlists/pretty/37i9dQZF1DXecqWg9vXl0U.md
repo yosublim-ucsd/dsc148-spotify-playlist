@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 
 > como en una nube\. Bedroom pop vibes featuring Pedrina
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,117 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,131 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 42 | [la danza de las brujas](https://open.spotify.com/track/0WVwnORcbVnUvE0ZenLa1i) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [la danza de las brujas](https://open.spotify.com/album/5G9dSXTq6rvS4J5DSyRtS1) | 4:15 |
 | 43 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
 | 44 | [Ojos](https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp) | [Montufar](https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t) | [Ojos](https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX) | 3:42 |
-| 45 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
+| 45 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
 | 46 | [Antes de Marcharte](https://open.spotify.com/track/1R2f7wi1RHp2sPnvtHj1LR) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Mareas](https://open.spotify.com/album/2i3WQcqW1wVG3PPlTJAlWP) | 4:02 |
-| 47 | [80's](https://open.spotify.com/track/1SzFUihB1muYUkQOb41fbx) | [Josue Alaniz](https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A) | [80's](https://open.spotify.com/album/0dLBUX8WEaabSqpkAFnQES) | 3:33 |
+| 47 | [Alta Joya](https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv) | [George Rhoads](https://open.spotify.com/artist/0UMwp0Y8VxfNpdMALNnd5y), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Alta Joya](https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva) | 3:21 |
 | 48 | [A Veces](https://open.spotify.com/track/2cKXMsSXJZp5eAlxGejt8V) | [MOSBI](https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef) | [A Veces](https://open.spotify.com/album/2FTVypZbrNE91J7ChtirLQ) | 3:59 |
 | 49 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 50 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXecqWg9vXl0U.md) - [plain]
 | 62 | [3200](https://open.spotify.com/track/5MPKzmEmruEvUN4GsYyIkc) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/0xklbAwQakpWdK7t6dofcB) | 2:12 |
 | 63 | [me pongo un poco sad](https://open.spotify.com/track/2DNIlO8K5KAmyTuLuaNBFe) | [tomásss](https://open.spotify.com/artist/1nOrtxkuKfkyRj34uW9bsw) | [me pongo un poco sad](https://open.spotify.com/album/3SWWEY1GChVLNY4be0j37U) | 3:19 |
 | 64 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
-| 65 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
-| 66 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
+| 65 | [Amanece Otra Vez](https://open.spotify.com/track/5RVe88SWd7GBzUycsYlTtk) | [Dawn Avenue](https://open.spotify.com/artist/3ZCvfZxGmkariKQgNYRD4P) | [Amanece Otra Vez](https://open.spotify.com/album/2834mgGOvR33kmzW7qWeDo) | 4:07 |
+| 66 | [¿Qué te falta?](https://open.spotify.com/track/6rJUYVdXXdlShGL0r9jOWg) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g) | [¿Qué te falta?](https://open.spotify.com/album/2BgSxItWXrQllkGhbj5oan) | 3:19 |
 | 67 | [Al Cien](https://open.spotify.com/track/1vxa13KTCbsGFavA6WFywz) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Al Cien](https://open.spotify.com/album/0APusMWyvY7kRnM3ROoOBm) | 2:57 |
 | 68 | [lalalala](https://open.spotify.com/track/4dMVCg7imGhzLHazEskCBQ) | [Masta Roi](https://open.spotify.com/artist/1uEU1I3gUtxUv4tlcpsInS), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [lalalala](https://open.spotify.com/album/3z4vVK3Og3nwyup77oC2ex) | 4:04 |
 | 69 | [Fantasía](https://open.spotify.com/track/2wzIkmA7ckiuwBfYFChacL) | [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Fantasía](https://open.spotify.com/album/3Yl0XPm4OntG2nmL9BqYbb) | 2:56 |

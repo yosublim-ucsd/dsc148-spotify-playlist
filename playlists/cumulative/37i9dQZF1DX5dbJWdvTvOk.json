@@ -1568,7 +1568,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 121290,
       "name": "Bourgogne",
       "url": "https://open.spotify.com/track/7o4WGcO36C0d6ouMsJOylY"
@@ -4374,7 +4374,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 140477,
       "name": "Graceful Embrace",
       "url": "https://open.spotify.com/track/71C5Yne2c8gXWNREZCaco7"
@@ -4716,7 +4716,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178445,
       "name": "Hitchhiking",
       "url": "https://open.spotify.com/track/2P6Opus7hGyXkC6Pd7k1Gk"
@@ -5934,7 +5934,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156226,
       "name": "Lange Reise",
       "url": "https://open.spotify.com/track/47s7kyfVRgsnwgkK2sGQzM"
@@ -6266,6 +6266,24 @@
       "duration_ms": 152670,
       "name": "Like no other",
       "url": "https://open.spotify.com/track/4OPE3wPxaqWeUtz0BmBwpW"
+    },
+    {
+      "album": {
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks"
+      },
+      "artists": [
+        {
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182643,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP"
     },
     {
       "album": {
@@ -7378,7 +7396,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 181135,
       "name": "M\u00e9rtola",
       "url": "https://open.spotify.com/track/6ht9QNV3O5IZGXzX8QXHI0"
@@ -7508,6 +7526,24 @@
       "duration_ms": 158519,
       "name": "Nell'angolo",
       "url": "https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf"
+    },
+    {
+      "album": {
+        "name": "Never Certain",
+        "url": "https://open.spotify.com/album/4wdnDRywKOuILU3uWW9BdF"
+      },
+      "artists": [
+        {
+          "name": "Camilo Branca",
+          "url": "https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142188,
+      "name": "Never Certain",
+      "url": "https://open.spotify.com/track/3ZkOLftaatCYd85DmAkXAr"
     },
     {
       "album": {
@@ -7943,6 +7979,24 @@
     },
     {
       "album": {
+        "name": "Ordinary Sunday",
+        "url": "https://open.spotify.com/album/4y2UZDXDXi233wq6ozCNG7"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Campagnoli",
+          "url": "https://open.spotify.com/artist/1pOPhkviofSIVzyPUrqXzc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164338,
+      "name": "Ordinary Sunday",
+      "url": "https://open.spotify.com/track/0bdtCy7wrMYa7gc8mCo955"
+    },
+    {
+      "album": {
         "name": "Ordino",
         "url": "https://open.spotify.com/album/17Ur7n3dhPusy2R1M9UO0i"
       },
@@ -8354,6 +8408,24 @@
       "duration_ms": 95421,
       "name": "Preludium G-Dur",
       "url": "https://open.spotify.com/track/7BrfpWvcN5ZlzaHs1ej0DF"
+    },
+    {
+      "album": {
+        "name": "Pula",
+        "url": "https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi"
+      },
+      "artists": [
+        {
+          "name": "Fabian Lombardi",
+          "url": "https://open.spotify.com/artist/3WH05EEkQ0VsQQ5rvn1shY"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181258,
+      "name": "Pula",
+      "url": "https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV"
     },
     {
       "album": {
@@ -8786,6 +8858,24 @@
       "duration_ms": 200818,
       "name": "Riso",
       "url": "https://open.spotify.com/track/0wijlfBBmTPzrE8DoClLKL"
+    },
+    {
+      "album": {
+        "name": "River crossing",
+        "url": "https://open.spotify.com/album/2pj3W209MgHfvHu5bPclaQ"
+      },
+      "artists": [
+        {
+          "name": "Philip Grass",
+          "url": "https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155586,
+      "name": "River crossing",
+      "url": "https://open.spotify.com/track/1oaGPO8tK1VnTc6zBWzNkL"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Kazy Lambist
+> The best French indie tracks right now\. Cover : Alice et Moi
 
 495 songs - 1 day 3 hr 6 min
 

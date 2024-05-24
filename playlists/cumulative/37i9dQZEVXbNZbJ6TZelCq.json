@@ -1253,6 +1253,28 @@
     },
     {
       "album": {
+        "name": "Ale Ale",
+        "url": "https://open.spotify.com/album/5WHUw7816xjT9TzLLUg0wW"
+      },
+      "artists": [
+        {
+          "name": "Andrei G",
+          "url": "https://open.spotify.com/artist/5WXXT0hYK8tf9uGh0UYwDO"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163636,
+      "name": "Ale Ale",
+      "url": "https://open.spotify.com/track/5hTdrujbmAaNS1PW2ahIgK"
+    },
+    {
+      "album": {
         "name": "Partypackz",
         "url": "https://open.spotify.com/album/33GMnFtWbaPEn1B9XETevo"
       },
@@ -12270,7 +12292,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -16518,7 +16540,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 182293,
       "name": "Love Me Again",
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
@@ -25110,7 +25132,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 173913,
       "name": "Seara De Seara",
       "url": "https://open.spotify.com/track/5QfTd25qZ0lCIUC4zMWWUq"

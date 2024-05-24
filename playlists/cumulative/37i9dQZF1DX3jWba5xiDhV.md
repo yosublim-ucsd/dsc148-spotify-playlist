@@ -4,7 +4,7 @@
 
 > When the dance floor calls your name, that's amore.
 
-179 songs - 15 hr 14 min
+180 songs - 15 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [I.C\. Love Affair \- Radio Version](https://open.spotify.com/track/6LUio4WzheW25pazhTWm2e) | [Gaznevada](https://open.spotify.com/artist/3lkvPuFo1qlcJZvB3h44Mj) | [I.C\. Love Affair](https://open.spotify.com/album/6N9mtDwZA3vni2r6nn6qS6) | 3:41 | 2022-02-11 | 2022-07-29 |
 | [Il ragazzo con la giardinetta \- BIONDA MORTA per CIAO 2021](https://open.spotify.com/track/4MaNzGtZ0rUubsm9Zo1ojb) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [CIAO 2021](https://open.spotify.com/album/3p37WGv4W9JNWFZHjVNZNL) | 2:10 | 2022-02-11 | 2022-04-27 |
 | [Il veliero](https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68) | [Lucio Battisti](https://open.spotify.com/artist/2caOYPej26UoQOyFnzXW3G) | [Lucio Battisti, la batteria, il contrabbasso, eccetera](https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd) | 5:59 | 2022-02-11 |  |
-| [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 | 2022-02-11 |  |
+| [Il Veliero \- Single Version](https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv) | [The Chaplin Band](https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2) | [Dancing on Townsquare](https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c) | 3:30 | 2022-02-11 | 2024-05-24 |
 | [In Love With Nebula](https://open.spotify.com/track/5tYcZUC5qnhXIKx1vlRz4s) | [Mario Moretti](https://open.spotify.com/artist/7qCGYOwQPMZLIlxc08Ue9j) | [Past Present Perfect](https://open.spotify.com/album/4YyAuCQZUz9WNuT8P6oj9z) | 6:26 | 2022-02-11 | 2022-06-23 |
 | [In My Dreams \- Powerhouse Mix](https://open.spotify.com/track/7EJhHYYNg8dLzOba91HrgM) | [Nuovo Testamento](https://open.spotify.com/artist/70MnQHSuHcHizcq5qma5vA) | [In My Dreams \(Powerhouse Mix\)](https://open.spotify.com/album/1lyD5OHVfFsDtP0V7evk5c) | 5:54 | 2024-01-26 |  |
 | [Insieme](https://open.spotify.com/track/4DSjwylMkecSMTG4Xxa0Bj) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Insieme](https://open.spotify.com/album/2UyUMOvrS4GzC8Zrc7UYLm) | 3:05 | 2024-03-07 |  |
@@ -148,6 +148,7 @@
 | [Splendido splendente](https://open.spotify.com/track/4djSKkGTA9ZtI22q96L1Tn) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/3bjLuBoH2Imh21OsGWM94s) | 3:27 | 2023-10-06 | 2024-04-19 |
 | [Splendido splendente](https://open.spotify.com/track/6cTDaZELhhgPxzdPn5lruI) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido divino \(Gli Indimenticabili\)](https://open.spotify.com/album/0f4Wz3ZaGjPDMEBs0OrZqs) | 3:27 | 2022-07-01 | 2023-11-04 |
 | [Splendido splendente](https://open.spotify.com/track/7vMqQLAA3A7ymNOaICmt2Z) | [Donatella Rettore](https://open.spotify.com/artist/7eIqewR3PiwQDItf5G2SyV) | [Brivido Divino](https://open.spotify.com/album/4RFOFcht99zVWzby7nUfLH) | 3:27 | 2022-02-11 | 2022-07-29 |
+| [Starlight Delight](https://open.spotify.com/track/5pYAjHgii18QfT9IOOCkIR) | [NOCUI](https://open.spotify.com/artist/5WAAffTsqPSeJqB4zb1SlV) | [Starlight Delight](https://open.spotify.com/album/0SNFL0dNsmhBdzaWn1ftlp) | 5:27 | 2024-05-22 |  |
 | [Stranger in a Strange Land \- Club Mix 1983](https://open.spotify.com/track/6eqW2BVJj5YvaCa4zPh4zz) | [N.O.I.A.](https://open.spotify.com/artist/5n1oZahUtUcODMxsH0kwMa) | [Stranger in a Strange Land](https://open.spotify.com/album/5frZPYwMO9A1H0gWPOHnDR) | 7:31 | 2022-02-11 | 2022-07-29 |
 | [Summer Time](https://open.spotify.com/track/62WcZBFubVa0rPqHwvFZ6K) | [Plastic Mode](https://open.spotify.com/artist/22bwmgMrfLg3IMcPs7vNMa) | [Plastic Mode](https://open.spotify.com/album/5ParFAecXuBEXXZOjtxOHx) | 3:55 | 2022-02-11 |  |
 | [Super Snooper](https://open.spotify.com/track/6ZlOBxdbQwRBWUTThWiwvg) | [The Oceans](https://open.spotify.com/artist/7LmuiBpwCYykRBvDGDVBl0) | [Super Snooper \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0wQCddd51rHbWT3K5b5XfE) | 3:14 | 2022-02-11 | 2022-03-21 |

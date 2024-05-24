@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Kendrick Lamar ",
+  "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Gunna",
   "name": "Hype List",
   "tracks": [
     {
@@ -300,6 +300,28 @@
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
+    },
+    {
+      "album": {
+        "name": "Ahol\u00e9",
+        "url": "https://open.spotify.com/album/5GKcIxZeCqFlyak5bJV7ju"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Famas",
+          "url": "https://open.spotify.com/artist/4t8EKJ7Yp6F2F1vG1NFANE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Ahol\u00e9",
+      "url": "https://open.spotify.com/track/3L5zmSXtVNYF1nrRtbyaQy"
     },
     {
       "album": {
@@ -741,6 +763,32 @@
     },
     {
       "album": {
+        "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+        "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
+    },
+    {
+      "album": {
         "name": "BACK IN UNI",
         "url": "https://open.spotify.com/album/3QvPbmCWd2dOOB0ZztZN5I"
       },
@@ -982,7 +1030,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 191174,
       "name": "Big Difference",
       "url": "https://open.spotify.com/track/0ZhPWSfAKzeVQbRG08E1iI"
@@ -2466,7 +2514,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 139714,
       "name": "Egberi",
       "url": "https://open.spotify.com/track/1pt9MqNMJQUHtdTwaswwwR"
@@ -3824,7 +3872,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157808,
       "name": "Ije Nwoke",
       "url": "https://open.spotify.com/track/0yeE2B1raXnYil6MiAJPA1"
@@ -5034,7 +5082,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 217142,
       "name": "MMD (Money Must Drop)",
       "url": "https://open.spotify.com/track/2Hetnf0XsYPtFyDaB3JI99"
@@ -5976,6 +6024,24 @@
       "duration_ms": 159720,
       "name": "On Wat U On (with GloRilla)",
       "url": "https://open.spotify.com/track/2Q2mcoXVkioh4OBcL8mm4p"
+    },
+    {
+      "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "one of wun",
+      "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
     },
     {
       "album": {
@@ -7020,7 +7086,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 226440,
       "name": "Scrambled Eggs",
       "url": "https://open.spotify.com/track/3smwc80xoQVOLTD8obotk9"
@@ -8065,6 +8131,24 @@
     },
     {
       "album": {
+        "name": "Umva",
+        "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203611,
+      "name": "Umva",
+      "url": "https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN"
+    },
+    {
+      "album": {
         "name": "Untitled (feat. ODUMODUBLVCK, PsychoYP)",
         "url": "https://open.spotify.com/album/3ccI3rN8btuN5jv0Amk0Uk"
       },
@@ -8607,6 +8691,24 @@
     },
     {
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148240,
+      "name": "whatsapp (wassam)",
+      "url": "https://open.spotify.com/track/6LAicOLiCrHw0bmaLBDbC8"
+    },
+    {
+      "album": {
         "name": "Where Dem Dey",
         "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
@@ -8797,6 +8899,28 @@
     },
     {
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Joey B",
+          "url": "https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273256,
+      "name": "X",
+      "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
+    },
+    {
+      "album": {
         "name": "Yao",
         "url": "https://open.spotify.com/album/1iIMteZmsQjzajs83RFmgQ"
       },
@@ -8826,7 +8950,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 142702,
       "name": "Yeah Glo!",
       "url": "https://open.spotify.com/track/0rxSRS0Cpw0Hxi7zLNudhm"

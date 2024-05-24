@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1288865,
+  "num_followers": 1288823,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
-        "name": "RMCM",
-        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
-      },
-      "artists": [
-        {
-          "name": "Richy Mitch & The Coal Miners",
-          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
-        }
-      ],
-      "duration_ms": 87000,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
+        "name": "RMCM",
+        "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
+      },
+      "artists": [
+        {
+          "name": "Richy Mitch & The Coal Miners",
+          "url": "https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau"
+        }
+      ],
+      "duration_ms": 87000,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
       },
       "artists": [
         {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
+      "duration_ms": 277506,
+      "name": "Supercut",
+      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -559,18 +559,18 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
       },
       "artists": [
         {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
         }
       ],
-      "duration_ms": 277506,
-      "name": "Supercut",
-      "url": "https://open.spotify.com/track/6K8VQ84MqhsoakN5MjrnVR"
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
-        "name": "ITALODISCO",
-        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
-      },
-      "artists": [
-        {
-          "name": "The Kolors",
-          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
-        }
-      ],
-      "duration_ms": 199512,
-      "name": "ITALODISCO",
-      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
         "name": "Locksmith",
         "url": "https://open.spotify.com/album/1XsMFyyPhYodMoE8V0SMkl"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 164081,
       "name": "Locksmith",
       "url": "https://open.spotify.com/track/4HcARAxzsbIB3MqiEkejM6"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
+        "name": "ITALODISCO",
+        "url": "https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn"
+      },
+      "artists": [
+        {
+          "name": "The Kolors",
+          "url": "https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR"
+        }
+      ],
+      "duration_ms": 199512,
+      "name": "ITALODISCO",
+      "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
         "name": "Gr\u00fcne Augen l\u00fcgen nicht",
         "url": "https://open.spotify.com/album/3abp46f8f2mmo86iem7Hkf"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 164195,
       "name": "Maybe October",
       "url": "https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
+        "name": "June",
+        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
+      },
+      "artists": [
+        {
+          "name": "becks",
+          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
+        }
+      ],
+      "duration_ms": 164840,
+      "name": "June",
+      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
         "name": "Dive",
         "url": "https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 200759,
       "name": "Dive",
       "url": "https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
-        "name": "June",
-        "url": "https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf"
-      },
-      "artists": [
-        {
-          "name": "BECKS",
-          "url": "https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57"
-        }
-      ],
-      "duration_ms": 164840,
-      "name": "June",
-      "url": "https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
+        "name": "In Der Zeit Verlieren",
+        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        },
+        {
+          "name": "alfons.",
+          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
+        }
+      ],
+      "duration_ms": 158437,
+      "name": "In Der Zeit Verlieren",
+      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
         "name": "What Love Is",
         "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
       },
@@ -1391,26 +1411,6 @@
     {
       "added_at": "2024-05-22 13:44:15",
       "album": {
-        "name": "In Der Zeit Verlieren",
-        "url": "https://open.spotify.com/album/131JPd43brI7u4ad651rj8"
-      },
-      "artists": [
-        {
-          "name": "bac",
-          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
-        },
-        {
-          "name": "alfons.",
-          "url": "https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin"
-        }
-      ],
-      "duration_ms": 158437,
-      "name": "In Der Zeit Verlieren",
-      "url": "https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
         "name": "Synchronize",
         "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 164576,
       "name": "Synchronize",
       "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
-    },
-    {
-      "added_at": "2024-05-22 13:44:15",
-      "album": {
-        "name": "Real Love Baby",
-        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Real Love Baby",
-      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
     },
     {
       "added_at": "2024-05-22 13:44:15",
@@ -1471,6 +1455,22 @@
       "duration_ms": 158061,
       "name": "Wie weit",
       "url": "https://open.spotify.com/track/1Rax9jcKsPwQjnRLmZTC9F"
+    },
+    {
+      "added_at": "2024-05-22 13:44:15",
+      "album": {
+        "name": "Real Love Baby",
+        "url": "https://open.spotify.com/album/6iTNM4iKs4myLCsqUnODJa"
+      },
+      "artists": [
+        {
+          "name": "Father John Misty",
+          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Real Love Baby",
+      "url": "https://open.spotify.com/track/3MyQn1xBQwPtFJUUP7zB8s"
     },
     {
       "added_at": "2024-05-22 13:44:15",

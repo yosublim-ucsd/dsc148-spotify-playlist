@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 
 > Don’t Sweat It!
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,675 likes - 100 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,661 likes - 100 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 63 | [Sing to the Grave](https://open.spotify.com/track/5SnK7pnWLXNiEbs3z1ISBG) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Suffer in Heaven](https://open.spotify.com/album/1PAwmSRkAc4nvRmDmFCe0x) | 2:39 |
 | 64 | [Kai Tangata](https://open.spotify.com/track/0YWyKtLAlmVjryfY6CSxYE) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Tū](https://open.spotify.com/album/4RBkIbNroo8Lp1Y8p3VV4M) | 6:35 |
 | 65 | [The Signal Fire \(feat\. Howard Jones\)](https://open.spotify.com/track/2Fup9XFE9sXWu9Qft2Q7ZB) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l), [Howard Jones](https://open.spotify.com/artist/4T0p8Zo2nJdSoCDTrV9jgW) | [Atonement](https://open.spotify.com/album/6kkUp557e0o5k0dRBfohJZ) | 3:05 |
-| 66 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
-| 67 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
+| 66 | [Amaranth](https://open.spotify.com/track/1sXdW94CrEIrYdbfON4Sxt) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/23DKEup8CZAYeGdjtwnpEE) | 3:51 |
+| 67 | [Dante](https://open.spotify.com/track/6jjx1KvWK4OAzD0JimzHiY) | [Northlane](https://open.spotify.com/artist/3qyg72RGnGdF521zMU02u9) | [Dante](https://open.spotify.com/album/5BC58VTUf4aaoGVkjhtx9U) | 5:46 |
 | 68 | [Painless](https://open.spotify.com/track/4IkCvLPQfBEclen1NuIDIL) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 3:59 |
 | 69 | [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 |
 | 70 | [666 \- World Divided](https://open.spotify.com/track/2OsCkXO8524Qxwe1pR3eAb) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [666 \- World Divided](https://open.spotify.com/album/0hCa6eoUtwiit26t5dNpeY) | 4:44 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 79 | [The Shape of Water](https://open.spotify.com/track/1TQCfN9QDURXA14PlJs4x5) | [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0), [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [The Shape of Water](https://open.spotify.com/album/30AACekoL1ZM6gXtPE7GHN) | 3:34 |
 | 80 | [Nobody](https://open.spotify.com/track/0oD7vsrHsBHiUMIBEa5EmK) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Disobedient](https://open.spotify.com/album/3KVkVGtuxWa6CqoJYujC6H) | 3:05 |
 | 81 | [Black Hole](https://open.spotify.com/track/3rjgOeWUEth90mFVR82WtG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Black Hole](https://open.spotify.com/album/6lhq5amVK8LmVJmF8DUNuB) | 3:51 |
-| 82 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
-| 83 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
+| 82 | [The End of All We Know](https://open.spotify.com/track/14EXZEog1hW97d6yz8ejih) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [The End of All We Know](https://open.spotify.com/album/2OqIRPnTsoVKem3kLhP6pi) | 4:11 |
+| 83 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 | 84 | [DOWN \(Feat\. Malevolence\)](https://open.spotify.com/track/3oGNDHK33fp1GMqU9e4HQ7) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a), [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [DOWN \(feat\. Malevolence\)](https://open.spotify.com/album/2k2jqcFGVY0lmKeGdhdDMD) | 3:54 |
 | 85 | [Pale Iris](https://open.spotify.com/track/5c3CJeTQO5oZqKdKRAqkg3) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Pale Iris](https://open.spotify.com/album/3XIN5O8ioMsCQwumlx7QUt) | 4:23 |
 | 86 | [There Is Nothing Left](https://open.spotify.com/track/74PAKCnEsM6W8AvKVzwtRg) | [All Shall Perish](https://open.spotify.com/artist/7GkGdNLPzWw4e6ctwKvI2x) | [This Is Where It Ends](https://open.spotify.com/album/5LzFoXgsUsRpeQ3xitLiJl) | 3:22 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06VUQ1GoKge.md) - [plain]
 | 96 | [Another World](https://open.spotify.com/track/5hsq03E3do2gWhyOVV2Api) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Another World](https://open.spotify.com/album/4tyLNMywFElpCHVQUZVWVa) | 4:24 |
 | 97 | [Locked \(In My Head\)](https://open.spotify.com/track/4UUZ6q9fMXFH4WG6SJ2mQP) | [Fit For A King](https://open.spotify.com/artist/0OgdRTPItr9dw4XYp4JJUx) | [Locked \(In My Head\)](https://open.spotify.com/album/5mZ1ajDJMLRp2pDp8NZLQK) | 3:06 |
 | 98 | [The Blood, the Sweat, the Tears](https://open.spotify.com/track/2zETdkc5Wm23NLHEWDillV) | [Machine Head](https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt) | [The Burning Red](https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA) | 4:11 |
-| 99 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
-| 100 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |
+| 99 | [Smothered](https://open.spotify.com/track/2wdjEAsK64EUPmNIIH6MWt) | [Spineshank](https://open.spotify.com/artist/6fmbbxNvgHkglIakp1Wrv4) | [Self\-Destructive Pattern](https://open.spotify.com/album/0rMyQJKxkqIOy9p5u4iV5w) | 3:10 |
+| 100 | [Bird On A Chain](https://open.spotify.com/track/4IF5tqSLknKGYp0uQPZw6P) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [Bird On A Chain](https://open.spotify.com/album/5eY8X2zrWWaHlm7kMPV7qu) | 2:52 |
 
 Snapshot ID: `ZapBvwAAAADYMrNl+G5Mp7DiDdbYmgw0`

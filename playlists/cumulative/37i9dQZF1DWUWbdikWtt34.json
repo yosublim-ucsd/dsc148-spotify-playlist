@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Owan",
+  "description": "Dendang Dangdut teratas. Cover: Abi Rafdi",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -515,6 +515,28 @@
     },
     {
       "album": {
+        "name": "Cinta Tak Terpisahkan (Live Ska Reggae)",
+        "url": "https://open.spotify.com/album/4Rt4gtk07aN4sPJzZ18GeC"
+      },
+      "artists": [
+        {
+          "name": "Maulana Ardiansyah",
+          "url": "https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La"
+        },
+        {
+          "name": "Ochi Alvira",
+          "url": "https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347575,
+      "name": "Cinta Tak Terpisahkan - Live Ska Reggae",
+      "url": "https://open.spotify.com/track/5O6qQZLSMLwK7eGwAKruUH"
+    },
+    {
+      "album": {
         "name": "Cinta Yang Rumit",
         "url": "https://open.spotify.com/album/5IDUI32I8DRXTOUJnSradA"
       },
@@ -526,7 +548,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 245347,
       "name": "Cinta Yang Rumit",
       "url": "https://open.spotify.com/track/6Atv6SpeVJ0sgGyFlkcsGX"
@@ -750,7 +772,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 293142,
       "name": "Disana Menanti Disini Menunggu",
       "url": "https://open.spotify.com/track/2duwSgIaCDp6hKV106uhPf"
@@ -1865,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Mula Macenning Cappa' Makessing",
+        "url": "https://open.spotify.com/album/07TlNMSQg8SRklWzRYQjn1"
+      },
+      "artists": [
+        {
+          "name": "Abi Rafdi",
+          "url": "https://open.spotify.com/artist/5lg2Srqzrj9XN9Yx3o0vzi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335178,
+      "name": "Mula Macenning Cappa' Makessing",
+      "url": "https://open.spotify.com/track/0w25hbTxLjR1Ht7bXI9Avi"
+    },
+    {
+      "album": {
         "name": "Mundur Alon Alon",
         "url": "https://open.spotify.com/album/6d3P0uJ5yNcZ0jkZRmIWmU"
       },
@@ -2314,6 +2354,28 @@
       "duration_ms": 268085,
       "name": "Rumit",
       "url": "https://open.spotify.com/track/33TCMtMtSaA3svfYfdkMHo"
+    },
+    {
+      "album": {
+        "name": "Sakur Ngimpi",
+        "url": "https://open.spotify.com/album/1fYzlUuZ8TETKCgZaeeeQI"
+      },
+      "artists": [
+        {
+          "name": "3 Pemuda Berbahaya",
+          "url": "https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z"
+        },
+        {
+          "name": "Sallsa Bintan",
+          "url": "https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315485,
+      "name": "Sakur Ngimpi",
+      "url": "https://open.spotify.com/track/0wWjSOuRhpjOcLlkxlFTh4"
     },
     {
       "album": {

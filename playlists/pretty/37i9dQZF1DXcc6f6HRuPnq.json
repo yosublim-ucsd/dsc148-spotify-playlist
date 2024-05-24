@@ -1,6 +1,6 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 158256,
+  "num_followers": 158351,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-10-05 08:53:30",
       "album": {
-        "name": "Big City Blues",
-        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
-      },
-      "artists": [
-        {
-          "name": "John Hammond",
-          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Midnight Hour Blues",
-      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
-    },
-    {
-      "added_at": "2023-10-05 08:53:30",
-      "album": {
         "name": "Aynsley Dunbar Retaliation",
         "url": "https://open.spotify.com/album/5x2oNDLg8c4wWHObs8fGYB"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 229266,
       "name": "Double Lovin\u00b4",
       "url": "https://open.spotify.com/track/1TrvuBGqATex8EHajEHrqo"
+    },
+    {
+      "added_at": "2023-10-05 08:53:30",
+      "album": {
+        "name": "Big City Blues",
+        "url": "https://open.spotify.com/album/5dBNWLcnW9aRbNN3O00jcl"
+      },
+      "artists": [
+        {
+          "name": "John Hammond",
+          "url": "https://open.spotify.com/artist/471Ycbmda1lAuLMscQvxMR"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Midnight Hour Blues",
+      "url": "https://open.spotify.com/track/1f0lsPxcrorjew0Xcb0X9M"
     },
     {
       "added_at": "2023-10-05 08:53:30",

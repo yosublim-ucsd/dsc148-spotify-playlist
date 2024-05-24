@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Timeless Latin hits. \u00c9xitos ic\u00f3nicos e inolvidables, con Selena en portada.",
+  "description": "Timeless Latin hits. Son 5 a\u00f1os de 'Homerun', el \u00e1lbum debut de Paulo Londra.",
   "name": "Esenciales",
   "tracks": [
     {
@@ -208,6 +208,24 @@
       "duration_ms": 239426,
       "name": "Abr\u00e1zame Muy Fuerte",
       "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256971,
+      "name": "Adan y Eva",
+      "url": "https://open.spotify.com/track/132ALUzVLmqYB4UsBj5qD6"
     },
     {
       "album": {
@@ -7058,7 +7076,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 229853,
       "name": "No S\u00e9 T\u00fa",
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
@@ -7674,7 +7692,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 184080,
       "name": "Por Debajo De La Mesa",
       "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
@@ -8506,7 +8524,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"

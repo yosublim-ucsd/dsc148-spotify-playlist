@@ -1,12 +1,12 @@
 {
-  "description": "This Is Meg Smith. Los temas esenciales, todos en una lista.",
-  "num_followers": 203,
+  "description": "This is Meg Smith. The essential tracks, all in one playlist.",
+  "num_followers": 204,
   "original_name": "This Is Meg Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAANzSQAwIxcse8JDRDoZQQv",
+  "snapshot_id": "Zk01gAAAAACDr88Z82166fFkzmm8q7vq",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Not to Love",
-        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 183793,
-      "name": "Who Not to Love",
-      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fuck Friday",
         "url": "https://open.spotify.com/album/6kHPQWYCCp1iky3B2w4snD"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 182500,
       "name": "Because of Me",
       "url": "https://open.spotify.com/track/4k5gEEKBU2Oml9GxZEGWLu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Not to Love",
+        "url": "https://open.spotify.com/album/4P0RKhQn50VKzyJbBYnf3v"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 183793,
+      "name": "Who Not to Love",
+      "url": "https://open.spotify.com/track/2vDtDVAnCMvaKmKtSPTedt"
     },
     {
       "added_at": null,

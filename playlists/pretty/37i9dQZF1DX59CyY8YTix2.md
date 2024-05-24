@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > 国内ロックシーンで活躍する女性アーティストたちを特集。Japanese women rock icons\. Cover: ゲシュタルト乙女
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,847 likes - 75 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,864 likes - 75 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 66 | [I like you](https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7) | [I like you](https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF) | 3:50 |
 | 67 | [line](https://open.spotify.com/track/1OvRhgVMmySVSreV9YnoBW) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [around dusk](https://open.spotify.com/album/4XG2t9y3aHT7IjCFn3jwNF) | 3:01 |
 | 68 | [月が満ちる](https://open.spotify.com/track/3erxP0Da6Dlzpd5eRLtob4) | [Tsukuyomi](https://open.spotify.com/artist/2mcj8ajoE1eFlNkAihw5Cg) | [月が満ちる](https://open.spotify.com/album/0ED9qF7KdOO7iKzGeYFViE) | 3:26 |
-| 69 | [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 |
-| 70 | [ファンファーレ](https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh) | 3:48 |
-| 71 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
+| 69 | [ファンファーレ](https://open.spotify.com/track/4nq80DMRmRZRBW12tN3rmS) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [LUMINOUS](https://open.spotify.com/album/3Z4uX6UeTkCl4g2g0XqXsh) | 3:48 |
+| 70 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 |
+| 71 | [ヘイミー！](https://open.spotify.com/track/0Jj8qToTYk0LMzm6UDLFv1) | [Aivy](https://open.spotify.com/artist/50ZZhrepUFMiOPypDlLDyv) | [ヘイミー！](https://open.spotify.com/album/7IKQOdEkaf6z2KcLKSpCtG) | 4:20 |
 | 72 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 |
 | 73 | [故のLOVE](https://open.spotify.com/track/6vVKI6HXIsGssqGYGuKmF8) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [LOVEの飽和水蒸気量](https://open.spotify.com/album/6ZVZ2hZV5bnFpLFQOqptuM) | 3:30 |
 | 74 | [新迷宮](https://open.spotify.com/track/5pto8srVXclIjXNlS7tyFB) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [新迷宮 ep](https://open.spotify.com/album/5yPpH5dGq2fpjRaIGqJQYJ) | 3:05 |

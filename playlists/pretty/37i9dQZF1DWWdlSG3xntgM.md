@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Như Quỳnh
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,957 likes - 50 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,971 likes - 50 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 47 | [Buc Tam Thu](https://open.spotify.com/track/5FchCbqk8VyiBedLQxzwch) | [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Hoa No Ve Dem](https://open.spotify.com/album/04b4J4LM9xzBG8V4F9VdDx) | 3:40 |
 | 48 | [Hoa Mười Giờ](https://open.spotify.com/track/5kV1lCH5ehwnA9KUH8HXc4) | [Dương Hồng Loan](https://open.spotify.com/artist/0HCHCbu99MF7kfRudGZceI), [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP) | [Áo Mới Cà Mau](https://open.spotify.com/album/6bNu0GS83ChX75EQzbnHs9) | 5:58 |
 | 49 | [Chuyến Tàu Hoàng Hôn](https://open.spotify.com/track/1MypNXhY8KUMLdRxeQNmPO) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 4:55 |
-| 50 | [Những ngày xưa thân ái](https://open.spotify.com/track/065m5SgiXmlREci47MZaLG) | [Duy Khánh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Tiếng Hát Duy Khánh](https://open.spotify.com/album/5h5DvRFhU1YZugPRDNBawY) | 5:26 |
+| 50 | [Đò chiều](https://open.spotify.com/track/69ZuBaYz156wMPgIJKbLHi) | [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc), [Phương Hồng Quế](https://open.spotify.com/artist/2d1ZChw4TkNWrJx6iPleap) | [Trúc Phương \- Ông Hoàng Của Dòng Nhạc Bolero](https://open.spotify.com/album/0wLJdOiBX8PE4Yg6tUUzqx) | 5:05 |
 
 Snapshot ID: `ZjyfFwAAAABBoh6qI5s10J7Xg/h6J+J3`

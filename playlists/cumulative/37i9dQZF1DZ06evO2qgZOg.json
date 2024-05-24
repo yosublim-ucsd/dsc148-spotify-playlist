@@ -1,0 +1,916 @@
+{
+  "date_first_scraped": "2024-05-24",
+  "description": "This Is Skillet. Los temas esenciales, todos en una lista.",
+  "name": "This Is Skillet",
+  "tracks": [
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216799,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6EwnYm73XEibpAPOnTc8li"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Awake and Alive",
+      "url": "https://open.spotify.com/track/0nkzd3yNniB767zSDDdLZ3"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213586,
+      "name": "Back from the Dead",
+      "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211149,
+      "name": "Beyond Incredible",
+      "url": "https://open.spotify.com/track/3qd9Dq8PpCsrFD5WGbpjK8"
+    },
+    {
+      "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        },
+        {
+          "name": "Lacey Sturm",
+          "url": "https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232813,
+      "name": "Breaking Free (feat. Lacey Sturm)",
+      "url": "https://open.spotify.com/track/3sT99jz232QWq5Q2LEaFJ5"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196453,
+      "name": "Burn It Down",
+      "url": "https://open.spotify.com/track/3WM6KIuUPyROwLoADaSxfg"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271933,
+      "name": "Circus for a Psycho",
+      "url": "https://open.spotify.com/track/3AhEF2J0fy33PdGYEkzqm2"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230426,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/5pRElcsPZrgZXkoON2o5Go"
+    },
+    {
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192307,
+      "name": "Crossfire",
+      "url": "https://open.spotify.com/track/4bwvPbiPCsjyMZc6W4VPA2"
+    },
+    {
+      "album": {
+        "name": "Awake (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176706,
+      "name": "Dead Inside",
+      "url": "https://open.spotify.com/track/7oc2wH81jpU45L5H2JnThI"
+    },
+    {
+      "album": {
+        "name": "Victorious: The Aftermath (Deluxe)",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242193,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/7l35PR5pQl5w3QjpBROEl3"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231492,
+      "name": "Dominion",
+      "url": "https://open.spotify.com/track/08y95NOBjAM41gJfSqTogE"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210026,
+      "name": "Falling Inside the Black",
+      "url": "https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229933,
+      "name": "Feel Invincible",
+      "url": "https://open.spotify.com/track/0i8JFpqe9cKwnrcvoNgl1L"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206060,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186813,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208826,
+      "name": "I Want to Live",
+      "url": "https://open.spotify.com/track/4Ahphc0UzRSoMpJRHgnGQK"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "It's Not Me, It's You",
+      "url": "https://open.spotify.com/track/1swaR8iEKe5qyCoyCWjyvP"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244538,
+      "name": "Legendary",
+      "url": "https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218386,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178013,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/2UREu1Y8CO4jXkbvqAtP7g"
+    },
+    {
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210520,
+      "name": "Never Surrender",
+      "url": "https://open.spotify.com/track/4MoVvVkDGFNtQPHciZgG3w"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225280,
+      "name": "Not Gonna Die",
+      "url": "https://open.spotify.com/track/2jfk3m8nq5IvB35s2xIs1O"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194773,
+      "name": "Open Wounds",
+      "url": "https://open.spotify.com/track/2UfKuGYONPAuopJtpGfZyA"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233293,
+      "name": "Rebirthing",
+      "url": "https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA"
+    },
+    {
+      "album": {
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2E5y6uKNGkwk4BxpqsfV27"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208233,
+      "name": "Refuge",
+      "url": "https://open.spotify.com/track/7pP0Mep1TEphZrYWylClWa"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260786,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/1W0YS64vF9qgMVLuN76aqg"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238168,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/5sxSfajurxK1jzBUzTLou5"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Salvation",
+      "url": "https://open.spotify.com/track/6qYTL4IxHaHTfum39X62tr"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223240,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/4REoG68IFlZyqVAaUwmUl0"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/77JbhmUqfoId7D2AHKU4zW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273626,
+      "name": "Savior",
+      "url": "https://open.spotify.com/track/3PwUxOBMBkwILa7Y0s6h8S"
+    },
+    {
+      "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229200,
+      "name": "Set It Off",
+      "url": "https://open.spotify.com/track/6TwT18qPHvu1T3p91MtgyN"
+    },
+    {
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206182,
+      "name": "Shout Your Freedom",
+      "url": "https://open.spotify.com/track/4tLvkZX8t5bVltQwe4Cj7P"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190360,
+      "name": "Sick of It",
+      "url": "https://open.spotify.com/track/4EYpOdL69yWuIRc49AyeZa"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257467,
+      "name": "Standing in the Storm",
+      "url": "https://open.spotify.com/track/72DI6pnhy26WMx7fI1fL07"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238870,
+      "name": "Surviving The Game",
+      "url": "https://open.spotify.com/track/0urubGmXiODfWyGL6o6W4P"
+    },
+    {
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194740,
+      "name": "The Defiant",
+      "url": "https://open.spotify.com/track/7CS9m4zqBEH2so5yJR1UGC"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210786,
+      "name": "The Last Night",
+      "url": "https://open.spotify.com/track/37CMjUAU8fL6YqZVTplZqZ"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232066,
+      "name": "The Resistance",
+      "url": "https://open.spotify.com/track/5O9Dz0h08LuBi0aVvDcylh"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226506,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
+    },
+    {
+      "album": {
+        "name": "Dominion: Day of Destiny",
+        "url": "https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201060,
+      "name": "Unbreakable Soul",
+      "url": "https://open.spotify.com/track/1H5O8Re8EWxGtniptE7HIW"
+    },
+    {
+      "album": {
+        "name": "Unleashed",
+        "url": "https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215880,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+    },
+    {
+      "album": {
+        "name": "Dominion",
+        "url": "https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267195,
+      "name": "Valley of Death",
+      "url": "https://open.spotify.com/track/6yPfhJH9EjrJZMCevkN7a9"
+    },
+    {
+      "album": {
+        "name": "Victorious",
+        "url": "https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245715,
+      "name": "Victorious",
+      "url": "https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls"
+    },
+    {
+      "album": {
+        "name": "Rise (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199480,
+      "name": "What I Believe",
+      "url": "https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO"
+    },
+    {
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204346,
+      "name": "Whispers in the Dark",
+      "url": "https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4"
+    },
+    {
+      "album": {
+        "name": "Wolf (feat. John Cooper of Skillet)",
+        "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        },
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "Wolf (feat. John Cooper of Skillet)",
+      "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
+    },
+    {
+      "album": {
+        "name": "Awake (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252280,
+      "name": "Would It Matter",
+      "url": "https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu"
+    },
+    {
+      "album": {
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+    }
+  ],
+  "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg"
+}

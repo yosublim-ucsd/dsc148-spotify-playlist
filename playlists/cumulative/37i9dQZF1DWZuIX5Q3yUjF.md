@@ -2,9 +2,9 @@
 
 ### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Il meglio dell'R&B italiano\. Cover: Nico Kyni
+> Il meglio dell'R&B italiano\. Cover: Heartman
 
-587 songs - 1 day 5 hr 8 min
+592 songs - 1 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Bad Habits](https://open.spotify.com/track/7yrarQCL87CIAmiqm85DG0) | [Bianca Ventura](https://open.spotify.com/artist/5WTGO25DQgKOWnQtSvoNbR) | [Bad Habits](https://open.spotify.com/album/3ZfBvSBao0yS0MDU2vCOyZ) | 3:03 | 2022-05-12 | 2022-09-16 |
 | [Bagaglio](https://open.spotify.com/track/1KWGFSz4Zk2skURQBSrd8P) | [Periodo Blu](https://open.spotify.com/artist/7yuiCazz5pT4tRGX530sMg), [GEA](https://open.spotify.com/artist/0Nnr3IWmNaJwPa0DxTcRg1) | [Bagaglio](https://open.spotify.com/album/42WqQtLUsm5kL3Tj3oRwKG) | 3:10 | 2024-02-22 | 2024-03-29 |
 | [balliamo](https://open.spotify.com/track/2QXUDeLfGYGm13vx6GUpBr) | [claro](https://open.spotify.com/artist/0APvLMkrmJV6BSKJWoy3Jz) | [balliamo](https://open.spotify.com/album/5tHit6JjQnNOctneZJoukH) | 2:49 | 2022-05-05 | 2022-09-09 |
+| [Bebè](https://open.spotify.com/track/3MnD0MCUntvc9FJGYVM9Ru) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J), [aura6am](https://open.spotify.com/artist/55mMu19vJ9H8pAbgXsULmU) | [Bebè](https://open.spotify.com/album/3hsKJOALwgmIJ4pbA5UxrK) | 2:23 | 2024-05-23 |  |
 | [Birthday](https://open.spotify.com/track/32lSBUAwseG81GL0VjeXEz) | [Feliciana](https://open.spotify.com/artist/49qJvbUyRJ7r4ae4QYhTFY) | [Birthday](https://open.spotify.com/album/2L11I1HBuWIlrTBBRjXuFi) | 2:13 | 2022-05-05 | 2022-11-11 |
 | [Bitter](https://open.spotify.com/track/2V8r2YxPjZTCpfkDvSGcjQ) | [Diora Madama](https://open.spotify.com/artist/7wOA7etbtOByr52HImiMI2) | [Bitter](https://open.spotify.com/album/1o3kKZNiluPkE0UIDkpWvn) | 2:52 | 2022-05-05 | 2022-11-11 |
 | [BLACK](https://open.spotify.com/track/0MpDXFKJoAYha6BpLlt9jI) | [Joshua](https://open.spotify.com/artist/5MmLJMV7gqiV3RgmqTgAKO) | [BLACK](https://open.spotify.com/album/2gvy2XxnC1sl0MtIFkHP0Y) | 2:26 | 2023-10-05 | 2023-11-03 |
@@ -272,6 +273,7 @@
 | [La più bella](https://open.spotify.com/track/6mBrMo2CUoou15ZRqJpmI3) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [La più bella](https://open.spotify.com/album/21XWxQ4WH8wyDoKb8rGP3Z) | 3:21 | 2022-05-05 | 2022-09-09 |
 | [La Ruota](https://open.spotify.com/track/07QINcI3c3RB3RKEDleJ1e) | [OIDA](https://open.spotify.com/artist/4P0X1UyVaHhoe2lCHKQRef) | [La Ruota](https://open.spotify.com/album/2gC0l4h2w09SRuQHUeDvnG) | 3:24 | 2022-06-09 | 2022-07-29 |
 | [LA TIGRE \(feat\. GELO\)](https://open.spotify.com/track/1WOcVg5uTpw0KdmY3yO2lI) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [GELO](https://open.spotify.com/artist/7s4IAtCfcA31LaTyEHUfjn) | [COME TE](https://open.spotify.com/album/5JitUbks61rKLb3lkg7SPZ) | 2:39 | 2023-05-18 | 2023-06-09 |
+| [La versione migliore di me](https://open.spotify.com/track/1zWQjPa7yZCKxpuiqINZZS) | [Thoé](https://open.spotify.com/artist/6Ft5DoZtQ4aoquM97AjjBG) | [Alter Echo](https://open.spotify.com/album/1Fi6Swlb8LCsTk7E5szO1Z) | 3:13 | 2024-05-23 |  |
 | [Labirinto](https://open.spotify.com/track/1558E3L8hQXfsFGwEz8e1N) | [Angela Iris](https://open.spotify.com/artist/7o1XRDbnk24xbZOvVNbn1C), [Dnvr](https://open.spotify.com/artist/1n0CqqaVfCYalfX1VOr940), [Pellerito](https://open.spotify.com/artist/7l6pS28UBNcLASGW2LsKC5) | [Elisir](https://open.spotify.com/album/4JWKkR4KvAB4LrrOetczfj) | 2:48 | 2024-01-18 | 2024-02-23 |
 | [Lacreme](https://open.spotify.com/track/2u06zfITzLEtglB2Jkr2pa) | [SVM](https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL), [LEO](https://open.spotify.com/artist/5AskeiOm2rZPjeMn7V26sp) | [Lacreme](https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM) | 3:07 | 2022-06-09 | 2023-12-22 |
 | [LACRIME D'ORO](https://open.spotify.com/track/4HlpFmqICHyhgPZJlcp3Vw) | [Bobby Wanna](https://open.spotify.com/artist/3MloiHhHN5KznOzRWZKwOH) | [LACRIME D'ORO](https://open.spotify.com/album/1yQj474qyH6wbzfQ6mlsmw) | 2:40 | 2022-05-19 | 2023-01-27 |
@@ -428,6 +430,7 @@
 | [R&DRILL](https://open.spotify.com/track/7yicqzLOI8Cl2A8g60xzG9) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9), [Yazee](https://open.spotify.com/artist/7CYwuhZwBcxavIrRhnZxQc) | [R&DRILL](https://open.spotify.com/album/1bh96AtCfno8P6R3OBrudh) | 2:32 | 2022-05-05 | 2022-11-11 |
 | [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/0GUPqrlZYs3ANVhAifVlgJ) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:39 | 2022-09-29 | 2023-03-29 |
 | [r\(\)t\(\)nda \(feat\. Tiziano Ferro\)](https://open.spotify.com/track/7FsuMwalG48ZfjklkSkuJa) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah) | 2:39 | 2023-03-23 | 2024-03-22 |
+| [ragnatele](https://open.spotify.com/track/6LoYHUStCK9NTiTG3J70Pb) | [sara j jones](https://open.spotify.com/artist/7I3cZK2UEuNOwZAHov9z9o) | [ragnatele](https://open.spotify.com/album/7moRI2jDV8Qe70MW5Hn441) | 3:00 | 2024-05-23 |  |
 | [Rasoi](https://open.spotify.com/track/3zLbiZec8UhHGVue0K1mGy) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4), [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Rasoi](https://open.spotify.com/album/5enFPWsnL5gj4q66wPrWXf) | 3:24 | 2022-07-14 | 2022-10-28 |
 | [Rebus](https://open.spotify.com/track/1daG8jxSHdMlBDFZAarzSC) | [Bianelle](https://open.spotify.com/artist/2uvoTUiaosj4rLtBePKp5g) | [Rebus](https://open.spotify.com/album/10hzbWGI5FyBhDpZljvACW) | 3:25 | 2024-04-15 |  |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-01-04 | 2024-02-02 |
@@ -529,6 +532,7 @@
 | [Sunshine](https://open.spotify.com/track/6E7zQ1NSnVtvwboUv8afme) | [Martino](https://open.spotify.com/artist/39zUfhpni3F1uedNxjSIt2) | [Sunshine](https://open.spotify.com/album/2jCEb8RLWfYElkRV3wNAHI) | 2:17 | 2022-07-14 | 2022-09-23 |
 | [supernova](https://open.spotify.com/track/1HgQFrZi1J4RuhJ9Z4MAcD) | [anice](https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad) | [supernova](https://open.spotify.com/album/2LuWFJRsciGayhfir9BNhz) | 2:37 | 2022-09-22 | 2023-06-02 |
 | [Svegliarsi a Roma](https://open.spotify.com/track/4S9yzQBJb7hMFG07XKufsm) | [Rak](https://open.spotify.com/artist/3tnVct3V6mIWk5FnBGCuVt), [Kamyar](https://open.spotify.com/artist/4cTOxBErR9Of5kMfjVw86j), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ), [Gianni Bismark](https://open.spotify.com/artist/26PZBCQnswFp61ccTrVJOa), [icaro](https://open.spotify.com/artist/7KSeB7JWqSs50h47yIPzfC) | [Payback](https://open.spotify.com/album/05dBxSbBWiQo2IRtfkXWnG) | 4:40 | 2024-02-22 | 2024-04-16 |
+| [Svenire](https://open.spotify.com/track/5v6cJI6Kk4MYfeJ3FCUj5P) | [Eramo Nubi](https://open.spotify.com/artist/1Y3rJe5S8eAgSLLAMeckqU) | [Svenire](https://open.spotify.com/album/79f2To78XU5dcLjZnFWbsm) | 3:08 | 2024-05-23 |  |
 | [Tabasco](https://open.spotify.com/track/24Kyd9yQCDWxZShsAcBghh) | [Sellie](https://open.spotify.com/artist/4HUKF3BddA8HSXvV3lC975) | [Tabasco](https://open.spotify.com/album/6pN5JrrVnouYM8LSYmOFMe) | 2:24 | 2022-06-16 | 2022-10-21 |
 | [Tardi](https://open.spotify.com/track/6Mg0jN7cUV4yAn7L56I5Hy) | [Nico Kyni](https://open.spotify.com/artist/6aYBFUW1FFuC7TH2qwhuc9) | [Tardi](https://open.spotify.com/album/1lAORflTsEeeGTY4tBgLYw) | 3:10 | 2023-02-02 | 2023-09-15 |
 | [Tardi Ormai](https://open.spotify.com/track/7shcGSlFrwoL2ivOIyeq1B) | [panetto](https://open.spotify.com/artist/3FEI4Afdz6Q5ujtld5hEnx) | [Tardi Ormai](https://open.spotify.com/album/35LQ9XWHiIHwQQeMwLvu6b) | 2:37 | 2024-04-25 |  |
@@ -583,6 +587,7 @@
 | [Vivere](https://open.spotify.com/track/40P8i5YKA3xMDSozUw1vgK) | [Saintess](https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J) | [Vivere](https://open.spotify.com/album/6REfVvtABJIP3wVIvoyOEP) | 2:19 | 2023-09-28 | 2023-10-27 |
 | [Volevo Portarti Al Mare](https://open.spotify.com/track/0GXIWEkfHN5RE3G9Y67bqr) | [Kaze](https://open.spotify.com/artist/7whJIhjyiftRQjoAKJVNjU) | [Volevo Portarti Al Mare](https://open.spotify.com/album/0KIp2ubNGwlo2H9DDpegfV) | 3:17 | 2022-05-26 | 2023-04-14 |
 | [voragini](https://open.spotify.com/track/2gJs1MMvEYpRuJdSfm0363) | [Valucre](https://open.spotify.com/artist/6Aw7jZkZ38TArxniZ04Sma) | [voragini](https://open.spotify.com/album/2YyOB64wpE88iBRZvrw0Rb) | 2:48 | 2023-06-15 | 2023-11-24 |
+| [Vorrei](https://open.spotify.com/track/5nTKLU3BqvdSisOzXguxly) | [Karra](https://open.spotify.com/artist/3AouBLPXmWC0rzPRr0LSfY) | [Vorrei](https://open.spotify.com/album/1IjLObFQcWnbJWyrmLY61e) | 2:13 | 2024-05-23 |  |
 | [Vortice](https://open.spotify.com/track/2vtLLqXrIBIP0cjc93sT7T) | [sigarettewest](https://open.spotify.com/artist/2nEh4UiWE9OnyQy7hDTZZ1) | [Vortice](https://open.spotify.com/album/3itncWLuDJeD2xWkS35pXu) | 2:36 | 2024-03-14 | 2024-04-16 |
 | [VUOI DIRMI](https://open.spotify.com/track/41GPkxPP6mfi8dSldCKZRG) | [Florence](https://open.spotify.com/artist/5qyGTDa4a3jH5cGdH6G9M6), [dNoise](https://open.spotify.com/artist/410eOpymx2am8CnIi1TfRe) | [VUOI DIRMI](https://open.spotify.com/album/0b1qKcsDX2Y85mUoSkg2bh) | 3:02 | 2023-12-21 | 2024-03-01 |
 | [Wabi Sabi](https://open.spotify.com/track/4MbSTYJH65oHE6ljJxTzpq) | [Paola Effe](https://open.spotify.com/artist/1gSwACn6sgmjycpl6eTJpT) | [Wabi Sabi](https://open.spotify.com/album/5RkpZka3gGQJDwgF1P7hnV) | 3:14 | 2024-04-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 396,940 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 396,945 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 11 | [Throne](https://open.spotify.com/track/0M3adYbGtyRHACP86dey1H) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:11 |
 | 12 | [Are You Gonna Be My Girl](https://open.spotify.com/track/305WCRhhS10XUcH6AEwZk6) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Get Born](https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg) | 3:33 |
 | 13 | [Bodies](https://open.spotify.com/track/7CpbhqKUedOIrcvc94p60Y) | [Drowning Pool](https://open.spotify.com/artist/1E4r4z7ivGUcSAnCbINJ9v) | [Sinner](https://open.spotify.com/album/089oyV5caclve3ap934iRw) | 3:21 |
-| 14 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
-| 15 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
+| 14 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 |
+| 15 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 16 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
 | 17 | [Walk](https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Vulgar Display of Power](https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0) | 5:15 |
 | 18 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 28 | [Last Nite](https://open.spotify.com/track/3SUusuA9jH1v6PVwtYMbdv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:13 |
 | 29 | [Guerrilla Radio](https://open.spotify.com/track/1wsRitfRRtWyEapl0q22o8) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:26 |
 | 30 | [Undead](https://open.spotify.com/track/5wBLDkxVvclanSitx5jq8e) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Swan Songs](https://open.spotify.com/album/2UYxjXHKm1JDT6JA7OSeR6) | 4:25 |
-| 31 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
-| 32 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
+| 31 | [Cut the Cord](https://open.spotify.com/track/4LFBVDJV0xpayUvquQVzhS) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:44 |
+| 32 | [Monkey Wrench](https://open.spotify.com/track/44wXefe8WB9Fd6xwtmAwbR) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 3:51 |
 | 33 | [Welcome to Paradise](https://open.spotify.com/track/5kr3j5Clb9rjEposoMyLVt) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:44 |
 | 34 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 |
 | 35 | [Your Betrayal](https://open.spotify.com/track/25GC50HslaaruyrKjdu0lP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Fever](https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb) | 4:51 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 59 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
 | 60 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
 | 61 | [Avalanche](https://open.spotify.com/track/4EyPadLFhtWojU7mkT5hqT) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:22 |
-| 62 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
-| 63 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 62 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
+| 63 | [All Out Life](https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Out Life](https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa) | 5:40 |
 | 64 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 65 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 |
 | 66 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 81 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
 | 82 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 83 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
-| 84 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
-| 85 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
+| 84 | [Tick Tick Boom](https://open.spotify.com/track/7xl2ZaOnKAxJyrkIQe2S43) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black and White album](https://open.spotify.com/album/3UpE4fszD4goeSoyZXq4dg) | 3:25 |
+| 85 | [Break Stuff](https://open.spotify.com/track/2YC6ET3q1F29B0V7UcPV70) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Greatest Hitz](https://open.spotify.com/album/50na3UenOpUOS1uuWXM0AY) | 2:46 |
 | 86 | [Hated](https://open.spotify.com/track/2NRa4W3rH4e5GKQMN5Qwyr) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Aggressive](https://open.spotify.com/album/5nQE80zQR1NqKDBo4oE4EJ) | 3:31 |
 | 87 | [Gasoline](https://open.spotify.com/track/33AxY0QUitvte6JV6B6uLE) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Audioslave](https://open.spotify.com/album/78guAsers0klWl6RwzgDLd) | 4:39 |
 | 88 | [Asking for It](https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Threat to Survival](https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9) | 3:30 |

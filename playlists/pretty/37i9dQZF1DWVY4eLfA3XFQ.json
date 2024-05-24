@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Martin Ikin. 50% techno, 50% house",
-  "num_followers": 622335,
+  "num_followers": 622637,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1081,26 +1081,6 @@
       "url": "https://open.spotify.com/track/2KkFYouNnlWIHo4D7P18Qk"
     },
     {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Buscando Money",
-        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Tayson Kryss",
-          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Buscando Money",
-      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Lady (Hear Me Tonight)",
@@ -1157,6 +1137,26 @@
       "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
     },
     {
+      "added_at": "2024-02-02 05:00:00",
+      "album": {
+        "name": "Buscando Money",
+        "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Tayson Kryss",
+          "url": "https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Buscando Money",
+      "url": "https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Make U Sweat",
@@ -1193,22 +1193,6 @@
       "url": "https://open.spotify.com/track/6c6aGOsp8aME26mlghPuBd"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Vogue",
-        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        }
-      ],
-      "duration_ms": 192187,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
-    },
-    {
       "added_at": "2023-12-22 05:00:00",
       "album": {
         "name": "CARNET (Cloonee Remix)",
@@ -1231,6 +1215,22 @@
       "duration_ms": 225587,
       "name": "CARNET - Cloonee Remix",
       "url": "https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Vogue",
+        "url": "https://open.spotify.com/album/6vCW931VRazG6Y49nzAwJz"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        }
+      ],
+      "duration_ms": 192187,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1345,6 +1345,22 @@
       "url": "https://open.spotify.com/track/0NVG5DoB69ylg6MWbsNUH1"
     },
     {
+      "added_at": "2024-02-23 05:00:00",
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Moonlight",
@@ -1363,22 +1379,6 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
-    },
-    {
-      "added_at": "2024-02-23 05:00:00",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1497,26 +1497,6 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Ready To Go (My Addiction)",
-        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
-        }
-      ],
-      "duration_ms": 144390,
-      "name": "Ready To Go (My Addiction)",
-      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
       "added_at": "2024-02-23 05:00:00",
       "album": {
         "name": "Keep It Real",
@@ -1535,6 +1515,26 @@
       "duration_ms": 142322,
       "name": "Keep It Real",
       "url": "https://open.spotify.com/track/6knUSEy7DCqqUbFoUIqffY"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Ready To Go (My Addiction)",
+        "url": "https://open.spotify.com/album/7iyKDcE1bonqByVb0anyKo"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "Ready To Go (My Addiction)",
+      "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1641,6 +1641,30 @@
       "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     },
     {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "Afloja",
+        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "Buitano",
+          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
+        },
+        {
+          "name": "Fatboi",
+          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
+        }
+      ],
+      "duration_ms": 183281,
+      "name": "Afloja",
+      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "Weak (Marco Lys Remix)",
@@ -1687,30 +1711,6 @@
       "duration_ms": 182238,
       "name": "Get Rockin'",
       "url": "https://open.spotify.com/track/6FTus3GBuyRW10VbwgtUp7"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "Afloja",
-        "url": "https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        },
-        {
-          "name": "Buitano",
-          "url": "https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY"
-        },
-        {
-          "name": "Fatboi",
-          "url": "https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Afloja",
-      "url": "https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -1797,6 +1797,30 @@
       "url": "https://open.spotify.com/track/5fqzAlhEUdPCWkLGiKajUU"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Up N' Down (feat. JmNPR)",
+        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        },
+        {
+          "name": "BRN",
+          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
+        },
+        {
+          "name": "JmNPR",
+          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
+        }
+      ],
+      "duration_ms": 208637,
+      "name": "Up N' Down (feat. JmNPR)",
+      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
+    },
+    {
       "added_at": "2024-02-16 05:00:00",
       "album": {
         "name": "HYPNOTIC DATA 2.0",
@@ -1831,30 +1855,6 @@
       "duration_ms": 206410,
       "name": "The Switch",
       "url": "https://open.spotify.com/track/2Uf2IFn75rflEjYN4z1YUR"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "Up N' Down (feat. JmNPR)",
-        "url": "https://open.spotify.com/album/6q9a42z7A1E3a19aRcO1j9"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        },
-        {
-          "name": "BRN",
-          "url": "https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj"
-        },
-        {
-          "name": "JmNPR",
-          "url": "https://open.spotify.com/artist/30tkBTplmnwCCDx8Ueuau2"
-        }
-      ],
-      "duration_ms": 208637,
-      "name": "Up N' Down (feat. JmNPR)",
-      "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
       "added_at": "2024-01-26 05:00:00",
@@ -1925,6 +1925,22 @@
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "I Can't Take No More",
+        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        }
+      ],
+      "duration_ms": 157784,
+      "name": "I Can't Take No More",
+      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Taka",
@@ -1945,20 +1961,28 @@
       "url": "https://open.spotify.com/track/2DxP7y3GFruzMeKdSWFQZ2"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
+      "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "I Can't Take No More",
-        "url": "https://open.spotify.com/album/49jiyoCe2xxbyVvXNrDqKV"
+        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
+        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
       },
       "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        },
         {
           "name": "Tita Lau",
           "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
         }
       ],
-      "duration_ms": 157784,
-      "name": "I Can't Take No More",
-      "url": "https://open.spotify.com/track/6AT2JACN4Fi5MPSBwuxnHJ"
+      "duration_ms": 166153,
+      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
+      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
     },
     {
       "added_at": "2023-10-27 04:01:00",
@@ -2001,46 +2025,6 @@
       "url": "https://open.spotify.com/track/4kvlc8CUlIxiqZP3Z2TSUG"
     },
     {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Wait A Minute",
-        "url": "https://open.spotify.com/album/1kLWmRHqICUJVnoGpPClkB"
-      },
-      "artists": [
-        {
-          "name": "Dave Winnel",
-          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Wait A Minute",
-      "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Mind Still (feat. blythe) [Tita Lau Remix]",
-        "url": "https://open.spotify.com/album/0Ag0eHjpSYHggENsZeurew"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "blythe",
-          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
-        },
-        {
-          "name": "Tita Lau",
-          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
-        }
-      ],
-      "duration_ms": 166153,
-      "name": "Mind Still (feat. blythe) - Tita Lau Remix",
-      "url": "https://open.spotify.com/track/0PTLOaQWvnRycfCL9i9d9p"
-    },
-    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "P\u00e9gate",
@@ -2055,6 +2039,22 @@
       "duration_ms": 197419,
       "name": "P\u00e9gate",
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Wait A Minute",
+        "url": "https://open.spotify.com/album/1kLWmRHqICUJVnoGpPClkB"
+      },
+      "artists": [
+        {
+          "name": "Dave Winnel",
+          "url": "https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Wait A Minute",
+      "url": "https://open.spotify.com/track/6kjWT6uVoK8JsBuO2KUHW1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2081,38 +2081,6 @@
       "url": "https://open.spotify.com/track/6ATXWjpQo0MZfQPhMOT7G6"
     },
     {
-      "added_at": "2024-03-30 19:55:37",
-      "album": {
-        "name": "Kiki",
-        "url": "https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 184687,
-      "name": "Kiki",
-      "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Life Goes On",
-        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
-      },
-      "artists": [
-        {
-          "name": "Biscits",
-          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
-    },
-    {
       "added_at": "2024-04-26 04:01:00",
       "album": {
         "name": "Una Copa M\u00e1s",
@@ -2133,20 +2101,36 @@
       "url": "https://open.spotify.com/track/0irPLXfmqwzHOamPB3rl9d"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "More Passion, More Energy",
-        "url": "https://open.spotify.com/album/4tsLAQv2ykjYUAEV2Aaxlj"
+        "name": "Life Goes On",
+        "url": "https://open.spotify.com/album/3T6dLIs7QJWYflHcVLAB1A"
       },
       "artists": [
         {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         }
       ],
-      "duration_ms": 186923,
-      "name": "More Passion, More Energy",
-      "url": "https://open.spotify.com/track/5M8wUZ15J0yV83tmarHQ28"
+      "duration_ms": 171000,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/5BC4a9zX4qOAuIM7HUgVrG"
+    },
+    {
+      "added_at": "2024-03-30 19:55:37",
+      "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/1vgL9oPn4HIi62mPSntLBP"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 184687,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/2ZFvn8qxF5Fx68mBZh4EbG"
     },
     {
       "added_at": "2023-11-17 05:00:00",
@@ -2167,6 +2151,22 @@
       "duration_ms": 211586,
       "name": "Better Recognize",
       "url": "https://open.spotify.com/track/1ME5pFc81YOLOrcV1Z4Ovb"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "More Passion, More Energy",
+        "url": "https://open.spotify.com/album/4tsLAQv2ykjYUAEV2Aaxlj"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        }
+      ],
+      "duration_ms": 186923,
+      "name": "More Passion, More Energy",
+      "url": "https://open.spotify.com/track/5M8wUZ15J0yV83tmarHQ28"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2313,22 +2313,6 @@
       "url": "https://open.spotify.com/track/6CzeYbEfvZb76PlsOVgGxR"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Climb",
-        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
-      },
-      "artists": [
-        {
-          "name": "Kyle Watson",
-          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "The Climb",
-      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
-    },
-    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Boombox (feat. Madam Parker)",
@@ -2347,6 +2331,22 @@
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Climb",
+        "url": "https://open.spotify.com/album/3U06S0jSyYfJd5ERjAmWNP"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "The Climb",
+      "url": "https://open.spotify.com/track/37z8gb0IK4XDFIq0QIkBFF"
     },
     {
       "added_at": "2024-03-22 04:00:00",

@@ -3953,6 +3953,28 @@
     },
     {
       "album": {
+        "name": "Lost In Space",
+        "url": "https://open.spotify.com/album/0y9I02bUlJnVORYu1l9pAf"
+      },
+      "artists": [
+        {
+          "name": "PADWN",
+          "url": "https://open.spotify.com/artist/0IkR20PF6ydE7dyLUZw3LK"
+        },
+        {
+          "name": "Revealed Recordings",
+          "url": "https://open.spotify.com/artist/6aaMlV5Qz8DK66IWgwoUH8"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210909,
+      "name": "Lost in Space",
+      "url": "https://open.spotify.com/track/28vHfMXcgseUNd90zEL5U3"
+    },
+    {
+      "album": {
         "name": "Lost Souls",
         "url": "https://open.spotify.com/album/3bND9QfvmMqYSi2j3Y8p5y"
       },

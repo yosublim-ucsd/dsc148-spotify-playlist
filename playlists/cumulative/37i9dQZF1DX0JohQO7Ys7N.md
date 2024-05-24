@@ -2,9 +2,9 @@
 
 ### [NairoBae](https://open.spotify.com/playlist/37i9dQZF1DX0JohQO7Ys7N)
 
-> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Karun, GR! & Hook
+> Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: Xenia Manasseh
 
-180 songs - 10 hr 4 min
+181 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Ambia](https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa) | [Billy Black](https://open.spotify.com/artist/6znLUPGYNDVG3VoMH5UXUU) | [Ambia](https://open.spotify.com/album/6Wg6JpSlFn2VdeFFQj5xzn) | 2:16 | 2021-12-28 | 2024-05-17 |
 | [Amua](https://open.spotify.com/track/3Y4J49kCtyMST0BLJvEdBc) | [Nuru](https://open.spotify.com/artist/5IMf5cDbiOoO8qWptlG6Z7) | [Amua](https://open.spotify.com/album/10NNo1CeChuHcDVz8V5kRA) | 3:05 | 2021-12-28 | 2023-07-14 |
 | [Another](https://open.spotify.com/track/76IWDDiFRvh1KjmtwXSI7x) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Another](https://open.spotify.com/album/6ixgKG1R32BOVDD4SWJPdf) | 3:34 | 2022-11-03 | 2023-10-07 |
-| [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-27 |  |
+| [Anticipate](https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Anticipate](https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD) | 2:47 | 2023-07-27 | 2024-05-24 |
 | [ARUSHA](https://open.spotify.com/track/5wMu7s9qqZBAu6BEsrsklL) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [ARUSHA](https://open.spotify.com/album/3yCFjNsTx8v0dJa5RR9rcX) | 3:30 | 2022-06-23 | 2022-10-28 |
 | [Built for You](https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Built for You](https://open.spotify.com/album/3RV5Ev9KtvyEzkhzJb3OIT) | 3:35 | 2021-12-28 | 2022-09-09 |
 | [Buy Me Love](https://open.spotify.com/track/0HtzaW1nXWHygysm2ZNAnW) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Buy Me Love](https://open.spotify.com/album/3ONBzZLFS0hXpV4EsD5U7H) | 3:22 | 2024-05-10 |  |
@@ -105,7 +105,7 @@
 | [My Everything](https://open.spotify.com/track/5OB9O4aHm8IlB1FOoQFRXm) | [Sauti Sol](https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo), [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Midnight Train](https://open.spotify.com/album/2R0nfEjaMFMb8qyPnQmDzK) | 3:51 | 2021-12-28 | 2023-01-27 |
 | [My Love Awaits](https://open.spotify.com/track/24hszCuRcxdPIfKf1tiD27) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg), [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [DEDICATED](https://open.spotify.com/album/2INHWNycenPaECsaTPKnbJ) | 3:44 | 2023-03-23 | 2024-02-16 |
 | [My Love Belongs to You](https://open.spotify.com/track/32znzBnjFs06EEgMzyUINd) | [Meryl Paige](https://open.spotify.com/artist/7knPQF8DVvIzmfo7J5ihUg) | [Super Ego](https://open.spotify.com/album/6ALr7CV39er0V3Jq4CI6O6) | 3:33 | 2021-12-28 | 2022-04-29 |
-| [Múrío Wa Wendo](https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo) | [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Múrío Wa Wendo](https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n) | 3:13 | 2024-01-11 |  |
+| [Múrío Wa Wendo](https://open.spotify.com/track/5x8jnFUwTWTcB6uNwp3ZVo) | [Wanjine](https://open.spotify.com/artist/73iU9QFpEWlHM2Op6wAQqe) | [Múrío Wa Wendo](https://open.spotify.com/album/7jvjDcIvXw9OKlkpBNCL7n) | 3:13 | 2024-01-11 | 2024-05-24 |
 | [Naito](https://open.spotify.com/track/4JPzKp3IgIlaVEMSbGc73o) | [Pascal Tokodi](https://open.spotify.com/artist/7FSouRkvmGBxGx66a6Z4x3) | [Naito](https://open.spotify.com/album/4tjEfXK9eENmcOkZkLLFKT) | 2:53 | 2021-12-28 | 2022-03-25 |
 | [Nakupenda Bado](https://open.spotify.com/track/3T2HZ4MqS2AVxtuCTXJZ3B) | [JIVU](https://open.spotify.com/artist/55ifbQBufA4303tQjuWRKR) | [Hayawi Hayawi](https://open.spotify.com/album/56o0WD6fjIZqABQ7w2H5TK) | 3:25 | 2021-12-28 | 2022-07-08 |
 | [Ndani Ya Gari](https://open.spotify.com/track/3xOt9gJVYirLyimYnsUEvr) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Unintentional](https://open.spotify.com/album/1f0MuY3kBgS1QmAIaRu3kj) | 2:53 | 2022-09-22 | 2023-12-01 |
@@ -128,6 +128,7 @@
 | [Only You \- A COLORS SHOW](https://open.spotify.com/track/7gRHJqy0dH0Xq0UY7YyNHg) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC) | [Only You \- A COLORS SHOW](https://open.spotify.com/album/1Aye02nOiEjJ5LMtvjaHRk) | 2:46 | 2023-11-02 |  |
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-12-28 | 2022-08-19 |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2024-05-17 |
+| [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-23 |  |
 | [Pick Me Up](https://open.spotify.com/track/5s5cXS6FGVgUpKnvkzPznW) | [Visser O'Brien](https://open.spotify.com/artist/0GIKRKygeFQpKi12hfidcv) | [The Love That Was](https://open.spotify.com/album/6Y5X4f4tdTW6RCeQyzL3ZC) | 3:36 | 2023-10-12 | 2024-01-20 |
 | [Pictures](https://open.spotify.com/track/6ynowQEXMq0CmE1PaWwlnz) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Heart to Hurt](https://open.spotify.com/album/4QEJSaRYujs6FtiF7gpctX) | 3:59 | 2021-12-28 | 2023-10-13 |
 | [Presha](https://open.spotify.com/track/1OelLLNoOJNYnukzOPYSct) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [SERRO](https://open.spotify.com/artist/4r3svQfFw0Ae5GMplY92u9) | [Presha](https://open.spotify.com/album/5QlAwtL0kaP0JPEe93PN4A) | 2:56 | 2023-04-06 |  |

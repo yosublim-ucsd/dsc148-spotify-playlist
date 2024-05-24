@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Cash Cobain and Ice Spice
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,468 likes - 70 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,496 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

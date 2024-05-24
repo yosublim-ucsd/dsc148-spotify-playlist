@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 
 > for those who appreciate a curated mood 🪩 cover: Sabrina Carpenter
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,329 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,368 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 5 | [Here With Me](https://open.spotify.com/track/4U4h7WNNyvhpdaDgHSdD4j) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/1HPTbRqv30KYao7mpuZ6dm) | 4:02 |
 | 6 | [unless you leave](https://open.spotify.com/track/5q0HdkRYhJlVI8Ep3Bfv2i) | [Chase Elliott](https://open.spotify.com/artist/7CmLWWnzB2PQoGLpJ4zDHR) | [unless you leave](https://open.spotify.com/album/0lPd9kfr60CDR9OS50Eefe) | 3:24 |
 | 7 | [Babydoll](https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Don't Forget About Me, Demos](https://open.spotify.com/album/05jbNkYoEQdjVDHEHtg1gY) | 1:37 |
-| 8 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
+| 8 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
 | 9 | [Falling for U](https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb) | 2:04 |
 | 10 | [7 Weeks & 3 Days](https://open.spotify.com/track/0yABdzMcJpRkKhVKXjfcUk) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Over You](https://open.spotify.com/album/7B0Vz06KjSaE8G3SbHgQ58) | 3:14 |
 | 11 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 |
-| 12 | [deja vu](https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:35 |
+| 12 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 |
 | 13 | [everything i wanted](https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [everything i wanted](https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT) | 4:05 |
 | 14 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 |
 | 15 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 34 | [From the Subway Train](https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ) | [Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY) | [Angel Youth](https://open.spotify.com/album/7CESHttY9U97FElD5JAXSW) | 0:57 |
 | 35 | [Bags](https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 4:20 |
 | 36 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
-| 37 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
-| 38 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 |
+| 37 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 |
+| 38 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 |
 | 39 | [Old Love](https://open.spotify.com/track/3W4U7TEgILGpq0EmquurtH) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [putri dahlia](https://open.spotify.com/artist/54nGORfHS6Uldjlr4QeN7g) | [Old Love](https://open.spotify.com/album/6mKwqGY2IS3qSs3mgs30A5) | 4:09 |
 | 40 | [Special](https://open.spotify.com/track/6RQ5IwG7uADz9LDWliJGjU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:38 |
 | 41 | [Juliet](https://open.spotify.com/track/45ROR8UMn60YEVQnDy0uVF) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Animal Kingdom](https://open.spotify.com/album/40MJoESOQ4BDr5Y6jY7cFa) | 4:38 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8uc99HoZBLU.md) - [plain]
 | 71 | [glow worms](https://open.spotify.com/track/3JG9JpvaYjmq0i17qnu8y4) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS), [Naveih](https://open.spotify.com/artist/0xymtqlA5ioTRnQyhd0fCt) | [glow worms](https://open.spotify.com/album/73WH6rOigOwshc88l9Hm83) | 1:55 |
 | 72 | [worldstar money \(interlude\)](https://open.spotify.com/track/435yU2MvEGfDdmbH0noWZ0) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues](https://open.spotify.com/album/3dtSst4EXjGeZVQ5Sco315) | 2:06 |
 | 73 | [Renee](https://open.spotify.com/track/5MeUMSRreLHYLhw8ZTyqpk) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Renee](https://open.spotify.com/album/4qR0co1PeeQSsqHF9xTeGn) | 2:59 |
-| 74 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
-| 75 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 |
+| 74 | [Hush \- Still Woozy Remix](https://open.spotify.com/track/4dGuRldChjvboZktprNJFM) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx), [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Hush \(Still Woozy Remix\)](https://open.spotify.com/album/3LcrYJ7ASoQo7SuBy7qGoI) | 3:02 |
+| 75 | [Comfort Crowd](https://open.spotify.com/track/6uaBrivDHCaV0uBTiwHTUi) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:54 |
 
 Snapshot ID: `ZhxCIwAAAADrsDXfVDKSwWMphhGFEROk`

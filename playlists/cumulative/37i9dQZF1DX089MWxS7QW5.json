@@ -587,6 +587,28 @@
     },
     {
       "album": {
+        "name": "Bad Time (feat. NOA)",
+        "url": "https://open.spotify.com/album/3cGuMUrUKepD18H2uvxpkq"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        },
+        {
+          "name": "NOA",
+          "url": "https://open.spotify.com/artist/1vpHPL6nejNAg9GXYrJ5ck"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162093,
+      "name": "Bad Time (feat. NOA)",
+      "url": "https://open.spotify.com/track/1Mj4QMH6sPI4hVnoJu6GV2"
+    },
+    {
+      "album": {
         "name": "BAD TRIP",
         "url": "https://open.spotify.com/album/4bdeyL4F2LmyGslFssegMc"
       },
@@ -1552,7 +1574,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192186,
       "name": "Deserve",
       "url": "https://open.spotify.com/track/1wuwBheZJPtlu0AZO3BRPT"
@@ -2216,7 +2238,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 241600,
       "name": "Found you",
       "url": "https://open.spotify.com/track/1iFFPbgNUBdIoTMaw5VWwY"
@@ -3032,7 +3054,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 203186,
       "name": "I'm okay",
       "url": "https://open.spotify.com/track/7Ifacym53lOQSS38tgwgKf"
@@ -3674,7 +3696,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158035,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/4ebAeBmoxyfkWy1ymatr1A"
@@ -4418,7 +4440,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 229880,
       "name": "Over (feat. Minna Seo)",
       "url": "https://open.spotify.com/track/73yIDUabO9HGpA71KsMwIP"
@@ -4548,7 +4570,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175866,
       "name": "Promise",
       "url": "https://open.spotify.com/track/79cmYpry5DEPtK4KbmAUqj"
@@ -4584,7 +4606,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188360,
       "name": "Quiz",
       "url": "https://open.spotify.com/track/2WvHcLvA1JVVljJH9wT5RF"
@@ -5100,7 +5122,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201173,
       "name": "Song For You",
       "url": "https://open.spotify.com/track/3crzIsiwlNfd7KsQ0NDSuY"

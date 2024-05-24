@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,975 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,980 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 46 | [Second Chance](https://open.spotify.com/track/0CwYG1UnRmOx8Q1EzElCIL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Sound of Madness](https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld) | 3:42 |
 | 47 | [Move Along](https://open.spotify.com/track/2l57cfmCnOkwNX1tky02n1) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/3PWEGZ6CYvXRnr0JCECsDe) | 3:58 |
 | 48 | [In the Shadows](https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dead Letters](https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7) | 4:17 |
-| 49 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 |
-| 50 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
+| 49 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
+| 50 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 |
 | 51 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 |
 | 52 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 53 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |

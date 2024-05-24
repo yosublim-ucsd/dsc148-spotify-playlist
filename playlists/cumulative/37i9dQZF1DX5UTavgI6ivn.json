@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Ryan Castro",
+  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Camilo",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -2430,6 +2430,24 @@
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+    },
+    {
+      "album": {
+        "name": "cuatro",
+        "url": "https://open.spotify.com/album/1IwCEfVYg8KlEankYmqeP7"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249884,
+      "name": "La Boda",
+      "url": "https://open.spotify.com/track/4vj6sWvmBLMhoF8AWQSeHX"
     },
     {
       "album": {
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199591,
       "name": "SINCERAMENTE",
       "url": "https://open.spotify.com/track/7xqF5MczPpjW4NLXF2CL88"
@@ -5775,6 +5793,28 @@
     },
     {
       "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "album": {
         "name": "VAGABUNDO",
         "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
       },
@@ -5884,7 +5924,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 184721,
       "name": "Vida de Rico",
       "url": "https://open.spotify.com/track/4nTduFjaTmGysc9WKNuCcs"

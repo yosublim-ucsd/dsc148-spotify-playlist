@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: SOAPBOX
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,290 likes - 80 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,254 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 18 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 |
 | 19 | [USA](https://open.spotify.com/track/0AihTbYalIjezZGELo93Wd) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [USA](https://open.spotify.com/album/27CZrOIvlYB9w1a9ZVyMQG) | 1:38 |
 | 20 | [Cry To Heaven](https://open.spotify.com/track/1iNKQ8LIG4OVFK3o9vmmUY) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sanguivore](https://open.spotify.com/album/1tpzmjEeH5oO5Ninfxqer2) | 4:27 |
-| 21 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
-| 22 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 21 | [Ready](https://open.spotify.com/track/0ApetCfTrTByDIMGZWJW48) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ready](https://open.spotify.com/album/2Ov3hZe30CUzA8N4KkL76i) | 1:47 |
+| 22 | [worlds greatest emoter](https://open.spotify.com/track/1eUnBxdddaPlWDVqVjC8bO) | [bar italia](https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY) | [The Twits](https://open.spotify.com/album/4E6TSZ1yHQ29TRvp8GiPv0) | 2:54 |
 | 23 | [Boys in the Band](https://open.spotify.com/track/3BtMOmGUe3VEFz4uXGzqlT) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [You're Welcome](https://open.spotify.com/album/0mmHl5Z8DhJvbtQVQ3Irc9) | 2:35 |
 | 24 | [UK GRIM](https://open.spotify.com/track/60wO5lvhLRTJnPfV3r3rMR) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [UK GRIM](https://open.spotify.com/album/5CsLGo6H7h3de8VoSCiaD0) | 3:18 |
 | 25 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 50 | [Spunky!](https://open.spotify.com/track/0MlBMpX1lyVnlBBuR2HxO2) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Spunky!](https://open.spotify.com/album/60FSBWxKZud6tMxtR6f2NB) | 2:10 |
 | 51 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 52 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 |
-| 53 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
-| 54 | [DUST OFF / START AGAIN](https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef) | 3:44 |
+| 53 | [DUST OFF / START AGAIN](https://open.spotify.com/track/0lm396qvZ5yknbNQiEIA7z) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [DUST OFF / START AGAIN](https://open.spotify.com/album/1Ul753hYh0vX3EESvU5kef) | 3:44 |
+| 54 | [Toneblerone](https://open.spotify.com/track/16UBmFEQzfac3NFa5ViXcw) | [Jetski](https://open.spotify.com/artist/7caLQqT0aT6F4uexmHpLSI), [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [The Four Before](https://open.spotify.com/album/24qF0rzBSeKTNqAU4oZIvi) | 3:47 |
 | 55 | [Ferrari](https://open.spotify.com/track/0XOKkSEEdAWFOTugWe9anK) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Ferrari](https://open.spotify.com/album/03rLKA78UTen9A7cwg14ht) | 2:42 |
 | 56 | [Roll With It](https://open.spotify.com/track/3xHgszDlff5N2EOZWWWcAy) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Roll With It](https://open.spotify.com/album/4CpQRht0zS8BLLNk78dr0W) | 3:35 |
 | 57 | [catastrophe](https://open.spotify.com/track/23CIjjRFiqwaAGHmF1p5oX) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [catastrophe](https://open.spotify.com/album/2jEt25RLXZn6gtav3jtven) | 2:36 |
@@ -74,19 +74,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 64 | [Hiccup](https://open.spotify.com/track/50FLwADrMNPuw0ZPMcD08z) | [Sorry Mom](https://open.spotify.com/artist/0KZzhF4tqJGaVOrXXONmCX) | [Hiccup](https://open.spotify.com/album/3M52jxyf7VbA9jWQ9K5cSR) | 1:45 |
 | 65 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
 | 66 | [Choke](https://open.spotify.com/track/2158JpSZqY1m9VajGGdvPu) | [Cold Years](https://open.spotify.com/artist/5zJB2KYIylCM6uPtl9R9yp) | [Choke](https://open.spotify.com/album/5Oir2rwrNHl7V0FCPVg8CW) | 3:42 |
-| 67 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
-| 68 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
-| 69 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
+| 67 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
+| 68 | [Bricks](https://open.spotify.com/track/5FJ3tMyMQ1VeRINR2DUIsY) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | ['Til the Wheels Fall Off](https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y) | 3:33 |
+| 69 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 70 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 |
 | 71 | [Private Public Transport](https://open.spotify.com/track/45ya9ZspTmOlZS1yVPNvWX) | [SOAPBOX](https://open.spotify.com/artist/5Uz6P4BCpwuOjnznmreqFO) | [Private Public Transport](https://open.spotify.com/album/56nAGy49ervIzPjAgZDHqL) | 3:20 |
-| 72 | [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 |
-| 73 | [Fingernails](https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 3:18 |
+| 72 | [Fingernails](https://open.spotify.com/track/5SYxTY6mv8cUKUsTJk1jAD) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 3:18 |
+| 73 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
 | 74 | [Big Pharma](https://open.spotify.com/track/5hOTXKQ9OqbS8haaVjHyzq) | [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Big Pharma](https://open.spotify.com/album/6gMqX1TJ4KrWzHpiRa6RYp) | 2:46 |
-| 75 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
+| 75 | [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 |
 | 76 | [Left Right Forward](https://open.spotify.com/track/1asg5gvlIxDNECNn1GeaN5) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [Left Right Forward](https://open.spotify.com/album/6dtoYJEmC42TD7s322YBrE) | 2:55 |
-| 77 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
-| 78 | [Grief In Phantasia](https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN) | [Drahla](https://open.spotify.com/artist/1HHyE1TCzui5Lay0gwS6bR) | [Grief In Phantasia](https://open.spotify.com/album/27sdYbobl75RNO0pv7Z3Wu) | 5:07 |
-| 79 | [Anaconda Frank](https://open.spotify.com/track/1DSfQ1Ol5YoPkY9Y3mv9d1) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Anaconda Frank](https://open.spotify.com/album/5xwbdKZopGHbMrhti5NfCW) | 2:49 |
-| 80 | [Separation Anxiety](https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 2:47 |
+| 77 | [Separation Anxiety](https://open.spotify.com/track/3VtXw3Nbbeuh97cJaZWRR5) | [PET NEEDS](https://open.spotify.com/artist/5bBMfsANUM0cj5h5MjEdxP) | [Intermittent Fast Living](https://open.spotify.com/album/1wifE04zBHfpwv5qHO9zth) | 2:47 |
+| 78 | [Anaconda Frank](https://open.spotify.com/track/1DSfQ1Ol5YoPkY9Y3mv9d1) | [CARSICK](https://open.spotify.com/artist/6FtPotTHovfdRI7wA6YPyH) | [Anaconda Frank](https://open.spotify.com/album/5xwbdKZopGHbMrhti5NfCW) | 2:49 |
+| 79 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
+| 80 | [Desire](https://open.spotify.com/track/0TMa5jD2LbTMoHMZi7yoOf) | [Grandmas House](https://open.spotify.com/artist/6BFppN7DZ1DR7zFyNTj7Nv) | [Desire](https://open.spotify.com/album/23UvDBMl3LgUfdYdj9Wnay) | 1:55 |
 
 Snapshot ID: `ZirgcAAAAADuJlN4TfWZX5GrRD4/drmQ`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Gerardo Ortiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 424900,
+  "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
+  "num_followers": 424960,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABP1/kdt97K5cOUrN3bBhRG",
+  "snapshot_id": "Zk01gAAAAACSmQ0splG1ym8Z8SBNrJxN",
   "tracks": [
     {
       "added_at": null,
@@ -491,26 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Frente y de Frente",
-        "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
-      },
-      "artists": [
-        {
-          "name": "Noel Torres",
-          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 150880,
-      "name": "El Comando del Diablo",
-      "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Parca",
         "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 193612,
       "name": "La Parca",
       "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Frente y de Frente",
+        "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
+      },
+      "artists": [
+        {
+          "name": "Noel Torres",
+          "url": "https://open.spotify.com/artist/1GUYk7GLP4tALtorFH1OWG"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 150880,
+      "name": "El Comando del Diablo",
+      "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 de la Ma\u00f1ana",
-        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 182465,
-      "name": "3 de la Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M En El Radar",
         "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 176506,
       "name": "Archivos de Mi Vida",
       "url": "https://open.spotify.com/track/3Gq82NBEBkmd8l3OKiGJX7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 de la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/1LxvD7UdloYCTIamKIPlNm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        }
+      ],
+      "duration_ms": 182465,
+      "name": "3 de la Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "D\u00e9jate de Cosas",
-        "url": "https://open.spotify.com/album/3DvNNzASGZtmgpQqJKmcHz"
-      },
-      "artists": [
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 169999,
-      "name": "D\u00e9jate de Cosas",
-      "url": "https://open.spotify.com/track/1Sx9ZpBDImdMD8htvnQrdl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
         "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 128520,
       "name": "Fuiste M\u00eda",
       "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Supremac\u00eda",
+        "url": "https://open.spotify.com/album/2qgYY0i0OW85xXawxTkEDW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Santacruz Y Su Grupo Quinto Elemento Feat. Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/3rNu4bvQwP71sO60VYG7G8"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 180173,
+      "name": "El Cartel de la Rana",
+      "url": "https://open.spotify.com/track/67YpTbF3dSYBKx7MZFCDto"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

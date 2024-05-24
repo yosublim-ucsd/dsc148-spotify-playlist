@@ -544,7 +544,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 169426,
       "name": "Finish What We Started",
       "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 77992,
       "name": "Maxwell Murder",
       "url": "https://open.spotify.com/track/2FSHOstfVfHia9eBS6vz9t"
@@ -1044,7 +1044,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 137482,
       "name": "No Apology",
       "url": "https://open.spotify.com/track/7yDhbySqtQtoCgrH3uI9FM"
@@ -1218,6 +1218,24 @@
       "duration_ms": 62113,
       "name": "Resist",
       "url": "https://open.spotify.com/track/5SDBuRLFSNLozSze4a9c0G"
+    },
+    {
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82964,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/0GsnorDMZ6mbINFtcHHZbY"
     },
     {
       "album": {

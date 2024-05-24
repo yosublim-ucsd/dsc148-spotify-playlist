@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 
 > Easy rock for that peaceful, easy feeling\. Cover: U2
 
-[Spotify](https://open.spotify.com/user/spotify) - 649,513 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 649,590 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 21 | [One](https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 4:36 |
 | 22 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 | 23 | [The Sound of Silence](https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Immortalized](https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK) | 4:08 |
-| 24 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
-| 25 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 24 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 25 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
 | 26 | [No Rain](https://open.spotify.com/track/6txWz9UapYHVxEd7dDIHXT) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Blind Melon](https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h) | 3:37 |
 | 27 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 |
 | 28 | [Behind Blue Eyes](https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Results May Vary](https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36) | 4:29 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 48 | [Hallelujah](https://open.spotify.com/track/3pRaLNL3b8x5uBOcsgvdqM) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:53 |
 | 49 | [Wild Horses \- 2009 Mix](https://open.spotify.com/track/52dm9op3rbfAkc1LGXgipW) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 5:41 |
 | 50 | [Again](https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Again](https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs) | 3:51 |
-| 51 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
-| 52 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 51 | [Let Your Love Flow](https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk) | [The Bellamy Brothers](https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa) | [Bellamy Brothers](https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0) | 3:16 |
+| 52 | [Hard to Say I'm Sorry / Get Away \- 2006 Remaster](https://open.spotify.com/track/07TnWCHrFkvF61GzJuLVt0) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 16 \(Expanded & Remastered\)](https://open.spotify.com/album/4NmlDrnZOd3ejob9PoiOd9) | 5:04 |
 | 53 | [Faithfully \(2023 Remaster\)](https://open.spotify.com/track/0l5TpsCL1ObiTEsHeWA0by) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Frontiers \(2023 Remaster\)](https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh) | 4:26 |
 | 54 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
 | 55 | [Sing](https://open.spotify.com/track/4yA2SM7XCLkSgkBUSoZb5S) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Invisible Band](https://open.spotify.com/album/7hktYMjRekLPK3BZRr4sIQ) | 3:48 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9JbVZotqp5.md) - [plain]
 | 78 | [Let Her Cry](https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [Cracked Rear View](https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K) | 5:18 |
 | 79 | [100 Years](https://open.spotify.com/track/2lFlveK1y13WWp3vnQtrr3) | [Five For Fighting](https://open.spotify.com/artist/7FgMLbnZVrEnir95O0YujA) | [The Battle for Everything](https://open.spotify.com/album/6RWEJvVwr8aCQfRchRhjMq) | 4:04 |
 | 80 | [I Will Follow You into the Dark](https://open.spotify.com/track/2ndWbjiiNBEOrlfToKlABE) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/4guW5WPxFzHrXg04FPC9v9) | 3:09 |
-| 81 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
-| 82 | [Summer Breeze](https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Seals & Crofts' Greatest Hits](https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj) | 3:25 |
+| 81 | [Summer Breeze](https://open.spotify.com/track/01UYpHuzHi4eB9PAbDoPY2) | [Seals and Crofts](https://open.spotify.com/artist/6jdObwsrIjSRnBbMw6lPBj) | [Seals & Crofts' Greatest Hits](https://open.spotify.com/album/4dkdQY484elFRfcVNY6uzj) | 3:25 |
+| 82 | [The World I Know](https://open.spotify.com/track/1HSVpIU0XU1WuwiBLBWAZd) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Collective Soul](https://open.spotify.com/album/6zGQoUd5QQ65xMx5OycFgE) | 4:15 |
 | 83 | [Wish You Were Here \- 2011 Remaster](https://open.spotify.com/track/7aE5WXu5sFeNRh3Z05wwu4) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here \(Remastered Version\)](https://open.spotify.com/album/6uvBKDGlJAYLH5Vy6RQVsc) | 5:04 |
 | 84 | [To Be With You \- 2010 Remastered Version](https://open.spotify.com/track/3Mmt6Xk0H6VR92PEp6x3hP) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \[Expanded\]](https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ) | 3:30 |
 | 85 | [WALLS](https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 5:29 |

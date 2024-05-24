@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: The Interrupters
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,066 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,092 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 57 | [Don't Speak](https://open.spotify.com/track/7D823Ok1jHreqNkVwic81R) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [The Skints](https://open.spotify.com/artist/39k4UDTgsWe6NCi6hgnfc1) | [Don't Speak](https://open.spotify.com/album/7b7AM8NvWaj5A8iyEAvjTw) | 4:40 |
 | 58 | [Skalari Rude Klub \(SRK\)](https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [En la Kalle](https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P) | 3:37 |
 | 59 | [El Ático](https://open.spotify.com/track/01L1D88jqcMuAOvLRyYVbj) | [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [El Ático](https://open.spotify.com/album/6u178zpBY3ZU10qIjYjzbm) | 4:02 |
-| 60 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
-| 61 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 60 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
+| 61 | [I Wanna Riot](https://open.spotify.com/track/3prgCqodybVT758HNY2SXW) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 3:11 |
 | 62 | [La Último Carta](https://open.spotify.com/track/3uStl3ZgOOPdeFHntpt9tO) | [Satélite Kingston](https://open.spotify.com/artist/61WnmZdejrzK1KDPH2j2qD) | [El Enemigo](https://open.spotify.com/album/1nHa66Voj4JU8uP4CephEy) | 3:32 |
 | 63 | [Marchez](https://open.spotify.com/track/6p58iYVehQwqvMKPgSENyE) | [The Offenders](https://open.spotify.com/artist/3S1FzJNl5DweiBE4UE0uob) | [Class of Nations](https://open.spotify.com/album/0j2TrwJjrxrhg07Orrmmj1) | 3:11 |
 | 64 | [Tania](https://open.spotify.com/track/3HOTLjTf8JBpzTCcwHvhv9) | [3 Pemuda Berbahaya](https://open.spotify.com/artist/4X1SwsgKRJCvW9LeYUlt7Z), [Sallsa Bintan](https://open.spotify.com/artist/3iqKTNNCTLOh6MScaCFut7) | [Tania](https://open.spotify.com/album/5FadqUvau1HuWFisyucP3F) | 4:21 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 77 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 |
 | 78 | [Clandestino](https://open.spotify.com/track/05tdpvaKfMHgHUL7d8JOBw) | [Los Fastidios](https://open.spotify.com/artist/7mj1qBxQNKorkNUCHXjOw9) | [The Sound Of Revolution](https://open.spotify.com/album/7zlwVsTrNivVfNBTPBzQw9) | 3:25 |
 | 79 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
-| 80 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 |
-| 81 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
+| 80 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
+| 81 | [Baby](https://open.spotify.com/track/2I28vXWi5vdx0OsPKbE0G5) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Baby](https://open.spotify.com/album/0vgWeDW5tiwfTii8qhrZYc) | 2:53 |
 | 82 | [The One And Only](https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW) | [Makua Rothman](https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN) | [The One And Only](https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje) | 3:03 |
 | 83 | [Me Va A Castigar El Señor](https://open.spotify.com/track/1m7FERQ0mu9OuhRTUdzHbP) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Historias de amor y otras mierdas](https://open.spotify.com/album/1vvV6rMEPELqmSFcAK7wtt) | 3:05 |
 | 84 | [Bella ciao](https://open.spotify.com/track/5UyQfZSiHhlgEkIHODofsM) | [Skassapunka](https://open.spotify.com/artist/2YkorgCq6sZ6nIcIxaOTsG) | [Rudes Against](https://open.spotify.com/album/4yj9wYRWK5oPOy4cmVMB8j) | 2:48 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 86 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
 | 87 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 |
 | 88 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
-| 89 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:37 |
-| 90 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 |
+| 89 | [Chupasangre](https://open.spotify.com/track/30AQGfDqWCrN6KwHnNIFdv) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD) | [Chupasangre](https://open.spotify.com/album/6QuNQyIrZQGzzzx072piNU) | 3:16 |
+| 90 | [Como un Rayo](https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle) | [Gato López](https://open.spotify.com/artist/07HWPf2PLYzx38I3lJIsCH), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl), [Salida Nula](https://open.spotify.com/artist/6PhjQPENxSE6grsBqEq1Ph), [Sinaia](https://open.spotify.com/artist/0B1wJktoH76W0tLHB75BTG) | [Como un Rayo](https://open.spotify.com/album/5pIR00URS8Wn6g5UZBGzSd) | 2:37 |
 | 91 | [Wir sind wieder wer](https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb) | [100 Kilo Herz](https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg) | [Wir sind wieder wer](https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q) | 3:27 |
 | 92 | [Conscience is Heavy](https://open.spotify.com/track/3kxFEgQ9piaonniyXIOXJR) | [The Inversions](https://open.spotify.com/artist/5aMQ5EDOyqx8eCmPvDkqjt), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [Conscience is Heavy](https://open.spotify.com/album/2qvM0YbTVMYwAzDMliHrEg) | 3:10 |
 | 93 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 97 | [Noc je ještě mladá](https://open.spotify.com/track/66DzNV3HkTmYlYA9shXAr2) | [Sto zvířat](https://open.spotify.com/artist/4fLCFZWbgAALL8veJBj8lX) | [Noční ptáci](https://open.spotify.com/album/23jNX9AOg5j9mQNwktCgcM) | 3:29 |
 | 98 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 99 | [Old Friend](https://open.spotify.com/track/2d6CaL5eZWaplfSvPok5e8) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [All The Moon Stompers](https://open.spotify.com/album/5G6FHjebFlPzZ3i5iOeeot) | 2:53 |
-| 100 | [Palm Trees and Pines](https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS) | [Mad Caddies](https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6) | [Palm Trees and Pines](https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS) | 3:40 |
+| 100 | [The Rascal King](https://open.spotify.com/track/5Rz724YJlp4orgEvWIWfKg) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Best Of/20th Century](https://open.spotify.com/album/1D4YdkoQS2sJEcPRjLhgXx) | 2:45 |
 
 Snapshot ID: `ZjWWGgAAAAD3ock9foR1oj19r1AE1CyE`

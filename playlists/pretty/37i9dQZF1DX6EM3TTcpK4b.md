@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Javier Solís
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,975 likes - 150 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,164 likes - 150 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,14 +21,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 11 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 |
 | 12 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
 | 13 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
-| 14 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
+| 14 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
 | 15 | [Quién De Los Dos Será](https://open.spotify.com/track/66veRqqrxhfa1Q9088RmPS) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 3:33 |
 | 16 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 17 | [Cien años](https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:32 |
 | 18 | [Échame a Mi La Culpa](https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:09 |
 | 19 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 20 | [Si Te Falta Alguien](https://open.spotify.com/track/5KcuLISuSBnMFAPVhFnHr5) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 3:07 |
-| 21 | [Costumbres](https://open.spotify.com/track/4y42VnzfGCV7gXr1qcL302) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 4:32 |
+| 21 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
 | 22 | [Voy A Conquistarte](https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Mexicano Hasta Las Pampas](https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q) | 2:54 |
 | 23 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 24 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 |

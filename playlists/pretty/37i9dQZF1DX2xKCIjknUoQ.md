@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Skip The Use
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,361 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,381 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

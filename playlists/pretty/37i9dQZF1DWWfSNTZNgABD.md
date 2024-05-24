@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 
 > The Latin soundtrack of the 2000s! Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,873 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,950 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 34 | [Mentirosa](https://open.spotify.com/track/2AW8HXB5U4QA0ZmApbRM0B) | [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Elefante](https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U) | 4:04 |
 | 35 | [Te necesito](https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [33](https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf) | 3:14 |
 | 36 | [Tabaco y Chanel](https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Bacilos \(Re\-Issue\)](https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl) | 5:12 |
-| 37 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
+| 37 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
 | 38 | [Fotografía](https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 3:58 |
-| 39 | [Todos Me Miran](https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [La Trayectoria](https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ) | 3:24 |
+| 39 | [Ahora Quien \- Salsa Version](https://open.spotify.com/track/5A32KQZznC2HSqr9qzTl2N) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Valio La Pena](https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7) | 5:09 |
 | 40 | [Suerte \(Whenever, Wherever\)](https://open.spotify.com/track/3TY1PFZXmYeiLcXygB74My) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:14 |
 | 41 | [Move Ya Body](https://open.spotify.com/track/2ndnVdR8si7CW9T8vJRHyW) | [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Jabba](https://open.spotify.com/artist/3cbRMYnjXAwJYNzxy291JY) | [Nina Sky](https://open.spotify.com/album/15Zjx7K5ifTVmXa3Nk5B88) | 3:52 |
 | 42 | [Color Esperanza](https://open.spotify.com/track/3T07pNAEVr9adeIG9i1ex4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 4:27 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfSNTZNgABD.md) - [plain]
 | 45 | [Sólo Quédate En Silencio](https://open.spotify.com/track/2RJ1fg4qf2vgZKifTa4HgA) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs), [Anahí](https://open.spotify.com/artist/0TeVa4xdLB8vdzjsvKH6Ri), [Dulce María](https://open.spotify.com/artist/6kaefrHSdAvxhhCVDFTCEL), [Maite Perroni](https://open.spotify.com/artist/6ModsWtBph2rE6zCTVxvZt), [Christian Chávez](https://open.spotify.com/artist/0aMqt2uGLuHj4eI8oXgVzN), [Christopher von Uckermann](https://open.spotify.com/artist/5O8cudluftNZ6PCwRzvYxo), [Alfonso Herrera](https://open.spotify.com/artist/0veZkZPeWoJQ9gt6VAXlkN) | [Rebelde](https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj) | 3:39 |
 | 46 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 47 | [Tengo Ganas](https://open.spotify.com/track/5nmLj87o23HJrI7GgqXXUw) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Travesia](https://open.spotify.com/album/6wx5HorxwpIFkNXsTJBvE5) | 4:26 |
-| 48 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
+| 48 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
 | 49 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
-| 50 | [Te lo agradezco, pero no \(feat\. Shakira\)](https://open.spotify.com/track/0TSO6afZViXH6OUlIMl6m4) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [El tren de los momentos](https://open.spotify.com/album/4LXfHYVr0scRlsxnWyO437) | 4:33 |
+| 50 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
 
 Snapshot ID: `ZkOgFQAAAACJoWFxjO43RavNes7Y52IG`

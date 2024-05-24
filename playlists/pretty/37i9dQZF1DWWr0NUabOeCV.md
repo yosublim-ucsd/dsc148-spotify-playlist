@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 
 > Para iniciar la fiesta\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 388 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,9 +87,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 | 77 | [La Oficial \- Remix](https://open.spotify.com/track/5JpUhPdInQTkknuw1wYoA1) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [La Oficial \(Remix\)](https://open.spotify.com/album/2CytLArktzEP6k1ran6G7j) | 3:39 |
 | 78 | [Amor Narcótico](https://open.spotify.com/track/24LO2UMNHWNoPZnhdAw4TO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Déjà Vu](https://open.spotify.com/album/3gLXoSKX6H6l1ulUYZTYvz) | 2:48 |
 | 79 | [Cuándo Será](https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Cuándo Será](https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2) | 2:56 |
-| 80 | [Hear Me Now](https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/6apmeAAgvzvhBKio8WYThf) | 3:12 |
+| 80 | [La Lá](https://open.spotify.com/track/4kitLAHbmBBXYHt9g22md3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Lá](https://open.spotify.com/album/2JPVwNK84tcKKynGJn2s8s) | 3:15 |
 | 81 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 |
-| 82 | [La Lá](https://open.spotify.com/track/4kitLAHbmBBXYHt9g22md3) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [La Lá](https://open.spotify.com/album/2JPVwNK84tcKKynGJn2s8s) | 3:15 |
+| 82 | [Hear Me Now](https://open.spotify.com/track/1a5Yu5L18qNxVhXx38njON) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Hear Me Now](https://open.spotify.com/album/6apmeAAgvzvhBKio8WYThf) | 3:12 |
 | 83 | [Tequila](https://open.spotify.com/track/3lVN6SBsQxYwB5crcnfynK) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Tequila](https://open.spotify.com/album/7rIzHJuN0QshlUAz4sLvMZ) | 3:44 |
 | 84 | [Picó](https://open.spotify.com/track/3o51j5414efaBNRoqzu60B) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Blackie & Lois](https://open.spotify.com/artist/5NzYjj1jWW74JwmrN9ERhm), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Picó](https://open.spotify.com/album/7kA9ZjLyi8S8rSzJbNR8iL) | 2:45 |
 | 85 | [Algo Mágico \- R3HAB Remix](https://open.spotify.com/track/0AKJnGrZazPQbEoGamsQT9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Algo Mágico \(R3HAB Remix\)](https://open.spotify.com/album/1UC5jCthGQNO7vgtdLau7R) | 2:47 |

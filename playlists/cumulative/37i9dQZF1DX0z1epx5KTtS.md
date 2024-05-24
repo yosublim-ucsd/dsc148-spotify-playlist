@@ -2,9 +2,9 @@
 
 ### [Coupé Décalé](https://open.spotify.com/playlist/37i9dQZF1DX0z1epx5KTtS)
 
-> African dance party music from Paris to Abidjan\. Photo : Dydy Yeman
+> African dance party music from Paris to Abidjan\. Photo : Lil Jay Bingerack
 
-184 songs - 10 hr 35 min
+185 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Mon gar](https://open.spotify.com/track/2OtsMf8cvkkogm5yJZyh44) | [Yilim](https://open.spotify.com/artist/1UAzbRXl5HrFENZFNtmO09) | [Mon gar](https://open.spotify.com/album/7KSSQ9nredhRwgVpwU6jBe) | 3:30 | 2023-01-05 | 2024-02-02 |
 | [Mon nom](https://open.spotify.com/track/45XiGbtboVhKVy0pt58C9B) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq) | [Mon nom](https://open.spotify.com/album/7cbpbkoPQ5NkKZ6rmDRjcd) | 3:42 | 2021-12-20 | 2022-01-22 |
 | [MOTIVATION](https://open.spotify.com/track/5hS82eevCQ6KEToDTjJ9jz) | [DJ KEROZEN](https://open.spotify.com/artist/6CPW7jlE6totfvrymgqV7W) | [MOTIVATION](https://open.spotify.com/album/6tsJ3OpV0kSm8G5oYrlsJP) | 3:40 | 2022-01-21 | 2022-06-17 |
+| [MOUSSA](https://open.spotify.com/track/2WF4PuPMq109K72DLcrzuJ) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [MOUSSA](https://open.spotify.com/album/0hCd08N0okkUfvjJLWtfsn) | 2:46 | 2024-05-23 |  |
 | [Mozo Dance](https://open.spotify.com/track/0dwgVvBmuaoiJJUOkNS8VX) | [Ramses Tikaya](https://open.spotify.com/artist/0q00AIYSAbXj18rBqWCYT1), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Pikatchou Le Moine](https://open.spotify.com/artist/2I1IZqjxZgLQmBSkk7LZl2) | [Mozo Dance](https://open.spotify.com/album/4CfE5TqPCpZTJ5YvKAZhVb) | 3:40 | 2023-01-05 | 2023-04-07 |
 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 | 2023-07-13 |  |
 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 | 2022-12-08 |  |
@@ -149,7 +150,7 @@
 | [Oko Lelela Nani](https://open.spotify.com/track/7kUUkcFtQGLB7STqDgMCvk) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Oko Lelela Nani](https://open.spotify.com/album/3Mclnp6RQ7HRHtUGpOt9Jz) | 3:41 | 2021-12-20 | 2022-05-27 |
 | [OLUWA OSHE](https://open.spotify.com/track/0ocKa3ZwyFVGfm2pb1xaUc) | [Mike Alabi](https://open.spotify.com/artist/6oWQR8FVaUVuvDITh8AIwM), [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [OLUWA OSHE](https://open.spotify.com/album/5sQZ8G7IXc9SkjdgOuAikB) | 3:41 | 2022-11-24 | 2023-03-10 |
 | [On a pris balle](https://open.spotify.com/track/3VqaDBt6C9pNns6didf0QM) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [On a pris balle](https://open.spotify.com/album/5m5yg13KGziSTHUsOpuBOo) | 3:47 | 2022-05-05 | 2023-06-09 |
-| [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 | 2023-09-07 |  |
+| [On Est Puissant](https://open.spotify.com/track/4mWZwZ51xakJxKs9sMbASX) | [Revolution](https://open.spotify.com/artist/599jagD7OBej5DjDC24Ext) | [On Est Puissant](https://open.spotify.com/album/6uCH7SU24RiZ1qIlkdsTOO) | 3:25 | 2023-09-07 | 2024-05-24 |
 | [On me guette](https://open.spotify.com/track/7bKZl8qe0BnKh7rchIRSgt) | [Anaconda 512](https://open.spotify.com/artist/26taS43MiYz1bsD7q1QKQ9) | [On me guette](https://open.spotify.com/album/3ZHGhTQS1hYrIYQTeyxDu1) | 3:58 | 2023-04-06 | 2023-08-25 |
 | [Ouvrez](https://open.spotify.com/track/50Y0HaKv5dXn1gvu0vqxlm) | [Landry Blessing](https://open.spotify.com/artist/0XCuDSjvlrrEBh2xfOFQfU), [Dj Léo le kdo du ciel](https://open.spotify.com/artist/084TMjcRarwgyURTDNr8Xh) | [Ouvrez](https://open.spotify.com/album/27YVEALRaGaDRJCI8NIMM9) | 3:21 | 2022-06-02 | 2022-12-09 |
 | [Papa arrive](https://open.spotify.com/track/1623sw26SCie7IvE1yUKCp) | [Apoutchou National](https://open.spotify.com/artist/7kHgJvT9eOCLwXr4xPIRnC), [Ks Bloom](https://open.spotify.com/artist/0iSX5EqjPdp2xkU7fgw7bp) | [Lumière](https://open.spotify.com/album/6DbZeMqndcEBZiJT65WbbI) | 2:56 | 2023-10-19 | 2023-12-01 |

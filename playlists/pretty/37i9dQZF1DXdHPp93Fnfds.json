@@ -123,26 +123,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Mechero",
-        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 155392,
-      "name": "Mechero",
-      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
         "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
       },
@@ -159,6 +139,26 @@
       "duration_ms": 225026,
       "name": "Maldita Primavera",
       "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "Mechero",
+        "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 155392,
+      "name": "Mechero",
+      "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "M\u00e1s Que Amigas",
-        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
-      },
-      "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        }
-      ],
-      "duration_ms": 161571,
-      "name": "M\u00e1s Que Amigas",
-      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Estamos Bajo el Agua",
         "url": "https://open.spotify.com/album/36rh05hGcnspz2thYgqVEv"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "M\u00e1s Que Amigas",
+        "url": "https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf"
+      },
+      "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        }
+      ],
+      "duration_ms": 161571,
+      "name": "M\u00e1s Que Amigas",
+      "url": "https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "La Nieve",
-        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
-      },
-      "artists": [
-        {
-          "name": "Las Ligas Menores",
-          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
-        }
-      ],
-      "duration_ms": 211699,
-      "name": "La Nieve",
-      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Mito",
         "url": "https://open.spotify.com/album/6ELoILaST1j1C4UNFZO2vW"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 244636,
       "name": "Me mudo de casa",
       "url": "https://open.spotify.com/track/6PC9XV4mfwsYRNVBgbFJIC"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "La Nieve",
+        "url": "https://open.spotify.com/album/4zpCh07snDOMhEMwsnSMyt"
+      },
+      "artists": [
+        {
+          "name": "Las Ligas Menores",
+          "url": "https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf"
+        }
+      ],
+      "duration_ms": 211699,
+      "name": "La Nieve",
+      "url": "https://open.spotify.com/track/4nFGMqZXWjoPf06D6SMaNL"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
+        "name": "Bestia",
+        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
+      },
+      "artists": [
+        {
+          "name": "Mora Lucay",
+          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
+        }
+      ],
+      "duration_ms": 260618,
+      "name": "La Experiencia",
+      "url": "https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
         "name": "Lonely Fans",
         "url": "https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P"
       },
@@ -775,22 +791,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Bestia",
-        "url": "https://open.spotify.com/album/5MxhmYS9jmITi4mqz6FAX9"
-      },
-      "artists": [
-        {
-          "name": "Mora Lucay",
-          "url": "https://open.spotify.com/artist/3gjqD5j7NaOCr4kLULEV0L"
-        }
-      ],
-      "duration_ms": 260618,
-      "name": "La Experiencia",
-      "url": "https://open.spotify.com/track/5qdztRteIy0iATHFFYIBPs"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Tu Vereda",
         "url": "https://open.spotify.com/album/0is8OQhtOKSoPqt4rR7Ecd"
       },
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Cursi",
-        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
-      },
-      "artists": [
-        {
-          "name": "Yamila Ruiz",
-          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
-        }
-      ],
-      "duration_ms": 193517,
-      "name": "Cursi",
-      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "El Valle Encantado",
         "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
       },
@@ -847,18 +831,18 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "LIBERTAD",
-        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+        "name": "Cursi",
+        "url": "https://open.spotify.com/album/0w2G1IC8jXzMtBn4Vzsi8M"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/31YcNToh9HWRWuKjoSvpG9"
+          "name": "Yamila Ruiz",
+          "url": "https://open.spotify.com/artist/3Mh1fBv8JR5AhW6INfwiTl"
         }
       ],
-      "duration_ms": 216961,
-      "name": "LIBERTAD",
-      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
+      "duration_ms": 193517,
+      "name": "Cursi",
+      "url": "https://open.spotify.com/track/2BJ1l2EOTZEiHnJdl2brlG"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -875,6 +859,22 @@
       "duration_ms": 180750,
       "name": "sin dormir",
       "url": "https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "LIBERTAD",
+        "url": "https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/31YcNToh9HWRWuKjoSvpG9"
+        }
+      ],
+      "duration_ms": 216961,
+      "name": "LIBERTAD",
+      "url": "https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
+        "name": "Te Vi",
+        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
+      },
+      "artists": [
+        {
+          "name": "Valsian",
+          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
+        }
+      ],
+      "duration_ms": 205281,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
         "name": "tarde",
         "url": "https://open.spotify.com/album/6lRoh8C3svKUXARiBoAzAq"
       },
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Te Vi",
-        "url": "https://open.spotify.com/album/1oy4RCK3TYGSXVVh6iwqAp"
-      },
-      "artists": [
-        {
-          "name": "Valsian",
-          "url": "https://open.spotify.com/artist/4f8uwOhcAdzozAkqq6AEwa"
-        }
-      ],
-      "duration_ms": 205281,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/1Otj8A7vMiHW6dY07pwTK0"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "No va a pasar",
         "url": "https://open.spotify.com/album/3BWz14j0eiivYK3pnSg74T"
       },
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "AZ\u00daCAR",
-        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
-      },
-      "artists": [
-        {
-          "name": "Milena Warthon",
-          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
-        }
-      ],
-      "duration_ms": 205398,
-      "name": "AZ\u00daCAR",
-      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Suspiros",
         "url": "https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 155744,
       "name": "Suspiros",
       "url": "https://open.spotify.com/track/1CejnNpFZ8TSYrIZxEOzgu"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "AZ\u00daCAR",
+        "url": "https://open.spotify.com/album/7A7fhDvUWduAyCcVa2vvfG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        }
+      ],
+      "duration_ms": 205398,
+      "name": "AZ\u00daCAR",
+      "url": "https://open.spotify.com/track/4XsimxBOB7TfiAQpHYq3rm"
     },
     {
       "added_at": "2024-04-25 18:28:16",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Amuleto",
         "url": "https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh"
       },
@@ -1283,6 +1267,22 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
         "name": "Nuestros Besos",
         "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
       },
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-25 18:28:16",
       "album": {
-        "name": "El Rio",
-        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
-      },
-      "artists": [
-        {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
-        }
-      ],
-      "duration_ms": 134884,
-      "name": "El Rio",
-      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
-    },
-    {
-      "added_at": "2024-04-25 18:28:16",
-      "album": {
         "name": "Pajarito",
         "url": "https://open.spotify.com/album/24g6fF66JD00LheckA50yw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 209285,
       "name": "Pajarito",
       "url": "https://open.spotify.com/track/5fXT9T9jLZgQkLKs0qwwhT"
+    },
+    {
+      "added_at": "2024-04-25 18:28:16",
+      "album": {
+        "name": "El Rio",
+        "url": "https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb"
+      },
+      "artists": [
+        {
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+        }
+      ],
+      "duration_ms": 134884,
+      "name": "El Rio",
+      "url": "https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK"
     },
     {
       "added_at": "2024-04-25 18:28:16",

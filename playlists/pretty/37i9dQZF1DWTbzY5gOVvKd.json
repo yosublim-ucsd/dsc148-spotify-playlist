@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1220825,
+  "num_followers": 1220951,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -551,6 +551,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "A Song For You",
+        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
+      },
+      "artists": [
+        {
+          "name": "Steve Tyrell",
+          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
+        }
+      ],
+      "duration_ms": 211360,
+      "name": "Sunday Kind of Love",
+      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Partners (Deluxe)",
         "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 250293,
       "name": "Come Rain or Come Shine (with John Mayer)",
       "url": "https://open.spotify.com/track/0eqjKiAEZgLSbwTMqyZI1c"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "A Song For You",
-        "url": "https://open.spotify.com/album/2NIzfZC51PFLLiqu9irt51"
-      },
-      "artists": [
-        {
-          "name": "Steve Tyrell",
-          "url": "https://open.spotify.com/artist/2UPnuV7os71xTZTyyEgj1B"
-        }
-      ],
-      "duration_ms": 211360,
-      "name": "Sunday Kind of Love",
-      "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
     },
     {
       "added_at": "2024-03-20 08:21:42",

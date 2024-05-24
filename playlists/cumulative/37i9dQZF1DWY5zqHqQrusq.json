@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Chill, take a long walk and clear your mind. Cover: Maali",
+  "description": "Chill, take a long walk and clear your mind. ",
   "name": "Barefoot and Free",
   "tracks": [
     {
@@ -82,6 +82,28 @@
       "duration_ms": 136192,
       "name": "Ambia",
       "url": "https://open.spotify.com/track/5DTLXU7HQ9PhNm6w7l8eZa"
+    },
+    {
+      "album": {
+        "name": "Love Struck",
+        "url": "https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Amini",
+      "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
     },
     {
       "album": {
@@ -340,7 +362,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 238153,
       "name": "Fade",
       "url": "https://open.spotify.com/track/7FuyHQVU2rdPy7nmQhzOye"
@@ -1073,6 +1095,24 @@
     },
     {
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
+    },
+    {
+      "album": {
         "name": "Different Definitions of Love: Part 1",
         "url": "https://open.spotify.com/album/3xBNNkmdc2ioXJk8mfyZSS"
       },
@@ -1154,7 +1194,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 220000,
       "name": "Rush",
       "url": "https://open.spotify.com/track/5KWamIPJw0yIM5AO2acHfy"
@@ -1408,7 +1448,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 263210,
       "name": "Sometimes - slowed+reverb remix",
       "url": "https://open.spotify.com/track/1Wai4S6wD7jE9vjrZW9Ydw"

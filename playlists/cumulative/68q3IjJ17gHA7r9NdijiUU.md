@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/68q3IjJ17gHA7r9NdijiUU.md) - cumulative - [plain](/playlists/plain/68q3IjJ17gHA7r9NdijiUU) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/68q3IjJ17gHA7r9NdijiUU)
 
-### [Road Trip Songs](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
+### [Road Trip Songs \- The Ultimate Throwback Playlist](https://open.spotify.com/playlist/68q3IjJ17gHA7r9NdijiUU)
 
 > Finally, the perfect road trip playlist is here\. Sing along to these classic hits, and discover new favorites! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Classic Road Trip Songs \- Road Trip Singalong \- Throwback Drive \- Family Road Trip \- Driving Mix \- Classic Driving Mix \- Late Night Drives \- Songs to Sing in the Car \- POV: Holiday Road Trip \- Holiday Drive \- Vacation Road Trip
 

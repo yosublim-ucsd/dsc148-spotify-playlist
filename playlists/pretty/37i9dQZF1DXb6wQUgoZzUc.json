@@ -1,6 +1,6 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 920141,
+  "num_followers": 920622,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
@@ -791,6 +791,26 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Me Reclama",
         "url": "https://open.spotify.com/album/6KL1vHSZ0XfmL2NJF5iFE1"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 187492,
       "name": "Me Reclama",
       "url": "https://open.spotify.com/track/4ojwGTehgBRAg52jbFgzJg"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Suano",
+        "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
+      },
+      "artists": [
+        {
+          "name": "NTG",
+          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
+        },
+        {
+          "name": "Amenazzy",
+          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
+        }
+      ],
+      "duration_ms": 137264,
+      "name": "Suano",
+      "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -991,26 +1011,6 @@
       "duration_ms": 165275,
       "name": "Mi\u00e9nteme",
       "url": "https://open.spotify.com/track/0cOa970mzTWAxKtltpkpLc"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Suano",
-        "url": "https://open.spotify.com/album/0HTcZUGg213cNLdkM33BTh"
-      },
-      "artists": [
-        {
-          "name": "NTG",
-          "url": "https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ"
-        },
-        {
-          "name": "Amenazzy",
-          "url": "https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf"
-        }
-      ],
-      "duration_ms": 137264,
-      "name": "Suano",
-      "url": "https://open.spotify.com/track/79OU5n2Y8jMcWgYZJ2DhAd"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1228,12 +1228,12 @@
           "url": "https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan"
         },
         {
-          "name": "Jone Quest",
-          "url": "https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE"
+          "name": "Sammy Baby",
+          "url": "https://open.spotify.com/artist/47YyZs6zl7kuFE1yw85O6z"
         },
         {
-          "name": "Sammy",
-          "url": "https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ"
+          "name": "Jone Quest",
+          "url": "https://open.spotify.com/artist/6wcKDqJRY3TzbcdRKo6EiE"
         },
         {
           "name": "Myke Towers",
@@ -1251,26 +1251,6 @@
       "duration_ms": 307435,
       "name": "La Forma en Que Me Miras",
       "url": "https://open.spotify.com/track/57Ba26w9eoXx8BBUNgRNLV"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Mami Chula",
-        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "Mami Chula",
-      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Mami Chula",
+        "url": "https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "Mami Chula",
+      "url": "https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1843,26 +1843,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "CARNET",
-        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
-      },
-      "artists": [
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 139376,
-      "name": "CARNET",
-      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Nos Comemos (feat. Ozuna)",
         "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
       },
@@ -1879,6 +1859,26 @@
       "duration_ms": 191086,
       "name": "Nos Comemos (feat. Ozuna)",
       "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "CARNET",
+        "url": "https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3"
+      },
+      "artists": [
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 139376,
+      "name": "CARNET",
+      "url": "https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1967,26 +1967,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "Me Fije",
         "url": "https://open.spotify.com/album/14FrKuNUxsU8eEooOVW1DC"
       },
@@ -2019,6 +1999,26 @@
       "duration_ms": 215891,
       "name": "911",
       "url": "https://open.spotify.com/track/2TksvaRivgAEj780DgRB73"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
       "added_at": "2024-05-17 06:00:00",

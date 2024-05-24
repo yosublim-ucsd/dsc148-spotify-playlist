@@ -1,12 +1,12 @@
 {
   "description": "This is Tate McRae. The essential tracks, all in one playlist.",
-  "num_followers": 178054,
+  "num_followers": 178196,
   "original_name": "This Is Tate McRae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkvkAAAAAAACyH5j4chAPO2nC5sCZQq3",
+  "snapshot_id": "Zk01gAAAAAAD4MP6DySY9DvqVjaqVWHo",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+        "name": "TOO YOUNG TO BE SAD",
+        "url": "https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR"
       },
       "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
         {
           "name": "Tate McRae",
           "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 172252,
-      "name": "10:35",
-      "url": "https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ"
+      "duration_ms": 170226,
+      "name": "you broke me first",
+      "url": "https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63"
     },
     {
       "added_at": null,

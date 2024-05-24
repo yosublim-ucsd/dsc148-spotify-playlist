@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 149667,
+  "num_followers": 149690,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Flaming Hot Cheetos",
+        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 123884,
+      "name": "Flaming Hot Cheetos",
+      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Flaming Hot Cheetos",
-        "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 123884,
-      "name": "Flaming Hot Cheetos",
-      "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Saw You in a Dream",
-        "url": "https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 208280,
-      "name": "Saw You in a Dream",
-      "url": "https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 314486,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Saw You in a Dream",
+        "url": "https://open.spotify.com/album/1K4hiGtecpTxNLajyHVX3h"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Saw You in a Dream",
+      "url": "https://open.spotify.com/track/7dujOm8FJcepmVBQjqdswN"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 190447,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Fangs",
         "url": "https://open.spotify.com/album/1DRoEmmMAuv4AfKFydvUqv"
       },
@@ -1075,18 +1059,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Nothing Lasts Forever (And It's Fine)",
-        "url": "https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3"
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
         }
       ],
-      "duration_ms": 218883,
-      "name": "You're Somebody Else",
-      "url": "https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH"
+      "duration_ms": 190447,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/28AgTOIZke8nitD0NNeb3G"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1103,6 +1087,22 @@
       "duration_ms": 260386,
       "name": "Darling",
       "url": "https://open.spotify.com/track/36PQh1G6h7n9VWB799fXpI"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Nothing Lasts Forever (And It's Fine)",
+        "url": "https://open.spotify.com/album/6uX6tLDnj6Q4ptrzK0mtR3"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 218883,
+      "name": "You're Somebody Else",
+      "url": "https://open.spotify.com/track/4zlqaEHnAle2taqwBbp9ZH"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 222335,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "SNOW",
         "url": "https://open.spotify.com/album/3k3EvBHWTu3VkyAh5Pevv9"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 258530,
       "name": "Foreign Hands (George's Version)",
       "url": "https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 222335,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Lines",
+        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Cunningham",
+          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+        }
+      ],
+      "duration_ms": 194906,
+      "name": "Minimum",
+      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Erratic Cinematic",
         "url": "https://open.spotify.com/album/6fyMUlF3m4s4aMrbpT6HIL"
       },
@@ -1379,18 +1395,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Lines",
-        "url": "https://open.spotify.com/album/1UkOPjlvgtqoeeIETfK2fs"
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
       },
       "artists": [
         {
-          "name": "Charlie Cunningham",
-          "url": "https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6"
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
         }
       ],
-      "duration_ms": 194906,
-      "name": "Minimum",
-      "url": "https://open.spotify.com/track/6kND7UAXGZk2kfZbEWQ6e3"
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1527,6 +1543,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "This Old Dog",
+        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
+      },
+      "artists": [
+        {
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "duration_ms": 181586,
+      "name": "Still Beating",
+      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Lost in You",
         "url": "https://open.spotify.com/album/5c9otgSaGE52UfeQ4Eq3zH"
       },
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "This Old Dog",
-        "url": "https://open.spotify.com/album/6XzoFb3hP14jVQeCMRdVJR"
-      },
-      "artists": [
-        {
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Still Beating",
-      "url": "https://open.spotify.com/track/2N4idqj9TT3HnH2OFT9j0v"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Sleep Well Beast",
         "url": "https://open.spotify.com/album/6zG9PHw8dlMLIyRE9TEGGk"
       },
@@ -1587,22 +1603,6 @@
       "duration_ms": 338973,
       "name": "Guilty Party",
       "url": "https://open.spotify.com/track/25RriQgYitvlhOso7ckY2r"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/4anxEzh8xEKSPXKHGWiFue"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
       "artists": [
         {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 188385,
-      "name": "Them Changes",
-      "url": "https://open.spotify.com/track/5dcZUsgcMW57ju0A379O7c"
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     }
   ],
   "unique_name": "Best of Indie 2017",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,772 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,810 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 31 | [カタオモイ](https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 3:27 |
 | 32 | [One Summer Day](https://open.spotify.com/track/3gFQOMoUwlR6aUZj81gCzu) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Spirited Away Soundtrack](https://open.spotify.com/album/766a5fKJYFy9ii4Kz2bQy9) | 3:09 |
 | 33 | [Comedy](https://open.spotify.com/track/5SuOikwiRyPMVoIQDJUgSV) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Comedy](https://open.spotify.com/album/41ERrwfzos93Xlf6hFBiDn) | 3:50 |
-| 34 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
-| 35 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
+| 34 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
+| 35 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 |
 | 36 | [やさしさに包まれたなら](https://open.spotify.com/track/3CtnuBSfdpoxHglOGGPgmU) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [MISSLIM](https://open.spotify.com/album/7tiG9XMFiw4BCDH19xn9TO) | 3:11 |
 | 37 | [虹](https://open.spotify.com/track/7AIj86wFWqm7X1TZ2hzHwS) | [SUDA MASAKI](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [虹](https://open.spotify.com/album/0hE2gFx2Dv7DEm9kepaFFi) | 4:18 |
-| 38 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
-| 39 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
+| 38 | [The Girl Who Fell From The Sky \(Laputa\)](https://open.spotify.com/track/6VcyHKX0tZvwFYtgJL7IcX) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Ghibli, Anime & Chill](https://open.spotify.com/album/4SFB6GvNUyJ2V0z2BBfGgK) | 1:31 |
+| 39 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 40 | [memories](https://open.spotify.com/track/12MSmLSGPWulxOPvYBy5Ss) | [Maki Otsuki](https://open.spotify.com/artist/10C2C3ecEhGKdHskghO52u) | [Stories](https://open.spotify.com/album/4qo7xzzzNICqYYU36O5x00) | 4:26 |
 | 41 | [You're in Love](https://open.spotify.com/track/3Lsdp3mbD27MjxvTeFm0v3) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Howl's Moving Castle Soundtrack](https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl) | 1:11 |
 | 42 | [風になる](https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD) | [Tsuji Ayano](https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i) | [恋恋風歌](https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7) | 4:36 |

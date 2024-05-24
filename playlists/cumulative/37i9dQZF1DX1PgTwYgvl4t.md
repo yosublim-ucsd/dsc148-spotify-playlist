@@ -4,14 +4,15 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso?si=f30pYG6KQaiHmVDQayf2lg>Victoria Orenze</a>
 
-52 songs - 6 hr 12 min
+54 songs - 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alagbara](https://open.spotify.com/track/1kGcJQPw3Z7rlTYSW3HLLM) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [No Limits](https://open.spotify.com/album/0B2Dh7ZBqo6mvDMKNjq0FL) | 5:40 | 2024-05-09 |  |
+| [All My Life](https://open.spotify.com/track/2UWV6y2LKiLQdd92zGUDHp) | [Pv Idemudia](https://open.spotify.com/artist/0iE6uT4YVh808x9A2iWJ9D), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [All My Life](https://open.spotify.com/album/0ymijpS9vH1roB2dmCVuCQ) | 7:51 | 2024-05-24 |  |
 | [All That Matters](https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 6:10 | 2024-05-09 |  |
 | [All the Glory](https://open.spotify.com/track/1IKW8otsHgan6kLcd8I2he) | [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU), [Ty Bello](https://open.spotify.com/artist/2iWK4awJAvQtgg1cUHaU9J) | [The Spirit of Light](https://open.spotify.com/album/1grxa0bu0S0u98pDXNnFSg) | 5:27 | 2024-05-09 |  |
-| [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 |  |
+| [Arojinle](https://open.spotify.com/track/6IAkCy6DH4eZTomOlQ5nSU) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/0jfLu0yOlJBXzpBCHE4msv) | 14:43 | 2024-05-09 | 2024-05-24 |
 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 | 2024-05-09 |  |
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2024-05-09 |  |
 | [Beyond Me](https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [The Love Story](https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr) | 7:11 | 2024-05-09 |  |
@@ -47,6 +48,7 @@
 | [Okemmuo \- The Spirit of the Spirit](https://open.spotify.com/track/1sK5xKa8ewU1g6oPngoAeq) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Okemmuo \(The Spirit of the Spirit\)](https://open.spotify.com/album/6BIkUGVK0K4LRoebCTGG6s) | 5:54 | 2024-05-09 |  |
 | [Olorun Agbaye \- You Are Mighty](https://open.spotify.com/track/0gDyskuhux7JfUcGzn0gY9) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Oba](https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2) | [Hallelujah Again \(Revelation 19:3\)](https://open.spotify.com/album/5HjyQX3GmSbNBL1bG3D6Gf) | 7:16 | 2024-05-09 |  |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-05-09 |  |
+| [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 |  |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2024-05-09 |  |
 | [Spontaneous Endless Worship](https://open.spotify.com/track/1wxbaC0dbPDrgdnlQp1rlg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Spontaneous Endless Worship](https://open.spotify.com/album/634VScodKaUDFqUDwCiLzN) | 5:35 | 2024-05-09 |  |
 | [The Kadosh \(Live\)](https://open.spotify.com/track/7hjc9HCFAogwsDMpdNhIyb) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Kadosh \(Live\)](https://open.spotify.com/album/0EpEj8YqjDrd84uJBBCugr) | 9:05 | 2024-05-09 |  |

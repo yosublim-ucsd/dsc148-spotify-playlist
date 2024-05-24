@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 
 > Your favorite Mexican anthems to get the party started! Cover: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,469 likes - 90 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,504 likes - 90 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 7 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 |
 | 8 | [El Listón De Tu Pelo](https://open.spotify.com/track/5hrxAFrYbNTLjAYSrmbpgr) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:36 |
 | 9 | [Yo Ya No Vuelvo Contigo \- En Vivo](https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Yo Ya No Vuelvo Contigo \(En Vivo\)](https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9) | 4:00 |
-| 10 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
-| 11 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
+| 10 | [Todo Me Gusta De Ti](https://open.spotify.com/track/5gUoppDphfYsIiguGr5drh) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ) | [Destilando Amor](https://open.spotify.com/album/0Hkn7bDEG0kyUxI6gQdHzB) | 4:07 |
+| 11 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 12 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 |
 | 13 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 |
 | 14 | [El Tucanazo](https://open.spotify.com/track/07Ag8vm1pW409NrhpPokFg) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Oro ..\. Secuestro De Amor](https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ) | 2:54 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdrcAZnP3Cy.md) - [plain]
 | 22 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 |
 | 23 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
 | 24 | [Tao, Tao](https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX) | [Control](https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx) | [Cumbias Sin Control](https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX) | 2:52 |
-| 25 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
-| 26 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
+| 25 | [Cumbia De La Cobra](https://open.spotify.com/track/68uupqD2ijA27hJxtvnsLH) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Zoológico Tropical](https://open.spotify.com/album/6hBgzQxYRILZimkK7vTIDN) | 3:18 |
+| 26 | [Me Vale](https://open.spotify.com/track/0NfdbvWFwlVMA183QibxCB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:31 |
 | 27 | [El Rey](https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Idolo De Mexico](https://open.spotify.com/album/33BGnmrvBXEZpkb8NgN1ru) | 2:37 |
 | 28 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 |
 | 29 | [La Chona](https://open.spotify.com/track/79xkyiTBHqdGg3SirACPwy) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Para Tucancillos y Tucancillas](https://open.spotify.com/album/3oeX8Q7k6jH4Gq8WzRkNqb) | 3:19 |

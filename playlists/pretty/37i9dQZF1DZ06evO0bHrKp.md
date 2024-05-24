@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 > This is Sum 41\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,865 likes - 42 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,912 likes - 42 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 41 | [Fake My Own Death](https://open.spotify.com/track/5Puyl7jW7OkSNL4UyVFTDn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [13 Voices](https://open.spotify.com/album/3eCvEIqh8lZzfQbXt9Zndb) | 3:14 |
 | 42 | [My Direction](https://open.spotify.com/track/0JS5s9DeP9ycfzEIKTwMys) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/2iOJEUCKJaYseov1qA8ot8) | 2:02 |
 
-Snapshot ID: `ZkqSgAAAAAC+z3EmLOdbLHCCQI8uhevp`
+Snapshot ID: `Zk01gAAAAAC2pSUPL8IQkY44KzmxJP6o`

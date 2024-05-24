@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 
 > Hit del passato e nuovi brani per la tua giornata perfetta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,838 likes - 65 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,850 likes - 65 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qUVnHy7VXV.md) - [plain]
 | 40 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 |
 | 41 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
 | 42 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
-| 43 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
-| 44 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
+| 43 | [The Lazy Song](https://open.spotify.com/track/386RUes7n1uM1yfzgeUuwp) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/6J84szYCnMfzEcvIcfWMFL) | 3:09 |
+| 44 | [Raise Your Glass](https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh) | 3:22 |
 | 45 | [CI SARÒ](https://open.spotify.com/track/3EwBE1oL0u61OycWxdCuyI) | [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [CI SARÒ](https://open.spotify.com/album/2xXCt5OG0tYW3HKXv7J32J) | 3:00 |
 | 46 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 |
 | 47 | [On Top Of The World](https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS) | 3:12 |

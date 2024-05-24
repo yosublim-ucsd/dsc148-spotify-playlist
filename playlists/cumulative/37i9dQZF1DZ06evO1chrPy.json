@@ -196,7 +196,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 208760,
       "name": "Cigarette Daydreams",
       "url": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
@@ -376,7 +376,7 @@
       ],
       "date_added": "2024-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 202733,
       "name": "HiFi (True Light)",
       "url": "https://open.spotify.com/track/6W2pDHqWoU81UsvMSFN6pz"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 248986,
       "name": "Hypocrite",
       "url": "https://open.spotify.com/track/1PmaWG47wJRCIOM9v8Bauo"
@@ -600,6 +600,24 @@
       "duration_ms": 208133,
       "name": "Night Running",
       "url": "https://open.spotify.com/track/0wSmZykDgah7GfaUNZUZCb"
+    },
+    {
+      "album": {
+        "name": "Neon Pill",
+        "url": "https://open.spotify.com/album/2dGlEut1TyhAyApZ0ADIsd"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200466,
+      "name": "Out Loud",
+      "url": "https://open.spotify.com/track/0Mo9W96HOzxpgTZsn8DpPF"
     },
     {
       "album": {

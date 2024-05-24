@@ -1,12 +1,12 @@
 {
   "description": "This is X Ambassadors. The essential tracks, all in one playlist.",
-  "num_followers": 53780,
+  "num_followers": 53785,
   "original_name": "This Is X Ambassadors",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAA1LH9LvK6awGznIvxxt0Bs",
+  "snapshot_id": "Zk01gAAAAADR/40lfdNGXl+DG4GSk9Pc",
   "tracks": [
     {
       "added_at": null,
@@ -235,42 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Before You (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "Erich Lee",
-          "url": "https://open.spotify.com/artist/6z859pa51KJ0XxDcpLCNaR"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Unsteady - Erich Lee Gravity Remix",
-      "url": "https://open.spotify.com/track/7AOdyU64RafmvJUL4WMotN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Townie",
-        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193520,
-      "name": "Half-Life",
-      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -291,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Townie",
+        "url": "https://open.spotify.com/album/4RzcAMxL8KQlgDH2s6pGbr"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 193520,
+      "name": "Half-Life",
+      "url": "https://open.spotify.com/track/2mhlxHaCGmSKNooRLmeJyk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORION",
         "url": "https://open.spotify.com/album/5YF8ms264wRnswVK1YMYmu"
       },
@@ -303,6 +283,30 @@
       "duration_ms": 208653,
       "name": "HEY CHILD",
       "url": "https://open.spotify.com/track/5j0oqJkeHoXjtPCgz9hMmd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zen (with K.Flay & grandson)",
+        "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        },
+        {
+          "name": "K.Flay",
+          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 215882,
+      "name": "Zen (with K.Flay & grandson)",
+      "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
     },
     {
       "added_at": null,
@@ -335,30 +339,6 @@
       "duration_ms": 350920,
       "name": "Follow the Sound of My Voice",
       "url": "https://open.spotify.com/track/2RvAYUjhQy1LA5R9156WSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Zen (with K.Flay & grandson)",
-        "url": "https://open.spotify.com/album/2JQbWWpYG6kKppiD6z2FwL"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        },
-        {
-          "name": "K.Flay",
-          "url": "https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr"
-        },
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 215882,
-      "name": "Zen (with K.Flay & grandson)",
-      "url": "https://open.spotify.com/track/2loEXJRB5ExGcUHYX365R5"
     },
     {
       "added_at": null,
@@ -531,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VHS",
-        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+        "name": "The Beautiful Liar",
+        "url": "https://open.spotify.com/album/7mU1N3h6ZVyxpRMTJc7Lg8"
       },
       "artists": [
         {
@@ -540,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
         }
       ],
-      "duration_ms": 197040,
-      "name": "Gorgeous",
-      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
+      "duration_ms": 185585,
+      "name": "My Own Monster",
+      "url": "https://open.spotify.com/track/6TOe5NPjsKmJpjEshXSvcs"
     },
     {
       "added_at": null,
@@ -559,6 +539,22 @@
       "duration_ms": 198026,
       "name": "Fallout",
       "url": "https://open.spotify.com/track/3jN8yPWQNdmNzoUJxMyy52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VHS",
+        "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 197040,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/2xI3vq0WsAEs4tET6gthuw"
     },
     {
       "added_at": null,
@@ -747,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "why does everything make me cry?",
-        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
-      },
-      "artists": [
-        {
-          "name": "Sam Nelson",
-          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "leave flowers",
-      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Belong EP",
         "url": "https://open.spotify.com/album/7inQoz3exeJ2mTCtFXlPqP"
       },
@@ -795,6 +771,42 @@
       "duration_ms": 219560,
       "name": "Love Songs Drug Songs",
       "url": "https://open.spotify.com/track/3RCT90rX7F5rSwMwUU4Pz6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "why does everything make me cry?",
+        "url": "https://open.spotify.com/album/45T13v8nPmnCCbkOtiAACm"
+      },
+      "artists": [
+        {
+          "name": "Sam Nelson",
+          "url": "https://open.spotify.com/artist/4SIjsqKdaPeIVDqrALa4Mv"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "leave flowers",
+      "url": "https://open.spotify.com/track/3OL3NrfcA6WFVBbB0LrDph"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Great Unknown (From The Motion Picture \u201cThe Call Of The Wild\u201d)",
+        "url": "https://open.spotify.com/album/3XHdRknn2OGMY34vYRcgtu"
+      },
+      "artists": [
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 186620,
+      "name": "Great Unknown - From The Motion Picture \u201cThe Call Of The Wild\"",
+      "url": "https://open.spotify.com/track/4u2uQ7G1nzZJ7yHA6Dzg7z"
     },
     {
       "added_at": null,
@@ -839,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoping",
-        "url": "https://open.spotify.com/album/7z2pCwRH2d2Lydl7wncoH9"
-      },
-      "artists": [
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 193566,
-      "name": "Hoping",
-      "url": "https://open.spotify.com/track/3BymzRCyTpah2tLfjXuMok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VHS",
         "url": "https://open.spotify.com/album/7A8fZ2jjiu5heq7wNCutKN"
       },
@@ -891,26 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cannonball",
-        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
-      },
-      "artists": [
-        {
-          "name": "Skylar Grey",
-          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Cannonball",
-      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Colors",
         "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
       },
@@ -931,6 +907,26 @@
       "duration_ms": 242213,
       "name": "Transmission",
       "url": "https://open.spotify.com/track/1Bh8jtOXIBIRUUghbrwUTX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cannonball",
+        "url": "https://open.spotify.com/album/5xL9BEb10q8us1fRdQdGkm"
+      },
+      "artists": [
+        {
+          "name": "Skylar Grey",
+          "url": "https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Cannonball",
+      "url": "https://open.spotify.com/track/1Ez4p27fWkO7j9F1o5aHOD"
     },
     {
       "added_at": null,

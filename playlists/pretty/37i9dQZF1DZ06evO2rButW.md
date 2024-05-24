@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 ### [This Is Mon Laferte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rButW)
 
-> This Is Mon Laferte\. Los temas esenciales, todos en una lista.
+> This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 663,317 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,487 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,12 +28,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 18 | [Flaco](https://open.spotify.com/track/3HMYsT5mnqQ57tVjvqlETb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 4:16 |
 | 19 | [Aunque Te Mueras Por Volver](https://open.spotify.com/track/1eUDEJzgmfNcqXnFz0ObfD) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 4:10 |
 | 20 | [Hoy No](https://open.spotify.com/track/41SJBO05x4mHd6tuSf9BTZ) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Grandes Éxitos del Boleroglam, Vol\. 2](https://open.spotify.com/album/49k8bx6FKOeKocIRppwnYE) | 4:02 |
-| 21 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
-| 22 | [Química Mayor](https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:51 |
+| 21 | [Química Mayor](https://open.spotify.com/track/1G9wM0DIuyxn0m0QeENIkl) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:51 |
+| 22 | [Amantes Suicidas](https://open.spotify.com/track/1JhNmwO8Y04b4XidpSrytb) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:58 |
 | 23 | [Caderas Blancas](https://open.spotify.com/track/4BMk6XhlXJW7ZgIS8vSBZk) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:45 |
 | 24 | [El Cristal](https://open.spotify.com/track/4GlwFumhEXNTaBh8foBax6) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Mon Laferte \(Vol\. 1\)](https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0) | 3:01 |
-| 25 | [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 |
-| 26 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 |
+| 25 | [No Soy Para Ti](https://open.spotify.com/track/06uVO4cR3ZReuXxW5eTH9F) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:31 |
+| 26 | [Pornocracia](https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 4:23 |
 | 27 | [Yo Te Qui](https://open.spotify.com/track/1i52sh56NRpwyO3qREWMX7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza](https://open.spotify.com/album/7CgbWo8K9pQx823YTI17zE) | 2:46 |
 | 28 | [Por Qué Me Fui A Enamorar de Ti \- En Vivo, Desde El Lunario del Auditorio Nacional](https://open.spotify.com/track/0mqasl5sulqcKTBLJxdZnB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Sola Con Mis Monstruos \(En Vivo, Desde El Lunario del Auditorio Nacional\)](https://open.spotify.com/album/2LSgqfMmdZ95wXHvSqun4Q) | 4:33 |
 | 29 | [El Beso](https://open.spotify.com/track/3eiXtKo5PAWArBDAw1gkhI) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 49 | [Vendaval](https://open.spotify.com/track/0EvjmzGLCyesGcFzvTNH8D) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [La Trenza \(Deluxe\)](https://open.spotify.com/album/4heSwh4OgqS8CX2D4v7vnz) | 3:34 |
 | 50 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:16 |
 
-Snapshot ID: `ZkqSgAAAAABxERA/jgN92rDfrp4acZgd`
+Snapshot ID: `Zk01gAAAAAA/utiKSObQFFvvLHXBPAUo`

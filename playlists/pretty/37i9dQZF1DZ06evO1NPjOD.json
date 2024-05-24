@@ -1,13 +1,37 @@
 {
-  "description": "This Is City Girls. Los temas esenciales, todos en una lista.",
-  "num_followers": 37465,
+  "description": "This is: City Girls. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 37474,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACT42YCZ0DNkc6Tctz/HSzo",
+  "snapshot_id": "Zk01gAAAAABzkX4wt2in+HWhvQfg9Wh8",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Still Over It",
+        "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
+      },
+      "artists": [
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 225502,
+      "name": "Ex For A Reason (with JT from City Girls)",
+      "url": "https://open.spotify.com/track/1De7cOMrdUnVpjWBaowMg4"
+    },
     {
       "added_at": null,
       "album": {
@@ -50,11 +74,15 @@
         {
           "name": "City Girls",
           "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
         }
       ],
-      "duration_ms": 158332,
-      "name": "Act Up",
-      "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+      "duration_ms": 166476,
+      "name": "Twerk (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
     },
     {
       "added_at": null,
@@ -123,26 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Girl Code",
-        "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 166476,
-      "name": "Twerk (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twerkulator",
         "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
       },
@@ -155,46 +163,6 @@
       "duration_ms": 138541,
       "name": "Twerkulator",
       "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 106153,
-      "name": "Work For It",
-      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
-      },
-      "artists": [
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 177704,
-      "name": "Said Sum (feat. City Girls & DaBaby) - Remix",
-      "url": "https://open.spotify.com/track/13VXVxePp4NUiXwtmQ0viz"
     },
     {
       "added_at": null,
@@ -219,6 +187,22 @@
       "duration_ms": 211609,
       "name": "Throat Baby (Go Baby) (with DaBaby & City Girls) - Remix",
       "url": "https://open.spotify.com/track/15C4TnrrVdym7UykxQIOTZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 106153,
+      "name": "Work For It",
+      "url": "https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4"
     },
     {
       "added_at": null,
@@ -671,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caramel (feat. City Girls)",
-        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
-      },
-      "artists": [
-        {
-          "name": "Lloyd",
-          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
-        },
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 232941,
-      "name": "Caramel (feat. City Girls)",
-      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Throw Fits (feat. City Girls & Juvenile)",
         "url": "https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB"
       },
@@ -715,6 +679,26 @@
       "duration_ms": 203930,
       "name": "Throw Fits (feat. City Girls & Juvenile)",
       "url": "https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caramel (feat. City Girls)",
+        "url": "https://open.spotify.com/album/1XT5Wz52niQDuTeYQeTlOM"
+      },
+      "artists": [
+        {
+          "name": "Lloyd",
+          "url": "https://open.spotify.com/artist/1Xfmvd48oOhEWkscWyEbh9"
+        },
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 232941,
+      "name": "Caramel (feat. City Girls)",
+      "url": "https://open.spotify.com/track/0ZuMuZVtjK9vK5qSWC4bmu"
     },
     {
       "added_at": null,
@@ -795,6 +779,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Top Notch (feat. Fivio Foreign)",
+        "url": "https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 169737,
+      "name": "Top Notch (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PERIOD",
         "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
       },
@@ -863,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PERIOD",
-        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 119893,
-      "name": "Tighten Up",
-      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "43VA HEARTLESS",
         "url": "https://open.spotify.com/album/1DMa1o7j2548zVFXRzRe7f"
       },
@@ -895,6 +883,22 @@
       "duration_ms": 142395,
       "name": "4 Da Moment (feat. City Girls)",
       "url": "https://open.spotify.com/track/4ZJvxJYTeA719NrCtKE8gU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PERIOD",
+        "url": "https://open.spotify.com/album/1Lj2lKxrwpvuZkKjZAgrKl"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 119893,
+      "name": "Tighten Up",
+      "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
     },
     {
       "added_at": null,

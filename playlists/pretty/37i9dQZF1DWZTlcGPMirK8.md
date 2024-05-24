@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,376 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,386 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 16 | [Sweet Disposition](https://open.spotify.com/track/16mWm9eOeEeUQku9OLp29t) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/4LTW34gTQI9N3f5zq6uMV2) | 3:56 |
 | 17 | [My My My!](https://open.spotify.com/track/4NiehSBQthimPzRsVeOgCT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:24 |
 | 18 | [Dance Monkey](https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Dance Monkey](https://open.spotify.com/album/31IDBea3eEs57a0joX6TjN) | 3:29 |
-| 19 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
-| 20 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 |
+| 19 | [Geronimo](https://open.spotify.com/track/4hd4YTkABCn2zuTZeYEA6D) | [Sheppard](https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV) | [Bombs Away](https://open.spotify.com/album/6BfgDdkVUsERG4SZQTbO97) | 3:38 |
+| 20 | [Xanadu](https://open.spotify.com/track/0cXFXgFns7sIMmTpqyGRmD) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Xanadu \- Original Motion Picture Soundtrack](https://open.spotify.com/album/325AF2IWtxrY0jcoW25N45) | 3:28 |
 | 21 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
 | 22 | [The Nosebleed Section](https://open.spotify.com/track/7aZiDdufBX2Ek8OUuxK0IQ) | [Hilltop Hoods](https://open.spotify.com/artist/7dlqUnjoF2U2DkNDMhcgG4) | [The Calling](https://open.spotify.com/album/4dz3QzzqKVwz3WRZZmodq9) | 3:39 |
 | 23 | [Can't Get You out of My Head](https://open.spotify.com/track/7m2g1kKuF7Tre2PzjK3Lnh) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:50 |
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 36 | [Resolution](https://open.spotify.com/track/76QK6gTaW2bBV47FDe3RPK) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG) | [Resolution \- EP](https://open.spotify.com/album/22aja1RtjRSzdKRuwx0Aog) | 4:16 |
 | 37 | [Angels Brought Me Here](https://open.spotify.com/track/6lzIABwQGhMa3Xbspb098s) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [Just As I Am](https://open.spotify.com/album/5e055E2MQy4SspHknPO3Km) | 3:59 |
 | 38 | [High ft\. Nicole Millar](https://open.spotify.com/track/74ciVAMC3GuSkEVTLIIqBS) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY), [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [High](https://open.spotify.com/album/69yLePgnX1KDHwneFMg6WF) | 3:48 |
-| 39 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
-| 40 | [Two Shoes](https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Two Shoes](https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd) | 5:13 |
-| 41 | [Call On Me \- Ryan Riback Remix](https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [One of One](https://open.spotify.com/album/2VjgAAF4WQCmVy2YBkM5uZ) | 3:42 |
-| 42 | [Chameleon](https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:18 |
-| 43 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
-| 44 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
+| 39 | [Call On Me \- Ryan Riback Remix](https://open.spotify.com/track/3GDTO4VnjlQbHfNJ87FNfn) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [One of One](https://open.spotify.com/album/2VjgAAF4WQCmVy2YBkM5uZ) | 3:42 |
+| 40 | [Chameleon](https://open.spotify.com/track/1upULGQhXYE55yHDMPh1QG) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Kira Divine](https://open.spotify.com/artist/4AFUtRGh4gJb1mWNTtN0Ha) | [Changa](https://open.spotify.com/album/7DrBomoczF4cn1kjyioHJe) | 3:18 |
+| 41 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
+| 42 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
+| 43 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
+| 44 | [Two Shoes](https://open.spotify.com/track/57LP4yVIIBkRLWbq0ETF4K) | [The Cat Empire](https://open.spotify.com/artist/023YMawCG3OvACmRjWxLWC) | [Two Shoes](https://open.spotify.com/album/0avvtRnA6yIEIFMbqHgSVd) | 5:13 |
 | 45 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 46 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
 | 47 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 63 | [Sound of Silence](https://open.spotify.com/track/2b9czDPSLTI88694CIqCy3) | [Dami Im](https://open.spotify.com/artist/2wSrZOe6YVo6XoKma22sdY) | [Sound of Silence](https://open.spotify.com/album/4v6nXxsfpkBpUA9PEAh7nj) | 3:15 |
 | 64 | [Love at First Sight](https://open.spotify.com/track/26muNwMlZGvB2kEq41ZlDX) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Fever](https://open.spotify.com/album/6FTq1YhYJLetfJQrq02gdv) | 3:58 |
 | 65 | [What About Me](https://open.spotify.com/track/3BUdRr4VGmNajx2wLWlGzl) | [Shannon Noll](https://open.spotify.com/artist/2JQme5IJ3U7SRVQqHGN2fG) | [That's What I'm Talking About](https://open.spotify.com/album/5wAoxrSVetP84EXgr4Tp3z) | 3:21 |
-| 66 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
-| 67 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
-| 68 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 66 | [Pressure Down](https://open.spotify.com/track/6OKxpfca25E4UC23VR7E73) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Whispering Jack](https://open.spotify.com/album/4cBfyeNYbJAmOq0sl3Hijd) | 3:47 |
+| 67 | [Boom Boom](https://open.spotify.com/track/0UmXSUCoE2I67n8ERd0Hdi) | [Justice Crew](https://open.spotify.com/artist/07Q9n9pbwR6jQ8xH4SA46b) | [Live By The Words](https://open.spotify.com/album/4kc6vrABh87kQ4onFSDPLq) | 3:07 |
+| 68 | [Cheap Thrills](https://open.spotify.com/track/5QdHCXznWUKcKpUmU7Gguz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting](https://open.spotify.com/album/64X210CD0I2zxCXT9xpYtw) | 3:31 |
 | 69 | [This Heart Attack](https://open.spotify.com/track/2HwlvOkwACOGFySnp16b9l) | [Faker](https://open.spotify.com/artist/0RaO9p4AomXaVUXzV8SPVW) | [Be The Twilight](https://open.spotify.com/album/0AOg1ZrWAG6es29UAhrWyS) | 3:47 |
 | 70 | [UFO](https://open.spotify.com/track/0gsLWzySRe81KoY4LENNY4) | [Sneaky Sound System](https://open.spotify.com/artist/6ieVhWXtOmK6DO6dmX7Eko) | [Sneaky Sound System](https://open.spotify.com/album/3POXlpDv0cikb180eu6k5j) | 4:29 |
 

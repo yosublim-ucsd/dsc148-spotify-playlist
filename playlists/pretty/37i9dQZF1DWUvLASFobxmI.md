@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Pesado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,011 likes - 125 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,042 likes - 125 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 57 | [Baby \(Version Norteña\)](https://open.spotify.com/track/6AK1tlnsm8q0R3xKmBZvG8) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Baby \(Version Norteña\)](https://open.spotify.com/album/6vMqBW93GIL1H4Y2Q9NdYK) | 3:18 |
 | 58 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 |
 | 59 | [24/7](https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi) | [24/7](https://open.spotify.com/album/352LrVMlDficyblK9e7Olr) | 3:30 |
-| 60 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
-| 61 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
+| 60 | [Siempre a Tu Lado](https://open.spotify.com/track/5T14Fz7WqfW06PEiNVtd6p) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 3:12 |
+| 61 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 |
 | 62 | [A Mí Me Gustas Tú](https://open.spotify.com/track/3yLPsviVDfHgXFo6VAcq6z) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq), [Oscar Iván Trevíno](https://open.spotify.com/artist/5pPdYQPzWpb1XnsNqE6OOz) | [A Mí Me Gustas Tú](https://open.spotify.com/album/3E8pEagTMZOFpfTppkRIHy) | 3:06 |
 | 63 | [NEPTUNO](https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [NEPTUNO](https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg) | 2:41 |
 | 64 | [GPI](https://open.spotify.com/track/6uKjaOslfoRToEqixjM4wc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:13 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvLASFobxmI.md) - [plain]
 | 96 | [Dirección Equivocada](https://open.spotify.com/track/4rS0DRx5wKCNmdLsyFb9Pk) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Dirección Equivocada](https://open.spotify.com/album/6xdmbSBueb704E5lGXGqfL) | 3:09 |
 | 97 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 |
 | 98 | [La Venganza](https://open.spotify.com/track/6b8rE8DorNNvfaEyBmcWlv) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Venganza](https://open.spotify.com/album/6jpC8oHw1UC0MZLQVdnQPN) | 2:50 |
-| 99 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
-| 100 | [Pero Si Fue](https://open.spotify.com/track/54Rc94xfSTRhxi9ZMhQlrx) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Pero Si Fue](https://open.spotify.com/album/0kH03LyNZQRbQDh8NHb2OZ) | 2:34 |
+| 99 | [Pero Si Fue](https://open.spotify.com/track/54Rc94xfSTRhxi9ZMhQlrx) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Pero Si Fue](https://open.spotify.com/album/0kH03LyNZQRbQDh8NHb2OZ) | 2:34 |
+| 100 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 101 | [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 |
 | 102 | [Caraluna](https://open.spotify.com/track/6XitPMvbyJka63xQQBQXKr) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [Caraluna](https://open.spotify.com/album/7htXb6A7ubIIuDXyUMI2iD) | 3:45 |
 | 103 | [La Invitación](https://open.spotify.com/track/6qUmkshVvCcBeonBiS4Vdz) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Invitación](https://open.spotify.com/album/1twSxas0ZmG2bUfxEdskZK) | 3:13 |

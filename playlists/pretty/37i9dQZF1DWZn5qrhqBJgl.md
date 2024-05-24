@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 
 > Dope global beat makers\. <a href="spotify:artist:4fOizZJsCaT3RYpqNdeGKk">Thanks Joey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,768 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,816 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZn5qrhqBJgl.md) - [plain]
 | 19 | [Hotel](https://open.spotify.com/track/2JWTVS3ndZcwJrabnCAWvD) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Glazed](https://open.spotify.com/album/25z7PJPi2VM4jg3trb5C12) | 2:39 |
 | 20 | [Convo](https://open.spotify.com/track/38bkmIxxZMQC1f6m0JXFl6) | [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Redux](https://open.spotify.com/album/1shfaj98aEPsCz6k6B2O9o) | 2:31 |
 | 21 | [The Ace](https://open.spotify.com/track/3YphbgGJ1GfEGhMmIOthk6) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q), [\_91nova](https://open.spotify.com/artist/0fZYZqIGnT5RimC1YWfWP2) | [The Ace](https://open.spotify.com/album/1zg8XpwtPKoLgGurMkz5Op) | 2:24 |
-| 22 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
-| 23 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 22 | [Targa](https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt) | [Targa](https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3) | 2:52 |
+| 23 | [Farmingdale](https://open.spotify.com/track/2JT5TckTZ2eLRMUeT4c3vJ) | [Goldspell](https://open.spotify.com/artist/2gmP9WC9aV1ETtETCW0yF1) | [Farmingdale](https://open.spotify.com/album/0H08iAhi6Cv8iSh2QfZBuO) | 3:00 |
 | 24 | [SMOK](https://open.spotify.com/track/5XpYOIYN3y5ggxZvbul5VV) | [Sinan Öktem](https://open.spotify.com/artist/55e2OO6vymJkgUHIrp3xfv) | [SMOK](https://open.spotify.com/album/4LJj9F5Y9gzeCQzO2sc5x7) | 2:40 |
 | 25 | [Arrival](https://open.spotify.com/track/7uzPqqddeuLnSf22N4nCJm) | [Djamil](https://open.spotify.com/artist/0AgRxCF9PsEjvJvsWDvjJA) | [Arrival](https://open.spotify.com/album/5LNZcwaftnv3Guu9h7wtAe) | 2:45 |
 | 26 | [Tank \- Instrumental](https://open.spotify.com/track/6Q7nTYBffkZSNebWmz0XSQ) | [SXTEEN](https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg), [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Tank](https://open.spotify.com/album/2Q1wocAY05F8VaxnXqfVZM) | 2:47 |

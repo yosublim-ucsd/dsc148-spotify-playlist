@@ -1,6 +1,6 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 487397,
+  "num_followers": 487436,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
         "name": "Mura Masa",
         "url": "https://open.spotify.com/album/0NBTBo1qrg554sAj79nEqD"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 192160,
       "name": "Love$ick (feat. A$AP Rocky)",
       "url": "https://open.spotify.com/track/3sTN90bIP2cJ1783ctHykO"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "Backyard Boy (Stripped)",
         "url": "https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 129240,
       "name": "Backyard Boy",
       "url": "https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
+        "name": "A Warning",
+        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 214964,
+      "name": "A Warning",
+      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
         "name": "Call Me Up",
         "url": "https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO"
       },
@@ -1231,38 +1247,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "My Fun",
-        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
-      },
-      "artists": [
-        {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "duration_ms": 162291,
-      "name": "My Fun",
-      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "A Warning",
-        "url": "https://open.spotify.com/album/2T7omkhAfiFWqYkLpvJ6RD"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 214964,
-      "name": "A Warning",
-      "url": "https://open.spotify.com/track/2Ir5eVuUM96WvyyZmDTIBX"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "Inside In / Inside Out",
         "url": "https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 162376,
       "name": "Miss Summer",
       "url": "https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "My Fun",
+        "url": "https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 162291,
+      "name": "My Fun",
+      "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
+        "name": "All Your Life",
+        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 196516,
+      "name": "All Your Life",
+      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
         "name": "The English Riviera",
         "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
       },
@@ -1407,6 +1423,22 @@
       "duration_ms": 206586,
       "name": "Silk Chiffon",
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
+        "name": "Two Star & The Dream Police",
+        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+      },
+      "artists": [
+        {
+          "name": "Mk.gee",
+          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+        }
+      ],
+      "duration_ms": 166179,
+      "name": "Are You Looking Up",
+      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1483,34 +1515,18 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Two Star & The Dream Police",
-        "url": "https://open.spotify.com/album/6DlLdXBGCsSDPOV8R2pCl7"
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
       },
       "artists": [
         {
-          "name": "Mk.gee",
-          "url": "https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz"
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
         }
       ],
-      "duration_ms": 166179,
-      "name": "Are You Looking Up",
-      "url": "https://open.spotify.com/track/1sWYVBg7ix2WAq43J9nY7E"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 192621,
-      "name": "Solar Power",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1531,6 +1547,22 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 192621,
+      "name": "Solar Power",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
+    },
+    {
+      "added_at": "2024-05-17 18:13:32",
+      "album": {
         "name": "More Than Just a Dream",
         "url": "https://open.spotify.com/album/4JkiXUUfINCrEtgN71JtkD"
       },
@@ -1543,22 +1575,6 @@
       "duration_ms": 209386,
       "name": "Out of My League",
       "url": "https://open.spotify.com/track/0i5spxZKedPA2TgGuvJ3AL"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
-        "name": "All Your Life",
-        "url": "https://open.spotify.com/album/0VwdyfZunjwEUq26Yd5Dez"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 196516,
-      "name": "All Your Life",
-      "url": "https://open.spotify.com/track/5tL2wDaEAsdTGLa8hN5NWq"
     },
     {
       "added_at": "2024-05-17 18:13:32",
@@ -1607,22 +1623,6 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
-      },
-      "artists": [
-        {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
-    },
-    {
-      "added_at": "2024-05-17 18:13:32",
-      "album": {
         "name": "Low Sun",
         "url": "https://open.spotify.com/album/7nC5WtMQ8DJcfQzhFy2oqa"
       },
@@ -1655,30 +1655,18 @@
     {
       "added_at": "2024-05-17 18:13:32",
       "album": {
-        "name": "KAYTRAMIN\u00c9",
-        "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
+        "name": "Bleachers",
+        "url": "https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E"
       },
       "artists": [
         {
-          "name": "KAYTRAMIN\u00c9",
-          "url": "https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 190373,
-      "name": "4EVA",
-      "url": "https://open.spotify.com/track/2sUImfbz5cpAW50SiQla4h"
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/45bMR5YEj1fsOVkcHbVW6s"
     }
   ],
   "unique_name": "Summer Indie",

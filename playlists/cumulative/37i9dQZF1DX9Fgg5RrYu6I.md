@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the Missing Crown Prince\. \(세자가 사라졌다의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-37 songs - 2 hr 16 min
+39 songs - 2 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,8 @@
 | [Asurajang](https://open.spotify.com/track/7f1A2jVHZBNYQrTyfLaSDY) | [Song Sohee](https://open.spotify.com/artist/4YYi3ZB0jCYkNx9Fi3Z5AW) | [Asurajang](https://open.spotify.com/album/3y6pOcL1sFC4K75FwWtp3j) | 3:10 | 2024-05-07 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2024-05-07 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-05-07 |  |
+| [Breath](https://open.spotify.com/track/6SqGNmUeygb47KtcA3MsPY) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 3 \- Breath](https://open.spotify.com/album/0U4KHBtfmuJSz7SrLFIXim) | 4:22 | 2024-05-23 |  |
+| [Breath \- Instrumental](https://open.spotify.com/track/069tH4F5sz7KrKp0sPf8gw) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [Missing Crown Prince \(Original Television Soundtrack\) Pt\. 3 \- Breath](https://open.spotify.com/album/0U4KHBtfmuJSz7SrLFIXim) | 4:22 | 2024-05-23 |  |
 | [Bruiseboy](https://open.spotify.com/track/7wjTi8DCmzXBwHczU85gfY) | [creespy](https://open.spotify.com/artist/6m3khvxN0PbA4iFZwkOxSz) | [Bruiseboy](https://open.spotify.com/album/1rfuhI4oCbEpbv0DPcdzqy) | 3:28 | 2024-05-07 |  |
 | [Cinema](https://open.spotify.com/track/35TyJIMR3xRouUuo2sjS6v) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:03 | 2024-05-07 |  |
 | [Cream Soda](https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [EXIST – The 7th Album](https://open.spotify.com/album/4qMcBYh4ZlwDeb7vfgZO61) | 3:05 | 2024-05-07 |  |

@@ -1939,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343120,
+      "name": "BLUE",
+      "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
+    },
+    {
+      "album": {
         "name": "Bored",
         "url": "https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ"
       },
@@ -2708,6 +2726,24 @@
       "duration_ms": 196844,
       "name": "CHICKEN TENDIES",
       "url": "https://open.spotify.com/track/0awuNCj9gwJEM0seER22DW"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "album": {
@@ -5388,7 +5424,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156910,
       "name": "Fever",
       "url": "https://open.spotify.com/track/3wJVBz7gvGTwTWVAxFa6ny"
@@ -16066,7 +16102,7 @@
       ],
       "date_added": "2020-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193795,
       "name": "To Die For",
       "url": "https://open.spotify.com/track/2ZTYlnhhV1UAReg7wIGolx"

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "A Little Closer",
+        "url": "https://open.spotify.com/album/3r1gVvQUJx4W0kOj7yRjrU"
+      },
+      "artists": [
+        {
+          "name": "Diffrent",
+          "url": "https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175208,
+      "name": "A Little Closer",
+      "url": "https://open.spotify.com/track/2wCgQVCF0jhDWiNTFjti7b"
+    },
+    {
+      "album": {
         "name": "Afraid To Feel",
         "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
@@ -96,7 +114,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 233170,
       "name": "Alive",
       "url": "https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w"
@@ -136,6 +154,28 @@
       "duration_ms": 182040,
       "name": "All Of The Time",
       "url": "https://open.spotify.com/track/2ezQq2qWhGO6J6q5JwC50d"
+    },
+    {
+      "album": {
+        "name": "All That You Need (feat. Caroline Byrne)",
+        "url": "https://open.spotify.com/album/7jrTX2qU8wtMghbkLSpezV"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "Caroline Byrne",
+          "url": "https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178132,
+      "name": "All That You Need (feat. Caroline Byrne)",
+      "url": "https://open.spotify.com/track/5Bux5dq6CHM7pJLlrx8R3f"
     },
     {
       "album": {
@@ -184,7 +224,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 179047,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/6KFmvbvjOGFxfp76X9o1aW"
@@ -361,6 +401,28 @@
     },
     {
       "album": {
+        "name": "Baddy On The Floor",
+        "url": "https://open.spotify.com/album/2fDJNwprKYSK4ovmRzcoe4"
+      },
+      "artists": [
+        {
+          "name": "Jamie xx",
+          "url": "https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ"
+        },
+        {
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Baddy On The Floor",
+      "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
+    },
+    {
+      "album": {
         "name": "Bassline Pumping EP",
         "url": "https://open.spotify.com/album/4AWsi577XmBqslAYZVQLxE"
       },
@@ -441,6 +503,28 @@
     },
     {
       "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/1slkHMzVPHaSr0OIhMrxZ1"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GHSTGHSTGHST",
+          "url": "https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/0XreCaaGPkZpuEiRM1MiWq"
+    },
+    {
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv"
       },
@@ -452,7 +536,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198508,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ"
@@ -790,7 +874,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 194721,
       "name": "Everything I Do",
       "url": "https://open.spotify.com/track/6xIavZrzwKrMN8glvjCj1O"
@@ -1284,7 +1368,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192428,
       "name": "I See Colors",
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
@@ -1356,7 +1440,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 228514,
       "name": "Is U",
       "url": "https://open.spotify.com/track/14gYIWhaZ3kKQiwr7kI4JQ"
@@ -1392,7 +1476,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 183581,
       "name": "Jack - Radio Edit",
       "url": "https://open.spotify.com/track/7miPCFhb1315gMnyeEnfFf"
@@ -1505,6 +1589,24 @@
     },
     {
       "album": {
+        "name": "Kimbara",
+        "url": "https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189816,
+      "name": "Kimbara",
+      "url": "https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk"
+    },
+    {
+      "album": {
         "name": "Actual Life (April 14 - December 17 2020)",
         "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
       },
@@ -1552,7 +1654,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 200042,
       "name": "La Trumpeta",
       "url": "https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw"
@@ -1636,6 +1738,24 @@
       "duration_ms": 218437,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
+    },
+    {
+      "album": {
+        "name": "Lobster Telephone (Edit)",
+        "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214315,
+      "name": "Lobster Telephone - Edit",
+      "url": "https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK"
     },
     {
       "album": {
@@ -1796,10 +1916,32 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222475,
       "name": "Midtown Playground",
       "url": "https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c"
+    },
+    {
+      "album": {
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
     },
     {
       "album": {
@@ -2041,6 +2183,32 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/5LVD82K4oc2aL5dP4rSiRI"
+      },
+      "artists": [
+        {
+          "name": "Todd Edwards",
+          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188307,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1Rndhv6jSNOtPMddRd0AGT"
+    },
+    {
+      "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
       },
@@ -2156,6 +2324,28 @@
       "duration_ms": 206000,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/5CSfhQ8ql3ofBE8PsQnQfR"
+    },
+    {
+      "album": {
+        "name": "saving flowers",
+        "url": "https://open.spotify.com/album/2zPC36yrmSWqm2cgKb35yd"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        },
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210785,
+      "name": "saving flowers",
+      "url": "https://open.spotify.com/track/4ZZO8buYpKMS7gR9koYhD9"
     },
     {
       "album": {
@@ -2355,6 +2545,32 @@
     },
     {
       "album": {
+        "name": "Summertime Blues (feat. Nathan Nicholson)",
+        "url": "https://open.spotify.com/album/7ddG8bsJLWEgVNONjhnT8z"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        },
+        {
+          "name": "Nathan Nicholson",
+          "url": "https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251201,
+      "name": "Summertime Blues (feat. Nathan Nicholson)",
+      "url": "https://open.spotify.com/track/6q36Cqt2d3O5jqrQR9uXCp"
+    },
+    {
+      "album": {
         "name": "Sunrise Bang Ur Head Against Tha Wall",
         "url": "https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK"
       },
@@ -2370,6 +2586,36 @@
       "duration_ms": 150360,
       "name": "Sunrise Bang Ur Head Against Tha Wall",
       "url": "https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz"
+    },
+    {
+      "album": {
+        "name": "TAKA",
+        "url": "https://open.spotify.com/album/7pLqwqHzVfu62xso8Dpn40"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        },
+        {
+          "name": "contra",
+          "url": "https://open.spotify.com/artist/5VYRcaryFLFZnA5HvnRHFi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174375,
+      "name": "TAKA",
+      "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
     },
     {
       "album": {
@@ -2476,7 +2722,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 153281,
       "name": "The Edge",
       "url": "https://open.spotify.com/track/33hGrBcDLopVhjbCxRlHPC"
@@ -2688,7 +2934,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208550,
       "name": "Whole Lotta Drugs",
       "url": "https://open.spotify.com/track/5WYRO89wwasU6XwYVX2uGQ"

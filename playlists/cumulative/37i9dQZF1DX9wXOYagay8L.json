@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN?si=sVSYrD4YRliHn20AbUrzkg\">Nhlonipho</a>, <a href=\"https://open.spotify.com/artist/4FjLrdzDbqrP9E9FzERGap?si=LkqJvhZ7RsqKHOI_AGaO3w\">Savara</a>",
+  "description": "Proudly Southern African Afropop gems. Cover: <a href=\"https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=g72h_bnnQQu686AXElQHBQ\">Nomfundo Moh</a>",
   "name": "Made In South Africa",
   "tracks": [
     {
@@ -6311,6 +6311,28 @@
     },
     {
       "album": {
+        "name": "Muntu Wami",
+        "url": "https://open.spotify.com/album/38k7OmWHCexCtTcdi394c2"
+      },
+      "artists": [
+        {
+          "name": "Nomfundo Moh",
+          "url": "https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan"
+        },
+        {
+          "name": "Zuko SA",
+          "url": "https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Muntu Wami",
+      "url": "https://open.spotify.com/track/29i0sPGkNsyZJdsG92Cyht"
+    },
+    {
+      "album": {
         "name": "My Dali",
         "url": "https://open.spotify.com/album/6XRmYFcpuhvzu5zUqyF7Bi"
       },
@@ -6915,6 +6937,32 @@
     },
     {
       "album": {
+        "name": "Ngifuna Wena (feat. NtoMusica)",
+        "url": "https://open.spotify.com/album/4fxPRzpnnSD5T1s710hmE9"
+      },
+      "artists": [
+        {
+          "name": "Daskidoh",
+          "url": "https://open.spotify.com/artist/0kja8d7Y2jmEMPREkWJf8U"
+        },
+        {
+          "name": "Pixie L",
+          "url": "https://open.spotify.com/artist/38qnDEjuo43UZMmxZRcK6G"
+        },
+        {
+          "name": "NtoMusica",
+          "url": "https://open.spotify.com/artist/7JlErV6ZjUdULnC01bNbGw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282958,
+      "name": "Ngifuna Wena (feat. NtoMusica)",
+      "url": "https://open.spotify.com/track/19ENk3Kq69Z62KvyhyFQq5"
+    },
+    {
+      "album": {
         "name": "Ngihlanyiswa Nguwe",
         "url": "https://open.spotify.com/album/0aqd2lSJaA4Aw8s0hwiqKC"
       },
@@ -7444,7 +7492,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 299720,
       "name": "Nkanyezi",
       "url": "https://open.spotify.com/track/0R9fRzSlKzmao4gXbwbII5"
@@ -11968,7 +12016,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 146826,
       "name": "You Complete Me",
       "url": "https://open.spotify.com/track/18nTfySfK4zRZU9ZPk6BAi"

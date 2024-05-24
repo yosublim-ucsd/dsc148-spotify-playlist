@@ -4,7 +4,7 @@
 
 > La colonna sonora perfetta per le giornate di lavoro da casa, alla scrivania o sul divano! 💪
 
-169 songs - 9 hr 23 min
+170 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Memories Remix \(feat\. Nipsey Hussle & YG\)](https://open.spotify.com/track/3p4WMekidOIiyf8SFvfrIC) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-01-11 | 2023-05-23 |
 | [Mercy](https://open.spotify.com/track/1zusIxNqJu8i4g6P6hJ2Qa) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g) | 3:39 | 2024-04-18 |  |
 | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Miedito o Qué? \(feat\. KAROL G\)](https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC) | 3:29 | 2024-04-18 |  |
-| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-04-13 |  |
+| [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 | 2022-04-13 | 2024-05-24 |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2022-04-13 | 2022-06-06 |
 | [Mr\. Jones](https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [August And Everything After](https://open.spotify.com/album/4nKfZbCALT9H9LfedtDwnZ) | 4:32 | 2022-04-13 |  |
 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 | 2022-04-13 |  |
@@ -107,6 +107,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 2:53 | 2024-04-18 |  |
 | [My Girl](https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw) | 2:45 | 2022-04-13 | 2024-04-19 |
 | [My Sharona](https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj) | [The Knack](https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r) | [Get The Knack](https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi) | 4:55 | 2022-04-13 |  |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-23 |  |
 | [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2022-04-13 |  |
 | [Nevermind](https://open.spotify.com/track/63SevszngYpZOwf63o61K4) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Nevermind](https://open.spotify.com/album/6c5gDwB7Xo58thk2vap4Ch) | 2:36 | 2022-04-13 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2022-04-13 |  |

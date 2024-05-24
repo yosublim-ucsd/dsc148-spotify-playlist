@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 
 > 沒有什麼比感覺好更重要了！這裡的歌曲能大大振奮心情、令你元氣十足！
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,489 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,503 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AozTSWwAdQ.md) - [plain]
 | 28 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
 | 29 | [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 |
 | 30 | [MAMMAMIA](https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [MAMMAMIA](https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme) | 3:06 |
-| 31 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
-| 32 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
+| 31 | [Let's Love](https://open.spotify.com/track/6lhZLbb0czULpjb2kFryPS) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Let's Love](https://open.spotify.com/album/4t9C75dy0UtR4JE7vNYQRr) | 3:20 |
+| 32 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 33 | [Lost In The Wild](https://open.spotify.com/track/0M1A9wInEHilyWkh4I8tWo) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [What If Nothing](https://open.spotify.com/album/4fe1YmssM6Ugs6UyA7OdGg) | 3:55 |
 | 34 | [Fake Faces](https://open.spotify.com/track/4ntKnZnztFdovszJpIoeVO) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Fake Faces](https://open.spotify.com/album/7BxA4dGVgGP6JPoXohlnc4) | 2:54 |
 | 35 | [Legendary](https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Legendary](https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb) | 4:05 |

@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "April Snow",
+        "url": "https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl"
+      },
+      "artists": [
+        {
+          "name": "Leo Ek",
+          "url": "https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "April Snow",
+      "url": "https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO"
+    },
+    {
+      "album": {
         "name": "Aquamarine",
         "url": "https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn"
       },
@@ -2066,6 +2084,24 @@
       "duration_ms": 201746,
       "name": "Fortified Heart",
       "url": "https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8"
+    },
+    {
+      "album": {
+        "name": "French Town",
+        "url": "https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z"
+      },
+      "artists": [
+        {
+          "name": "Armand Beck",
+          "url": "https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142865,
+      "name": "French Town",
+      "url": "https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm"
     },
     {
       "album": {
@@ -4389,6 +4425,24 @@
     },
     {
       "album": {
+        "name": "Rialto",
+        "url": "https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145695,
+      "name": "Rialto",
+      "url": "https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt"
+    },
+    {
+      "album": {
         "name": "Aerial Boundaries",
         "url": "https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH"
       },
@@ -4713,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Sighs in the Night",
+        "url": "https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc"
+      },
+      "artists": [
+        {
+          "name": "Caylee Luna",
+          "url": "https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137624,
+      "name": "Sighs in the Night",
+      "url": "https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy"
+    },
+    {
+      "album": {
         "name": "Silent Sigh",
         "url": "https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT"
       },
@@ -4818,6 +4890,24 @@
       "duration_ms": 104852,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf"
+    },
+    {
+      "album": {
+        "name": "Sleeping Petals",
+        "url": "https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4"
+      },
+      "artists": [
+        {
+          "name": "Zinning",
+          "url": "https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141175,
+      "name": "Sleeping Petals",
+      "url": "https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61"
     },
     {
       "album": {
@@ -6460,7 +6550,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 159242,
       "name": "Yesteryear",
       "url": "https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw"

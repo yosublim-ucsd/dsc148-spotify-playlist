@@ -1,6 +1,6 @@
 {
   "description": "Soft and cozy acoustic covers of famous songs.",
-  "num_followers": 1711807,
+  "num_followers": 1711838,
   "original_name": "Chill Acoustic Covers",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 215758,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Waterfalls",
         "url": "https://open.spotify.com/album/2xoeY7T8uj7C0ITIPNBoPz"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 170884,
       "name": "Waterfalls",
       "url": "https://open.spotify.com/track/3lKlGhiNTsv3moOzbMXBUf"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/4KawaUrdB0FiEsseoniy3z"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 215758,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/6gSXDd3P1nIjuM1v1ZQqi6"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
+      },
+      "artists": [
+        {
+          "name": "WestSouth",
+          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
+        }
+      ],
+      "duration_ms": 166019,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "All Star - Acoustic",
         "url": "https://open.spotify.com/album/2CxpYQZVB79XTlzIGdctq1"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 201666,
       "name": "what if",
       "url": "https://open.spotify.com/track/0osUQtTOZphz3EEHOtTKJl"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
-        "name": "Breathless",
-        "url": "https://open.spotify.com/album/4kJIsjIBDje8BRZb6xoVMn"
-      },
-      "artists": [
-        {
-          "name": "WestSouth",
-          "url": "https://open.spotify.com/artist/3WOmfcfJJjfAuUAHeiNxY0"
-        }
-      ],
-      "duration_ms": 166019,
-      "name": "Breathless",
-      "url": "https://open.spotify.com/track/2p5TVHyvFkVFBcJNKHwjh4"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "When I Get There",
-        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 233150,
-      "name": "When I Get There",
-      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Annie's Song",
         "url": "https://open.spotify.com/album/73j61rcmWeO9411zZkUQcX"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Sex is on fire",
-        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+        "name": "When I Get There",
+        "url": "https://open.spotify.com/album/5GSUtNK1MbDbmSWAlh8K6m"
       },
       "artists": [
         {
-          "name": "Isaac Hale",
-          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
         }
       ],
-      "duration_ms": 163833,
-      "name": "Sex is on fire",
-      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
+      "duration_ms": 233150,
+      "name": "When I Get There",
+      "url": "https://open.spotify.com/track/6AmEwM3ioCs9zQZx3TcYNK"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -599,6 +583,22 @@
       "duration_ms": 210473,
       "name": "Call Me Maybe - Acoustic",
       "url": "https://open.spotify.com/track/1CSi4vh5zKb3bN2FtXHa8O"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Sex is on fire",
+        "url": "https://open.spotify.com/album/1NRuLsxSpZ3gMJMyKgN93e"
+      },
+      "artists": [
+        {
+          "name": "Isaac Hale",
+          "url": "https://open.spotify.com/artist/6Rsd9PL48rBbTSgG75Yjy4"
+        }
+      ],
+      "duration_ms": 163833,
+      "name": "Sex is on fire",
+      "url": "https://open.spotify.com/track/32zqCfMfVFcitjp8BMEWv1"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Sweet Nothing",
-        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
-      },
-      "artists": [
-        {
-          "name": "Sighting",
-          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Glad He's Gone",
         "url": "https://open.spotify.com/album/2mVO7VhmBHjYpgjOiwX9sa"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Back to Black",
-        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+        "name": "Sweet Nothing",
+        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
       },
       "artists": [
         {
-          "name": "Sky Garden",
-          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
         }
       ],
-      "duration_ms": 183674,
-      "name": "Back to Black",
-      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+      "duration_ms": 201000,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -779,6 +763,22 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
+        "name": "Back to Black",
+        "url": "https://open.spotify.com/album/0DdRnqnWtdfkdvHHSEbBj9"
+      },
+      "artists": [
+        {
+          "name": "Sky Garden",
+          "url": "https://open.spotify.com/artist/6UgwxybciFKetYkRLHaViC"
+        }
+      ],
+      "duration_ms": 183674,
+      "name": "Back to Black",
+      "url": "https://open.spotify.com/track/0rXY3tl4TSgF2iBKCeX9qi"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
         "name": "Only Girl In The World",
         "url": "https://open.spotify.com/album/3AjamrNkp98f9m0QEDXCDG"
       },
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
-      },
-      "artists": [
-        {
-          "name": "Abbie Parker",
-          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
-        }
-      ],
-      "duration_ms": 187830,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Love Or Something Like It",
         "url": "https://open.spotify.com/album/2NiB630yD0PdHvjcDLJwQz"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 172741,
       "name": "Love Or Something Like It",
       "url": "https://open.spotify.com/track/5eyR23bfxuwk2zykBxf2Xp"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/6yqPDHuIhpvgsb6ZCLSi64"
+      },
+      "artists": [
+        {
+          "name": "Abbie Parker",
+          "url": "https://open.spotify.com/artist/4WL3KimNe6kNw0abLnzpko"
+        }
+      ],
+      "duration_ms": 187830,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5Gcd6lMtEEW6V9GpmQk6Rk"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Too Good At Goodbyes",
-        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
-      },
-      "artists": [
-        {
-          "name": "Beatrice",
-          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
-        }
-      ],
-      "duration_ms": 170074,
-      "name": "Too Good At Goodbyes",
-      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Ghost - acoustic",
         "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 151374,
       "name": "Ghost - Acoustic",
       "url": "https://open.spotify.com/track/3Z3ztvlGjx0lO0PesbKvzc"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "Too Good At Goodbyes",
+        "url": "https://open.spotify.com/album/5xHL2UVO1l249ezFEL2QdZ"
+      },
+      "artists": [
+        {
+          "name": "Beatrice",
+          "url": "https://open.spotify.com/artist/4KR1qF9mYVfCeOjn364Rm8"
+        }
+      ],
+      "duration_ms": 170074,
+      "name": "Too Good At Goodbyes",
+      "url": "https://open.spotify.com/track/43Ty2f8GqR6CpUYWNxgRqu"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "No Air",
-        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
-      },
-      "artists": [
-        {
-          "name": "L\u00fac",
-          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
-        }
-      ],
-      "duration_ms": 199114,
-      "name": "No Air",
-      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Cold Heart",
         "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 188742,
       "name": "Cold Heart",
       "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2F3Erhty0yDsiuOBfMlasO"
+      },
+      "artists": [
+        {
+          "name": "L\u00fac",
+          "url": "https://open.spotify.com/artist/0C7P4ox94jj7mYQnjwO7nX"
+        }
+      ],
+      "duration_ms": 199114,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5mFrdpvoxokKCWp9uHE1ok"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "Lovely",
-        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
-      },
-      "artists": [
-        {
-          "name": "Thomas Daniel",
-          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
-        }
-      ],
-      "duration_ms": 189650,
-      "name": "Lovely",
-      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Nobody Gets Me",
         "url": "https://open.spotify.com/album/19EdbTQdsbueDPCF4Xod6Q"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I Ain't Worried",
-        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+        "name": "Lovely",
+        "url": "https://open.spotify.com/album/1oGHLQmlnDpmfwntNA5K7M"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+          "name": "Thomas Daniel",
+          "url": "https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk"
         }
       ],
-      "duration_ms": 164647,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
+      "duration_ms": 189650,
+      "name": "Lovely",
+      "url": "https://open.spotify.com/track/6jI7yZWYt9xcmF5iDBJnHL"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1207,6 +1191,22 @@
       "duration_ms": 186008,
       "name": "Just the Two of Us - Acoustic",
       "url": "https://open.spotify.com/track/4PF2XC8shB2w4g66MaXyEH"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I Ain't Worried",
+        "url": "https://open.spotify.com/album/0mXxiT0uogjEy8V8CncCKb"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 164647,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/7vN1WOXHFJE7q06mDjsPP7"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
-      },
-      "artists": [
-        {
-          "name": "Jack Vallier",
-          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
-        }
-      ],
-      "duration_ms": 162461,
-      "name": "SOS",
-      "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
-    },
-    {
-      "added_at": "2024-03-21 08:22:30",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/4ESX1cbhfchPo9HXYwethh"
       },
@@ -1455,18 +1439,18 @@
     {
       "added_at": "2024-03-21 08:22:30",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/1E8YY35FSQpnw8fgpDOCq6"
       },
       "artists": [
         {
-          "name": "Mother's Daughter",
-          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+          "name": "Jack Vallier",
+          "url": "https://open.spotify.com/artist/2wnHlwpI5kZaXQRGq21UNN"
         }
       ],
-      "duration_ms": 175002,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
+      "duration_ms": 162461,
+      "name": "SOS",
+      "url": "https://open.spotify.com/track/2IfYpa1MOT2tuvgH4i0gBr"
     },
     {
       "added_at": "2024-03-21 08:22:30",
@@ -1483,6 +1467,22 @@
       "duration_ms": 211043,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/3fGDYm9IW5OhqmJ7juHDM4"
+    },
+    {
+      "added_at": "2024-03-21 08:22:30",
+      "album": {
+        "name": "I'm Good (Blue)",
+        "url": "https://open.spotify.com/album/27wqComza4OEQnzS4AniQe"
+      },
+      "artists": [
+        {
+          "name": "Mother's Daughter",
+          "url": "https://open.spotify.com/artist/09AgPKJAS5Muco3pU4xh7k"
+        }
+      ],
+      "duration_ms": 175002,
+      "name": "I'm Good (Blue)",
+      "url": "https://open.spotify.com/track/0Kb3SXteauSCX2o6FmY6LP"
     },
     {
       "added_at": "2024-03-21 08:22:30",

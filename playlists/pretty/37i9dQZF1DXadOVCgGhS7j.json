@@ -1,6 +1,6 @@
 {
   "description": "Put a spring in your step with these mood boosting tracks.",
-  "num_followers": 1862874,
+  "num_followers": 1862884,
   "original_name": "Fun Run",
   "owner": {
     "name": "Spotify",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
-      "added_at": "2023-02-17 11:17:00",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
-    },
-    {
       "added_at": "2023-05-18 17:37:33",
       "album": {
         "name": "Talk That Talk",
@@ -271,6 +255,22 @@
       "duration_ms": 215226,
       "name": "We Found Love",
       "url": "https://open.spotify.com/track/6qn9YLKt13AGvpq9jfO8py"
+    },
+    {
+      "added_at": "2023-02-17 11:17:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2023-03-02 09:53:34",
@@ -337,26 +337,6 @@
       "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
     },
     {
-      "added_at": "2023-06-07 17:07:22",
-      "album": {
-        "name": "Wild Ones",
-        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 232946,
-      "name": "Wild Ones (feat. Sia)",
-      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
-    },
-    {
       "added_at": "2023-02-17 11:17:00",
       "album": {
         "name": "Future Nostalgia",
@@ -375,6 +355,26 @@
       "duration_ms": 203064,
       "name": "Levitating (feat. DaBaby)",
       "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
+    },
+    {
+      "added_at": "2023-06-07 17:07:22",
+      "album": {
+        "name": "Wild Ones",
+        "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 232946,
+      "name": "Wild Ones (feat. Sia)",
+      "url": "https://open.spotify.com/track/1NpW5kyvO4XrNJ3rnfcNy3"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
-      "added_at": "2023-05-18 17:37:33",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
       "added_at": "2023-02-17 11:17:00",
       "album": {
         "name": "Hands All Over (Revised International Standard version)",
@@ -447,6 +431,22 @@
       "duration_ms": 201493,
       "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI"
+    },
+    {
+      "added_at": "2023-05-18 17:37:33",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
     },
     {
       "added_at": "2023-02-17 11:17:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
     },
     {
-      "added_at": "2023-05-18 17:37:33",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
       "added_at": "2023-02-17 11:17:00",
       "album": {
         "name": "Paramore",
@@ -631,6 +615,22 @@
       "duration_ms": 216013,
       "name": "Still into You",
       "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
+    },
+    {
+      "added_at": "2023-05-18 17:37:33",
+      "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
       "added_at": "2023-02-17 11:17:00",

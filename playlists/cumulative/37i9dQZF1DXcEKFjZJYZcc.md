@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-301 songs - 12 hr 18 min
+302 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Coucher de Solei](https://open.spotify.com/track/2ZIgXnNMJLDrxHwHCsXdP1) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Coucher de Solei](https://open.spotify.com/album/5PfLYMjSFodhRzqGFVzsOt) | 2:12 | 2023-09-18 |  |
 | [Could It Be?](https://open.spotify.com/track/1BVWa7Qf9nN9eakpg13aF1) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [Could It Be?](https://open.spotify.com/album/1FtVHVt45fGkU5cHeyLgkP) | 1:51 | 2022-07-20 | 2023-09-19 |
 | [Creeks](https://open.spotify.com/track/2C6ljUnXSMfkcXlExb7xia) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [Horizons](https://open.spotify.com/album/1xDEPdlBB4lCvYZtwVi3rn) | 2:33 | 2022-01-05 |  |
+| [Dance Of Hope](https://open.spotify.com/track/2oQGqjrkIm4lcg8Jh3JZOh) | [Phoenix Myers](https://open.spotify.com/artist/0LFUcO8NvFmHjZkDvFhieq) | [Dance Of Hope](https://open.spotify.com/album/6Em5rHLNzl14Mn2nK4Y3Vc) | 2:36 | 2024-05-23 |  |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2021-12-14 | 2023-01-28 |
 | [dans mes rêves](https://open.spotify.com/track/6Hy7HXXIfWPtzCsKeEqDjM) | [Kjøpmann](https://open.spotify.com/artist/00kdoUy8DSeeIy1GEmb9S2) | [dans mes rêves](https://open.spotify.com/album/6e7jOATXTfMdLKTNUqtMEB) | 2:24 | 2023-07-12 |  |
 | [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-07-12 |  |

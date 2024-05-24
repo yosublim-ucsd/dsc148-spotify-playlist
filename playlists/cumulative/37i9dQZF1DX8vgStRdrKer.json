@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-19",
-  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/6tF26GNNvbuamuugTTBiGE?si=1KmYBCHhQCO7FRXiflcZNw>REFUGE WRSHP</a>",
+  "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>",
   "name": "Redeemed",
   "tracks": [
     {
@@ -46,6 +46,24 @@
       "duration_ms": 166072,
       "name": "Adore You",
       "url": "https://open.spotify.com/track/1tLgZAYwJ3nzoJaCgyAj4I"
+    },
+    {
+      "album": {
+        "name": "after all these years",
+        "url": "https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs"
+      },
+      "artists": [
+        {
+          "name": "Sinmidele",
+          "url": "https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268365,
+      "name": "After All These Years",
+      "url": "https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6"
     },
     {
       "album": {
@@ -96,7 +114,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-09",
+      "date_removed": null,
       "duration_ms": 194690,
       "name": "Alagbara",
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
@@ -410,7 +428,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 184337,
       "name": "Blessed Year",
       "url": "https://open.spotify.com/track/24aC5jGBkjEDpAAtaS6o5H"
@@ -511,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Cover me",
+        "url": "https://open.spotify.com/album/0mkQUdyVmm7l1mSfPYGLFs"
+      },
+      "artists": [
+        {
+          "name": "nina shezz",
+          "url": "https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8"
+        },
+        {
+          "name": "Echow Clay",
+          "url": "https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157309,
+      "name": "Cover me",
+      "url": "https://open.spotify.com/track/6sqMQERyWBeO0VI3TrbmVP"
+    },
+    {
+      "album": {
         "name": "Darling Jesus (Special Version)",
         "url": "https://open.spotify.com/album/6cKiy88I1xKv5MVWflVCOa"
       },
@@ -592,7 +632,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178059,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
@@ -788,7 +828,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193417,
       "name": "En Toi",
       "url": "https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB"
@@ -1065,6 +1105,28 @@
     },
     {
       "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj"
+      },
+      "artists": [
+        {
+          "name": "S.O.N Music",
+          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
+        },
+        {
+          "name": "Festizie",
+          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162223,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j"
+    },
+    {
+      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
       },
@@ -1076,7 +1138,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157800,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
@@ -1098,7 +1160,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-28",
+      "date_removed": null,
       "duration_ms": 210599,
       "name": "Holy",
       "url": "https://open.spotify.com/track/4edGYsHaOG3PjJpyrbFdKz"
@@ -1116,7 +1178,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 253558,
       "name": "Holy (Most High)",
       "url": "https://open.spotify.com/track/7gatZEgRINjXo3zgxME8M3"
@@ -1196,7 +1258,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-17",
+      "date_removed": null,
       "duration_ms": 867272,
       "name": "I Testify - Live",
       "url": "https://open.spotify.com/track/2hXrCdY4qSLeYLIgIhm5LI"
@@ -1388,7 +1450,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 186480,
       "name": "Jeso O Ntekane (Reprise) - Live",
       "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
@@ -1521,6 +1583,28 @@
     },
     {
       "album": {
+        "name": "Kama Si We",
+        "url": "https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw"
+      },
+      "artists": [
+        {
+          "name": "Kanjii Mbugua",
+          "url": "https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY"
+        },
+        {
+          "name": "Pambio",
+          "url": "https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs"
+        }
+      ],
+      "date_added": "2024-03-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247246,
+      "name": "Kama Si We",
+      "url": "https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS"
+    },
+    {
+      "album": {
         "name": "Kind",
         "url": "https://open.spotify.com/album/6lJ9AWcHqRRW7SUTBfSZbZ"
       },
@@ -1568,7 +1652,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 509999,
       "name": "Kukhona Amadlelo",
       "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
@@ -1664,7 +1748,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 90022,
       "name": "Let Us Go",
       "url": "https://open.spotify.com/track/31BeCK5NpDASyf8A97blzw"
@@ -1686,7 +1770,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 169278,
       "name": "Like a Baby - Special Version",
       "url": "https://open.spotify.com/track/2q0RmOoOY6QYQoep7btEhC"
@@ -1752,7 +1836,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "Mayo",
       "url": "https://open.spotify.com/track/0FjalQZo0G4xiLh0weUZ9x"
@@ -1796,7 +1880,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 186239,
       "name": "Mercy (Hlabelela)",
       "url": "https://open.spotify.com/track/03ex4OAmmBM2ci5W0q2kHm"
@@ -2074,7 +2158,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 202736,
       "name": "New Heart",
       "url": "https://open.spotify.com/track/7pJJctTJ5LthbfxzIAbseZ"
@@ -2428,6 +2512,24 @@
       "duration_ms": 168000,
       "name": "Over",
       "url": "https://open.spotify.com/track/5w53DU4ZVdIn5J7iHP18gT"
+    },
+    {
+      "album": {
+        "name": "Owawani",
+        "url": "https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq"
+      },
+      "artists": [
+        {
+          "name": "Nana Yaw Ofori-Atta",
+          "url": "https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL"
+        }
+      ],
+      "date_added": "2024-05-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158400,
+      "name": "Owawani",
+      "url": "https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd"
     },
     {
       "album": {
@@ -2913,6 +3015,24 @@
     },
     {
       "album": {
+        "name": "This Year Affirmation",
+        "url": "https://open.spotify.com/album/0DhoCi1Q2t4aQ2qtC8FIFh"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "date_added": "2024-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "This Year Affirmation",
+      "url": "https://open.spotify.com/track/7IFlKuUZch3MkSUknrCkBa"
+    },
+    {
+      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/19o3kGSlZh0MjW8we93RSr"
       },
@@ -3040,7 +3160,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 142978,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
@@ -3240,7 +3360,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 204975,
       "name": "Worry About Nothing",
       "url": "https://open.spotify.com/track/4gEkiIg4XatM4x10HcAdMy"
@@ -3324,7 +3444,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 246000,
       "name": "YOU ARE GOOD",
       "url": "https://open.spotify.com/track/6iXQadQ6uFvE4ylvl2975l"

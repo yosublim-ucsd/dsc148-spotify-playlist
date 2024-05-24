@@ -1290,7 +1290,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 142222,
       "name": "All Around The CN Tower",
       "url": "https://open.spotify.com/track/7rXFzFgtZyuyKampDNL7U4"
@@ -13901,6 +13901,32 @@
     },
     {
       "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/0ZHAwC9wmDIacB7rMVKcJ4"
+      },
+      "artists": [
+        {
+          "name": "Birdhouse Beats",
+          "url": "https://open.spotify.com/artist/1V54XlCT0O8NxScu2dFDqc"
+        },
+        {
+          "name": "Claptu",
+          "url": "https://open.spotify.com/artist/3rLOKzrmb7njqRKYSJgfY7"
+        },
+        {
+          "name": "keeplove.",
+          "url": "https://open.spotify.com/artist/5hWNRJj4LKuJ9tUGwfYwtX"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133500,
+      "name": "Heat Wave",
+      "url": "https://open.spotify.com/track/6LYC2niQzFS93ELOTmIYkM"
+    },
+    {
+      "album": {
         "name": "Heidi",
         "url": "https://open.spotify.com/album/5dS1zQi0q77voEvgF8UZD6"
       },
@@ -16130,6 +16156,28 @@
       "duration_ms": 140000,
       "name": "Kakadu",
       "url": "https://open.spotify.com/track/61Eq4sv3r8E1uU7nnu2tfV"
+    },
+    {
+      "album": {
+        "name": "Kame House",
+        "url": "https://open.spotify.com/album/37ngdwdhn2bVmKHi63B9d5"
+      },
+      "artists": [
+        {
+          "name": "gknister",
+          "url": "https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7"
+        },
+        {
+          "name": "Osive",
+          "url": "https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127717,
+      "name": "Kame House",
+      "url": "https://open.spotify.com/track/3uLcMHUGmLerRqw7QTdQ31"
     },
     {
       "album": {
@@ -19248,7 +19296,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198227,
       "name": "maste",
       "url": "https://open.spotify.com/track/7kEJ5KwJka2XcM38oiUdhR"
@@ -21510,7 +21558,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 108960,
       "name": "never ending",
       "url": "https://open.spotify.com/track/5VIoufGcyqXo72pOzExVBV"
@@ -21950,7 +21998,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-14",
+      "date_removed": null,
       "duration_ms": 112941,
       "name": "No Saintz",
       "url": "https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3"
@@ -24306,7 +24354,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 113684,
       "name": "Paxil",
       "url": "https://open.spotify.com/track/4vbDMKQ55Q4XWs3rrB6FK5"
@@ -30874,7 +30922,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164166,
       "name": "sunset",
       "url": "https://open.spotify.com/track/1hYG93eKWeFzJlIZTOAVX9"
@@ -31566,7 +31614,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 105365,
       "name": "Tapestop",
       "url": "https://open.spotify.com/track/0UIlFZoYz9PobCAyzu7spv"
@@ -32536,6 +32584,24 @@
       "duration_ms": 190245,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/09RjwDBWL5eM9LI2VVzcKn"
+    },
+    {
+      "album": {
+        "name": "Thoughts",
+        "url": "https://open.spotify.com/album/0saVW11Vlk6LElCocnojkB"
+      },
+      "artists": [
+        {
+          "name": "Tune in with Chewie",
+          "url": "https://open.spotify.com/artist/4M4gexhCyv12RmbowD8xjS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172910,
+      "name": "Thoughts",
+      "url": "https://open.spotify.com/track/6vBazUBQbyuyc0PebGSujx"
     },
     {
       "album": {

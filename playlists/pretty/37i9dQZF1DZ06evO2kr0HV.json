@@ -1,12 +1,12 @@
 {
   "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
-  "num_followers": 33508,
+  "num_followers": 33538,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkvkAAAAAADy+4+KYBYoGrUwhbYbvIq0",
+  "snapshot_id": "Zk01gAAAAABplQGOu0iqL8AK2yX45dYU",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reina Leona",
-        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187506,
-      "name": "Reina Leona",
-      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mr.Trance (Soundtrack From The Animated Series)",
         "url": "https://open.spotify.com/album/7osyDyziI2EhWM60gcPtlV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 169667,
       "name": "Mr.Trance",
       "url": "https://open.spotify.com/track/1EmplgI51VcVtLHYOHOfHc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reina Leona",
+        "url": "https://open.spotify.com/album/6mH7ns15s68fnpdvM22kLE"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 187506,
+      "name": "Reina Leona",
+      "url": "https://open.spotify.com/track/4ZvX5haKXaawEVvKtArV4X"
     },
     {
       "added_at": null,
@@ -611,22 +611,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 240853,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Noa Noa (Remix)",
         "url": "https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 204400,
       "name": "El Noa Noa - Remix",
       "url": "https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 240853,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 165133,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -859,6 +843,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 165133,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/63tsypGXts1WqBAK7BYiCA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Destino",
         "url": "https://open.spotify.com/album/7hVQeF8N8SkIHLUEEGgW5p"
       },
@@ -879,6 +879,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 195913,
       "name": "Desconocidos",
       "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
     },
     {
       "added_at": null,

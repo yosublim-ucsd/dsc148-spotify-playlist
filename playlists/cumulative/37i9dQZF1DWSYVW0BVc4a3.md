@@ -2,9 +2,9 @@
 
 ### [Open Air](https://open.spotify.com/playlist/37i9dQZF1DWSYVW0BVc4a3)
 
-> that's how we do it
+> one life
 
-917 songs - 2 day 21 hr 36 min
+919 songs - 2 day 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,6 +234,7 @@
 | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Eternity \(feat\. Lena Leon\)](https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV) | 3:37 | 2022-08-18 | 2022-11-25 |
 | [Ethnica](https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Vanetty](https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4) | [Ethnica](https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT) | 2:54 | 2023-04-06 |  |
 | [Euphoria \(Solomun Remix\) \- Edit](https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC) | [Euphoria \(Solomun Remix\)](https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC) | 2:53 | 2023-05-25 | 2023-08-04 |
+| [Everybody Get Up](https://open.spotify.com/track/1G0MN1mA2aeS4hf47JMr3m) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [Everybody Get Up](https://open.spotify.com/album/5PpvKpWaDFmCAtJgEdGkar) | 5:56 | 2024-05-23 |  |
 | [Explore Your Future](https://open.spotify.com/track/5SfcsMI2nJhdZpmwCcNEGf) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Explore Your Future](https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B) | 3:40 | 2023-03-23 | 2023-08-04 |
 | [EYES](https://open.spotify.com/track/4ipoHe6bjN9IeXr8CGJYgR) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [EYES](https://open.spotify.com/album/3Q5Eggq49qEGPF4ag1e0fO) | 3:32 | 2022-08-18 | 2023-03-10 |
 | [Faces](https://open.spotify.com/track/1pJnlza96BNgidDe5uiAPI) | [Madeaux](https://open.spotify.com/artist/1LTDQMVIIdgiJePJvUkBA3) | [Near Life Experience](https://open.spotify.com/album/4xbQZTi5cpWVfSWzldlsDv) | 4:29 | 2022-11-24 | 2023-03-26 |
@@ -475,6 +476,7 @@
 | [Magic Circus](https://open.spotify.com/track/2kRuYyYqUMl9TSNuiKGuq7) | [Adam Ten](https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S) | [Magic Circus](https://open.spotify.com/album/6gaJv57EuO0tFPoVXPG0W4) | 3:49 | 2024-05-16 |  |
 | [Magical Signs](https://open.spotify.com/track/1l7Fu5FoMPqocEO9bO5EiG) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Magical Signs / Humans](https://open.spotify.com/album/7pXHM8pLfASnm2NqIqFaKf) | 4:16 | 2023-08-10 | 2023-08-25 |
 | [Make It Happen \- Dom Dolla Remix](https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Surrender \(Remixes\)](https://open.spotify.com/album/73TcBRSRsPLKmxnjnVsSV3) | 4:27 | 2022-08-18 | 2023-04-07 |
+| [Make It Loud](https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Make It Loud](https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd) | 3:56 | 2024-05-23 |  |
 | [Make Me \- Franky Rizardo Remix](https://open.spotify.com/track/57508shL0obX0KUOUL8CJk) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [Make Me \(Franky Rizardo Remix\)](https://open.spotify.com/album/42c7JYNk4kOlZhBnZZoPI0) | 3:15 | 2023-12-14 |  |
 | [MAMI \- LUCATI Remix](https://open.spotify.com/track/5SJdHBp6KT5dXrOqSQL48W) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI \(LUCATI Remix\)](https://open.spotify.com/album/5LDOFYvSb0RgKCyzQ3VWy5) | 2:55 | 2023-01-19 | 2023-04-19 |
 | [Mango Feedback](https://open.spotify.com/track/4lEkWLEF4MRTJE03dCF2O9) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Mango Feedback](https://open.spotify.com/album/16YdLmhRGsqy6b2RKxIQWr) | 4:51 | 2022-08-18 | 2022-09-24 |

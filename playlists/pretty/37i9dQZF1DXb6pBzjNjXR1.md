@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,866 likes - 50 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,887 likes - 50 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Essensie](https://open.spotify.com/track/3HaBzrILKCnvjmabxB7LnT) | [ReMMusic](https://open.spotify.com/artist/6Q0XwlckSXlijQgDF9qe44) | [Essensie](https://open.spotify.com/album/6owsRMBu1McGPi3LP3ZMFX) | 5:48 |
-| 2 | [Chambers](https://open.spotify.com/track/1fvE8vUJmBQQyuIOKYvgiz) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Chambers](https://open.spotify.com/album/1iSRp7cU9eDJqQXhU00vg3) | 6:30 |
-| 3 | [L'Amour](https://open.spotify.com/track/4CoDFjUTm985ta8hylhdmT) | [WUULA](https://open.spotify.com/artist/2ZghFG1CP3hPuizO24iEbY), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [L'Amour](https://open.spotify.com/album/2q0hnc4Pbhd1qAwrnHP7RP) | 4:39 |
-| 4 | [Nomathemba \- Enoo Napa Remix](https://open.spotify.com/track/7nY5my1s2KTOv42Kyp5TyF) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Nomathemba \(Enoo Napa Remix\)](https://open.spotify.com/album/2targcgqVDvfFbJoEae0Xk) | 7:18 |
-| 5 | [Nomathemba](https://open.spotify.com/track/0Y34OPj0HyJvr6OBRQXEx5) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Nomathemba](https://open.spotify.com/album/5Rk8NMiZbAG4I1NBNvIGGT) | 3:52 |
-| 6 | [Kolwa](https://open.spotify.com/track/4U6zIONOpmnby5fvOM6han) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Chuki](https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8) | 6:44 |
-| 7 | [Tsoang Tsoang \- Remix](https://open.spotify.com/track/27EyCYhJcucr3fMqgISIdu) | [DJ Leo Cris](https://open.spotify.com/artist/6oDTcO5p9mu9NvKWSa7uNj), [Dr\. Victor](https://open.spotify.com/artist/664PT7ptPGrKrKxNgqwbBd) | [Tsoang Tsoang \(Remix\)](https://open.spotify.com/album/53bCFfTCrGNDOklYC6ymDY) | 5:16 |
+| 1 | [Nomathemba](https://open.spotify.com/track/0Y34OPj0HyJvr6OBRQXEx5) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Nomathemba](https://open.spotify.com/album/5Rk8NMiZbAG4I1NBNvIGGT) | 3:52 |
+| 2 | [Tsoang Tsoang \- Remix](https://open.spotify.com/track/27EyCYhJcucr3fMqgISIdu) | [DJ Leo Cris](https://open.spotify.com/artist/6oDTcO5p9mu9NvKWSa7uNj), [Dr\. Victor](https://open.spotify.com/artist/664PT7ptPGrKrKxNgqwbBd) | [Tsoang Tsoang \(Remix\)](https://open.spotify.com/album/53bCFfTCrGNDOklYC6ymDY) | 5:16 |
+| 3 | [Chambers](https://open.spotify.com/track/1fvE8vUJmBQQyuIOKYvgiz) | [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Chambers](https://open.spotify.com/album/1iSRp7cU9eDJqQXhU00vg3) | 6:30 |
+| 4 | [Essensie](https://open.spotify.com/track/3HaBzrILKCnvjmabxB7LnT) | [ReMMusic](https://open.spotify.com/artist/6Q0XwlckSXlijQgDF9qe44) | [Essensie](https://open.spotify.com/album/6owsRMBu1McGPi3LP3ZMFX) | 5:48 |
+| 5 | [L'Amour](https://open.spotify.com/track/4CoDFjUTm985ta8hylhdmT) | [WUULA](https://open.spotify.com/artist/2ZghFG1CP3hPuizO24iEbY), [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [L'Amour](https://open.spotify.com/album/2q0hnc4Pbhd1qAwrnHP7RP) | 4:39 |
+| 6 | [Nomathemba \- Enoo Napa Remix](https://open.spotify.com/track/7nY5my1s2KTOv42Kyp5TyF) | [FiNE](https://open.spotify.com/artist/1E5TAbchZyu4LowPhxT1OS), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Enoo Napa](https://open.spotify.com/artist/5KPid3HkjjnBN4PeUqllHC) | [Nomathemba \(Enoo Napa Remix\)](https://open.spotify.com/album/2targcgqVDvfFbJoEae0Xk) | 7:18 |
+| 7 | [Kolwa](https://open.spotify.com/track/4U6zIONOpmnby5fvOM6han) | [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Suraj](https://open.spotify.com/artist/2ARJ6ydBtv95xyrmkRUhql), [Mumba Yachi](https://open.spotify.com/artist/3kn4gPzyX5oJWXUjbnJ1GT) | [Chuki](https://open.spotify.com/album/1VBNBDE64HPvshY3NuZZf8) | 6:44 |
 | 8 | [I Want You](https://open.spotify.com/track/7c3oDw6MPSTP6qhZU0ufcL) | [Moojo](https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m), [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [Szon](https://open.spotify.com/artist/7gDtr9MZnzuXBzzbeO5Of1) | [I Want You](https://open.spotify.com/album/684csa2gkBzmwUT0tMYKr3) | 5:12 |
 | 9 | [Moors](https://open.spotify.com/track/4HPugJL3Gwnw4tTHMpXKDM) | [Drumetic Boyz](https://open.spotify.com/artist/2NQ0f4GcMFHv5rwZIoyQyB) | [Moors](https://open.spotify.com/album/0Zi9wrnbuUFhw26SYqlwWi) | 7:34 |
 | 10 | [Letha](https://open.spotify.com/track/42fDq94MjR4FcQCSPVVEuz) | [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG), [Dj Beekay](https://open.spotify.com/artist/58jrFyEJ3krC8cwAEsA2BM) | [Letha](https://open.spotify.com/album/37pYGgSdq1sWxw9UC6BJx8) | 7:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 49 | [Sfede](https://open.spotify.com/track/6OFb2fIb9MLO9MFalHAv2O) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG), [Thandi Draai](https://open.spotify.com/artist/5YOTbvFffpPKwdMKEyKIcG) | [Sfede](https://open.spotify.com/album/73QpLmYkPfXgX5cd2eey93) | 5:57 |
 | 50 | [iFu](https://open.spotify.com/track/7dbfI3aPl94kEEl1rPuXgW) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [iFu](https://open.spotify.com/album/5avT3gQsru5kveW0urcN8f) | 5:59 |
 
-Snapshot ID: `Zj2/QQAAAABqHerLkmSGl5N3luZ1JC4i`
+Snapshot ID: `Zk/J2AAAAABmIGMBH9G1d8Ual+Qp7rrl`

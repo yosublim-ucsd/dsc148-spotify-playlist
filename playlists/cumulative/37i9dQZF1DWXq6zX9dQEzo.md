@@ -4,7 +4,7 @@
 
 > Faith without work\[out\]s is dead!  Get your beast mode on!
 
-585 songs - 1 day 4 hr 45 min
+586 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [BLESSED](https://open.spotify.com/track/51I93kSJksxIWnjO2S47II) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4), [Caleb Golden](https://open.spotify.com/artist/3VFD6xeoJaM85N4gGfK3ma) | [BLESSED](https://open.spotify.com/album/3BePNExIOm54F4e5h40r86) | 2:39 | 2024-03-20 |  |
 | [Blessed Mode](https://open.spotify.com/track/7JPlYKKFQ6iKWAxsFZF3IS) | [Kel Mitchell](https://open.spotify.com/artist/1OnPFoy7Udp0M5R6xjfCcR), [Scootie Wop](https://open.spotify.com/artist/1JAoqu34UmPWUUAjLMXt5I), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [Blessed Mode](https://open.spotify.com/album/15x3jykJeOXdE43DommQlB) | 3:03 | 2022-03-11 | 2024-01-13 |
 | [Blessed Up](https://open.spotify.com/track/17XoLUQLHu3r7dwbrUkxnT) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [Blessed Up](https://open.spotify.com/album/5DcrBNLfArtbJ8MOaz4ejc) | 3:01 | 2022-02-04 | 2023-08-12 |
-| [Blessing](https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Blessing](https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z) | 3:04 | 2024-02-02 |  |
+| [Blessing](https://open.spotify.com/track/1e2AcRwaevTcFrNqWzlmOy) | [Jered Sanders](https://open.spotify.com/artist/4kjg5xFLFVfWJFus3mwV5e), [Mission](https://open.spotify.com/artist/02gxa3HE5O0zBKRjeDh6Ba) | [Blessing](https://open.spotify.com/album/0cw1NOPTQ8R6bNjl394M5Z) | 3:04 | 2024-02-02 | 2024-05-24 |
 | [BLESSINGS](https://open.spotify.com/track/4mvgPHLTLG2sOfPXgzpQmN) | [MTM Isaiah](https://open.spotify.com/artist/3cPHYFWU14POI3ky9F4mNy) | [BLESSINGS](https://open.spotify.com/album/6ow7uliwOAfoz3q7c95zd6) | 2:52 | 2022-08-06 | 2023-08-12 |
 | [Boast](https://open.spotify.com/track/3m0ZlvZBVGCY92ekvvC52W) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Augustine's Legacy](https://open.spotify.com/album/5Fr8CO5IgNqD8LajlS4Y9f) | 3:01 | 2023-08-11 | 2024-02-03 |
 | [Body Bag \(feat\. Datin & Selah the Corner\)](https://open.spotify.com/track/2bJZWKHSEMH2dHNRoaPIf0) | [StefanOtto](https://open.spotify.com/artist/3nMvsvhZ9j3EAC6p0DKeSR), [Datin](https://open.spotify.com/artist/2ZNeZlHauwGYZ9XADyjSL4), [Selah the Corner](https://open.spotify.com/artist/5RGpSLDa24rgCKsKIiGuwn), [Soundnami](https://open.spotify.com/artist/32DKzUnquBNhHgAP4xWjOm) | [Til Heaven Comes](https://open.spotify.com/album/31wUS0lLaOmLGpZ1WUTKsw) | 4:11 | 2022-03-11 | 2022-03-24 |
@@ -541,6 +541,7 @@
 | [Up Up Up \(Introducing Zach Savage\)](https://open.spotify.com/track/7g2SHePUAGKT8M9omdRmcy) | [Anthony Brown & group therAPy](https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w), [Zach Savage](https://open.spotify.com/artist/6qboll02kzM1CJ3uuJr9JJ) | [Up Up Up](https://open.spotify.com/album/6sUkrNQcQhJWpwdNb66yiF) | 3:59 | 2023-11-02 | 2023-11-07 |
 | [USE THIS GOSPEL \(feat\. Kanye West & Eminem\) \- REMIX](https://open.spotify.com/track/2u5jKAjyvyEDmsWTtfQzNf) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [GOD DID](https://open.spotify.com/album/6NuGZnOc88LcZpEkJIbO50) | 3:43 | 2022-09-03 | 2022-12-17 |
 | [VICIOUS CYCLE](https://open.spotify.com/track/1VbIQFz8NZevPwK8tZXD8H) | [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [VICIOUS CYCLE](https://open.spotify.com/album/0CtRrHjzbmN7FdYC0r5iZv) | 3:28 | 2024-03-20 |  |
+| [VICTORY](https://open.spotify.com/track/68sXnlnYdTjzTYuJrKgBTG) | [Shepherd](https://open.spotify.com/artist/0YHuTR40zc9yqfoSSArQxU), [Guerrero De Cristo](https://open.spotify.com/artist/2wypTRX0z9NK3O39fyKp0H), [Temperamento](https://open.spotify.com/artist/4Dl7Unc1cpMBTMi3B71dij) | [VICTORY](https://open.spotify.com/album/6Gjf98zIS6GdZr62zDxkzh) | 3:05 | 2024-03-20 |  |
 | [VICTORY LAP](https://open.spotify.com/track/6enm65ZcZgLYwClZuHTXxF) | [Tedashii](https://open.spotify.com/artist/4c6lhwoOrmgNWvl0GxHlW1) | [Dead Or Alive Pt\. 1](https://open.spotify.com/album/2uDtoC5wiivwKT3RP7xcHl) | 2:54 | 2023-11-02 | 2024-02-03 |
 | [VINE](https://open.spotify.com/track/1QYDOVoxOV7iEzL43sGj5C) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr) | [VINE](https://open.spotify.com/album/4d3NC4abLYhsHIkhh4Kg1c) | 3:15 | 2024-03-20 |  |
 | [Voice](https://open.spotify.com/track/5RYhiYjZBI9hmVopULgdoO) | [BigBreeze](https://open.spotify.com/artist/7wrWSJHfACjw7s7gYXOXTt) | [Voice](https://open.spotify.com/album/5DpQd4GMkzUUQQsCe67j9V) | 2:12 | 2022-04-30 | 2023-11-03 |

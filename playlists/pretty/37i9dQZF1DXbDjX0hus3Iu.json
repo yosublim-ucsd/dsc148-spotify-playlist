@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 495878,
+  "num_followers": 495945,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Potlatch",
+        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
+      },
+      "artists": [
+        {
+          "name": "The Bean Pickers Union",
+          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
+        }
+      ],
+      "duration_ms": 280346,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Pattern Disruptive",
         "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 298266,
       "name": "Time To Roll",
       "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Potlatch",
-        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
-      },
-      "artists": [
-        {
-          "name": "The Bean Pickers Union",
-          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Dark Side of the Mule (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
+        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
+        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
       "artists": [
         {
-          "name": "Gov't Mule",
-          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
+          "name": "Atlanta Rhythm Section",
+          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
         }
       ],
-      "duration_ms": 223760,
-      "name": "Bad Little Doggie",
-      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+      "duration_ms": 293800,
+      "name": "Georgia Rhythm",
+      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
-        "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
+        "name": "Dark Side of the Mule (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
       "artists": [
         {
-          "name": "Atlanta Rhythm Section",
-          "url": "https://open.spotify.com/artist/0WgyCbru4tXnMsbTmX4mFw"
+          "name": "Gov't Mule",
+          "url": "https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708"
         }
       ],
-      "duration_ms": 293800,
-      "name": "Georgia Rhythm",
-      "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+      "duration_ms": 223760,
+      "name": "Bad Little Doggie",
+      "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
     },
     {
       "added_at": "2024-03-19 19:54:29",

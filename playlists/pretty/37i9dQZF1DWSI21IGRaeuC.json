@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 36249,
+  "num_followers": 36282,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/5IQW0dQVimAiqZopb4JBng"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Un Beso",
-        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00f3ne",
-          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
-        }
-      ],
-      "duration_ms": 225029,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/3y5fQAMQcXwch8hlHuhzwp"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 336504,
       "name": "Warning",
       "url": "https://open.spotify.com/track/09fLcyru2xKfVPpN01dL0C"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "Un Beso",
+        "url": "https://open.spotify.com/album/71dCpK7C3y77Ku9tbu7YwZ"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00f3ne",
+          "url": "https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM"
+        }
+      ],
+      "duration_ms": 225029,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/3uxTVxK3vXpbLNJBGiTvUM"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1107,22 +1107,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "venus' secret",
-        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
+        "name": "Playing With Foc...",
+        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
       "artists": [
         {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+          "name": "Paco Osuna",
+          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
         },
         {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+          "name": "Iglesias",
+          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
         }
       ],
-      "duration_ms": 200465,
-      "name": "venus' secret",
-      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
+      "duration_ms": 390000,
+      "name": "Playing With Foc...",
+      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Playing With Foc...",
-        "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
+        "name": "venus' secret",
+        "url": "https://open.spotify.com/album/5ot2j6evmXMPHQRkVUzNfl"
       },
       "artists": [
         {
-          "name": "Paco Osuna",
-          "url": "https://open.spotify.com/artist/6vdIozDDsH4uJEAHN8tyS3"
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
         },
         {
-          "name": "Iglesias",
-          "url": "https://open.spotify.com/artist/3urGFEv1zqwK24gupip690"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
         }
       ],
-      "duration_ms": 390000,
-      "name": "Playing With Foc...",
-      "url": "https://open.spotify.com/track/4p5bDMfz515ldutOg66BEB"
+      "duration_ms": 200465,
+      "name": "venus' secret",
+      "url": "https://open.spotify.com/track/3D5K3K3kHKLkaotWQukNwP"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Where Ya At",
+        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
+      },
+      "artists": [
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Where Ya At",
+      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "San te Cr\u00fcs",
         "url": "https://open.spotify.com/album/77EmwiwjhmxfbmWhpVRSfa"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 232006,
       "name": "7am Germany",
       "url": "https://open.spotify.com/track/3KXZX9xiAMOp1jX81RpiGx"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Where Ya At",
-        "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
-      },
-      "artists": [
-        {
-          "name": "TOBEHONEST",
-          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Where Ya At",
-      "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
+        "name": "Pronosticos Cachito",
+        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
+      },
+      "artists": [
+        {
+          "name": "KinAhau",
+          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Pronosticos Cachito",
+      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
       },
@@ -1747,22 +1763,6 @@
       "duration_ms": 138750,
       "name": "Fuego",
       "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Pronosticos Cachito",
-        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
-      },
-      "artists": [
-        {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Pronosticos Cachito",
-      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
     },
     {
       "added_at": "2024-05-17 04:00:00",

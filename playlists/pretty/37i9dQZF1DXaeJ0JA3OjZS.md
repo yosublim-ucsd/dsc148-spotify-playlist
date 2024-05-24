@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 
 > Bailadores y afamados, los cuacos que con su galope hicieron historia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,179 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,381 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaeJ0JA3OjZS.md) - [plain]
 | 38 | [El Demonio](https://open.spotify.com/track/61waA2BQrQPABpCimEJb8t) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 3:06 |
 | 39 | [El Pulmòn](https://open.spotify.com/track/7pCq5BIgSQtbCeE4XwBHlR) | [Contrafuego](https://open.spotify.com/artist/4fIgrneRiDbwrGD3AE722x), [Alex Ramirez Y Su Grupo Profetas](https://open.spotify.com/artist/60MZiJnAYJd1QOj1woIm0R) | [El Pulmón](https://open.spotify.com/album/5elWI9k1RB0IJo1uWG1Ihu) | 3:32 |
 | 40 | [El Nuevo Comandante](https://open.spotify.com/track/5DxWPiKEeNoPlRDKyQRykZ) | [Oscar Solis Y Su Banda Magistral](https://open.spotify.com/artist/6yB5ibqiRRRhUufTBBugu8) | [Corridos Finos III](https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc) | 3:42 |
-| 41 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
+| 41 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
 | 42 | [El Caballo Bayo](https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [15 Éxitos: Corridos de Caballos Famosos](https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X) | 3:26 |
 | 43 | [El Moro De Cumpas](https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Corridos De Caballos Famosos](https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V) | 4:06 |
 | 44 | [Caballo De Patas Blancas](https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Puros Corridos](https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1) | 1:42 |
 | 45 | [El Profeta](https://open.spotify.com/track/5iPlnUCTFRRdnBmH51GZi5) | [Los Herederos De Nuevo León](https://open.spotify.com/artist/0F7PO1xYy0DIFrHq3DxFbI) | [Corridos de Caballos Pura Sangre](https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW) | 4:36 |
-| 46 | [Caballo R\-15 \- En Vivo](https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [En Vivo Desde las Cañas](https://open.spotify.com/album/55jSMGuJVYVcRV3TyIrNhx) | 2:44 |
+| 46 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 47 | [El Caballo Robado](https://open.spotify.com/track/7nbeXqsiqq8XPg7QaNDO3I) | [Vicente Fernández Jr.](https://open.spotify.com/artist/1VqlQQEnpldumnAJGyfcCH), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [El Caballo Robado](https://open.spotify.com/album/5SogEIbwHdMKL7nYoWb0Vi) | 3:32 |
 | 48 | [Mi Potrillo](https://open.spotify.com/track/5zTaXVHRh7w35lRiDdLxKw) | [Banda Alta Potencia](https://open.spotify.com/artist/4MDtGGyzmWixno3cC5O8K2) | [Mi Potrillo](https://open.spotify.com/album/6eSU1oUgbVvkB1XZXbXHMT) | 3:30 |
 | 49 | [Caballos de la Cordada](https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [El Puente Roto](https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF) | 2:40 |

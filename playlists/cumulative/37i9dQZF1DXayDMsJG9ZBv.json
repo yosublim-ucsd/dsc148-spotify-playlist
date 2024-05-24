@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Taylor Swift",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30c8\u30ec\u30f3\u30c9\u3068\u65e5\u672c\u306e\u6700\u65b0\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002Cover: Billie Eilish",
   "name": "Hot Hits Japan: \u6d0b\u697d&\u90a6\u697d\u30d2\u30c3\u30c4",
   "tracks": [
     {
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -3982,6 +3982,24 @@
       "duration_ms": 310997,
       "name": "Michi Teyu Ku (Overflowing)",
       "url": "https://open.spotify.com/track/4hsEFcCA7AL5hlKG4PRp2Z"
+    },
+    {
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
       "album": {
@@ -6233,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/3T1PoeevcDKayJosKjNr6H"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178880,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/2nPYPc5Ww4Nunu0FNCccPF"
+    },
+    {
+      "album": {
         "name": "SWEET NONFICTION",
         "url": "https://open.spotify.com/album/37XW4vuhNFKGUliZ3qkTv3"
       },
@@ -6472,7 +6508,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
@@ -6742,7 +6778,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173105,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/0NrObqc8nK1XcDNPJNBKRV"
@@ -7226,6 +7262,24 @@
       "duration_ms": 210880,
       "name": "Wish You The Best",
       "url": "https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3"
+    },
+    {
+      "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
     },
     {
       "album": {
@@ -8249,7 +8303,7 @@
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 312420,
+      "duration_ms": 315386,
       "name": "\u4f1a\u3044\u306b\u884c\u304f\u306e\u306b",
       "url": "https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl"
     },

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "(OnlyhitsSession) #1 No se puede",
+        "url": "https://open.spotify.com/album/6urikSIjJjMyfSvKT1yklF"
+      },
+      "artists": [
+        {
+          "name": "Chief Garra",
+          "url": "https://open.spotify.com/artist/17otgIOpUqMth4aMxFAArV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179099,
+      "name": "(OnlyhitsSession) #1 No se puede",
+      "url": "https://open.spotify.com/track/2tFLj46HnW9KIBhf8C0ttQ"
+    },
+    {
+      "album": {
         "name": "0 Amigos Falsos",
         "url": "https://open.spotify.com/album/6f7lvKrnzM3oxA0niv4vru"
       },
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 256743,
       "name": "Daddy Issus",
       "url": "https://open.spotify.com/track/2ytS5soCsyHbJ6XmQ7qWA8"
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 195683,
       "name": "Ganga - Remix",
       "url": "https://open.spotify.com/track/2xTxqM9iu3o74BSH4w4Kpz"
@@ -6532,6 +6550,24 @@
       "duration_ms": 143706,
       "name": "WILLY WONKA",
       "url": "https://open.spotify.com/track/2qCL05QJtrUeuRE7oEklLV"
+    },
+    {
+      "album": {
+        "name": "Woman Business",
+        "url": "https://open.spotify.com/album/0TufuBspDAPobZvEN6bMNJ"
+      },
+      "artists": [
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222315,
+      "name": "Woman Business",
+      "url": "https://open.spotify.com/track/1KHVAiWGHWQW3Q6FBW8fjl"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Subjectively good music xx
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 887 songs - 2 day 6 hr 33 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 897 songs - 2 day 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -895,5 +895,15 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 885 | [PAID](https://open.spotify.com/track/1tz4np70ZKhzaXjdgl0J8i) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 3:15 |
 | 886 | [STARS](https://open.spotify.com/track/6OON4kMjTFqARMFrRbmlwy) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK) | 1:55 |
 | 887 | [The Craving \(single version\)](https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Craving \(single version\)](https://open.spotify.com/album/7K7eWZNR5t9UBlrN2ltzLI) | 2:53 |
+| 888 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 |
+| 889 | [Midwest Indigo](https://open.spotify.com/track/7GVQS66ukm48XZVymA3ZUg) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:16 |
+| 890 | [Routines In The Night](https://open.spotify.com/track/4bDIAWaOBGAAk95nyXI6zJ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
+| 891 | [Vignette](https://open.spotify.com/track/3sEufjE0ITaW5qhtnW3avv) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:22 |
+| 892 | [The Craving \(Jenna's version\)](https://open.spotify.com/track/4hfqe20vqkuRv1RDsA1LbQ) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 2:54 |
+| 893 | [Navigating](https://open.spotify.com/track/3gy21TwRSP40aUMwcY7Rtq) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:43 |
+| 894 | [Snap Back](https://open.spotify.com/track/5QPGnFslbDUQ7mDteKn3By) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:30 |
+| 895 | [Oldies Station](https://open.spotify.com/track/7dI0mSvbdJTynUnEkWIom1) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:48 |
+| 896 | [At The Risk Of Feeling Dumb](https://open.spotify.com/track/0ZucyPms79Cydv0RMYV2Oi) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 3:23 |
+| 897 | [Paladin Strait](https://open.spotify.com/track/5HvDKyJlHWg42BdsE4ycSm) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Clancy](https://open.spotify.com/album/1KFWgQTw3EMTQebaaepVBI) | 6:28 |
 
-Snapshot ID: `AAAIOQkhKbE4BS1Q+4bN5nZShU974NgL`
+Snapshot ID: `AAAIQ1eFVzCG5ZhmP8i1mJ/QxRVIWfYl`

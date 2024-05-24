@@ -1410,10 +1410,6 @@
       },
       "artists": [
         {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
           "name": "Sonu Nigam",
           "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
         },
@@ -1422,12 +1418,24 @@
           "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
         },
         {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
           "name": "Mellow D",
           "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
         },
         {
           "name": "Gurpreet Saini",
           "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        },
+        {
+          "name": "Anu Malik",
+          "url": "https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00"
+        },
+        {
+          "name": "Sameer",
+          "url": "https://open.spotify.com/artist/77FVRdtArPbwxygmW5dTsa"
         }
       ],
       "date_added": "2024-05-21",

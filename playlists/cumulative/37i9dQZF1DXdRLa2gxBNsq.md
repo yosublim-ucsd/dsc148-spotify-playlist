@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Soziedad Alkoholika.
 
-140 songs - 7 hr 28 min
+142 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Criatura](https://open.spotify.com/track/4lpFfUzN3Tss3XrtCj3Gc9) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Criatura](https://open.spotify.com/album/3VnnePO0pWXdHCS1fBbNar) | 2:39 | 2023-12-08 | 2024-04-19 |
 | [Cuidado](https://open.spotify.com/track/2iq7umXGuvE09C6pdWq2pN) | [Zirrosis](https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ) | [Cuidado](https://open.spotify.com/album/00IQFRHhExjBgNSq2bWCz8) | 2:57 | 2023-12-08 |  |
 | [Cuéntame](https://open.spotify.com/track/6gn3MDFo9UcahvVd2BIUEF) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Cuéntame](https://open.spotify.com/album/2plqoqJhL73yP6XqZlCYML) | 3:14 | 2023-12-08 | 2024-02-06 |
+| [Cuéntame \(Remasterizado 2024\)](https://open.spotify.com/track/7tuSFD5EALm4yRxYRvtDxC) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Nunca Debí Hacerle un Fisting a Mi Abuelo \(Remasterizado 2024\)](https://open.spotify.com/album/0MtOZdc0oNe7c8wKqQbGKc) | 3:14 | 2024-05-23 |  |
 | [Cómo Convertirse en Nada](https://open.spotify.com/track/7bZfAk1tgSGyIfpQZfOj3A) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Cómo Convertirse en Nada](https://open.spotify.com/album/0W02GXYGmc4BrcAEH1mlJq) | 2:40 | 2023-12-08 |  |
 | [Daños Colaterales](https://open.spotify.com/track/1Jw3S8jeIbS31m9HBtqMiJ) | [Envidia Kotxina](https://open.spotify.com/artist/0ecMaXEm4sV6sndUYsyvmU) | [Cuando las Bocas Comen Silencio](https://open.spotify.com/album/501pjNhzQYeXfVJfkdRnL9) | 2:43 | 2023-12-08 | 2024-04-19 |
 | [Debilidades del Estado](https://open.spotify.com/track/1pgljjpKVwAebCL23kkm9J) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Debilidades del Estado](https://open.spotify.com/album/6bn15NVy3l8lYu42JsTAvJ) | 3:08 | 2024-05-09 |  |
@@ -66,7 +67,7 @@
 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 | 2023-12-08 |  |
 | [Gasolina](https://open.spotify.com/track/1HlANSSpEaisMWmuLcRcEP) | [Laura Dsk](https://open.spotify.com/artist/1nsSJtfNANGtgfpp5IX0kB), [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Gasolina](https://open.spotify.com/album/16IoHHDc5YXL63cSPBg3n4) | 3:11 | 2024-02-08 | 2024-03-13 |
 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 | 2024-02-08 | 2024-04-19 |
-| [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
+| [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 | 2024-05-24 |
 | [He Visto](https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [He Visto](https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ) | 3:28 | 2024-05-09 |  |
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 | 2024-04-19 |
 | [Historia triste](https://open.spotify.com/track/0DJLkaZlg6JbwAg9VZzbYq) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Impuesto Revolucionario](https://open.spotify.com/album/7iA4YreHDh5ozVdpg4kZcm) | 3:07 | 2023-12-08 |  |
@@ -88,7 +89,7 @@
 | [La locura \- original](https://open.spotify.com/track/4qoiW7KuyMkiShQgZkRGc6) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Hace falta…?](https://open.spotify.com/album/5t0HwnzCCMGcMmervnzQRY) | 3:53 | 2024-04-18 |  |
 | [La Última Patada](https://open.spotify.com/track/0QobiDnqGnnbbW8Duu9j90) | [Gatillazo](https://open.spotify.com/artist/3XrunnoiCGkRTanrnsPRam) | [Siglo XXI](https://open.spotify.com/album/2fwFXVTTeMyJj7IbIoFQZy) | 3:12 | 2023-12-08 |  |
 | [Las Drogas](https://open.spotify.com/track/5FEew7u4cqGOYK4jGhKd73) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Un, Dos, Tres, Fuego](https://open.spotify.com/album/0r9tLzqnnPw9CcK9pb6056) | 2:22 | 2023-12-08 | 2024-04-19 |
-| [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 | 2024-05-09 |  |
+| [Levántate](https://open.spotify.com/track/15q28HNmhNYk55EdSh55NV) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [Levántate](https://open.spotify.com/album/2guNq5RrYZ1pYEpcCYD4M5) | 3:52 | 2024-05-09 | 2024-05-24 |
 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 | 2023-12-08 |  |
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |
@@ -98,6 +99,7 @@
 | [Mil Historias](https://open.spotify.com/track/7mElnVvJoNpmTDSPvOJMUB) | [Kaos Etíliko](https://open.spotify.com/artist/5y9aHzw345UfAGA1Db5BPy) | [Porsupuestón](https://open.spotify.com/album/4fhyGd8qDAkvZXmDvLYixi) | 3:40 | 2023-12-08 |  |
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 | 2024-04-18 | 2024-05-11 |
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 | 2023-12-08 | 2024-04-19 |
+| [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 | 2024-05-23 |  |
 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 | 2023-12-08 |  |
 | [Ni Dios Ni Amo](https://open.spotify.com/track/38OqmiFdfy1Cmcn2XI90oE) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/1mMB89P9sgw8WRsR6qk8Rg) | 5:16 | 2024-04-18 |  |
 | [Ni Dios Ni Amo](https://open.spotify.com/track/1ShO18HJchAPsi9gk9aMSU) | [El Noi del Sucre](https://open.spotify.com/artist/2cRU20gTiJDxjQadbtENvV) | [A Mi Manera, Vol\. 2 \(Leyendas de un Desconocido\)](https://open.spotify.com/album/2AdGLqWCfeJb4a5JQoVe6C) | 5:16 | 2023-12-08 | 2024-04-19 |

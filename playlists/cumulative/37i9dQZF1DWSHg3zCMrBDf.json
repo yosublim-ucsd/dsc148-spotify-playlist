@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest tracks in Ghana. Cover: Lasmid",
+  "description": "The hottest tracks in Ghana. Cover: Kofi Kinaata",
   "name": "Hot Hits Ghana",
   "tracks": [
     {
@@ -1937,6 +1937,32 @@
     },
     {
       "album": {
+        "name": "Favourite Story",
+        "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Favourite Story",
+      "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -3072,7 +3098,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
@@ -3286,7 +3312,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 155151,
       "name": "MILLION DOLLAR BABY",
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
@@ -5542,6 +5568,28 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Music that makes you feel like you're levitating.
 
-445 songs - 1 day 3 hr 28 min
+447 songs - 1 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [POISON](https://open.spotify.com/track/0YXrieZuC5WrYaljNK3B81) | [Araya](https://open.spotify.com/artist/58dPXkn0hgEY1TY1utbG4a) | [POISON](https://open.spotify.com/album/32nUygpYujqS6S6MoDJluE) | 4:37 | 2023-02-24 | 2023-03-18 |
 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 | 2022-04-12 | 2022-07-28 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-06-01 | 2022-07-29 |
-| [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 | 2024-03-15 |  |
+| [Pretend Lovers](https://open.spotify.com/track/0cJTBlSiodwtdA5vdIbHhB) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:13 | 2024-03-15 | 2024-05-24 |
 | [Pretty Girl](https://open.spotify.com/track/0KyAGiNGUytG5JLxJu4F6l) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Pretty Girl](https://open.spotify.com/album/3nkwKrSQJ9l84VV8uuymk9) | 2:58 | 2022-06-01 | 2022-10-27 |
 | [PRIDE.](https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 4:35 | 2021-12-16 | 2023-12-06 |
 | [Prototype](https://open.spotify.com/track/1QJb6LWvPXZpTMiqqODqkH) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 5:26 | 2022-01-12 | 2022-04-12 |
@@ -310,7 +310,7 @@
 | [Reborn](https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | 5:24 | 2021-12-16 |  |
 | [Redbone](https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4) | 5:26 | 2023-05-19 | 2024-04-19 |
 | [Redbone](https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | ["Awaken, My Love!"](https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8) | 5:26 | 2021-12-16 | 2022-09-24 |
-| [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 | 2024-05-03 |  |
+| [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 | 2024-05-03 | 2024-05-24 |
 | [Retrograde](https://open.spotify.com/track/2IqjKEBiz0CdLKdkXhxw84) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/53FEYOXnplxBWoQMmWn82U) | 3:43 | 2021-12-16 | 2024-05-23 |
 | [Rhinestone 1.7.2 \[2018 Export Wav\] feat\. Isabella Manfredi](https://open.spotify.com/track/06gtPF7fljlItis2PohQP0) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Isabella Manfredi](https://open.spotify.com/artist/0ROrzjhRCZbJil5PjS9yG9) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:53 | 2023-02-10 | 2023-02-14 |
 | [Ribs](https://open.spotify.com/track/2MvvoeRt8NcOXWESkxWn3g) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 4:18 | 2022-07-28 | 2024-04-19 |
@@ -327,6 +327,7 @@
 | [Saturnine](https://open.spotify.com/track/0czIop1Wsllu6wCktR633R) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Saturnine](https://open.spotify.com/album/6oz2tEohOFkesZAkr6jgeE) | 3:21 | 2024-03-22 | 2024-04-19 |
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-21 |  |
 | [sdp interlude](https://open.spotify.com/track/4gh0ZnHzaTMT1sDga7Ek0N) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Birds In The Trap Sing McKnight](https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt) | 3:11 | 2021-12-16 | 2024-02-17 |
+| [Seasons](https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Seasons](https://open.spotify.com/album/3fhJVtBLypHzYymi46TSGQ) | 2:37 | 2024-05-23 |  |
 | [See You Again \(feat\. Kali Uchis\)](https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Flower Boy](https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o) | 3:00 | 2022-01-20 | 2023-11-11 |
 | [Self Control](https://open.spotify.com/track/5GUYJTQap5F3RDQiCOJhrS) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:09 | 2021-12-16 | 2023-05-24 |
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-05-03 | 2023-05-15 |
@@ -441,6 +442,7 @@
 | [Wild Irish Roses](https://open.spotify.com/track/6efkcs2aUBMFKxl0cl2JWQ) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [blkswn](https://open.spotify.com/album/3bTjPEgPzm1XwXsNlMVHhs) | 2:49 | 2021-12-16 | 2023-06-08 |
 | [Wildfire](https://open.spotify.com/track/0fiTN2N5HEIefAHtm00vYG) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [SBTRKT \(Deluxe Version\)](https://open.spotify.com/album/35xfQriUFj6M2AVq78OsEq) | 3:21 | 2022-01-12 | 2022-04-19 |
 | [Winner](https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Winner](https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy) | 3:37 | 2023-08-25 | 2023-11-11 |
+| [wish you well](https://open.spotify.com/track/4tadJJIpH4c6opdMRmNsgm) | [min.a](https://open.spotify.com/artist/077Uh1goMP4hr0IPdrEruw) | [are you watching at all?](https://open.spotify.com/album/6GFfy3a8Hgzi0fa4v9mqd0) | 3:35 | 2024-05-23 |  |
 | [Wolfcat](https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Wolfcat](https://open.spotify.com/album/5mlgzPatuoMGqqHsPIofKr) | 2:54 | 2021-12-16 | 2022-07-24 |
 | [Wolves](https://open.spotify.com/track/432hUIl3ISDeytYW5XBQ5h) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 5:01 | 2021-12-16 | 2022-04-14 |
 | [worldstar money \(interlude\)](https://open.spotify.com/track/0baNzeUcPQnQSagpe8T0mD) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [In Tongues \(Deluxe\)](https://open.spotify.com/album/6ZksrxRWlJ7ExylPyJwfLJ) | 2:06 | 2022-12-16 | 2023-08-12 |

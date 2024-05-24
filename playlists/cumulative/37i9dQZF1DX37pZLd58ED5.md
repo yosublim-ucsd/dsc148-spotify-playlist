@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Massimo Pericolo
 
-161 songs - 8 hr 46 min
+162 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-02 |
 | [Aeroplanini Di Carta](https://open.spotify.com/track/5lSUBOoR69N6lbwGySVdSr) | [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Izi](https://open.spotify.com/artist/6289Bbkkk3gaCbh1K7Rv8F) | [Dasein Sollen](https://open.spotify.com/album/4cpbVkMPzHjWZajKY53SKJ) | 3:44 | 2022-04-28 |  |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-04-28 |  |
+| [Al Limite \(feat\. Tony Boy\)](https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 | 2024-05-23 |  |
 | [ALIBI](https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:58 | 2022-04-28 | 2022-06-10 |
 | [Amore lo\-fi \(feat\. Nicola Siciliano & Madame\)](https://open.spotify.com/track/65qZHYBCEzXy12gyH4v9Z7) | [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3), [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt), [endly](https://open.spotify.com/artist/1cqb0IqRUO8HCpKFdMsdvI), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Black Pulcinella](https://open.spotify.com/album/44BqX1Kc6bSgUb3SvWF0k6) | 3:19 | 2022-04-28 | 2022-05-20 |
 | [Andrea](https://open.spotify.com/track/03j2Lo97VCDprSk8oLb8Gi) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [SHUNE](https://open.spotify.com/artist/5YV5crRpcdknHgEzystZHr) | [Andrea](https://open.spotify.com/album/1mbwNDgFojWsQfJCN46Izm) | 3:05 | 2022-04-28 | 2023-10-27 |

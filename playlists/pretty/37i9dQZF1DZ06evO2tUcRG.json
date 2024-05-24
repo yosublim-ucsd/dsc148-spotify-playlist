@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 259925,
+  "num_followers": 259945,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADpE1Db4UfrxUvHu08/rYxM",
+  "snapshot_id": "Zk01gAAAAAAlKBhstbOq6G9Lt7trqb7j",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
-        "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
-      },
-      "artists": [
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 500624,
-      "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
-      "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/3cplcet0CoHxlsAfh9O1UA"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 326883,
       "name": "Hosana - Ao Vivo",
       "url": "https://open.spotify.com/track/4O7Ln8etrGytw9GzXTcwZX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Presencia me Llam\u00f3 (Me Atraiu - Vers\u00e3o Espanhol)",
+        "url": "https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX"
+      },
+      "artists": [
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 500624,
+      "name": "Tu Presencia me Llam\u00f3 - Me Atraiu - Vers\u00e3o Espanhol",
+      "url": "https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00e9u",
-        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 416640,
-      "name": "Santo Esp\u00edrito Vem",
-      "url": "https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -795,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+        "name": "C\u00e9u",
+        "url": "https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9"
       },
       "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
         {
           "name": "Gabriela Rocha",
           "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
         }
       ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
+      "duration_ms": 416640,
+      "name": "Santo Esp\u00edrito Vem",
+      "url": "https://open.spotify.com/track/3MtZ1l5loncthielYUMhAB"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 305180,
       "name": "N\u00e3o H\u00e1 Lugar Mais Alto (No Hay Lugar M\u00e1s Alto - Versi\u00f3n Portugu\u00e9s)",
       "url": "https://open.spotify.com/track/19mAVzo7vhfnUx41Hed1ML"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,
@@ -887,6 +887,22 @@
       "duration_ms": 576860,
       "name": "At\u00e9 te Encontrar - Ao Vivo",
       "url": "https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
+        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 748206,
+      "name": "Oh, Qu\u00e3o Lindo esse nome \u00e9 / S\u00f3 Tu \u00e9s Santo / Pra Te adorar - Live 2020",
+      "url": "https://open.spotify.com/track/4v5aGcoGfj22PEr53NJOHN"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

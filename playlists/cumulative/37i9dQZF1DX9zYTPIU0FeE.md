@@ -2,7 +2,7 @@
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft?si=4y68LHw9Syey8Y9HwzPt5w">Nduduzo Makhathini</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn?si=HO4FdZudQayyy1hYLsBTZA">Herbie Tsoaeli</a>
 
 219 songs - 23 hr 22 min
 

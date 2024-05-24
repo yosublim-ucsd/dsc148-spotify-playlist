@@ -2,7 +2,7 @@
 
 ### [This Is Banda Carnaval](https://open.spotify.com/playlist/37i9dQZF1DZ06evO408cU0)
 
-> This Is Banda Carnaval\. Los temas esenciales, todos en una lista.
+> This is Banda Carnaval\. The essential tracks, all in one playlist.
 
 94 songs - 4 hr 57 min
 
@@ -76,7 +76,7 @@
 | [Pídeme](https://open.spotify.com/track/47dgKdqRE5zuAa7yESoKCj) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Lo Más Romántico De](https://open.spotify.com/album/5fno20N7QRlErQUnHy0qSZ) | 3:18 | 2022-06-01 |  |
 | [Rendido A Tus Pies](https://open.spotify.com/track/6CxTdAoG4OX4gvnoonTudO) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Las Vueltas De La Vida](https://open.spotify.com/album/4EsRdUztvnblHNgu53aqZr) | 3:42 | 2022-06-01 | 2022-11-21 |
 | [Sabes Que Lo Hago](https://open.spotify.com/track/1nXX0DQjdLxaTTyvHLM6WL) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Sabes Que Lo Hago](https://open.spotify.com/album/7MX6kDsXTKY7lNSf26ACzz) | 3:13 | 2022-11-20 |  |
-| [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-15 |  |
+| [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-15 | 2024-05-24 |
 | [Se Vale Enamorarse](https://open.spotify.com/track/6NTXZw3p7QaAVSXKhGxL0z) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Vale Enamorarse](https://open.spotify.com/album/23yO6kyqh39DCb7PM4UyIY) | 2:56 | 2022-12-04 | 2024-04-08 |
 | [Segunda Opción](https://open.spotify.com/track/3bvQCGDb6D66J7b0lzXsKG) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:18 | 2022-06-01 |  |
 | [Soy Así](https://open.spotify.com/track/5O5vy1yeRas4o7JYgdKPu2) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 3:36 | 2022-12-13 | 2023-01-16 |
@@ -87,7 +87,7 @@
 | [Te Soñé \(En Vivo\)](https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Soñé \(En Vivo\)](https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX) | 3:43 | 2024-03-15 |  |
 | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/track/2YHLZsnlSJgVGN7MfNQyVt) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Te Vas Amor \(En Vivo\)](https://open.spotify.com/album/1qKcJWObSOGkvQHvjOilNS) | 2:17 | 2024-03-13 |  |
 | [Tus Manos Son Mi Voz](https://open.spotify.com/track/425uyB82GDHyiJRguCb4vi) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Porque Así Tenía Que Ser](https://open.spotify.com/album/6SNW0LavcXREHAQcMA9Zdk) | 3:50 | 2022-06-01 | 2023-11-11 |
-| [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 | 2022-06-01 | 2024-05-22 |
+| [Vas A Estar Bien](https://open.spotify.com/track/5aXTBjjE3HO5pzkBHnGy16) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:57 | 2022-06-01 |  |
 | [Vencedor](https://open.spotify.com/track/28DJPWV7RkA4TkX8z1NHfl) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 3:05 | 2022-12-07 | 2023-01-26 |
 | [Vete Ya](https://open.spotify.com/track/0nTf8OiF3lUTkDxJaMJB0N) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj), [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Banda Carnaval & Valentín Elizalde](https://open.spotify.com/album/77isjgI5Rz6GNpLvxA4VXm) | 2:38 | 2022-12-01 | 2023-02-20 |
 | [Vidita Mía](https://open.spotify.com/track/1EihKmeWn94bXue3CeHrJ1) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Vidita Mía](https://open.spotify.com/album/6igpMSmxfgA1dSIs0lSVtB) | 3:14 | 2023-02-08 | 2023-03-27 |

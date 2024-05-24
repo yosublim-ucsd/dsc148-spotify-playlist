@@ -1,12 +1,12 @@
 {
-  "description": "This is Aimer. The essential tracks, all in one playlist.",
-  "num_followers": 161940,
+  "description": "This is Aimer. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 161970,
   "original_name": "This Is Aimer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADKf6/zqiMEq/bRmAuhuVuP",
+  "snapshot_id": "Zk01gAAAAAAv9KYHv9Jc2iFMzrdkZ9lL",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "daydream",
-        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
-      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6b8b\u97ff\u6563\u6b4c",
         "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 184893,
       "name": "\u6b8b\u97ff\u6563\u6b4c",
       "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "daydream",
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
+      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 193400,
+      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
+      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -319,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA"
+        "name": "BEST SELECTION \"blanc\"",
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
       },
       "artists": [
         {
@@ -328,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
         }
       ],
-      "duration_ms": 193400,
-      "name": "\u82b1\u3073\u3089\u305f\u3061\u306e\u30de\u30fc\u30c1",
-      "url": "https://open.spotify.com/track/31VUT0WkUfUkkIfEA1Has4"
+      "duration_ms": 329786,
+      "name": "\u831c\u3055\u3059",
+      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
     },
     {
       "added_at": null,
@@ -347,22 +363,6 @@
       "duration_ms": 292760,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/0mpLgvlW0tztoBGKzfLRNr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEST SELECTION \"blanc\"",
-        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 329786,
-      "name": "\u831c\u3055\u3059",
-      "url": "https://open.spotify.com/track/1jJjnRT0Pq6FdOpzAjGOTE"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
-        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
-      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u3042\u3066\u3082\u306a\u304f",
         "url": "https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG"
       },
@@ -539,22 +523,6 @@
       "duration_ms": 234586,
       "name": "\u3042\u3066\u3082\u306a\u304f",
       "url": "https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleepless Nights",
-        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 338173,
-      "name": "\u516d\u7b49\u661f\u306e\u591c",
-      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
     },
     {
       "added_at": null,
@@ -583,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sleepless Nights",
+        "url": "https://open.spotify.com/album/3ZrzXf0SU0XWmxOPBMpccD"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 338173,
+      "name": "\u516d\u7b49\u661f\u306e\u591c",
+      "url": "https://open.spotify.com/track/73tC9ZhU1iyphrL1ruQQWU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Walpurgis",
         "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 285826,
       "name": "STAND-ALONE",
       "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u661f\u306e\u6d88\u3048\u305f\u591c\u306b",
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "\u30bb\u30d7\u30c6\u30f3\u30d0\u30fc\u3055\u3093",
+      "url": "https://open.spotify.com/track/0TNCFV9nHsEz3E01HO3QrM"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
-      },
-      "artists": [
-        {
-          "name": "Aimer",
-          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-        }
-      ],
-      "duration_ms": 350933,
-      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
-      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "2V-ALK",
         "url": "https://open.spotify.com/album/6fYnxGhxTWbHLFBnuigaZc"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 305346,
       "name": "ninelie <cry-v>",
       "url": "https://open.spotify.com/track/5tXeB01NmKv1VpseCChrWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONE / \u82b1\u306e\u5504 / \u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+        "url": "https://open.spotify.com/album/2hrsWVbgZvnmKY9QTKDghN"
+      },
+      "artists": [
+        {
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "duration_ms": 350933,
+      "name": "\u516d\u7b49\u661f\u306e\u591c Magic Blue ver.",
+      "url": "https://open.spotify.com/track/2O9zgoUcr8cc7QNGl89oTk"
     },
     {
       "added_at": null,

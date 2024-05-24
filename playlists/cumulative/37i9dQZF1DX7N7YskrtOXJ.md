@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX7N7YskrtOXJ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX7N7YskrtOXJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX7N7YskrtOXJ)
 
-### [Cumbia pa' carretear](https://open.spotify.com/playlist/37i9dQZF1DX7N7YskrtOXJ)
+### [Cumbias para carretear](https://open.spotify.com/playlist/37i9dQZF1DX7N7YskrtOXJ)
 
 > La fiesta se enciende con cumbia.
 

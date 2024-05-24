@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 
 > we got you bro\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,603 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,724 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrBs4FjpxlE.md) - [plain]
 | 17 | [Everybody Dies In Their Nightmares](https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [17](https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0) | 1:35 |
 | 18 | [Heartbreak Anniversary](https://open.spotify.com/track/3FAJ6O0NOHQV8Mc5Ri6ENp) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [TAKE TIME](https://open.spotify.com/album/1zHR48K6XtWYm6bhrw4J6C) | 3:18 |
 | 19 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
-| 20 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
-| 21 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
+| 20 | [Let You Down](https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL) | [NF](https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz) | [Perception](https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf) | 3:32 |
+| 21 | [Train Wreck](https://open.spotify.com/track/55Am8neGJkdj2ADaM3aw5H) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 3:28 |
 | 22 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 |
 | 23 | [The Way Life Goes \(feat\. Oh Wonder\)](https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Luv Is Rage 2](https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE) | 3:41 |
 | 24 | [Robbery](https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:00 |

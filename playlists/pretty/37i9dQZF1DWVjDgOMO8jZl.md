@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVjDgOMO8jZl.md) - [plain]
 
 > Scopri i 6 artisti emergenti su cui scommettiamo quest'anno: Coca Puma, okgiorgio, Tony Boy, Sally Cruz, centomilacarie, STE!
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,691 likes - 18 songs - 49 min 53 sec
+[Spotify](https://open.spotify.com/user/spotify) - 23,695 likes - 18 songs - 49 min 53 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

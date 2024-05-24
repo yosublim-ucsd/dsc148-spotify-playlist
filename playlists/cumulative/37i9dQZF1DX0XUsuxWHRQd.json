@@ -37851,6 +37851,28 @@
     },
     {
       "album": {
+        "name": "Loso's Way",
+        "url": "https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8"
+      },
+      "artists": [
+        {
+          "name": "Fabolous",
+          "url": "https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231573,
+      "name": "Throw It In The Bag",
+      "url": "https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3"
+    },
+    {
+      "album": {
         "name": "Rich Boy",
         "url": "https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9"
       },

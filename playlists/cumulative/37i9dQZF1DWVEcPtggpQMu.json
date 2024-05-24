@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW?si=5nzDloq6RvuXrbVc_cDLNQ\">Kiddo CSA</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5?si=jBHPSzfmR1m0Vg4fmqjH5w\">DJ Slique</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208052,
       "name": "Amakhulu\u2018amawaka",
       "url": "https://open.spotify.com/track/21DS8gXuiF9Uob6RRQUKEM"
@@ -2398,7 +2398,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 115575,
       "name": "BRUCE WAYNE",
       "url": "https://open.spotify.com/track/1eIk9KQ1zkDB4K3QO4cmlQ"
@@ -2782,6 +2782,28 @@
       "duration_ms": 161495,
       "name": "Cape Town",
       "url": "https://open.spotify.com/track/5SgdmfnKvwzFfFuNNlm8M1"
+    },
+    {
+      "album": {
+        "name": "Car Crash (feat. Sizwe Alakine)",
+        "url": "https://open.spotify.com/album/5nKKNdHNWSOwCT2nZ2nSyy"
+      },
+      "artists": [
+        {
+          "name": "VegasXCesar",
+          "url": "https://open.spotify.com/artist/2WWAFBZmTE2YEyVe7lpek4"
+        },
+        {
+          "name": "Sizwe Alakine",
+          "url": "https://open.spotify.com/artist/7Hb7ZlUE4ByWsV1Rkc4Uo2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199384,
+      "name": "Car Crash (feat. Sizwe Alakine)",
+      "url": "https://open.spotify.com/track/5rQBQ9ja4aFdOdgqM9m7gc"
     },
     {
       "album": {
@@ -3602,6 +3624,24 @@
       "duration_ms": 159495,
       "name": "Di Shet'e",
       "url": "https://open.spotify.com/track/2viUI6XalkQsrRSxwxM2Jo"
+    },
+    {
+      "album": {
+        "name": "Di Tlo Ja Fats'e",
+        "url": "https://open.spotify.com/album/6AMRcjLQu0BILn8nJjAiGC"
+      },
+      "artists": [
+        {
+          "name": "Ntate Stunna",
+          "url": "https://open.spotify.com/artist/1HKxOYJiTBtSgVTbKHK5XL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255371,
+      "name": "Di Tlo Ja Fats'e",
+      "url": "https://open.spotify.com/track/1mai3wFhoIyLKHOEE18Hkg"
     },
     {
       "album": {
@@ -7211,6 +7251,36 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174731,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
+    },
+    {
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/3TBiMrb9bUd4qfedgWKlVA"
       },
@@ -7342,7 +7412,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 232440,
       "name": "Kuse Khaya",
       "url": "https://open.spotify.com/track/7FcVPnVNnBWpYaVnvl8nuO"
@@ -7880,6 +7950,24 @@
       "duration_ms": 252435,
       "name": "Lick Back (Uh Huh Uh Huh) [feat. Wordz, Flow Jones Jr., 25K, Maglera Doe Boy]",
       "url": "https://open.spotify.com/track/3HxVTegEK7POrN3sFzSYX5"
+    },
+    {
+      "album": {
+        "name": "Life Or Death",
+        "url": "https://open.spotify.com/album/3QBossFHQwPxFj5SLbBypw"
+      },
+      "artists": [
+        {
+          "name": "J Molley",
+          "url": "https://open.spotify.com/artist/4Wgns8lkTyqv4k2SH3Zc6T"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186971,
+      "name": "Life Or Death",
+      "url": "https://open.spotify.com/track/3S4xRlMwColjoVELvY172S"
     },
     {
       "album": {
@@ -10792,7 +10880,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207518,
       "name": "PLAYIN' 4 KEEP$",
       "url": "https://open.spotify.com/track/0PeNJE2sRgldw9eByet9Tp"
@@ -11164,7 +11252,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 142564,
       "name": "Radar",
       "url": "https://open.spotify.com/track/3bLsh1ZEb9Vc00KvLzpgBW"
@@ -11308,6 +11396,24 @@
       "duration_ms": 127741,
       "name": "Real Niggas Only",
       "url": "https://open.spotify.com/track/1sQVikNoENX6xhUppOJ5p3"
+    },
+    {
+      "album": {
+        "name": "RED FLAG",
+        "url": "https://open.spotify.com/album/6rVgedMkzPm7e8oCtgKYNJ"
+      },
+      "artists": [
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185306,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/71Wnaxqwazv4KuSSY4tFxY"
     },
     {
       "album": {
@@ -15727,6 +15833,32 @@
     },
     {
       "album": {
+        "name": "What's The Qoh! (feat. Okmalumkoolkat)",
+        "url": "https://open.spotify.com/album/6rDPbjzJpxOlFufLrgdSLL"
+      },
+      "artists": [
+        {
+          "name": "031CHOPPA",
+          "url": "https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        },
+        {
+          "name": "Okmalumkoolkat",
+          "url": "https://open.spotify.com/artist/0CaeXDVwH52TDLA0GLRo4f"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217017,
+      "name": "What's The Qoh! (feat. Okmalumkoolkat)",
+      "url": "https://open.spotify.com/track/2HG4fG4OyRLVnNMMvw4X9e"
+    },
+    {
+      "album": {
         "name": "REVENGE IS SWEET",
         "url": "https://open.spotify.com/album/3KhVnTxQrHxJZsEzJxrUjw"
       },
@@ -15756,7 +15888,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158677,
       "name": "Whatchu Say ?",
       "url": "https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J"
@@ -16140,6 +16272,28 @@
       "duration_ms": 177477,
       "name": "X",
       "url": "https://open.spotify.com/track/7HUspHeq82qCOgyFlxvb44"
+    },
+    {
+      "album": {
+        "name": "Xa Ukhona (feat. Zuko SA)",
+        "url": "https://open.spotify.com/album/6lYwDEZdYoHjLAGtR6r0QT"
+      },
+      "artists": [
+        {
+          "name": "Yanga Chief",
+          "url": "https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk"
+        },
+        {
+          "name": "Zuko SA",
+          "url": "https://open.spotify.com/artist/0LHMSltleAi3zHyRU8gYSt"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Xa Ukhona (feat. Zuko SA)",
+      "url": "https://open.spotify.com/track/6GWTvyv2y4yRIkgSEvSWet"
     },
     {
       "album": {

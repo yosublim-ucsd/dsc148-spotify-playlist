@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-77 songs - 10 hr 13 min
+78 songs - 10 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Ngeke Ng'suke Kuwe \(Reprise\)](https://open.spotify.com/track/745RBWUsOh6awyKAehigkT) | [Mmuso Worship](https://open.spotify.com/artist/5r5sBwAXxOibX4NHzP6j9s), [Oncemore Six](https://open.spotify.com/artist/2dvNUHcfNDLyItfiAB40Rd) | [Be Still \(He is God\)](https://open.spotify.com/album/0cSgKbP6SYCKNzxuPIQ60g) | 1:51 | 2024-02-23 |  |
 | [Ngithol’ uMhlobo \(Live\)](https://open.spotify.com/track/2Uzyf7cUYKJdkYaDGYvmgn) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Canaan Nyathi](https://open.spotify.com/artist/0uHPS5R6XE3KH8PDliv333) | [Spirit Of Praise, Vol\. 9 \(Live\)](https://open.spotify.com/album/22HnjxKMzSGhOUGgEbO3Dv) | 8:33 | 2024-02-23 |  |
 | [Nita Amini \- Live](https://open.spotify.com/track/0MmeFIEKNgYpw1cHWgBMJd) | [Israel Mbonyi](https://open.spotify.com/artist/6E6bGyrGJM33jnVivvn3kH) | [Nita Amini \(Live\)](https://open.spotify.com/album/3yDmAg043NqgSAml9wAQs9) | 12:59 | 2024-03-01 |  |
+| [Not Alone \- Live](https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Not Alone \(Live\)](https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF) | 4:30 | 2024-05-24 |  |
 | [Ntate Kemang \- Live](https://open.spotify.com/track/6PeraA6oM2pDVWXRLbKx8t) | [Dumi Mkokstad](https://open.spotify.com/artist/7FfBAT4utQnGFnzAqidA6p), [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa) | [Songs From Spirit Of Praise \(Live\)](https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK) | 4:29 | 2024-02-23 |  |
 | [Ogo](https://open.spotify.com/track/2wKX6c2aXplDCJZT301jBM) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Ogo](https://open.spotify.com/album/6lCqBg5DySvDfvZXNXSURk) | 10:48 | 2024-02-23 |  |
 | [OLULANA \- Live in Lagos](https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [LIVE IN LAGOS](https://open.spotify.com/album/6pbRSHAID65hj5yDF7wSrk) | 3:37 | 2024-02-23 |  |

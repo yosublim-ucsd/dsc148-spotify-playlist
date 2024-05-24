@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-786 songs - 1 day 9 hr 41 min
+787 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Barely Awake](https://open.spotify.com/track/7xKLiItra445rJi8Fehifn) | [Santi Bordera](https://open.spotify.com/artist/5yG6YaEEVw1lyClOQ9yOzb) | [Barely Awake](https://open.spotify.com/album/3SDVYC3KCzaVn6x5cwPytt) | 2:19 | 2022-09-12 | 2023-02-01 |
 | [beaches](https://open.spotify.com/track/5IzsYLBnHRwMa81Uy9i3wz) | [montemar](https://open.spotify.com/artist/63SdkVMrIukQRL1rGR2oh0) | [beaches](https://open.spotify.com/album/5kGo3ABEr18M3CFWFjYfbZ) | 2:14 | 2021-12-13 | 2022-03-18 |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2021-12-13 | 2022-10-05 |
+| [Beauty](https://open.spotify.com/track/6LUWbk3Zc6571RYApFYoSl) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Beauty](https://open.spotify.com/album/52dxoUpamcBI8YkS3Ce3iC) | 2:46 | 2024-05-23 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-01-18 | 2024-01-03 |
 | [Becoming](https://open.spotify.com/track/2wPHCAgYiIIfEMt4Lj1xMg) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Becoming](https://open.spotify.com/album/1XDp0E8TtyTWFlniXqkV1C) | 2:43 | 2021-12-13 | 2022-09-13 |
 | [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-09 | 2022-12-22 |

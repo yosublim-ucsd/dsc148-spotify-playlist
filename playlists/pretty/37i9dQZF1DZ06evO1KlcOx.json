@@ -1,12 +1,12 @@
 {
   "description": "This is Grouper. The essential tracks, all in one playlist.",
-  "num_followers": 6499,
+  "num_followers": 6498,
   "original_name": "This Is Grouper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACBj6YZvz6S2HiCyH3HmBhy",
+  "snapshot_id": "Zk01gAAAAAChtwWsD/N//VMoxblDH1WG",
   "tracks": [
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 119733,
-      "name": "Make Me Over",
-      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cover the Windows and the Walls",
         "url": "https://open.spotify.com/album/6FDT9qQNRT6ntiEhTI8SI6"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 362253,
       "name": "It Feels Alright",
       "url": "https://open.spotify.com/track/1ssVStzSmOhMHw3g7NxPd3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 119733,
+      "name": "Make Me Over",
+      "url": "https://open.spotify.com/track/4OlY6a2c0sF9uE1RzSdzsO"
     },
     {
       "added_at": null,
@@ -635,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Water People 7\"",
-        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 247713,
-      "name": "Water People",
-      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shade",
         "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
       },
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grid of Points",
-        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
+        "name": "Water People 7\"",
+        "url": "https://open.spotify.com/album/6hROXTXMjBXQmteE2zLQlx"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Driving",
-      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
+      "duration_ms": 247713,
+      "name": "Water People",
+      "url": "https://open.spotify.com/track/7nRiJ3ytw6cuVsLkuEOMQP"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+        "name": "Grid of Points",
+        "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
         }
       ],
-      "duration_ms": 186946,
-      "name": "Little Boat/Bone Dance (Audrey)",
-      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+      "duration_ms": 228000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/3Wgm9FhrruO71VDFA6kxgj"
     },
     {
       "added_at": null,
@@ -747,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Little Boat/Bone Dance (Audrey)",
+      "url": "https://open.spotify.com/track/1718RopWJWeMuWg93vdbZz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grid of Points",
         "url": "https://open.spotify.com/album/5wy223m8JP5DBOvgumFgN8"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide",
-        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 45266,
-      "name": "Black Blood",
-      "url": "https://open.spotify.com/track/0TkXfH8zPdYgaySFmjwcmI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A I A: Dream Loss",
         "url": "https://open.spotify.com/album/5l4dgQzaAkmbTpueLhSR3q"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 313680,
       "name": "A Lie",
       "url": "https://open.spotify.com/track/03nTHUIdIV4a2Wjb1puEDO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wide",
+        "url": "https://open.spotify.com/album/3iLSxt5fh8f0vN89861WnE"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 45266,
+      "name": "Black Blood",
+      "url": "https://open.spotify.com/track/0TkXfH8zPdYgaySFmjwcmI"
     }
   ],
   "unique_name": "This Is Grouper",

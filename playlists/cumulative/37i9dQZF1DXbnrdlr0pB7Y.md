@@ -4,7 +4,7 @@
 
 > Piezas acústicas que te ayudarán a enfocarte.
 
-101 songs - 5 hr 12 min
+103 songs - 5 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [El Pedro](https://open.spotify.com/track/5iskfQEmsSMqsXaSqaHFZM) | [Los Viajantes](https://open.spotify.com/artist/4YAXYtBeaRHUxQ8R3TKheZ) | [El Pedro](https://open.spotify.com/album/0G8DZq836R0rIisEZtxlrj) | 4:36 | 2023-12-15 |  |
 | [Esperare](https://open.spotify.com/track/36FlYtI3NMyqEMBQlaH7Eb) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [Esperare](https://open.spotify.com/album/3fO4NeuLeBx5S0Pabk5PaX) | 2:10 | 2023-12-15 |  |
 | [Estanys de Baiau](https://open.spotify.com/track/6JbPD7lazbivEBZbBiI9U0) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Abendrot](https://open.spotify.com/album/45UIG5yVX62bS76ybHXrG5) | 2:28 | 2023-12-15 |  |
+| [For Chamela](https://open.spotify.com/track/0FMvC8A6rUM0y3iU9dI3rH) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [El Invernadero](https://open.spotify.com/album/1e44e9HKQvfv1Jiru5pF2y) | 3:01 | 2024-05-24 |  |
 | [Fred's Theme](https://open.spotify.com/track/5xTaxs4Dk2oMBIVH4PXW8U) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Fred's Theme](https://open.spotify.com/album/066gCzWyicE5jaGH0uvTRR) | 2:05 | 2023-12-15 |  |
 | [Frenesi](https://open.spotify.com/track/2WWvslrAdyNZ2bdjHuGcrI) | [Miles Higgins](https://open.spotify.com/artist/5tdW8sDHJ3jsFUSrEjJkn4) | [Amore](https://open.spotify.com/album/2FaBacnmmAyYE47pIiAvqT) | 2:23 | 2023-12-15 |  |
 | [Goiânia](https://open.spotify.com/track/4HiU3fxYZI6w2jNTTLhowT) | [Joana Ema](https://open.spotify.com/artist/2W1k5KydRQg7MsOSgGEm9u) | [Goiânia](https://open.spotify.com/album/559F8ws4FRpTbvaNc08VEE) | 2:52 | 2023-12-15 |  |
@@ -68,7 +69,7 @@
 | [No Te Vayas](https://open.spotify.com/track/6J7JikIQ1IqUKeGCnYaK8w) | [Las Palmas Rosas](https://open.spotify.com/artist/5JoX8uKllGc2qsVy76rgsM) | [Las Palmas Rosas](https://open.spotify.com/album/6JhI7GjDswt6CqQi0cyyuo) | 2:45 | 2023-12-15 |  |
 | [Nostalgia](https://open.spotify.com/track/0qHJd9jqgclHWGouSXRcOz) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Nostalgia](https://open.spotify.com/album/38o8v1HxQz6vrJd0yPn1Ep) | 3:15 | 2023-12-15 |  |
 | [Nostalgias De Buenos Aires](https://open.spotify.com/track/0VYl6MeDfICsBCiopYfv0a) | [Las Lagrimas](https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN) | [Nostalgias De Buenos Aires](https://open.spotify.com/album/6FacXnHauYiGZk85L6R0LU) | 3:17 | 2023-12-15 |  |
-| [Nueve Meses](https://open.spotify.com/track/4zBSRp31EokfMNXqzjTQCs) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:03 | 2023-12-15 |  |
+| [Nueve Meses](https://open.spotify.com/track/4zBSRp31EokfMNXqzjTQCs) | [Los Principes del Flamenco](https://open.spotify.com/artist/5QRBOvnAAd81MkUgB2pyzD) | [Tierra Nordica](https://open.spotify.com/album/3beGa7ny7BngU8gyFdwsty) | 3:03 | 2023-12-15 | 2024-05-24 |
 | [Não quebre meu coração](https://open.spotify.com/track/5tbaj51irlL5qMPt9aokTV) | [Jose Luis Minguez](https://open.spotify.com/artist/6SGQqtwYmt7PRq59A3N0kY) | [Não quebre meu coração](https://open.spotify.com/album/44t0sTuExv0q5bgwDHR71l) | 2:58 | 2023-12-15 |  |
 | [Ora](https://open.spotify.com/track/48ZikPYw78eh61z9lTK5jL) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Ora](https://open.spotify.com/album/4QgCRsTAbAXd0mGIYOIEvc) | 2:46 | 2023-12-15 |  |
 | [Para Cuando Regreses](https://open.spotify.com/track/13JDYHDfbUFLPY21iar4QL) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Para Cuando Regreses](https://open.spotify.com/album/5sZFIfqMD3QHiEudxMV7Aw) | 2:20 | 2023-12-15 |  |
@@ -93,6 +94,7 @@
 | [Suave](https://open.spotify.com/track/4MTpIFPmOhMuasTQLHoEtm) | [Roman Ticker](https://open.spotify.com/artist/2N3alU1QULBStjDC38TldG) | [Ipanema Dreams](https://open.spotify.com/album/5t9rpIS1nZA3QUu0WezT4X) | 2:08 | 2023-12-15 |  |
 | [Sueño Tropical](https://open.spotify.com/track/1uZaPYYWuG3zwWzbVGNHue) | [Duo: Ramos \- Monterrubio](https://open.spotify.com/artist/22qABRiNfRlmXEaSVX8mI3) | [Sueño Tropical](https://open.spotify.com/album/4zhn0fpRxeSeDHeMBfxkDL) | 2:52 | 2023-12-15 |  |
 | [Te Echo De Menos](https://open.spotify.com/track/1u2C4fLwsMerlZCqumCl6z) | [Gabriel Vilente](https://open.spotify.com/artist/5sXiB1kUrPOBBWf3SqrCYO) | [Te Echo De Menos](https://open.spotify.com/album/7FS6hAIyRA7VJ7ELMKH6gb) | 3:04 | 2023-12-15 |  |
+| [The birds of my mind](https://open.spotify.com/track/6vYYZDgA2Lgn49Yurwno61) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [The birds of my mind](https://open.spotify.com/album/6Y7Ko0xoPdV4ytadPvAHUq) | 2:01 | 2024-05-24 |  |
 | [The Girl From Ipanema](https://open.spotify.com/track/4LFygoMviIwMfAlxBz821e) | [Rio Mendes](https://open.spotify.com/artist/0g5AouvHCjswMZiQheyRNK) | [Bossa Nova Sounds EP](https://open.spotify.com/album/6ROavccgDMsZS13Lx7NWYI) | 3:00 | 2023-12-15 |  |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2023-12-15 |  |
 | [Tierra del Fuego](https://open.spotify.com/track/5Yonb4VS0jBm67bXr4iY5M) | [Luth](https://open.spotify.com/artist/4gLCaEykpiJdImDlT5O3am) | [Tierra del Fuego](https://open.spotify.com/album/0WV6eh9KvKbrFiNSRHgbS1) | 2:59 | 2023-12-15 |  |

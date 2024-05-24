@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Eladio Carrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,495,827 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,495,896 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

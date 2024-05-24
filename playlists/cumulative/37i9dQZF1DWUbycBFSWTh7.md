@@ -4,7 +4,7 @@
 
 > get into the groove
 
-330 songs - 1 day 6 hr 42 min
+331 songs - 1 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,8 +51,9 @@
 | [Closer](https://open.spotify.com/track/2GdG2MGntB02SZwJynsDmP) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Closer](https://open.spotify.com/album/4n2Esn2gvQ7ucpQZ2u59Ma) | 2:49 | 2024-02-15 |  |
 | [Closer](https://open.spotify.com/track/5A8rwVPuBWN1oUw7lD4jzP) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 7:04 | 2022-09-15 | 2023-01-13 |
 | [Cloudin](https://open.spotify.com/track/2PKmF5pEgXB2fl9xJVANlw) | [Retromigration](https://open.spotify.com/artist/52A6LhXGESSKtx5TIa2Kar) | [Cloudin](https://open.spotify.com/album/7dM7oCHQepDzrGKep0Ee4j) | 6:51 | 2024-04-04 |  |
+| [Cobalt](https://open.spotify.com/track/6QKaF0hXfAgCpm3w7lM3Z2) | [Fouk](https://open.spotify.com/artist/7CSVLVGfYClzI2061XKrWe) | [Gravity](https://open.spotify.com/album/0WBwfTxabbs3HeYu6Wlt0o) | 5:39 | 2024-05-23 |  |
 | [CODA](https://open.spotify.com/track/1hrRNhEG0ES4OC5rBCU1F8) | [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B), [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS) | [CODA](https://open.spotify.com/album/6umHyT3BNbM0no1jnd98Fh) | 6:13 | 2022-12-09 | 2023-12-15 |
-| [Come Back](https://open.spotify.com/track/0xe11VQcc5L55QJiqNJV3l) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Come Back](https://open.spotify.com/album/70tVPmDsLmLUNBhDHPMMCs) | 4:30 | 2023-10-04 |  |
+| [Come Back](https://open.spotify.com/track/0xe11VQcc5L55QJiqNJV3l) | [Feiertag](https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q) | [Come Back](https://open.spotify.com/album/70tVPmDsLmLUNBhDHPMMCs) | 4:30 | 2023-10-04 | 2024-05-24 |
 | [Come Too Far](https://open.spotify.com/track/3otrrqE6sLMxpbr7QRh5ak) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6) | [Come Too Far](https://open.spotify.com/album/5kQdCoqBJfEnCPjRoFIxQl) | 4:13 | 2023-10-12 | 2024-04-05 |
 | [Cooking Up](https://open.spotify.com/track/0n94wJUljNAp0KvFplWYKM) | [Baka G](https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4) | [Cooking Up](https://open.spotify.com/album/1Dj7hOK9AoNTXBjYaITnor) | 4:42 | 2023-07-07 | 2024-04-10 |
 | [Craving Crew](https://open.spotify.com/track/5tKtyc5xbc9dXjavBIEMPp) | [Tomasi Brothers](https://open.spotify.com/artist/3lc2hwCYX5BRmUzqXVazyE) | [Rythm Diaries](https://open.spotify.com/album/0mFnNsFZdYhqRseH4YHuV3) | 5:11 | 2023-07-07 |  |

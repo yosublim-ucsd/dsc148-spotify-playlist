@@ -1,6 +1,6 @@
 {
   "description": "Un poco de sabrosura y color para esos d\u00edas lluviosos.",
-  "num_followers": 41962,
+  "num_followers": 42010,
   "original_name": "Lluvia Tropical",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-03-19 14:42:04",
       "album": {
-        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 226400,
-      "name": "Ll\u00e9vame Contigo",
-      "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
-    },
-    {
-      "added_at": "2024-03-19 14:42:04",
-      "album": {
         "name": "We Broke The Rules",
         "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 348826,
       "name": "Ense\u00f1ame a Olvidar",
       "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+    },
+    {
+      "added_at": "2024-03-19 14:42:04",
+      "album": {
+        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 226400,
+      "name": "Ll\u00e9vame Contigo",
+      "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
     },
     {
       "added_at": "2024-03-19 14:42:04",
@@ -723,18 +723,18 @@
     {
       "added_at": "2024-03-19 14:42:04",
       "album": {
-        "name": "Gratitud",
-        "url": "https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9"
+        "name": "Sabor",
+        "url": "https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD"
       },
       "artists": [
         {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+          "name": "Angel Canales",
+          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
         }
       ],
-      "duration_ms": 238666,
-      "name": "Arroyito",
-      "url": "https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS"
+      "duration_ms": 255586,
+      "name": "Lejos De Ti",
+      "url": "https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD"
     },
     {
       "added_at": "2024-03-19 14:42:04",
@@ -755,18 +755,18 @@
     {
       "added_at": "2024-03-19 14:42:04",
       "album": {
-        "name": "Sabor",
-        "url": "https://open.spotify.com/album/4sJYlpxdpG1nnResKUbAKD"
+        "name": "Gratitud",
+        "url": "https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9"
       },
       "artists": [
         {
-          "name": "Angel Canales",
-          "url": "https://open.spotify.com/artist/4bJWcXUgUrQl4E4ru6VapB"
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
         }
       ],
-      "duration_ms": 255586,
-      "name": "Lejos De Ti",
-      "url": "https://open.spotify.com/track/2F13ZZuJ1EQnWhdvBpsvpD"
+      "duration_ms": 238666,
+      "name": "Arroyito",
+      "url": "https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS"
     },
     {
       "added_at": "2024-03-19 14:42:04",

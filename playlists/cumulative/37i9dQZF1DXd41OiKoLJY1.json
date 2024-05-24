@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "100 Mensahe",
+        "url": "https://open.spotify.com/album/00iVshg7a4y7zttCOuDZdw"
+      },
+      "artists": [
+        {
+          "name": "Dan Gil",
+          "url": "https://open.spotify.com/artist/5cxHYcxW4k0Z3NWBB86yNu"
+        },
+        {
+          "name": "Marga Jayy",
+          "url": "https://open.spotify.com/artist/04Bq2hRCsdZEQ9cKVDXN3R"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444150,
+      "name": "100 Mensahe",
+      "url": "https://open.spotify.com/track/3ypLZnoIKr3YnkXGjYjV85"
+    },
+    {
+      "album": {
         "name": "1000",
         "url": "https://open.spotify.com/album/3SrMiKpFNCaQ5jYYgM1bfD"
       },
@@ -288,6 +310,24 @@
       "duration_ms": 151379,
       "name": "1000",
       "url": "https://open.spotify.com/track/2ikewPo3xPowUzw9npc7aT"
+    },
+    {
+      "album": {
+        "name": "12 Steps",
+        "url": "https://open.spotify.com/album/7aUiGguSmftKmYGkcuEicm"
+      },
+      "artists": [
+        {
+          "name": "Ligaya Escueta",
+          "url": "https://open.spotify.com/artist/32GPsNDIVdDvE2EX2GcVyT"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234946,
+      "name": "12 Steps",
+      "url": "https://open.spotify.com/track/2qPLlIohBHuoGLWCgbAIns"
     },
     {
       "album": {
@@ -1726,6 +1766,28 @@
       "duration_ms": 228526,
       "name": "Ako Na Lang Muna",
       "url": "https://open.spotify.com/track/3cdjW1RH64A5Kram6U20yI"
+    },
+    {
+      "album": {
+        "name": "Ako Nalang Sana",
+        "url": "https://open.spotify.com/album/6DnaPiKM4TEaD64H8LP9ZN"
+      },
+      "artists": [
+        {
+          "name": "Bby Jaye",
+          "url": "https://open.spotify.com/artist/3zdpDnYSYmgka8gctdGYth"
+        },
+        {
+          "name": "Aeri",
+          "url": "https://open.spotify.com/artist/4hpuvnMjGNX6ZVUGQZVl7B"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232515,
+      "name": "Ako Nalang Sana",
+      "url": "https://open.spotify.com/track/30QrLoKcF6XVenDXldfQuO"
     },
     {
       "album": {
@@ -3210,7 +3272,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 251472,
       "name": "Art Song",
       "url": "https://open.spotify.com/track/5LDole12YmaSEH9V6A8BW4"
@@ -5799,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "Biyernes Ng Gabi",
+        "url": "https://open.spotify.com/album/37qoHghkXpZdBj8Nb07IM9"
+      },
+      "artists": [
+        {
+          "name": "Blackburn",
+          "url": "https://open.spotify.com/artist/778rwmQLCP2bQ5qNRKV7oL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166100,
+      "name": "Biyernes Ng Gabi",
+      "url": "https://open.spotify.com/track/2lqnqZZlgytzAZ7bxnR9jJ"
+    },
+    {
+      "album": {
         "name": "BLACK CROW",
         "url": "https://open.spotify.com/album/7GOHsrWvEMZa6dS9qgGUlo"
       },
@@ -5846,7 +5926,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192000,
       "name": "Blindfold",
       "url": "https://open.spotify.com/track/7GAwyhXA5FbEcWQYXr2AYD"
@@ -7341,6 +7421,24 @@
     },
     {
       "album": {
+        "name": "CHEETOS FREESTYLE",
+        "url": "https://open.spotify.com/album/3p1DpX5kHbVgDeBg6MFm54"
+      },
+      "artists": [
+        {
+          "name": "KPC",
+          "url": "https://open.spotify.com/artist/38bPbvvWC0Le02oOntVqeJ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91861,
+      "name": "CHEETOS FREESTYLE",
+      "url": "https://open.spotify.com/track/41BFE4wnsd9JiFGOpGcagz"
+    },
+    {
+      "album": {
         "name": "CHEKE",
         "url": "https://open.spotify.com/album/14Yq1ALWq9GgBULqGl7YX5"
       },
@@ -7866,7 +7964,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 195500,
       "name": "Come Over",
       "url": "https://open.spotify.com/track/5mjdijavrwpnBLM0qSIDog"
@@ -8638,7 +8736,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 264285,
       "name": "DALAWA",
       "url": "https://open.spotify.com/track/3GNyW0eCuiM445OIFIEgLI"
@@ -10058,6 +10156,24 @@
       "duration_ms": 154220,
       "name": "Dito muna ko'",
       "url": "https://open.spotify.com/track/5PZa5nUZbl5CgexjUvXFuY"
+    },
+    {
+      "album": {
+        "name": "Dito Na Lang",
+        "url": "https://open.spotify.com/album/4N6F62F3pIGZdTo49WnoZg"
+      },
+      "artists": [
+        {
+          "name": "Airah Balmes",
+          "url": "https://open.spotify.com/artist/1kH7M9qeAGBSbgkrYDhA6R"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200975,
+      "name": "Dito Na Lang",
+      "url": "https://open.spotify.com/track/5dEvxxiCSqphWgWJ0ujMJK"
     },
     {
       "album": {
@@ -12914,7 +13030,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 271236,
       "name": "found You",
       "url": "https://open.spotify.com/track/30uWbg8Xnz6gJ2mAdG14R6"
@@ -15896,6 +16012,24 @@
       "duration_ms": 257877,
       "name": "Hiling",
       "url": "https://open.spotify.com/track/2maQa0zbsLpwoBvlU8reit"
+    },
+    {
+      "album": {
+        "name": "Hiling",
+        "url": "https://open.spotify.com/album/2fxl5FoptP9cFB18VDsyes"
+      },
+      "artists": [
+        {
+          "name": "Chan Millanes",
+          "url": "https://open.spotify.com/artist/4Pa21YyLumZrqJ53AM1qgx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237894,
+      "name": "Hiling",
+      "url": "https://open.spotify.com/track/0dRqTJoFumgRpkDS7OlsEw"
     },
     {
       "album": {
@@ -20015,6 +20149,24 @@
     },
     {
       "album": {
+        "name": "Kamas",
+        "url": "https://open.spotify.com/album/3uVo31MmwLRy5bfCW3btoB"
+      },
+      "artists": [
+        {
+          "name": "Chuckoy Vicu\u00f1a Combo",
+          "url": "https://open.spotify.com/artist/5Vm3GOPQZyR5oQIbDw0tp0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235191,
+      "name": "Kamas",
+      "url": "https://open.spotify.com/track/5HBRG9jaYnz0rlvqgRL5V4"
+    },
+    {
+      "album": {
         "name": "Kamay",
         "url": "https://open.spotify.com/album/521mbRcbE3PxzKBi0OhPUR"
       },
@@ -20044,7 +20196,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 256000,
       "name": "KAMSA",
       "url": "https://open.spotify.com/track/2TG3EEdceCZ4nnZPwyPQQu"
@@ -20486,6 +20638,24 @@
       "duration_ms": 219183,
       "name": "Keep on Believing",
       "url": "https://open.spotify.com/track/1XhYiJTfBZIrMTa6dlPxqP"
+    },
+    {
+      "album": {
+        "name": "Paradiso",
+        "url": "https://open.spotify.com/album/52gOefu9YjgjJahyVqECMI"
+      },
+      "artists": [
+        {
+          "name": "Jace Roque",
+          "url": "https://open.spotify.com/artist/6QA5BsEeCZuG2urVzZLCrk"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181236,
+      "name": "Keep On Holding On Pt. 2",
+      "url": "https://open.spotify.com/track/1C9PNh3vxPy51yEOx5gLnm"
     },
     {
       "album": {
@@ -22156,7 +22326,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 238636,
       "name": "let me (learn ur language)",
       "url": "https://open.spotify.com/track/1BXsw2CEc7FnvPMcQWTFYO"
@@ -24760,7 +24930,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 196682,
       "name": "mapalad",
       "url": "https://open.spotify.com/track/1YLNytDckA0S9nEDsJPwcY"
@@ -28463,6 +28633,24 @@
     },
     {
       "album": {
+        "name": "Once",
+        "url": "https://open.spotify.com/album/3BKCMFho1Eib4qpCTRrZmk"
+      },
+      "artists": [
+        {
+          "name": "Chris Cantada Force",
+          "url": "https://open.spotify.com/artist/5ubeV5kSMrVqdelpI3LlMw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183310,
+      "name": "Once",
+      "url": "https://open.spotify.com/track/0cNU8rmtPjdwVQ5JurnB4U"
+    },
+    {
+      "album": {
         "name": "One night",
         "url": "https://open.spotify.com/album/0UxlTYP37ZWylyNBw44414"
       },
@@ -30660,7 +30848,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 137392,
       "name": "Panoba",
       "url": "https://open.spotify.com/track/4NLqgAJWgHYHMhFrLUw8wg"
@@ -34456,7 +34644,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199067,
       "name": "Sabi Nila",
       "url": "https://open.spotify.com/track/6BnYOhiAUu52Rx80yR0uKH"
@@ -36559,6 +36747,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/41UwqRMJxxowkW4u44KzBU"
+      },
+      "artists": [
+        {
+          "name": "Shades of Native",
+          "url": "https://open.spotify.com/artist/0nmqWXpvFKgYPgy5mixlon"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/3QIfz1qckv4WSFWNaQVjQP"
+    },
+    {
+      "album": {
         "name": "Sirkero",
         "url": "https://open.spotify.com/album/5yAxIvilTvMRhiJHHJpVzu"
       },
@@ -38080,7 +38286,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 249446,
       "name": "Sulyap",
       "url": "https://open.spotify.com/track/7486rGkEnmyi00EDiBSMVA"
@@ -39034,7 +39240,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 224000,
       "name": "Tahimik",
       "url": "https://open.spotify.com/track/5ncXtfxNQYwZ1hl9VIrJ6Z"
@@ -41310,7 +41516,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 214720,
       "name": "Uhaw (feat. Freshbreed)",
       "url": "https://open.spotify.com/track/5BUXXdWkwPOFhpWJ4BrTe4"
@@ -43138,6 +43344,24 @@
       "duration_ms": 210947,
       "name": "We'll Make It",
       "url": "https://open.spotify.com/track/5BQkDSq0Ede8OXMiDFbAPW"
+    },
+    {
+      "album": {
+        "name": "Weep Year",
+        "url": "https://open.spotify.com/album/57hbf1pPnC6VxmYys68vD1"
+      },
+      "artists": [
+        {
+          "name": "Brad Louisee",
+          "url": "https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160010,
+      "name": "Weep Year",
+      "url": "https://open.spotify.com/track/1I0oP269CujEUnBA4NMEOg"
     },
     {
       "album": {

@@ -247,6 +247,32 @@
     },
     {
       "album": {
+        "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+        "url": "https://open.spotify.com/album/5qT2WTrg8b062akPjO9AGY"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "name": "Charlie Wilson",
+          "url": "https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w"
+        },
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161053,
+      "name": "Attitude (feat. Charlie Wilson & Cash Cobain)",
+      "url": "https://open.spotify.com/track/0KFXE2mLTFdOKkTZEDgJPv"
+    },
+    {
+      "album": {
         "name": "Awoyo Sofo",
         "url": "https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah"
       },
@@ -280,7 +306,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 162646,
       "name": "Back Into It",
       "url": "https://open.spotify.com/track/3Kyr9vr7VP2NLc9lBqxQFZ"
@@ -1316,7 +1342,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178285,
       "name": "Go German",
       "url": "https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu"
@@ -1382,7 +1408,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199322,
       "name": "Hate Me",
       "url": "https://open.spotify.com/track/1tDf8B65kTrz87w5RJmgXG"
@@ -2163,6 +2189,28 @@
     },
     {
       "album": {
+        "name": "Maneuver",
+        "url": "https://open.spotify.com/album/25jhDPjLU58vtmoNxsYVcQ"
+      },
+      "artists": [
+        {
+          "name": "Gnewzy",
+          "url": "https://open.spotify.com/artist/2JAcb1ml3M70lNwgrkajYw"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Maneuver",
+      "url": "https://open.spotify.com/track/2ODAvnex44msoXiQvrbIkb"
+    },
+    {
+      "album": {
         "name": "MC OLUOMO",
         "url": "https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE"
       },
@@ -2532,6 +2580,24 @@
       "duration_ms": 124983,
       "name": "Offer",
       "url": "https://open.spotify.com/track/4ogJO1FCRzu1mbYJ5ykHzG"
+    },
+    {
+      "album": {
+        "name": "Ojugom Isi",
+        "url": "https://open.spotify.com/album/0bWTQDEfuuz46C7kcSCS2T"
+      },
+      "artists": [
+        {
+          "name": "Rord Kelly",
+          "url": "https://open.spotify.com/artist/2yFOQnykNui2qOv0dENRyR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161436,
+      "name": "Ojugom Isi",
+      "url": "https://open.spotify.com/track/2bi2kMSivzY1iGdUsbErkj"
     },
     {
       "album": {
@@ -3403,6 +3469,28 @@
     },
     {
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
+    },
+    {
+      "album": {
         "name": "Trouble",
         "url": "https://open.spotify.com/album/4EsC6oCWtJjU9zuHBIxan8"
       },
@@ -3668,7 +3756,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 143692,
       "name": "WELCOME 2 MY STRIP (Feat. ODUMODUBLVCK)",
       "url": "https://open.spotify.com/track/58QstEOypB4xIe3ta8Qhya"

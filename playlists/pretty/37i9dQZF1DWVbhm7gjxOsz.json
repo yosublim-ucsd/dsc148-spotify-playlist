@@ -1,6 +1,6 @@
 {
   "description": "Crusin' is not a crime, it's a lifestyle! ",
-  "num_followers": 74608,
+  "num_followers": 74763,
   "original_name": "Lowrider Crusin'",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Delfonics",
-        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
-      },
-      "artists": [
-        {
-          "name": "The Delfonics",
-          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Didn't I (Blow Your Mind This Time)",
-      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The ABC's Of Soul, Vol. 3 (Classics From The ABC Records Catalog 1975-1979)",
         "url": "https://open.spotify.com/album/3pbZUEap46WPw4nxrSjP4n"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 255173,
       "name": "Float On - Single Version",
       "url": "https://open.spotify.com/track/4kxDa9niTJIyh89afKjpCR"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Delfonics",
+        "url": "https://open.spotify.com/album/6Ie6D0KslXxrbkOAr5sbyX"
+      },
+      "artists": [
+        {
+          "name": "The Delfonics",
+          "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "Car Wash",
-        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
-      },
-      "artists": [
-        {
-          "name": "Rose Royce",
-          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
-        }
-      ],
-      "duration_ms": 238200,
-      "name": "I Wanna Get Next To You",
-      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Best Of The Temprees",
         "url": "https://open.spotify.com/album/2TZV6MtoBCNoZnOhcEG1FG"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 261826,
       "name": "Love...Can Be So Wonderful",
       "url": "https://open.spotify.com/track/2lRD5UGnUCaon5g5cHbkCC"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Car Wash",
+        "url": "https://open.spotify.com/album/1lUemDpotxT7p1aCGSvWDz"
+      },
+      "artists": [
+        {
+          "name": "Rose Royce",
+          "url": "https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO"
+        }
+      ],
+      "duration_ms": 238200,
+      "name": "I Wanna Get Next To You",
+      "url": "https://open.spotify.com/track/1rff5WJrSljfCLYFoXkDiT"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "I Love You",
-        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
-      },
-      "artists": [
-        {
-          "name": "Eddie Holman",
-          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "Hey There Lonely Girl",
-      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Best Of The Penguins",
         "url": "https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 179426,
       "name": "Earth Angel (Will You Be Mine)",
       "url": "https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "I Love You",
+        "url": "https://open.spotify.com/album/7Ab7hqMWNwYcUGCrltzX8r"
+      },
+      "artists": [
+        {
+          "name": "Eddie Holman",
+          "url": "https://open.spotify.com/artist/4hLuzWVCPicO3nNHfFvB32"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "Hey There Lonely Girl",
+      "url": "https://open.spotify.com/track/1MI8aQJAoaYhIaVNz5giKB"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -903,22 +903,6 @@
       "duration_ms": 270856,
       "name": "Do You Love",
       "url": "https://open.spotify.com/track/7IUv36NL5erXotT7sTQ5MD"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
-        "name": "Frost Presents...Raza Radio",
-        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
-      },
-      "artists": [
-        {
-          "name": "Lighter Shade Of Brown",
-          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
-        }
-      ],
-      "duration_ms": 212880,
-      "name": "On A Sunday Afternoon",
-      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -951,6 +935,22 @@
       "duration_ms": 177946,
       "name": "I Do Love You",
       "url": "https://open.spotify.com/track/3J0VYipa6lrdBkjLM7j4iI"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "Frost Presents...Raza Radio",
+        "url": "https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj"
+      },
+      "artists": [
+        {
+          "name": "Lighter Shade Of Brown",
+          "url": "https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2"
+        }
+      ],
+      "duration_ms": 212880,
+      "name": "On A Sunday Afternoon",
+      "url": "https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb"
     },
     {
       "added_at": "2024-01-05 17:02:31",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-01-05 17:02:31",
       "album": {
-        "name": "The Complete Motown Singles Vol. 10: 1970",
-        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
-      },
-      "artists": [
-        {
-          "name": "The Originals",
-          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "The Bells",
-      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
-    },
-    {
-      "added_at": "2024-01-05 17:02:31",
-      "album": {
         "name": "The Best Of The Animals",
         "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 148346,
       "name": "Don't Let Me Be Misunderstood",
       "url": "https://open.spotify.com/track/1jHnZTRWg5xRHV4SeyUiQz"
+    },
+    {
+      "added_at": "2024-01-05 17:02:31",
+      "album": {
+        "name": "The Complete Motown Singles Vol. 10: 1970",
+        "url": "https://open.spotify.com/album/6jMXo2j1AIktuattwNYnBe"
+      },
+      "artists": [
+        {
+          "name": "The Originals",
+          "url": "https://open.spotify.com/artist/11EZGTWr2pY0VZPlWokAbl"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "The Bells",
+      "url": "https://open.spotify.com/track/2kLrFBgVs9BsyNQ6EDc5LH"
     },
     {
       "added_at": "2024-01-05 17:02:31",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : DJ Quick x Kalash",
+  "description": "Les hits dancehall du moment. Photo : P.L.L",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199024,
       "name": "#Ofcourse",
       "url": "https://open.spotify.com/track/0Drfj8Up1EMkQIK216sL1a"
@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158387,
       "name": "Denge IV",
       "url": "https://open.spotify.com/track/2ZfqGYJqezAO0mJOh5UCoG"
@@ -2398,6 +2398,28 @@
       "duration_ms": 134918,
       "name": "Ek c tou",
       "url": "https://open.spotify.com/track/6Ufsa246KudOlxKXRM2PgG"
+    },
+    {
+      "album": {
+        "name": "En Balade",
+        "url": "https://open.spotify.com/album/6zt3ldUNs5rNg5LEm3glCd"
+      },
+      "artists": [
+        {
+          "name": "Kima",
+          "url": "https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS"
+        },
+        {
+          "name": "Kalash",
+          "url": "https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211760,
+      "name": "En Balade",
+      "url": "https://open.spotify.com/track/4B4RGlB0MZvMEC5I6NIHZ1"
     },
     {
       "album": {
@@ -3796,7 +3818,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 151859,
       "name": "JoyRide",
       "url": "https://open.spotify.com/track/1zwz2ZRQg5tuBrJjOtSSCo"
@@ -4678,6 +4700,24 @@
       "duration_ms": 133875,
       "name": "MI MAS LA - Karata",
       "url": "https://open.spotify.com/track/31xmZLEMq7hSGqaoelv9jJ"
+    },
+    {
+      "album": {
+        "name": "Milano",
+        "url": "https://open.spotify.com/album/7JHGHNo2ujUPCUlQKqjNot"
+      },
+      "artists": [
+        {
+          "name": "Kenzy",
+          "url": "https://open.spotify.com/artist/5t4yYGPB53QNbWb6lDEJYD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192035,
+      "name": "Milano",
+      "url": "https://open.spotify.com/track/3Vq6VtxCcFp3QoyeSyG34F"
     },
     {
       "album": {
@@ -5894,6 +5934,24 @@
       "duration_ms": 168866,
       "name": "PRETTY SUIT",
       "url": "https://open.spotify.com/track/0g3sERiGTPYQ0bM1mMlNt6"
+    },
+    {
+      "album": {
+        "name": "Propaganda",
+        "url": "https://open.spotify.com/album/6wvL9dA8qjQcoYd8qx6tJj"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139600,
+      "name": "Propaganda",
+      "url": "https://open.spotify.com/track/6QtEvlPe9vgUX0OE8m4ix6"
     },
     {
       "album": {

@@ -1,31 +1,31 @@
 {
-  "description": "Slimane au sommet de la premi\u00e8re playlist de France.",
-  "num_followers": 2246236,
+  "description": "Carbonne au sommet de la premi\u00e8re playlist de France.",
+  "num_followers": 2246613,
   "original_name": "Hits du Moment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAAAq0TR3xdj91HARSB5JYGvX",
+  "snapshot_id": "Zk+8YAAAAAAzLYtnJm5GpLKNtpGVNUCi",
   "tracks": [
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Mon amour",
-        "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
       },
       "artists": [
         {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+          "name": "Carbonne",
+          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
         }
       ],
-      "duration_ms": 180908,
-      "name": "Mon amour",
-      "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
+      "duration_ms": 165775,
+      "name": "Imagine",
+      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/3qeagjakbHQDOkBnQOTMiO"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/38OibRn3CyUnQZg9RWLv7u"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Beautiful Things",
         "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
@@ -61,7 +61,23 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Mon amour",
+        "url": "https://open.spotify.com/album/6FguEmDlsEN93BBiEbwsRn"
+      },
+      "artists": [
+        {
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
+        }
+      ],
+      "duration_ms": 180908,
+      "name": "Mon amour",
+      "url": "https://open.spotify.com/track/5N7IYups0hGrlVcvj0bmHG"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/6cBlaud5JVmPjkjxnwIMLx"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Petit g\u00e9nie",
         "url": "https://open.spotify.com/album/4Ta3fRzeMUtQlQrrcn1cuE"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/1eldTykrnkEBLX41bk5eMw"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -125,7 +141,27 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "I love you",
+        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+      },
+      "artists": [
+        {
+          "name": "Dadju",
+          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 237866,
+      "name": "I love you",
+      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
@@ -141,7 +177,23 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Avec classe (feat. Aya Nakamura & Trinix)",
         "url": "https://open.spotify.com/album/2PeOwsFqU4M5IabYcuMnAL"
@@ -165,23 +217,7 @@
       "url": "https://open.spotify.com/track/2RqZ8JUBXP4C0nzttGnTL1"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "I Don't Wanna Wait",
         "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
@@ -201,27 +237,27 @@
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "I love you",
-        "url": "https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6"
+        "name": "SPIDER",
+        "url": "https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf"
       },
       "artists": [
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         },
         {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+          "name": "DYSTINCT",
+          "url": "https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG"
         }
       ],
-      "duration_ms": 237866,
-      "name": "I love you",
-      "url": "https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb"
+      "duration_ms": 188818,
+      "name": "SPIDER",
+      "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
@@ -237,7 +273,7 @@
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Miroirs",
         "url": "https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu"
@@ -257,7 +293,39 @@
       "url": "https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Hotstepper",
+        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        }
+      ],
+      "duration_ms": 141795,
+      "name": "Hotstepper",
+      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Ceux qu'on \u00e9tait",
+        "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        }
+      ],
+      "duration_ms": 174106,
+      "name": "Ceux qu'on \u00e9tait",
+      "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Loca Loca",
         "url": "https://open.spotify.com/album/5tWOB91EMvs8L5pTztNTI2"
@@ -277,7 +345,7 @@
       "url": "https://open.spotify.com/track/65WsGJwQxiaHsNsxaicEB2"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "D\u00e9cennie",
         "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
@@ -297,55 +365,7 @@
       "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Hotstepper",
-        "url": "https://open.spotify.com/album/2fEyzL7jdYeu1trYCeFTXr"
-      },
-      "artists": [
-        {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
-        }
-      ],
-      "duration_ms": 141795,
-      "name": "Hotstepper",
-      "url": "https://open.spotify.com/track/0p0zES2I7Lgeow1yXmF8ss"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "TRUSTFALL (Tour Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 212306,
-      "name": "All Out Of Fight",
-      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
-      },
-      "artists": [
-        {
-          "name": "Carbonne",
-          "url": "https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD"
-        }
-      ],
-      "duration_ms": 165775,
-      "name": "Imagine",
-      "url": "https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
@@ -365,195 +385,7 @@
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Gata Only",
-        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Gata Only",
-      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ceux qu'on \u00e9tait",
-        "url": "https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD"
-      },
-      "artists": [
-        {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
-        }
-      ],
-      "duration_ms": 174106,
-      "name": "Ceux qu'on \u00e9tait",
-      "url": "https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Alibi (feat. Rudimental)",
-        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        }
-      ],
-      "duration_ms": 184852,
-      "name": "Alibi (feat. Rudimental)",
-      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Prime",
-        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 141226,
-      "name": "Position",
-      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Madrid City",
-        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        }
-      ],
-      "duration_ms": 172727,
-      "name": "Madrid City",
-      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Parapluie",
-        "url": "https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF"
-      },
-      "artists": [
-        {
-          "name": "Jeck",
-          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
-        }
-      ],
-      "duration_ms": 176125,
-      "name": "Parapluie",
-      "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 200010,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
-      },
-      "artists": [
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
-        }
-      ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Houdini",
-        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 185917,
-      "name": "Houdini",
-      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/5ym9a0EgZNubqWMQXI9cha"
@@ -573,75 +405,147 @@
       "url": "https://open.spotify.com/track/6MsXDsDuTgFsq9QhpmtAU6"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "CONTIGO (with Ti\u00ebsto)",
-        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+        "name": "TRUSTFALL (Tour Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4hgincUyDza4A228fFQRiK"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 212306,
+      "name": "All Out Of Fight",
+      "url": "https://open.spotify.com/track/0ZtWVho1KKMD9w55XYoDPl"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Parapluie",
+        "url": "https://open.spotify.com/album/1iA5D7sBXDGAITkSWPIqDF"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        }
+      ],
+      "duration_ms": 176125,
+      "name": "Parapluie",
+      "url": "https://open.spotify.com/track/4CkbzYcdIRJhrA9tzwFj0B"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
         },
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
         }
       ],
-      "duration_ms": 192786,
-      "name": "CONTIGO (with Ti\u00ebsto)",
-      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "Madrid City",
+        "url": "https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+      "duration_ms": 172727,
+      "name": "Madrid City",
+      "url": "https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Bottega",
-        "url": "https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Eva",
-          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 178373,
-      "name": "Bottega",
-      "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "Houdini",
+        "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 185917,
+      "name": "Houdini",
+      "url": "https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Prime",
+        "url": "https://open.spotify.com/album/2dF2ZByoSuH2ZZrzoGpjzQ"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 141226,
+      "name": "Position",
+      "url": "https://open.spotify.com/track/3Zw66L4FvI9YUUx17OReRD"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Alibi (feat. Rudimental)",
+        "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        }
+      ],
+      "duration_ms": 184852,
+      "name": "Alibi (feat. Rudimental)",
+      "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Aucune attache",
         "url": "https://open.spotify.com/album/2u9Mg8knLxFwiEsALkFslI"
@@ -657,7 +561,39 @@
       "url": "https://open.spotify.com/track/3KZN01EuBoqh04jyGXpnxr"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Bottega",
+        "url": "https://open.spotify.com/album/05qqIxEnOp2C3jSKLKN5Xv"
+      },
+      "artists": [
+        {
+          "name": "Eva",
+          "url": "https://open.spotify.com/artist/5nH2klYTzn8CNvUv1GOGQO"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "Bottega",
+      "url": "https://open.spotify.com/track/5oc1MmKFXsjoGrhfa6WHsx"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "SURRENDER",
         "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
@@ -677,7 +613,39 @@
       "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "La symphonie des \u00e9clairs",
         "url": "https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW"
@@ -693,7 +661,59 @@
       "url": "https://open.spotify.com/track/4QIH0XYnCLoCl1WZIV08Pn"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Boucan (feat. Franglish)",
+        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+      },
+      "artists": [
+        {
+          "name": "KeBlack",
+          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171216,
+      "name": "Boucan (feat. Franglish)",
+      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "RUSH! (ARE U COMING?)",
         "url": "https://open.spotify.com/album/2kcJ3TxBhSwmki0QWFXUz8"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/5mY6WIHXoBsOCSyQxrTg0E"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "T\u2019\u00e9tais o\u00f9 ?",
         "url": "https://open.spotify.com/album/4YzgzJggoHU1azpDoUMMf5"
@@ -737,39 +757,7 @@
       "url": "https://open.spotify.com/track/1q6nM8Y7NJDsgFknLfZfp4"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Recommence-moi",
-        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
-      },
-      "artists": [
-        {
-          "name": "SANTA",
-          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
-        }
-      ],
-      "duration_ms": 196334,
-      "name": "Recommence-moi",
-      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "I'm Picky (Unplugged)",
         "url": "https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f"
@@ -785,47 +773,7 @@
       "url": "https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "IL LE FALLAIT",
-        "url": "https://open.spotify.com/album/33Hs5QPrPlpiDEWKhNfX2S"
-      },
-      "artists": [
-        {
-          "name": "Fav\u00e9",
-          "url": "https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY"
-        },
-        {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        }
-      ],
-      "duration_ms": 176120,
-      "name": "FLASHBACK",
-      "url": "https://open.spotify.com/track/2PWJx5FwMrMVEaTjwYait1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Sentiments Heureux (nan j'd\u00e9conne)",
         "url": "https://open.spotify.com/album/1w0eAL8YxKe9MVvZdNtUqH"
@@ -841,7 +789,27 @@
       "url": "https://open.spotify.com/track/656reMy5BDuXUbNRr7oeg3"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "CONTIGO (with Ti\u00ebsto)",
+        "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 192786,
+      "name": "CONTIGO (with Ti\u00ebsto)",
+      "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Friendly Fire",
         "url": "https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM"
@@ -857,7 +825,39 @@
       "url": "https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Recommence-moi",
+        "url": "https://open.spotify.com/album/7BNmTMwxm2o0oLWgy6L27Y"
+      },
+      "artists": [
+        {
+          "name": "SANTA",
+          "url": "https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo"
+        }
+      ],
+      "duration_ms": 196334,
+      "name": "Recommence-moi",
+      "url": "https://open.spotify.com/track/40dY4995mT1ZJAD0lyDkST"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-05-23 22:00:00",
       "album": {
         "name": "Danza Kuduro (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
@@ -881,40 +881,40 @@
       "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Boucan (feat. Franglish)",
-        "url": "https://open.spotify.com/album/6SHZjDJD8769qn7l5kGp4r"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
       "artists": [
         {
-          "name": "KeBlack",
-          "url": "https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 171216,
-      "name": "Boucan (feat. Franglish)",
-      "url": "https://open.spotify.com/track/6jElwivDtkQUv9QFGrdN26"
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-05-23 22:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     }
   ],
   "unique_name": "Hits du Moment",

@@ -1,6 +1,6 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 130268,
+  "num_followers": 130285,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
@@ -627,42 +627,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "DESIGN",
-        "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
-      },
-      "artists": [
-        {
-          "name": "lo-key design",
-          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
-        }
-      ],
-      "duration_ms": 199113,
-      "name": "CAREFREE",
-      "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "paratroop(\u901a\u5e38\u76e4)",
-        "url": "https://open.spotify.com/album/6tmqRQRqrU9lrOd5EzjsYx"
-      },
-      "artists": [
-        {
-          "name": "sleepy.ab",
-          "url": "https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy"
-        }
-      ],
-      "duration_ms": 313360,
-      "name": "\u30c9\u30ec\u30df",
-      "url": "https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh"
       },
@@ -683,6 +647,42 @@
       "duration_ms": 286366,
       "name": "Twinkle Stars",
       "url": "https://open.spotify.com/track/56fKMuyvHEhjJctUljeO4D"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "paratroop(\u901a\u5e38\u76e4)",
+        "url": "https://open.spotify.com/album/6tmqRQRqrU9lrOd5EzjsYx"
+      },
+      "artists": [
+        {
+          "name": "sleepy.ab",
+          "url": "https://open.spotify.com/artist/6K5m40eGoEYPBOg7hSLjwy"
+        }
+      ],
+      "duration_ms": 313360,
+      "name": "\u30c9\u30ec\u30df",
+      "url": "https://open.spotify.com/track/7GtfuAf9L1zSNgm7AOve9Q"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "DESIGN",
+        "url": "https://open.spotify.com/album/0QXiv0aGxKVLugiTD6Wfc4"
+      },
+      "artists": [
+        {
+          "name": "lo-key design",
+          "url": "https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 199113,
+      "name": "CAREFREE",
+      "url": "https://open.spotify.com/track/3F3ND4kdC19c5n08haZHnk"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
-        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
+        "name": "Branches",
+        "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
       },
       "artists": [
         {
-          "name": "Akina Nakamori",
-          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
         }
       ],
-      "duration_ms": 382866,
-      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
-      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
+      "duration_ms": 273960,
+      "name": "Branches",
+      "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -903,18 +903,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "Branches",
-        "url": "https://open.spotify.com/album/0qukeQhJHQQUgZi1MSkFNm"
+        "name": "YELLOW DANCER",
+        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
       },
       "artists": [
         {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+          "name": "Gen Hoshino",
+          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
         }
       ],
-      "duration_ms": 273960,
-      "name": "Branches",
-      "url": "https://open.spotify.com/track/6x8W3B15GIX1uYoTI7iNMJ"
+      "duration_ms": 251066,
+      "name": "\u591c",
+      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -935,18 +935,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "YELLOW DANCER",
-        "url": "https://open.spotify.com/album/3Fj07HA1r20hRdF9eepuax"
+        "name": "50th Anniversary Special A Tribute of Hayashi Tetsuji - Saudade -",
+        "url": "https://open.spotify.com/album/5xsy4iKnYN4g8uM3KWiMLf"
       },
       "artists": [
         {
-          "name": "Gen Hoshino",
-          "url": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs"
+          "name": "Akina Nakamori",
+          "url": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J"
         }
       ],
-      "duration_ms": 251066,
-      "name": "\u591c",
-      "url": "https://open.spotify.com/track/2Ln7KVpxs0DetedsRx2pNj"
+      "duration_ms": 382866,
+      "name": "\u5317\u30a6\u30a4\u30f3\u30b0 -CLASSIC-",
+      "url": "https://open.spotify.com/track/07OiQkDWUwgatxU5WUWxXN"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
+        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
+      },
+      "artists": [
+        {
+          "name": "Schroeder-Headz",
+          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
+        }
+      ],
+      "duration_ms": 195693,
+      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
+      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "\u96ea\u89e3",
         "url": "https://open.spotify.com/album/3lTSCj370LfP4sca6gOCr5"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 250000,
       "name": "\u96ea\u89e3",
       "url": "https://open.spotify.com/track/6wYQ2o2ayXPpwHmhUiz5p9"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "HALSHURA\uff08\u30cf\u30eb\u30b7\u30e5\u30e9\uff09",
-        "url": "https://open.spotify.com/album/3KivbZ6SNZ4RNVc4R3oWbm"
-      },
-      "artists": [
-        {
-          "name": "Schroeder-Headz",
-          "url": "https://open.spotify.com/artist/3o6lq0SLgILHWwI4dTwsfo"
-        }
-      ],
-      "duration_ms": 195693,
-      "name": "\u624b\u7d19\u304c\u5c4a\u3051\u3066\u304f\u308c\u305f\u3082\u306e",
-      "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "THUNDERBIRD",
-        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
-      },
-      "artists": [
-        {
-          "name": "Ohashi Trio",
-          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "\u3064\u3050\u307f",
-      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 266729,
       "name": "Arrows",
       "url": "https://open.spotify.com/track/2AfPNXHk6iiGWGpt4bT0fH"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
+        "name": "THUNDERBIRD",
+        "url": "https://open.spotify.com/album/7nNeG1szKiODPoXM2UC3Lg"
+      },
+      "artists": [
+        {
+          "name": "Ohashi Trio",
+          "url": "https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "\u3064\u3050\u307f",
+      "url": "https://open.spotify.com/track/2r4QuVAiy86mVpxzqoQCCQ"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1451,6 +1451,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
+        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
+      },
+      "artists": [
+        {
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+        }
+      ],
+      "duration_ms": 310520,
+      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
+      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "Night Flow",
         "url": "https://open.spotify.com/album/6BUtooxe1o0S9rSLZbmZ24"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 249940,
       "name": "reiji no machi",
       "url": "https://open.spotify.com/track/5hMGyNKCPjI0VFjS0YoozL"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "\u5e30\u3063\u3066\u304b\u3089\u3001\u6b4c\u3044\u305f\u304f\u306a\u3063\u3066\u3082\u3044\u3044\u3088\u3046\u306b\u3068\u601d\u3063\u305f\u306e\u3060\u3002",
-        "url": "https://open.spotify.com/album/6Pq4P9sRKc2siKZ8j7izcG"
-      },
-      "artists": [
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 310520,
-      "name": "\u306d\u3080\u308b\u306e\u307e\u3061~Tidur Tidur~",
-      "url": "https://open.spotify.com/track/2CXT8P6nv9BfKMn4xSMU8V"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
+        "name": "SUPERMARKET",
+        "url": "https://open.spotify.com/album/5RFQeZyK2dQb4MhdKx0XXq"
+      },
+      "artists": [
+        {
+          "name": "Sakura Fujiwara",
+          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
+        }
+      ],
+      "duration_ms": 94600,
+      "name": "\u697d\u5712",
+      "url": "https://open.spotify.com/track/4HwY4xYxPeI93qsT3rpnwv"
+    },
+    {
+      "added_at": "2024-03-05 17:56:07",
+      "album": {
         "name": "\u3044\u3064\u3057\u304b",
         "url": "https://open.spotify.com/album/6x0XM8OMPAoUCt0uTmlCFq"
       },
@@ -1559,34 +1575,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "MY\u5922\u4e2d",
-        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
+        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
       },
       "artists": [
         {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
         }
       ],
-      "duration_ms": 249000,
-      "name": "MY\u5922\u4e2d",
-      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
-    },
-    {
-      "added_at": "2024-03-05 17:56:07",
-      "album": {
-        "name": "SUPERMARKET",
-        "url": "https://open.spotify.com/album/5RFQeZyK2dQb4MhdKx0XXq"
-      },
-      "artists": [
-        {
-          "name": "Sakura Fujiwara",
-          "url": "https://open.spotify.com/artist/5tvnQkP9zNAqYW2YKYk1Et"
-        }
-      ],
-      "duration_ms": 94600,
-      "name": "\u697d\u5712",
-      "url": "https://open.spotify.com/track/4HwY4xYxPeI93qsT3rpnwv"
+      "duration_ms": 259713,
+      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
+      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
     },
     {
       "added_at": "2024-03-05 17:56:07",
@@ -1607,18 +1607,18 @@
     {
       "added_at": "2024-03-05 17:56:07",
       "album": {
-        "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-        "url": "https://open.spotify.com/album/6ipSFR7aTdNLtDR1TnJS86"
+        "name": "MY\u5922\u4e2d",
+        "url": "https://open.spotify.com/album/4aDn3y7PU3lAMdGE9C62Ka"
       },
       "artists": [
         {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+          "name": "Hanare Gumi",
+          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
         }
       ],
-      "duration_ms": 259713,
-      "name": "\u71b1\u308a\u304c\u51b7\u3081\u3084\u3089\u306c\u3046\u3061\u306b",
-      "url": "https://open.spotify.com/track/4CeWDJ0CS4OwQnm3Az0CLN"
+      "duration_ms": 249000,
+      "name": "MY\u5922\u4e2d",
+      "url": "https://open.spotify.com/track/02EC8p59zsfwJmyHzXXDGw"
     },
     {
       "added_at": "2024-03-05 17:56:07",

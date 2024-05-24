@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,503 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,526 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavtmWzC1MpQ.md) - [plain]
 | 20 | [Nature Night\-time](https://open.spotify.com/track/0qjA7VzJyneuisZRNATzWp) | [mahogany](https://open.spotify.com/artist/4DUwhWpSYNXUbSbuvtrjeA) | [Nature Hideout](https://open.spotify.com/album/5Ad8mClENx1NQfnFkA4Mv6) | 3:12 |
 | 21 | [Bird Chatter In Rainforest](https://open.spotify.com/track/5ZDdbserCXlDm3CY0Yt1bF) | [Natural Awakening](https://open.spotify.com/artist/0c854X9smbUIbXTJLLdya3) | [Rain Awakening](https://open.spotify.com/album/3Fqifn6gJ1EMsUBWXefkIc) | 3:18 |
 | 22 | [Moment Of Peace \(Forest Birds\)](https://open.spotify.com/track/1jkmpUX6l6X2irM8oADsYk) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Forest Bird Sounds Vol\. 1](https://open.spotify.com/album/3OH2XKBaROrXZ4h8DoCE1q) | 2:34 |
-| 23 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
-| 24 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
+| 23 | [Tropical Waves](https://open.spotify.com/track/1HGtfBNK5UeGauqcghOVWs) | [Relaxed Minds](https://open.spotify.com/artist/0AuDQR88HtZsQXLnbq007R) | [Relaxed Minds](https://open.spotify.com/album/4g2wYVgU9tOSzng518xSmm) | 2:35 |
+| 24 | [Still the River Flows](https://open.spotify.com/track/45oRTAt9cy1PHglZfBlG5P) | [The Land Seven](https://open.spotify.com/artist/4aV5OhaaDktvyVsYUXUWsQ) | [Still the River Flows](https://open.spotify.com/album/4bc5XFLY6bQ53TB4seBef0) | 2:33 |
 | 25 | [Suburban Forest Rain 1](https://open.spotify.com/track/4ZucEGIAQEzyrnIbhrgh9Z) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [Suburban Forest Rain](https://open.spotify.com/album/4f7VQq5S72LpVOV1bu08Tt) | 2:18 |
 | 26 | [Bustling River Sounds](https://open.spotify.com/track/5j5HMHeNbSDzVU9eEgZzUI) | [Rivers and Streams](https://open.spotify.com/artist/6NYAxBsKdDH00qCDvcFdA7) | [Soothing River Sounds](https://open.spotify.com/album/7HqcInonH7fXgJ83uyAAap) | 2:50 |
 | 27 | [Rain Forest Meditation](https://open.spotify.com/track/1uBwQtsJkaMNcr8uNLsKMF) | [Pinetree Way](https://open.spotify.com/artist/3nGR9SAynFBCiRqx1NiU67) | [Rainmaker](https://open.spotify.com/album/6HnBgCITUNtLIO5flO1ex5) | 3:50 |

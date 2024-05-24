@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: Kaleb J",
+  "description": "Lagu-lagu terkini yang sedang beranjak menjadi hit. Cover: raissa anggiani",
   "name": "Naik Daun",
   "tracks": [
     {
@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "Aku Bertahan",
+        "url": "https://open.spotify.com/album/2a3yXGRSoPcQWEQVH5qzpf"
+      },
+      "artists": [
+        {
+          "name": "Lalahuta",
+          "url": "https://open.spotify.com/artist/2DdKH7Twy3EsbCM3rofqFJ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Aku Bertahan",
+      "url": "https://open.spotify.com/track/5uNqIWLZSregqXPNBTX6jO"
+    },
+    {
+      "album": {
         "name": "Aku Memilihmu",
         "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 225391,
       "name": "Andai",
       "url": "https://open.spotify.com/track/2yMhWj3fSIqp9KRRBaegzi"
@@ -743,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Boleh Juga",
+        "url": "https://open.spotify.com/album/61yVevFbBURg0USzarrdQ4"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227093,
+      "name": "Boleh Juga",
+      "url": "https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5"
+    },
+    {
+      "album": {
         "name": "DIVINE",
         "url": "https://open.spotify.com/album/0QfsqeNAmd48QUzPHYV2V8"
       },
@@ -855,6 +891,24 @@
     },
     {
       "album": {
+        "name": "Cahaya",
+        "url": "https://open.spotify.com/album/3XnIcjWBfEuKeLRsL6743o"
+      },
+      "artists": [
+        {
+          "name": "Maudy Ayunda",
+          "url": "https://open.spotify.com/artist/17Wt0hzZb6fAEVfIHffQFB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185382,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/4ZJ0hcwJ69NyY0x8TlbnQV"
+    },
+    {
+      "album": {
         "name": "CANDYRELLA",
         "url": "https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh"
       },
@@ -906,7 +960,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 253023,
       "name": "Cerah",
       "url": "https://open.spotify.com/track/0i0Yv9X7PiYQ2koVWruJ6K"
@@ -982,7 +1036,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 300805,
       "name": "Cinta Luka Sempurna",
       "url": "https://open.spotify.com/track/7ayDko6D9pHNsXjJ00iHom"
@@ -1098,7 +1152,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 185739,
       "name": "Dan Ku",
       "url": "https://open.spotify.com/track/7gdIfi2lsEXEqt1yJFt7yt"
@@ -1332,7 +1386,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 278600,
       "name": "Episode Bahagia",
       "url": "https://open.spotify.com/track/1NNCFYPVLb1rmaz7gYwS9t"
@@ -1408,7 +1462,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 271477,
       "name": "Foto kita blur",
       "url": "https://open.spotify.com/track/0qbRvZ1alpPGmV52wKb2gJ"
@@ -1932,7 +1986,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 225483,
       "name": "Jangan Pergi",
       "url": "https://open.spotify.com/track/2dSecAdTNXQ942faSKJpmo"
@@ -1972,6 +2026,24 @@
       "duration_ms": 288979,
       "name": "Jelita",
       "url": "https://open.spotify.com/track/5ypEHS0QT7YnUbfsE1ZLH3"
+    },
+    {
+      "album": {
+        "name": "Jika Nanti",
+        "url": "https://open.spotify.com/album/5UF9btLxYk31JgmJUAJERt"
+      },
+      "artists": [
+        {
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222260,
+      "name": "Jika Nanti",
+      "url": "https://open.spotify.com/track/1EatXWpl3HD6QwD00urZ2W"
     },
     {
       "album": {
@@ -2069,6 +2141,24 @@
     },
     {
       "album": {
+        "name": "8",
+        "url": "https://open.spotify.com/album/1UpXh7XiaXwYqf9ldAQrea"
+      },
+      "artists": [
+        {
+          "name": "D\u2019MASIV",
+          "url": "https://open.spotify.com/artist/1hioeMAsVwJ3bvcb9lxBpB"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248672,
+      "name": "Kapan Kau Kembali",
+      "url": "https://open.spotify.com/track/3lGjN6jtO1zDU1Uq5ape78"
+    },
+    {
+      "album": {
         "name": "Karena Kamu (Love Recalls Version)",
         "url": "https://open.spotify.com/album/2Pi4XOJlOvbhNjd6Omnr2h"
       },
@@ -2142,7 +2232,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157500,
       "name": "Kasian",
       "url": "https://open.spotify.com/track/1lbwSWK60uOB2QSdRLCt79"
@@ -2564,7 +2654,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 256695,
       "name": "Laki-Laki Bukan Pengecut",
       "url": "https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp"
@@ -2956,7 +3046,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237853,
       "name": "Manusia Istimewa",
       "url": "https://open.spotify.com/track/3bHV8734qFN5YGnUNw62Cb"
@@ -3498,7 +3588,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 253411,
       "name": "Pada Akhirnya, Berkawan Berlalu",
       "url": "https://open.spotify.com/track/2AEBdOleejb5T6Gl2VALsb"
@@ -3682,7 +3772,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 396000,
       "name": "Perjalanan Singkat",
       "url": "https://open.spotify.com/track/1aD6YJmO4H9GB6DP4dh56s"
@@ -3826,7 +3916,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207096,
       "name": "Rona Jingga",
       "url": "https://open.spotify.com/track/6Pz7UO9PrihGAOoR72SM4q"
@@ -4068,7 +4158,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 226816,
       "name": "Semoga, Selamanya.",
       "url": "https://open.spotify.com/track/7jgm3QUDrLiaYLQv1VHMXy"
@@ -4210,7 +4300,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 297881,
       "name": "Seperti Laut Kepada Langit",
       "url": "https://open.spotify.com/track/5TbRXGcAJ5OHoOFBmWeDjW"
@@ -4642,6 +4732,24 @@
       "duration_ms": 242022,
       "name": "Tak Cukup Satu Kata",
       "url": "https://open.spotify.com/track/3PWN56ZibrUfhmnhTUu7yU"
+    },
+    {
+      "album": {
+        "name": "Tak Ingin Mengenalmu",
+        "url": "https://open.spotify.com/album/7omNPpYUjfINeqZjJ9qMmr"
+      },
+      "artists": [
+        {
+          "name": "Janita Gabriela",
+          "url": "https://open.spotify.com/artist/4Hg2HsjmpwAYB1yAyKE1U7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279900,
+      "name": "Tak Ingin Mengenalmu",
+      "url": "https://open.spotify.com/track/1FBrBZFAnBiUcIVEh38K6q"
     },
     {
       "album": {
@@ -5242,6 +5350,24 @@
       "duration_ms": 256573,
       "name": "Waktu Untuk Bicara",
       "url": "https://open.spotify.com/track/7LS4TvGDTt7G5BYSeyq8mq"
+    },
+    {
+      "album": {
+        "name": "Wangimu Seperti Aku",
+        "url": "https://open.spotify.com/album/38oke1HjeWq7o4d24ycUrr"
+      },
+      "artists": [
+        {
+          "name": "Winaya",
+          "url": "https://open.spotify.com/artist/5kKvSQT7B5aSLXKnvSzQHq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238749,
+      "name": "Wangimu Seperti Aku",
+      "url": "https://open.spotify.com/track/6XDprKbmT0VXk5aeKZcdjY"
     },
     {
       "album": {

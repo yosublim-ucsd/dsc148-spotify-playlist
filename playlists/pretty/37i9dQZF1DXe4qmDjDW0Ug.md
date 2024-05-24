@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,476 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,471 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 10 | [I Need A Girl \(Feat\. G\-DRAGON\)](https://open.spotify.com/track/34oRc4INwO7000LJUQLy5X) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 3:39 |
 | 11 | [풀어](https://open.spotify.com/track/2p980qlVXYLh3HdHusbhfa) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:31 |
 | 12 | [Touch love](https://open.spotify.com/track/5gFYlFpGVG6QO4Fq4O8ZX4) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [Master\`s sun OST Part 4](https://open.spotify.com/album/1tDeMHqZE2YDvbe6kGqIM7) | 4:04 |
-| 13 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
+| 13 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 |
 | 14 | [NO ONE](https://open.spotify.com/track/0iQ7Nc2YhlyGHeUi4R8Gl6) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 3:14 |
-| 15 | [Sunday \(feat\. HEIZE, Jay Park\)](https://open.spotify.com/track/0JJeoiCAa1hwcBsPxBN2w4) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [EVERYWHERE](https://open.spotify.com/album/3046u4AKfbzmAxslPFkiP7) | 3:02 |
+| 15 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
 | 16 | [점점](https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:31 |
-| 17 | [Shut Up & Groove](https://open.spotify.com/track/1WT5I6vlWjYW2cnhR1UkVA) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [And July](https://open.spotify.com/album/3xUWeFeLn6m3NXKr0FlT3E) | 3:19 |
+| 17 | [Square \(2017\)](https://open.spotify.com/track/13On7DYsJ3IrWxBWuOwM8t) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Every letter I sent you.](https://open.spotify.com/album/20hW2P3VSNJ1A7MwjIJ0Up) | 4:21 |
 | 18 | [링가링가 \(RINGA LINGA\)](https://open.spotify.com/track/7fLijBP4BGujlmHRP3aX32) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [RISE](https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3) | 3:47 |
 | 19 | [Sometimes](https://open.spotify.com/track/3yUNSNlU0h7ag5DTABjr2a) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Crush on You](https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY) | 4:23 |
 | 20 | [귀로](https://open.spotify.com/track/5B6ewNeXBcIDHqzsgAn6Dk) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 4:26 |

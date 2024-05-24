@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. Rels B en portada.",
-  "num_followers": 253732,
+  "num_followers": 253767,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -335,6 +335,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 193480,
+      "name": "CANDY",
+      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Dime Si Tu",
         "url": "https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 196823,
       "name": "Dime Si Tu",
       "url": "https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 193480,
-      "name": "CANDY",
-      "url": "https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Pobre Diablo",
-        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
-      },
-      "artists": [
-        {
-          "name": "Shantty",
-          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
-        },
-        {
-          "name": "Priscilla D\u00edaz",
-          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
-        }
-      ],
-      "duration_ms": 218297,
-      "name": "Pobre Diablo",
-      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "T\u00edrame Un Hello (Remix)",
         "url": "https://open.spotify.com/album/5tUPv0bmgylRODlVkL0FGx"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 169621,
       "name": "T\u00edrame Un Hello - Remix",
       "url": "https://open.spotify.com/track/4Kb3xZkdhXtAwAdQ0yeSSA"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Pobre Diablo",
+        "url": "https://open.spotify.com/album/1Z68G3eWNkXwDRmoDSt1WX"
+      },
+      "artists": [
+        {
+          "name": "Shantty",
+          "url": "https://open.spotify.com/artist/0CkTbu5dfB2RWaQWzE2cDd"
+        },
+        {
+          "name": "Priscilla D\u00edaz",
+          "url": "https://open.spotify.com/artist/7q7epBvUzDEKbnoMNz4s96"
+        }
+      ],
+      "duration_ms": 218297,
+      "name": "Pobre Diablo",
+      "url": "https://open.spotify.com/track/6Vu7of1zMd1LPoR0ZJuxTY"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Helado De Vainilla",
-        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 209100,
-      "name": "Helado De Vainilla",
-      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "50/50",
         "url": "https://open.spotify.com/album/1HwhsZmxSILukqwFUFKHXZ"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 198620,
       "name": "50/50",
       "url": "https://open.spotify.com/track/5L3qzDfLiHUvvVm7B0gZwW"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Helado De Vainilla",
+        "url": "https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R"
+      },
+      "artists": [
+        {
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
+        }
+      ],
+      "duration_ms": 209100,
+      "name": "Helado De Vainilla",
+      "url": "https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182967,
+      "name": "TEIDE",
+      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "Te Hice Mal (Remix)",
         "url": "https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk"
       },
@@ -1483,22 +1499,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182967,
-      "name": "TEIDE",
-      "url": "https://open.spotify.com/track/1Fz16SDK0IZGOKqvgbJNbJ"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "idek",
         "url": "https://open.spotify.com/album/3WOcKu6D3jHEPkWW28SGN1"
       },
@@ -1511,6 +1511,22 @@
       "duration_ms": 152044,
       "name": "lento",
       "url": "https://open.spotify.com/track/6y9gnJMwDfwJZrxyCd3Q6s"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Aguilera",
+        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
+      },
+      "artists": [
+        {
+          "name": "Sofish",
+          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+        }
+      ],
+      "duration_ms": 150661,
+      "name": "Aguilera",
+      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1567,54 +1583,6 @@
       "duration_ms": 217373,
       "name": "Nadie Nos Entiende",
       "url": "https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Aguilera",
-        "url": "https://open.spotify.com/album/2BmY3i6FzE8Ii6yURYz6SH"
-      },
-      "artists": [
-        {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Aguilera",
-      "url": "https://open.spotify.com/track/1wUDZpiLH0kTTnajPQr3QX"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Qui\u00e9n Pudiera?",
-        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
-      },
-      "artists": [
-        {
-          "name": "Cardellino",
-          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
-        },
-        {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
-        },
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "Veztalone",
-          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
-        },
-        {
-          "name": "Comida Para Llevar",
-          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
-        }
-      ],
-      "duration_ms": 213861,
-      "name": "Qui\u00e9n Pudiera?",
-      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1687,6 +1655,38 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Pudiera?",
+        "url": "https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph"
+      },
+      "artists": [
+        {
+          "name": "Cardellino",
+          "url": "https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0"
+        },
+        {
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+        },
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "Veztalone",
+          "url": "https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h"
+        },
+        {
+          "name": "Comida Para Llevar",
+          "url": "https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO"
+        }
+      ],
+      "duration_ms": 213861,
+      "name": "Qui\u00e9n Pudiera?",
+      "url": "https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1787,26 +1787,6 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Running Away",
-        "url": "https://open.spotify.com/album/61e4jD3cr8rPCz1TYDaUFb"
-      },
-      "artists": [
-        {
-          "name": "VAALE MURRA",
-          "url": "https://open.spotify.com/artist/1gQsRZiAMuASJe3qMjyDnd"
-        },
-        {
-          "name": "Nevi",
-          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
-        }
-      ],
-      "duration_ms": 180565,
-      "name": "Running Away",
-      "url": "https://open.spotify.com/track/1QvmQqljAlV0vdc2N18fI8"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
         "name": "dec\u00eddete",
         "url": "https://open.spotify.com/album/4gJIXcAlMbC5yagmVTUgMN"
       },
@@ -1823,22 +1803,6 @@
       "duration_ms": 161311,
       "name": "dec\u00eddete",
       "url": "https://open.spotify.com/track/33MvQLMWwL0vP55gnBh6L5"
-    },
-    {
-      "added_at": "2024-05-17 06:00:00",
-      "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-05-17 06:00:00",
@@ -1863,6 +1827,42 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
+        "name": "Running Away",
+        "url": "https://open.spotify.com/album/61e4jD3cr8rPCz1TYDaUFb"
+      },
+      "artists": [
+        {
+          "name": "VAALE MURRA",
+          "url": "https://open.spotify.com/artist/1gQsRZiAMuASJe3qMjyDnd"
+        },
+        {
+          "name": "Nevi",
+          "url": "https://open.spotify.com/artist/3KYwV2yzftyYsJCKocAhbM"
+        }
+      ],
+      "duration_ms": 180565,
+      "name": "Running Away",
+      "url": "https://open.spotify.com/track/1QvmQqljAlV0vdc2N18fI8"
+    },
+    {
+      "added_at": "2024-05-17 06:00:00",
+      "album": {
         "name": "OTRA CANCI\u00d3N DE AMOR",
         "url": "https://open.spotify.com/album/0jQHnHYaEr5VvhWV52TeBy"
       },
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2024-05-17 06:00:00",
       "album": {
-        "name": "Kafka",
-        "url": "https://open.spotify.com/album/0gptfIY6g3e1xTrb9019J7"
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
       },
       "artists": [
         {
-          "name": "Sofish",
-          "url": "https://open.spotify.com/artist/2RDGc14pPXYlnN55kzJYeB"
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
         }
       ],
-      "duration_ms": 153600,
-      "name": "Kafka",
-      "url": "https://open.spotify.com/track/0dPMYriM07Lu8Md86ZEiIf"
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     }
   ],
   "unique_name": "R&B Latino",

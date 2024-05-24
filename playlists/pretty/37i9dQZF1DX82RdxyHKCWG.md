@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Normani
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,910 likes - 90 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,010 likes - 90 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 43 | [To The Moon](https://open.spotify.com/track/24N1h7w6arNjmwuUFk0lc4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [To The Moon](https://open.spotify.com/album/2G2P07ht3IeibH1sa9p08r) | 2:28 |
 | 44 | [clouds](https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [clouds](https://open.spotify.com/album/01avaual4rIAIFbiVg7hUS) | 2:42 |
 | 45 | [Immortal Queen \(feat\. Chaka Khan\)](https://open.spotify.com/track/3L5AK36OlaswwPI0WduBJg) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Reasonable Woman](https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb) | 3:19 |
-| 46 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
-| 47 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 |
+| 46 | [Hero](https://open.spotify.com/track/4ENjopIjOD5PKPb52NKNKo) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Hero](https://open.spotify.com/album/16xt6BCh3LDtK1zn7mz9SY) | 3:26 |
+| 47 | [No Shade at Pitti](https://open.spotify.com/track/0Wz5dUk7mkYv57W81E5T7u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:33 |
 | 48 | [No.1 \(feat\. Tems\)](https://open.spotify.com/track/3qeMtqV38UWPZfps7mPTUE) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:27 |
 | 49 | [Grip](https://open.spotify.com/track/52kROkm8RbJsYLM5taByIP) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation](https://open.spotify.com/album/6z6VObudfoxrvGNC5MtiTY) | 1:50 |
 | 50 | [Alienated](https://open.spotify.com/track/3Mc9WnQJxBDKBHpys9O1Bw) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Alienated](https://open.spotify.com/album/4QaEAly7ki3AQdC8jZZC2i) | 4:07 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 | 78 | [Bitter Sweet Love](https://open.spotify.com/track/6NLAH4zb1rAZdoHvvbnaSv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/1cnYW3YtY6B03BYuGAxbUF) | 2:45 |
 | 79 | [The Door \- Live](https://open.spotify.com/track/5az63yFIrNVsxjsr3zOkLV) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Freak Freely](https://open.spotify.com/artist/7hRxXRvEY8a47x6j5j6bUy) | [I've Tried Everything But Therapy \(Part 1\) \[Live\]](https://open.spotify.com/album/5X9OlMzgSCuoSay4SiJRFm) | 3:34 |
 | 80 | [Outside Of Love](https://open.spotify.com/track/5ld9X26dRZIcFNLzeclQ40) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Outside Of Love](https://open.spotify.com/album/1hZqVn8fNja9o9D0bGTuR1) | 2:55 |
-| 81 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 |
-| 82 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 |
+| 81 | [ADHD](https://open.spotify.com/track/3i3yFaIwk9ATfh20Jq9UX0) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [ADHD](https://open.spotify.com/album/0AEsYY4W8qjXwLpyd8SmAM) | 2:55 |
+| 82 | [This Is Me…Now](https://open.spotify.com/track/5HsVnMsIHrC6aUeOs7Eco4) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me…Now](https://open.spotify.com/album/6bK4Nw216MJu7RK9IJgHCG) | 4:13 |
 | 83 | [Good Feeling About You](https://open.spotify.com/track/1sWsCZe653N3hhocXtBh4e) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Good Feeling About You](https://open.spotify.com/album/62Ec8rNbl3bWBehqjeqYNd) | 3:06 |
 | 84 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 |
 | 85 | [Sanity \(Re: Jack Antonoff\)](https://open.spotify.com/track/7fdTX00771dvqvHcEKBEa6) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Re: This Is Why](https://open.spotify.com/album/7t4NiEDttnvbCSF0sREjds) | 3:27 |

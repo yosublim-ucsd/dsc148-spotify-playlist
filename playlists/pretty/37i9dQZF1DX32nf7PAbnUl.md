@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 
 > Le son des chichas !
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,879 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,954 likes - 40 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 25 | [RS5](https://open.spotify.com/track/00GSNnSxVhNlQiJwuRGIGr) | [Benab](https://open.spotify.com/artist/0qO3t2MHM5NIEJ5fw9VndY), [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Drapeau Blanc](https://open.spotify.com/album/1iLGxODx0ibLx8EFpZOAQu) | 2:56 |
 | 26 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 |
 | 27 | [Baby](https://open.spotify.com/track/5uKJiHdlDBz53cM1qZd0yB) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Baby](https://open.spotify.com/album/5IdztduZ9UaHxZm0xDyEyA) | 2:42 |
-| 28 | [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 |
+| 28 | [Confidences](https://open.spotify.com/track/3w3ccBSWumRfMn2lYEwZLi) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Confidences](https://open.spotify.com/album/4SU8HMrBkIDyCMXj552kNE) | 2:08 |
 | 29 | [Casanova](https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Casanova](https://open.spotify.com/album/2m57s4b2rbxphb86w4LeeA) | 3:09 |
 | 30 | [Sale mood](https://open.spotify.com/track/5TlGrvOMiAltKgRw3anXKo) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Prémices](https://open.spotify.com/album/6Puycd9ohkbDcL70BIlnqZ) | 3:37 |
 | 31 | [Trucs de choses](https://open.spotify.com/track/3IR9wKWxI0TK1DLXvZq8uQ) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl) | [Trucs de choses](https://open.spotify.com/album/1aGHwXF5D9aPvaQjIT9olm) | 2:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32nf7PAbnUl.md) - [plain]
 | 39 | [La machine](https://open.spotify.com/track/4YcK0u6DgSg1jQqWYCXTBq) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [AYA](https://open.spotify.com/album/0BUPS678TfgTmCMVOviolC) | 3:03 |
 | 40 | [Localisé](https://open.spotify.com/track/1jJHvMdaI0B3tmiCgFNpeK) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Chef D'orchestre](https://open.spotify.com/album/10BPtugQncuVXNT8CVu0f1) | 2:51 |
 
-Snapshot ID: `ZiGX4AAAAABOim6wkFSFKE+hnAyHymb5`
+Snapshot ID: `Zk8BgAAAAAC2q9oDTfaVfXwO0Juk5kbg`

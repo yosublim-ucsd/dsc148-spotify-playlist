@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 256327,
+  "num_followers": 256413,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "What'd I Say",
-        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 307053,
-      "name": "What'd I Say, Pt. 1 & 2",
-      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "That's All",
         "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 184333,
       "name": "Mack the Knife",
       "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "What'd I Say",
+        "url": "https://open.spotify.com/album/4tfWxufmH725XmTcQFAuXn"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 307053,
+      "name": "What'd I Say, Pt. 1 & 2",
+      "url": "https://open.spotify.com/track/5yQ9iMZXGcr5rlO4hoLsP4"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "The Ultimate Bobby Darin",
-        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
         "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "The Ultimate Bobby Darin",
+        "url": "https://open.spotify.com/album/65okcRJHUVUrFiDG3I1Sz8"
+      },
+      "artists": [
+        {
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Dream Lover",
+      "url": "https://open.spotify.com/track/1KLpjQFgubHI3GkAICCNH3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
+        "name": "Sun Records- Boogie BBQ",
+        "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
+      },
+      "artists": [
+        {
+          "name": "Johnny O'Neal",
+          "url": "https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2"
+        }
+      ],
+      "duration_ms": 157446,
+      "name": "Ugly Woman",
+      "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
         "name": "Slow Down / A Fool for Loving You",
         "url": "https://open.spotify.com/album/16tQIxNa9s3cmCjrcFUXgx"
       },
@@ -1575,22 +1591,6 @@
       "duration_ms": 137799,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/2s6ZdkCvWQAI5OyTaCVDyT"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
-        "name": "Sun Records- Boogie BBQ",
-        "url": "https://open.spotify.com/album/3TT5zI6B1Cfvzp008AbkFT"
-      },
-      "artists": [
-        {
-          "name": "Johnny O'Neal",
-          "url": "https://open.spotify.com/artist/0GCJ4kJKmHuLJw6goEKAP2"
-        }
-      ],
-      "duration_ms": 157446,
-      "name": "Ugly Woman",
-      "url": "https://open.spotify.com/track/1ZA4CxSAAVKmbVt6Oj75IZ"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Grammy's Songs (Original Songs Remastered)",
-        "url": "https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 161958,
-      "name": "Papa Loves Mambo",
-      "url": "https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "The Essential Little Richard (Remastered)",
         "url": "https://open.spotify.com/album/4IxwByzyIrvhcy8VxG2zF0"
       },
@@ -2059,22 +2043,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Berry Is On Top",
-        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
-      },
-      "artists": [
-        {
-          "name": "Chuck Berry",
-          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
-        }
-      ],
-      "duration_ms": 144600,
-      "name": "Roll Over Beethoven",
-      "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Essential Sun Rockabillies Vol.1",
         "url": "https://open.spotify.com/album/3olS3X2vcYccsIQMfJvXHJ"
       },
@@ -2087,6 +2055,22 @@
       "duration_ms": 153391,
       "name": "Red Hot - Original",
       "url": "https://open.spotify.com/track/5nfPJteJ9PWGmD3j6iPH7s"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Berry Is On Top",
+        "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
+      },
+      "artists": [
+        {
+          "name": "Chuck Berry",
+          "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
+        }
+      ],
+      "duration_ms": 144600,
+      "name": "Roll Over Beethoven",
+      "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -2119,6 +2103,22 @@
       "duration_ms": 168893,
       "name": "Sh-Boom - Life Could Be A Dream - Sh-Boom",
       "url": "https://open.spotify.com/track/6dAG4jFPsR4zb2kRhYq3IA"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Grammy's Songs (Original Songs Remastered)",
+        "url": "https://open.spotify.com/album/3jzUG1VgHjxOQ2eP2tlXY3"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 161958,
+      "name": "Papa Loves Mambo",
+      "url": "https://open.spotify.com/track/4wWsQBbp4C6wVxp5zsc55C"
     },
     {
       "added_at": "2022-06-07 05:25:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: サバシスター
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,649 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,690 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 14 | [Mama's Pie](https://open.spotify.com/track/6ykodFke0uF1y6RLQt0zzr) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Mama's Pie](https://open.spotify.com/album/0OKTVjdBXcxBkksj2tlztZ) | 3:45 |
 | 15 | [春のチャンス](https://open.spotify.com/track/7gEQDvsI4oXnUFbFgfAsdP) | [Bye\-Bye\-Handの方程式](https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf) | [春のチャンス](https://open.spotify.com/album/173dxR69GXLJLNu9iy9Hrn) | 2:37 |
 | 16 | [ラブソングにも時代がある](https://open.spotify.com/track/6Ak9ymTOdgPdPS1ll0pHDe) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [HOME](https://open.spotify.com/album/3XV2J1uGpn5kvPv4SYOXmF) | 4:26 |
-| 17 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
+| 17 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
 | 18 | [耳たぶ](https://open.spotify.com/track/1tLK7Z9PAQVp4t1eYEhxPj) | [メメタァ](https://open.spotify.com/artist/1T20xglqzXdTMykiOTUTjG) | [耳たぶ/DON’T YOU THINK?](https://open.spotify.com/album/7JM2RIHS3OETDNnTbj0yuz) | 3:02 |
 | 19 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 |
-| 20 | [花占い](https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:27 |
+| 20 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 |
 | 21 | [シンデレラボーイ](https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [レイジーサンデー](https://open.spotify.com/album/39EU8gQm5E0vUDj9AvKUgr) | 3:54 |
 | 22 | [初恋](https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W) | [Blooming Bungei](https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1) | [初恋](https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45) | 4:00 |
 | 23 | [ノーダウト](https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [エスカパレード](https://open.spotify.com/album/0Iz8ByVqKvdlyl77DV3y3p) | 3:22 |
@@ -65,26 +65,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889DuwlJCDK.md) - [plain]
 | 55 | [面影](https://open.spotify.com/track/6jVB9KPnnGl8Reyl8lhErl) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [面影](https://open.spotify.com/album/5R7LwvTXIV3PLZDLl4azxs) | 3:41 |
 | 56 | [決心](https://open.spotify.com/track/6DwA4Aj9Ug1J7KPDnAiv0Y) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [決心](https://open.spotify.com/album/3bfvo4XrL2fShcEbttCCWL) | 4:29 |
 | 57 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 |
-| 58 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
+| 58 | [不革命前夜](https://open.spotify.com/track/1QpR1IDn31SEXHFPF7NYkR) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/6aLqHgPTHPTDIGhN30TPiD) | 4:27 |
 | 59 | [怪獣の花唄 \- replica \-](https://open.spotify.com/track/26H7pT0IHTko0AA3A35S73) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:42 |
-| 60 | [美女と野獣](https://open.spotify.com/track/4AJ5EtRjaZuu7xdBPJBZCu) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [美女と野獣](https://open.spotify.com/album/6GE6ZhJonvfaIEqBCqawDl) | 4:10 |
-| 61 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 |
-| 62 | [恋は盲目](https://open.spotify.com/track/7mFz5BQBeBS17IkoqryOOk) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [恋は盲目](https://open.spotify.com/album/0zLsKt7QYohdMzLycZcwL6) | 3:29 |
-| 63 | [不革命前夜](https://open.spotify.com/track/1QpR1IDn31SEXHFPF7NYkR) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [NEE](https://open.spotify.com/album/6aLqHgPTHPTDIGhN30TPiD) | 4:27 |
-| 64 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 |
-| 65 | [夏は巡る](https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 2:09 |
+| 60 | [悲劇のヒロイン](https://open.spotify.com/track/72BOlvC2hg6TDSu6RfvtpB) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [悲劇のヒロイン](https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX) | 3:49 |
+| 61 | [美女と野獣](https://open.spotify.com/track/4AJ5EtRjaZuu7xdBPJBZCu) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [美女と野獣](https://open.spotify.com/album/6GE6ZhJonvfaIEqBCqawDl) | 4:10 |
+| 62 | [SHAKE](https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ) | [go!go!vanillas](https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm) | [SHAKE](https://open.spotify.com/album/4CMjpMJPI0WTx8D7v7TPFe) | 3:59 |
+| 63 | [恋は盲目](https://open.spotify.com/track/7mFz5BQBeBS17IkoqryOOk) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [恋は盲目](https://open.spotify.com/album/0zLsKt7QYohdMzLycZcwL6) | 3:29 |
+| 64 | [夏は巡る](https://open.spotify.com/track/2EHUDtTMLscFB0DKXp03A7) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [GOLD](https://open.spotify.com/album/2nxVvU7LqydShGwRUuto85) | 2:09 |
+| 65 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 |
 | 66 | [夢みるスーパーマン](https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 3:12 |
 | 67 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
-| 68 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 |
-| 69 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 |
+| 68 | [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 |
+| 69 | [太陽](https://open.spotify.com/track/7kzQIvZgFgmLIWnZO1Ug3S) | [My Hair is Bad](https://open.spotify.com/artist/0d4XqzcMpgP6eQZ6TIW2pI) | [太陽](https://open.spotify.com/album/0ju6G6RWdJvkRQqmtHigEV) | 4:26 |
 | 70 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/7DGg065lDV4sAOSGvZhcEO) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [TRIANGLE](https://open.spotify.com/album/0qPfscvdw2qb2w68HydRUD) | 3:56 |
 | 71 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 |
 | 72 | [ヘッドライナー](https://open.spotify.com/track/5ESy12imzRxzr7hd43SNPg) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [ヘッドライナー](https://open.spotify.com/album/2LQcnPReDbYKybSOF9Azxh) | 3:54 |
 | 73 | [タイムマシンにのって](https://open.spotify.com/track/60Ll4oaLbHtoscyMJyNwfo) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [タイムマシンにのって](https://open.spotify.com/album/3pZbyfVXT3wJFnjoU7rJf7) | 3:56 |
-| 74 | [プレイボーイシンドローム](https://open.spotify.com/track/29qzwiWGpdUMozxviMNNXz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [プレイボーイシンドローム](https://open.spotify.com/album/2BYppt5lacuJPaYS4eehEA) | 1:52 |
-| 75 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 |
+| 74 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 |
+| 75 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 |
 | 76 | [悲しみはバスに乗って](https://open.spotify.com/track/685IX0kJOYsV254JpHnMdi) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [悲しみはバスに乗って](https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq) | 3:55 |
-| 77 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 |
+| 77 | [プレイボーイシンドローム](https://open.spotify.com/track/29qzwiWGpdUMozxviMNNXz) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [プレイボーイシンドローム](https://open.spotify.com/album/2BYppt5lacuJPaYS4eehEA) | 1:52 |
 | 78 | [long good\-bye](https://open.spotify.com/track/1bmg5GeIX2HhOOB1TrzWKF) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [Terminal](https://open.spotify.com/album/3jkN1x44uOSBYsg5JbLTUa) | 4:38 |
 | 79 | [現在を生きるのだ。](https://open.spotify.com/track/0zZn7tupk239zwb3SPFmT1) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 4:37 |
 | 80 | [月が綺麗だって](https://open.spotify.com/track/7gALnxrfC3lMPhRJJUQPL8) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [月が綺麗だって](https://open.spotify.com/album/1mlgrd63GCXnZyaTrXA2Hj) | 4:28 |

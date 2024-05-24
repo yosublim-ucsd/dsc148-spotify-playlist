@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 
 > the soundtrack for your vitamin d fix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,063,716 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,063,769 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 8 | [Glue Song](https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Glue Song](https://open.spotify.com/album/3KmSMUwyrakryureTNI4U8) | 2:15 |
 | 9 | [Sex, Drugs, Etc.](https://open.spotify.com/track/7DbdUf8aHSYoliSjO6LZv6) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Chit Chat](https://open.spotify.com/album/1xz1n7gyY02veDxH50SQHQ) | 3:16 |
 | 10 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 |
-| 11 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
-| 12 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
+| 11 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 |
+| 12 | [Hell N Back](https://open.spotify.com/track/0rVJ6v23RQozOIvr1YotJP) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back \(Sped Up\)](https://open.spotify.com/album/39qJcvWj03Pcm9HJdb1NR8) | 3:33 |
 | 13 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 14 | [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 |
 | 15 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 22 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 | 23 | [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 |
 | 24 | [Stone Love](https://open.spotify.com/track/1AO26gK1sI6PoFY9eUF8yV) | [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Kona Town](https://open.spotify.com/album/37ijUtHcOrsDCIQRsa5sB4) | 4:14 |
-| 25 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 26 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
+| 25 | [Tiny Moves](https://open.spotify.com/track/4yTqr0F1vVAY2pUCRiRpr9) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Bleachers](https://open.spotify.com/album/0nZy2z8sZsM5TIHzUpcq5E) | 3:48 |
+| 26 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 27 | [Colorado](https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:54 |
 | 28 | [Going Kokomo](https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:10 |
 | 29 | [Down Swinging](https://open.spotify.com/track/5NCNm0wqVcmeG0JBiEYR72) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [work in progress](https://open.spotify.com/album/2dBv8d4WbvtT4ZUxlri7A5) | 2:56 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 43 | [Around The World](https://open.spotify.com/track/06ClI3XK2FPR5uP8tPcFS1) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:34 |
 | 44 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 45 | [Someday \- Remastered](https://open.spotify.com/track/6NcHJ23mLQKnVxQcOmT7JW) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [The Best Of Sugar Ray](https://open.spotify.com/album/2hjQQj7x2YipViOCw6UX1N) | 4:03 |
-| 46 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
-| 47 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
+| 46 | [Tidal Wave](https://open.spotify.com/track/384TqRlwlMfeUAODhXfF3O) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 3:31 |
+| 47 | [Oh No Darling!](https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [Oh No Darling!](https://open.spotify.com/album/3RBeWddW8FHxtCdzD0VHns) | 3:23 |
 | 48 | [Bags](https://open.spotify.com/track/6X3FZtz4cKU2MKSQlGG9ZG) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Bags](https://open.spotify.com/album/5YwYhMFzSWG8i7NEuwnIzs) | 4:20 |
 | 49 | [Blades](https://open.spotify.com/track/77F6ryVdeVe0ZabzhpCad2) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 3:41 |
 | 50 | [Dancing In The Courthouse](https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Dancing In The Courthouse](https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq) | 2:37 |
@@ -69,11 +69,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ALfRKlHn1t.md) - [plain]
 | 59 | [Silent Running \(feat\. Adeleye Omotayo\)](https://open.spotify.com/track/1r3ZtE2w3l6KMEoAVpt6Fn) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Adeleye Omotayo](https://open.spotify.com/artist/1z2GIqUV62qrl1J5sXalOT) | [Cracker Island \(Deluxe\)](https://open.spotify.com/album/1aoWxOWHJNG1VPpJZwpYl2) | 4:26 |
 | 60 | [Life's Been Good](https://open.spotify.com/track/7wtMcCrzuRDzaqp7QVyc0w) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Life's Been Good](https://open.spotify.com/album/0eGpYPPLOXgHhFVuEn8jto) | 3:13 |
 | 61 | [Good Day for a Good Day](https://open.spotify.com/track/0WZ5paMR4zJAdjkBgCVAYN) | [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [Follow Your Heart](https://open.spotify.com/album/5ASwxssTkz7SW7WdaGviYR) | 3:10 |
-| 62 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
-| 63 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 |
+| 62 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 |
+| 63 | [Sofa King](https://open.spotify.com/track/32K7llqr6tqJ4SzR85ZO0J) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa King](https://open.spotify.com/album/5CeV62vxEpixNo2ar8AfDk) | 3:16 |
 | 64 | [Out Of My League](https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Out Of My League](https://open.spotify.com/album/5FeObPU0SlSJqrFcwjmIP9) | 3:01 |
-| 65 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 |
-| 66 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
+| 65 | [Kid](https://open.spotify.com/track/24TzmWrz2HHWV3UO5PlvNb) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Kid](https://open.spotify.com/album/5LqoF8G9MsNme4b8DpBExe) | 3:28 |
+| 66 | [Mood Ring](https://open.spotify.com/track/4ZwV2vVR5vUEOKHQwFJe8T) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Mood Ring](https://open.spotify.com/album/3BGIgBfPKUzYD1eIY4qpPS) | 2:57 |
 | 67 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 |
 | 68 | [Palm Reader](https://open.spotify.com/track/5LtrJHnBO57EoVHsLR6xR8) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/0QdTN7cbQCSTyzZqLQubCI) | 3:00 |
 | 69 | [Dark Necessities](https://open.spotify.com/track/1cjiLJacTKtJbdCtMk1XeV) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Dark Necessities](https://open.spotify.com/album/37eXSZNVEY3XthbJzTGIIo) | 5:02 |

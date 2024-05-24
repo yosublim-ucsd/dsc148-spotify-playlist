@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:2Af5aejlBF2UrIn1xmPWJ5">Filip Max</a> \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,267 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,265 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 18 | [Dysonans](https://open.spotify.com/track/1IQ75US7aW1gr0ecwblit1) | [Figger & Maja Laura](https://open.spotify.com/artist/24x4WhrrCdvFOM3w01dQ5t) | [Warszawskie ulice](https://open.spotify.com/album/6JEQLXyUzezbdeLJp8a7ny) | 3:50 |
 | 19 | [Projekcje](https://open.spotify.com/track/518rYjSDQuyuYgEKDX9dDl) | [Deluzja](https://open.spotify.com/artist/3j8SyhfSEPT01bkDo66vVq) | [Projekcje](https://open.spotify.com/album/5uDKArZpATlr8tRDoBukDg) | 4:14 |
 | 20 | [Tears of Regret](https://open.spotify.com/track/16k7Rrohom2LfINHHj0NqU) | [Rose White](https://open.spotify.com/artist/2w8BGfmXyEmnOpDopRVx56) | [Tears Of Regret](https://open.spotify.com/album/4DKMfPFMO6YTc5EEkfAK1h) | 2:27 |
-| 21 | [Thick ice](https://open.spotify.com/track/7cwM1VLG96LCkqQTL5yddx) | [Małgola, No](https://open.spotify.com/artist/0uzUmwzNGtiw8vzlUpWuRD), [Sorry Stacy](https://open.spotify.com/artist/4h9PWBPQtNovq6sl4ZBLfs) | [Thick ice](https://open.spotify.com/album/2dlOUNQBA0Jo7ZxbG1wyBS) | 3:11 |
+| 21 | [Thick ice](https://open.spotify.com/track/7cwM1VLG96LCkqQTL5yddx) | [Małgola, No](https://open.spotify.com/artist/0uzUmwzNGtiw8vzlUpWuRD), [sorry stacy](https://open.spotify.com/artist/1VSlEuTPQKg8HT9tULV0F4) | [Thick ice](https://open.spotify.com/album/2dlOUNQBA0Jo7ZxbG1wyBS) | 3:11 |
 | 22 | [UĆ](https://open.spotify.com/track/1NH2uuzayc05diPQUSC2pw) | [Kosmos](https://open.spotify.com/artist/4csGOrrAuZgBXkutG64VX2) | [UĆ](https://open.spotify.com/album/0VBZttGlTBEsAJYSPCzrcB) | 5:51 |
 | 23 | [miasto to burza](https://open.spotify.com/track/2oLobMjUP446klo1zCsx4R) | [bartek zjawa](https://open.spotify.com/artist/2SchDvYiIlgkWpTOy7wTkg) | [jesteś niebem](https://open.spotify.com/album/0jde1ss8Nj4eqndRNeBIRD) | 4:17 |
 | 24 | [Stillness in Motion](https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6) | [Plots](https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3) | [Stillness in Motion](https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu) | 3:41 |

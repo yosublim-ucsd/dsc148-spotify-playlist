@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 534997,
+  "num_followers": 535102,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Cherry On Top",
-        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 254407,
-      "name": "Cherry On Top",
-      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 236733,
       "name": "Shouldn't Matter but It Does",
       "url": "https://open.spotify.com/track/3MthJpM1IEYp2ulZe00LvP"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 174373,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Wasn't Expecting That",
         "url": "https://open.spotify.com/album/5XqxTXtO3W4bDntGmNBc9q"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 201072,
       "name": "Wasn't Expecting That",
       "url": "https://open.spotify.com/track/7nm68uKwGwMqznlOSBxhps"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 174373,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Nothing Matters (Acoustic)",
-        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 183673,
-      "name": "Nothing Matters - Acoustic",
-      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Youngblood (Acoustic)",
         "url": "https://open.spotify.com/album/4rFgtc0nwqxIJibvDW6eJr"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 220995,
       "name": "Youngblood - Acoustic",
       "url": "https://open.spotify.com/track/5EqlEvrylr3DNy3R11Kmrz"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Nothing Matters (Acoustic)",
+        "url": "https://open.spotify.com/album/6AhAFk2kmCi42LgIND7KHW"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 183673,
+      "name": "Nothing Matters - Acoustic",
+      "url": "https://open.spotify.com/track/2EgvsPaH1zIQqMXnQiTtqo"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "SUGAR EP.",
-        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 369105,
-      "name": "Dove",
-      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 149062,
       "name": "Big Yellow Taxi - Live from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0e3ujCTfBtvX8HdQrEUBd9"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "SUGAR EP.",
+        "url": "https://open.spotify.com/album/2ue0uFTFAFxETZEtLBphmJ"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 369105,
+      "name": "Dove",
+      "url": "https://open.spotify.com/track/2UBvTL4FRQd7CgBFJiZkWH"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "Forgive Me Friend (Acoustic Version)",
-        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 228160,
-      "name": "Forgive Me Friend - Acoustic Version",
-      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Over My Head (Cable Car)",
         "url": "https://open.spotify.com/album/0NgiEbNqjo4ZqnSuMApXHz"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 230133,
       "name": "Over My Head (Cable Car) - Live at Sirius Radio, NYC, NY - May 2006",
       "url": "https://open.spotify.com/track/2IQvTnOS1sicZ3plBZL6KR"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "Forgive Me Friend (Acoustic Version)",
+        "url": "https://open.spotify.com/album/1xCzc2exJ3vqmktSnRV5Hl"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 228160,
+      "name": "Forgive Me Friend - Acoustic Version",
+      "url": "https://open.spotify.com/track/4eQWC9bpUAQT88QNBS2Z7C"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
+        "name": "Hotel Walls (Acoustic Version)",
+        "url": "https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC"
+      },
+      "artists": [
+        {
+          "name": "Smith & Thell",
+          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
+        }
+      ],
+      "duration_ms": 207524,
+      "name": "Hotel Walls - Acoustic Version",
+      "url": "https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
         "name": "I Wanna Know (Acoustic)",
         "url": "https://open.spotify.com/album/6qLfMUCl0M4VHGOYKjc7ek"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 190960,
       "name": "Under The Sun - Acoustic",
       "url": "https://open.spotify.com/track/1YPx23eaxwbbQc8Ne6zSQq"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Hotel Walls (Acoustic Version)",
-        "url": "https://open.spotify.com/album/6a7fNHZ8qbkAvmoOEhpIuC"
-      },
-      "artists": [
-        {
-          "name": "Smith & Thell",
-          "url": "https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90"
-        }
-      ],
-      "duration_ms": 207524,
-      "name": "Hotel Walls - Acoustic Version",
-      "url": "https://open.spotify.com/track/5pW8171RuTAYU9hAN54QpM"
     },
     {
       "added_at": "2024-04-12 04:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-04-12 04:01:00",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
         "name": "Woodland - EP",
         "url": "https://open.spotify.com/album/5l8axHOB8sCsWqfK5XVtbF"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 210080,
       "name": "Bloom - Bonus Track",
       "url": "https://open.spotify.com/track/41yIvlFgvGwxq8qTqAR7eG"
+    },
+    {
+      "added_at": "2024-04-12 04:01:00",
+      "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2024-04-12 04:01:00",

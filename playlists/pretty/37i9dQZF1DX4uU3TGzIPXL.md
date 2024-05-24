@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 
 > The songs of the 1990s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 574,700 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 574,964 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 19 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 |
 | 20 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 |
 | 21 | [No Diggity](https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ) | [Blackstreet](https://open.spotify.com/artist/2P3cjUru4H3fhSXXNxE9kA), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Queen Pen](https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr) | [Another Level](https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi) | 5:04 |
-| 22 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 |
-| 23 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
+| 22 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/6kvoHl80mfCVTv7XnZkjQn) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [It Must Have Been Love](https://open.spotify.com/album/3dWX1xFUaalRlaaVpe4EPF) | 4:18 |
+| 23 | [Everybody \(Backstreet's Back\) \- Radio Edit](https://open.spotify.com/track/1di1BEgJYzPvXUuinsYJGP) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet's Back](https://open.spotify.com/album/2U9ONknz1iFEK9drEKLx8v) | 3:45 |
 | 24 | [Learn to Fly](https://open.spotify.com/track/5OQsiBsky2k2kDKy2bX2eT) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 3:55 |
-| 25 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
-| 26 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 25 | [Doo Wop \(That Thing\)](https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Miseducation of Lauryn Hill](https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD) | 5:20 |
+| 26 | [Believe](https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Believe](https://open.spotify.com/album/0jZfbz0dNfDjPSg0hYJNth) | 3:59 |
 | 27 | [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 |
 | 28 | [Friday I'm In Love](https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 3:35 |
 | 29 | [Semi\-Charmed Life](https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:28 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uU3TGzIPXL.md) - [plain]
 | 68 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
 | 69 | [Hold On](https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:26 |
 | 70 | [2 Times \- Original](https://open.spotify.com/track/4IiKITgHYaHrF1zUlcTyVH) | [Ann Lee](https://open.spotify.com/artist/1EN7GOzx8aDpiIbVVmQaaC) | [2 Times \(Full Package\)](https://open.spotify.com/album/0pAY6od68ZZOgxNWwSOHlv) | 3:50 |
-| 71 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
-| 72 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
+| 71 | [Unbelievable](https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum) | [EMF](https://open.spotify.com/artist/39oSLGo3HkaeYXzUEGgAGQ) | [Schubert Dip](https://open.spotify.com/album/475PE6J6LTBGBpt26rRrHe) | 3:29 |
+| 72 | [Walking on Broken Glass](https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:13 |
 | 73 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 |
 | 74 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 |
 | 75 | [Men In Black \- From "Men In Black" Soundtrack](https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |

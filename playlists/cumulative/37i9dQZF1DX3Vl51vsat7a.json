@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Jazeek",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Zartmann",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 232750,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4ZhRddutIAnleTnvqir5LM"
@@ -876,7 +876,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 162517,
       "name": "Build Me A Bridge",
       "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
@@ -2112,6 +2112,24 @@
       "duration_ms": 172546,
       "name": "Herz Klopft",
       "url": "https://open.spotify.com/track/3S52C6WTpp5kqKvEInZXOu"
+    },
+    {
+      "album": {
+        "name": "Hiatus",
+        "url": "https://open.spotify.com/album/15vGlftpVYpyr6DTY7rDd2"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168423,
+      "name": "Hiatus",
+      "url": "https://open.spotify.com/track/6mAJTxk3J3ifwnCKKjKBMK"
     },
     {
       "album": {
@@ -5424,6 +5442,28 @@
       "duration_ms": 219298,
       "name": "What If the Dead Dream",
       "url": "https://open.spotify.com/track/748LdQj3Lhiynqf3XdTqlr"
+    },
+    {
+      "album": {
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
     },
     {
       "album": {

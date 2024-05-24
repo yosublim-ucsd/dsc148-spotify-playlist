@@ -1,45 +1,13 @@
 {
   "description": "The hottest tracks with the freshest hits! Cover: Billie Eilish",
-  "num_followers": 1409646,
+  "num_followers": 1409740,
   "original_name": "Hot Hits Australia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zk3QMAAAAADMtOA6y26Y4rW/w0H8MwvC",
+  "snapshot_id": "Zk9L4AAAAADu50r7wJ0YGEqlHp9wSg3P",
   "tracks": [
-    {
-      "added_at": "2024-05-16 14:00:00",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
@@ -57,56 +25,20 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-05-14 06:41:24",
+      "added_at": "2024-05-16 14:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 228965,
-      "name": "Fortnight (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "i like the way you kiss me",
-        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -147,6 +79,74 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
         "name": "What Happens Now?",
         "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
       },
@@ -159,38 +159,6 @@
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -211,34 +179,50 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
-        "name": "Illusion",
-        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 188143,
-      "name": "Illusion",
-      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -259,6 +243,22 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
         "name": "Saving Up",
         "url": "https://open.spotify.com/album/3XTTqxcEOZgaTobJlRefvF"
       },
@@ -271,6 +271,38 @@
       "duration_ms": 207514,
       "name": "Saving Up",
       "url": "https://open.spotify.com/track/787Y2idwCU2Rk60Prv4wpr"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
+        "name": "Illusion",
+        "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 188143,
+      "name": "Illusion",
+      "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -361,20 +393,20 @@
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
     },
     {
-      "added_at": "2024-05-14 06:41:24",
+      "added_at": "2024-05-23 14:00:00",
       "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+        "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/7x1eLsPizad7dHnqCGQODx"
       },
       "artists": [
         {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+      "duration_ms": 210950,
+      "name": "Ain't No Love In Oklahoma (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/6GG4yyk3UATdBfTHVgI8PB"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -429,36 +461,20 @@
       "url": "https://open.spotify.com/track/0Z7nGFVCLfixWctgePsRk9"
     },
     {
-      "added_at": "2024-05-16 14:00:00",
+      "added_at": "2024-05-23 14:00:00",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+        "name": "360",
+        "url": "https://open.spotify.com/album/5UlTVoEmOp7GuZN5PgnUq6"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/50ca61DooG00KrVCwMLVRl"
-      },
-      "artists": [
-        {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
-        }
-      ],
-      "duration_ms": 157485,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/6dpLxbF7lfCAnC9QRTjNLK"
+      "duration_ms": 133805,
+      "name": "360",
+      "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -509,6 +525,22 @@
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
+      "added_at": "2024-05-23 14:00:00",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/3oFBS1h6VV2eJl1Ynhq4Yw"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 191566,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/73c7iqH4lCVqu4tm66i0tY"
+    },
+    {
       "added_at": "2024-05-16 14:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
@@ -539,6 +571,22 @@
       "duration_ms": 186191,
       "name": "Saturn",
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
+    },
+    {
+      "added_at": "2024-05-16 14:00:00",
+      "album": {
+        "name": "14 minutes",
+        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 74378,
+      "name": "misses",
+      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -589,22 +637,6 @@
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
     },
     {
-      "added_at": "2024-05-16 14:00:00",
-      "album": {
-        "name": "14 minutes",
-        "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 74378,
-      "name": "misses",
-      "url": "https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs"
-    },
-    {
       "added_at": "2024-05-14 06:41:24",
       "album": {
         "name": "Good Luck, Babe!",
@@ -619,22 +651,6 @@
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Dreaming",
-        "url": "https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 208253,
-      "name": "Dreaming",
-      "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -669,6 +685,22 @@
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
     },
     {
+      "added_at": "2024-05-23 14:00:00",
+      "album": {
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+      },
+      "artists": [
+        {
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+        }
+      ],
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+    },
+    {
       "added_at": "2024-05-14 06:41:24",
       "album": {
         "name": "Lovin On Me",
@@ -687,18 +719,18 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+        "name": "Dreaming",
+        "url": "https://open.spotify.com/album/3uoFn9YXRikta2GkvMXoR7"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
         }
       ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+      "duration_ms": 208253,
+      "name": "Dreaming",
+      "url": "https://open.spotify.com/track/14uRu4FrDuBKrd4PEwc8ha"
     },
     {
       "added_at": "2024-05-14 06:41:24",
@@ -767,6 +799,26 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 178273,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
+    },
+    {
+      "added_at": "2024-05-14 06:41:24",
+      "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
       },
@@ -791,70 +843,18 @@
     {
       "added_at": "2024-05-14 06:41:24",
       "album": {
-        "name": "Make You Mine",
-        "url": "https://open.spotify.com/album/62g7jm7YqkuQOhfhFpDQXC"
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
         }
       ],
-      "duration_ms": 221709,
-      "name": "Make You Mine",
-      "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4UCjvqGiMnghqo31aPQQ09"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 179534,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2VDTqhsSzrRxsbjvv4KLPl"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Whatever",
-        "url": "https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 178273,
-      "name": "Whatever",
-      "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
-    },
-    {
-      "added_at": "2024-05-14 06:41:24",
-      "album": {
-        "name": "Murder on the Dancefloor (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 180872,
-      "name": "Murder on the Dance Floor - triple j Like A Version",
-      "url": "https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww"
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     }
   ],
   "unique_name": "Hot Hits Australia",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 
 > beber gin em casa, nada melhor
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,429 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,435 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9JsANXY37r.md) - [plain]
 | 36 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 | 37 | [Sweet Time](https://open.spotify.com/track/3wv9jIR1DAGxTRMm1kH6GL) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Sweet Time](https://open.spotify.com/album/2L0mTw6WLlSkjxrZJXna5h) | 4:11 |
 | 38 | [Best to You](https://open.spotify.com/track/1p2TWJxUlHE5JR0sE6E1d7) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Freetown Sound](https://open.spotify.com/album/3Z2XUjgVj5ZkCGpU7b2qtY) | 3:45 |
-| 39 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
-| 40 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
+| 39 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/2jUO4Rbw8VizhpHS63jrq4) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings](https://open.spotify.com/album/6vdLdzihSWxV8FgWU2GSvA) | 4:11 |
+| 40 | [Taste](https://open.spotify.com/track/6GbWNeR3P9MTCmSyPVHgb1) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:45 |
 | 41 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 |
 | 42 | [Sticky](https://open.spotify.com/track/1rfGO3N4DPGodJLSSY9Re5) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Sticky](https://open.spotify.com/album/3bbWimQMs8QB4634y9BRDd) | 3:16 |
 | 43 | [One Evening](https://open.spotify.com/track/06vjDikmHQBKKaNtlPrrB3) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Let It Die](https://open.spotify.com/album/4ui8Lc2iPjfoesGSfVxhLZ) | 3:36 |

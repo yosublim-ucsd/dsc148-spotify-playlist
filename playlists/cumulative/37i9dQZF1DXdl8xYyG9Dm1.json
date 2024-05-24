@@ -267,6 +267,28 @@
     },
     {
       "album": {
+        "name": "Ahol\u00e9",
+        "url": "https://open.spotify.com/album/5GKcIxZeCqFlyak5bJV7ju"
+      },
+      "artists": [
+        {
+          "name": "Shado Chris",
+          "url": "https://open.spotify.com/artist/1Cy58GZRk3TYmX0pb6pExg"
+        },
+        {
+          "name": "Famas",
+          "url": "https://open.spotify.com/artist/4t8EKJ7Yp6F2F1vG1NFANE"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Ahol\u00e9",
+      "url": "https://open.spotify.com/track/3L5zmSXtVNYF1nrRtbyaQy"
+    },
+    {
+      "album": {
         "name": "Air Force",
         "url": "https://open.spotify.com/album/29RYoApzNyBXq1CvWtHR4c"
       },
@@ -690,7 +712,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166026,
       "name": "Balling",
       "url": "https://open.spotify.com/track/6Uy0HWtCberVnkKRKzWWmj"
@@ -760,7 +782,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 220847,
       "name": "Best for You",
       "url": "https://open.spotify.com/track/2RTJ8I0U32wZaKLuQj624z"
@@ -1226,7 +1248,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 273103,
       "name": "CORSA LITE MUSIC",
       "url": "https://open.spotify.com/track/6vo1ZacthDmWGZwxVLsRsK"
@@ -1834,7 +1856,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201897,
       "name": "Family",
       "url": "https://open.spotify.com/track/4aGsWyGfskIBU9i7IpvhVi"
@@ -2765,6 +2787,36 @@
     },
     {
       "album": {
+        "name": "Kiki",
+        "url": "https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliqe",
+          "url": "https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Blxckie",
+          "url": "https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL"
+        },
+        {
+          "name": "Flow Jones Jr.",
+          "url": "https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174731,
+      "name": "Kiki",
+      "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
+    },
+    {
+      "album": {
         "name": "FUEGO",
         "url": "https://open.spotify.com/album/2UBVY8AKfYWYJuIwamCbuE"
       },
@@ -3210,6 +3262,32 @@
       "duration_ms": 121750,
       "name": "Lord Protect My Steppings",
       "url": "https://open.spotify.com/track/7ExAAitYugXqJ1YA6IICC5"
+    },
+    {
+      "album": {
+        "name": "M.I.A",
+        "url": "https://open.spotify.com/album/6lYbhvnxGcwRnCVGJkUspX"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        },
+        {
+          "name": "Prznt",
+          "url": "https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w"
+        },
+        {
+          "name": "Adrian Chafer",
+          "url": "https://open.spotify.com/artist/16dti6ifSjSyZ8PHWMwGFR"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "M.I.A",
+      "url": "https://open.spotify.com/track/1ErW8aGbAd4QK8NSnFQf1c"
     },
     {
       "album": {
@@ -4558,7 +4636,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150000,
       "name": "SHUT IT DOWN",
       "url": "https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX"
@@ -5010,7 +5088,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 197538,
       "name": "The Guy",
       "url": "https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo"
@@ -5080,6 +5158,50 @@
       "duration_ms": 183289,
       "name": "Till We Die (feat. Ruger)",
       "url": "https://open.spotify.com/track/0tdbVxn9Qewgtv2lUgD8aD"
+    },
+    {
+      "album": {
+        "name": "Shallow",
+        "url": "https://open.spotify.com/album/0pChf8s46kdE5dS7eLv88S"
+      },
+      "artists": [
+        {
+          "name": "Stogie T",
+          "url": "https://open.spotify.com/artist/7tB6fzororeAvyt9RzKePs"
+        },
+        {
+          "name": "BONJ",
+          "url": "https://open.spotify.com/artist/06U2Jp2afTGxkxA9LMluDL"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212835,
+      "name": "Too Late for Mama",
+      "url": "https://open.spotify.com/track/1Xp4Cy2DSnghxhXDriDKrr"
+    },
+    {
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Xlimkid",
+          "url": "https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "TRAUMA",
+      "url": "https://open.spotify.com/track/6JePde3UV8Bu4rcmw4Jnym"
     },
     {
       "album": {
@@ -5194,6 +5316,24 @@
       "duration_ms": 181333,
       "name": "uMuthi (Voodoo)",
       "url": "https://open.spotify.com/track/54n22WyyizzqQyXyKG2wkp"
+    },
+    {
+      "album": {
+        "name": "Umva",
+        "url": "https://open.spotify.com/album/1JkWxgKl2W2WKN0JtPPy1S"
+      },
+      "artists": [
+        {
+          "name": "Elsy Wameyo",
+          "url": "https://open.spotify.com/artist/57yHK6QAG0l9vigstf9F2T"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203611,
+      "name": "Umva",
+      "url": "https://open.spotify.com/track/1xDQyK9rVrlPDdiwtZaIGN"
     },
     {
       "album": {

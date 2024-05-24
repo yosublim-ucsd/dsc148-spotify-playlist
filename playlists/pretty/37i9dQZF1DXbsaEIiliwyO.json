@@ -1,6 +1,6 @@
 {
   "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3067\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Best & new rock anthems for anime fans. Cover: MY FIRST STORY + HYDE",
-  "num_followers": 38897,
+  "num_followers": 38947,
   "original_name": "Anime Rocks",
   "owner": {
     "name": "Spotify",
@@ -767,22 +767,18 @@
     {
       "added_at": "2024-05-21 15:00:00",
       "album": {
-        "name": "\uff37\u25cf\uff32\uff2b",
-        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+        "name": "Honey & Darling",
+        "url": "https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL"
       },
       "artists": [
         {
-          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
-          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+          "name": "KANA-BOON",
+          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
         }
       ],
-      "duration_ms": 201073,
-      "name": "\uff37\u25cf\uff32\uff2b",
-      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
+      "duration_ms": 213640,
+      "name": "\u30b9\u30bf\u30fc\u30de\u30fc\u30ab\u30fc (Album Mix)",
+      "url": "https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj"
     },
     {
       "added_at": "2024-05-21 15:00:00",
@@ -803,22 +799,6 @@
     {
       "added_at": "2024-05-21 15:00:00",
       "album": {
-        "name": "Honey & Darling",
-        "url": "https://open.spotify.com/album/3IuxHkC9II53tjmZCIRwsL"
-      },
-      "artists": [
-        {
-          "name": "KANA-BOON",
-          "url": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "\u30b9\u30bf\u30fc\u30de\u30fc\u30ab\u30fc (Album Mix)",
-      "url": "https://open.spotify.com/track/6NAtVhZ5LrvoKy2Gijr5gj"
-    },
-    {
-      "added_at": "2024-05-21 15:00:00",
-      "album": {
         "name": "THE GREATEST UNKNOWN",
         "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 234733,
       "name": "BOY",
       "url": "https://open.spotify.com/track/4UShpOJdauir54vMuaFLEV"
+    },
+    {
+      "added_at": "2024-05-21 15:00:00",
+      "album": {
+        "name": "\uff37\u25cf\uff32\uff2b",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 201073,
+      "name": "\uff37\u25cf\uff32\uff2b",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     }
   ],
   "unique_name": "Anime Rocks",

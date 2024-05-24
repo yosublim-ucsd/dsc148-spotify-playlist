@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Douce \u00c8meraude",
+        "url": "https://open.spotify.com/album/3BxbNKCEJkGV8s6D0Pwprx"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165500,
+      "name": "Douce \u00c8meraude",
+      "url": "https://open.spotify.com/track/5UP9mzwk0CUiQ03sZ7qtDX"
+    },
+    {
+      "album": {
         "name": "Doucement",
         "url": "https://open.spotify.com/album/4w9ZGct1aV16nmB0SjyJeV"
       },
@@ -2304,6 +2322,24 @@
       "duration_ms": 165600,
       "name": "Lonely Hearts",
       "url": "https://open.spotify.com/track/2NHvznYFCm8Fx7UE7sTZGa"
+    },
+    {
+      "album": {
+        "name": "Longitude",
+        "url": "https://open.spotify.com/album/5xkVqIK6vdCA6e3rWJjYjJ"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154507,
+      "name": "Longitude",
+      "url": "https://open.spotify.com/track/28W2mqtvitwaoKe5IHL4M9"
     },
     {
       "album": {

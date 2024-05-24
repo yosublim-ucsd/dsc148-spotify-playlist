@@ -1,6 +1,6 @@
 {
   "description": "\u611c\u610f\u653e\u9b06\uff0c\u4f7f\u81ea\u5df1\u6c89\u6d78\u5728\u9019\u4e9b\u52d5\u4eba\u800c\u512a\u7f8e\u7684\u92fc\u7434\u66f2\u4e4b\u4e2d\u3002",
-  "num_followers": 67746,
+  "num_followers": 67757,
   "original_name": "\u5b89\u5be7\u92fc\u7434\u8072",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
+        "name": "In Love In Vain",
+        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
+      },
+      "artists": [
+        {
+          "name": "Amanda Heartwood",
+          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
+        }
+      ],
+      "duration_ms": 174239,
+      "name": "In Love In Vain",
+      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
         "name": "Jane Eyre - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4EHO6nIhB0OCyOY2vQ8yqX"
       },
@@ -719,38 +735,6 @@
       "duration_ms": 58386,
       "name": "A Game of Badminton (feat. Jack Liebeck)",
       "url": "https://open.spotify.com/track/02BumRY2OTFMkMxrXSVMat"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
-        "name": "In Love In Vain",
-        "url": "https://open.spotify.com/album/0nlZbsqWq2DaRyxKjJ3SsT"
-      },
-      "artists": [
-        {
-          "name": "Amanda Heartwood",
-          "url": "https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz"
-        }
-      ],
-      "duration_ms": 174239,
-      "name": "In Love In Vain",
-      "url": "https://open.spotify.com/track/6eV6cumFU53rxA88CnnvZa"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
-        "name": "Up Above",
-        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Baughman",
-          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
-        }
-      ],
-      "duration_ms": 123124,
-      "name": "Up Above",
-      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -783,6 +767,22 @@
       "duration_ms": 159445,
       "name": "Tangerine",
       "url": "https://open.spotify.com/track/3q5cGbIcmWU4tfUixjLqKb"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Up Above",
+        "url": "https://open.spotify.com/album/6bVnxEXo7sDSLE2q2CbrIg"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Baughman",
+          "url": "https://open.spotify.com/artist/48UhwqnntjRekrZEcoZ0aL"
+        }
+      ],
+      "duration_ms": 123124,
+      "name": "Up Above",
+      "url": "https://open.spotify.com/track/5k2hHPNq8HJC0BCohA6wT4"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
+        "name": "Easy To Love",
+        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
+      },
+      "artists": [
+        {
+          "name": "Angela Rowles",
+          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
+        }
+      ],
+      "duration_ms": 166683,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
         "name": "A Future With You",
         "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 189923,
       "name": "I'll Take Romance",
       "url": "https://open.spotify.com/track/2OtiBmNGQaogw2iymAmTS4"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
-        "name": "Easy To Love",
-        "url": "https://open.spotify.com/album/6OK4mZCuEVyzUTwDLkjUTY"
-      },
-      "artists": [
-        {
-          "name": "Angela Rowles",
-          "url": "https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr"
-        }
-      ],
-      "duration_ms": 166683,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4IQIY6NBsk5X6NLYjPvOaZ"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Little Robin Redbreast",
-        "url": "https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso"
-      },
-      "artists": [
-        {
-          "name": "Anne-Lise Kjeldsen",
-          "url": "https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5"
-        }
-      ],
-      "duration_ms": 67750,
-      "name": "One, Two, Buckle My Shoe",
-      "url": "https://open.spotify.com/track/51LmGNeKKCnfE8dnF5Oiaq"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Reflections",
         "url": "https://open.spotify.com/album/617mBec4f2asE69pD1Tn5c"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 216978,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2FnNdUC2HDLSgTkuO8d7LG"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Little Robin Redbreast",
+        "url": "https://open.spotify.com/album/7KPjCrFrkXEj7QUSbegSso"
+      },
+      "artists": [
+        {
+          "name": "Anne-Lise Kjeldsen",
+          "url": "https://open.spotify.com/artist/5JElWMTCwq3wLF7ISyYVu5"
+        }
+      ],
+      "duration_ms": 67750,
+      "name": "One, Two, Buckle My Shoe",
+      "url": "https://open.spotify.com/track/51LmGNeKKCnfE8dnF5Oiaq"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Nostalgia.",
-        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 104199,
-      "name": "Nostalgia.",
-      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Stella's lullaby",
         "url": "https://open.spotify.com/album/4Meb2u6sPmMfTHChqtN4M1"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 145874,
       "name": "Stella's lullaby",
       "url": "https://open.spotify.com/track/01A0U3qOAyfbSfTVP0B0N4"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Nostalgia.",
+        "url": "https://open.spotify.com/album/0Rhl9X8qKI2dFBfjMiZcn8"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 104199,
+      "name": "Nostalgia.",
+      "url": "https://open.spotify.com/track/7bMtZNoOv7snSZvzL9cqrp"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Friendship.",
-        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
-      },
-      "artists": [
-        {
-          "name": "Kittikhun P.",
-          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
-        }
-      ],
-      "duration_ms": 91898,
-      "name": "Friendship.",
-      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/4zQTQk0p87RGaRujdSuUPk"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 172522,
       "name": "Feathers",
       "url": "https://open.spotify.com/track/2yK3LNJFi8xUn3re8NnhYR"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Friendship.",
+        "url": "https://open.spotify.com/album/6xSRZ5mSLTX2iWEZAyf6Tj"
+      },
+      "artists": [
+        {
+          "name": "Kittikhun P.",
+          "url": "https://open.spotify.com/artist/7vKQzCa2cDOJaJRSt0oTpv"
+        }
+      ],
+      "duration_ms": 91898,
+      "name": "Friendship.",
+      "url": "https://open.spotify.com/track/4tgsdsLdze2YKRMSqmcy6A"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Sasha",
-        "url": "https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI"
-      },
-      "artists": [
-        {
-          "name": "Camilla Selezneva",
-          "url": "https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX"
-        }
-      ],
-      "duration_ms": 145000,
-      "name": "Sasha",
-      "url": "https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "The Ember",
         "url": "https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 198298,
       "name": "Trail of Light",
       "url": "https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Sasha",
+        "url": "https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI"
+      },
+      "artists": [
+        {
+          "name": "Camilla Selezneva",
+          "url": "https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "Sasha",
+      "url": "https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY"
     },
     {
       "added_at": "2024-05-13 04:39:54",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-13 04:39:54",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
-      },
-      "artists": [
-        {
-          "name": "Serenity for Sleep",
-          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
-        }
-      ],
-      "duration_ms": 282824,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
-    },
-    {
-      "added_at": "2024-05-13 04:39:54",
-      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 109440,
       "name": "Amorous Rebound",
       "url": "https://open.spotify.com/track/0JYn3juUc1lZ4kFeGey1kI"
+    },
+    {
+      "added_at": "2024-05-13 04:39:54",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/4MoMbQvHxVBuBz7cr4GFBr"
+      },
+      "artists": [
+        {
+          "name": "Serenity for Sleep",
+          "url": "https://open.spotify.com/artist/5xYUjljXN43W6WPIRmqYsV"
+        }
+      ],
+      "duration_ms": 282824,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/5WoomUQepLo07z51lEv8FH"
     },
     {
       "added_at": "2024-05-13 04:39:54",

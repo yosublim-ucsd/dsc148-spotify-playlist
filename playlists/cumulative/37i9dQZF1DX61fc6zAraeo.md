@@ -4,7 +4,7 @@
 
 > Dance tracks for your power moves
 
-146 songs - 6 hr 34 min
+147 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Feel The Same](https://open.spotify.com/track/77S8daUg3BQLdaAmH6c8EQ) | [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Feel The Same](https://open.spotify.com/album/0tHzJkyjlBPT8hzSFXdsU2) | 3:03 | 2024-02-07 | 2024-03-14 |
 | [Fine Day](https://open.spotify.com/track/7l0EE7nSalFQrV4Nf60xhQ) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Fine Day](https://open.spotify.com/album/0f75aP4uE3xyqL3DMIBTZg) | 3:02 | 2024-02-07 |  |
 | [Fitness](https://open.spotify.com/track/6tlTBmaJCBJ238Gl5eFZ2z) | [Marc Benjamin](https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw), [Bad Amie](https://open.spotify.com/artist/3tTqCfscGTg5hnbaKce3lE) | [Fitness](https://open.spotify.com/album/20L2EPQGvZV2WsgLJ1WdMz) | 3:00 | 2024-02-07 | 2024-02-24 |
-| [Flavour](https://open.spotify.com/track/6zfTdxrOhR5RmOoEQz3Jo5) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Flavour](https://open.spotify.com/album/1SWliD4g7XztMc0JHcHCwO) | 3:04 | 2024-03-06 |  |
+| [Flavour](https://open.spotify.com/track/6zfTdxrOhR5RmOoEQz3Jo5) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Flavour](https://open.spotify.com/album/1SWliD4g7XztMc0JHcHCwO) | 3:04 | 2024-03-06 | 2024-05-24 |
 | [For The People](https://open.spotify.com/track/1LvXRLxZ8s2ofB0X5zONou) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [For The People](https://open.spotify.com/album/6kIgGVhhww5H5SNwg2Dsoo) | 2:17 | 2024-02-07 |  |
 | [Freedom](https://open.spotify.com/track/2v0d2zo4bgHkge4B1O6e3c) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [Freedom](https://open.spotify.com/album/7C6Oa0Myixsesf55mp5yO1) | 2:38 | 2024-02-07 | 2024-03-08 |
 | [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2024-02-07 | 2024-04-12 |
@@ -95,6 +95,7 @@
 | [No Air](https://open.spotify.com/track/6uFFIOeXnKL0fL29ZjiaSH) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC) | [No Air](https://open.spotify.com/album/5QsHT3GMVl5qaG3XnvNE0B) | 2:30 | 2024-02-07 |  |
 | [Nothing In Common](https://open.spotify.com/track/3q7U43P5AbtkD1XiB0J1wR) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W), [Raphi](https://open.spotify.com/artist/5uRAMorzqKiss3EUQPVDD4) | [Nothing In Common](https://open.spotify.com/album/2OVpPBoS3pjmlaJH6PuT39) | 3:00 | 2024-02-07 |  |
 | [Nothing Left To Say](https://open.spotify.com/track/3MxZYK11pAciPApseszdNu) | [AVIAN GRAYS](https://open.spotify.com/artist/6StTE02qIwbcJjGEDSZgg5) | [Nothing Left To Say](https://open.spotify.com/album/1fHEYqL71AWO0x20hjLtAP) | 2:53 | 2024-03-13 | 2024-04-19 |
+| [Oldskool Sound](https://open.spotify.com/track/5ksP9EBpgskbG5XpvBDodL) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [Oldskool Sound](https://open.spotify.com/album/3KYWio1C7RF0lNDR1IRGdx) | 3:36 | 2024-05-23 |  |
 | [On My Love \- Hypaton Remix](https://open.spotify.com/track/0p30mMKiymrvaaeiXoU3a5) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7) | [On My Love \(Hypaton Remix\)](https://open.spotify.com/album/1CTwTz2XAKkEYxyX1t4yVU) | 3:11 | 2024-02-07 |  |
 | [On The Floor](https://open.spotify.com/track/4Qqana5ADRXtMeomuPoN4M) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [HOLA!](https://open.spotify.com/artist/6CSvy2n6DeLrJtriClVQwI) | [On The Floor](https://open.spotify.com/album/6MmoaGPj6xSeaaQBtlCul8) | 2:08 | 2024-02-07 | 2024-03-08 |
 | [One By One](https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [HOSANNA](https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7) | [One By One](https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5) | 2:25 | 2024-02-07 | 2024-03-07 |

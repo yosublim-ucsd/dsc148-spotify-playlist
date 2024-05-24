@@ -1,6 +1,6 @@
 {
   "description": "Escute C\u00e9u e mais mulheres no volume m\u00e1ximo! Co-curadoria com C\u00e9u",
-  "num_followers": 180197,
+  "num_followers": 180207,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-05-06 20:03:54",
       "album": {
+        "name": "AGRIDOCE (PARTE 1)",
+        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
+      },
+      "artists": [
+        {
+          "name": "Clarissa",
+          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
+        }
+      ],
+      "duration_ms": 162835,
+      "name": "BONITA",
+      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
+    },
+    {
+      "added_at": "2024-05-06 20:03:54",
+      "album": {
         "name": "Sonhos & Ilus\u00f5es (acoustic)",
         "url": "https://open.spotify.com/album/7JMG9ZwaIjpQEiJKU5ie9f"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 231125,
       "name": "Sonhos & Ilus\u00f5es - acoustic",
       "url": "https://open.spotify.com/track/3zJ9bsVbbXvdCkh4sNxpXR"
-    },
-    {
-      "added_at": "2024-05-06 20:03:54",
-      "album": {
-        "name": "AGRIDOCE (PARTE 1)",
-        "url": "https://open.spotify.com/album/7iecLXlov1YIcpSOebgGZn"
-      },
-      "artists": [
-        {
-          "name": "Clarissa",
-          "url": "https://open.spotify.com/artist/0DLHvj99Ne31Ockr6koARK"
-        }
-      ],
-      "duration_ms": 162835,
-      "name": "BONITA",
-      "url": "https://open.spotify.com/track/3I5e0k2WbTDfk1mF5ATRNl"
     },
     {
       "added_at": "2024-05-06 20:03:54",

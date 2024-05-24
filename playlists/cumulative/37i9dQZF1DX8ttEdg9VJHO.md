@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-107 songs - 5 hr 32 min
+108 songs - 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-07-14 | 2024-04-19 |
 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 | 2024-03-27 |  |
 | [Faded Love](https://open.spotify.com/track/5JQrj18Cgein2F1uJ60tUt) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Somewhere in Between](https://open.spotify.com/album/2ioXVlyRQygY6wU5V04IUv) | 2:28 | 2023-07-14 | 2024-04-19 |
+| [Flashback](https://open.spotify.com/track/4HS4JTTgXjH6fxsLYHQqhQ) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Flashback](https://open.spotify.com/album/5zg1NLMl5KghK5QPq9hMuV) | 2:49 | 2024-05-23 |  |
 | [Flugmodus](https://open.spotify.com/track/2iNzRQE0MlCaSHbHGzmbN2) | [Clueso](https://open.spotify.com/artist/0iFq8SzyZaaQ2Fn6CLDxqW) | [Flugmodus](https://open.spotify.com/album/3c5nMaXOVRSlECOQPB4TAy) | 2:58 | 2023-07-14 |  |
 | [Following the Sun](https://open.spotify.com/track/5A5bLKdL5I3k3FTEQlAUw7) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [NEEKA](https://open.spotify.com/artist/1JPZHb1qziDJ05n0a1OvfW) | [Following the Sun](https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG) | 3:25 | 2023-07-14 | 2024-04-19 |
 | [Ghost](https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:33 | 2023-07-14 |  |
@@ -78,7 +79,7 @@
 | [miss me \(when you're gone\)](https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:04 | 2023-07-14 | 2023-11-05 |
 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-04-24 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-07-14 |  |
-| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 |  |
+| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 | 2024-05-24 |
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2023-07-14 |  |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-07-14 |  |
 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 | 2023-07-14 |  |

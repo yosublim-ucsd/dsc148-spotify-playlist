@@ -2,9 +2,9 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Tenacious D au top des meilleurs morceaux rock du moment.
+> Bring Me The Horizon au top des meilleurs morceaux rock du moment.
 
-185 songs - 10 hr 28 min
+190 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 |  |
 | [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-04-24 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-09-28 | 2023-10-20 |
-| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-25 |  |
+| [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-25 | 2024-05-24 |
 | [Beguiled](https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:58 | 2024-01-11 |  |
 | [Best Of Me](https://open.spotify.com/track/4Gpzgpj57YgCe9uUnwRwz4) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Best Of Me](https://open.spotify.com/album/2Zc3sdoMNkKC2O3Vlu6geL) | 3:16 | 2024-03-26 |  |
 | [BIG](https://open.spotify.com/track/5zPzmBPamaT9eDGduGtxqG) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [BIG](https://open.spotify.com/album/1L8bOet9vwhCUUHgJewc2Q) | 2:15 | 2023-11-16 | 2024-01-26 |
@@ -50,6 +50,7 @@
 | [Dopamine](https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:06 | 2024-04-03 |  |
 | [Drama Queen](https://open.spotify.com/track/0zpED2T1oWwb76RbPA8qiT) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Drama Queen](https://open.spotify.com/album/572GaXZzA7xBEnZQxci4FE) | 2:29 | 2024-03-28 |  |
 | [Easy](https://open.spotify.com/track/1nRztuOlFPcKwnzwcjWTo2) | [Present](https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF) | [Easy](https://open.spotify.com/album/1lZmoIW2IkCBG1WySoiSCE) | 3:20 | 2024-01-01 | 2024-03-15 |
+| [ELF](https://open.spotify.com/track/10hB96qzB5jNxuOZyH5tlX) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Black / Red](https://open.spotify.com/album/5OEuYee2wiiEIUZ9SWwi50) | 3:58 | 2024-05-23 |  |
 | [Empires](https://open.spotify.com/track/5uKFAmmnnJ4qkQtyFFTYuE) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:10 | 2023-12-08 | 2024-01-12 |
 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 | 2024-01-25 | 2024-03-08 |
 | [Euphoria](https://open.spotify.com/track/5PCNd6UnT4y9Ygz0KFmIMC) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:23 | 2023-09-28 | 2023-10-13 |
@@ -71,9 +72,9 @@
 | [Here And Now](https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Here And Now](https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq) | 3:57 | 2023-09-28 | 2023-11-04 |
 | [Here And Now](https://open.spotify.com/track/2yjbj0zHhk21ljCeMPs79g) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Confessions Of The Fallen](https://open.spotify.com/album/16zCpjk1TUXFpJaBeJkbi6) | 3:57 | 2023-10-26 | 2023-12-22 |
 | [Heroes Are Calling](https://open.spotify.com/track/0QOEWQEowuJUz7LRIe3F6b) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes Are Calling](https://open.spotify.com/album/5vTfNc6mJuhXr2O3UIER3e) | 2:59 | 2024-03-14 |  |
-| [Hey You](https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Hey You](https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp) | 3:36 | 2024-04-03 |  |
+| [Hey You](https://open.spotify.com/track/5A9K5Zh7GpSYDleqWr2OGl) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Hey You](https://open.spotify.com/album/0ef4O5dEVqdhZ2q4nHMnnp) | 3:36 | 2024-04-03 | 2024-05-24 |
 | [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-28 |  |
-| [Horns](https://open.spotify.com/track/2rfXQAs0j00PzH1Lz8X05B) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:26 | 2024-02-15 |  |
+| [Horns](https://open.spotify.com/track/2rfXQAs0j00PzH1Lz8X05B) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Feel the Shine](https://open.spotify.com/album/2Y8Jvg7hBj2hGcCMRVBrTd) | 3:26 | 2024-02-15 | 2024-05-24 |
 | [Horns](https://open.spotify.com/track/3NAiEdkwZ6tJHteQ1Lbhax) | [Lysistrata](https://open.spotify.com/artist/04bDp8VBNHzbTdujiMUuCb) | [Horns](https://open.spotify.com/album/62JI5wGV34CnvBhAG2xwxf) | 3:26 | 2023-11-23 | 2024-01-19 |
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-14 | 2024-03-27 |
@@ -86,7 +87,7 @@
 | [It's Gonna Be Alright](https://open.spotify.com/track/1adglBbuQQaCbUORdvYjdZ) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [It's Gonna Be Alright](https://open.spotify.com/album/4hgCmtgWCyXZHDggCKetE4) | 3:05 | 2024-03-26 |  |
 | [Keep Going](https://open.spotify.com/track/4JulM1wpS95uCNI8AbzrHE) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:12 | 2023-11-09 | 2023-12-22 |
 | [Know](https://open.spotify.com/track/3QyvWzVXwvSYn3aSC2ugHY) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Know](https://open.spotify.com/album/1LIrodIqhLCPK6Dvt91UFj) | 3:53 | 2024-03-17 | 2024-03-27 |
-| [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-26 |  |
+| [Koda](https://open.spotify.com/track/2mbg1A5gDbyJX1pHPpGTWJ) | [Datcha Mandala](https://open.spotify.com/artist/6HGIo68pNJojy4jcz9uE88) | [Koda](https://open.spotify.com/album/0d5CiECfD56OVv6tttLiCP) | 3:42 | 2024-03-26 | 2024-05-24 |
 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 | 2024-01-04 | 2024-05-10 |
 | [La vie est belle](https://open.spotify.com/track/70wrE9rvgtQ5kR0UrdgT1o) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [La vie est belle](https://open.spotify.com/album/4EZPqR5zgSI7w7khsuPJAh) | 2:58 | 2024-04-29 |  |
 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 | 2023-09-28 |  |
@@ -98,10 +99,11 @@
 | [Let's Go](https://open.spotify.com/track/2cbyRKhKPAqCEhBl8OXdAY) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Let's Go](https://open.spotify.com/album/4eMG0IE1T1tko7r7YEa5xE) | 3:13 | 2024-04-15 |  |
 | [Life's a Pill](https://open.spotify.com/track/4XvNALxzCzwFymLvN9Daes) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Life's a Pill](https://open.spotify.com/album/3vH68KoocrWeWtYoQsL60s) | 3:37 | 2023-09-28 | 2023-11-10 |
 | [Lights Out](https://open.spotify.com/track/7CeS36dnnR2Ym14PP0Zg4P) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:53 | 2023-09-28 | 2023-10-20 |
-| [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-26 |  |
+| [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-26 | 2024-05-24 |
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 | 2023-11-10 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-09-28 | 2024-04-04 |
 | [Man Of The Hour](https://open.spotify.com/track/40jXLuZysjEEqfAwXg6moM) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Dark Rainbow](https://open.spotify.com/album/4pU6rQzlCfTrSxous1m7CK) | 3:01 | 2024-03-26 | 2024-04-30 |
+| [MEDZ](https://open.spotify.com/track/7sfp82nSU4R52zXcJpv0DQ) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [MEDZ](https://open.spotify.com/album/6Xwq41gv27p5DPAqnoZmxQ) | 2:45 | 2024-05-23 |  |
 | [Meeting The Master](https://open.spotify.com/track/6jXwOrrBoutMICNxckeDNQ) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 5:12 | 2023-09-28 | 2023-12-22 |
 | [Mess It Up](https://open.spotify.com/track/02EsRF5vSmKw92XAIEw9xJ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Mess It Up \(Purple Disco Machine Remix\)](https://open.spotify.com/album/0L6IypGWr61krz90boqPDD) | 4:03 | 2024-05-14 |  |
 | [Motel Way of Life](https://open.spotify.com/track/3hqNVh2HrQyX0j9FsjSQX9) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Motel Way of Life](https://open.spotify.com/album/4TqCIDinCXhpoDuDKI5ENg) | 2:51 | 2024-01-25 | 2024-05-03 |
@@ -121,6 +123,7 @@
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-09-28 | 2023-11-10 |
 | [pity](https://open.spotify.com/track/63PjD6QWNa5wqft8UIbQHV) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [pity](https://open.spotify.com/album/1MxwPm5Vv9aWl7J3wNI7Sk) | 2:59 | 2023-11-16 | 2023-12-01 |
 | [Playing With Fire](https://open.spotify.com/track/6Du6wbMKta7bWKuFeT2dVi) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Playing With Fire / ELF](https://open.spotify.com/album/5S0CnSM5Ni9l7W7xhdhhqF) | 3:23 | 2023-10-19 | 2023-12-08 |
+| [Power](https://open.spotify.com/track/55UAMzSFfLE3SvUksiRUGu) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Power](https://open.spotify.com/album/15ypOlXwgFQrF9KfhISXhn) | 2:22 | 2024-05-23 |  |
 | [Pretty Vicious](https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Pretty Vicious](https://open.spotify.com/album/6LaR18ZPjkJzY6TQse2lt8) | 5:10 | 2023-10-26 | 2024-02-09 |
 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 | 2023-09-28 | 2024-02-16 |
 | [Pyromane](https://open.spotify.com/track/7fpg6UBygCX0UR93lBPATO) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [11:11](https://open.spotify.com/album/0jfiAUw1sZ8EyNYaNMTe7T) | 2:58 | 2023-12-15 |  |
@@ -158,6 +161,7 @@
 | [Stuck In a Car With You](https://open.spotify.com/track/105tJEDg9Q5LF5aoZ96ckp) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Stuck In a Car With You](https://open.spotify.com/album/24Vd6jQWV2gf3MbIxAOc8t) | 3:59 | 2023-09-28 | 2023-11-24 |
 | [Stuck on You](https://open.spotify.com/track/4itaZ1FLykardSo2xfrVtU) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Stuck on You](https://open.spotify.com/album/4jxWewF9wV0XiqJb0ic8qX) | 3:11 | 2024-02-15 | 2024-03-29 |
 | [Sugar Rush](https://open.spotify.com/track/4Q2guVruhbhzux6NApPTkP) | [Tip Stevens](https://open.spotify.com/artist/0dDbdyjsq9HEPNKPyNElgd) | [Sugar Rush](https://open.spotify.com/album/5lft83Fx1Dth0Frg1ptTUE) | 4:05 | 2023-10-05 | 2024-02-23 |
+| [Sungazer](https://open.spotify.com/track/4d0iW7Fl3u9BNdsXZdFAgb) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Sungazer](https://open.spotify.com/album/33m5p7mMPChIrI8GPwcpoA) | 3:00 | 2024-05-23 |  |
 | [Sunshine](https://open.spotify.com/track/2czqsuJetQmyHxx3M009FX) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:14 | 2023-11-23 | 2024-01-19 |
 | [Supermodel Avalanches](https://open.spotify.com/track/3daLDEbCt1fvkS7POmwu2U) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below \(Bonus Edition\)](https://open.spotify.com/album/1bPTd5Ic6yHUGq5QZj2j2N) | 3:10 | 2024-01-04 | 2024-04-04 |
 | [Sweet Life](https://open.spotify.com/track/3XHdtukUPR5db9KVyZwDCt) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Mercy](https://open.spotify.com/album/7m5exqpKRweMqgxgOk6wY1) | 3:33 | 2023-10-19 | 2024-02-02 |
@@ -178,6 +182,7 @@
 | [thoughts i have while lying in bed](https://open.spotify.com/track/7t01uN0kyKMEK8Ow9hhEXa) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [thoughts i have while lying in bed \(with Beach Weather\)](https://open.spotify.com/album/57u0BXm756Oc5nKELfd6qR) | 3:39 | 2023-12-08 | 2023-12-22 |
 | [Time :: Fate :: Karma :: God](https://open.spotify.com/track/11QL0ypp9YLOvTvArX76tt) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City \(Deluxe\)](https://open.spotify.com/album/2RAkwilnza3i5WYKNhGqWS) | 3:03 | 2024-03-21 | 2024-04-04 |
 | [Tomorrow Is Closed](https://open.spotify.com/track/5qmNiJvNSCvXKRUlPJofZS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:58 | 2023-09-28 | 2023-12-16 |
+| [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 |  |
 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 | 2023-09-28 | 2023-11-24 |
 | [Unhappier](https://open.spotify.com/track/7G7TGbFjNOhd2rdCi2DoXR) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [Unhappier](https://open.spotify.com/album/52T8ox6votmUHEqoGzgFd5) | 3:17 | 2023-09-28 | 2023-10-13 |
 | [Vomit Candy](https://open.spotify.com/track/21ir1Jx963He5dvy6WeFg5) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Vomit Candy](https://open.spotify.com/album/3enD08oLyPBEvFL5vSufJF) | 2:43 | 2023-12-21 | 2024-01-12 |

@@ -4,7 +4,7 @@
 
 > Lagu\-lagu mengsedih yang menyayat hati 😭
 
-141 songs - 9 hr 53 min
+142 songs - 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Kasar](https://open.spotify.com/track/7pPzSbQlg1b8VQFnUFyHQ7) | [Syarla](https://open.spotify.com/artist/3SnAuONzYaCzmnojLPCbnx) | [Kasar](https://open.spotify.com/album/6pYBCfqmjcJSWrGzYo28V9) | 3:49 | 2024-01-11 | 2024-02-01 |
 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 | 2022-11-28 | 2024-04-16 |
 | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/track/3UAqNuP74Su2h7zOXXIbWm) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Khanti \(Original Soundtrack from Bidadari Bermata Bening\)](https://open.spotify.com/album/2ff9pyMaCGKVhltK61VYTb) | 3:25 | 2023-06-09 | 2023-06-15 |
+| [Kini](https://open.spotify.com/track/5AIAQ8Si5Gx9xFT3n3U3Jl) | [Daun Jatuh](https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI) | [Kini](https://open.spotify.com/album/46DOpLwkpDlUHfPusJ91cB) | 3:37 | 2024-05-24 |  |
 | [Kisah Sempurna](https://open.spotify.com/track/6gB7kLGZNkf5tkvWkzSGKR) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Kisah Sempurna](https://open.spotify.com/album/39fz0raJs02USfEzd71c8b) | 4:36 | 2022-11-28 | 2023-06-20 |
 | [Kisah Tanpa Dirimu](https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3) | [Anggis Devaki](https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf) | [Kisah Tanpa Dirimu](https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK) | 4:17 | 2024-04-23 |  |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Pendarra](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2022-11-28 | 2024-04-19 |
@@ -83,7 +84,7 @@
 | [Menyesal](https://open.spotify.com/track/29lBFGkfr7EoJlb3lxi9Ij) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Menyesal](https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE) | 3:23 | 2023-04-20 |  |
 | [Merasa Indah](https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tiara Andini](https://open.spotify.com/album/0jxUY7K5FdwJNl3SmnOZOl) | 3:40 | 2022-11-28 |  |
 | [Mesin Waktu](https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd) | [Budi Doremi](https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas) | [Mesin Waktu](https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy) | 4:22 | 2022-11-28 | 2023-06-08 |
-| [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2022-12-15 |  |
+| [Muak](https://open.spotify.com/track/3N2WeXxSjngB1DSi8vrI8C) | [Aruma](https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1) | [Muak](https://open.spotify.com/album/4Zt66ubcxeKkfB3MvTYvCq) | 4:24 | 2022-12-15 | 2024-05-24 |
 | [My Situation](https://open.spotify.com/track/7mOQkS8EyW8Z1RWusovNUs) | [Noah](https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4) | [Keterkaitan Keterikatan](https://open.spotify.com/album/2neCA2QvCmVvpfT00Oz7Bi) | 4:32 | 2023-07-06 | 2023-07-18 |
 | [Nala](https://open.spotify.com/track/3AdEZRmsa3zviTr2Whx3zI) | [Tulus](https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi) | [Manusia](https://open.spotify.com/album/3R4IAF9ApqYeUQrv1ddyoR) | 4:20 | 2022-11-28 | 2023-02-04 |
 | [Nyaman Tak Cukup](https://open.spotify.com/track/2o3RmRoQ5ZrHrPYRHykS0e) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Nyaman Tak Cukup](https://open.spotify.com/album/7CxcxDQ9biYRFRTQ6rw53f) | 3:50 | 2023-06-09 | 2023-06-19 |

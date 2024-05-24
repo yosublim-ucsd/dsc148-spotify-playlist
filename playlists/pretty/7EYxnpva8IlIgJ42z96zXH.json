@@ -1,12 +1,12 @@
 {
   "description": "Kickstart your morning workout with these upbeat workout tracks, updated weekly! Featuring Dom Dolla, Kygo, cass\u00f6, Calvin Harris and more.",
-  "num_followers": 30743,
+  "num_followers": 30742,
   "original_name": "Morning Workout",
   "owner": {
     "name": "Filtr Australia\t",
     "url": "https://open.spotify.com/user/sonymusicaustralia"
   },
-  "snapshot_id": "AAAMgtzlFKB5CfqKR4jfgSxPIrjnbv5z",
+  "snapshot_id": "AAAMg9pKEJVTOzdnTmSLENyO13oAku2S",
   "tracks": [
     {
       "added_at": "2024-05-16 23:23:20",
@@ -79,6 +79,26 @@
       "duration_ms": 168000,
       "name": "Don't Hold Back - Ben Gerrans Remix",
       "url": "https://open.spotify.com/track/3jXLn3Omm4sBlDhAeEcbBm"
+    },
+    {
+      "added_at": "2024-05-24 01:35:35",
+      "album": {
+        "name": "So High (feat. MERYLL) [Kyle Meehan Remix]",
+        "url": "https://open.spotify.com/album/6P7flWkRmZbYS1gxwJRVvE"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "duration_ms": 154482,
+      "name": "So High (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/6htKnclYIvSqD5Yki5ChMJ"
     },
     {
       "added_at": "2024-05-16 23:23:20",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Mozey",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: K Motionz, ArrDee, Riko Dan",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -5625,6 +5625,32 @@
     },
     {
       "album": {
+        "name": "Heavyweight",
+        "url": "https://open.spotify.com/album/54iIrG2X8bkCYPyl9n1vCM"
+      },
+      "artists": [
+        {
+          "name": "K Motionz",
+          "url": "https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ"
+        },
+        {
+          "name": "ArrDee",
+          "url": "https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk"
+        },
+        {
+          "name": "Riko Dan",
+          "url": "https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148965,
+      "name": "Heavyweight",
+      "url": "https://open.spotify.com/track/3v5zBPtf296IiVc1uiv5No"
+    },
+    {
+      "album": {
         "name": "Hell In High Heels (feat. Jazmine Johnson)",
         "url": "https://open.spotify.com/album/3gB2o3pjiNUxKLqUYDqgsX"
       },
@@ -6466,7 +6492,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158550,
       "name": "Is It Love - goddard. Remix",
       "url": "https://open.spotify.com/track/5kNaiGZicJkD7r1cwbzDcD"
@@ -10202,7 +10228,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167441,
       "name": "rampage",
       "url": "https://open.spotify.com/track/2E5MrNoJuqwBhhxIp5v8F2"
@@ -12146,6 +12172,28 @@
       "duration_ms": 228837,
       "name": "Stay",
       "url": "https://open.spotify.com/track/25JAtCYGruGELrX5cokhsA"
+    },
+    {
+      "album": {
+        "name": "Stay A Little Longer",
+        "url": "https://open.spotify.com/album/509ZK4FZdkVDN1NfKcXDON"
+      },
+      "artists": [
+        {
+          "name": "James Hiraeth",
+          "url": "https://open.spotify.com/artist/13lPKi6IQrIyWyyovYUbtA"
+        },
+        {
+          "name": "Robbie Jay",
+          "url": "https://open.spotify.com/artist/5bWPJEXEu87AXFu0XJ4j6K"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196123,
+      "name": "Stay A Little Longer",
+      "url": "https://open.spotify.com/track/3XTyWCiBqc4B8enHDKOj8W"
     },
     {
       "album": {

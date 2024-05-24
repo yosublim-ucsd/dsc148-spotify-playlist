@@ -1,12 +1,12 @@
 {
-  "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 59176,
+  "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
+  "num_followers": 59174,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAhJolS/kKoYUVnx0K7QBLQ",
+  "snapshot_id": "Zk01gAAAAAAGXviKhZn7QDNesMreVuQr",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ruzzicovers",
+        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 219086,
+      "name": "Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Domingo",
         "url": "https://open.spotify.com/album/0Xu5KczP14lEIGIDWqQkr1"
       },
@@ -523,26 +543,6 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ruzzicovers",
-        "url": "https://open.spotify.com/album/2iIluiLqHB24y20H2qPbb2"
-      },
-      "artists": [
-        {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 219086,
-      "name": "Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/51Qn4E2abqNQzL5XMzWEHw"
     },
     {
       "added_at": null,
@@ -663,26 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Te Vayas",
-        "url": "https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb"
-      },
-      "artists": [
-        {
-          "name": "Ramona",
-          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 206818,
-      "name": "No Te Vayas",
-      "url": "https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nuevos Aires",
         "url": "https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 212894,
       "name": "fuckhim (feat. Ximena Sari\u00f1ana)",
       "url": "https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Te Vayas",
+        "url": "https://open.spotify.com/album/0k4dSQx0YRgv43KFpxNWTb"
+      },
+      "artists": [
+        {
+          "name": "Ramona",
+          "url": "https://open.spotify.com/artist/3K8X4ZoPqijzc6QSP4eAQF"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 206818,
+      "name": "No Te Vayas",
+      "url": "https://open.spotify.com/track/6wz2a7hZNgLoPzSJyx9Ms9"
     },
     {
       "added_at": null,
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 218479,
+      "name": "No S\u00e9 (feat. Girl Ultra)",
+      "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU"
       },
@@ -911,46 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un A\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Kinky",
-          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
-        },
-        {
-          "name": "M\u0153nia",
-          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
-        },
-        {
-          "name": "OV7",
-          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
-        },
-        {
-          "name": "Mijares",
-          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 251200,
-      "name": "Un A\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuba Pintada",
         "url": "https://open.spotify.com/album/4aq6JOU5CaorKccaLlzxAi"
       },
@@ -991,6 +971,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un A\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        },
+        {
+          "name": "Kinky",
+          "url": "https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv"
+        },
+        {
+          "name": "M\u0153nia",
+          "url": "https://open.spotify.com/artist/3QmmtMrEf7aQrsd1VtejAV"
+        },
+        {
+          "name": "OV7",
+          "url": "https://open.spotify.com/artist/5zaT4Qu9otu6z4oyWjRqM2"
+        },
+        {
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 251200,
+      "name": "Un A\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/2udlQqrYr53x9gF1Nh7hPc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mediocre",
         "url": "https://open.spotify.com/album/268J4Sl3DpX5l7KrxHRv2g"
       },
@@ -1003,6 +1023,22 @@
       "duration_ms": 263386,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7pEVLSlWDDTnTUOVdwPXrn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 175470,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
     },
     {
       "added_at": null,
@@ -1027,22 +1063,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/056KBSR2KBMankHXTbizsL"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 175470,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/3wwHxBjK4Y1IohNUVgwX31"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No todo lo puedes dar",
         "url": "https://open.spotify.com/album/5B3qry3tE4rHhgI4pRc7Ld"
       },
@@ -1055,26 +1075,6 @@
       "duration_ms": 228640,
       "name": "La Vida No Es F\u00e1cil",
       "url": "https://open.spotify.com/track/0jGTmc9Z4yczeLzLVaIJgp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        }
-      ],
-      "duration_ms": 215072,
-      "name": "Pueblo Abandonado (feat. Francisca Valenzuela)",
-      "url": "https://open.spotify.com/track/5gUV6Hkty3stHGXy0KrZmb"
     }
   ],
   "unique_name": "This Is Ximena Sari\u00f1ana",

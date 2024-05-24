@@ -1425,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "Another Day",
+        "url": "https://open.spotify.com/album/2mCmt4mpUId90aVmNJY7zt"
+      },
+      "artists": [
+        {
+          "name": "Arta Porting",
+          "url": "https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287515,
+      "name": "Another Day",
+      "url": "https://open.spotify.com/track/516dXS5QwzvlvP3zS63dnS"
+    },
+    {
+      "album": {
         "name": "Another Day Gone By",
         "url": "https://open.spotify.com/album/46hpO6Ecbxhs5FTzJtySpo"
       },
@@ -1458,6 +1476,24 @@
       "duration_ms": 153225,
       "name": "Another Fairytale",
       "url": "https://open.spotify.com/track/6q49DPa2Q5D8ZNi6Hz62uJ"
+    },
+    {
+      "album": {
+        "name": "Another way",
+        "url": "https://open.spotify.com/album/2kBYyZ9ufAfsQqoY5SYqaE"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211886,
+      "name": "Another way",
+      "url": "https://open.spotify.com/track/280Vd5Lf980YfIJIc67vUr"
     },
     {
       "album": {
@@ -1768,7 +1804,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 153935,
       "name": "Autumn Embrace",
       "url": "https://open.spotify.com/track/3a2EtryAoijDMEAOaFSxqH"
@@ -2100,7 +2136,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 291319,
       "name": "Beautiful Sunrise",
       "url": "https://open.spotify.com/track/6vtzBYf1I2Ozsdp94A2t5i"
@@ -2957,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Carousel",
+        "url": "https://open.spotify.com/album/76IvjlwNgVZMXOrECzExCM"
+      },
+      "artists": [
+        {
+          "name": "Martin Hoper",
+          "url": "https://open.spotify.com/artist/6WkApyKcrvkGbgyASLSVbc"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203500,
+      "name": "Carousel",
+      "url": "https://open.spotify.com/track/6wyvNQ6O3uJ7cDXnvr7z7K"
+    },
+    {
+      "album": {
         "name": "Carroll Street",
         "url": "https://open.spotify.com/album/1kRBPxA2VoHjh2tDjmgc62"
       },
@@ -3350,6 +3404,24 @@
       "duration_ms": 167113,
       "name": "Clear Sight",
       "url": "https://open.spotify.com/track/6LLyyfz8BYrHtd3yPkrPad"
+    },
+    {
+      "album": {
+        "name": "Cliffs",
+        "url": "https://open.spotify.com/album/5BNrTrQr8lcyRso4aXESIP"
+      },
+      "artists": [
+        {
+          "name": "Lennie Weston",
+          "url": "https://open.spotify.com/artist/2i25BOgCBeXtPKKpj3I0NJ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Cliffs",
+      "url": "https://open.spotify.com/track/4LEDxHTo5iTzYgNbzIfaBK"
     },
     {
       "album": {
@@ -4698,6 +4770,24 @@
       "duration_ms": 251656,
       "name": "Echoes of Elegance",
       "url": "https://open.spotify.com/track/3sVxqOhmmZfaTHOOIs5LKm"
+    },
+    {
+      "album": {
+        "name": "Echoes Of You",
+        "url": "https://open.spotify.com/album/10EiwKj6O9sd9hzdZCxXe8"
+      },
+      "artists": [
+        {
+          "name": "Taylor Owen Trio",
+          "url": "https://open.spotify.com/artist/5pCUMgtJ7hUMrCDeYm96Ca"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196801,
+      "name": "Echoes Of You",
+      "url": "https://open.spotify.com/track/6BG5Ve4XaMq8GjaIGpg9la"
     },
     {
       "album": {
@@ -6473,6 +6563,24 @@
     },
     {
       "album": {
+        "name": "Hear Hear",
+        "url": "https://open.spotify.com/album/6WAila18C1NidEzseKeNee"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238374,
+      "name": "Hear Hear",
+      "url": "https://open.spotify.com/track/6GFJjH5HjMJYPotMuHVN32"
+    },
+    {
+      "album": {
         "name": "Heartbreak Avenue",
         "url": "https://open.spotify.com/album/3RrW88TLHIjgNehr6KG4sk"
       },
@@ -6754,7 +6862,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 209046,
       "name": "Homebound",
       "url": "https://open.spotify.com/track/7obaAm9tRqarKIJ1JsRelQ"
@@ -7082,6 +7190,24 @@
       "duration_ms": 148303,
       "name": "I Cover the Waterfront",
       "url": "https://open.spotify.com/track/2gGerDB2Wi5BgPTUQiwYUJ"
+    },
+    {
+      "album": {
+        "name": "I Didn't Know What Time It Was",
+        "url": "https://open.spotify.com/album/4NpsxaHznzfn1pJpEM4bjR"
+      },
+      "artists": [
+        {
+          "name": "Bernstein Square",
+          "url": "https://open.spotify.com/artist/0RdMRIhMDTQEpMcALRyQTK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171675,
+      "name": "I Didn't Know What Time It Was",
+      "url": "https://open.spotify.com/track/3GuKMibYz7gzFTkSoxjQob"
     },
     {
       "album": {
@@ -9370,7 +9496,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201369,
       "name": "La Libertad",
       "url": "https://open.spotify.com/track/3BGvwaiA1ovpsyAj0uytZ8"
@@ -9634,6 +9760,24 @@
       "duration_ms": 230753,
       "name": "Late At Night",
       "url": "https://open.spotify.com/track/6pv7UGD1CNFS7Lzm6ro7aK"
+    },
+    {
+      "album": {
+        "name": "Late At Night",
+        "url": "https://open.spotify.com/album/3lMYHC4ZL9xYxsp5yysMKl"
+      },
+      "artists": [
+        {
+          "name": "Wildflower Trio",
+          "url": "https://open.spotify.com/artist/201JTvpknVv2BZgtwDaQH6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188371,
+      "name": "Late At Night",
+      "url": "https://open.spotify.com/track/2hs7iNULNKcfbFpLsyazEz"
     },
     {
       "album": {
@@ -11139,6 +11283,24 @@
     },
     {
       "album": {
+        "name": "May This Dance Last Forever",
+        "url": "https://open.spotify.com/album/52jObqeeDAtFOT9sQ5O1Kq"
+      },
+      "artists": [
+        {
+          "name": "The Belleville Band",
+          "url": "https://open.spotify.com/artist/06ZTM5bZGUrNwBobE5eVBW"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169594,
+      "name": "May This Dance Last Forever",
+      "url": "https://open.spotify.com/track/7o5OtG2KwcXObjebVXJNG4"
+    },
+    {
+      "album": {
         "name": "A Cookie For Marie",
         "url": "https://open.spotify.com/album/6X6p18R71Cdewdr1Kev1Lp"
       },
@@ -11330,7 +11492,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190909,
       "name": "Merry Monday",
       "url": "https://open.spotify.com/track/4jZOeSzfXYIBJszABDdba0"
@@ -11535,6 +11697,24 @@
     },
     {
       "album": {
+        "name": "Milford Sound",
+        "url": "https://open.spotify.com/album/0VgwZU5kHyc6i3A0WPqApx"
+      },
+      "artists": [
+        {
+          "name": "Alec Taylor Trio",
+          "url": "https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259605,
+      "name": "Milford Sound",
+      "url": "https://open.spotify.com/track/1x0FdcEh7F8h1u8Zl9wdcc"
+    },
+    {
+      "album": {
         "name": "Minor Matters",
         "url": "https://open.spotify.com/album/4FI5JIydsr1OYdMPVLoJX6"
       },
@@ -11636,7 +11816,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193606,
       "name": "Misty Morning",
       "url": "https://open.spotify.com/track/1QwunZ0xkzaVuGG9hFT8pC"
@@ -12958,7 +13138,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 184470,
       "name": "Notes and Nights",
       "url": "https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp"
@@ -13906,6 +14086,24 @@
       "duration_ms": 264028,
       "name": "Pink Balloons",
       "url": "https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir"
+    },
+    {
+      "album": {
+        "name": "Place Under the Sun",
+        "url": "https://open.spotify.com/album/0yN7pXxZ5vcUTLv91aVdxa"
+      },
+      "artists": [
+        {
+          "name": "Tate Jackson Trio",
+          "url": "https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204040,
+      "name": "Place Under the Sun",
+      "url": "https://open.spotify.com/track/4x1NJb0hSXhT042UVh6jky"
     },
     {
       "album": {
@@ -15191,6 +15389,24 @@
     },
     {
       "album": {
+        "name": "Sidewalk",
+        "url": "https://open.spotify.com/album/3QUPNKcifdHWwhsUPWVbFJ"
+      },
+      "artists": [
+        {
+          "name": "Old Town Trio",
+          "url": "https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272500,
+      "name": "Sidewalk",
+      "url": "https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x"
+    },
+    {
+      "album": {
         "name": "Signs in the Wind",
         "url": "https://open.spotify.com/album/4ZsfPweycVfmBNlgJh8NgP"
       },
@@ -15260,6 +15476,24 @@
       "duration_ms": 279750,
       "name": "Silent Thunder",
       "url": "https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV"
+    },
+    {
+      "album": {
+        "name": "Silhouette in the cloud",
+        "url": "https://open.spotify.com/album/3T83vWYOxJfJko9upHrEkl"
+      },
+      "artists": [
+        {
+          "name": "Felix McCoy Quartet",
+          "url": "https://open.spotify.com/artist/2UIgtE5XCEu7BYtjaY8wsh"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199472,
+      "name": "Silhouette in the cloud",
+      "url": "https://open.spotify.com/track/0x4iwqtrdw8A19OG7pRKtm"
     },
     {
       "album": {
@@ -15695,6 +15929,24 @@
     },
     {
       "album": {
+        "name": "Solace",
+        "url": "https://open.spotify.com/album/2OC9d9vetlQ7abD7uDxqbZ"
+      },
+      "artists": [
+        {
+          "name": "Gillian Spencer Trio",
+          "url": "https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176263,
+      "name": "Solace",
+      "url": "https://open.spotify.com/track/1NzYzUEStQAj2i819bn0zk"
+    },
+    {
+      "album": {
         "name": "Solitaire",
         "url": "https://open.spotify.com/album/71qxttrdClPi0LYz05vJhw"
       },
@@ -15998,6 +16250,24 @@
       "duration_ms": 230088,
       "name": "Soulful Stroll",
       "url": "https://open.spotify.com/track/5p5ia2SufA5Tl9FUjHDUky"
+    },
+    {
+      "album": {
+        "name": "South Valley Park",
+        "url": "https://open.spotify.com/album/75Xh4ArRbt72Jy27GCF2FD"
+      },
+      "artists": [
+        {
+          "name": "Le Bourget",
+          "url": "https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237000,
+      "name": "South Valley Park",
+      "url": "https://open.spotify.com/track/11oNCdjoD73GQdsDIICXE3"
     },
     {
       "album": {
@@ -16325,6 +16595,24 @@
     },
     {
       "album": {
+        "name": "Steppin In",
+        "url": "https://open.spotify.com/album/42bkRxaQENKBd2mXlUp4kp"
+      },
+      "artists": [
+        {
+          "name": "Denzel Sachs",
+          "url": "https://open.spotify.com/artist/3SB6ICG4p7cvBEjSLNSBMw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187374,
+      "name": "Steppin In",
+      "url": "https://open.spotify.com/track/1Rx2LLRmrCRgDxpzMiosVj"
+    },
+    {
+      "album": {
         "name": "Steps Ahead",
         "url": "https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh"
       },
@@ -16372,7 +16660,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 186000,
       "name": "Still Life",
       "url": "https://open.spotify.com/track/6Mhy6TO8fdgnWVPKZWhqaV"
@@ -17182,7 +17470,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190979,
       "name": "The Boy Next Door",
       "url": "https://open.spotify.com/track/0A3gD0jTXt9p3Nnc8cCUsI"
@@ -18248,7 +18536,7 @@
       ],
       "date_added": "2022-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 195181,
       "name": "This Is New",
       "url": "https://open.spotify.com/track/6fYwCP9RSKhbOkLmGwX41N"
@@ -19245,6 +19533,24 @@
     },
     {
       "album": {
+        "name": "Walking You Home",
+        "url": "https://open.spotify.com/album/3SJawp8ghUJ2HrbZ8kcpKi"
+      },
+      "artists": [
+        {
+          "name": "Mino Conte & Co",
+          "url": "https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179416,
+      "name": "Walking You Home",
+      "url": "https://open.spotify.com/track/0FGssXb5s6d7QPLFQLE4OO"
+    },
+    {
+      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK"
       },
@@ -19350,6 +19656,24 @@
       "duration_ms": 196000,
       "name": "Waterway",
       "url": "https://open.spotify.com/track/2eszQxvnPJytQuJHsK6GiG"
+    },
+    {
+      "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/54Km7NbaRPsGpAmbZvEXIF"
+      },
+      "artists": [
+        {
+          "name": "Joe Wilson Trio",
+          "url": "https://open.spotify.com/artist/3K1jFkuCruS7nx1GbWvH8E"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160500,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/24Haz1HYEkk7YBAzg8GOfi"
     },
     {
       "album": {
@@ -19926,7 +20250,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208201,
       "name": "Where or When",
       "url": "https://open.spotify.com/track/5ABObbZnTJIMSOfaNcu0xm"
@@ -20275,6 +20599,24 @@
     },
     {
       "album": {
+        "name": "Wondering",
+        "url": "https://open.spotify.com/album/4QqJHK4Lf9nPLnvndLW0q7"
+      },
+      "artists": [
+        {
+          "name": "Isaiah Lewis",
+          "url": "https://open.spotify.com/artist/3BpZjEATDP62xncYcfVkqP"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196944,
+      "name": "Wondering",
+      "url": "https://open.spotify.com/track/6f4wqYTItYMuPCwCMUZoCt"
+    },
+    {
+      "album": {
         "name": "Wooden String",
         "url": "https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS"
       },
@@ -20430,7 +20772,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 211500,
       "name": "You Can Call Me Again",
       "url": "https://open.spotify.com/track/2o0AN4oU66mlc9dH54ENFd"
@@ -20622,6 +20964,24 @@
       "duration_ms": 224215,
       "name": "You Left Your Mark On Me",
       "url": "https://open.spotify.com/track/5sIXcPEq8AfCiwIWBJakA7"
+    },
+    {
+      "album": {
+        "name": "You Make Me Blush",
+        "url": "https://open.spotify.com/album/0UIIk4OzCLqOg22bsRTvnL"
+      },
+      "artists": [
+        {
+          "name": "Novo Stella",
+          "url": "https://open.spotify.com/artist/1YrNSfkC8jWJm1rfvOKN32"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132778,
+      "name": "You Make Me Blush",
+      "url": "https://open.spotify.com/track/6fp6wL32hOQzyvVmjURsUg"
     },
     {
       "album": {

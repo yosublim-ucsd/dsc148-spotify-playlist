@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 
 > Aquí viven los hits más grandes en La Isla del Encanto\. Casper Magico, Anuel AA, iZaak y Luar La L en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,677 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,769 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1Zs6DCeRyof.md) - [plain]
 | 21 | [G\_D.O.N.](https://open.spotify.com/track/5VCZscSilRDSIDzBWmupQJ) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [CVRBON VRMOR \[C\_DE: G\_D.O.N.\]](https://open.spotify.com/album/3zaBxuBf9zSlxZ20ZRHXXE) | 2:38 |
 | 22 | [Don KBRN Freestyle](https://open.spotify.com/track/4y6avDOMg27PS7n71aOZZB) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Porque Puedo](https://open.spotify.com/album/1yHXJzuDKUHwR0kM0oah82) | 2:24 |
 | 23 | [ADIVINO](https://open.spotify.com/track/0LZy30mVmxqUpdQmaXKXBd) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [ADIVINO](https://open.spotify.com/album/3sRyLQf04m9vm40JNRFiCl) | 4:38 |
-| 24 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
+| 24 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/17XeomF5xiiR4bQVQx0uWB), [Omar Courtz](https://open.spotify.com/artist/6ju131sNPISiZTbmJMTAE4) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
 | 25 | [BYAK](https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [BYAK](https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5) | 3:36 |
 | 26 | [Hey Lil Mama](https://open.spotify.com/track/5QtB74eCS2YzHvEfSlh8MG) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:36 |
 | 27 | [Bien Loco](https://open.spotify.com/track/7sQTnko0Rj32DZCXG6Q756) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Mr\. W](https://open.spotify.com/album/3ajL8VGPHoWxKl2rsQtdGX) | 3:32 |

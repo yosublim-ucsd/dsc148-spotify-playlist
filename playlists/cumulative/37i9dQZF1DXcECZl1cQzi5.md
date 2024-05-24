@@ -4,7 +4,7 @@
 
 > Ocean sounds and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-116 songs - 5 hr 35 min
+117 songs - 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Close Reach](https://open.spotify.com/track/2679d04T5F8YA2vMmMxGcS) | [Sand Rae](https://open.spotify.com/artist/01AXMlLHjZDPlbVBPnXb8h) | [Close Reach](https://open.spotify.com/album/6rG6J9ffSjENnPTQ5uGXOo) | 2:45 | 2024-03-20 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-10-23 |  |
 | [Coastal Tranquility](https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Coastal Tranquility](https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t) | 2:38 | 2024-05-01 | 2024-05-15 |
+| [Collect Yourself](https://open.spotify.com/track/3qBoNbi7zFlDWskvLABEk1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Collect Yourself](https://open.spotify.com/album/5tegNKMknMihpIawkRlVeS) | 2:33 | 2024-05-01 |  |
 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-06 |  |
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-10-23 |  |
 | [Deep Cove](https://open.spotify.com/track/24UKwKhTpYoFYD5p6VHDEi) | [A Lonely Moon](https://open.spotify.com/artist/1O2zQ8dbt890Q9aBNPBSWf) | [Calming Seas](https://open.spotify.com/album/45cNIJRwioXWqXRnzc6z0P) | 2:41 | 2023-10-23 |  |
@@ -75,7 +76,7 @@
 | [Ocean Mindfulness](https://open.spotify.com/track/2ozmrXPped2BfxqVZLYVCJ) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [Human Is Alive](https://open.spotify.com/artist/7dTbMBySbElMEZs1RfUYO7) | [Ocean Mindfulness](https://open.spotify.com/album/7qYxYGOQxZkznIH5HWU3Gh) | 3:27 | 2023-10-23 |  |
 | [Ocean Miracle](https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Ocean Dynamics](https://open.spotify.com/album/5Aq52DANigWA8C0nCbYIeo) | 2:56 | 2024-05-01 |  |
 | [Ocean Swell](https://open.spotify.com/track/5UQJrnDUQFrJhD9hX7oXmn) | [Aysun](https://open.spotify.com/artist/6JpzNu8Gqk4qx6s7NofOXT) | [Ocean Swell](https://open.spotify.com/album/7a9SW9Au9lQ8YcDwaJMIwT) | 2:55 | 2024-03-20 |  |
-| [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 |  |
+| [Oceanfront](https://open.spotify.com/track/6OyWgwZrkpTm1MP0SUtmdi) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Oceanfront](https://open.spotify.com/album/422uRupupycQ4E9MfKCHKQ) | 3:02 | 2023-10-23 | 2024-05-24 |
 | [Oceanic Peace](https://open.spotify.com/track/0W4weYa5aqgvMqXbNxSzjv) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Oceanic Peace](https://open.spotify.com/album/1ieOkrmsSTv1MDQj378wPp) | 2:50 | 2023-10-23 |  |
 | [Oceanos \- Alpha 65Hz \- 72Hz](https://open.spotify.com/track/0JkHZdKIt2VXwiP5IHkaZn) | [Mission Venus](https://open.spotify.com/artist/6lCBvo1KvG3lzBqRCQFaDB) | [Oceanos Alpha](https://open.spotify.com/album/3Eb7Mfz5OTLzBu4PWKnbY0) | 3:13 | 2023-10-26 |  |
 | [Oceanwide](https://open.spotify.com/track/5JcwPNcYMr0yKOXruhXMPq) | [Forgotten Lake](https://open.spotify.com/artist/4zfCCxd0zQ5q7xkLB7Yh5x) | [Oceanwide](https://open.spotify.com/album/7p32rjfMm4aEuIqCsha8nr) | 3:37 | 2023-11-24 |  |

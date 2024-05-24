@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 123313,
+  "num_followers": 123332,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Vive en M\u00ed",
+        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        }
+      ],
+      "duration_ms": 234042,
+      "name": "Soy Tu Padre",
+      "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -115,22 +131,6 @@
       "duration_ms": 219692,
       "name": "Tu Eres (feat. Andrea Dominguez)",
       "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Vive en M\u00ed",
-        "url": "https://open.spotify.com/album/0OWlPKpTVq2bLYj80Drs1x"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        }
-      ],
-      "duration_ms": 234042,
-      "name": "Soy Tu Padre",
-      "url": "https://open.spotify.com/track/6zs6YLKvJolVWvSRW4KV17"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Que Tire La Piedra",
+        "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
+      },
+      "artists": [
+        {
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
+        }
+      ],
+      "duration_ms": 293426,
+      "name": "Mi Iglesia",
+      "url": "https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "#BendecidoAmen",
         "url": "https://open.spotify.com/album/291jzwipV9JQUcJdNXdhRt"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 359000,
       "name": "El Esta Aqu\u00ed",
       "url": "https://open.spotify.com/track/2sv3oEXRj7p0GeiMWC6rCY"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Que Tire La Piedra",
-        "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
-      },
-      "artists": [
-        {
-          "name": "Tony Vega",
-          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
-        }
-      ],
-      "duration_ms": 293426,
-      "name": "Mi Iglesia",
-      "url": "https://open.spotify.com/track/2gys4WGMy1rcq8SRXLbutl"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Indescriptible",
-        "url": "https://open.spotify.com/album/0BAz7xyzoBO06NKRZgyHBo"
+        "name": "Que Tire La Piedra",
+        "url": "https://open.spotify.com/album/6jdyy17GVJ05cbVGoMk7bO"
       },
       "artists": [
         {
-          "name": "Lizzie Lizzie",
-          "url": "https://open.spotify.com/artist/6OdBKw16BHAQn7ejfIPb8x"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 247353,
-      "name": "Unico Version Merengue",
-      "url": "https://open.spotify.com/track/5hjwG4B2dUJzIiiDbNvsGp"
+      "duration_ms": 264533,
+      "name": "Que Tire La Piedra",
+      "url": "https://open.spotify.com/track/4Cl8Au15K9n0jEMBeFiI22"
     }
   ],
   "unique_name": "Baila Con Dios",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 763,268 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,369 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

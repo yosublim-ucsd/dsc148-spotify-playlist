@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,124 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 635,187 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 32 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 33 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
 | 34 | [The Way You Move \(feat\. Sleepy Brown\)](https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7), [Sleepy Brown](https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 3:54 |
-| 35 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
-| 36 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
+| 35 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
+| 36 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 37 | [Big Poppa \- 2007 Remaster](https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Greatest Hits](https://open.spotify.com/album/5XqEf16OrHdmMoNS1b6WDg) | 4:09 |
 | 38 | [Rock The Boat](https://open.spotify.com/track/0qvlhVNm7L5IWabWF5hlEL) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:34 |
 | 39 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |

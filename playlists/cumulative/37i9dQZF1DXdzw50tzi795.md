@@ -2,7 +2,7 @@
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: BOWKYLION
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Goy Arachaporn
 
 75 songs - 4 hr 56 min
 

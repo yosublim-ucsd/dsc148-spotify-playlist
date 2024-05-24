@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 
 > Nacimos para rodar en el asfalto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,338 likes - 75 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,570 likes - 75 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 32 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
 | 33 | [No One Knows](https://open.spotify.com/track/6NvRxjfYkkT2SpirAlmsjH) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Songs For The Deaf](https://open.spotify.com/album/58HZZpS0wxJKwGjoerg0mk) | 4:38 |
 | 34 | [Heartbreaker](https://open.spotify.com/track/22ML0MuFKfw16WejbxsLOy) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [In The Heat Of The Night](https://open.spotify.com/album/3QtcoigGc0KKzE6mVAkFfY) | 3:29 |
-| 35 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
+| 35 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
 | 36 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 |
-| 37 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 |
+| 37 | [Cherry Pie](https://open.spotify.com/track/7LygtNjQ65PSdzVjUnHXQb) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Cherry Pie](https://open.spotify.com/album/4LgsHyufRmmcB1HIqTES19) | 3:21 |
 | 38 | [Rockin' in the Free World](https://open.spotify.com/track/4Y7fEQ4PAzhlLnLviRw2P4) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Freedom](https://open.spotify.com/album/3uOOKcr91I3Br0Rtmu4zdT) | 4:41 |
 | 39 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
 | 40 | [Automatic Sun](https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Automatic Sun](https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ) | 3:10 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW4SraN7Va8.md) - [plain]
 | 61 | [BANSHEE](https://open.spotify.com/track/3iz15hcoonf1n0xC5qJfik) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [BANSHEE/\#REBEL](https://open.spotify.com/album/750mAcVXVw0PdHspB3uLeC) | 3:34 |
 | 62 | [Old Time Rock n\\' Roll](https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY) | [Sam Morrison and Turn The Page](https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl) | [A Tribute to the Music of Bob Seger](https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU) | 3:10 |
 | 63 | [Holy Ground \(Shake the Memory\)](https://open.spotify.com/track/3Z5IHP0Eib8jZeQ6Lcrx7a) | [The Dead Daisies](https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH) | [Holy Ground](https://open.spotify.com/album/6asdJhdhhhcvvo2u3le3dp) | 4:49 |
-| 64 | [Youth Gone Wild](https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:18 |
-| 65 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
+| 64 | [Walk This Way](https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 3:40 |
+| 65 | [Youth Gone Wild](https://open.spotify.com/track/1jF5Id0OPFU1Mae8BEUF5u) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Skid Row](https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi) | 3:18 |
 | 66 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 67 | [Leather Boyz With Electric Toyz](https://open.spotify.com/track/5FjNOCy01diVS2ikWHZ1Ik) | [Pretty Boy Floyd](https://open.spotify.com/artist/6wnbsasRwmhUld5BBDfbKa) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:08 |
 | 68 | [Paso Del Norte](https://open.spotify.com/track/61Yf3loolg5aCeIiIlaPkv) | [Jenny Don't And The Spurs](https://open.spotify.com/artist/4NI2Y4u6IP2kBzg6xZELlk) | [Call of the Road](https://open.spotify.com/album/6dpXsAdnOQ0bsoruJ3feOr) | 3:48 |

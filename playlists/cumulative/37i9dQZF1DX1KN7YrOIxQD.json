@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica. Portada: Bad Bunny",
+  "description": "Los \u00e9xitos del momento en Centroam\u00e9rica. Portada: \u00c1lvaro D\u00edaz, Feid",
   "name": "\u00c9xitos Centroam\u00e9rica",
   "tracks": [
     {
@@ -580,6 +580,28 @@
       "duration_ms": 194543,
       "name": "BESO",
       "url": "https://open.spotify.com/track/609E1JCInJncactoMmkDon"
+    },
+    {
+      "album": {
+        "name": "MANIFESTING 20-05",
+        "url": "https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180360,
+      "name": "Brickell",
+      "url": "https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP"
     },
     {
       "album": {
@@ -2039,6 +2061,28 @@
     },
     {
       "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131853,
+      "name": "GATITAS SANDUNGUERAS VOL.1",
+      "url": "https://open.spotify.com/track/6BpZpCM8d8FJnVnr1IbnFL"
+    },
+    {
+      "album": {
         "name": "Gato de Noche",
         "url": "https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH"
       },
@@ -2716,7 +2760,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164470,
       "name": "La Vida Sin Ti",
       "url": "https://open.spotify.com/track/1O1VvCshhDw3XIOOcfLziL"
@@ -3072,6 +3116,24 @@
       "duration_ms": 212304,
       "name": "Los Cachos",
       "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "album": {
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257186,
+      "name": "Los Infieles",
+      "url": "https://open.spotify.com/track/0HDHY6RSHHG2ZTE0cMT4GJ"
     },
     {
       "album": {
@@ -3938,7 +4000,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/601dhwn8qc31FrSlMu5wEf"
@@ -5176,7 +5238,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 152500,
       "name": "SI SABE FERXXO",
       "url": "https://open.spotify.com/track/2B1S3g2M4qObq4pTzuEYGD"
@@ -5456,7 +5518,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -5504,6 +5566,24 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193826,
+      "name": "Todo Cambi\u00f3",
+      "url": "https://open.spotify.com/track/4OyzSXRSadNQt5EMwASdap"
     },
     {
       "album": {

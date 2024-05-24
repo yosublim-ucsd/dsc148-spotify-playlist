@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Caity Krone
 
-1,231 songs - 3 day 1 hr 36 min
+1,232 songs - 3 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -363,6 +363,7 @@
 | [Everyone Talking](https://open.spotify.com/track/2mUsfzJGVxjJv04uHsZRhp) | [Junaco](https://open.spotify.com/artist/6Q3I3yOdG7MhwX6BCWiu0e) | [Everyone Talking](https://open.spotify.com/album/7r4DZ6cubuMW8HdNq83wtz) | 2:59 | 2023-07-26 | 2023-09-28 |
 | [Everything](https://open.spotify.com/track/0tsaquCXztQovOSRJhVCVi) | [Sun Child](https://open.spotify.com/artist/37INDqVvlodgiw1G55deqX) | [Everything](https://open.spotify.com/album/7iqiQOwXT2Gf0gCsNi80i8) | 3:53 | 2023-05-03 | 2023-06-29 |
 | [Everything Changes](https://open.spotify.com/track/1SODZeCGoXb4wu9ixDaAtv) | [Kylie V](https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI) | [The Runaway EP](https://open.spotify.com/album/4rCms7IqnpaFFDqAwCBChT) | 3:48 | 2023-02-22 | 2023-03-30 |
+| [Everything I Need](https://open.spotify.com/track/5CVOA5SAZeHz8ZPNu7Kuth) | [MALINDA](https://open.spotify.com/artist/4gKo3LXoxHriLS6CBKThAU) | [Everything I Need](https://open.spotify.com/album/3TJPpg1FrkxKkjpvG4tlJd) | 3:20 | 2024-05-23 |  |
 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 | 2023-06-28 | 2023-08-31 |
 | [eyes](https://open.spotify.com/track/3g7IctpuA0o4dE3lAAf0Ug) | [Noah Pope](https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy) | [eyes](https://open.spotify.com/album/42eYQJOgQiFktnzYgGvpWx) | 4:11 | 2024-04-24 |  |
 | [eyes don't lie](https://open.spotify.com/track/4SHgZySOqyih9VIhoe239c) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [eyes don't lie](https://open.spotify.com/album/4QRxLPMrWWw1NCEc1sCVGw) | 3:46 | 2022-09-21 | 2023-01-12 |

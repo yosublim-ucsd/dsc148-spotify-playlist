@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,007 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,041 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 57 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
 | 58 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 |
 | 59 | [Future](https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [FRVR](https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS) | 3:17 |
-| 60 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
-| 61 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
+| 60 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
+| 61 | [Jesus Is The Key](https://open.spotify.com/track/0C9weba0sQZBSmelFqNNEU) | [planetboom](https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj) | [Jesus Is The Key](https://open.spotify.com/album/3fjiYBi9NFCT78QeCclv1L) | 6:29 |
 | 62 | [As I Am](https://open.spotify.com/track/0mLk4AuHy7DTkoChwaYRJc) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ), [Peter CottonTale](https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi), [Melodie Wagner](https://open.spotify.com/artist/2tTjVo7XSr5urjzuLBftmd) | [As I Am \(with Peter CottonTale\)](https://open.spotify.com/album/3IQk6AePmEyQgpDBdAnSV4) | 3:25 |
 | 63 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 64 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |

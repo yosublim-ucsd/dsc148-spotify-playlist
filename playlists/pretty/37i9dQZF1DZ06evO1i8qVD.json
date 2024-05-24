@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 33039,
+  "num_followers": 33050,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkvkAAAAAACCLKQ1sLF04sIRfuHwBWDz",
+  "snapshot_id": "Zk01gAAAAABZoTFsEJOCxAhsrX47jMKJ",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 431853,
-      "name": "Stone Crazy",
-      "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Jimmie Vaughan",
         "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
       },
@@ -127,26 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Jeff Beck",
-          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
-        }
-      ],
-      "duration_ms": 283266,
-      "name": "Mustang Sally (feat. Jeff Beck)",
-      "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -167,18 +131,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
       },
       "artists": [
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jeff Beck",
+          "url": "https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl"
         }
       ],
-      "duration_ms": 138506,
-      "name": "First Time I Met The Blues - Single Version",
-      "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
+      "duration_ms": 283266,
+      "name": "Mustang Sally (feat. Jeff Beck)",
+      "url": "https://open.spotify.com/track/1TkliUZNnCeTjZMWPuUoPK"
     },
     {
       "added_at": null,
@@ -219,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 418880,
-      "name": "Rememberin' Stevie",
-      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Man And The Blues",
         "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
       },
@@ -247,6 +199,22 @@
       "duration_ms": 383200,
       "name": "A Man And The Blues",
       "url": "https://open.spotify.com/track/5vbw9boDHRHLZiv90e2ZVx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 418880,
+      "name": "Rememberin' Stevie",
+      "url": "https://open.spotify.com/track/4LGjbJo0qtnuL8O5x7NbkT"
     },
     {
       "added_at": null,
@@ -360,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 313546,
-      "name": "The Blues Is Alive And Well",
-      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
+      "duration_ms": 287666,
+      "name": "A Few Good Years",
+      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
     },
     {
       "added_at": null,
@@ -428,29 +396,9 @@
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 287666,
-      "name": "A Few Good Years",
-      "url": "https://open.spotify.com/track/6MT9ikZ0SnOU48rBMReIAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Buddy Guy & Junior Wells Play The Blues",
-        "url": "https://open.spotify.com/album/1GGe9Rkv0Yby4ZiEc54pLu"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
-        }
-      ],
-      "duration_ms": 135546,
-      "name": "Messin' with the Kid",
-      "url": "https://open.spotify.com/track/6VkaGRe98A6x7S5dGmxd30"
+      "duration_ms": 313546,
+      "name": "The Blues Is Alive And Well",
+      "url": "https://open.spotify.com/track/0TuPaGnVZ9wwv0qAjCLEin"
     },
     {
       "added_at": null,
@@ -471,6 +419,22 @@
       "duration_ms": 224280,
       "name": "One Day Away (feat. Keith Urban)",
       "url": "https://open.spotify.com/track/15e3leRc1c26oStnjjiex6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Play Guitar",
+        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 296520,
+      "name": "Born To Play Guitar",
+      "url": "https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv"
     },
     {
       "added_at": null,
@@ -507,38 +471,6 @@
       "duration_ms": 134106,
       "name": "Chitlin Con Carne",
       "url": "https://open.spotify.com/track/1VuusegWcz4R6DVA4pOOFI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Blues Is Alive And Well",
-        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 242600,
-      "name": "Whiskey For Sale",
-      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Born To Play Guitar",
-        "url": "https://open.spotify.com/album/05GcLcffb84BOLzo7BMz9W"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 296520,
-      "name": "Born To Play Guitar",
-      "url": "https://open.spotify.com/track/7yXuquZiCxTyLXzPnwlqJv"
     },
     {
       "added_at": null,
@@ -594,15 +526,11 @@
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 219240,
-      "name": "Blue No More (feat. James Bay)",
-      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
+      "duration_ms": 242600,
+      "name": "Whiskey For Sale",
+      "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
       "added_at": null,
@@ -647,22 +575,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoodoo Man Blues",
-        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+        "name": "Real Gone",
+        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
       },
       "artists": [
         {
-          "name": "Junior Wells",
-          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+          "name": "Ally Venable",
+          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
         },
         {
           "name": "Buddy Guy",
           "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
         }
       ],
-      "duration_ms": 126933,
-      "name": "Hoodoo Man Blues",
-      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
+      "duration_ms": 175530,
+      "name": "Texas Louisiana (feat. Buddy Guy)",
+      "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Blues Is Alive And Well",
+        "url": "https://open.spotify.com/album/425gWaQU4t3KOvcM7z3VGk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 219240,
+      "name": "Blue No More (feat. James Bay)",
+      "url": "https://open.spotify.com/track/4qsvEqf7xQVKxgu53WspSn"
     },
     {
       "added_at": null,
@@ -687,26 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gone",
-        "url": "https://open.spotify.com/album/5Y3BKzJMHKfPlGb24weYXe"
-      },
-      "artists": [
-        {
-          "name": "Ally Venable",
-          "url": "https://open.spotify.com/artist/6aQSBUOuFKlxJYrBWI5gVM"
-        },
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 175530,
-      "name": "Texas Louisiana (feat. Buddy Guy)",
-      "url": "https://open.spotify.com/track/3Wed8ynhMSTPj9ErweJIVl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -723,6 +651,26 @@
       "duration_ms": 277906,
       "name": "Where The Blues Begins (feat. Carlos Santana)",
       "url": "https://open.spotify.com/track/4XVNiv2nZLz2MxXGRUAle7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoodoo Man Blues",
+        "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
+      },
+      "artists": [
+        {
+          "name": "Junior Wells",
+          "url": "https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK"
+        },
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 126933,
+      "name": "Hoodoo Man Blues",
+      "url": "https://open.spotify.com/track/7dVUGBGYrYBJakUw1JKhrq"
     },
     {
       "added_at": null,
@@ -819,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "DJ Play My Blues",
+        "url": "https://open.spotify.com/album/0wN1Cv8D4Ht38g8TMx7psy"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 282493,
+      "name": "Just Teasin'",
+      "url": "https://open.spotify.com/track/7qR9FrZIWNzOMkfzjINkiH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Blues Don't Lie",
         "url": "https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp"
       },
@@ -839,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Was Walking Through The Woods (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 139626,
+      "name": "I Got My Eyes On You",
+      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Buddy Guy & Junior Wells Play The Blues (Expanded)",
         "url": "https://open.spotify.com/album/258nJWLkWNsQshy4AZUDaQ"
       },
@@ -855,22 +835,6 @@
       "duration_ms": 240693,
       "name": "Sweet Home Chicago - Mono Rough Mix",
       "url": "https://open.spotify.com/track/5zGssSIGlzrEWZOH3M8Bn6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Walking Through The Woods (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 139626,
-      "name": "I Got My Eyes On You",
-      "url": "https://open.spotify.com/track/5Hm4G8TmOoaVdNWA7okYvn"
     },
     {
       "added_at": null,
@@ -923,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Quit The Blues",
-        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 384280,
-      "name": "Miss Ida B",
-      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Living Proof",
         "url": "https://open.spotify.com/album/3WH2ZpwBApxjDMQf3tEArm"
       },
@@ -955,6 +903,58 @@
       "duration_ms": 300373,
       "name": "Stay Around A Little Longer (feat. B.B. King)",
       "url": "https://open.spotify.com/track/48z2rCxqFdlMejXthnbCkX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Quit The Blues",
+        "url": "https://open.spotify.com/album/5CIK2RIt6REWTwC7p44yst"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 384280,
+      "name": "Miss Ida B",
+      "url": "https://open.spotify.com/track/0BX4XzYSTD4HBz2BzcQ8Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Slippin' In",
+        "url": "https://open.spotify.com/album/4vPx0GEomsLo0KStLprAZ2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 196773,
+      "name": "I Smell Trouble",
+      "url": "https://open.spotify.com/track/4sVhMHu4CkQ8G9HKitmWfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bring 'Em In",
+        "url": "https://open.spotify.com/album/6q80QMqBZJMht2f7c4bLL6"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Carlos Santana",
+          "url": "https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ"
+        }
+      ],
+      "duration_ms": 244373,
+      "name": "I Put a Spell On You (feat. Carlos Santana)",
+      "url": "https://open.spotify.com/track/3e1vsLS7W9LNOofXgGccH3"
     }
   ],
   "unique_name": "This Is Buddy Guy",

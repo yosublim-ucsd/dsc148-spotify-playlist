@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The big Hip-Life hits rn. Cover: Kwaku Flick ",
+  "description": "The big Hip-Life hits rn. Cover: King Promise",
   "name": "Hip-Life Hits",
   "tracks": [
     {
@@ -342,6 +342,28 @@
       "duration_ms": 286511,
       "name": "Alampaine",
       "url": "https://open.spotify.com/track/0ZOc6TTrgG4nEquANacw7B"
+    },
+    {
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203077,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "album": {
@@ -896,7 +918,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 202896,
       "name": "Can't Stop (feat. Sarkodie)",
       "url": "https://open.spotify.com/track/5nylrAThl0wI4EeJuUQ6ym"
@@ -1209,6 +1231,32 @@
     },
     {
       "album": {
+        "name": "Favourite Story",
+        "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Favourite Story",
+      "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "album": {
         "name": "FINGERS",
         "url": "https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m"
       },
@@ -1249,7 +1297,7 @@
     },
     {
       "album": {
-        "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) [Remix]",
+        "name": "Fly Girl (feat. Oseikrom Sikanii) [Remix]",
         "url": "https://open.spotify.com/album/4UbsNWDBTSHeG6GIyuntXG"
       },
       "artists": [
@@ -1270,7 +1318,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 195434,
-      "name": "Fly Girl (feat. Gyakie & Oseikrom Sikanii) - Remix",
+      "name": "Fly Girl (feat. Oseikrom Sikanii) - Remix",
       "url": "https://open.spotify.com/track/6KxZFq6jXCU1S9tryylm88"
     },
     {
@@ -1670,6 +1718,32 @@
       "duration_ms": 200176,
       "name": "Linda",
       "url": "https://open.spotify.com/track/6q0sQ95anBPUrhvvjKnHLX"
+    },
+    {
+      "album": {
+        "name": "Toopeezy",
+        "url": "https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Lit",
+      "url": "https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY"
     },
     {
       "album": {
@@ -2150,7 +2224,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 150055,
       "name": "Not God",
       "url": "https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH"
@@ -2306,7 +2380,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207150,
       "name": "Odo Bi",
       "url": "https://open.spotify.com/track/6usx8a6PVggafBOtKGUTyQ"
@@ -2608,6 +2682,24 @@
       "duration_ms": 236460,
       "name": "Over",
       "url": "https://open.spotify.com/track/22RZSNHtfaNLTz1rOeAe5B"
+    },
+    {
+      "album": {
+        "name": "Kofi OO Kofi",
+        "url": "https://open.spotify.com/album/2hFPnpDZYgCv95Ye4Zc93v"
+      },
+      "artists": [
+        {
+          "name": "Kofi Kinaata",
+          "url": "https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191142,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/3uAI78ICqDlw0vHtk6602q"
     },
     {
       "album": {
@@ -2964,7 +3056,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 220206,
       "name": "Sober (Soo Bad)",
       "url": "https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,341 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,360 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 76 | [Girlfriend](https://open.spotify.com/track/3dWRcazAn4jN75zh3VKyI6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 3:19 |
 | 77 | [Be Like You \(feat\. Broods\)](https://open.spotify.com/track/1zRdhBRqRnMSLkZTODa5OL) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Life of a Wallflower, Vol\. 1](https://open.spotify.com/album/4oN0HoJVDsVKwJmquYy7d2) | 2:41 |
 | 78 | [Swimming Pool Summer](https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:33 |
-| 79 | [Bambi](https://open.spotify.com/track/45ewhNby8MgyWw6HmT7HKJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/0lApyge0bHQGdyIcnrVFDw) | 3:14 |
-| 80 | [Swim](https://open.spotify.com/track/20PISOo4VbLz4yFH78Zv5R) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [You Are Someone Else](https://open.spotify.com/album/7LdUzhm4SloDil5y0sRen0) | 3:17 |
+| 79 | [Swim](https://open.spotify.com/track/20PISOo4VbLz4yFH78Zv5R) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [You Are Someone Else](https://open.spotify.com/album/7LdUzhm4SloDil5y0sRen0) | 3:17 |
+| 80 | [Bambi](https://open.spotify.com/track/45ewhNby8MgyWw6HmT7HKJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/0lApyge0bHQGdyIcnrVFDw) | 3:14 |
 | 81 | [Drunk in L.A.](https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 3:59 |
 | 82 | [Miracle](https://open.spotify.com/track/1G79vIY7FPXPjBj9cpweZD) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF) | 3:08 |
 | 83 | [There’s A Honey](https://open.spotify.com/track/7aZsTdQGRdbOhxBWA7ZMHv) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [My Mind Makes Noises](https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ) | 3:50 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 93 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
 | 94 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
 | 95 | [Nobody](https://open.spotify.com/track/6bTn1ovliI0OkjUNkiMBJq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 3:13 |
-| 96 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
+| 96 | [summer depression](https://open.spotify.com/track/2zPcVDSpYNVKQ5c7jR7MXj) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [summer depression](https://open.spotify.com/album/3jlug1mMFqnp2rTBRV020r) | 2:31 |
 | 97 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
 | 98 | [Shelter](https://open.spotify.com/track/5C5Fle0gDOcUchmj4RgVH5) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Shelter](https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU) | 3:59 |
 | 99 | [Licking An Orchid](https://open.spotify.com/track/3pihS07XVQEavaS9n7kObt) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS), [James K](https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf) | [Safe In The Hands of Love](https://open.spotify.com/album/1IpYZkYoYCjXTYMDEW8Ksk) | 4:38 |

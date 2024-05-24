@@ -197,6 +197,24 @@
     },
     {
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6ed9BSIkbZbE8yLd75u4Xp"
+      },
+      "artists": [
+        {
+          "name": "SBLofi",
+          "url": "https://open.spotify.com/artist/5GvBH3MfgyjnNR8XXgUaxD"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/78uUlvKMvsJTXvbeiyauEA"
+    },
+    {
+      "album": {
         "name": "Harmonic Cascade",
         "url": "https://open.spotify.com/album/1vXLtMA5S8GU2pnPjUU5XF"
       },
@@ -2616,6 +2634,24 @@
       "duration_ms": 120000,
       "name": "Rainforest",
       "url": "https://open.spotify.com/track/3pgyCl4GpzNTZkWgQxNrTa"
+    },
+    {
+      "album": {
+        "name": "Same Feeling",
+        "url": "https://open.spotify.com/album/1BIEdvjZGr0NEfUvemWfEl"
+      },
+      "artists": [
+        {
+          "name": "Eccho",
+          "url": "https://open.spotify.com/artist/2P6ilsRk53hUPgnH3YJWpU"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154400,
+      "name": "Same Feeling",
+      "url": "https://open.spotify.com/track/1W2QJ2XT5XVfbseSuFTMh5"
     },
     {
       "album": {

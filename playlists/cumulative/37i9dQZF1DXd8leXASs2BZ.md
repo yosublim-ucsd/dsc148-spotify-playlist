@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: Kaneee, Kohjiya, Yvng Patra
 
-448 songs - 20 hr 49 min
+449 songs - 20 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,6 +300,7 @@
 | [over, think](https://open.spotify.com/track/4b47cWTAThXjlxd7pSLihH) | [G:nt](https://open.spotify.com/artist/7rTCASvSLBgzVbsPKe2jbM), [Tok10](https://open.spotify.com/artist/4EFjuq8kbNjAv9HyRiSY16) | [over, think](https://open.spotify.com/album/7a2G7wz80cVfJb55PL5avz) | 2:36 | 2024-04-16 |  |
 | [pAinAwAy](https://open.spotify.com/track/2Mo4AbkKX6YIfmkVBPrSzu) | [Andre](https://open.spotify.com/artist/6AkDCp3yPFTgrLJ4hU78Jd) | [pAinAwAy](https://open.spotify.com/album/7JmNTpLm6xDgVXglLgxxC6) | 2:21 | 2024-01-11 | 2024-02-16 |
 | [Pay](https://open.spotify.com/track/3DgzRFDji9lqHeFRG11Q3n) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN) | [Pay](https://open.spotify.com/album/29I2wbRPfFbexR3EjBJ4RS) | 2:56 | 2023-12-07 | 2024-02-28 |
+| [Pay \- Remix](https://open.spotify.com/track/55xHynl6p63ZTtyBc1K7X9) | [NeS](https://open.spotify.com/artist/6Yc7exkczFuGRwaCdVA3pN), [Yatt](https://open.spotify.com/artist/3EqsmFPUUnJDhDQ7GTdken) | [Pay \(Remix\)](https://open.spotify.com/album/4cD59RJcTzGyTSXKqhoRIk) | 2:56 | 2024-05-23 |  |
 | [Peak](https://open.spotify.com/track/5MOtiT3eE0ifounWFxufMg) | [Big Animal Theory](https://open.spotify.com/artist/02kuoSicHqlAAiui92GaB4), [It\-Works](https://open.spotify.com/artist/6CepupVjBW7iqhDpiVVtz0) | [Peak](https://open.spotify.com/album/5XMbbVAwNL021CYevdklt8) | 1:36 | 2024-01-18 | 2024-02-14 |
 | [Phonecall](https://open.spotify.com/track/5pPg981avhNjpOtd7MSuNk) | [CHIETH](https://open.spotify.com/artist/0N3uxUO03T7ohI333YQ5TR) | [In my car](https://open.spotify.com/album/2helQUnV7pIX2x30LgJRFo) | 2:09 | 2023-12-07 | 2024-01-19 |
 | [Plug](https://open.spotify.com/track/3r8hMArXgsepqUOWXFgfmX) | [AON](https://open.spotify.com/artist/1WiAw4ZvV8crQEVAy8AQhO) | [Plug](https://open.spotify.com/album/3KbayrDfdrly4MQt1PsmrE) | 2:54 | 2023-12-07 | 2023-12-14 |

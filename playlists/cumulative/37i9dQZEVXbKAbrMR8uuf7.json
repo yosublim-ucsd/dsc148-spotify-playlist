@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190004,
       "name": "Amanece",
       "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
@@ -2010,7 +2010,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 82546,
       "name": "AY LILY",
       "url": "https://open.spotify.com/track/2Uy02BhDtNxdHZy24vZiiJ"
@@ -3952,6 +3952,24 @@
       "duration_ms": 210731,
       "name": "Cheque",
       "url": "https://open.spotify.com/track/2Ah0LPGczp8OKkGZOA5IC6"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "album": {
@@ -13412,7 +13430,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 343863,
       "name": "Let Me Tell You",
       "url": "https://open.spotify.com/track/2BMVcnzHoBHdxmJLI7e46N"
@@ -15622,7 +15640,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -16184,7 +16202,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 181124,
       "name": "MI LEGADO 70M x 58",
       "url": "https://open.spotify.com/track/0cboLcpDfJ9DjHPdC8e1c3"
@@ -18402,6 +18420,24 @@
       "duration_ms": 230480,
       "name": "Paint The Town Red",
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
+    },
+    {
+      "album": {
+        "name": "Paisaje",
+        "url": "https://open.spotify.com/album/5xaUgBKcMUuo7gpUake6F7"
+      },
+      "artists": [
+        {
+          "name": "Betone",
+          "url": "https://open.spotify.com/artist/633I0vj981muhXRC2xFZcQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Paisaje",
+      "url": "https://open.spotify.com/track/09bYCikyRINGxiP9Sj4QQn"
     },
     {
       "album": {
@@ -21716,7 +21752,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-13",
+      "date_removed": null,
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
@@ -27146,7 +27182,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 99000,
       "name": "UN VOLAO",
       "url": "https://open.spotify.com/track/3330bzjLJqfifcJWDVjZoO"
@@ -28412,6 +28448,40 @@
       "duration_ms": 196363,
       "name": "WYA",
       "url": "https://open.spotify.com/track/5lCMDnVpGTuFC7YejgpTIF"
+    },
+    {
+      "album": {
+        "name": "WYA REMIX RED",
+        "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
+      },
+      "artists": [
+        {
+          "name": "J Abdiel",
+          "url": "https://open.spotify.com/artist/17SY5q1CMOZJBRuPcKWwPI"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        },
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        },
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321741,
+      "name": "WYA REMIX RED",
+      "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
       "album": {

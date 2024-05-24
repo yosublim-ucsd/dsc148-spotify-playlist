@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 
 > The R&B and good vibe tracks for your current mood\. Cover:  Mỹ Anh
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,796 likes - 85 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,793 likes - 85 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtDSKIiDhua.md) - [plain]
 | 4 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 |
 | 5 | [Star Crossed](https://open.spotify.com/track/2iDrFP2ayV44GlQlUv3RKj) | [Devin Kennedy](https://open.spotify.com/artist/6xRlQCMpg8bmkHlluqDF7Z) | [Star Crossed](https://open.spotify.com/album/2p02lUwcpq63r3I7V94m3r) | 3:20 |
 | 6 | [Don't Worry](https://open.spotify.com/track/1DPzLkB6mQDj7dr5j1LX7S) | [Ica Frias](https://open.spotify.com/artist/4BMJPuY3xYcWASa0vyHaQJ) | [Don't Worry](https://open.spotify.com/album/36m5RWdusFMdF65C2L7zaG) | 4:34 |
-| 7 | [Floatin’](https://open.spotify.com/track/7fPXYO0OqiU2roIYKRzuwy) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Floatin’](https://open.spotify.com/album/4fFtn9U40DLIjvmbdEb7Q9) | 2:53 |
+| 7 | [Floatin](https://open.spotify.com/track/7fPXYO0OqiU2roIYKRzuwy) | [Jaylon Ashaun](https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Floatin](https://open.spotify.com/album/4fFtn9U40DLIjvmbdEb7Q9) | 2:53 |
 | 8 | [May flowers](https://open.spotify.com/track/7DdpBxdbpYBMXPPTVrrD6m) | [LIU KOI](https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE), [Sala](https://open.spotify.com/artist/6PCEjMwZEdp6lUJv7z2prW) | [May flowers](https://open.spotify.com/album/4OJ6X8eazX6FSN3ShfoJUD) | 3:12 |
 | 9 | [i’ve found the love](https://open.spotify.com/track/3cVHmP4pgj2FUMmS4E3S73) | [URMINE](https://open.spotify.com/artist/7KMkGU2lhRyeOhJrlng5oO), [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq) | [i’ve found the love](https://open.spotify.com/album/7AtkUV73B2lsiJdU9whji9) | 3:15 |
 | 10 | [i let it happen](https://open.spotify.com/track/1uKWgZMkBwlee7ep3J8FNb) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Learn to Love](https://open.spotify.com/album/1xCkWUeMBwr4qw0Uy7k8pU) | 1:34 |

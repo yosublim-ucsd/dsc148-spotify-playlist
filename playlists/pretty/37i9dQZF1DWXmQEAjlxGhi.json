@@ -1,6 +1,6 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1400604,
+  "num_followers": 1400569,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,26 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "HUMO",
-        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
+        "name": "Lo Que Tiene",
+        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Beny Jr",
+          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
+        },
+        {
+          "name": "Rvfv",
+          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
         }
       ],
-      "duration_ms": 198081,
-      "name": "HUMO",
-      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
+      "duration_ms": 259200,
+      "name": "Lo Que Tiene",
+      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -475,26 +479,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Lo Que Tiene",
-        "url": "https://open.spotify.com/album/76q4YOHGrinD2vWSrbPzN4"
+        "name": "HUMO",
+        "url": "https://open.spotify.com/album/4IZNJql8GcknfP0DYAsZtE"
       },
       "artists": [
         {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         },
         {
-          "name": "Beny Jr",
-          "url": "https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt"
-        },
-        {
-          "name": "Rvfv",
-          "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 259200,
-      "name": "Lo Que Tiene",
-      "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
+      "duration_ms": 198081,
+      "name": "HUMO",
+      "url": "https://open.spotify.com/track/6j3PRPNWLutE3CutDzH4uI"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -727,6 +727,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "WHERE SHE GOES",
+        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 231704,
+      "name": "WHERE SHE GOES",
+      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "Tacata (Remix)",
         "url": "https://open.spotify.com/album/2GfGGlindjNS4kkZinqKdA"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 156716,
       "name": "Tacata (Remix)",
       "url": "https://open.spotify.com/track/7LLBONqWyX3MoBvIVPu5fj"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "WHERE SHE GOES",
-        "url": "https://open.spotify.com/album/5gCcb5fsSb6w5K8SyJrgtB"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 231704,
-      "name": "WHERE SHE GOES",
-      "url": "https://open.spotify.com/track/7ro0hRteUMfnOioTFI5TG1"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "QUE CHIMBA DE VIDA",
-        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 123351,
-      "name": "QUE CHIMBA DE VIDA",
-      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "China",
         "url": "https://open.spotify.com/album/1PTTAq0OxggVgqP5WTYWDh"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "QUE CHIMBA DE VIDA",
+        "url": "https://open.spotify.com/album/23DP7UVHWrSMBXnjpZ6kCW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 123351,
+      "name": "QUE CHIMBA DE VIDA",
+      "url": "https://open.spotify.com/track/22AVtdVU43dMFTeWaUCthT"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 145766,
       "name": "Marianela (Que Pasa)",
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
-        "name": "FRIKI",
-        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "FRIKI",
-      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "TRANKY FUNKY",
-        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 158325,
-      "name": "TRANKY FUNKY",
-      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 191254,
       "name": "Rauw Alejandro: Bzrp Music Sessions, Vol. 56",
       "url": "https://open.spotify.com/track/2NFadq6pUeiVEihLvUlOSr"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "TRANKY FUNKY",
+        "url": "https://open.spotify.com/album/34zRh1AFk8bibU6vYfZ1kD"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 158325,
+      "name": "TRANKY FUNKY",
+      "url": "https://open.spotify.com/track/28iQz5gnZyqhUebzeOYCwH"
     },
     {
       "added_at": "2024-05-02 16:48:59",
@@ -1891,30 +1891,6 @@
     {
       "added_at": "2024-05-02 16:48:59",
       "album": {
-        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
-      },
-      "artists": [
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        },
-        {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "Danza Kuduro - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR"
-    },
-    {
-      "added_at": "2024-05-02 16:48:59",
-      "album": {
         "name": "CAMIONETOTA",
         "url": "https://open.spotify.com/album/2toNsWrWckrup7Z2Hwp5ao"
       },
@@ -1947,6 +1923,30 @@
       "duration_ms": 276315,
       "name": "CAMIONETOTA",
       "url": "https://open.spotify.com/track/2KknVfA6jr8kAb2QdmAJPs"
+    },
+    {
+      "added_at": "2024-05-02 16:48:59",
+      "album": {
+        "name": "Danza Kuduro (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "Danza Kuduro - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR"
     },
     {
       "added_at": "2024-05-02 16:48:59",

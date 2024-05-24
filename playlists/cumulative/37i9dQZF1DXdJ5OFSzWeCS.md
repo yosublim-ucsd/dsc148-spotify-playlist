@@ -4,7 +4,7 @@
 
 > Soft music for sleepy babies.
 
-697 songs - 20 hr 54 min
+699 songs - 20 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -352,6 +352,7 @@
 | [Little George](https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Little George](https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh) | 1:57 | 2022-02-10 | 2023-01-13 |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
 | [Little Miss Muffet](https://open.spotify.com/track/6dX1fMyirxr0U87dlGMbRK) | [Selma June](https://open.spotify.com/artist/2f08UC5AufQFaVZi8r6V91) | [I'm A Little Teapot](https://open.spotify.com/album/2CB5tQ4QOHZ67YFdbU4zNd) | 1:47 | 2022-12-23 | 2023-03-18 |
+| [Little Ones](https://open.spotify.com/track/4FL9AqUDvKq9nujlb1xOxZ) | [Judy Rowell](https://open.spotify.com/artist/2uLQyd8FvKehSIvwPuU0bO) | [Little Ones](https://open.spotify.com/album/3kYwLAVaSBCs6MW1HKWjU9) | 1:27 | 2024-05-24 |  |
 | [Little Pumpkin](https://open.spotify.com/track/3iGlQlJgDCtFmRjkJXlQ3L) | [Rio Harris](https://open.spotify.com/artist/4YhneMQhRMaouol2rVzMzs) | [Little Pumpkin](https://open.spotify.com/album/3ajzh5uRcgyStZwfsQHtwI) | 1:35 | 2022-05-16 | 2023-04-07 |
 | [Little Sleepyhead](https://open.spotify.com/track/35WKM8YZBabLU6hJm82cCc) | [Laura Olejnik](https://open.spotify.com/artist/510b8N0CM4dvQR311fMOOP) | [Little Sleepyhead](https://open.spotify.com/album/1rcLCOZCv6KtWzEUKlbnTk) | 1:53 | 2023-03-17 | 2023-09-26 |
 | [Little Spring Song](https://open.spotify.com/track/2AtS0OYVTIBxRRgWGioJrl) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [Little Spring Song](https://open.spotify.com/album/6QrQoAvanfAf6HRGxjT7xA) | 2:09 | 2024-03-29 |  |
@@ -420,6 +421,7 @@
 | [My Hands Are Full](https://open.spotify.com/track/3QK3U0Sdj7FN6XIRENzYm6) | [Sarah Mathieson](https://open.spotify.com/artist/2Bt65oYe6XD6YksE5ELi5n) | [How Great Thou Art](https://open.spotify.com/album/5bnQkj7VikbCOQ2q33CgVO) | 2:02 | 2023-06-22 | 2024-03-29 |
 | [My Island](https://open.spotify.com/track/4Waz0yg5uriDfqPwT4BX6Q) | [Silas Prescott](https://open.spotify.com/artist/4N90rB7wRgVHa0LKPWtKcw) | [My Island](https://open.spotify.com/album/7JJqOe5hV5qzp37zmWjZdW) | 1:25 | 2022-02-10 | 2024-04-19 |
 | [My Kitty Cat](https://open.spotify.com/track/4Ov2GX8yJaP8goeCLN6F79) | [Greg Lattimore](https://open.spotify.com/artist/2qmcE76xWoCFGJy7fzPcx6) | [My Kitty Cat](https://open.spotify.com/album/0qICXRwgfM0m3isUMPj58D) | 2:11 | 2024-05-17 |  |
+| [My Little Cat](https://open.spotify.com/track/2KNfqPZlSNFdUCHvlNvkGV) | [Michel Couture](https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug) | [My Little Cat](https://open.spotify.com/album/4hI8nYZdpxd8zGbRlHKYvl) | 1:39 | 2024-05-24 |  |
 | [My Little Love](https://open.spotify.com/track/6vhjJAHpk2e8Czv2WCubVT) | [Stephani Scotty](https://open.spotify.com/artist/6OlnJtXfRsVPDUm8eQCWGH) | [My Little Love](https://open.spotify.com/album/4V4eMPAb6Rlx4SwgMco0cV) | 1:24 | 2022-04-25 |  |
 | [My Little Secret](https://open.spotify.com/track/3IQIDrVXrhw1SaVIDvbA7G) | [Eijah Nilson](https://open.spotify.com/artist/4ve0embkjqNplBGRueIkHs) | [To The Moon And Back](https://open.spotify.com/album/7lSHuUiyH5oRdbmJ096zlz) | 1:43 | 2023-05-12 | 2023-08-11 |
 | [My Lovely Teddybear](https://open.spotify.com/track/52JyW7Tx1AKy3OX9phJSco) | [Wilfred Field](https://open.spotify.com/artist/5wgNGykMuRZ83zl43wxA7o) | [My Lovely Teddybear](https://open.spotify.com/album/4LTxQP194y9iIR0oUPH2Mn) | 1:41 | 2023-04-07 |  |

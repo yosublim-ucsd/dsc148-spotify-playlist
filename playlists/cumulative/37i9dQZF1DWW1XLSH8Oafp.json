@@ -270,7 +270,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167248,
       "name": "2special",
       "url": "https://open.spotify.com/track/7pFzuCKW91X6vYAoQx2A0x"
@@ -310,7 +310,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156916,
       "name": "4ever1",
       "url": "https://open.spotify.com/track/0GxANOXWo9oJRjH32EOYkW"
@@ -480,6 +480,32 @@
       "duration_ms": 169756,
       "name": "A M\u00ed",
       "url": "https://open.spotify.com/track/5WToapmuQ28U1LOmIt6Tdk"
+    },
+    {
+      "album": {
+        "name": "a new kind of love (wiv & 68+1 remix)",
+        "url": "https://open.spotify.com/album/0FkbJ1Ktnuvihaixt6InbB"
+      },
+      "artists": [
+        {
+          "name": "Frou Frou",
+          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
+        },
+        {
+          "name": "wiv",
+          "url": "https://open.spotify.com/artist/4tGnFjmjmMdZZh7NxWjNaw"
+        },
+        {
+          "name": "68+1",
+          "url": "https://open.spotify.com/artist/3YrAMtgGeFZCc4JCQI9mfr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145248,
+      "name": "a new kind of love - wiv & 68+1 remix",
+      "url": "https://open.spotify.com/track/3xpkc6KNeDxDt2zwLVuc8p"
     },
     {
       "album": {
@@ -5958,7 +5984,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 204375,
       "name": "Get It",
       "url": "https://open.spotify.com/track/5ekpdwSkLgEIpvmjWqUjWa"
@@ -10413,6 +10439,28 @@
     },
     {
       "album": {
+        "name": "My Head Is A Jungle",
+        "url": "https://open.spotify.com/album/6hllbnCE9pVfztzBwrBiRt"
+      },
+      "artists": [
+        {
+          "name": "Emma Louise",
+          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
+        },
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147138,
+      "name": "My Head Is A Jungle",
+      "url": "https://open.spotify.com/track/64n7L4Cz4aAChRXME2nqxc"
+    },
+    {
+      "album": {
         "name": "Nails Matching My Fit",
         "url": "https://open.spotify.com/album/4b735RciIIW2Skt0TOmoK2"
       },
@@ -11192,6 +11240,32 @@
       "duration_ms": 204753,
       "name": "On Your Side - Stud1nt Remix",
       "url": "https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv"
+    },
+    {
+      "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/4MEaMmgqut4L7B7pK8jSCK"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "AMARA ctk100",
+          "url": "https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/692VNmy3ODXsrALPWOVyi2"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143649,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/4a5RkJgDdApYFryLpsNs1C"
     },
     {
       "album": {
@@ -13512,7 +13586,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208941,
       "name": "SHYPOP",
       "url": "https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1"
@@ -14506,7 +14580,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166291,
       "name": "Take It Back",
       "url": "https://open.spotify.com/track/7vbIrYVjE9LYdiAeqp7fnY"
@@ -15415,6 +15489,24 @@
     },
     {
       "album": {
+        "name": "Turn it up",
+        "url": "https://open.spotify.com/album/53oYO35gOzGGGINKHB8cd0"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147020,
+      "name": "Turn it up",
+      "url": "https://open.spotify.com/track/1YhNljrEyPYaYNgBNsWap5"
+    },
+    {
+      "album": {
         "name": "Turn Your Phone Off",
         "url": "https://open.spotify.com/album/2vumYq4zWRAEYa3f0567CL"
       },
@@ -15484,7 +15576,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173488,
       "name": "twice as fast",
       "url": "https://open.spotify.com/track/3v6Jt4W6kD3IYV5H52sExE"
@@ -15528,6 +15620,28 @@
       "duration_ms": 207538,
       "name": "U (feat. BRONZE AVERY)",
       "url": "https://open.spotify.com/track/41tVFPYF12LM42hypwG1Dz"
+    },
+    {
+      "album": {
+        "name": "3FOR82",
+        "url": "https://open.spotify.com/album/5bOzaa9qvH7q8rEl3fg5nE"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "KU\u010cKA",
+          "url": "https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223560,
+      "name": "U_WANT",
+      "url": "https://open.spotify.com/track/51rrEtxNkY3BQaapdSKDdm"
     },
     {
       "album": {
@@ -16927,6 +17041,28 @@
     },
     {
       "album": {
+        "name": "Working For You",
+        "url": "https://open.spotify.com/album/6iZzXjB9PT3IXXH0dPe1nm"
+      },
+      "artists": [
+        {
+          "name": "dj meanit.",
+          "url": "https://open.spotify.com/artist/6UUxKKix4VMNNlF06pzcm9"
+        },
+        {
+          "name": "L U",
+          "url": "https://open.spotify.com/artist/5AHojFQr0J8Ay9MCDdjFXc"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Working For You",
+      "url": "https://open.spotify.com/track/6sDsShjWi3EFdTNXyXG2F2"
+    },
+    {
+      "album": {
         "name": "X-Periencia",
         "url": "https://open.spotify.com/album/5FsjiiW54cokxxro5ZQCZI"
       },
@@ -16978,7 +17114,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192000,
       "name": "XTC",
       "url": "https://open.spotify.com/track/2ue7BMHrkz44k9Yxg0bq3o"

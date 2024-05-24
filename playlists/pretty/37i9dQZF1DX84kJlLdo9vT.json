@@ -1,6 +1,6 @@
 {
   "description": "Relive the good ol' days with these 60s and 70s classics.",
-  "num_followers": 666057,
+  "num_followers": 666126,
   "original_name": "Happy Days",
   "owner": {
     "name": "Spotify",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-22 15:13:25",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2024-03-22 15:13:25",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2024-03-22 15:13:25",
+      "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
     }
   ],
   "unique_name": "Happy Days",

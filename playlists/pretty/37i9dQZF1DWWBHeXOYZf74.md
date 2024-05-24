@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: NxWorries
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,679 likes - 111 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,326,728 likes - 111 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

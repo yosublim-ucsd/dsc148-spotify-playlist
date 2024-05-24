@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
+  "description": "This Is Pauline Oliveros. Los temas esenciales, todos en una lista.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -356,7 +356,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 193194,
       "name": "Altamirage V",
       "url": "https://open.spotify.com/track/62hehnD0OcI7pCM26KZGN9"
@@ -492,7 +492,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 204698,
       "name": "Arc Hive",
       "url": "https://open.spotify.com/track/3MyJ4MYNczi8sjZb4eiJrF"
@@ -666,7 +666,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 240294,
       "name": "Calluna Vulgaris",
       "url": "https://open.spotify.com/track/5xGlqc9x6bnSAEDWWMF5oP"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 160240,
       "name": "Cows, Cows, Cows!",
       "url": "https://open.spotify.com/track/4vvCbnChsEcrbNFjfjaj94"
@@ -896,7 +896,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 263826,
       "name": "Desposition",
       "url": "https://open.spotify.com/track/4ZWr04cqxx5RP5N0OlfZek"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 145040,
       "name": "Ghosting",
       "url": "https://open.spotify.com/track/4zpP00UCCZsYs9DkUHQkjx"
@@ -1910,7 +1910,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 130933,
       "name": "Mass Action",
       "url": "https://open.spotify.com/track/4NEL3xHrHuN5ctwyg2ovvb"
@@ -2262,7 +2262,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 936226,
       "name": "Omissam",
       "url": "https://open.spotify.com/track/0vMkC511HUhMiyKEoIR0yN"
@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-05",
+      "date_removed": null,
       "duration_ms": 831146,
       "name": "Outline: for flute, percussion and string bass",
       "url": "https://open.spotify.com/track/50g6C4udSPKSaMoT9ZNwSe"
@@ -2916,7 +2916,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 215360,
       "name": "Sanora",
       "url": "https://open.spotify.com/track/3jw74OQCoOisAdPAdY4vJr"
@@ -3102,7 +3102,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 243653,
       "name": "Silvia",
       "url": "https://open.spotify.com/track/5UtlbbhPS9yHx3ujQ2SRwW"
@@ -3264,7 +3264,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 780466,
       "name": "Spin Density",
       "url": "https://open.spotify.com/track/5P5vf7XIvku60wurI5VZCI"
@@ -4394,7 +4394,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 201280,
       "name": "Vaporization",
       "url": "https://open.spotify.com/track/3Vh3q9m1HRvQdLfcE6ysAc"
@@ -4450,7 +4450,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 443733,
       "name": "Vittoria",
       "url": "https://open.spotify.com/track/6vsMJbyrCpH7iM3dc7pFRh"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-13",
+      "date_removed": null,
       "duration_ms": 793019,
       "name": "Water Above Sky Below Now - Part1",
       "url": "https://open.spotify.com/track/6xYrWLLlwjGh64dyNvSGTD"
@@ -4538,7 +4538,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-21",
+      "date_removed": null,
       "duration_ms": 301173,
       "name": "Web Doppelganger",
       "url": "https://open.spotify.com/track/1GG18hW2tOOEEMlVjvOvil"
@@ -4634,7 +4634,7 @@
       ],
       "date_added": "2022-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 306040,
       "name": "Wolf",
       "url": "https://open.spotify.com/track/35IB6jqgvQyjWst1ot9lDd"

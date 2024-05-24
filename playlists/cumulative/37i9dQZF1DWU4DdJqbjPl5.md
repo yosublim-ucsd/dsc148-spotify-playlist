@@ -2,9 +2,9 @@
 
 ### [Tantalizers](https://open.spotify.com/playlist/37i9dQZF1DWU4DdJqbjPl5)
 
-> The smoothest Afro R&B out right now\. Cover: MAUIMØØN
+> The smoothest Afro R&B out right now\. Cover: Xenia Manasseh
 
-364 songs - 19 hr 27 min
+365 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [Paths](https://open.spotify.com/track/6rOF2rxWh0zxN6lRgSMOTn) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Higo](https://open.spotify.com/artist/7M7t0X1mjNwSOAf3HiPEQ0), [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN) | [Catch A Vibe](https://open.spotify.com/album/7HekReWSW2dvMYdaTENcGs) | 3:22 | 2021-03-25 | 2022-10-14 |
 | [Pen & Paper](https://open.spotify.com/track/08MoSv9F2ZzT3B1GJR3OD6) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Hook](https://open.spotify.com/artist/0d2cvrJfsN0fBd6WuwwlDQ) | [Pen & Paper](https://open.spotify.com/album/185DPVsnR1b6ooK4VDqJPl) | 3:07 | 2022-07-07 | 2023-03-31 |
 | [Phakade Lami](https://open.spotify.com/track/6wQvbzsxSLKqYrPc26jd9S) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Sha Sha](https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Phakade Lami](https://open.spotify.com/album/44PV16rEIAsEdo4MxT62b9) | 4:21 | 2021-12-16 | 2023-04-28 |
+| [Phases](https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi) | [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Phases](https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH) | 3:24 | 2024-05-24 |  |
 | [PICASSO \(feat\. Logos Olori\)](https://open.spotify.com/track/1f5WN3V8AVYyUahqjWogGj) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:35 | 2023-03-30 | 2024-03-08 |
 | [Pidgin & English](https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:38 | 2023-11-27 |  |
 | [Pieces \(with Tay Iwar\)](https://open.spotify.com/track/2StZJmVDSZEij15FbB3WTz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [When It Blooms](https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq) | 3:24 | 2023-05-25 |  |

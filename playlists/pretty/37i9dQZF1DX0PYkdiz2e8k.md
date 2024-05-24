@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > "i just have to trust myself" ∴ W ∴ Foto: WILLOW
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,869 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,855 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 45 | [So Called Life](https://open.spotify.com/track/5EIKp1TKhUNdsThloWPa53) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [So Called Life](https://open.spotify.com/album/1dlAtdEHKRk6fLGfiPT8RW) | 3:26 |
 | 46 | [Even When I’m Not With You](https://open.spotify.com/track/4FUT5585FDMRFq7z5ZprHC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Even When I’m Not With You](https://open.spotify.com/album/38nUbLUn1QQvxiYOSezqJU) | 2:54 |
 | 47 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 |
-| 48 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
-| 49 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 |
+| 48 | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/track/1Al4Z4K76RCKj31mExavs7) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [maybe \(feat\. Bring Me The Horizon\)](https://open.spotify.com/album/36fDvdG4hmUbfLgauLOFgG) | 2:50 |
+| 49 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 |
 | 50 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
 
 Snapshot ID: `Zj2N7AAAAADfc1lbzk1JkH5au6XhZOov`

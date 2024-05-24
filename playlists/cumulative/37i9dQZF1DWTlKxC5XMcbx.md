@@ -4,7 +4,7 @@
 
 > 即興而自在、優雅而舒緩，這形容是不是像個好夢的感覺呢？就讓美妙的爵士樂助你入眠吧！
 
-131 songs - 10 hr 42 min
+132 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Ithaka](https://open.spotify.com/track/3QOH6LSk7A9roxTF39fG1M) | [Copenhagen Jazzexperience](https://open.spotify.com/artist/4JEWCpMIrw4HJgsAlkblBo), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D) | [Everything I Love](https://open.spotify.com/album/6dXuEdo9u0rM102nuJcf4p) | 3:29 | 2023-12-04 |  |
 | [Journey Into Melody \- 2007 Digital Remaster/Rudy Van Gelder Edition](https://open.spotify.com/track/7ysmJhXFQtiBQlk6EZ6sks) | [Stanley Turrentine](https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP) | [Look Out! \(Remastered\)](https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr) | 4:55 | 2022-09-12 |  |
 | [Last Ride Home](https://open.spotify.com/track/22QZgO76vLjdpZY161iF72) | [Magnus Ringblom Quartet](https://open.spotify.com/artist/253IbsVCS7UKpL61Dv5hru) | [The Gotland Session](https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA) | 3:13 | 2022-11-07 | 2023-12-02 |
+| [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2024-05-20 |  |
 | [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 | 2022-11-07 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-10-10 |  |
 | [Love Song From "Apache"](https://open.spotify.com/track/1ifTvBXU6MNgPnPMY4RsBq) | [Coleman Hawkins Quartet](https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC) | [Today And Now](https://open.spotify.com/album/4c0LKvyOYloadl5pezO07S) | 4:12 | 2022-09-12 | 2024-04-19 |
@@ -94,7 +95,7 @@
 | [My Romance \- Remastered 2006](https://open.spotify.com/track/6rK27cC9hX0e1Chrnxo9Vn) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor \(RVG Remasters / Remastered 2006\)](https://open.spotify.com/album/04l5TDoVZFNPvExGNdVjOj) | 4:12 | 2024-04-08 |  |
 | [My Wish](https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr) | [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Here's Love](https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ) | 3:32 | 2022-09-12 | 2024-01-23 |
 | [Old Folks](https://open.spotify.com/track/4UhBGmqcApvAZFTq53ukh7) | [Xavier Davis](https://open.spotify.com/artist/2LiJegzrWFHatDw2kFLsc7), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [Dwayne Burno](https://open.spotify.com/artist/6bc7L0muoQvrJmrehvygRT) | [Dance of Life](https://open.spotify.com/album/29eUcknOT3RFpp1N1UK1lS) | 8:02 | 2022-09-12 | 2023-01-16 |
-| [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 | 2024-04-08 |  |
+| [One Quiet Night](https://open.spotify.com/track/4XdoeWiOIDg2VMVUZSnHlO) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA) | [One Quiet Night](https://open.spotify.com/album/6lUW37ehhdAZNF3cJPkSpK) | 5:01 | 2024-04-08 | 2024-05-24 |
 | [Over The Rainbow](https://open.spotify.com/track/08lUeu1CxXvAoaKkemoEk8) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Everything I Play Is Funky](https://open.spotify.com/album/4bonZNozN5B3PO7nXJ317E) | 7:11 | 2022-09-12 |  |
 | [Peace Piece](https://open.spotify.com/track/58yFroDNbzHpYzvicaC0de) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Everybody Digs Bill Evans](https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt) | 6:44 | 2022-09-12 | 2024-04-19 |
 | [Portrait Of Jenny](https://open.spotify.com/track/1C5HpiqUgOY7v5audtXeXa) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 4:35 | 2023-09-18 | 2024-04-19 |

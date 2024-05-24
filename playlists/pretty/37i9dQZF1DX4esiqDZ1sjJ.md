@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 
 > Release your inner jock with these badass jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,553 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,600 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 56 | [Jumpman](https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 3:25 |
 | 57 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
 | 58 | [A Milli](https://open.spotify.com/track/6ScJMrlpiLfZUGtWp4QIVt) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 3:41 |
-| 59 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
-| 60 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
+| 59 | [Fast Lane](https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig) | [Bad Meets Evil](https://open.spotify.com/artist/77IURH5NC56Jn09QHi76is) | [Hell: The Sequel \(Deluxe\)](https://open.spotify.com/album/5abCMGtyHwpOr9cEbwfP1P) | 4:09 |
+| 60 | [Da Rockwilder](https://open.spotify.com/track/4anqYZt4APNlFwQixpbdZR) | [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Blackout!](https://open.spotify.com/album/5K9kD50P66neofCR8BoYxg) | 2:16 |
 | 61 | [Song 2](https://open.spotify.com/track/3GfOAdcoc3X5GPiiXmpBjK) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 2:01 |
 | 62 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 63 | [Let It Rock](https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R) | [Kevin Rudolf](https://open.spotify.com/artist/0Chxmm4XMM87mJOHvyiUzL), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [In The City](https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd) | 3:51 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4esiqDZ1sjJ.md) - [plain]
 | 66 | [Tipsy \- Club Mix](https://open.spotify.com/track/0jSMveIWvnhDIvzqN74Uc7) | [J\-Kwon](https://open.spotify.com/artist/1Zz5UxfKSSqc6hpa3xJPCw) | [Hood Hop](https://open.spotify.com/album/4yTlfDLsW1dK2kG1qoNsrv) | 4:03 |
 | 67 | [It's Goin' Down \(feat\. Nitti\)](https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX) | [Yung Joc](https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj), [NITTI](https://open.spotify.com/artist/14J79DfdiKcztA7WrrpqIP) | [New Joc City](https://open.spotify.com/album/1Lr1TMh8vcdD3OvrzQTGVn) | 4:01 |
 | 68 | [My Chick Bad](https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Battle Of The Sexes \(Deluxe\)](https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew) | 3:36 |
-| 69 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 |
-| 70 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 |
+| 69 | [Narco](https://open.spotify.com/track/4TuNI3WEMyLQAKRMJmcQdA) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Narco](https://open.spotify.com/album/1lINYBzMLR4DYFverdCmPK) | 3:28 |
+| 70 | [All Me](https://open.spotify.com/track/7y911sqgHGHcyU4ivapjwi) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Nothing Was The Same \(Deluxe\)](https://open.spotify.com/album/5mz0mJxb80gqJIcRf9LGHJ) | 4:30 |
 | 71 | [Harder Than You Think](https://open.spotify.com/track/5YpZh8wfS4moRBk0ijNcXr) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [How You Sell Soul to a Soulless People Who Sold Their Soul?](https://open.spotify.com/album/6izTLoTDL2k78sAvpLfHOP) | 4:09 |
 | 72 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 73 | [Kernkraft 400 \- DJ Gius Mix, Radio Edit](https://open.spotify.com/track/7g8cjrj0sXScNE727685JE) | [Zombie Nation](https://open.spotify.com/artist/7vFpNLbCXbBFs4kFBUlkSl) | [Kernkraft 400 Single Mixes](https://open.spotify.com/album/2qmrRoUZQemrKFr9PBMDHd) | 3:27 |

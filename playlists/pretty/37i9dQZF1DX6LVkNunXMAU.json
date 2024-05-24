@@ -1,6 +1,6 @@
 {
   "description": "Dulce y \u00e1cido: indie pop latino en estado natural. Foto: Paola Navarrete & Adanowsky.",
-  "num_followers": 57394,
+  "num_followers": 57400,
   "original_name": "mandarina",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Alguien Como T\u00fa",
+        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
+      },
+      "artists": [
+        {
+          "name": "La Isla Centeno",
+          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
+        }
+      ],
+      "duration_ms": 237978,
+      "name": "Alguien Como T\u00fa",
+      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "NUNCA DA IGUAL",
         "url": "https://open.spotify.com/album/2UcHsnLUckF2ldX7LKuyLu"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 219826,
       "name": "M\u00e1quinas de hacer todo al mismo tiempo",
       "url": "https://open.spotify.com/track/6zkasCD1K9iC4r5thyK6ti"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Alguien Como T\u00fa",
-        "url": "https://open.spotify.com/album/1iTbNUit81UbxYbMRteBlL"
-      },
-      "artists": [
-        {
-          "name": "La Isla Centeno",
-          "url": "https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L"
-        }
-      ],
-      "duration_ms": 237978,
-      "name": "Alguien Como T\u00fa",
-      "url": "https://open.spotify.com/track/29c3Pm5ChGMesIzZFUsCpE"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Amante",
+        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
+      },
+      "artists": [
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 231154,
+      "name": "Amante",
+      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Particular",
         "url": "https://open.spotify.com/album/4yGbRVdQ4kVluOxL7y41cj"
       },
@@ -919,22 +935,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Amante",
-        "url": "https://open.spotify.com/album/1oHRJevcSdW6KVVZH81Uuk"
-      },
-      "artists": [
-        {
-          "name": "Casandra Paz",
-          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
-        }
-      ],
-      "duration_ms": 231154,
-      "name": "Amante",
-      "url": "https://open.spotify.com/track/63ItGyBtbfsR2zXTIxQZBz"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "2:42",
         "url": "https://open.spotify.com/album/0IeereaucGl6PwFZ3CCh4O"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 171388,
       "name": "2:42",
       "url": "https://open.spotify.com/track/4yzo6HV34l2wGug7W90BPZ"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Ninja",
-        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
-      },
-      "artists": [
-        {
-          "name": "Potra",
-          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
-        }
-      ],
-      "duration_ms": 176193,
-      "name": "Ninja",
-      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -987,6 +971,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
+      },
+      "artists": [
+        {
+          "name": "Potra",
+          "url": "https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO"
+        }
+      ],
+      "duration_ms": 176193,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/1T0ZC5gGVRUWxCXhAraJ1J"
       },
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Volar",
+        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
+      },
+      "artists": [
+        {
+          "name": "Yorka",
+          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
+        }
+      ],
+      "duration_ms": 199946,
+      "name": "Volar",
+      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Sed de Ternura Vol.1 (Duo Set)",
         "url": "https://open.spotify.com/album/4qYPcULqIyFhuyqBRbDHpA"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 187000,
       "name": "Apasionadamente",
       "url": "https://open.spotify.com/track/40R2dPgyTDiToHbjU6Nen0"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Volar",
-        "url": "https://open.spotify.com/album/1JdAQSX4XwFsgpaqXit3ly"
-      },
-      "artists": [
-        {
-          "name": "Yorka",
-          "url": "https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn"
-        }
-      ],
-      "duration_ms": 199946,
-      "name": "Volar",
-      "url": "https://open.spotify.com/track/3qu7fBSjryb5kRTUAX4koC"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "INFRUTESCENCIA",
-        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
-      },
-      "artists": [
-        {
-          "name": "CATALINA",
-          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
-        }
-      ],
-      "duration_ms": 139264,
-      "name": "PARA VERTE",
-      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Calor",
         "url": "https://open.spotify.com/album/6OPkStWof1bHCcuYc2lxw0"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 224000,
       "name": "Calor",
       "url": "https://open.spotify.com/track/3VJGRgrWKdT5UeFduHxzq6"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "INFRUTESCENCIA",
+        "url": "https://open.spotify.com/album/1odlnV35gC6mB26BJ4Q8fm"
+      },
+      "artists": [
+        {
+          "name": "CATALINA",
+          "url": "https://open.spotify.com/artist/6pfrUyP2ZvxxoUcnkglXn2"
+        }
+      ],
+      "duration_ms": 139264,
+      "name": "PARA VERTE",
+      "url": "https://open.spotify.com/track/0oJM0jSk8WjPIuOkHA1OB0"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Locos",
+        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 213159,
+      "name": "Locos",
+      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Solo",
         "url": "https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 200245,
       "name": "NI\u00d1A",
       "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Locos",
-        "url": "https://open.spotify.com/album/66TuRKaKJ99ryYQzPQPrnF"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 213159,
-      "name": "Locos",
-      "url": "https://open.spotify.com/track/6jpSWY7bnhVxGD5dBNQW6v"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Y vos dec\u00eds que me gust\u00e1s",
-        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
-      },
-      "artists": [
-        {
-          "name": "Manu Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
-        },
-        {
-          "name": "Anyi",
-          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
-        }
-      ],
-      "duration_ms": 153320,
-      "name": "Y vos dec\u00eds que me gust\u00e1s",
-      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Tur Blues",
         "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
       },
@@ -1367,6 +1347,26 @@
       "duration_ms": 213112,
       "name": "Tur Blues",
       "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Y vos dec\u00eds que me gust\u00e1s",
+        "url": "https://open.spotify.com/album/56CQFLi5i54v0mgfbzrV4q"
+      },
+      "artists": [
+        {
+          "name": "Manu Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS"
+        },
+        {
+          "name": "Anyi",
+          "url": "https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD"
+        }
+      ],
+      "duration_ms": 153320,
+      "name": "Y vos dec\u00eds que me gust\u00e1s",
+      "url": "https://open.spotify.com/track/39Zdm7as5HOcbIkvIQBqLD"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Caminito",
+        "url": "https://open.spotify.com/album/6K3521IAJJFcPu0cY0d0V4"
+      },
+      "artists": [
+        {
+          "name": "Coco Green",
+          "url": "https://open.spotify.com/artist/2KZq8iWAr0lZ0L1Ua6HgQs"
+        },
+        {
+          "name": "Casandra Paz",
+          "url": "https://open.spotify.com/artist/09uLTF7iK7cR3WsyhGJCoQ"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "Caminito",
+      "url": "https://open.spotify.com/track/1nLPGf1saHtgUgHEDWBjMP"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Barquinho",
         "url": "https://open.spotify.com/album/1TIJdi8RR0NynFLZWqKdK0"
       },
@@ -1787,22 +1807,6 @@
       "duration_ms": 152750,
       "name": "Barquinho",
       "url": "https://open.spotify.com/track/50ToY96BGpEettrv6UeR5u"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Simona a Guitarra y Voz (Lado A)",
-        "url": "https://open.spotify.com/album/3LnuQLn6sRN58vctyqd9NC"
-      },
-      "artists": [
-        {
-          "name": "Mauro Samaniego",
-          "url": "https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L"
-        }
-      ],
-      "duration_ms": 247636,
-      "name": "Paredes Finas",
-      "url": "https://open.spotify.com/track/73k8ezRBHx9LSSGufofMbc"
     }
   ],
   "unique_name": "mandarina",

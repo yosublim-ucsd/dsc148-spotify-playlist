@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 165312,
       "name": "24h",
       "url": "https://open.spotify.com/track/1htrJ3pGSz1Wemhu04rmj4"
@@ -378,6 +378,24 @@
       "duration_ms": 152673,
       "name": "7SD",
       "url": "https://open.spotify.com/track/0uSPEMHkNHifMbwYUP4LwH"
+    },
+    {
+      "album": {
+        "name": "80qm",
+        "url": "https://open.spotify.com/album/5nNXcTFibANjNbLye2jMLU"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139981,
+      "name": "80qm",
+      "url": "https://open.spotify.com/track/13Ozua7wPk2dU3NIIgJJJo"
     },
     {
       "album": {
@@ -1020,7 +1038,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 177076,
       "name": "aussicht grau",
       "url": "https://open.spotify.com/track/7Aad0ECAcXMt2gY9YUaFqy"
@@ -2020,10 +2038,28 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158481,
       "name": "DATEN",
       "url": "https://open.spotify.com/track/1shypv0qCQfECx9gwmryke"
+    },
+    {
+      "album": {
+        "name": "dede don don dede don dede don",
+        "url": "https://open.spotify.com/album/2kkZqyorUaYtAPTATQC2sf"
+      },
+      "artists": [
+        {
+          "name": "Dominik Hartz",
+          "url": "https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139632,
+      "name": "dede don don dede don dede don",
+      "url": "https://open.spotify.com/track/50pM4sNi8kIAek5pzfE4xh"
     },
     {
       "album": {
@@ -2046,6 +2082,28 @@
       "duration_ms": 202105,
       "name": "Dehydriert",
       "url": "https://open.spotify.com/track/3yhUlZhAtpZaDCMRAs6o7E"
+    },
+    {
+      "album": {
+        "name": "dein lieblingstrack",
+        "url": "https://open.spotify.com/album/27YAl1nce5BTysZsqw8x4M"
+      },
+      "artists": [
+        {
+          "name": "Kasi",
+          "url": "https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw"
+        },
+        {
+          "name": "antonius",
+          "url": "https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144773,
+      "name": "dein lieblingstrack",
+      "url": "https://open.spotify.com/track/4vctVGIIfvMl1EBBA1vdvL"
     },
     {
       "album": {
@@ -2280,7 +2338,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166016,
       "name": "DLIT (die Liebe ist tot)",
       "url": "https://open.spotify.com/track/3nsN35tRpTZYSsaBkGrgQA"
@@ -3776,7 +3834,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 120000,
       "name": "F\u00fcr immer Fr\u00fchling",
       "url": "https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc"
@@ -3888,6 +3946,24 @@
       "duration_ms": 175400,
       "name": "Galaxis",
       "url": "https://open.spotify.com/track/2ngK3wxFAWhsn3oyKFAaeb"
+    },
+    {
+      "album": {
+        "name": "Gegengift",
+        "url": "https://open.spotify.com/album/4DNBrTSJjkXNbZWbbw3Xp5"
+      },
+      "artists": [
+        {
+          "name": "frytz",
+          "url": "https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Gegengift",
+      "url": "https://open.spotify.com/track/3dMU77BXGfEJ9EAzOLa0Mn"
     },
     {
       "album": {
@@ -5630,7 +5706,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 136402,
       "name": "Keine Ahnung",
       "url": "https://open.spotify.com/track/35riGdFOw3iO4FcRKnL42W"
@@ -6215,6 +6291,28 @@
     },
     {
       "album": {
+        "name": "Leergetanzt",
+        "url": "https://open.spotify.com/album/4NQpl2FkR3Efz8KuqusN5d"
+      },
+      "artists": [
+        {
+          "name": "STANOVSKY",
+          "url": "https://open.spotify.com/artist/4GR8jECs0wPPXOaF1sfYmP"
+        },
+        {
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143722,
+      "name": "Leergetanzt",
+      "url": "https://open.spotify.com/track/19XTfACt5ydlm3pF2g0F7h"
+    },
+    {
+      "album": {
         "name": "Letzte Kippe",
         "url": "https://open.spotify.com/album/4ShtwWtMwGfddaoMsO0qPh"
       },
@@ -6645,6 +6743,28 @@
     },
     {
       "album": {
+        "name": "Mambo (#40Bochum)",
+        "url": "https://open.spotify.com/album/6ah39hKNCI4dSP52LPjsnH"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        },
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173320,
+      "name": "Mambo - #40Bochum",
+      "url": "https://open.spotify.com/track/6xpuniuA3p9cNic7fnMGTp"
+    },
+    {
+      "album": {
         "name": "Der junge Mann (Deluxe)",
         "url": "https://open.spotify.com/album/1p14ZtAImOVU8PfT5LqZMc"
       },
@@ -6892,7 +7012,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 227985,
       "name": "Messe/Deutz",
       "url": "https://open.spotify.com/track/23MqkXvC9FQTDfMM8cjcoW"
@@ -7308,7 +7428,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 171453,
       "name": "neue welt",
       "url": "https://open.spotify.com/track/4BahctFbZ15m6Yw1ZsSOuq"
@@ -7348,7 +7468,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 151555,
       "name": "Nichts f\u00fcr immer",
       "url": "https://open.spotify.com/track/7DzpWWBAuKpaNfzavoTjLI"
@@ -7576,7 +7696,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 144973,
       "name": "NINA",
       "url": "https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8"
@@ -7818,7 +7938,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 218612,
       "name": "oh sch\u00f6nheit, du biest",
       "url": "https://open.spotify.com/track/5iMhjrSlhSFhbG8v4bqSuA"
@@ -8632,6 +8752,24 @@
       "duration_ms": 224591,
       "name": "Rote Flaggen",
       "url": "https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI"
+    },
+    {
+      "album": {
+        "name": "Rote Jacke",
+        "url": "https://open.spotify.com/album/0Q4MEgXfUgB90AdtFGBaeJ"
+      },
+      "artists": [
+        {
+          "name": "Bley",
+          "url": "https://open.spotify.com/artist/0mqQIoe6iQzBPlzVtvJqXl"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162205,
+      "name": "Rote Jacke",
+      "url": "https://open.spotify.com/track/5rU4WlR8EPzV7PO2lcVppC"
     },
     {
       "album": {
@@ -9757,6 +9895,28 @@
     },
     {
       "album": {
+        "name": "Damals war die Luft noch frischer",
+        "url": "https://open.spotify.com/album/0hEG5ptRQMiYMasI0IKWoX"
+      },
+      "artists": [
+        {
+          "name": "Jambus",
+          "url": "https://open.spotify.com/artist/2QZXIiO5fcbdhq7JSaL8ma"
+        },
+        {
+          "name": "Fifteen",
+          "url": "https://open.spotify.com/artist/5JPMHPJsiNNwG2bZu9qLlS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Stockwerke",
+      "url": "https://open.spotify.com/track/23YouZCICRRkMwn3LMw0OV"
+    },
+    {
+      "album": {
         "name": "Strausberger Platz",
         "url": "https://open.spotify.com/album/2dkB7IBPXXVswdgsfWfk86"
       },
@@ -9870,6 +10030,24 @@
       "duration_ms": 202993,
       "name": "Suzuki Swift",
       "url": "https://open.spotify.com/track/7tGNyXcMm5YwSi0E5CwB2g"
+    },
+    {
+      "album": {
+        "name": "Tanz",
+        "url": "https://open.spotify.com/album/4KuFPRX0QIIDDkAhr2J2nr"
+      },
+      "artists": [
+        {
+          "name": "Ivo Martin",
+          "url": "https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Tanz",
+      "url": "https://open.spotify.com/track/5XwP6iVIosNHDJpjGCALcW"
     },
     {
       "album": {
@@ -10124,6 +10302,24 @@
       "duration_ms": 168188,
       "name": "Tourrettes",
       "url": "https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO"
+    },
+    {
+      "album": {
+        "name": "Bis nach Tokio",
+        "url": "https://open.spotify.com/album/7D06xfmZigrbyaCKQOq56v"
+      },
+      "artists": [
+        {
+          "name": "Soeckers",
+          "url": "https://open.spotify.com/artist/4j0b9F7NBQoDhqmJ39Se12"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168647,
+      "name": "Traum ist aus",
+      "url": "https://open.spotify.com/track/71ZsOjTSC8MK9pitl0qIxC"
     },
     {
       "album": {
@@ -11251,6 +11447,28 @@
     },
     {
       "album": {
+        "name": "wie du manchmal fehlst",
+        "url": "https://open.spotify.com/album/7c6bG1FchpuEbkTl8iJ4As"
+      },
+      "artists": [
+        {
+          "name": "Zartmann",
+          "url": "https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0"
+        },
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131773,
+      "name": "wie du manchmal fehlst",
+      "url": "https://open.spotify.com/track/2gOVXniOMdunVdYk2NUQ4p"
+    },
+    {
+      "album": {
         "name": "wie gewohnt",
         "url": "https://open.spotify.com/album/74aqJlOey90kFhlnIOvjYB"
       },
@@ -11822,7 +12040,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 141236,
       "name": "\u00c4ndert nichts",
       "url": "https://open.spotify.com/track/7n3hfyNw12pdVoWAYHcEuO"
@@ -11880,6 +12098,24 @@
       "duration_ms": 153600,
       "name": "\u00dcbergang",
       "url": "https://open.spotify.com/track/4NUIHkcjtTtNdX5DTYZEGb"
+    },
+    {
+      "album": {
+        "name": "\u00dcberschallgeschwindigkeit",
+        "url": "https://open.spotify.com/album/2dmVIz49EQEYeYlemDeKsg"
+      },
+      "artists": [
+        {
+          "name": "ANOKI",
+          "url": "https://open.spotify.com/artist/3EhgyxwXCxedAWunhIwSFx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131365,
+      "name": "\u00dcberschallgeschwindigkeit",
+      "url": "https://open.spotify.com/track/7yFzo3qUS1h0YH6p2pjns6"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSFDWzEZlALC"

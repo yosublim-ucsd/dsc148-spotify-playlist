@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Luke Combs",
+  "description": "The cream of today's Country crop. Cover: Bailey Zimmerman",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 261294,
       "name": "Bitter Winds",
       "url": "https://open.spotify.com/track/4X9UTklC74F5hnlVjrPbnN"
@@ -2129,6 +2129,36 @@
     },
     {
       "album": {
+        "name": "Country Music Never Made More Sense",
+        "url": "https://open.spotify.com/album/38iB7k5iNvN2n2XB9NZPAt"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Shadbolt",
+          "url": "https://open.spotify.com/artist/4AnRUN3FJq0GZ0RCoRpgNC"
+        },
+        {
+          "name": "Melanie Dyer",
+          "url": "https://open.spotify.com/artist/159pZhqLdWf1ttWtw0zBoL"
+        },
+        {
+          "name": "Sammy White",
+          "url": "https://open.spotify.com/artist/3H2uDUlFVxsrI8wqBOIGEP"
+        },
+        {
+          "name": "Sarah Buckley",
+          "url": "https://open.spotify.com/artist/4o667HY6kn53qcgzJnjups"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154564,
+      "name": "Country Music Never Made More Sense",
+      "url": "https://open.spotify.com/track/4XBwvFgIb6BkuSDwYHzLpg"
+    },
+    {
+      "album": {
         "name": "Country Music, You And Beer",
         "url": "https://open.spotify.com/album/4mex0q7M13c4qljccK8dWN"
       },
@@ -2696,6 +2726,24 @@
       "duration_ms": 254181,
       "name": "Doin' This",
       "url": "https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL"
+    },
+    {
+      "album": {
+        "name": "Don't Get Me Started",
+        "url": "https://open.spotify.com/album/5IvrTsSLiDHS9eUWRCe8yr"
+      },
+      "artists": [
+        {
+          "name": "Travis Collins",
+          "url": "https://open.spotify.com/artist/1hB4sZ49ocIuwxPEBIV35m"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Don't Get Me Started",
+      "url": "https://open.spotify.com/track/3fdwhx6RKaFMel5bpdj0cs"
     },
     {
       "album": {
@@ -4468,6 +4516,24 @@
       "duration_ms": 201176,
       "name": "Hell on My Heart",
       "url": "https://open.spotify.com/track/3sXZExdTZQnBcyPRfzlyoP"
+    },
+    {
+      "album": {
+        "name": "Hell or High Water (From Twisters: The Album)",
+        "url": "https://open.spotify.com/album/75bF2ZeHewzInYro8m5IYE"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194571,
+      "name": "Hell or High Water (From Twisters: The Album)",
+      "url": "https://open.spotify.com/track/0M40J5bPZACa2XXC5GF8tn"
     },
     {
       "album": {
@@ -6563,6 +6629,24 @@
     },
     {
       "album": {
+        "name": "Bruce County",
+        "url": "https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp"
+      },
+      "artists": [
+        {
+          "name": "Owen Riegling",
+          "url": "https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224693,
+      "name": "Moonshines",
+      "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
+    },
+    {
+      "album": {
         "name": "Rolling Up the Welcome Mat",
         "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
       },
@@ -6578,6 +6662,24 @@
       "duration_ms": 177920,
       "name": "Mountain With A View",
       "url": "https://open.spotify.com/track/2fBvSCdG3lDjImqJvnYtvq"
+    },
+    {
+      "album": {
+        "name": "Mountains and Miller",
+        "url": "https://open.spotify.com/album/6dcqQU5Ej1sb3eAYLchncx"
+      },
+      "artists": [
+        {
+          "name": "Lanie Gardner",
+          "url": "https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240705,
+      "name": "Mountains and Miller",
+      "url": "https://open.spotify.com/track/1loMULvlhcSYhgJsptoCOz"
     },
     {
       "album": {
@@ -7671,6 +7773,24 @@
     },
     {
       "album": {
+        "name": "Real Good Cookin'",
+        "url": "https://open.spotify.com/album/4nCAdiW5a0XBGWRIpT0YEb"
+      },
+      "artists": [
+        {
+          "name": "Sweet Talk",
+          "url": "https://open.spotify.com/artist/6ZsvU0pOzv89XZ1FoBeSSi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211308,
+      "name": "Real Good Cookin'",
+      "url": "https://open.spotify.com/track/0Cm54OFxMpEjPCV8JoEGwZ"
+    },
+    {
+      "album": {
         "name": "Real Man",
         "url": "https://open.spotify.com/album/1SXuOk9M9j4nDlPwS0fdyw"
       },
@@ -7686,6 +7806,24 @@
       "duration_ms": 208677,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a"
+    },
+    {
+      "album": {
+        "name": "Can't Just Be Me",
+        "url": "https://open.spotify.com/album/7yV8AyLdPAquTjQ27qETI3"
+      },
+      "artists": [
+        {
+          "name": "Vincent Mason",
+          "url": "https://open.spotify.com/artist/6QJ5CE7ujPr7oZCURhFZVS"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197482,
+      "name": "Really Don't Love Me",
+      "url": "https://open.spotify.com/track/3m9mWLjQ7kkTZhzlc1OvTy"
     },
     {
       "album": {
@@ -9077,6 +9215,28 @@
     },
     {
       "album": {
+        "name": "Roads That Go Nowhere",
+        "url": "https://open.spotify.com/album/5fxgfA3NwGKeIhi22Z9Pir"
+      },
+      "artists": [
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218860,
+      "name": "Southern Rock",
+      "url": "https://open.spotify.com/track/0UT58DMxUfSb8ECS85tgn3"
+    },
+    {
+      "album": {
         "name": "Spin Me Around",
         "url": "https://open.spotify.com/album/5MIy6bDypXVV3G9OIFH1VK"
       },
@@ -10216,7 +10376,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 258680,
       "name": "This Ol' Rodeo",
       "url": "https://open.spotify.com/track/4IhE9UIoeY1kzdIEJk5AfF"
@@ -11106,7 +11266,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 179294,
       "name": "Where It Ends",
       "url": "https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw"

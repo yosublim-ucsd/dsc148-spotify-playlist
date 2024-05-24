@@ -2,7 +2,7 @@
 
 ### [Country Covers](https://open.spotify.com/playlist/37i9dQZF1DX1KHLbhJkg7B)
 
-> Unique versions of hit songs by other artists\. Cover: HARDY's HIXTAPE
+> Unique covers by your favorite country artists\. Cover: Kane Brown
 
 382 songs - 23 hr 54 min
 

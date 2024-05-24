@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,066 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,075 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 32 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
 | 33 | [Irie](https://open.spotify.com/track/3TCQqdI8dWb3oFjU7fAEh3) | [Silly Selection](https://open.spotify.com/artist/3zYX58iRRk6qxi5PnlKsSr) | [Irie](https://open.spotify.com/album/6yHvGtaH9ic9DZul4e7bvg) | 3:23 |
 | 34 | [Såna ögon](https://open.spotify.com/track/1i5mgpA55CwusMHk60brcU) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Naasty](https://open.spotify.com/artist/70TySYlQjHgABej9yaENJA), [Linda Pira](https://open.spotify.com/artist/0qeei9KQnptjwb8MgkqEoy) | [Såna ögon](https://open.spotify.com/album/5ppjkcjRmiWpmmdaHYGoaj) | 2:52 |
-| 35 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
+| 35 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
 | 36 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
 | 37 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
 | 38 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
-| 39 | [Sanna Mina Ord](https://open.spotify.com/track/6N9Epd4Ia8HZJfQTh1Wf22) | [Kikko](https://open.spotify.com/artist/4OOpr3GpdupraAdP9XBROY), [Don Paco](https://open.spotify.com/artist/27zaNoAsIGZZTslZITECBs) | [Sanna Mina Ord](https://open.spotify.com/album/32quvhcWw4de7JoQENCZ5B) | 4:09 |
+| 39 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
 | 40 | [Min Zina](https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu) | [Alibrorsh](https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw) | [Min Zina](https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb) | 3:16 |
 | 41 | [Pirret](https://open.spotify.com/track/5ign6ygkGPmRsfJiRnU84g) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG) | [Pirret](https://open.spotify.com/album/5zvIrBTquTxatX4YerGuzM) | 4:20 |
 | 42 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |

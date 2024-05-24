@@ -1,6 +1,6 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 649660,
+  "num_followers": 649632,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219209,
-      "name": "Shake It Off (Taylor's Version)",
-      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Who You Are (Platinum Edition)",
         "url": "https://open.spotify.com/album/0BZbTNqpXFg6lxNv78X7Lp"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 231840,
       "name": "Domino",
       "url": "https://open.spotify.com/track/2fQxE0jVrjNMT9oJAXtSJR"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219209,
+      "name": "Shake It Off (Taylor's Version)",
+      "url": "https://open.spotify.com/track/3pv7Q5v2dpdefwdWIvE7yH"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Rain On Me (with Ariana Grande)",
         "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 182200,
       "name": "Rain On Me (with Ariana Grande)",
       "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2024-03-20 18:24:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-20 18:24:49",
       "album": {
-        "name": "Costello Music",
-        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
-      },
-      "artists": [
-        {
-          "name": "The Fratellis",
-          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
-        }
-      ],
-      "duration_ms": 215306,
-      "name": "Chelsea Dagger",
-      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
-    },
-    {
-      "added_at": "2024-03-20 18:24:49",
-      "album": {
         "name": "Heavy Is The Head",
         "url": "https://open.spotify.com/album/3y4AaloFccKNLQcZNS9L8c"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 216706,
       "name": "Own It (feat. Ed Sheeran & Burna Boy)",
       "url": "https://open.spotify.com/track/4QPEwDdOMhY7rNS05mTyMR"
+    },
+    {
+      "added_at": "2024-03-20 18:24:49",
+      "album": {
+        "name": "Costello Music",
+        "url": "https://open.spotify.com/album/7avNT7QnpWXl1Khqnsguaw"
+      },
+      "artists": [
+        {
+          "name": "The Fratellis",
+          "url": "https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G"
+        }
+      ],
+      "duration_ms": 215306,
+      "name": "Chelsea Dagger",
+      "url": "https://open.spotify.com/track/1bCmvezFg5MRcENzCGG1Cy"
     },
     {
       "added_at": "2024-03-20 18:24:49",

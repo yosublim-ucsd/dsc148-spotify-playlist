@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 
 > The biggest songs in Latin America in 2018\. Cover: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,663 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,745 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX47rExFRJv8.md) - [plain]
 | 27 | [Chica Paranormal](https://open.spotify.com/track/3krzcyMKlRXjVkJFZqMN4t) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 3:41 |
 | 28 | [El Farsante \- Remix](https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Farsante \(Remix\)](https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3) | 4:18 |
 | 29 | [Loca \- Remix](https://open.spotify.com/track/2ECIwi1a7mfokdDkkJ08Ne) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Loca Remix](https://open.spotify.com/album/5EuK2rW0iPINmt21KPbIUQ) | 5:46 |
-| 30 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
-| 31 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
+| 30 | [Aullando](https://open.spotify.com/track/7BuHdm4lQqcyG3qTwdkxus) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Los Campeones del Pueblo "The Big Leagues"](https://open.spotify.com/album/4zbMionGv9W33xjQfoMyuo) | 3:46 |
+| 31 | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/track/4Clmg1g8n2yBYG13Z1oSdG) | [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Victor Cardenas](https://open.spotify.com/artist/00CMSJdbf36zOzKB3z8JrR), [Kelly Ruíz](https://open.spotify.com/artist/0cCNT5RyWndpS7Zx7ISEDw) | [Baila Conmigo \(feat\. Kelly Ruiz\)](https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7) | 3:09 |
 | 32 | [Culpables](https://open.spotify.com/track/6q8Lb50EtqNeeJXXe8mMAH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Culpables](https://open.spotify.com/album/0WmqKVGQgIYleOI8gtWP1w) | 3:46 |
 | 33 | [Vuelve](https://open.spotify.com/track/3wGRfBDRNQb0nFDFrUPvq6) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [FANTASÍA](https://open.spotify.com/album/5Zyj0zwOksGYLbLAZOaC31) | 3:45 |
 | 34 | [Dime Si Te Acuerdas](https://open.spotify.com/track/3kG1jgWIDmjJkXhOiOmioO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Dime Si Te Acuerdas](https://open.spotify.com/album/3rnV3xx6ipgydVX9ADJKh1) | 3:07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,108 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,122 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [Mama hat gesagt](https://open.spotify.com/track/086edN2nz8TjB3zddIdlPn) | [SDP](https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG), [Sido](https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq), [Esther Graf](https://open.spotify.com/artist/1FXdfOOisB3d3hfZOjhjID) | [Mama hat gesagt](https://open.spotify.com/album/3396TEBenjqgtH7GskkRXu) | 3:16 |
 | 50 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 |
 
-Snapshot ID: `LeFWQAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LeKnwAAAAAAAAAAAAAAAAAAAAAAAAGVu`

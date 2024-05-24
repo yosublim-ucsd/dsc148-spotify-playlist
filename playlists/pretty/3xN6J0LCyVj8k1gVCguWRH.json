@@ -6,7 +6,7 @@
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAhttA4Q4AFwuDIoobg7pz2iYcqSEeu",
+  "snapshot_id": "AAAhuk15WKX3RktoA57mADrICdfyp/vT",
   "tracks": [
     {
       "added_at": "2024-03-29 14:33:31",
@@ -641,6 +641,22 @@
       "url": "https://open.spotify.com/track/20M8qlECg4w0ERlD47aqal"
     },
     {
+      "added_at": "2024-05-23 11:20:50",
+      "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/7uWba3kHK9lKoLntwn1Bxe"
+      },
+      "artists": [
+        {
+          "name": "Kitty Mack",
+          "url": "https://open.spotify.com/artist/4uoSIZh3PyGU7NeRX0S28v"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/009Bl6lJNSFly6rkSmX2vl"
+    },
+    {
       "added_at": "2024-05-18 12:00:42",
       "album": {
         "name": "Mine",
@@ -905,10 +921,10 @@
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
     },
     {
-      "added_at": "2024-03-20 14:27:11",
+      "added_at": "2024-05-23 15:23:56",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
@@ -916,9 +932,9 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 193143,
-      "name": "bury a friend",
-      "url": "https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF"
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
     },
     {
       "added_at": "2024-03-21 15:06:16",

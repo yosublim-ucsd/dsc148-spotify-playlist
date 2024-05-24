@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,724 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,727 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 30 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 31 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 |
 | 32 | [Fighting!](https://open.spotify.com/track/5F2Nrnc779a0ZADDG7v7u7) | [eldon](https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4) | [Fighting!](https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80) | 3:05 |
-| 33 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |
-| 34 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
+| 33 | [Lean On Me](https://open.spotify.com/track/43IxBx4zsgELpVdMIAkkF0) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [A\-TEEN2 Part.1](https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa) | 3:30 |
+| 34 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |
 | 35 | [Dear Diary](https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [Dear Diary](https://open.spotify.com/album/0HDY0qVf18AP9ef5chIqxC) | 3:38 |
-| 36 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
-| 37 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
+| 36 | [Brave](https://open.spotify.com/track/30g5E9MteFxeG9pDvRKJNl) | [Kim Jong Wan of NELL](https://open.spotify.com/artist/7ksQJtsXSRSrI5306UwIgH) | [Extraordinary Attorney Woo \(Original Television SoundTrack\) Pt\. 1](https://open.spotify.com/album/1JNQlhazNG0N5gK1NoLAuK) | 4:22 |
+| 37 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
 | 38 | [Panorama](https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i) | [LEE CHANHYUK](https://open.spotify.com/artist/4RkTSLr5Qf79FfUkeaDKbl) | [ERROR](https://open.spotify.com/album/0rOZyialXbHAA4qAKi0YaL) | 3:18 |
 | 39 | [Another Dream](https://open.spotify.com/track/1UUJwdNBSVQAQMZYHfkIa5) | [Girls Planet 999](https://open.spotify.com/artist/1dTvYIUWdOcBXYyUWhi91W) | [Girls Planet 999 \- Completion Mission](https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU) | 3:22 |
 | 40 | [Lonely night](https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Lonely night](https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA) | 3:35 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 44 | [내가 니편이 되어 줄게 I Will Be on Your Side](https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [세 번째 음악 로스팅 3rd Music Roasting](https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle) | 5:57 |
 | 45 | [Listen to this song](https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Listen to this song](https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir) | 3:43 |
 | 46 | [Nostalgia](https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [WE:TH](https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK) | 3:03 |
-| 47 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 |
-| 48 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
+| 47 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 |
+| 48 | [My Day \(Acoustic Ver.\)](https://open.spotify.com/track/3U5ex6nJznAHjxjQoMOe1j) | [JUNHA PARK](https://open.spotify.com/artist/7oppHhvVWHX7WeGYjEOL6y) | [YUMI's Cells 2, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ) | 4:12 |
 | 49 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
-| 50 | [Happier \(feat\. Crush\)](https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 4:11 |
+| 50 | [Going Home](https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Call It Love, Part 3 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2) | 4:57 |
 
 Snapshot ID: `ZiXwQAAAAACmwHu0DJFxjvlkYDgqPtDA`

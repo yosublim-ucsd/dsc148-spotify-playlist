@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,512,433 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,512,431 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 63 | [Último Romance](https://open.spotify.com/track/4zdQnUf0viZCBLaRLtFzCn) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Último Romance](https://open.spotify.com/album/3XY0aDOP9aULr9Hq5oSgdU) | 4:17 |
 | 64 | [Gostosin \(Acoustic\)](https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF) | [Gostosin \(Acoustic\)](https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy) | 3:00 |
 | 65 | [Outra Vida](https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Outra Vida](https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ) | 3:04 |
-| 66 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
-| 67 | [Certeza \- Ao Vivo](https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turnê Planeta Borboleta \- Ao Vivo](https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces) | 3:11 |
+| 66 | [Certeza \- Ao Vivo](https://open.spotify.com/track/1j1jFRnapbAfyF4pmzFNv0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Turnê Planeta Borboleta \- Ao Vivo](https://open.spotify.com/album/5URVNSoPTvs4iwsJOtAces) | 3:11 |
+| 67 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
 | 68 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
 | 69 | [Outra Vez \- Acústico](https://open.spotify.com/track/7w2v2vIrCjjJ59taHu3wa2) | [Camila Zasoul](https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Outra Vez \(Acústico\)](https://open.spotify.com/album/54FE2KhqGG9f94pRNUjf0W) | 3:09 |
 | 70 | [Nós 3 \- Acústico](https://open.spotify.com/track/4e1mWae0Ar47HBzYtJfCse) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [Nós 3 \(Acústico\)](https://open.spotify.com/album/7iwQsLBXItkYygm6MZAzFU) | 4:26 |

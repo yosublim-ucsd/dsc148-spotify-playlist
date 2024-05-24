@@ -2,9 +2,9 @@
 
 ### [Burrh Rap](https://open.spotify.com/playlist/37i9dQZF1DX4pHb5aF7Ipw)
 
-> Fresh Punjabi Rap\. Cover: tricksingh
+> Fresh Punjabi Rap\. Cover: Prince Narula & Paradox
 
-104 songs - 5 hr 4 min
+105 songs - 5 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Head Down](https://open.spotify.com/track/5LttjEv8EQgd6NQbC45Ssl) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Xplicit](https://open.spotify.com/artist/6qKmGvxFS54YHdlQ4S93gu) | [Head Down](https://open.spotify.com/album/1k9NCze8JjNmRkE3arYiVZ) | 2:39 | 2024-05-21 |  |
 | [HELLCAT](https://open.spotify.com/track/6UhcId8Fy6YByPYziOja5W) | [SOHAL](https://open.spotify.com/artist/4btWEiFCBW3yM80dXqq3p8), [Joban Dhillon](https://open.spotify.com/artist/7CDkAERLEgW9vI1g6RV764) | [HELLCAT](https://open.spotify.com/album/4VacXInq7MmyeZUmgzlDYd) | 3:25 | 2023-03-18 | 2023-10-14 |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-18 | 2023-04-27 |
-| [HOBBIES](https://open.spotify.com/track/11yCYW6r6MYoZDZmEZ7f5l) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg) | 2:48 | 2024-04-12 |  |
+| [HOBBIES](https://open.spotify.com/track/11yCYW6r6MYoZDZmEZ7f5l) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg) | 2:48 | 2024-04-12 | 2024-05-24 |
 | [HOBBIES](https://open.spotify.com/track/18wzW9g7ydcXFlz3PRuQE6) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mad Mix](https://open.spotify.com/artist/55fozRiVCKuoMqSkxa6nxv) | [GLOBAL WARNING](https://open.spotify.com/album/5dbxmcCgZQLdsLtZW5398p) | 2:48 | 2023-07-31 | 2024-04-19 |
 | [Hustle Evuryday](https://open.spotify.com/track/3esqivaz1tFBLv2QeuEfiQ) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Back To Skool](https://open.spotify.com/album/2nV3fDaXXox4sEs3NFllkG) | 2:46 | 2023-05-26 | 2023-07-28 |
 | [Ice](https://open.spotify.com/track/5bnfUWFS4sVeWx1JLA3K9Z) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:54 | 2023-07-31 |  |
@@ -75,6 +75,7 @@
 | [Moosedrilla \(feat\. DIVINE\)](https://open.spotify.com/track/67KTXqxMEyBMq3LApqCgNV) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:52 | 2023-03-18 | 2023-12-15 |
 | [My Talk](https://open.spotify.com/track/1blSrivSm7CgTwoy3JeIC9) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [My Talk](https://open.spotify.com/album/6QedbscvibNXbm8MIKy9Kz) | 3:09 | 2023-03-18 |  |
 | [my turn/meri vaari](https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL) | [tricksingh](https://open.spotify.com/artist/3xvOoFJqHTgdPqUVWlRYQk) | [my turn/meri vaari](https://open.spotify.com/album/1vpMvJS3I00wguWHQjx3pQ) | 3:01 | 2023-03-18 | 2023-10-12 |
+| [Nawa Daur](https://open.spotify.com/track/61MMci6FJljPEmeyMiUdaf) | [Prince Narula](https://open.spotify.com/artist/4hMUptoqDVqFXA8Inz20II), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [Rony Ajnali](https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw) | [Nawa Daur](https://open.spotify.com/album/541jqutZqpCl9uOS3x8UsU) | 2:57 | 2024-05-23 |  |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2023-03-18 |  |
 | [Nisha Sweety](https://open.spotify.com/track/6Twl6PxOydIn6lHCFasctF) | [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Dj Tejas](https://open.spotify.com/artist/19auYTgFdhYAR019ErcDcM) | [Nisha Sweety](https://open.spotify.com/album/06E2OaiyC9N7i2eG8CdcFJ) | 4:02 | 2023-04-21 |  |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2023-05-26 |  |

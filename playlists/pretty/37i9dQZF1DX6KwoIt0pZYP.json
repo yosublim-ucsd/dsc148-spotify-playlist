@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 231224,
+  "num_followers": 231289,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "love you twice",
-        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
-      },
-      "artists": [
-        {
-          "name": "HUH YUNJIN",
-          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
-        }
-      ],
-      "duration_ms": 172189,
-      "name": "love you twice",
-      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "It's Only Me (Studio Version)",
         "url": "https://open.spotify.com/album/2BQkplVABAVVOzvZzRkBQ4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 203075,
       "name": "It's Only Me - Studio Version",
       "url": "https://open.spotify.com/track/2CoxJRIhTKvHyFIq9FcDO5"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "love you twice",
+        "url": "https://open.spotify.com/album/03NnLJWmvbNiDAk8l8W3b4"
+      },
+      "artists": [
+        {
+          "name": "HUH YUNJIN",
+          "url": "https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy"
+        }
+      ],
+      "duration_ms": 172189,
+      "name": "love you twice",
+      "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "hair down",
-        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "hair down",
-      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "The Ones We Once Loved",
         "url": "https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX"
       },
@@ -943,22 +927,6 @@
       "duration_ms": 273362,
       "name": "The Ones We Once Loved",
       "url": "https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
-        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
-        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
-      },
-      "artists": [
-        {
-          "name": "Michael Wong",
-          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "\u7ae5\u8a71",
-      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -979,6 +947,38 @@
       "duration_ms": 222315,
       "name": "Green Tea & Honey",
       "url": "https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "\u5341\u5149\u5e74\u7cbe\u9078\u8f2f",
+        "url": "https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm"
+      },
+      "artists": [
+        {
+          "name": "Michael Wong",
+          "url": "https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "\u7ae5\u8a71",
+      "url": "https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
+        "name": "keepyousafe",
+        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
+      },
+      "artists": [
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
+        }
+      ],
+      "duration_ms": 261673,
+      "name": "keepyousafe",
+      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
         "name": "don't matter",
         "url": "https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 202000,
       "name": "don't matter",
       "url": "https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
-        "name": "keepyousafe",
-        "url": "https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9"
-      },
-      "artists": [
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R"
-        }
-      ],
-      "duration_ms": 261673,
-      "name": "keepyousafe",
-      "url": "https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "Split",
         "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
@@ -1275,22 +1259,18 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "everything, everywhere (feat. eaJ)",
-        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
       },
       "artists": [
         {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
-        },
-        {
-          "name": "eaJ",
-          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 190108,
-      "name": "everything, everywhere (feat. eaJ)",
-      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1307,6 +1287,26 @@
       "duration_ms": 162151,
       "name": "confidence in me",
       "url": "https://open.spotify.com/track/5c1tswRpjj7Fyv9xb5a8RJ"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "everything, everywhere (feat. eaJ)",
+        "url": "https://open.spotify.com/album/61xocU79Y5kZiJSPg2KcuG"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "eaJ",
+          "url": "https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN"
+        }
+      ],
+      "duration_ms": 190108,
+      "name": "everything, everywhere (feat. eaJ)",
+      "url": "https://open.spotify.com/track/6ru2VMkOMkSBUKWqrTZYwe"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1359,22 +1359,22 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "everything sucks (feat. Eric Nam)",
-        "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
+        "name": "Slow (with Ciara)",
+        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
       "artists": [
         {
-          "name": "vaultboy",
-          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
         },
         {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 119744,
-      "name": "everything sucks (feat. Eric Nam)",
-      "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
+      "duration_ms": 192181,
+      "name": "Slow (with Ciara)",
+      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "Slow (with Ciara)",
-        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 192181,
-      "name": "Slow (with Ciara)",
-      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "Comets",
         "url": "https://open.spotify.com/album/7mFRwy9ld2leAOlpWDNENj"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 236026,
       "name": "Comets",
       "url": "https://open.spotify.com/track/2kthoMgmFqi8GVgEMaRP9S"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "everything sucks (feat. Eric Nam)",
+        "url": "https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI"
+      },
+      "artists": [
+        {
+          "name": "vaultboy",
+          "url": "https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB"
+        },
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 119744,
+      "name": "everything sucks (feat. Eric Nam)",
+      "url": "https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "blame",
-        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
-      },
-      "artists": [
-        {
-          "name": "brb.",
-          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "blame",
-      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "24",
         "url": "https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 133897,
       "name": "24",
       "url": "https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "blame",
+        "url": "https://open.spotify.com/album/51u2gNSJOxzIthq90Oj2Pa"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "blame",
+      "url": "https://open.spotify.com/track/0WVynoxYPMuxR5XnFflGfv"
     },
     {
       "added_at": "2024-05-17 16:00:00",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2024-05-17 16:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
-      },
-      "artists": [
-        {
-          "name": "Jesse Barrera",
-          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
-        },
-        {
-          "name": "Patrick Hizon",
-          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
-        }
-      ],
-      "duration_ms": 162020,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
-    },
-    {
-      "added_at": "2024-05-17 16:00:00",
-      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/5dZlFvMLz5W3utI0LDRndp"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 241947,
       "name": "P.S. I LOVE YOU (feat. Yuna)",
       "url": "https://open.spotify.com/track/2tQztJmzQenj4b3VC3mGAb"
+    },
+    {
+      "added_at": "2024-05-17 16:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/3aB1d4YjUoxiIAq6jDo9e9"
+      },
+      "artists": [
+        {
+          "name": "Jesse Barrera",
+          "url": "https://open.spotify.com/artist/51KbY36mrjHRQwvSbel74l"
+        },
+        {
+          "name": "Patrick Hizon",
+          "url": "https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X"
+        }
+      ],
+      "duration_ms": 162020,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/6yHZVOMyiHvTJDU700B5d3"
     },
     {
       "added_at": "2024-05-17 16:00:00",

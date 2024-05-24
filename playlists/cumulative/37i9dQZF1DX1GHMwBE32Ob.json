@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "From the trenches. Through the streets.\nCover: Seyi Vibes and Bloody Civilian",
+  "description": "From the trenches. Through the streets.\nCover: Zerrydl",
   "name": "Street Energy ",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 135091,
       "name": "Alhamdulillah",
       "url": "https://open.spotify.com/track/0iQbrllM4TkC8BQrk155sx"
@@ -366,6 +366,24 @@
       "duration_ms": 180584,
       "name": "Amdallah",
       "url": "https://open.spotify.com/track/38YGMEC8sWIkkUWYZVw5GE"
+    },
+    {
+      "album": {
+        "name": "AMERICA",
+        "url": "https://open.spotify.com/album/4CA1o2nf4CPm4yyyNkfp95"
+      },
+      "artists": [
+        {
+          "name": "Qdot",
+          "url": "https://open.spotify.com/artist/6PQqfJGRZzewMi6rBjK4Ev"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212500,
+      "name": "AMERICA",
+      "url": "https://open.spotify.com/track/5CFz4grlqiE2TtrfFWKY2R"
     },
     {
       "album": {
@@ -576,7 +594,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 144640,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/2oLqh1VlYhkqPTGvTFXrhm"
@@ -1242,7 +1260,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 129593,
       "name": "Don Perignon",
       "url": "https://open.spotify.com/track/2EBVq3gCCEtRUGDx5oOGiC"
@@ -3177,6 +3195,24 @@
     },
     {
       "album": {
+        "name": "O.U.A.T",
+        "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
+      },
+      "artists": [
+        {
+          "name": "Zerrydl",
+          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141052,
+      "name": "O.U.A.T",
+      "url": "https://open.spotify.com/track/6W87j9MnByZwdNPmXPlAjn"
+    },
+    {
+      "album": {
         "name": "Of Lagos",
         "url": "https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l"
       },
@@ -4512,6 +4548,24 @@
       "duration_ms": 180000,
       "name": "Turkey Nla",
       "url": "https://open.spotify.com/track/0na5iZ3EElnlMiE6Y0SM3P"
+    },
+    {
+      "album": {
+        "name": "Under The Canopy",
+        "url": "https://open.spotify.com/album/7c6oqqAN19VuIGt7KsKf9t"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Under The Canopy",
+      "url": "https://open.spotify.com/track/1QCtwTegsRR8XtgaMpoQLk"
     },
     {
       "album": {

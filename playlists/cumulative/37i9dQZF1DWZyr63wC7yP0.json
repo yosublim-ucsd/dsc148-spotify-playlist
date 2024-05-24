@@ -902,7 +902,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207000,
       "name": "Liquid Lullabies",
       "url": "https://open.spotify.com/track/5v0ut1sOcbsAKqiztLB0Dt"
@@ -942,6 +942,24 @@
       "duration_ms": 251624,
       "name": "Lovely Stream",
       "url": "https://open.spotify.com/track/5cMoDHCfhjqmWuoeQKRxq5"
+    },
+    {
+      "album": {
+        "name": "Lush River Sounds",
+        "url": "https://open.spotify.com/album/0sROL2wFYB7qoHLsj8pZ3G"
+      },
+      "artists": [
+        {
+          "name": "Leonard Poole",
+          "url": "https://open.spotify.com/artist/4GKxXMgOwnbnvJN797HsDO"
+        }
+      ],
+      "date_added": "2024-04-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278666,
+      "name": "Lush River Sounds",
+      "url": "https://open.spotify.com/track/1Hmx9EomcChyW6QSIFuSts"
     },
     {
       "album": {

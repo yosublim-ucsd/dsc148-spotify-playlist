@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-482 songs - 20 hr 52 min
+486 songs - 21 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Berceuse Lunaire](https://open.spotify.com/track/0zmrJp1U0cMtlYPmYw8nQU) | [Kenzo Aio](https://open.spotify.com/artist/34Rh9lDdSZW5tvYxpGHsaY) | [Berceuse Lunaire](https://open.spotify.com/album/16LXWruj5pIr0cJ9dVntNL) | 2:53 | 2023-02-21 | 2024-04-19 |
 | [Better times](https://open.spotify.com/track/18JB1Jm8SkaeVWn9a2P8fn) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Better times](https://open.spotify.com/album/0vXDqElEDfg9rc0PfA4VDb) | 2:10 | 2023-01-20 |  |
 | [Beyond Our Walls \- Original Studio Version](https://open.spotify.com/track/0FyNIWrcV08RFgRLuoHtd5) | [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Beyond Our Walls \(Original Studio Version\)](https://open.spotify.com/album/19JVqi1U0tdaeV93daaEGJ) | 2:21 | 2022-08-03 |  |
+| [Biassono](https://open.spotify.com/track/4VCdqcivjBs1bfQAGB54rQ) | [Joviano Carrera](https://open.spotify.com/artist/7CP9gWsfC3ZmfDnGdspj93) | [Biassono](https://open.spotify.com/album/6KZDkQ7hYuOqG8O4cjNLl9) | 2:31 | 2024-05-23 |  |
 | [Bibliothèque](https://open.spotify.com/track/02q15OnIA9bH90KYqbyBvI) | [Nadav Amir\-Himmel](https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ), [Hazel Dumoulin](https://open.spotify.com/artist/4ddvhBOBwHziZBPGwJPTjd) | [Bibliothèque](https://open.spotify.com/album/2AgUYEnDRtr6a7B8eMj530) | 2:54 | 2022-05-04 |  |
 | [Biome](https://open.spotify.com/track/6Wtd6dFjXuB0wVzu6EJB5Z) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Biome](https://open.spotify.com/album/0mYnBgs22mBPxRySWw6VNd) | 2:18 | 2022-08-30 |  |
 | [Blazing](https://open.spotify.com/track/4a4xMLfNR4gNYBOdqXJafV) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Blazing](https://open.spotify.com/album/3xZZ9V4l1VjBDvpDUxnynu) | 2:07 | 2022-04-27 |  |
@@ -244,6 +245,7 @@
 | [Lo Siento](https://open.spotify.com/track/6HTwYHpvYigjhhvBUsEKcd) | [Algot Brooke](https://open.spotify.com/artist/5jusPffeiBz4RWAvgZK3dC) | [Lo Siento](https://open.spotify.com/album/4dTNDpTsYII6p7fkO8zWqc) | 2:14 | 2023-03-07 |  |
 | [Lonely Children](https://open.spotify.com/track/3qOEq8x1ayOUmvcEvzkPux) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Lonely Children](https://open.spotify.com/album/11ytfVbaf7XPoKghET8RIy) | 2:44 | 2022-04-14 | 2022-06-08 |
 | [Look to the Sea](https://open.spotify.com/track/0niChogoxtdK17KtHH0jni) | [Aisha Edwards](https://open.spotify.com/artist/3YZeY8Jt05JPzWSY6VNnYZ) | [Look to the Sea](https://open.spotify.com/album/5krugfl1J2zSBZG7R2zNy5) | 2:42 | 2022-04-14 | 2022-06-08 |
+| [Looking Back](https://open.spotify.com/track/5jTKSxQ4uS4xDZYNG8xzJw) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Looking Back](https://open.spotify.com/album/75nj6yEzrjQchmvTZicmZQ) | 2:57 | 2024-05-23 |  |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-14 | 2022-05-27 |
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-24 |  |
 | [Low Tide](https://open.spotify.com/track/4IE6nqSTpxrN0w34jYcSfK) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Low Tide](https://open.spotify.com/album/6Q4NlBA59w10TScE7sJSuw) | 2:37 | 2024-05-15 |  |
@@ -300,6 +302,7 @@
 | [Old Letter](https://open.spotify.com/track/6eNCYZyPFmSn4KgAJYDwdw) | [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/19YyBSJeId988PBpUu0EMv) | 3:54 | 2023-02-07 | 2024-04-19 |
 | [Old Letter](https://open.spotify.com/track/3Ou4VHEilRM3CLJ4TkxBzY) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Old Letter](https://open.spotify.com/album/00PzQJppWlGGLdMCmBQtfy) | 3:54 | 2022-10-26 |  |
 | [Once Upon A Time](https://open.spotify.com/track/1z7EOsEf4wCOCsqHep43pf) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Once Upon A Time](https://open.spotify.com/album/0zmErcaHoz3lrtKMklzrT3) | 3:07 | 2022-05-04 |  |
+| [Open](https://open.spotify.com/track/67YdGjtAZIsWGMXGrZSrg3) | [Gjermund](https://open.spotify.com/artist/2FZS2EvEvApDSk425z6s4P) | [Open](https://open.spotify.com/album/4IHdgNyR4VPmTI5bFUbq2r) | 2:37 | 2024-05-23 |  |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-04-14 | 2023-04-05 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-04-14 |  |
 | [Other Side of The Moon](https://open.spotify.com/track/1qrvZZeUyb4a5knmgTM9v1) | [Valérie Valérie](https://open.spotify.com/artist/5anUigfub4hjAuAgrZHS25) | [Other Side of The Moon](https://open.spotify.com/album/1pGyYoSDbFxJ2r91ZQiLqb) | 2:08 | 2024-03-19 |  |
@@ -363,6 +366,7 @@
 | [Shoganai](https://open.spotify.com/track/2Pmiz2tOtQxnrHsQ9RZuKp) | [Marlon Guild](https://open.spotify.com/artist/37H3UX4jTV7ZjH5yL6l3Yl) | [Shoganai](https://open.spotify.com/album/5pOX595aLHeczDXUz0HsL1) | 3:11 | 2022-04-14 |  |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-04-14 | 2022-06-08 |
 | [Sinking](https://open.spotify.com/track/2tMIlCle6lIekbKOBtKxaT) | [Matthew Avery](https://open.spotify.com/artist/3dAAhnH2R2Dd2bgZiqSlkR) | [Sinking](https://open.spotify.com/album/0VTQ7zwNJ0SrBddcVHsGZa) | 2:39 | 2022-04-14 | 2024-04-04 |
+| [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 | 2024-05-23 |  |
 | [slow waltz](https://open.spotify.com/track/1BKUdbyhGPpzazD1H5L6iB) | [Vontmer](https://open.spotify.com/artist/14ztiaafrJJeTVbwdzekgI) | [slow waltz](https://open.spotify.com/album/1FaJk07lRQS1bKuYA1W4q8) | 3:54 | 2022-04-14 | 2022-08-04 |
 | [Smile in the wind](https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Smile in the wind](https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp) | 2:05 | 2023-07-18 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-14 | 2024-04-23 |

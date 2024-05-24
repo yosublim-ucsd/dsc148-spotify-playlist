@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 
 > This is Big Daddy Weave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,357 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,360 likes - 51 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 12 | [If We Are The Body \(feat\. Hannah Kerr\)](https://open.spotify.com/track/12AUzHL6cmZNCKZT3HZIMN) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Lifesongs: A Celebration of the First 20 Years](https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8) | 4:03 |
 | 13 | [All Things New](https://open.spotify.com/track/2D1F0ukjJniQCgO1ex5KJi) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 4:52 |
 | 14 | [Love Come To Life](https://open.spotify.com/track/26FQmwQ538RwRB7vV3KLjR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 3:46 |
-| 15 | [Hold Me Jesus](https://open.spotify.com/track/6jY58FrHShSeJIuA3m5Osx) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:54 |
+| 15 | [Every Time I Breathe](https://open.spotify.com/track/4yOpRExvm1qwGBZNeS4cXt) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:52 |
 | 16 | [What Life Would Be Like](https://open.spotify.com/track/71Mwr0v0cPykFBBpnYiSED) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:05 |
 | 17 | [This Is What We Live For](https://open.spotify.com/track/4JRQpTXsde4JQtIO3D76iT) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [When The Light Comes](https://open.spotify.com/album/0pUmeRHfEG13Y63F3n3o1R) | 3:55 |
 | 18 | [Audience of One](https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 5:26 |
-| 19 | [Every Time I Breathe](https://open.spotify.com/track/4yOpRExvm1qwGBZNeS4cXt) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:52 |
+| 19 | [Hold Me Jesus](https://open.spotify.com/track/6jY58FrHShSeJIuA3m5Osx) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:54 |
 | 20 | [I Speak Jesus](https://open.spotify.com/track/3xc5C0e85ZJbXLz0nrANWt) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [I Speak Jesus](https://open.spotify.com/album/6oJY4rogX1Y9UHL2yL21TY) | 4:17 |
 | 21 | [Lavish](https://open.spotify.com/track/5wvlWHdfysfTlAN2ulXcoh) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt), [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [My Utmost For His Highest](https://open.spotify.com/album/1FsAHNrcHF3QVdRHloCnhV) | 4:43 |
 | 22 | [I Will Go](https://open.spotify.com/track/50ZvPCUJkoPNFPIOAV97Ni) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Beautiful Offerings \(Deluxe Edition\)](https://open.spotify.com/album/1nS9azUwohxTProO6cTEMc) | 3:34 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Rwe2O.md) - [plain]
 | 40 | [Everything Beautiful](https://open.spotify.com/track/331Knn1SGIHAjAfHtP9UBR) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life: The Redeemed Edition](https://open.spotify.com/album/5P2EQTgQ6BpQOjyoBxm15i) | 3:17 |
 | 41 | [All For You](https://open.spotify.com/track/4Gqez49VUwAYdthySame7Y) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:46 |
 | 42 | [Completely Free](https://open.spotify.com/track/0YmGnKCilrgJzGLcUtqvOy) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 3:33 |
-| 43 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 |
-| 44 | [Friend Like You](https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 3:35 |
+| 43 | [Friend Like You](https://open.spotify.com/track/7fnGehxDj3mXykhbSeZwtn) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [One and Only](https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN) | 3:35 |
+| 44 | [Without You](https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 5:39 |
 | 45 | [The Only One](https://open.spotify.com/track/1Dm66v7VLsHHNUzxaJQdC7) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Every Time I Breathe](https://open.spotify.com/album/3EscMOjxSXux9BPVDOtiQ2) | 3:17 |
 | 46 | [Right With You](https://open.spotify.com/track/2v4QOcKW0wXtG2o9vSrsSX) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:07 |
-| 47 | [Without You](https://open.spotify.com/track/6llVaCTlf3qj0rBPTvGrk0) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 5:39 |
-| 48 | [Words of Life](https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:13 |
+| 47 | [Words of Life](https://open.spotify.com/track/7C7n4C6VoUhUyIO7oHeQ6I) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 5:13 |
+| 48 | [Just The Way I Am](https://open.spotify.com/track/5DWxGimczAZe7byauhrUba) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 3:46 |
 | 49 | [Be Your Everything](https://open.spotify.com/track/3RkTLYMiGUmdNUkqtD4iPg) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Fields of Grace](https://open.spotify.com/album/61sF6iIwEXs0whUeba8D77) | 5:13 |
 | 50 | [Just Like Somebody Else](https://open.spotify.com/track/2Yo8YXctpvkdKzFgrI4eZP) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What Life Would Be Like](https://open.spotify.com/album/2UAq8mcn9ivMJoSX9asGSw) | 4:44 |
-| 51 | [Neighborhoods](https://open.spotify.com/track/5olQics7uPj0dp1vBTkyYe) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [The Ultimate Collection](https://open.spotify.com/album/5tUYEM30kqrb96DaAB4yhW) | 4:33 |
+| 51 | [What I Was Made For](https://open.spotify.com/track/2zM8D2BY8MjK7DJqjN139T) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [What I Was Made For](https://open.spotify.com/album/4hmf9eDR7uciP36IoVFQYH) | 2:59 |
 
-Snapshot ID: `ZkqSgAAAAACK7FTR4FxvDQdEdpz8rVEV`
+Snapshot ID: `Zk01gAAAAAAqTIoX0D06VPV1Dy3UEBjR`

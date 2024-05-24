@@ -4,7 +4,7 @@
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: Ambar Lucid
 
-135 songs - 7 hr 36 min
+136 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 | 2024-02-02 |  |
 | [sueño](https://open.spotify.com/track/1u7nvSknNQCsAATOictM7Z) | [Mía Rizzo](https://open.spotify.com/artist/5LvJ9CM92axGdZuOQ55H10) | [Imagina Ser](https://open.spotify.com/album/1UI1aIgqOUBTOHZUzo71Av) | 2:58 | 2022-05-31 | 2022-07-18 |
 | [Sólo Tú](https://open.spotify.com/track/3YdrHNjaBSOO71L3tyH3Iz) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Sólo Tú](https://open.spotify.com/album/4CGAThyWRrQJ2P8TcHiUob) | 3:07 | 2023-01-30 |  |
+| [También de dolor se canta](https://open.spotify.com/track/5vLTaMcdh1Dix7hgVgmHpj) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [También de dolor se canta](https://open.spotify.com/album/3Sdg3x71MeUlOVRbBz4Hdl) | 3:28 | 2024-05-17 |  |
 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 | 2023-10-20 |  |
 | [Te Vi Partir](https://open.spotify.com/track/3tiiu0Znrc4UVqTE2lYAaB) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Marco di Mauro](https://open.spotify.com/artist/62x8NZZ2E8iLiCTNM7zWvK) | [Te Vi Partir](https://open.spotify.com/album/6sRBpHJRwbwEEN8LceDyX9) | 3:10 | 2022-02-16 | 2022-06-01 |
 | [Tengo Algo Que Decirte](https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG) | [Luz Pinos](https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM) | [Tengo Algo Que Decirte](https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A) | 3:26 | 2022-02-16 |  |
@@ -140,7 +141,7 @@
 | [Y SI SOMOS NOVIOS???](https://open.spotify.com/track/3IGNEoTp4uV1HtcvdfxrSL) | [PARDOPARDO](https://open.spotify.com/artist/4jK6qJJ6s34BziEutGFMra) | [Y SI SOMOS NOVIOS???](https://open.spotify.com/album/5qKUVvVIRgD3CBa2L0x0Go) | 2:33 | 2024-03-13 |  |
 | [Yo Esperaré](https://open.spotify.com/track/5nqfV6YFYiRx1docxwRolq) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Yo Esperaré](https://open.spotify.com/album/0yzD7GkfhEnulvW3JBD2JR) | 4:16 | 2023-06-30 | 2023-11-04 |
 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 | 2022-02-16 |  |
-| [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2024-05-17 |  |
+| [¿Para qué?](https://open.spotify.com/track/4o1tn1hhyL89pwWt8AulKS) | [Daphne Michelle](https://open.spotify.com/artist/0qYlCbqX7GZhoz1lAm2Ye8) | [¿Para qué?](https://open.spotify.com/album/5MhFgwyGtuEEO9cku8NJk7) | 3:40 | 2024-05-17 | 2024-05-24 |
 | [¿Quién Se Va?](https://open.spotify.com/track/58VZU1ToHakVT9RxtTsUns) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [¿Quién Se Va?](https://open.spotify.com/album/6A0s3zsUdYyn4kdeFpTsed) | 3:07 | 2022-02-16 |  |
 | [¿Qué Se Siente Que Me Gustes Tanto?](https://open.spotify.com/track/2BWao7MNRld2ucMxswvxaU) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:04 | 2022-02-16 | 2023-07-01 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Los nuevos clásicos para fiestear ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,040 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,061 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 11 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 12 | [Girls & Boys](https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Blur: The Best Of](https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x) | 4:19 |
 | 13 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 |
-| 14 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
-| 15 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 14 | [Maps](https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 3:39 |
+| 15 | [Waste A Moment](https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 3:03 |
 | 16 | [Ruby](https://open.spotify.com/track/2sgBTNHz9ckmqj3rx3ez4M) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3HiASm1Qj7CFwb4VHgsiM4) | 3:24 |
 | 17 | [Howlin' for You](https://open.spotify.com/track/4yffABDkB5A9flvr9vQFck) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:11 |
 | 18 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 42 | [The Skin of My Yellow Country Teeth](https://open.spotify.com/track/57rAvblBMBmdPBugRF1T77) | [Clap Your Hands Say Yeah](https://open.spotify.com/artist/1jSaZgaKHmgc7VTgML528r) | [Clap Your Hands Say Yeah](https://open.spotify.com/album/23pU48SJQenRgzDDek2bor) | 5:43 |
 | 43 | [Odessa](https://open.spotify.com/track/3D1P3oPecqAQy2u33gAhsM) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Swim](https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O) | 5:15 |
 | 44 | [Undercover Martyn](https://open.spotify.com/track/4zWH7gR2WtGbEFtPoCiqSR) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/4VX87XKcBRsxIU6Yri4PFC) | 2:47 |
-| 45 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
-| 46 | [Call Your Girlfriend](https://open.spotify.com/track/15hut9fX33giUAMyycwvsV) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 3:46 |
+| 45 | [Call Your Girlfriend](https://open.spotify.com/track/15hut9fX33giUAMyycwvsV) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0le9TO3kU69m6iWHTjNs9Y) | 3:46 |
+| 46 | [Pachuca Sunrise](https://open.spotify.com/track/1flWFiusGKhIaewrTnCYGO) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Menos El Oso](https://open.spotify.com/album/13nMzRLvgjY6boXNkN426H) | 3:35 |
 | 47 | [Tick Tick Boom](https://open.spotify.com/track/6tedQ1ZmbygqhbdcfJL7Xb) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Black And White Album](https://open.spotify.com/album/0kGG0cYU829iWwfpQFm6Ue) | 3:25 |
 | 48 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/6uV5q0yxaOujbxkwUCUEEf) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/album/2rkuPRtC7rZlcsOCwTmdpF) | 2:56 |
 | 49 | [The Girl and the Robot](https://open.spotify.com/track/6VCqx14OVaX9uwSvC0PvAG) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Junior](https://open.spotify.com/album/6vQMbwthchxuSioACn2hcE) | 4:28 |

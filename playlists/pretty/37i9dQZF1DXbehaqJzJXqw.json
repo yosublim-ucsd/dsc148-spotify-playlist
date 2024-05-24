@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 416298,
+  "num_followers": 416676,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Faites vous des amis",
-        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
-      },
-      "artists": [
-        {
-          "name": "LES ESCROCS",
-          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
-        }
-      ],
-      "duration_ms": 265426,
-      "name": "Assedic",
-      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "Paris Combo",
         "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 247666,
       "name": "On N'a Pas Besoin",
       "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Faites vous des amis",
+        "url": "https://open.spotify.com/album/47mKuDfXeUvPbNQ13GuVCu"
+      },
+      "artists": [
+        {
+          "name": "LES ESCROCS",
+          "url": "https://open.spotify.com/artist/3ZIhqzjKGPBtDlq3iR85N4"
+        }
+      ],
+      "duration_ms": 265426,
+      "name": "Assedic",
+      "url": "https://open.spotify.com/track/6rAH7LYZyxS026YWxYOqvA"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "La javanaise",
-        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
+        "name": "Fourteen",
+        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
       },
       "artists": [
         {
-          "name": "Livia Blanc",
-          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
+          "name": "Carol Welsman",
+          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
         }
       ],
-      "duration_ms": 121599,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
+      "duration_ms": 197480,
+      "name": "Plus je t'embrasse",
+      "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1083,18 +1083,18 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Fourteen",
-        "url": "https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X"
+        "name": "La javanaise",
+        "url": "https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO"
       },
       "artists": [
         {
-          "name": "Carol Welsman",
-          "url": "https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR"
+          "name": "Livia Blanc",
+          "url": "https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu"
         }
       ],
-      "duration_ms": 197480,
-      "name": "Plus je t'embrasse",
-      "url": "https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En"
+      "duration_ms": 121599,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/4RiomsjTG30IR5V72paigO"
     },
     {
       "added_at": "2024-03-20 07:39:51",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-03-20 07:39:51",
       "album": {
-        "name": "Dans la peau",
-        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
-      },
-      "artists": [
-        {
-          "name": "Cam\u00e9lia Jordana",
-          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
-        }
-      ],
-      "duration_ms": 132280,
-      "name": "Brigitte dit vrai",
-      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
-    },
-    {
-      "added_at": "2024-03-20 07:39:51",
-      "album": {
         "name": "A Fraction Of You",
         "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 217960,
       "name": "Les jeux sont faits",
       "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
+    },
+    {
+      "added_at": "2024-03-20 07:39:51",
+      "album": {
+        "name": "Dans la peau",
+        "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
+      },
+      "artists": [
+        {
+          "name": "Cam\u00e9lia Jordana",
+          "url": "https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7"
+        }
+      ],
+      "duration_ms": 132280,
+      "name": "Brigitte dit vrai",
+      "url": "https://open.spotify.com/track/4qhmktfBtfXGqb7G0GSjW3"
     },
     {
       "added_at": "2024-03-20 07:39:51",

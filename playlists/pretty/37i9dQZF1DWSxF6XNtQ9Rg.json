@@ -1,6 +1,6 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Lazza",
-  "num_followers": 208981,
+  "num_followers": 209051,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
@@ -819,26 +819,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Potere",
-        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
-      },
-      "artists": [
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Stamm Fort (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Sinatra",
         "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 211840,
       "name": "2% (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Potere",
+        "url": "https://open.spotify.com/album/5euEUUI8h8f2lWE5GMi2T1"
+      },
+      "artists": [
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Stamm Fort (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/7iTTQvztpfrDneVSX9IGBD"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
+        "name": "Suicidol",
+        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
+      },
+      "artists": [
+        {
+          "name": "Nitro",
+          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
+        }
+      ],
+      "duration_ms": 349560,
+      "name": "Pleasantville",
+      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 198066,
       "name": "CASA",
       "url": "https://open.spotify.com/track/2Cp5UNKv8yUO6ng4ZDflRY"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
-        "name": "Suicidol",
-        "url": "https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6"
-      },
-      "artists": [
-        {
-          "name": "Nitro",
-          "url": "https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP"
-        }
-      ],
-      "duration_ms": 349560,
-      "name": "Pleasantville",
-      "url": "https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Persona",
-        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
-      },
-      "artists": [
-        {
-          "name": "Marracash",
-          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
-        }
-      ],
-      "duration_ms": 230922,
-      "name": "CRUDELIA - I nervi",
-      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
-    },
-    {
-      "added_at": "2024-05-22 11:01:00",
-      "album": {
         "name": "Soldi in Nero (feat. Sfera Ebbasta)",
         "url": "https://open.spotify.com/album/6FQX7kuSlqfWWCPv24HPaH"
       },
@@ -1119,26 +1103,34 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu"
       },
       "artists": [
         {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "2nd Roof",
-          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
-        },
-        {
-          "name": "Vale Pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+          "name": "Marracash",
+          "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
         }
       ],
-      "duration_ms": 200213,
-      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
-      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
+      "duration_ms": 230922,
+      "name": "CRUDELIA - I nervi",
+      "url": "https://open.spotify.com/track/5dsz7MTrNdN9aMTrnp7sOG"
+    },
+    {
+      "added_at": "2024-05-22 11:01:00",
+      "album": {
+        "name": "Bellaria",
+        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+      },
+      "artists": [
+        {
+          "name": "Vegas Jones",
+          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+        }
+      ],
+      "duration_ms": 211518,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1179,18 +1171,26 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Bellaria",
-        "url": "https://open.spotify.com/album/68nhU5oObeTv5qNosFuVAD"
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
       "artists": [
         {
-          "name": "Vegas Jones",
-          "url": "https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp"
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "2nd Roof",
+          "url": "https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx"
+        },
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
         }
       ],
-      "duration_ms": 211518,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/08AN0HMXNr3DGGDCOWsTAw"
+      "duration_ms": 200213,
+      "name": "FEDELE AL QUARTIERE (feat. Vale Pain)",
+      "url": "https://open.spotify.com/track/1bCqybo9LtdhrNByWLHWx0"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1535,18 +1535,22 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
+        "name": "MM Vol. 2",
+        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
       },
       "artists": [
         {
-          "name": "Salmo",
-          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
+          "name": "MadMan",
+          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
+        },
+        {
+          "name": "Gemitaiz",
+          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
         }
       ],
-      "duration_ms": 205266,
-      "name": "LUNEDI'",
-      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
+      "duration_ms": 205125,
+      "name": "Veleno 6",
+      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
     },
     {
       "added_at": "2024-05-22 11:01:00",
@@ -1571,22 +1575,18 @@
     {
       "added_at": "2024-05-22 11:01:00",
       "album": {
-        "name": "MM Vol. 2",
-        "url": "https://open.spotify.com/album/1AvKiJ8VeVQHPQsMtwLYBr"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/5F6r4JU7TdqI8YOWzj6Fyn"
       },
       "artists": [
         {
-          "name": "MadMan",
-          "url": "https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX"
-        },
-        {
-          "name": "Gemitaiz",
-          "url": "https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK"
+          "name": "Salmo",
+          "url": "https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW"
         }
       ],
-      "duration_ms": 205125,
-      "name": "Veleno 6",
-      "url": "https://open.spotify.com/track/7GfXjqXD9aBvDoBdZ7EwPH"
+      "duration_ms": 205266,
+      "name": "LUNEDI'",
+      "url": "https://open.spotify.com/track/1VNARx6Sm6ZYAsDMCGiU1B"
     },
     {
       "added_at": "2024-05-22 11:01:00",

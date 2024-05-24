@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Juliet Ivy",
+  "description": "Current indie tunes from Asia and around the world. Cover: Clairo",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -346,6 +346,24 @@
       "duration_ms": 270875,
       "name": "5 to 8 Hours a Day (WWwaG)",
       "url": "https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe"
+    },
+    {
+      "album": {
+        "name": "5, 6, Sidekick",
+        "url": "https://open.spotify.com/album/5zc1RHBLSqFkKUsxYudf79"
+      },
+      "artists": [
+        {
+          "name": "Hilang Child",
+          "url": "https://open.spotify.com/artist/6W7HtQpeNPlDZ5eNv3xhDs"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237055,
+      "name": "5, 6, Sidekick",
+      "url": "https://open.spotify.com/track/5nBYRKwhyRw3jebutvXBu5"
     },
     {
       "album": {
@@ -2464,6 +2482,24 @@
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
+    },
+    {
+      "album": {
+        "name": "Beckham",
+        "url": "https://open.spotify.com/album/5ZYLn7QTjqaKzpAg1fEXRT"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207430,
+      "name": "Beckham",
+      "url": "https://open.spotify.com/track/1AURVCpSSc7w88q9Fvxu4e"
     },
     {
       "album": {
@@ -7091,6 +7127,28 @@
     },
     {
       "album": {
+        "name": "Stop Thinking Start Feeling",
+        "url": "https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        },
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162807,
+      "name": "Eating Heartache (feat. spill tab)",
+      "url": "https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS"
+    },
+    {
+      "album": {
         "name": "Echolalia",
         "url": "https://open.spotify.com/album/1wB9R3FzxA4LhrKF2tW11r"
       },
@@ -9188,7 +9246,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
@@ -10360,7 +10418,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237266,
       "name": "Hang In There",
       "url": "https://open.spotify.com/track/6AVxU4b0LAUVG1jkc6HFaN"
@@ -10378,7 +10436,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 218680,
       "name": "Hanging By A Moment",
       "url": "https://open.spotify.com/track/7gwMABXj9PBmNyVIAFQZsY"
@@ -13512,7 +13570,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199870,
       "name": "Knife Edge",
       "url": "https://open.spotify.com/track/53rYNxof2dWXRnH0bqKiQ2"
@@ -14877,6 +14935,24 @@
     },
     {
       "album": {
+        "name": "Lucy Takes a Picture",
+        "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259131,
+      "name": "Lucy Takes a Picture",
+      "url": "https://open.spotify.com/track/20vW1Ew2jU6mgOFrRZhUdN"
+    },
+    {
+      "album": {
         "name": "Luminous",
         "url": "https://open.spotify.com/album/001WORXD9jU5p2yIcfzHfd"
       },
@@ -15948,7 +16024,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 246886,
       "name": "Moments Die",
       "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
@@ -16175,6 +16251,24 @@
     },
     {
       "album": {
+        "name": "Museum of My Mess",
+        "url": "https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269048,
+      "name": "Museum of My Mess",
+      "url": "https://open.spotify.com/track/30beBjOCmvuAed4eT872rt"
+    },
+    {
+      "album": {
         "name": "music",
         "url": "https://open.spotify.com/album/74f2abiQasJUuM0HlRTjM8"
       },
@@ -16262,7 +16356,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 169693,
       "name": "My Best Friend Needs",
       "url": "https://open.spotify.com/track/460fiLttrlcZYSfc7c7Uus"
@@ -17246,6 +17340,24 @@
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7"
+    },
+    {
+      "album": {
+        "name": "No Problems",
+        "url": "https://open.spotify.com/album/3LZ6BvkB5SLs7PeyRyS89u"
+      },
+      "artists": [
+        {
+          "name": "Ginger Root",
+          "url": "https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224888,
+      "name": "No Problems",
+      "url": "https://open.spotify.com/track/5whkkXkOsCfRzUXe70AlpO"
     },
     {
       "album": {
@@ -19638,7 +19750,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 260484,
       "name": "projections",
       "url": "https://open.spotify.com/track/0ler9C55DJbLJsgJprlFis"
@@ -19714,6 +19826,24 @@
       "duration_ms": 185120,
       "name": "Psychos",
       "url": "https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p"
+    },
+    {
+      "album": {
+        "name": "PULL UP",
+        "url": "https://open.spotify.com/album/1brHIGC0EiM5onDMz2aCB9"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140143,
+      "name": "PULL UP",
+      "url": "https://open.spotify.com/track/35wqLh4Ht76d4YIUU2oNXq"
     },
     {
       "album": {
@@ -20010,6 +20140,24 @@
       "duration_ms": 142449,
       "name": "Rag",
       "url": "https://open.spotify.com/track/3iTvYySsyOjPVR3Oiw17Zq"
+    },
+    {
+      "album": {
+        "name": "Raining On Your Pillow",
+        "url": "https://open.spotify.com/album/35uymqTjUrltGX52KHDns8"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233000,
+      "name": "Raining On Your Pillow",
+      "url": "https://open.spotify.com/track/29ghl4sckPwUAv11krSaBg"
     },
     {
       "album": {
@@ -20421,6 +20569,24 @@
     },
     {
       "album": {
+        "name": "ringringring",
+        "url": "https://open.spotify.com/album/2gw8fYdm5Sxc1NCntLC7EH"
+      },
+      "artists": [
+        {
+          "name": "SURL",
+          "url": "https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "ringringring",
+      "url": "https://open.spotify.com/track/18jycfEb8t7gDaELRiVNac"
+    },
+    {
+      "album": {
         "name": "Thirst",
         "url": "https://open.spotify.com/album/2eLnAcGJgI4cdFlqjT25h1"
       },
@@ -20598,7 +20764,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160367,
       "name": "Rude Girl on Rotation",
       "url": "https://open.spotify.com/track/32Yyb6NbUsmieMqTL8MMyM"
@@ -21504,6 +21670,24 @@
       "duration_ms": 178590,
       "name": "Settle Down",
       "url": "https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe"
+    },
+    {
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
     },
     {
       "album": {
@@ -24365,6 +24549,24 @@
     },
     {
       "album": {
+        "name": "Songs For You",
+        "url": "https://open.spotify.com/album/3yOdRe8U9553nsc0GMmSQl"
+      },
+      "artists": [
+        {
+          "name": "FUR",
+          "url": "https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176059,
+      "name": "Take Anything You Want",
+      "url": "https://open.spotify.com/track/15dgUm6ZbCUpIXJWPjaOYq"
+    },
+    {
+      "album": {
         "name": "Take It Slow",
         "url": "https://open.spotify.com/album/4OX3swXsgAIbZ5xep0nhqc"
       },
@@ -24930,6 +25132,24 @@
       "duration_ms": 133222,
       "name": "The First Day - Acoustic",
       "url": "https://open.spotify.com/track/3vkTXmQIOv89wEVbh61ctO"
+    },
+    {
+      "album": {
+        "name": "The Goo",
+        "url": "https://open.spotify.com/album/76PdRpzuQWUzg17LoA9u4z"
+      },
+      "artists": [
+        {
+          "name": "FIG",
+          "url": "https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154346,
+      "name": "The Goo",
+      "url": "https://open.spotify.com/track/4tNggYnNT1qWzV1MzFZZRo"
     },
     {
       "album": {
@@ -25716,7 +25936,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 230079,
       "name": "Throw It In The Fire",
       "url": "https://open.spotify.com/track/6R8Y7KP9l1wmD5TLnXIrDJ"
@@ -26681,6 +26901,24 @@
     },
     {
       "album": {
+        "name": "undo",
+        "url": "https://open.spotify.com/album/3pFdWqWA2nsTC2te2Ohv9U"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208854,
+      "name": "undo",
+      "url": "https://open.spotify.com/track/0jS3y7nP0DQZ32JG80FqxV"
+    },
+    {
+      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/5uDxlFZNaC2r3nQbEIPzip"
       },
@@ -27446,7 +27684,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 177840,
       "name": "We Have Sex",
       "url": "https://open.spotify.com/track/4MvwfdgnZMq2Nlgg6ou99v"
@@ -28544,7 +28782,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 269189,
       "name": "Work",
       "url": "https://open.spotify.com/track/4Mwpfw9r64IBnq8czrEaFo"
@@ -28710,6 +28948,24 @@
       "duration_ms": 242906,
       "name": "Years On",
       "url": "https://open.spotify.com/track/1vuHmcfRwAFOVEq4ODsIIx"
+    },
+    {
+      "album": {
+        "name": "You (Show Me Where My Days Went)",
+        "url": "https://open.spotify.com/album/6cN6j2Fr5vVCSZnWQyqSSs"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167144,
+      "name": "You (Show Me Where My Days Went)",
+      "url": "https://open.spotify.com/track/3UIeiuDKnbhZ7OoXZ9j0U5"
     },
     {
       "album": {

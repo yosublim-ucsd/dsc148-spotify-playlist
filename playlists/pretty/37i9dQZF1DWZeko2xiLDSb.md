@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 
 > soundtrack those long, dark days with warm indie favourites
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,184 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,177 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 48 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 |
 | 49 | [snowfall \(Sped Up\)](https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [reidenshi](https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP) | [snowfall \(Sped Up\)](https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g) | 1:50 |
 | 50 | [Writer In The Dark](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) | 3:36 |
-| 51 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
-| 52 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
+| 51 | [I Need My Girl](https://open.spotify.com/track/50M7nY1oQuNHecs0ahWAtI) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/4OI9hKTm1QMRQunqHCfSSL) | 4:05 |
+| 52 | [Wasteland, Baby!](https://open.spotify.com/track/1HYnjKqSSHh1tdl2Hi57zH) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 4:26 |
 | 53 | [evermore \(feat\. Bon Iver\)](https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 5:04 |
 | 54 | [Bathroom Light](https://open.spotify.com/track/32xm5clCZkPPc7hdQRZjYQ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/3EP2uvI3t1m5UCCSA1iTtV) | 3:08 |
 | 55 | [I Got You, Honey](https://open.spotify.com/track/6GgWI2t7G0bgUzVoZDlM6R) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [EP](https://open.spotify.com/album/1ewyUvC97wRYnvK61UssDm) | 2:41 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 67 | [Aglow](https://open.spotify.com/track/5YICiSTdTX0y9wwA7CuNYh) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Aglow](https://open.spotify.com/album/4gYkP020jxh3sMb2l3ccj1) | 2:47 |
 | 68 | [Beige](https://open.spotify.com/track/5bs5GopDitBx9xjoHHRDoo) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/0rwRaoJxFBwrVzdGFMXYQ8) | 3:24 |
 | 69 | [Thérèse](https://open.spotify.com/track/4R7m6ZnA6GpuVikRKj2DGY) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [MOSS](https://open.spotify.com/album/53RbAh13qFqN6wKraRLipl) | 3:27 |
-| 70 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
-| 71 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
+| 70 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
+| 71 | [New York](https://open.spotify.com/track/5IXTT9RvcVupmzLTFqIInj) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 2:34 |
 | 72 | [Ruined](https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Ruined](https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA) | 4:32 |
 | 73 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
 | 74 | [The Parting Glass](https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Ye Vagabonds](https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO) | [The Parting Glass](https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO) | 4:11 |
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeko2xiLDSb.md) - [plain]
 | 91 | [Buddy's Rendezvous](https://open.spotify.com/track/1I5zEkyDQTJ6TeDxyXBSQ5) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 4:59 |
 | 92 | [paper thin](https://open.spotify.com/track/4NevvmFYtCLxRvhAcNVhOB) | [Nemahsis](https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f) | [eleven achers](https://open.spotify.com/album/5D2AToXPxIC5cBdbdOXHsM) | 3:06 |
 | 93 | [Couch Party](https://open.spotify.com/track/3cWTD0xf26hE018sK2S6Xh) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Skipping Stones](https://open.spotify.com/album/49ROkaQzglgB4NUYwY7j35) | 3:07 |
-| 94 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 |
-| 95 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
+| 94 | [Just Come Home with Me Tonight](https://open.spotify.com/track/5VekGA6wdqCOtPOyzD91xt) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 4:07 |
+| 95 | [A Case of You](https://open.spotify.com/track/3T0jdpgl4uKsHfYNI0r5Er) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Duvet Day Songs](https://open.spotify.com/album/1lMRhtNybZjQXMRwlMaSEO) | 4:23 |
 | 96 | [Consolation Prize](https://open.spotify.com/track/3QeznxbfXEQAy7BnYAqjGN) | [Ken Yates](https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [Cerulean](https://open.spotify.com/album/6ItTL1YLeVn87SfJscm1KW) | 4:00 |
 | 97 | [Without Warning](https://open.spotify.com/track/0PTYNosRcem1jpR2AAFwrs) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [The Love Still Held Me Near](https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym) | 5:20 |
 | 98 | [The Efferusphere](https://open.spotify.com/track/410Dyzp3pMS7ubsGugH5oC) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MLFaUdXnjA.md) - [plain]
 
 > Keeping it lowkey with the best chill pop\. Cover: ZAYN
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,811,159 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,811,261 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

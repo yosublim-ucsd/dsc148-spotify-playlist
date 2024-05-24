@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Masayoshi Fujita on cover.
 
-252 songs - 18 hr 40 min
+253 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Liberty](https://open.spotify.com/track/2pv4n0WhR3f0IayyG0lc4z) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Envision](https://open.spotify.com/album/2lnwd16ApEAAJ0GNqH7SNq) | 2:39 | 2022-01-07 |  |
 | [Life, Life](https://open.spotify.com/track/63MjNIL7Jsz6uqqE39YCFr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/55BwNuGPkSSKOCBkTSCQWA) | 4:23 | 2022-01-07 |  |
 | [LIFE, LIFE](https://open.spotify.com/track/7npQjukEKQQYiqSWtqeCvW) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [async](https://open.spotify.com/album/2OKN3NwlITzfVpDJecA4Z3) | 4:23 | 2022-07-22 | 2024-04-19 |
+| [light seeing 3\-3](https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [hikari umi](https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF) | 3:14 | 2024-05-23 |  |
 | [Look At My Snowman](https://open.spotify.com/track/4vHHYqYkDDuf8SZnraMjXV) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 4:24 | 2022-02-22 |  |
 | [Lost](https://open.spotify.com/track/7bwj1PDvfKqa0AvAhK9bwN) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 2:42 | 2022-01-07 |  |
 | [Lotusland](https://open.spotify.com/track/0XK0t54tahEMTfvSf73iUu) | [Kazuma Okabayashi](https://open.spotify.com/artist/5wERxGUf4rAPnGdfLDrewa) | [Arcadia](https://open.spotify.com/album/6gy6mL4HSYzlYFgumVCdYK) | 4:40 | 2022-01-07 | 2023-08-19 |

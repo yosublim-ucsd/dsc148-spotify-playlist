@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Solo artistas independientes, actualizada todos los miércoles\. Foto: HugoJugo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,588 likes - 59 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,612 likes - 59 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 33 | [Salon blindado](https://open.spotify.com/track/2rqOAGLOvrNMX0ds5qAR6q) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr) | [Salon blindado](https://open.spotify.com/album/3CWoOJg1Qozvb7jaE12jFK) | 3:42 |
 | 34 | [Mayos](https://open.spotify.com/track/6NTRjh53LKy9J0gq17kgCa) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Mayos](https://open.spotify.com/album/4GOxWrQs6D8fec8hAXq1Bv) | 4:21 |
 | 35 | [Donde duele cura](https://open.spotify.com/track/2ZRSwFJSUgnrRhuxg7I0GR) | [Martha Carpe](https://open.spotify.com/artist/0BkFoZfETxylQTDNjmOIRe) | [Donde duele cura](https://open.spotify.com/album/2w9mrldHQ8QwnGqww8fT8b) | 1:54 |
-| 36 | [TU TÁS + DURA](https://open.spotify.com/track/59yKVaT3ox7YnCo12IgMxz) | [Diego The Kid](https://open.spotify.com/artist/6N9rIBttn7OXQG6Us6pxv9) | [TU TÁS + DURA](https://open.spotify.com/album/2k26WEAZX5h7THhF0X3gGj) | 2:50 |
+| 36 | [TÚ TÁS + DURA](https://open.spotify.com/track/59yKVaT3ox7YnCo12IgMxz) | [Diego The Kid](https://open.spotify.com/artist/6N9rIBttn7OXQG6Us6pxv9) | [TÚ TÁS + DURA](https://open.spotify.com/album/2k26WEAZX5h7THhF0X3gGj) | 2:50 |
 | 37 | [AMB\_2](https://open.spotify.com/track/4sqCwiU3QysRPdWmYzgUz6) | [Adrien Broadway](https://open.spotify.com/artist/2cUG4j4K3Im4D79kIefDl5) | [AMB\_2](https://open.spotify.com/album/1cje6Sx6Qxjm2TaOhtO7vf) | 2:36 |
 | 38 | [Basta](https://open.spotify.com/track/4Qlv3gV3Oj6KDx3uJidlFM) | [GLAZIAR](https://open.spotify.com/artist/4cQ9Kk5VQHhqQXwZtpxI3G) | [Basta](https://open.spotify.com/album/4LRsskhvI17pLhD8qEY34j) | 3:47 |
 | 39 | [ADR](https://open.spotify.com/track/0cpxA2Xfk48ZXUoxJRgiZz) | [Burdeos](https://open.spotify.com/artist/7cr0BoLNRJqGuloE0R8E4G) | [Cuando No Puedes Dormir](https://open.spotify.com/album/6w6dSg5rK6LJ3BumtbdcSa) | 3:38 |

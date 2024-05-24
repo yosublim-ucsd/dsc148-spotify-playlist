@@ -739,6 +739,28 @@
     },
     {
       "album": {
+        "name": "Billions",
+        "url": "https://open.spotify.com/album/2BwLuz9L140VU4vu1bMvV2"
+      },
+      "artists": [
+        {
+          "name": "Sarz",
+          "url": "https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224003,
+      "name": "Billions",
+      "url": "https://open.spotify.com/track/06KTlwAvk8ioxuSpHZISoc"
+    },
+    {
+      "album": {
         "name": "Blood, Sweat & Tears (with Bas & Black Sherif feat. Kel-P)",
         "url": "https://open.spotify.com/album/5MoByp7KkxmWqP0qTICrTV"
       },
@@ -1177,6 +1199,28 @@
     },
     {
       "album": {
+        "name": "Disconnect (feat. Marioo)",
+        "url": "https://open.spotify.com/album/5mMzFbsinhdB2lCXOwKc1j"
+      },
+      "artists": [
+        {
+          "name": "Harmonize",
+          "url": "https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL"
+        },
+        {
+          "name": "Marioo",
+          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Disconnect (feat. Marioo)",
+      "url": "https://open.spotify.com/track/5QH75Csj5dy5eJA66cyOZ4"
+    },
+    {
+      "album": {
         "name": "Don't Stress Me",
         "url": "https://open.spotify.com/album/182d8u0WRY0NorZrjemzXX"
       },
@@ -1462,7 +1506,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173822,
       "name": "Falling In Love",
       "url": "https://open.spotify.com/track/1qTgKEsfJplWlcJopKjN6O"
@@ -5072,7 +5116,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 161111,
       "name": "Yo Fam!",
       "url": "https://open.spotify.com/track/3bo6O0oUgrE3V2wqdzQKuE"

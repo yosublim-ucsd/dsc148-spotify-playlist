@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 
 > Cold beer\. Hot wings\. Great rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 583,226 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,244 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 47 | [Thrash Unreal](https://open.spotify.com/track/3c3XnCPwxGhQEHFxxjQcWe) | [Against Me!](https://open.spotify.com/artist/29lz7gs8edwnnfuXW4FhMl) | [New Wave \(U.S\. Version\)](https://open.spotify.com/album/08IrBeiM2LU3HAqAaHQcQq) | 4:14 |
 | 48 | [Good Old Days](https://open.spotify.com/track/3ycnLH0vm7D9K2QHA4cAnq) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Pour It Out Into The Night](https://open.spotify.com/album/20ywcUH2pPpMThaHW1glPK) | 4:22 |
 | 49 | [Apple Pie](https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw) | [Rafferty](https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ) | [Apple Pie](https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2) | 2:59 |
-| 50 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
-| 51 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
+| 50 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
+| 51 | [Shiner In The Dark](https://open.spotify.com/track/0zSSanWJnvCX5xHawmMKa9) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Back To The Water Below](https://open.spotify.com/album/4B9IAqwQaPYHQi7kJcpPFQ) | 3:27 |
 | 52 | [Run Away With Me](https://open.spotify.com/track/459hV1lf1Ia1ofPdYDZQVs) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Cold War Kids](https://open.spotify.com/album/5pBiNV0jWUlQtd40ir524c) | 3:12 |
 | 53 | [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 |
 | 54 | [Death By Rock And Roll](https://open.spotify.com/track/6ISZ6sKcNBdYJS7XYHm5cV) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 3:54 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 67 | [Pages](https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Asking For A Ride](https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK) | 2:34 |
 | 68 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 |
 | 69 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
-| 70 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
-| 71 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
+| 70 | [How High](https://open.spotify.com/track/0UqNIatgH3yQrJwqajOM2G) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Play Loud](https://open.spotify.com/album/4OAf7UEfzLBKjnoWIFkALk) | 3:12 |
+| 71 | [Won't Take Me Alive](https://open.spotify.com/track/18zG4sti0gnHNnobLOBjmr) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Won't Take Me Alive](https://open.spotify.com/album/61L8HA9oZG28YcsN8vW5Wv) | 3:45 |
 | 72 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 |
 | 73 | [Rebel Heart](https://open.spotify.com/track/3Pc4BTWoH6x0PmeGfQzn5a) | [The Shelters](https://open.spotify.com/artist/7LrFQFaZaxfa9deqkjvc89) | [The Shelters](https://open.spotify.com/album/451kD1EliOug21dypPYnMn) | 3:58 |
 | 74 | ["Filthy"](https://open.spotify.com/track/2KkglYERoV6dGi9ME4iYsw) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | ["Filthy"](https://open.spotify.com/album/0Br6de1bBO1f2FStNS2Vl5) | 3:01 |
@@ -87,14 +87,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXauOWFg72pbl.md) - [plain]
 | 77 | [Song 2](https://open.spotify.com/track/0YZLy2PSpOA7Nw2Yg0Hfxa) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Best Of](https://open.spotify.com/album/1fGFAIzXyLi3fVGQwZ1VNT) | 2:01 |
 | 78 | [Quick Escape](https://open.spotify.com/track/3FoykAESe8MNT69DpM6B4c) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Quick Escape](https://open.spotify.com/album/1hiDXsDWyQkChURbrmdgsY) | 4:46 |
 | 79 | [Gold Confetti](https://open.spotify.com/track/0sapiklqQFuc0feYf5lBGV) | [The Pink Spiders](https://open.spotify.com/artist/0UREuWUT6wPZoL1Gglwmm0) | [Freakazoid](https://open.spotify.com/album/393CAil0sINecjquYtN6aF) | 3:23 |
-| 80 | [Ain’t Lookin’](https://open.spotify.com/track/21cyIowSvYSPaqeUyTaIpX) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Alvarado](https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT) | 3:22 |
-| 81 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
+| 80 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
+| 81 | [Ain’t Lookin’](https://open.spotify.com/track/21cyIowSvYSPaqeUyTaIpX) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Alvarado](https://open.spotify.com/album/02BIOZh9bc6UpsKAwY8tyT) | 3:22 |
 | 82 | [Mood Swings](https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Mood Swings](https://open.spotify.com/album/4vrG1J4J6h0Sfmq0YdUWUd) | 3:25 |
 | 83 | [Sweet Emotion](https://open.spotify.com/track/24NwBd5vZ2CK8VOQVnqdxr) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Toys In The Attic](https://open.spotify.com/album/36IxIOGEBAXVozDSiVs09B) | 4:34 |
 | 84 | [Shakin' Off The Rust](https://open.spotify.com/track/0Aergaee1PD3zbWcjxcUJl) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Shakin' Off The Rust](https://open.spotify.com/album/1QJSy2Unc4j50ibbiO2DXQ) | 3:42 |
 | 85 | [Survivor](https://open.spotify.com/track/4xdUk9rp5wOd3ZLwwNfjwd) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Survivor](https://open.spotify.com/album/7zsfcfnaarayjDTB4KBRDV) | 4:02 |
-| 86 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 |
-| 87 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |
+| 86 | [The Rush](https://open.spotify.com/track/2w1PqXuQG6Fjum7259GzO8) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Ruthless](https://open.spotify.com/album/4A9EmspHpAoSVjzYm2U9WM) | 3:07 |
+| 87 | [Don’t Back Down](https://open.spotify.com/track/1RYI0fqfKDuLi8e4B9XwSe) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Don't Back Down](https://open.spotify.com/album/6nseS1XlNg1bPVN4vXADWB) | 3:45 |
 | 88 | [Coming for You](https://open.spotify.com/track/1SZoPX6yKcuejHQ49DtDxr) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Coming for You](https://open.spotify.com/album/6xCfzQCNkmhkyq55rtvzYr) | 3:49 |
 | 89 | [Night People](https://open.spotify.com/track/3MHQIhSrgQsFYLo6JLioDX) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Night People](https://open.spotify.com/album/5eBbhy3VsZGEO4objsrmZg) | 3:03 |
 | 90 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 |

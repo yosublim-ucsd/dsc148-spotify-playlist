@@ -1,6 +1,6 @@
 {
   "description": "Swinging jazz for relaxing and unwinding.",
-  "num_followers": 76698,
+  "num_followers": 76766,
   "original_name": "Chill Out Jazz",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Worry and Gossip",
-        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
-      },
-      "artists": [
-        {
-          "name": "Courtney Salas Group",
-          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
-        }
-      ],
-      "duration_ms": 221392,
-      "name": "Worry and Gossip",
-      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "All The Sunsets",
         "url": "https://open.spotify.com/album/3fPBnVnETDCjBgytUK8vjE"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 220650,
       "name": "All The Sunsets",
       "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Worry and Gossip",
+        "url": "https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV"
+      },
+      "artists": [
+        {
+          "name": "Courtney Salas Group",
+          "url": "https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7"
+        }
+      ],
+      "duration_ms": 221392,
+      "name": "Worry and Gossip",
+      "url": "https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Out of Wilma",
-        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
-      },
-      "artists": [
-        {
-          "name": "Annie Berenson",
-          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
-        }
-      ],
-      "duration_ms": 169612,
-      "name": "Out of Wilma",
-      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Love To Be Happy",
         "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 195276,
       "name": "Love To Be Happy",
       "url": "https://open.spotify.com/track/3wMe1lySKxJeH9iMWXDqgx"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Out of Wilma",
+        "url": "https://open.spotify.com/album/1xHX7TFDWntXbStEw02s5Y"
+      },
+      "artists": [
+        {
+          "name": "Annie Berenson",
+          "url": "https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay"
+        }
+      ],
+      "duration_ms": 169612,
+      "name": "Out of Wilma",
+      "url": "https://open.spotify.com/track/3al4xzBnTjTpcnZsfRiE0y"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Glencoe Sketches",
-        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
-      },
-      "artists": [
-        {
-          "name": "Saphena Trio",
-          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
-        }
-      ],
-      "duration_ms": 261316,
-      "name": "Glencoe Sketches",
-      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Storvindeln",
         "url": "https://open.spotify.com/album/1EjiRshKRMV9tGaT2q5Qzr"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216670,
       "name": "Storvindeln",
       "url": "https://open.spotify.com/track/51JcTTZu3LG8aDEXBA4XzV"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Glencoe Sketches",
+        "url": "https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C"
+      },
+      "artists": [
+        {
+          "name": "Saphena Trio",
+          "url": "https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd"
+        }
+      ],
+      "duration_ms": 261316,
+      "name": "Glencoe Sketches",
+      "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Sally Waits",
-        "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
-      },
-      "artists": [
-        {
-          "name": "Three Four Trio",
-          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
-        }
-      ],
-      "duration_ms": 158645,
-      "name": "Forget About It, Al",
-      "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Moved by Performance",
         "url": "https://open.spotify.com/album/51ooDFroTRMYe2lM2hhjfn"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 158698,
       "name": "Moved by Performance",
       "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Sally Waits",
+        "url": "https://open.spotify.com/album/3RE35ZGRfHOijqNBtePVJz"
+      },
+      "artists": [
+        {
+          "name": "Three Four Trio",
+          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
+        }
+      ],
+      "duration_ms": 158645,
+      "name": "Forget About It, Al",
+      "url": "https://open.spotify.com/track/53ITTs99tI13zcMBjdQpoB"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Muddy Trail",
-        "url": "https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J"
-      },
-      "artists": [
-        {
-          "name": "The Three Queens",
-          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
-        }
-      ],
-      "duration_ms": 220879,
-      "name": "Muddy Trail",
-      "url": "https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Rue Cr\u00e9mieux",
         "url": "https://open.spotify.com/album/31veFoscAjzxxGosNo2DaO"
       },
@@ -1387,22 +1371,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Mancuso's Joint",
-        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
-      },
-      "artists": [
-        {
-          "name": "Norris Walker Trio",
-          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
-        }
-      ],
-      "duration_ms": 258836,
-      "name": "Mancuso's Joint",
-      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/0YBqRnGxHoCnuEcgdtNLs1"
       },
@@ -1415,6 +1383,38 @@
       "duration_ms": 204083,
       "name": "Candy",
       "url": "https://open.spotify.com/track/1Eh0sGvTxDYx13pE2PBpEn"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Muddy Trail",
+        "url": "https://open.spotify.com/album/0mQjoCyVFtEqpTbNjahd8J"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "duration_ms": 220879,
+      "name": "Muddy Trail",
+      "url": "https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Mancuso's Joint",
+        "url": "https://open.spotify.com/album/4lNWtfpQzNsLIVvYy8kSgF"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "duration_ms": 258836,
+      "name": "Mancuso's Joint",
+      "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1515,18 +1515,18 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "I\u2019ll pass it on",
-        "url": "https://open.spotify.com/album/5TaXOrq4aq7T4CtyfB6nbB"
+        "name": "Live Off The Juice",
+        "url": "https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA"
       },
       "artists": [
         {
-          "name": "Meadowpoints",
-          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
+          "name": "Garry Cooper Trio",
+          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
         }
       ],
-      "duration_ms": 214635,
-      "name": "I\u2019ll pass it on",
-      "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
+      "duration_ms": 202207,
+      "name": "Live Off The Juice",
+      "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1547,34 +1547,18 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Live Off The Juice",
-        "url": "https://open.spotify.com/album/4h1h2Wb9Q8FGElrdovvgHA"
+        "name": "I\u2019ll pass it on",
+        "url": "https://open.spotify.com/album/5TaXOrq4aq7T4CtyfB6nbB"
       },
       "artists": [
         {
-          "name": "Garry Cooper Trio",
-          "url": "https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q"
+          "name": "Meadowpoints",
+          "url": "https://open.spotify.com/artist/3EJ5w7wMNM0ZVOKFBaRp4J"
         }
       ],
-      "duration_ms": 202207,
-      "name": "Live Off The Juice",
-      "url": "https://open.spotify.com/track/7tRueocYJ2FyjtLbHBOZlz"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE"
-      },
-      "artists": [
-        {
-          "name": "The Headliner Trio",
-          "url": "https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7"
-        }
-      ],
-      "duration_ms": 193188,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY"
+      "duration_ms": 214635,
+      "name": "I\u2019ll pass it on",
+      "url": "https://open.spotify.com/track/0AqWzQ2SwrckgIFTqHNbpM"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1591,6 +1575,22 @@
       "duration_ms": 197253,
       "name": "Dreams About Change",
       "url": "https://open.spotify.com/track/1TPGqUM9ZzAfAv9FP4PtQN"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/0RYhx1VMQSMnmawwALlTCE"
+      },
+      "artists": [
+        {
+          "name": "The Headliner Trio",
+          "url": "https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7"
+        }
+      ],
+      "duration_ms": 193188,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/7iY29GCGYy8mSaY22eM8NY"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -1995,22 +1995,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "On 14th Street",
-        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
-      },
-      "artists": [
-        {
-          "name": "James Jackson Jazz Trio",
-          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
-        }
-      ],
-      "duration_ms": 176896,
-      "name": "On 14th Street",
-      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Now that we are here",
         "url": "https://open.spotify.com/album/4rzLnj1bsRZNq3MDEr6Hh8"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 158481,
       "name": "Blue Room",
       "url": "https://open.spotify.com/track/5zKKV21UiQK7lSLEZCm7NS"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "On 14th Street",
+        "url": "https://open.spotify.com/album/7mJ4Ph8u0xKvVMyx15KyJo"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "duration_ms": 176896,
+      "name": "On 14th Street",
+      "url": "https://open.spotify.com/track/0WYwVCkmXls0rYnZrruAX4"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
-      },
-      "artists": [
-        {
-          "name": "Elvine Harley",
-          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
-        }
-      ],
-      "duration_ms": 201932,
-      "name": "Street Of Dreams",
-      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "Through The Years",
         "url": "https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 236931,
       "name": "Through The Years",
       "url": "https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/7v179YsGamYrzsQIcGPa5U"
+      },
+      "artists": [
+        {
+          "name": "Elvine Harley",
+          "url": "https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY"
+        }
+      ],
+      "duration_ms": 201932,
+      "name": "Street Of Dreams",
+      "url": "https://open.spotify.com/track/0pHhyUsES9pfUhQl0uGCZO"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Dream you're chasing",
-        "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
-      },
-      "artists": [
-        {
-          "name": "Pimm's Trio",
-          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
-        }
-      ],
-      "duration_ms": 150903,
-      "name": "Dream you're chasing",
-      "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
-    },
-    {
-      "added_at": "2024-03-20 09:06:19",
-      "album": {
         "name": "My Lonely Days Are Over",
         "url": "https://open.spotify.com/album/6cHr3pZ7P9eQHuRcpLH0H9"
       },
@@ -2359,6 +2343,22 @@
       "duration_ms": 230681,
       "name": "My Lonely Days Are Over",
       "url": "https://open.spotify.com/track/3A2U0deukLyVDP7IMDPk5K"
+    },
+    {
+      "added_at": "2024-03-20 09:06:19",
+      "album": {
+        "name": "Dream you're chasing",
+        "url": "https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL"
+      },
+      "artists": [
+        {
+          "name": "Pimm's Trio",
+          "url": "https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF"
+        }
+      ],
+      "duration_ms": 150903,
+      "name": "Dream you're chasing",
+      "url": "https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua"
     },
     {
       "added_at": "2024-03-20 09:06:19",
@@ -2395,18 +2395,18 @@
     {
       "added_at": "2024-03-20 09:06:19",
       "album": {
-        "name": "Ducks for cover",
-        "url": "https://open.spotify.com/album/4sbUuCDayRl0uaF92eUquz"
+        "name": "One Day We'll Meet Again",
+        "url": "https://open.spotify.com/album/0Fm7XBtV5rD5RUDauVeNC3"
       },
       "artists": [
         {
-          "name": "Reuben Plays",
-          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+          "name": "Will Rivers Trio",
+          "url": "https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD"
         }
       ],
-      "duration_ms": 160589,
-      "name": "Ducks for cover",
-      "url": "https://open.spotify.com/track/4oECG5mUxW51Nh3U6iOdrc"
+      "duration_ms": 240714,
+      "name": "One Day We'll Meet Again",
+      "url": "https://open.spotify.com/track/3EPOmVwYPGqKVaY6nQagAk"
     }
   ],
   "unique_name": "Chill Out Jazz",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 
 > Planta de la bugambilia que me cubres y me matas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,731 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,755 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd00BhHoAEOB.md) - [plain]
 | 22 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
 | 23 | [Las Flores](https://open.spotify.com/track/1xQqAdL14WHwCUoCqwBVjk) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ciencia Exacta](https://open.spotify.com/album/4n65tDbR2iIn5e9jgo9Zwv) | 2:38 |
 | 24 | [El lugar correcto](https://open.spotify.com/track/3G6XpCfczuhbTSBlgfqe9v) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 3:51 |
-| 25 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
-| 26 | [Llévame en un Beso](https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Película Muda, Pt\. 2](https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW) | 5:03 |
-| 27 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 25 | [Llévame en un Beso](https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Película Muda, Pt\. 2](https://open.spotify.com/album/1wWEK9zctGZ9o6YBq3ysJW) | 5:03 |
+| 26 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 |
+| 27 | [El Jardin](https://open.spotify.com/track/73eUiyq2OGr7JtOmgbyMxj) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [8 Años](https://open.spotify.com/album/3d1utyj80pLW7lVZa19pIP) | 3:20 |
 | 28 | [María](https://open.spotify.com/track/18T2uIJteJ7o1W8XLFRpaN) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Café Tacvba](https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr) | 3:51 |
 | 29 | [De Momento Abril](https://open.spotify.com/track/1kjJLQhV2NDCWCf0ParWAJ) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:04 |
 | 30 | [Piensa en mí](https://open.spotify.com/track/794LRMm5vapB2wM0pKzPuT) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [A Contraluz](https://open.spotify.com/album/3YU2xPZsi4hq3psgarabmD) | 4:29 |

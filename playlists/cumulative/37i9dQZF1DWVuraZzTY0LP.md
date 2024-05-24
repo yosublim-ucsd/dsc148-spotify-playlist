@@ -4,7 +4,7 @@
 
 > Lo más alternativo para una mamá muy mo\-der\-na.
 
-461 songs - 1 day 3 hr 42 min
+462 songs - 1 day 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,7 +161,7 @@
 | [Gran Hotel](https://open.spotify.com/track/19MPVMdwr8TOAg5hEcxZWS) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [The Other Side Of Make\-Believe](https://open.spotify.com/album/0P1hdnE62qqoPJZYIZSZn2) | 4:04 | 2022-07-19 | 2022-10-08 |
 | [hasta dónde se enamora](https://open.spotify.com/track/67pFIQQ7uCOV3lZak8e1aV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 2:47 | 2023-02-20 | 2023-03-11 |
 | [Heart To Heart](https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Here Comes The Cowboy](https://open.spotify.com/album/67PsnkYVPNpEsZffyTWGgW) | 3:31 | 2023-01-20 |  |
-| [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-07-28 |  |
+| [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-07-28 | 2024-05-24 |
 | [Heavy](https://open.spotify.com/track/4rf6Lpnej26aSNdYSiPF2n) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Your Smith](https://open.spotify.com/artist/2kTZfKGZEj8R76z3ooKOF1) | [FOREVER](https://open.spotify.com/album/6kzRU9QtsTrhlObao5Eb3t) | 3:22 | 2022-10-14 | 2022-11-13 |
 | [Hellbound](https://open.spotify.com/track/2Tx3e4tOlmiTs6mTa9aIdz) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Pod](https://open.spotify.com/album/0xx56m5AMEIMZlSjdJwxf5) | 2:21 | 2023-02-20 | 2023-03-11 |
 | [HENTAI](https://open.spotify.com/track/4kroNlz8BTfswE4M0i3YCh) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:42 | 2023-02-20 | 2023-03-11 |
@@ -269,6 +269,7 @@
 | [Never Said \- Remastered](https://open.spotify.com/track/1iOJzlWm2p8NOFYVHGGgq1) | [Liz Phair](https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74) | [Exile In Guyville](https://open.spotify.com/album/7sCpW2cLGcRk1zf9zi0Yqd) | 3:16 | 2023-02-20 | 2023-03-11 |
 | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\)](https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC) | 3:35 | 2022-09-09 |  |
 | [New Utensils](https://open.spotify.com/track/4TW6a1UPSAfzK1f11aJLK9) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:17 | 2023-05-10 | 2023-05-16 |
+| [Next Semester](https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Next Semester](https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl) | 3:54 | 2024-05-24 |  |
 | [No Confíes En Mí](https://open.spotify.com/track/2C4ry4RRCEUGm6PJX3yY8x) | [Camilo Séptimo](https://open.spotify.com/artist/6hQHiviB4JUWVmfykjYzcB) | [No Confíes En Mí](https://open.spotify.com/album/4JDJi3wnYsLnD1xOTMUUbg) | 4:09 | 2022-04-18 | 2022-07-12 |
 | [No Me Provoques](https://open.spotify.com/track/1SMw2ZiOmzU9xogXlBS4Nq) | [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [No Me Provoques](https://open.spotify.com/album/7etvFe4PKI8GYRNVsAIcND) | 4:36 | 2022-04-18 | 2022-07-29 |
 | [No You Girls](https://open.spotify.com/track/37CBHPCzV1rizPrxRUyR72) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Tonight: Franz Ferdinand](https://open.spotify.com/album/1dZ2vgrL0RDIIfrK9mwsCe) | 3:40 | 2022-07-11 | 2022-07-22 |

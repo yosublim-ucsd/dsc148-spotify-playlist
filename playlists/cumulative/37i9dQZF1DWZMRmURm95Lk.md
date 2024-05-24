@@ -4,7 +4,7 @@
 
 > Beat e rime, oggi come una volta\. Jack The Smoker e Big Joe in cover.
 
-427 songs - 1 day 0 hr 40 min
+429 songs - 1 day 0 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-13 |
 | [90](https://open.spotify.com/track/0rD8H43oOmGqkSPIZVw3QF) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/2Z2Wr8hldKixUCF6bs7wv1) | 2:43 | 2023-05-25 |  |
 | [90](https://open.spotify.com/track/28jLZFleUGkmg036G819TD) | [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Kaos](https://open.spotify.com/artist/0eQhM2KCPj2YtYQVJ3Vw1r), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Sacrosanto](https://open.spotify.com/album/1wEC3xWDlnrVFDffRQ4k69) | 2:43 | 2023-11-02 | 2024-01-19 |
+| [A Fuoco Lento](https://open.spotify.com/track/36IGdOR39oMQk2vvmZ4sPW) | [Fid Mella](https://open.spotify.com/artist/6L0h3FSm3LQSwyIMxpeXgp), [Zonta](https://open.spotify.com/artist/2OkeK9hCejCVIvGB403OVA), [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [A Fuoco Lento](https://open.spotify.com/album/1JUQVLZDUMSWRSvVNleY05) | 1:36 | 2024-05-23 |  |
 | [Ad occhi chiusi](https://open.spotify.com/track/2NL4SJrNUrIrut27M8dzfH) | [Murubutu](https://open.spotify.com/artist/1UAY1hWd5x69hPVXMXIeri), [Elisa Aramonte](https://open.spotify.com/artist/5Efzydj4oroqNB3yAYBObl) | [Ad occhi chiusi](https://open.spotify.com/album/4MIDqncZlxZ1ZzfUQM1QvJ) | 3:45 | 2022-09-22 | 2023-10-25 |
 | [Aeroplani](https://open.spotify.com/track/5NsgyJVNfyKaMhOMGZQmGM) | [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Disco Inverno](https://open.spotify.com/album/7ahoWKetSziBPjNTbs9xLe) | 3:09 | 2024-04-25 |  |
 | [Africa Twin \(feat\. Don Joe\)](https://open.spotify.com/track/0JsLTmbvK0oL7k6WhDaWJM) | [Lucariello](https://open.spotify.com/artist/1pv59RDMxb8WKREVPpLDK9), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [Innocente](https://open.spotify.com/album/2DOOcX6j2vj5ocfRYq7JTR) | 2:48 | 2023-03-30 | 2023-07-07 |
@@ -294,6 +295,7 @@
 | [Parole](https://open.spotify.com/track/7FolleE9nQtP7E4SGKv8HN) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q) | [Parole](https://open.spotify.com/album/53SRzZgaYzxgbTxAz6at37) | 3:49 | 2022-05-12 |  |
 | [Parte Di Me](https://open.spotify.com/track/1K4YHU1UIslTH0h55yRa4b) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa), [Mecna](https://open.spotify.com/artist/4yUvIAm9mSJyLt1WLrOxAZ) | [Qualcosa è cambiato](https://open.spotify.com/album/01ckjYfHeUMxArE52Ufwab) | 3:27 | 2024-04-25 |  |
 | [Per tutti](https://open.spotify.com/track/6ohpYadq50CPaaOjlf2kZ2) | [Egreen](https://open.spotify.com/artist/4CSFu5TxKb1Z2GeO1LxZU4), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz) | [Per tutti](https://open.spotify.com/album/2DiVJmLYqja74At96xDHqJ) | 2:49 | 2023-03-30 | 2023-04-28 |
+| [Peri Peri](https://open.spotify.com/track/7Hi2almjxtGgAjODubaHEC) | [Armani Doc](https://open.spotify.com/artist/7djBWDVQvjaDbC8rSilpLC), [ThinkFast](https://open.spotify.com/artist/0zY3rKlVW1d0tMW7gZyX3T), [Lenor](https://open.spotify.com/artist/5jllsNs4FazgVJGSgm9oep) | [IDDU](https://open.spotify.com/album/5Gb0UlQfDweq4HU5k81qtL) | 2:40 | 2024-05-23 |  |
 | [Petra.](https://open.spotify.com/track/48xtEcLKPcXlYdlPZJTeVs) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Kaizén](https://open.spotify.com/artist/7K8Z773fJViM0yXQ8xmpsW) | [Petra.](https://open.spotify.com/album/5cRhODEj0eIKDJXsHp1D4O) | 2:45 | 2022-12-01 | 2023-02-03 |
 | [Pezzi sparsi](https://open.spotify.com/track/1ps5LD9MCffeLAaneaVQDG) | [Eclectic Witches](https://open.spotify.com/artist/0FBrNrWKtC3WZgCsuckZR2), [LoneWolf](https://open.spotify.com/artist/09XnkGwE0de4hKvHdllajf), [O.K.O\. project](https://open.spotify.com/artist/744ECJgeEifVhZKD7dDs4w) | [Pezzi sparsi](https://open.spotify.com/album/4C212s6Y6mmROehhc9am5N) | 4:27 | 2022-05-12 | 2022-06-01 |
 | [PIAZZA DELLA STAZIONE](https://open.spotify.com/track/1Km9eE7oAaR3HVh6wrvzIr) | [Pessimo 17](https://open.spotify.com/artist/1yYPg7htKugHfIwVhG7BCn), [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Sanchee](https://open.spotify.com/artist/3zcrLOprEtgvuaTmLi7vOa) | [PIAZZA DELLA STAZIONE](https://open.spotify.com/album/4cmkNHlTyCMGMjCOVDcLOa) | 3:34 | 2022-05-12 | 2022-07-20 |

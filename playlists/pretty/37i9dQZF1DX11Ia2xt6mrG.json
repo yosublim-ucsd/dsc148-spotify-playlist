@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Jayrick en portada.",
-  "num_followers": 57225,
+  "num_followers": 57228,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -859,26 +859,6 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "GPI (Remix)",
-        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
-      },
-      "artists": [
-        {
-          "name": "Ysrael Barajas",
-          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 140820,
-      "name": "GPI - Remix",
-      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
         "name": "La Diabla (Electro Remix)",
         "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
       },
@@ -911,6 +891,26 @@
       "duration_ms": 144500,
       "name": "Winter",
       "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "GPI (Remix)",
+        "url": "https://open.spotify.com/album/3mFtnvMmpUfpd5PQQjyPd0"
+      },
+      "artists": [
+        {
+          "name": "Ysrael Barajas",
+          "url": "https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 140820,
+      "name": "GPI - Remix",
+      "url": "https://open.spotify.com/track/1WRI77AN3qYE3Wm8PEOPgx"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1331,46 +1331,6 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "La Ciudad De Las Sombras",
-        "url": "https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien"
-      },
-      "artists": [
-        {
-          "name": "W.O.L.F.",
-          "url": "https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC"
-        },
-        {
-          "name": "Adrian Bluper",
-          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
-        }
-      ],
-      "duration_ms": 372595,
-      "name": "La Ciudad De Las Sombras",
-      "url": "https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 204213,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
         "name": "Ruja",
         "url": "https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS"
       },
@@ -1395,22 +1355,58 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "Tall White",
-        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/0iwqxPcjXrCe9XtjIQNdLS"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
         },
         {
-          "name": "Graze",
-          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Tall White",
-      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
+      "duration_ms": 204213,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3VK6cgdLWEBP7ZMxQJnhRX"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "Amanece",
+        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+      },
+      "artists": [
+        {
+          "name": "Plano",
+          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+        }
+      ],
+      "duration_ms": 332560,
+      "name": "Amanece",
+      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "La Ciudad De Las Sombras",
+        "url": "https://open.spotify.com/album/1xJx2EpCiwBj5gxrVKUien"
+      },
+      "artists": [
+        {
+          "name": "W.O.L.F.",
+          "url": "https://open.spotify.com/artist/5OCKaLRwZLyIEmrzz9RhqC"
+        },
+        {
+          "name": "Adrian Bluper",
+          "url": "https://open.spotify.com/artist/7v5yqotDRUZ4GP7yrPD2m6"
+        }
+      ],
+      "duration_ms": 372595,
+      "name": "La Ciudad De Las Sombras",
+      "url": "https://open.spotify.com/track/6Uv0ZcSZP9An4pj0dbvYdj"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "Amanece",
-        "url": "https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8"
+        "name": "Tall White",
+        "url": "https://open.spotify.com/album/5hKuVw8t98yhuhleUBs9qe"
       },
       "artists": [
         {
-          "name": "Plano",
-          "url": "https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+        },
+        {
+          "name": "Graze",
+          "url": "https://open.spotify.com/artist/0Lv6sRZpd8OoTtg1doweYx"
         }
       ],
-      "duration_ms": 332560,
-      "name": "Amanece",
-      "url": "https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe"
+      "duration_ms": 224000,
+      "name": "Tall White",
+      "url": "https://open.spotify.com/track/1sQ3e85Yz7NdtKXhIhldWr"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
+        "name": "Someone Else's Love",
+        "url": "https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK"
+      },
+      "artists": [
+        {
+          "name": "Jake Silva",
+          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
+        },
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        }
+      ],
+      "duration_ms": 174341,
+      "name": "Someone Else's Love",
+      "url": "https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
         "name": "Time (feat. Alexia Langis)",
         "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 187317,
       "name": "Time (feat. Alexia Langis)",
       "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
-        "name": "Someone Else's Love",
-        "url": "https://open.spotify.com/album/4sAZLc3KOCg7sZ6CA6wRWK"
-      },
-      "artists": [
-        {
-          "name": "Jake Silva",
-          "url": "https://open.spotify.com/artist/5RLODyL9SNX8KYZ0yiiXvL"
-        },
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        }
-      ],
-      "duration_ms": 174341,
-      "name": "Someone Else's Love",
-      "url": "https://open.spotify.com/track/30HuQuGTnEumX2PmUWdLo8"
     },
     {
       "added_at": "2024-05-20 21:33:08",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-05-20 21:33:08",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 171707,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
-    },
-    {
-      "added_at": "2024-05-20 21:33:08",
-      "album": {
         "name": "Ojos (La Noche Mix)",
         "url": "https://open.spotify.com/album/6V1G5cBs5JILHRvoFfLQ45"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 180521,
       "name": "Ojos - La Noche Mix - Radio Edit",
       "url": "https://open.spotify.com/track/7y7kOnxQc1dHJcYOt7XMDJ"
+    },
+    {
+      "added_at": "2024-05-20 21:33:08",
+      "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/4ziNF7cZ5W49BUHBNLyB1f"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 171707,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/2QFiBCEWlCAjMeuqC4Qmbb"
     }
   ],
   "unique_name": "EDM\u00e9xico",

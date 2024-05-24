@@ -1,15 +1,15 @@
 {
-  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Mavokali",
-  "num_followers": 23027,
+  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Yammi & Barnaba",
+  "num_followers": 23040,
   "original_name": "Swahili Love ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkadxAAAAAAtOXO+UWHV+j18Gh22CsRx",
+  "snapshot_id": "Zk/YRAAAAAAxy7FPHcUEwMfj0u0QE6Qq",
   "tracks": [
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Baridi",
         "url": "https://open.spotify.com/album/2w05Yz5dVlP41KH81ZGkDX"
@@ -25,7 +25,27 @@
       "url": "https://open.spotify.com/track/72xGE8uQLhCEtL0EujBlMY"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
+      "album": {
+        "name": "Lonely (feat. Nandy)",
+        "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "duration_ms": 211067,
+      "name": "Lonely (feat. Nandy)",
+      "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
+    },
+    {
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Mahaba",
         "url": "https://open.spotify.com/album/2CChdeShxi3qGFwGY9Xo2x"
@@ -41,7 +61,7 @@
       "url": "https://open.spotify.com/track/2Q5V16Cnv5yXoXoQKeJ9GT"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/3hQN2SC0cgP0LPVh1GErMR"
@@ -57,7 +77,23 @@
       "url": "https://open.spotify.com/track/4TxqEHX4IPL7bQR8ZWrmyr"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
+      "album": {
+        "name": "Utaniua",
+        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
+      },
+      "artists": [
+        {
+          "name": "Zuchu",
+          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Utaniua",
+      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
+    },
+    {
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Raha (feat. Zuchu)",
         "url": "https://open.spotify.com/album/2gUTuqKYELrZnGbmKVuf4J"
@@ -77,23 +113,7 @@
       "url": "https://open.spotify.com/track/3wlOTfVV8UCB3rwf8shhJL"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Utaniua",
-        "url": "https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb"
-      },
-      "artists": [
-        {
-          "name": "Zuchu",
-          "url": "https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Utaniua",
-      "url": "https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "No Body (feat. Bien)",
         "url": "https://open.spotify.com/album/1Ak0wGHeJQaTQJKoVrid6d"
@@ -113,7 +133,7 @@
       "url": "https://open.spotify.com/track/3h8WG1R3M5bWYiRkCB1xYQ"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Nibusu (feat. Yammi)",
         "url": "https://open.spotify.com/album/1F3HikuQyKXhIFfrPQ9SyV"
@@ -133,23 +153,7 @@
       "url": "https://open.spotify.com/track/4dVzMCH149RdkaqROrsATS"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Timestamp",
-        "url": "https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ"
-      },
-      "artists": [
-        {
-          "name": "Israel Onyach",
-          "url": "https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK"
-        }
-      ],
-      "duration_ms": 223058,
-      "name": "Haiwahusu",
-      "url": "https://open.spotify.com/track/1Md3HmqIOIOqEenhx7r6Gh"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Je T Aime",
         "url": "https://open.spotify.com/album/3i9QRcRD7cre4ZNIRDbxUj"
@@ -165,7 +169,27 @@
       "url": "https://open.spotify.com/track/66O4jcm2vic0JaakFzjomN"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum"
+      },
+      "artists": [
+        {
+          "name": "Malha",
+          "url": "https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "duration_ms": 199200,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f"
+    },
+    {
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Mapoz (feat. Mr. Blue & Jay Melody)",
         "url": "https://open.spotify.com/album/52cracIwbALowujVVS3onE"
@@ -189,7 +213,7 @@
       "url": "https://open.spotify.com/track/7kJujeE4Zi8e22ohmHFqEF"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Beyond Gifted",
         "url": "https://open.spotify.com/album/68JaW0nh8cz1yd6X2Uv55b"
@@ -209,7 +233,7 @@
       "url": "https://open.spotify.com/track/2OCyd1dnuOexd1A1cxLZjq"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Wawili",
         "url": "https://open.spotify.com/album/1vYxPvOHWpK4pFxRyFafcb"
@@ -225,7 +249,7 @@
       "url": "https://open.spotify.com/track/0tZlISnKWa6Z0rjvOn8SBx"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Away",
         "url": "https://open.spotify.com/album/6yhc9dAFjeeyL5RLXDjQVW"
@@ -245,7 +269,7 @@
       "url": "https://open.spotify.com/track/6l8LEBdIrPF57T4VZkQs3i"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Nitaubeba",
         "url": "https://open.spotify.com/album/4hEN4eOrVdc2TbBR85zePI"
@@ -261,7 +285,23 @@
       "url": "https://open.spotify.com/track/4GU6tIn7Ic1kGiHYLP2r18"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
+      "album": {
+        "name": "Timestamp",
+        "url": "https://open.spotify.com/album/76RvAWfB1SVkhh9mt7x8cJ"
+      },
+      "artists": [
+        {
+          "name": "Israel Onyach",
+          "url": "https://open.spotify.com/artist/0FsioHzjzS6b1EZKadZsZK"
+        }
+      ],
+      "duration_ms": 223058,
+      "name": "Haiwahusu",
+      "url": "https://open.spotify.com/track/1Md3HmqIOIOqEenhx7r6Gh"
+    },
+    {
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Romeo (feat. Zuchu)",
         "url": "https://open.spotify.com/album/5Q9TxMIkTR8hNeU4ZNwTmP"
@@ -281,7 +321,7 @@
       "url": "https://open.spotify.com/track/7KiqHHymiBKAZB15OKk4Gl"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Nisiulizwe",
         "url": "https://open.spotify.com/album/0hM3BzYlQs3FyZQxwZdhpv"
@@ -297,7 +337,7 @@
       "url": "https://open.spotify.com/track/0CLSneXYlfGvzuzDQeCiao"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "I Am the President",
         "url": "https://open.spotify.com/album/47HdTlyOykb4gzsXQlqEor"
@@ -313,7 +353,7 @@
       "url": "https://open.spotify.com/track/6UsnEVoABSeJJcXM0KiFYt"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Number one",
         "url": "https://open.spotify.com/album/3m0drqdeqvXvyIZ84aiNq5"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/4CfUByjF9bo7GGx0HAdVJG"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/0E7ArB2FlQPLLdyynSOvUp"
@@ -349,7 +389,7 @@
       "url": "https://open.spotify.com/track/1T64n0T17I3deCh0Uk9hct"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Till I Die",
         "url": "https://open.spotify.com/album/5gPQrFRHCI19mzvfzCJlYL"
@@ -365,7 +405,7 @@
       "url": "https://open.spotify.com/track/5q5kRdpB5sNYXuvTbCZUZR"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/5SkSitVZlbjhckkWzEyvzj"
@@ -381,7 +421,7 @@
       "url": "https://open.spotify.com/track/6mDZAjYfa5VG7hFoqF9mb2"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Lalala",
         "url": "https://open.spotify.com/album/5MtivQv9xtPdnXnf4E7zxl"
@@ -401,7 +441,7 @@
       "url": "https://open.spotify.com/track/1DpJxlcNKo8b9JEA2Mu1uq"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Mapenzi",
         "url": "https://open.spotify.com/album/6XBRb4liVXYklJPVBHadH8"
@@ -421,7 +461,7 @@
       "url": "https://open.spotify.com/track/4GbdX8xihpD1eIr0sHvTiT"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "This Love",
         "url": "https://open.spotify.com/album/5QBvP8LsJEAVTp4dohusx2"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/2qMwrsE1QFVCHlKGgs49Y0"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5"
@@ -453,7 +493,7 @@
       "url": "https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/3AJ5ucxVHyDDjYRf7fAeHE"
@@ -473,7 +513,7 @@
       "url": "https://open.spotify.com/track/57dxObrS7BrzycOrKK9Z3k"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Double Treble",
         "url": "https://open.spotify.com/album/2JheMlR0zti0sznMydH2rJ"
@@ -489,7 +529,7 @@
       "url": "https://open.spotify.com/track/1BmwbhNlcgVsv8eSp4E0sJ"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Zawadi (feat. Dadiposlim)",
         "url": "https://open.spotify.com/album/1M1g4TDVEcEgzeqJpkhCou"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/7vkI4zFAPUBmWHuUAfXDdU"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Peke Yangu Club Version",
         "url": "https://open.spotify.com/album/79UMH1TfPJ3chYKToIhpM7"
@@ -525,7 +565,7 @@
       "url": "https://open.spotify.com/track/6eJGx1fIVOrbz1l9C4udP2"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Dharau",
         "url": "https://open.spotify.com/album/4fAfuvu9kF55EA8uqlhwcy"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/2UiH7lUXyxtccytHCixKQX"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Nakupenda",
         "url": "https://open.spotify.com/album/0rupjiEp0TDMmvIx5nmTzN"
@@ -561,27 +601,7 @@
       "url": "https://open.spotify.com/track/3TlutO6C5h7LgLcH0X8GMc"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Butterfly (feat. Phina)",
-        "url": "https://open.spotify.com/album/7uAArCR4SL1PZZnCVSpRvu"
-      },
-      "artists": [
-        {
-          "name": "Darassa",
-          "url": "https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a"
-        },
-        {
-          "name": "Phina",
-          "url": "https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl"
-        }
-      ],
-      "duration_ms": 180930,
-      "name": "Butterfly (feat. Phina)",
-      "url": "https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Khan",
         "url": "https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6gOMG3WCRF3mZIum5TwMft"
@@ -613,7 +633,7 @@
       "url": "https://open.spotify.com/track/7umhIhajaZPJumJCR6u5Nt"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "My Baby",
         "url": "https://open.spotify.com/album/3hMzqCdDnvkt4yPpqzZ4NW"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/3m9WNPWRYShDu975I5dYtH"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Katerina",
         "url": "https://open.spotify.com/album/205OcJThFPWLVFc19sGU3U"
@@ -645,7 +665,7 @@
       "url": "https://open.spotify.com/track/0TPkhwb04r1IwigUlmnN8K"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Why",
         "url": "https://open.spotify.com/album/4qdyzWegDBzlnPfl0FmBaB"
@@ -665,7 +685,7 @@
       "url": "https://open.spotify.com/track/6TlZkvGTKWJXtYUx4XGCyv"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Umeme",
         "url": "https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI"
@@ -681,7 +701,7 @@
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Mi Nawe",
         "url": "https://open.spotify.com/album/0jvLmR2XD7mM8zXNfuvPJ2"
@@ -697,7 +717,7 @@
       "url": "https://open.spotify.com/track/6pWRJyR4x0undU6dIR2mpP"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Jeraha",
         "url": "https://open.spotify.com/album/27ylTtbQEnXWmslV0pP70O"
@@ -717,7 +737,7 @@
       "url": "https://open.spotify.com/track/69NbI959pNXGGh5T7WYQHN"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "My Vow",
         "url": "https://open.spotify.com/album/77d7j2x9rppA6mBZIgPALC"
@@ -733,7 +753,27 @@
       "url": "https://open.spotify.com/track/35AJw5elg1VkzJ5DlPN37T"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
+      "album": {
+        "name": "Love Struck",
+        "url": "https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "duration_ms": 216466,
+      "name": "Amini",
+      "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
+    },
+    {
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Wa Sasa",
         "url": "https://open.spotify.com/album/3oxmKTtd1oBP7WACgKrh4m"
@@ -749,7 +789,7 @@
       "url": "https://open.spotify.com/track/1FVz0hH9kEafMYlQjIkBTf"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Hawataweza",
         "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
@@ -765,7 +805,7 @@
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Taabani",
         "url": "https://open.spotify.com/album/6qtWXNeeJaQkkVkbVcf0To"
@@ -781,7 +821,7 @@
       "url": "https://open.spotify.com/track/4hi1oM7sf47cnLsCXchphD"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Amelowa",
         "url": "https://open.spotify.com/album/0cb7S8oT18YIVZDoiqlytV"
@@ -797,7 +837,7 @@
       "url": "https://open.spotify.com/track/2EiGkSOY6o01g9gDm1lrzk"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Napendwa",
         "url": "https://open.spotify.com/album/7uSvaZCFzAnZTxSuLcUu4O"
@@ -813,7 +853,7 @@
       "url": "https://open.spotify.com/track/6ThP7PzsOKFqMdJze74nxh"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Inauma",
         "url": "https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD"
@@ -829,39 +869,7 @@
       "url": "https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav"
     },
     {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Nakupenda",
-        "url": "https://open.spotify.com/album/1qQYwu5T9b3Vpfb9vwCnnf"
-      },
-      "artists": [
-        {
-          "name": "Beka Flavour",
-          "url": "https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU"
-        }
-      ],
-      "duration_ms": 219900,
-      "name": "Nakupenda",
-      "url": "https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
-      "album": {
-        "name": "Dear Dingi",
-        "url": "https://open.spotify.com/album/5cnOSewDZ7XLUtNpqSOSQr"
-      },
-      "artists": [
-        {
-          "name": "Appy",
-          "url": "https://open.spotify.com/artist/22CP7pIdG3mGt7AL1Dm4gv"
-        }
-      ],
-      "duration_ms": 226053,
-      "name": "Dear Dingi",
-      "url": "https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2"
-    },
-    {
-      "added_at": "2024-05-16 23:59:00",
+      "added_at": "2024-05-23 23:59:00",
       "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/5ddcMxbS1XXkRgt5ds6BLi"

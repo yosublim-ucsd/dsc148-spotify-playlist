@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 289386,
+  "num_followers": 289377,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Mundo Gira",
+        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 171913,
+      "name": "\u00cdm\u00e3",
+      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -403,30 +419,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Teu Sorriso",
-        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Teu Sorriso",
-      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Ibiza",
         "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
       },
@@ -451,6 +443,30 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Teu Sorriso",
+        "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Teu Sorriso",
+      "url": "https://open.spotify.com/track/73BfMRs1S03dkmzCIDJwIw"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Medida Certa",
         "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 244571,
       "name": "Medida Certa",
       "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Mundo Gira",
-        "url": "https://open.spotify.com/album/5aSep1XPJCD03R2DHgSVpt"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 171913,
-      "name": "\u00cdm\u00e3",
-      "url": "https://open.spotify.com/track/51fIvSXRy2dObhEOFlEl9O"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -535,6 +535,38 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Arcano 19",
+        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 244999,
+      "name": "Amor Bandido",
+      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -555,22 +587,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -667,22 +683,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Arcano 19",
-        "url": "https://open.spotify.com/album/3u9RfLqgwUuVZ2p1t4xBAP"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 244999,
-      "name": "Amor Bandido",
-      "url": "https://open.spotify.com/track/1bVchYHleptMkk0pTDsMGa"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Sempre Que Me V\u00ea",
         "url": "https://open.spotify.com/album/0gjyJm3JIFWXueTBg318dI"
       },
@@ -719,6 +719,26 @@
       "duration_ms": 211764,
       "name": "Sempre Que Me V\u00ea",
       "url": "https://open.spotify.com/track/486dXyOiD0WKfEtSzUEWuj"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Arcano 19 (Deluxe)",
+        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        }
+      ],
+      "duration_ms": 249798,
+      "name": "Veneno",
+      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -775,26 +795,6 @@
       "duration_ms": 210309,
       "name": "ESPANHA",
       "url": "https://open.spotify.com/track/4tEpblUf8pxF8v0BI5lXfO"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Arcano 19 (Deluxe)",
-        "url": "https://open.spotify.com/album/6SRyb0UxjNTnYMvCf3HouQ"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        }
-      ],
-      "duration_ms": 249798,
-      "name": "Veneno",
-      "url": "https://open.spotify.com/track/63OpfbI5oWzmf2JbBgwVuX"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -923,6 +923,26 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Ref\u00e9m",
+        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Ref\u00e9m",
+      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
         "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
       },
@@ -1023,26 +1043,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Ref\u00e9m",
-        "url": "https://open.spotify.com/album/0VWA3ZIe612sqa7bVQVQQ0"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Ref\u00e9m",
-      "url": "https://open.spotify.com/track/4lFSe0VQ2tMDJhyvjD8jmU"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Meus Olhos",
         "url": "https://open.spotify.com/album/2jrNUWGcmS38KMbCtuqunw"
       },
@@ -1063,26 +1063,6 @@
       "duration_ms": 188548,
       "name": "Meus Olhos",
       "url": "https://open.spotify.com/track/4YOEPUn818DxI8vzNhylVd"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Sunshine",
-        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
-      },
-      "artists": [
-        {
-          "name": "LK",
-          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
-        },
-        {
-          "name": "NOG",
-          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
-        }
-      ],
-      "duration_ms": 174315,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -1187,6 +1167,26 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/28tbU5pXLvIbUqtNme8Wuh"
+      },
+      "artists": [
+        {
+          "name": "LK",
+          "url": "https://open.spotify.com/artist/1NwOxFPX8X4zAp6gF4K8DD"
+        },
+        {
+          "name": "NOG",
+          "url": "https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS"
+        }
+      ],
+      "duration_ms": 174315,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/4u3oUk2kh8m5Mg08JUfDr1"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "O Que a Levada Pede",
+        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
+      },
+      "artists": [
+        {
+          "name": "Vitin",
+          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
+        }
+      ],
+      "duration_ms": 127452,
+      "name": "O Que a Levada Pede",
+      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "tudo por voc\u00ea",
         "url": "https://open.spotify.com/album/4E32Qu06lpLfc9tAEQXbdY"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 142208,
       "name": "tudo por voc\u00ea",
       "url": "https://open.spotify.com/track/1KgpFol2UWbneMpc0dKzK8"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "O Que a Levada Pede",
-        "url": "https://open.spotify.com/album/4p3tg1AsZkO9DlpmAOTThg"
-      },
-      "artists": [
-        {
-          "name": "Vitin",
-          "url": "https://open.spotify.com/artist/2d92LVCevmO89rznIQqOhL"
-        }
-      ],
-      "duration_ms": 127452,
-      "name": "O Que a Levada Pede",
-      "url": "https://open.spotify.com/track/4QIYe2KUsCseRCK2WDOGym"
     },
     {
       "added_at": "2024-05-17 03:03:00",

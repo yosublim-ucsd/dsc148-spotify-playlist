@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 88046,
+  "num_followers": 88128,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Onda Juvenil 25 Aniversario",
-        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
-      },
-      "artists": [
-        {
-          "name": "Los Johnny Jets",
-          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Es Lupe (Hang on Sloopy)",
-      "url": "https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Disco de Oro",
         "url": "https://open.spotify.com/album/4bSCPHorq2wwgm05NYw63g"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 182173,
       "name": "Las Cerezas (Le Celiege)",
       "url": "https://open.spotify.com/track/2ZvT2qVY0aOtyCGKyLf6Co"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Onda Juvenil 25 Aniversario",
+        "url": "https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar"
+      },
+      "artists": [
+        {
+          "name": "Los Johnny Jets",
+          "url": "https://open.spotify.com/artist/65t9bQlShQt2XgkYr5XyWK"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Es Lupe (Hang on Sloopy)",
+      "url": "https://open.spotify.com/track/5HPbGQ2Rz9EiH0dypMIFWX"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -703,22 +703,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "El rock de la c\u00e1rcel (Remastered)",
-        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzm\u00e1n & Teen Tops",
-          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
-        }
-      ],
-      "duration_ms": 141635,
-      "name": "Bule bule - Remastered",
-      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Loco - Vintage Rock en Espa\u00f1ol",
         "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 175686,
       "name": "Las Cerezas",
       "url": "https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "El rock de la c\u00e1rcel (Remastered)",
+        "url": "https://open.spotify.com/album/0errWAKWe4xl8p5DxVS93H"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzm\u00e1n & Teen Tops",
+          "url": "https://open.spotify.com/artist/1Q2UXM1vlDYOzeAZYDI2WD"
+        }
+      ],
+      "duration_ms": 141635,
+      "name": "Bule bule - Remastered",
+      "url": "https://open.spotify.com/track/4lY1RHHCrH5bAxAA7KlUhT"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1048,9 +1048,9 @@
           "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
         }
       ],
-      "duration_ms": 97026,
-      "name": "Pan Con Mantequilla",
-      "url": "https://open.spotify.com/track/4hWIlKthIn4NGThpUVn5tj"
+      "duration_ms": 90200,
+      "name": "Yo No Soy Rebele",
+      "url": "https://open.spotify.com/track/29yCUGao7C8ksqVASeCD8v"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1292,9 +1292,9 @@
           "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 171480,
-      "name": "Corina, Corina",
-      "url": "https://open.spotify.com/track/2pXeJhrylYrsCXyZVNp7oy"
+      "duration_ms": 156422,
+      "name": "Vuelve primavera",
+      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1424,9 +1424,9 @@
           "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 156422,
-      "name": "Vuelve primavera",
-      "url": "https://open.spotify.com/track/3JeZSnIpeZJ2aQB2oLNv1N"
+      "duration_ms": 171480,
+      "name": "Corina, Corina",
+      "url": "https://open.spotify.com/track/2pXeJhrylYrsCXyZVNp7oy"
     },
     {
       "added_at": "2020-04-17 21:51:59",

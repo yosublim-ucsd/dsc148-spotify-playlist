@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 
 > Pouring Indie tunes for all you bathroom singers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,849 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,856 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0L49JehX6ZU.md) - [plain]
 | 21 | [Dooba Dooba](https://open.spotify.com/track/61IEe4ujPKOU7OIyubydfz) | [Silk Route](https://open.spotify.com/artist/759QiRQCMliwkrJqosHbmm) | [Boondein](https://open.spotify.com/album/6xr5iebhf8ArsIzWs33OYk) | 5:03 |
 | 22 | [Baarish Ka Asar](https://open.spotify.com/track/6J4oLY2GEwOsUgEd50IpKy) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baarish Ka Asar](https://open.spotify.com/album/6ZqPFOO9erbfD7BHpNn2Jj) | 4:05 |
 | 23 | [Dil Beparvah \- The Dewarists, Season 5](https://open.spotify.com/track/4kXkT9HF9ZfDjuv3LIKcwJ) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6), [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Dhruv Bhola](https://open.spotify.com/artist/4b0Zi3RZUUv8QdkBkMhc8x), [Nikhil Vasudevan](https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ) | [Dil Beparvah \(The Dewarists, Season 5\)](https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru) | 4:10 |
-| 24 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
-| 25 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 |
+| 24 | [Piya Basanti](https://open.spotify.com/track/4ZffnUdAzNy5HvcO3rphIP) | [Sultan Khan](https://open.spotify.com/artist/2eOZNXw0A4cQKmsVPpIcMY), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Piya Basanti](https://open.spotify.com/album/54p1S3dlFHWke6HDdhyVj2) | 4:36 |
+| 25 | [Tere Jaane Se](https://open.spotify.com/track/6smPjrA4Hf7J3kFe9afb1E) | [Anurag Vashisht](https://open.spotify.com/artist/6o0MDEgo8moHPwQ1QXIs4c) | [Tere Jaane Se](https://open.spotify.com/album/3XXavGVCTjh5OQo8sEP0Ri) | 3:31 |
 | 26 | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/track/4SlCYFaUQ8GRuwdpgniaGF) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv) | [Bombay Dreams \(feat\. Kavita Seth\)](https://open.spotify.com/album/5EyIytU4jYrTCuf8Xy49M3) | 3:18 |
 | 27 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 |
 | 28 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 |

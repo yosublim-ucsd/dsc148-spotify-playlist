@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 
 > The bass you need for riding low and high.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,350 likes - 50 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,646 likes - 50 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblmY5UIU3v3.md) - [plain]
 | 26 | [Mafia \- Remix](https://open.spotify.com/track/3rkSjkhFvhRt4BZKXq99d4) | [JVLA](https://open.spotify.com/artist/24D8gx0257CDd1HAuqNuHu), [MARE](https://open.spotify.com/artist/0eGQLgDJaGfvvKv7spAgqX) | [Mafia \(Remix\)](https://open.spotify.com/album/5f1JJTRqqYQVC1stqR869n) | 2:02 |
 | 27 | [Sztoj Pa Moru](https://open.spotify.com/track/3BHe1jnaW3hocrfMqytTP2) | [BROHM](https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i), [Thingstad](https://open.spotify.com/artist/4nl0BnCSRpuneTf0d7fV3G) | [Sztoj Pa Moru](https://open.spotify.com/album/6jqIGpQn1A00DdYut4vCNs) | 2:18 |
 | 28 | [ULETAY](https://open.spotify.com/track/6Pv2ssBWBcj2QFgmPl42gx) | [ONEIL](https://open.spotify.com/artist/7kzcAiYqxBV5J25vTYeOxA), [ORGAN](https://open.spotify.com/artist/1YKl8e8MJE5TK28LC4UyC6), [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [FAVIA](https://open.spotify.com/artist/1FTXwgjHR8LAr13cnjWp7m) | [ULETAY](https://open.spotify.com/album/35VhiKDtvhfredQm0zWb2m) | 2:41 |
-| 29 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
-| 30 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
+| 29 | [Overthinking](https://open.spotify.com/track/3KWV5kY52CQ4KwunPeH9Mz) | [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Haribo](https://open.spotify.com/artist/4iYIZQP0f6Ec6gupaJ4SQm) | [Camels / Overthinking](https://open.spotify.com/album/0Tl8BA4JRmdGy1m32BMH1m) | 3:44 |
+| 30 | [Solovey](https://open.spotify.com/track/29ofWO96svTbZaVWB9reSb) | [Dj Quba](https://open.spotify.com/artist/3jKI2rCmeJNIwW4duG0sQJ), [Sandra K](https://open.spotify.com/artist/4hq99FkPtYKcdc2RQ6QDDx) | [Solovey](https://open.spotify.com/album/2e27TfVReB4lDRAtzlVbW2) | 2:05 |
 | 31 | [Okay](https://open.spotify.com/track/2yWkgyMnfojm7iPzRwBzn2) | [azZza](https://open.spotify.com/artist/4NSf7ko5N1o44cBzWGoVCP), [DIPIENS](https://open.spotify.com/artist/6CYjGgv0fYxHFHCKWn7SyX) | [Okay](https://open.spotify.com/album/43uDfBBdjkWnRQEkDuNPPW) | 2:50 |
 | 32 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
 | 33 | [Close Ya](https://open.spotify.com/track/3KK71qLRNq9A0H3Zoj2jY3) | [HVZVRD](https://open.spotify.com/artist/0TBbjAcKVKKc8QwMoHPI9f), [TBT Prod.](https://open.spotify.com/artist/4WihjWGIXdbrdtcIhCcQuM) | [Close Ya](https://open.spotify.com/album/6cQ3bvLmo96impgeIfqkqX) | 2:50 |

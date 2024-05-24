@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Luis Fonsi, Carlos Vives
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,957 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,005 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 4 | [Completamente Un Incompleto](https://open.spotify.com/track/0HP1mKw7pFBvFgZDIVMBX1) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Completamente Un Incompleto](https://open.spotify.com/album/1JasZQXnVOyfk7XLYLg5G7) | 2:56 |
 | 5 | [Buscando Otro Amor](https://open.spotify.com/track/5GktPnJ8W17lKXWnVwgD48) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN) | [Buscando Otro Amor](https://open.spotify.com/album/2ijKJw1PlaNq0wIXL7fNiK) | 2:27 |
 | 6 | [Loquita \- Remix](https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Cristian Di Marco](https://open.spotify.com/artist/1NtRGHzfJ8H7dENIXu1tdk) | [Loquita \(Remix\)](https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp) | 3:29 |
-| 7 | [Tu Foto](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/1jPEUIm7NWwGzRY57hailQ) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
+| 7 | [Tu Foto](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 |
 | 8 | [Mansion Tropical](https://open.spotify.com/track/1P4YKaEismPG8P6ZXELwFY) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Jose Solano](https://open.spotify.com/artist/7g3JxWMf70JSuPA7A2AvTc) | [Mansion Tropical](https://open.spotify.com/album/0owllmurII0Zf4xFsllcZz) | 3:00 |
 | 9 | [Que Voy a Hacer](https://open.spotify.com/track/5PeTkjViSGyv9Zo8Gq9QjQ) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [De Azua Pal´mundo, Vol\. 2](https://open.spotify.com/album/0BhAPJv3CwI0LbXes1HJHL) | 3:29 |
 | 10 | [Di Que Sí](https://open.spotify.com/track/3SwU6NpaZ257IYLkOINHuM) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Di Que Sí](https://open.spotify.com/album/3nqE0CkDhzUuvWV5D3uPRg) | 3:07 |

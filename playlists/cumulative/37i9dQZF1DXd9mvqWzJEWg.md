@@ -4,7 +4,7 @@
 
 > It's not just about the music, it's about the culture\. Cover: <br/><a href="https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch?si=NGWTyGHRSlik5iXPsgF0QQ">Lelowhatsgood</a>
 
-186 songs - 16 hr 41 min
+187 songs - 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Uskhothenii 2.0](https://open.spotify.com/track/6IJBMTSzttVD3fAfiK7oC5) | [DJ Thera S.A](https://open.spotify.com/artist/2K2VFYuYYTRu2ILpWP79Q9), [Asithi Uzok'Dlallela Wena](https://open.spotify.com/artist/3fSW8iSiLsqso5DXeIdTYU) | [Uskhothenii 2.0](https://open.spotify.com/album/4PaR71yX2FijS9aQiLk58l) | 5:40 | 2023-08-24 | 2023-11-11 |
 | [Uswazi](https://open.spotify.com/track/3doLZmoiwsooXGiSWOB645) | [Dominowe](https://open.spotify.com/artist/2mXVs20lxJxTJzpLywkX8e) | [State of Mind](https://open.spotify.com/album/3qRRaKC2D8NBLF49dBvd9U) | 5:04 | 2023-05-25 | 2023-08-25 |
 | [Uyangihlanyisa](https://open.spotify.com/track/02S09Z0HT5SJpP9nGVXoqW) | [Abangani Bethu](https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT) | [From Now On](https://open.spotify.com/album/3SR1M6ZjdiaonOv9dS009G) | 4:07 | 2021-02-11 | 2022-11-08 |
+| [uZosala](https://open.spotify.com/track/1S3QiJeXpptj7aath0JOpf) | [Omagoqa](https://open.spotify.com/artist/4caV3BYVSNygGiFFOvQgUy), [ZVRI](https://open.spotify.com/artist/1or4sxcSSFThb2p8VuK8Sn), [The Ascension](https://open.spotify.com/artist/69l0v3QQfyIR61ve0kWMjF), [DemiMa](https://open.spotify.com/artist/33YFO60EsYiELGlIxVioxD) | [Umqhumo Wethu](https://open.spotify.com/album/2Dl8jKEAdAe81ifBg5uhNx) | 5:25 | 2024-05-23 |  |
 | [Vanger](https://open.spotify.com/track/7898fSh9GRby5qGAMt8o7c) | [Gigg's MusiQ](https://open.spotify.com/artist/5m7in23VjBB1PyG40HXPMe), [GermKidd\-SA](https://open.spotify.com/artist/3b0ZM7oq0FIMoOkhVpJItv), [GqoMLorD](https://open.spotify.com/artist/6vFMjOEA3AVavs4vc2qcE5) | [Vanger](https://open.spotify.com/album/02zuKG6AQHvMECJLxC3Xl6) | 5:40 | 2023-08-24 | 2024-01-26 |
 | [Vutha](https://open.spotify.com/track/4dP2Dh9RcvuflSvXNwguCD) | [Sphectacula and DJ Naves](https://open.spotify.com/artist/7yHWqKzRw7VR7zU5e3nIZx), [Beast Rsa](https://open.spotify.com/artist/5jSbjWfYWUZpecgalIOldH), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn), [Emza](https://open.spotify.com/artist/7c8DG0zrFEybxnKiBgd6iN), [Rude Boyz](https://open.spotify.com/artist/0qsPnUBg1EgGeGaXSLeO3n) | [Vutha](https://open.spotify.com/album/4rGWCrkgsLM61OiRmRhrmd) | 4:40 | 2022-11-07 | 2023-08-25 |
 | [WDPTSG](https://open.spotify.com/track/2O5bseXpzslzyL3RLbUivi) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx) | [WDPTSG EP](https://open.spotify.com/album/5Xx0oJcyrEYhhw58ISWru1) | 5:04 | 2023-08-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 
 > 今、日本のティーンエイジャーに聴かれている話題曲をひとつのプレイリストに。Cover: 冨岡 愛
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,015 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,072 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8XStIuaEA9J.md) - [plain]
 | 25 | [Ride the Vibe](https://open.spotify.com/track/1g3YJ4LEitgCkrvMnD9ggg) | [NEXZ](https://open.spotify.com/artist/5TaK8pOYVARAr5cdgoa8EW) | [Ride the Vibe](https://open.spotify.com/album/1cTIK6Npr4gfRh2sDpBaUQ) | 2:52 |
 | 26 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 |
 | 27 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
-| 28 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:12 |
+| 28 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 29 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
 | 30 | [Algorhythm](https://open.spotify.com/track/47tYRja2sNmaF0tFFY3D2a) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Algorhythm](https://open.spotify.com/album/7ji7zKkvRlYOsu3ehctQRx) | 3:07 |
 | 31 | [MY LIFE](https://open.spotify.com/track/1Fy3dclV9os643JfeEmNkz) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [MY LIFE](https://open.spotify.com/album/2FDkRqlUOjPN8jc2AYQRya) | 3:34 |

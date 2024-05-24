@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "Special Places",
+        "url": "https://open.spotify.com/album/3XjuscAoN52tLMaDx6JBqq"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241085,
+      "name": "Special Places",
+      "url": "https://open.spotify.com/track/7MVaTrfs5FsiawewPPyLL1"
+    },
+    {
+      "album": {
         "name": "About Time",
         "url": "https://open.spotify.com/album/5MtFZfkbnn7rqCGOvhQIfu"
       },

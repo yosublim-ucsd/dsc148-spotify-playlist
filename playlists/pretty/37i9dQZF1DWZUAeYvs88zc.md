@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 600,317 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 600,347 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,13 +61,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 51 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
 | 52 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 53 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
-| 54 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
-| 55 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
+| 54 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
+| 55 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
 | 56 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
 | 57 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 |
 | 58 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
-| 59 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 |
-| 60 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
+| 59 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
+| 60 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 |
 | 61 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
 | 62 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 | 63 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 
 > The best in new Modern Music\. Featuring: <a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx?si=4JprYKKMRNOzfRUudP4jeA">Twenty One Pilots</a>, Mother Mother, Linkin Park, Wallows, Great Gable, NewDad, Michael Marcagi, ThxSoMch and many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,015 likes - 65 songs - 3 hr 26 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 22,014 likes - 65 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/33tldAlCD8P8ski9feKj3T.md) - [plain]
 | 45 | [Sickly Sweet](https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [MADRA](https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw) | 3:23 |
 | 46 | [Skin Parade](https://open.spotify.com/track/2ULTiHf6StaL4Hbyarfr2h) | [Etta Marcus](https://open.spotify.com/artist/2OWXhbFm7SsZN0DXAD7iBg) | [The Death Of Summer & Other Promises](https://open.spotify.com/album/0esL2lh3mMULygf9eA6RlV) | 4:29 |
 | 47 | [Despertar](https://open.spotify.com/track/52j7qytl2Cp3gM811huoLr) | [Alizzz](https://open.spotify.com/artist/23herDudxPBB3S81GB5uG3), [Maria Arnal](https://open.spotify.com/artist/05l58aTZztZhHZPKDpboWm) | [Despertar](https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g) | 3:54 |
-| 48 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/71WaHzVMMdnwAwvVwEsOrX) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 |
+| 48 | [Worn Out Buildings](https://open.spotify.com/track/0xUN8ZBQGxTnNp8AaCiFum) | [86TVs](https://open.spotify.com/artist/6jKNhOt3ygu1yvmEEVacTx) | [Worn Out Buildings](https://open.spotify.com/album/2m74UsKsBKUaCZT7mXOhh6) | 3:35 |
 | 49 | [The Feminine Urge](https://open.spotify.com/track/1gRK6QnBOpNtEDjYKftzTc) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/6ltU3hJQLHM29KJkEfBiwT) | 3:26 |
 | 50 | [I Forgot To Be Your Lover](https://open.spotify.com/track/756ziR2z4iXkK35qwBLUiY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [I Forgot To Be Your Lover](https://open.spotify.com/album/0QfT7WOAHM5CPZPL9ci2E1) | 2:27 |
 | 51 | [Enemy](https://open.spotify.com/track/2te6E5Vw5TYufArHnLqQLQ) | [gabriel black](https://open.spotify.com/artist/6lWQ8ff0y4b0fozjUcmvaJ) | [Enemy](https://open.spotify.com/album/0JMnksPewKZzUoWRI9Th7G) | 3:07 |

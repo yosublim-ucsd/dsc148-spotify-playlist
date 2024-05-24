@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-2,337 songs - 5 day 1 hr 37 min
+2,338 songs - 5 day 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1421,6 +1421,7 @@
 | [Narcisista \- Ao Vivo](https://open.spotify.com/track/0WrM1ON5poAsmKw3x5uPhD) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Narcisista \(Ao Vivo\)](https://open.spotify.com/album/1EXTduPcx49gIFbLeZOwcC) | 3:31 | 2023-08-08 | 2023-08-23 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-17 | 2023-05-20 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-05-19 | 2023-06-05 |
+| [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-23 |  |
 | [Não Esqueço](https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm) | [Niara](https://open.spotify.com/artist/1uDIjX8OKiqAM30JJdVg3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Esqueço](https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru) | 3:05 | 2023-06-22 | 2023-07-01 |
 | [Nego Doce](https://open.spotify.com/track/7jp2LRqPh9olzx19U74OaM) | [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq) | [Verão Doce](https://open.spotify.com/album/4wSD03fWtinC3FRAZuEOo9) | 3:41 | 2024-01-14 | 2024-02-18 |
 | [Negro Amor \(It's All Over Now, Baby Clue\)](https://open.spotify.com/track/3QAVjhDbh7Bv6kUbSNXmdy) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Caras E Bocas](https://open.spotify.com/album/73gyxoh7akWRRrv78uJC1o) | 6:19 | 2022-11-14 | 2022-11-18 |
@@ -2342,7 +2343,7 @@
 | [Ô Lá na Roça \- Ao Vivo](https://open.spotify.com/track/71VNsncPcTfQiklVO9uXfB) | [Felipe & Murillo](https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Ô Lá na Roça \(Ao Vivo\)](https://open.spotify.com/album/7MEyhNqU573GoqAMfbULeZ) | 2:40 | 2022-07-19 | 2022-08-07 |
 | [Ô Mãe](https://open.spotify.com/track/37A1beEC95fCBRge23pSFT) | [Aleck Johnson](https://open.spotify.com/artist/4OFzvi3IhVihDXIEo6T5QA) | [Ô Mãe](https://open.spotify.com/album/45bkXD1V749cJEXenlh6fU) | 2:12 | 2022-05-31 | 2022-06-08 |
 | [Ô Zeca, o Pagode Onde É Que É? Andei Descalço, Carroça e Trem, Procurando por Xerém, pra Te Ver, pra Beber e Batucar!](https://open.spotify.com/track/1Aoh5SVJjtmfmeev7qGago) | [Rio Carnaval](https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v), [Acadêmicos Do Grande Rio](https://open.spotify.com/artist/4lKJgJgxxqOB1OObclhQWA), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Evandro Malandro](https://open.spotify.com/artist/0WyPGG1TqaUbw0HQaUYvRW) | [Sambas de Enredo Rio Carnaval 2023](https://open.spotify.com/album/6DRY2POq725RHHRhUq7Jhf) | 5:16 | 2023-02-15 | 2023-03-01 |
-| [Última Vez](https://open.spotify.com/track/2SkLXwEqAH7WZ5MKNPuyB1) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Última Vez](https://open.spotify.com/album/1DvsXzrNPlWJNYo7jWHGxX) | 4:14 | 2024-05-21 |  |
+| [Última Vez](https://open.spotify.com/track/2SkLXwEqAH7WZ5MKNPuyB1) | [Hungria](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Última Vez](https://open.spotify.com/album/1DvsXzrNPlWJNYo7jWHGxX) | 4:14 | 2024-05-21 | 2024-05-24 |
 | [Único Penta É O Brasilzão](https://open.spotify.com/track/5db65G6tr51dxxYpqKHi9x) | [Movimento Verde Amarelo](https://open.spotify.com/artist/5lyUbycl59awTz9lHwrLeh) | [Movimento Verde Amarelo](https://open.spotify.com/album/44yqcxU1rUSPYMBVre9P7e) | 3:13 | 2022-11-25 | 2022-12-18 |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2022-09-08 | 2022-11-20 |
 

@@ -1,12 +1,12 @@
 {
-  "description": "This is Nana Mizuki. The essential tracks, all in one playlist.",
+  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
   "num_followers": 27077,
-  "original_name": "This Is Nana Mizuki",
+  "original_name": "This Is \u6c34\u6a39\u5948\u3005",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAAvrptbJj3xNZnbjdCn/fIX",
+  "snapshot_id": "Zk01gAAAAACVbitJ92lLSHSxpwySaf0i",
   "tracks": [
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM",
-        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 250333,
-      "name": "WILD EYES",
-      "url": "https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH"
+      "duration_ms": 316280,
+      "name": "Glorious Break",
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 316280,
-      "name": "Glorious Break",
-      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
+      "duration_ms": 250333,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH"
     },
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 268506,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEVER SURRENDER",
         "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 232653,
       "name": "\u5606\u304d\u306e\u83ef",
       "url": "https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 268506,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM II",
-        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "\u6df1\u611b",
-      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "NEOGENE CREATION",
         "url": "https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 268706,
       "name": "UNLIMITED BEAT",
       "url": "https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE MUSEUM II",
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "\u6df1\u611b",
+      "url": "https://open.spotify.com/track/0gsI8ofrtQ7EWU2LTHlhmd"
     },
     {
       "added_at": null,
@@ -627,8 +627,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Red Breeze",
-        "url": "https://open.spotify.com/album/3aWStzvTschv3HBBPdMzv4"
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
       },
       "artists": [
         {
@@ -636,9 +636,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 271679,
-      "name": "Red Breeze",
-      "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+        "name": "NEVER SURRENDER",
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
       },
       "artists": [
         {
@@ -684,9 +684,25 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+      "duration_ms": 239000,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Red Breeze",
+        "url": "https://open.spotify.com/album/3aWStzvTschv3HBBPdMzv4"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 271679,
+      "name": "Red Breeze",
+      "url": "https://open.spotify.com/track/45x5FCsI4VvKoGyQXDnhPk"
     },
     {
       "added_at": null,
@@ -707,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "NEVER SURRENDER",
-        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj"
+        "name": "SUPERNAL LIBERTY",
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
       },
       "artists": [
         {
@@ -716,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 239000,
-      "name": "GET BACK",
-      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+      "duration_ms": 284400,
+      "name": "Vitalization-Aufwachen Form-",
+      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 217915,
       "name": "DNA -Dance 'n' Amuse-",
       "url": "https://open.spotify.com/track/5N63S5oVtO9yECKuekiTGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SUPERNAL LIBERTY",
-        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Vitalization-Aufwachen Form-",
-      "url": "https://open.spotify.com/track/1kAaJgbvrsltMvjFPQiC1I"
     },
     {
       "added_at": null,
@@ -821,6 +821,6 @@
       "url": "https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg"
     }
   ],
-  "unique_name": "This Is Nana Mizuki",
+  "unique_name": "This Is \u6c34\u6a39\u5948\u3005",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk"
 }

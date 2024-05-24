@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAAATdCfXuK3UpRpPlJGrDM+8",
+  "snapshot_id": "Zk01gAAAAADeAg/z4A3ZYzVeJ35XlMax",
   "tracks": [
     {
       "added_at": null,
@@ -283,50 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Titled",
-        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
-      },
-      "artists": [
-        {
-          "name": "Solo For Dolo",
-          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 190680,
-      "name": "Quarter Water Kids",
-      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Richmond Hill",
-        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
-      },
-      "artists": [
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
-        },
-        {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 178031,
-      "name": "Brooklyn Heights",
-      "url": "https://open.spotify.com/track/3P7aeFCClq3AtcY8SeTU3a"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A-F-R-O POLO",
         "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
       },
@@ -351,22 +307,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Run",
-        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+        "name": "Richmond Hill",
+        "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
       "artists": [
         {
-          "name": "Torae",
-          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        },
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 130643,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
+      "duration_ms": 178031,
+      "name": "Brooklyn Heights",
+      "url": "https://open.spotify.com/track/3P7aeFCClq3AtcY8SeTU3a"
     },
     {
       "added_at": null,
@@ -399,6 +359,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Run",
+        "url": "https://open.spotify.com/album/3MOyKYta76y1tLWEzxszcK"
+      },
+      "artists": [
+        {
+          "name": "Torae",
+          "url": "https://open.spotify.com/artist/5RraBpQrZzJaNk22LfTBi0"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        }
+      ],
+      "duration_ms": 130643,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/0tOm8JheU3f85WPwXcygJG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Breukelen Story (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+      },
+      "artists": [
+        {
+          "name": "Masta Ace",
+          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+        },
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Masta Ace & Marco Polo",
+          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Masta Polo",
+      "url": "https://open.spotify.com/track/3QBjETcZARnmLngd0q2lun"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Richmond Hill",
         "url": "https://open.spotify.com/album/4LBpILPiB0gp6GTdTVeF3V"
       },
@@ -427,26 +431,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Breukelen Story (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1Vv6L9xXyboDrDTVfOKyTw"
+        "name": "Self Titled",
+        "url": "https://open.spotify.com/album/2kuvbFRMpL4wnUP6htFDiv"
       },
       "artists": [
         {
-          "name": "Masta Ace",
-          "url": "https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv"
+          "name": "Solo For Dolo",
+          "url": "https://open.spotify.com/artist/6UqudYIbbegdeXAKoNFZhV"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Masta Ace & Marco Polo",
-          "url": "https://open.spotify.com/artist/1qSvRXIiuE4WuRUhZtsFXA"
         }
       ],
-      "duration_ms": 176000,
-      "name": "Masta Polo",
-      "url": "https://open.spotify.com/track/3QBjETcZARnmLngd0q2lun"
+      "duration_ms": 190680,
+      "name": "Quarter Water Kids",
+      "url": "https://open.spotify.com/track/6e5C3k62EtkuDVsxPq50lU"
     },
     {
       "added_at": null,
@@ -587,22 +587,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "A-F-R-O POLO",
-        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
+        "name": "To Thine Own Self Be True",
+        "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
       },
       "artists": [
         {
-          "name": "A-F-R-O",
-          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+          "name": "La Coka Nostra",
+          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
+        },
+        {
+          "name": "ILL BILL",
+          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
+        },
+        {
+          "name": "Slaine",
+          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
+        },
+        {
+          "name": "Q-Unique",
+          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
+        },
+        {
+          "name": "Sadie Vada",
+          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
         },
         {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         }
       ],
-      "duration_ms": 184083,
-      "name": "Sunshine and Flowers",
-      "url": "https://open.spotify.com/track/0S5BoYZUD0wfc6yK1PT62T"
+      "duration_ms": 282509,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
     },
     {
       "added_at": null,
@@ -651,42 +667,6 @@
       "duration_ms": 182833,
       "name": "Days Of Your Lifetime",
       "url": "https://open.spotify.com/track/0S7aEe4H8ppreRlcZ5DSbX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "To Thine Own Self Be True",
-        "url": "https://open.spotify.com/album/4qYnn6YgO4uQDOvrqEoqwK"
-      },
-      "artists": [
-        {
-          "name": "La Coka Nostra",
-          "url": "https://open.spotify.com/artist/0BK94SazL2jI020Y8ezR4f"
-        },
-        {
-          "name": "ILL BILL",
-          "url": "https://open.spotify.com/artist/1mMjwoytmHP5dTJbIQxN4V"
-        },
-        {
-          "name": "Slaine",
-          "url": "https://open.spotify.com/artist/1z1ctFe6fCr5aZnCGKt6rN"
-        },
-        {
-          "name": "Q-Unique",
-          "url": "https://open.spotify.com/artist/6UWL7dFvtP5xef4wtaRBZY"
-        },
-        {
-          "name": "Sadie Vada",
-          "url": "https://open.spotify.com/artist/2ZOJshYUYGrxtjxsGfTOzS"
-        },
-        {
-          "name": "Marco Polo",
-          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        }
-      ],
-      "duration_ms": 282509,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/4OeuVrcHZ6LSxJLOgsnonH"
     },
     {
       "added_at": null,
@@ -791,26 +771,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Newport Authority 2",
-        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+        "name": "A-F-R-O POLO",
+        "url": "https://open.spotify.com/album/4PbCH1KGfOiRfuOHqEuUB3"
       },
       "artists": [
         {
+          "name": "A-F-R-O",
+          "url": "https://open.spotify.com/artist/1zxOrBQ8znO6qNSdVXNYJY"
+        },
+        {
           "name": "Marco Polo",
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
-        },
-        {
-          "name": "Reggie B.",
-          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
         }
       ],
-      "duration_ms": 238252,
-      "name": "Cur$ed (What's Wrong Remix)",
-      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
+      "duration_ms": 184083,
+      "name": "Sunshine and Flowers",
+      "url": "https://open.spotify.com/track/0S5BoYZUD0wfc6yK1PT62T"
     },
     {
       "added_at": null,
@@ -944,13 +920,17 @@
           "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
         },
         {
-          "name": "Das EFX",
-          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+        },
+        {
+          "name": "Reggie B.",
+          "url": "https://open.spotify.com/artist/4nVxsUbxbdvvdQrTBUPr9H"
         }
       ],
-      "duration_ms": 198418,
-      "name": "BK 2 NJ",
-      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
+      "duration_ms": 238252,
+      "name": "Cur$ed (What's Wrong Remix)",
+      "url": "https://open.spotify.com/track/3Rz5IJhHz9cJKuygWTEMK6"
     },
     {
       "added_at": null,
@@ -979,6 +959,26 @@
       "duration_ms": 229230,
       "name": "Count Em Up",
       "url": "https://open.spotify.com/track/5pADObkRApXpf8R8TMnaE7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Newport Authority 2",
+        "url": "https://open.spotify.com/album/6pDIxK0Z8nRu0jHfE0gX6O"
+      },
+      "artists": [
+        {
+          "name": "Marco Polo",
+          "url": "https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl"
+        },
+        {
+          "name": "Das EFX",
+          "url": "https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG"
+        }
+      ],
+      "duration_ms": 198418,
+      "name": "BK 2 NJ",
+      "url": "https://open.spotify.com/track/5f6Rk1SBRTd5fCJ3BusPBA"
     }
   ],
   "unique_name": "This Is Marco Polo",

@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: カノエラナ
 
-657 songs - 1 day 19 hr 51 min
+658 songs - 1 day 19 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Far Middle](https://open.spotify.com/track/3vn1q2f2qiHAkDKGXeGqfU) | [YABI×YABI](https://open.spotify.com/artist/5lNh74hra4Q3pgXdV8nMjz) | [8○○○○○○Z○○](https://open.spotify.com/album/0RvzLnpAYRmB0N6dpCy2EF) | 2:57 | 2023-03-07 | 2023-04-12 |
 | [Fiction](https://open.spotify.com/track/0LT1FJrmhPalsd2OVQwu49) | [Rikako Aida](https://open.spotify.com/artist/3L9yXpqIVCz8yyR3ZfavG3) | [Fiction](https://open.spotify.com/album/04sFbywbBnpQwZpcdyLBf4) | 4:03 | 2022-07-07 | 2022-07-16 |
 | [Fightin Pose](https://open.spotify.com/track/2pZ5eJYGW9T8Gd3vwyOLl4) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Fightin Pose](https://open.spotify.com/album/2pNXhWFgPcxYp8N5GAL7Ro) | 3:48 | 2022-07-07 | 2022-07-18 |
+| [Fighting My Way](https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi) | [初星学園](https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [花海咲季](https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN) | [Fighting My Way](https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW) | 3:19 | 2024-05-23 |  |
 | [Find the truth](https://open.spotify.com/track/11kTme3riMq4bEgawgtGT6) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [Find the truth](https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o) | 3:50 | 2022-06-14 | 2022-07-25 |
 | [Fixer](https://open.spotify.com/track/1YbKeP9f10A8cDmHHIugwI) | [Yui Ninomiya](https://open.spotify.com/artist/7HCJJr9kZs3qiKJVxjRXsk) | [Fixer](https://open.spotify.com/album/1hlrglBu9F6A3Wai9VeT3m) | 3:36 | 2024-03-26 | 2024-04-17 |
 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 | 2022-06-09 | 2024-04-17 |
@@ -258,7 +259,7 @@
 | [Realize](https://open.spotify.com/track/1vbWvIDfJYYyLVke6I3Vwk) | [Konomi Suzuki](https://open.spotify.com/artist/3O0kLS5sLZ41XZRxjBKmLF) | [TVアニメ「Re:ゼロから始める異世界生活」2nd seasonオープニングテーマ「Realize」](https://open.spotify.com/album/10yod2vdNVJ4gtLT79TdLR) | 4:04 | 2022-06-12 | 2022-06-23 |
 | [REALiZE](https://open.spotify.com/track/4HFlBhRFp14CcbD8RReUB8) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [REALiZE](https://open.spotify.com/album/5rA7l87Gxow5vfEU4tVMiG) | 3:10 | 2023-06-13 |  |
 | [rebind](https://open.spotify.com/track/29TrJvPHW8SuL9Y7wg72Ui) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [rebind](https://open.spotify.com/album/0xaMjXAT0lpUKlZ3zV691n) | 4:42 | 2023-01-10 | 2023-02-15 |
-| [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 |  |
+| [Red:birthmark](https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe) | [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [Red:birthmark](https://open.spotify.com/album/7AY0g8TDN47O4adtsPLFgj) | 3:36 | 2023-04-11 | 2024-05-24 |
 | [remember](https://open.spotify.com/track/37L7Zjb22r6sRPjwDKNJtG) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [remember](https://open.spotify.com/album/6LEUN2BTXQBHx5O8DcHtPu) | 5:49 | 2022-10-03 | 2024-01-26 |
 | [remember](https://open.spotify.com/track/4LnRLsKhypMfOqExy6QanW) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [Orion Blue \(Special Edition\)](https://open.spotify.com/album/18fDDV05JDXFmNSACmKj7r) | 5:50 | 2022-06-24 | 2022-07-29 |
 | [Repaint](https://open.spotify.com/track/4ONakL7VOgMug2YNLLlg2i) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Repaint](https://open.spotify.com/album/0HBfHvwN912Vr7ggTW2PFP) | 3:53 | 2022-06-12 | 2022-07-25 |

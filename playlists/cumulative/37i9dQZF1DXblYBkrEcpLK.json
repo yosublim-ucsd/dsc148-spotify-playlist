@@ -1751,6 +1751,32 @@
     },
     {
       "album": {
+        "name": "Fighting My Way",
+        "url": "https://open.spotify.com/album/3fwJuPDLZ3v7CMCdCqiADW"
+      },
+      "artists": [
+        {
+          "name": "\u521d\u661f\u5b66\u5712",
+          "url": "https://open.spotify.com/artist/4C9binD0PqNg8nLD93FQpr"
+        },
+        {
+          "name": "Giga",
+          "url": "https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS"
+        },
+        {
+          "name": "\u82b1\u6d77\u54b2\u5b63",
+          "url": "https://open.spotify.com/artist/3mzeh6yk3FFBVsxodzs5cN"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199906,
+      "name": "Fighting My Way",
+      "url": "https://open.spotify.com/track/0Mk3AtI0pacKbiGiZo9bOi"
+    },
+    {
+      "album": {
         "name": "Find the truth",
         "url": "https://open.spotify.com/album/3LfcO5kUpQBwGFwT4DkM6o"
       },
@@ -4716,7 +4742,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 216826,
       "name": "Red:birthmark",
       "url": "https://open.spotify.com/track/29m9hdcziVa1g3FrXtdNOe"

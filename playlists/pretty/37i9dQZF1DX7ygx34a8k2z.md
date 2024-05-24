@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 
 > dig through the record bin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,584 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,700 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 17 | [Lowlife \- '92 cassette](https://open.spotify.com/track/1foEqghEYeYPRnQzNVSNGQ) | [Heatmiser](https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo) | [Lowlife \('92 cassette\)](https://open.spotify.com/album/1oQkKAhEUBaqLJydH2oNwG) | 1:45 |
 | 18 | [Little Birds \- Live \[2014\]](https://open.spotify.com/track/337ozPp0qC9WVOtqeA6vW0) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [Little Birds](https://open.spotify.com/album/6W06B6AqeuOXBAIKGqbGHT) | 6:13 |
 | 19 | [Harness Your Hopes \- B\-side](https://open.spotify.com/track/4vsoWZcvtvSsE0OiVvDDvX) | [Pavement](https://open.spotify.com/artist/3inCNiUr4R6XQ3W43s9Aqi) | [Brighten the Corners: Nicene Creedence Ed.](https://open.spotify.com/album/2z8iibF0hCuBb9h9gYkuO7) | 3:26 |
-| 20 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
-| 21 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 20 | [All Apologies](https://open.spotify.com/track/1Ic9pKxGSJGM0LKeqf6lGe) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 3:53 |
+| 21 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:18 |
 | 22 | [Glory Box](https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Dummy](https://open.spotify.com/album/3539EbNgIdEDGBKkUf4wno) | 5:08 |
 | 23 | [Fake Plastic Trees](https://open.spotify.com/track/73CKjW3vsUXRpy3NnX4H7F) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:50 |
 | 24 | [Shiny Happy People](https://open.spotify.com/track/1v2zyAJrChw5JnfafSkwkJ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 3:45 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygx34a8k2z.md) - [plain]
 | 74 | [Piano Fire](https://open.spotify.com/track/0N3H8hAe6Lfu2iGSxGVdGQ) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE), [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [It's A Wonderful Life](https://open.spotify.com/album/6iP3HGmoRXFUrKiml2QVkz) | 2:43 |
 | 75 | [Game Of Pricks](https://open.spotify.com/track/7E99aG3oPQslXHHdnKFAmB) | [Guided By Voices](https://open.spotify.com/artist/4oV5EVJ0XFWsJKoOvdRPvl) | [Alien Lanes](https://open.spotify.com/album/4QV8iMlscaIpidQHcErzbE) | 1:33 |
 | 76 | [I Don't Know \- Remastered 2009](https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx), [Miho Hatori](https://open.spotify.com/artist/21StrITbN3uLjv5OdsLAja) | [Hello Nasty \(Deluxe Edition/Remastered\)](https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB) | 3:00 |
-| 77 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
+| 77 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
 | 78 | [You Can Have It All](https://open.spotify.com/track/5s91S8hSrJXqYdhwHOEioV) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [And Then Nothing Turned Itself Inside\-Out](https://open.spotify.com/album/5iVEe1GHMtvUHwwqArThFa) | 4:36 |
-| 79 | [Human Behaviour](https://open.spotify.com/track/5OnyZ56HLhrWOXdzeETqLk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 4:12 |
+| 79 | [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 |
 | 80 | [Go Man Go](https://open.spotify.com/track/4gC9PZqUSZbfzm8LEygxZD) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Go Man Go](https://open.spotify.com/album/0NIscR0RzlDtKmHFR3ya1s) | 2:16 |
 | 81 | [Heroin Girl](https://open.spotify.com/track/3y6aldPuiRmCzamj6pivBM) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 2:23 |
 | 82 | [Dirty Boots](https://open.spotify.com/track/5X9c0LL84kJN8Ok2UC6B6w) | [Sonic Youth](https://open.spotify.com/artist/5UqTO8smerMvxHYA5xsXb6) | [Goo](https://open.spotify.com/album/5iYYQwB0oH9FVyVlaOXZdr) | 5:28 |

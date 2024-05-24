@@ -2,7 +2,7 @@
 
 ### [Summer Pop Hits](https://open.spotify.com/playlist/0t5sCAa21rb3bjm4Yl7xDv)
 
-> The hottest tracks you want to hear, all in one playlist! Cover: Billie Eilish
+> The hottest tracks you want to hear, all in one playlist! Cover: Nelly Furtado
 
 300 songs - 15 hr 26 min
 

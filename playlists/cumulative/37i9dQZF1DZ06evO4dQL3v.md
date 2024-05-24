@@ -2,7 +2,7 @@
 
 ### [This Is Banda Toro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4dQL3v)
 
-> This Is Banda Toro\. Los temas esenciales, todos en una lista.
+> This is Banda Toro\. The essential tracks, all in one playlist.
 
 99 songs - 4 hr 44 min
 
@@ -29,7 +29,7 @@
 | [Cuatro Caminos \- Estilo Tierra Caliente](https://open.spotify.com/track/4jYAKZXRsEZ2PtK1uG8d3z) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 | 2022-06-01 | 2023-12-25 |
 | [Cumbia Opera](https://open.spotify.com/track/76K2mVFJFLpKajgYLAdnmp) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Mano a Mano y Quebrando](https://open.spotify.com/album/4MjTnuBtgySGCo530kj4QH) | 3:52 | 2022-06-01 | 2022-11-15 |
 | [Cómo Te Extraño](https://open.spotify.com/track/1QeTrtktIEFqZXtSKvuzxM) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2), [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cómo Te Extraño](https://open.spotify.com/album/7IvILOjGYxYa7eUsiDQjwl) | 2:56 | 2023-07-22 | 2023-11-11 |
-| [Dame un Beso y Dime Adios](https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:50 | 2024-02-23 |  |
+| [Dame un Beso y Dime Adios](https://open.spotify.com/track/2110VkSKDKTlr6jdV1GVR2) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Polvo y Nada](https://open.spotify.com/album/2bISkaPDVGVa00GcpvFLiE) | 2:50 | 2024-02-23 | 2024-05-24 |
 | [Debajo de los Laureles \- Estilo Tierra Caliente](https://open.spotify.com/track/4x8nrA5hk5pGzaNKFx7dJq) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Al Estilo Tierra Caliente](https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb) | 2:17 | 2022-06-01 |  |
 | [Dichos y Refranes](https://open.spotify.com/track/0uNeDDaIa1tvb7Ejec9N7d) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:14 | 2022-06-01 |  |
 | [El Caminante](https://open.spotify.com/track/20cJBbPZFn5BmqBbwxuHXS) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [El Caminante Recordando los Exitos, Vol\. 1](https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf) | 2:43 | 2022-06-01 |  |
@@ -53,7 +53,7 @@
 | [Esta Noche](https://open.spotify.com/track/2t3kXw5RlRVtczzfxzs1Io) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Tamborazo Zacatecano Del cañon De Juchipila](https://open.spotify.com/artist/5yTedii3ng1yrSuJdrUhkX) | [El Caballo Blanco, Vol\. 4](https://open.spotify.com/album/0K0vOfa88awSPeNiAwFVX3) | 2:21 | 2024-01-23 | 2024-02-28 |
 | [Funk Town](https://open.spotify.com/track/489KguuubKHZbLtUQSnKK6) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Funky Town Recordando los Exitos, Vol\. 6](https://open.spotify.com/album/3qv9mycLS6sXaEkrNVSkAy) | 4:06 | 2022-06-01 |  |
 | [Gema](https://open.spotify.com/track/2IOFMWRvVDiOrSqyHQdzRv) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Vamos a la Playa, Recordando los Exitos](https://open.spotify.com/album/0AKZGV4HnYAhsc4rIBmzpo) | 2:20 | 2022-06-01 |  |
-| [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 | 2022-09-11 | 2024-05-11 |
+| [La Calandria \- Estilo Tierra Caliente](https://open.spotify.com/track/304PEdacbiytbOI3tRmO2I) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:48 | 2022-09-11 |  |
 | [La Calandria Canta](https://open.spotify.com/track/6CIOQAVklQM6h2N98e9uc8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg), [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Exitos de Rigo Tovar Con Banda](https://open.spotify.com/album/3quqBXdeUeP0pSQ5hz4Kra) | 2:04 | 2023-07-08 | 2024-01-24 |
 | [La Falda Cortita](https://open.spotify.com/track/0yJtjeAoUc2yYxpPVejqES) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Rios de Babilonia](https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa) | 2:53 | 2022-08-09 | 2022-08-21 |
 | [La Leccion](https://open.spotify.com/track/61pAsXfJhNvB8DNg4ROCb8) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 3:00 | 2022-06-01 | 2024-04-08 |

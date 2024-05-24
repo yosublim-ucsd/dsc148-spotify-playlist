@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nFoto: Vlntna B",
-  "num_followers": 13477,
+  "num_followers": 13478,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,22 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj"
+        "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
+        "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Javiera Parra",
+          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
+        },
+        {
+          "name": "Los Imposibles",
+          "url": "https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz"
         }
       ],
-      "duration_ms": 183665,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw"
+      "duration_ms": 225026,
+      "name": "Maldita Primavera",
+      "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
     },
     {
       "added_at": "2024-05-09 15:19:52",
@@ -163,22 +167,18 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "AM + bonus Tracks (Edici\u00f3n Aniversario)",
-        "url": "https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel"
+        "name": "Moonlight",
+        "url": "https://open.spotify.com/album/3XWaFTDZ8HW5lEkbgznPvj"
       },
       "artists": [
         {
-          "name": "Javiera Parra",
-          "url": "https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8"
-        },
-        {
-          "name": "Los Imposibles",
-          "url": "https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz"
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Maldita Primavera",
-      "url": "https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N"
+      "duration_ms": 183665,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5e01tLlWcWCoeVYPthgeRw"
     },
     {
       "added_at": "2024-05-09 15:19:52",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "14F",
-        "url": "https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0"
-      },
-      "artists": [
-        {
-          "name": "Anto Bosman",
-          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
-        }
-      ],
-      "duration_ms": 142800,
-      "name": "14F",
-      "url": "https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr"
-    },
-    {
-      "added_at": "2024-05-09 15:19:52",
-      "album": {
         "name": "Adentro",
         "url": "https://open.spotify.com/album/3WTzAP8jDP47QJ5XxpfgOt"
       },
@@ -583,22 +567,34 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "Heredera del Surrealismo",
-        "url": "https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp"
+        "name": "14F",
+        "url": "https://open.spotify.com/album/2VOzU65Y6m4Yp4okBNu5D0"
       },
       "artists": [
         {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        },
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+          "name": "Anto Bosman",
+          "url": "https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa"
         }
       ],
-      "duration_ms": 205712,
-      "name": "No Ver\u00e1n",
-      "url": "https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3"
+      "duration_ms": 142800,
+      "name": "14F",
+      "url": "https://open.spotify.com/track/4kJrtSLNJCJnhvk0VDFyqr"
+    },
+    {
+      "added_at": "2024-05-09 15:19:52",
+      "album": {
+        "name": "Sesi\u00f3n Jeanette",
+        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
     },
     {
       "added_at": "2024-05-09 15:19:52",
@@ -619,18 +615,22 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "Sesi\u00f3n Jeanette",
-        "url": "https://open.spotify.com/album/6tj2gquksXJdGvjtwi8rEg"
+        "name": "Heredera del Surrealismo",
+        "url": "https://open.spotify.com/album/1vHqzXYMKDTcpfmXmjT1gp"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        },
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
         }
       ],
-      "duration_ms": 207866,
-      "name": "El Muchacho de los Ojos Tristes - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/0S9m7Kt0IVrCklh72WS3Wd"
+      "duration_ms": 205712,
+      "name": "No Ver\u00e1n",
+      "url": "https://open.spotify.com/track/1I5nIuy4SYknntirrJY7Y3"
     },
     {
       "added_at": "2024-05-09 15:19:52",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "Agarra",
-        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
-      },
-      "artists": [
-        {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Agarra",
-      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
-    },
-    {
-      "added_at": "2024-05-09 15:19:52",
-      "album": {
         "name": "Divina",
         "url": "https://open.spotify.com/album/5CyX6YevWHdid0U4XqGyYe"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 159000,
       "name": "Divina",
       "url": "https://open.spotify.com/track/06WgKWhh02DQBtoHRy69dU"
+    },
+    {
+      "added_at": "2024-05-09 15:19:52",
+      "album": {
+        "name": "Agarra",
+        "url": "https://open.spotify.com/album/36zOI4pViRyY786coy335g"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Agarra",
+      "url": "https://open.spotify.com/track/5thlCBlPWSXxUJFdG0fEyH"
     },
     {
       "added_at": "2024-05-09 15:19:52",
@@ -851,22 +851,18 @@
     {
       "added_at": "2024-05-09 15:19:52",
       "album": {
-        "name": "Mata x m\u00ed",
-        "url": "https://open.spotify.com/album/5MqowTfMFc7cjt7WNzmVBd"
+        "name": "Al calor de un sol que acaba de morir",
+        "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
       "artists": [
         {
-          "name": "Akatumamy",
-          "url": "https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd"
-        },
-        {
-          "name": "Nass G",
-          "url": "https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF"
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
         }
       ],
-      "duration_ms": 133331,
-      "name": "Mata x m\u00ed",
-      "url": "https://open.spotify.com/track/3V8CT37HqIiD7GytKdlLkr"
+      "duration_ms": 178055,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/0bxSYZKwDjqFm11YRt987r"
     }
   ],
   "unique_name": "EQUAL Chile",

@@ -2,7 +2,7 @@
 
 ### [Massive Dance Hits](https://open.spotify.com/playlist/37i9dQZF1DX5uokaTN4FTR)
 
-> The UK's biggest dance playlist! Cover: Ben Hemsley
+> The UK's biggest dance playlist! Cover: BL3SS
 
 588 songs - 1 day 6 hr 50 min
 

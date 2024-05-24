@@ -2926,7 +2926,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 218373,
       "name": "Heartquake",
       "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
@@ -4940,6 +4940,24 @@
       "duration_ms": 257577,
       "name": "New Utensils",
       "url": "https://open.spotify.com/track/4TW6a1UPSAfzK1f11aJLK9"
+    },
+    {
+      "album": {
+        "name": "Next Semester",
+        "url": "https://open.spotify.com/album/7aeIwIg63Qyt1bzjsPufzl"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234400,
+      "name": "Next Semester",
+      "url": "https://open.spotify.com/track/4PCD9jZRM2VswisaTBhc25"
     },
     {
       "album": {

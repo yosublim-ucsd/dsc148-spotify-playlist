@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Geisha",
-  "name": "Jiran Akrab",
+  "description": "Koleksi lagu tersayang dari para artis negeri jiran. Cover: Melly Goeslaw",
+  "name": "Berjiran",
   "tracks": [
     {
       "album": {
@@ -20,6 +20,28 @@
       "duration_ms": 232226,
       "name": "1000 Tahun Lamanya",
       "url": "https://open.spotify.com/track/2x9UGhofPBZdeam4uZCUID"
+    },
+    {
+      "album": {
+        "name": "Ada Apa Dengan Cinta? (Original Soundtrack) [Remastered 2024]",
+        "url": "https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        },
+        {
+          "name": "Eric Erlangga",
+          "url": "https://open.spotify.com/artist/39Ne6HAorLNJClkUmIGVm2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253800,
+      "name": "Ada Apa Dengan Cinta (feat. Eric Erlangga) - Remastered 2024",
+      "url": "https://open.spotify.com/track/0LVnwiUhNuq1fzMsyzf6ew"
     },
     {
       "album": {
@@ -136,6 +158,24 @@
       "duration_ms": 221133,
       "name": "Berdua Lebih Baik",
       "url": "https://open.spotify.com/track/1QjAmxYS652vXrSy3BhZ9D"
+    },
+    {
+      "album": {
+        "name": "Ada Apa Dengan Cinta? (Original Soundtrack) [Remastered 2024]",
+        "url": "https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215600,
+      "name": "Bimbang - Remastered 2024",
+      "url": "https://open.spotify.com/track/2ScdiGpRHznTFtqrQNmePu"
     },
     {
       "album": {
@@ -460,10 +500,28 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 179693,
       "name": "Ku Bahagia",
       "url": "https://open.spotify.com/track/1fmbs7VQlf1X55E99IYyzQ"
+    },
+    {
+      "album": {
+        "name": "Ada Apa Dengan Cinta? (Original Soundtrack) [Remastered 2024]",
+        "url": "https://open.spotify.com/album/3ONiigYwrqhTaU406vuDXQ"
+      },
+      "artists": [
+        {
+          "name": "Melly Goeslaw",
+          "url": "https://open.spotify.com/artist/6oM1PyiV3LidEUIHKubg3W"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177493,
+      "name": "Ku Bahagia - Remastered 2024",
+      "url": "https://open.spotify.com/track/4EwQUyMUy8WsLc1IkUPdNk"
     },
     {
       "album": {
@@ -626,7 +684,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 249146,
       "name": "Penantian",
       "url": "https://open.spotify.com/track/6v9LrcHY72rvk1HtKOeAwj"
@@ -662,7 +720,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 235253,
       "name": "Perempuanku",
       "url": "https://open.spotify.com/track/7LPM7izo6bPUrvnI9EJ4em"
@@ -907,6 +965,24 @@
     },
     {
       "album": {
+        "name": "Sumpah & Cinta Matiku",
+        "url": "https://open.spotify.com/album/1JED0cowG7lFPgzdS2Jnpv"
+      },
+      "artists": [
+        {
+          "name": "Nidji",
+          "url": "https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285693,
+      "name": "Sumpah & Cinta Matiku",
+      "url": "https://open.spotify.com/track/4XkRq1i9xbVruOchbfGBz5"
+    },
+    {
+      "album": {
         "name": "King of Soundtrack",
         "url": "https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA"
       },
@@ -972,7 +1048,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 265560,
       "name": "Tercipta Untukku",
       "url": "https://open.spotify.com/track/4CGpzrPjP0xaJfN9g9FN9A"

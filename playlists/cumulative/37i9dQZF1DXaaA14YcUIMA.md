@@ -4,7 +4,7 @@
 
 > Anda pa'lante galopante con los grandes del género romántico\. Los Temerarios en portada.
 
-188 songs - 10 hr 35 min
+189 songs - 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Me Quede Llorando](https://open.spotify.com/track/1miGbo3IxDxe1im0b4fvBM) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Verano De Amor](https://open.spotify.com/album/3KasQgz3Q9WjvbrD270lf5) | 3:25 | 2022-03-17 |  |
 | [Me Volví A Acordar De Ti](https://open.spotify.com/track/6n8Dl1KMjFoUIF9mzto4VP) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Me Volvi A Acordar De Ti](https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy) | 3:27 | 2024-02-23 |  |
 | [Melodia Desencadenada](https://open.spotify.com/track/4wpIWC2jNrGEcDjgXvsUsf) | [Grupo Pegasso](https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv) | [Soy El Mismo](https://open.spotify.com/album/3BvXrTvzMYqZNz4hnqXSvj) | 3:40 | 2022-03-17 |  |
+| [Mi loca pasión](https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:43 | 2024-02-23 |  |
 | [Mi Mayor Necesidad](https://open.spotify.com/track/5Cl5cfFNJTnTmtgSwleobq) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Quiereme](https://open.spotify.com/album/1NzyJD7kRhW8U5i1od2LH6) | 4:05 | 2022-03-17 | 2024-02-23 |
 | [Mi Pequeño Amor](https://open.spotify.com/track/44vo3BDIwGHl0oxr4m8bM1) | [Liberación](https://open.spotify.com/artist/5xwugJ4uudppmOCCZateE5) | [Entre Nubes](https://open.spotify.com/album/0oFjmp6FMP0vKHrscRXSGc) | 3:10 | 2022-03-17 | 2024-02-23 |
 | [Mi Pobre Corazon](https://open.spotify.com/track/3ZUYYoQDmfKA7Lw4rk51C3) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Y Para Siempre ...](https://open.spotify.com/album/3UtmdjK1s3CC5EFRND6428) | 3:10 | 2022-03-17 | 2022-07-29 |
@@ -194,7 +195,7 @@
 | [Y Me Dijo Eres Tu](https://open.spotify.com/track/4tpgtrbQa9d3WGVm9eMB93) | [Los Rodarte](https://open.spotify.com/artist/5mCFkp1QcLQe7W67MudPoj) | [Los Exitos Que Hicieron Epoca](https://open.spotify.com/album/6pn36pIh93Hd2AYKDbs6PY) | 3:11 | 2022-03-17 | 2022-11-13 |
 | [Y Tú Con Él](https://open.spotify.com/track/1UcuiA4y04FqFZnWUBGIDS) | [Industria del Amor](https://open.spotify.com/artist/3ecREliS3Q8g2sCk40y0dw) | [Para Ti](https://open.spotify.com/album/6vKTeSlxFAq1vh3Ajz35CM) | 3:37 | 2022-03-17 |  |
 | [Yo Te Necesito](https://open.spotify.com/track/7yMWuJ6JOZ8Joo5gQrNaYA) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Yo Te Necesito](https://open.spotify.com/album/3hEe5rX51oJiXS3Lv9Yeiz) | 2:58 | 2022-03-17 | 2024-05-22 |
-| [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 | 2022-03-17 |  |
+| [Él Soy Yo](https://open.spotify.com/track/2grjdrZ1wGyoykMgDbnnFW) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Linea De Oro Contigo O Sin Ti](https://open.spotify.com/album/5VLGX5BkN6IdRYNtETZ6Cs) | 3:15 | 2022-03-17 | 2024-05-24 |
 | [Él Soy Yo](https://open.spotify.com/track/3Mca7rs2qXlSlqU4XlSZRe) | [Samuray](https://open.spotify.com/artist/6fBjnfeYEU3VFuQl8RPrp8) | [Al Rojo Vivo](https://open.spotify.com/album/1GNeAMyys4dVVUUmwN7lo8) | 3:17 | 2024-02-23 | 2024-04-19 |
 
 \*This playlist was first scraped on 2022-05-23. Prior content cannot be recovered.

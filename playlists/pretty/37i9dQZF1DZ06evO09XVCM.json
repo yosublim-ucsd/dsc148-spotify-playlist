@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 32575,
+  "num_followers": 32579,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAABHA/pmRaXoGx+fKs7zO3jt",
+  "snapshot_id": "Zk01gAAAAADa+Y8OC7FHVZgWaGkGegFl",
   "tracks": [
     {
       "added_at": null,
@@ -59,26 +59,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
-        "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
+        "name": "Dig Your Roots",
+        "url": "https://open.spotify.com/album/09KOjaflTBRE28GVvXqkYC"
       },
       "artists": [
         {
+          "name": "Florida Georgia Line",
+          "url": "https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg"
+        },
+        {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        },
-        {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
         }
       ],
-      "duration_ms": 243226,
-      "name": "Cry Cry Cry",
-      "url": "https://open.spotify.com/track/1VilEaotlgWLe02BEUIyZP"
+      "duration_ms": 184986,
+      "name": "Life Is A Honeymoon",
+      "url": "https://open.spotify.com/track/67tasguLElvxPOZXkwcAIF"
     },
     {
       "added_at": null,
@@ -115,6 +111,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation",
+        "url": "https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        },
+        {
+          "name": "Paula Fuga",
+          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
+        }
+      ],
+      "duration_ms": 243226,
+      "name": "Cry Cry Cry",
+      "url": "https://open.spotify.com/track/1VilEaotlgWLe02BEUIyZP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -135,6 +155,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Disney Reggae Club",
+        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "What a Wonderful World",
+      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
@@ -151,22 +187,6 @@
       "duration_ms": 190586,
       "name": "Love",
       "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Disney Reggae Club",
-        "url": "https://open.spotify.com/album/4TwY0yW17Tqf4qNcr6tVSg"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 198240,
-      "name": "What a Wonderful World",
-      "url": "https://open.spotify.com/track/36bNugatsCkXmPz3uJOdIx"
     },
     {
       "added_at": null,
@@ -395,6 +415,22 @@
       "duration_ms": 149306,
       "name": "All You Need Is Love",
       "url": "https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "A Lifetime",
+      "url": "https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk"
     },
     {
       "added_at": null,
@@ -687,22 +723,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
       },
       "artists": [
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Toots Hibbert",
-          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
         }
       ],
-      "duration_ms": 198066,
-      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
-      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
+      "duration_ms": 161693,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
     },
     {
       "added_at": null,
@@ -735,8 +767,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+        "name": "Family Time",
+        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        },
+        {
+          "name": "Toots Hibbert",
+          "url": "https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "Take Me To Jamaica (feat. Toots Hibbert)",
+      "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ziggy Marley",
+        "url": "https://open.spotify.com/album/3Uzv16OeH1x0vbor9FwbHM"
       },
       "artists": [
         {
@@ -744,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 161693,
-      "name": "Black Cat",
-      "url": "https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq"
+      "duration_ms": 201800,
+      "name": "Start It Up",
+      "url": "https://open.spotify.com/track/176n64b4I4o5VJY2eGJneI"
     },
     {
       "added_at": null,
@@ -763,6 +815,22 @@
       "duration_ms": 327657,
       "name": "Personal Revolution - Live",
       "url": "https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wild and Free",
+        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "MMMM MMMM",
+      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
     },
     {
       "added_at": null,
@@ -787,22 +855,6 @@
       "duration_ms": 213480,
       "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
       "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ziggy Marley",
-        "url": "https://open.spotify.com/album/3Uzv16OeH1x0vbor9FwbHM"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 201800,
-      "name": "Start It Up",
-      "url": "https://open.spotify.com/track/176n64b4I4o5VJY2eGJneI"
     },
     {
       "added_at": null,
@@ -839,18 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild and Free",
-        "url": "https://open.spotify.com/album/6yek0cOvHIJMWrqhamDq4o"
+        "name": "dellali",
+        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
       },
       "artists": [
+        {
+          "name": "Cheb Mami",
+          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
+        },
         {
           "name": "Ziggy Marley",
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 210720,
-      "name": "MMMM MMMM",
-      "url": "https://open.spotify.com/track/1jpk6gBEQginuRnNzpuDKp"
+      "duration_ms": 235306,
+      "name": "Madanite",
+      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
     },
     {
       "added_at": null,
@@ -875,46 +931,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dellali",
-        "url": "https://open.spotify.com/album/1sUJo5AFoHomnM2ANQk28m"
-      },
-      "artists": [
-        {
-          "name": "Cheb Mami",
-          "url": "https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 235306,
-      "name": "Madanite",
-      "url": "https://open.spotify.com/track/5FHoIbTVJnhagPgAZum1qi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Misery's End",
-        "url": "https://open.spotify.com/album/4CBNoIvY1WJ0ywFkeJpQMW"
-      },
-      "artists": [
-        {
-          "name": "Paula Fuga",
-          "url": "https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 299827,
-      "name": "High Tide or Low Tide (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lift Our Spirits Raise Our Voice",
         "url": "https://open.spotify.com/album/6adgWIIDhXZrs4WgZWxqUQ"
       },
@@ -927,26 +943,6 @@
       "duration_ms": 236000,
       "name": "Lift Our Spirits Raise Our Voice",
       "url": "https://open.spotify.com/track/7IHx43ARFywJyi0SDbY85D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "This Train (feat. Willie Nelson)",
-      "url": "https://open.spotify.com/track/0vs6bNXqs7HnqgsmEoaUaf"
     }
   ],
   "unique_name": "This Is Ziggy Marley",

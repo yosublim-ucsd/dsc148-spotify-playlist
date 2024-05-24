@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-130 songs - 7 hr 20 min
+131 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [CAPTAIN](https://open.spotify.com/track/3LqL83imidz1UIo4FR1Oke) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [PAGE](https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g) | 3:02 | 2024-03-08 |  |
 | [Cat's Nap zzZ \(feat\. Utopi\)](https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H) | [SBGB](https://open.spotify.com/artist/0Xemods2DGcYQi3sqxtHBO), [Utopi](https://open.spotify.com/artist/3yK1E102HvCIcKPvcvtSul) | [Cat's Nap zzZ](https://open.spotify.com/album/701D0tYv2uuOmTCVSKIkMD) | 3:11 | 2024-03-27 |  |
 | [Celeb](https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:19 | 2023-11-03 | 2024-03-09 |
+| [Ceremony](https://open.spotify.com/track/5YRxqekM8SPnLRaY4DClAf) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [Ceremony](https://open.spotify.com/album/4EbINVToIz4CpsXtyD8udE) | 3:32 | 2024-03-27 |  |
 | [CHEEKY](https://open.spotify.com/track/55uzraCUFDtQGFqDaJUoUr) | [EL7Z UP](https://open.spotify.com/artist/27xea8r2bsY7UlsbaRiwMQ) | [7+UP](https://open.spotify.com/album/4C6ab9EwBiR8Y5adO9o6bQ) | 2:54 | 2023-11-03 | 2024-03-09 |
 | [Cinderella](https://open.spotify.com/track/44p0v6RpEcT0ozV5WSM0b3) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Winter Special Digital Single Album ′Cinderella′](https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1) | 3:00 | 2023-11-03 |  |
 | [Color It](https://open.spotify.com/track/5kFDEZPQLyyt7bvaiqPyRc) | [MRCH](https://open.spotify.com/artist/4S0q5n7ZzNzeiW0dAUnYHl) | [Color It](https://open.spotify.com/album/5b4eIlmtGlTHfY6yPTjD75) | 3:19 | 2024-03-08 |  |
@@ -69,7 +70,7 @@
 | [I ≠ DOLL](https://open.spotify.com/track/1d6xaY4JvvqTWfgCeJAtWa) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [I ≠ DOLL](https://open.spotify.com/album/4i7Qx3fYBVlXJ7OOvqPXlT) | 2:30 | 2023-11-03 |  |
 | [icanttellUeverything](https://open.spotify.com/track/3QlASzSiXSb9rSwdsfucjm) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 2:30 | 2024-03-08 |  |
 | [INEEDYOURLOVE](https://open.spotify.com/track/0PKts6fqZDse9N3Kvke1AW) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [INEEDYOURLOVE](https://open.spotify.com/album/0OTLAu7ndluaZvEDsUzcmh) | 3:42 | 2023-11-03 | 2023-12-02 |
-| [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 | 2024-03-27 |  |
+| [Is this love? \(with YOUN TOVEN\)](https://open.spotify.com/track/6AzNmQzi4gFwlbcfCUemJ2) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6), [YOUN TOVEN](https://open.spotify.com/artist/6AXmdfKN5XhluSBP5wCrEr) | [Is this love?](https://open.spotify.com/album/1FUgKWwkD6La6MGm0Ndh5K) | 3:03 | 2024-03-27 | 2024-05-24 |
 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 | 2024-03-27 |  |
 | [Kidult](https://open.spotify.com/track/1kmmKv3L4kGmoPu8aDFOmk) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Heng:garæ](https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH) | 3:12 | 2023-11-03 | 2024-03-09 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2023-11-03 | 2024-03-09 |

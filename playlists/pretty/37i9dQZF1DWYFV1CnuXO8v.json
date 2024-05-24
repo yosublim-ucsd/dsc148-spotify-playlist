@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 130545,
+  "num_followers": 130714,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -211,18 +211,18 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Habaytak Bel Thalata",
-        "url": "https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ"
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
       },
       "artists": [
         {
-          "name": "Nedaa Shrara",
-          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         }
       ],
-      "duration_ms": 216656,
-      "name": "Habaytak Bel Thalata",
-      "url": "https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD"
+      "duration_ms": 297597,
+      "name": "\u2060Ana Sekketen",
+      "url": "https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -243,50 +243,18 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Ana Sekketen",
-        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+        "name": "Habaytak Bel Thalata",
+        "url": "https://open.spotify.com/album/09VbBJVSGhQCsONrJQDQWJ"
       },
       "artists": [
         {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+          "name": "Nedaa Shrara",
+          "url": "https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI"
         }
       ],
-      "duration_ms": 297597,
-      "name": "\u2060Ana Sekketen",
-      "url": "https://open.spotify.com/track/3tVO32Rh8Aurb2hml62NMp"
-    },
-    {
-      "added_at": "2024-05-17 17:03:59",
-      "album": {
-        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
-      },
-      "artists": [
-        {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
-        }
-      ],
-      "duration_ms": 252065,
-      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
-      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
-    },
-    {
-      "added_at": "2024-05-17 17:03:59",
-      "album": {
-        "name": "\u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
-        "url": "https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "\u0644\u064a\u0644\u0649 - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
-      "url": "https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU"
+      "duration_ms": 216656,
+      "name": "Habaytak Bel Thalata",
+      "url": "https://open.spotify.com/track/7suFLDWMo2NTYS4DvDuXtD"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -307,6 +275,38 @@
       "duration_ms": 160336,
       "name": "Ahla Wahda",
       "url": "https://open.spotify.com/track/6zUTQHFa3gsmWyRxZzYe4e"
+    },
+    {
+      "added_at": "2024-05-17 17:03:59",
+      "album": {
+        "name": "\u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
+        "url": "https://open.spotify.com/album/7h5YXGDPG5nC2yNfRe5lLp"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "\u0644\u064a\u0644\u0649 - \u0643\u0627\u064a\u0631\u0648\u0643\u064a \u0645\u0646 \u0627\u0644\u0627\u0633\u062a\u0648\u062f\u064a\u0648",
+      "url": "https://open.spotify.com/track/5JtRiVuQRKqoEfueP1FVvU"
+    },
+    {
+      "added_at": "2024-05-17 17:03:59",
+      "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+        "url": "https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "duration_ms": 252065,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0634\u0648\u064a\u0629 \u0645\u0639\u0627\u0643",
+      "url": "https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Hala Khasa Gedan",
-        "url": "https://open.spotify.com/album/0MA5maRPOVZeQDw78MDadR"
-      },
-      "artists": [
-        {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
-        }
-      ],
-      "duration_ms": 332531,
-      "name": "Yaretak Fahemni",
-      "url": "https://open.spotify.com/track/4rwFKwkUgiavWjJlHBlr4J"
-    },
-    {
-      "added_at": "2024-05-17 17:03:59",
-      "album": {
         "name": "El Hob El Ha2e2y",
         "url": "https://open.spotify.com/album/1rBP7yd7cCeXPrH2CveD75"
       },
@@ -411,18 +395,34 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
       },
       "artists": [
         {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Aamel Nasini",
-      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
+      "duration_ms": 280592,
+      "name": "\u2060Farhana Maak",
+      "url": "https://open.spotify.com/track/4dyjX3gwtq9XZT8iEzYZlJ"
+    },
+    {
+      "added_at": "2024-05-17 17:03:59",
+      "album": {
+        "name": "Hala Khasa Gedan",
+        "url": "https://open.spotify.com/album/0MA5maRPOVZeQDw78MDadR"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "duration_ms": 332531,
+      "name": "Yaretak Fahemni",
+      "url": "https://open.spotify.com/track/4rwFKwkUgiavWjJlHBlr4J"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -443,18 +443,18 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Ana Sekketen",
-        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
       },
       "artists": [
         {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
         }
       ],
-      "duration_ms": 280592,
-      "name": "\u2060Farhana Maak",
-      "url": "https://open.spotify.com/track/4dyjX3gwtq9XZT8iEzYZlJ"
+      "duration_ms": 205333,
+      "name": "Aamel Nasini",
+      "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
+        "name": "Ana Sekketen",
+        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
+      },
+      "artists": [
+        {
+          "name": "Elissa",
+          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
+        }
+      ],
+      "duration_ms": 226309,
+      "name": "\u2060El Nazra El Oula",
+      "url": "https://open.spotify.com/track/4i4kb4Nj3mXIWQ2OR7zR4o"
+    },
+    {
+      "added_at": "2024-05-17 17:03:59",
+      "album": {
         "name": "Kol Elly Fi Alby",
         "url": "https://open.spotify.com/album/3mljnESPv1qiYVXy0yYBV0"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 167873,
       "name": "Hala Beek Ya Medala3",
       "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
-    },
-    {
-      "added_at": "2024-05-17 17:03:59",
-      "album": {
-        "name": "Ana Sekketen",
-        "url": "https://open.spotify.com/album/6sFV6GrrgCV2J6VOSPmt2o"
-      },
-      "artists": [
-        {
-          "name": "Elissa",
-          "url": "https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR"
-        }
-      ],
-      "duration_ms": 226309,
-      "name": "\u2060El Nazra El Oula",
-      "url": "https://open.spotify.com/track/4i4kb4Nj3mXIWQ2OR7zR4o"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -635,22 +635,18 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Awel Mara Etabelna",
-        "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
+        "name": "Lehqt Nafsy - Part 2",
+        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
       },
       "artists": [
         {
-          "name": "Hani Adel",
-          "url": "https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS"
-        },
-        {
-          "name": "Amir Eid",
-          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
         }
       ],
-      "duration_ms": 218827,
-      "name": "Awel Mara Etabelna",
-      "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
+      "duration_ms": 290796,
+      "name": "Esheq El Rooh",
+      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
     },
     {
       "added_at": "2024-05-17 17:03:59",
@@ -671,22 +667,6 @@
     {
       "added_at": "2024-05-17 17:03:59",
       "album": {
-        "name": "Lehqt Nafsy - Part 2",
-        "url": "https://open.spotify.com/album/2wiOuShzVOsXIihxOWZb1Y"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 290796,
-      "name": "Esheq El Rooh",
-      "url": "https://open.spotify.com/track/0qwdAX3DeYDfu8MvjtWAux"
-    },
-    {
-      "added_at": "2024-05-17 17:03:59",
-      "album": {
         "name": "Khaleke Fe Hodny el Leila",
         "url": "https://open.spotify.com/album/7hmxZMPPjo5hZhJyFWrnI4"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 200170,
       "name": "Khaleke Fe Hodny el Leila",
       "url": "https://open.spotify.com/track/5U7cXLPY3RyLxKF5bVGClf"
+    },
+    {
+      "added_at": "2024-05-17 17:03:59",
+      "album": {
+        "name": "Awel Mara Etabelna",
+        "url": "https://open.spotify.com/album/67TRGAtN2Sh2F6DuAeknju"
+      },
+      "artists": [
+        {
+          "name": "Hani Adel",
+          "url": "https://open.spotify.com/artist/2mqNN3AwsqhYMAGDlCwjOS"
+        },
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "duration_ms": 218827,
+      "name": "Awel Mara Etabelna",
+      "url": "https://open.spotify.com/track/1ifVT3ZS6GZEmOhJI050Sq"
     },
     {
       "added_at": "2024-05-17 17:03:59",

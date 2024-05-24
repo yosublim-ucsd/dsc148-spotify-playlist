@@ -2,7 +2,7 @@
 
 ### [New Dance Hits 2024](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: MEDUZA, OneRepublic, Leony
+> The best Dance and EDM tracks right now! Cover: Nelly Furtado, Tove Lo &amp; SG Lewis
 
 188 songs - 9 hr 51 min
 

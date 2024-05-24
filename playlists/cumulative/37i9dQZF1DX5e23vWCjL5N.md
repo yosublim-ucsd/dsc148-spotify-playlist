@@ -2,9 +2,9 @@
 
 ### [Liricisti](https://open.spotify.com/playlist/37i9dQZF1DX5e23vWCjL5N)
 
-> Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Kid Yugi
+> Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: MadMan
 
-170 songs - 9 hr 1 min
+172 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [LORO](https://open.spotify.com/track/7xMMN5LyDOjGry2NfTfUEA) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:18 | 2022-07-15 | 2024-04-19 |
 | [Magico \- RMX](https://open.spotify.com/track/6b8JPs39GF8QFqL7QCpAdv) | [Nerone](https://open.spotify.com/artist/7kG6A2lZMXeaD5YkubF5Kn), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Mondo Marcio](https://open.spotify.com/artist/6Fd10Q3sQq1NsvpFTlvMsN) | [Magico \(RMX\)](https://open.spotify.com/album/5sLfHeybDeYChi9Kb3qaS5) | 2:46 | 2023-11-02 | 2023-12-01 |
 | [Malafede](https://open.spotify.com/track/0bSEor7VCHPuRiwyT6dvTM) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [Club Dogo](https://open.spotify.com/album/3nPgVpEmlL2JCf2yhdEcFy) | 2:48 | 2024-01-12 |  |
+| [Mare Calmo](https://open.spotify.com/track/4fFgeSZzTn58kUawHfW532) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia \(Deluxe\)](https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD) | 2:27 | 2024-05-23 |  |
 | [MI SENTO BENE](https://open.spotify.com/track/2v4kWcQ7LWML8TEQmLDAEO) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:03 | 2022-04-15 | 2024-01-12 |
 | [Millesimati \(con Noyz Narcos, Lazza, Salmo & J Lord\)](https://open.spotify.com/track/3E0PSVpSR5zk1X75gGh99o) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [Botox](https://open.spotify.com/album/1CjtjrWyjx2eT5OejciTVr) | 2:48 | 2022-09-15 | 2023-02-03 |
 | [Momenti No](https://open.spotify.com/track/4IxM8LopMS2014C2LTJEYu) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [X2VR](https://open.spotify.com/album/3ilgQgVMtxAxN2Jmb1OM29) | 3:12 | 2023-11-17 |  |
@@ -138,6 +139,7 @@
 | [PARTICOLARI SPORCHI](https://open.spotify.com/track/5ALGkFTsKo8CGnFjBlAAZI) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [ICON](https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW) | 2:47 | 2024-03-15 |  |
 | [Peccati](https://open.spotify.com/track/26VKv5ZFXCdpF54mfoH4MS) | [Ghali](https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L) | [PIZZA KEBAB Vol\. 1](https://open.spotify.com/album/36pfG4aLiawluO8PgGZkeh) | 2:16 | 2023-11-30 | 2024-02-23 |
 | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/track/2tlHNbWsOphjepsOTyv55Y) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Players Club '23 \(Knights of the Posse\) \(feat\. Nerissima Serpe, Artie 5ive, Tony Boy, Papa V, Low Red, Digital Astro & Kid Yugi\)](https://open.spotify.com/album/1Df8xOZdbcPDUdOPsTrEVC) | 5:58 | 2023-04-21 | 2023-05-05 |
+| [Plenilunio](https://open.spotify.com/track/03QMANutV0NfUiEGHRQBdo) | [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [Plenilunio](https://open.spotify.com/album/2BAhTMFQ6CnNgxw1GvIdOy) | 3:31 | 2024-05-23 |  |
 | [Pochette \(feat\. Noyz Narcos\)](https://open.spotify.com/track/7px3nxEoSvAHCvAZq3r38W) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 |  |
 | [Prefissi](https://open.spotify.com/track/19ik2WLPpAWJIy3k3Q2a2L) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:15 | 2023-01-13 |  |
 | [Quadrato \(feat\. Massimo Pericolo\)](https://open.spotify.com/track/7t1zhYgyeLNXfcxSHGlGU9) | [Jack The Smoker](https://open.spotify.com/artist/0vZAzVAFQL1gKLBPfnXMaS), [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq) | [Sedicinoni](https://open.spotify.com/album/7tIWAR5flU4Qej47dd5zOV) | 2:56 | 2024-05-02 |  |

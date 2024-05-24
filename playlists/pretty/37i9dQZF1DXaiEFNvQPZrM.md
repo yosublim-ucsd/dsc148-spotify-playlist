@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,460 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,626 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 36 | [Time Marches On](https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Time Marches On](https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6) | 3:05 |
 | 37 | [Chickens](https://open.spotify.com/track/1Z8BUFcizWq9j96VxK8jk9) | [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Chickens](https://open.spotify.com/album/44LtOB4v6VCOETzIc392Y0) | 3:35 |
 | 38 | [Where The Green Grass Grows](https://open.spotify.com/track/0nDjzA4kns1QOWPXuOn6Xw) | [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Everywhere](https://open.spotify.com/album/36STfe5P9Cln52ch4nw3i9) | 3:21 |
-| 39 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
+| 39 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
 | 40 | [Sounds Like Something I'd Do](https://open.spotify.com/track/5QAwDaUIcFOEYfsepGk0Fd) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 2:26 |
 | 41 | [Shoebox Money](https://open.spotify.com/track/7zp625x7gldRjoBuvcZ1MP) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Shoebox Money](https://open.spotify.com/album/66Aq72ocAWuVw0dDI1LXci) | 2:56 |
 | 42 | [Night Life \- \(Hot Country Artists to Watch\) \- Spotify Singles](https://open.spotify.com/track/6dJlulD7mTkgGyFnKTLM3N) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky), [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Spotify Singles](https://open.spotify.com/album/4dIIaejKvQW1sHG2YqlFbm) | 4:29 |
-| 43 | [Ol' Red](https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:41 |
+| 43 | [Cab In A Solo](https://open.spotify.com/track/67tSyNccxstGL1kLSR0wIb) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Cab In A Solo](https://open.spotify.com/album/24vM6kihi4Hm94KOyvqZBW) | 3:45 |
 | 44 | [Watermelon Crawl](https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [No Ordinary Man](https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu) | 3:01 |
 | 45 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
 | 46 | [Meet In the Middle](https://open.spotify.com/track/7lUE02KHkZM44BZgjCaWRO) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [Diamond Rio](https://open.spotify.com/album/5zpRuHrOSBkOrop2DJvBcr) | 3:18 |
@@ -89,12 +89,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 79 | [Next To You, Next To Me](https://open.spotify.com/track/37KWffCdnLyHqvhugCQNM6) | [Shenandoah](https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo) | [Now And Then](https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e) | 3:25 |
 | 80 | [If I Ever Was a Cowboy](https://open.spotify.com/track/4SLrCOVGrXzJkT9dejzP0U) | [Robby Johnson](https://open.spotify.com/artist/1yKm1X4CnWuMKpiFXlDNgs) | [Alive Right Now](https://open.spotify.com/album/3MQE9zQ1GI1E6pTGoYWxkQ) | 3:48 |
 | 81 | [Pickup Man](https://open.spotify.com/track/3QvOV1QYPPre7gjppKyeON) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Greatest Hits](https://open.spotify.com/album/6CUTxBQse7shPPF33yCRd0) | 3:36 |
-| 82 | [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 |
-| 83 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
-| 84 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
+| 82 | [Queen Of My Double Wide Trailer](https://open.spotify.com/track/3Wz9Fm9ZyhpaRGxMlSR5G4) | [Sammy Kershaw](https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O) | [Haunted Heart](https://open.spotify.com/album/30ORdfQ1Movxqmpf3qkrMQ) | 3:31 |
+| 83 | [Forever and Ever, Amen](https://open.spotify.com/track/4rQSLX4qMiUWL81hEQOuPY) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Top 10](https://open.spotify.com/album/3mr4jvGT5p1vw3zxySiCss) | 3:32 |
+| 84 | [Stay in Your Lane](https://open.spotify.com/track/7chJUlntiQSp66oeNSVsid) | [Bronson Diamond](https://open.spotify.com/artist/0mSLLMyw3xf8LMkrIs3ZFW), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Stay in Your Lane](https://open.spotify.com/album/7KiVfQ7GVB6kHS4xP1162z) | 3:29 |
 | 85 | [Justa Jonesin'](https://open.spotify.com/track/4RudqZOuftr0uk55iKCYh3) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Justa Jonesin'](https://open.spotify.com/album/3BIkkShMzkjbOfFfQdFvbC) | 2:44 |
-| 86 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
-| 87 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
+| 86 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
+| 87 | [Brother Jukebox](https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf) | [Mark Chesnutt](https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS) | [Too Cold At Home](https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA) | 3:04 |
 | 88 | [Damn Strait](https://open.spotify.com/track/0gNrujgnSfw4LuSvd0Jbs6) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Same Truck](https://open.spotify.com/album/0R9QjGSDl6EX4yWu3Rr1eU) | 3:50 |
 | 89 | [Gone Country](https://open.spotify.com/track/1A0I5aiVZRwecRlbQcweBh) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [16 Biggest Hits](https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W) | 4:19 |
 | 90 | [If Heaven Wasn't So Far Away](https://open.spotify.com/track/0aW7CSfoMBKBzLE7VerHyn) | [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Outlaws Like Me](https://open.spotify.com/album/43WYprY30K1r0pbDmf3amq) | 3:43 |

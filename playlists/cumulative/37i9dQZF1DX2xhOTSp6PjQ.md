@@ -2,7 +2,7 @@
 
 ### [Bhinca Nation](https://open.spotify.com/playlist/37i9dQZF1DX2xhOTSp6PjQ)
 
-> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A?si=q6P6fyMqR3mluO5n9Q8CVg">Big Zulu</a>
+> Khuphuka lapho… seku\-late! Cover: <a href="https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ?si=OPoUvooSQkKTySf\_8i1TdQ">Zwide</a>
 
 195 songs - 15 hr 36 min
 
@@ -142,7 +142,7 @@
 | [Paris](https://open.spotify.com/track/7JbLSEDlRdoJaXk5ddZae2) | [Mthandeni SK](https://open.spotify.com/artist/2tqMDvoyXVbN7uF4ObOeJX), [Lwah Ndlunkulu](https://open.spotify.com/artist/2KYeDbDn8hr0auXnbpKfvs) | [Paris](https://open.spotify.com/album/7g3LFWfWuAdhaDt49N0cuM) | 4:17 | 2023-08-11 |  |
 | [Phakathi Komhlane nembeleko](https://open.spotify.com/track/5tcWJFn9w9BDUWXssZ5Q1A) | [Udumakahle](https://open.spotify.com/artist/3a3txnliYhHHrdcw1k6gyq) | [Phakathi Komhlane Nembeleko](https://open.spotify.com/album/3LJ39cJZE7hPwG2j6RXc5s) | 4:18 | 2021-10-12 | 2023-04-30 |
 | [Please Call Me \(feat\. Oliver Mtukudzi & DJ Tira\)](https://open.spotify.com/track/5uaLKLMsJmVyqDQuOEBDTI) | [Shabalala Rhythm](https://open.spotify.com/artist/4yqgRp5LrmRXgSKpAqTBdl), [Oliver Mtukudzi](https://open.spotify.com/artist/0HC2dfJHpORLT21AxEiTXJ), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Please Call Me](https://open.spotify.com/album/45Cf5K35YTli0s93d5NkNt) | 4:57 | 2018-09-25 | 2023-02-17 |
-| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 | 2024-05-23 |
+| [Rihanna](https://open.spotify.com/track/1NNlKxW8tuGfbKsFJqk1SV) | [uZondi](https://open.spotify.com/artist/7v8F0d0XcsoPFgCzde2dQN) | [Ngingohlakaniphile](https://open.spotify.com/album/33plsgLlHgsrBHsquHeirK) | 3:28 | 2024-05-16 |  |
 | [S'kushaya Isdakwa](https://open.spotify.com/track/2PJ6NP1np4QGGJpnl6MGwx) | [Imithente](https://open.spotify.com/artist/3JqfmUV2PM8u6ifw2TWPJ9) | [S'kushaya Isdakwa](https://open.spotify.com/album/3W662ml4nC71f2QUTMKeLy) | 4:03 | 2023-02-23 | 2024-01-19 |
 | [Sakhala Kamnandi](https://open.spotify.com/track/10FGIW76glXqbxi6gSOxwJ) | [Umgqumeni](https://open.spotify.com/artist/4nMTRK9u7Zt9lKCPnF06zB) | [I Magic](https://open.spotify.com/album/4DR2LkB4JWkcT5ZBaqRgSN) | 4:19 | 2019-05-13 | 2023-06-16 |
 | [Sanibonani](https://open.spotify.com/track/4IMZR7DMOMAYHlAifv682g) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3), [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu) | [Phendula](https://open.spotify.com/album/6d89ixAm9v3UfQGAWyeFb2) | 4:21 | 2023-01-30 | 2023-06-16 |
@@ -178,7 +178,7 @@
 | [Umfazi Womuntu Enqunu](https://open.spotify.com/track/4vDPSGw1tPXwu0cCsLg3Lg) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Umfazi Womuntu Enqunu](https://open.spotify.com/album/09pjuUtEgrOpcEdGkHKaov) | 5:51 | 2023-12-08 |  |
 | [Umjolo Lowo](https://open.spotify.com/track/4zkTyuLiE6mH4DoCi6C8fB) | [Khuzani](https://open.spotify.com/artist/1ltbNKMXKKXkjaXCTGZYUs), [Luve Dubazane](https://open.spotify.com/artist/2qn1ZfGigw6BNbf2MNuEJc) | [Umjolo Lowo](https://open.spotify.com/album/6KV7h9dmu6Cijf8399HbwB) | 4:04 | 2023-10-16 |  |
 | [Umjolo O Healthy](https://open.spotify.com/track/1L5EDYQ4hKPmW4KZg6vGWI) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan), [Afrotraction](https://open.spotify.com/artist/5nWUxMDXCniEU2M0VXZPH3) | [Ugcobo](https://open.spotify.com/album/4nmkSLGgClQeentYCUEwmg) | 3:58 | 2023-05-25 | 2023-08-29 |
-| [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Igcokama Elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ) | 3:49 | 2023-11-23 |  |
+| [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/track/0RzfxaDqYuolVaKc0jUQ5e) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Igcokama Elisha](https://open.spotify.com/artist/0CfaRCWMy2aXtbVQPCGG15) | [Umkhov'etsheni \(feat\. Igcokama elisha\)](https://open.spotify.com/album/7gB8A3VKKBIX3WBL24ubZQ) | 3:49 | 2023-11-23 | 2024-05-24 |
 | [Umuzi Wethu \(feat\. Madumane\)](https://open.spotify.com/track/7dsfUUmH0K8RSo8agTACpe) | [Mlindo The Vocalist](https://open.spotify.com/artist/09CY8fzqhZHR7rQAULoreI), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [Lindokuhle](https://open.spotify.com/album/4sq8XzfN0wJOyI35ou9M8j) | 4:36 | 2023-01-30 | 2023-02-03 |
 | [Usale Kanjani](https://open.spotify.com/track/6owkaZSiybyT7eEN9BUSmZ) | [Thokozani Langa](https://open.spotify.com/artist/27f92EUPQigI8IqwB00286) | [Grand Masters Collection: Sound Offerings from South Africa](https://open.spotify.com/album/1spoGR5KDLCuNZY6FM7RNE) | 5:17 | 2018-09-25 | 2022-11-13 |
 | [Usale Kanjani](https://open.spotify.com/track/09A0kWUU4t0LshuBfe9X02) | [Thokozani Langa](https://open.spotify.com/artist/3OzpSgLEiIAVGjVRU03o99) | [Inganekwane](https://open.spotify.com/album/3x8Eikp83UT8OoCmg57dJD) | 5:18 | 2018-09-25 | 2022-07-29 |

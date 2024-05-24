@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 
 > Drift off to these peaceful classical melodies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 603,406 likes - 119 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 603,492 likes - 119 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Sz1gsYZdwj.md) - [plain]
 | 118 | [Infinity](https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3) | [Rosey Chan](https://open.spotify.com/artist/1u8TRAmMBFoaqor9uJyyXR), [Sonic Apothecary](https://open.spotify.com/artist/1jHK7GApaC0DbeqhXIWUrr) | [Sonic Apothecary](https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb) | 7:28 |
 | 119 | [Landsort](https://open.spotify.com/track/0VrOdgTIh68gW8p9WkXSPY) | [Olivia Meyer](https://open.spotify.com/artist/473vc3cGQmpGSHrcyvePWE) | [Fantasia](https://open.spotify.com/album/5h0R2d0rhCu6V46L91UBN4) | 2:19 |
 
-Snapshot ID: `ZjoIegAAAACAE16mXtrPEIvbO886yqzQ`
+Snapshot ID: `Zk6/QAAAAACZqaj9ZKugdbit7Q+1aM+X`

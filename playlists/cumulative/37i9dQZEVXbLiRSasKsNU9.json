@@ -20234,7 +20234,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178965,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw"
@@ -22440,6 +22440,24 @@
       "duration_ms": 139574,
       "name": "Je M'appelle",
       "url": "https://open.spotify.com/track/6A3SB2C4U6JtCavQOXLYNN"
+    },
+    {
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4n8O1tXANbXBaSMuADmJCa"
+      },
+      "artists": [
+        {
+          "name": "Shimmer",
+          "url": "https://open.spotify.com/artist/1WLgLNSzeuOhkhfEZbSXM3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213722,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/3htu3gsrxm2SluQk3WXnXA"
     },
     {
       "album": {
@@ -44268,7 +44286,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164695,
       "name": "Suffocate (feat. Poppy)",
       "url": "https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde"
@@ -44330,6 +44348,28 @@
       "duration_ms": 151507,
       "name": "sun and moon",
       "url": "https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn"
+    },
+    {
+      "album": {
+        "name": "Suniyan Suniyan",
+        "url": "https://open.spotify.com/album/7fDOsfo0KfyUV2crgrG6zR"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "Suniyan Suniyan",
+      "url": "https://open.spotify.com/track/0XRb6eZE4dBIJdqwf1Mixu"
     },
     {
       "album": {

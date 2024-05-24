@@ -2,9 +2,9 @@
 
 ### [The Locker](https://open.spotify.com/playlist/37i9dQZF1DWYmDNATMglFU)
 
-> it's a generation ⛓ ft\. Huddy
+> it's a generation ⛓ ft\. twenty one pilots
 
-773 songs - 1 day 14 hr 36 min
+775 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [HOMESICK](https://open.spotify.com/track/7rY4xDlBYGmnVJaszcAW8Y) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [BUBBLEGUM EP](https://open.spotify.com/album/4fPzNQS7yUPLSGffMKLJpM) | 3:09 | 2022-05-19 | 2022-07-29 |
 | [Honda Civic](https://open.spotify.com/track/0JHjsGwxzK7xzpceRcoMbB) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [Honda Civic](https://open.spotify.com/album/0VDkmKaedGsW1Eots7DEJM) | 2:50 | 2023-07-06 | 2024-02-02 |
 | [honey](https://open.spotify.com/track/7p58AJeuaFSUHTnPe5NFaf) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/3sq0hRtlT2SYeYajr5Cx22) | 2:53 | 2022-03-08 | 2022-03-09 |
-| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 |  |
+| [HONEY \(ARE U COMING?\)](https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [HONEY \(ARE U COMING?\)](https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9) | 2:47 | 2023-09-01 | 2024-05-24 |
 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 | 2023-03-30 | 2023-05-20 |
 | [hostage](https://open.spotify.com/track/4NK5e074Va0Iy5kou2PbmY) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/3ZYIsv7e4991HN4dsKO7Hc) | 2:43 | 2024-01-19 |  |
 | [hostage](https://open.spotify.com/track/4c1prDEgRB8bDIEiuF1gcQ) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [hostage](https://open.spotify.com/album/6wMJeF1ICiUr9r3ovHFzWD) | 2:43 | 2024-03-01 | 2024-03-11 |
@@ -478,6 +478,7 @@
 | [My Mother Wants Me Dead](https://open.spotify.com/track/3ADDLOa2NjjLFQ7g2FTiYx) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [My Mother Wants Me Dead](https://open.spotify.com/album/0T6yUi3nWoE9c5krkoPYPK) | 1:45 | 2022-01-07 | 2022-01-28 |
 | [My Therapist Told Me](https://open.spotify.com/track/08Ngb5MY4QnSXmawXGhW5p) | [Xana](https://open.spotify.com/artist/5Ui0TOcqUVmXQORMMkMaD3) | [My Therapist Told Me](https://open.spotify.com/album/4J4qnIjpeLbhDiBoqCvSPk) | 2:58 | 2022-02-11 | 2022-04-01 |
 | [Nevermind It To Hell](https://open.spotify.com/track/60m9qQoMAu3KfPg3YxqyHG) | [Belaganas](https://open.spotify.com/artist/4dxp2iZCasMOmCDFztR22q) | [Softy](https://open.spotify.com/album/3xHMtK8SksnWDUUTrWOlmF) | 2:44 | 2022-03-04 | 2022-04-01 |
+| [New Temptation](https://open.spotify.com/track/4zXFQsuowowW7FZGWTP0VO) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Nothing Lasts Forever](https://open.spotify.com/album/2CLjOzu5DQXFo0U0jGPWcA) | 3:32 | 2024-05-23 |  |
 | [Next Ex](https://open.spotify.com/track/1jvHT0EOuvcPF8FT5A9G6V) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Next Ex](https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO) | 2:09 | 2022-07-29 | 2022-09-23 |
 | [Next Ex](https://open.spotify.com/track/6pkDDxuxe9gkkLRI33mQFn) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted \(Deluxe\)](https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY) | 2:09 | 2022-09-22 | 2023-03-03 |
 | [Next Ex](https://open.spotify.com/track/0STS8KJXMAwSr4OmJV2THj) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Rock Brandneu](https://open.spotify.com/album/78ZxW9RlB2wiVZZnNo93R9) | 2:10 | 2022-11-11 | 2022-11-13 |
@@ -552,6 +553,7 @@
 | [REAL SUPER DARK](https://open.spotify.com/track/6nXtGWUzOGxfI7q5hUa6Jj) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/7exaI7MyauQNCOqbyqU27C) | 2:29 | 2023-01-27 | 2023-04-17 |
 | [REAL SUPER DARK](https://open.spotify.com/track/7uuHc1gwZCKG9CGJopnSF3) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [REAL SUPER DARK](https://open.spotify.com/album/1TyNSqm2av7ed9Z6BgHhFT) | 2:29 | 2023-01-27 | 2023-01-30 |
 | [Reasons To Live](https://open.spotify.com/track/3aBrBN6oAOGTLAS8taoNu8) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Reasons To Live](https://open.spotify.com/album/43qFxImtoXuGobNLMKOrbi) | 2:47 | 2022-06-09 | 2022-08-12 |
+| [Recipe For Disaster](https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Recipe For Disaster](https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v) | 2:45 | 2024-05-23 |  |
 | [red flags](https://open.spotify.com/track/5oBpQ7gTP6fJy6g27Cu8ij) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [red flags](https://open.spotify.com/album/5uK2p6rLbCnmdfLN12MI9y) | 2:39 | 2023-09-01 | 2024-01-26 |
 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 | 2023-08-03 | 2023-09-22 |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-10 | 2024-03-09 |
@@ -766,7 +768,7 @@
 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 | 2022-03-08 | 2022-03-09 |
 | [WW3](https://open.spotify.com/track/7cL0pp1OpgcAUQfS2CsQ23) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [RIZ LA VIE](https://open.spotify.com/artist/0QkgnHpxSCOYdTnhUR9S5k), [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [WW3](https://open.spotify.com/album/27Q8KrXPXir8nSlqZfMB7h) | 2:32 | 2022-02-11 | 2022-07-22 |
 | [Yellow \- Spotify Singles](https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Yellow \- Spotify Singles](https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0) | 4:29 | 2024-04-12 |  |
-| [Yoke](https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 2:34 | 2023-10-13 |  |
+| [Yoke](https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 2:34 | 2023-10-13 | 2024-05-24 |
 | [You](https://open.spotify.com/track/66oW04yMlOStt2Pag2ImVV) | [LAYNE](https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69) | [You](https://open.spotify.com/album/3vBTP8eXrLpj4zUzCghnnB) | 2:38 | 2022-03-18 | 2022-04-01 |
 | [You and I](https://open.spotify.com/track/4xJWfVNC52PSK5ObyOKQsw) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [White Noise \(Deluxe Version\)](https://open.spotify.com/album/7za8qVGR3wUEJ01pLFcnPB) | 4:30 | 2022-10-20 | 2022-11-01 |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-01-19 |  |

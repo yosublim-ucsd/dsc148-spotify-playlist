@@ -10168,7 +10168,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 383639,
       "name": "euphoria",
       "url": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
@@ -11808,7 +11808,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
@@ -14520,7 +14520,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 178205,
       "name": "I Had Some Help (Feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP"
@@ -31024,6 +31024,24 @@
       "duration_ms": 230453,
       "name": "Starboy",
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+    },
+    {
+      "album": {
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-19",
-  "description": "that's how we do it",
+  "description": "one life",
   "name": "Open Air",
   "tracks": [
     {
@@ -4786,6 +4786,28 @@
       "duration_ms": 173079,
       "name": "Euphoria (Solomun Remix) - Edit",
       "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
+    },
+    {
+      "album": {
+        "name": "Everybody Get Up",
+        "url": "https://open.spotify.com/album/5PpvKpWaDFmCAtJgEdGkar"
+      },
+      "artists": [
+        {
+          "name": "Samm (BE)",
+          "url": "https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0"
+        },
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356013,
+      "name": "Everybody Get Up",
+      "url": "https://open.spotify.com/track/1G0MN1mA2aeS4hf47JMr3m"
     },
     {
       "album": {
@@ -9760,6 +9782,24 @@
       "duration_ms": 267168,
       "name": "Make It Happen - Dom Dolla Remix",
       "url": "https://open.spotify.com/track/3zSjRyDLwVWIZXEFZB6nUF"
+    },
+    {
+      "album": {
+        "name": "Make It Loud",
+        "url": "https://open.spotify.com/album/0Zl7Eez8Eu49Ssp30wzLBd"
+      },
+      "artists": [
+        {
+          "name": "Bhaskar",
+          "url": "https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236129,
+      "name": "Make It Loud",
+      "url": "https://open.spotify.com/track/4lXEBALFOZ9cxp3NgSWDhN"
     },
     {
       "album": {

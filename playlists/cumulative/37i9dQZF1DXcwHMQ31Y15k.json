@@ -440,6 +440,28 @@
     {
       "album": {
         "name": "Apik",
+        "url": "https://open.spotify.com/album/5KrGCnrUVPALTTRza5FP3N"
+      },
+      "artists": [
+        {
+          "name": "Mala Agatha",
+          "url": "https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB"
+        },
+        {
+          "name": "Ajeng Febria",
+          "url": "https://open.spotify.com/artist/7fSK1XqTJMwzDw6zwjK8Sg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Apik",
+      "url": "https://open.spotify.com/track/0WYYAgNgtD4GzXfd0rfTiQ"
+    },
+    {
+      "album": {
+        "name": "Apik",
         "url": "https://open.spotify.com/album/349eZo14h3OUaX4V5EzmxV"
       },
       "artists": [
@@ -458,6 +480,24 @@
       "duration_ms": 345600,
       "name": "Apik",
       "url": "https://open.spotify.com/track/0pKMPmXE9W7jQnKsjbEn0p"
+    },
+    {
+      "album": {
+        "name": "Apik",
+        "url": "https://open.spotify.com/album/5gzh3T0DRLqtuMDeIBtTAy"
+      },
+      "artists": [
+        {
+          "name": "Woro Widowati",
+          "url": "https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347317,
+      "name": "Apik",
+      "url": "https://open.spotify.com/track/7H1j4wzIE8lpvAaLNjGHr6"
     },
     {
       "album": {
@@ -1489,6 +1529,28 @@
     },
     {
       "album": {
+        "name": "Garwa (feat. Ajeng Yulia Abdilla)",
+        "url": "https://open.spotify.com/album/6M9n1Qi8L7ts33cvyi6qAW"
+      },
+      "artists": [
+        {
+          "name": "Adhimas Dewa Tricahya",
+          "url": "https://open.spotify.com/artist/2EYDh9L9Mz6EMjbcfXTanv"
+        },
+        {
+          "name": "Ajeng Yulia Abdilla",
+          "url": "https://open.spotify.com/artist/6KNevSfPmGyAXGulaz95Hl"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367335,
+      "name": "Garwa (feat. Ajeng Yulia Abdilla)",
+      "url": "https://open.spotify.com/track/2nlEnqhZdNna4OsBV3TXOK"
+    },
+    {
+      "album": {
         "name": "Gedhe Roso",
         "url": "https://open.spotify.com/album/6YYcwJN46gVbp8WK2ep1uP"
       },
@@ -2476,7 +2538,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 205741,
       "name": "Kukuh",
       "url": "https://open.spotify.com/track/6xys78WshU3lJfgxcUjhPf"
@@ -2614,6 +2676,24 @@
       "duration_ms": 310000,
       "name": "LDR \"Langgeng Dayaning Rasa\" - Live",
       "url": "https://open.spotify.com/track/4mkqoe1yptnwU5S537fYlT"
+    },
+    {
+      "album": {
+        "name": "LDR (Acoustic)",
+        "url": "https://open.spotify.com/album/4O1qHuKhVTAigJSFoe8j53"
+      },
+      "artists": [
+        {
+          "name": "Restianade",
+          "url": "https://open.spotify.com/artist/7A9lPm8R65nJT5ujGJzy5I"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240381,
+      "name": "LDR - Acoustic",
+      "url": "https://open.spotify.com/track/7p6TgnqoZXExcao4JHwZfc"
     },
     {
       "album": {
@@ -4241,6 +4321,24 @@
     },
     {
       "album": {
+        "name": "Pengkuh",
+        "url": "https://open.spotify.com/album/2k7WneU9s2cWns7mU8EJeF"
+      },
+      "artists": [
+        {
+          "name": "Evan Loss",
+          "url": "https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243807,
+      "name": "Pengkuh",
+      "url": "https://open.spotify.com/track/3KRoL1WLq83x1tXAA1t5Yc"
+    },
+    {
+      "album": {
         "name": "Penting Yakin (From \"Cidro Asmoro\")",
         "url": "https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt"
       },
@@ -4292,6 +4390,24 @@
       "duration_ms": 305999,
       "name": "Pingal",
       "url": "https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0"
+    },
+    {
+      "album": {
+        "name": "Pirso",
+        "url": "https://open.spotify.com/album/1mstk1UG6zxqtXTE7xdSrn"
+      },
+      "artists": [
+        {
+          "name": "Brindil Kurus",
+          "url": "https://open.spotify.com/artist/79nzELBdfcyh5rh8rRfyOb"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267107,
+      "name": "Pirso",
+      "url": "https://open.spotify.com/track/1gDHHutgUSsItMyfvvWm0L"
     },
     {
       "album": {
@@ -5268,6 +5384,50 @@
       "duration_ms": 316783,
       "name": "Selendang Biru",
       "url": "https://open.spotify.com/track/4R6DWZXWg8DzJYUMNJmBuU"
+    },
+    {
+      "album": {
+        "name": "Selendang Biru",
+        "url": "https://open.spotify.com/album/2MoVigvG7je2nf9yBvBSzb"
+      },
+      "artists": [
+        {
+          "name": "Shinta Arsinta",
+          "url": "https://open.spotify.com/artist/1NrPlp7STfCyPAoJgc2ZJg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310204,
+      "name": "Selendang Biru",
+      "url": "https://open.spotify.com/track/1IU1mITWrgXfQrCDTjDgeh"
+    },
+    {
+      "album": {
+        "name": "SELENDANG BIRU",
+        "url": "https://open.spotify.com/album/0ASEt11KWXdZ5KTG8XMPjF"
+      },
+      "artists": [
+        {
+          "name": "SKA 86",
+          "url": "https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg"
+        },
+        {
+          "name": "Rizma",
+          "url": "https://open.spotify.com/artist/5z44BSq4E2vFsjioW6mNBB"
+        },
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283885,
+      "name": "SELENDANG BIRU",
+      "url": "https://open.spotify.com/track/6qQ98lmtRAK637IpwMb99m"
     },
     {
       "album": {

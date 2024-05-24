@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Mavokali",
+  "description": "Exceptionally vivid Swahili love stories for you and yours.  Cover: Yammi & Barnaba",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -132,6 +132,28 @@
       "duration_ms": 179999,
       "name": "Amepotea",
       "url": "https://open.spotify.com/track/1KfN3qcfWz6pgs4Zt5pobn"
+    },
+    {
+      "album": {
+        "name": "Love Struck",
+        "url": "https://open.spotify.com/album/1XtJucTeSOb8USgV6x2Bzw"
+      },
+      "artists": [
+        {
+          "name": "Hildah Watiri",
+          "url": "https://open.spotify.com/artist/4XTUHZbb6KmJJKUrdBAKDM"
+        },
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216466,
+      "name": "Amini",
+      "url": "https://open.spotify.com/track/0kdToPIJHDgOdYwIMKjBzN"
     },
     {
       "album": {
@@ -436,7 +458,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180930,
       "name": "Butterfly (feat. Phina)",
       "url": "https://open.spotify.com/track/3XHus2H79mt1LjHTqu1jN2"
@@ -676,7 +698,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 226053,
       "name": "Dear Dingi",
       "url": "https://open.spotify.com/track/0DkW4lgpl26aY0ScNy5vX2"
@@ -1010,6 +1032,28 @@
       "duration_ms": 234000,
       "name": "Hawataweza",
       "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+    },
+    {
+      "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/4fBmAGox8cAnx2OGAIOpum"
+      },
+      "artists": [
+        {
+          "name": "Malha",
+          "url": "https://open.spotify.com/artist/7tJ5WcaS5OyCmruqwhhDNO"
+        },
+        {
+          "name": "Barnaba",
+          "url": "https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/4csQCFGpamickIt2YqTV8f"
     },
     {
       "album": {
@@ -1442,6 +1486,28 @@
       "duration_ms": 280418,
       "name": "Lazizi - Spotify Singles - Cover",
       "url": "https://open.spotify.com/track/4rutxh0KdzzxPNR75CCgJR"
+    },
+    {
+      "album": {
+        "name": "Lonely (feat. Nandy)",
+        "url": "https://open.spotify.com/album/5QRSblXzuw4jNruyefe6nI"
+      },
+      "artists": [
+        {
+          "name": "Yammi",
+          "url": "https://open.spotify.com/artist/6yV5HfoLnS2Yn7qKtS2fIK"
+        },
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211067,
+      "name": "Lonely (feat. Nandy)",
+      "url": "https://open.spotify.com/track/7iO2DALT0B86XvNRqA4pES"
     },
     {
       "album": {
@@ -2296,7 +2362,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 219900,
       "name": "Nakupenda",
       "url": "https://open.spotify.com/track/4nqbJTJRxLQQnh5TxqFiaM"

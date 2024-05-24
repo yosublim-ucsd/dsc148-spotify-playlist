@@ -2,9 +2,9 @@
 
 ### [Lagi Viral](https://open.spotify.com/playlist/37i9dQZF1DWWhB4HOWKFQc)
 
-> Kumpulan lagu yang sedang menyebar luas\. Cover: Tommy Richman
+> Kumpulan lagu yang sedang menyebar luas\. Cover: Bilal Indrajaya
 
-538 songs - 1 day 8 hr 22 min
+540 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [BUBBLY](https://open.spotify.com/track/1YxMfqTpk22khi8ZfmSK0G) | [Ethan Low](https://open.spotify.com/artist/09O5HSw8RO3aAnWNCADaKS) | [BUBBLY](https://open.spotify.com/album/4vIEdzVa15kQvoalvxPIz5) | 2:51 | 2023-03-23 | 2023-04-14 |
 | [Bukan Begitu Caramu](https://open.spotify.com/track/3NdCAbNYphC9p2gSKPV877) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Bukan Begitu Caramu](https://open.spotify.com/album/6VRfToOj7zRnB7ZZlwxNGE) | 4:02 | 2023-10-05 | 2023-11-10 |
 | [Bulan Dikekang Malam \- From ''Ayat Ayat Cinta 2''](https://open.spotify.com/track/1fztiHQGVlICM9hI17dCmn) | [Rossa](https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp) | [Bulan Dikekang Malam \(From ''Ayat Ayat Cinta 2''\)](https://open.spotify.com/album/50mMnTDrXLCCFEE5zzWS69) | 3:54 | 2024-02-07 | 2024-03-12 |
+| [Bunga Abadi](https://open.spotify.com/track/0hPIuo3qZgyjDKJTI7xu8A) | [Rio Clappy](https://open.spotify.com/artist/16B3ICSQCPu4C6L5TEHXQe) | [Bunga Abadi](https://open.spotify.com/album/3mfUQStqcygHEOJjI7nZm4) | 4:03 | 2024-05-23 |  |
 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 | 2023-12-06 |  |
 | [Butterfly](https://open.spotify.com/track/5izrZx8Op6kcEv6LB3eqlL) | [gonebloom](https://open.spotify.com/artist/50ic5Z28Rbu8He7HZMdAOf), [Qyla Nahar](https://open.spotify.com/artist/0Hg9WARHKX5Y6JX3aIBmHu) | [Butterfly](https://open.spotify.com/album/5fDJuvgVqro7Z82k7ZkWcw) | 3:35 | 2023-03-23 | 2023-04-28 |
 | [bye](https://open.spotify.com/track/1Rweq7vNjK4kZBbGrmxQsl) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:44 | 2024-03-26 | 2024-05-03 |
@@ -393,6 +394,7 @@
 | [Satu Peluang](https://open.spotify.com/track/1uVlyszYMjaMouV6fiR1Xw) | [Andi Bernadee](https://open.spotify.com/artist/3NNC2X9tLFyL0nHfJuWKJ9) | [Satu Peluang](https://open.spotify.com/album/6FbTQ482tCtjZdarpfpJlv) | 3:18 | 2023-12-06 | 2024-01-19 |
 | [Satu\-Satu](https://open.spotify.com/track/3d6BjQ0QOLTzuKoOQbeGgG) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Mengudara](https://open.spotify.com/album/40Yp12B9KULY4j2xbhE1YY) | 4:45 | 2023-08-24 | 2024-01-23 |
 | [Saturn](https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Saturn](https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k) | 3:06 | 2024-03-21 |  |
+| [Saujana](https://open.spotify.com/track/1UItmoLNGY3pvvzmprR6wF) | [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Nelangsa Pasar Turi](https://open.spotify.com/album/3WDFtJW61DcXNnYzCjEjh6) | 3:22 | 2024-05-23 |  |
 | [Say My Name](https://open.spotify.com/track/2lDOkJgVMNz4iMmoAHhhqC) | [Say Yes!](https://open.spotify.com/artist/7sPKpBhx7fwPp9wMGYvQJI) | [BOYS PLANET \- ARTIST BATTLE](https://open.spotify.com/album/1rIIbjGYbj2sRxAWZUfeoC) | 3:19 | 2023-05-04 | 2023-06-09 |
 | [Scott Street](https://open.spotify.com/track/21uFPefbgeR3QLVJWATlrr) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps \(Deluxe Edition\)](https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl) | 5:05 | 2023-03-23 | 2023-04-14 |
 | [Seandainya](https://open.spotify.com/track/4zDsTPzY7Nm7rYKvszjKYL) | [Vierra](https://open.spotify.com/artist/1WX2v0BiEW19Vw7xmznLdZ) | [My First Love](https://open.spotify.com/album/7uPbMJWPcITRuvfcllfQ5O) | 4:23 | 2023-03-23 | 2023-06-23 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
+  "description": "This Is Suzanne Ciani. Los temas esenciales, todos en una lista.",
   "name": "This Is Suzanne Ciani",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-22",
+      "date_removed": null,
       "duration_ms": 234200,
       "name": "'til Time and Times Are Done",
       "url": "https://open.spotify.com/track/26TmZWLTQdcMhYjbSBmVG4"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"

@@ -1,12 +1,12 @@
 {
   "description": "This is MC Cabelinho. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 137118,
+  "num_followers": 137191,
   "original_name": "This Is MC Cabelinho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADudqZP2uEn43nxbo1+wVKc",
+  "snapshot_id": "Zk01gAAAAADuLzaLf+bvUIO95N+4qypV",
   "tracks": [
     {
       "added_at": null,
@@ -903,6 +903,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "RELATOS",
+        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Palma",
+          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Ponto Final",
+      "url": "https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LITTLE HAIR",
         "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
       },
@@ -931,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LITTLE LOVE (DELUXE)",
-        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 198231,
-      "name": "VOC\u00ca&EU",
-      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LITTLE LOVE",
         "url": "https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV"
       },
@@ -971,6 +975,26 @@
       "duration_ms": 176795,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/0ReqDOp3nbS49HRy4BrmkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LITTLE LOVE (DELUXE)",
+        "url": "https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 198231,
+      "name": "VOC\u00ca&EU",
+      "url": "https://open.spotify.com/track/3lF4NH7uy1rRMHvmmK99TX"
     },
     {
       "added_at": null,
@@ -1023,30 +1047,6 @@
       "duration_ms": 284117,
       "name": "Meu Mundo",
       "url": "https://open.spotify.com/track/1hw5UuO6s1DRAJmCn4Nc1H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RELATOS",
-        "url": "https://open.spotify.com/album/3YIwqsUgXa6IuMVB0Zc4Hr"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Palma",
-          "url": "https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Ponto Final",
-      "url": "https://open.spotify.com/track/0uhsd8WN4ayaEQr28AsptD"
     },
     {
       "added_at": null,
@@ -1111,6 +1111,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LITTLE HAIR",
+        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        }
+      ],
+      "duration_ms": 186240,
+      "name": "EU TE AVISEI",
+      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Virus Love",
         "url": "https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 174193,
       "name": "Logo Eu",
       "url": "https://open.spotify.com/track/1pYPtkKcoJpXcqfSNuGjRg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LITTLE HAIR",
-        "url": "https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "EU TE AVISEI",
-      "url": "https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx"
     },
     {
       "added_at": null,
@@ -1439,6 +1439,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "N\u00e3o Demora",
+        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
+        }
+      ],
+      "duration_ms": 182003,
+      "name": "N\u00e3o Demora",
+      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dia de Opera\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/2of77xllwOV4R21J3v4t20"
       },
@@ -1479,30 +1503,6 @@
       "duration_ms": 232014,
       "name": "Dia de Opera\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0g3giA9of1DgXUYjqrNhgQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "N\u00e3o Demora",
-        "url": "https://open.spotify.com/album/6X5oNfMpYC3JEcFprGt0yH"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6"
-        }
-      ],
-      "duration_ms": 182003,
-      "name": "N\u00e3o Demora",
-      "url": "https://open.spotify.com/track/6XMpS8HjngLCLBApgSWiwS"
     }
   ],
   "unique_name": "This Is MC Cabelinho",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1DOwtSHKzJzutiL99WYwb0.md) - [plain]
 
 > Collections made with EVERY kind of newly released 'K\-Pop Bias' all over the world\. Cover: KISS OF LIFE
 
-[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 744 likes - 100 songs - 5 hr 13 min
+[K\-Pop Bias](https://open.spotify.com/user/fo9j3i5p2w7xubdtzqpd4h0ta) - 743 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

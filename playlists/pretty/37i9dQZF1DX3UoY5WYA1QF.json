@@ -1,6 +1,6 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 106475,
+  "num_followers": 106614,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
@@ -231,6 +231,22 @@
     {
       "added_at": "2024-05-06 21:52:52",
       "album": {
+        "name": "\u00a1 Ora pues !",
+        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Adriana",
+          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
+        }
+      ],
+      "duration_ms": 190453,
+      "name": "Adios y Bienvenida",
+      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
+    },
+    {
+      "added_at": "2024-05-06 21:52:52",
+      "album": {
         "name": "Soy Como Quiero Ser (Deluxe)",
         "url": "https://open.spotify.com/album/5t5i4Za83W6qEqytymh6pe"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 183768,
       "name": "Bandido de Amores",
       "url": "https://open.spotify.com/track/3Vqdfo6gPXVRdU5WdQi2VT"
-    },
-    {
-      "added_at": "2024-05-06 21:52:52",
-      "album": {
-        "name": "\u00a1 Ora pues !",
-        "url": "https://open.spotify.com/album/7o88TvoiVuWuHRoXQXsfJA"
-      },
-      "artists": [
-        {
-          "name": "Beatriz Adriana",
-          "url": "https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Adios y Bienvenida",
-      "url": "https://open.spotify.com/track/2wAfySktAbT2ho6UTCyv1O"
     },
     {
       "added_at": "2024-05-06 21:52:52",

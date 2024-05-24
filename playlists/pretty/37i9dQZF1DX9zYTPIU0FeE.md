@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 ### [Jazz NXT](https://open.spotify.com/playlist/37i9dQZF1DX9zYTPIU0FeE)
 
-> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft?si=4y68LHw9Syey8Y9HwzPt5w">Nduduzo Makhathini</a>
+> Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn?si=HO4FdZudQayyy1hYLsBTZA">Herbie Tsoaeli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,375 likes - 50 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,382 likes - 50 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Libations: Omnyama](https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Libations: Omnyama](https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c) | 6:05 |
-| 2 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 |
-| 3 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
-| 4 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
-| 5 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
-| 6 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 |
-| 7 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby For Khayoyo](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 |
-| 8 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 |
-| 9 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
-| 10 | [Now Open Your Eyes](https://open.spotify.com/track/21buPEKxr5cOPlJCOI1SpZ) | [Melorie Jane](https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy) | [Hold the Stars](https://open.spotify.com/album/6j3fXlcMFcY3DeQYBhDROO) | 6:57 |
-| 11 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
-| 12 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
+| 1 | [Hamba No Malume](https://open.spotify.com/track/4JmB7lkQdDpz2xbvfG95ps) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Hamba No Malume](https://open.spotify.com/album/4dJ6nQJPT95KYfYqoiADSJ) | 4:58 |
+| 2 | [Libations: Omnyama](https://open.spotify.com/track/6Bd3QTwgistsqEXT5NfQ7d) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Libations: Omnyama](https://open.spotify.com/album/5uTHEvO4Nei1U9zcAfat8c) | 6:05 |
+| 3 | [South African Jam](https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [South African Jam](https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC) | 6:04 |
+| 4 | [indlela](https://open.spotify.com/track/4eajZbdg8VneL3FBe1BoHO) | [Zoë Modiga](https://open.spotify.com/artist/6vfxDPW9Lc9tAMVy0oeqiB) | [nomthandazo](https://open.spotify.com/album/0yaSKg83zo7r7TfTRBORs1) | 3:52 |
+| 5 | [The Waters](https://open.spotify.com/track/3jJ4WhN4qNSM5dkV79C4JW) | [Bokang Ramatlapeng](https://open.spotify.com/artist/4pJUoi3zUenJPBfOGfIQhs) | [The Waters](https://open.spotify.com/album/6MSFydma7FJtUStM0FqTiU) | 5:02 |
+| 6 | [kulungile](https://open.spotify.com/track/5IMyRcJrykW4EQKUEwOIrC) | [Thandiswa](https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [kulungile](https://open.spotify.com/album/2Z7VkHwAezY18EJ9wHPeR9) | 5:46 |
+| 7 | [TransAtlantic](https://open.spotify.com/track/4MYix6DTtXSfGXiU3zZl2s) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Enhlizweni \- song stories from my heartland](https://open.spotify.com/album/5RU6d9EUUKKvNzpBVlUcgK) | 7:22 |
+| 8 | [Ezilalini](https://open.spotify.com/track/4b5ka6UvhGACUHFE4QEzM5) | [McCoy Mrubata](https://open.spotify.com/artist/1s3Cp2bZrnzP9rOFeIJvw5) | [Lullaby For Khayoyo](https://open.spotify.com/album/7kjT2dbEf7fXgoNuc5coI6) | 8:11 |
+| 9 | [Clarion Call](https://open.spotify.com/track/5GIVW2BPGiHThDoCaMpWmq) | [Kujenga](https://open.spotify.com/artist/46zBMWkU58KyXCD5WuS3ha) | [In The Wake](https://open.spotify.com/album/7vBYVegNxjgWj8eJwiXEWq) | 6:58 |
+| 10 | [P \(x\) J](https://open.spotify.com/track/5n7kcpvbKIhci6AXFgshJt) | [NALEDI](https://open.spotify.com/artist/0mfRVYU5HbWqITp6dR5lVA) | [P \(x\) J](https://open.spotify.com/album/2K18OwXVm2OWnB6WPZs3qt) | 4:32 |
+| 11 | [Now Open Your Eyes](https://open.spotify.com/track/21buPEKxr5cOPlJCOI1SpZ) | [Melorie Jane](https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy) | [Hold the Stars](https://open.spotify.com/album/6j3fXlcMFcY3DeQYBhDROO) | 6:57 |
+| 12 | [Gadija \(Pt\. 1\)](https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh) | [Benjamin Jephta](https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W) | [Born Coloured, not Born\-Free](https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4) | 5:34 |
 | 13 | [Melancholia \- Live in Cairo](https://open.spotify.com/track/6HIMyflR3HeKFHuH9iOw3w) | [Asher Gamedze](https://open.spotify.com/artist/0seHw20kF6a8af3qsufKyQ) | [Another Side with Another Time Ensemble \(Live in Cairo\)](https://open.spotify.com/album/0gy0z1wYbwr1FEkCG9tvTA) | 4:38 |
 | 14 | [uThixo uKhona](https://open.spotify.com/track/4z9U5r5eo5B1ZiNbqIz2Zh) | [iPhupho L'ka Biko](https://open.spotify.com/artist/69TRZAKuYvfQEpDIkKYQaq) | [Azania](https://open.spotify.com/album/1bnZlO6f8M5cawXgLGIj9v) | 4:13 |
 | 15 | [Water from an Ancient Well \- Single Edit](https://open.spotify.com/track/3Bvd6K9tTXq51kJxtL9sbj) | [Abdullah Ibrahim](https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ), [Noah Jackson](https://open.spotify.com/artist/5n3YSxzEv2ZTuEpCNAsUDe), [Cleave Guyton Jr.](https://open.spotify.com/artist/705SGaMmdej3DZJ8cJdMLC) | [Water from an Ancient Well](https://open.spotify.com/album/1uv54Z6J6BygVGHWYzFHN0) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 49 | [Cabin Fever](https://open.spotify.com/track/7erj4S9e7ps3Ha9TWf3LAD) | [MUNGO BUNGO](https://open.spotify.com/artist/38zmC7oufF1B8WCBaHWqsz) | [Cabin Fever](https://open.spotify.com/album/43dmHtuJLgnXl6BTG3YuIy) | 3:52 |
 | 50 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 |
 
-Snapshot ID: `ZkaP8AAAAADjWtVRBrBX0qPi/Lv0WU5X`
+Snapshot ID: `Zk/KcAAAAAAJCHSDKQlEWwBNmeDBDrP2`

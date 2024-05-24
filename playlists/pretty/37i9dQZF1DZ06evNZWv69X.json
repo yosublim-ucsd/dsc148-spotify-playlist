@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 7830,
+  "num_followers": 7833,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADXiH+4ST/0vLobSARD2BEQ",
+  "snapshot_id": "Zk01gAAAAACDArdQFV9/5rqLc/+WyOak",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "Enloqueciendo",
-      "url": "https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 225626,
       "name": "Otra Canci\u00f3n",
       "url": "https://open.spotify.com/track/6o5EDbCCf94rIvBoKXw4dR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suna",
+        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "Enloqueciendo",
+      "url": "https://open.spotify.com/track/56L3CCrj0ceiAU3lPbw8G4"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
-        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 190960,
-      "name": "Devuelve un Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Tierra",
         "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
       },
@@ -635,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "Mar de Copas: 25 A\u00f1os (Edici\u00f3n Remasterizada)",
+        "url": "https://open.spotify.com/album/05KOInw4nhCfDQSWeLuL1X"
       },
       "artists": [
         {
@@ -644,9 +628,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 279013,
-      "name": "Morir un Poco / Viajo en Tu Piel",
-      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
+      "duration_ms": 190960,
+      "name": "Devuelve un Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/0OVmwTjavXzg2VpgVr79Dm"
     },
     {
       "added_at": null,
@@ -667,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -676,9 +660,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 291320,
-      "name": "Cuenta la Historia",
-      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
+      "duration_ms": 279013,
+      "name": "Morir un Poco / Viajo en Tu Piel",
+      "url": "https://open.spotify.com/track/6LErLy2YtLAeF8O4Kcx3ZR"
     },
     {
       "added_at": null,
@@ -699,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
       },
       "artists": [
         {
@@ -708,9 +692,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 296026,
-      "name": "Samba",
-      "url": "https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt"
+      "duration_ms": 291320,
+      "name": "Cuenta la Historia",
+      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
     },
     {
       "added_at": null,
@@ -731,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Soundtrack de una Vida",
-        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -740,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 325680,
-      "name": "C.p.a.m.",
-      "url": "https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7"
+      "duration_ms": 296026,
+      "name": "Samba",
+      "url": "https://open.spotify.com/track/2N4n6rctAvK92eAqMMP8Pt"
     },
     {
       "added_at": null,
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
+        "name": "El Soundtrack de una Vida",
+        "url": "https://open.spotify.com/album/11Hk6UODnh7sWurat5D7Jt"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 163173,
-      "name": "A Dios",
-      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
+      "duration_ms": 325680,
+      "name": "C.p.a.m.",
+      "url": "https://open.spotify.com/track/3gjYndqMoWw0xrO0ZzfTD7"
     },
     {
       "added_at": null,
@@ -795,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suna",
-        "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
       "artists": [
         {
@@ -804,9 +788,25 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 200813,
-      "name": "Serenata",
-      "url": "https://open.spotify.com/track/7CTTMFC83j7d3BFHCpYxov"
+      "duration_ms": 163173,
+      "name": "A Dios",
+      "url": "https://open.spotify.com/track/7tcimL9ijjO5XFoH74eskd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Tierra",
+        "url": "https://open.spotify.com/album/4RRQxvp9Eh3hgV2Q3f6hoP"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 349573,
+      "name": "Popurr\u00ed",
+      "url": "https://open.spotify.com/track/4y1do2YcN1hcJhdCaFT1Cs"
     }
   ],
   "unique_name": "This Is Mar de Copas",

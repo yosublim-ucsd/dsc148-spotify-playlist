@@ -1537,6 +1537,28 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219208,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi"
+    },
+    {
+      "album": {
         "name": "Light Places",
         "url": "https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku"
       },
@@ -1976,7 +1998,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 257799,
       "name": "Heavier",
       "url": "https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18"

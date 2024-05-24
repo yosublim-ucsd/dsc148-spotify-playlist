@@ -2319,6 +2319,24 @@
     },
     {
       "album": {
+        "name": "Mariage",
+        "url": "https://open.spotify.com/album/1OVjXKtVfQGOyGuuM6SkCr"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306325,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/3XwyTHASTc774AVHBtRjuE"
+    },
+    {
+      "album": {
         "name": "Music from The Comedy, A Film by Rick Alverson",
         "url": "https://open.spotify.com/album/0VLEQprBg6jlQ1Ct5RabdH"
       },
@@ -2500,7 +2518,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 175625,
       "name": "Drive My Car (Cassette)",
       "url": "https://open.spotify.com/track/0ovYtROJeY4R7DphSJW3Fh"
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 377759,
       "name": "Li Ma Li",
       "url": "https://open.spotify.com/track/0iQZ81pN5ykDwDVOE98vpU"
@@ -4944,6 +4962,24 @@
       "duration_ms": 289320,
       "name": "Light Dance",
       "url": "https://open.spotify.com/track/1dNUfu1M6X6qdb5PTRq1tF"
+    },
+    {
+      "album": {
+        "name": "hikari umi",
+        "url": "https://open.spotify.com/album/6vUZxXuYMmuQrTHYr1tViF"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "light seeing 3-3",
+      "url": "https://open.spotify.com/track/4g075PjQ7O0idXks99Z64A"
     },
     {
       "album": {
@@ -6392,7 +6428,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 103360,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
@@ -7722,7 +7758,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 384000,
       "name": "sen no hikari",
       "url": "https://open.spotify.com/track/4WDB7Tp4DeisyWa8OgUIyr"
@@ -8586,6 +8622,28 @@
       "duration_ms": 513413,
       "name": "Straight Line Floating in the Sky",
       "url": "https://open.spotify.com/track/3UZCjNtOWFAxqKmtssaKCi"
+    },
+    {
+      "album": {
+        "name": "Strange Clouds",
+        "url": "https://open.spotify.com/album/2C3Z9xpMAGPEN8Wh0Cx2cT"
+      },
+      "artists": [
+        {
+          "name": "Passepartout Duo",
+          "url": "https://open.spotify.com/artist/0d3eodkjdUb9usBRDeFyn1"
+        },
+        {
+          "name": "INOYAMALAND",
+          "url": "https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Strange Clouds",
+      "url": "https://open.spotify.com/track/6kBFfuJ2OBwKYyQseeU6Hn"
     },
     {
       "album": {
@@ -9536,7 +9594,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 235826,
       "name": "True Life Again",
       "url": "https://open.spotify.com/track/7h3Jac9a1L6S745rl0mC59"
@@ -10203,6 +10261,24 @@
     },
     {
       "album": {
+        "name": "Haze",
+        "url": "https://open.spotify.com/album/4hI1EoRGSpR9SXb0QIFDYq"
+      },
+      "artists": [
+        {
+          "name": "Wataru Sato",
+          "url": "https://open.spotify.com/artist/7M9OHZ1HUapqspMXEthkvb"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163693,
+      "name": "White Sand",
+      "url": "https://open.spotify.com/track/4rNeeZnRjs0dCxpZ6Jdpfg"
+    },
+    {
+      "album": {
         "name": "White Tape",
         "url": "https://open.spotify.com/album/56PwTEBmFR9GRCSCP8KMWg"
       },
@@ -10286,7 +10362,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 291120,
       "name": "yorumayoi",
       "url": "https://open.spotify.com/track/4a4q1cEaV4AqfXtdHKk2jH"
@@ -10499,6 +10575,24 @@
     },
     {
       "album": {
+        "name": "\u30b5\u30a6\u30ca\u597d\u304d\u3059\u304e\u3001\u3088\u308a\u6df1\u304f",
+        "url": "https://open.spotify.com/album/5DBu9SUvni3WmOnT7qSMc3"
+      },
+      "artists": [
+        {
+          "name": "Cornelius",
+          "url": "https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264646,
+      "name": "\u30b5\u30a6\u30ca\u597d\u304d\u3059\u304e\u3001\u3088\u308a\u6df1\u304f",
+      "url": "https://open.spotify.com/track/4zBMWtHpcpJzWeLONINVHi"
+    },
+    {
+      "album": {
         "name": "\u30e2\u30fc\u30cb\u30f3\u30b0\u30fb\u30d4\u30af\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC"
       },
@@ -10568,6 +10662,24 @@
       "duration_ms": 278866,
       "name": "\u30cf\u3099\u30a4\u30aa\u30fb\u30d5\u30a3\u30ed\u30bd\u30d5\u30a3\u30fc/Bio Philosophy",
       "url": "https://open.spotify.com/track/6tsoeI7fM4dBZwZv46NUDK"
+    },
+    {
+      "album": {
+        "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
+        "url": "https://open.spotify.com/album/0zlWnNzkRwiGZrk6jwwhuz"
+      },
+      "artists": [
+        {
+          "name": "\u78ef\u7530\u5065\u4e00\u90ce",
+          "url": "https://open.spotify.com/artist/3rFwskAbReckTSOvClgBCt"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 629007,
+      "name": "\u30de\u30b8\u30a8\u30eb\u306e\u307e\u3069\u308d\u307f - Majel's Slumber",
+      "url": "https://open.spotify.com/track/5AeZqVy9kG5B5X8lnYCnNX"
     },
     {
       "album": {

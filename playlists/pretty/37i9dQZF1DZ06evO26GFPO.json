@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 291453,
+  "num_followers": 291486,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAADJB2GClGnit/6IK5BMI1ok",
+  "snapshot_id": "Zk01gAAAAABmuQfIc+y+1/Ms537e+0mm",
   "tracks": [
     {
       "added_at": null,
@@ -35,6 +35,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Falta de Mim (Ao Vivo)",
+        "url": "https://open.spotify.com/album/72Hasil7xvwX5JNGwkXHiR"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 154164,
+      "name": "Falta de Mim - Ao Vivo",
+      "url": "https://open.spotify.com/track/6CqDt0kMtPLvul13OS9afe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
       },
@@ -55,26 +75,6 @@
       "duration_ms": 345053,
       "name": "Ainda Gosto de Voc\u00ea / J\u00e1 Era - Ao Vivo",
       "url": "https://open.spotify.com/track/06WkQibI8OhOLjDxIRKu5B"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Falta de Mim (Ao Vivo)",
-        "url": "https://open.spotify.com/album/72Hasil7xvwX5JNGwkXHiR"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
-        }
-      ],
-      "duration_ms": 154164,
-      "name": "Falta de Mim - Ao Vivo",
-      "url": "https://open.spotify.com/track/6CqDt0kMtPLvul13OS9afe"
     },
     {
       "added_at": null,
@@ -111,30 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
-      },
-      "artists": [
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Belo",
-          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
-        }
-      ],
-      "duration_ms": 203223,
-      "name": "Me Espera - Ao Vivo",
-      "url": "https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No_se_ve.mp3",
         "url": "https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN"
       },
@@ -155,6 +131,30 @@
       "duration_ms": 203636,
       "name": "No_se_ve.mp3",
       "url": "https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorriso Eu Gosto No Pagode - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0XclkMPoy9RZWvp1lwT29v"
+      },
+      "artists": [
+        {
+          "name": "Sorriso Maroto",
+          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "duration_ms": 203223,
+      "name": "Me Espera - Ao Vivo",
+      "url": "https://open.spotify.com/track/2v9uX8MdVInhpItltNILMD"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2",
-        "url": "https://open.spotify.com/album/5xm4qlyamtTnDKpAhVAtX3"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 164141,
-      "name": "Maldivas",
-      "url": "https://open.spotify.com/track/1FGRA5pMtBqJLNAaSBia2x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -602,15 +586,11 @@
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Sorriso Maroto",
-          "url": "https://open.spotify.com/artist/1fUSLFr4WUBx7joEcGwpvG"
         }
       ],
-      "duration_ms": 215304,
-      "name": "N\u00e3o \u00c9 Por Maldade - Ao vivo",
-      "url": "https://open.spotify.com/track/19IIiuViFv6TsPDXV2ZWB3"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -716,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         }
       ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
+      "duration_ms": 160455,
+      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
+      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
     },
     {
       "added_at": null,
@@ -779,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 160455,
-      "name": "Um P\u00f4r do Sol na Praia - Ao vivo",
-      "url": "https://open.spotify.com/track/7M1YydD0jJ9teSC62fhfY9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -811,6 +775,22 @@
       "duration_ms": 233637,
       "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
       "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 325002,
+      "name": "Sintoma de Amor / Depois do Amor / Agenda - Ao vivo",
+      "url": "https://open.spotify.com/track/6LgkG3CQKp6qejNMpOatMj"
     },
     {
       "added_at": null,

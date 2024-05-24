@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Jefe",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: ElMusto",
   "name": "NKVT",
   "tracks": [
     {
@@ -541,6 +541,28 @@
     },
     {
       "album": {
+        "name": "Asi",
+        "url": "https://open.spotify.com/album/5IWD9B8HNrH6rOgByVeEUK"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/0tDKjHiuBngBKntFDStWDE"
+        },
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Asi",
+      "url": "https://open.spotify.com/track/1jl7GgqV8vAYnCm9XnJXgn"
+    },
+    {
+      "album": {
         "name": "Asosyal",
         "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
       },
@@ -854,7 +876,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 191275,
       "name": "BAYBAY",
       "url": "https://open.spotify.com/track/232LbugfZaCUwq82xiELtd"
@@ -1416,7 +1438,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 139821,
       "name": "Dale",
       "url": "https://open.spotify.com/track/5NIfOnuujMRqIoNCn86kfE"
@@ -1438,6 +1460,24 @@
       "duration_ms": 118104,
       "name": "Dale Don Dale",
       "url": "https://open.spotify.com/track/1f9X5YDmXDxyIwhzB06JJd"
+    },
+    {
+      "album": {
+        "name": "Damlars\u0131n",
+        "url": "https://open.spotify.com/album/1HbQWs7ClzwFt5AmEgH8r2"
+      },
+      "artists": [
+        {
+          "name": "cakal",
+          "url": "https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145573,
+      "name": "Damlars\u0131n",
+      "url": "https://open.spotify.com/track/0pFL8GjwSssk4uLBQafhAn"
     },
     {
       "album": {
@@ -2204,7 +2244,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 172173,
       "name": "Giderim",
       "url": "https://open.spotify.com/track/0uGvVYlbjieugHG7ANUj5k"
@@ -2332,6 +2372,32 @@
       "duration_ms": 156387,
       "name": "Gospel",
       "url": "https://open.spotify.com/track/4cUBqMp6n4B2L4Mmr1JcLr"
+    },
+    {
+      "album": {
+        "name": "GRIFFIN FREESTYLE",
+        "url": "https://open.spotify.com/album/7cW3TAbXVvVqeP0PI6CCJU"
+      },
+      "artists": [
+        {
+          "name": "Veron Algos",
+          "url": "https://open.spotify.com/artist/3tChlx5I5JhZfY55Hp0Wa1"
+        },
+        {
+          "name": "Hidra",
+          "url": "https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m"
+        },
+        {
+          "name": "Tafoni",
+          "url": "https://open.spotify.com/artist/3a2i6JtfwRncwW8u9HBesW"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181005,
+      "name": "GRIFFIN FREESTYLE",
+      "url": "https://open.spotify.com/track/4vHvFQpsPXOBgIqZM5cCLo"
     },
     {
       "album": {
@@ -2990,7 +3056,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 124716,
       "name": "\u0130mparator",
       "url": "https://open.spotify.com/track/7lOGCEsmoHqai3PHS9kbTa"
@@ -3719,6 +3785,28 @@
     },
     {
       "album": {
+        "name": "Kumpas",
+        "url": "https://open.spotify.com/album/3Dg53oiqCleo0kM41OvGwT"
+      },
+      "artists": [
+        {
+          "name": "Harim",
+          "url": "https://open.spotify.com/artist/3nHhB1Pu6O4e6DTtoiORTJ"
+        },
+        {
+          "name": "Joker",
+          "url": "https://open.spotify.com/artist/2Fu5huGG8iXC85P9akyYrr"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160414,
+      "name": "Kumpas",
+      "url": "https://open.spotify.com/track/5vGy2oGrp5YxfI5WVAbfe1"
+    },
+    {
+      "album": {
         "name": "Ku\u011fulu Park",
         "url": "https://open.spotify.com/album/49AzrOfIeUI1fFQsqAiHPt"
       },
@@ -4069,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "madem \u00f6yle...(rastla\u015fcaz!)",
+        "url": "https://open.spotify.com/album/4Wr3DR90tXZFFdDYCOF5rs"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183439,
+      "name": "madem \u00f6yle...(rastla\u015fcaz!)",
+      "url": "https://open.spotify.com/track/7c6c0q5Ud88l0smh1JHwea"
+    },
+    {
+      "album": {
         "name": "Maganda",
         "url": "https://open.spotify.com/album/5wDBhrXiPniSnYFDU9kej3"
       },
@@ -4196,6 +4302,24 @@
       "duration_ms": 140437,
       "name": "MASERATI",
       "url": "https://open.spotify.com/track/59jL6CYHEMoP0OmjFctLDB"
+    },
+    {
+      "album": {
+        "name": "Mask Yok",
+        "url": "https://open.spotify.com/album/2XuJwqi8NQjzsbxPT4MkRI"
+      },
+      "artists": [
+        {
+          "name": "Grogi",
+          "url": "https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139989,
+      "name": "Mask Yok",
+      "url": "https://open.spotify.com/track/5Q2X7iXE3Qlx9zL0DZYP0X"
     },
     {
       "album": {
@@ -5056,7 +5180,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 129095,
       "name": "Patlat",
       "url": "https://open.spotify.com/track/5qLnFAfF07nwUiARNSWZBJ"
@@ -5535,6 +5659,46 @@
     },
     {
       "album": {
+        "name": "R\u00dcN",
+        "url": "https://open.spotify.com/album/0jeXwS9QJ7J5O3AkRZhs2q"
+      },
+      "artists": [
+        {
+          "name": "Saian",
+          "url": "https://open.spotify.com/artist/6ybd4tPF7McLj3BNhZavQi"
+        },
+        {
+          "name": "Emir Can \u0130\u011frek",
+          "url": "https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "R\u00dcN",
+      "url": "https://open.spotify.com/track/2fBjU39A8TYO9WBCD9lsJ8"
+    },
+    {
+      "album": {
+        "name": "SAGOLUYORUM (BIG TERORISTA)",
+        "url": "https://open.spotify.com/album/45kuj3np55rmLNWTvm4cA9"
+      },
+      "artists": [
+        {
+          "name": "Jeff Redd",
+          "url": "https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95540,
+      "name": "SAGOLUYORUM (BIG TERORISTA)",
+      "url": "https://open.spotify.com/track/4bbndwPQlPaEQQGmXPPkTw"
+    },
+    {
+      "album": {
         "name": "Sahibinden",
         "url": "https://open.spotify.com/album/5xBY3c8wdd3hbVlGZkke2z"
       },
@@ -5656,7 +5820,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 210201,
       "name": "Say Goodbye 2.0 (feat. Motive & Yung Kafa & K\u00fcc\u00fck Efendi)",
       "url": "https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37"
@@ -6304,7 +6468,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 213855,
       "name": "Tatl\u0131 Tecr\u00fcbe",
       "url": "https://open.spotify.com/track/4uKCFesMVkUIzJPXdAPGlI"
@@ -6478,7 +6642,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 185142,
       "name": "Uykular\u0131ndan Ol",
       "url": "https://open.spotify.com/track/7aNDRqnslAhK2dWE0jMwTA"

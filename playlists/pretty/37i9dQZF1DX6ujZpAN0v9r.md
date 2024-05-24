@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,268 likes - 148 songs - 11 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,464 likes - 148 songs - 11 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 44 | [Songs](https://open.spotify.com/track/0y15BMv8TXeAUsDhWIGQFl) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Songs](https://open.spotify.com/album/5el9vQQOpGyHpsfv0MXqjs) | 15:50 |
 | 45 | [Everybody Knows](https://open.spotify.com/track/2YrVbzr33wiGcoKODWOLJI) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:18 |
 | 46 | [Everlastingly Yours](https://open.spotify.com/track/1vl66qSV9BlAALu9eANF7J) | [Piroshka](https://open.spotify.com/artist/1BAU8Y2UIKYLm57cIwyi28) | [Brickbat](https://open.spotify.com/album/20cesT6Swa3zRWUxqJxo1A) | 4:29 |
-| 47 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
-| 48 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
+| 47 | [Elizabeth Colour Wheel](https://open.spotify.com/track/3CAuQjMgfYJrqSehDwP0nl) | [Lilys](https://open.spotify.com/artist/2IG2KZZiXaYygnWGCC7uEj) | [In the Presence of Nothing](https://open.spotify.com/album/2RWhRlMW0F8urFf7yRLXNP) | 6:58 |
+| 48 | [Flood in Heaven](https://open.spotify.com/track/2KqKu9seZepmo9uKo6VyD8) | [The Daysleepers](https://open.spotify.com/artist/1geEJC0mAf9bjfmYCffS9F) | [Creation](https://open.spotify.com/album/7MkfRXHzsO8yK7wD9unGzS) | 5:01 |
 | 49 | [Falling Down](https://open.spotify.com/track/0rb6HvdvWJRkyhxsfFf1ep) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:56 |
 | 50 | [Run Into Flowers](https://open.spotify.com/track/68jU8rPQuQufjrIoUdS3vS) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Dead Cities, Red Seas & Lost Ghosts](https://open.spotify.com/album/5u8hliZZtH3mc6o7BJRmVP) | 4:09 |
 | 51 | [Dark Star](https://open.spotify.com/track/1fOkePiratk9GcIDSSg8U0) | [the sleepover disaster](https://open.spotify.com/artist/2ZPBeSCFdYZ2WBg1LOgyzk) | [Hover](https://open.spotify.com/album/1SRaji5f1FPUmN6k94Mt20) | 4:57 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 65 | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/track/2lKvOmRdGrctk2AMPcKhjn) | [Nothing](https://open.spotify.com/artist/6wgWGtoBlNofKC6Z1i4yyW) | [Heavy Water / I'd Rather Be Sleeping](https://open.spotify.com/album/5vMsogprlxHsjreQ57Zz8d) | 4:08 |
 | 66 | [Something More](https://open.spotify.com/track/1YzjtXhCBByJhUYDK6Vc1P) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Whirlpool \(Expanded Edition\)](https://open.spotify.com/album/5Sc59oKieHPFvruoxBgmSp) | 3:18 |
 | 67 | [Telling Tales](https://open.spotify.com/track/3AfZWVkAf2ipi68BMVvfwq) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [Telling Tales](https://open.spotify.com/album/2cLkNGHnApbLqGc4xMc8kg) | 4:12 |
-| 68 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
-| 69 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
+| 68 | [My Dreaming Hill](https://open.spotify.com/track/6WwaIdQ1Ub79fsgwM5k2CK) | [Flying Saucer Attack](https://open.spotify.com/artist/336fB3AJgK8AvHX5bD8d9A) | [Flying Saucer Attack](https://open.spotify.com/album/61unsjt9ZxVSYLNEtFxe0Q) | 6:12 |
+| 69 | [Square Wave](https://open.spotify.com/track/2clQfhmmnq7jUBWjloMGsW) | [The Ecstasy Of Saint Theresa](https://open.spotify.com/artist/37WxvPv7fSfSDpy1H0D4AO) | [Still In A Dream: A Story Of Shoegaze 1988\-1995](https://open.spotify.com/album/6Ttk5uAzFj13ribmHHcBao) | 3:41 |
 | 70 | [Sunshy](https://open.spotify.com/track/5BiVdcPY0rIgP8kEWSwN7J) | [Alison's Halo](https://open.spotify.com/artist/0QqpFsm55FdqfpCEIiHUgS) | [Cherry Stars Collide: Dream Pop, Shoegaze and Ethereal Rock 1986\-1995](https://open.spotify.com/album/3MFsMOGhABJMO6DIuoyLUF) | 5:53 |
 | 71 | [Splashdown](https://open.spotify.com/track/2BikDWeXjSKJIZsaphX9JX) | [The Telescopes](https://open.spotify.com/artist/5MTQzge85m3QSefD2LdS1J) | [Splashdown: The Complete Creation Recordings 1990\-1992](https://open.spotify.com/album/2g4LXTfn5vxwW2nO1tt6FG) | 3:11 |
 | 72 | [In The Hanging Gardens](https://open.spotify.com/track/02OqEyd1Kpk6NdGnwge1HP) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 5:15 |

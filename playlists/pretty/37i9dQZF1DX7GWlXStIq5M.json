@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: Lou Garcia, Marina Sena",
-  "num_followers": 371393,
+  "num_followers": 371394,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "MAR\u00c9",
-        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
-      },
-      "artists": [
-        {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "MAR\u00c9",
-      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "CHATA",
         "url": "https://open.spotify.com/album/2ViIh0f9ZLlQA5H00kcncj"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 156330,
       "name": "CHATA",
       "url": "https://open.spotify.com/track/4VCcq6VeIwwIdTf4KWBBbr"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "MAR\u00c9",
+        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
+      },
+      "artists": [
+        {
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+        }
+      ],
+      "duration_ms": 168650,
+      "name": "MAR\u00c9",
+      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
+        "name": "Deixe-me Ir",
+        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 219534,
+      "name": "Deixe-me Ir",
+      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 167741,
       "name": "OLHAR HD",
       "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
-        "name": "Deixe-me Ir",
-        "url": "https://open.spotify.com/album/3d1coC12sf3UK6tzth5tiw"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 219534,
-      "name": "Deixe-me Ir",
-      "url": "https://open.spotify.com/track/18aw3zpdoRkQU9du7iE8kD"
     },
     {
       "added_at": "2024-05-10 03:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2024-05-10 03:00:00",
       "album": {
-        "name": "Capa Vogue",
-        "url": "https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7"
-      },
-      "artists": [
-        {
-          "name": "LUCK MUZIK",
-          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
-        },
-        {
-          "name": "Gabb MC",
-          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "Capa Vogue",
-      "url": "https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7"
-    },
-    {
-      "added_at": "2024-05-10 03:00:00",
-      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1423,6 +1403,26 @@
       "duration_ms": 206632,
       "name": "Ins\u00f4nia",
       "url": "https://open.spotify.com/track/0T5JBjv1ZkZ99dDtJwixeI"
+    },
+    {
+      "added_at": "2024-05-10 03:00:00",
+      "album": {
+        "name": "Capa Vogue",
+        "url": "https://open.spotify.com/album/4joYhZVy4gA2zYOpp7qUy7"
+      },
+      "artists": [
+        {
+          "name": "LUCK MUZIK",
+          "url": "https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR"
+        },
+        {
+          "name": "Gabb MC",
+          "url": "https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "Capa Vogue",
+      "url": "https://open.spotify.com/track/7jaQt9VbBVJa6YYm3vxAB7"
     },
     {
       "added_at": "2024-05-10 03:00:00",

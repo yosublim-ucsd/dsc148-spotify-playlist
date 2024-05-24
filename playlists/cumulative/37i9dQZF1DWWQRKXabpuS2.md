@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:اصيل هميم
 
-337 songs - 23 hr 12 min
+339 songs - 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-01 |  |
 | [Akhtht Al Thaar](https://open.spotify.com/track/2ShZOjo6DVToCvT4Q4eoLC) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Akhtht Al Thaar](https://open.spotify.com/album/5PbRU9jwHXjhqttJdoy2bW) | 3:39 | 2022-07-27 | 2022-09-15 |
 | [Al Badeel](https://open.spotify.com/track/2wRlaec2tf6wI7RwNeVN6d) | [Ahmad Alawi](https://open.spotify.com/artist/5hw12Kz62uesk0wdKSJpBv) | [Al Badeel](https://open.spotify.com/album/4E4FPhYU6jM5sPGeBMzzIp) | 3:29 | 2021-12-23 | 2022-06-04 |
-| [Al Ghayeb](https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Ghayeb](https://open.spotify.com/album/6dgUsT5lqbH4bYc8mSThvd) | 3:32 | 2023-11-16 |  |
+| [Al Ghayeb](https://open.spotify.com/track/63OHHhts1iM6ko08jfZIXF) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Al Ghayeb](https://open.spotify.com/album/6dgUsT5lqbH4bYc8mSThvd) | 3:32 | 2023-11-16 | 2024-05-24 |
 | [AL Haneen](https://open.spotify.com/track/4QFao7PN5C3uGmfyaWs3Dw) | [Rulan](https://open.spotify.com/artist/2zyMGZUVbCHsh2LnkDF4ex) | [AL Haneen](https://open.spotify.com/album/2yN7VTziuoXyPuqy0HONX2) | 3:20 | 2021-12-23 | 2022-01-21 |
 | [Al Hila](https://open.spotify.com/track/0P8Sth3aH06QBfMF1hw3C4) | [Huda Al Fahad](https://open.spotify.com/artist/1n9uot3AWMGrSa8i9OGj4a) | [Al Hila](https://open.spotify.com/album/53S7tlEKRYRp1pJ7pez7TL) | 2:58 | 2023-05-25 | 2023-05-28 |
 | [Al Hob Al Kbeer](https://open.spotify.com/track/7t1GCSJoQOX246hFilyjgu) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Hob Al Kbeer](https://open.spotify.com/album/2YIXkJvOS9I7c58kFp6qhC) | 5:28 | 2022-08-09 | 2022-10-11 |
@@ -69,7 +69,7 @@
 | [Bab Galbi](https://open.spotify.com/track/0a0lQdJ6d1zdsSIZY5f6yl) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Bab Galbi](https://open.spotify.com/album/2u55oUjufLaPJ90QnBT7a4) | 2:58 | 2022-08-25 | 2023-03-15 |
 | [Bahjat ALkhater](https://open.spotify.com/track/3eReZhyR5JIDiRN1kxxHOl) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Bahjat ALkhater](https://open.spotify.com/album/4UmJoi5HlTPVDeWuDQWgpx) | 4:32 | 2022-03-17 | 2022-09-09 |
 | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/track/6FBNoAauIeKCOtR4xkFtGx) | [Flipperachi](https://open.spotify.com/artist/7lPCTAKDofGUQgXGonMrKd), [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Balash Ana \(feat\. Carmen Soliman\)](https://open.spotify.com/album/6WWGzDlSphKk5lDurfAM6l) | 2:32 | 2021-12-23 | 2022-04-05 |
-| [Bara Jarhik](https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [\#1](https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec) | 2:54 | 2023-11-14 |  |
+| [Bara Jarhik](https://open.spotify.com/track/1Ne42Dc6BPemYb4i1XikJk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [\#1](https://open.spotify.com/album/1ufUw2q6WAB4jrghwChTec) | 2:54 | 2023-11-14 | 2024-05-24 |
 | [Bayn Alayadi](https://open.spotify.com/track/1hIdUbUeGqJ5MXbKEU6Uqf) | [Abdulwahab](https://open.spotify.com/artist/29o5B68ocp085sHaHjae8e) | [Bayn Alayadi](https://open.spotify.com/album/6xcQSKxoyNQAkUcImgTNWa) | 3:49 | 2022-01-20 | 2022-06-21 |
 | [Bdet Ateeb](https://open.spotify.com/track/5XtURwv3QcCqXKBmMZi95H) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Bdet Ateeb](https://open.spotify.com/album/6GmP2R2kvNM4ZO1oUnxlGI) | 4:36 | 2023-02-24 | 2023-02-26 |
 | [Bel Salamah](https://open.spotify.com/track/6BPAlkPIa5LDBrJ2FzT6vl) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Bel Salamah](https://open.spotify.com/album/7us6HjjHLdI7eHRzHEfzSx) | 5:37 | 2023-02-21 | 2023-09-13 |
@@ -180,6 +180,7 @@
 | [Mezlaaj](https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Mezlaaj](https://open.spotify.com/album/5eOqbmNYRcrC2UxaM6fTh6) | 4:30 | 2023-05-26 | 2023-12-30 |
 | [Min Ant](https://open.spotify.com/track/26PF0qiTHTJtriWMqc5sht) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Min Ant](https://open.spotify.com/album/5G64uDVMeCjIrzUFRlMlVa) | 4:54 | 2022-08-18 | 2023-02-25 |
 | [Min Taht](https://open.spotify.com/track/3bHSpc1Aq5K9NFYLeKAIPX) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [150](https://open.spotify.com/album/2x0sdVHs0nCq3Pr4Tm4Sr1) | 2:30 | 2022-02-04 | 2022-05-31 |
+| [Mithl Alqamar](https://open.spotify.com/track/0p0Se8qQx7avDYVsBiKFth) | [KADEJAH MOAATH](https://open.spotify.com/artist/6dHJGgMd8sX4N2ss08CPo4) | [Mithl Alqamar](https://open.spotify.com/album/1kYf7EpjzIChlqNRnLPJ7b) | 3:57 | 2024-05-23 |  |
 | [Mn Aaba Ebtala](https://open.spotify.com/track/5VWQaRorDIB9FTgX5hlUdq) | [Arwa](https://open.spotify.com/artist/25vaZT076LoTTwM5BZ6Dmn) | [Mn Aaba Ebtala](https://open.spotify.com/album/5WSRFUvLqvj0d4pSZvgtlT) | 3:20 | 2024-04-10 |  |
 | [Mo 3ebek](https://open.spotify.com/track/0R3oaHOHLAPOvL5JJdjGk7) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Mo 3ebek](https://open.spotify.com/album/1Wn8mbAWjJyWOdwNdiJ0sB) | 3:13 | 2021-12-23 | 2022-06-04 |
 | [Mo Eisha Haya](https://open.spotify.com/track/1oaD9qOBx3jQPlmOJamnWN) | [Hamza Al Aseel](https://open.spotify.com/artist/7nQ1aN8DVGPMH6y80w7FU3) | [Mo Eisha Haya](https://open.spotify.com/album/7r0vk5ltcqqRUsOg6r8HQF) | 3:24 | 2021-12-23 | 2022-02-15 |
@@ -306,6 +307,7 @@
 | [زينة أيامي](https://open.spotify.com/track/6oMkESxOjwd6PFXpCocEZz) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [زينة أيامي](https://open.spotify.com/album/4Xq6qnOSBMLA7MESvKNk8u) | 3:37 | 2023-09-08 | 2023-10-03 |
 | [زينة أيامي](https://open.spotify.com/track/77F0ZkjCzh3B2ASgfu9okX) | [نوال الكويتية](https://open.spotify.com/artist/0KpzW2tcVs0tfnTFn6ZPys) | [الأرض](https://open.spotify.com/album/0S1DgCMQc8vbiPA210cc8X) | 3:37 | 2023-09-30 | 2024-04-03 |
 | [زينك دمار](https://open.spotify.com/track/0STEeSVMD2rRqkFtf7gGXC) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [زينك دمار](https://open.spotify.com/album/7LWT6p48ZKIEUrYBl80H20) | 4:34 | 2022-05-25 | 2022-09-09 |
+| [سبع وثمان](https://open.spotify.com/track/3UTORktaYB1E8YWp5DuTSF) | [Omar Al Abdalaat](https://open.spotify.com/artist/7wNZDaQ21Dh0ggn4Vj1bdi) | [ديار ليلى](https://open.spotify.com/album/2nMSi3FKbTdgEygD6X1N7l) | 3:16 | 2024-05-23 |  |
 | [سرق قلبي](https://open.spotify.com/track/2kqlas6p59Cm6OeYp2rWFb) | [بندر بن عوير](https://open.spotify.com/artist/3AEPOScEpyXGfeHa3scvkm) | [سرق قلبي](https://open.spotify.com/album/0IVWUkh9YUII3SPLQXwJHP) | 4:15 | 2023-01-31 | 2023-08-26 |
 | [سقط عمدًا](https://open.spotify.com/track/0LgiX1pjvT9hYYjTi94JNJ) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [فهد الكبيسي ٢٠٢٤](https://open.spotify.com/album/2rcwcw5RyBM3gUXYIz7blF) | 5:08 | 2024-04-15 | 2024-04-19 |
 | [سواليف الوله](https://open.spotify.com/track/6sX47nT4v24OVf2FbfGE70) | [Fahad Al Kubaisi](https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ) | [سواليف الوله](https://open.spotify.com/album/6a2aQVXeBNvHM9ovsnWuor) | 3:23 | 2023-05-26 | 2023-12-22 |

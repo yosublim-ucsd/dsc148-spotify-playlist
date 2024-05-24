@@ -1,95 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Slovakia.",
-  "num_followers": 21032,
+  "num_followers": 21033,
   "original_name": "Top 50 - Slovakia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LeFWQAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LeKnwAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 141251,
-      "name": "MIG-MIG",
-      "url": "https://open.spotify.com/track/0wxi17DkMdO56ewvyC9MRk"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 248664,
-      "name": "V\u00fd\u0165ah 821",
-      "url": "https://open.spotify.com/track/6l4nOjyeBDq4LI8B9F56Eq"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 186505,
-      "name": "DROP THAT",
-      "url": "https://open.spotify.com/track/2AkBAAhrlu1IY6qNJwznlb"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 113000,
-      "name": "Odzemok",
-      "url": "https://open.spotify.com/track/0LQ8aBCDnwjOjvnnz2vuYn"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "YEBEK",
-      "url": "https://open.spotify.com/track/64xytapuiEfRgXTY1TnA6C"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -105,7 +25,131 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 113000,
+      "name": "ODZEMOK",
+      "url": "https://open.spotify.com/track/0LQ8aBCDnwjOjvnnz2vuYn"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 248664,
+      "name": "V\u00dd\u0164AH 821",
+      "url": "https://open.spotify.com/track/6l4nOjyeBDq4LI8B9F56Eq"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 141251,
+      "name": "MIG-MIG",
+      "url": "https://open.spotify.com/track/0wxi17DkMdO56ewvyC9MRk"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 179586,
+      "name": "LUNCH",
+      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DOVIDENIA",
+        "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
+      },
+      "artists": [
+        {
+          "name": "Separ",
+          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        }
+      ],
+      "duration_ms": 173917,
+      "name": "Bbejbb",
+      "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "YEBEK",
+      "url": "https://open.spotify.com/track/64xytapuiEfRgXTY1TnA6C"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "DLH\u00c1 CESTA DOMOV",
         "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
@@ -145,7 +189,7 @@
       "url": "https://open.spotify.com/track/2jmXzeC5Y0593E1zbKGsTC"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "DLH\u00c1 CESTA DOMOV",
         "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
@@ -156,28 +200,12 @@
           "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Ja & M\u00d4J TIE\u0147. Prod MAGENTA",
-      "url": "https://open.spotify.com/track/5g3sKqemEitW3LS4X6vOVB"
+      "duration_ms": 186505,
+      "name": "DROP THAT",
+      "url": "https://open.spotify.com/track/2AkBAAhrlu1IY6qNJwznlb"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "SHIT TALKIN 500",
-      "url": "https://open.spotify.com/track/5FMKLguH7brVNUHNkOgSQo"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "DLH\u00c1 CESTA DOMOV",
         "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
@@ -193,107 +221,11 @@
         }
       ],
       "duration_ms": 200000,
-      "name": "Zzz",
+      "name": "ZZZ",
       "url": "https://open.spotify.com/track/1nNoYJSeWfQpgkpbHpehAd"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "Pedro",
-        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
-      },
-      "artists": [
-        {
-          "name": "Jaxomy",
-          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
-        },
-        {
-          "name": "Agatino Romero",
-          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
-        },
-        {
-          "name": "Raffaella Carr\u00e0",
-          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
-        }
-      ],
-      "duration_ms": 144846,
-      "name": "Pedro",
-      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        },
-        {
-          "name": "ransmoukid",
-          "url": "https://open.spotify.com/artist/0VJDyeu30JablPFTvTT1UP"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Shit Talkin 600 feat. Ransmoukid",
-      "url": "https://open.spotify.com/track/3ybENpwPpf9osv2gleV6Yj"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DOVIDENIA",
-        "url": "https://open.spotify.com/album/0sK3pRfVuBewYVuOqKwiYP"
-      },
-      "artists": [
-        {
-          "name": "Separ",
-          "url": "https://open.spotify.com/artist/3LujD0iQ9jRbSCMA39CGfO"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        }
-      ],
-      "duration_ms": 173917,
-      "name": "Bbejbb",
-      "url": "https://open.spotify.com/track/3BQqSkF8Raj9lEzJdscmmu"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DLH\u00c1 CESTA DOMOV",
-        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 143000,
-      "name": "NA\u010cO SOM TAM CHODIL?",
-      "url": "https://open.spotify.com/track/7tEFV2Kys4kLkTE67ZosMK"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 179586,
-      "name": "LUNCH",
-      "url": "https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -309,7 +241,39 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "SHIT TALKIN 500",
+      "url": "https://open.spotify.com/track/5FMKLguH7brVNUHNkOgSQo"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "JA & M\u00d4J TIE\u0147. PROD MAGENTA",
+      "url": "https://open.spotify.com/track/5g3sKqemEitW3LS4X6vOVB"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/52TwRwdTUMtkpglbOE5IRz"
@@ -325,7 +289,43 @@
       "url": "https://open.spotify.com/track/7fzHQizxTqy8wTXwlrgPQQ"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "NA\u010cO SOM TAM CHODIL?",
+      "url": "https://open.spotify.com/track/7tEFV2Kys4kLkTE67ZosMK"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "DLH\u00c1 CESTA DOMOV",
+        "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
+      },
+      "artists": [
+        {
+          "name": "Gleb",
+          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
+        },
+        {
+          "name": "ransmoukid",
+          "url": "https://open.spotify.com/artist/0VJDyeu30JablPFTvTT1UP"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "SHIT TALKIN 600 FEAT. RANSMOUKID",
+      "url": "https://open.spotify.com/track/3ybENpwPpf9osv2gleV6Yj"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "DLH\u00c1 CESTA DOMOV",
         "url": "https://open.spotify.com/album/7ii5Bv2QBi1PxlIa2J9MMN"
@@ -341,39 +341,7 @@
       "url": "https://open.spotify.com/track/2HrXbnSyAjKaQWPkORY0pk"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -389,7 +357,39 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -409,23 +409,7 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "Not Like Us",
-        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 274192,
-      "name": "Not Like Us",
-      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
@@ -441,7 +425,7 @@
       "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -457,7 +441,23 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "love hotel",
+        "url": "https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3"
+      },
+      "artists": [
+        {
+          "name": "leftovermax",
+          "url": "https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj"
+        }
+      ],
+      "duration_ms": 152380,
+      "name": "love hotel",
+      "url": "https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
@@ -477,23 +477,23 @@
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
-        "name": "love hotel",
-        "url": "https://open.spotify.com/album/5lMMC4nIID6IHXNffPt6p3"
+        "name": "Not Like Us",
+        "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
       "artists": [
         {
-          "name": "leftovermax",
-          "url": "https://open.spotify.com/artist/6V5fHkuCfZknzDBr5Wm7Rj"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 152380,
-      "name": "love hotel",
-      "url": "https://open.spotify.com/track/6IwmDRpswDujeciIBTiEOL"
+      "duration_ms": 274192,
+      "name": "Not Like Us",
+      "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -509,7 +509,27 @@
       "url": "https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -533,27 +553,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "FLOWDEMORT",
         "url": "https://open.spotify.com/album/3zi1D9yDyynoGCl4vLVWOK"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
@@ -605,7 +605,55 @@
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 210688,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Belong Together",
+        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 148317,
+      "name": "Belong Together",
+      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Dokola",
+        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
+      },
+      "artists": [
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Dokola",
+      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -625,39 +673,71 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
-        "name": "Dokola",
-        "url": "https://open.spotify.com/album/4eEm7Kmh5UvYBydvZrlXUW"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 155076,
-      "name": "Dokola",
-      "url": "https://open.spotify.com/track/5Up5SvpQRma9AbVBYiW2PI"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 210688,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "KICKIN\u2019 DOORS",
+        "url": "https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb"
+      },
+      "artists": [
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "KICKIN\u2019 DOORS",
+      "url": "https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 219733,
+      "name": "SKINNY",
+      "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Sp\u00e1l\u0148a s\u00f4ch",
         "url": "https://open.spotify.com/album/0EelliV8no5bCclsLdhYAf"
@@ -677,87 +757,7 @@
       "url": "https://open.spotify.com/track/2INP0DROyWbufygXh5wD1z"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "Belong Together",
-        "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 148317,
-      "name": "Belong Together",
-      "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "KICKIN\u2019 DOORS",
-        "url": "https://open.spotify.com/album/4DGtuOnJ6ghDx0hKHIAxOb"
-      },
-      "artists": [
-        {
-          "name": "Hard Rico",
-          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "KICKIN\u2019 DOORS",
-      "url": "https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 219733,
-      "name": "SKINNY",
-      "url": "https://open.spotify.com/track/1CsMKhwEmNnmvHUuO5nryA"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -773,51 +773,7 @@
       "url": "https://open.spotify.com/track/6TGd66r0nlPaYm3KIoI7ET"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 333986,
-      "name": "L\u2019AMOUR DE MA VIE",
-      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "M\u00e1m \u0165a r\u00e1d",
-        "url": "https://open.spotify.com/album/1gmtE1ZKZ8cTj8Uewl8HMv"
-      },
-      "artists": [
-        {
-          "name": "Kali",
-          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
-        },
-        {
-          "name": "Alan Murin",
-          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
-        },
-        {
-          "name": "Peter Pann",
-          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
-        },
-        {
-          "name": "\u0160orty",
-          "url": "https://open.spotify.com/artist/6uh7cpdCXlT2GVYVfFa3sp"
-        }
-      ],
-      "duration_ms": 216825,
-      "name": "M\u00e1m \u0165a r\u00e1d",
-      "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -853,23 +809,7 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
-      "album": {
-        "name": "\u0160ed\u00e1 Hus",
-        "url": "https://open.spotify.com/album/0fyEaBDJ3NaYkTvWHVeroO"
-      },
-      "artists": [
-        {
-          "name": "Gleb",
-          "url": "https://open.spotify.com/artist/6P55YsIOHmgooCXGQXcSga"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "\u0160ed\u00e1 Hus",
-      "url": "https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g"
-    },
-    {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "Bej\u0161\u00ed\u00ed",
         "url": "https://open.spotify.com/album/2Mknc3jb9ayNH367sgP6CR"
@@ -889,23 +829,35 @@
       "url": "https://open.spotify.com/track/5BOCqcH0TPqMLOo17dFscB"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "M\u00e1m \u0165a r\u00e1d",
+        "url": "https://open.spotify.com/album/1gmtE1ZKZ8cTj8Uewl8HMv"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Kali",
+          "url": "https://open.spotify.com/artist/7GtwhLS4bvGc7mkyWjPmpC"
+        },
+        {
+          "name": "Alan Murin",
+          "url": "https://open.spotify.com/artist/6pNpb0Hcy98NRr1e8Vhxss"
+        },
+        {
+          "name": "Peter Pann",
+          "url": "https://open.spotify.com/artist/5RWzjEjUW2NWpSm00Ieo5X"
+        },
+        {
+          "name": "\u0160orty",
+          "url": "https://open.spotify.com/artist/6uh7cpdCXlT2GVYVfFa3sp"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 216825,
+      "name": "M\u00e1m \u0165a r\u00e1d",
+      "url": "https://open.spotify.com/track/4MjqKyPzValK8cxETj6mJe"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "BENIHANA",
         "url": "https://open.spotify.com/album/6FdSt0d8iox3MJ8LZR875u"
@@ -929,7 +881,7 @@
       "url": "https://open.spotify.com/track/18ilJfI0M9nkz2O3EnT9cS"
     },
     {
-      "added_at": "2024-05-22 09:46:06",
+      "added_at": "2024-05-23 09:33:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -940,9 +892,65 @@
           "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 186346,
-      "name": "THE DINER",
-      "url": "https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF"
+      "duration_ms": 333986,
+      "name": "L\u2019AMOUR DE MA VIE",
+      "url": "https://open.spotify.com/track/6fPan2saHdFaIHuTSatORv"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Vois sur ton chemin (Techno Mix)",
+        "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
+      },
+      "artists": [
+        {
+          "name": "BENNETT",
+          "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+        }
+      ],
+      "duration_ms": 178156,
+      "name": "Vois sur ton chemin - Techno Mix",
+      "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Ghettoven",
+        "url": "https://open.spotify.com/album/76p8jbvBw9eCWjMV7J8gcQ"
+      },
+      "artists": [
+        {
+          "name": "Luca Brassi10x",
+          "url": "https://open.spotify.com/artist/33ngpBQcfq53FgLhpBDt8i"
+        },
+        {
+          "name": "Shimmi",
+          "url": "https://open.spotify.com/artist/5QLfxY8Phcamadzx1r79ck"
+        },
+        {
+          "name": "AstralKid22",
+          "url": "https://open.spotify.com/artist/1i1DQiBhPIvgpNnVQ69cgJ"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Netancuj",
+      "url": "https://open.spotify.com/track/6dsXarPGibMpzgH5OfvC5P"
+    },
+    {
+      "added_at": "2024-05-23 09:33:43",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     }
   ],
   "unique_name": "Top 50 - Slovakia",

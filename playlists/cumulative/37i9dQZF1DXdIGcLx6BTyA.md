@@ -4,7 +4,7 @@
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-111 songs - 6 hr 54 min
+112 songs - 6 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Alabama Pines](https://open.spotify.com/track/4mBYupeEa1e5Ep2HU7xToZ) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Here We Rest](https://open.spotify.com/album/2jJzPAzHCzSJAxrN3jNJmJ) | 3:51 | 2021-07-06 |  |
 | [All I Do Is Drive](https://open.spotify.com/track/3clYnIoD8z0GDpgk8Gw7Cs) | [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Ice Road](https://open.spotify.com/album/2gaHEZAkAegkmjJnej9xLS) | 2:50 | 2021-07-06 |  |
 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 | 2021-07-06 | 2024-04-19 |
-| [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 | 2024-03-25 |  |
+| [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/5eWxOg6tDkf5tJagNuVSbo) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:19 | 2024-03-25 | 2024-05-24 |
 | [All of These Years](https://open.spotify.com/track/79JAw296lCbgzq8dm4h4tD) | [The Steel Woods](https://open.spotify.com/artist/69B1gu9EjC0rNb59YYNVPM) | [Old News](https://open.spotify.com/album/2c0rPOPDO1JWtN1apC2ToY) | 4:11 | 2021-07-06 |  |
 | [All The Trouble](https://open.spotify.com/track/5X1yXxosU8i4nJIwDcvRFd) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/1ihmwH6uoYnDHPRwUbJ2SP) | 5:41 | 2021-07-06 | 2024-04-15 |
 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 | 2021-07-06 |  |
@@ -30,6 +30,7 @@
 | [Broken Halos](https://open.spotify.com/track/06gD2ZtK3Dzc1BYqWExQJJ) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 1](https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB) | 3:00 | 2021-07-06 |  |
 | [Burning House](https://open.spotify.com/track/2zhk0kypGeOPsaaZcjyc14) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Untamed](https://open.spotify.com/album/5KlzsMAsw5NujrJVQtjQAB) | 3:51 | 2021-07-06 |  |
 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 | 2021-07-06 |  |
+| [Colder Than You](https://open.spotify.com/track/2blxo5iZckUK1UraX8B1nq) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [Colder Than You](https://open.spotify.com/album/4tJcolZrF1YhafTGxATF1R) | 3:21 | 2024-03-25 |  |
 | [Colder Than You](https://open.spotify.com/track/3AW4xZ2oFND8DUA35poagQ) | [Canaan Smith](https://open.spotify.com/artist/0q2lY1ZzFckzciuoMtUvck) | [High Country Sound](https://open.spotify.com/album/0XsPCNDdepOg4OP3Z1X6Za) | 3:21 | 2021-07-06 | 2024-04-19 |
 | [Country Radio](https://open.spotify.com/track/1vXTWoGkfFfmjGW13frg4M) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Country Radio \(From Red Bandana\)](https://open.spotify.com/album/4WtIyMdoFaGxpWnvAg6FAe) | 4:39 | 2024-03-25 |  |
 | [Country Radio](https://open.spotify.com/track/7dt0yYV37WRw8Gq2zg5FwZ) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Red Bandana](https://open.spotify.com/album/0WMC1R1SgwLSLwiklZGIhI) | 4:39 | 2021-07-06 | 2024-04-19 |

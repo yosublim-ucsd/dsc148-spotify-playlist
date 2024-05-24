@@ -6197,6 +6197,24 @@
     },
     {
       "album": {
+        "name": "Little Ones",
+        "url": "https://open.spotify.com/album/3kYwLAVaSBCs6MW1HKWjU9"
+      },
+      "artists": [
+        {
+          "name": "Judy Rowell",
+          "url": "https://open.spotify.com/artist/2uLQyd8FvKehSIvwPuU0bO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87898,
+      "name": "Little Ones",
+      "url": "https://open.spotify.com/track/4FL9AqUDvKq9nujlb1xOxZ"
+    },
+    {
+      "album": {
         "name": "Little Pumpkin",
         "url": "https://open.spotify.com/album/3ajzh5uRcgyStZwfsQHtwI"
       },
@@ -7418,6 +7436,24 @@
       "duration_ms": 131211,
       "name": "My Kitty Cat",
       "url": "https://open.spotify.com/track/4Ov2GX8yJaP8goeCLN6F79"
+    },
+    {
+      "album": {
+        "name": "My Little Cat",
+        "url": "https://open.spotify.com/album/4hI8nYZdpxd8zGbRlHKYvl"
+      },
+      "artists": [
+        {
+          "name": "Michel Couture",
+          "url": "https://open.spotify.com/artist/6qKPv4O4fkzGQhybUN1Vug"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99669,
+      "name": "My Little Cat",
+      "url": "https://open.spotify.com/track/2KNfqPZlSNFdUCHvlNvkGV"
     },
     {
       "album": {

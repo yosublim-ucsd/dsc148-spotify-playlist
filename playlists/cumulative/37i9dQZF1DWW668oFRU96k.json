@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Bassjackers x WUKONG x D Jayne",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Julian Jordan",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -406,6 +406,32 @@
       "duration_ms": 152250,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM"
+    },
+    {
+      "album": {
+        "name": "ADDICTED: REFRESHED",
+        "url": "https://open.spotify.com/album/5WvdQ0rXunG7ZDLneivLio"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189135,
+      "name": "Addicted - Zerb Acid VIP",
+      "url": "https://open.spotify.com/track/4iezPr4cPTjAbrcDLoQx4X"
     },
     {
       "album": {
@@ -1836,7 +1862,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 222315,
       "name": "Baddy On The Floor",
       "url": "https://open.spotify.com/track/3CqaTHbiU2nBy3Ar9RnDHN"
@@ -3521,6 +3547,24 @@
     },
     {
       "album": {
+        "name": "Close My Eyes",
+        "url": "https://open.spotify.com/album/1FAC9zq0yCguRhlSoUGCgN"
+      },
+      "artists": [
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138907,
+      "name": "Close My Eyes",
+      "url": "https://open.spotify.com/track/7cguCcCxfGbPvhotsijfqi"
+    },
+    {
+      "album": {
         "name": "Close To Me",
         "url": "https://open.spotify.com/album/29eOhlvjxBsah0zdVKhZl0"
       },
@@ -3646,6 +3690,28 @@
       "duration_ms": 151693,
       "name": "Coco Mademoiselle",
       "url": "https://open.spotify.com/track/2zo5TyabKlwaOssiwCk2Di"
+    },
+    {
+      "album": {
+        "name": "Collide",
+        "url": "https://open.spotify.com/album/0Y57roTSoU88n3CdHMrMsd"
+      },
+      "artists": [
+        {
+          "name": "Home By Dawn",
+          "url": "https://open.spotify.com/artist/6g747HiZMhVxVcQS1t8LI4"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Collide",
+      "url": "https://open.spotify.com/track/57gY3wAnqf97Wz0HLgUtY8"
     },
     {
       "album": {
@@ -6018,7 +6084,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 223277,
       "name": "Fallback",
       "url": "https://open.spotify.com/track/0DkqFVtEp6A5rZuYqkKKhJ"
@@ -6040,7 +6106,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 152380,
       "name": "Fallin Luv",
       "url": "https://open.spotify.com/track/0TdwFKbgHrZY5zGciVm92c"
@@ -6172,6 +6238,28 @@
       "duration_ms": 180517,
       "name": "Faster",
       "url": "https://open.spotify.com/track/2EZ27G58YiHySXVFR1R14I"
+    },
+    {
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/4kEEdeL8QHTXbIWvwJcQI1"
+      },
+      "artists": [
+        {
+          "name": "KDH",
+          "url": "https://open.spotify.com/artist/7n5vSYBZcqMfr8zHl6rdcx"
+        },
+        {
+          "name": "Wux",
+          "url": "https://open.spotify.com/artist/2i5bFKnyyin7g3ZwknYrWR"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157553,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/4t0YtciFth6sTtse4PZj7Y"
     },
     {
       "album": {
@@ -7281,6 +7369,28 @@
     },
     {
       "album": {
+        "name": "Found You",
+        "url": "https://open.spotify.com/album/4LnLQS1EJbI9S4lza1wTGW"
+      },
+      "artists": [
+        {
+          "name": "Cence Brothers",
+          "url": "https://open.spotify.com/artist/4b1EkZicl5EXAHYZMY4uQC"
+        },
+        {
+          "name": "Abel & Aaron",
+          "url": "https://open.spotify.com/artist/2vhKinW9LOLLoQULogAzyn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160590,
+      "name": "Found You",
+      "url": "https://open.spotify.com/track/2eacbbkUyjojpfwv1s2zW6"
+    },
+    {
+      "album": {
         "name": "FRAGMENT",
         "url": "https://open.spotify.com/album/7b2FPcttzUfqWrDtb9E3kS"
       },
@@ -7362,6 +7472,32 @@
       "duration_ms": 214685,
       "name": "free fallin'",
       "url": "https://open.spotify.com/track/5zJrBEEx3K3b6RXz13eDmU"
+    },
+    {
+      "album": {
+        "name": "Freedom",
+        "url": "https://open.spotify.com/album/57C1xu7aiekQD0njo1CNtF"
+      },
+      "artists": [
+        {
+          "name": "Ginchy",
+          "url": "https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP"
+        },
+        {
+          "name": "Homura",
+          "url": "https://open.spotify.com/artist/31lNeatj5dxLpGcNnZyK3v"
+        },
+        {
+          "name": "Lydia Lyon",
+          "url": "https://open.spotify.com/artist/1Kf6NZ1sLqrkxRGqSuTjqs"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Freedom",
+      "url": "https://open.spotify.com/track/3midpJ9WFNPLGCJ9ZdRsb7"
     },
     {
       "album": {
@@ -8527,6 +8663,28 @@
     },
     {
       "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/1tSna2Pmy70jXDKkDyDEgC"
+      },
+      "artists": [
+        {
+          "name": "Lost Kings",
+          "url": "https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc"
+        },
+        {
+          "name": "Kheela",
+          "url": "https://open.spotify.com/artist/2pkCWhqM1yj2UAFXcAZx95"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149703,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/786y4wbIGJbKului9oWr1l"
+    },
+    {
+      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -8616,7 +8774,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 173400,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/0DkIAcxenGqb6mvmjhUb36"
@@ -9580,6 +9738,24 @@
       "duration_ms": 149620,
       "name": "I CAN'T FLY",
       "url": "https://open.spotify.com/track/1N7gxaXwuUnPZxmJKECApJ"
+    },
+    {
+      "album": {
+        "name": "I DON'T KNOW",
+        "url": "https://open.spotify.com/album/117TpFRsOx0lQK6oqamSmv"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172519,
+      "name": "I DON'T KNOW",
+      "url": "https://open.spotify.com/track/5eYsvZMMvuBsxsSuGsyu8h"
     },
     {
       "album": {
@@ -11759,6 +11935,28 @@
     },
     {
       "album": {
+        "name": "LOADED",
+        "url": "https://open.spotify.com/album/32C8hb5LmXYLay6nTAjoO6"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175448,
+      "name": "LOADED",
+      "url": "https://open.spotify.com/track/44Cg4jfknLvTM7ywPHrwdL"
+    },
+    {
+      "album": {
         "name": "Lobster Telephone (Edit)",
         "url": "https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp"
       },
@@ -11884,7 +12082,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 121873,
       "name": "London",
       "url": "https://open.spotify.com/track/15iAVXve1Kq08baQ4lKLdV"
@@ -13176,7 +13374,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 137521,
       "name": "Mine",
       "url": "https://open.spotify.com/track/3ljBcq61yPxLqVwyOUvMBV"
@@ -13960,6 +14158,28 @@
       "duration_ms": 151874,
       "name": "My City",
       "url": "https://open.spotify.com/track/5sjvmFMLPjBXDd2XDr9JIm"
+    },
+    {
+      "album": {
+        "name": "My Girl (with Da Tweekaz)",
+        "url": "https://open.spotify.com/album/0Xj5todrbov5QKusXz2qmA"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190525,
+      "name": "My Girl (with Da Tweekaz)",
+      "url": "https://open.spotify.com/track/2bzvrWspouWjonF0iQb7Tf"
     },
     {
       "album": {
@@ -15768,6 +15988,24 @@
       "duration_ms": 209213,
       "name": "One More Sunrise",
       "url": "https://open.spotify.com/track/1SrLw86QlXWvUoRwMvw5gO"
+    },
+    {
+      "album": {
+        "name": "One New Change",
+        "url": "https://open.spotify.com/album/5vzdtotzfVdbgrOFFEBj6O"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294400,
+      "name": "One New Change",
+      "url": "https://open.spotify.com/track/7bjxZNe02r6XodrKONHGMC"
     },
     {
       "album": {
@@ -17723,6 +17961,36 @@
     },
     {
       "album": {
+        "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+        "url": "https://open.spotify.com/album/1BH7G0q2IBC7QcMYkZpSFV"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        },
+        {
+          "name": "DEPARTAMENTO",
+          "url": "https://open.spotify.com/artist/3Cu5XeR4o1V8atLssDZUl1"
+        },
+        {
+          "name": "GUDFELLA",
+          "url": "https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219811,
+      "name": "Rule The World (Everybody) [DEPARTAMENTO Remix]",
+      "url": "https://open.spotify.com/track/3UyIs0r6uaIbmYvpN75CbJ"
+    },
+    {
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L"
       },
@@ -19192,7 +19460,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166962,
       "name": "Square One",
       "url": "https://open.spotify.com/track/15eELLYbO4xEQWWPij2uaU"
@@ -19488,7 +19756,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 166930,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/31PeeweG94mVQsqNOLcq4B"
@@ -20254,7 +20522,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 163809,
       "name": "Teka (with Peso Pluma)",
       "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
@@ -21343,6 +21611,28 @@
     },
     {
       "album": {
+        "name": "True Colours",
+        "url": "https://open.spotify.com/album/38oNM96tThFx9oFX9LDxX3"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231684,
+      "name": "True Colours",
+      "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
+    },
+    {
+      "album": {
         "name": "TRUSTFALL",
         "url": "https://open.spotify.com/album/0JlRRM2KKOzLKzgn9etoXt"
       },
@@ -21879,6 +22169,24 @@
     },
     {
       "album": {
+        "name": "Used to",
+        "url": "https://open.spotify.com/album/7LwCcSes99ZCoroeKddjbX"
+      },
+      "artists": [
+        {
+          "name": "BIRDEE \u738b\u7152",
+          "url": "https://open.spotify.com/artist/3ca99BZZJrBcxFAblzKy60"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131817,
+      "name": "Used to",
+      "url": "https://open.spotify.com/track/6aam0a2iFvck08AScb9SF6"
+    },
+    {
+      "album": {
         "name": "Useless",
         "url": "https://open.spotify.com/album/6bNCzJf975bTri5Xgizmvp"
       },
@@ -22096,7 +22404,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 124401,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/1m8jhrWGlDXOWI2l8JG9Lk"

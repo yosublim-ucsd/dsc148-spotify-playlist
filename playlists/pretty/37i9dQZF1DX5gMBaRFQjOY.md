@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 
 > Country classics you know and love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,533 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 458,739 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,14 +76,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gMBaRFQjOY.md) - [plain]
 | 66 | [Delta Dawn](https://open.spotify.com/track/62qNdSlhFznQD0gHpCGrtw) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Delta Dawn](https://open.spotify.com/album/3iyNh3uhudXLW5tNLapDZS) | 2:58 |
 | 67 | [Love Is Alive](https://open.spotify.com/track/2cD3pqgT9Yn4GUcGflMYdk) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:56 |
 | 68 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
-| 69 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
-| 70 | [A White Sport Coat \(with Ray Conniff\)](https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:28 |
+| 69 | [A White Sport Coat \(with Ray Conniff\)](https://open.spotify.com/track/3Iy8UTb7n8QpYcQK23ZjG9) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:28 |
+| 70 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 |
 | 71 | [The Last Thing On My Mind](https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 2:36 |
 | 72 | [Golden Ring \- Single Version](https://open.spotify.com/track/1Bqt4M53ylr5NXMvBg1FMf) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [Tears Of Fire: The 25th Anniversary Collection](https://open.spotify.com/album/4yyvXQaZrk45jH6tzvGPwg) | 3:01 |
 | 73 | [Once a Day](https://open.spotify.com/track/1guPCVBMmglx2m1DM0xOBu) | [Connie Smith](https://open.spotify.com/artist/66Pq6HMX0YqsJgtUZrFwmo) | [Connie Smith](https://open.spotify.com/album/6i8X0GmItZN7GOqIDTaXmb) | 2:20 |
-| 74 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
-| 75 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
-| 76 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
+| 74 | [Singing the Blues](https://open.spotify.com/track/4vcHOxfV846dVjyToPFBRp) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Essential Marty Robbins 1951\-1982](https://open.spotify.com/album/4qbCscFZUKcUSTj1Pb2YSl) | 2:25 |
+| 75 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
+| 76 | [Please Help Me, I'm Falling](https://open.spotify.com/track/0dc0eU5THc1uE0Q0KV73XN) | [Hank Locklin](https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq) | [RCA Country Legends](https://open.spotify.com/album/1mHCzqO6vjOdtwLZbWC4N6) | 2:21 |
 | 77 | [Stranger](https://open.spotify.com/track/3OBmAls7qBqUb6A9kZimw3) | [Johnny Duncan](https://open.spotify.com/artist/2ahMUMyJ2xTC1Qaneot7Sm), [Janie Fricke](https://open.spotify.com/artist/3FhuHzOES6VGS9WW1wDymV) | [The Essential Johnny Duncan](https://open.spotify.com/album/3BagFmNBhlXOOtCoaZ4iMk) | 3:09 |
 | 78 | [Galveston](https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U) | [Glen Campbell \- The Capitol Years 1965 \- 1977](https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy) | 2:40 |
 | 79 | [What's Your Mama's Name Child](https://open.spotify.com/track/0J6dezPhTa0ePaN87kphCs) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Tanya Tucker / Super Hits](https://open.spotify.com/album/6oaors3y98ssmPuvBcc343) | 3:02 |

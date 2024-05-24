@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > The biggest Japanese rock hits right now\.  Cover: ゲスの極み乙女<br/> 日本ロックシーンの最新話題曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,049 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,085 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 40 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 | 41 | [ブラックボックス](https://open.spotify.com/track/2egU7947vCMEnlJQcQH9WU) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [ブラックボックス](https://open.spotify.com/album/0CzObAue2PzRD3cjBW4kNQ) | 2:37 |
 | 42 | [ナイスアイディア！](https://open.spotify.com/track/0M7rTSchHlSDzbwjA7s9eu) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [ナイスアイディア！](https://open.spotify.com/album/5iHRmLOt9Qn5hgqirPBKAU) | 3:15 |
-| 43 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:12 |
+| 43 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 44 | [正解](https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [正解](https://open.spotify.com/album/4XVmF6PeCtQBjHhhKVlZ4X) | 5:58 |
 | 45 | [Re方程式](https://open.spotify.com/track/5gMvuRZRAtYxsYBs5lRDMH) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [Re方程式](https://open.spotify.com/album/26zVnYZBcPIBYDXv2Id7w7) | 4:12 |
 | 46 | [喉仏](https://open.spotify.com/track/0pZ367OSDMoeZ2eP407lxG) | [Creep Hyp](https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8) | [喉仏](https://open.spotify.com/album/40NShvuQIl5osOvG9jpm1G) | 3:26 |

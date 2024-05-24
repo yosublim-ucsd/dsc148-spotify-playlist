@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZkqSgAAAAACp0hQzswlRU/HUzhn5r259",
+  "snapshot_id": "Zk01gAAAAABUxmUmo5LPV9pTtXc3v1r6",
   "tracks": [
     {
       "added_at": null,
@@ -303,34 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chave",
-        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        },
-        {
-          "name": "Red",
-          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
-        },
-        {
-          "name": "Cyclope Beatz",
-          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "Iludida",
-      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
       },
@@ -355,6 +327,34 @@
       "duration_ms": 137450,
       "name": "Raspa Placa",
       "url": "https://open.spotify.com/track/67vSSq4PsZZksXIWROcghR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        },
+        {
+          "name": "Red",
+          "url": "https://open.spotify.com/artist/5796t3NDVuI6DiaW5avtrL"
+        },
+        {
+          "name": "Cyclope Beatz",
+          "url": "https://open.spotify.com/artist/0VQRHmzky5fo3E5LZB0x3e"
+        }
+      ],
+      "duration_ms": 156923,
+      "name": "Iludida",
+      "url": "https://open.spotify.com/track/5r688OEO8p4dtzRMBAPumA"
     },
     {
       "added_at": null,
@@ -399,6 +399,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nitro",
+        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
+      },
+      "artists": [
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        }
+      ],
+      "duration_ms": 204302,
+      "name": "Eu & Tu!",
+      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 193564,
       "name": "De Cop\u00e3o Na M\u00e3o",
       "url": "https://open.spotify.com/track/5GMuN4AXlf2PdJyk8IUAoG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nitro",
-        "url": "https://open.spotify.com/album/4yDw1NdadwEr9WRHp3f41y"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        }
-      ],
-      "duration_ms": 204302,
-      "name": "Eu & Tu!",
-      "url": "https://open.spotify.com/track/1ymfNLLUGtND2AEe2K0TjF"
     },
     {
       "added_at": null,
@@ -528,13 +528,21 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
         }
       ],
-      "duration_ms": 181626,
-      "name": "T\u00f4 Tranquila",
-      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
+      "duration_ms": 185466,
+      "name": "Pagar Pra Ter",
+      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
     },
     {
       "added_at": null,
@@ -551,34 +559,6 @@
       "duration_ms": 184421,
       "name": "Sigilo",
       "url": "https://open.spotify.com/track/21WPLgQ590lqTXSbY3ngK3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Biodecon",
-        "url": "https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx"
-      },
-      "artists": [
-        {
-          "name": "Bitrinho",
-          "url": "https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V"
-        },
-        {
-          "name": "Ramiress",
-          "url": "https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        },
-        {
-          "name": "Dj Billy Mandela",
-          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
-        }
-      ],
-      "duration_ms": 200176,
-      "name": "Biodecon",
-      "url": "https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5"
     },
     {
       "added_at": null,
@@ -619,6 +599,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Biodecon",
+        "url": "https://open.spotify.com/album/510pqgYX4s6yQ4TX5hIoqx"
+      },
+      "artists": [
+        {
+          "name": "Bitrinho",
+          "url": "https://open.spotify.com/artist/0YHpmlQEZi5GpsGKl6O41V"
+        },
+        {
+          "name": "Ramiress",
+          "url": "https://open.spotify.com/artist/7wXVKeTUGqF7ifHM81SHmN"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        },
+        {
+          "name": "Dj Billy Mandela",
+          "url": "https://open.spotify.com/artist/5EmpV2UplGpGulT1onoSyh"
+        }
+      ],
+      "duration_ms": 200176,
+      "name": "Biodecon",
+      "url": "https://open.spotify.com/track/7qBYwWajxFb0UQMfCtdnY5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Chave",
         "url": "https://open.spotify.com/album/6SqzpkCbDN3FjdNvISmWcB"
       },
@@ -628,21 +636,13 @@
           "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
         },
         {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
         }
       ],
-      "duration_ms": 185466,
-      "name": "Pagar Pra Ter",
-      "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
+      "duration_ms": 181626,
+      "name": "T\u00f4 Tranquila",
+      "url": "https://open.spotify.com/track/46lAZ1uZ0YkIsjJGb7gBDR"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
       "duration_ms": 166336,
       "name": "Chef, Chef, Chef",
       "url": "https://open.spotify.com/track/5iZKBDWwIBTddYMgm4BXhz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vista Loka",
-        "url": "https://open.spotify.com/album/3lPDSgCpGJNJrQLKQ5VkFs"
-      },
-      "artists": [
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "Vista Loka",
-      "url": "https://open.spotify.com/track/1AU9m2wkxMbaZpzIqd6Gr8"
     },
     {
       "added_at": null,

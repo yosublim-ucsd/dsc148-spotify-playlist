@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 
 > Les plus belles ballades de la chanson française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,774 likes - 75 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,832 likes - 75 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 50 | [Voilà c'est fini](https://open.spotify.com/track/3KCLtcuYgPLLRJmQNXTvWR) | [Jean\-Louis Aubert](https://open.spotify.com/artist/1NCrHXp9R3ogv8ezWWHFNs) | [Bleu Blanc Vert](https://open.spotify.com/album/71TJjFA83jtKIrV6n37FCE) | 5:08 |
 | 51 | [Quand tu danses](https://open.spotify.com/track/0NZTCM482lCDSDtvNgeeuz) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2) | [En passant](https://open.spotify.com/album/3Z4uAMHKOdut4Cvx9NemEs) | 4:25 |
 | 52 | [S'il suffisait d'aimer](https://open.spotify.com/track/5QsVz6hMVGPia0NOMQ8wOS) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [On ne change pas](https://open.spotify.com/album/5uIfKRSjRf70LnCTCw2jJO) | 3:34 |
-| 53 | [Göttingen](https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Barbara \- N°2](https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd) | 2:41 |
-| 54 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
+| 53 | [Elle, tu l'aimes](https://open.spotify.com/track/08nsSNtxmSCCjq546wZ2E7) | [Hélène Ségara](https://open.spotify.com/artist/4jqOuZDAtFnB3uGEnNxlvX) | [Au Nom D'Une Femme](https://open.spotify.com/album/3uaw8NfCYdRLPLpslvQMzu) | 5:05 |
+| 54 | [Göttingen](https://open.spotify.com/track/2ZDTHTFzBneaicxxRpKpWe) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Barbara \- N°2](https://open.spotify.com/album/0X0u1qU7jwtTl78v79UEbd) | 2:41 |
 | 55 | [Je te promets](https://open.spotify.com/track/66qec4opk3ESgF5SqYlux2) | [Johnny Hallyday](https://open.spotify.com/artist/2HALYSe657tNJ1iKVXP2xA) | [70eme Anniversaire](https://open.spotify.com/album/3DhqKZkYpaJA3LnAgzRvuq) | 4:34 |
 | 56 | [Manque d'Amour](https://open.spotify.com/track/3AtdizIe78tjWmbyZbgIoV) | [Juliette Armanet](https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa) | [Petite Amie \(Edition Délice\)](https://open.spotify.com/album/2aVn7kwlqc8OmtEqpmuf3N) | 3:06 |
 | 57 | [Quelques mots d'amour](https://open.spotify.com/track/29RZaYV4Ar2934c4QCAKeg) | [Véronique Sanson](https://open.spotify.com/artist/4zxH2Yu5AvPNRdEDBz120D) | [Sanson comme ils l'imaginent](https://open.spotify.com/album/3rMGiHyaC4hbR5sDRzwCtU) | 3:50 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 64 | [Ton visage \- Acoustic](https://open.spotify.com/track/5DAG0y0LtmvZCcc2uHNwUR) | [Fréro Delavega](https://open.spotify.com/artist/6bebPrkEPr2xEkiHP3QkNT), [Tété](https://open.spotify.com/artist/0eykNIBJy8E8Cyd00Y5fqx) | [Des ombres et des lumières \- Live à l'Olympia / 2016](https://open.spotify.com/album/29AWK7mk7bfJ6QR2CX1fUX) | 2:54 |
 | 65 | [Histoire vraie](https://open.spotify.com/track/7FX0CUpcPXEQYp4tdeod4g) | [chien noir](https://open.spotify.com/artist/2MdOIYu5xlRSog6P2i4uwP) | [Histoires vraies](https://open.spotify.com/album/3WI5EDJiOFRxy29CfzPZbp) | 3:33 |
 | 66 | [Pas toi \- au New Morning 1994 \(concert acoustique\)](https://open.spotify.com/track/2i3ZEXYOanRZlariHUfSLN) | [Carole Fredericks](https://open.spotify.com/artist/4EfRgpfLaAzQLV08MpruGH), [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Fredericks, Goldman, Jones : Du New Morning au Zénith \(Live\)](https://open.spotify.com/album/2VXif8oyxvqZ8EMnhBbp2S) | 5:23 |
-| 67 | [Lettre à France](https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Lettre à France](https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1) | 4:09 |
-| 68 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
+| 67 | [Les p'tites jolies choses](https://open.spotify.com/track/79X8l247aT8r4cKON18nMX) | [Joyce Jonathan](https://open.spotify.com/artist/25eQCECJH4VTpBYV9jhpyE) | [Les p'tites jolies choses](https://open.spotify.com/album/4bQJbVYzrX2HuPdmvcYg7S) | 3:27 |
+| 68 | [Lettre à France](https://open.spotify.com/track/3KHzadkhdMB6hD4lJU0I5U) | [Michel Polnareff](https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT) | [Lettre à France](https://open.spotify.com/album/6hpVIWjLEiqoOMK9ETMVp1) | 4:09 |
 | 69 | [Les sunlights des tropiques](https://open.spotify.com/track/7uedDMiSQYvV2Ej1Ee6NDV) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les sunlights des tropiques](https://open.spotify.com/album/1QvbWsfTt1L4EGUWJBzyd6) | 3:40 |
 | 70 | [Paris\-Seychelles \- Piano\-Voix](https://open.spotify.com/track/5iHqNcItJyFeYsoFSMzT0I) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Piano SØLO](https://open.spotify.com/album/2it504tpH2sWxL1fJEnZa0) | 3:45 |
 | 71 | [Le grand secret \(feat\. Melissa Auf der Maur\) \- Les pianos voix](https://open.spotify.com/track/5X5xWnr5e7bDpfIXqipcBw) | [Indochine](https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB), [Melissa Auf der Maur](https://open.spotify.com/artist/1icaufOGQKlDwcb5vhYHkP) | [Singles Collection \(2001 \- 2021\)](https://open.spotify.com/album/73W988ag6ew4iiNTbgMU0C) | 4:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZfpLyFUtQnu.md) - [plain]
 | 74 | [À toutes les filles](https://open.spotify.com/track/4vtwEyHYqk3kkemdEt7Msr) | [Didier Barbelivien](https://open.spotify.com/artist/0t85REHE5k1LBHLDongFNq), [Felix Gray](https://open.spotify.com/artist/6G02QSb22twlGR7BzPiS3h) | [Best of](https://open.spotify.com/album/1ImEO74P7HCcAeBTie4Vfq) | 4:14 |
 | 75 | [Monopolis](https://open.spotify.com/track/7nNFPI4xVf2XNRUrjQc8MY) | [Lola Le Lann](https://open.spotify.com/artist/3xH7GdfxfMJyUIZESCKDuY) | [Glaz](https://open.spotify.com/album/2kjYDEGJsmcp5249XdZta3) | 3:01 |
 
-Snapshot ID: `Zgr6cQAAAAD5QvWpX1oKcbVQHehzJW7P`
+Snapshot ID: `Zk+8YAAAAADXX1TXYX+WBgpS5oBs8YHw`

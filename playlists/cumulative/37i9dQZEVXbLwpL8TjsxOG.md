@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Hong Kong.
 
-894 songs - 2 day 4 hr 46 min
+895 songs - 2 day 4 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-05 | 2022-11-20 |
 | [Die For You \(with Ariana Grande\) \- Remix](https://open.spotify.com/track/4W4fNrZYkobj539TOWsLO2) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Starboy \(Deluxe\)](https://open.spotify.com/album/35dut3ICqF3NEDkjxfzJJ1) | 3:52 | 2023-03-15 | 2023-04-25 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-25 | 2023-03-16 |
+| [Digitando](https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI) | [Gustavo Moura & Rafael](https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T) | [Digitando](https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM) | 3:15 | 2024-05-23 |  |
 | [dinner in bed](https://open.spotify.com/track/72ChE6ENMalJJnPbh0rjyM) | [Gareth.T](https://open.spotify.com/artist/6R57JlNKlnNrYaji0vw8xx) | [dinner in bed](https://open.spotify.com/album/00ZZcWUP6oHeKpuqPe1Pvh) | 3:17 | 2022-02-15 | 2022-02-27 |
 | [Distance](https://open.spotify.com/track/2rbbJ2xZFJa2DriR5h0TBS) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance](https://open.spotify.com/album/6gIbxqYcuc2UVoO8Q75imK) | 3:05 | 2022-07-16 | 2023-09-04 |
 | [Distance \(Mandarin Version\)](https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1) | [陳卓賢 Ian](https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6) | [Distance \(Mandarin Version\)](https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI) | 3:20 | 2023-09-02 | 2023-11-19 |
@@ -706,7 +707,7 @@
 | [思覺失調](https://open.spotify.com/track/3H9gYJcdtqeUiM8WX8YrZz) | [Wilfred Lau](https://open.spotify.com/artist/6Vfc2kpU520XHaSRDRdNCG) | [Stat UP](https://open.spotify.com/album/1fFP9aBmo9sSVQXQK5wTqd) | 3:25 | 2022-10-12 | 2022-12-03 |
 | [怪我只敢做好人](https://open.spotify.com/track/3xO69oVpP3pSIKG9CIMEm4) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [怪我只敢做好人](https://open.spotify.com/album/6W16HM33LbSuXP9twr1Md0) | 3:58 | 2023-07-10 | 2023-09-06 |
 | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/track/69zgyr5HVKdInjeKpq1qHa) | [831](https://open.spotify.com/artist/3TtgOeQcNkf9WVDA4xPBJM) | [想見你想見你想見你\(電視劇"想見你"片尾曲\)](https://open.spotify.com/album/44M14sRDzNZBtfaSH9Au3i) | 3:59 | 2021-03-27\* | 2023-02-25 |
-| [意外現場](https://open.spotify.com/track/3xGgg3JwUJYcek3pX47hP6) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [意外現場](https://open.spotify.com/album/1avA5YZPzTnvbZzIGNlgCQ) | 4:09 | 2024-03-16 |  |
+| [意外現場](https://open.spotify.com/track/3xGgg3JwUJYcek3pX47hP6) | [Yan Ting](https://open.spotify.com/artist/1VSepPOw3REo0L6LFeii0Q) | [意外現場](https://open.spotify.com/album/1avA5YZPzTnvbZzIGNlgCQ) | 4:09 | 2024-03-16 | 2024-05-24 |
 | [愛回家](https://open.spotify.com/track/5DHjpB2vk29BySgvGKq6IW) | [Leo Ku](https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ), [Keung To](https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D) | [《阿媽有咗第二個》電影原聲專輯](https://open.spotify.com/album/3XgES0xGu2h265n7E6A3j1) | 4:09 | 2022-08-26 | 2022-12-25 |
 | [愛因斯坦羅森橋](https://open.spotify.com/track/0jAoid0myjkSA854F5GZGJ) | [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [SEVEN](https://open.spotify.com/album/3jNEnRhkbV5FvHeX6ENm8o) | 1:38 | 2021-12-05 | 2021-12-06 |
 | [愛情值日生](https://open.spotify.com/track/0ZXAnDoI4IDVab7Tg760Uh) | [Error](https://open.spotify.com/artist/6lhZDlPnfVWXxJUr9eVfEJ) | [愛情值日生](https://open.spotify.com/album/2OQ6GqUTwZSrwSlYEvPHoE) | 4:00 | 2022-02-19 | 2022-05-28 |

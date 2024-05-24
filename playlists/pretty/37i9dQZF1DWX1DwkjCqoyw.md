@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 
 > The biggest crossover songs from the islands and the diaspora\. Cover: Kes & Sean Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 645,289 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 645,292 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 22 | [Gvnman Shift](https://open.spotify.com/track/4y0AUgG6XhQac3a6Li93QU) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Gvnman Shift](https://open.spotify.com/album/3GvAOWIAO1iZAdAz1JFPyW) | 3:24 |
 | 23 | [You're Perfect](https://open.spotify.com/track/4iSWQ5Eadn5tZvvG9XNzYN) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [You're Perfect](https://open.spotify.com/album/6vZbWkCUqbIbEZnPaoDBFF) | 3:16 |
 | 24 | [Neva Neva](https://open.spotify.com/track/2mI9snG6nJeQ9cJVahpaDv) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Neva Neva](https://open.spotify.com/album/4POtqjeMTeIMq5SM4LN18B) | 3:18 |
-| 25 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
-| 26 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 25 | [Is This Love](https://open.spotify.com/track/1WJfspc1lIKz3dyVbCvHnF) | [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD) | [Is This Love](https://open.spotify.com/album/3nOLB9nUT7ImsXWqRfM8Sw) | 2:16 |
+| 26 | [History](https://open.spotify.com/track/1nCHgECzuu3szJeVJQRnNq) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [History](https://open.spotify.com/album/0blNw4EqUtkfsJ5VvzDgFO) | 3:05 |
 | 27 | [Let Me Help You](https://open.spotify.com/track/4CPXlh5SJphF2BOTuZGMpd) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Let Me Help You](https://open.spotify.com/album/0wfGVvSiaMAt7xi9wRNUOI) | 3:28 |
 | 28 | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/track/4M8tmhoPrUN3W89SChMxba) | [Capella Grey](https://open.spotify.com/artist/59HbaJ5E8ud7FNLGqUN1KH), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [GYALIS \(Remix\) \[feat\. Chris Brown & Popcaan\]](https://open.spotify.com/album/0NRzHfHBffN44wOGby2gJP) | 3:15 |
 | 29 | [Call Me If](https://open.spotify.com/track/7LzpbhQyI2HIyk73V8UE6r) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [VENT](https://open.spotify.com/album/0z0nfHRckCFmoxDkc5Ghd0) | 4:00 |
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX1DwkjCqoyw.md) - [plain]
 | 44 | [WiFi](https://open.spotify.com/track/6ocqnSUAMMskrP3yDQdGxZ) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY), [Drumma Boy](https://open.spotify.com/artist/1WypSuVRK0PMIKXvoDLvxh) | [WiFi](https://open.spotify.com/album/0cu7nhBxjz3zkWVeevp1i8) | 3:33 |
 | 45 | [Moments](https://open.spotify.com/track/53rvxSNmKhy7wMAAygyYWr) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [438](https://open.spotify.com/album/2r6KgjOP2h2QNxMHxjFlRA) | 3:03 |
 | 46 | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/track/15ycokwnZsMhDyORHASWBX) | [1Biggs Don](https://open.spotify.com/artist/6NuqWCp8VQhokoHpiUY1mS), [Steel Chest](https://open.spotify.com/artist/4fkMy4Xa2LN6JRC9XfTe65) | [Bwoii Affi" Watch Eh Style](https://open.spotify.com/album/27oCbeiS8ucXWePBqoXxor) | 2:25 |
-| 47 | [Vibes](https://open.spotify.com/track/1UWGmcBgQZH9govYtUoM4E) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Vibes](https://open.spotify.com/album/5poktJ27bJeOOZkaKZ1ziN) | 2:28 |
+| 47 | [Talibhan](https://open.spotify.com/track/2fZIqtkyJAEvrrriiCGXNc) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Talibhan](https://open.spotify.com/album/2ii7mUCpSxXp3pWnjP6lPa) | 3:03 |
 | 48 | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Party Girls \(feat\. Buju Banton\)](https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ) | 4:03 |
 | 49 | [Gunman](https://open.spotify.com/track/5RfyhhgWY3RHlupIXsrgA5) | [Jaz Elise](https://open.spotify.com/artist/1KcAq7rtxXV2RJ7BsFFItA) | [Gunman](https://open.spotify.com/album/34l7xEJvkbXs2Ve85ddcKR) | 3:53 |
 | 50 | [Radio](https://open.spotify.com/track/370pI1sZZbpsx4AYQuhBbO) | [Lil Kevcy](https://open.spotify.com/artist/4uXb0AChXvGdOJwKpxwUne), [R ChanT](https://open.spotify.com/artist/7uUNf5E8A8h4SAIBqPu1G5) | [Radio](https://open.spotify.com/album/4vsGasHdKun0F9K3Ui7oRo) | 2:25 |

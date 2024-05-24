@@ -4,7 +4,7 @@
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/thealiyajanell/">Aliya Janell Brinson</a>
 
-55 songs - 3 hr 29 min
+56 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Butta Love](https://open.spotify.com/track/6fRLVZ4jKzuqyDPlIdbq9q) | [Next](https://open.spotify.com/artist/2MGT7CYlixSPxAnnkhLpaA) | [Rated Next](https://open.spotify.com/album/3Pmonb2UZ9zckdh5S5ibVm) | 4:56 | 2022-10-01 |  |
 | [Chun\-Li](https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Queen](https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny) | 3:11 | 2022-10-01 |  |
 | [City Girls](https://open.spotify.com/track/1rJUbH0v2E8t1GY4OAUTeC) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 3:50 | 2022-10-01 |  |
+| [Come On](https://open.spotify.com/track/4o3BlVXqXEQaP5h1Ds0xfy) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 2:34 | 2022-10-01 |  |
 | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/track/5HGU08aDQkOjwogqE3SwhG) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [CYANIDE REMIX \(feat\. Koffee\)](https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S) | 3:41 | 2022-10-01 |  |
 | [Damage](https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Back of My Mind](https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP) | 3:47 | 2022-10-01 |  |
 | [Do It](https://open.spotify.com/track/35Dh5MnCUPLN3XyAVtQff3) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 2:56 | 2022-10-01 |  |
@@ -44,7 +45,7 @@
 | [No Guidance \(feat\. Drake\)](https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 4:20 | 2022-10-01 |  |
 | [On The Way \(feat\. Mila J\)](https://open.spotify.com/track/423NhOTzoqgeaIJbrUzSoo) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:42 | 2022-10-01 |  |
 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 | 2022-10-01 |  |
-| [Pack Lite](https://open.spotify.com/track/2w7ysKPAX3witT5NEB705q) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 2:56 | 2022-10-01 |  |
+| [Pack Lite](https://open.spotify.com/track/2w7ysKPAX3witT5NEB705q) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [missunderstood](https://open.spotify.com/album/4vIKuMcGxldTXjswEuNs7u) | 2:56 | 2022-10-01 | 2024-05-24 |
 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 | 2022-10-01 |  |
 | [Pick Up Your Feelings](https://open.spotify.com/track/2JLVZYEMmqPWbUoAJAMKfm) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Pick Up Your Feelings](https://open.spotify.com/album/1wsPNQ8DFxRYNQnCs0hMu7) | 3:52 | 2022-10-01 |  |
 | [Privacy](https://open.spotify.com/track/5kyd6oKvKmj6mWCaAaHoN4) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Heartbreak on a Full Moon](https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp) | 3:40 | 2022-10-01 |  |

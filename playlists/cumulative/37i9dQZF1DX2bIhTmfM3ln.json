@@ -1499,6 +1499,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7"
+    },
+    {
+      "album": {
         "name": "Calabash",
         "url": "https://open.spotify.com/album/13lvpRxnYYnWZWgdnMVrRv"
       },
@@ -4136,7 +4154,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 192000,
       "name": "How Many Times",
       "url": "https://open.spotify.com/track/45Vvoe20MW6GD7FwoacZc8"
@@ -5344,7 +5362,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 174226,
       "name": "Loju (feat. Wizkid)",
       "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
@@ -5680,6 +5698,24 @@
       "duration_ms": 206077,
       "name": "Love, Today",
       "url": "https://open.spotify.com/track/1LoCwW6zCCmuLxDU8p06Q8"
+    },
+    {
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/3Eop2mkvqOaCjggYcx8e5z"
+      },
+      "artists": [
+        {
+          "name": "CN Amazing",
+          "url": "https://open.spotify.com/artist/4cp5TnmcbIwjsJAznM15CC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165120,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4QZH6wpyyznGaNAk24DtLl"
     },
     {
       "album": {
@@ -7155,6 +7191,40 @@
     },
     {
       "album": {
+        "name": "Olufunmi Reimagined",
+        "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
+      },
+      "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Olufunmi Reimagined",
+      "url": "https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6"
+    },
+    {
+      "album": {
         "name": "Now you know",
         "url": "https://open.spotify.com/album/0AmU09bzeHjQjMnopF0pQH"
       },
@@ -7790,7 +7860,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 156004,
       "name": "Piano",
       "url": "https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL"
@@ -7848,7 +7918,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 146548,
       "name": "POLO",
       "url": "https://open.spotify.com/track/3hO7VuXuBbDHOTFTY5g6L5"
@@ -9292,7 +9362,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 149481,
       "name": "Sweet Tea (Aduke)",
       "url": "https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS"
@@ -9961,6 +10031,24 @@
     },
     {
       "album": {
+        "name": "Wayo",
+        "url": "https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf"
+      },
+      "artists": [
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149454,
+      "name": "Wayo",
+      "url": "https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5"
+    },
+    {
+      "album": {
         "name": "Wedding Ring",
         "url": "https://open.spotify.com/album/0zpZR5u7gzRiIEtLQ3rVui"
       },
@@ -10324,6 +10412,28 @@
       "duration_ms": 212341,
       "name": "Wonderful",
       "url": "https://open.spotify.com/track/4p1tpwSTLqFBGEZKQQ03JR"
+    },
+    {
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162935,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop. ",
-  "num_followers": 260251,
+  "num_followers": 260237,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Meant to Be (Acoustic)",
-        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 158279,
-      "name": "Meant to Be - Acoustic",
-      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ"
       },
@@ -635,6 +619,38 @@
       "duration_ms": 173680,
       "name": "Mad World - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Girassol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
+      },
+      "artists": [
+        {
+          "name": "IVYSON",
+          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
+        }
+      ],
+      "duration_ms": 65059,
+      "name": "Girassol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Meant to Be (Acoustic)",
+        "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 158279,
+      "name": "Meant to Be - Acoustic",
+      "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -655,22 +671,6 @@
       "duration_ms": 239076,
       "name": "Lover - Recorded at Air Studios, London",
       "url": "https://open.spotify.com/track/3PgxWUQc4HJoQMj5Kp5Mcd"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Girassol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6rsBJMvfJdNHyBESCiBEpb"
-      },
-      "artists": [
-        {
-          "name": "IVYSON",
-          "url": "https://open.spotify.com/artist/4oZ941RuRcTCaWxV8YptJu"
-        }
-      ],
-      "duration_ms": 65059,
-      "name": "Girassol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/60ssGysPXPdg4K1PLxGaN7"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Crazy in Love",
-        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
-      },
-      "artists": [
-        {
-          "name": "Rio Bossa Trio",
-          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
-        }
-      ],
-      "duration_ms": 218528,
-      "name": "Crazy in Love",
-      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5cNnduB4QgrxQzaJvEuC8z"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 227927,
       "name": "Somewhere Only We know - Live from Spotify, London",
       "url": "https://open.spotify.com/track/7FnHpKPgVC6GE0RRCJNB2T"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Crazy in Love",
+        "url": "https://open.spotify.com/album/70qfNX4OLt1X1C8t40YxRd"
+      },
+      "artists": [
+        {
+          "name": "Rio Bossa Trio",
+          "url": "https://open.spotify.com/artist/1QpgA0cBoshohw9L6YNueu"
+        }
+      ],
+      "duration_ms": 218528,
+      "name": "Crazy in Love",
+      "url": "https://open.spotify.com/track/6kvKiy3SJXTEF44w1hXRud"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1107,18 +1107,34 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Off",
-        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
         {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 165604,
-      "name": "Off",
-      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
+      "duration_ms": 142177,
+      "name": "Only Want You - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+    },
+    {
+      "added_at": "2024-04-05 03:03:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 167907,
+      "name": "bad guy - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
     },
     {
       "added_at": "2024-04-05 03:03:00",
@@ -1155,34 +1171,18 @@
     {
       "added_at": "2024-04-05 03:03:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+        "name": "Off",
+        "url": "https://open.spotify.com/album/6i4QFrfQpEZhSlGjFcCMP8"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
         }
       ],
-      "duration_ms": 142177,
-      "name": "Only Want You - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
-    },
-    {
-      "added_at": "2024-04-05 03:03:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3xKhnVSlIEGG4MFnackt9M"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 167907,
-      "name": "bad guy - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/66wi6NRfwsula1n68bJEod"
+      "duration_ms": 165604,
+      "name": "Off",
+      "url": "https://open.spotify.com/track/73Ilcr8ZN7m1tKXRGax5JO"
     },
     {
       "added_at": "2024-04-05 03:03:00",

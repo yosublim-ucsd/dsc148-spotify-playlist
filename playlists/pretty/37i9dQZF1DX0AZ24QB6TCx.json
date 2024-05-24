@@ -1,6 +1,6 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 311270,
+  "num_followers": 311267,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Remote",
+        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
+      },
+      "artists": [
+        {
+          "name": "MagnusTheMagnus",
+          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
+        }
+      ],
+      "duration_ms": 198069,
+      "name": "Remote",
+      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Secret Places (Club Version)",
         "url": "https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 417453,
       "name": "Secret Places - Club Version",
       "url": "https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Remote",
-        "url": "https://open.spotify.com/album/2tHib5oHi8AfZviIsluhN7"
-      },
-      "artists": [
-        {
-          "name": "MagnusTheMagnus",
-          "url": "https://open.spotify.com/artist/7xS4HWHJv4AKkOhzehHjSs"
-        }
-      ],
-      "duration_ms": 198069,
-      "name": "Remote",
-      "url": "https://open.spotify.com/track/15TtysbOXi4qEcnysiD57w"
     },
     {
       "added_at": "2024-02-23 00:01:00",

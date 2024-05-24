@@ -417,6 +417,28 @@
     },
     {
       "album": {
+        "name": "Reflexo - Deluxe (ao Vivo)",
+        "url": "https://open.spotify.com/album/12l3RVZkb3tZVCAdwF2yl7"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        },
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "date_added": "2023-10-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148330,
+      "name": "Bebo Litro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0GSHXM7PZ75f6ZwpekBq83"
+    },
+    {
+      "album": {
         "name": "Ensaio (Ao Vivo)",
         "url": "https://open.spotify.com/album/7qq2SnvgPsm5Uz79LaKN2T"
       },
@@ -1052,7 +1074,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180905,
       "name": "Esquece de Me Esquecer",
       "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"

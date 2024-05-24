@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 
 > This is Tate McRae\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,054 likes - 42 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,196 likes - 42 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 |
 | 2 | [exes](https://open.spotify.com/track/4E63weMCaNZuGPEFMnuEi8) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:39 |
-| 3 | [10:35](https://open.spotify.com/track/36gcliMRX1vCpgnrZE3dFZ) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:52 |
+| 3 | [you broke me first](https://open.spotify.com/track/4l0RmWt52FxpVxMNni6i63) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 2:50 |
 | 4 | [she's all i wanna be](https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [i used to think i could fly](https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ) | 3:27 |
 | 5 | [One Day](https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [One Day](https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr) | 3:22 |
 | 6 | [run for the hills](https://open.spotify.com/track/51hyZpbJlIgZIaX3TtMxmu) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:23 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nSXaa.md) - [plain]
 | 41 | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/track/7tMEUrMaMzE0YptCGfsXzt) | [SAYGRACE](https://open.spotify.com/artist/6y5amJcTjeDgLXIjtQLMst), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Boys Ain't Shit \(feat\. Tate McRae & Audrey Mika\)](https://open.spotify.com/album/3TFb8Wpl3qV4Gh9H94XiRZ) | 3:06 |
 | 42 | [Distant](https://open.spotify.com/track/2fHttjIlcNo8rGCUZVMY1B) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Sean Lew](https://open.spotify.com/artist/4lK930E2d4x8tjAgFhjJBP) | [Distant](https://open.spotify.com/album/5rmvHHk9FIMWIrGcOBHXHA) | 3:19 |
 
-Snapshot ID: `ZkvkAAAAAAACyH5j4chAPO2nC5sCZQq3`
+Snapshot ID: `Zk01gAAAAAAD4MP6DySY9DvqVjaqVWHo`

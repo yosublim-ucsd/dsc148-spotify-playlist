@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,999 likes - 80 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 615,023 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,19 +35,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 25 | [Amsterdam](https://open.spotify.com/track/454I78HEySdcHE8fcVabTb) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Broken Machine \(Deluxe\)](https://open.spotify.com/album/0r7wrRVD77lNrD9t2QgZrq) | 4:32 |
 | 26 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 |
 | 27 | [Joker And The Thief](https://open.spotify.com/track/7ISL3LO8AWP3fKIXunvqTa) | [Wolfmother](https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4) | [Wolfmother](https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC) | 4:40 |
-| 28 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
-| 29 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 |
+| 28 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 |
+| 29 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 |
 | 30 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 31 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
-| 32 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
+| 31 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
+| 32 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
 | 33 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 34 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 35 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
 | 36 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
-| 37 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
-| 38 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
-| 39 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
-| 40 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
+| 37 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
+| 38 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
+| 39 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
+| 40 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
 | 41 | [Landmines](https://open.spotify.com/track/1O7hVfI7ETQvQmPC0EqfY7) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/6GcuTn1GfyA7uwTTJj3XgV) | 2:55 |
 | 42 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 43 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 56 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 57 | [Love From The Other Side \- Edit](https://open.spotify.com/track/7Gm1XwQL5q72SX76nxuXtW) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Love From The Other Side](https://open.spotify.com/album/6zhsE8Z0CfH68FSjxJn0dD) | 4:07 |
 | 58 | [State of Love and Trust](https://open.spotify.com/track/0KEhlgtlk0HuqBIqfGCGdF) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Singles \- Original Motion Picture Soundtrack](https://open.spotify.com/album/58BEJ01sL8wK5LV3TPyngC) | 3:47 |
-| 59 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
-| 60 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
+| 59 | [Had Enough](https://open.spotify.com/track/5eJRh54QRcvBsYuqJV3ST1) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:42 |
+| 60 | [Bored of Being Sad](https://open.spotify.com/track/2LUvkorPDO3n8xs6NEXDFY) | [Microwave](https://open.spotify.com/artist/7ptm7G8z8VVvwBnDq8fAmD) | [Bored of Being Sad](https://open.spotify.com/album/268knqkvUpS3Q9TnpuhSoT) | 3:20 |
 | 61 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
 | 62 | [Good Good Things](https://open.spotify.com/track/5UTCChsNnTNbhBABFTffGT) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:10 |
 | 63 | [Enemies](https://open.spotify.com/track/5g9I9uYUcbvtkAuZXjqGfP) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Enemies](https://open.spotify.com/album/0FaEN18H11E8YUwFeOzibR) | 2:41 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 70 | [Ban All the Music](https://open.spotify.com/track/1wzbGtVEdpxHyieUIkeh3N) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Nothing But Thieves \(Deluxe\)](https://open.spotify.com/album/3q4BkDV5B7sczFcfrIl2a2) | 2:52 |
 | 71 | [Streetcar](https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 3:36 |
 | 72 | [You & I](https://open.spotify.com/track/2vzV2cEIRSAid5CUPjzYnE) | [Knuckle Puck](https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm) | [Losing What We Love](https://open.spotify.com/album/71Zbf3k0m4bM7GySIh2erI) | 3:34 |
-| 73 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
-| 74 | [I Think Bad Thoughts](https://open.spotify.com/track/0jnTz7CcNUjCx5nrEfT7wx) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:31 |
+| 73 | [I Think Bad Thoughts](https://open.spotify.com/track/0jnTz7CcNUjCx5nrEfT7wx) | [Danko Jones](https://open.spotify.com/artist/7CGoviGsNXYmGOBkXk8dtW) | [Below The Belt](https://open.spotify.com/album/1GoMpy2OOFf2k5w6ziD7kv) | 3:31 |
+| 74 | [Nimble Bastard](https://open.spotify.com/track/2uaWEm24SEHUWlCVopjDbh) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [8](https://open.spotify.com/album/3YdvnTLTd343C1osvUChnA) | 3:39 |
 | 75 | [Hung Up](https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 3:24 |
 | 76 | [Freak Of Nature](https://open.spotify.com/track/4paB6XEsrPmRtX2xua5WTL) | [Heart Attack Man](https://open.spotify.com/artist/5esKrGWvWmBAmjnao5jInN) | [Freak of Nature](https://open.spotify.com/album/3G9FJTEpXcL0vYIX31RGP6) | 3:22 |
 | 77 | [Major System Error](https://open.spotify.com/track/7DHaf24CxsjF8mbXmoJv7G) | [Marmozets](https://open.spotify.com/artist/3KEhhixoMshqSEJ71rS7w1) | [Knowing What You Know Now](https://open.spotify.com/album/6ugcC7DaLDApGMJbGQtg5w) | 3:25 |
 | 78 | [The Last Garrison](https://open.spotify.com/track/5zZ79IgPs6vOWf7NRwC1d2) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [The Mindsweep](https://open.spotify.com/album/3q8PS1Zkx3a0Zo6Ld2L1d7) | 3:42 |
-| 79 | [Cold World](https://open.spotify.com/track/4rUWdWtDbM3aYUHoFTzJdW) | [Death Lens](https://open.spotify.com/artist/4WqVsCKvGiqrgF9v27Dsa8) | [Cold World](https://open.spotify.com/album/4OMrhNt4uDO7k44AlkqLJb) | 3:17 |
+| 79 | [Deep Cuts](https://open.spotify.com/track/2CLiR1GuZAI8iRFKIfdjU6) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Truth Decay](https://open.spotify.com/album/1InYWNQZhu7U98emMWUdgW) | 4:13 |
 | 80 | [You're Gonna Say Yeah](https://open.spotify.com/track/3rWNmpZM3vPiRwbFToDLoO) | [Hushpuppies](https://open.spotify.com/artist/115KcJpRFQWDqnZkqruT1k) | [The Trap](https://open.spotify.com/album/52kMCauBToTYQPUjCwiVVj) | 3:11 |
 
 Snapshot ID: `ZiWMYAAAAABZelvfoPvf2hyI9exBrupg`

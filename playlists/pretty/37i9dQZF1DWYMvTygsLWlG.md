@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 
 > Some of the worlds most beautiful love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082,118 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,082,251 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 19 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 20 | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [If the World Was Ending \(feat\. Julia Michaels\)](https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ) | 3:28 |
 | 21 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 |
-| 22 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
-| 23 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 22 | [You And Me](https://open.spotify.com/track/0815caqt2Lytro5EIzMufT) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [Lifehouse](https://open.spotify.com/album/2hOY4rDu51XSBvtwfWgSmz) | 3:15 |
+| 23 | [\(Everything I Do\) I Do It For You](https://open.spotify.com/track/1Eb90nmqTrxylKFhcUzW8P) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Waking Up The Neighbours](https://open.spotify.com/album/6Rk2VghhfqeYrgKxS21eBh) | 6:33 |
 | 24 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 25 | [I Have Nothing](https://open.spotify.com/track/31er9IGsfFbwqy1pH4aiTP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:49 |
 | 26 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMvTygsLWlG.md) - [plain]
 | 62 | [My Love Is Your Love](https://open.spotify.com/track/1ckU1EhAO0Nr73QYw24SWJ) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:21 |
 | 63 | [She's The One](https://open.spotify.com/track/4lO57zZGFcj7vSY4QhfVDq) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [I've Been Expecting You](https://open.spotify.com/album/4sgNyq4LbcoRnNhte25GPs) | 4:18 |
 | 64 | [Take Me Home](https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW) | 4:25 |
-| 65 | [a thousand years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 |
-| 66 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 65 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 |
+| 66 | [a thousand years](https://open.spotify.com/track/6z5Yh7kOKeLjqIsNdokIpU) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lkbTVYUYHXoXt17WXIAVc) | 4:45 |
 | 67 | [2 Become 1](https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spice](https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ) | 4:01 |
 | 68 | [You](https://open.spotify.com/track/6lbme14HiDWYmGiw1I2Dv6) | [Ten Sharp](https://open.spotify.com/artist/0ap24Mjt6qlze8v667KlaF) | [You](https://open.spotify.com/album/6LoXZrgX1DhvUN6hFhs0AW) | 4:32 |
 | 69 | [Breathe](https://open.spotify.com/track/3y4LxiYMgDl4RethdzpmNe) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Breathe](https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb) | 4:10 |

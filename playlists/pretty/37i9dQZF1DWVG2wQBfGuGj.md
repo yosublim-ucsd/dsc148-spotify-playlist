@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,046 likes - 205 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,242 likes - 205 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

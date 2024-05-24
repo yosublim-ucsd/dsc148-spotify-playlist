@@ -4,7 +4,7 @@
 
 > Music from Kendrick Lamar, Drake, Future and Metro Boomin.
 
-2,032 songs - 4 day 9 hr 24 min
+2,033 songs - 4 day 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1793,6 +1793,7 @@
 | [Through Da Storm](https://open.spotify.com/track/3NqCEpT8xsHdzpiRlM1kpS) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Die A Legend](https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w) | 3:15 | 2019-08-30 | 2019-10-22 |
 | [Through The Wire](https://open.spotify.com/track/5DBdAu8Zs7YMWODjuFq6EX) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/6DxSrvqVwXO3SmFDSGuLAi) | 3:43 | 2020-08-14 | 2020-09-04 |
 | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/track/5jCa1A0ZfkaWcKGsJZQ0kz) | [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI) | [Throw Fits \(feat\. City Girls & Juvenile\)](https://open.spotify.com/album/5gyk9wb9zJCNvBzmH06HUB) | 3:23 | 2019-05-26\* | 2019-06-15 |
+| [Throw It In The Bag](https://open.spotify.com/track/6c0GmyBsE7mQtrVvxJaWc3) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [The\-Dream](https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz) | [Loso's Way](https://open.spotify.com/album/6umODQfij1WhoGDhc7UCL8) | 3:51 | 2024-05-23 |  |
 | [Throw Some D's](https://open.spotify.com/track/6SmPPtaMnfxgz5duA6t9Cu) | [Rich Boy](https://open.spotify.com/artist/6mXlDbi03T8wXYwWYew0Ut), [Polow Da Don](https://open.spotify.com/artist/0gcDAjaKZIKMdYJoIdrIfR) | [Rich Boy](https://open.spotify.com/album/2rc1SMjRPvuZnlqQEtI6F9) | 4:23 | 2022-03-31 | 2022-04-02 |
 | [Thug Of Spades \(feat\. DaBaby\)](https://open.spotify.com/track/2iz3EDFoPOjPRZs9wt5iNh) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [38 Baby 2](https://open.spotify.com/album/5vjOhA7AkB9WK7I2NnzIex) | 2:33 | 2020-04-24 | 2020-05-01 |
 | [Thug Paradise 2](https://open.spotify.com/track/1wqg2VowoogPATrqPzrpi3) | [Soldier Kidd](https://open.spotify.com/artist/7BA072InWOjB1X7MZGOloy) | [Thug Melodies](https://open.spotify.com/album/5VjgH8wgFP70tarZ6iJChd) | 3:00 | 2022-02-18 | 2022-04-02 |

@@ -713,6 +713,32 @@
     },
     {
       "album": {
+        "name": "The Outsiders - A New Musical (Original Broadway Cast Recording)",
+        "url": "https://open.spotify.com/album/67tJ9sRxyaLcj7QQzt1wPk"
+      },
+      "artists": [
+        {
+          "name": "Brody Grant",
+          "url": "https://open.spotify.com/artist/4dxMGpSWxE0B2ySAvab6dj"
+        },
+        {
+          "name": "Sky Lakota-Lynch",
+          "url": "https://open.spotify.com/artist/6tXiikauT8deFqOGJ9RCeI"
+        },
+        {
+          "name": "Original Broadway Cast of The Outsiders - A New Musical",
+          "url": "https://open.spotify.com/artist/2FOqIyiI7Ss7sQGBtDZF5w"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169560,
+      "name": "Death's at My Door",
+      "url": "https://open.spotify.com/track/4mMuWQqr55rc94jbJddEv0"
+    },
+    {
+      "album": {
         "name": "Getaway",
         "url": "https://open.spotify.com/album/6SVeCBELPZSeSyO8RCbSOV"
       },

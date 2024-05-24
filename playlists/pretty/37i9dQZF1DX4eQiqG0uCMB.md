@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,726 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,746 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 26 | [SOMETHING](https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [SOMETHING](https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D) | 3:08 |
 | 27 | [Water](https://open.spotify.com/track/5mH230vvkLSBJJZIftBttH) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo) | [Water](https://open.spotify.com/album/1BiQOEEHtZyvkY8gpjbxml) | 2:29 |
 | 28 | [Men Are Crazy](https://open.spotify.com/track/1kL9DZwiXFCYkiiE1Jsrsb) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Men Are Crazy](https://open.spotify.com/album/2UZib8KMQUMJsMxXJJT7Hi) | 3:06 |
-| 29 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
+| 29 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
 | 30 | [Allez \- Acoustic Version](https://open.spotify.com/track/3R7mEWNFfjhln59HzozRml) | [Dwin, The Stoic](https://open.spotify.com/artist/4G4MrV1YIxHLGXRlhrIPmC) | [Allez / Without Your Love \(Acoustic Version\)](https://open.spotify.com/album/1GpbamgzuESzefwRjBXmEO) | 2:52 |
-| 31 | [Common Person](https://open.spotify.com/track/52oDXfdKV4faAFLnNyf0bl) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:30 |
+| 31 | [January 9th](https://open.spotify.com/track/5JL5FbKStegRpZc7OCeRnc) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [January 9th](https://open.spotify.com/album/3luZFzOLzCaNC4bNPb5r28) | 3:42 |
 | 32 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
 | 33 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
 | 34 | [Black Car](https://open.spotify.com/track/14mxkRSXKwq5vsx1xPUdau) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Proof Of Life \(Deluxe\)](https://open.spotify.com/album/30lZLey3bIVaqxlkAnKrg4) | 2:51 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 43 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 44 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
 | 45 | [Sweet Tea \(Aduke\)](https://open.spotify.com/track/1L7mOi50c91uzwkmeUhClS) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sweet Tea \(Aduke\)](https://open.spotify.com/album/419GRX5ILJgc9uIMlxFWBB) | 2:29 |
-| 46 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 46 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 |
 | 47 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 |
-| 48 | [Live Life](https://open.spotify.com/track/4pKxSb1G8lArMWLqFCSPUz) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Palmwine Music 3](https://open.spotify.com/album/2BeECcZnwLsaYOndRSO9fF) | 3:41 |
-| 49 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
-| 50 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 |
+| 48 | [Ngibongiseni](https://open.spotify.com/track/1uJ9tdJnrJcTf6ormmHvPU) | [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ngibongiseni](https://open.spotify.com/album/1ilhz6oSQGPBZjepOGvr72) | 2:36 |
+| 49 | [Let Me](https://open.spotify.com/track/7jbR0coXoqygIfc6OFW8ly) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu), [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Hendrick Sam](https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9) | [CLOSER](https://open.spotify.com/album/4cSCZXFa68eNFY1pEeIzcW) | 3:48 |
+| 50 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 
 Snapshot ID: `ZkaePAAAAACSHcthLswYX7VUWZhsGjGA`

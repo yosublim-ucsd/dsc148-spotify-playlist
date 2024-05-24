@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 
 > The songs that defined the other side of the 80s\. Cover: Kate Bush
 
-[Spotify](https://open.spotify.com/user/spotify) - 963,157 likes - 80 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,260 likes - 80 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTSKFpOdYF1r.md) - [plain]
 | 13 | [Enola Gay \- Remastered 2003](https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Organisation](https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8) | 3:33 |
 | 14 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 |
 | 15 | [Just Like Heaven](https://open.spotify.com/track/4NnWuGQujzWUEg0uZokO5M) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/6qRV8jXFV1fZG0TizFOuTE) | 3:32 |
-| 16 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
-| 17 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:59 |
+| 16 | [Army Dreamers \- 2018 Remaster](https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever \(2018 Remaster\)](https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt) | 2:59 |
+| 17 | [Once in a Lifetime \- 2005 Remaster](https://open.spotify.com/track/38Ngied9rBORlAbLYNCl4k) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Remain in Light \(Deluxe Version\)](https://open.spotify.com/album/3AQgdwMNCiN7awXch5fAaG) | 4:19 |
 | 18 | [Blue Monday '88](https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [The Best of New Order](https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ) | 4:04 |
 | 19 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 20 | [Close To Me](https://open.spotify.com/track/4xiyq1iRdsxuU1BPUJ490Z) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door \(Remastered\)](https://open.spotify.com/album/1keBgl5vblFhSc3nMZxPXG) | 3:23 |

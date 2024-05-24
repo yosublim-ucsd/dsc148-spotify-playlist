@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 
 > For whatever activity you do that may need a punch of intensity!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,247,996 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,248,108 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUVpAXiEPK8P.md) - [plain]
 | 17 | [2055](https://open.spotify.com/track/4XvcHTUfIlWfyJTRG0aqlo) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Still Sleep?](https://open.spotify.com/album/38nZLvJx8A9p4YYpTG5iFP) | 2:03 |
 | 18 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 |
 | 19 | [SICKO MODE](https://open.spotify.com/track/2xLMifQCjDGFmkHkpNLD9h) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 5:12 |
-| 20 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
+| 20 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
 | 21 | [God's Plan](https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Scorpion](https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX) | 3:18 |
-| 22 | [DNA.](https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:05 |
-| 23 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 |
-| 24 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
+| 22 | [Martin & Gina](https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [THE GOAT](https://open.spotify.com/album/39xhYyNNDatQtgKw2KdXMz) | 2:12 |
+| 23 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 |
+| 24 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 |
 | 25 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 |
 | 26 | [Temperature](https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [The Trinity](https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf) | 3:38 |
 | 27 | [Hypnotize \- 2014 Remaster](https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j) | [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Life After Death \(2014 Remastered Edition\)](https://open.spotify.com/album/7dRdaGSxgcBdJnrOviQRuB) | 3:49 |

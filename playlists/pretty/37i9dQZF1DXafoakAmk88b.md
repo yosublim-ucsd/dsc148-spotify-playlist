@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 
 > New indie driving the current\. Cover: Jelani Aryeh
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,079 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,096 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,12 +43,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafoakAmk88b.md) - [plain]
 | 33 | [NO SZNS](https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [NO SZNS](https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3) | 3:33 |
 | 34 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 |
 | 35 | [Jodie](https://open.spotify.com/track/1w52s8ZgbSHjwjoZ1zQMET) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl \(Deluxe\)](https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ) | 2:45 |
-| 36 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 |
-| 37 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
-| 38 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
-| 39 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
+| 36 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
+| 37 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 |
+| 38 | [Come Over And Love Me](https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo) | [Love Spells](https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW) | [Come Over And Love Me](https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM) | 2:41 |
+| 39 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 |
 | 40 | [Mosquito](https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Mosquito](https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB) | 2:26 |
-| 41 | [Undecided](https://open.spotify.com/track/7hMQeVQwsKzLKAuF6iXS8d) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Undecided](https://open.spotify.com/album/7xQuTGBZQO20Ss8MLgHnoG) | 2:25 |
+| 41 | [A Little Love](https://open.spotify.com/track/5k6L1lOs0AANCee7nYW2au) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8), [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [A Little Love](https://open.spotify.com/album/6E1vE4WcIXDDNOPW4jPYff) | 3:21 |
 | 42 | [I'm in Love](https://open.spotify.com/track/1dIFbYpiDnHMz5JPGuNAV1) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [I'm in Love](https://open.spotify.com/album/19QjNvVQ9PQA5h3jemnLeH) | 3:16 |
 | 43 | [gin and wine \(ginuwine\)](https://open.spotify.com/track/33u4lROskD2GSckbtsjCVI) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [gin and wine \(ginuwine\)](https://open.spotify.com/album/3JwhKO0Pw10XKRlgFC9PL0) | 2:09 |
 | 44 | [Alive!](https://open.spotify.com/track/6KzI6EM1QYyOq5oudPlcWT) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Alive!](https://open.spotify.com/album/0lvFKHiygKiwhKHNYPmRzn) | 3:52 |

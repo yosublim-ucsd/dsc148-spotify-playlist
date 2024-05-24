@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Shironamhin
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,511 likes - 60 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,562 likes - 60 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

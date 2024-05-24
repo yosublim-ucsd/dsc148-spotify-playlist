@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Aquelas pra começar o dia de alma leve
 
-[Spotify](https://open.spotify.com/user/spotify) - 546,141 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 546,344 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 43 | [Quando Você Olha Pra Ela](https://open.spotify.com/track/50c0knPGjaJAuE4hRg28Qq) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Estratosférica](https://open.spotify.com/album/5NnAoeNFYhB4ypfoEX8e6H) | 4:27 |
 | 44 | [Duas da Tarde](https://open.spotify.com/track/7chMvjylTedOhNEnRQzBYj) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 3:41 |
 | 45 | [Imagina](https://open.spotify.com/track/3WZtq8zYjeL0xbuSjChnW2) | [Atitude 67](https://open.spotify.com/artist/1vp5pm1DluN0sNXx4tMZzo) | [Imagina](https://open.spotify.com/album/2ABOJjkj6RE0dgs8d5BG9A) | 2:49 |
-| 46 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 |
-| 47 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |
+| 46 | [Aliança](https://open.spotify.com/track/5lLKJdDPy7qbsta6d88lKE) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/4v3TBbpmdInhU1qpWUGBBb) | 3:56 |
+| 47 | [Zen](https://open.spotify.com/track/1aUUrBmdIYN7FvIzHdpisn) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Anitta](https://open.spotify.com/album/7IcgpWsMMBvW5NzNoKRu6z) | 2:45 |
 | 48 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
 | 49 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
 | 50 | [Dueto](https://open.spotify.com/track/1UI0p7UHJVyiVlug9ENhjg) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Clara Buarque](https://open.spotify.com/artist/3d3K43XsOWZ8ccw6xWKpVt) | [Caravanas](https://open.spotify.com/album/1s1A5EqQwJkGSXGO5ZwJpu) | 3:22 |

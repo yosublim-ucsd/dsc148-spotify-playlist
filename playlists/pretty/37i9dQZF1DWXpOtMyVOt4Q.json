@@ -1,6 +1,6 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 259927,
+  "num_followers": 259954,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
-        "name": "Time Fragments",
-        "url": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM"
-      },
-      "artists": [
-        {
-          "name": "LoFi Waiter",
-          "url": "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
-        }
-      ],
-      "duration_ms": 51706,
-      "name": "Reminiscence",
-      "url": "https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
         "name": "Lost in the Mail",
         "url": "https://open.spotify.com/album/4hhkf43EaxjUsYO9pF9OgV"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 142105,
       "name": "Lost in the Mail",
       "url": "https://open.spotify.com/track/0AcP7ZjBbHvZoIrk9SJPvP"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
+        "name": "Time Fragments",
+        "url": "https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM"
+      },
+      "artists": [
+        {
+          "name": "LoFi Waiter",
+          "url": "https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61"
+        }
+      ],
+      "duration_ms": 51706,
+      "name": "Reminiscence",
+      "url": "https://open.spotify.com/track/2pT0soNU4WKusm9Jk5wG8N"
     },
     {
       "added_at": "2024-05-22 05:00:00",
@@ -827,6 +827,30 @@
     {
       "added_at": "2024-05-22 05:00:00",
       "album": {
+        "name": "daydream.",
+        "url": "https://open.spotify.com/album/5QgfYuguhp3BQkr8c7AqxR"
+      },
+      "artists": [
+        {
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        },
+        {
+          "name": "chillwithme",
+          "url": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+        },
+        {
+          "name": "c\u00f8dy",
+          "url": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+        }
+      ],
+      "duration_ms": 97470,
+      "name": "fallinginlove.",
+      "url": "https://open.spotify.com/track/2QPfaEicJRxxQ2WlBrqhAw"
+    },
+    {
+      "added_at": "2024-05-22 05:00:00",
+      "album": {
         "name": "NYC",
         "url": "https://open.spotify.com/album/3oO8t8RKJGcl39vYPMYOFw"
       },
@@ -843,22 +867,6 @@
       "duration_ms": 111000,
       "name": "NYC",
       "url": "https://open.spotify.com/track/2q761Wyz5BfA1Emy3t4vsI"
-    },
-    {
-      "added_at": "2024-05-22 05:00:00",
-      "album": {
-        "name": "hollow",
-        "url": "https://open.spotify.com/album/7IFoewD0yAxNyLHHVqALoG"
-      },
-      "artists": [
-        {
-          "name": "james king",
-          "url": "https://open.spotify.com/artist/4YFBzXjMSL5zHMlUDyocli"
-        }
-      ],
-      "duration_ms": 114613,
-      "name": "walk",
-      "url": "https://open.spotify.com/track/1qCgW8pAIIiDuoN1slJCd9"
     }
   ],
   "unique_name": "Chill Gaming",

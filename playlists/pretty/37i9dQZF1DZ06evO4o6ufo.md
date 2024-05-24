@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 
 > This is Panter Bélico\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,303 likes - 36 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,364 likes - 36 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 19 | [El 10 De Mayo](https://open.spotify.com/track/5fcAzaH0WkUbSWjNfDdEnM) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:31 |
 | 20 | [Como No Quererte](https://open.spotify.com/track/7mfdX4DRVX18IUSi2F1Cki) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:34 |
 | 21 | [La Tostada CH](https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7) | [Roberto Tapia](https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [La Tostada CH](https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM) | 4:03 |
-| 22 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
+| 22 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 |
 | 23 | [El Güicho](https://open.spotify.com/track/0jU8yUjdkIolONmi6mOwQP) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:44 |
 | 24 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 |
-| 25 | [Por Las Hs](https://open.spotify.com/track/1mI4LvAwTbIfQguuyK6juV) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Por Las Hs](https://open.spotify.com/album/3nuUwbHMx4SYAAGHtNVlCp) | 2:32 |
-| 26 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 |
+| 25 | [Yo Soy Serafin](https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu) | [Los Intocables Del Norte](https://open.spotify.com/artist/33eHQlFrBesRCBTaieDr7z), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Yo Soy Serafin](https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM) | 2:41 |
+| 26 | [En Acción](https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Acción](https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO) | 2:38 |
 | 27 | [Regreso Del Mayito Gordo \(con Los Del Sombrero\)](https://open.spotify.com/track/2FzJuV1z2BcreeROrKclAV) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS), [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt) | [Punto Y Aparte](https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF) | 2:10 |
 | 28 | [Suerte He Tenido](https://open.spotify.com/track/6EbZCjT6xQ1wc1zNoWTYFq) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:04 |
-| 29 | [En Acción](https://open.spotify.com/track/5vz2Hm6B5DiEYV26bsVC3N) | [La Revancha RC](https://open.spotify.com/artist/7u5GwJI2qzR8MUhA6JlAQf), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [En Acción](https://open.spotify.com/album/58jYWbYJ7HK7NoLvGWLnkO) | 2:38 |
+| 29 | [La Plebada del Mayo](https://open.spotify.com/track/0P9Q43GkZTMJl1vQmpjWFD) | [Los Del Sombrero](https://open.spotify.com/artist/6utxF8SRvXv8eshN0HzsCt), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Plebada del Mayo](https://open.spotify.com/album/1HPKQepsOHuKhlZG1gWGs3) | 5:11 |
 | 30 | [El Pistolero \(En Vivo\)](https://open.spotify.com/track/4BQ4yefJv2VJNj6brqANze) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:39 |
 | 31 | [Pa' Morir Nacimos](https://open.spotify.com/track/2Fm2gfDFrrCMamS2pvOILQ) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La Division del Terror](https://open.spotify.com/album/50IBkx5CBHsoge1jLv3z6L) | 2:37 |
 | 32 | [Agasajaba La Noche](https://open.spotify.com/track/3OrPvxEwqcsATtI1zTYq3j) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:19 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4o6ufo.md) - [plain]
 | 35 | [Y Van A Hablar](https://open.spotify.com/track/49wvsLUDtI89WgnDjXGbgG) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 2:30 |
 | 36 | [Casi se les hizo \(En Vivo\)](https://open.spotify.com/track/23hDimVkIikKt2uPGaL0Iy) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [Culiacán Deluxe \(En Vivo\)](https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf) | 3:00 |
 
-Snapshot ID: `ZkvkAAAAAADT6y7w9VzJPYaSseEEFxNe`
+Snapshot ID: `Zk01gAAAAADcrfaZQte3DFTQ4LCsJDKp`

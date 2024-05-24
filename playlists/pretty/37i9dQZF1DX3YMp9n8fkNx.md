@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 
 > The essential pop rock songs from the 1990s\. Cover: Matchbox Twenty
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,315,619 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,315,789 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 20 | [My Favourite Game](https://open.spotify.com/track/0Ui05Ov0s4PnRc4JI3Pilg) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo \(Remastered\)](https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc) | 3:40 |
 | 21 | [One Headlight](https://open.spotify.com/track/0z1b34WikhOH9ZxU8QDWcv) | [The Wallflowers](https://open.spotify.com/artist/0jJNGWrpjGIHUdTTJiIYeB) | [Bringing Down The Horse](https://open.spotify.com/album/2BOlaNQt6WJ1HO5pQcKHGh) | 5:12 |
 | 22 | [Ode To My Family](https://open.spotify.com/track/5kcsc92tGAjS0uvhDY3Mok) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 4:31 |
-| 23 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
-| 24 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
+| 23 | [Loser](https://open.spotify.com/track/5PntSbMHC1ud6Vvl8x56qd) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Mellow Gold](https://open.spotify.com/album/0iIGP4Sxw3KR4OCFv2yvz8) | 3:55 |
+| 24 | [Breakfast At Tiffany's](https://open.spotify.com/track/1uzWOoJdADfstQuFtQFTUn) | [Deep Blue Something](https://open.spotify.com/artist/5N5RfI8FFXk4WQ8kkjE407) | [Home](https://open.spotify.com/album/6errc1YD0IKeT3sudfomvO) | 4:17 |
 | 25 | [Two Princes](https://open.spotify.com/track/4ePP9So5xRzspjLFVVbj90) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Pocket Full Of Kryptonite](https://open.spotify.com/album/2TWdmpnFNCMlZDQROleupK) | 4:16 |
 | 26 | [Sex & Candy](https://open.spotify.com/track/5mkGfmJGFZpwK9nA5amOhv) | [Marcy Playground](https://open.spotify.com/artist/7AQzXO3NPNQsI7oNu5rC3r) | [Marcy Playground](https://open.spotify.com/album/5dR0fhE3oveLRSUMMQ3oRB) | 2:53 |
 | 27 | [Undone \- The Sweater Song](https://open.spotify.com/track/5WhtlIoxoZrMmuaWWEQhwV) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 5:05 |
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 33 | [Santa Monica](https://open.spotify.com/track/37EJtTS7jT5WUyXGZzrwnI) | [Everclear](https://open.spotify.com/artist/694QW15WkebjcrWgQHzRYF) | [Sparkle And Fade](https://open.spotify.com/album/27qNa5ef0TpYV17dBY01U0) | 3:11 |
 | 34 | [To Be With You \- 2021 Remastered](https://open.spotify.com/track/0eifvmNPHWaSh4IKNR4Xva) | [Mr\. Big](https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3) | [Lean Into It \(30th Anniversary Edition\)](https://open.spotify.com/album/2Y7fURPZCCr4iZIrM2S3dR) | 3:28 |
 | 35 | [Hand in My Pocket \- 2015 Remaster](https://open.spotify.com/track/2lE7oRoKssULAtbWViL385) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 3:42 |
-| 36 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
-| 37 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
-| 38 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
-| 39 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
+| 36 | [Man On The Moon](https://open.spotify.com/track/4jLv3tDBu8ww2R07DvL12s) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 5:14 |
+| 37 | [Common People \- Full Length Version](https://open.spotify.com/track/2fXKyAyPrEa24c6PJyqznF) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 5:51 |
+| 38 | [Fly](https://open.spotify.com/track/3uPfVXcjnpOjyzI3jb3js4) | [Sugar Ray](https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb) | [Floored](https://open.spotify.com/album/3jMUfZpBUTZOl91khbj4ic) | 4:04 |
+| 39 | [Wildflowers](https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Wildflowers](https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg) | 3:10 |
 | 40 | [Save Tonight](https://open.spotify.com/track/1t2Hq2WIBcZINOEnK6mdJG) | [Eagle\-Eye Cherry](https://open.spotify.com/artist/3ngKsDXZAssmljeXCvEgOe) | [Desireless](https://open.spotify.com/album/3P2WRy9eBoBbSTCZWGQOoO) | 3:59 |
 | 41 | [Inside Out](https://open.spotify.com/track/4GiVcDqNQI0fc0yYuRGH9m) | [Eve 6](https://open.spotify.com/artist/4Eqd24yS5YcxI8b6Xfuwr8) | [Eve 6](https://open.spotify.com/album/1qJOmC60ez9RNWPg4ELMBW) | 3:39 |
 | 42 | [Lucky Man](https://open.spotify.com/track/2mxPSHEwjJWOQS7lGw6btF) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Deluxe / Remastered 2016\)](https://open.spotify.com/album/4uWmfuW68AR0mGFpYlUDjL) | 4:53 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YMp9n8fkNx.md) - [plain]
 | 60 | [Roll To Me](https://open.spotify.com/track/7LF0YY1gON8rBECsyEs0Wb) | [Del Amitri](https://open.spotify.com/artist/2Q4FnG5T6NTUcAAZwuMV5K) | [Twisted](https://open.spotify.com/album/0eMkSSaQQ9cWk4l07WPRPy) | 2:12 |
 | 61 | [Stay \(Faraway, So Close!\)](https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Zooropa](https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE) | 4:58 |
 | 62 | [Don't Speak](https://open.spotify.com/track/6JGQ98So2ik5GVI9ydQ2Yh) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Singles Collection](https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2) | 4:22 |
-| 63 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
-| 64 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
+| 63 | [Barely Breathing](https://open.spotify.com/track/75HZ6Wxnw8xbgz6HU9kKCS) | [Duncan Sheik](https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0) | [Duncan Sheik](https://open.spotify.com/album/5ZnSDcIB3iZcpmNa0Cahlf) | 4:14 |
+| 64 | [Life Is A Highway](https://open.spotify.com/track/0hKF8N8aflF1uDzEEnPr2j) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World](https://open.spotify.com/album/5mJYFwj51OpBqRSxZCBLTT) | 4:26 |
 | 65 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 66 | [Counting Blue Cars \(Tell Me Your Thoughts On God\)](https://open.spotify.com/track/6B618H5CuCdEzcVs0NKTlt) | [Dishwalla](https://open.spotify.com/artist/6F3NW2aC9Sni1FH7QPSLvw) | [Pet Your Friends](https://open.spotify.com/album/2h1bf0d6LNtyoEugJYLFdy) | 4:51 |
 | 67 | [Someday We'll Know](https://open.spotify.com/track/5X0zqWSaSnulsbf74CrljV) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 3:37 |

@@ -2,7 +2,7 @@
 
 ### [mid:nite storm ](https://open.spotify.com/playlist/37i9dQZF1DWYiatDTQvsFP)
 
-> you just had to be there\. cover: Lauryn Hill
+> the golden era of r&b and hip\-hop\. cover: Lauryn Hill
 
 283 songs - 19 hr 10 min
 

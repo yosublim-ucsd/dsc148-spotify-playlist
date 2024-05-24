@@ -1254,7 +1254,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 301647,
       "name": "Bassa Bassa",
       "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 216640,
       "name": "Bia Bia",
       "url": "https://open.spotify.com/track/4IDK0f5LqdadZDSPhstlHb"
@@ -4454,6 +4454,28 @@
       "duration_ms": 248946,
       "name": "Freedom at Sunset",
       "url": "https://open.spotify.com/track/58o17vtovYfzrhLKROr6NL"
+    },
+    {
+      "album": {
+        "name": "Fuego Candela (Venezonix Remix)",
+        "url": "https://open.spotify.com/album/4gJnY2GrviHCzDqxXv45Tf"
+      },
+      "artists": [
+        {
+          "name": "Venezonix",
+          "url": "https://open.spotify.com/artist/4EU8WPqqBvsipJkWL1XfQ6"
+        },
+        {
+          "name": "Ca\u00f1a Brava",
+          "url": "https://open.spotify.com/artist/6AjEvhGQgJsgkIVbZ3CcU5"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269790,
+      "name": "Fuego Candela - Venezonix Remix",
+      "url": "https://open.spotify.com/track/3VjqOGKBgjfAbE9ZCAx503"
     },
     {
       "album": {
@@ -8558,7 +8580,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208000,
       "name": "Nefertiti - David Walters Remix",
       "url": "https://open.spotify.com/track/1m0OvusfKEUnCp5yeu2n5w"
@@ -10799,6 +10821,24 @@
     },
     {
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
+      },
+      "artists": [
+        {
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
+    },
+    {
+      "album": {
         "name": "Padremontes",
         "url": "https://open.spotify.com/album/2xBuTSISaCxzFIi70B83Fn"
       },
@@ -12292,7 +12332,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-18",
+      "date_removed": null,
       "duration_ms": 247647,
       "name": "Tu Tak Tu Tak Tutiyan - Elado\u2019s Gulab Jamun Rework",
       "url": "https://open.spotify.com/track/5mhyXRdaxcfSZS6RgghJom"

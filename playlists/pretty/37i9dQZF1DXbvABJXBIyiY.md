@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 
 > Wrap yourself up and revel in a gray day with these dusky, dreamy tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,352 likes - 60 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,360 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 30 | [Melatonin \(Unplugged\)](https://open.spotify.com/track/1IkjoLXB9LEf3w32Wk07X3) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Melatonin \(Unplugged\)](https://open.spotify.com/album/73FpjS6PTT3e4lRfWdsDuy) | 5:25 |
 | 31 | [Throwing Good After Bad](https://open.spotify.com/track/2FYOven3y63Jxubz8E7jl6) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 4:07 |
 | 32 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
-| 33 | [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 |
-| 34 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 33 | [Bell Under Water](https://open.spotify.com/track/1TdEe9o0xaL0nZc07kpRc2) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [Until](https://open.spotify.com/album/2f0gZFhdTlMT64KpZmVOCH) | 5:17 |
+| 34 | [Better Days](https://open.spotify.com/track/1uMazr2OwFSC4SHqfkoY7h) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [If This Is The End](https://open.spotify.com/album/0PnDs1aZvcco3PihWmrQ9n) | 6:02 |
 | 35 | [Heavy Weather](https://open.spotify.com/track/6cDfjpzbfreA0Tv97t2Xll) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Heavy Weather](https://open.spotify.com/album/16hhMGwVQDpXaADRLeQlNQ) | 4:14 |
 | 36 | [Ricochet](https://open.spotify.com/track/5dkeCTaxNQDlFiJEkpbMsx) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Ricochet](https://open.spotify.com/album/5sp2DSZbmZoy1FhjNbCAS2) | 3:18 |
 | 37 | [Scattershot](https://open.spotify.com/track/450v4iRyLvyOwNInkQVCbP) | [Caitlin Canty](https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl) | [Motel Bouquet](https://open.spotify.com/album/1wzGEFBlLXHmoW4OK4Qapu) | 3:40 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 46 | [Free As We Wanna Be \- Acoustic](https://open.spotify.com/track/0r52k7tp2plpgc7eAiv8l8) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [Free As We Wanna Be](https://open.spotify.com/album/04lhFo2ZxBJ5uqlp1N78hC) | 3:53 |
 | 47 | [First Time](https://open.spotify.com/track/3ll3YZirSK5Sb3fJApuiCw) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [First Time](https://open.spotify.com/album/1hnGG0Wg9CmgGZeOpU7tCA) | 3:49 |
 | 48 | [Slow Records](https://open.spotify.com/track/2dvzf690BYZyiVf8jWtB18) | [William Wild](https://open.spotify.com/artist/3DrB9nBkn2tfhXxSsKAaor) | [Push Ups](https://open.spotify.com/album/28nNe1OxZ3hicVX5t28M6S) | 4:35 |
-| 49 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
-| 50 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
+| 49 | [Damn It All](https://open.spotify.com/track/3e2mV0O3hnVJuvdCcb7cwH) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [If I Was \(Deluxe Edition\)](https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS) | 6:26 |
+| 50 | [The Calla Lily Song](https://open.spotify.com/track/45aU2o0VJEyArBmMvnTYP2) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [The Calla Lily Song](https://open.spotify.com/album/7JSWIbBEW5EeWs5Ruooelz) | 3:59 |
 | 51 | [Make You OK](https://open.spotify.com/track/2P5LrxFYiqTtZroqxGVYua) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [On My Own](https://open.spotify.com/album/13rYbd9GeZgppQkgWB4M0H) | 4:17 |
 | 52 | [Strangers \(feat\. Aoife O'donovan\)](https://open.spotify.com/track/3OKUJgs3GpNp6MTLuv5PCh) | [Jesse Harper](https://open.spotify.com/artist/64vZp5Px5HDpn0UUMxIwX9), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [One True Thing](https://open.spotify.com/album/2uJMLYLdpbVvKjhCfsdvmQ) | 4:33 |
 | 53 | [Dirty Rain](https://open.spotify.com/track/6hNZ5O5riDfxd2wWNgkjVn) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Dirty Rain](https://open.spotify.com/album/03OHMyiBTEOe4TPtpa0ISr) | 3:12 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvABJXBIyiY.md) - [plain]
 | 55 | [Visions Of China](https://open.spotify.com/track/7lkmvTlnEs0JfKIFg9NmcL) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [C\-Sides](https://open.spotify.com/album/4MukviK8Vj2Hfsfg8g99Rk) | 3:21 |
 | 56 | [Holocene](https://open.spotify.com/track/4fbvXwMTXPWaFyaMWUm9CR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/1JlvIsP2f6ckoa62aN7kLn) | 5:36 |
 | 57 | [I Need My Girl](https://open.spotify.com/track/7rbCL7W893Zonbfnevku5s) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Trouble Will Find Me](https://open.spotify.com/album/2JhR4tjuc3MIKa8v2JaKze) | 4:05 |
-| 58 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 |
-| 59 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 |
-| 60 | [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 |
+| 58 | [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 |
+| 59 | [Donoughmore](https://open.spotify.com/track/3hcMGfmZBzpR9l1tkk5Iy2) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/7vwzdcbSG3qsUBIJ3aVNqi) | 3:15 |
+| 60 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
 
 Snapshot ID: `ZPqcQAAAAAC/bNhgPDtrB7DCQDpvxoJN`

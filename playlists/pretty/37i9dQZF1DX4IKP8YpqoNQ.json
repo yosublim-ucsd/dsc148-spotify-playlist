@@ -1,6 +1,6 @@
 {
   "description": "Experience the best live performances. Check out live soul albums <a href=\"spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY\">here</a>.",
-  "num_followers": 29431,
+  "num_followers": 29435,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
@@ -108,22 +108,6 @@
       "added_at": "2024-01-11 23:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 267279,
-      "name": "Blackbird - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/66BHCqvohArD6Hk2uga5dX"
       },
       "artists": [
@@ -135,6 +119,22 @@
       "duration_ms": 244213,
       "name": "Beyond - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2amPRWMdtrMrGG1vafKvxl"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 267279,
+      "name": "Blackbird - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3VukmzGvVbB4FyGyBPf0A7"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0wBCYSK8mkAdwh5JJMe3C2"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 255693,
       "name": "River - Live at SXSW 2015",
       "url": "https://open.spotify.com/track/2ko4juHbeDhU02oRxzwKEc"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Ain't No Sunshine - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/5gEbHse5x6o11g2Tef4AbR"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Drown in My Own Tears (The Circle Session, 2023)",
-        "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
-      },
-      "artists": [
-        {
-          "name": "The Teskey Brothers",
-          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
-        }
-      ],
-      "duration_ms": 304033,
-      "name": "Drown in My Own Tears - The Circle Session, 2023",
-      "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 205800,
       "name": "Save Room - Live from Spotify Milan",
       "url": "https://open.spotify.com/track/38yNO4vxCC5YDB2orOwGpu"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Drown in My Own Tears (The Circle Session, 2023)",
+        "url": "https://open.spotify.com/album/55cxl6L7iAOxkxBsaL6Z2S"
+      },
+      "artists": [
+        {
+          "name": "The Teskey Brothers",
+          "url": "https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh"
+        }
+      ],
+      "duration_ms": 304033,
+      "name": "Drown in My Own Tears - The Circle Session, 2023",
+      "url": "https://open.spotify.com/track/3fWwmVNCqqckIU5lMEnfIz"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Bill Withers Live At Carnegie Hall",
-        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
-      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 452500,
       "name": "Everything's Gonna Be Alright (feat. BJ the Chicago Kid & The HamilTones) - Live",
       "url": "https://open.spotify.com/track/5EjEUW3OLWDcFR3JTnenIM"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Bill Withers Live At Carnegie Hall",
+        "url": "https://open.spotify.com/album/0Stnb66v5cibvR22sFdLYx"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "For My Friend - Live at Carnegie Hall, New York, NY - October 1972",
+      "url": "https://open.spotify.com/track/2p0XzbocmlYuQVc7Ic1Muh"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
-      },
-      "artists": [
-        {
-          "name": "Maxwell",
-          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
-        }
-      ],
-      "duration_ms": 310973,
-      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
-      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Gumbo Unplugged (Live)",
         "url": "https://open.spotify.com/album/6au0qzMOjqEgc79ntU2bf6"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 310091,
       "name": "Claustrophobic (feat. Keyon Harrold) - Live",
       "url": "https://open.spotify.com/track/6iT6Kah1ZZeCMGxKDmwcZF"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5ejwNegV5hPkQRyMi7CiCs"
+      },
+      "artists": [
+        {
+          "name": "Maxwell",
+          "url": "https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j"
+        }
+      ],
+      "duration_ms": 310973,
+      "name": "Ascension (Don't Ever Wonder) - Live from MTV Unplugged, Brooklyn, NY - May 1997",
+      "url": "https://open.spotify.com/track/5GAg6qfapUvyTpu7Zb1EWy"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        }
-      ],
-      "duration_ms": 211202,
-      "name": "First Began - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Life on Planet Groove",
         "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 225893,
       "name": "I Got You (I Feel Good)",
       "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2cagFRs8KQSk3gjFR9BxI1"
+      },
+      "artists": [
+        {
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
+        }
+      ],
+      "duration_ms": 211202,
+      "name": "First Began - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/58sz5ZEHAajM9Cy9RIZOnG"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
-        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
-      },
-      "artists": [
-        {
-          "name": "Solomon Burke",
-          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
-        }
-      ],
-      "duration_ms": 135253,
-      "name": "(Sitting On) The Dock Of The Bay - Live",
-      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Betty Wright Live",
         "url": "https://open.spotify.com/album/1jssvEYMHpe5sR0PwRhUTu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 348733,
       "name": "You Can't See for Lookin' - Live",
       "url": "https://open.spotify.com/track/1qM8NHToA1ObTPMEVI7Yy8"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Live At Montreux 2006 (Live At The Montreux Jazz Festival, Montreux,Switzerland / 2006)",
+        "url": "https://open.spotify.com/album/3ym1tVL5rgSYN7o8SuzD45"
+      },
+      "artists": [
+        {
+          "name": "Solomon Burke",
+          "url": "https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb"
+        }
+      ],
+      "duration_ms": 135253,
+      "name": "(Sitting On) The Dock Of The Bay - Live",
+      "url": "https://open.spotify.com/track/4XOJzE3eTUpuwinBoKZVOO"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
-        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 210666,
-      "name": "These Arms Of Mine",
-      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/5PEUftcwX57OcS8vMFfdSw"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 296809,
       "name": "Nakamarra - Live from Spotify Sydney",
       "url": "https://open.spotify.com/track/1LDc3rGLwvsstN5m7IG8SV"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "Good To Me: Recorded Live At The Whisky A Go Go Vol. 2",
+        "url": "https://open.spotify.com/album/4GBpI2RteJ9C51Mf1OgZAQ"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 210666,
+      "name": "These Arms Of Mine",
+      "url": "https://open.spotify.com/track/03pSPi9O3N1CkZ12M6Av44"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Live (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 235357,
-      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
-      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
+      "duration_ms": 192600,
+      "name": "At Last - Live",
+      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/5RhTBSdOIOVHg18FCod3D4"
+        "name": "Live (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1e2wF72vtLQkH6jTvYvFQV"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
         }
       ],
-      "duration_ms": 192600,
-      "name": "At Last - Live",
-      "url": "https://open.spotify.com/track/07xaraibxlvkIv6TYT3YtL"
+      "duration_ms": 235357,
+      "name": "Inner City Blues (Make Me Wanna Holler) - Live At Oakland Coliseum, CA/1974",
+      "url": "https://open.spotify.com/track/2hiibCg7gZ82zGMlb4SJtm"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Tell Me More And More And Then Some",
-      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
-    },
-    {
-      "added_at": "2024-01-11 23:01:00",
-      "album": {
         "name": "WAR Live",
         "url": "https://open.spotify.com/album/4dmFMOaseO8EaOauNihb5T"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 366866,
       "name": "The Cisco Kid - Live Version",
       "url": "https://open.spotify.com/track/5XMU06RIl7pW7BPpHl1K6D"
+    },
+    {
+      "added_at": "2024-01-11 23:01:00",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/6tkwWZBDub074CUPmsTeFj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Tell Me More And More And Then Some",
+      "url": "https://open.spotify.com/track/4aErK0HkDKqKBFYXy2bajB"
     },
     {
       "added_at": "2024-01-11 23:01:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2024-01-11 23:01:00",
       "album": {
-        "name": "Come To My Door (Live at Levon Helm Studios)",
-        "url": "https://open.spotify.com/album/4AwZsGJ2vFqNQWUV6HNeQ8"
+        "name": "Compact Jazz - Nina Simone",
+        "url": "https://open.spotify.com/album/6uBiIVYMgbrhcgXu7Epm4o"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 James",
-          "url": "https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz"
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
         }
       ],
-      "duration_ms": 341133,
-      "name": "Come To My Door - Live at Levon Helm Studios",
-      "url": "https://open.spotify.com/track/1ZhfFBBPMWxiGmnSLj4rBk"
+      "duration_ms": 213000,
+      "name": "Strange Fruit",
+      "url": "https://open.spotify.com/track/1MgAB0kFSYYCZQ89WSdRWm"
     }
   ],
   "unique_name": "Soul Live",

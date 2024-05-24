@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: FIGHTMASTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,232 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,316 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 13 | [Where Does the Good Go](https://open.spotify.com/track/0L7QCEXQBDAtEyK1x72Sw0) | [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [So Jealous](https://open.spotify.com/album/2yNhqBKfZPzrxRJqGMbSz9) | 3:37 |
 | 14 | [Endlessly](https://open.spotify.com/track/4VUXAoJESfRV3ceUYtzfpQ) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 2:34 |
 | 15 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
-| 16 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
-| 17 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
+| 16 | [Your Dog](https://open.spotify.com/track/3BpUZB0tw4zNmG3Iw1mclL) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Clean](https://open.spotify.com/album/36NLDBi2kX7XRHnyLzLOS8) | 3:14 |
+| 17 | [GIRL$](https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [GIRL$](https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn) | 2:12 |
 | 18 | [\(You\) On My Arm](https://open.spotify.com/track/29nzgSkf11owK8vO9iBgCq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [To Learn](https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l) | 4:04 |
 | 19 | [It's Been a Little Heavy Lately](https://open.spotify.com/track/6z8ovqE9jd2IatNvOfFq7S) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Permanent Damage](https://open.spotify.com/album/60xQwaySMQP4FcCvUncGIF) | 3:41 |
 | 20 | [Tilted](https://open.spotify.com/track/4U6GYrZi0xvNkUmFitCDED) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Christine and the Queens](https://open.spotify.com/album/5qYhFUAumctJEgm6nFJJfO) | 3:53 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 57 | [Girls Make Me Wanna Die](https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Girls Make Me Wanna Die \(No Rome Remix\)](https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX) | 2:15 |
 | 58 | [Smog](https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Smog](https://open.spotify.com/album/64loLOKtAxLC6IdlfTZzbD) | 3:14 |
 | 59 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 |
-| 60 | [My Girl](https://open.spotify.com/track/4mXQ7QWebpojVqwvLUYIMh) | [Annelle Staal](https://open.spotify.com/artist/7BnUWceEyTgiZTxBZniroo) | [My Girl](https://open.spotify.com/album/5xRNMLDrjRb9fxtYYOTvxl) | 3:06 |
-| 61 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 |
+| 60 | [Television Promises](https://open.spotify.com/track/4naPdZuEidyk9rOC3WVxi5) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Television Promises](https://open.spotify.com/album/4w8Innemo2CDtnJnO7T9cT) | 3:39 |
+| 61 | [My Girl](https://open.spotify.com/track/4mXQ7QWebpojVqwvLUYIMh) | [Annelle Staal](https://open.spotify.com/artist/7BnUWceEyTgiZTxBZniroo) | [My Girl](https://open.spotify.com/album/5xRNMLDrjRb9fxtYYOTvxl) | 3:06 |
 | 62 | [umbrellar](https://open.spotify.com/track/00PXRPuZFlM5dv1FeJa69J) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [umbrellar](https://open.spotify.com/album/3QUdaLdeNzvVrVpOmIfRyn) | 2:35 |
 | 63 | [Berlin](https://open.spotify.com/track/07ZY5mM23P88rslsUkxpgt) | [Adult Mom](https://open.spotify.com/artist/7tuwjSE2q4zeBdNObeO7LB) | [Driver](https://open.spotify.com/album/5JiEqd3d0AfZdnMFrf37zE) | 3:20 |
 | 64 | [So Clear](https://open.spotify.com/track/5je2hi3IPkN0DnDKYpZWds) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [So Clear](https://open.spotify.com/album/3CIQIdtkViKUEzsNBjXxLI) | 3:32 |

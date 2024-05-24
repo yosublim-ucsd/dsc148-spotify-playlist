@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > A new wave of rock music\. Cover: Cardinals
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,926 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,931 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 47 | [going numb](https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [unpeople](https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI) | 3:25 |
 | 48 | [King Size Slim](https://open.spotify.com/track/6LiQkNtD7oh6xdUVb01D0H) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Title Track](https://open.spotify.com/album/08gFnRmxpci80sjhTkdFvL) | 4:24 |
 | 49 | [Hex](https://open.spotify.com/track/6yopQomQqrwmXTAUwQrp30) | [VENUS GRRRLS](https://open.spotify.com/artist/3ZmtxfuEtTsKgKEiM42jQ9) | [Hex](https://open.spotify.com/album/6oE1ZAoKvEzA8LK43TWv81) | 2:37 |
-| 50 | [Iconic](https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Iconic](https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ) | 2:25 |
+| 50 | [Iconic](https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Iconic](https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ) | 2:26 |
 
 Snapshot ID: `Zkc0swAAAABjtuEMea/cx6ZFVg2VLJP5`

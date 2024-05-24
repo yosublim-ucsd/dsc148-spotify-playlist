@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 
 > This is Korn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,605 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,762 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 18 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 19 | [Trash](https://open.spotify.com/track/4DEYwr2SLpvj6plN2ngIfB) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:26 |
 | 20 | [Did My Time](https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Take A Look In The Mirror](https://open.spotify.com/album/3XbcvPX7hEupPOxPx7EVdh) | 4:04 |
-| 21 | [Thoughtless](https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:32 |
-| 22 | [A Different World \(feat\. Corey Taylor\)](https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:20 |
+| 21 | [A Different World \(feat\. Corey Taylor\)](https://open.spotify.com/track/3ns1Hn52RB28zGVHiFvz7W) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:20 |
+| 22 | [Thoughtless](https://open.spotify.com/track/6HlFxHQ5nn6HYGxOOYIrLm) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Untouchables](https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO) | 4:32 |
 | 23 | [Liar](https://open.spotify.com/track/6B1uhU0w4fk7nNeylg41Xq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [See You On the Other Side](https://open.spotify.com/album/2c7ynrgZP08xNtkJi9MhjF) | 4:14 |
 | 24 | [It's On!](https://open.spotify.com/track/0e06Zwd1027jFtmrRbXAjl) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:29 |
 | 25 | [Shoots and Ladders](https://open.spotify.com/track/3ezGIgTmk2BZy9C3j0x1h9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 5:22 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 28 | [Dead Bodies Everywhere](https://open.spotify.com/track/6vsyag9kEPckt19NClSf51) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:45 |
 | 29 | [Clown](https://open.spotify.com/track/3TZuUaGjEtyAiUM9iM89ff) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 4:36 |
 | 30 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
-| 31 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 |
-| 32 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
+| 31 | [Insane](https://open.spotify.com/track/3bVwfHr4vuJv6DGZal2Dpq) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Serenity of Suffering](https://open.spotify.com/album/0UGqqYIWXAD1FgrDI1zOjh) | 3:50 |
+| 32 | [Can You Hear Me](https://open.spotify.com/track/5VXeawVov6ikGAaT0If8n9) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Nothing](https://open.spotify.com/album/6mWsWVsfWpoZ2d6uxm1ND1) | 2:52 |
 | 33 | [Faget](https://open.spotify.com/track/7kVrQ79jg4nd1r6H9CrmIk) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Korn](https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z) | 5:49 |
 | 34 | [Hater](https://open.spotify.com/track/0bpZrtdbpFSB1jbXXPU7Lp) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [The Paradigm Shift \(World Tour Edition\)](https://open.spotify.com/album/29QP2RwZwRY9mAYWmYcH3T) | 3:53 |
 | 35 | [Beg for Me](https://open.spotify.com/track/6bwuLPr45wsvbTjB0PGI65) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fOjra.md) - [plain]
 | 49 | [Forgotten](https://open.spotify.com/track/00BBwHjAf8WWq4HcOtEJO1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Requiem](https://open.spotify.com/album/7J0BUlxogdpZAtuZnhomb0) | 3:17 |
 | 50 | [Another Brick in the Wall, Pt\. 1, 2, 3 \- Pink Floyd Cover](https://open.spotify.com/track/5fBI2YzuyOVF0nkYjIGjJv) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/48no7LB4tsCfNS9ntRLc4P) | 7:07 |
 
-Snapshot ID: `ZkqSgAAAAABGc9e9aGmtXAxjbvsOFVkv`
+Snapshot ID: `Zk01gAAAAAAr3r5NQhU0e+JJiqupSc7v`

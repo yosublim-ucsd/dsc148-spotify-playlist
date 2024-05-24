@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 
 > Come closer and see..\. into the dark\. The Cure on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 774,999 likes - 80 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 775,378 likes - 80 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,12 +48,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 38 | [One by One](https://open.spotify.com/track/5F1ZjpCFKcgk4VcsL2on2h) | [Bloody Dead And Sexy](https://open.spotify.com/artist/47YmKMWnvn1TfBanzvAUTc) | [Bad Ambient](https://open.spotify.com/album/24KvacOpWn4tdCti5KGCrK) | 4:55 |
 | 39 | [Thrills](https://open.spotify.com/track/21sClcYOv17b2EthaVR2Vs) | [Glass Spells](https://open.spotify.com/artist/6a4xrf2tjp1zo2osASzWOQ) | [Shattered](https://open.spotify.com/album/7i2M8J5NvFSKsSQIl95AvT) | 3:50 |
 | 40 | [Allegedly, Dancefloor Tragedy](https://open.spotify.com/track/2KYF6LmjFoB3VfHHm2Pm6B) | [Suspiria](https://open.spotify.com/artist/2xig25GcvhEOvuNb4ZDBg8) | [The Gothic Sounds Of Nightbreed Volumes One & Two](https://open.spotify.com/album/4LiJCQ0Sso8HCgRnMHzn1l) | 4:38 |
-| 41 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
+| 41 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
 | 42 | [Tower Of Strength](https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG) | [The Mission](https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE) | [Children](https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL) | 8:06 |
 | 43 | [Deathwish](https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH) | [Christian Death](https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD) | [Only Theatre of Pain](https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2) | 2:14 |
-| 44 | [Asimilasyon](https://open.spotify.com/track/3A6pYIUJ7jspDJdab9pCPo) | [She Past Away](https://open.spotify.com/artist/6paE8ghTau4qwwNzVRSgjR) | [Narin Yalnızlık](https://open.spotify.com/album/2tuiAgjwrn1rKciu8dqNmB) | 4:12 |
-| 45 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
-| 46 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 44 | [Dance With Me](https://open.spotify.com/track/1AhLr3bpGIfeHUZ18WCpPV) | [Lords Of The New Church](https://open.spotify.com/artist/5JEhWD9S2znCiQRiGj2OUk) | [Is Nothing Sacred?](https://open.spotify.com/album/2VgrqPs1veikehj6Vc0JS8) | 3:25 |
+| 45 | [Painted Black](https://open.spotify.com/track/1JdduJbHJLcpFRSPa2mVCh) | [Mephisto Walz](https://open.spotify.com/artist/7lv3S4wbdU3j2xC8qFvbIU) | [The Eternal Deep](https://open.spotify.com/album/7MPqW4iQGtmzUaZwIHiFjs) | 3:31 |
+| 46 | [Lose My Breath](https://open.spotify.com/track/5VkonixvlrVyNjADeOYd8g) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Isn’t Anything](https://open.spotify.com/album/2ncj0SrtsnWzol4SWMk54b) | 3:38 |
 | 47 | [Serpentskirt \- Remastered 2006](https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Milk & Kisses](https://open.spotify.com/album/3w3hmie5WZ5H2MQrMCyRW6) | 3:57 |
 | 48 | [Face Meets Glass](https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT) | [ACTORS](https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK) | [It Will Come to You](https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ) | 3:36 |
 | 49 | [Vampiria](https://open.spotify.com/track/3WvEldmFjjLhd1ITIl0FMk) | [Moonspell](https://open.spotify.com/artist/17bYSQ9ZRnreVnJjE5X2x6) | [Wolfheart](https://open.spotify.com/album/1GnMnYl0I8CqgNSSODjwP7) | 5:35 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Nb1cyWS6Tq.md) - [plain]
 | 68 | [North, South, East and West](https://open.spotify.com/track/6XaBRidK04H7lOHWgLkfdU) | [The Church](https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt) | [Starfish](https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x) | 4:49 |
 | 69 | [Just a Lifetime](https://open.spotify.com/track/7Bqz2cjdtsdFyMYiAdZdnK) | [The Legendary Pink Dots](https://open.spotify.com/artist/55XX7sgmxtVFNJnHrQMXh5) | [The Crushed Velvet Apocalypse](https://open.spotify.com/album/5nEQkSEKzKHefdY6w9nxKm) | 7:46 |
 | 70 | [Rumours](https://open.spotify.com/track/0g2OVqfjNDKHm9NVehyinS) | [The Beauty of Gemina](https://open.spotify.com/artist/3ooh46u3DrqxPbxtMH4oqU) | [At the End of the Sea](https://open.spotify.com/album/7z00FuZO5yHWL5VSjvcq1S) | 3:55 |
-| 71 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 |
-| 72 | [Do You Take This Man?](https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx) | [Diamanda Galás](https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay) | [The Sporting Life](https://open.spotify.com/album/6jPJjdMdP3XPvdE8z9jS11) | 6:09 |
+| 71 | [Do You Take This Man?](https://open.spotify.com/track/6U9BfQ8LYv2ofWsvZX1yyx) | [Diamanda Galás](https://open.spotify.com/artist/42AURgCa94xz79E0fxE3Ay) | [The Sporting Life](https://open.spotify.com/album/6jPJjdMdP3XPvdE8z9jS11) | 6:09 |
+| 72 | [Is Vic There?](https://open.spotify.com/track/6qqg5rTgBcUsP5NcYmzi6X) | [Department S](https://open.spotify.com/artist/0tEV531O5iaWJiH7Yjzf8j) | [Demon \- The Singles Collection](https://open.spotify.com/album/4aBwfMZUkIQ2pJ7QNDuFpi) | 3:05 |
 | 73 | [Wild World](https://open.spotify.com/track/55neF1EoL53WKfaYfV9QBL) | [Love Is Colder Than Death](https://open.spotify.com/artist/4Csr2RlQUb4MODz2R3Usn7) | [Teignmouth](https://open.spotify.com/album/3yaUYGJ1ol0Katez71WNSc) | 4:21 |
 | 74 | [Blood Be Fluid](https://open.spotify.com/track/7HyrigNQ5MIr19G4ECFNeH) | [Julia Romana](https://open.spotify.com/artist/3syw2pWKHP7n8VnXhCFn3d) | [Blood Be Fluid](https://open.spotify.com/album/1ECmQ3a1oTSozVhc49eiID) | 3:47 |
 | 75 | [Blasphemous Rumours](https://open.spotify.com/track/7JRWBhgl6KeAuDdoUxkSw4) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Catching Up with Depeche Mode](https://open.spotify.com/album/1fuXkfdOh71JbMvOLIXpX9) | 5:06 |

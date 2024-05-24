@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "A Simple Song",
+        "url": "https://open.spotify.com/album/3LEDN5cRp1YZjPolO7g3zD"
+      },
+      "artists": [
+        {
+          "name": "Sloan Sandford",
+          "url": "https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119813,
+      "name": "A Simple Song",
+      "url": "https://open.spotify.com/track/5ibZnKYtxlgPJDQpGusOuV"
+    },
+    {
+      "album": {
         "name": "The Pumpkin",
         "url": "https://open.spotify.com/album/44deX2eesCod2t3zC4SbNv"
       },
@@ -448,7 +466,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 97363,
       "name": "Always By your Side",
       "url": "https://open.spotify.com/track/633Ncfz9y69Or7MGorp4KT"
@@ -578,6 +596,24 @@
       "duration_ms": 60801,
       "name": "Baa Baa Black Sheep",
       "url": "https://open.spotify.com/track/4WDlK8ycKUkpE6lKwcyV13"
+    },
+    {
+      "album": {
+        "name": "Baa Baa Black Sheep",
+        "url": "https://open.spotify.com/album/5BaMgKaaI2ZyXoms8P2bwv"
+      },
+      "artists": [
+        {
+          "name": "Cats meow",
+          "url": "https://open.spotify.com/artist/2ItMNwIn1iI3oqnSZfnbpy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158714,
+      "name": "Baa Baa Black Sheep",
+      "url": "https://open.spotify.com/track/0DCU4RYYOQvMYmXlsv8737"
     },
     {
       "album": {
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 119662,
       "name": "Brahms Lullaby",
       "url": "https://open.spotify.com/track/6BYKWcHi1QjG8AtPkKFD4C"
@@ -1391,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "Butterfly Wings",
+        "url": "https://open.spotify.com/album/03R3Momhe8auBhd6RBiB4C"
+      },
+      "artists": [
+        {
+          "name": "Anne Page",
+          "url": "https://open.spotify.com/artist/3qvYhMImj4EmVSxKHSS1iO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 77460,
+      "name": "Butterfly Wings",
+      "url": "https://open.spotify.com/track/45wcqppZpzrqEjUQl46Ax6"
+    },
+    {
+      "album": {
         "name": "By The Cradle",
         "url": "https://open.spotify.com/album/2hqhEduOMzfIQ0AbcsueB6"
       },
@@ -1478,6 +1532,24 @@
       "duration_ms": 90250,
       "name": "Ca\u0302nd dormi",
       "url": "https://open.spotify.com/track/45ooWO3dKj5NLNWObG2qUY"
+    },
+    {
+      "album": {
+        "name": "Chaleur",
+        "url": "https://open.spotify.com/album/1L3ZLiLYLbVmDcLDMMZiJx"
+      },
+      "artists": [
+        {
+          "name": "Line Tromse",
+          "url": "https://open.spotify.com/artist/6Jo2zwheonzrtoiXhTUTcI"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Chaleur",
+      "url": "https://open.spotify.com/track/4le1ArFsfqh1aQBJWjCJyX"
     },
     {
       "album": {
@@ -2165,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Douceur",
+        "url": "https://open.spotify.com/album/48WZeVMoxKNVakvkc8vH6v"
+      },
+      "artists": [
+        {
+          "name": "Liv Isglans",
+          "url": "https://open.spotify.com/artist/6fYU0RQ2ZOvofVWtAWvMqU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159913,
+      "name": "Douceur",
+      "url": "https://open.spotify.com/track/7coUTLWmwsrqGRZWOzl7Y3"
+    },
+    {
+      "album": {
         "name": "Humpty Dumpty",
         "url": "https://open.spotify.com/album/660aCDME0MSiTTcWIayRxs"
       },
@@ -2302,7 +2392,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 118854,
       "name": "Dreamswing",
       "url": "https://open.spotify.com/track/44xSmkzDCWN8oJxrCB8pCM"
@@ -2680,7 +2770,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 119708,
       "name": "First Day Of School",
       "url": "https://open.spotify.com/track/3fNr7Xp74gVlpL6Dg0RErN"
@@ -2734,7 +2824,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 103763,
       "name": "Fluff & The Stars",
       "url": "https://open.spotify.com/track/7gqJ0no0EH3gM5iCzwn8J7"
@@ -3562,7 +3652,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 65374,
       "name": "Head, shoulder, knees and toes",
       "url": "https://open.spotify.com/track/3lz8ku7qwVsnXQutnJr4FQ"
@@ -3922,7 +4012,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 84521,
       "name": "Hubert, the magic dog",
       "url": "https://open.spotify.com/track/6msSaqM3vYDJyE8iPvWIB6"
@@ -4034,7 +4124,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 116000,
       "name": "Hush Now Little Sweetheart",
       "url": "https://open.spotify.com/track/4RDae6L7ueWtD5DpnLg9g3"
@@ -4466,7 +4556,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 85624,
       "name": "In the blink of an eye",
       "url": "https://open.spotify.com/track/6gtLvT0JsPEF4ETEsaeNWT"
@@ -4628,7 +4718,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 111374,
       "name": "John Brown's Song",
       "url": "https://open.spotify.com/track/2V9YbhqLsxC7Llpb6e1CS7"
@@ -5312,7 +5402,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 144403,
       "name": "Look at All The Roses",
       "url": "https://open.spotify.com/track/57a0L2Q550npr3z6ORLDb2"
@@ -5373,6 +5463,24 @@
     },
     {
       "album": {
+        "name": "Lucky teddy",
+        "url": "https://open.spotify.com/album/3lmSxMm5zyoIWLuZeBEzDM"
+      },
+      "artists": [
+        {
+          "name": "Stacy Gaffer",
+          "url": "https://open.spotify.com/artist/32pd92japrh3yC0QI2AnQt"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93124,
+      "name": "Lucky teddy",
+      "url": "https://open.spotify.com/track/3OYEVbUskeWCoidGcnld9Q"
+    },
+    {
+      "album": {
         "name": "Lullaby and Good Night",
         "url": "https://open.spotify.com/album/2bF4lupeo6aJQfGVQc0O1T"
       },
@@ -5420,7 +5528,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 164307,
       "name": "Lullaby for Coraline",
       "url": "https://open.spotify.com/track/3Wd9UnoXS5UnNDriobeiyX"
@@ -5499,6 +5607,24 @@
     },
     {
       "album": {
+        "name": "Maltipoo",
+        "url": "https://open.spotify.com/album/1XfgQ4haboDIQnUrLs2G5s"
+      },
+      "artists": [
+        {
+          "name": "Goodnight sweetheart",
+          "url": "https://open.spotify.com/artist/3hVfERu6fWfKySpoHenfnp"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111098,
+      "name": "Maltipoo",
+      "url": "https://open.spotify.com/track/4DKDwLChzGt2UmWaw81iFb"
+    },
+    {
+      "album": {
         "name": "Mana skaista\u0304 meita",
         "url": "https://open.spotify.com/album/7xeAspmTdQ4miPemMvD0On"
       },
@@ -5532,6 +5658,24 @@
       "duration_ms": 74250,
       "name": "Many moons ago",
       "url": "https://open.spotify.com/track/2K85RbA7wlm8OV707sUWrV"
+    },
+    {
+      "album": {
+        "name": "Marshmallow Tree",
+        "url": "https://open.spotify.com/album/1TixFYI4PeDTT3Abu7UPGI"
+      },
+      "artists": [
+        {
+          "name": "Amelie Tati",
+          "url": "https://open.spotify.com/artist/6JTgpqC6HfRJHzL9fCHGKB"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142853,
+      "name": "Marshmallow Tree",
+      "url": "https://open.spotify.com/track/3cN7ZCutut4X12rLAFTyPg"
     },
     {
       "album": {
@@ -5852,7 +5996,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 97826,
       "name": "Morning will come",
       "url": "https://open.spotify.com/track/7HuxnLOb1gqmH6hdmRNr4M"
@@ -5870,7 +6014,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 124961,
       "name": "Mother May",
       "url": "https://open.spotify.com/track/3woE2Co7qXCYgDRAJpSc31"
@@ -6284,7 +6428,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 90750,
       "name": "My Snoring Grandpa",
       "url": "https://open.spotify.com/track/5pkG46lDxh0izZfuwqL6Xl"
@@ -7173,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "Rain Rain Go Away",
+        "url": "https://open.spotify.com/album/5hjJMDvt61VSPEPNVda3ek"
+      },
+      "artists": [
+        {
+          "name": "Lene Terne",
+          "url": "https://open.spotify.com/artist/62VY5pvpRQPKrQ4n8YVOR8"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Rain Rain Go Away",
+      "url": "https://open.spotify.com/track/2ZuM1a9EuTX7tAKvKskbfj"
+    },
+    {
+      "album": {
         "name": "Rainbow Sky",
         "url": "https://open.spotify.com/album/3e9Nts6SRxn1htmBr06L3n"
       },
@@ -7202,7 +7364,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 90000,
       "name": "Raindrops and Roses",
       "url": "https://open.spotify.com/track/4qhBjg5zm5FhLT1vyd1Nok"
@@ -7544,7 +7706,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 88500,
       "name": "Sammy Sleepyhead",
       "url": "https://open.spotify.com/track/58Q20FvalHCBTlJtdi9s9i"
@@ -7760,7 +7922,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 107778,
       "name": "Skymningsvisan",
       "url": "https://open.spotify.com/track/4guXLGmN7Xp0UnnGiXgfkg"
@@ -8091,6 +8253,24 @@
     },
     {
       "album": {
+        "name": "Sleepy Sails in the Sky",
+        "url": "https://open.spotify.com/album/5Yp4LyH4JXAom0rlppCTgn"
+      },
+      "artists": [
+        {
+          "name": "Romy Callista",
+          "url": "https://open.spotify.com/artist/2QGfx29x4fI5HmNq6pa9Y3"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88108,
+      "name": "Sleepy Sails in the Sky",
+      "url": "https://open.spotify.com/track/2N8VyVhQuqHPSQIo6hIIHB"
+    },
+    {
+      "album": {
         "name": "Sleepy Smile",
         "url": "https://open.spotify.com/album/3NNaGxJHI3TatRTT0KkBXV"
       },
@@ -8156,7 +8336,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 114500,
       "name": "Snart skal du sove",
       "url": "https://open.spotify.com/track/6ZiA9pkMVVxpCw8m1LciW9"
@@ -8228,7 +8408,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 114507,
       "name": "Soft Bear",
       "url": "https://open.spotify.com/track/2sMgvy0fQhWcil0wY0V7AJ"
@@ -8264,7 +8444,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 95750,
       "name": "Sogni d\u2019oro",
       "url": "https://open.spotify.com/track/3ZrREPkekC17w11uxaanhW"
@@ -8847,6 +9027,24 @@
     },
     {
       "album": {
+        "name": "The Blue Danube",
+        "url": "https://open.spotify.com/album/5AZ7KwOPxTo4IERoyjjDB1"
+      },
+      "artists": [
+        {
+          "name": "Nicola Gisin",
+          "url": "https://open.spotify.com/artist/1XsdKXs0gUh582UBPUL88s"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97000,
+      "name": "The Blue Danube",
+      "url": "https://open.spotify.com/track/3DF3X25T2Uf1nKqXIpRS7j"
+    },
+    {
+      "album": {
         "name": "The Colours",
         "url": "https://open.spotify.com/album/2hqXj3HUx4XlGQQHHqatvY"
       },
@@ -9200,7 +9398,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 86486,
       "name": "The Rooster",
       "url": "https://open.spotify.com/track/7JiAg8jIQkAzSy0lEap7Zg"
@@ -9254,7 +9452,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 117250,
       "name": "The Sweetest Dream",
       "url": "https://open.spotify.com/track/67Vd6Jkvz7xzAfqqjw1Fvy"
@@ -9330,6 +9528,24 @@
       "duration_ms": 91874,
       "name": "The Wind And The Sun",
       "url": "https://open.spotify.com/track/6HjtHicRY2u51t0phzjuDb"
+    },
+    {
+      "album": {
+        "name": "The Wind-flowers In The Field",
+        "url": "https://open.spotify.com/album/5Kw8yM5Nlvw1CaybCvOhiJ"
+      },
+      "artists": [
+        {
+          "name": "Steinar Lugn",
+          "url": "https://open.spotify.com/artist/4t0C7gwYJn7VTcCU5os2m1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78624,
+      "name": "The Wind-flowers In The Field",
+      "url": "https://open.spotify.com/track/5zP8jGE09Px8ID1ZWcvjxZ"
     },
     {
       "album": {
@@ -10172,7 +10388,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 120874,
       "name": "Until morning light",
       "url": "https://open.spotify.com/track/4CqPp4KenTy68DLT9optnH"
@@ -10298,7 +10514,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 190042,
       "name": "Warm Milk",
       "url": "https://open.spotify.com/track/0L2o3G1JJfzDd6PWjZn6F2"
@@ -10554,6 +10770,24 @@
       "duration_ms": 103525,
       "name": "Whispers of Peace",
       "url": "https://open.spotify.com/track/1LhEqa4vGrKWTSXdDfBO8p"
+    },
+    {
+      "album": {
+        "name": "Wiegenlied Op. 49, No. 4",
+        "url": "https://open.spotify.com/album/27bEa6mhDCatJAhBp1Qgv4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Sweet",
+          "url": "https://open.spotify.com/artist/6faEASxbrKf7pUBruyhRlU"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136363,
+      "name": "Wiegenlied Op. 49, No. 4",
+      "url": "https://open.spotify.com/track/3fPNPY67AJQUwpjBpBBHxs"
     },
     {
       "album": {

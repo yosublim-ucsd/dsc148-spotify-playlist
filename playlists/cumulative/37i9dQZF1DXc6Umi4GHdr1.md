@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-361 songs - 16 hr 7 min
+366 songs - 16 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Anji](https://open.spotify.com/track/5pT4qRIpNb7cASsnMfE1Hc) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 2:13 | 2021-12-10 | 2022-04-06 |
 | [Anoranza](https://open.spotify.com/track/6aq1erKhdTigJdqnoeWCrz) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Anoranza](https://open.spotify.com/album/29qvE6ctOnyrUJWZODkMhV) | 2:48 | 2021-12-10 | 2023-06-10 |
 | [Another Perspective](https://open.spotify.com/track/7hx5wUFiy40D5nviyVCNdh) | [Andreas Dalvik](https://open.spotify.com/artist/1g7nSoa5dEBlJr2UD0CFB2) | [Another Perspective](https://open.spotify.com/album/3p8nGt4Dn5go0hOypGZCDR) | 3:16 | 2023-12-15 | 2024-04-06 |
+| [April Snow](https://open.spotify.com/track/32dB0ESIxhqJHS5d2XExmO) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [April Snow](https://open.spotify.com/album/4v2KKu2YVfketVBSLq2jQl) | 1:43 | 2024-05-24 |  |
 | [Aquamarine](https://open.spotify.com/track/5lmpup8cpMz2Xik4qwhXwl) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Aquamarine](https://open.spotify.com/album/4dFmwqiionPLdVclCiAJWn) | 2:39 | 2023-10-27 |  |
 | [Arbonne](https://open.spotify.com/track/39lP6wfJd0sADo8QQVNuPo) | [Frederic Dupont](https://open.spotify.com/artist/1kG7NP29tzvsYI6dEmOZFF) | [Iara](https://open.spotify.com/album/0gPVXKxCJ2nkXFiG1HPMtb) | 3:17 | 2022-03-03 |  |
 | [Arrival at Eight](https://open.spotify.com/track/3kxSndcN8vYmIJiZvyhj8J) | [Andreas Heuser](https://open.spotify.com/artist/1TPRvsNV32KEuCAYTh9mg6) | [Arrival at Eight](https://open.spotify.com/album/6wRfEhLfpsIBuHVPDofp0E) | 3:38 | 2022-11-18 | 2023-09-01 |
@@ -122,6 +123,7 @@
 | [Follow Me](https://open.spotify.com/track/3mcnh0DtILL5mjk0dwR3oD) | [Andri Hart](https://open.spotify.com/artist/59R6a52V4bd0isZZXpazzL) | [Follow Me](https://open.spotify.com/album/0a6JQdPkBBa0mIYBVe7qj2) | 3:20 | 2022-03-03 | 2022-07-22 |
 | [For Far Too Long](https://open.spotify.com/track/4bxljmuDdjLpfXRM98FFl3) | [Wanderer's Trove](https://open.spotify.com/artist/5G70OWQLpkb6IXJU1ut7E1) | [For Far Too Long](https://open.spotify.com/album/5MwHzCqgiHv2Pue2ov9y6z) | 4:56 | 2021-12-10 | 2024-04-06 |
 | [Fortified Heart](https://open.spotify.com/track/4nr0dChikzW0GQM7m1e0r8) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Fortified Heart](https://open.spotify.com/album/6QluqiIXnhbDfhsNd44AGk) | 3:21 | 2021-12-10 | 2023-05-27 |
+| [French Town](https://open.spotify.com/track/4KVbd3DdAlN6soY6VlsyQm) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [French Town](https://open.spotify.com/album/0GtfbWiV49Sk0KPFKy4E0z) | 2:22 | 2024-05-24 |  |
 | [Full Bloom](https://open.spotify.com/track/6WiykMhEcWvMzL5SQhtdrY) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny) | [Soul Odyssey](https://open.spotify.com/album/655DVNIphpZShWuF9Ejmfc) | 2:42 | 2021-12-10 | 2023-03-10 |
 | [Gently](https://open.spotify.com/track/2J0RzVJwZY4wa0Yz7Lw1av) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [Gently](https://open.spotify.com/album/420Td1UnPDoBlZ56t3sVDl) | 2:02 | 2023-05-26 | 2023-06-16 |
 | [Glasstein](https://open.spotify.com/track/07q8iSWZqva1YDK65LjDms) | [Hans Gomm](https://open.spotify.com/artist/07e4xZ71yEbqm5YGBae1gs) | [Glasstein](https://open.spotify.com/album/6xDVBjvLuvkM7mn99k79hz) | 2:56 | 2021-12-10 | 2024-04-06 |
@@ -250,6 +252,7 @@
 | [Red Fir](https://open.spotify.com/track/5Wrj84CT8f8eVf2Dr9DfLV) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Esperanza](https://open.spotify.com/album/2TcqC96KU39tGmStFfx4AT) | 2:41 | 2022-03-03 |  |
 | [Remaining Link](https://open.spotify.com/track/3THjDQSoQoBoeqT71CdUeG) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Remaining Link](https://open.spotify.com/album/0BEE1YWLyPm6kFnVEL9LN9) | 2:18 | 2024-02-02 |  |
 | [Resolve](https://open.spotify.com/track/6YKeEQOMBRxrv9kY5A4pON) | [Amalia Booth](https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP) | [Resolve](https://open.spotify.com/album/7CFTnTVuiu6Bz3iupotMsN) | 2:40 | 2024-03-29 |  |
+| [Rialto](https://open.spotify.com/track/6x1IIozbhUKLHu0a024rDt) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Rialto](https://open.spotify.com/album/5IdiH14XYSAeS7DC33wFtO) | 2:25 | 2024-05-24 |  |
 | [Rickover's Dream](https://open.spotify.com/track/3rbanyAxECNBbFFi2IM0S2) | [Michael Hedges](https://open.spotify.com/artist/3IqoFUpoJi1qvebL8Vi2aK) | [Aerial Boundaries](https://open.spotify.com/album/2hgrTinAeHSNaSPzLFoamH) | 4:50 | 2021-12-10 | 2023-03-10 |
 | [Rio De Los Sauces](https://open.spotify.com/track/693lY3L3XadRUYWEQoYHtb) | [Astrud Bonfa](https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7) | [Rio De Los Sauces](https://open.spotify.com/album/3rW87wBuoMnxn5CIdesQ7I) | 2:49 | 2021-12-23 | 2024-04-06 |
 | [Rio Segundo](https://open.spotify.com/track/5jBlWBEf1MI1R2SasOZsuL) | [Serena Mendes](https://open.spotify.com/artist/6NPbeRsuxTEwa7lMDnZLLz) | [Rio Segundo](https://open.spotify.com/album/3gLjkFuD4BrEWG1AbScPaU) | 2:49 | 2021-12-23 | 2024-04-06 |
@@ -268,12 +271,14 @@
 | [Sensibilita](https://open.spotify.com/track/4vS8BQGwgPbweNJLLHC9kE) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Sensibilita](https://open.spotify.com/album/6K384fMAEjg7xCsSvWwoP2) | 2:21 | 2022-09-23 |  |
 | [Serenade of Contradictions](https://open.spotify.com/track/5egmzMRyYpM8cVCLVx1FnH) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [Serenade of Contradictions](https://open.spotify.com/album/0KRE9vwGuJCXt0MgidAN55) | 2:25 | 2024-03-29 |  |
 | [Siena Dreamin'](https://open.spotify.com/track/3upEQlKz2eX8kjfhtOlGWc) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Siena Dreamin'](https://open.spotify.com/album/22Ru9VDOPhOkxGFYWdR6au) | 4:09 | 2024-04-19 |  |
+| [Sighs in the Night](https://open.spotify.com/track/1InvD1XYaRe9IlwnLJ0kiy) | [Caylee Luna](https://open.spotify.com/artist/6gEGHbKHwwG0aslwsdWKL8) | [Sighs in the Night](https://open.spotify.com/album/6XLbtxg1YGNcIItuco4nlc) | 2:17 | 2024-05-24 |  |
 | [Silent Sigh](https://open.spotify.com/track/612dMYgROLM8ZTF7ucY41U) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Silent Sigh](https://open.spotify.com/album/5znmBBJ5OV0jVSMFX9a7rT) | 2:45 | 2022-06-17 | 2023-04-28 |
 | [Simpatia](https://open.spotify.com/track/4HeyYmT5CJldklMP2ZLeSJ) | [Hanni Licht](https://open.spotify.com/artist/1RWNLVpTjMKl8MCFV4SUma) | [Simpatia](https://open.spotify.com/album/3HHbMvYOgKOAcEyLrkJQ17) | 2:46 | 2023-10-27 |  |
 | [Simple Reverie](https://open.spotify.com/track/51cpn2Y6niqb3LnucJXkwH) | [Marian Rose](https://open.spotify.com/artist/6zh9U3XKNFN5Drifqx5DtG) | [Simple Reverie](https://open.spotify.com/album/3BmX4s69077iF5bueVbl7n) | 3:07 | 2024-02-02 |  |
 | [Sir Lancelot](https://open.spotify.com/track/2CPWOD9WJN19q2NY2sqpq7) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Childhood](https://open.spotify.com/album/6t2utOCjrCkGnyYGEh6Ygg) | 2:53 | 2021-12-10 | 2023-03-10 |
 | [Sirius](https://open.spotify.com/track/0SeZxemKR9G0OZ9peDOMjK) | [Serena Perez](https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR) | [Sirius](https://open.spotify.com/album/6uhWaOInvJrT8zV8YbGiN6) | 1:52 | 2023-01-06 | 2023-08-26 |
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-05-26 | 2023-06-16 |
+| [Sleeping Petals](https://open.spotify.com/track/1ySgmcM7rIXu5QbVr17F61) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Sleeping Petals](https://open.spotify.com/album/5vIEQ4I8N1Nowe6s25HWL4) | 2:21 | 2024-05-24 |  |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-08-26 |
 | [Sonnensterne](https://open.spotify.com/track/3y1gTkcn6Vp1qFj0mLWH5L) | [Arno Pohl](https://open.spotify.com/artist/711DDi0p3SKq9UI82cvuhT) | [Waldschlaf](https://open.spotify.com/album/7dE6eIR5CifPhi9u2EuZtq) | 3:26 | 2021-12-10 | 2023-09-01 |
 | [Sonora Sunshine](https://open.spotify.com/track/0BT47n9p88wIwm7yNPvvLN) | [Cary Bestwood](https://open.spotify.com/artist/1qE78k5MwKFre0e74P3lQV) | [Sonora Sunshine](https://open.spotify.com/album/6Q48kfNKXooTHk6T5DLWCT) | 1:51 | 2023-08-24 | 2023-08-26 |
@@ -364,7 +369,7 @@
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-03-10 | 2023-08-26 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-08-26 |
-| [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 |  |
+| [Yesteryear](https://open.spotify.com/track/26onATmE5ib4iKkPfvHtnw) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Yesteryear](https://open.spotify.com/album/5Uu6qKT8FsFyUD0tRDIfxZ) | 2:39 | 2023-11-24 | 2024-05-24 |
 | [You](https://open.spotify.com/track/3zEaOi0tey7BFPnr2lPtzL) | [Celestial Conscience](https://open.spotify.com/artist/0UG5sCzTJoQXp7RvjoypkI) | [Snow](https://open.spotify.com/album/47LYgd993iWAisa3vGEPMu) | 1:13 | 2022-09-09 | 2023-08-26 |
 | [You And I](https://open.spotify.com/track/5O4RUMAcxxW5wp2xSZgJGA) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [You And I](https://open.spotify.com/album/52j0T9y4wXx64YmnUCMGSK) | 2:33 | 2024-05-10 |  |
 | [You're Not Alone](https://open.spotify.com/track/4ROmwACfJCiGMBioN6k0m5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [You're Not Alone](https://open.spotify.com/album/0xDfnkhHwktefc4MmHrXuR) | 2:23 | 2023-05-26 | 2023-06-16 |

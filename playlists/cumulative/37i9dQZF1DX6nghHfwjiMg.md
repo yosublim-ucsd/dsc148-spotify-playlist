@@ -4,7 +4,7 @@
 
 > El futuro está acá.
 
-201 songs - 10 hr 19 min
+203 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2021-11-11 | 2022-07-29 |
 | [Hace Rato](https://open.spotify.com/track/5ns6ZTpvqVlWXrJvuT23AB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/5HWu4bDIKiomrWz3ZIhPgn) | 3:43 | 2022-06-27 | 2023-06-02 |
 | [Hielo](https://open.spotify.com/track/331HG0gs3ZWYMRdHFFf5Hc) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Hielo](https://open.spotify.com/album/4fn5ZIvTw84uHbWSBLL07u) | 3:08 | 2021-11-11 | 2023-06-02 |
+| [HOY](https://open.spotify.com/track/7D7CiwAGCkGi9sQYyCLhxh) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [HOY](https://open.spotify.com/album/4SGFF2gxXah8wjZNrJiZJK) | 2:57 | 2024-05-23 |  |
 | [Házmelo](https://open.spotify.com/track/4uiFw0YvHosZT3qRf1QAvs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Házmelo](https://open.spotify.com/album/6YMLkyjjKjFLgFGyreJWky) | 2:54 | 2021-11-11 | 2022-08-05 |
 | [I Wanna Do](https://open.spotify.com/track/06LWXvlG664lAfQ3N8WRXV) | [J Gonz](https://open.spotify.com/artist/6tfiFUwDGuZyGfI4iTyJiL), [Axel Caram](https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP) | [I Wanna Do](https://open.spotify.com/album/5nUXsB6JlORX1kE77OAfy1) | 1:50 | 2023-06-01 | 2023-08-24 |
 | [Iguales](https://open.spotify.com/track/4CxNBZdTMXYpSRXVAPSkuq) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR), [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [Iguales](https://open.spotify.com/album/6ubQKMBtEDxSwknbijo3Sw) | 2:19 | 2024-05-03 |  |
@@ -199,6 +200,7 @@
 | [Todo el Tiempo](https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Todo el Tiempo](https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E) | 3:14 | 2023-10-05 | 2024-05-08 |
 | [TOLKIN YIT](https://open.spotify.com/track/37yI1sQRX7xmdrp4RfTmK1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [TOLKIN YIT](https://open.spotify.com/album/4t00wtgmOwZwhv562woUPp) | 2:21 | 2021-11-11 | 2023-06-02 |
 | [TRAN.KILO](https://open.spotify.com/track/559RjQCoHUvl7wuXU0PFms) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [TRAN.KILO](https://open.spotify.com/album/4FwpDti3pS1BpcSyBOd6VX) | 3:05 | 2024-05-07 |  |
+| [Tu Foto](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 | 2024-05-23 |  |
 | [Tuyo](https://open.spotify.com/track/4NiqCP7CvELNJDd1sue38b) | [Romeo El Santo](https://open.spotify.com/artist/7b2GRLYNoKPanoqh7lzsbT) | [Tuyo](https://open.spotify.com/album/0I0JpmGYWTNFVOLcRlY8wR) | 2:52 | 2021-11-11 | 2023-06-02 |
 | [VENENO](https://open.spotify.com/track/77BiLyjwM96hI2eogbI6dy) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [VENENO](https://open.spotify.com/album/7B0yYlF6q1fTFqm0jqpD3Z) | 3:31 | 2023-06-01 | 2024-05-08 |
 | [Veni Mirá](https://open.spotify.com/track/4fDUAfzsQKszt09InZKRE4) | [NAFTA](https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6) | [Nafta](https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl) | 5:04 | 2021-11-11 | 2023-06-02 |

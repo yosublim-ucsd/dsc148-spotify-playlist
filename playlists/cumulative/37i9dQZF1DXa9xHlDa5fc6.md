@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-377 songs - 23 hr 16 min
+379 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Alone in the Mountains](https://open.spotify.com/track/2Ug0yCvg19wxkpwALYWzHi) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Alone in the Mountains](https://open.spotify.com/album/7oGOnYxXUMTH8BGooDqsC4) | 3:16 | 2023-05-02 |  |
 | [Am I Happening](https://open.spotify.com/track/3nAlq1gCoxi0xvv93XrTZ9) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [Am I Happening](https://open.spotify.com/album/35O7PvobEssvUGpXTCSx7L) | 3:45 | 2020-07-18 | 2021-06-10 |
 | [American Money](https://open.spotify.com/track/4AewKenHXKBt643p473xCk) | [BØRNS](https://open.spotify.com/artist/1KP6TWI40m7p3QBTU6u2xo) | [Dopamine](https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw) | 4:20 | 2019-06-16\* |  |
-| [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-04-19 |  |
+| [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 | 2024-04-19 | 2024-05-24 |
+| [April](https://open.spotify.com/track/4fQBttr6GZZua9I1NqjxPq) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [But I'll Wait For You](https://open.spotify.com/album/7xf10YYeWq7g1sdqCD36Qv) | 2:59 | 2024-04-26 |  |
 | [Arabella](https://open.spotify.com/track/2LdG9xtEzCho3jCr58M6cq) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:27 | 2019-06-16\* | 2022-07-27 |
 | [Arabella](https://open.spotify.com/track/7nzsY8vlnKdvGOEE0rjAXZ) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:27 | 2022-04-11 | 2024-04-19 |
 | [As We Are Now](https://open.spotify.com/track/0auccbirOSgf38celsAEJA) | [Saint Raymond](https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8) | [Young Blood EP](https://open.spotify.com/album/6rkpulKVwXAsc5Uuc7YlEi) | 2:37 | 2019-06-16\* |  |
@@ -234,7 +235,7 @@
 | [More Than Fine](https://open.spotify.com/track/4BAT0xxJnymne7WzeT0Upq) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [More Than Fine](https://open.spotify.com/album/7z7MswXt77DjYaKSuUOmHV) | 3:27 | 2023-02-17 | 2023-03-25 |
 | [Mountain at My Gates](https://open.spotify.com/track/3f7OyfSoDbQC0LRDQiytPp) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/0RyCpIKlCV0kgEuzrmp73O) | 4:04 | 2022-04-11 | 2024-04-19 |
 | [Mountain at My Gates](https://open.spotify.com/track/53L6A3I9vf7rgEZnMzx54E) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [What Went Down](https://open.spotify.com/album/4uIDigk79DeZEYV6Z5Yf4s) | 4:04 | 2019-06-16\* | 2022-07-29 |
-| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2022-12-16 |  |
+| [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 | 2022-12-16 | 2024-05-24 |
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-14 |  |
 | [My Dancer](https://open.spotify.com/track/7qKuDuLsOiDEVtL2rGcvHa) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [My Dancer](https://open.spotify.com/album/24o4RXQybRaN6RFYFcF9k0) | 3:23 | 2020-11-13 | 2021-11-13 |
 | [My Favourite](https://open.spotify.com/track/3DuI6dh9Zk4rpudUnO7DF7) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [My Favourite](https://open.spotify.com/album/6lXiw1zZo8DR6ro1e2Nykf) | 4:05 | 2020-10-30 | 2021-05-29 |
@@ -317,6 +318,7 @@
 | [Spoiled](https://open.spotify.com/track/1kpLFYELP9ZawXgUd8gr8v) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [See You In The Dark](https://open.spotify.com/album/4TtZH64f81Pv1Y7rpwqDBe) | 3:16 | 2023-04-14 | 2024-04-27 |
 | [Stars Are on Your Side](https://open.spotify.com/track/5dH4xnErpUOIDrGySWGkfJ) | [Ross Copperman](https://open.spotify.com/artist/5nHR37FDSU4I0QQta0AZ1C) | [Stars Are on Your Side](https://open.spotify.com/album/5hzwL3gTvGugF4qOXUCQar) | 3:38 | 2019-06-16\* |  |
 | [Stay Out Of It](https://open.spotify.com/track/1f8G4jvkONnLMxJMx7V2Ck) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu) | [Stay Out Of It](https://open.spotify.com/album/2p70Xer2HAT9Ro0qiBVHOc) | 3:05 | 2022-09-16 |  |
+| [Suburban Trees](https://open.spotify.com/track/1gzXd86MIR8NSLGvvl6OXG) | [Jump, Little Children](https://open.spotify.com/artist/2FUX1YWRyeqe4wbOregG0G) | [Foundering](https://open.spotify.com/album/6rRZp4HCnXyoSxDvz8lbIa) | 4:49 | 2024-04-26 |  |
 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 | 2019-06-16\* |  |
 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 | 2024-04-19 |  |
 | [Take A Walk](https://open.spotify.com/track/0dVVLxuAvUnkwNGgW9aoZs) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Take A Walk](https://open.spotify.com/album/0ZHOjJXOJ5kZpidFOqWtnw) | 3:46 | 2022-04-09 |  |

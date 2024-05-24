@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 422127,
+  "num_followers": 422139,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-05-16 20:47:52",
       "album": {
-        "name": "Beatriz",
-        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
-      },
-      "artists": [
-        {
-          "name": "El Kuelgue",
-          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
-        }
-      ],
-      "duration_ms": 302613,
-      "name": "Bossa & People",
-      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
-    },
-    {
-      "added_at": "2024-05-16 20:47:52",
-      "album": {
         "name": "Alas Canciones",
         "url": "https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 302280,
       "name": "Sigo Caminando",
       "url": "https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR"
+    },
+    {
+      "added_at": "2024-05-16 20:47:52",
+      "album": {
+        "name": "Beatriz",
+        "url": "https://open.spotify.com/album/1pWjhnDNd6hDpFGsGT55bR"
+      },
+      "artists": [
+        {
+          "name": "El Kuelgue",
+          "url": "https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT"
+        }
+      ],
+      "duration_ms": 302613,
+      "name": "Bossa & People",
+      "url": "https://open.spotify.com/track/4yFh5okeS2u5iO5vAsBsHc"
     },
     {
       "added_at": "2024-05-16 20:47:52",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-05-16 20:47:52",
       "album": {
-        "name": "El Amor en Mi Vida",
-        "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
-      },
-      "artists": [
-        {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
-        }
-      ],
-      "duration_ms": 222406,
-      "name": "El Amor en Mi Vida",
-      "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
-    },
-    {
-      "added_at": "2024-05-16 20:47:52",
-      "album": {
         "name": "Ganas",
         "url": "https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 254135,
       "name": "Ganas",
       "url": "https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ"
+    },
+    {
+      "added_at": "2024-05-16 20:47:52",
+      "album": {
+        "name": "El Amor en Mi Vida",
+        "url": "https://open.spotify.com/album/0it2idFNTKDK9DzyxL6vy1"
+      },
+      "artists": [
+        {
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+        }
+      ],
+      "duration_ms": 222406,
+      "name": "El Amor en Mi Vida",
+      "url": "https://open.spotify.com/track/2uBYq9tm9G5UapyQmbeU6K"
     },
     {
       "added_at": "2024-05-16 20:47:52",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2024-05-16 20:47:52",
       "album": {
-        "name": "AWCH (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
-      },
-      "artists": [
-        {
-          "name": "Angela Torres",
-          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
-        }
-      ],
-      "duration_ms": 196004,
-      "name": "AWCH - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
-    },
-    {
-      "added_at": "2024-05-16 20:47:52",
-      "album": {
         "name": "Soy lo que Doy",
         "url": "https://open.spotify.com/album/7mBvWresKJvNwLWP10yW7X"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 217728,
       "name": "Soy lo que Doy",
       "url": "https://open.spotify.com/track/4Sq2A3LUiytnHVO4WWVAtH"
+    },
+    {
+      "added_at": "2024-05-16 20:47:52",
+      "album": {
+        "name": "AWCH (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6gMcC5nNeCd8F4HmCSGnwf"
+      },
+      "artists": [
+        {
+          "name": "Angela Torres",
+          "url": "https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL"
+        }
+      ],
+      "duration_ms": 196004,
+      "name": "AWCH - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4jFT1VnKshlmMFJYDXNlQL"
     },
     {
       "added_at": "2024-05-16 20:47:52",
@@ -1543,22 +1543,18 @@
     {
       "added_at": "2024-05-16 20:47:52",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
+        "name": "La Sagrada",
+        "url": "https://open.spotify.com/album/1xu99byFIkzbPmPDWxYTMc"
       },
       "artists": [
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Natalia Doco",
+          "url": "https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
+      "duration_ms": 227093,
+      "name": "Cielo - br\u00fajula del destino",
+      "url": "https://open.spotify.com/track/2BfqQCKiA6F7l294f64IOY"
     }
   ],
   "unique_name": "T\u00e9 Para Tres",

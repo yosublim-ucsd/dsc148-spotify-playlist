@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-285 songs - 16 hr 15 min
+287 songs - 16 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Eleanor Rigby](https://open.spotify.com/track/6ygX4sQWC4b4Ttv46b7Mx6) | [Pomplamoose](https://open.spotify.com/artist/5dHfLBNU8zoypgKefzEB1c) | [Eleanor Rigby](https://open.spotify.com/album/1mQwT2si5Tg8T3LAhPDdFQ) | 2:42 | 2021-07-16 | 2024-04-19 |
 | [Enjoy It While It Lasts](https://open.spotify.com/track/46aRt9ol4YgFYVpMzj6M9c) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT) | [As Written in the Stars](https://open.spotify.com/album/4E1if5BmJTV3ryoNkVGFzm) | 3:00 | 2021-07-16 | 2022-11-13 |
 | [Enjoy the Silence](https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac) | [Veil](https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg) | [Acoustic Visions](https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm) | 3:48 | 2021-07-16 |  |
+| [Espacio Infinito](https://open.spotify.com/track/5pTrvPMK10VcX8A6z8Q5Oa) | [Paola Meza](https://open.spotify.com/artist/5njFdXuFrH8HzkBpoEFHy0) | [Espacio Infinito](https://open.spotify.com/album/4UaFgjr9ZGMvtX96fvSror) | 3:30 | 2024-05-24 |  |
 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Every Day's A Lesson In Humility](https://open.spotify.com/album/5fRw7ZNHiWwM3ArYFNel0V) | 3:36 | 2023-06-16 |  |
 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 | 2021-07-16 |  |
 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/3sufVSY7Ox1CcT2nnnkIFI) | [Duo Estoril](https://open.spotify.com/artist/5Tr9wCxgz3fPsIYQIm9hcG) | [Duo Estoril](https://open.spotify.com/album/2PwCEWIQeZGai2Sad90MiU) | 2:44 | 2021-07-16 |  |
@@ -178,7 +179,7 @@
 | [Never Leave You](https://open.spotify.com/track/0DPFRkcObN0j4sHREcVfgO) | [Sterre Weldring](https://open.spotify.com/artist/59s7DQXAvTQemfh1di85uL) | [Never Leave You](https://open.spotify.com/album/54njbARQAQA2LBGs9pD0LN) | 3:27 | 2021-07-16 |  |
 | [Never My Love](https://open.spotify.com/track/4zRkmGHVgGGnJMhemMXD6I) | [Isobel Campbell](https://open.spotify.com/artist/55dlp5I9jyc4UjzlrcKMnq) | [Voices In The Sky](https://open.spotify.com/album/3xbtHD6AtuBZia9256EhML) | 3:26 | 2021-07-16 |  |
 | [New Rules](https://open.spotify.com/track/4ebS9j23Z1sQQtjsK06vD2) | [Postcards & Polaroids](https://open.spotify.com/artist/5ccCHLpAxCdSMFHeeLUPrw) | [New Rules](https://open.spotify.com/album/3YJr0IXRu7iHCe2iQ6I9hA) | 3:14 | 2021-07-16 |  |
-| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 |  |
+| [No Regrets](https://open.spotify.com/track/6UPJmpmGukbscT5WQIM0Zm) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [No Regrets](https://open.spotify.com/album/1muyJu5LIeZz7MoEuuVaTI) | 3:07 | 2021-07-16 | 2024-05-24 |
 | [No Tears Left To Cry](https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J) | [Isabella Celander](https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE) | [No Tears Left To Cry](https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y) | 3:58 | 2021-07-16 |  |
 | [Nothing Breaks Like a Heart](https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly) | [Brimsley](https://open.spotify.com/artist/0UhNZ8dTl8Wq4iPcwsqPmd) | [Nothing Breaks Like a Heart](https://open.spotify.com/album/4WHIT1gsLTquLhqMhBrwuP) | 3:23 | 2021-07-16 |  |
 | [NY Man](https://open.spotify.com/track/3ZfJ3tNrqVY9CDLPgeow8T) | [A Girl Called Eddy](https://open.spotify.com/artist/4R024vmmAv1tyJGZPWkEDu) | [Been Around](https://open.spotify.com/album/6DwkzPEjQeTutwvtajX7mO) | 4:02 | 2021-07-16 | 2022-07-29 |
@@ -246,9 +247,10 @@
 | [Tattoo](https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP) | [Natalie 2V](https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x) | [Tattoo](https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr) | 2:56 | 2021-07-16 |  |
 | [Tenderness](https://open.spotify.com/track/0l4C0NqebeMcpVJkduRuUK) | [Laura Gibson](https://open.spotify.com/artist/396L5wXlifF7nfSLhP3tTH) | [Tenderness](https://open.spotify.com/album/0QciEURoa6fZUkITRIUOQM) | 3:36 | 2021-07-16 | 2022-07-26 |
 | [Terrace Rain](https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA) | [Afternoon Bike Ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9) | [Terrace Rain/Grid Search](https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI) | 2:56 | 2023-01-03 |  |
+| [The Best Sea](https://open.spotify.com/track/0s5KsQzfARUoA6aqOcZ2m1) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [The Best Sea](https://open.spotify.com/album/6viJOxH6ZeWSFqiigxA1a1) | 2:21 | 2024-05-24 |  |
 | [The Day I Left Hanoi](https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y) | [Jokai](https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz) | [The Day I Left Hanoi](https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh) | 3:49 | 2021-07-16 |  |
 | [The Day That We First Met](https://open.spotify.com/track/17ekhUz8G2Pmeupx9YYmQk) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [The Day That We First Met](https://open.spotify.com/album/6iw7Nwas2Qw3ByoVCh3g6r) | 3:40 | 2021-07-16 |  |
-| [The Middle](https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [The Middle](https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD) | 3:29 | 2023-06-09 |  |
+| [The Middle](https://open.spotify.com/track/3D22QSh1HLlvTrNJAHx42t) | [Dan Berk](https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ) | [The Middle](https://open.spotify.com/album/3DB9bG9QjWLhIp3y9PDeTD) | 3:29 | 2023-06-09 | 2024-05-24 |
 | [The Moons Detriment](https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [The Moons Detriment](https://open.spotify.com/album/40uRLasPxbgmHu5yfueU2m) | 2:35 | 2021-07-16 | 2023-11-23 |
 | [The Moons Detriment](https://open.spotify.com/track/0tVGryiARVH5XuOM2S8Rn0) | [Shannon Lay](https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6) | [Living Water](https://open.spotify.com/album/6ErBtQXSqQZfmzVX1ns4zu) | 2:35 | 2023-06-09 | 2024-04-19 |
 | [There's Nothing Holdin Me Back](https://open.spotify.com/track/2PX6WAoHC307PEUBMkWkE3) | [Q.Z.B](https://open.spotify.com/artist/2bM99ltifHeWqA8pxQ5RdG) | [There's Nothing Holdin Me Back](https://open.spotify.com/album/2ZqnrSm19aYSPblI4hnnaU) | 3:19 | 2021-07-16 |  |

@@ -4,7 +4,7 @@
 
 > This is Los Desvelados\. The essential tracks, all in one playlist.
 
-64 songs - 3 hr 29 min
+65 songs - 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Agradecido Estoy](https://open.spotify.com/track/3zxDdpkxNiPAJndAocTnZP) | [Grupo Recien](https://open.spotify.com/artist/4Nnqw0OjHeZHdVOIDUx2br), [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Agradecido Estoy](https://open.spotify.com/album/5VdlW7YpcqdDjpkPt2gciG) | 2:45 | 2024-01-29 |  |
 | [AHORA NOS VEN](https://open.spotify.com/track/0YwGY7votS6QwJBkF6nlrL) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [CORRIDOS UNDERGROUND \(Vol\. 4\)](https://open.spotify.com/album/2Nqb3yTWqrq8IJ5hPMn9UY) | 3:01 | 2024-05-22 |  |
 | [Ahora Nos Ven](https://open.spotify.com/track/3Jub5p08dcOIxBEt42Ir0O) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Ahora Nos Ven](https://open.spotify.com/album/5qVj3KoJry15JOwsBqoinL) | 3:01 | 2024-03-08 | 2024-05-22 |
-| [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 |  |
+| [Al Ver Te Vas](https://open.spotify.com/track/1lbMP2pv0OXI9jU0LgK5LX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Guerra de Guitarras Vol\. 1](https://open.spotify.com/album/3oJL9TYyetQB8stvAXtXm3) | 3:05 | 2024-01-29 | 2024-05-24 |
 | [Aqui Sigo Chevereando \(En Vivo\)](https://open.spotify.com/track/08QMehyraBMIg42REIm9xs) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [En Vivo Desde Tacos Desvelados](https://open.spotify.com/album/2XjhT8SxqQiKmAiYs0nCrF) | 2:52 | 2024-01-29 |  |
 | [Aqui Sigo Cheveriando](https://open.spotify.com/track/6nHBqyIy3NhKzU9D6Wu2rX) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Legion Del Corrido](https://open.spotify.com/album/0r9jqZqqorVlus4zZLTiO7) | 2:49 | 2024-02-16 |  |
 | [Aqui Sigo Cheveriando \(En Vivo\)](https://open.spotify.com/track/5r3byjM4wJDATLEZBR7a7M) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 2:39 | 2024-01-29 | 2024-02-17 |
@@ -45,6 +45,7 @@
 | [Humilde y Sencillo \(En Vivo\)](https://open.spotify.com/track/5w7W726cvmYEG4WUnNzjfT) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground Desde Culiacan Sin \(En Vivo\)](https://open.spotify.com/album/0h0VNlor4eGbnLPC71mRdp) | 1:49 | 2024-01-29 |  |
 | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Los Nuevos Ilegales](https://open.spotify.com/artist/0dAcy3ayJIW98jdHTacqac) | [Johnny Boy \(feat\. Los Nuevos Ilegales & La Decima Banda\)](https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL) | 2:37 | 2024-01-29 |  |
 | [Joven Delincuente](https://open.spotify.com/track/5esyzttlthLkvEhaJsPtUd) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Joven Delincuente](https://open.spotify.com/album/6LJQHthrT6kncN1zN9atvE) | 3:56 | 2024-01-29 |  |
+| [Joven Delinquente](https://open.spotify.com/track/0H6CmqrDWzdGS6C4nVrDuv) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Elexion](https://open.spotify.com/artist/5JQFHFB2VCcven5RfSH1d7) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:42 | 2024-05-24 |  |
 | [Layo Gastelum \(En Vivo\)](https://open.spotify.com/track/3numKkxd3guCAWjwJgLjdH) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Corridos Underground 2](https://open.spotify.com/album/5ePdJzekAiQoxukqYlzEiY) | 2:28 | 2024-01-29 |  |
 | [Los Tengo Viendo](https://open.spotify.com/track/7hGcGzrh6Bl6OLubzHbLb2) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9) | [Los Tengo Viendo](https://open.spotify.com/album/22YgCj8XGrlDQjlJGT8faI) | 3:54 | 2024-01-29 |  |
 | [Me Dicen E](https://open.spotify.com/track/4VSFniHiB9DICyT3JqrQNw) | [Los Desvelados](https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9), [Grupo Los Del Area](https://open.spotify.com/artist/2cuvlWUiSa8eLLTbnRR0cf) | [A Los Angeles Hay Que Tenerle Cuidado](https://open.spotify.com/album/1y5k7rVaORgLzzlhrs4e8B) | 3:26 | 2024-01-29 |  |

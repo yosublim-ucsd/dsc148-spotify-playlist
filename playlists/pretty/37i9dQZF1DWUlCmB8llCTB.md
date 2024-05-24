@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 
 > Perreando toda la noche con El Malilla, Yeyo, Jowell & Randy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 744,868 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 744,930 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlCmB8llCTB.md) - [plain]
 | 5 | [PUEBLO DE MEDALLO](https://open.spotify.com/track/1aA5nyIIkH8lmy8iMXy1ZQ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [EL CANTANTE DEL GHETTO](https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE) | 3:28 |
 | 6 | [La Misión](https://open.spotify.com/track/3dyo3TI5QpPi1mkgEBB9oK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [La Misión](https://open.spotify.com/album/1ePhu33yby4C7qx1ypRrSS) | 3:34 |
 | 7 | [La Receta](https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [Los Sentimientos De un Robot](https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK) | 4:23 |
-| 8 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
+| 8 | [BONNIE AND CLYDE \- REMIX](https://open.spotify.com/track/08s7guLP2nSMxmYqmjf7oV) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Luar La L](https://open.spotify.com/artist/17XeomF5xiiR4bQVQx0uWB), [Omar Courtz](https://open.spotify.com/artist/6ju131sNPISiZTbmJMTAE4) | [BONNIE AND CLYDE \(REMIX\)](https://open.spotify.com/album/2HeKQhQNkXEbaMxawEv4Om) | 4:46 |
 | 9 | [Brinca \- Spotify Singles](https://open.spotify.com/track/1TPtornOIqa4PprEZp9LLB) | [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH) | [Brinca \- Spotify Singles](https://open.spotify.com/album/0yyEToTNjg7jnvLo10paCC) | 3:24 |
 | 10 | [PAL LIO \(with Kidd Voodoo & Distobal\)](https://open.spotify.com/track/6z8suCGMfwkO1n7DiySPac) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD) | [PAL LIO \(with Kidd Voodoo & Distobal\)](https://open.spotify.com/album/5RRShacxeExVontZRiusrU) | 3:06 |
 | 11 | [Brickell](https://open.spotify.com/track/0rNqDh9zWWJVTLS4VfceHP) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [MANIFESTING 20\-05](https://open.spotify.com/album/5WTsC6KDdxp9xVQrAMIU6c) | 3:00 |

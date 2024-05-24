@@ -1249,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "Kasmaran",
+        "url": "https://open.spotify.com/album/2HR6Fg4E3PlzC2ZQ8dKIJu"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-05-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242390,
+      "name": "Kasmaran",
+      "url": "https://open.spotify.com/track/6rB2whUL8s2Kt3wIxsnCGf"
+    },
+    {
+      "album": {
         "name": "EXPLORE!",
         "url": "https://open.spotify.com/album/6TXaOwBLoyJrD6vem7L8Ba"
       },
@@ -2398,7 +2416,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 261030,
       "name": "Sedang Sayang Sayangnya",
       "url": "https://open.spotify.com/track/10CbwBfusPvPWuzuTLeMdm"

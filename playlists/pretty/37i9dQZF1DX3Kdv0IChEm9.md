@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 
 > 100% clássicos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,108 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,275 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Kdv0IChEm9.md) - [plain]
 | 43 | [Breaking Me](https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Breaking Me](https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn) | 2:46 |
 | 44 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/5YPMEOJ58kfl56VHxTgwx3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat \(Ultimate Edition\)](https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl) | 3:21 |
 | 45 | [Roses](https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Roses](https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC) | 3:46 |
-| 46 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
-| 47 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:47 |
+| 46 | [Rather Be \(feat\. Jess Glynne\)](https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [New Eyes](https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw) | 3:47 |
+| 47 | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Heartbreak Anthem \(with David Guetta & Little Mix\)](https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1) | 3:03 |
 | 48 | [Clarity](https://open.spotify.com/track/60wwxj6Dd9NJlirf84wr2c) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Foxes](https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug) | [Clarity](https://open.spotify.com/album/7juWTdmjo0vYywWu8HiQxs) | 4:31 |
 | 49 | [I Love It \(feat\. Charli XCX\)](https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [THIS IS..\. ICONA POP](https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13) | 2:37 |
 | 50 | [Party Rock Anthem](https://open.spotify.com/track/7mitXLIMCflkhZiD34uEQI) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/0D49RvtlLCKyxeDKDnBU2R) | 4:22 |

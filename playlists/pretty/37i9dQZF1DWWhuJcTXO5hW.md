@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 
 > The most chill instrumental oud sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,256 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,304 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhuJcTXO5hW.md) - [plain]
 | 10 | [Aicha](https://open.spotify.com/track/21wo3e3K1h5zy03Q3Nkk4E) | [Ahmed Alshaiba](https://open.spotify.com/artist/3draSJS8Ixp5PoZv1oWfwx) | [Aicha](https://open.spotify.com/album/3RRJUlqb8IJvxRKTyCG4h5) | 4:15 |
 | 11 | [Tal'aa Min Beit Abouha](https://open.spotify.com/track/3J7o3mkgNbD9iayT580hao) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:19 |
 | 12 | [Bayati](https://open.spotify.com/track/4E70hItpq5sRXMaSWg8Qrf) | [Aarif Jaman](https://open.spotify.com/artist/1zkvifjurjnlKQmRLlXpeh) | [Oud \(The Legend of Arabic Music\)](https://open.spotify.com/album/6ccsUgs16DGDaZ77UNKYOg) | 3:20 |
-| 13 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
-| 14 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
-| 15 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
-| 16 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
+| 13 | [Imtinan](https://open.spotify.com/track/4LREyXwaLdFDnr14Udnqh6) | [Driss El Maloumi](https://open.spotify.com/artist/2HnfCI3Zf6r0hWwGJ8p2aB) | [Makan](https://open.spotify.com/album/0EPPt6up82A7e3bKId5s50) | 2:19 |
+| 14 | [Al bint el shalabiya](https://open.spotify.com/track/269AmdV2hBIdEJkysPDIBd) | [Charbel Rouhana](https://open.spotify.com/artist/544JiY0RNPRFaxnkLS3cFL), [The Beirut Oriental Ensemble](https://open.spotify.com/artist/6N646pfdfynkHnoKEnpBFN) | [HandMade](https://open.spotify.com/album/1VZ827wwKIonSOc7g5YTW9) | 4:50 |
+| 15 | [Devlerin Aşkı](https://open.spotify.com/track/5E6AjfzuqfFmtQyxwyqntu) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2) | [Ahi](https://open.spotify.com/album/3E69rNQtG0zSIWC6tI9OWF) | 3:36 |
+| 16 | [Oblivion](https://open.spotify.com/track/5sFJcINPGw2PjZHg4soZoK) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [Oblivion](https://open.spotify.com/album/6KEMRKPWrk56GSXRX1jJBf) | 3:02 |
 | 17 | [Souvenir](https://open.spotify.com/track/5zKoRVSbZ3UQJX9Son7eJK) | [Mohamed Rouane](https://open.spotify.com/artist/6VAD4aXIM4zPdYHsrKZKde) | [Un homme libre](https://open.spotify.com/album/7immQi68cW0cg675tlCsmI) | 7:08 |
 | 18 | [L'obstinée I](https://open.spotify.com/track/6r31Pw3pw6N8i6kwfc2kx2) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI), [Chkrrr](https://open.spotify.com/artist/5YiDQX5JOajMOvlQsf2PrB) | [The Last Flight \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ATO4rHQtMdrZ5c7p3abPA) | 1:52 |
 | 19 | [Zourouni](https://open.spotify.com/track/4J7npFq7vLfUxuWvOq4Ttx) | [Munir Bachir](https://open.spotify.com/artist/5Of0ZWqauwYLFzmRtjAHKy) | [Aoud Around the Arab World](https://open.spotify.com/album/7yzLWWPh9Aq0sXSTiA5GyD) | 2:38 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra, Louane",
-  "num_followers": 40747,
+  "num_followers": 40749,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,22 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Pub Royal",
-        "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
+        "name": "Colis\u00e9e (feat. SDM)",
+        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
       },
       "artists": [
         {
-          "name": "Les Cowboys Fringants",
-          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
+          "name": "Lacrim",
+          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 436524,
-      "name": "La fin du show",
-      "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
+      "duration_ms": 168746,
+      "name": "Colis\u00e9e (feat. SDM)",
+      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -479,22 +483,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Colis\u00e9e (feat. SDM)",
-        "url": "https://open.spotify.com/album/4R1vR0X2fyl34QydA2VeWE"
+        "name": "Nous on sait",
+        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
       },
       "artists": [
         {
-          "name": "Lacrim",
-          "url": "https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 168746,
-      "name": "Colis\u00e9e (feat. SDM)",
-      "url": "https://open.spotify.com/track/3RzWvMggSzFMIueWIaDwEU"
+      "duration_ms": 182546,
+      "name": "Nous on sait",
+      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -515,18 +515,18 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "Nous on sait",
-        "url": "https://open.spotify.com/album/3EGRF8H44EsCxzcqwp1UQx"
+        "name": "Pub Royal",
+        "url": "https://open.spotify.com/album/2aQeozGyIhuzJo1q0RHF6U"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Les Cowboys Fringants",
+          "url": "https://open.spotify.com/artist/54BZLczVMsW9sPSIcUst1a"
         }
       ],
-      "duration_ms": 182546,
-      "name": "Nous on sait",
-      "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+      "duration_ms": 436524,
+      "name": "La fin du show",
+      "url": "https://open.spotify.com/track/5UrNvwWNKGhpfuI6c1kH58"
     },
     {
       "added_at": "2024-05-17 04:00:00",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-05-17 04:00:00",
       "album": {
-        "name": "JOE PESCI",
-        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Inso Le V\u00e9ritable",
-          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
-        }
-      ],
-      "duration_ms": 199411,
-      "name": "JOE PESCI",
-      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
-    },
-    {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
         "name": "SHE LIT",
         "url": "https://open.spotify.com/album/3IYFhRvpsnXg2K7m5Jkf7B"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 137533,
       "name": "SHE LIT",
       "url": "https://open.spotify.com/track/7g4NTzoHSGNfh41u5kNQW6"
+    },
+    {
+      "added_at": "2024-05-17 04:00:00",
+      "album": {
+        "name": "JOE PESCI",
+        "url": "https://open.spotify.com/album/0zQa5HVQkdUBcfgfjpfAqQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Inso Le V\u00e9ritable",
+          "url": "https://open.spotify.com/artist/05IsLgQufqq7O7NtDKN3x6"
+        }
+      ],
+      "duration_ms": 199411,
+      "name": "JOE PESCI",
+      "url": "https://open.spotify.com/track/5ZRX1nlpURKlGCFxWWgFeq"
     },
     {
       "added_at": "2024-05-17 04:00:00",

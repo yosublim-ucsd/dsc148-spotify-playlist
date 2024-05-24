@@ -1,6 +1,6 @@
 {
   "description": "Distorted and rough around the edges.",
-  "num_followers": 463527,
+  "num_followers": 463590,
   "original_name": "Lo-Fi House",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Ocean Drift",
-        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 136666,
-      "name": "Ocean Drift",
-      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "Brasil",
         "url": "https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 169000,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Ocean Drift",
+        "url": "https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 136666,
+      "name": "Ocean Drift",
+      "url": "https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "No Borders",
+        "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "No Borders",
+      "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Closer To The Essence",
         "url": "https://open.spotify.com/album/0xwag0OCVGtybK0Y744oxX"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 224390,
       "name": "I Knew It",
       "url": "https://open.spotify.com/track/51iHXQU77EwdHIF2hT0F2B"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "No Borders",
-        "url": "https://open.spotify.com/album/5EdhvTsSyDz8OuiuyULLyK"
-      },
-      "artists": [
-        {
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "No Borders",
-      "url": "https://open.spotify.com/track/3gnVC0NahYmLwXOf42uaF1"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -559,22 +559,6 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Social Distancing EP",
-        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
-      },
-      "artists": [
-        {
-          "name": "Babsy",
-          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
-        }
-      ],
-      "duration_ms": 312304,
-      "name": "Amy",
-      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 373974,
       "name": "008A1",
       "url": "https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Social Distancing EP",
+        "url": "https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob"
+      },
+      "artists": [
+        {
+          "name": "Babsy",
+          "url": "https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ"
+        }
+      ],
+      "duration_ms": 312304,
+      "name": "Amy",
+      "url": "https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -619,26 +619,6 @@
       "duration_ms": 117660,
       "name": "Polar Circle",
       "url": "https://open.spotify.com/track/477kMIDTYHO44W23L9GUhQ"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Brasileira (ddp Remix)",
-        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
-      },
-      "artists": [
-        {
-          "name": "9iusi",
-          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
-        },
-        {
-          "name": "ddp",
-          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
-        }
-      ],
-      "duration_ms": 116190,
-      "name": "Brasileira - ddp Remix",
-      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -679,22 +659,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Forgiveness",
-        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
+        "name": "Brasileira (ddp Remix)",
+        "url": "https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr"
       },
       "artists": [
         {
-          "name": "Tour-Maubourg",
-          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+          "name": "9iusi",
+          "url": "https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF"
         },
         {
-          "name": "AOC Records",
-          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
+          "name": "ddp",
+          "url": "https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY"
         }
       ],
-      "duration_ms": 289941,
-      "name": "Forgiveness",
-      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
+      "duration_ms": 116190,
+      "name": "Brasileira - ddp Remix",
+      "url": "https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -715,6 +695,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "I'm In Love",
+        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+      },
+      "artists": [
+        {
+          "name": "Social Lovers",
+          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+        }
+      ],
+      "duration_ms": 272760,
+      "name": "I'm In Love",
+      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Mind's Eye",
         "url": "https://open.spotify.com/album/0V7YCgKiVWctiHpxc4Hmv1"
       },
@@ -731,18 +727,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "I'm In Love",
-        "url": "https://open.spotify.com/album/5zxwIAueS6WhnZYn2Ikcze"
+        "name": "Forgiveness",
+        "url": "https://open.spotify.com/album/1MmarqecvxwzaaQQHSdutV"
       },
       "artists": [
         {
-          "name": "Social Lovers",
-          "url": "https://open.spotify.com/artist/7HE9KVyz6P11Dn791tNXpL"
+          "name": "Tour-Maubourg",
+          "url": "https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su"
+        },
+        {
+          "name": "AOC Records",
+          "url": "https://open.spotify.com/artist/6eoHnakjWcosB8baPzr7Gy"
         }
       ],
-      "duration_ms": 272760,
-      "name": "I'm In Love",
-      "url": "https://open.spotify.com/track/4VoOIOooZPtdn0syJ9fTg1"
+      "duration_ms": 289941,
+      "name": "Forgiveness",
+      "url": "https://open.spotify.com/track/1G9e9FPyVPDjKsRPMX7nYH"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -815,38 +815,34 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Everytime EP",
-        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+        "name": "What It Is (2.0)",
+        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
       },
       "artists": [
         {
-          "name": "Jason Hersco",
-          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
         }
       ],
-      "duration_ms": 308269,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
+      "duration_ms": 336025,
+      "name": "The Body Move",
+      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
     },
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "Flutes of Gold",
-        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+        "name": "Beats On Boat: Made in M",
+        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
-        },
-        {
-          "name": "Toro Moratto",
-          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+          "name": "Made in M",
+          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
         }
       ],
-      "duration_ms": 422278,
-      "name": "Flutes of Gold",
-      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
+      "duration_ms": 339130,
+      "name": "Flightmode On",
+      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -871,6 +867,22 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
+        "name": "Everytime EP",
+        "url": "https://open.spotify.com/album/1sv2bbVxs3BcuAl9ixkysw"
+      },
+      "artists": [
+        {
+          "name": "Jason Hersco",
+          "url": "https://open.spotify.com/artist/54CXHQ2d7p0Xt9G3Zezsqa"
+        }
+      ],
+      "duration_ms": 308269,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/3DRkEQPkREzvk8ETaKCkf9"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
         "name": "Milkyway",
         "url": "https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ"
       },
@@ -883,38 +895,6 @@
       "duration_ms": 207272,
       "name": "Milkyway",
       "url": "https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Beats On Boat: Made in M",
-        "url": "https://open.spotify.com/album/5iJcyU0qYmTn6M5jnEr2yS"
-      },
-      "artists": [
-        {
-          "name": "Made in M",
-          "url": "https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c"
-        }
-      ],
-      "duration_ms": 339130,
-      "name": "Flightmode On",
-      "url": "https://open.spotify.com/track/7guDKEbsm74iyFwdc4Wtdy"
-    },
-    {
-      "added_at": "2024-05-10 14:35:21",
-      "album": {
-        "name": "Limb Valley",
-        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
-      },
-      "artists": [
-        {
-          "name": "Al Zanders",
-          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
-        }
-      ],
-      "duration_ms": 450020,
-      "name": "Endcliffe Park",
-      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -935,18 +915,18 @@
     {
       "added_at": "2024-05-10 14:35:21",
       "album": {
-        "name": "What It Is (2.0)",
-        "url": "https://open.spotify.com/album/4BIiKHPs6HvnRVg2zHX5Ay"
+        "name": "Limb Valley",
+        "url": "https://open.spotify.com/album/1cW1KQEfAhaDUk2MVlc2Gq"
       },
       "artists": [
         {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+          "name": "Al Zanders",
+          "url": "https://open.spotify.com/artist/4udfBn2nJQ6bHoMrr2lKpz"
         }
       ],
-      "duration_ms": 336025,
-      "name": "The Body Move",
-      "url": "https://open.spotify.com/track/7Ejtrc5RR6DPVAQHpbhL7W"
+      "duration_ms": 450020,
+      "name": "Endcliffe Park",
+      "url": "https://open.spotify.com/track/4Uoy2ySRvBC1jnbj5FfusP"
     },
     {
       "added_at": "2024-05-10 14:35:21",
@@ -975,6 +955,26 @@
       "duration_ms": 277567,
       "name": "Nektar Leftie MIX - Erdbeerschnitzel Remix",
       "url": "https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ"
+    },
+    {
+      "added_at": "2024-05-10 14:35:21",
+      "album": {
+        "name": "Flutes of Gold",
+        "url": "https://open.spotify.com/album/2z4JbfOQxmzY2SjcKA4ATD"
+      },
+      "artists": [
+        {
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+        },
+        {
+          "name": "Toro Moratto",
+          "url": "https://open.spotify.com/artist/394p0JVHuJ3UxHpJbsTp0H"
+        }
+      ],
+      "duration_ms": 422278,
+      "name": "Flutes of Gold",
+      "url": "https://open.spotify.com/track/0JMbvSbbfNiK5NAk22i46M"
     },
     {
       "added_at": "2024-05-10 14:35:21",

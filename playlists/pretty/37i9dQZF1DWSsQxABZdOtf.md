@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 
 > <a href="spotify:artist:3L2tOP2vRYfjXVW4W1tKEJ">Nina Las Vegas'</a> favourite tracks\. Updated regularly\. Curated by Nina Las Vegas\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,159 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,163 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsQxABZdOtf.md) - [plain]
 | 13 | [Die For You](https://open.spotify.com/track/2Rp4qBtPeJTg8Fxr1Seoft) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Die For You](https://open.spotify.com/album/3PGtY7XwJKnzi9v1o4CtxJ) | 2:20 |
 | 14 | [Haraka "حركة"](https://open.spotify.com/track/5y0PD7uX1pQwT7vgeeGiZ2) | [moktar](https://open.spotify.com/artist/6jMORNptwLDBn8ujqRLbxa), [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Haraka "حركة"](https://open.spotify.com/album/5vMEcdEtAvgDvOOnvLk1qV) | 5:01 |
 | 15 | [Replay](https://open.spotify.com/track/4BAIKNDhzBhO90nKPEVP4b) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Replay](https://open.spotify.com/album/5FLiuv7yv19N5iuezp0qQO) | 2:19 |
-| 16 | [Skillful Man](https://open.spotify.com/track/7seUpcaq0yMs8QeVbP3cOb) | [Olana](https://open.spotify.com/artist/3VtwfpEFPFZNGZiQ1lXv7b) | [Skillful Man](https://open.spotify.com/album/2ToxPLuE0sLJrLqaKfF4nK) | 4:06 |
+| 16 | [Skillful Man](https://open.spotify.com/track/7seUpcaq0yMs8QeVbP3cOb) | [Olana](https://open.spotify.com/artist/5RSYUHJZOGckUL0J4w9kYy) | [Skillful Man](https://open.spotify.com/album/2ToxPLuE0sLJrLqaKfF4nK) | 4:06 |
 | 17 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
 | 18 | [BORING!](https://open.spotify.com/track/4FSJiTntNbIR04SyAgvCJS) | [Laces](https://open.spotify.com/artist/2OvUjjcJMGyNzBfdx2DRzr), [Grasps](https://open.spotify.com/artist/6L4fqVLdgeOOOpDR81rFgZ) | [BORING!](https://open.spotify.com/album/5cRf2NKxsknBkiKFvB4ZYh) | 6:02 |
 | 19 | [Through the Woods](https://open.spotify.com/track/3I8WH2ic7WjCk0miaHc1e3) | [Kaval](https://open.spotify.com/artist/4z9kBOGYrer7Os0BWnPoWF) | [Through the Woods](https://open.spotify.com/album/4aUwZ7fNqpwYGZf2DBRxSu) | 4:40 |

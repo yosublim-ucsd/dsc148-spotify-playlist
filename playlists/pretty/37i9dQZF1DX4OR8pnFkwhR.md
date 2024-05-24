@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: Bye\-Bye\-Handの方程式
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,784 likes - 70 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,793 likes - 70 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

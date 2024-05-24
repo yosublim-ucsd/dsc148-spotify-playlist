@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "Today's biggest Dance hits! Cover: Peggy Gou",
+  "description": "Today's biggest Dance hits! Cover: Ti\u00ebsto & Prophecy",
   "name": "Dance Generation",
   "tracks": [
     {
@@ -684,6 +684,24 @@
       "duration_ms": 178746,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3fA1ftCkI0rwc2fz09ae29"
+    },
+    {
+      "album": {
+        "name": "All My Ladies",
+        "url": "https://open.spotify.com/album/1tau35xhnc5kWidnkBRE8d"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153840,
+      "name": "All My Ladies",
+      "url": "https://open.spotify.com/track/4kocYmR9mLFdbFOjRwbIEn"
     },
     {
       "album": {
@@ -3634,7 +3652,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 139725,
       "name": "Drive ft. KIDDO",
       "url": "https://open.spotify.com/track/0fxSVlXdxb5aCzbVyGvx0D"
@@ -6583,6 +6601,32 @@
     },
     {
       "album": {
+        "name": "Like A G6 (with Naeleck)",
+        "url": "https://open.spotify.com/album/392CtK5ImBhTN40VMPry3Y"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "POLTERGST",
+          "url": "https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM"
+        },
+        {
+          "name": "Naeleck",
+          "url": "https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148751,
+      "name": "Like A G6 (with Naeleck)",
+      "url": "https://open.spotify.com/track/46Tjel8UJ2nR0uFgXkT9Y7"
+    },
+    {
+      "album": {
         "name": "Like It (feat. Reckz'Capo)",
         "url": "https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay"
       },
@@ -8193,6 +8237,28 @@
     },
     {
       "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/596QDlYgrp1C3l1NzSBW8A"
+      },
+      "artists": [
+        {
+          "name": "Teddy Cream",
+          "url": "https://open.spotify.com/artist/5piMnm6faQpIVYaFfaZSKf"
+        },
+        {
+          "name": "CLUBWRK",
+          "url": "https://open.spotify.com/artist/1SBbv5nJw69OqrklyYaaWg"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150620,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/6UORRBZMfhTpqQRQy9TBwP"
+    },
+    {
+      "album": {
         "name": "No Man's Land",
         "url": "https://open.spotify.com/album/1FgHLHfin6Vvv1WrMWm6L4"
       },
@@ -8266,7 +8332,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 180000,
       "name": "Not Exactly - Reb\u016bke Remix",
       "url": "https://open.spotify.com/track/0toCiiWUNHiWsfbshXY0TC"
@@ -11330,7 +11396,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 163809,
       "name": "Teka (with Peso Pluma)",
       "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"

@@ -4,7 +4,7 @@
 
 > Les hits de demain sont déjà ici\. Photo : Pierre Garnier
 
-332 songs - 16 hr 30 min
+333 songs - 16 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-05-09 |  |
 | [Never Look Back](https://open.spotify.com/track/3K3bZDkHev8R7Clcqs2u8M) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Never Look Back](https://open.spotify.com/album/4GVxVTIaQg7zEEQ2Fqsu0q) | 2:42 | 2023-07-27 | 2023-08-25 |
 | [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-05-02 |  |
+| [Nice to Meet You](https://open.spotify.com/track/7sxb5C2mE0l5xfSL9M2hxQ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Nice to Meet You](https://open.spotify.com/album/72DMNLy4QTiAK5hxjnV7GH) | 3:10 | 2024-05-23 |  |
 | [Nice to meet you \(feat\. Central Cee\)](https://open.spotify.com/track/1jLVSavLHTeEixX6CIxqQR) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Heaven knows](https://open.spotify.com/album/2pOEFqvfxp5uUQ8vQEmVA0) | 2:42 | 2023-11-16 | 2023-11-24 |
 | [No Angels](https://open.spotify.com/track/0rILJVRD7waDGOFzoyruI2) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [No Angels](https://open.spotify.com/album/5cGHWAoS3cGwU9eYTH3mSm) | 3:52 | 2023-07-27 | 2024-01-05 |
 | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/track/7rsF6JHMItNOu6qwupYA2a) | [Nissi](https://open.spotify.com/artist/4586oPyU8t6d4hGb1BPFTU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Nobody \(feat\. Fireboy DML\)](https://open.spotify.com/album/2QhVHAu7Jw3HLZNuEaoEgM) | 3:03 | 2023-09-28 | 2023-11-17 |
@@ -288,7 +289,7 @@
 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 | 2023-09-12 | 2023-12-15 |
 | [Sommet](https://open.spotify.com/track/471PmO82n752rs6DpZQ2fk) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Sommet](https://open.spotify.com/album/6VWhALAzgz7YTr8FUVPrVF) | 2:27 | 2024-05-09 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-27 | 2023-08-22 |
-| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-16 |  |
+| [SPIDER](https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [SPIDER](https://open.spotify.com/album/5stpXgOAVPkVA7WDPB4IZf) | 3:08 | 2024-05-16 | 2024-05-24 |
 | [Sprinter](https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Sprinter](https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg) | 3:49 | 2023-07-27 | 2023-08-22 |
 | [Standing Next to You](https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [GOLDEN](https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU) | 3:26 | 2023-11-02 | 2024-01-26 |
 | [Stay \(Never Leave\)](https://open.spotify.com/track/6zDitZRQadPCyaVl4u6OJy) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [SERA](https://open.spotify.com/artist/3Anj5rCWtYTgRvV7pdq6GE), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Stay \(Never Leave\)](https://open.spotify.com/album/3ShZxa7ntVznDhTLISXLY9) | 2:32 | 2023-11-16 | 2023-11-24 |

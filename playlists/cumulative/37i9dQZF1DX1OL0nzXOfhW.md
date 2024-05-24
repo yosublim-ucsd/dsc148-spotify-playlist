@@ -2,9 +2,9 @@
 
 ### [RADAR HK](https://open.spotify.com/playlist/37i9dQZF1DX1OL0nzXOfhW)
 
-> 2024 RADAR登場！持續發掘世一超新聲！Cover: Goochan
+> 2024 RADAR登場！持續發掘世一超新聲！Cover: Joya
 
-197 songs - 11 hr 21 min
+198 songs - 11 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Can't Stop](https://open.spotify.com/track/5zB6A7kjVAyobO5le32Rl0) | [Lewsz](https://open.spotify.com/artist/2ZMYwxzLbeJ8yXwZQNXypy) | [Can't Stop](https://open.spotify.com/album/5CUTEDVkIGRFEd3DR7dW0o) | 3:31 | 2023-04-13 | 2024-03-29 |
 | [Candy](https://open.spotify.com/track/1ITGuB4Tgap1WaDcbamsRI) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Candy](https://open.spotify.com/album/4ca6ff4Fm8ooLvsWr3lbbd) | 2:22 | 2023-04-13 | 2024-03-29 |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-03-28 |  |
+| [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 | 2024-05-23 |  |
 | [Count to Three](https://open.spotify.com/track/7GRKbr2Pb4B2bm4LC6NRb2) | [Nancy Kwai](https://open.spotify.com/artist/4HvRVZWV98NPY0IwqVJroy) | [Count to Three](https://open.spotify.com/album/57HV84AdSQXLWEdBYYkArT) | 2:55 | 2023-04-27 | 2024-03-29 |
 | [Cozy City](https://open.spotify.com/track/2BbjYvro6HGorIwGCoDcCw) | [Triple G ](https://open.spotify.com/artist/7bsSAU7uvQhgZTBZ4jtMLv) | [小王子](https://open.spotify.com/album/0dMrxzd1C8h1wITGmdLsWj) | 2:59 | 2022-05-26 | 2023-04-14 |
 | [Dancing Cus It's Raining](https://open.spotify.com/track/4yQT0SptGrIAfZbqtyWE9o) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR), [Jan Curious](https://open.spotify.com/artist/1DxU7yGnE1XPeLYzOHdKSy) | [Now You See Me](https://open.spotify.com/album/1g3wmF7jrRUX7UtMFrpi2J) | 3:14 | 2022-06-23 | 2022-10-06 |

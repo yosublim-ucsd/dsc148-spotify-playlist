@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Kids Return",
+  "description": "Les meilleurs morceaux alternatifs du moment. Photo : Cage The Elephant",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -50,6 +50,24 @@
       "duration_ms": 245812,
       "name": "103",
       "url": "https://open.spotify.com/track/1kqp5H7GloZvZovFxBoiwW"
+    },
+    {
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0HqhFh2YCt4vHip1D79M20"
+      },
+      "artists": [
+        {
+          "name": "Couch Sleepers",
+          "url": "https://open.spotify.com/artist/54VlMlovDgwy2Dod8XTOYw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160610,
+      "name": "21",
+      "url": "https://open.spotify.com/track/0FS3KPmkxlnFl0qzmc2t5V"
     },
     {
       "album": {
@@ -194,7 +212,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 232586,
       "name": "Balu",
       "url": "https://open.spotify.com/track/5zCxHFdFyn3bi9hA9EQ6u3"
@@ -284,7 +302,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 167312,
       "name": "Beautiful People (Stay High)",
       "url": "https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh"
@@ -302,7 +320,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 191700,
       "name": "Big Cat Tattoos",
       "url": "https://open.spotify.com/track/33KqCiKK7FhRJ3MDfbn1C2"
@@ -324,6 +342,24 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
+    },
+    {
+      "album": {
+        "name": "POSTINDUSTRIAL HOMETOWN BLUES",
+        "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
+      },
+      "artists": [
+        {
+          "name": "BIG SPECIAL",
+          "url": "https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177597,
+      "name": "BLACK COUNTRY GOTHIC",
+      "url": "https://open.spotify.com/track/4bdRkbM86QXBePsF6cswUV"
     },
     {
       "album": {
@@ -1082,7 +1118,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 171176,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/20dwwr5VsKtjOmPBSeIdxm"
@@ -1244,7 +1280,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 237466,
       "name": "Frog In Boiling Water",
       "url": "https://open.spotify.com/track/0JAxbxS5Hd2N7g8Sd01eq3"
@@ -1388,7 +1424,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 170340,
       "name": "Happy Customers",
       "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
@@ -2415,6 +2451,24 @@
     },
     {
       "album": {
+        "name": "Nothing To Do",
+        "url": "https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175091,
+      "name": "Nothing To Do",
+      "url": "https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4"
+    },
+    {
+      "album": {
         "name": "Nothing Works",
         "url": "https://open.spotify.com/album/4aEZMkKgAdkOAF91aNoePR"
       },
@@ -2914,7 +2968,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 208860,
       "name": "Silver Strings",
       "url": "https://open.spotify.com/track/4q3kmQlkbe0v4NfWElYeS2"
@@ -3210,6 +3264,24 @@
       "duration_ms": 226253,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/7HwP0lytsnQo4MKdqfVQt2"
+    },
+    {
+      "album": {
+        "name": "Permanent Pleasure",
+        "url": "https://open.spotify.com/album/0pWnkMrtwLUodyWJVHcdMF"
+      },
+      "artists": [
+        {
+          "name": "Joywave",
+          "url": "https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174973,
+      "name": "Swimming In The Glow",
+      "url": "https://open.spotify.com/track/48eM70y3zAE9zZDCCwuxNz"
     },
     {
       "album": {
@@ -3830,6 +3902,24 @@
       "duration_ms": 187653,
       "name": "Your Side of Town",
       "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
+    },
+    {
+      "album": {
+        "name": "Zombieland",
+        "url": "https://open.spotify.com/album/3y2aZQXBnAjAc94EhlbdJD"
+      },
+      "artists": [
+        {
+          "name": "Jake Bugg",
+          "url": "https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162932,
+      "name": "Zombieland",
+      "url": "https://open.spotify.com/track/0OyV9F4yAdZLaNzSO53kUI"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWUa8WMYIRY8Y"

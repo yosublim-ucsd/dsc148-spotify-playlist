@@ -1,6 +1,6 @@
 {
   "description": "The sound of Jazz from the nordics. Cover: Jan Garbarek",
-  "num_followers": 40874,
+  "num_followers": 40905,
   "original_name": "Nordic Jazz",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Opening",
-        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
-      },
-      "artists": [
-        {
-          "name": "Tord Gustavsen Trio",
-          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
-        }
-      ],
-      "duration_ms": 236520,
-      "name": "The Circle",
-      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Khmer",
         "url": "https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 301026,
       "name": "On Stream",
       "url": "https://open.spotify.com/track/6nqhMMxnXbb2kMuh2cNd2L"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Opening",
+        "url": "https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7"
+      },
+      "artists": [
+        {
+          "name": "Tord Gustavsen Trio",
+          "url": "https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a"
+        }
+      ],
+      "duration_ms": 236520,
+      "name": "The Circle",
+      "url": "https://open.spotify.com/track/2NRezjzOzV4gjiEL2pt6eW"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Solid Ether",
+        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 299640,
+      "name": "Kakonita",
+      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Dwell Time",
         "url": "https://open.spotify.com/album/2TaCZuo9cQnvRRv7yYanUc"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 152234,
       "name": "M\u00f3gr\u00e1",
       "url": "https://open.spotify.com/track/3EjBZOjGpr8YKicl6E5TI8"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Solid Ether",
-        "url": "https://open.spotify.com/album/5rbrFbZIHGQtGchq4LBH3R"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 299640,
-      "name": "Kakonita",
-      "url": "https://open.spotify.com/track/1SZZKYA2kKygq95TSfr3cn"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -511,6 +511,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        },
+        {
+          "name": "S\u00f8ren Bebe",
+          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
+        }
+      ],
+      "duration_ms": 178801,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Elise",
         "url": "https://open.spotify.com/album/4kCZMjIuzw9VNaVPgirs5d"
       },
@@ -523,22 +543,6 @@
       "duration_ms": 362680,
       "name": "Paa Hinside \u00d8rken",
       "url": "https://open.spotify.com/track/2vM22BUosPBjTT1jAIpmA5"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 307356,
-      "name": "Winx",
-      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -619,26 +623,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "\u00d8yne",
-        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
-      },
-      "artists": [
-        {
-          "name": "Mattia Vlad Morleo",
-          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
-        },
-        {
-          "name": "Daniel Herskedal",
-          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "\u00d8yne",
-      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "V\u00e5g",
         "url": "https://open.spotify.com/album/0GNHSK2tq55A09aeBqD29o"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 311450,
       "name": "V\u00e5g",
       "url": "https://open.spotify.com/track/2IxkVTHlGwA5AqHahdfrzV"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 307356,
+      "name": "Winx",
+      "url": "https://open.spotify.com/track/6wP9Z9As3rlSKwHnCfzEp7"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "\u00d8yne",
+        "url": "https://open.spotify.com/album/65XiTzSauL308WmdSrQfLS"
+      },
+      "artists": [
+        {
+          "name": "Mattia Vlad Morleo",
+          "url": "https://open.spotify.com/artist/2VBeBMU2ZBdmqnsBZ45CXE"
+        },
+        {
+          "name": "Daniel Herskedal",
+          "url": "https://open.spotify.com/artist/3zz8PxJE0tBfUqcZbf3SZS"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "\u00d8yne",
+      "url": "https://open.spotify.com/track/1D1r7hg9V2qpjo3bVR2Tcp"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "A Year From Easter",
         "url": "https://open.spotify.com/album/1OPLZN3JTriIxlGnPDGNX0"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 204800,
       "name": "Eliasong",
       "url": "https://open.spotify.com/track/3zsRUTrHvbJB8kU5KUBYgV"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Breathe",
-        "url": "https://open.spotify.com/album/6G0tb5j8InjHabcmKZ71NB"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        },
-        {
-          "name": "S\u00f8ren Bebe",
-          "url": "https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh"
-        }
-      ],
-      "duration_ms": 178801,
-      "name": "Breathe",
-      "url": "https://open.spotify.com/track/6HNqq2rRioDYe0BNih5xm8"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -967,6 +967,26 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Touch of Time",
+        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
+      },
+      "artists": [
+        {
+          "name": "Arve Henriksen",
+          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
+        },
+        {
+          "name": "Harmen Fraanje",
+          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
+        }
+      ],
+      "duration_ms": 526520,
+      "name": "Redream",
+      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Painting Music",
         "url": "https://open.spotify.com/album/0fmB8ha3cuP05cuk6nU6tZ"
       },
@@ -987,26 +1007,6 @@
       "duration_ms": 258161,
       "name": "Jeg gik mig ud en Sommerdag",
       "url": "https://open.spotify.com/track/6OHXcoZJlNDnRGBXRrDTHy"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
-        "name": "Touch of Time",
-        "url": "https://open.spotify.com/album/3Ywj9EXQW7OsgpP56SLpAa"
-      },
-      "artists": [
-        {
-          "name": "Arve Henriksen",
-          "url": "https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7"
-        },
-        {
-          "name": "Harmen Fraanje",
-          "url": "https://open.spotify.com/artist/4qCBi5dv3zyMRx3Ae98wOz"
-        }
-      ],
-      "duration_ms": 526520,
-      "name": "Redream",
-      "url": "https://open.spotify.com/track/443EcMPAGpPBVlN9BvzGQ0"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Kingdom of Coldness",
-        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
-      },
-      "artists": [
-        {
-          "name": "Bobo Stenson Trio",
-          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
-        }
-      ],
-      "duration_ms": 457853,
-      "name": "Kingdom of Coldness",
-      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Sanctus",
         "url": "https://open.spotify.com/album/4bnFbID19CQHZDXyr61Qr9"
       },
@@ -1487,22 +1471,18 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Dansere",
-        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
+        "name": "Kingdom of Coldness",
+        "url": "https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY"
       },
       "artists": [
         {
-          "name": "Jan Garbarek",
-          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
-        },
-        {
-          "name": "Bobo Stenson Quartet",
-          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+          "name": "Bobo Stenson Trio",
+          "url": "https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV"
         }
       ],
-      "duration_ms": 903733,
-      "name": "Dansere",
-      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
+      "duration_ms": 457853,
+      "name": "Kingdom of Coldness",
+      "url": "https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT"
     },
     {
       "added_at": "2024-03-20 14:54:30",
@@ -1531,6 +1511,42 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
+        "name": "Dansere",
+        "url": "https://open.spotify.com/album/6MUR1LTmrjc61OkGzLCGl5"
+      },
+      "artists": [
+        {
+          "name": "Jan Garbarek",
+          "url": "https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym"
+        },
+        {
+          "name": "Bobo Stenson Quartet",
+          "url": "https://open.spotify.com/artist/6ybMn3tDNAZOdal026IIBE"
+        }
+      ],
+      "duration_ms": 903733,
+      "name": "Dansere",
+      "url": "https://open.spotify.com/track/6gTklRlojDWnRaZWC5v6aw"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Salmesykkel",
+        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
+      },
+      "artists": [
+        {
+          "name": "Moskus",
+          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
+        }
+      ],
+      "duration_ms": 169639,
+      "name": "Bibelbeltet",
+      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
         "name": "Mira",
         "url": "https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM"
       },
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Salmesykkel",
-        "url": "https://open.spotify.com/album/3YffhrgdNcLooABYHzwDy4"
-      },
-      "artists": [
-        {
-          "name": "Moskus",
-          "url": "https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa"
-        }
-      ],
-      "duration_ms": 169639,
-      "name": "Bibelbeltet",
-      "url": "https://open.spotify.com/track/1BkzpUKhtWEX9ZDwoIg84J"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Kinder Call",
         "url": "https://open.spotify.com/album/45PmT2vYOCJkFsIbZHZm7z"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2024-03-20 14:54:30",
       "album": {
-        "name": "Point of View",
-        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
-      },
-      "artists": [
-        {
-          "name": "Kjetil Mulelid",
-          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
-        }
-      ],
-      "duration_ms": 249386,
-      "name": "Point of View",
-      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
-    },
-    {
-      "added_at": "2024-03-20 14:54:30",
-      "album": {
         "name": "Landkjenning",
         "url": "https://open.spotify.com/album/6CzBXM5G2oIYxx004wSohG"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 215552,
       "name": "Landkjenning",
       "url": "https://open.spotify.com/track/0rwKvhsCGby7GKkk3kDR3P"
+    },
+    {
+      "added_at": "2024-03-20 14:54:30",
+      "album": {
+        "name": "Point of View",
+        "url": "https://open.spotify.com/album/6buYfEBqnN3lIYZSBwHpxl"
+      },
+      "artists": [
+        {
+          "name": "Kjetil Mulelid",
+          "url": "https://open.spotify.com/artist/1RBwhYR07uefS25DqynAMy"
+        }
+      ],
+      "duration_ms": 249386,
+      "name": "Point of View",
+      "url": "https://open.spotify.com/track/0Y1hgpu3wBX3gfc1YKAMS9"
     },
     {
       "added_at": "2024-03-20 14:54:30",

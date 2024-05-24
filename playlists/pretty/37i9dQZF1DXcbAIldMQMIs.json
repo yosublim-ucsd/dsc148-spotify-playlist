@@ -1,6 +1,6 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 534031,
+  "num_followers": 534064,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
+        "name": "Cyclones and Hey Lover",
+        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 162560,
+      "name": "Hey Lover!",
+      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
         "name": "Falling for U",
         "url": "https://open.spotify.com/album/3PUmELve1Jt5EdFU6cv8Hb"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
-        "name": "Cyclones and Hey Lover",
-        "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
-      },
-      "artists": [
-        {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
-        }
-      ],
-      "duration_ms": 162560,
-      "name": "Hey Lover!",
-      "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Next Thing",
-        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
-      },
-      "artists": [
-        {
-          "name": "Frankie Cosmos",
-          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
-        }
-      ],
-      "duration_ms": 124021,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Cayendo (Side A - Acoustic)",
         "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 202200,
       "name": "Cayendo (Side A - Acoustic)",
       "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Next Thing",
+        "url": "https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1"
+      },
+      "artists": [
+        {
+          "name": "Frankie Cosmos",
+          "url": "https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW"
+        }
+      ],
+      "duration_ms": 124021,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Pleaser",
         "url": "https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 187895,
       "name": "Pleaser",
       "url": "https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Dirty Secrets",
-        "url": "https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 154070,
-      "name": "Dirty Secrets",
-      "url": "https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Lemon Boy",
         "url": "https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+        "name": "Dirty Secrets",
+        "url": "https://open.spotify.com/album/7J2iocHysqZJTCTUtrdTfa"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+      "duration_ms": 154070,
+      "name": "Dirty Secrets",
+      "url": "https://open.spotify.com/track/0X0V9wIUr47ZqbFqLfZqX5"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -831,6 +815,22 @@
       "duration_ms": 223638,
       "name": "If You Want To",
       "url": "https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "What Do You Think About the Car?",
-        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 221360,
-      "name": "Make Me Your Queen",
-      "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 220588,
       "name": "Was It Something I Said",
       "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "What Do You Think About the Car?",
+        "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 221360,
+      "name": "Make Me Your Queen",
+      "url": "https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3"
     },
     {
       "added_at": "2023-09-29 20:24:12",

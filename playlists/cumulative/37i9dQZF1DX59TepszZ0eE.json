@@ -889,6 +889,24 @@
     },
     {
       "album": {
+        "name": "Faithful",
+        "url": "https://open.spotify.com/album/1OozBkdbKJjxnwLTHh9KdD"
+      },
+      "artists": [
+        {
+          "name": "Bucie",
+          "url": "https://open.spotify.com/artist/7suaOI2AMM3ZqTa04oB8fG"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360021,
+      "name": "Faithful",
+      "url": "https://open.spotify.com/track/103rEdXIcaKjYy2Jr9rIos"
+    },
+    {
+      "album": {
         "name": "OF THE GOSPEL, HOUSE & AMAPIANO, Vol. 2",
         "url": "https://open.spotify.com/album/3qh253mvt34CR4zSRUdXko"
       },

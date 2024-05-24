@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 
 ### [This Is $uicideboy$](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15CHq8)
 
-> This is $uicideboy$\. The essential tracks, all in one playlist.
+> This is: $uicideboy$\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 575,104 likes - 50 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 575,323 likes - 50 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 9 | [Matte Black](https://open.spotify.com/track/0hPRWztAIbNkt6GcFcLiqF) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 3:58 |
 | 10 | [That Just Isn't Empirically Possible](https://open.spotify.com/track/3xQq3mpD6hunD2XG7FXHHu) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Stop Staring At the Shadows](https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4) | 2:03 |
 | 11 | [My Flaws Burn Through My Skin Like Demonic Flames from Hell](https://open.spotify.com/track/6QFQqqYye5lAcnhCALvxKJ) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear the Razor Guarding My Heel](https://open.spotify.com/album/5QvM8XR1GooXrA7TgIr6Ok) | 2:47 |
-| 12 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 |
-| 13 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
+| 12 | [Avalon](https://open.spotify.com/track/19n8izXThARSuQAXrOKNbO) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:20 |
+| 13 | [Runnin' Thru the 7th with My Woadies](https://open.spotify.com/track/1tm7c4V0kqLiN0XPVnoUcT) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY) | [$outh $ide $uicide](https://open.spotify.com/album/1p8YahLiju8skFYWBJTEOl) | 3:25 |
 | 14 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
 | 15 | [Kill Yourself \(Part IV\)](https://open.spotify.com/track/3LLYTletE6uiRZ0hgMSrCN) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Kill Yourself \(Part IV\)](https://open.spotify.com/album/2lWXXZ9VyzighDLU1Z4D0t) | 1:53 |
 | 16 | [New Chains, Same Shackles](https://open.spotify.com/track/1smeI4gqEuepGWxlSw3tnC) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [KILL YOURSELF Part XIII: The Atlantis Saga](https://open.spotify.com/album/1jDAnHgqCfYMNsRj63Dd7u) | 2:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO15CHq8.md) - [plain]
 | 49 | [$uicideboy$ Were Better In 2015](https://open.spotify.com/track/6LoaYlv0bC1TyctuADqNFh) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Sing Me a Lullaby, My Sweet Temptation](https://open.spotify.com/album/3elJRIffdqvypuxoDND2Q3) | 2:23 |
 | 50 | [Dead Batteries](https://open.spotify.com/track/00UDmkyejOcUApEqpiB90i) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [7th or St\. Tammany](https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4) | 2:23 |
 
-Snapshot ID: `ZkqSgAAAAAAJuGpwa6K4l/3f/rhT6S8x`
+Snapshot ID: `Zk01gAAAAACjaLjWJx4ujVe1iyZp8Uld`

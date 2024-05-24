@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kojo Blak",
+  "description": "The hottest hip-life and highlife bangers from Ghana right now.  Cover: Kelvyn Boy",
   "name": "Ghana Party",
   "tracks": [
     {
@@ -116,7 +116,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 198332,
       "name": "2 whiskey (feat. Medikal & Kweku Flick)",
       "url": "https://open.spotify.com/track/6Wt3avIFeHmEjEdL3C48WP"
@@ -138,7 +138,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188737,
       "name": "360",
       "url": "https://open.spotify.com/track/1cc0t6E1dXtbiCG36dORhP"
@@ -1361,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/2tbAwbxLXAxJPdGkPoXXCx"
+      },
+      "artists": [
+        {
+          "name": "AratheJay",
+          "url": "https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155789,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/6HLH0AbYxbGJ5qW5zEPMX7"
+    },
+    {
+      "album": {
         "name": "Young & Matured",
         "url": "https://open.spotify.com/album/7e4OZbvQBYDfCdbLHTIGbc"
       },
@@ -2391,6 +2409,32 @@
     },
     {
       "album": {
+        "name": "Favourite Story",
+        "url": "https://open.spotify.com/album/1UsBck38wVdc89TUPsMluC"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236906,
+      "name": "Favourite Story",
+      "url": "https://open.spotify.com/track/6J15TPJ9gqWlXoo19whxpV"
+    },
+    {
+      "album": {
         "name": "Fear Woman",
         "url": "https://open.spotify.com/album/5eX0CdlONNLvROVea1nH9y"
       },
@@ -2586,6 +2630,24 @@
       "duration_ms": 185362,
       "name": "First Sermon",
       "url": "https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3"
+    },
+    {
+      "album": {
+        "name": "Fly Away",
+        "url": "https://open.spotify.com/album/5xvOTBhe4gb5ffsthihrKJ"
+      },
+      "artists": [
+        {
+          "name": "Kelvyn Boy",
+          "url": "https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150545,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/4BaTfcuxdxQwTeqJjqcvRV"
     },
     {
       "album": {
@@ -3800,6 +3862,32 @@
       "duration_ms": 165949,
       "name": "Limit",
       "url": "https://open.spotify.com/track/2IMHlTEhKOKDm33U6fD7yB"
+    },
+    {
+      "album": {
+        "name": "Toopeezy",
+        "url": "https://open.spotify.com/album/0x4lI6G2ZOBjO3a1GkMFfF"
+      },
+      "artists": [
+        {
+          "name": "Quamina Mp",
+          "url": "https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw"
+        },
+        {
+          "name": "Kofi Mole",
+          "url": "https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac"
+        },
+        {
+          "name": "Kweku Smoke",
+          "url": "https://open.spotify.com/artist/7AP5AMBQvTzTBB7IUSVLzO"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194500,
+      "name": "Lit",
+      "url": "https://open.spotify.com/track/6pEWLO7rqNC2LgqHk2gbCY"
     },
     {
       "album": {
@@ -5580,7 +5668,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 141505,
       "name": "Ready",
       "url": "https://open.spotify.com/track/3DT98kqCAgabEvAbRJm5XE"
@@ -5660,7 +5748,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 154000,
       "name": "Roma",
       "url": "https://open.spotify.com/track/5HTcQgNskY36EEtdB4zMfr"

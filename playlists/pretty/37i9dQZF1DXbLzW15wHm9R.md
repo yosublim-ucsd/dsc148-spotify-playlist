@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLzW15wHm9R.md) - [plain]
 
 > Original and synced songs that will stay with you long after the credits roll...Cover: Bridgerton
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,593 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,604 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

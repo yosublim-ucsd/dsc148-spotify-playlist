@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Lily Rose
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,557 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,607 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 57 | [Wasting All These Tears](https://open.spotify.com/track/25zXRQGuwYZdIp88fVZOPC) | [Cassadee Pope](https://open.spotify.com/artist/7ahuvq1mbb4idwG1iJbSFG) | [Frame By Frame](https://open.spotify.com/album/7IoVJIpP7XtjMJkgYxJkrn) | 3:35 |
 | 58 | [Melt](https://open.spotify.com/track/1clurKfZZ1ScMCJIb6RUck) | [Shelby Darrall](https://open.spotify.com/artist/4244ev6lbmTuq9j5yBQTc6) | [Melt](https://open.spotify.com/album/2y0nOvxDP9sQ4fwUvUKM45) | 3:27 |
 | 59 | [Light On In The Kitchen](https://open.spotify.com/track/2GAqIzPU7v3kfvY4hZQ9jm) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Light On In The Kitchen](https://open.spotify.com/album/335hPIk2TDnJwANpw18P6G) | 3:32 |
-| 60 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
+| 60 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
 | 61 | [Stompin' Grounds](https://open.spotify.com/track/53vwWIEwfyoYtblcIngWIs) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [Stompin' Grounds](https://open.spotify.com/album/6ZrH2Rlec09MDpvAGjS3UN) | 3:19 |
-| 62 | [Who I Am](https://open.spotify.com/track/0rK4HCKzv2r1IXqKX3DKpq) | [Jessica Andrews](https://open.spotify.com/artist/5rNhVm2CnqiO5Lv4Dt2lck) | [Who I Am](https://open.spotify.com/album/2jv2pSKJiOhmmol92202Vy) | 4:15 |
+| 62 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 |
 | 63 | [Why Johnny](https://open.spotify.com/track/3yCcJIX6VbB1DKXrIsm0BE) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 4:01 |
 | 64 | [Lady Like](https://open.spotify.com/track/7c3Y6INQrmNXDAOquinyw4) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/6qon3hv0lhwK8o57PvVWZl) | 3:14 |
 | 65 | [justified](https://open.spotify.com/track/4wONXG4GqWSscEyZlx300W) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 3:00 |

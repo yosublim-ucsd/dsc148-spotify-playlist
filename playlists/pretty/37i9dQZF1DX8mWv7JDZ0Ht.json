@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: PRISCILLA, P\u00e9ricles",
-  "num_followers": 433441,
+  "num_followers": 433469,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Antes Que O Mundo Acabe",
+        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 198961,
+      "name": "Eu S\u00f3 Queria...",
+      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/3tWgDELRJCNsT4QHypCGXu"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 182757,
       "name": "Neste Contexto",
       "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Antes Que O Mundo Acabe",
-        "url": "https://open.spotify.com/album/7rAGzb5tmPjeJRJZULY1GD"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 198961,
-      "name": "Eu S\u00f3 Queria...",
-      "url": "https://open.spotify.com/track/6F9UyxHuKfvHOmfMkRDCdm"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Efeito Voc\u00ea",
+        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        }
+      ],
+      "duration_ms": 168064,
+      "name": "Efeito Voc\u00ea",
+      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Efeito Voc\u00ea",
-        "url": "https://open.spotify.com/album/4386XCDmsvAdchh9Z3LSXp"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 168064,
-      "name": "Efeito Voc\u00ea",
-      "url": "https://open.spotify.com/track/2q8bpUPDWeBA7tz6HO1ZtP"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -439,6 +439,26 @@
       "duration_ms": 219306,
       "name": "Pausa",
       "url": "https://open.spotify.com/track/4ZNQesxN8vNtOh5hL5qeWD"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Praia do Rosa",
+        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+      },
+      "artists": [
+        {
+          "name": "GUPE",
+          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
+        },
+        {
+          "name": "Nairo",
+          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
+        }
+      ],
+      "duration_ms": 155553,
+      "name": "Praia do Rosa",
+      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -527,22 +547,18 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Praia do Rosa",
-        "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
+        "name": "Se Me Ver",
+        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
       },
       "artists": [
         {
           "name": "GUPE",
           "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        },
-        {
-          "name": "Nairo",
-          "url": "https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa"
         }
       ],
-      "duration_ms": 155553,
-      "name": "Praia do Rosa",
-      "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
+      "duration_ms": 175018,
+      "name": "Se Me Ver",
+      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -639,22 +655,6 @@
       "duration_ms": 138688,
       "name": "Camomila",
       "url": "https://open.spotify.com/track/0Q2wA7LA1pHHEJo9o5gA7y"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Se Me Ver",
-        "url": "https://open.spotify.com/album/1hnmHjEYieDwvfIoBqmf8T"
-      },
-      "artists": [
-        {
-          "name": "GUPE",
-          "url": "https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix"
-        }
-      ],
-      "duration_ms": 175018,
-      "name": "Se Me Ver",
-      "url": "https://open.spotify.com/track/5VDpAikNgUbuSiv5dSCVkz"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Dan\u00e7ando na Beira",
-        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 163298,
-      "name": "Dan\u00e7ando na Beira",
-      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Vida Normal",
         "url": "https://open.spotify.com/album/4xWV5JdllY9gbjcaipW84Q"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 173804,
       "name": "Vida Normal",
       "url": "https://open.spotify.com/track/1Gj9edVFZmbHzlydlL8mM6"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Dan\u00e7ando na Beira",
+        "url": "https://open.spotify.com/album/1yeebqzzcH81XYUDAl44y8"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 163298,
+      "name": "Dan\u00e7ando na Beira",
+      "url": "https://open.spotify.com/track/1CJinr5iT6uvtlhfHlmPKb"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "Fim de Semana",
-        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
-      },
-      "artists": [
-        {
-          "name": "Tori",
-          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
-        }
-      ],
-      "duration_ms": 154603,
-      "name": "Fim de Semana",
-      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Existe Amor Aqui",
         "url": "https://open.spotify.com/album/1oiN0TvrXq2LYlOkKGtcET"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 199681,
       "name": "Sem Me Preocupar",
       "url": "https://open.spotify.com/track/4xoyLEqcy6eVq8orVRaPrl"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "Fim de Semana",
+        "url": "https://open.spotify.com/album/78JeRMyk5MO0h05lJd9tys"
+      },
+      "artists": [
+        {
+          "name": "Tori",
+          "url": "https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch"
+        }
+      ],
+      "duration_ms": 154603,
+      "name": "Fim de Semana",
+      "url": "https://open.spotify.com/track/3cUVNIsQNxVqUI01dM8ScZ"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -916,7 +916,7 @@
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
+          "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
@@ -979,26 +979,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "PLENA TER\u00c7A FEIRA",
-        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Coelho",
-          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
-        },
-        {
-          "name": "Julie Ramos",
-          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
-        }
-      ],
-      "duration_ms": 187982,
-      "name": "PLENA TER\u00c7A FEIRA",
-      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Quando C\u00ea Vem",
         "url": "https://open.spotify.com/album/6FfdfyjWxAlF3ctnKlgSOu"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 156620,
       "name": "Quando C\u00ea Vem",
       "url": "https://open.spotify.com/track/0JOZdLi59b2Azx1O86L4lI"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "PLENA TER\u00c7A FEIRA",
+        "url": "https://open.spotify.com/album/6NgRpkiKTHUb0tp2C9Gxg3"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Coelho",
+          "url": "https://open.spotify.com/artist/6DsLWHhRTF9iOzDJ1UCELx"
+        },
+        {
+          "name": "Julie Ramos",
+          "url": "https://open.spotify.com/artist/72MhucM5doKoAXE5GIApaV"
+        }
+      ],
+      "duration_ms": 187982,
+      "name": "PLENA TER\u00c7A FEIRA",
+      "url": "https://open.spotify.com/track/4yt9UtmoWZRHLRl5HN0g86"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -1092,7 +1092,7 @@
       },
       "artists": [
         {
-          "name": "Capim-Lim\u00e3o",
+          "name": "Capim Lim\u00e3o",
           "url": "https://open.spotify.com/artist/162x0BO4JNjBHr5qJXaD5P"
         }
       ],
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
+        "name": "Eu Sinto Muito",
+        "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Eu Sinto Muito",
+      "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
         "name": "Cad\u00ea Voc\u00ea",
         "url": "https://open.spotify.com/album/5ftuOK9rWkiFsNaILVtMzj"
       },
@@ -1211,18 +1227,34 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "V\u00e1rios Tipos de Amor",
-        "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
+        "name": "PERDURAR",
+        "url": "https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG"
       },
       "artists": [
         {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+          "name": "Marco Baptista",
+          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
         }
       ],
-      "duration_ms": 164594,
-      "name": "Tento Decifrar",
-      "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
+      "duration_ms": 147179,
+      "name": "A Gente Gosta Assim",
+      "url": "https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -1247,38 +1279,6 @@
     {
       "added_at": "2024-05-17 03:03:00",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "PERDURAR",
-        "url": "https://open.spotify.com/album/6HmSIFZzmRW7c8DYMJQ5BG"
-      },
-      "artists": [
-        {
-          "name": "Marco Baptista",
-          "url": "https://open.spotify.com/artist/4z72Rq6ZmZ4tIP1kY2CtmF"
-        }
-      ],
-      "duration_ms": 147179,
-      "name": "A Gente Gosta Assim",
-      "url": "https://open.spotify.com/track/1t3btOs8sA3X4u7FivAHhi"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
         "name": "Embeleza o Meu Dia",
         "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 172760,
       "name": "Embeleza o Meu Dia",
       "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+    },
+    {
+      "added_at": "2024-05-17 03:03:00",
+      "album": {
+        "name": "V\u00e1rios Tipos de Amor",
+        "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
+      },
+      "artists": [
+        {
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
+        }
+      ],
+      "duration_ms": 164594,
+      "name": "Tento Decifrar",
+      "url": "https://open.spotify.com/track/4IBvBQeK7s304u8nvlLOmV"
     },
     {
       "added_at": "2024-05-17 03:03:00",
@@ -1359,22 +1375,6 @@
       "duration_ms": 228631,
       "name": "Sem Saber Seu Nome",
       "url": "https://open.spotify.com/track/7DmmaG43Jq3rZUDR3bITqD"
-    },
-    {
-      "added_at": "2024-05-17 03:03:00",
-      "album": {
-        "name": "Eu Sinto Muito",
-        "url": "https://open.spotify.com/album/1dlUQFGqoBTZ5P2KO5ohgO"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Eu Sinto Muito",
-      "url": "https://open.spotify.com/track/5lgsS8jO4AVZnaM9j9IwgT"
     },
     {
       "added_at": "2024-05-17 03:03:00",

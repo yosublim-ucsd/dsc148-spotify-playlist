@@ -1091,6 +1091,24 @@
     },
     {
       "album": {
+        "name": "Not Alone (Live)",
+        "url": "https://open.spotify.com/album/5a5ZrRjl8v8kL6pJSbjfhF"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270810,
+      "name": "Not Alone - Live",
+      "url": "https://open.spotify.com/track/0Wr8M61fEfpvhJ9aZOtJ35"
+    },
+    {
+      "album": {
         "name": "Songs From Spirit Of Praise (Live)",
         "url": "https://open.spotify.com/album/48LYDfZnW8cRlX6kg789yK"
       },

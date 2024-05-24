@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- South Korea.
 
-1,436 songs - 3 day 7 hr 44 min
+1,437 songs - 3 day 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-28 | 2022-05-20 |
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-13 | 2022-06-17 |
 | [above the clouds](https://open.spotify.com/track/4rChXUoYp281MB2tPL4vMm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 4:18 | 2021-04-21 | 2021-04-23 |
+| [Accendio](https://open.spotify.com/track/0139mjI8ijLp4SYOGjYZUG) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [IVE SWITCH](https://open.spotify.com/album/5IEMUcisVV23gFbC471rTy) | 3:12 | 2024-05-23 |  |
 | [Advice](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Advice \- The 3rd Mini Album](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) | 3:11 | 2021-05-20 | 2021-06-02 |
 | [aenergy](https://open.spotify.com/track/1iNvVaWmlKJns2LNTXN39Q) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 2:27 | 2021-10-07 | 2021-10-16 |
 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/7ozvuHnA1zWzuTvReLChVL) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 4:09 | 2021-11-14 | 2021-11-16 |
@@ -581,7 +582,7 @@
 | [I Don't Understand But I Luv U](https://open.spotify.com/track/3acGHJqr9xU1cnCEfLX1Lx) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 10th Mini Album 'FML'](https://open.spotify.com/album/1JBzeeCJ3axQMVkqWbKh0I) | 3:29 | 2023-04-25 | 2023-04-29 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/0zRezEuKtaAXHcB4eruwi2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [I Don’t Think That I Like Her](https://open.spotify.com/album/5f7yRF519Ruz1yE9x97jID) | 3:08 | 2022-09-17 | 2022-10-09 |
 | [I Don’t Think That I Like Her](https://open.spotify.com/track/3iLBFgaQJ94iarMgzrTuWb) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:08 | 2022-10-09 | 2023-07-02 |
-| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-11 |  |
+| [I Had Some Help \(Feat\. Morgan Wallen\)](https://open.spotify.com/track/7221xIgOnuakPdLqT0F3nP) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I Had Some Help](https://open.spotify.com/album/1woYXxyyxTQJ0E0AhZE6mj) | 2:58 | 2024-05-11 | 2024-05-24 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-07 | 2021-12-19 |
 | [I Heard You’re Married \(feat\. Lil Wayne\)](https://open.spotify.com/track/5XbA7TAqsD0fj0dGBrbb0D) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 4:23 | 2022-01-08 | 2022-01-15 |
 | [I Like Me Better](https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:17 | 2024-02-29 | 2024-03-04 |

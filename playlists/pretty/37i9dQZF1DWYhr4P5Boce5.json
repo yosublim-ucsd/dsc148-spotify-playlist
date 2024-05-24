@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, love.",
-  "num_followers": 202772,
+  "num_followers": 202786,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Here for You",
-        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
-      },
-      "artists": [
-        {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
-        }
-      ],
-      "duration_ms": 152600,
-      "name": "Here for You",
-      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Your Love",
         "url": "https://open.spotify.com/album/7mtDmT2RFhPb8DP9qNUiNU"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 181500,
       "name": "Your Love",
       "url": "https://open.spotify.com/track/6a8G6scqUjGIrRCArFRNYP"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "Here for You",
+        "url": "https://open.spotify.com/album/460gb1Qn7I9OwESRjiXrHl"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 152600,
+      "name": "Here for You",
+      "url": "https://open.spotify.com/track/04D4ANfSUYYOZQqYjwt2ae"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Carried",
-        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
-      },
-      "artists": [
-        {
-          "name": "Ethan C. Davis",
-          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
-        },
-        {
-          "name": "Isla Vista Worship",
-          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
-        }
-      ],
-      "duration_ms": 137223,
-      "name": "Carried",
-      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "South Florida (Remix)",
         "url": "https://open.spotify.com/album/74wMNGzBXYobjUUhZIvg0E"
       },
@@ -1551,6 +1531,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Only Time Will Tell",
+        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+      },
+      "artists": [
+        {
+          "name": "JJ Heller",
+          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Me + You = Pi",
         "url": "https://open.spotify.com/album/1hXEZYIQQBGCdx9j0aDr6p"
       },
@@ -1567,18 +1563,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Only Time Will Tell",
-        "url": "https://open.spotify.com/album/2acvVPamPgjj5OV08LTHtG"
+        "name": "Carried",
+        "url": "https://open.spotify.com/album/7FF2D1VZ0HzV0MdXvphF1v"
       },
       "artists": [
         {
-          "name": "JJ Heller",
-          "url": "https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh"
+          "name": "Ethan C. Davis",
+          "url": "https://open.spotify.com/artist/34vEpj4qI07ROyQSkw41II"
+        },
+        {
+          "name": "Isla Vista Worship",
+          "url": "https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/6CsOh6j4ETwA9a5QbeueFf"
+      "duration_ms": 137223,
+      "name": "Carried",
+      "url": "https://open.spotify.com/track/71lnfcnHCy52jc4Fk3nBzd"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1687,18 +1687,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "Let Me Be There",
-        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+        "name": "Till I Found You",
+        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
       },
       "artists": [
         {
-          "name": "Gaither Vocal Band",
-          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+          "name": "Becca Bradley",
+          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
+        },
+        {
+          "name": "The Psalm Room",
+          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
         }
       ],
-      "duration_ms": 185095,
-      "name": "Laughter In The Rain",
-      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+      "duration_ms": 206999,
+      "name": "Till I Found You",
+      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -1719,6 +1723,22 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
+        "name": "Let Me Be There",
+        "url": "https://open.spotify.com/album/6YY0XIec51PuwdYo1Gp5tW"
+      },
+      "artists": [
+        {
+          "name": "Gaither Vocal Band",
+          "url": "https://open.spotify.com/artist/0pjLiK5qb4Zr0PWRNkdd2o"
+        }
+      ],
+      "duration_ms": 185095,
+      "name": "Laughter In The Rain",
+      "url": "https://open.spotify.com/track/4iDZKkjeZQEWFigMdMSZMa"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
         "name": "Love Like This",
         "url": "https://open.spotify.com/album/6CAihXsGyMgAdZHAAfseM0"
       },
@@ -1731,26 +1751,6 @@
       "duration_ms": 200133,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/6r1IIwzxt1m8Ks8Me6V2Av"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
-        "name": "Till I Found You",
-        "url": "https://open.spotify.com/album/5L2f38aOPJFTaIRroRdIou"
-      },
-      "artists": [
-        {
-          "name": "Becca Bradley",
-          "url": "https://open.spotify.com/artist/0qPGusro9QlIqKGlgywzRU"
-        },
-        {
-          "name": "The Psalm Room",
-          "url": "https://open.spotify.com/artist/2oPhfJuwBg41qIyMzzSsaW"
-        }
-      ],
-      "duration_ms": 206999,
-      "name": "Till I Found You",
-      "url": "https://open.spotify.com/track/2OIKoFzOuVX6ORP65DSeV4"
     },
     {
       "added_at": "2024-02-05 17:58:02",
@@ -2279,22 +2279,6 @@
     {
       "added_at": "2024-02-05 17:58:02",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/7ptnSU6WA3tFnVe7VG87dh"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 158295,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4MxehknPShDdVgRciNtJTp"
-    },
-    {
-      "added_at": "2024-02-05 17:58:02",
-      "album": {
         "name": "Fall In Love",
         "url": "https://open.spotify.com/album/6l3uQKJtgCEkZZkbOwS167"
       },
@@ -2331,6 +2315,22 @@
       "duration_ms": 109113,
       "name": "Do Something",
       "url": "https://open.spotify.com/track/0pHdJcXOqFXIJEU2LMM0BD"
+    },
+    {
+      "added_at": "2024-02-05 17:58:02",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/7ptnSU6WA3tFnVe7VG87dh"
+      },
+      "artists": [
+        {
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
+        }
+      ],
+      "duration_ms": 158295,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4MxehknPShDdVgRciNtJTp"
     },
     {
       "added_at": "2024-02-05 17:58:02",

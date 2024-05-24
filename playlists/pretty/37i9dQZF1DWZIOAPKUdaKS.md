@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIOAPKUdaKS.md) - [plain]
 
 > Soft piano to help you focus, work or study.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,686 likes - 242 songs - 10 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,715 likes - 242 songs - 10 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

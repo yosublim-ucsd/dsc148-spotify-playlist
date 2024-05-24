@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-16",
-  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: Ak4:20.",
+  "description": "\u00a1Escucha los \u00e9xitos de hoy! \nFoto: FloyyMenor.",
   "name": "\u00c9xitos Chile",
   "tracks": [
     {
@@ -388,6 +388,28 @@
       "duration_ms": 189216,
       "name": "Anti Rana",
       "url": "https://open.spotify.com/track/1Zjdt705TM2Hr26YDKgnyc"
+    },
+    {
+      "album": {
+        "name": "APAGA EL CEL",
+        "url": "https://open.spotify.com/album/3tgMwB1zSEt1CqCdJ3zytF"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lewis Somes",
+          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184806,
+      "name": "APAGA EL CEL",
+      "url": "https://open.spotify.com/track/4yyCGGdTVaYG17vhsrUPoL"
     },
     {
       "album": {
@@ -1022,6 +1044,24 @@
       "duration_ms": 204003,
       "name": "Chance",
       "url": "https://open.spotify.com/track/2SJZdZ5DLtlRosJ2xHJJJa"
+    },
+    {
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
       "album": {
@@ -2072,6 +2112,24 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "album": {
+        "name": "House of Pleasure",
+        "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192120,
+      "name": "Es un Secreto",
+      "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
     },
     {
       "album": {
@@ -3157,6 +3215,36 @@
     },
     {
       "album": {
+        "name": "Los Sentimientos De un Robot",
+        "url": "https://open.spotify.com/album/0hAboHqhKknkyCwULjp4tK"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        },
+        {
+          "name": "Ovyze",
+          "url": "https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263183,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/5wslflNJXn11yXV5qtAmUh"
+    },
+    {
+      "album": {
         "name": "LA TERAPIA",
         "url": "https://open.spotify.com/album/6wK85B0J0PvZ8qybiQ8dZa"
       },
@@ -3326,7 +3414,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
@@ -4906,7 +4994,7 @@
       ],
       "date_added": "2023-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
@@ -5350,7 +5438,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -6198,7 +6286,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 158728,
       "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
       "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"

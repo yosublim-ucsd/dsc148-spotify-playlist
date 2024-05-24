@@ -421,6 +421,28 @@
     },
     {
       "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/6ToeKKnL3eHDjtkyFxtsVF"
+      },
+      "artists": [
+        {
+          "name": "\u00d8SAS \u00d8HM",
+          "url": "https://open.spotify.com/artist/3hnjTkOixhsMrlPlPcrdF2"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230690,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2vzUVBdfbzFtfIqhgM0tDA"
+    },
+    {
+      "album": {
         "name": "Face In The Crowd",
         "url": "https://open.spotify.com/album/6IRQx9Mm5W4BJdKBG6m7Nh"
       },

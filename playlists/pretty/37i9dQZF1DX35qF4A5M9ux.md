@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 
 > ¡Éxitos salseros para prenderle fuego a la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,786 likes - 100 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,943 likes - 100 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 5 | [La Noche Mas Linda](https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9) | [Adalberto Santiago](https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd) | [Sex Symbol](https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst) | 5:43 |
 | 6 | [Tu Cariñito](https://open.spotify.com/track/5uRd1tmUAvfFGSPR5266Xp) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Men in Salsa](https://open.spotify.com/album/1yyEE7SQcJDHfFU8LtYfx4) | 4:11 |
 | 7 | [Que Locura Enamorarme De Ti](https://open.spotify.com/track/1TMxv8sfUhU55AC6Ul1PU5) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 5:08 |
-| 8 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
-| 9 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 8 | [Gotas De Lluvia](https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [20th Anniversary](https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW) | 5:54 |
+| 9 | [Amores Como el Nuestro](https://open.spotify.com/track/1RpCXjlxFGS6LfPOvqSJ7M) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 5:01 |
 | 10 | [Idilio](https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Mis Favoritas](https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c) | 5:08 |
 | 11 | [Y Hubo Alguien](https://open.spotify.com/track/4lmOvO7Nc0Ppdz2hk8jpHj) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Contra La Corriente](https://open.spotify.com/album/6LIqj7VIJB3K54NBycFxSe) | 6:28 |
 | 12 | [Anhelo](https://open.spotify.com/track/68runhwF0SdEN1DFSadXWk) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Reclamando Nuestro Espacio](https://open.spotify.com/album/22oTpQbBrBfkrqMsumH3OX) | 4:08 |
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35qF4A5M9ux.md) - [plain]
 | 22 | [Cuenta Conmigo](https://open.spotify.com/track/1F1VPI3wUKEKA1DPx5Y9Fy) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [No Me Olvidaras](https://open.spotify.com/album/3nPnMxM4svBJpKF2UwtnRD) | 3:50 |
 | 23 | [Sobredosis](https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S), [Óscar Quesada](https://open.spotify.com/artist/54U4dKVzcGNdXoi0wncIE9) | [Sobredosis de Amor y Salsa](https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb) | 4:09 |
 | 24 | [Que Alguien Me Diga](https://open.spotify.com/track/7JElWLgpQ7lxN1JNIYwuVu) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Expresion](https://open.spotify.com/album/4E3uQMm1IyNndidSzcCjg3) | 4:50 |
-| 25 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
+| 25 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
 | 26 | [Hazme Olvidarla](https://open.spotify.com/track/752aNrC43L3ZCIuPoK8YTK) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [Grandes Exitos Vol\. 2](https://open.spotify.com/album/6F2D1YfaSnPpH5Lf2bbUoJ) | 5:37 |
-| 27 | [Ojos Chinos](https://open.spotify.com/track/4zOZQdgs7nSjMkqB7keSM5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [20th Anniversary](https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26) | 4:21 |
+| 27 | [La Cita](https://open.spotify.com/track/54eCgeI2qOXjAbKwnZ2UK0) | [Galy Galiano](https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT) | [Solo Salsa](https://open.spotify.com/album/0demEi0ZeG1Ix9Hi37DS0O) | 4:50 |
 | 28 | [Caricias Prohibidas](https://open.spotify.com/track/0sljB20lnodRcHT2il1m3J) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/4xyafxVu1q9xRQ5qtMlBkb) | 5:21 |
 | 29 | [Gitana](https://open.spotify.com/track/4VTb5wB46sZDsfL8XgroGt) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Tiempo pa' Matar](https://open.spotify.com/album/12fkmxSR5zWnxJqCyxDIy5) | 6:54 |
 | 30 | [Busca Por Dentro](https://open.spotify.com/track/2uJyG7lhmZ8bFrbVVlc6AH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:54 |

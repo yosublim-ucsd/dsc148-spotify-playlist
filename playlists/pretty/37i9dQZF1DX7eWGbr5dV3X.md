@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,776 likes - 45 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,779 likes - 45 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 35 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 | 36 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 |
 | 37 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
-| 38 | [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 |
-| 39 | [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 |
-| 40 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 |
-| 41 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 |
+| 38 | [chance](https://open.spotify.com/track/6I1Q5mSAvXveekghOaTUoR) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Chance](https://open.spotify.com/album/5asOQyea3S0k6bgt2nTK9Y) | 3:19 |
+| 39 | [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 |
+| 40 | [Kaitlin](https://open.spotify.com/track/2hIWxmZOcLmn4zYwLRaBYC) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Kaitlin](https://open.spotify.com/album/2ccdUnXqoL64PqdCi7AdjT) | 4:23 |
+| 41 | [ok on your own \(feat\. Carly Rae Jepsen\)](https://open.spotify.com/track/36GBFPY75lJpxk7GugxhL7) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [ok on your own](https://open.spotify.com/album/2UUaWZK2WP9xhzNb0kd8rK) | 3:28 |
 | 42 | [Good Advice](https://open.spotify.com/track/4JVPw2DvZp4faUTHjfa4PM) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Good Advice](https://open.spotify.com/album/4azZB6gjS66sHkFaGx7RAy) | 2:44 |
 | 43 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
 | 44 | [I'm Not Afraid](https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd) | 3:41 |

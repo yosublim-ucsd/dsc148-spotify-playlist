@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 
 > Life sucks...i need some rock!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,622 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,620 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,15 +63,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 53 | [Revelations](https://open.spotify.com/track/22wnEMAQaNrbot1dwmeucH) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Revelations](https://open.spotify.com/album/6Ys6uRTMti54CH8VEo2xEt) | 4:12 |
 | 54 | ["45"](https://open.spotify.com/track/5LQN7c99Q8gvmh6xJcTZgj) | [The Gaslight Anthem](https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo) | [Handwritten \(Deluxe Version\)](https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY) | 3:27 |
 | 55 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
-| 56 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
-| 57 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 |
+| 56 | [Oh No!!!](https://open.spotify.com/track/1hHn2SG7j8Ux61wWiUcXPq) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Oh No!!!](https://open.spotify.com/album/4tZXu9mrH5lukHf9ujbSUp) | 3:35 |
+| 57 | [Emotion Sickness](https://open.spotify.com/track/0qhGOjVl3uY2N6CAafVmCa) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Emotion Sickness](https://open.spotify.com/album/3dTSDhT6cUg4YxQTMRgf6S) | 4:31 |
 | 58 | [But Here We Are](https://open.spotify.com/track/5s18NymFEHOtiUMfVr6E3H) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 4:43 |
 | 59 | [I Ran \(So Far Away\)](https://open.spotify.com/track/3ey4YvqYyU7a44LCPUgLzx) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Drunk Enough To Dance](https://open.spotify.com/album/2safYwJ4j0WKLcQUwEBQEi) | 2:34 |
 | 60 | [Head Up](https://open.spotify.com/track/0Di4xlEas5KZ4pF52Vb2tG) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Head Up](https://open.spotify.com/album/6NaV5Skx0kHFSzUSmFsDtc) | 2:49 |
 | 61 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
 | 62 | [Next To Nothing](https://open.spotify.com/track/4kyCTcAbtt78Q2LC5ASSED) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Ours Is Chrome](https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE) | 4:04 |
-| 63 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
-| 64 | [Seventeen](https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG) | [Ally Nicholas](https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX) | [Seventeen](https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT) | 2:30 |
+| 63 | [Seventeen](https://open.spotify.com/track/66nHiuTgSTKCwNxWSwYNLG) | [Ally Nicholas](https://open.spotify.com/artist/3F2at4eIx4GXByVo0hGJaX) | [Seventeen](https://open.spotify.com/album/48xEEpRoIOOex883iHkGhT) | 2:30 |
+| 64 | [Avon](https://open.spotify.com/track/5xWSuhvOJUaO3zrXYxsSAS) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 3:25 |
 | 65 | [Times Like These](https://open.spotify.com/track/74EiM8EFm5saFo7Tgrdg3r) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Times Like These](https://open.spotify.com/album/6Z5yJdtzpyuZoZ6Pv9batS) | 3:29 |
 | 66 | [Who Needs Friends](https://open.spotify.com/track/7AXoSHtReIvoJPi5XKXecl) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 3:10 |
 | 67 | [Ce n'est Rien](https://open.spotify.com/track/6KeX6s6Q2FzInw2qvnqyOh) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic \(The Complete Edition\)](https://open.spotify.com/album/3hDxbjNyiWDhOFBXSThxVF) | 3:00 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVO64ma1pNY.md) - [plain]
 | 83 | [Learn to Hate](https://open.spotify.com/track/0HLrgX6j6ubJ4wh0kzVVwA) | [Silverchair](https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1) | [Freak Show](https://open.spotify.com/album/511p6iaCuK8Sr0BYdpcfkq) | 4:18 |
 | 84 | [Cry Wolf](https://open.spotify.com/track/2d1HZ8HtdvqI5oqt7gpnB8) | [Sundazer](https://open.spotify.com/artist/0As6xQo66nhBhaXqOftXiJ) | [Cry Wolf](https://open.spotify.com/album/2mSsjlndP7hegCkRi8udPm) | 4:24 |
 | 85 | [Dying To Believe](https://open.spotify.com/track/4AsFzsLJK8PIw3q8btZjCy) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Dying To Believe](https://open.spotify.com/album/3SDfbxgSuFhGUyGlKybsZx) | 3:01 |
-| 86 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
-| 87 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 |
-| 88 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
+| 86 | [Buddha For Mary](https://open.spotify.com/track/0PBW0dslhDROHvWlkYxKLq) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 5:45 |
+| 87 | [Fortress](https://open.spotify.com/track/2yQiSbPAwHXCFOoSGkLCzA) | [Modern Color](https://open.spotify.com/artist/6bayHl2VHbIseMg1jby37l) | [Fortress](https://open.spotify.com/album/0qnxV6pF12u35kEVqlujBH) | 3:01 |
+| 88 | [Engage](https://open.spotify.com/track/4QtSh92l7h3THw1yZcpMjr) | [Rain Check](https://open.spotify.com/artist/7i7xFAtYaCxJTAejGDQYSj) | [Engage](https://open.spotify.com/album/4jfEoGpdTLAlWXvRP6Vr7f) | 3:06 |
 | 89 | [Someone's Gonna Die Tonight](https://open.spotify.com/track/6ZX57tcBhxGCn773rS5nTl) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Someone's Gonna Die Tonight](https://open.spotify.com/album/16Y8chk55eDwfyLU9j1cpf) | 3:22 |
 | 90 | [Sick Ride](https://open.spotify.com/track/1nfkZ7p5iG7WsGD3ZWnKny) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Sick Ride](https://open.spotify.com/album/5BypS8hiBqXS9pPmzu7LVx) | 1:37 |
 | 91 | [Red Button](https://open.spotify.com/track/6VMJxZCFot154zVGSbATZG) | [Dea Matrona](https://open.spotify.com/artist/2mjBLM7k51GwUPhN1miEHY) | [Red Button](https://open.spotify.com/album/2suM9XsrtQEpuJtGzlnqih) | 2:53 |

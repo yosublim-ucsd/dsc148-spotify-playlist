@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07RJCJCOYpi.md) - [plain]
 
 > The wave of Latin Electronic music\. Cover: Peso Pluma & DJ Snake
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,952,693 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,952,600 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

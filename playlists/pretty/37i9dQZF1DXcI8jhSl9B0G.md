@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,228 likes - 60 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,231 likes - 60 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 26 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
 | 27 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 28 | [Where'd You Go](https://open.spotify.com/track/7CJRMDgbPB02eBBpKUD7D0) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Where'd You Go](https://open.spotify.com/album/0uPrxaVmWUXacWJ5M9bssq) | 3:39 |
-| 29 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
+| 29 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
 | 30 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
-| 31 | [Feel Like Clarity](https://open.spotify.com/track/016dLlAVQIkvND7FPAiitb) | [Gaudion](https://open.spotify.com/artist/1l0TemHJ4m9K2hhuZC9fYI) | [Feel Like Clarity](https://open.spotify.com/album/5Eb9IjtZ2mTqg7yX6vh8Sk) | 3:08 |
+| 31 | [Kick](https://open.spotify.com/track/7eVIOpeiasbMMUY4xw43YZ) | [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Kick](https://open.spotify.com/album/1erxAMlRaukA3PV0tEapma) | 3:27 |
 | 32 | [Liquid Love](https://open.spotify.com/track/20f37PJbRwppnrX861JwDF) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:11 |
 | 33 | [Every Side Of You](https://open.spotify.com/track/4rIXuE4ramqCrnoxBQF9Yb) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/1JDD38K8LBQbCmVw0pZTIK) | 3:24 |
 | 34 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 40 | [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 |
 | 41 | [Hold You](https://open.spotify.com/track/7E0RRIV0kb6ijUFaoKzfSf) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Hold You Tapes](https://open.spotify.com/album/2l2ksIRybv0BveIAdmFaJQ) | 3:46 |
 | 42 | [Slow Down](https://open.spotify.com/track/3Tjkpr0qy6oi1GP8kjQNDH) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Slow Down](https://open.spotify.com/album/4W0eSdwEKYKRZH99zoeSSA) | 3:08 |
-| 43 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
-| 44 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
+| 43 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
+| 44 | [My Boy](https://open.spotify.com/track/003DrjnoOIXeuAfHNA0ZcJ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/0nxaCYHCyvBlYZ3nRdH3MU) | 2:43 |
 | 45 | [Take Me Home \(feat\. Nadia Reid\)](https://open.spotify.com/track/4DNyKoJBdTpLnA3ryWL7Qh) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6hrJk6bOTnQ6dbD7WKcVoq) | 4:54 |
 | 46 | [Oh My Girl](https://open.spotify.com/track/4I9m841IBnWopBL5DA1Z6z) | [Freight Train Foxes](https://open.spotify.com/artist/2kX9CiUl1AAvmXGU3lFHDZ) | [Oh My Girl](https://open.spotify.com/album/0knw7jhAOQjxnO1NFUjPAu) | 2:48 |
 | 47 | [Home](https://open.spotify.com/track/3jLSMjgrvUXqohD1lPHELt) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Home](https://open.spotify.com/album/2sX4r8NdgrNtHGT25Q82OZ) | 4:12 |

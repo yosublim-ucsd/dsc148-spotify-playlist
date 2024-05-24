@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "it's a generation \u26d3 ft. Huddy",
+  "description": "it's a generation \u26d3 ft. twenty one pilots ",
   "name": "The Locker",
   "tracks": [
     {
@@ -5956,7 +5956,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/3tNMdL4qjzNHfo7rlVMESK"
@@ -8825,6 +8825,24 @@
     },
     {
       "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/2CLjOzu5DQXFo0U0jGPWcA"
+      },
+      "artists": [
+        {
+          "name": "Hannah Grae",
+          "url": "https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212706,
+      "name": "New Temptation",
+      "url": "https://open.spotify.com/track/4zXFQsuowowW7FZGWTP0VO"
+    },
+    {
+      "album": {
         "name": "Next Ex",
         "url": "https://open.spotify.com/album/5pHz874yawnTG7hK0bgHWO"
       },
@@ -10174,6 +10192,24 @@
       "duration_ms": 167105,
       "name": "Reasons To Live",
       "url": "https://open.spotify.com/track/3aBrBN6oAOGTLAS8taoNu8"
+    },
+    {
+      "album": {
+        "name": "Recipe For Disaster",
+        "url": "https://open.spotify.com/album/1liqqWx9tt0WutjfuZXR4v"
+      },
+      "artists": [
+        {
+          "name": "Honey Revenge",
+          "url": "https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165971,
+      "name": "Recipe For Disaster",
+      "url": "https://open.spotify.com/track/4S3CGPuEmleAmk36HLa5Lj"
     },
     {
       "album": {
@@ -14188,7 +14224,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 154142,
       "name": "Yoke",
       "url": "https://open.spotify.com/track/6AUifRe9r44yBbsF2SeuqK"

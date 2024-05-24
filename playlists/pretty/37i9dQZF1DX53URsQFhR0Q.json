@@ -1,6 +1,6 @@
 {
   "description": "Hit rewind on these classic Ghanaian gospel songs.",
-  "num_followers": 6492,
+  "num_followers": 6496,
   "original_name": "Ghana Gospel Classics",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Adam Nana",
-        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
-      },
-      "artists": [
-        {
-          "name": "Joyce Blessing",
-          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Adam Nana",
-      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "My Vision",
         "url": "https://open.spotify.com/album/3M2KpSQEs5CGmnAx4X5lcK"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 331990,
       "name": "Metease yi",
       "url": "https://open.spotify.com/track/3sqXQoSb19w97o2mTkeYJ3"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Adam Nana",
+        "url": "https://open.spotify.com/album/0BjeF6EHMtr9lLzicT1kVH"
+      },
+      "artists": [
+        {
+          "name": "Joyce Blessing",
+          "url": "https://open.spotify.com/artist/4ilNroq4d7QN2djHi3IVZI"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Adam Nana",
+      "url": "https://open.spotify.com/track/3HL6eViBoq5YO8Gpy4VSUc"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -267,18 +267,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Yesu Do",
-        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
+        "name": "Onyame Boafuo",
+        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
       },
       "artists": [
         {
-          "name": "Noble Nketsiah",
-          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
         }
       ],
-      "duration_ms": 350328,
-      "name": "Yesu Do",
-      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
+      "duration_ms": 316055,
+      "name": "Nipa",
+      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Onyame Boafuo",
-        "url": "https://open.spotify.com/album/3A9h6NBLzC7335Gfj26VXg"
+        "name": "Yesu Do",
+        "url": "https://open.spotify.com/album/2zGL04iYPYg8nKkGe4Mk8k"
       },
       "artists": [
         {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+          "name": "Noble Nketsiah",
+          "url": "https://open.spotify.com/artist/2WecbwlimhoePvOZR06VQd"
         }
       ],
-      "duration_ms": 316055,
-      "name": "Nipa",
-      "url": "https://open.spotify.com/track/0XJE7VhpUDo9i1bVi94Kgt"
+      "duration_ms": 350328,
+      "name": "Yesu Do",
+      "url": "https://open.spotify.com/track/0sfKnmCHt4H48vqNyho6Jn"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Aseda",
-        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
-      },
-      "artists": [
-        {
-          "name": "Daughters of Glorious Jesus",
-          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
-        }
-      ],
-      "duration_ms": 527640,
-      "name": "Yesu Mo",
-      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Akristofoo Adooso",
         "url": "https://open.spotify.com/album/5S2DznYRyX8LzAimnvCNCw"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 442409,
       "name": "Akristofoo Adooso",
       "url": "https://open.spotify.com/track/7E889Da9t6o7vx8HdaDryH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Aseda",
+        "url": "https://open.spotify.com/album/0FrTLACieJkDLhCqmzJxLJ"
+      },
+      "artists": [
+        {
+          "name": "Daughters of Glorious Jesus",
+          "url": "https://open.spotify.com/artist/4R38kiNoFuhBbrJX7oOMwy"
+        }
+      ],
+      "duration_ms": 527640,
+      "name": "Yesu Mo",
+      "url": "https://open.spotify.com/track/50PVmLYrTRIzAk7J1gxxJb"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Onyame Wo Ho",
-        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
-      },
-      "artists": [
-        {
-          "name": "Esther Smith",
-          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
-        }
-      ],
-      "duration_ms": 302628,
-      "name": "Me Da Wase",
-      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "I Am Noble",
         "url": "https://open.spotify.com/album/6DRvrYraGgKanmBJIfqwVF"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 244297,
       "name": "Ayeyi",
       "url": "https://open.spotify.com/track/6EfsJGWyEb7ja8zInmtRNY"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Onyame Wo Ho",
+        "url": "https://open.spotify.com/album/2DPjutXnhem2N3yTQfnFMo"
+      },
+      "artists": [
+        {
+          "name": "Esther Smith",
+          "url": "https://open.spotify.com/artist/3t3GGsUT1tS3BK1uohGLB8"
+        }
+      ],
+      "duration_ms": 302628,
+      "name": "Me Da Wase",
+      "url": "https://open.spotify.com/track/0GWEgzFgCq4lHxQ1kRg5Om"
     },
     {
       "added_at": "2024-05-22 11:00:00",

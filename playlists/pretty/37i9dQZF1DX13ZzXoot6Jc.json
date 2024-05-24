@@ -1,6 +1,6 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Tyler Childers",
-  "num_followers": 455355,
+  "num_followers": 455332,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2024-05-17 04:01:00",
       "album": {
-        "name": "Product Of (Feat. Lee Brice)",
-        "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
-      },
-      "artists": [
-        {
-          "name": "Lewis Brice",
-          "url": "https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Product Of (Feat. Lee Brice)",
-      "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
-    },
-    {
-      "added_at": "2024-05-17 04:01:00",
-      "album": {
         "name": "Take Me Backroad (feat. High Valley)",
         "url": "https://open.spotify.com/album/1CyvTlYda5V9EnbwEUwUIa"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
+    },
+    {
+      "added_at": "2024-05-17 04:01:00",
+      "album": {
+        "name": "Product Of (Feat. Lee Brice)",
+        "url": "https://open.spotify.com/album/5r9qa8kgZvK916DdSg4MSY"
+      },
+      "artists": [
+        {
+          "name": "Lewis Brice",
+          "url": "https://open.spotify.com/artist/7uUOszTczQQwzDodHiz4j0"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+        }
+      ],
+      "duration_ms": 173346,
+      "name": "Product Of (Feat. Lee Brice)",
+      "url": "https://open.spotify.com/track/3Bb1txAwFxLW1PbKRlBV2x"
     },
     {
       "added_at": "2024-05-17 04:01:00",

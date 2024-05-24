@@ -4,7 +4,7 @@
 
 > Your favorite pop songs, classically reimagined.
 
-180 songs - 10 hr 45 min
+181 songs - 10 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Firework](https://open.spotify.com/track/6Pk7XpaiMsXAM6dXN3kQEo) | [Jeremy Green](https://open.spotify.com/artist/32jiRxDN9Nb9QbXh88uo42) | [Firework](https://open.spotify.com/album/7wBmPhdZlYiDa4h6rGDSbG) | 3:54 | 2022-01-21 |  |
 | [Fix You](https://open.spotify.com/track/0gFYjXozTU5fhTUZtMiDR1) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R), [Dover Quartet](https://open.spotify.com/artist/3MGHFXZri4jHw6aIJathoU) | [Fix You](https://open.spotify.com/album/279wRgctzr3Es4uh7SKA8F) | 5:04 | 2021-11-19 | 2024-03-30 |
 | [Flowers](https://open.spotify.com/track/5tyoGp4suJjn9HAbLAKkdx) | [Brooklyn Duo](https://open.spotify.com/artist/6wBOZ9D65AcqUlfKUqsQ7R) | [Flowers](https://open.spotify.com/album/3mSjIIHyriD6HOCqNOKzTQ) | 3:55 | 2023-03-17 |  |
+| [Give Me Everything \- Stripped](https://open.spotify.com/track/5OSCWSmHCaVD8KpMDRsMzX) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Bridgerton Season Three \(Covers from the Netflix Series – Pt\. 1\)](https://open.spotify.com/album/4RfuNBOu5bphIjoEc8U4IH) | 2:12 | 2024-05-23 |  |
 | [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/track/4u91K1WDKhzLLg8QJsQlor) | [Music Lab Strings](https://open.spotify.com/artist/7cNAfzcs4jv8ByJvZk6gnq), [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Glimpse of Us \(arr\. string quartet\)](https://open.spotify.com/album/5eoLxn3SoMfPex3N23hPRq) | 3:58 | 2023-08-11 |  |
 | [God Only Knows](https://open.spotify.com/track/0uASyQM62OGfteRsM5bk5s) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [God Only Knows](https://open.spotify.com/album/627csj4wkox8X11EmpEhgG) | 3:49 | 2021-11-19 | 2022-05-14 |
 | [Good 4 U \(arr\. String Quartet\)](https://open.spotify.com/track/3hiAOP7Pu4ntiLAeDC8QF4) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Good 4 U \(arr\. String Quartet\)](https://open.spotify.com/album/50CpGxkx9zocEPujltkUI6) | 2:57 | 2022-03-18 |  |

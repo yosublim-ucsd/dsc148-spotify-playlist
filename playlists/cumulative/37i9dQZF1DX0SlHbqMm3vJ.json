@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Tomi Owo",
+  "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Id Cabasa, ODUMODUBLVCK, Fireboy DML, Boj, Joeboy",
   "name": "Ginger Me",
   "tracks": [
     {
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 211293,
       "name": "capture my soul (feat. Joeboy)",
       "url": "https://open.spotify.com/track/6nWbowN2n1DXxyfQGhx2Zz"
@@ -5398,7 +5398,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 160611,
       "name": "Jara",
       "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
@@ -7905,6 +7905,40 @@
     },
     {
       "album": {
+        "name": "Olufunmi Reimagined",
+        "url": "https://open.spotify.com/album/7HpccOsoUG11qXcD5i3Pib"
+      },
+      "artists": [
+        {
+          "name": "Id Cabasa",
+          "url": "https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184267,
+      "name": "Olufunmi Reimagined",
+      "url": "https://open.spotify.com/track/5QdTZO8YLH3KESTPPZ0lW6"
+    },
+    {
+      "album": {
         "name": "For Times We Lost",
         "url": "https://open.spotify.com/album/3PAIF3G2cZ2hgopF1moQKI"
       },
@@ -8413,6 +8447,24 @@
     },
     {
       "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/14ITjU7AhfyWsBCeUqqElH"
+      },
+      "artists": [
+        {
+          "name": "Xenia Manasseh",
+          "url": "https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Phases",
+      "url": "https://open.spotify.com/track/1AspvEDeHVWJY0X7pkdldi"
+    },
+    {
+      "album": {
         "name": "Pheelz Good EP",
         "url": "https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx"
       },
@@ -8446,7 +8498,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 167547,
       "name": "PIANO",
       "url": "https://open.spotify.com/track/3idcqABwcfdvgBEdbG0ebq"
@@ -10006,6 +10058,24 @@
       "duration_ms": 188181,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/1ySzohfiLo3l12pcqW40p3"
+    },
+    {
+      "album": {
+        "name": "Stuck on You",
+        "url": "https://open.spotify.com/album/0bmPEGlbryicq5k1oqpaj0"
+      },
+      "artists": [
+        {
+          "name": "Ehis 'D' Greatest",
+          "url": "https://open.spotify.com/artist/6QdzKE9cMAEFZj1pYcxpsf"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189019,
+      "name": "Stuck on You",
+      "url": "https://open.spotify.com/track/423xcjejlvFG1TfGTarhXv"
     },
     {
       "album": {

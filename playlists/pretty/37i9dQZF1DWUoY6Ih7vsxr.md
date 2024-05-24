@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,729 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,882 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 21 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
 | 22 | [Ring Ding Dong](https://open.spotify.com/track/4vLqN0bIxIQjlet2mIMBnx) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [2009, Year Of Us \- The Third Mini Album](https://open.spotify.com/album/5AH7uBaxp7ojNCvImOeZvC) | 3:53 |
 | 23 | [Mr\. Simple](https://open.spotify.com/track/6QTBYKLlV2PQniwAWrBV2z) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Mr\. Simple \- The 5th Album](https://open.spotify.com/album/0eouyQPmljivHfUuG5nYBa) | 4:01 |
-| 24 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
-| 25 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 |
+| 24 | [보여줄게](https://open.spotify.com/track/4mlQPWeSMkwJQcYTr9razZ) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Invitation](https://open.spotify.com/album/4jXP8b22XeD3dyUX3JCMfd) | 3:53 |
+| 25 | [Fiction](https://open.spotify.com/track/69QlYqNJeZG14R4an2aoJv) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Fiction And Fact](https://open.spotify.com/album/7bmaIj97ZBuFyDewh5lY4s) | 3:54 |
 | 26 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 |
 | 27 | [Only One](https://open.spotify.com/track/3Hyl7YrOtBcnh1geON2kSO) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Only One \- The 7th Album](https://open.spotify.com/album/54xacjSt0jd9cELJc2j7UR) | 3:37 |
 | 28 | [Mr.Mr.](https://open.spotify.com/track/3JaMGQXJmtbAhvgl0nBPPN) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Mr\. Mr\. \- The 4th Mini Album](https://open.spotify.com/album/1WyHAY8OWdfCFWTF0Ufwjj) | 3:55 |

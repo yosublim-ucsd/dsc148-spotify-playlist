@@ -4,7 +4,7 @@
 
 > ¡Ponte a jalar sin miedo al éxito!
 
-116 songs - 6 hr 13 min
+117 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [El Hijo Mayor](https://open.spotify.com/track/1RGlfmdvcfatN0ZLOmzanS) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Hijo Mayor](https://open.spotify.com/album/5uNnU1f0N66Xkll4wRnjXL) | 3:16 | 2023-07-04 |  |
 | [El Paciente](https://open.spotify.com/track/2Nk3gXgekore0lfB7PCnub) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [La Rueda De La Fortuna](https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd) | 3:31 | 2023-07-04 | 2024-04-19 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2023-07-04 |  |
+| [El Roto \- En Vivo](https://open.spotify.com/track/21bfgzz92T3L96IsFn8Kvy) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Roto \(En Vivo\)](https://open.spotify.com/album/27s5ZMaL6YlRmV1DIeIONb) | 3:13 | 2023-07-04 |  |
 | [El Ruddy](https://open.spotify.com/track/0vNtFN67TIMgDokyyuUUwA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 3:03 | 2023-07-04 |  |
 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 | 2023-07-04 |  |
 | [Ella Baila Sola](https://open.spotify.com/track/3qQbCzHBycnDpGskqOWY0E) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [DESVELADO](https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM) | 2:45 | 2023-07-04 |  |
@@ -92,7 +93,7 @@
 | [Nataaoki](https://open.spotify.com/track/7w47Qtyrw5y4w5Qa0wNjco) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:30 | 2023-07-04 |  |
 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 | 2023-07-04 |  |
 | [No Me Conoce \- Remix](https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I) | 5:09 | 2023-07-04 | 2024-04-19 |
-| [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 | 2023-07-04 |  |
+| [No Me Conoce \- Remix](https://open.spotify.com/track/4R8BJggjosTswLxtkw8V7P) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Famouz](https://open.spotify.com/album/1V9QpD8kjA2iHCElhFGvlo) | 5:09 | 2023-07-04 | 2024-05-24 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2023-07-04 |  |
 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 | 2023-07-04 |  |
 | [Perros](https://open.spotify.com/track/14qnJ3HKmlKo1hwBQKJaB8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Cartel De Santa](https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa) | 3:38 | 2023-07-04 |  |

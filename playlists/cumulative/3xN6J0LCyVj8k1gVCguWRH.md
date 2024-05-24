@@ -4,7 +4,7 @@
 
 > What Will the 2024 Song of the Summer Be!? Find out with the perfect soundtrack for the sweatiest season! A predicttion playlist that also Includes Summer 2023 edition &amp; bonus tracks.
 
-3,357 songs - 7 day 22 hr 17 min
+3,359 songs - 7 day 22 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -437,7 +437,7 @@
 | [Burning](https://open.spotify.com/track/002jUjhvyxV1YkF3EoyByf) | [Cabela and Schmitt](https://open.spotify.com/artist/2H54cElVw72XtIIXnlcja1) | [Burning](https://open.spotify.com/album/78z3AtPifyPBmJ5Nj8PTvd) | 3:28 | 2021-02-20 | 2021-03-09 |
 | [Burning](https://open.spotify.com/track/68vxG1i6RSmrsY9mRdqDgG) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:33 | 2019-09-29\* | 2021-11-19 |
 | [Burns](https://open.spotify.com/track/5jxtJbxPgnBtphKynpmRg4) | [The Bergamot](https://open.spotify.com/artist/4wmpJsWHVtigpGrGya1TQt) | [Burns](https://open.spotify.com/album/3uqgy6BAZKOtSbl6J0fild) | 3:37 | 2021-11-09 | 2021-12-05 |
-| [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2024-03-20 |  |
+| [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2024-03-20 | 2024-05-24 |
 | [Buscame](https://open.spotify.com/track/3Qkwp8LdH38k59nqnuMcYv) | [Manzu](https://open.spotify.com/artist/3Q8m6BpTeKc4FIQ2zvFiEy) | [Buscame](https://open.spotify.com/album/2Q0RhDpkW5CU9f2J8GjltG) | 3:30 | 2023-12-08 | 2023-12-16 |
 | [Buscando Olvidar](https://open.spotify.com/track/7ptGeAh91cnAiIsDQFpsQG) | [Alfred Gomez, Jr.](https://open.spotify.com/artist/1DuojCouhr2ERyP9ItCrmr) | [La Reina Peinandose](https://open.spotify.com/album/5t7H8jFkIKzZmQaknkUWix) | 3:48 | 2024-04-19 | 2024-05-01 |
 | [But The Weather](https://open.spotify.com/track/6JGQ2BRW9SoyvWkMKaQeIk) | [Tennis Courts](https://open.spotify.com/artist/1KiCYjJuX19VhFGFjztXn3) | [But The Weather](https://open.spotify.com/album/6QmPTH1f0OhVFdQO7xEoam) | 3:50 | 2022-06-10 | 2022-06-26 |
@@ -1114,6 +1114,7 @@
 | [Game We Play](https://open.spotify.com/track/5To2GjlLj106cVJlXCoKjW) | [Sarah Tolle](https://open.spotify.com/artist/3vGD9oHaS2S8t6LehpCVQX) | [Game We Play](https://open.spotify.com/album/5ZOpfZD0bq8euNZmzhlFXC) | 3:32 | 2022-06-10 | 2022-06-26 |
 | [Games](https://open.spotify.com/track/0SuNV98PeMQeMUrqmmVerE) | [Henry Aberson](https://open.spotify.com/artist/30h4XxFyy4Ym28EAIdSr2G), [Nariah Taylor](https://open.spotify.com/artist/6juqczQpC33D80JUhPlHg1), [Korey Keys](https://open.spotify.com/artist/5Sw8OXURdKT26umYRH0LUP) | [Games](https://open.spotify.com/album/2wbXNTp2bLzNpV6UzmVooV) | 3:35 | 2024-05-03 | 2024-05-17 |
 | [Garbage](https://open.spotify.com/track/04EmYOB99jJ52m45HRmq9h) | [Christopher Paul](https://open.spotify.com/artist/7ieFGttaEqvHGZVpwgVVWd) | [Garbage](https://open.spotify.com/album/5zciH50dlD5H946F1WVERZ) | 3:44 | 2019-10-17 | 2019-10-24 |
+| [Garden](https://open.spotify.com/track/009Bl6lJNSFly6rkSmX2vl) | [Kitty Mack](https://open.spotify.com/artist/4uoSIZh3PyGU7NeRX0S28v) | [Garden](https://open.spotify.com/album/7uWba3kHK9lKoLntwn1Bxe) | 3:11 | 2024-05-23 |  |
 | [GasLight](https://open.spotify.com/track/2XrVHTtfwMUhEywJg2tLyM) | [Villaboyscottie](https://open.spotify.com/artist/22vLwzKq6QkWH73t1dgSFP) | [GasLight](https://open.spotify.com/album/5G5kB19zCm2671L0FNXMUt) | 2:03 | 2022-08-26 | 2022-09-11 |
 | [Gaslighter](https://open.spotify.com/track/4UN6sBmFTt2IqxN3IRqJT3) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 3:23 | 2020-08-20 | 2023-08-28 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-04-19 | 2024-05-01 |
@@ -1802,6 +1803,7 @@
 | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/track/7FwQw1LFaxK4yNJpTtyPM4) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [LuLu Lemon \(Club Remix\)](https://open.spotify.com/album/6YkRZxsN4V0Ll5NhV6TnAH) | 2:29 | 2022-01-14 | 2022-01-30 |
 | [Lumber](https://open.spotify.com/track/7GzUamslGXtfz5D37z1mFA) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Lumber](https://open.spotify.com/album/6AtGem6qz71XNAJGqy7j42) | 1:49 | 2023-06-23 | 2023-07-15 |
 | [Luna y Sol](https://open.spotify.com/track/6MeGmrpBiGqSPbo4V4qes5) | [Canelibeat](https://open.spotify.com/artist/2YX2o7BVuDwJeBX6829MiD) | [Un Instante](https://open.spotify.com/album/2Eka0ngExgD3V9cvnsGnqQ) | 4:28 | 2022-04-15 | 2022-04-30 |
+| [LUNCH](https://open.spotify.com/track/629DixmZGHc7ILtEntuiWE) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 2:59 | 2024-05-23 |  |
 | [Lush Life](https://open.spotify.com/track/26NqjphYzU4JSx2xJUpKO0) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Ella Fitzgerald Sings The Duke Ellington Song Book](https://open.spotify.com/album/2VgS17fUEsUer5nCbM2juj) | 3:40 | 2021-07-11 | 2024-04-21 |
 | [Luv U Luv U Back](https://open.spotify.com/track/54y2U5I8ow66QvPVokAWhj) | [Trashy Annie](https://open.spotify.com/artist/1NE5iw2eDd0kgUlO23m1GV) | [Luv U Luv U Back](https://open.spotify.com/album/0fxrTskYVPzDv0kNCkOxKv) | 3:38 | 2022-09-23 | 2022-10-09 |
 | [Luxury](https://open.spotify.com/track/3QNtHXt8AW9tyseIuoHTlb) | [Jeff Fein](https://open.spotify.com/artist/3uVoMuOCBhrtX2zVN1XayK) | [Luxury](https://open.spotify.com/album/6X3Wi7Vq6JPFQe2Ye8B30r) | 4:10 | 2024-05-20 |  |

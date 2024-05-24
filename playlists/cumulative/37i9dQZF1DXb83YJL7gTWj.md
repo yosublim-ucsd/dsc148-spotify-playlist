@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-316 songs - 18 hr 42 min
+317 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [In Your Eyes](https://open.spotify.com/track/5c0z1ccAIoZl1okUhiqNOc) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [In Your Eyes](https://open.spotify.com/album/6rMXObFQHowLksaLis6GXA) | 5:29 | 2021-11-05 |  |
 | [Incredible](https://open.spotify.com/track/5bZeugrr7oIATt1CLJuhT4) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 4:06 | 2021-11-05 | 2023-08-05 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2021-11-05 |  |
+| [Kaleidoscope](https://open.spotify.com/track/7N1tjTxJe6k5wakOqpNbCj) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Kaleidoscope](https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d) | 3:42 | 2024-04-19 |  |
 | [Kaleidoscope](https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Kaleidoscope](https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd) | 2:59 | 2023-03-31 | 2023-05-04 |
 | [Lady Like](https://open.spotify.com/track/33UI8dgfkDOf32DWBH1GL0) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like](https://open.spotify.com/album/3l0QTUgr0CKXgpQb9PAdmH) | 3:14 | 2021-11-05 | 2022-03-19 |
 | [Leave A Light](https://open.spotify.com/track/5P0i0asekeb0hCEPCi2R5n) | [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [This Wild Willing](https://open.spotify.com/album/25b6LhJVwyvEEPLtyuCvJy) | 4:25 | 2022-04-19 | 2022-04-24 |
@@ -189,7 +190,7 @@
 | [Medallion](https://open.spotify.com/track/46Y9vXsmtnYZdEwny4o1Dd) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Division](https://open.spotify.com/album/2VG4oj0kGjOydr6j8deI7Z) | 2:27 | 2023-08-04 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-11-05 | 2022-09-10 |
 | [Messy](https://open.spotify.com/track/2iq1qD2ifqpYS5J2I35u7h) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Messy](https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY) | 3:43 | 2023-06-30 |  |
-| [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-04-19 |  |
+| [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j) | [Carver Jones](https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid), [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Middle Name \(with Mckenna Grace\)](https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv) | 3:57 | 2024-04-19 | 2024-05-24 |
 | [Miles Away](https://open.spotify.com/track/1iy9FLjmcGQdjAXWi1y4D1) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Miles Away](https://open.spotify.com/album/2qki4e1IDCRpNJvyGE4xjD) | 3:52 | 2021-11-05 | 2022-03-19 |
 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 | 2021-11-05 | 2022-03-19 |
 | [Mon Soleil \- from "Emily in Paris" Soundtrack](https://open.spotify.com/track/3jJ9djWzDlQnqDd7vTZs9K) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Mon Soleil \(from "Emily in Paris" Soundtrack\)](https://open.spotify.com/album/6HoFsUfW1RX6nCKntCkiHu) | 3:28 | 2022-01-05 |  |

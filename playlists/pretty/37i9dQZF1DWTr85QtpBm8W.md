@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,898 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,929 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,17 +78,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 68 | [Von Schnäbeln](https://open.spotify.com/track/6wggBZZL0ETDujH1yOcyOp) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/0YORgbKjaK7IKqdPkmitrU) | 3:56 |
 | 69 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
 | 70 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
-| 71 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/19Uf8RmGbdxwiKEHAG7GST) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L’Orange L’Orange](https://open.spotify.com/album/2SjV4jyVNBkGgS3ZYByWte) | 5:14 |
-| 72 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
-| 73 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
+| 71 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 72 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
+| 73 | [Blind Contour Drawing for Piano](https://open.spotify.com/track/19Uf8RmGbdxwiKEHAG7GST) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [L’Orange L’Orange](https://open.spotify.com/album/2SjV4jyVNBkGgS3ZYByWte) | 5:14 |
 | 74 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
 | 75 | [Add Infinity](https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 9:10 |
 | 76 | [Waves](https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [Prism of Eternal Now](https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn) | 6:44 |
 | 77 | [So Long Orpheus](https://open.spotify.com/track/7DQtJDXL0BkY0QWfntq4e3) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3tjGU0wCtnfMhSnvuCpG6d) | 2:23 |
 | 78 | [Welk](https://open.spotify.com/track/63Kfvy0zKFiKUk1f5uwteS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/0YORgbKjaK7IKqdPkmitrU) | 6:18 |
 | 79 | [Coral Gables](https://open.spotify.com/track/310FX6dlbqdpUB2GwQg8Yn) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Through the Cardial Window](https://open.spotify.com/album/4ljgcxwTDkUNTXKjb0PZJU) | 5:50 |
-| 80 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
-| 81 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 |
+| 80 | [Søvnens Kvelertak](https://open.spotify.com/track/2fdQs1MjxjwwplRMSPNTYZ) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 3:33 |
+| 81 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
 | 82 | [New Horizons](https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp) | [Netherworld](https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN) | [Mørketid](https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp) | 9:23 |
 | 83 | [De Storm](https://open.spotify.com/track/6mVclchrniUeZKwLxMAT9p) | [Kreng](https://open.spotify.com/artist/1D8wAaE3QG9CJQJvAKMJhZ) | [L’Autopsie Phénoménale de Dieu](https://open.spotify.com/album/14gJJ0h7DJiC0UqlSLSnqy) | 3:42 |
 | 84 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |

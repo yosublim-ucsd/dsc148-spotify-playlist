@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,756 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,942 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 47 | [Scars \- Acoustic Version](https://open.spotify.com/track/0xIIXygHdt17X6HtObqK7M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Scars](https://open.spotify.com/album/3LObamEg1uFuGxN6ZOpi1D) | 3:11 |
 | 48 | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/track/1rptK1oec3gjHpzzrxHyln) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Joe Elliott](https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX), [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [Ivan Moody](https://open.spotify.com/artist/0IkXJjOYzNVtC7JByRI2cD), [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Tommy Vext](https://open.spotify.com/artist/3tgBwjfL3ycAT49VVpkfnE) | [Maybe It’s Time \(feat\. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext\)](https://open.spotify.com/album/4ezpBhE0MTqAeuSPxoY4dY) | 4:14 |
 | 49 | [Lucy](https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:38 |
-| 50 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
-| 51 | [Dying in LA](https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:49 |
+| 50 | [Dying in LA](https://open.spotify.com/track/18xmRkPWE0sGUzFyNNAAhN) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:49 |
+| 51 | [Space](https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [A Celebration Of Endings](https://open.spotify.com/album/5yAXUpsKaby5IcXgzrNFAw) | 3:55 |
 | 52 | [Present Tense](https://open.spotify.com/track/679zqcQuKakOGI93NPCqB8) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [No Code](https://open.spotify.com/album/3FKhxgSZdtJBIjdHsjbxI0) | 5:45 |
 | 53 | [Hallelujah](https://open.spotify.com/track/4hTg9q0AnxtH4yZKeRcMin) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Hallelujah](https://open.spotify.com/album/3KHkCXWAJANXQztdpMmKt4) | 4:43 |
 | 54 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |

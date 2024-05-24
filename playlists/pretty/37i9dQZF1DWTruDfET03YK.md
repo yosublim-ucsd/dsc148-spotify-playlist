@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 
 > Tu familia puede visitar a todos los animales en el zoológico con estas divertidas canciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,689 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,737 likes - 50 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTruDfET03YK.md) - [plain]
 | 3 | [Dos Oruguitas](https://open.spotify.com/track/5rohUzwEoRsUvAA1Bf3DLo) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:34 |
 | 4 | [La Patita](https://open.spotify.com/track/1aGPWR1quPaIAtZ8fUlphA) | [Cri\-Cri](https://open.spotify.com/artist/4vM6clYXqkZbQv4O2OT5P4) | [Las 100 Clásicas de Cri Cri, Vol\. 2](https://open.spotify.com/album/4JuhGXNzdIBau0Rte4mwCX) | 2:50 |
 | 5 | [The Chicken Dance](https://open.spotify.com/track/1c9dv4anUlofPLzIkQCxpA) | [Sing n Play](https://open.spotify.com/artist/3at1vTRcH8tM7ZmnGXyiZs) | [The Chicken Dance and Other Silly Songs](https://open.spotify.com/album/6uDInUcLuJElPuuW5kAKtZ) | 2:28 |
-| 6 | [Soy Una Serpiente](https://open.spotify.com/track/4FyCoKl2W6GnoVy8I9xMSE) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:11 |
-| 7 | [O Pato \- El Pato](https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 2:09 |
+| 6 | [O Pato \- El Pato](https://open.spotify.com/track/7q2cOMu2tKxclf9iXDateo) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Casa](https://open.spotify.com/album/3hQCMo8sGNoSRLVvwPsCSc) | 2:09 |
+| 7 | [Soy Una Serpiente](https://open.spotify.com/track/4FyCoKl2W6GnoVy8I9xMSE) | [Duo Tiempo de Sol](https://open.spotify.com/artist/58IHn7WX5UYrLG9BhjAiEA) | [Canciones del Zoo Vol\. 4](https://open.spotify.com/album/7yWbd1Bb31ODxxN9bh9W0R) | 2:11 |
 | 8 | [La Vaca Lola](https://open.spotify.com/track/70NIwhQTnE2a4wuE0roHTM) | [El Reino Infantil](https://open.spotify.com/artist/6EMoWayH9WulC8F8b6m3BH) | [La Granja de Zenón Vol\. 2](https://open.spotify.com/album/2VkG1yYDatWC1Avw3eZ1SI) | 2:07 |
 | 9 | [Pollito Amarillito](https://open.spotify.com/track/1MJX2sInxx64viGnnys6lx) | [Gallina Pintadita](https://open.spotify.com/artist/3tXNR10VqUcpryTGq1SeZq) | [Gallina Pintadita, Vol\. 1](https://open.spotify.com/album/2NOcRovINlE1ysJKFUyYXH) | 1:47 |
 | 10 | [La lechuza](https://open.spotify.com/track/6e85kbIzZaMdOp4h7CZo7q) | [Trepsi](https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs) | [A cantar](https://open.spotify.com/album/1YkdGixY4sBJW3M3vBh0em) | 1:07 |

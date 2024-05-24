@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 
 > For those that like it hard and heavy\. Cover: Motionless In White
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,748 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,749 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 29 | [Legendary](https://open.spotify.com/track/2pYaGdqXBrl8MdvuwgtBb7) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:04 |
 | 30 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 |
 | 31 | [Blood and Thunder](https://open.spotify.com/track/3jagGO7eHHuaD53ibehkux) | [Mastodon](https://open.spotify.com/artist/1Dvfqq39HxvCJ3GvfeIFuT) | [Leviathan](https://open.spotify.com/album/6khFoLWnJZDQvZ7Pijym3b) | 3:48 |
-| 32 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 |
-| 33 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 |
-| 34 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 |
+| 32 | [NAIL5](https://open.spotify.com/track/7qD4fAVNgkhhQ7TAfwcLCa) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [NAIL5](https://open.spotify.com/album/5JIRskvoOGxpCmqnQbdKX6) | 2:33 |
+| 33 | [Riptide](https://open.spotify.com/track/4Xgono4pmRbojXlCIYh8or) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:31 |
+| 34 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 |
 | 35 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
 | 36 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
 | 37 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 42 | [Masochist](https://open.spotify.com/track/2a05MFdR1vtm8QVKFs1SGn) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [The Death of Me](https://open.spotify.com/album/415LpbInk4LGm9q9ILX1s1) | 4:07 |
 | 43 | [Low](https://open.spotify.com/track/3gRwYAsiX4e50J43BkmZxI) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Pressure](https://open.spotify.com/album/2tStEaMvl7vkfgAEwysgYP) | 3:47 |
 | 44 | [In Waves](https://open.spotify.com/track/1yYr4D1KjhhyDD5bZIiFQy) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:02 |
-| 45 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
-| 46 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
+| 45 | [Reinventing Your Exit](https://open.spotify.com/track/591vJuuep0gfPhx9p8WPD5) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [They're Only Chasing Safety](https://open.spotify.com/album/5GeXnKDk6sD6RnkPVwFi19) | 4:22 |
+| 46 | [Psycho](https://open.spotify.com/track/2oeD1y0HnIBhHW5pPtyE0w) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [Where Do We Go From Here?](https://open.spotify.com/album/0KxKNeKIuo4QUcsNVNge5M) | 3:56 |
 | 47 | [Beyond](https://open.spotify.com/track/1490WwKimLxIeRgejYGFU2) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [CMF2](https://open.spotify.com/album/7uuvUTNqJqEE3gfHU4bXtt) | 4:17 |
 | 48 | [Creature](https://open.spotify.com/track/6sSxQwz5SBYSLfiyRKWSkC) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6) | [Creature](https://open.spotify.com/album/5ZTrE6qqgvvz2aycIKtbQi) | 3:45 |
 | 49 | [Castaway](https://open.spotify.com/track/33oseVSdiC8Og5jByjwP5d) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Tether](https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR) | 3:31 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcOYQJYGaYjk.md) - [plain]
 | 62 | [The Reckoning](https://open.spotify.com/track/4GSjFSK1SM78wPTVbsSB0S) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a), [Jacoby Shaddix](https://open.spotify.com/artist/3a0Ol9AaugGXjf1ZQcAs1U) | [The Reckoning](https://open.spotify.com/album/2UAqWPHRSXHBHkCxsL3oMj) | 4:11 |
 | 63 | [Body Bag](https://open.spotify.com/track/1vuhNiQZTPkmnNJ0xNsf5S) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Body Bag](https://open.spotify.com/album/7bZMcP6paQcjkuLwVkB7aN) | 3:16 |
 | 64 | [Sign Of Life](https://open.spotify.com/track/5MCUpUfWI7r0v931vSiWul) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [Scoring The End Of The World \(Deluxe Edition\)](https://open.spotify.com/album/3FtJCmMzsgTWZOi931Vqxy) | 3:40 |
-| 65 | [Kintsugi](https://open.spotify.com/track/4TwfI4rWaKILmOeg22pLuv) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Kintsugi](https://open.spotify.com/album/3J7qLVPyQ4wdZk0N2bGfhW) | 3:22 |
-| 66 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 |
+| 65 | [Purge](https://open.spotify.com/track/4O0qk2XaOAKVjLnKnEQ0RW) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Purge](https://open.spotify.com/album/7o1VvlYeqiBiSQUZNXQHbF) | 4:42 |
+| 66 | [Kintsugi](https://open.spotify.com/track/4TwfI4rWaKILmOeg22pLuv) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Kintsugi](https://open.spotify.com/album/3J7qLVPyQ4wdZk0N2bGfhW) | 3:22 |
 | 67 | [Jaded](https://open.spotify.com/track/5nUP2iwSyIb6iBnKINTa79) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [The Fear of Fear](https://open.spotify.com/album/3UCGVgftlIKV8uOB92cqkk) | 4:22 |
-| 68 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 |
-| 69 | [Avalanche](https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Dear Youth](https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1) | 3:32 |
+| 68 | [Avalanche](https://open.spotify.com/track/2Mw7cLQMNoexIOTKHDFXeq) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Dear Youth](https://open.spotify.com/album/75kQjmcR1YnIrBwVW1s4G1) | 3:32 |
+| 69 | [Mourning The Dawn](https://open.spotify.com/track/0AvzlxMd2IEXZEQXNBtQNm) | [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Mourning The Dawn](https://open.spotify.com/album/77r78HoZ07ZPx7DUjaTIXV) | 5:01 |
 | 70 | [The Truth](https://open.spotify.com/track/52h4yQrQZD3BkycTqlKsjj) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:25 |
 
 Snapshot ID: `Zj2bwAAAAAB9uy55exKX/PaAds3y3vF+`

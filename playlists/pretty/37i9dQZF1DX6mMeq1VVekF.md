@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Lancey Foux
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,403 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,426 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

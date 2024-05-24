@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 
 > The cool sound of Cool Jazz\. Cover: Paul Desmond
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,531 likes - 75 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,593 likes - 75 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fO1VvuMVL0.md) - [plain]
 | 53 | [Easy Living](https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:02 |
 | 54 | [Afternoon in Paris](https://open.spotify.com/track/6Us9O1Mb4fpOnvhjPovtwV) | [John Lewis](https://open.spotify.com/artist/7G7zZjjTwBZ9vzaoogk95s) | [The Wonderful World Of Jazz](https://open.spotify.com/album/7bVINZrNHFkVADBBHfOiAh) | 9:58 |
 | 55 | [Solar](https://open.spotify.com/track/6pzpKJYKvHUzOpz9J207j3) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f) | [Bird Feathers \(Remastered\)](https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM) | 5:52 |
-| 56 | [Angle Eyes](https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [A Pell Of A Time](https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY) | 5:39 |
-| 57 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 56 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
+| 57 | [Angle Eyes](https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b) | [Dave Pell](https://open.spotify.com/artist/4e6A5UdYEgQGwQNaLLFYVN) | [A Pell Of A Time](https://open.spotify.com/album/3logMpjjsrzsWhezuwyumY) | 5:39 |
 | 58 | [Fishin' Around](https://open.spotify.com/track/1z67MjOaUDdtUGMWShXQJM) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Subconscious\-Lee](https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe) | 3:44 |
 | 59 | [On A Riff](https://open.spotify.com/track/2YukMgAWfr4Ew8oONiNLdP) | [Kenny Clarke](https://open.spotify.com/artist/7xwlN7fhoOwNgDmRTwYZOa) | [Plays Andre Hodeir](https://open.spotify.com/album/0s69Ld833Q6OtOtkbRD45O) | 2:55 |
 | 60 | [Life Is a Ball](https://open.spotify.com/track/2wdivsZL6AFl6qygmGZDEr) | [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [4 To Go !](https://open.spotify.com/album/4PSGQpJEso0r7WoPiFjbbl) | 5:31 |

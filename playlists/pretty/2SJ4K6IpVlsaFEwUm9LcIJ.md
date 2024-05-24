@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: may\-june 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,543 likes - 23 songs - 59 min 43 sec
+[margeaux](https://open.spotify.com/user/1220511975) - 19,541 likes - 24 songs - 1 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,6 +30,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [La voix psychédélique](https://open.spotify.com/track/6OGybl75EBNMNalQ8cg5RD) | [Emmanuel Brun](https://open.spotify.com/artist/02yigcgaTkoA3sajC1FKEE) | [Magie de la scie musicale \(Musical Saw\)](https://open.spotify.com/album/3KrbT3JMLafZbSWUAuvmb7) | 1:50 |
 | 21 | [Boy With the Bright Eyes](https://open.spotify.com/track/2r0XYwo9sFmmUFy3K4ZbnE) | [The Shermans](https://open.spotify.com/artist/1ijBXnXG7DX8hUI35tuuT8) | [Happiness Is Toy Shaped](https://open.spotify.com/album/6GwF4YxPAKGaxKpKELs36H) | 2:44 |
 | 22 | [Bright Lit Blue Skies](https://open.spotify.com/track/33R2KZxpZ8nnOihRTHea8s) | [The Rising Storm](https://open.spotify.com/artist/54skrHw57l27U6kIoGlCmG) | [Calm Before...](https://open.spotify.com/album/6A4VmOZWt0GZfdbfhfWXhJ) | 2:31 |
-| 23 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 |
+| 23 | [I'm the Sky](https://open.spotify.com/track/5RZakBALQyiqL1dG5VMmzH) | [Norma Tanega](https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP) | [Walkin' My Cat Named Dog](https://open.spotify.com/album/0unsYxXMMsYMQB0epWjPu0) | 2:25 |
+| 24 | [You Go Where I Go](https://open.spotify.com/track/3GHI7zfOFyQigfGBiJc2Ya) | [Walter Becker](https://open.spotify.com/artist/3yf5bmiturJVzQYIK1QbWX), [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [Becker and Fagen \- The Early Years](https://open.spotify.com/album/5IKG0ke9HxlwfB5E8QpJEu) | 2:04 |
 
-Snapshot ID: `AAAKam+bG5vgIiR1QaomgyQuZ8/fRynA`
+Snapshot ID: `AAAKbNF/+miUnI1nytaIANfJk6/s8wUs`

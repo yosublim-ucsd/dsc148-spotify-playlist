@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 
 > This is Los Hijos De Garcia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,735 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,739 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 29 | [COMPTON](https://open.spotify.com/track/2hoOS2ABkC8JrcN69owHYE) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:45 |
 | 30 | [Debajo De La Gorra](https://open.spotify.com/track/37jvbQaDuG76ZXPRPHnjSl) | [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Debajo De La Gorra](https://open.spotify.com/album/6KoTqQ3CRPUOgt9iMbe1cw) | 3:05 |
 | 31 | [Mi Gusto Es \- En Vivo](https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [En Vivo Con Tololoche](https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9) | 3:46 |
-| 32 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
-| 33 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
-| 34 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 |
+| 32 | [De Texas A California](https://open.spotify.com/track/3UbF0LvIMkKfU7y0EcupQ6) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos De La Vida](https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f) | 2:15 |
+| 33 | [Aqui Nada Me Va Mal](https://open.spotify.com/track/3EKCwgqtzhNRD51XOHkjzM) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Aqui Nada Me Va Mal](https://open.spotify.com/album/3QfoLOlTy4yUlO7R1HWadb) | 2:58 |
+| 34 | [La Casa De La Esquina](https://open.spotify.com/track/6qw1U481E7u4DAw5UZv3vD) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Casa De La Esquina](https://open.spotify.com/album/5ahdqBULRpO7ISU4jBazcP) | 1:57 |
 | 35 | [Los 3 Del NM](https://open.spotify.com/track/3zufohszplV5IN3S7j6bTI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 1:50 |
 | 36 | [El R De Houston](https://open.spotify.com/track/44rxSvGpVmqoPt6RGkhbQp) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:55 |
 | 37 | [Cuando Me Muera](https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:09 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25pKNy.md) - [plain]
 | 40 | [El Cimarron](https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Jálese Carnal](https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD) | 2:36 |
 | 41 | [Willy Checks](https://open.spotify.com/track/6I6HAGDrih43MD4CyTPNhr) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Lujos y Libras](https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R) | 3:07 |
 | 42 | [Quisiste Tú Volver](https://open.spotify.com/track/6sXr9EGXkIkWtSMU74VBDM) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Quisiste Tú Volver](https://open.spotify.com/album/4wBviDB8A3WuLU9PRFNDSR) | 3:16 |
-| 43 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
-| 44 | [El Recio](https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:10 |
-| 45 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 |
-| 46 | [Gorra De Tijuana](https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:15 |
-| 47 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 |
-| 48 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 |
+| 43 | [El Recio](https://open.spotify.com/track/2KLUdYgj4FDAMjznuqCJyn) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:10 |
+| 44 | [Classroom Love](https://open.spotify.com/track/7yFDHXEb7UseHnH3hEWR29) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Classroom Love](https://open.spotify.com/album/0cbyUdPh5smj24zGOuwF5o) | 4:16 |
+| 45 | [Gorra De Tijuana](https://open.spotify.com/track/2ef6lyJzo9pj6UNdoWgqes) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Loco Malandro](https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ) | 2:15 |
+| 46 | [El Fracasado](https://open.spotify.com/track/4VZmwLWmUsw81pkzDekhxT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [El Fracasado](https://open.spotify.com/album/6RaNwXyfahQ2r4tVVMFwNm) | 2:45 |
+| 47 | [Por Buen Camino](https://open.spotify.com/track/7s3erZkEkuTJ29qB2d0MDX) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Nuestro Estilo](https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r) | 3:15 |
+| 48 | [Historia Personal](https://open.spotify.com/track/0LjJoRueKZJCdz31eZCVnI) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Historia Personal](https://open.spotify.com/album/4L6pnNGvsAOaku8qqJaIlA) | 4:21 |
 | 49 | [La Greñita](https://open.spotify.com/track/40P38t8Q2JYgngn5xke2Mm) | [La Nueva C](https://open.spotify.com/artist/1tl27rwbbTb7px4vcga4R3), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [La Greñita](https://open.spotify.com/album/11gHCZZq5kRtQvpN0D1dVz) | 2:37 |
 | 50 | [18 Libras \(En Vivo\)](https://open.spotify.com/track/4LllVWdo8dth4v3wZTwh1X) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa) | [Pisteando Con Larry Hernández, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2NBIYoC2EnQndQkfIHffQf) | 2:57 |
 
-Snapshot ID: `ZkqSgAAAAAB7GKHlmD5YXEqKs0UHR4dG`
+Snapshot ID: `Zk01gAAAAABN7wYunltAYh9uaYzQsovn`

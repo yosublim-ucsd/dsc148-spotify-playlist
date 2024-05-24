@@ -14255,6 +14255,28 @@
     },
     {
       "album": {
+        "name": "So High (feat. MERYLL) [Kyle Meehan Remix]",
+        "url": "https://open.spotify.com/album/6P7flWkRmZbYS1gxwJRVvE"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "MERYLL",
+          "url": "https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC"
+        }
+      ],
+      "date_added": "2024-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154482,
+      "name": "So High (feat. MERYLL)",
+      "url": "https://open.spotify.com/track/6htKnclYIvSqD5Yki5ChMJ"
+    },
+    {
+      "album": {
         "name": "SOBER",
         "url": "https://open.spotify.com/album/1XHBL61zSvKgkNe86ixIaT"
       },

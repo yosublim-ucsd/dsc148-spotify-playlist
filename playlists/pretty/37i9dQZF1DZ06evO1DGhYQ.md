@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 
 > This is ALI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,193 likes - 42 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,197 likes - 42 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1DGhYQ.md) - [plain]
 | 37 | [KID feat\. LEO \(ALI\)](https://open.spotify.com/track/7iNdSSdLG2X06P9c9WNHrb) | [s\*\*t kingz](https://open.spotify.com/artist/4eRPT3dCcYsuZ2dFqqcaYx), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [踊救急箱](https://open.spotify.com/album/6h4DnOV7gOz7jvVy1MhoXr) | 2:46 |
 | 38 | [Funky Nassau](https://open.spotify.com/track/4BDfJFLVXQhYI5ruXkrvVe) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [VIVA LA MUSICA](https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx) | 5:16 |
 | 39 | [LONELY LONELY \-ULTRA HEAVEN REMIX by ALI×鋭児\-](https://open.spotify.com/track/57CUn3paq7FpjozT9ZXSHX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [鋭児](https://open.spotify.com/artist/1r1xAyct7zaJaTXWz4BfZS) | [LONELY LONELY](https://open.spotify.com/album/34Q9DMv5RDZhMuNPByXufh) | 6:26 |
-| 40 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
-| 41 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
+| 40 | [Vim](https://open.spotify.com/track/3gX6jimRbB0Cdy1dPsWCWu) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Vim](https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z) | 5:14 |
+| 41 | [BONNIE](https://open.spotify.com/track/5ecYZakfWTAKBT6JwJYmq3) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:44 |
 | 42 | [TRUE FICTION](https://open.spotify.com/track/1WSJOy4rfsuOiwQLrfAke7) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [ALI](https://open.spotify.com/album/5mAvOe8oCtB1rT4khPoLTQ) | 4:57 |
 
-Snapshot ID: `ZkqSgAAAAAC7S9aEeHY1W4YXVcul+oFj`
+Snapshot ID: `Zk01gAAAAACyXfgqULKPpRKaUbRBCMDW`

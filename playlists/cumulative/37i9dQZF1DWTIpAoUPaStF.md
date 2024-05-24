@@ -4,7 +4,7 @@
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-84 songs - 5 hr 19 min
+85 songs - 5 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Hard to Let Go](https://open.spotify.com/track/7lKN7pik3CelVWHWGp6DfB) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Hard to Let Go](https://open.spotify.com/album/0PboTq5CUcoilt6IJS2SQo) | 4:07 | 2023-01-17 | 2023-12-17 |
 | [Hard To Tell You](https://open.spotify.com/track/1QJQIDeX1bH0VxLGzUKTKK) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 5:00 | 2023-01-17 |  |
 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/0AlgkqrQnGTXJ0Onk2Ok95) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 2:52 | 2023-10-10 |  |
-| [Here Comes Your Man](https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Here Comes Your Man](https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi) | 2:24 | 2023-01-17 |  |
+| [Here Comes Your Man](https://open.spotify.com/track/4JRxVZxZDOe1z6k70K886l) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Here Comes Your Man](https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi) | 2:24 | 2023-01-17 | 2024-05-24 |
 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 | 2023-04-20 |  |
 | [I Saw You in the Blue](https://open.spotify.com/track/5ub9HfLeox5yJamTvYY1yo) | [People in Dreams](https://open.spotify.com/artist/2NS92kmIbk2cHK4NqhIewu) | [I Saw You in the Blue](https://open.spotify.com/album/2MBVu7t8kW1tjmDOtM7rgY) | 5:42 | 2023-08-10 | 2023-10-10 |
 | [If I Told](https://open.spotify.com/track/2Ckv1DTVTt5UPdnWutOO7h) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Old Flowers](https://open.spotify.com/album/5AytgSqS1iAmarw1kQ0fmI) | 4:58 | 2023-01-17 |  |
@@ -61,6 +61,7 @@
 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 | 2023-01-17 |  |
 | [Mood \- Acoustic](https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Mood \(Acoustic\)](https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc) | 2:55 | 2023-01-17 |  |
 | [Moonlight](https://open.spotify.com/track/3RGdTJbr4eWMS0upJntQAn) | [Future Islands](https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz) | [As Long As You Are](https://open.spotify.com/album/0Xb7fY98lbfsGdo9OdbC9W) | 3:38 | 2023-01-17 | 2024-04-19 |
+| [More Easily](https://open.spotify.com/track/4TJu2i1NcYxTgO0fFSk1Xf) | [Makushin](https://open.spotify.com/artist/7aYflwlSz6eBm0teArvEgl), [Andrew Wasylyk](https://open.spotify.com/artist/6eWBxi3noFhe59k8qdPbzG), [David A Jaycock](https://open.spotify.com/artist/3SMHagl0r9hdZ6fmiXnlM6) | [Move into the Luminous](https://open.spotify.com/album/5sML4aezLsPEnVJe4ObNxm) | 4:41 | 2024-05-23 |  |
 | [Mélancolie](https://open.spotify.com/track/7sybHzhjxg2vqSVBCY4u7t) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Mélancolie](https://open.spotify.com/album/6GBos4tSuQ5btdAosIyvxA) | 2:42 | 2023-01-17 |  |
 | [Never Tear Us Apart](https://open.spotify.com/track/6ApsMLGIa9zw446CrqxcEi) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Never Tear Us Apart](https://open.spotify.com/album/3aM9iFr4aGdb9S275yWRZk) | 3:18 | 2023-01-17 | 2023-10-01 |
 | [Nothing Else Matters](https://open.spotify.com/track/1guCON9841cQwAlbNplLsY) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Nothing Else Matters](https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41) | 4:34 | 2023-01-17 | 2024-04-19 |

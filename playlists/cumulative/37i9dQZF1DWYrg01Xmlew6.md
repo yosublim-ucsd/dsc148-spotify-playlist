@@ -4,7 +4,7 @@
 
 > Rap napoletano e il meglio della scena campana\. Geolier in cover, el pibe de oro 💙
 
-325 songs - 15 hr 6 min
+326 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | ['O NOMME](https://open.spotify.com/track/7vTtjwKa63wPERKQ3B7mlE) | [Big Effe](https://open.spotify.com/artist/5w0y7r1VtKCnWjnsyM4Inm) | ['O NOMME](https://open.spotify.com/album/0PWAS2mH0qvRuT5Pos0Q5Q) | 2:00 | 2022-07-14 | 2022-08-26 |
 | [0 In Tasca](https://open.spotify.com/track/6TTX5dhUU8hyyrOADiy1KZ) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Anthony](https://open.spotify.com/artist/4kAf149Iextkiu3MpCX4ut) | [0 In Tasca](https://open.spotify.com/album/6tZ1DGxKbvpbshXOredaKu) | 2:58 | 2022-11-22 |  |
 | [2 SECONDI](https://open.spotify.com/track/5EL2pGymrFM9jpVjBbsZhn) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI \- ATTO II](https://open.spotify.com/album/0aGXQkS5LTFhYswwXJ8vJ6) | 2:29 | 2023-04-06 | 2023-04-21 |
-| [2007](https://open.spotify.com/track/7sSICWhxNqMGtuUYGW0TyR) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [2007](https://open.spotify.com/album/0qptCmlp2ryf8ypgPRunIQ) | 2:42 | 2024-05-09 |  |
+| [2007](https://open.spotify.com/track/7sSICWhxNqMGtuUYGW0TyR) | [Pablo](https://open.spotify.com/artist/2v6DnAG79LafwKNHmyEhsJ), [Speranza](https://open.spotify.com/artist/0W0oW3iaBwbtcXqdDrfC6F) | [2007](https://open.spotify.com/album/0qptCmlp2ryf8ypgPRunIQ) | 2:42 | 2024-05-09 | 2024-05-24 |
 | [300](https://open.spotify.com/track/6sGjCLGlRhFrPJ54i5b343) | [Enzo Benz](https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P) | [300](https://open.spotify.com/album/3Hya24KHiKeSDruZiZRw84) | 2:18 | 2023-10-26 | 2023-12-15 |
 | [365 ANDROMEDA](https://open.spotify.com/track/0Sj67WJfyuGp06ABJH0B7M) | [Dome Flame](https://open.spotify.com/artist/5QWbGP2dTpUGHzxR6g0YLq), [Flyboy](https://open.spotify.com/artist/4UvqRWkkxG8KbXYzmxEYgJ), [Vinz Turner](https://open.spotify.com/artist/1FCRctfZKE42NfXqfLVs89) | [365 ANDROMEDA](https://open.spotify.com/album/5ZfoFzsKrOUJf0Ma2FBPRQ) | 3:45 | 2023-09-28 | 2023-10-13 |
 | [64 Bare](https://open.spotify.com/track/2hgdx2fVpYncIrV4IDMZoF) | [Ntò](https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96), [Baloo](https://open.spotify.com/artist/7fjRLtiDvaLA8CeqGCmEYA) | [64 Bare](https://open.spotify.com/album/03T2e774bXN4yNQzN9F3aj) | 2:41 | 2023-04-20 | 2023-05-12 |
@@ -300,6 +300,7 @@
 | [The Prayer](https://open.spotify.com/track/2a15qzOY3CVCPD5b79EmB1) | [J Lord](https://open.spotify.com/artist/1SDzdhISMGaEQzOCaJQ45C) | [NO MONEY MORE LOVE](https://open.spotify.com/album/3Ym605OOXFJfjw0cUSpq1l) | 2:31 | 2022-05-10 | 2022-05-17 |
 | [TIK TOK](https://open.spotify.com/track/20t5iixTDSQq5jzl1DO5pQ) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [TIK TOK](https://open.spotify.com/album/3HzyU4PxIww2bPHiqnGblG) | 2:39 | 2022-06-02 | 2022-07-08 |
 | [Tip Tap](https://open.spotify.com/track/01HIRt67ZPMDfNNByTdw88) | [Joka Diablo](https://open.spotify.com/artist/2y7MutJk3oS7vIcOCwv3YZ), [GIA](https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq) | [Tip Tap](https://open.spotify.com/album/2ZkmQGzySkO7KEzUF6lYlL) | 2:51 | 2023-11-02 | 2023-11-16 |
+| [Top](https://open.spotify.com/track/3wqoCPK5S7NpUavgvqo4HL) | [Lefar](https://open.spotify.com/artist/6SNUCXTHmzFQayw62hSCcV) | [Top](https://open.spotify.com/album/6EpgmYMlgURL6CmQrVjZye) | 2:25 | 2024-05-23 |  |
 | [TOP BOY ⨳ \(con GEOLIER\)](https://open.spotify.com/track/6sCcJIxOPP7GIKFGzDnYDu) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [OBE](https://open.spotify.com/album/2oT1W5fYFSfU3fz5Q55HWj) | 2:12 | 2022-05-10 | 2023-01-06 |
 | [TOP GAMMA \(feat\. Vettosi\)](https://open.spotify.com/track/3jRMMZ9mWADGUFJCCpN8hU) | [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ), [Vettosi](https://open.spotify.com/artist/0GaXpJSu3Ka0RPEVa35VPg) | [DON DADA](https://open.spotify.com/album/1aElHPJaZyQZkJ2OIwXWAu) | 2:49 | 2023-04-13 | 2023-04-28 |
 | [Topless](https://open.spotify.com/track/2HjM0ufsJtI0zBBeFIpEog) | [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM) | [Topless](https://open.spotify.com/album/6Vy5xxdBNkTyOC9fXVHV5X) | 3:00 | 2022-05-10 |  |

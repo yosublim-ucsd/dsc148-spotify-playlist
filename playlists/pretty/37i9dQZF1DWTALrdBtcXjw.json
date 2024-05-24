@@ -1,6 +1,6 @@
 {
   "description": "Instrumental Jazz to set the mood for a relaxed evening.",
-  "num_followers": 415979,
+  "num_followers": 415983,
   "original_name": "Jazzy Dinner",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Gone With The Wind",
-        "url": "https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa"
-      },
-      "artists": [
-        {
-          "name": "Gene Hart Trio",
-          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
-        }
-      ],
-      "duration_ms": 221893,
-      "name": "Gone With The Wind",
-      "url": "https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "June in January",
         "url": "https://open.spotify.com/album/0FCEbjfR4gIC3DTfFGFbxR"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 229063,
       "name": "June in January",
       "url": "https://open.spotify.com/track/1JZCH5xEj7DwhLpQIj1ZtX"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Gone With The Wind",
+        "url": "https://open.spotify.com/album/46eUBYqO4qQSYyi25RUPwa"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "duration_ms": 221893,
+      "name": "Gone With The Wind",
+      "url": "https://open.spotify.com/track/3XI87Etehc7cnY3mUSrLBl"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Everybody Gets the Blues",
-        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
-      },
-      "artists": [
-        {
-          "name": "Eric Reed",
-          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
-        }
-      ],
-      "duration_ms": 229226,
-      "name": "Everybody Gets the Blues",
-      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Faith",
         "url": "https://open.spotify.com/album/04onMzCeOjirI5PIDnA6i8"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 652440,
       "name": "All Things Considered",
       "url": "https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Everybody Gets the Blues",
+        "url": "https://open.spotify.com/album/5hgDmpI3ISYVnqZrpAZf2N"
+      },
+      "artists": [
+        {
+          "name": "Eric Reed",
+          "url": "https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU"
+        }
+      ],
+      "duration_ms": 229226,
+      "name": "Everybody Gets the Blues",
+      "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Moon and I",
-        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 267240,
-      "name": "Arthur Go",
-      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "From Here I See",
         "url": "https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 279253,
       "name": "At That Moment",
       "url": "https://open.spotify.com/track/4XZhdl2OpQUDgNqQlhlg03"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "The Moon and I",
+        "url": "https://open.spotify.com/album/6m6qm8MVQMJGvKTCXDuVe4"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 267240,
+      "name": "Arthur Go",
+      "url": "https://open.spotify.com/track/1sfMzwPc6P8VGi3osLXQFV"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Save US",
-        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
-      },
-      "artists": [
-        {
-          "name": "Dan Cray Trio",
-          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
-        }
-      ],
-      "duration_ms": 401813,
-      "name": "Summer In Central Park",
-      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Art of the Trio, Vol. 1",
         "url": "https://open.spotify.com/album/3MIOYuA2uqGXFiwDbBK9Fc"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Relaxin' with Nick",
-        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
+        "name": "Save US",
+        "url": "https://open.spotify.com/album/1FwITvBoG0Fq2FLNFLq9Ze"
       },
       "artists": [
         {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+          "name": "Dan Cray Trio",
+          "url": "https://open.spotify.com/artist/5OrAzdkis91EndJhMLu42l"
         }
       ],
-      "duration_ms": 459186,
-      "name": "Relaxin' with Nick",
-      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+      "duration_ms": 401813,
+      "name": "Summer In Central Park",
+      "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -955,6 +939,22 @@
       "duration_ms": 261236,
       "name": "Nico's Dream",
       "url": "https://open.spotify.com/track/3WpC7BGVmokob8XLVLudsb"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Relaxin' with Nick",
+        "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
+        }
+      ],
+      "duration_ms": 459186,
+      "name": "Relaxin' with Nick",
+      "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Eclypso",
-        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
-      },
-      "artists": [
-        {
-          "name": "Tommy Flanagan",
-          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "Denzil's Best",
-      "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Springtime",
         "url": "https://open.spotify.com/album/3x04mNNTmBJjQs9jymhaGv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 194866,
       "name": "Springtime",
       "url": "https://open.spotify.com/track/4j5uqScA9Gv7rgRMwaoReo"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Eclypso",
+        "url": "https://open.spotify.com/album/6kMgJ6Q7IPOVq7juX2uEfT"
+      },
+      "artists": [
+        {
+          "name": "Tommy Flanagan",
+          "url": "https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "Denzil's Best",
+      "url": "https://open.spotify.com/track/6IuiRJsGQ1pCqyGwc9lBgi"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Have You Met Miss Jones?",
-        "url": "https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ"
-      },
-      "artists": [
-        {
-          "name": "Alvin Queen Trio",
-          "url": "https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F"
-        }
-      ],
-      "duration_ms": 224014,
-      "name": "Have You Met Miss Jones?",
-      "url": "https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "I Remember Cedar",
         "url": "https://open.spotify.com/album/5kM4FI7fxp22Lro1mBnVTy"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 362760,
       "name": "Dear Ruth",
       "url": "https://open.spotify.com/track/45VPHeZWtLlm2xjQMwRNGn"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Have You Met Miss Jones?",
+        "url": "https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ"
+      },
+      "artists": [
+        {
+          "name": "Alvin Queen Trio",
+          "url": "https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F"
+        }
+      ],
+      "duration_ms": 224014,
+      "name": "Have You Met Miss Jones?",
+      "url": "https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "The Way You Look Tonight",
-        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
-      },
-      "artists": [
-        {
-          "name": "Gene Hart Trio",
-          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Dolphin Dance",
-      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Jeru",
         "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
       },
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "The Way You Look Tonight",
+        "url": "https://open.spotify.com/album/0nzNkXdsBxf7cvkBb19ihp"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Dolphin Dance",
+      "url": "https://open.spotify.com/track/4Gj72lKjVm63j0gMLGaKSM"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Bye Bye Blackbird",
         "url": "https://open.spotify.com/album/5USF8sfRWdOU5tsCBG5cWh"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 420055,
       "name": "Bye Bye Blackbird",
       "url": "https://open.spotify.com/track/3eCqeHM0bDAu5JRz1Zrlew"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Street Of Dreams",
+        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 321600,
+      "name": "Out Of Nowhere",
+      "url": "https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1495,22 +1511,6 @@
       "duration_ms": 483533,
       "name": "The Wrong Blues",
       "url": "https://open.spotify.com/track/1U6ECfrw3tPbKemNCW9sjC"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Street Of Dreams",
-        "url": "https://open.spotify.com/album/61y1rgjqARtBJxEn4WEPPr"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 321600,
-      "name": "Out Of Nowhere",
-      "url": "https://open.spotify.com/track/7yanq8mZzoDYMn7bWGtKIu"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Uptown, Downtown",
+        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 405973,
+      "name": "Bon ami",
+      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "2223",
         "url": "https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE"
       },
@@ -1635,22 +1651,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Stracci",
-        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
-      },
-      "artists": [
-        {
-          "name": "Michael Ragonese",
-          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
-        }
-      ],
-      "duration_ms": 376000,
-      "name": "I'll Be Seeing You",
-      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "The Town and the City",
         "url": "https://open.spotify.com/album/5smQKkZKie7KBLiuRS2sql"
       },
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Uptown, Downtown",
-        "url": "https://open.spotify.com/album/5sLAAuNixDNK7b91imiLfM"
+        "name": "Stracci",
+        "url": "https://open.spotify.com/album/6pCgHAbu0Yj4TOwnQ9kqv8"
       },
       "artists": [
         {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+          "name": "Michael Ragonese",
+          "url": "https://open.spotify.com/artist/0EjGd9H6W1MwrxignO2N4w"
         }
       ],
-      "duration_ms": 405973,
-      "name": "Bon ami",
-      "url": "https://open.spotify.com/track/48kO3iqHRhU77yKKBc8QCk"
+      "duration_ms": 376000,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/55tez5zrk52P4sV6yn3siJ"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
+        "name": "Relaxin'",
+        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther Trio",
+          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
+        }
+      ],
+      "duration_ms": 278906,
+      "name": "What's Up",
+      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 314133,
       "name": "Habbit Rabbit",
       "url": "https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "Relaxin'",
-        "url": "https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther Trio",
-          "url": "https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6"
-        }
-      ],
-      "duration_ms": 278906,
-      "name": "What's Up",
-      "url": "https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Laura",
-        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
-      },
-      "artists": [
-        {
-          "name": "Dena DeRose",
-          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
-        }
-      ],
-      "duration_ms": 288832,
-      "name": "Laura",
-      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Brian Lynch Meets Bill Charlap",
         "url": "https://open.spotify.com/album/48pBFx9vagHaifgJUnAl2w"
       },
@@ -1919,18 +1903,18 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "With Just A Word",
-        "url": "https://open.spotify.com/album/2Oo2IDL5MsYIpGT0BHQkGE"
+        "name": "Laura",
+        "url": "https://open.spotify.com/album/5f4u1UAeaEXeyxNRwbHcUu"
       },
       "artists": [
         {
-          "name": "Diego Rivera",
-          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+          "name": "Dena DeRose",
+          "url": "https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3"
         }
       ],
-      "duration_ms": 353860,
-      "name": "With Just A Word",
-      "url": "https://open.spotify.com/track/26sXeAD1FjmUoFjw6os2S0"
+      "duration_ms": 288832,
+      "name": "Laura",
+      "url": "https://open.spotify.com/track/0UwLwTTurSDXBzGQCfGno8"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1955,6 +1939,22 @@
       "duration_ms": 234511,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/4RDgqonbCp4dyv9iMYrxsF"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "With Just A Word",
+        "url": "https://open.spotify.com/album/2Oo2IDL5MsYIpGT0BHQkGE"
+      },
+      "artists": [
+        {
+          "name": "Diego Rivera",
+          "url": "https://open.spotify.com/artist/64stzun2YnwTHj56sc6Ufa"
+        }
+      ],
+      "duration_ms": 353860,
+      "name": "With Just A Word",
+      "url": "https://open.spotify.com/track/26sXeAD1FjmUoFjw6os2S0"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "Like in Love",
-        "url": "https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp"
-      },
-      "artists": [
-        {
-          "name": "Christine Jensen",
-          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
-        }
-      ],
-      "duration_ms": 366797,
-      "name": "Like in Love",
-      "url": "https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Remembering",
         "url": "https://open.spotify.com/album/2elaIEGm1mApCONikdISZD"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 360986,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/1pQyBAVelwGAMURXVBhpm7"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "Like in Love",
+        "url": "https://open.spotify.com/album/23WrIHXp4jqOUDqkpCfcxp"
+      },
+      "artists": [
+        {
+          "name": "Christine Jensen",
+          "url": "https://open.spotify.com/artist/6ILqwG2NEsYuwmqIzZ1Spu"
+        }
+      ],
+      "duration_ms": 366797,
+      "name": "Like in Love",
+      "url": "https://open.spotify.com/track/4MUP0AOSKzwsum43ZwifQW"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -2263,34 +2263,6 @@
     {
       "added_at": "2024-03-22 00:01:00",
       "album": {
-        "name": "This Morning",
-        "url": "https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs"
-      },
-      "artists": [
-        {
-          "name": "Thomas Agergaard",
-          "url": "https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Anders Kjellberg",
-          "url": "https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98"
-        }
-      ],
-      "duration_ms": 304042,
-      "name": "This Morning",
-      "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
-    },
-    {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
         "name": "Skylla",
         "url": "https://open.spotify.com/album/1pqpgB49R4Mtw8YvYFX2EZ"
       },
@@ -2323,6 +2295,34 @@
       "duration_ms": 457686,
       "name": "Skylla",
       "url": "https://open.spotify.com/track/3R8AWBWbqkWTvWx9Tjd16p"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "This Morning",
+        "url": "https://open.spotify.com/album/4dUC48CIoIQfW6oSQFbhJs"
+      },
+      "artists": [
+        {
+          "name": "Thomas Agergaard",
+          "url": "https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Anders Kjellberg",
+          "url": "https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98"
+        }
+      ],
+      "duration_ms": 304042,
+      "name": "This Morning",
+      "url": "https://open.spotify.com/track/27dFurQnD2C32fvTEcBS4V"
     },
     {
       "added_at": "2024-03-22 00:01:00",

@@ -1,13 +1,137 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6488,
+  "num_followers": 6489,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACWmKnMuESSDlyX8Hl1nF+D2BOsiRyk",
+  "snapshot_id": "AACWoSYV1TrOFUBulPS8DTBJTJQTnuWR",
   "tracks": [
+    {
+      "added_at": "2024-05-23 19:28:12",
+      "album": {
+        "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
+        "url": "https://open.spotify.com/album/3ZOz5WED7SNRykujcrvXUZ"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 167559,
+      "name": "Love Bites (Feat. Tove Lo & SG Lewis)",
+      "url": "https://open.spotify.com/track/3bgaDjKLaicRMFD3Vmw3wv"
+    },
+    {
+      "added_at": "2024-05-23 19:26:59",
+      "album": {
+        "name": "BRASIL",
+        "url": "https://open.spotify.com/album/4MUNeE0o3Y8uNm3umGmSf1"
+      },
+      "artists": [
+        {
+          "name": "Sila Lua",
+          "url": "https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR"
+        }
+      ],
+      "duration_ms": 149454,
+      "name": "BRASIL",
+      "url": "https://open.spotify.com/track/7uQJMBaqkHLselTqT5WoCO"
+    },
+    {
+      "added_at": "2024-05-23 19:27:12",
+      "album": {
+        "name": "Sexy to Someone",
+        "url": "https://open.spotify.com/album/281y6GLUpFfmSyBO7JMLfU"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 207795,
+      "name": "Sexy to Someone",
+      "url": "https://open.spotify.com/track/2Nq4SFbvYYZa8AF7lD7CWU"
+    },
+    {
+      "added_at": "2024-05-23 19:28:30",
+      "album": {
+        "name": "Lismar: Bzrp Music Sessions, Vol. 60",
+        "url": "https://open.spotify.com/album/2F27wEZD9UkLCllAk1Duh8"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        }
+      ],
+      "duration_ms": 171720,
+      "name": "Lismar: Bzrp Music Sessions, Vol. 60",
+      "url": "https://open.spotify.com/track/3lXq1YajbXv1UI1MoXW8JB"
+    },
+    {
+      "added_at": "2024-05-23 19:34:19",
+      "album": {
+        "name": "Tu Nirvana",
+        "url": "https://open.spotify.com/album/3OnLUxfIEoeeSFc34WQt0s"
+      },
+      "artists": [
+        {
+          "name": "Chica Sobresalto",
+          "url": "https://open.spotify.com/artist/4tRIJ4uToKp0kihbqnZJML"
+        }
+      ],
+      "duration_ms": 244908,
+      "name": "Tu Nirvana",
+      "url": "https://open.spotify.com/track/19kOH9HLyrwpNc46aZFDRx"
+    },
+    {
+      "added_at": "2024-05-23 19:26:37",
+      "album": {
+        "name": "UN PALACIO CON MIS HUESOS",
+        "url": "https://open.spotify.com/album/4pThb4Z0Jk5DsgiSqkM6MK"
+      },
+      "artists": [
+        {
+          "name": "Los Punsetes",
+          "url": "https://open.spotify.com/artist/1jr0mAgIhKtTeKTZwk0HjF"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "UN PALACIO CON MIS HUESOS",
+      "url": "https://open.spotify.com/track/2Khm1TiPetapBlVoy5e5hS"
+    },
+    {
+      "added_at": "2024-05-23 19:26:14",
+      "album": {
+        "name": "Quiero ser tu novia",
+        "url": "https://open.spotify.com/album/1gfNaJezPQpWZxiVKHklfn"
+      },
+      "artists": [
+        {
+          "name": "Masonier\u00eda",
+          "url": "https://open.spotify.com/artist/1UbMj4wG1Mu9Aow0jxclpU"
+        }
+      ],
+      "duration_ms": 146222,
+      "name": "Quiero ser tu novia",
+      "url": "https://open.spotify.com/track/1tCZRqh05Wed2FlW3FL179"
+    },
     {
       "added_at": "2024-05-17 04:11:51",
       "album": {

@@ -1949,6 +1949,28 @@
     },
     {
       "album": {
+        "name": "Feel The Sun (feat. Conor McLoughlin)",
+        "url": "https://open.spotify.com/album/3oDTaFDokKXBrEo3cMFSWv"
+      },
+      "artists": [
+        {
+          "name": "Axel Knox",
+          "url": "https://open.spotify.com/artist/5shjcniUWXXN8xRgMQCZOm"
+        },
+        {
+          "name": "Conor McLoughlin",
+          "url": "https://open.spotify.com/artist/4RXraxMiBQjbq7hiy8F2aw"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "Feel The Sun (feat. Conor McLoughlin)",
+      "url": "https://open.spotify.com/track/1qrp1bnCoZR6Gh8B1CLvn0"
+    },
+    {
+      "album": {
         "name": "Feels Like",
         "url": "https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65"
       },

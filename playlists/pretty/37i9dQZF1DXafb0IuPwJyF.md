@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,368 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 909,699 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 22 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
 | 23 | [偽顔](https://open.spotify.com/track/5g6gzyGYUD6RPGsIpj7S1O) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [偽顔](https://open.spotify.com/album/6vp7Fy3X466rpv4Gv8UciQ) | 2:30 |
 | 24 | [満ちてゆく](https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [満ちてゆく](https://open.spotify.com/album/6eRVinhid9kY4g0A9nUh5W) | 5:10 |
-| 25 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:12 |
+| 25 | [会いに行くのに](https://open.spotify.com/track/33KpGlVe9ZCvtOLeETCQPl) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [会いに行くのに](https://open.spotify.com/album/3GOytAyt6Be4ZCl6b6fIja) | 5:15 |
 | 26 | [忘レナ唄](https://open.spotify.com/track/4wjephTaBH2vOoRz4vlPnE) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [忘レナ唄](https://open.spotify.com/album/4kRc9bI5HWHzFOqvTRnDHW) | 2:56 |
 | 27 | [Get Wild](https://open.spotify.com/track/4u3Xyot6RXdzrwbJq2cdgC) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [Get Wild](https://open.spotify.com/album/1Fm21EmKUIntsVv1QviIoI) | 4:15 |
 | 28 | [遥か](https://open.spotify.com/track/6At8fG853JqHaZP72oONtA) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か](https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93) | 3:11 |

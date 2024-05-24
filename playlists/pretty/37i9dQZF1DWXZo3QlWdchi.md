@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 
 > O melhor do rock acústico nacional e internacional para curtir e relaxar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,398 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,449 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,11 +71,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXZo3QlWdchi.md) - [plain]
 | 61 | [Todo Esse Querer \- Ao Vivo](https://open.spotify.com/track/6yF2bqWYzQZ9OrHvluR01O) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Todo Esse Querer \(Ao Vivo\)](https://open.spotify.com/album/1ZSXqXYxSowAAmmp4TnZW2) | 3:19 |
 | 62 | [Céu Azul \(Ao Vivo\)](https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Música Popular Caiçara \(Ao Vivo\)](https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU) | 3:16 |
 | 63 | [Pra Dizer Adeus \- Trio Acústico](https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl) | [Pra Dizer Adeus \(Trio Acústico\)](https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g) | 3:44 |
-| 64 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
-| 65 | [Come As You Are](https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 4:13 |
-| 66 | [Infinita Highway \- Ao Vivo](https://open.spotify.com/track/4a95GqfQBhSYFzF23JB2eC) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [Acústico \(Live\)](https://open.spotify.com/album/5PAME5xiXlJgEGB95zsbhI) | 4:18 |
-| 67 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
-| 68 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
+| 64 | [Stand by Me \- Recorded at RAK Studios, London](https://open.spotify.com/track/2Gq0jYYpUnuw7rG81bMXya) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/2mFyFiDQfooOHmngJkmIXO) | 3:03 |
+| 65 | [Fast Car](https://open.spotify.com/track/6Vjch0N0MK9NZ5piuLZHv1) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fast Car b/w Fire](https://open.spotify.com/album/71iDfOWbiVriNL3FnD6fFJ) | 5:42 |
+| 66 | [Come As You Are](https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [MTV Unplugged In New York](https://open.spotify.com/album/5pbjLidJuoty9QUOy6X682) | 4:13 |
+| 67 | [Infinita Highway \- Ao Vivo](https://open.spotify.com/track/4a95GqfQBhSYFzF23JB2eC) | [Engenheiros Do Hawaii](https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7) | [Acústico \(Live\)](https://open.spotify.com/album/5PAME5xiXlJgEGB95zsbhI) | 4:18 |
+| 68 | [Here Without You \- Acoustic Version](https://open.spotify.com/track/6oyUroY42HiaD9Q9VBw4BP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Seventeen Days \(International Version\)](https://open.spotify.com/album/5vGmRi8jMNCvmysQgBBhpx) | 3:52 |
 | 69 | [Fare Thee Well](https://open.spotify.com/track/31WvlK2vEalVKWHJNLu9T9) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Fare Thee Well](https://open.spotify.com/album/5au7oNwns9gXVgpOdIh414) | 4:21 |
 | 70 | [Society](https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Music For The Motion Picture Into The Wild](https://open.spotify.com/album/0AF0eSjB3atcLpJ7gQBop5) | 3:56 |
 | 71 | [Dança do Tempo \- Ao Vivo](https://open.spotify.com/track/4kW7M7L7LRPuPc3sO5yWi7) | [Nenhum De Nós](https://open.spotify.com/artist/3bKO3mmizIpDdwNVdp96B9) | [A Céu Aberto \(Ao Vivo\)](https://open.spotify.com/album/2oX5IyR0rz8gSsEMRdv8Ju) | 4:04 |

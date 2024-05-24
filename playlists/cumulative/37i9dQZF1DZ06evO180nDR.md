@@ -2,7 +2,7 @@
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This is Los Dareyes De La Sierra\. The essential tracks, all in one playlist.
+> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
 108 songs - 5 hr 46 min
 
@@ -32,7 +32,7 @@
 | [De Fresa y Coco](https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Fresa y Coco](https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM) | 2:45 | 2023-12-13 |  |
 | [De Tu Oído A Tu Ombligo](https://open.spotify.com/track/6fRf2VxMjBMtSGD7j0ienu) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Sangre Guerrera](https://open.spotify.com/album/6NmdqOtyUIY4ZuMMf8d0kR) | 3:09 | 2022-06-01 | 2022-12-19 |
 | [Del 1 Al 10](https://open.spotify.com/track/0u3y6hlc0KncC6xBnm648F) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Los Plebes del Rancho](https://open.spotify.com/artist/2I2kAQzySYBAvqM4XltnUB) | [Del 1 Al 10](https://open.spotify.com/album/5bo7EIf3DAxYlnmOOM2rcR) | 2:55 | 2022-10-09 | 2022-10-31 |
-| [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 | 2022-06-01 |  |
+| [Dichos Y Grandes](https://open.spotify.com/track/6N9UZ5TbSrs9V6RGa9uv2V) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dichos Y Grandes](https://open.spotify.com/album/7p1p2zwwgFzmuky82s7URf) | 3:18 | 2022-06-01 | 2024-05-24 |
 | [Dueña De Mi Vida](https://open.spotify.com/track/1aZ6Zxjsohp85AEUPhJkCm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 4:11 | 2022-06-01 | 2023-05-18 |
 | [El Barba Cerrada](https://open.spotify.com/track/3yPy39fL0VgdCflXgbJZjc) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Mis Favoritas](https://open.spotify.com/album/3U8i98qh9vg0OzxkQsV0dd) | 2:23 | 2022-06-01 | 2023-09-26 |
 | [El Cache](https://open.spotify.com/track/3gtirxuuJWHJ1kInwCTsbo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [El Cache](https://open.spotify.com/album/5XVx3rhlBrWHjXt1D0O3Jz) | 3:17 | 2023-01-22 |  |
@@ -65,7 +65,7 @@
 | [La Carrucha \(En Vivo\)](https://open.spotify.com/track/7n9KJBLvSgJONM6Ow59fU2) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Carrucha \(En Vivo\)](https://open.spotify.com/album/2vI8Aflm0jIOqszgQuGaTG) | 3:21 | 2022-08-19 |  |
 | [La Mas Bonita De Todas](https://open.spotify.com/track/4cFSwcJFUiOQJckhkEvSEn) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Dueña De Mi Vida](https://open.spotify.com/album/6f5nr9l9CD2OJYgPPKAWxS) | 3:29 | 2022-06-01 |  |
 | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/track/3f6tKxLFAOtpo5dJ4Fv9hY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Mercedes Cuadradita \(En Vivo\)](https://open.spotify.com/album/77qwbVpJge8AbCHu0OPIoq) | 2:35 | 2023-06-17 |  |
-| [La Neta \- En Vivo](https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Parranda Con Darey \(En Vivo\)](https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2) | 3:23 | 2024-02-29 | 2024-04-29 |
+| [La Neta \- En Vivo](https://open.spotify.com/track/2IKNbUKTFTaN5Tflyg9wTm) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [De Parranda Con Darey \(En Vivo\)](https://open.spotify.com/album/3oIBYT7NlLS89k4yu80Mj2) | 3:23 | 2024-02-29 |  |
 | [La Plebada \(En Vivo\)](https://open.spotify.com/track/0AdIPj093vFCO7t95TWak4) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Plebada \(En Vivo\)](https://open.spotify.com/album/4XXYvofbCf6KV5ZkHGw7fq) | 3:38 | 2022-12-25 |  |
 | [La Pobreza Buena](https://open.spotify.com/track/6znmbSFyJDp4diXQWO5QW8) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [La Pobreza Buena](https://open.spotify.com/album/5pvt7RiMn0dNrzHbxg2NAI) | 3:29 | 2023-09-12 |  |
 | [La Recia](https://open.spotify.com/track/5PGbQgXt8bgXceoK3yZvYo) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Con Banda](https://open.spotify.com/album/27FFh23ETG95tHvD61nGVV) | 2:30 | 2022-06-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,915 likes - 156 songs - 6 hr 5 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,076,887 likes - 156 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 74 | [All My Heroes \- Radio Edit](https://open.spotify.com/track/0TRmtiR9q6XnYDzXmoMpGC) | [Naeleck](https://open.spotify.com/artist/2DYDFBqoaBP2i9XrTGpOgF), [Sarah Rebecca](https://open.spotify.com/artist/58obmxGKVKCenZAkACSMgJ) | [All My Heroes](https://open.spotify.com/album/47ivZmuVI0HboDeCl6uOZv) | 3:48 |
 | 75 | [WARNING \- Sped Up](https://open.spotify.com/track/5MNfAmHvsqOliIxtwiFzsz) | [MC ORSEN](https://open.spotify.com/artist/2DXPtOc14uPVvK7qggj2a3) | [WARNING \(Sped Up\)](https://open.spotify.com/album/2oRa8uJdTOrDSWvWAy50A3) | 1:48 |
 | 76 | [unhinged](https://open.spotify.com/track/6zBGVU0ujMxmR9Yh0UPHkt) | [MEMBER](https://open.spotify.com/artist/0ifDzAhf5knfZyaUiG4Deu) | [PHANTXM](https://open.spotify.com/album/3EDDKjhTkIRDks9bTRRIkm) | 1:17 |
-| 77 | [Bad Love](https://open.spotify.com/track/104c6x4o1kxkH43BSrf2yF) | [GHOSTSHELL](https://open.spotify.com/artist/4FJ25XspafyulObwr5aFIr), [Mannequin](https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj) | [Bad Love](https://open.spotify.com/album/3I0quc3eR6vaxcrhZ0YCSi) | 2:02 |
+| 77 | [Bad Love](https://open.spotify.com/track/104c6x4o1kxkH43BSrf2yF) | [Mannequin](https://open.spotify.com/artist/3btewOJD9jMKKrn5IV7nFj), [GHOSTSHELL](https://open.spotify.com/artist/4FJ25XspafyulObwr5aFIr) | [Bad Love](https://open.spotify.com/album/3I0quc3eR6vaxcrhZ0YCSi) | 2:02 |
 | 78 | [Close To You](https://open.spotify.com/track/5B3RDzL1l1CL7lsZHByLKb) | [Jason Paris](https://open.spotify.com/artist/2vWWmyRebvvhNCRbF1471f) | [Close To You](https://open.spotify.com/album/6C4BDgGd2iloHYTw9BmFYC) | 2:52 |
 | 79 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 80 | [Cadência Funk](https://open.spotify.com/track/4d5vfu8ujm9IV12PIm9q9P) | [Xanctum](https://open.spotify.com/artist/18fENKDD5BDuHtXLu41hd0), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [ZERO PAIN](https://open.spotify.com/artist/4bKlA6SN28EGxDz4EyqMjm) | [Cadência Funk](https://open.spotify.com/album/4qhmeisrSfwI3c8gBRxMqv) | 1:08 |

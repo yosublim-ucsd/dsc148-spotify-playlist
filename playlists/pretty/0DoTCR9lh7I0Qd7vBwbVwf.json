@@ -6,7 +6,7 @@
     "name": "\u2728",
     "url": "https://open.spotify.com/user/3176nsyzo32qgmsfbjnlnrn7r5pu"
   },
-  "snapshot_id": "AAAAQnTv+YaJfkCftiSJvAtcTvTkF+AU",
+  "snapshot_id": "AAAARH/nbkmTy2LrrHlNQJ+qn+k5gOlg",
   "tracks": [
     {
       "added_at": "2024-05-14 20:57:17",
@@ -1383,6 +1383,22 @@
       "duration_ms": 98461,
       "name": "In the Moment",
       "url": "https://open.spotify.com/track/6hCMEyCM5dzCmp7a2mQQqZ"
+    },
+    {
+      "added_at": "2024-05-23 22:08:51",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/6ed9BSIkbZbE8yLd75u4Xp"
+      },
+      "artists": [
+        {
+          "name": "SBLofi",
+          "url": "https://open.spotify.com/artist/5GvBH3MfgyjnNR8XXgUaxD"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/78uUlvKMvsJTXvbeiyauEA"
     },
     {
       "added_at": "2024-05-20 11:04:02",
@@ -3287,6 +3303,22 @@
       "duration_ms": 148000,
       "name": "Sleep in Your Dream",
       "url": "https://open.spotify.com/track/40bwXB8yC68sgKkxNeIyAL"
+    },
+    {
+      "added_at": "2024-05-23 17:40:07",
+      "album": {
+        "name": "Same Feeling",
+        "url": "https://open.spotify.com/album/1BIEdvjZGr0NEfUvemWfEl"
+      },
+      "artists": [
+        {
+          "name": "Eccho",
+          "url": "https://open.spotify.com/artist/2P6ilsRk53hUPgnH3YJWpU"
+        }
+      ],
+      "duration_ms": 154400,
+      "name": "Same Feeling",
+      "url": "https://open.spotify.com/track/1W2QJ2XT5XVfbseSuFTMh5"
     }
   ],
   "unique_name": "FOCUS MUSIC \ud83c\udfa7\u2601\ufe0f\u2728 music for deep focus, deep work, study concentration music",

@@ -1692,7 +1692,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 168120,
       "name": "Rainy Driver",
       "url": "https://open.spotify.com/track/7svKQMA0pJZmeYejScMa3G"
@@ -1924,6 +1924,24 @@
       "duration_ms": 210733,
       "name": "Silent shout",
       "url": "https://open.spotify.com/track/2eWUMBfGziwsw8HHUHMg7W"
+    },
+    {
+      "album": {
+        "name": "sister",
+        "url": "https://open.spotify.com/album/0cVF2WkVGfPsebD9GpRfGu"
+      },
+      "artists": [
+        {
+          "name": "\u30c1\u30e7\u30fc\u30ad\u30e5\u30fc\u30e1\u30a4",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234993,
+      "name": "sister",
+      "url": "https://open.spotify.com/track/2neojiNTVF8n3ppd05DCG7"
     },
     {
       "album": {
@@ -2276,7 +2294,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 251034,
       "name": "UTAGE",
       "url": "https://open.spotify.com/track/47x0mvA6GmBnY6zIgKCrdN"
@@ -2345,6 +2363,32 @@
     },
     {
       "album": {
+        "name": "Vision feat. JESSE",
+        "url": "https://open.spotify.com/album/6dYtcdLBBO8Uj8SqkJw1DR"
+      },
+      "artists": [
+        {
+          "name": "JUBEE",
+          "url": "https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba"
+        },
+        {
+          "name": "JESSE",
+          "url": "https://open.spotify.com/artist/1piiwMSnN21hrtRzpJ11ef"
+        },
+        {
+          "name": "AWSM.",
+          "url": "https://open.spotify.com/artist/0GLh9QasGtr2G7EeC80Io6"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232578,
+      "name": "Vision feat. JESSE",
+      "url": "https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2"
+    },
+    {
+      "album": {
         "name": "Welcome to My Castle",
         "url": "https://open.spotify.com/album/7gkjbmsbhiXCDPmKYGPk2l"
       },
@@ -2381,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "WOKE UP",
+        "url": "https://open.spotify.com/album/2e9eizo3Euh2aaBef2B2bw"
+      },
+      "artists": [
+        {
+          "name": "XG",
+          "url": "https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188010,
+      "name": "WOKE UP",
+      "url": "https://open.spotify.com/track/4keuUM29CtIWgsPRzRhXoW"
+    },
+    {
+      "album": {
         "name": "Wrecked",
         "url": "https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1"
       },
@@ -2414,6 +2476,24 @@
       "duration_ms": 264616,
       "name": "Yotei",
       "url": "https://open.spotify.com/track/0sUt0usKLBjhcNjtetMU3g"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/7sXKtNSDdHLOipBi2PeUSq"
+      },
+      "artists": [
+        {
+          "name": "808",
+          "url": "https://open.spotify.com/artist/0HajkTlreHDUAVVFx72ci7"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222352,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0zTkGAcW8rSKudSDgAzRwN"
     },
     {
       "album": {
@@ -2508,7 +2588,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 201471,
       "name": "\u3042\u308f\u3044\u306b",
       "url": "https://open.spotify.com/track/1frzEIThDJKzds4I7aPP95"
@@ -2696,7 +2776,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 242495,
       "name": "\u30a2\u30f3\u30d3\u30d0\u30ec\u30f3\u30c8",
       "url": "https://open.spotify.com/track/5uYnVpwOGOaiXTJmhNd62P"
@@ -2714,7 +2794,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 204916,
       "name": "\u30a4\u30f3\u30bd\u30e0\u30cb\u30a2",
       "url": "https://open.spotify.com/track/2bjMRVAaaIwZVN2MtJCvok"
@@ -3382,7 +3462,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 157500,
       "name": "\u30e9\u30f4\u30a3\u30a6\u30b9",
       "url": "https://open.spotify.com/track/7F9FbiNXZGi1iAkCRCxQZW"
@@ -3552,7 +3632,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 127925,
       "name": "\u5168\u65b9\u5411\u7f8e\u5c11\u5973",
       "url": "https://open.spotify.com/track/5qqqgLXECWbgaKLlq4YWkS"
@@ -3664,6 +3744,24 @@
       "duration_ms": 189772,
       "name": "\u5531",
       "url": "https://open.spotify.com/track/7o0TPSw494RG2Q4iWmd1v6"
+    },
+    {
+      "album": {
+        "name": "\u5618\u3058\u3083\u306a\u3044",
+        "url": "https://open.spotify.com/album/0mr3594rcsk9iPlB3Py72x"
+      },
+      "artists": [
+        {
+          "name": "ZUTOMAYO",
+          "url": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258633,
+      "name": "\u5618\u3058\u3083\u306a\u3044",
+      "url": "https://open.spotify.com/track/5tB3jH72pfXtVlwDxpiIlq"
     },
     {
       "album": {
@@ -4225,6 +4323,24 @@
     },
     {
       "album": {
+        "name": "\u857e",
+        "url": "https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V"
+      },
+      "artists": [
+        {
+          "name": "Omoinotake",
+          "url": "https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193012,
+      "name": "\u857e",
+      "url": "https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI"
+    },
+    {
+      "album": {
         "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
         "url": "https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v"
       },
@@ -4312,6 +4428,24 @@
       "duration_ms": 181392,
       "name": "\u901a\u308a\u96e8",
       "url": "https://open.spotify.com/track/380Ie5zoE1prroPeuNquXH"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30f4\u30a9\u30ea\u30e5\u30fc\u30b7\u30e7\u30f3",
+        "url": "https://open.spotify.com/album/6ZNMQgMmhyqw38uhADJWUN"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139200,
+      "name": "\u904a\u661fX",
+      "url": "https://open.spotify.com/track/4b027Us1fdSWTYKOHdACIE"
     },
     {
       "album": {

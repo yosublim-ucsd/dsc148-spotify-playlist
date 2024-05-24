@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : aupinard",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : IPNDEGO",
   "name": "le miel",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 199899,
       "name": "A toi",
       "url": "https://open.spotify.com/track/3B2ijizmagthifN7M7F4Zf"
@@ -262,6 +262,24 @@
       "duration_ms": 185142,
       "name": "Bijoux",
       "url": "https://open.spotify.com/track/1yCn9NNBPCJRud3aE5su7d"
+    },
+    {
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3cDMxOkv64VsVCaw6XJbnx"
+      },
+      "artists": [
+        {
+          "name": "nass\u00edm",
+          "url": "https://open.spotify.com/artist/2Ck4xqhvgQlBJtUxVPGCIn"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231168,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/7pBtMjYw5KJROQpkFZL6Ta"
     },
     {
       "album": {
@@ -937,6 +955,28 @@
     },
     {
       "album": {
+        "name": "Ensemble Toujours",
+        "url": "https://open.spotify.com/album/65r7wWrzWzdIzjgC31gCeC"
+      },
+      "artists": [
+        {
+          "name": "Gaspard Sommer",
+          "url": "https://open.spotify.com/artist/6c1ibSbg24losduxdCgy7C"
+        },
+        {
+          "name": "Elena",
+          "url": "https://open.spotify.com/artist/6zS96Y9IdxHnw07HWY5Dxr"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191621,
+      "name": "Gravit\u00e9",
+      "url": "https://open.spotify.com/track/5hgixUt055yq33WAXjrhQd"
+    },
+    {
+      "album": {
         "name": "Heartbreak Hotel",
         "url": "https://open.spotify.com/album/0V2q0YRGAOMIRIsG36UtBm"
       },
@@ -1002,7 +1042,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 188630,
       "name": "HIVER SOLEIL",
       "url": "https://open.spotify.com/track/4NsoWOlbqgiV6D32n4vzvR"
@@ -1122,7 +1162,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 250080,
       "name": "Idoles",
       "url": "https://open.spotify.com/track/3XAq5S6j6tceMe1B1t9GwX"
@@ -1216,7 +1256,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207499,
       "name": "Je me souviens de tout",
       "url": "https://open.spotify.com/track/45I253r1lTUbsOFwHWVe7K"
@@ -1328,6 +1368,24 @@
       "duration_ms": 203440,
       "name": "L'olivier",
       "url": "https://open.spotify.com/track/34oCxdqZUr1kfSQNYQJWKq"
+    },
+    {
+      "album": {
+        "name": "La Bague",
+        "url": "https://open.spotify.com/album/7mlw9MKQyNzFHxCxDxeVmZ"
+      },
+      "artists": [
+        {
+          "name": "IPNDEGO",
+          "url": "https://open.spotify.com/artist/1NnXEta54oioiS58v4Ahrj"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213970,
+      "name": "La Bague",
+      "url": "https://open.spotify.com/track/5GB3DnQgBrtIUkHkqLB8cP"
     },
     {
       "album": {
@@ -1666,6 +1724,24 @@
       "duration_ms": 137368,
       "name": "Mauvais Pressentiment",
       "url": "https://open.spotify.com/track/7D5CKBjZ1ylncHKMUAm5bU"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/5Yfg3THQwygemzpktY6K0Z"
+      },
+      "artists": [
+        {
+          "name": "Keziah",
+          "url": "https://open.spotify.com/artist/3CuHmC1rd8RvFdFhcn7467"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164102,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/1dDe7WuXUZfZGtdezs1zvm"
     },
     {
       "album": {
@@ -2468,7 +2544,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-05-24",
       "duration_ms": 207360,
       "name": "Sans r\u00e9ponse",
       "url": "https://open.spotify.com/track/6MgTIxyaLffsfYrGeqloib"
@@ -2580,6 +2656,24 @@
       "duration_ms": 195630,
       "name": "SIAMAJ",
       "url": "https://open.spotify.com/track/5Qwqgw6FcQKzxkljmS10qT"
+    },
+    {
+      "album": {
+        "name": "SILENCE",
+        "url": "https://open.spotify.com/album/7f2oLCnpsvwQFH8wZlmoUG"
+      },
+      "artists": [
+        {
+          "name": "Clo\u00e9 Mailly",
+          "url": "https://open.spotify.com/artist/2Ekb814CvFDXc3uls3S8EG"
+        }
+      ],
+      "date_added": "2024-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177578,
+      "name": "SILENCE",
+      "url": "https://open.spotify.com/track/2df5EnYpqSVcGSsvyWlmXt"
     },
     {
       "album": {

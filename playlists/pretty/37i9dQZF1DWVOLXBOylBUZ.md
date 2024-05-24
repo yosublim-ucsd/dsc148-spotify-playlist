@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Maluma y Pirlo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 512,687 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 512,725 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

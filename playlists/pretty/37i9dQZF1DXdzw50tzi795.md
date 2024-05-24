@@ -2,24 +2,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 ### [ฉันฟังเพลงไทย](https://open.spotify.com/playlist/37i9dQZF1DXdzw50tzi795)
 
-> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: BOWKYLION
+> เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Goy Arachaporn
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,558 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,680 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 1 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
 | 2 | [ซ่อน\(ไม่\)หา](https://open.spotify.com/track/759xYXTgNDGU6i6FH4kruy) | [Jeff Satur](https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB) | [ซ่อน\(ไม่\)หา](https://open.spotify.com/album/31dukmU9drXyFzMiyK4eq4) | 3:54 |
-| 3 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |
-| 4 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
-| 5 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 |
-| 6 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
-| 7 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
-| 8 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
-| 9 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
-| 10 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 |
-| 11 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 |
-| 12 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 3 | [จำนน \(White Flag\)](https://open.spotify.com/track/5jj7yXcilVsZPpyYtmD28X) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [จำนน \(White Flag\)](https://open.spotify.com/album/7hxZ6ENhTfRAqYTAIO5DYH) | 4:09 |
+| 4 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 5 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 |
+| 6 | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/track/28uUXmHx13AZ1nkl57vCwN) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [ส่วนต่าง \(do it without me\)](https://open.spotify.com/album/7HfFwe6RcWEiSMxNSTWf6f) | 3:17 |
+| 7 | [ยินดี \- เพลงประกอบละครมาตาลดา ช่อง 3](https://open.spotify.com/track/5DMALWZOGyyc7noptzvF2j) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [ยินดี \(เพลงประกอบละครมาตาลดา ช่อง 3\)](https://open.spotify.com/album/5skwuuqk7j41mujAtTiJYK) | 3:17 |
+| 8 | [รถไฟบนฟ้า](https://open.spotify.com/track/6BqnE3hiqtywrLMJ3ulYDp) | [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [รถไฟบนฟ้า](https://open.spotify.com/album/5boT1tGdFqjrzzDSqLrrsC) | 4:16 |
+| 9 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
+| 10 | [ใจลอย](https://open.spotify.com/track/3MIVadmVbWGZR0VzNceGt1) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [ใจลอย](https://open.spotify.com/album/0qmKBO8NsxqowXTbcXpSiG) | 3:17 |
+| 11 | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/track/7gPJ0LnpLQOhqH1Gx13cwv) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่ไหนแค่นั้น \(NO MATTER WHAT\)](https://open.spotify.com/album/5EQtkWX5MZxXIe7QhGVxvt) | 4:38 |
+| 12 | [สวยงามเสมอ \(Ever\-Forever\) \- Ost\. หลานม่า](https://open.spotify.com/track/5Bs2KbKUeNHM25x8t1DBTF) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [สวยงามเสมอ \(Ever\-Forever\) \[Ost\. หลานม่า\]](https://open.spotify.com/album/2NLjV6ULahC8NVfjWSlsOv) | 3:41 |
 | 13 | [ลูกคุณหนู](https://open.spotify.com/track/7n8XxOyeEnGBNJ7u5ClhCn) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ลูกคุณหนู \- Single](https://open.spotify.com/album/57EbfAqOQkxyqeevvBmQCj) | 3:48 |
 | 14 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 |
 | 15 | [เมร่อน](https://open.spotify.com/track/3KSS2LFdimgKRcs4ZamWyv) | [Juepak](https://open.spotify.com/artist/4hyjpRJFaQcXR63Wfpjd3D), [จ๊ะ นงผณี](https://open.spotify.com/artist/2kw9oKRxdRVnymE4kd3BgE), [GUNNER](https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv) | [เมร่อน](https://open.spotify.com/album/1tDF30Fp2KCtoI2Ag4GX9Y) | 2:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 46 | [เพลงรักในวันลา](https://open.spotify.com/track/1uJbdRLz38VTAXxhyXRC85) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [เพลงรักในวันลา](https://open.spotify.com/album/5Dl2n6GdOhYSroqNGsh5Lf) | 4:28 |
 | 47 | [เพลงรักเพลงแรก \- Blooming](https://open.spotify.com/track/79S6mQUxOs8ANRmJTS7agU) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [เพลงรักเพลงแรก \(Blooming\)](https://open.spotify.com/album/6ZUJeCFflkdXgz1p8LSmP4) | 4:17 |
 | 48 | [รักแรก \(First Love\) \[เพลงประกอบภาพยนตร์ รักแรกโคตรลืมยาก My Precious\]](https://open.spotify.com/track/5Zlwu2g4rzTNfyu28L1bWv) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [รักแรก \(First Love\) \- Single](https://open.spotify.com/album/0ekYRFwm00v69rJfTS0W3s) | 4:26 |
-| 49 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 |
-| 50 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 |
+| 49 | [ปล่อยดาว](https://open.spotify.com/track/1fUncVCIUnmf6qihsRkoBE) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [ปล่อยดาว](https://open.spotify.com/album/3Hpw5tqpBFDW85WnumEVTF) | 4:13 |
+| 50 | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/track/5LEp7WRnb0T3L2R2mTa9IZ) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [เธอไม่ได้สอนให้ฉันอยู่คนเดียว](https://open.spotify.com/album/1iNdy5mlsxdjbXgbMg1c8W) | 4:37 |
 
-Snapshot ID: `ZkZJRwAAAACel3X/EyKsYMUKvsI8U0HY`
+Snapshot ID: `Zk+QcAAAAABzM9ULx7B/08UCd3ZNEdza`

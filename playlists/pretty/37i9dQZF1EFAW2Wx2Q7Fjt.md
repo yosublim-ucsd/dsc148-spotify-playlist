@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,962 likes - 122 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,965 likes - 122 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 121 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 | 122 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 
-Snapshot ID: `AbSCwgAAAABBtyAetzyuc1GUPMSwKekq`
+Snapshot ID: `AbSIYgAAAACKFn0T4n6vxb+Twyn0+3uz`
